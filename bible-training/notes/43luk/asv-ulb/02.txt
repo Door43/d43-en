@@ -191,9 +191,9 @@ your father and I sought you sorrowing.
 The ASV text is copied to the ULB column as a draft. Please update the ULB in the left column as needed.
 
 ^  ULB  ^  ASV  ^
-| first | <usfm> 
+| Text in first column | <usfm> 
 \c 1
-second 
+second column
 </usfm> |
 
 
