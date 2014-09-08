@@ -3,7 +3,7 @@
 The ASV text is copied to the ULB column as a draft. Please update the ULB in the left column as needed.
 
 ^  ULB  ^  ASV  ^
-| \c 2
+|\c 2
 \p
 \v 1 Now it came to pass in those days, there went out a decree from Caesar Augustus, that all the world should be enrolled.
 \v 2 This was the first enrolment made when Quirinius was governor of Syria.
@@ -92,8 +92,8 @@ your father and I sought you sorrowing.
 \v 51 And he went down with them, and came to Nazareth; and he was subject to them: and his mother kept all
 \add these\add* sayings in her heart.
 \p
-\v 52 And Jesus advanced in wisdom and stature, and in favor with God and men.|<usfm>
-\c 2
+\v 52 And Jesus advanced in wisdom and stature, and in favor with God and men.
+|<usfm> \c 2
 \p
 \v 1 Now it came to pass in those days, there went out a decree from Caesar Augustus, that all the world should be enrolled.
 \v 2 This was the first enrolment made when Quirinius was governor of Syria.
