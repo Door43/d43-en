@@ -2,8 +2,7 @@
 
 The ASV text is copied to the ULB column as a draft. Please update the ULB in the left column as needed.
 
-^  ULB  ^  ASV  ^
-| \c 2 
+^  ULB  ^  ASV  ^ | \c 2 
 \p 
 \v 1 Now it came to pass in those days, there went out a decree from Caesar Augustus, that all the world should be enrolled.
 \v 2 This was the first enrolment made when Quirinius was governor of Syria.
