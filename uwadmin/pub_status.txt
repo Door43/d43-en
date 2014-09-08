@@ -1,0 +1,13 @@
+====== unfoldingWord OBS Published Languages ======
+
+===== ru =====
+^Language   ^Publish Date   ^Version    ^Checking Level ^
+|  [[:en:uwadmin:ru:obs:status|Русский]]  |  2014-07-29  |  2.1  |  {{http://api.unfoldingword.org/obs/jpg/1/checkinglevels/uW-Level1-32px.png}}  |
+
+===== es =====
+^Language   ^Publish Date   ^Version    ^Checking Level ^
+|  [[:en:uwadmin:es:obs:status|Español]]  |  2014-07-31  |  2.1  |  {{http://api.unfoldingword.org/obs/jpg/1/checkinglevels/uW-Level1-32px.png}}  |
+
+===== en =====
+^Language   ^Publish Date   ^Version    ^Checking Level ^
+|  [[:en:uwadmin:en:obs:status|English]]  |  2014-08-11  |  3.1  |  {{http://api.unfoldingword.org/obs/jpg/1/checkinglevels/uW-Level3-32px.png}}  |

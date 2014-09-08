@@ -1,0 +1,145 @@
+====== Open Bible Stories Translation Training ======
+
+
+Translating content in Door43 is easy! Follow these simple steps to get started:
+
+
+===== 1. Get Started =====
+
+
+You need an account in the Door43 website to edit stories. Go here to learn how to create an user account for Door43.
+
+
+2. Practice Editing a Page
+
+
+Door43 has a [[:playground:playground|test page]] that you can freely edit to try things out. [[https://www.youtube.com/watch?v=dF7px5U6PdA|Here]] is a short video on how to switch between the text editor and the graphical editor.
+
+
+**Graphical Editor** – When you click the "Edit this page" button, you will probably see an edit window that looks like a simplified word processor. Click [[https://www.youtube.com/watch?v=kFK1zK_dSYc|here]] for the "how to" video. The buttons take care of formatting text and generally make it easier to use. Here is information on the toolbar icons: [[doku>toolbar|quickbuttons]].
+
+
+**Text Editor** – If you prefer, you can click the "DW Edit" button beneath the edit box to switch to a text-based editor. This is the standard DokuWiki editor and it provides full control over the syntax of the text. Go to the [[:en:obs-training:syntax|Formatting Text]] page for some simple editing formats to use in the text editor.
+
+
+//Note:// when using the text editor, you can switch back to the graphical editor by clicking the "FCK Edit" button.
+===== 3. Choose a Story =====
+
+
+Browse to a story you would like to translate. For instance, to translate the first story of [[:en:obs|Open Bible Stories]], you would click [[:en:obs:01|1. The Creation]] from the left menu.
+
+
+===== 4. Choose a Language =====
+
+
+In the sidebar, you should see a language selection dropdown. When you click it, you will see a list of available languages, sorted by language code.((If you need a language added to Door43, please  [[http://distantshoresmedia/contact|contact us]])) . If you see the language into which you would like to translate, click it.
+
+
+**Source Text** – If the language you select does not have a source text already available on the page, you will see a header on the page that says "This page does not exist yet". You can save some time by starting with a source text from another language. Here's a [[http://youtu.be/uGvMsS1nerk|video]] showing the following steps:
+
+
+    - Click the back button in your browser to return to the same page in the previous language.
+    - Click the "Edit this page" button (or "View the page source").
+    - Select all the text in the editing window.
+    - Copy the text (Control-C).
+    - Click the "Cancel" button to leave the edit box and return to the page view.
+    - Choose your desired language in the language selection dropdown.
+    - Click "Create this page".
+    - Click on the DWEdit button. If the window refreshes, click on "Create this page".
+    - Paste the contents of the original page into the edit box.
+    - Click the "Save" button. The edit window closes and the new created page shows.
+
+
+===== 5. Start Translating =====
+
+
+Simply begin translating the source text into the language you selected. \\ You can click here to go to [[:en:obs-training:01|The Creation]] story with translation helps. Having both the webpage of the story in your language and the webpage of the story with translation helps open at the same time is a good idea.
+
+
+This [[https://www.youtube.com/watch?v=M6gFgqa7Ads|video]] will give a quick overview of how to use the Translation Notes on the story picture pages.
+
+
+    * The stories are separated into separate pages by the pictures (called frames).
+    * Each page has the picture and the text, in a national language, from the story.
+    * There are green words in the text. These are very important words that need to be translated correctly. Click on the green word to go to another page that will give more information on how to translate the very important word.
+    * Translation Notes explains how to translate some of the important words in the story. The definition of the word or phrase should help you understand how to translate.
+
+
+//Note: More information available on the [[:en:tips-tricks|Tips & Tricks]] page!// 
+
+
+Finished translating the stories? There is even more that you can do! How about adding audio? Or making a video? This will be available soon!
+
+
+----
+
+
+First , watch this video: video intro (+ text script, matches the video) Second , understand how to use the tools: tools video (+ text script, matches the video) Third , let's translate a story:  translate a story –> (how to choose the target language? how to choose the source language?) record the audio for the story convert the audio into a video show the video to others test the quality of the translation Getting Started [[:en:obs:notes:key-terms:home|Key Terms]] – identify the key terms for stories. Translation Training for Stories [[:en:obs-training:01|The Creation]] [[:en:obs-training:02|Sin Enters the World]] [[:en:obs-training:03|The Flood]] [[:en:obs-training:04|God's Covenant with Abraham]] [[:en:obs-training:05|The Son of Promise]] [[:en:obs-training:06|God Provides for Isaac]] [[:en:obs-training:07|God Blesses Jacob]] [[:en:obs-training:08|God Saves Joseph and His Family]] [[:en:obs-training:09|God Calls Moses]] [[:en:obs-training:10|The Ten Plagues]] [[:en:obs-training:11|The Passover]] [[:en:obs-training:12|The Exodus]] [[:en:obs-training:13|God's Covenant with Israel]] [[:en:obs-training:14|Wandering in the Wilderness]] [[:en:obs-training:15|The Promised Land]] [[:en:obs-training:16|The Deliverers]] [[:en:obs-training:17|God's Covenant with David]] [[:en:obs-training:18|The Divided Kingdom]] [[:en:obs-training:19|The Prophets]] [[:en:obs-training:20|The Exile and Return]] [[:en:obs-training:21|God Promises the Messiah]] [[:en:obs-training:22|The Birth of John]] [[:en:obs-training:23|The Birth of Jesus]] [[:en:obs-training:24|John Baptizes Jesus]] [[:en:obs-training:25|Satan Tempts Jesus]] [[:en:obs-training:26|Jesus Starts His Ministry]] [[:en:obs-training:27|The Story of the Good Samaritan]] [[:en:obs-training:28|The Rich Young Ruler]] [[:en:obs-training:29|The Story of the Unmerciful Servant]] [[:en:obs-training:30|Jesus Feeds Five Thousand People]] [[:en:obs-training:31|Jesus Walks on Water]] [[:en:obs-training:32|Jesus Heals a Demon Possessed Man]] [[:en:obs-training:33|The Story of the Farmer]] [[:en:obs-training:34|Jesus Teaches Other Stories]] [[:en:obs-training:35|The Story of the Compassionate Father]] [[:en:obs-training:36|The Transfiguration]] [[:en:obs-training:37|Jesus Raises Lazarus from the Dead]] [[:en:obs-training:38|Jesus Is Betrayed]] [[:en:obs-training:39|Jesus Is Put on Trial]] [[:en:obs-training:40|Jesus Is Crucified]] [[:en:obs-training:41|God Raises Jesus from the Dead]] [[:en:obs-training:42|Jesus Returns to Heaven]] [[:en:obs-training:43|The Church Begins]] [[:en:obs-training:44|Peter and John Heal a Beggar]] [[:en:obs-training:45|Philip and the Ethiopian Official]] [[:en:obs-training:46|Paul Becomes a Christian]] [[:en:obs-training:47|Paul and Silas in Philippi]] [[:en:obs-training:48|Jesus is the Promised Messiah]] [[:en:obs-training:49|God's New Covenant]] [[:en:obs-training:50|Jesus Returns]]
+
+
+    * 
+    * 
+    * 
+    * 
+    * 
+
+
+=====  =====
+
+
+    - 
+
+
+=====  =====
+
+
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    -

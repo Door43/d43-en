@@ -1,0 +1,170 @@
+====== Gateway Languages ======
+
+
+//The objective of this page is to identify the key "gateway languages" of the world.// 
+
+
+A “gateway language” is a language of wider communication (LWC) through which second-language speakers of that language can gain access to content and translate it into their own language.
+
+
+    * The “gateway languages” at the **world level ** comprise the smallest number of languages through which content can be delivered to every other language, via translation by bilingual speakers. //For example, French is a gateway language for minority languages in Francophone Africa in that content available in French can be translated by bilingual speakers from French into their own languages.//
+    * At the **country level**, the gateway languages of a given country are the fewest languages of wider communication required for bilingual speakers in every minority language native to the country (not located there due to immigration) to gain access to content. //For example, English is the only gateway language.//
+    * The route that content travels from its source language to every other language may include more than one “intermediate gateway.” //For example, source content in English en route to minority languages in southern Afghanistan may go from English to Persian to Dari to the receptor language.// 
+
+
+//Note: The route through which content gets from one language another is theoretically different for every source language. For example, the route between intermediate gateways for source content in French to get to every other language would be different than source content in English. we are primarily focused on source content in English.// 
+
+
+The basic structure looks like this:
+
+
+**“source text”**→ **“gateway language”**→ **“all languages”** 
+
+
+----
+
+
+Classes of Gateways
+
+
+    * **International**— LWCs that are in use across multiple countries and minority language groups (e.g. Arabic, Swahili, French)
+    * **National**— LWCs generally only in use in a given country (e.g. Mandarin, Vietnamese, Thai)
+    * **Regional**— LWCs generally only in use in particular regions of the world, either within a single country or spanning regional borders (e.g. Dari, Kurdish?)
+**International:** 
+
+
+    * English (en)
+    * French (fr)
+    * Spanish (es, es-419)
+    * Urdu (ur)
+    * Swahili (sw)
+    * Portuguese (pt, pt-BR)
+
+
+**National:** 
+
+
+Asia, Central:
+
+
+    * Persian (fa)
+
+
+Asia, East
+
+
+    * Mandarin (zh)
+
+
+Asia, South:
+
+
+    * Bengali (bn)
+    * Hindi (hi)
+    * Tamil (ta)
+    * Telugu (te)
+
+
+Asia, Southeast
+
+
+    * Burmese (my)
+    * Indonesian (id)
+    * Khmer
+    * Laotian
+    * Malaysian
+    * Thai (th)
+    * Vietnamese (vi)
+
+
+**Regional:** 
+
+
+Asia, Central:
+
+
+    * Dari
+    * ​Kurdish?
+
+
+----
+
+
+Gateway prioritization
+
+
+//based on number of languages dependent on the gateway// 
+
+
+    * **Tier 1**— all “International” class gateway languages + gateways having higher than a certain (arbitrary) threshold of dependent minority languages
+    * **Tier 2**— all “National” and “Regional” class gateway languages above a certain (arbitrary) threshold of dependent minority languages
+    * **Tier 3**— all remaining “National” and “Regional” class gateway languages
+—-
+
+
+**Current List of Gateway Languages** 
+
+
+//Somewhat subjective, based on ongoing research, and excluding English. Note: this is not a list of languages with most speakers, though there is some overlap.// 
+
+
+    - Mandarin (zh)
+    - Spanish (es)
+    - French (fr)
+    - Hindi (hi)
+    - Urdu (ur)
+    - Arabic (ar)
+    - Persian (fa)
+    - Portuguese (pt, pt-BR)
+    - Indonesian (id)
+    - Swahili (sw)
+
+
+**Other Languages** 
+
+
+**Africa:** 
+
+
+    * 
+
+
+**Asia, East:** 
+    * Japanese (ja)
+
+
+**Europe:** 
+
+
+    * German (de)
+    * Russian (ru)
+
+
+**Pacific:** 
+
+
+    * Tok Pisin
+
+
+**Sources** 
+
+
+    * [[http://en.wikipedia.org/wiki/World_language|http://en.wikipedia.org/wiki/World_language]]
+    * [[http://srhabay.wikispaces.com/12+MAIN+WORLD+LANGUAG|http://srhabay.wikispaces.com/12+MAIN+WORLD+LANGUAG]]
+    * [[http://www.infoplease.com/ipa/A0775272.html|http://www.infoplease.com/ipa/A0775272.html]](most populous languages)
+    * [[http://www.infoplease.com/ipa/A0855611.html|http://www.infoplease.com/ipa/A0855611.html]] (languages spoken in each country)
+    * [[http://ostranah.com/lists/languages.php|http://ostranah.com/lists/languages.php]](languages and countries)
+    * [[http://www2.ignatius.edu/faculty/turner/languages.htm|http://www2.ignatius.edu/faculty/turner/languages.htm]]
+    * [[http://www.ethnologue.com/|http://www.ethnologue.com]]
+    * [[http://gulf2000.columbia.edu/maps.shtml|Language & Religion maps of the Middle East, Central Asia]]
+
+
+**Maps** 
+
+
+    * [[http://www.washingtonpost.com/blogs/worldviews/wp/2013/08/12/40-maps-that-explain-the-world/|40 maps by The Washington Post]]#3 The World's Major Writing Systems & #17 Languages and Dialects of the Middle East and Central Asia
+    * [[http://www.washingtonpost.com/blogs/worldviews/wp/2014/01/13/40-more-maps-that-explain-the-world/|40 more maps by The Washington Post]]#24 Diverse Language of Africa & #36 Languages of China and the Surrounding Area
+    * [[http://blog.mapsofworld.com/tag/world-languages/|Blog.Maps of the ]][[http://blog.mapsofworld.com/tag/world-languages/|World]]World Languages Map
+
+
+~~DISCUSSION~~

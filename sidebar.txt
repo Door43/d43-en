@@ -1,0 +1,37 @@
+
+----
+
+** Door43 **
+
+  *[[en:home|Home (English)]]
+
+**Resources**
+
+  * [[:en:obs|Open Bible Stories]]
+    * [[:en:obs:notes|Translation Notes]]
+  * [[:en:lexicon|Open Bible Lexicon]]
+  * [[:en:library|Open Christian Library]]
+  * [[:en:ta|Translation Academy]]
+
+**About Door43**
+
+  * [[en:get-started|How to Get Started]]
+  * [[en:statement-of-faith|Statement of Faith]]
+  * [[en:legal:license|Copyrights & Licensing]]
+  * [[en:syntax|Formatting Content]]
+  * [[en:tips-tricks|Tips & Tricks]]
+  * [[en:technical|Technical Details]]
+
+**Door43 Development**
+
+  * [[en:dev|Development Projects]]
+
+~~NOCACHE~~
+
+
+**Recent Changes**
+{{changes>ns = en}}
+
+**[[en:uwadmin:en:obs:status|Latest OBS Status]]**
+{{page>en:uwadmin:en:obs:status}}
+
