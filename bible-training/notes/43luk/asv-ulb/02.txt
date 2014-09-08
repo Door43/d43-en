@@ -194,7 +194,7 @@ The ASV text is copied to the ULB column as a draft. Please update the ULB in th
 | Text in first column | <usfm> 
 \c 1
 second column
-</usfm> |
+<\usfm> |
 
 
 **[[:en:bible-training:notes:43luk:asv-ulb:01|<< 01]] | [[:en:bible-training:notes:43luk:asv-ulb:03|03 >>]]** 
