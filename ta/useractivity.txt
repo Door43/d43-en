@@ -1,1 +1,3 @@
-{{changes>user=PUTUSERNAMEHERE&count=50}}
+====== user activity ======
+
+{{changes>user=chrisjarka&count=50}}
