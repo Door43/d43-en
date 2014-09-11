@@ -11,12 +11,14 @@
 ===== UDB: =====
 
 <usfm> 
-\p \v 76 Then Zechariah said this to his baby son: 
+\p 
+\v 76 Then Zechariah said this to his baby son: 
 \q "My child, you will be called a prophet 
 \q whom God, the Highly Honored One, has appointed to serve him. 
 \q You will go ahead of the Lord 
 \q to prepare a people to be ready when he comes.
-\q \v 77 You will tell God's people how he will forgive them and save them from being punished for their sins.
+\q 
+\v 77 You will tell God's people how he will forgive them and save them from being punished for their sins.
 </usfm>
 
 
@@ -34,8 +36,10 @@
 ===== ASV: =====
 
 <usfm>
-\q \v 76 Yea and thou, child, shalt be called the prophet of the Most High: \q For thou shalt go before the face of the Lord to make ready his ways;
-\q \v 77 To give knowledge of salvation unto his people \q In the remission of their sins,
+\q \v 76 Yea and thou, child, shalt be called the prophet of the Most High: 
+\q For thou shalt go before the face of the Lord to make ready his ways;
+\q \v 77 To give knowledge of salvation unto his people 
+\q In the remission of their sins,
 </usfm>
 
 
