@@ -7,7 +7,7 @@ There are many things to keep in mind when translating a name.
 
 There are several ways to handle translating a name:
   * Do not change the name from the Source text in the translated text. 
-  * The name is changed to conform with the phonic or graphic rules of the translated text.
+  * The name is changed to conform with the phonic or graphic rules of the translated text. [[en:ta:vocabulary:translatenames:transliterate]]
   * The source text name is replaced in the translated text by a name that has the same cultural meaning as the original name.
 
 
