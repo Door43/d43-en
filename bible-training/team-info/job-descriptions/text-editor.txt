@@ -8,7 +8,7 @@ The purpose of the Text team is to create two source texts for Bible translation
   - **ULB (UnfoldingWord Literal Bible)** - This is an update to the 1901 ASV, removing archaic language and terms, and making it more understandable for people with limited English skills, and yet retaining the accuracy and the symmetry with the original languages.
   - **UDB (UnfoldingWord Dynamic Bible)** - This is an adaptation of TFT (Translation for Translators) to restore many of the idioms and theological terms, and yet keep the easy-reading nature and the shortened sentences as much as possible. 
 
-The team will strive to keep the balance of accuracy and readability of the two versions, so that translators will have both a dynamic and a literal source text. 
+The team will strive to keep the balance of accuracy and readability of the two versions, so that translators will have both a dynamic and a literal source text. In addition, these texts will be divided into small "chunks" that will serve as the basis for the individual notes pages.
 
 The team should also continually remember that the texts are to be used as //intermediate source texts//, and not as //finished English versions//. Both texts will be translated into several dozen "gateway" languages, so they must be very clear and easy to understand.
 
@@ -39,6 +39,8 @@ With respect to the ULB, the editor will insure that:
     * the text retains as much of the grammar and style of the original language as is reasonable in light of the necessity to have it easy to understand for non-native English speakers
     * archaic and unnatural words, terms and constructions are replace with modern equivalents
     * any errors or problems with the ASV will be corrected and updated
+    * the text has been divided into manageable "chunks" of 1-5 verses in length
+
 
 Both texts must be produced quickly, taking advantage of creative staffing by volunteers to assure both quality and speed.
 
