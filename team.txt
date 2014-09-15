@@ -1,22 +1,35 @@
 ===== Team Door43 =====
-We have recently decommissioned the Team43 site in favor of Hall (similar to IRC or chat room).  This enables more rapid communication and discussion and has been easier to use than the previous site.
+
+
+We have recently decommissioned the Team43 site in favor of Hall (similar to IRC or chat room). This enables more rapid communication and discussion and has been easier to use than the previous site.
+
 
 If you would like to join our Hall account, please [[https://hall.com/invites/zhayRLTBnM2at26KuU89PA|click here]].
 
 
-===Adding graphics to your page.=== 
+=== Adding graphics to your page. ===
+
+
 Click [[http://youtu.be/Y7YczCLzVC8|here]] for a video of these steps:
-  - Be sure you are signed into your account.
-  - Go to the desired page.
-  - Select Media Manager.
-  - Click on the Upload tab.
-  - Browse for and select the file.
-  - Repeat selecting files if desired.
-  - Click the Upload button.
-  - Select the Media tab.
-  - Right click and copy shortcut of the uploaded file.
-  - Return to the page.
-  - Click the pencil icon.
-  - Use the DKEdit editor.
-  - Type in the syntax: <code>{{NAMESPACE:GRAPHIC_FILE_NAME.JPG?###X###}}</code>
-  - Save the edits.
+
+
+    - Be sure you are signed into your account.
+    - Go to the desired page.
+    - Select Media Manager.
+    - Click on the Upload tab.
+    - Browse for and select the file.
+    - Repeat selecting files if desired.
+    - Click the Upload button.
+    - Select the Media tab.
+    - Right click and copy shortcut of the uploaded file.
+    - Return to the page.
+    - Click the pencil icon.
+    - Use the DKEdit editor.
+    - Type in the syntax:
+
+
+<code>
+{{NAMESPACE:GRAPHIC_FILE_NAME.JPG?###X###}}
+
+
+    - Save the edits.
