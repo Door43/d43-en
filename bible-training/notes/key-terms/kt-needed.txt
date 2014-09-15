@@ -1,5 +1,11 @@
 ====== Key Terms Pages to Create ======
 
-=== Pages with KT links that do not have destinations ===
+=== KT Terms without Pages ===
 
 {{topic>ktlink}}
+
+
+
+=== KT Pages without Content ===
+
+{{topic>ktmtlink}}
