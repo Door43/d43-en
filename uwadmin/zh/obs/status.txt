@@ -4,7 +4,7 @@
 publish date:
 
 
-version: ??
+version: 1.1
 
 
 contributors: paidion
@@ -13,13 +13,13 @@ contributors: paidion
 checking entity: translation team
 
 
-checking level: ??
+checking level: Level 0
 
 
 source text: en
 
 
-source text version: ??
+source text version: 1.0
 
 
 comments:
