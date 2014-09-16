@@ -1,1 +1,11 @@
 ====== Translation Academy Topics =======
+
+<nspages en:ta:customs -title -exclude:home -textPages="List of tA Pages about Customs:">
+
+<nspages en:ta:language -title -exclude:home -textPages="List of tA Pages about Language:">
+
+<nspages en:ta:figuresofspeech -title -exclude:home -textPages="List of tA Pages about Figures of Speech:">
+
+<nspages en:ta:unknown -title -exclude:home -textPages="List of tA Pages about Translating Unknowns:">
+
+<nspages en:ta:translate -title -exclude:home -textPages="List of tA Pages about How to Translate:">
