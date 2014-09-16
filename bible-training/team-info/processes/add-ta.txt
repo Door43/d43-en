@@ -1,1 +1,5 @@
 ==== Adding Translation Academy Links ====
+
+
+
+<nspages en:ta -title -exclude:home -textPages="List of Translation Academy Pages:">
