@@ -1,15 +1,13 @@
 ====== Key Terms Pages to Create ======
 
 
-=== KT Terms without Pages ===
+The following pages are tagged with "ktlink" code and contain KT link that do not yet have pages:
 
 
-//Pages tagged with "ktlink" code:// 
 {{topic>ktlink}}
 
 
-=== KT Pages without Content ===
+After you create the page:
 
-
-//Pages tagged with "ktmtpage" code:// 
-{{topic>ktmtpage}}
+  * Remove the tag from the chunk page (leave "talink" tags)
+  * Update the Key Terms List on Google Drive
