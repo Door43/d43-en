@@ -1,0 +1,17 @@
+===== Translation Academy Topics to Do ======
+
+
+
+The following pages are tagged with the "talink" code and contain a tA link that may require a creation of a module:
+
+
+{{topic>talink}}
+
+
+
+=== Followup ===
+
+After you create the module:
+
+  * Remove the tag from the chunk page (leave any "ktlink" tags)
+  * Update the Key Terms List on Google Drive
