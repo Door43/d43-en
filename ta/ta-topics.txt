@@ -1,8 +1,10 @@
 ====== Translation Academy Topics =======
 
-<nspages en:ta:customs -title -exclude:home -textPages="List of tA Pages about Customs:">
+<nspages en:ta:customs:cultural -title -exclude:home -textPages="List of tA Pages about Cultural Customs:">
 
-<nspages en:ta:language -title -exclude:home -textPages="List of tA Pages about Language:">
+<nspages en:ta:customs:religious -title -exclude:home -textPages="List of tA Pages about Religious Customs:">
+
+<nspages en:ta:vocabulary -title -exclude:home -textPages="List of tA Pages about Vocabulary:">
 
 <nspages en:ta:figuresofspeech -title -exclude:home -textPages="List of tA Pages about Figures of Speech:">
 
