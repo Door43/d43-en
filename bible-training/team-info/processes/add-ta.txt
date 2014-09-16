@@ -8,7 +8,7 @@ If not:
 <code>{{tag>[talink]}}</code>
   * If there is already a tag for the KT link, leave a space and add to it like this: 
 <code>{{tag>[ktlink talink]}}</code>
-  * The tA team will see the list of chunks that need tA page/video/module here: [[en/ta/ta-topics]]
+  * The tA team will see the list of chunks that need tA page/video/module here: [[en/ta/ta-needed]]
   * Once they have created the page, they will delete the tag.
 
 
