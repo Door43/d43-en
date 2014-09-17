@@ -23,14 +23,11 @@ The primary tasks of editors of the ULB are:
 
   * Remove the section headings (/s) and titles (/sr).
   * Remove all footnotes.
-  * Divide the text into small, manageable chunks of 1-4 verses using a space and (/s5). (These chunks must match the division of the UDB.)
-  * Restore the idioms and figures of speech that would likely be understood.
-  * Restore the theological words that can be easily explained in the notes.
-  * Remove unnecessary added commentary and comments.
+  * Divide the text into small, manageable chunks of 1-4 verses using a space and (/s5).
+  * Verify that the chunks match the division of the UDB.
   * Check that the English level is easy to understand.
-  * Keep the sentences short if possible.
+  * Divide the text into shorter sentences where possible.
   * Retain the literal nature of the text--it should compliment the "dynamic" UDB rather than be similar to it.
-  * Correct any errors that have resulted from making the text too easy to read, or from making the ambiguous clear.
 
 
 (See also: [[en:bible-training:team-info:processes:edit-udb]])
