@@ -31,12 +31,15 @@ Like the TFT, the UDB:
 
 === Editing the UDB ===
 
-The primary tasks of editors of the UDB are:
+The lead editor of the UDB will:
 
   * Remove the section headings (/s) and titles (/sr).
   * Remove all footnotes.
   * Divide the text into small, manageable chunks of 1-4 verses using a space and (/s5).
   * Verify that the chunks match the division of the ULB.
+
+The edit team members will:
+
   * Restore the idioms and figures of speech that would likely be understood.
   * Restore the theological words that can be easily explained in the notes.
   * Remove unnecessary added commentary and comments.
