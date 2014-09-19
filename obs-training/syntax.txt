@@ -1,7 +1,7 @@
 ====== Formatting Content ======
 
 
-**DokuWiki** supports some simple markup language, which tries to make the files to be as readable as possible. This page contains the possible syntax you may use when editing the pages. Simply have a look at the source of this page by pressing "Edit this page". If you want to try something, just use the [[:playground:playground|playground]] page.
+**DokuWiki** supports some simple markup language, which tries to make the files to be as readable as possible. This page contains the possible syntax you may use when editing the pages. The syntax for the described formating is in the box below the examples. If you want to try something, just use the [[:playground:playground|playground]] page.
 
 
 ===== Basic Text Formatting =====
