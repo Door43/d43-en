@@ -9,10 +9,22 @@
 
 DokuWiki supports **bold**, //italic//, __underlined__ and ''monospaced'' texts. Of course you can **__//''combine'' //__**all these.
 <code>
-DokuWiki supports **bold**, //italic//, __underlined__ 
-and ''monospaced'' texts.
+DokuWiki supports **bold**, //italic//, __underlined__ and 
+''monospaced'' texts.
 Of course you can **__//''combine''//__** all these.
 </code>
+
+
+You can add bullet lists and numbered lists.
+<code>
+DokuWiki supports 
+  * Bullet lists - Item 1
+  * Item 2
+
+and
+  - Numbered lists - Item 1
+  - Item 2
+  - </code>
 
 
 You can use <sub>subscript</sub>and <sup>superscript</sup> , too.
