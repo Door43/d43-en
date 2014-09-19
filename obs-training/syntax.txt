@@ -24,10 +24,10 @@ and Numbered lists -
   - Item 2
 
 <code>
-DokuWiki supports 
-  * BulItem 1
+You can add Bullet lists -
+  * Item 1
   * Item 2
-and
+and Numbered lists - 
   - Item 1
   - Item 2
   - </code>
