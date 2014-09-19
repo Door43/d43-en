@@ -15,12 +15,18 @@ Of course you can **__//''combine''//__** all these.
 </code>
 
 
-You can add bullet lists and numbered lists.
+You can add
+  * Bullet lists - Item 1
+  * Item 2
+
+and
+  - Numbered lists - Item 1
+  - Item 2
+
 <code>
 DokuWiki supports 
   * Bullet lists - Item 1
   * Item 2
-
 and
   - Numbered lists - Item 1
   - Item 2
