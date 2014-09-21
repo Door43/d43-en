@@ -41,6 +41,7 @@ Door43 has a [[:playground:playground|test page]] that you can edit for practice
 
 === Namespace===
 Namespace is the term for the directory, or folder, of the pages. Most of the pages that you will work on are in the en:bible-training namespace. (The en namespace means English, the bible-training namespace is the working namespace and the bible namespace is where the pages will go when they are finally done.)
+{{en:bible-training:team-info:processes:namespaces.png?nolink&350x150}}
 
 Click on the blue name of the namespace (has a white triangle to the left of the name) to open the namespace (directory.)
 
