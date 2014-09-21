@@ -1,11 +1,10 @@
-====== How to Get Started ======
-
-=== These instructions will help you use the website to do the translation of the stories. ===
-
-Learn more about and how to use the Translation Studio APP.
+====== How to Get Started working in Translation Notes ======
 
 
-=== Suggestion: Right click on links and choose "Open in new window." ===
+These instructions will help you use the website to do the translation notes.
+
+
+**Suggestion: Right click on links and choose "Open in new window."** 
 
 
 Translating content in Door43 is easy! Follow these simple steps to get started:
@@ -14,7 +13,7 @@ Translating content in Door43 is easy! Follow these simple steps to get started:
 ===== 1. Create an Account & Log into Door43 =====
 
 
-To start translating content, you will need a user account on Door43. When you are logged into Door43 you will see your name in the top area below the browser menu bar. If you see your name up there, skip to #2 below.  If you do not have an account, [[:en:get-started?do=register|create one]] then you can [[https://door43.org/en/obs-training/get-started?do=login&sectok=ee4e19eb537ef77891aa5a6b54b7b2a4|login]].\\ 
+To start addin content, you will need a user account on Door43. When you are logged into Door43 you will see your name in the top area below the browser menu bar. If you see your name up there, skip to #2 below. If you do not have an account, [[:en:get-started?do=register|create one]] then you can [[https://door43.org/en/obs-training/get-started?do=login&sectok=ee4e19eb537ef77891aa5a6b54b7b2a4|login]].\\ 
 Watch this [[http://youtu.be/dpsJRDAa3I8|video]] (45 seconds long) to see how to set up an account.
 
 
@@ -24,32 +23,25 @@ Watch this [[http://youtu.be/dpsJRDAa3I8|video]] (45 seconds long) to see how to
     * Click on the 'Update Profile' link to change the password.
 
 
-===== 2. Practice Editing a Page =====
+===== 2. Practice Editing a Page (optional) =====
 
 
-Door43 has a [[:playground:playground|test page]] that you can edit for practice. 
-
-Go to [[en/obs-training/syntax]] for some of the easy editing tools.
-
-Note: Click [[en:obs-training:get-started:switching_editors|here]] to learn how to switch between the editors. Or click [[https://www.youtube.com/watch?v=kFK1zK_dSYc|here]] for the "how to" 1 minute video.
-===== 3. Choose a Story =====
+Door43 has a [[:playground:playground|test page]] that you can edit for practice.
 
 
-Let's start with a story about Jesus and his disciples. Click for the story [[:en:obs:31|31. Jesus Walks on Water]].
-
-<code>
-Note: Right click on links and choose "Open in new window."
-</code>
+Go to [[:en:obs-training:syntax|Formatting Content]] for some of the easy editing tools.
 
 
-===== 4. Choose the language into which you want to translate =====
+Note: Click [[:en:obs-training:get-started:switching_editors|here]] to learn how to switch between the editors. Or click [[https://www.youtube.com/watch?v=kFK1zK_dSYc|here]] for the "how to" 1 minute video.
 
 
-In the sidebar of Story 31, you should see a language selection dropdown. When you click it, a list of available languages displays, sorted by language code. If you see the language into which you would like to translate, click it.
+===== 3. Go to your assigned Book or Chapter. =====
 
-If you need a language added to Door43, please  [[http://distantshoresmedia.org/contact|contact us]].
 
-===== 5. Start Translating =====
+=====  =====
+
+
+===== 5. Participate in the discussions. =====
 
 
 Simply begin translating the source text into the language you selected.
@@ -71,7 +63,9 @@ This [[http://youtu.be/5fFl8crhglE|video]] (1 minute 20 seconds) will give a qui
 
 
 ==== Translation Guidelines ====
-Follow this [[en:translation-guidelines|link]] to learn the best way to translate the stories.
+
+
+Follow this [[:en:translation-guidelines|link]] to learn the best way to translate the stories.
 
 
 ==== Translate from the Source Language ====
@@ -94,14 +88,8 @@ The video assumes you understand the above instructions. The video uses the grap
     * Read the Notes for help on how to translate some of the words and terms.
 
 
-**Once you have chosen the correct words or terms in your language, arrange the translated words so they make sense and the stories are easy to read and understand.** 
-
-
     * Continue editing frames and saving your work.
     * Enjoy and share the new translation.
 
 
-//Note: More information available on the [[:en:tips-tricks|Tips & Tricks]] page!// 
-
-
-Finished translating the stories? There is even more that you can do! How about adding audio? Or making a video? This will be available soon!
+//Note: More information available on the [[:en:tips-tricks|Tips & Tricks]] page!//
