@@ -45,4 +45,11 @@ e.g. api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-01.jpg
 e.g. api.unfoldingword.org/obs/jpg/1/en/2160px/obs-en-01-01.jpg
 
 
+===== translationStudio Resource Catalog =====
+
+    api.unfoldingword.org/ts/txt/1/ts-catalog.json
+
+This catalog records resources available for translation in translationStudio.
+
+
 Visit [[http://door43.org/en/uwadmin/home|http://door43.org/en/uwadmin/home]] to export another language.
