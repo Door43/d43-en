@@ -1,5 +1,5 @@
 ====== user activity ======
 
 Chris Jarka
-{{changes>user=Chrisjarka&count=50&render=pagelist(header,date,user,nocomments)&maxage=25920000}}
+{{changes>user=PUTUSERNAMEHERE&count=50&render=pagelist(header,date,user,nocomments)&maxage=25920000}}
 
