@@ -1,3 +1,5 @@
+====== Team Information Pages ======
+
 <nspages en:bible-training:team-info:job-descriptions -title -exclude:home -textPages="Responsibility Pages:">
 
 <nspages en:bible-training:team-info:processes -title -exclude:home -textPages="Instruction Pages:">
