@@ -4,19 +4,19 @@
 ===== TFT: =====
 
 
-<usfm> %%\%%c 2 %%\%%p %%\%%v 1 About that time the Emperor Augustus commanded that %%\%%add his officials must%%\%%add* write down the names%%\%%f + %%\%%ft Or: %%\%%add a census be taken%%\%%add* %%\%%f* of all the people who lived in countries %%\%%add controlled%%\%%add* by the Roman %%\%%add government%%\%%add* %%\%%f + %%\%%ft Or:that the Roman %%\%%add government controlled%%\%%add* %%\%%f*, %%\%%add so that the government could collect taxes from them%%\%%add*. %%\%%v 2 That was the first time that they wrote down the names%%\%%f + %%\%%ft Or: took a census %%\%%f* in Syria %%\%%add province, which included Judea district%%\%%add*. They did this while Quirinius was the governor of the province. %%\%%v 3 Every person had to go to the town where his %%\%%add most famous ancestor%%\%%add* had lived, so that %%\%%add the officials%%\%%add* could write down their names. </usfm>
+<usfm><nowiki> \</nowiki>c 2<nowiki> \</nowiki>p<nowiki> \</nowiki>v 1 About that time the Emperor Augustus commanded that<nowiki> \</nowiki>add his officials must<nowiki>\</nowiki>add* write down the names<nowiki>\</nowiki>f +<nowiki> \</nowiki>ft Or:<nowiki> \</nowiki>add a census be taken<nowiki>\</nowiki>add*<nowiki> \</nowiki>f* of all the people who lived in countries<nowiki> \</nowiki>add controlled<nowiki>\</nowiki>add* by the Roman<nowiki> \</nowiki>add government<nowiki>\</nowiki>add*<nowiki> \</nowiki>f +<nowiki> \</nowiki>ft Or:that the Roman<nowiki> \</nowiki>add government controlled<nowiki>\</nowiki>add*<nowiki> \</nowiki>f*,<nowiki> \</nowiki>add so that the government could collect taxes from them<nowiki>\</nowiki>add*.<nowiki> \</nowiki>v 2 That was the first time that they wrote down the names<nowiki>\</nowiki>f +<nowiki> \</nowiki>ft Or: took a census<nowiki> \</nowiki>f* in Syria<nowiki> \</nowiki>add province, which included Judea district<nowiki>\</nowiki>add*. They did this while Quirinius was the governor of the province.<nowiki> \</nowiki>v 3 Every person had to go to the town where his<nowiki> \</nowiki>add most famous ancestor<nowiki>\</nowiki>add* had lived, so that<nowiki> \</nowiki>add the officials<nowiki>\</nowiki>add* could write down their names. </usfm>
 
 
 ===== UDB: =====
 
 
-<usfm> %%\%%s5 %%\%%c2 %%\%%p %%\%%v 1 Around that time Caesar Augustus sent out an official order that every person living under Roman rule must be registered in a public record. %%\%%v 2 This first happened during the time that Quirinius was governing the province of Syria. %%\%%v 3 So everyone had to go to his family's hometown to be registered. </usfm>
+<usfm><nowiki> \</nowiki>s5<nowiki> \</nowiki>c2<nowiki> \</nowiki>p<nowiki> \</nowiki>v 1 Around that time Caesar Augustus sent out an official order that every person living under Roman rule must be registered in a public record.<nowiki> \</nowiki>v 2 This first happened during the time that Quirinius was governing the province of Syria.<nowiki> \</nowiki>v 3 So everyone had to go to his family's hometown to be registered. </usfm>
 
 
 ===== ULB: =====
 
 
-<usfm> %%\%%s5 %%\%%c 2 %%\%%p %%\%%v 1 Now in those days, it came about that Caesar Augustus sent out a decree ordering that a census be taken of all the people living in the Roman world. %%\%%v 2 This was the first census made while Quirinius was governor of Syria. %%\%%v 3 So everyone went to his own hometown to be registered for the census. </usfm>
+<usfm><nowiki> \</nowiki>s5<nowiki> \</nowiki>c 2<nowiki> \</nowiki>p<nowiki> \</nowiki>v 1 Now in those days, it came about that Caesar Augustus sent out a decree ordering that a census be taken of all the people living in the Roman world.<nowiki> \</nowiki>v 2 This was the first census made while Quirinius was governor of Syria.<nowiki> \</nowiki>v 3 So everyone went to his own hometown to be registered for the census. </usfm>
 
 
 ===== Important Terms: =====
@@ -30,14 +30,18 @@
 ===== Translation Notes: =====
 
 
-    * <font 13px/arial;;#000000;;#ffffff>Caesar Augustus</font> - That is,  "King Augustus" or "Emperor Augustus." Augustus was the name of the man who was the first emperor of the Roman Empire. <font 13px/arial;;#000000;;#ffffff>(See</font> [[:en:ta:translate:translatenames|How to Translate Names]].<font 13px/arial;;#000000;;#ffffff>)</font> 
-    * **that a census be taken of all the people living in the Roman world**- A census is an official count of all the people in a country. In this case they wrote down the names of all the people in  a government record. This can also be translated as "that the names of all the people living in the Roman world be written down" or "that they write down the names of all the people living in the Roman world" or "that they count all the people living in the Roman world and write down their names.
+    * <font 13px/arial;;#000000;;#ffffff>Caesar Augustus</font> - That is, "King Augustus" or "Emperor Augustus." Augustus was the name of the man who was the first emperor of the Roman Empire. <font 13px/arial;;#000000;;#ffffff>(See</font> [[:en:ta:translate:translatenames|How to Translate Names]].<font 13px/arial;;#000000;;#ffffff>)</font>
+    * **that a census be taken of all the people living in the Roman world**- A census is an official count of all the people in a country. In this case they wrote down the names of all the people in a government record. This can also be translated as "that the names of all the people living in the Roman world be written down" or "that they write down the names of all the people living in the Roman world" or "that they count all the people living in the Roman world and write down their names.
     * **the Roman world **  - That is, "the part of the world controlled by the Roman government" or "the countries ruled by the Roman emperor" or "the Roman empire."
     * **Quirinius**  - Quirinius was the name of the man who was appointed to be the governor of Syria<font 13px/arial;;#000000;;#ffffff><font 13px/arial;;#000000;;#ffffff>
-(See</font> [[:en:ta:translate:translatenames|How to Translate Names]].<font 13px/arial;;#000000;;#ffffff>)</font> 
+(See</font> [[:en:ta:translate:translatenames|How to Translate Names]].<font 13px/arial;;#000000;;#ffffff>)</font>
+
+
     * 
-    * **text**  - note
-    * **text**  - note
+    * **text**  - copied from Luke 1:1-4 regular page. <font 14px line-height: 19px;/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19px;;;#ffffff>(See</font> [[https://door43.org/en/ta/translate/translatenames|How to Translate Names]]<font 14px line-height: 19px;/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19px;;;#ffffff>)</font> 
+    * **text**  - copied from Luke 1:1-4 edit window <font 13px/arial;;#000000;;#ffffff>(See</font> [[:en:ta:translate:translatenames|How to Translate Names]]<font 13px/arial;;#000000;;#ffffff>)</font> 
+
+
 ===== Links: =====
 
 
@@ -46,5 +50,7 @@
 **[[:en:bible-training:notes:43luk:01:05|<<]] | [[:en:bible-training:notes:43luk:02:04|>>]]** 
 
 
-{{tag>[ktlink]}} 
+{{tag>[ktlink]}}
+
+
 ~~DISCUSSION~~
