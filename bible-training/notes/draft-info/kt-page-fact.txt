@@ -1,3 +1,5 @@
+**(Remove the "delete" portion of the tag after creating the page)**
+
 ====== Name ======
 
 
@@ -21,7 +23,7 @@ Text
  
 {{topic>name}}
 
-{{tag>unfinishedkt}}
+{{tag>unfinishedkt delete}}
 
 
 ~~DISCUSSION~~
