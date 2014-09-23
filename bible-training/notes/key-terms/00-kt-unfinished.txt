@@ -6,6 +6,5 @@
 The following pages are tagged with "unfinishedkt" code and require content and/or editing:
 
 
-{{topic>unfinishedkt}}
-
+{{topic>unfinishedkt -exclude: kt-page-fact}}
 
