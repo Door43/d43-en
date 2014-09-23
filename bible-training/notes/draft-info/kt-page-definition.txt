@@ -19,9 +19,7 @@ Text
  
 {{topic>name}}
 
-{{tag>unfinishedkt}}
-
-{{tagpage>delete|Remove this tag after creating KT page}}
+{{tag>unfinishedkt delete}}
 
 
 ~~DISCUSSION~~
