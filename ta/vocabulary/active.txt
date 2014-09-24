@@ -1,12 +1,36 @@
+~~COMPLEX_TABLES~~
+
+
 ====== Active or Passive ======
 
-The English language has the active and passive form of speech.
-  * In the **ACTIVE** form, the subject does the action.
-  * In the **PASSIVE** form, the action is done to the subject.
 
-====Examples====
+The English language has the active and passive form of speech.
+
+
+    * In the **ACTIVE**  form, the subject does the action.
+    * In the **PASSIVE**  form, the action is done to the subject.
+
+
+==== Examples ====
+
+
+|== **Active**  ==
+|== **Passive**  ==
+|
+|| \\  \\ |
+|||
+|||
+
+
+^Active^Passive|
+|||
+|||
 
 
 Active - John built the house.
 
+
 Passive - The house was
+
+
+\\
