@@ -3,10 +3,12 @@
 
 ==== Links to Pages to Edit ====
 
-The following pages are tagged with "finishedkt" code and ready to copy to Bible folder:
+The following pages are tagged with "finishedkt" code and ready for final polishing:
 
+  * Check punctuation
   * Delete DISCUSSION code
   * Remove "finished" tag
+  * Copy to Bible folder
 
 
 {{topic>finishedkt -delete}}
