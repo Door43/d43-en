@@ -46,6 +46,40 @@ Text
 </code>
 
 
+=== Draft Content for "Name" Page ===
+
+<code>
+====== Name ======
+
+
+===== Facts: =====
+
+
+Text
+
+
+    * bullet
+    * bullet
+
+
+(Translation suggestions: [[en:ta:translate:translatenames]])
+
+(See also: [[:en:bible:notes:key-terms:term]])
+
+
+===== Bible References: =====
+ 
+ 
+{{topic>name}}
+
+{{tag>unfinishedkt}}
+
+
+~~DISCUSSION~~
+</code>
+
+
+
 === Followup ===
 
 After you create the page:
