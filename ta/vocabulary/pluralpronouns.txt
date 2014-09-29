@@ -7,28 +7,17 @@
 //**Plural Definite Pronouns**//:
 
 
-    * we/us - (from //Singular//: I/me) these words can be [[:en:ta:vocabulary:exclusive|exclusive]] or [[:en:ta:vocabulary:inclusive|inclusive ]]based on context
-    * they/them (from //Singular//: he/him/she/her/it)
+    * //1st Person Plural Pronoun//: we/us - (from //Singular//: I/me) these words can be [[:en:ta:vocabulary:exclusive|exclusive]] or [[:en:ta:vocabulary:inclusive|inclusive ]]based on context
+    * //3rd Person Plural Pronoun//: they/them (from //Singular//: he/him/she/her/it)
+In Standard English, "you" can be either //Singular //  or //Plural//, depending on context. For clarification, 'all' is used to form expressions like "you all" or "all of you" in specifying //2nd Person Plurality//.
 
 
-In Standard English, "you" can be either //Singular // or //Plural//, depending on context. For clarification, 'all' is used to form expressions like "you all" or "all of you".
+//**Plural Reflexive Pronouns:**  // 
 
 
-//**Plural Demonstrative Pronouns:** // 
-
-
-    * these (from //Singular//: 'this')
-    * those (from //Singular//: 'that')
-
-
-//**Plural Reflexive Pronouns:** // 
-
-
-    * ourselves - this word can be [[:en:ta:vocabulary:exclusive|exclusive]] or [[:en:ta:vocabulary:inclusive|inclusive]] based on context
-    * yourselves (from //Singular//: 'yourself')
-    * themselves
-
-
+    * //1st Person Plural Reflexive Pronoun//: ourselves - this word can be [[:en:ta:vocabulary:exclusive|exclusive]] or [[:en:ta:vocabulary:inclusive|inclusive]] based on context
+    * //2nd Person Plural Reflexive Pronoun//: yourselves (from //Singular//: 'yourself')
+    * //3rd Person Plural Reflexive Pronoun//: themselves
 Unlike some languages, English does not have //Dual Pronouns//, which refer to two people only. If clarification is necessary, the following expressions are used:
 
 
@@ -36,22 +25,27 @@ Unlike some languages, English does not have //Dual Pronouns//, which refer to t
     * //1st Person Dual//: you and I - this phrase is strictly [[:en:ta:vocabulary:inclusive|inclusive]]
     * //2nd Person Dual//: you two/you both/both of you
     * //2nd Person Dual/3rd Person Dual//: each other/one another
-    * 3rd Person Dual: those two
-
-
-//**Plural Indefinite Pronouns:** // 
+    * //3rd Person Dual//: those two
+//**Plural Indefinite Pronouns:**  // 
 
 
     * everyone/everybody - (from //Singular//: 'anyone/anybody' or 'someone/somebody')
 
 
-//Relative Pronouns//  (who/whom, that, which) can refer to //Singular // or //Plural // entities.
+//Relative Pronouns//  (who/whom, that, which) can refer to //Singular //  or //Plural //  entities.
 
 
 "The __man who__  went to the store got lost."
 
 
 "The __men who__  went to the store got lost."
+
+
+//**Plural Demonstrative Pronouns:**  // 
+
+
+    * these (from //Singular//: 'this')
+    * those (from //Singular//: 'that')
 
 
 Information on singular pronouns is here: **[[:en:ta:vocabulary:singularpronoun|Singular Pronouns]]** 
