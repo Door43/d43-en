@@ -29,7 +29,7 @@ Text
  
 {{topic>name}}
 
-{{tag>unfinishedkt}}
+{{tag>draft}}
 
 ~~DISCUSSION~~
 </code>
@@ -57,7 +57,7 @@ Text
  
 {{topic>name}}
 
-{{tag>unfinishedkt}}
+{{tag>draft}}
 
 ~~DISCUSSION~~
 </code>
