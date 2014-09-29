@@ -65,7 +65,4 @@ Text
 
 === Followup ===
 
-After you create the page:
-
-  * Remove the tag from the chunk page (leave "talink" tags)
-  * Update the Key Terms List on Google Drive
+After you create the page, remove "ktlink" from the page tag (leave "talink" tags).
