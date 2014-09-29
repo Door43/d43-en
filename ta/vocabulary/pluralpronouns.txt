@@ -4,35 +4,40 @@
 **Plural pronouns replace plural nouns — those that name more than one person, place, thing, or idea.** 
 
 
-//**Plural Definite Pronouns**//:
+**//Dual Pronouns// ** 
 
 
-    * //1st Person Plural Pronoun//: we/us - (from //Singular//: I/me) these words can be [[:en:ta:vocabulary:exclusive|exclusive]] or [[:en:ta:vocabulary:inclusive|inclusive ]]based on context
-    * //3rd Person Plural Pronoun//: they/them (from //Singular//: he/him/she/her/it)
-In Standard English, "you" can be either //Singular //  or //Plural//, depending on context. For clarification, 'all' is used to form expressions like "you all" or "all of you" in specifying //2nd Person Plurality//.
+Unlike some languages, English does not have //Dual Personal Pronouns//, which refer to two people only. If clarification is necessary, expressions like the following are used:
 
 
-//**Plural Reflexive Pronouns:**  // 
+    * //1st Person Dual//: **us two/us both/both of us**  - these phrases can be [[:en:ta:vocabulary:exclusive|exclusive]] or [[:en:ta:vocabulary:inclusive|inclusive]] based on context
+    * //1st Person Dual//: **you and I**  - this phrase is strictly [[:en:ta:vocabulary:inclusive|inclusive]]
+    * //2nd Person Dual//: **you two/you both/both of you**
+    * //3rd Person Dual//: **these two/those two** 
+//**Plural Personal Pronouns**//:
 
 
-    * //1st Person Plural Reflexive Pronoun//: ourselves - this word can be [[:en:ta:vocabulary:exclusive|exclusive]] or [[:en:ta:vocabulary:inclusive|inclusive]] based on context
-    * //2nd Person Plural Reflexive Pronoun//: yourselves (from //Singular//: 'yourself')
-    * //3rd Person Plural Reflexive Pronoun//: themselves
-Unlike some languages, English does not have //Dual Pronouns//, which refer to two people only. If clarification is necessary, the following expressions are used:
+English has two distinct //Plural Personal Pronouns//:
 
 
-    * //1st Person Dual//: us two/us both/both of us - these phrases can be [[:en:ta:vocabulary:exclusive|exclusive]] or [[:en:ta:vocabulary:inclusive|inclusive]] based on context
-    * //1st Person Dual//: you and I - this phrase is strictly [[:en:ta:vocabulary:inclusive|inclusive]]
-    * //2nd Person Dual//: you two/you both/both of you
-    * //2nd Person Dual/3rd Person Dual//: each other/one another
-    * //3rd Person Dual//: those two
+    * //1st Person Plural Pronoun//: **we/us**  - (from //Singular//: **I/me**) these words can be [[:en:ta:vocabulary:exclusive|exclusive]] or [[:en:ta:vocabulary:inclusive|inclusive ]]based on context
+    * //3rd Person Plural Pronoun//: **they/them**  (from //Singular//: **he/him/she/her/it**)
+In Standard English, **you ** can be either //Singular //  or //Plural//  based on context. For clarification, 'all' is used to form expressions like "you all" or "all of you" in specifying //2nd Person Plurality//.
+
+
+//**Plural Demonstrative Pronouns:**  // 
+
+
+    * **these ** (from //Singular//: **this**)
+    * **those ** (from //Singular//: **that**)
 //**Plural Indefinite Pronouns:**  // 
 
 
-    * everyone/everybody - (from //Singular//: 'anyone/anybody' or 'someone/somebody')
+    * **everyone/everybody**  - (from //Singular//: **anyone/anybody**  or **someone/somebody**) - these words are usually [[:en:ta:vocabulary:inclusive|inclusive]]
+**//Plural Relative Pronouns//**:
 
 
-//Relative Pronouns//  (who/whom, that, which) can refer to //Singular //  or //Plural //  entities.
+English's //Relative Pronouns//: **who/whom, that, ** and **which**, do not change when they refer to //Plural // entities.
 
 
 "The __man who__  went to the store got lost."
@@ -41,14 +46,22 @@ Unlike some languages, English does not have //Dual Pronouns//, which refer to t
 "The __men who__  went to the store got lost."
 
 
-//**Plural Demonstrative Pronouns:**  // 
+**//Plural Possessive Pronouns:// ** 
 
 
-    * these (from //Singular//: 'this')
-    * those (from //Singular//: 'that')
+    * //1st Person Plural Possessive Pronoun//: **our/ours**  - (from //Singular//: **my/mine**) - these words can be [[:en:ta:vocabulary:exclusive|exclusive]] or [[:en:ta:vocabulary:inclusive|inclusive ]]based on context
+    * //3rd Person Plural Possessive Pronoun//: **their/theirs**  (from //Singular//: **his/her/hers/its**)
+    * //1st Person Possessive Indefinite Pronoun//: **everyone's/everybody's**  - these words are usually [[:en:ta:vocabulary:inclusive|inclusive]]
+    * //1st Person Plural Possessive Relative Pronoun//: **whose** 
+As with **you**, **your/yours**  can be either //Singular//  or //Plural//  based on context.
 
 
-Information on singular pronouns is here: **[[:en:ta:vocabulary:singularpronoun|Singular Pronouns]]** 
+**//Plural // **//****R**eflexive Pronouns:**  // 
+    * //2nd Person Dual Reflexive/3rd Person Dual////Reflexive//: **each other/one another**
+    * //1st Person Plural Reflexive Pronoun//: **ourselves **- this word can be [[:en:ta:vocabulary:exclusive|exclusive]] or [[:en:ta:vocabulary:inclusive|inclusive]] based on context
+    * //2nd Person Plural Reflexive Pronoun//: **yourselves ** (from //Singular//: **yourself**)
+    * //3rd Person Plural Reflexive Pronoun//: **themselves** 
+Information on //**Singular Pronouns**// is here: **[[:en:ta:vocabulary:singularpronoun|Singular Pronouns]]** 
 
 
 ~~DISCUSSIONS~~
