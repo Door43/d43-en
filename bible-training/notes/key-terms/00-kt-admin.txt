@@ -49,10 +49,7 @@ Text
 
 ===== Facts: =====
 
-
 Text
-
-
     * bullet
     * bullet
 
@@ -64,15 +61,12 @@ Text
 
 ===== Bible References: =====
  
- 
 {{topic>name}}
 
 {{tag>unfinishedkt}}
 
-
 ~~DISCUSSION~~
 </code>
-
 
 
 === Followup ===
