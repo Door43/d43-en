@@ -35,7 +35,7 @@ Text
 </code>
 
 
-=== Draft Content for "Name" Page ===
+== Draft Content for "Name" Page ==
 
 <code>
 ====== Name ======
@@ -63,12 +63,10 @@ Text
 </code>
 
 
-=== Followup ===
-
-After you create the page, remove "ktlink" from the page tag (leave "talink" tags).
+**//After you create the page, remove "ktlink" from the page tag (leave "talink" tags).//**
 
 
-=== Links to Draft Terms to Edit ===
+==== Draft Key-Terms Page to Edit ====
 
 The following pages are tagged as "draft" and need to be edited by the team:
 
@@ -76,7 +74,7 @@ The following pages are tagged as "draft" and need to be edited by the team:
 {{topic>en:bible-training:notes?draft}}
 
 
-=== Links to Edited Terms to Review ===
+==== Edited Key-Term Pages to Review ====
 
 The following pages are tagged as "review" and need final review and then to be published:
 
