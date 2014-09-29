@@ -15,6 +15,37 @@ The following pages are tagged with "ktlink" code and contain KT link that do no
   * Name - [[en/bible-training/notes/draft-info/kt-page-fact]]
 
 
+=== Draft Content for "Term" Page: ===
+
+<code>
+====== term ======
+
+
+===== Definition: =====
+
+
+Text
+
+
+    * bullet
+    * bullet
+
+
+(See also: [[:en:bible:notes:key-terms:term]])
+
+
+===== Bible References: =====
+ 
+ 
+{{topic>name}}
+
+{{tag>unfinishedkt}}
+
+
+~~DISCUSSION~~
+<\code>
+
+
 === Followup ===
 
 After you create the page:
