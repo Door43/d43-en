@@ -2,16 +2,19 @@
 
 These are some ideas to guide how the Translation Notes are created:
 
-  * Select a portion that needs discussion and write it in bold.
+  * Select a portion from the ULB that needs discussion and write it in bold.
   * Write a translation suggestion that can be used in place of the portion you have selected.
-    * If the suggestion is synonymous you might start it with "That is,"
-    * If the suggestion includes making implied information explicit, you might say "This can also be translated as,"
+    * If the suggestion is synonymous with the ULB, you might start it with "That is"
+    * If the suggestion includes making implied information explicit, you might start it with "This can also be translated as,"
+    * Precede each suggestion with a comma and put the suggestion in quotes. This isn't the standard English use of punctuation, but it may make it easier for the translators to distinguish translation suggestions from explanation and one suggestion from another.
+        * That is, "Y."
+        * This can also be translated as, "X" or, "Y" or, "Z".
   *  You may also explain the issue, but always include a translation suggestion.
   *  If there is a Translation Academy page that deals with the issue (such as some grammatical category or figure of speech), refer to it by writing, for example, "(See: Metonymy)" or "(See: Exclusive)" at the end of the note.
+  * Normally we do not need to write notes for key terms. But when a key term has multiple senses, you may need to write a note telling which sense is meant in the text.
 
-The Translation Academy has pages dealing with the following topics: \\ 
-[[en:ta:vocabulary:Grammar Topics]] \\
-[[en:ta:figuresofspeech|Figures of Speech]]
+The Translation Academy has pages dealing with names, unknown concepts, grammar, figures of speech, cultural customs, religious customs. You can see these at [[en:ta:ta-topics|Topics]].
+
 
 
 ~~DISCUSSION~~
