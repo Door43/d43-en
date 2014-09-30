@@ -2,7 +2,16 @@
 
 These are some ideas to guide how the Translation Notes are created:
 
-  *
+  * Select a portion that needs discussion and write it in bold.
+  * Write a translation suggestion that can be used in place of the portion you have selected.
+    * If the suggestion is synonymous you might start it with "That is,"
+    * If the suggestion includes making implied information explicit, you might say "This can also be translated as,"
+  *  You may also explain the issue, but always include a translation suggestion.
+  *  If there is a Translation Academy page that deals with the issue (such as some grammatical category or figure of speech), refer to it by writing, for example, "(See: Metonymy)" or "(See: Exclusive)" at the end of the note.
+
+The Translation Academy has pages dealing with the following topics: \\ 
+[[en:ta:vocabulary:Grammar Topics]] \\
+[[en:ta:figuresofspeech|Figures of Speech]]
 
 
 ~~DISCUSSION~~
