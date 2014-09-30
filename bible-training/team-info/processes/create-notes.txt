@@ -13,6 +13,14 @@ These are some ideas to guide how the Translation Notes are created:
   *  If there is a Translation Academy page that deals with the issue (such as some grammatical category or figure of speech), refer to it by writing, for example, "(See: Metonymy)" or "(See: Exclusive)" at the end of the note.  You can see these at [[en:ta:ta-topics|Topics]].
   * Normally we do not need to write notes for key terms. However, when a key term has multiple senses, you may need to write a note telling which sense is meant in the text.
 
+Here are some reasons for different kinds of translation notes:
+
+  * An English word may have multiple senses, so we want to help them understand which sense is intended.
+  * It may not be obvious what a particular pronoun refers to. Or it may be obvious to us, but if the antecedent is on a previous chunk, it might help to remind the translators.
+  * We may need to explain a particular figure of speech.
+  * We may need to make some implicit information explicit for people who are not familiar with the cultures of the Bible.
+  * We may need to give information that will help translators choose the appropriate grammatical form in their language. For example, many languages have distinct singular and plural forms "you," but English does not. If it is not clear from the English text which is intended, we may need to state it in a note. (For example, "At this point, Jesus was only addressing Peter, so languages that have singular and plural forms of 'you' would use the singular form here.")
+
 
 
 
