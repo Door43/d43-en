@@ -4,8 +4,8 @@ These are some ideas to guide how the Translation Notes are created:
 
   * Select a portion from the ULB that needs discussion and write it in bold.
   * Write a translation suggestion that can be used in place of the portion you have selected.
-    * If the suggestion is synonymous with the ULB, you might start it with "That is"
-    * If the suggestion includes making implied information explicit, you might start it with "This can also be translated as,"
+    * If the suggestion is synonymous with the ULB, you might start it with "That is."
+    * If the suggestion includes making implied information explicit, you might start it with "This can also be translated as."
     * Precede each suggestion with a comma and put the suggestion in quotes. This isn't the standard English use of punctuation, but it may make it easier for the translators to distinguish translation suggestions from explanation and one suggestion from another.
         * That is, "Y."
         * This can also be translated as, "X" or, "Y" or, "Z".
