@@ -1,0 +1,70 @@
+====== Edit the UDB ======
+
+
+=== Purpose of the UDB ===
+
+
+The UDB (UnfoldingWord Dynamic Bible) is a "dynamic" version that is intended as a source text for translation of the Bible into languages that are not able to clearly convey the meaning of the text in a more literal form.
+
+
+The UDB is not a "finished translation." Rather, its purpose is to serve as a source language for other translations. Therefore, it is more important that it convey the meaning of the Bible text than it is to be "polished." However, the UDB should always be very easy to read–even for people whose first language is not English.
+
+
+=== Source of the UDB ===
+
+
+The UDB is an adaptation of the TFT (Translation for Translators). The TFT is a very dynamic translation that removes most of the complex theological terms. It also replaces idioms and figures of speech with clear text meanings. Furthermore, it adds significant inline content as an aid to understanding the meaning of the text.
+
+
+=== Style of the UDB ===
+
+
+Unlike the TFT, the UDB is intended to be accompanied by the translation notes and key-term explanations. Therefore, it is not necessary for it to include all of the additional inline content of the TFT. Some features of the TFT are still important, however.
+
+
+Unlike the TFT, the UDB:
+
+
+    * Does not contain the additional explanatory words, phrases and sentences not found in the text, //unless//  they are necessary for the understanding of the passage. Most of this content will be moved to the notes.
+    * Retains idioms and figures of speech if they are clear, but replaces them if they are likely to be confused.
+    * Seeks to be consistent in its use of theological key terms.
+
+
+Like the TFT, the UDB:
+
+
+    * Retains the preference for dynamic text - the meaning is to be conveyed simply and clearly.
+    * Keeps the shortened sentences as much as possible.
+    * Uses simpler language to replace complex abstract nouns.
+    * Should be very easy to read for readers with moderate English skills.
+    * Provides an alternative way to express the same meaning as in the more literal ULB.
+
+
+=== Editing the UDB ===
+
+
+The lead editor of the UDB will:
+
+
+    * Remove the section headings (/s) and titles (/sr).
+    * Remove all footnotes.
+    * Divide the text into small, manageable chunks of 1-4 verses using a space and (/s5).
+    * Verify that the chunks match the division of the ULB.
+
+
+The edit team members will:
+
+
+    * Restore the idioms and figures of speech that would likely be understood.
+    * Restore the theological words that can be easily explained in the notes.
+    * Remove unnecessary added commentary and comments.
+    * Check that the English level is easy to understand.
+    * Keep the sentences short if possible.
+    * Retain the dynamic nature of the text–it should compliment the "literal" ULB rather than be similar to it.
+    * Correct any errors that have resulted from making the text too easy to read, or from making the ambiguous clear.
+
+
+See the attached document on {{:en:bible:team-info:processes:how_to_use_ether_padv2.pdf|How to Use the Ether Pad}}  interface.
+
+
+(See also: [[:en:bible:team-info:processes:edit-ulb|Edit the ULB]])

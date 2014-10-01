@@ -1,165 +1,205 @@
 ====== Monthly Changes in OBS Namespaces ======
 
 
-**[[:abp:obs|Ayta Abellen (abp)]]**
+**[[:abp:obs|abp OBS]]**
 {{changes>ns=abp:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
-**[[:abs:obs|Melayu Ambon (abs)]]**
+**[[:abs:obs|abs OBS]]**
 {{changes>ns=abs:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
-**[[:aii:obs| ܐܬܘܪܝܐ ܣܘܪܝܝܐ (Assyrian, aii)]]**
+**[[:aii:obs|aii OBS]]**
 {{changes>ns=aii:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
-**[[:am:obs|አማርኛ (Amharic, am)]]**
+**[[:am:obs|am OBS]]**
 {{changes>ns=am:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
-**[[:ar:obs| العربية (Arabic, ar)]]**
+**[[:ar:obs|ar OBS]]**
 {{changes>ns=ar:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
-**[[:arz:obs|اللغة المصرية العامية (Egyptian Arabic, arz)]]**
+**[[:arz:obs|arz OBS]]**
 {{changes>ns=arz:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
-**[[:az:obs|Azərbaycan dili (az)]]**
+**[[:as:obs|as OBS]]**
+{{changes>ns=as:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
+**[[:az:obs|az OBS]]**
 {{changes>ns=az:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
-**[[:bal:obs|Baluchi (bal)]]**
+**[[:bal:obs|bal OBS]]**
 {{changes>ns=bal:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
-**[[:bhj:obs|Bahing (bhj)]]**
+**[[:bhj:obs|bhj OBS]]**
 {{changes>ns=bhj:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
-**[[:bho:obs|Bhojpuri (bho)]]**
+**[[:bho:obs|bho OBS]]**
 {{changes>ns=bho:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
-**[[:blx:obs|Ayta Mag-Indi (blx)]]**
+**[[:blx:obs|blx OBS]]**
 {{changes>ns=blx:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
-**[[:bnp:obs|Bola (bnp)]]**
+**[[:bn:obs|bn OBS]]**
+{{changes>ns=bn:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
+**[[:bnp:obs|bnp OBS]]**
 {{changes>ns=bnp:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
-**[[:brx:obs|Bodo (brx)]]**
+**[[:brx:obs|brx OBS]]**
 {{changes>ns=brx:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
-**[[:cnh:obs|Chin, Haka (cnh)]]**
+**[[:ceb:obs|ceb OBS]]**
+{{changes>ns=ceb:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
+**[[:cnh:obs|cnh OBS]]**
 {{changes>ns=cnh:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
-**[[:de:obs|Deutsch (de)]]**
+**[[:de:obs|de OBS]]**
 {{changes>ns=de:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
-**[[:dgo:obs|Dogri (dgo)]]**
+**[[:dgo:obs|dgo OBS]]**
 {{changes>ns=dgo:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
-**[[:en:obs|English (en)]]**
+**[[:dng:obs|dng OBS]]**
+{{changes>ns=dng:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
+**[[:dz:obs|dz OBS]]**
+{{changes>ns=dz:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
+**[[:en:obs|en OBS]]**
 {{changes>ns=en:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
-**[[:es:obs|Español (es)]]**
+**[[:es:obs|es OBS]]**
 {{changes>ns=es:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
-**[[:es-419:obs|Español Latin America (es-419)]]**
+**[[:es-419:obs|es-419 OBS]]**
 {{changes>ns=es-419:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
-**[[:et:obs|Eesti (et)]]**
+**[[:et:obs|et OBS]]**
 {{changes>ns=et:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
-**[[:fa:obs|فارسی (Persian, fa)]]**
+**[[:fa:obs|fa OBS]]**
 {{changes>ns=fa:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
-**[[:fr:obs|Français (fr)]]**
+**[[:fr:obs|fr OBS]]**
 {{changes>ns=fr:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
-**[[:frd:obs|Fordata (frd)]]**
+**[[:frd:obs|frd OBS]]**
 {{changes>ns=frd:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
-**[[:gaj:obs|Gadsup (gaj)]]**
+**[[:gaj:obs|gaj OBS]]**
 {{changes>ns=gaj:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
-**[[:hi:obs|हिन्दी, हिंदी (Hindi, hi)]]**
+**[[:gu:obs|gu OBS]]**
+{{changes>ns=gu:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
+**[[:ha:obs|ha OBS]]**
+{{changes>ns=ha:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
+**[[:hi:obs|hi OBS]]**
 {{changes>ns=hi:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
-**[[:ht:obs|Kreyòl Ayisyen (ht)]]**
+**[[:ht:obs|ht OBS]]**
 {{changes>ns=ht:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
-**[[:hu:obs|Magyar (hu)]]**
+**[[:hu:obs|hu OBS]]**
 {{changes>ns=hu:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
-**[[:id:obs|Bahasa Indonesia (id)]]**
+**[[:id:obs|id OBS]]**
 {{changes>ns=id:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
-**[[:ilo:obs|Ilokano (ilo)]]**
+**[[:ilo:obs|ilo OBS]]**
 {{changes>ns=ilo:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
-**[[:jit:obs|Echijita (jit)]]**
+**[[:ja:obs|ja OBS]]**
+{{changes>ns=ja:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
+**[[:jit:obs|jit OBS]]**
 {{changes>ns=jit:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
-**[[:jmd:obs|Yamdena (jmd)]]**
+**[[:jmd:obs|jmd OBS]]**
 {{changes>ns=jmd:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
-**[[:kmb:obs|Kimbundu (kmb)]]**
+**[[:kkl:obs|kkl OBS]]**
+{{changes>ns=kkl:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
+**[[:km:obs|km OBS]]**
+{{changes>ns=km:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
+**[[:kmb:obs|kmb OBS]]**
 {{changes>ns=kmb:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
-**[[:kn:obs| ಕನ್ನಡ (Kannada, kn)]]**
+**[[:kn:obs|kn OBS]]**
 {{changes>ns=kn:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
-**[[:ko:obs|한국어 (Korean, ko)]]**
+**[[:ko:obs|ko OBS]]**
 {{changes>ns=ko:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
-**[[:ktu:obs|Kituba (ktu)]]**
+**[[:ktu:obs|ktu OBS]]**
 {{changes>ns=ktu:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
-**[[:lgg:obs|Lugbarati (lgg)]]**
+**[[:lgg:obs|lgg OBS]]**
 {{changes>ns=lgg:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
-**[[:lki:obs|لەکی (‎Laki, lki)]]**
+**[[:lki:obs|lki OBS]]**
 {{changes>ns=lki:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
-**[[:ln:obs|Lingála (ln)]]**
+**[[:ln:obs|ln OBS]]**
 {{changes>ns=ln:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
-**[[:loe:obs|Saluan (loe)]]**
+**[[:lo:obs|lo OBS]]**
+{{changes>ns=lo:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
+**[[:loe:obs|loe OBS]]**
 {{changes>ns=loe:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
-**[[:lua:obs|Luba-Lulua (lua)]]**
+**[[:lua:obs|lua OBS]]**
 {{changes>ns=lua:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
-**[[:lv:obs|Latviešu Valoda (lv)]]**
+**[[:lv:obs|lv OBS]]**
 {{changes>ns=lv:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
-**[[:mgh:obs|Makhuwa-Meetto (mgh)]]**
+**[[:mg:obs|mg OBS]]**
+{{changes>ns=mg:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
+**[[:mgh:obs|mgh OBS]]**
 {{changes>ns=mgh:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
-**[[:ms:obs|Bahasa Melayu (ms)]]**
+**[[:ml:obs|ml OBS]]**
+{{changes>ns=ml:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
+**[[:mn:obs|mn OBS]]**
+{{changes>ns=mn:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
+**[[:mr:obs|mr OBS]]**
+{{changes>ns=mr:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
+**[[:ms:obs|ms OBS]]**
 {{changes>ns=ms:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
-**[[:my:obs| ဗမာစာ (Burmese, my)]]**
+**[[:my:obs|my OBS]]**
 {{changes>ns=my:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
-**[[:mzn:obs|مازندرانی (Mazanderani, mzn)]]**
+**[[:mzn:obs|mzn OBS]]**
 {{changes>ns=mzn:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
-**[[:ne:obs|नेपाली (Nepali, ne)]]**
+**[[:ne:obs|ne OBS]]**
 {{changes>ns=ne:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
-**[[:nl:obs|Nederlands (nl)]]**
+**[[:nl:obs|nl OBS]]**
 {{changes>ns=nl:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
-**[[:nxl:obs|Nuaulu (nxl)]]**
+**[[:nxl:obs|nxl OBS]]**
 {{changes>ns=nxl:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
-**[[:pgg:obs|Pangwali (pgg)]]**
+**[[:or:obs|or OBS]]**
+{{changes>ns=or:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
+**[[:pa:obs|pa OBS]]**
+{{changes>ns=pa:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
+**[[:pgg:obs|pgg OBS]]**
 {{changes>ns=pgg:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
-**[[:pl:obs|Polski (pl)]]**
+**[[:pl:obs|pl OBS]]**
 {{changes>ns=pl:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:playground:obs|playground OBS]]**
 {{changes>ns=playground:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
-**[[:ppq:obs|Pefiyahe (ppq)]]**
+**[[:ppq:obs|ppq OBS]]**
 {{changes>ns=ppq:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
-**[[:prs:obs|دری‎ (Afghan Persian, prs)]]**
+**[[:prs:obs|prs OBS]]**
 {{changes>ns=prs:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
-**[[:pt-br:obs|Português do Brasil (pt-BR)]]**
+**[[:ps:obs|ps OBS]]**
+{{changes>ns=ps:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
+**[[:pt:obs|pt OBS]]**
+{{changes>ns=pt:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
+**[[:pt-br:obs|pt-br OBS]]**
 {{changes>ns=pt-br:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
-**[[:ru:obs|Русский (Russian, ru)]]**
+**[[:ru:obs|ru OBS]]**
 {{changes>ns=ru:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
-**[[:sdh:obs|کوردی خوارگ (Kermanshahi, sdh)]]**
+**[[:sdh:obs|sdh OBS]]**
 {{changes>ns=sdh:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
-**[[:shn:obs|လိၵ်ႈတႆး (Shan, shn)]]**
+**[[:shn:obs|shn OBS]]**
 {{changes>ns=shn:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
-**[[:sk:obs|Slovenčina (sk)]]**
+**[[:sk:obs|sk OBS]]**
 {{changes>ns=sk:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
-**[[:slu:obs|Selaru (slu)]]**
+**[[:slu:obs|slu OBS]]**
 {{changes>ns=slu:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
-**[[:so:obs| Soomaaliga (so)]]**
+**[[:so:obs|so OBS]]**
 {{changes>ns=so:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
-**[[:srp:obs|Srpski (srp)]]**
+**[[:srp:obs|srp OBS]]**
 {{changes>ns=srp:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
-**[[:sw:obs|Kiswahili (sw)]]**
+**[[:sw:obs|sw OBS]]**
 {{changes>ns=sw:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
-**[[:ta:obs|தமிழ் (Tamil, ta)]]**
+**[[:ta:obs|ta OBS]]**
 {{changes>ns=ta:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
-**[[:tdj:obs|తెలుగు (Tajio, tdj)]]**
+**[[:tdj:obs|tdj OBS]]**
 {{changes>ns=tdj:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
-**[[:te:obs|తెలుగు (Telegu, te)]]**
+**[[:te:obs|te OBS]]**
 {{changes>ns=te:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
-**[[:tg:obs|Тоҷикӣ (Tajik, tg)]]**
+**[[:tg:obs|tg OBS]]**
 {{changes>ns=tg:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
-**[[:th:obs|ไทย (Thai, th)]]**
+**[[:th:obs|th OBS]]**
 {{changes>ns=th:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
-**[[:tk:obs|تورکمن ﺗﻴﻠی ,تورکمنچ (Turkmen, tk)]]**
+**[[:tk:obs|tk OBS]]**
 {{changes>ns=tk:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
-**[[:tl:obs|Wikang Tagalog (tl)]]**
+**[[:tl:obs|tl OBS]]**
 {{changes>ns=tl:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
-**[[:tll:obs|Tetela (tll)]]**
+**[[:tll:obs|tll OBS]]**
 {{changes>ns=tll:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
-**[[:tr:obs|Türkçe (Turkish, tr)]]**
+**[[:tpi:obs|tpi OBS]]**
+{{changes>ns=tpi:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
+**[[:tr:obs|tr OBS]]**
 {{changes>ns=tr:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
-**[[:ttt-x-ismai:obs|Ismaili (ttt-x-ismai)]]**
+**[[:ttt-x-ismai:obs|ttt-x-ismai OBS]]**
 {{changes>ns=ttt-x-ismai:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
-**[[:ttt-x-txizi:obs|Xizi (ttt-x-txizi)]]**
+**[[:ttt-x-txizi:obs|ttt-x-txizi OBS]]**
 {{changes>ns=ttt-x-txizi:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
-**[[:ums:obs|Pendau (ums)]]**
+**[[:ums:obs|ums OBS]]**
 {{changes>ns=ums:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
-**[[:ur:obs|اردو (Urdu, ur)]]**
+**[[:ur:obs|ur OBS]]**
 {{changes>ns=ur:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
-**[[:vi:obs|Tiếng Việt (Vietnamese, vi)]]**
+**[[:vi:obs|vi OBS]]**
 {{changes>ns=vi:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
-**[[:wo:obs|Wollof (wo)]]**
+**[[:wo:obs|wo OBS]]**
 {{changes>ns=wo:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
-**[[:xmf:obs|მარგალური (Mingrelian, xmf)]]**
+**[[:xmf:obs|xmf OBS]]**
 {{changes>ns=xmf:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
-**[[:yao:obs|Chiyao (yao)]]**
+**[[:yao:obs|yao OBS]]**
 {{changes>ns=yao:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
-**[[:zh:obs|中文 (Chinese, zh)]]**
+**[[:zh:obs|zh OBS]]**
 {{changes>ns=zh:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
-**[[:zmz:obs|Mbandja (zmz)]]**
+**[[:zmz:obs|zmz OBS]]**
 {{changes>ns=zmz:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
