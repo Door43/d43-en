@@ -4,7 +4,7 @@
 publish date: 
 
 
-version: ??
+version: 2.1
 
 
 contributors: 
@@ -13,13 +13,13 @@ contributors:
 checking entity: translation team
 
 
-checking level: ??
+checking level: 1
 
 
 source text: en
 
 
-source text version: ??
+source text version: 2.0
 
 
 comments: 
