@@ -79,6 +79,8 @@
 {{changes>ns=jit:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:jmd:obs|jmd OBS]]**
 {{changes>ns=jmd:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
+**[[:kh:obs|kh OBS]]**
+{{changes>ns=kh:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:kkl:obs|kkl OBS]]**
 {{changes>ns=kkl:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:km:obs|km OBS]]**
@@ -197,8 +199,6 @@
 {{changes>ns=wo:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:xmf:obs|xmf OBS]]**
 {{changes>ns=xmf:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
-**[[:xxx:obs|xxx OBS]]**
-{{changes>ns=xxx:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:yao:obs|yao OBS]]**
 {{changes>ns=yao:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:zh:obs|zh OBS]]**
