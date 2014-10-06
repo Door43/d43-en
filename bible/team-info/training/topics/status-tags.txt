@@ -1,0 +1,14 @@
+====== Page Status Tags ======
+
+
+The Notes and KT pages contain status tags at the bottom. These tags should be changed only by team leaders or people specifically assigned by them to do so. These tags are key to the workflow between the teams. 
+
+The main tags and their meaning are:
+
+  * **talink** - this alerts the Translation Academy team that a new topic needs to be created on a Notes page
+  * **draft** - this indicates that a page needs to have draft content created by the appropriate team
+  * **review** - this indicates that the page is ready for final review by the team leader and assistant
+  * **publish** - this indicates that the page is finished and ready to release in the app
+
+
+{{tag>notes301 kt301}}
