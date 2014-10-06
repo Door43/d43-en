@@ -4,7 +4,6 @@
 ===== TFT: =====
 
 <usfm>
-\p
 \v 8 One day \add Zechariah's\add* group was doing their work \add in the Temple in Jerusalem\add*, and he was serving as a priest in God's presence.
 \v 9 Following their custom, \add the other priests\add* chose him by lot to enter the Lord's temple and burn incense.
 \v 10 While he was burning the incense, many people were outside \add in the courtyard\add*, praying.
@@ -14,9 +13,8 @@
 ===== UDB: =====
 
 <usfm>
-\p 
-\v 8 One day Zechariah was serving as a priest in the temple in Jerusalem during his group's regular time of service there. 
-\v 9 Following their custom, the priests chose him by lot to go into the Lord's temple and burn incense. 
+\v 8 One day Zechariah was serving as a priest in the temple in Jerusalem during his group's regular time of service there.
+\v 9 Following their custom, the priests chose him by lot to go into the Lord's temple and burn incense.
 \v 10 When the time came for him to burn the incense, many people were praying in the courtyard outside the temple.
 </usfm>
 

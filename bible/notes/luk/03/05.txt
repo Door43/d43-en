@@ -4,32 +4,34 @@
 ===== TFT: =====
 
 <usfm>
-\pi
 \v 5 \add Just like people\add* level off all the places where the land rises and \add just like they\add* fill all the ravines,
 \pi and \add just like people\add* make the road straight wherever it is crooked,
 \pi and \add just like people\add* make smooth the bumps in the road,
 \pi \add Similarly you need to remove all the obstacles which prevent God from blessing you!\add*
 \pi
 \v 6 Then people \f + \ft synecdoche \f* everywhere will understand how God can save \f + \ft metonymy \f* \add people\add*.
+\p
 </usfm>
 
 
 ===== UDB: =====
 
 <usfm>
-\s5
-\q1 \v 5 Every valley will be filled,
+\v 5 Every valley will be filled,
 \q1 And every mountain and hill will be made level;
 \q1 The crooked roads will become straight,
 \q1 And the rough ways will be made smooth.
-\q1 \v 6 Then everyone will see  God's way of saving people.'"
+\q1
+\v 6 Then everyone will see  God's way of saving people."
+
+
+\p
 </usfm>
 
 
 ===== ULB: =====
 
 <usfm>
-\s5
 \q1 \v 5 Every valley will be filled,
 \q1 And every mountain and hill will be made level;
 \q1 And the crooked roads will become straight,

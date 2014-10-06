@@ -4,7 +4,6 @@
 ===== TFT: =====
 
 <usfm>
-\p
 \v 8 That night, there were \add some\add* shepherds who were taking care of their sheep \add as usual\add* in the fields near \add Bethlehem\add*.
 \v 9 An angel from God appeared to them. A great light from the Lord\f + \ft Or: from God \f* shone on them and around them. \add So\add* they became very afraid.
 </usfm>
@@ -13,9 +12,7 @@
 ===== UDB: =====
 
 <usfm>
-\s5
-\p
-\v 8 That night, there were some shepherds who were taking care of their sheep in the fields near Bethlehem. 
+\v 8 That night, there were some shepherds who were taking care of their sheep in the fields near Bethlehem.
 \v 9 Suddenly an angel of the Lord God appeared to them. A bright light shone all around them, showing the Lord's glory. So they became very afraid.
 </usfm>
 
@@ -23,7 +20,6 @@
 ===== ULB: =====
 
 <usfm>
-\s5
 \p 
 \v 8  In that same region, there were shepherds who were living out in the fields and keeping watch over their flocks of sheep at night.  
 \v 9 Suddenly, an angel of the Lord appeared to them, and the glory of the Lord was shining all around them, and they were very afraid.

@@ -4,17 +4,18 @@
 ===== TFT: =====
 
 <usfm>
-\p
 \v 21 \add But before John was put in prison\add*, when many people were being baptized \f + \ft Or:when he was baptizing many people \f*, after Jesus was baptized and \f + \ft Or:he baptized Jesus \f* and Jesus was praying, the sky opened.
 \v 22 Then the Holy Spirit, resembling a dove, descended upon \add Jesus\add*. And \add God\add* [SYN\f + \ft Or: EUP \f*] spoke to Jesus from heaven, saying, "You\add \f + \ft singular \f*\add* are my Son, the one whom I love dearly. I am very pleased with you!"
+
+
+\p
 </usfm>
 
 
 ===== UDB: =====
 
 <usfm>
-\s5
-\v 21 But before John was put in prison, when many people were being baptized, Jesus also was baptized. Afterwards, while he was praying, the sky opened. 
+\v 21 But before John was put in prison, when many people were being baptized, Jesus also was baptized. Afterwards, while he was praying, the sky opened.
 \v 22 Then the Holy Spirit, resembling a dove, came down and landed on Jesus. And God spoke to Jesus from heaven, saying, "You are my Son, the one whom I love dearly. I am very pleased with you!"
 </usfm>
 
@@ -22,7 +23,7 @@
 ===== ULB: =====
 
 <usfm>
-\s5:
+:
 \p 
 \v 21 Now it came about, while all the people were being baptized by John, that Jesus also was baptized. While he was praying, heaven opened up.  
 \v 22 And the Holy Spirit came down on him in bodily form like a dove, and a voice came out of heaven, "You are my beloved Son; I am very pleased with you."

@@ -4,7 +4,6 @@
 ===== TFT: =====
 
 <usfm>
-\p
 \v 41 Every year Jesus' parents went to Jerusalem to \add celebrate\add* the Passover festival.
 \v 42 So when Jesus was twelve years old, they went up \add to Jerusalem\add* as they always did.
 \v 43 When the celebration ended, his parents started to return home, but Jesus stayed in Jerusalem. \add His parents\add* did not realize that \add Jesus stayed there\add*.
@@ -15,19 +14,16 @@
 ===== UDB: =====
 
 <usfm>
-\s5
-\p
-\v 41 Every year Jesus' parents went to Jerusalem to celebrate the Passover festival. 
-\v 42 So when Jesus was twelve years old, they went up to Jerusalem for the festival as they always did. 
-\v 43 When all the days for the festival had ended, his parents started to return home, but Jesus stayed behind in Jerusalem. His parents did not know he was still there. 
-\v 44 They assumed that he was with the other people who were traveling with them. After walking a whole day's jouney, they started to look for him among their relatives and friends. 
+\v 41 Every year Jesus' parents went to Jerusalem to celebrate the Passover festival.
+\v 42 So when Jesus was twelve years old, they went up to Jerusalem for the festival as they always did.
+\v 43 When all the days for the festival had ended, his parents started to return home, but Jesus stayed behind in Jerusalem. His parents did not know he was still there.
+\v 44 They assumed that he was with the other people who were traveling with them. After walking a whole day's jouney, they started to look for him among their relatives and friends.
 </usfm>
 
 
 ===== ULB: =====
 
 <usfm>
-\s5
 \p 
 \v 41 And his parents went every year to Jerusalem for the feast of the Passover.  
 \v 42 And when he was twelve years old, they again went up at the customary time for the feast.  
