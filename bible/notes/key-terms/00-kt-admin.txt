@@ -1,12 +1,14 @@
 ====== Key Terms Administration ======
 
 
-==== Key-Term Pages to Create ====
+==== Key-Terms Page Status ====
 
-The following pages are tagged with "ktlink" and need for pages to be created:
+The following pages are tagged as "draft" and need to be edited by the team, or as "review" and are ready for the final edit.  
 
 
-{{topic>en:bible:notes:key-terms?ktlink}}
+| Draft Pages | Review Pages |
+|{{topic>en:bible:notes:key-terms?draft}}|{{topic>en:bible:notes:key-terms?review}}|
+
 
 
 == Draft Content for "Term" Page: ==
@@ -68,22 +70,4 @@ Text
 {{tag>draft}}
 </code>
 
-
-**//After you create the page, remove "ktlink" from the page tag (leave "talink" tags).//**
-
-
-==== Draft Key-Terms Page to Edit ====
-
-The following pages are tagged as "draft" and need to be edited by the team: 
-
-
-{{topic>en:bible:notes:key-terms?draft}}
-
-
-==== Edited Key-Term Pages to Review ====
-
-The following pages are tagged as "review" and need final review and then to be published:
-
-
-{{topic>en:bible:notes:key-terms?review}}
 
