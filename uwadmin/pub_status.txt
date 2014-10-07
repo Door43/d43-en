@@ -11,3 +11,7 @@
 ===== ru =====
 ^Language   ^Publish Date   ^Version    ^Checking Level ^
 |  [[:en:uwadmin:ru:obs:status|Русский]]  |  2014-09-17  |  2.1  |  {{http://api.unfoldingword.org/obs/jpg/1/checkinglevels/uW-Level1-32px.png}}  |
+
+===== fr =====
+^Language   ^Publish Date   ^Version    ^Checking Level ^
+|  [[:en:uwadmin:fr:obs:status|Français]]  |  2014-10-06  |  3.2  |  {{http://api.unfoldingword.org/obs/jpg/1/checkinglevels/uW-Level1-32px.png}}  |
