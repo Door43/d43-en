@@ -9,13 +9,13 @@ Each page was automatically assigned the following tag when it was created:
 
 <code>
 {{tag>draft}}
-<\code>
+</code>
 
 When the Notes teams finish adding the draft content, the LPM will change the status tag in each page to:
 
 <code>
 {{tag>review}}
-<\code>
+</code>
 
 
 ==== Add KT Hyperlinks ====
@@ -25,7 +25,7 @@ The Notes team will identify KT's for each chunk in a bullet list. The LPM will 
 
 <code>
   * [[en:bible:notes:key-terms:term|term]]
-<\code>
+</code>
 
 The display name of the KT's in the list will remain in the format of the original bullet list, which will be how they appear in the ULB on that chunk page. 
 
@@ -38,7 +38,7 @@ When KT's on the Notes page are not found in the https://door43.org/en/bible/not
 
 <code>
 https://door43.org/en/bible/notes/key-terms/urlname
-<\code>
+</code>
 
 For one-word KT's, the word will become the URL name. If the term is a multi-word phrase, the words will be run together without spaces, hyphens, or other breaks, as with existing terms.
 
@@ -71,7 +71,7 @@ Text
 
 {{tag>draft}}
 
-<\code>
+</code>
 
 The draft code for a "Name" KT page is:
 
@@ -102,7 +102,7 @@ Text
 
 {{tag>draft}}
 
-<\code>
+</code>
 
 Change the "term" or "Name" placeholder text to the title of the KT.
 
@@ -110,5 +110,5 @@ Also add the URL name to the topic tag at the bottom of the new page, as below:
 
 <code>
 {{topic>urlname}}
-<\code>
+</code>
 
