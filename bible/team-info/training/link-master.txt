@@ -29,7 +29,7 @@ The Notes team will identify KT's for each chunk in a bullet list. The LPM will 
 
 The display name of the KT's in the list will remain in the format of the original bullet list, which will be how they appear in the ULB on that chunk page. 
 
-The link will use the URL name of the term. These names can be found by reading the tooltip popup on the https://door43.org/en/bible/notes/key-terms/01-kt-list page. If the term is a multi-word phrase, the words will be run together without spaces, hyphens, or other breaks. 
+The link will use the URL name of the term. These names can be found by reading the tooltip popup on the https://door43.org/en/bible/notes/key-terms/01-kt-list page. If the term is a multi-word phrase, the words will be run together without spaces, hyphens, or other breaks (ex: kingdomofJudah). 
 
 
 ==== Create KT Pages as Needed ====
