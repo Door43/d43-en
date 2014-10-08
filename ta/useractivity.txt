@@ -3,12 +3,16 @@
 Chris Jarka
 {{changes>user=USERNAMEHERE&count=50&render=pagelist(header,date,user,nocomments)&maxage=25920000}}
 
+Changes this week
 
 **[[:en:bible|EN Bible]]**
 {{changes>ns=en:bible&maxage=604800&render=pagelist(header,date,user,nocomments)}}
 
+Changes this week on tag=publish
 
 **[[:en:bible|EN Bible]]**
-{{changes>ns=en:bible&maxage=604800&render=publish(pagelist_flags=header,date,user,nocomments)}}
+{{changes>ns=en:bible&maxage=604800&render=pagelist(topic>publish)(pagelist_flags=header,date,user,nocomments)}}
 
-{{topic>en:bible:notes:luk?publish&header&date&user&nocomments)}}
+
+
+
