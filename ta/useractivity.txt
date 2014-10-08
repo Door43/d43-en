@@ -9,4 +9,4 @@ Chris Jarka
 
 
 **[[:en:bible|EN Bible]]**
-{{changes>ns=en:bible&maxage=604800&render=pagelist(pagelist_flags=header,date,user,nocomments)}}
+{{changes>ns=en:bible&maxage=604800&render=publish(pagelist_flags=header,date,user,nocomments)}}
