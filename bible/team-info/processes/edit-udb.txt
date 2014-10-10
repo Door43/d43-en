@@ -10,7 +10,7 @@ The UDB (UnfoldingWord Dynamic Bible) is a “dynamic” version that is intende
 The UDB and ULB texts are not intended to be “finished” or “polished” translations. Rather, they are meant only to serve as source texts for other translations. With this in mind, the primary aim of both these source texts is to accurately convey the meaning of the Bible text in a way that is easy to understand, even for people whose first language is not English. The ULB is more literal, staying closer to the structure of the original text and is more limiting in its use of implied information. The UDB, while still retaining the clear meaning of the original Greek text, allows more flexibility in sentence structure and vocabulary in order to achieve a highly natural way of expressing that meaning.
 
 
-**The text from which the UDB is being adapted** 
+**The Text from which the UDB Is Being Adapted** 
 
 
 The UDB is an adaptation of the Translation for Translators (TFT). However there are many differences between the two texts. The TFT is closer to a paraphrase in style in that it removes most complex theological terms, idioms and other figures of speech, and replaces them with simpler wording. With the goal of explaining the meaning of the text, it also adds a large amount of implied information, some of which is interpretive.
@@ -21,7 +21,7 @@ The UDB, too, is a very readable text, but it does not eliminate the theological
 
 
 \\ 
-**In summary, the UDB:** 
+**In Summary, the UDB:** 
 
 
  Is a dynamic, easy-to-understand text in which the meaning of the Greek text is conveyed simply and clearly.\\ 
@@ -39,8 +39,7 @@ The UDB, too, is a very readable text, but it does not eliminate the theological
 The edit team members will:
 
 
-    * Check to see what the original idioms and figures of speech were and put them back in the text if they are easy to understand.
-    * Sometimes a brief comment is added to make the meaning clear. Longer explanations will be left for the notes.
+    * Check to see what the original idioms and figures of speech were and put them back in the text if they are easy to understand. Sometimes a brief comment is added to make the meaning clear. Longer explanations will be left for the notes.
     * Restore the theological words (such as forgiveness, repentance, salvation) that can easily be explained in the notes or key term pages.
     * Remove unnecessary added commentary and comments that were in the TFT text.
     * Check that the English level is easy to understand.
@@ -49,7 +48,7 @@ The edit team members will:
     * Correct any errors that have resulted from making the text too far from the Greek text, or from making some things clear at the expense of obscuring others.
 
 
-**Notes regarding drafting ULB and UDB texts:** 
+**Notes regarding drafting ULB and UDB texts** 
 
 
 1. The system we are using to draft these texts involves editors being able to edit the texts simultaneously. That means that what one editor deleted or added may be changed by another editor. However all the previous edits are preserved and can be viewed by using the timeline. The final editor will make decisions regarding what edits will be used for the final draft. Discussion about the edits or about alternate suggestions for the final editor to consider can be made in the chat boxes.
