@@ -58,6 +58,27 @@ Translation Choices:
     * For "lawyers" use "experts in the Jewish law." Keep "scribes."
 
 
+Notes regarding drafting ULB and UDB texts:
+
+
+1. The system we are using to draft these texts involves editors being able to edit the texts simultaneously. That means that what one editor deleted or added may be changed by another editor. However all the previous edits are preserved and can be viewed by using the timeline. The final editor will make decisions regarding what edits will be used for the final draft. Discussion about the edits or about alternate suggestions for the final editor to consider can be made in the chat boxes.
+
+
+2. Although we are drafting these source texts in English, they will also be translated into other major languages (such as Spanish, French and others) to serve as source texts for people who know those languages and who will use these texts to translate into their own languages. Therefore the source texts have to be fairly easy to understand in order to be translated into the major languages, which in turn will need to be in a form that is easy to understand. Having them in natural English will set an example of naturalness that these other major languages can follow.
+
+
+3. Translating from one language to another will involve changes in structure and differences in vocabulary. For example, one word in the first language may require two or more in the second language. The opposite will also be true, where the first language uses several words but the second language has to say it using only one word. Sometimes it is more natural in a language to omit a word like “is” (ex. Greek or Indonesian) whereas another language requires it (ex. English or French). The meaning is exactly the same but the way of expressing that meaning will be different depending on the language.
+
+
+4. Strict adherence to certain words or structures at the expense of meaning results in a “translation” that does not preserve the meaning of the original text. So as these texts are drafted, we need to keep in mind that our aim is to faithfully communicate the meaning of the Greek text. A translation that does not make sense in the second language is not being faithful to the original text (which was written for the purpose of communicating a message). A stilted, unnatural translation obscures meaning, which is the opposite of what a translation should do.
+
+
+5. Words will not always be translated exactly the same way every time they occur in the text since in every language, some words will have more than one meaning. One example in Greek is the word that can mean either “sky” or “heaven” depending on the context. In French the word for “dear” can also mean “expensive.”  The word “run” in English can have many different meanings. There are many more examples like these in other languages. In these cases, the meaning of the word is usually made clear by the other words and sentences surrounding it.
+
+
+6. The goal of both the ULB and UDB texts is to accurately communicate the meaning of the Greek text. The ULB will also strive to keep as closely as possible to the Greek words and language structures as long as doing so does not change the meaning or make it hard to understand. The UDB will allow more flexibility so as to produce an even more natural English text that communicates the same meaning in a more dynamic way.
+
+
 See the attached document on {{:en:bible:team-info:processes:how_to_use_ether_padv2.pdf|How to Use the Ether Pad}}  interface.
 
 
