@@ -1,36 +1,15 @@
 ====== Edit the ULB ======
 
 
-Purpose of the ULB
-
-
-The ULB (UnfoldingWord Literal Bible) is a "literal" version that is intended as a source text for translation of the Bible that will not only convey the meaning of the original language very closely, but will try to reflect the form of the original text as much as possible without causing problems in comprehension.
-
-
-The ULB is not a "finished translation." Rather, its purpose is to serve as a source language for other translations. Therefore, it is more important that it convey the meaning of the Bible text than it is to be "polished." However, the ULB should still be easy to read–even for people whose first language is not English.
-
-
-=== Source of the ULB ===
-
-
-The ULB is an adaptation of the 1901 ASV. The ASV is a very literal translation, and it has an abundance of archaic terminology. We are removing as much of this terminology as we can by automatic scripting on the server. But many unclear words and phrases remain. They need to be updated so as to be understandable to a modern audience.
-
-
-=== Style of the ULB ===
-
-
-The ULB is intended to be accompanied by the translation notes and key-term explanations. Furthermore, the ULB will be accompanied by the UDB, which will provide alternative "dynamic" translation suggestions. Therefore, it is acceptable for the ULB to retain much of the ASV's literalism, including the structure, word order, and terminology of the original languages, as long as they are not overly difficult to understand.
-
-
 **Introduction to the ULB** \\ 
-The ULB (UnfoldingWord Literal Bible) is a relatively “literal” version that is intended to be used as a source text for translating the Bible into other languages. It is more literal than the UDB text in style and is designed to reflect the form of the original Greek text as well as clearly convey the meaning of that text. At times this will mean that the sentence structure or vocabulary may be less than completely natural in English,  but the meaning should always remain very clear. Whenever a “literal” representation of the Greek words or structure would obscure the meaning, then it must be changed. Even in the ULB, meaning takes precedence over “literalness.”
+The ULB (UnfoldingWord Literal Bible) is a relatively “literal” version that is intended to be used as a source text for translating the Bible into other languages. It is more literal than the UDB text in style and is designed to reflect the form of the original Greek text as well as clearly convey the meaning of that text. At times this will mean that the sentence structure or vocabulary may be less than completely natural in English, but the meaning should always remain very clear. Whenever a “literal” representation of the Greek words or structure would obscure the meaning, then it must be changed. Even in the ULB, meaning takes precedence over “literalness.”
 
 
 The ULB and UDB texts are not intended to be “finished” or “polished” translations. Rather, they are meant only to serve as source texts for other translations. With this in mind, the primary aim of both these source texts is to accurately convey the meaning of the Bible text in a way that is easy to understand, even for people whose first language is not English. The ULB is more literal, staying closer to the structure of the original text and is more limiting in its use of implied information. The UDB, while still retaining the clear meaning of the original Greek text, allows more flexibility in sentence structure and vocabulary in order to achieve a highly natural way of expressing that meaning.
 
 
-The text from which the ULB is being adapted:\\ 
-The ULB is an adaptation of the 1901 American Standard Version (ASV). The ASV is a very literal translation, and it has many outdated words. Most of these words are being replaced in the UDB with present-day vocabulary using automatic scripting on the server. The editing team needs to correct any outdated words that remain (as well as any mistakes made by the automated “correction” process), so that the text will be understandable to a modern audience. The editors will also change phrases and the order of phrases of the ASV that are unnatural in modern English,  making it easier to understand while still keeping it close to the meaning and structure of the Greek text.
+**The Text from which the ULB Is Being Adapted** \\ 
+The ULB is an adaptation of the 1901 American Standard Version (ASV). The ASV is a very literal translation, and it has many outdated words. Most of these words are being replaced in the UDB with present-day vocabulary using automatic scripting on the server. The editing team needs to correct any outdated words that remain (as well as any mistakes made by the automated “correction” process), so that the text will be understandable to a modern audience. The editors will also change phrases and the order of phrases of the ASV that are unnatural in modern English, making it easier to understand while still keeping it close to the meaning and structure of the Greek text.
 
 
 **Style of the ULB** \\ 
