@@ -74,16 +74,13 @@ Types of edits to look for:
 • awkward phrasing \\ • outdated or low frequency vocabulary (and outdated spellings) \\ • wrong punctuation \\ • extraneous implied information \\ • unclear or unnatural use of pronouns or conjunctions \\ • wording that could cause a translation issue \\ • implied information that is important for comprehension \\ • original information lost
 
 
-Luke 12:1-3
+ULB Luke 12:1-3
 
 
-ULB
+original: %<nowiki> \</nowiki>v 1 In the meantime, when the many thousands of the multitude were gathered together, insomuch that they trod one upon another, he began to say to his disciples first of all, Beware you of the leaven of the Pharisees, which is hypocrisy. %<nowiki> \</nowiki>v 2 But there is nothing covered up, that shall not be revealed; and hid, that shall not be known. %<nowiki> \</nowiki>v 3 Wherefore whatever you have said in the darkness shall be heard in the light; and what you have spoken in the ear in the inner chambers shall be proclaimed upon the housetops.
 
 
-original: \\ %%\%%v 1 In the meantime, when the many thousands of the multitude were gathered together, insomuch that they trod one upon another, he began to say to his disciples first of all,  Beware you of the leaven of the Pharisees, which is hypocrisy. \\ %%\%%v 2 But there is nothing covered up, that shall not be revealed; and hid, that shall not be known. \\ %%\%%v 3 Wherefore whatever you have said in the darkness shall be heard in the light; and what you have spoken in the ear in the inner chambers shall be proclaimed upon the housetops.
-
-
-edited: \\ %%\%%v 1 Meanwhile, while many thousands of people were crowding together so much that they were stepping on each other, Jesus began to say to his disciples first of all, “Be on guard against the yeast of the Pharisees, which is hypocrisy .” \\ %%\%%v 2 But there is nothing covered up that will not be revealed, and nothing hidden that will not be known. \\ %%\%%v 3 Therefore, whatever you say in the darkness will be heard in the light and whatever you have spoken in someone’s ear in a closet  will be proclaimed from the roof of a house.
+edited: %<nowiki> \</nowiki>v 1 Meanwhile, while many thousands of people were crowding together so much that they were stepping on each other, Jesus began to say to his disciples first of all, “Be on guard against the yeast of the Pharisees, which is hypocrisy .” %<nowiki> \</nowiki>v 2 But there is nothing covered up that will not be revealed, and nothing hidden that will not be known. %<nowiki> \</nowiki>v 3 Therefore, whatever you say in the darkness will be heard in the light and whatever you have spoken in someone’s ear in a closet will be proclaimed from the roof of a house.
 
 
 See the attached document on {{:en:bible:team-info:processes:how_to_use_ether_padv2.pdf|How to Use the Ether Pad}}  interface.
