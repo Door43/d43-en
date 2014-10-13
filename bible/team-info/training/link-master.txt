@@ -24,7 +24,7 @@ When the Notes teams finish adding the draft content, the LPM will change the st
 The Notes team will identify KT's for each chunk in a bullet list. The LPM will convert these list items to hyperlinks in the following format:
 
 <code>
-  * [[en:bible:notes:key-terms:term|term]]
+  * [[en:bible:notes:key-terms:URLterm|term]]
 </code>
 
 The display name of the KT's in the list will remain in the format of the original bullet list, which will be how they appear in the ULB on that chunk page. 
@@ -57,7 +57,7 @@ Text
     * bullet
     * bullet
 
-(See also: [[:en:bible:notes:key-terms:URLterm]])
+(See also: [[:en:bible:notes:key-terms:URLterm|term]])
 
 
 ===== Bible References: =====
@@ -88,7 +88,7 @@ Text
 
 (Translation suggestions: [[en:ta:translate:translatenames]])
 
-(See also: [[:en:bible:notes:key-terms:term]])
+(See also: [[:en:bible:notes:key-terms:URLterm|term]])
 
 
 ===== Bible References: =====
