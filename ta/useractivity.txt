@@ -14,5 +14,7 @@ Changes this week on tag=publish
 {{changes>ns=en:bible&maxage=604800&render=pagelist(topic>publish)(pagelist_flags=header,date,user,nocomments)}}
 
 
+test
 
+{{changes>ns=en:bible:notes&maxage=604800&render=pagelist(date,nocomments)}}
 
