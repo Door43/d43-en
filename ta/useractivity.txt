@@ -5,8 +5,8 @@ Chris Jarka
 
 Changes this week
 
-**[[:ta|Translation Academy Namespace]]**
-{{changes>ns=en:bible&maxage=604800&render=pagelist(header,date,user,nocomments)}}
+**Translation Academy Namespace**
+{{changes>ns=ta&maxage=604800&render=pagelist(header,date,user,nocomments)}}
 
 Changes this week on tag=publish
 
