@@ -2,6 +2,8 @@
 
 ====== KT Team Activity ======
 
+
+{{changes>user= drew-curley&count=12&maxage=25920000}}
+
+
 {{changes>user= drew-curley&count=12&render=pagelist(header,date,user,nocomments,rsort)&maxage=25920000}}
-{{changes>user= drew-curley&count=12&render=pagelist(header,date,user,nocomments,sort)&maxage=25920000}}
-{{changes>user= drew-curley&count=12&render=pagelist(header,date,user,nocomments,nosort)&maxage=25920000}}
