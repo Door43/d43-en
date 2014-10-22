@@ -2,9 +2,11 @@
 
 ====== KT Team Activity ======
 
-**Drew Curley:** 
-{{changes>user=drew-curley&maxage=25920000&count=12&render=pagelist(sort,header,date,user,no comments)}}
+{{pagequery>en:bible:notes:key-terms
+}}
 
+**Drew Curley:** 
+{{changes>user= spcfredy&count=12&render=pagelist(header,date,user,nocomments)&maxage=25920000}}
 
 **Duane Frederick:** 
 {{changes>user= spcfredy&count=12&render=pagelist(header,date,user,nocomments)&maxage=25920000}}
