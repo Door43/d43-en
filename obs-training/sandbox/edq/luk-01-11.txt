@@ -3,11 +3,10 @@
 ====== KT Team Activity ======
 ~~NOCACHE~~
 
-{{pagequery>[changes>user= spcfredy]
-}}
+{{changes>user= drew-curley&count=12&render=pagelist(header,date,user,nocomments)&maxage=25920000}}
 
 **Drew Curley:** 
-{{changes>user= spcfredy&count=12&render=pagelist(header,date,user,nocomments)&maxage=25920000}}
+{{changes>user= drew-curley&count=12&render=pagelist(header,date,user,nocomments)&maxage=25920000}}
 
 **Duane Frederick:** 
 {{changes>user= spcfredy&count=12&render=pagelist(header,date,user,nocomments)&maxage=25920000}}
