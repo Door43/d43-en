@@ -1,13 +1,16 @@
 ====== Ed's Sandbox ======
 
-====== KT Team Activity ======
+~~NOCACHE~~
 
+<pagelist&sort>
+  * box
+  * cart
+  * zebra
+  * house
+  * animal
+</pagelist>
 
-
-{{changes>user= drew-curley&count=12&render=pagelist(header,date,user,nocomments,rsort)&maxage=25920000}}
-
-
-
-
-{{changes>user= drew-curley&count=12&render=pagelist(header,date,user,nocomments,rsort)&maxage=25920000}}
+**Susan Quigley:** 
+{{changes>user=susanquigley&count=12&render=pagelist(header,date,user,nocomments)&maxage=25920000}}
+{{changes>user= drew-curley&count=12&render=pagelist(header,date,user,nocomments)&maxage=25920000}}
 
