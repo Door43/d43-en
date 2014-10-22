@@ -9,4 +9,4 @@
 {{changes>user= drew-curley&count=12&render=pagelist(header,date,user,nocomments)&maxage=25920000}}
 
 **Duane Frederick:** 
-{{changes>user= spcfredy&count=12&render=pagelist(header,date,user,nocomments)&maxage=25920000}}
+{{changes>user= spcfredy&count=12&render=pagelist(header,date,user,nocomments,sort)&maxage=25920000}}
