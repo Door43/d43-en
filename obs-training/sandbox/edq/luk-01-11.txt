@@ -1,8 +1,11 @@
 ====== Ed's Sandbox ======
 
-==== Draft tA Pages to Edit ====
-
-The following pages are tagged as "draft" and need to be edited by the team:
+====== KT Team Activity ======
 
 
-{{topic>en:ta?draft&nocomments}}
+**Dennis Mack:** 
+{{changes>user=dmack&count=12&render=pagelist(header,date,user,nocomments)&maxage=25920000}}
+
+
+**Drew Curley:** 
+{{changes>user=drew-curley&count=12&render=pagelist(header,date,user,nocomments)&maxage=25920000}}
