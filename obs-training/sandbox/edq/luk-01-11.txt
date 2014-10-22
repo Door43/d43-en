@@ -1,12 +1,7 @@
 ====== Ed's Sandbox ======
 
 ====== KT Team Activity ======
-~~NOCACHE~~
 
-{{changes>user= drew-curley&count=12&render=pagelist(header,date,user,nocomments, sort)&maxage=25920000}}
-
-**Drew Curley:** 
-{{changes>user= drew-curley&count=12&render=pagelist(header,date,user,nocomments)&maxage=25920000}}
-
-**Duane Frederick:** 
-{{changes>user= spcfredy&count=12&render=pagelist(header,date,user,nocomments,sort)&maxage=25920000}}
+{{changes>user= drew-curley&count=12&render=pagelist(header,date,user,nocomments,rsort)&maxage=25920000}}
+{{changes>user= drew-curley&count=12&render=pagelist(header,date,user,nocomments,sort)&maxage=25920000}}
+{{changes>user= drew-curley&count=12&render=pagelist(header,date,user,nocomments,nosort)&maxage=25920000}}
