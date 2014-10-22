@@ -1,37 +1,10 @@
 ====== KT Team Activity ======
 
 
-**Dennis Mack:** 
-{{changes>user=dmack&count=12&render=pagelist(header,date,user,nocomments)&maxage=25920000}}
+**Ed Quigley:** 
+{{changes>user=ed_quigley&count=100&render=pagelist(header,date,user,nocomments)&maxage=259200}}
 
 
 **Drew Curley:** 
 {{changes>user=drew-curley&count=12&render=pagelist(header,date,user,nocomments)&maxage=25920000}}
 
-
-**Duane Frederick:** 
-{{changes>user= spcfredy&count=12&render=pagelist(header,date,user,nocomments)&maxage=25920000}}
-
-
-**Jan Zanutto:** 
-{{changes>user=jzanutto&count=12&render=pagelist(header,date,user,nocomments)&maxage=25920000}}
-
-
-**Jim Nickel:** 
-{{changes>user=nick28&count=12&render=pagelist(header,date,user,nocomments)&maxage=25920000}}
-
-
-**Matthew Latham:** 
-{{changes>user=mslgtwam&count=12&render=pagelist(header,date,user,nocomments)&maxage=25920000}}
-
-
-**Richard Joki:** 
-{{changes>user=rickjoki&count=12&render=pagelist(header,date,user,nocomments)&maxage=25920000}}
-
-
-**USER:** 
-{{changes>user=USER&count=12&render=pagelist(header,date,user,nocomments)&maxage=25920000}}
-
-
-
-**[[:playground:larrys:activity:00-activity|Return to Activity overview page]]**
