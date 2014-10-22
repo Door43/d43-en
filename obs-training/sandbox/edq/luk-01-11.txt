@@ -3,11 +3,10 @@
 ~~NOCACHE~~
 
 <pagelist&sort>
-  * box
-  * cart
-  * zebra
-  * house
-  * animal
+
+  * {{changes>user=susanquigley&count=12&render=pagelist(header,date,user,nocomments)&maxage=25920000}}
+  * {{changes>user= drew-curley&count=12&render=pagelist(header,date,user,nocomments)&maxage=25920000}}
+  * 
 </pagelist>
 
 **Susan Quigley:** 
