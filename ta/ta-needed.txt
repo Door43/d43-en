@@ -39,7 +39,7 @@ Please be sure to pdate the [[https://docs.google.com/a/wycliffeassociates.org/s
 The following pages are tagged as "draft" and need to be edited by the team:
 
 
-{{topic>en:ta?draft}}
+{{topic>en:ta?draft&nocomments}}
 
 
 
@@ -48,7 +48,7 @@ The following pages are tagged as "draft" and need to be edited by the team:
 The following pages are tagged as "review" and need final review and then to be published:
 
 
-{{topic>en:ta?review}}
+{{topic>en:ta?review&nocomments}}
 
 
 === Followup ===
