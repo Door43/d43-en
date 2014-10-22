@@ -1,12 +1,8 @@
 ====== Ed's Sandbox ======
 
+==== Draft tA Pages to Edit ====
 
-==== Internal ====
-
-This link should work? Honest!
-
-
-click here to go to the top of this section [[syntax#internal]]
+The following pages are tagged as "draft" and need to be edited by the team:
 
 
-<nspages en:bible:notes:key-terms -idandtitle -nbCol=2  -textNS="Keyterm & Titles">
+{{topic>en:ta?draft}}
