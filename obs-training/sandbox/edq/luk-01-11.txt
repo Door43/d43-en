@@ -4,7 +4,3 @@
 **Ed Quigley:** 
 {{changes>user=ed_quigley&count=12&render=pagelist(header,date,user,nocomments)&maxage=604800}}
 
-
-**Drew Curley:** 
-{{changes>user=drew-curley&count=12&render=pagelist(header,date,user,nocomments)&maxage=25920000}}
-
