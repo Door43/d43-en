@@ -2,10 +2,9 @@
 
 ====== KT Team Activity ======
 
-
-**Dennis Mack:** 
-{{changes>user=dmack&count=12&render=pagelist(header,date,user,nocomments)&maxage=25920000}}
-
-
 **Drew Curley:** 
-{{changes>user=drew-curley&count=12&render=pagelist(header,date,user,nocomments)&maxage=25920000}}
+{{changes>user=drew-curley&maxage=25920000&count=12&render=pagelist(sort,header,date,user,no comments)}}
+
+
+**Duane Frederick:** 
+{{changes>user= spcfredy&count=12&render=pagelist(header,date,user,nocomments)&maxage=25920000}}
