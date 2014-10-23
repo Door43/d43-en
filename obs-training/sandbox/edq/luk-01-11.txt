@@ -4,6 +4,9 @@ I’m looking for a syntax that will show all pages changed in the last 7 days (
 – (tag changed from x to publish in the en:Bible namespace)
 
 
-{{pagequery>ns=en:bible:notes;publish}}
+{{pagequery>ns=en:bible&tag>publish;fulltext}}
 
 
+**[[en:bible|EN Bible]]**
+
+{{changes>ns=en:bible&count=50&maxage=604800&render=pagelist(topic>publish)(pagelist_flags=header,date,user,nocomments)}}
