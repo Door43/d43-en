@@ -9,11 +9,18 @@ Changes this week
 {{changes>ns=en:ta&count=50&maxage=604800&render=pagelist(header,date,user,nocomments)}}//
 //
 
-Changes this week on tag=publish
+===Published===
 
-Luke pages that need to be edited this week (Oct. 20-27)
+{{topic>en:bible:notes?publish&sort}}
 
-{{topic>en:bible:notes:luk?publish&sort}} {{topic>en:bible:notes:keyterms?publish&sort}} {{topic>en:bible:notes:rut?review&sort}} {{topic>en:bible:notes:luk:xx?draft&sort}}
+===Review Status===
+
+{{topic>en:bible:notes?review&sort}} 
+
+===Draft Status===
+
+{{topic>en:bible:notes?draft&sort}}
+
 
 **[[:en:bible|EN Bible]]**
 {{changes>ns=en:bible&count=50&maxage=604800&render=pagelist(topic>publish)(pagelist_flags=header,date,user,nocomments)}}
