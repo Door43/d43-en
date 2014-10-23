@@ -4,10 +4,10 @@
 **Introduction to the UDB** 
 
 
-The UDB (UnfoldingWord Dynamic Bible) is a “dynamic” version that is intended to be used as a source text for translating the Bible into other languages. It is less literal than the ULB text and expresses the meaning of the original text in alternate, more natural ways in order to clarify the meaning. One goal of the UDB text is to have less abstract or figurative wording that might be difficult to translate into another language. Certain types of implied information are included in the UDB in order to express the meaning of the original more clearly. Sometimes the wording of the UDB has been chosen in order to avoid certain translation issues.
+The UDB (UnfoldingWord Dynamic Bible) is a “dynamic” version that is intended to be used as a source text for translating the Bible into other languages. It is less literal than the ULB text and expresses the meaning of the original text in alternate, more natural ways in order to clarify the meaning. One goal of the UDB text is to have less abstract or figurative wording that might be difficult to translate into another language. Certain types of implied information are included in the UDB in order to express the meaning of the original more clearly. Sometimes the wording of the UDB has been chosen in order to avoid certain translation issues, such as the use of the passive voice.
 
 
-The UDB and ULB texts are not intended to be “finished” or “polished” translations. Rather, they are meant only to serve as source texts for other translations. With this in mind, the primary aim of both these source texts is to accurately convey the meaning of the Bible text in a way that is easy to understand, even for people whose first language is not English. The ULB is more literal, staying closer to the structure of the original text and is more limiting in its use of implied information. The UDB, while still retaining the clear meaning of the original Greek text, allows more flexibility in sentence structure and vocabulary in order to achieve a highly natural way of expressing that meaning.
+The UDB and ULB texts are not intended to be “finished” or “polished” translations. Rather, they are meant only to serve as source texts for other translations. With this in mind, the primary aim of both these source texts is to accurately convey the meaning of the Bible text in a way that is easy to understand, even for people whose first language is not English. The ULB is more literal, staying closer to the structure of the original text and is more limiting in its use of implied information. The UDB, while still retaining the clear meaning of the original Greek text, allows more flexibility in sentence structure and vocabulary in order to achieve a highly natural way of expressing that meaning. Even so, the UDB will not be beautiful or idiomatic English. The primary goal of the UDB is clarity, so we will use simple rather than elegant words, short rather than long sentences, and we will fill in the subjects and objects of verbs in case the translator needs them, even though that may make the text sound choppy in English.
 
 
 **The Text from which the UDB Is Being Adapted** 
@@ -95,8 +95,8 @@ Original: \\ 1 While they were doing that, many thousands of people gathered aro
 Edited: \\ 1 Meanwhile, many thousands of people gathered around Jesus. There were so many close together that they were stepping on each other. But first he said to his disciples, "Be careful that you do not become like the Pharisees who act religious in public, but do evil things in secret. Just like yeast causes a lump of dough to rise, their evil behavior causes others to be hypocrites like they are. \\ 2 People will not be able to continue covering up their sins the way they can now. Someday God will let everyone know the things that people hide now. \\ 3 Everything you say in the dark, someday people will hear in the daylight. Whatever you whisper in your room will someday be as public as if it were shouted from the rooftops.”
 
 
+See the attached document on {{:en:bible:team-info:processes:how_to_use_ether_padv2.pdf|How to Use the Ether Pad}}  interface.
 
-See the attached document on {{:en:bible:team-info:processes:how_to_use_ether_padv2.pdf|How to Use the Ether Pad}} interface.
 
 This section has links to additional resources for your "continuing education" in how to do the best job of editing the text.
 
