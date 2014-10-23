@@ -5,13 +5,13 @@
 I’m looking for a syntax that will show all pages changed in the last 7 days (604800) \\
 – (tag changed from x to publish in the en:Bible namespace)
 
-
+==== Sort ====
 {{topic>en:bible:notes?publish&date&tags&sort}}
 
-
+==== Reverse Sort ====
 {{topic>en:bible:notes?publish&date&tags&rsort}}
 
-
+==== NoSort ====
 {{topic>en:bible:notes?publish&date&tags&nosort}}
 
 
