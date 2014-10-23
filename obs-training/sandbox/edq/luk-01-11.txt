@@ -1,12 +1,21 @@
 ====== page change activity======
 
+~~NOCACHE~~
+
 I’m looking for a syntax that will show all pages changed in the last 7 days (604800) \\
 – (tag changed from x to publish in the en:Bible namespace)
 
 
-{{pagequery>ns=en:bible&tag>publish;fulltext}}
+{{topic>en:bible:notes?publish&date&tags&sort}}
 
 
-**[[en:bible|EN Bible]]**
+{{topic>en:bible:notes?publish&date&tags&rsort}}
 
-{{changes>ns=en:bible&count=50&maxage=604800&render=pagelist(topic>publish)(pagelist_flags=header,date,user,nocomments)}}
+
+{{topic>en:bible:notes?publish&date&tags&nosort}}
+
+
+
+===== page change activity 2=====
+
+changes>ns=en:bible&count=50&maxage=604800&render=pagelist(topic>publish)(pagelist_flags=header,date,user,nocomments)
