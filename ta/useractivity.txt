@@ -6,7 +6,8 @@ Chris Jarka
 Changes this week
 
 **Translation Academy Namespace**
-{{changes>ns=en:ta&count=50&maxage=604800&render=pagelist(header,date,user,nocomments)}}
+{{changes>ns=en:ta&count=50&maxage=604800&render=pagelist(header,date,user,nocomments)}}//
+//
 
 Changes this week on tag=publish
 
