@@ -3,3 +3,5 @@
 I’m looking for a syntax that will show all pages changed in the last 7 days (604800) \\
 – (tag changed from x to publish in the en:Bible namespace)
 
+
+{{changes>ns=en:bible:notes&count=15&maxage=604800&render=pagelist(header,user)}}
