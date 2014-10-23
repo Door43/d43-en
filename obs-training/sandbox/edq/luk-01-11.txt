@@ -4,4 +4,5 @@ I’m looking for a syntax that will show all pages changed in the last 7 days (
 – (tag changed from x to publish in the en:Bible namespace)
 
 
-{{changes>ns = en:bible:notes&count=9000&render=pagelist(header,date,user,nocomments)&maxage=604800}}
+// {{changes>ns = en:bible:notes&count=9000&render=pagelist(header,date,user,nocomments)&maxage=604800}}
+//
