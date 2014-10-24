@@ -1,13 +1,8 @@
 ~~NOCACHE~~ 
 
-
-{{pagequery> ns:en:bible:notes tag>publish ;
+{{pagequery> ns:en:bible:notes tag>publish;
 fulltext;
 sort=name:asc;
-proper=both;
-layout=table;
-natsort;
-label = title creator last change date last change user;
-display = {title} {creator} {last_change:date} {Last_change:user};
+display={title} {creator} {last_change:date} {Last_change:user}
 }}
 
