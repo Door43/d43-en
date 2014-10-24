@@ -3,6 +3,16 @@
 Chris Jarka
 {{changes>user=USERNAMEHERE&count=50&render=pagelist(header,date,user,nocomments)&maxage=25920000}}
 
+Changes this week
+
+**Translation Academy Namespace**
+{{changes>ns=en:ta&count=50&maxage=604800&render=pagelist(header,date,user,nocomments)}}//
+//
+
+===Published===
+
+[[en:ta:useractivity:published]]
+
 ~~NOCACHE~~ 
 
 {{pagequery> ns:en:bible:notes tag>publish|tag>publish; fulltext; sort=title:sac;
@@ -15,15 +25,6 @@ natsort;
 }}
 
 
-Changes this week
-
-**Translation Academy Namespace**
-{{changes>ns=en:ta&count=50&maxage=604800&render=pagelist(header,date,user,nocomments)}}//
-//
-
-===Published===
-
-[[en:ta:useractivity:published]]
 
 ====Review Status====
 
