@@ -4,7 +4,6 @@
 {{pagequery> ns:en:bible:notes tag>publish;
 fulltext;
 sort=title:sac;
-filter=mdate:7 days ago ->
-display={title} {last_change:date} {last_change:user};
-cols=3;
+filter=mdate:7 days ago->;
+display={title};
 }}
