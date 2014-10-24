@@ -10,4 +10,6 @@ fulltext;
 sort=title:sac;
 filter=mdate:7 days ago->;
 display={title};
+label=Titles of Pages changed;
+showcount;
 }}
