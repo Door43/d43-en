@@ -22,8 +22,3 @@ Changes this week
 
 [[en:ta:useractivity:review]]
 
-{{topic>en:bible:notes?draft&sort}}
-
-
-**[[:en:bible|EN Bible]]**
-{{changes>ns=en:bible&count=50&maxage=604800&render=pagelist(topic>publish)(pagelist_flags=header,date,user,nocomments)}}
