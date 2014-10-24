@@ -5,7 +5,7 @@ This is a list of all changes that occurred in the past week and have the tag "p
 
 ~~NOCACHE~~ 
 
-{{pagequery> ns:en:bible:notes tag>publish;
+{{pagequery> ns:en:bible:notes tag>publish|tag>publish;
 fulltext;
 sort=title:sac;
 filter=mdate:7 days ago->;
