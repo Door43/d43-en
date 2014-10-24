@@ -3,6 +3,6 @@
 {{pagequery> ns:en:bible:notes tag>publish;
 fulltext;
 sort=name:asc;
-display={title} {creator} {last_change:date} {Last_change:user}
+display={title} {creator} {last_change:date} {last_change:user}
 }}
 
