@@ -8,4 +8,6 @@ proper=both;
 layout=table;
 natsort;
 label = title creator last change date last change user;
+display = {title} {creator} {last_change:date} {Last_change:user};
 }}
+
