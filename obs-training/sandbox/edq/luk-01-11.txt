@@ -9,7 +9,11 @@ This is a list of all changes that occurred in the past week and have the tag "p
 fulltext;
 sort=title:sac;
 filter=mdate:7 days ago->;
-display={title};
+hidemsg;
+display={title} {last_change:user} {last_change:date};
 label=Titles of Pages changed;
 showcount;
+layout=column;
+natsort;
+
 }}
