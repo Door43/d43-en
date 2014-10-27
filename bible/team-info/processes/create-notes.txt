@@ -1,6 +1,6 @@
 ====== How to Create Translation Notes ======
 
-These are some ideas to guide how the Translation Notes are created:
+==== These are some ideas to guide how the Translation Notes are created:====
 
   * Select a portion from the ULB that needs discussion and write it in bold by one of the bullets under "Translation Notes."
   * Write a translation suggestion that can be used in place of the portion you have selected.
@@ -13,7 +13,7 @@ These are some ideas to guide how the Translation Notes are created:
   *  If there is a Translation Academy page that deals with the issue, refer to it by writing, for example, "(See: Metonymy)" or "(See: Exclusive)" at the end of the note.  You can see these at [[en:ta:ta-topics|Topics]].
   * Normally we do not need to write notes for key terms. However, when a key term has multiple senses, you may need to write a note telling which sense is meant in the text.
 
-Here are some reasons for different kinds of translation notes:
+==== Here are some reasons for different kinds of translation notes:====
 
   * An English word or phrase may have __multiple meanings__, so we want to help them understand which meaning is intended.
   * It may not be obvious __what a particular pronoun refers to__. Or it may be obvious to us, but if the antecedent is on a previous chunk, it might help to remind the translators.
@@ -21,6 +21,8 @@ Here are some reasons for different kinds of translation notes:
   * We may need to give information that will help translators choose the appropriate __grammatical form__ in their language. For example, many languages have distinct singular and plural forms of "you," but English does not. If it is not clear from the English text which is intended, we may need to state it in a note and direct the translators to the Translation Academy page that deals with that issue. For example, "At this point, Jesus was only addressing Peter, so languages that have singular and plural forms of 'you' would use the singular form here. (See: Singular Pronoun)"
   * We may need to give translation suggestions for languages that don't use certain __syntactic structures__ or that would not use them in certain contexts. For example, some languages don't have passive clauses, or only use them in certain situations. Some languages don't use relative clauses for all the same purposes that English uses them. Some languages use direct quotes in certain situations and indirect quotes in others.
   *  We may need to make some __implicit information explicit__ for people who are not familiar with the cultures of the Bible.
+
+==== List of Important Terms ====
 
 In the Important Terms section list the important terms in the order that they occur in in the ULB. The names of many people and places will be included even if they are referred to many times in the text you are working on. The words in the list will be changed to links so that the translators can click on the link and go immediately to the KT page telling about it. If you think that any words should have a KT page, include them too and put an asterisk after it. Do not write any definitions in the Important Terms list. 
 
