@@ -1,17 +1,7 @@
-===== Published Modifications =====
-
-This is a list of all changes that occurred in the past week and have the tag "publish".
-
-
+===== Ed's Sandbox =====
 ~~NOCACHE~~ 
 
-{{pagequery> ns:en:bible:notes tag>publish|tag>publish;
-fulltext;
-sort=title:sac;
-filter=mdate:7 days ago->;
-display={title};
-label=Page Titles;
-showcount;
-layout=column;
-natsort;
+{{pagequery> ns:en:bible:notes godslaw;
+  fulltext;
+
 }}
