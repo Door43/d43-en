@@ -6,7 +6,7 @@
 publish date: 2014-09-17
 
 
-version: 2.1
+version: 3.2
 
 
 contributors: ljbadiola; natilatina
@@ -21,7 +21,7 @@ checking level: 1
 source text: en
 
 
-source text version: 2.0
+source text version: 3.1
 
 
 comments: Level 1 check cleared via email to Tim Jore by translation team.
