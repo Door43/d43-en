@@ -1,7 +1,8 @@
 ===== Ed's Sandbox =====
 ~~NOCACHE~~ 
 
-{{pagequery> ns:en:bible:notes godslaw;
-  fulltext;
-
-}}
+{{pagequery> ns:en:bible:notes priesthigh;
+  fulltext;}}
+  
+  {{pagequery> ns:en:bible:notes highpriest;
+  fulltext;}}
