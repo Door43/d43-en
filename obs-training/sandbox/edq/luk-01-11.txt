@@ -1,16 +1,15 @@
 ===== Ed's Sandbox =====
 
 
-{{pagequery>ns:en:bible:notes ninevah;
+{{pagequery>-publish ns:en:bible:notes:key-terms -ns:en:bible:notes:key-terms:0;
   fulltext;
   sort=ab:sac;
-  group;
-  limit=100;
-  cols=6;
   spelldate;
+  layout=column;
   proper;
   border=inside;
   hidestart;
+  label=Pages not Published;
   case;
   natsort
 }}
