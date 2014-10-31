@@ -1,7 +1,7 @@
 ===== Ed's Sandbox =====
 
 
-{{pagequery>ninevah;
+{{pagequery>ns:en:bible:notes ninevah;
   fulltext;
   sort=ab:sac;
   group;
