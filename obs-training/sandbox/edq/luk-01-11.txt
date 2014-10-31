@@ -1,3 +1,16 @@
 ===== Ed's Sandbox =====
 
 
+{{pagequery>ninevah;
+  fulltext;
+  sort=ab:sac;
+  group;
+  limit=100;
+  cols=6;
+  spelldate;
+  proper;
+  border=inside;
+  hidestart;
+  case;
+  natsort
+}}
