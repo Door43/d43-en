@@ -22,7 +22,7 @@
   hidestart;
   display={title};
   layout=column;
-  label=Luke Pages in "Review" Status;
+  label=Luke Pages in "discuss" Status;
   showcount;
   natsort
 }}
