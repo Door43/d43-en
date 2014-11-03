@@ -11,7 +11,6 @@
   label=Luke Pages in "Review" Status;
   showcount;
   hidejump;
-  natsort
 }}|{{pagequery>ns:en:bible:notes:luk tag>discuss;
   fulltext;
   fulltext;
@@ -21,7 +20,6 @@
   label=Luke Pages in "Review" Status;
   showcount;
   hidejump;
-  natsort
 }}|
 
 
