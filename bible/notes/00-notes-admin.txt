@@ -5,11 +5,12 @@
 |  **Review Pages**  |  **Discuss Pages**  |
 |{{pagequery>ns:en:bible:notes:luk tag>review;
   fulltext;
-  sort=title:asc;
+  sort=namepage:asc;
   display={title};
   layout=table;
   label=Luke Pages in "Review" Status;
   showcount;
+  natsort;
   hidejump;
 }}|{{pagequery>ns:en:bible:notes:luk tag>discuss;
   fulltext;
@@ -19,6 +20,7 @@
   layout=Table;
   label=Luke Pages in "Review" Status;
   showcount;
+  natsort:
   hidejump;
 }}|
 
