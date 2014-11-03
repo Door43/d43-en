@@ -4,9 +4,7 @@
 ==== Luke Pages in "Review" Status ====
 {{pagequery>ns:en:bible:notes:luk tag>review;
   fulltext;
-  sort=ns:asc;
-  group;
-  hidestart;
+  sort=title:asc;
   display={title};
   layout=column;
   label=Luke Pages in "Review" Status;
@@ -17,12 +15,11 @@
 ==== Luke Pages in "discuss" Status ====
 {{pagequery>ns:en:bible:notes:luk tag>discuss;
   fulltext;
-  sort=ns:asc;
-  group;
-  hidestart;
+  fulltext;
+  sort=title:asc;
   display={title};
   layout=column;
-  label=Luke Pages in "discuss" Status;
+  label=Luke Pages in "Review" Status;
   showcount;
   natsort
 }}
