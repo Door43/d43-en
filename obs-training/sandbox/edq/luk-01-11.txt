@@ -1,15 +1,6 @@
 ===== Ed's Sandbox =====
 
+~~nocache~~
 
-{{pagequery>-publish ns:en:bible:notes:key-terms -ns:en:bible:notes:key-terms:0;
-  fulltext;
-  sort=ab:sac;
-  spelldate;
-  layout=column;
-  proper;
-  border=inside;
-  hidestart;
-  label=Pages not Published;
-  case;
-  natsort
-}}
+<nspages en:bible:notes:luk -subns>
+
