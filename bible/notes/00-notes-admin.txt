@@ -7,21 +7,21 @@
   fulltext;
   sort=title:asc;
   display={title};
+  natsort;
   layout=table;
   label=Luke Pages in "Review" Status;
   showcount;
   hidejump;
-  natsort;
 }}|{{pagequery>ns:en:bible:notes:luk tag>discuss;
   fulltext;
   fulltext;
   sort=title:asc;
   display={title};
+  natsort;
   layout=Table;
   label=Luke Pages in "Review" Status;
   showcount;
   hidejump;
-  natsort;
 }}|
 
 
