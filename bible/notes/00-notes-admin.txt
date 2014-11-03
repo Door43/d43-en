@@ -4,17 +4,26 @@
 ==== Luke Pages in "Review" Status ====
 {{pagequery>ns:en:bible:notes:luk tag>review;
   fulltext;
-  sort=id:asc;
+  sort=ns:asc;
   group;
+  hidestart;
   display={title};
+  layout=column;
+  label=Luke Pages in "Review" Status;
+  showcount;
   natsort
 }}
+
 ==== Luke Pages in "discuss" Status ====
 {{pagequery>ns:en:bible:notes:luk tag>discuss;
   fulltext;
-  sort=id:asc;
+  sort=ns:asc;
   group;
+  hidestart;
   display={title};
+  layout=column;
+  label=Luke Pages in "Review" Status;
+  showcount;
   natsort
 }}
 
