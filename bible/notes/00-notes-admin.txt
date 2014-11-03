@@ -1,28 +1,29 @@
 ====== Notes Page Administration ======
 
-
 ==== Luke Pages in "Review" Status ====
-{{pagequery>ns:en:bible:notes:luk tag>review;
-  fulltext;
-  sort=title:asc;
-  display={title};
-  layout=column;
-  label=Luke Pages in "Review" Status;
-  showcount;
-  natsort
-}}
-
 ==== Luke Pages in "discuss" Status ====
-{{pagequery>ns:en:bible:notes:luk tag>discuss;
+
+
+|  **Review Pages**  |  **Discuss Pages**  |
+|{{pagequery>ns:en:bible:notes:luk tag>review;
+  fulltext;
+  sort=title:asc;
+  display={title};
+  layout=table;
+  label=Luke Pages in "Review" Status;
+  showcount;
+  natsort
+}}|{{pagequery>ns:en:bible:notes:luk tag>discuss;
   fulltext;
   fulltext;
   sort=title:asc;
   display={title};
-  layout=column;
+  layout=Table;
   label=Luke Pages in "Review" Status;
   showcount;
   natsort
-}}
+}}|
+
 
 ==== Titus Pages in "Review" Status ====
 
