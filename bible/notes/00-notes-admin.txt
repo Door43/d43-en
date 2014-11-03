@@ -1,8 +1,6 @@
 ====== Notes Page Administration ======
 
-==== Luke Pages in "Review" Status ====
-==== Luke Pages in "discuss" Status ====
-
+==== Luke Pages Status ====
 
 |  **Review Pages**  |  **Discuss Pages**  |
 |{{pagequery>ns:en:bible:notes:luk tag>review;
