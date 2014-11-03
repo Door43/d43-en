@@ -5,7 +5,7 @@
 |  **Review Pages**  |  **Discuss Pages**  |
 |{{pagequery>ns:en:bible:notes:luk tag>review;
   fulltext;
-  sort=ns:asc;
+  sort=title:asc;
   display={title};
   layout=table;
   label=Luke Pages in "Review" Status;
