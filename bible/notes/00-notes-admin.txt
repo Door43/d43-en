@@ -6,10 +6,7 @@
   fulltext;
   sort=id:asc;
   group;
-  proper=header;
-  border=inside;
-  display={title}
-  case;
+  display={title};
   natsort
 }}
 ==== Luke Pages in "discuss" Status ====
@@ -17,10 +14,7 @@
   fulltext;
   sort=id:asc;
   group;
-  proper=header;
-  border=inside;
-  display={title}
-  case;
+  display={title};
   natsort
 }}
 
