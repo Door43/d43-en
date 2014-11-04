@@ -1,7 +1,14 @@
 ===== Ed's Sandbox =====
-
 ~~nocache~~
-{{pagequery> "en:bible:notes:key-terms:manager|" ;
+
+===== PAGEQUERY search =====
+
+{{pagequery> "steward|" ;
   fulltext;
   display={title};
 }}
+
+
+===== TOPIC Search =====
+
+{{topic>manager}}
