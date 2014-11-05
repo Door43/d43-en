@@ -29,7 +29,7 @@
   layout=Table;
   showcount;
   hidejump;
-}}|{{pagequery>ns:en:bible:notes:luk "tag>publish";
+}}|{{pagequery>ns:en:bible:notes:luk "tag> ";
   fulltext;
   fulltext;
   sort=title:asc;
