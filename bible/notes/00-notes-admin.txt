@@ -22,7 +22,6 @@
   hidejump;
 }}|{{pagequery>ns:en:bible:notes:luk "tag>discuss";
   fulltext;
-  fulltext;
   sort=title:asc;
   display={title};
   natsort;
@@ -30,7 +29,6 @@
   showcount;
   hidejump;
 }}|{{pagequery>ns:en:bible:notes:luk "tag> ";
-  fulltext;
   fulltext;
   sort=title:asc;
   display={title};
