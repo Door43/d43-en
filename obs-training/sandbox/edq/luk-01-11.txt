@@ -1,23 +1,11 @@
 ===== Ed's Sandbox =====
 ~~nocache~~
 
-
-
-{{topic>en:bible:notes:luk?draft}}
-
-
-
-
-
-
 ===== PAGEQUERY search =====
-
-{{pagequery> "steward|" ;
-  fulltext;
-  display={title};
-}}
+<pagelist&sort>
+{{topic>en:bible:notes:luk?draft}}
+</pagelist>
 
 
-===== TOPIC Search =====
-
-{{topic>manager}}
+===== Topic search =====
+{{topic>en:bible:notes:luk?draft}}
