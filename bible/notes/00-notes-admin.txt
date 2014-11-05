@@ -50,6 +50,7 @@
   natsort;
   layout=table;
   showcount;
+  hidemsg;
   hidejump;}}
   
   
