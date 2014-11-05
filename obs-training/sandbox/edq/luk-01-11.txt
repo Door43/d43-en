@@ -2,10 +2,12 @@
 ~~nocache~~
 
 ===== PAGEQUERY search =====
+
 <pagelist&sort>
-{{topic>en:bible:notes:luk?draft}}
+  * {{topic>en:bible:notes:luk?draft}}
 </pagelist>
 
 
 ===== Topic search =====
+
 {{topic>en:bible:notes:luk?draft}}
