@@ -9,7 +9,7 @@
   display={title};
   natsort;
   layout=table;
-  label=Luke Pages in "Review" Status;
+  label=Luke Pages in "Discuss" Status;
   showcount;
   hidejump;
 }}|{{pagequery>ns:en:bible:notes:luk tag>discuss;
