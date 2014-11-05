@@ -28,7 +28,7 @@
   layout=Table;
   showcount;
   hidejump;
-}}|{{pagequery>ns:en:bible:notes:luk "tag> ";
+}}|{{pagequery>ns:en:bible:notes:luk "tag>publish";
   fulltext;
   sort=title:asc;
   display={title};
