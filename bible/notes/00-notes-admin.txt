@@ -4,7 +4,7 @@
 ==== Luke Pages Status ====
 
 |  **Draft Pages**  |  **Review Pages**  |  **Discuss Pages**  | **Publish Pages**  |
-|{{pagequery>ns:en:bible:notes:luk ("tag> draft" |"tag> draft") ;
+|{{pagequery>ns:en:bible:notes:luk ("tag>draft" |"tag> draft") ;
   fulltext;
   sort=title:asc;
   display={title};
@@ -12,7 +12,7 @@
   layout=table;
   showcount;
   hidejump;
-}}|{{pagequery>ns:en:bible:notes:luk ("tag> review" |"tag> review");
+}}|{{pagequery>ns:en:bible:notes:luk ("tag>review" |"tag> review");
   fulltext;
   sort=title:asc;
   display={title};
@@ -20,7 +20,7 @@
   layout=table;
   showcount;
   hidejump;
-}}|{{pagequery>ns:en:bible:notes:luk ("tag> discuss" |"tag> discuss");
+}}|{{pagequery>ns:en:bible:notes:luk ("tag>discuss" |"tag> discuss");
   fulltext;
   fulltext;
   sort=title:asc;
@@ -29,7 +29,7 @@
   layout=Table;
   showcount;
   hidejump;
-}}|{{pagequery>ns:en:bible:notes:luk ("tag> publish" |"tag> publish");
+}}|{{pagequery>ns:en:bible:notes:luk ("tag>publish" |"tag> publish");
   fulltext;
   fulltext;
   sort=title:asc;
