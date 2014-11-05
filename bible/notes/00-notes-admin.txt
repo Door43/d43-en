@@ -14,6 +14,7 @@
   natsort;
   layout=table;
   showcount;
+  hidemsg;
   hidejump;
 }}|{{pagequery>ns:en:bible:notes:luk "tag>review";
   fulltext;
@@ -22,6 +23,7 @@
   natsort;
   layout=table;
   showcount;
+  hidemsg;
   hidejump;
 }}|{{pagequery>ns:en:bible:notes:luk "tag>discuss";
   fulltext;
@@ -30,6 +32,7 @@
   natsort;
   layout=Table;
   showcount;
+  hidemsg;
   hidejump;
 }}|{{pagequery>ns:en:bible:notes:luk "tag>publish";
   fulltext;
@@ -38,6 +41,7 @@
   natsort;
   layout=Table;
   showcount;
+  hidemsg;
   hidejump;
 }}|
 
