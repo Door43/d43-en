@@ -1,13 +1,15 @@
 ===== Ed's Sandbox =====
 ~~nocache~~
 
-===== PAGEQUERY search =====
+===== Pagelist search =====
 
-<pagelist&sort>
+<pagelist&table>
+  *
   * {{topic>en:bible:notes:luk?draft}}
+  * 
 </pagelist>
 
 
 ===== Topic search =====
 
-{{topic>en:bible:notes:luk?draft}}
+{{topic>en:bible:notes:luk?draft&nocomments&sort}}
