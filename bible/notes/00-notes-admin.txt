@@ -1,5 +1,9 @@
 ====== Notes Page Administration ======
+
+
 ~~NOCACHE~~
+
+
 
 ==== Luke Pages Status ====
 
@@ -39,6 +43,7 @@
 }}|
 
 ==== Potential bad tags ====
+
 {{pagequery>ns:en:bible:notes:luk "tag> " ;
   fulltext;
   sort=title:asc;
