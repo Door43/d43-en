@@ -1,5 +1,7 @@
 ====== Notes Page Administration ======
 
+~~nocashe~~
+
 ==== Luke Pages Status ====
 
 ==== Luke Pages Status ====
@@ -14,56 +16,38 @@
 ==== Luke Pages Status ====
 
 |  **Draft Pages**  |  **Review Pages**  |  **Discuss Pages**  | **Publish Pages**  |
-|{{pagequery>ns:en:bible:notes:luk "tag>draft";
+|{{pagequery>ns:en:bible:notes:luk ("tag>draft" |"tag> draft") ;
   fulltext;
   sort=title:asc;
   display={title};
   natsort;
   layout=table;
-  label=Luke Pages in "Draft" Status;
   showcount;
   hidejump;
-}}|{{pagequery>ns:en:bible:notes:luk "tag>review";
+}}|{{pagequery>ns:en:bible:notes:luk ("tag>review" |"tag> review");
   fulltext;
   sort=title:asc;
   display={title};
   natsort;
   layout=table;
-  label=Luke Pages in "Review" Status;
   showcount;
   hidejump;
-}}|{{pagequery>ns:en:bible:notes:luk "tag>discuss";
+}}|{{pagequery>ns:en:bible:notes:luk ("tag>discuss" |"tag> discuss");
   fulltext;
   fulltext;
   sort=title:asc;
   display={title};
   natsort;
   layout=Table;
-  label=Luke Pages in "Discuss" Status;
   showcount;
   hidejump;
-}}|{{pagequery>ns:en:bible:notes:luk "tag>publish";
+}}|{{pagequery>ns:en:bible:notes:luk ("tag>publish" |"tag> publish");
   fulltext;
   fulltext;
   sort=title:asc;
   display={title};
   natsort;
   layout=Table;
-  label=Luke Pages in "Publish" Status;
   showcount;
   hidejump;
 }}|
-
-
-==== Titus Pages in "Review" Status ====
-
-{{topic>en:bible:notes:tit:01?review&sort&nocomments}}
-{{topic>en:bible:notes:tit:02?review&sort&nocomments}}
-{{topic>en:bible:notes:tit:03?review&sort&nocomments}}
-{{topic>en:bible:notes:tit:04?review&sort&nocomments}}
-
-==== Ruth Pages in "Review" Status ====
-{{topic>en:bible:notes:rut:01?review&sort&nocomments}}
-{{topic>en:bible:notes:rut:02?review&sort&nocomments}}
-{{topic>en:bible:notes:rut:03?review&sort&nocomments}}
-{{topic>en:bible:notes:rut:04?review&sort&nocomments}}
