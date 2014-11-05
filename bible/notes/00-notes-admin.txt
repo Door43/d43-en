@@ -3,7 +3,7 @@
 ==== Luke Pages Status ====
 
 |  **Review Pages**  |  **Discuss Pages**  |
-|{{pagequery>ns:en:bible:notes:luk tag>review;
+|{{pagequery>ns:en:bible:notes:luk "tag>review";
   fulltext;
   sort=title:asc;
   display={title};
@@ -12,7 +12,7 @@
   label=Luke Pages in "Review" Status;
   showcount;
   hidejump;
-}}|{{pagequery>ns:en:bible:notes:luk tag>discuss;
+}}|{{pagequery>ns:en:bible:notes:luk "tag>discuss";
   fulltext;
   fulltext;
   sort=title:asc;
