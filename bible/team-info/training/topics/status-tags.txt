@@ -7,7 +7,8 @@ The main tags and their meaning are:
 
   * **talink** - this alerts the Translation Academy team that a new topic needs to be created on a Notes page
   * **draft** - this indicates that a page needs to have draft content created by the appropriate team
-  * **review** - this indicates that the page is ready for final review by the team leader and assistant
+  * **review** - this indicates that the page is ready for final review by the team leader
+  * **discuss** - this indicates that the team leader would like to discuss this page with someone else before publishing
   * **publish** - this indicates that the page is finished and ready to release in the app
 
 
