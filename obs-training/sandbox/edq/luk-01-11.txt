@@ -2,6 +2,5 @@
 
 ~~nocache~~
 ==== Did I do anything this week? ====
-{{changes>ns=en:bible:notes&15000&user=ed_quigley&maxage=604800&render=pagelist(firsthl, desc, sort, date)}}
-
+{{changes>ns=en:bible:notes&15000&user=ed_quigley&maxage=604800&render=pagelist(default, firsthl, desc, nosort, date, nocomments, user)}}
 
