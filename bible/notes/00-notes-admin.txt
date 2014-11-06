@@ -7,43 +7,7 @@
 ==== Luke Pages Status ====
 
 |  **Draft Pages**  |  **Review Pages**  |  **Discuss Pages**  | **Publish Pages**  |
-|{{pagequery>ns:en:bible:notes:luk "tag>draft" ;
-  fulltext;
-  sort=title:asc;
-  display={title};
-  natsort;
-  layout=table;
-  showcount;
-  hidemsg;
-  hidejump;
-}}|{{pagequery>ns:en:bible:notes:luk "tag>review";
-  fulltext;
-  sort=title:asc;
-  display={title};
-  natsort;
-  layout=table;
-  showcount;
-  hidemsg;
-  hidejump;
-}}|{{pagequery>ns:en:bible:notes:luk "tag>discuss";
-  fulltext;
-  sort=title:asc;
-  display={title};
-  natsort;
-  layout=Table;
-  showcount;
-  hidemsg;
-  hidejump;
-}}|{{pagequery>ns:en:bible:notes:luk "tag>publish";
-  fulltext;
-  sort=title:asc;
-  display={title};
-  natsort;
-  layout=Table;
-  showcount;
-  hidemsg;
-  hidejump;
-}}|
+|{{topic>en:bible:notes:luk?draft&nocomments}}|{{topic>en:bible:notes:luk?review&nocomments}}|{{topic>en:bible:notes:luk?discuss&nocomments}}|{{topic>en:bible:notes:luk?publish&nocomments}}|
 
 ==== Potential bad tags ====
 
