@@ -1,7 +1,7 @@
 ====== user activity ======
 
 Chris Jarka
-{{changes>user=USERNAMEHERE&count=50&render=pagelist(header,date,user,nocomments)&maxage=25920000}}
+{{changes>user=samuel&count=50&render=pagelist(header,date,user,nocomments)&maxage=25920000}}
 
 Changes this week
 
