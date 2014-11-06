@@ -1,13 +1,6 @@
 ===== Ed's Sandbox =====
 ~~nocache~~
 
-===== Pagelist search =====
-
-<pagelist&list>
-  {{topic>en:bible:notes:luk?publish}}
-</pagelist>
-
-
 ===== Topic search =====
 
 {{topic>en:bible:notes:luk?publish}}
