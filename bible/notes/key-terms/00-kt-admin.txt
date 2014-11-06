@@ -28,7 +28,7 @@ Text
 ===== Bible References: =====
 
  
-{{topic>term}}
+{{topic>term&nocomments}}
 
 
 ~~DISCUSSION~~
@@ -59,7 +59,7 @@ Text
 ===== Bible References: =====
 
  
-{{topic>name}}
+{{topic>name&nocomments}}
 
 
 ~~DISCUSSION~~
