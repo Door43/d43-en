@@ -4,32 +4,38 @@
 ===== TFT: =====
 
 
-<usfm>  
-\p  
-\v 4 John was the one who  \add fulfilled \add* these words that had  \add been written \add* by the prophet Isaiah  \f +  \ft Or:that the prophet Isaiah had written  \f* on a scroll  \add long ago \add*:  \pi In a desolate area, someone  \f +  \ft synecdoche  \f* will be heard shouting  \add to the people who pass by \add*,  \pi Prepare yourselves  \add to receive \add* the Lord when he comes!  \pi  \add Make yourselves ready so that you will be prepared when he comes \add*,  \pi  \add just like people \add* straighten out the road  \f +  \ft metaphor  \f*  \add for an important official \add*  \f +  \ft metaphor, doublet  \f*! </usfm>
+<usfm>
+\v 4 John was the one who \add fulfilled\add* these words that had \add been written\add* by the prophet Isaiah \f + \ft Or:that the prophet Isaiah had written \f* on a scroll \add long ago\add*:
+\pi In a desolate area, someone \f + \ft synecdoche \f* will be heard shouting \add to the people who pass by\add*,
+\pi Prepare yourselves \add to receive\add* the Lord when he comes!
+\pi \add Make yourselves ready so that you will be prepared when he comes\add*,
+\pi \add just like people\add* straighten out the road \f + \ft metaphor \f* \add for an important official\add* \f + \ft metaphor, doublet \f*!
+\pi
+</usfm>
 
 
 ===== UDB: =====
 
 
-<usfm>  
-\s5  
-\v 4 The prophet Isaiah wrote these words on a scroll long ago:  
-\q1 "In the wilderness, someone will be calling out:  
-\q1 Prepare the way of the Lord,  
-\q1 Make straight paths for him. 
+<usfm>
+\v 4 The prophet Isaiah wrote these words on a scroll long ago:
+\q1 "In the wilderness, someone will be calling out:
+\q1 Prepare the way of the Lord,
+\q1 Make straight paths for him.
+
+
+\q1
 </usfm>
 
 
 ===== ULB: =====
 
 
-<usfm> 
-\s5 
+<usfm>
 \q1 \v 4 As it is written in the book of the words of Isaiah the prophet,
-\q1 "The voice of someone calling out in the wilderness, 
-\q1 Make ready the way of the Lord, 
-\q1 Make his paths straight. 
+\q1 "The voice of someone calling out in the wilderness,
+\q1 'Make ready the way of the Lord,
+\q1 Make his paths straight.
 </usfm>
 
 
