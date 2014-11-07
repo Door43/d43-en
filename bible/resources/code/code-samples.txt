@@ -1,0 +1,8 @@
+====== Sample Door43 Code ======
+
+Code to pull in content from a specific section:
+
+<code>
+{{section>:en:bible:notes:luk:01:01#important terms:&noheader}}
+</code>
+
