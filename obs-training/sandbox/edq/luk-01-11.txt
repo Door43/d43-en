@@ -1,6 +1,15 @@
 ===== Ed's Sandbox =====
+~~NOCACHE~~
 
-~~nocache~~
+==== Luke Pages Status ====
+
+|  **Draft Pages**  |  **Review Pages**  |  **Discuss Pages**  | **Publish Pages**  |
+|{{topic>en:bible:notes:luk?draft&nocomments}}|{{topic>en:bible:notes:luk?review&nocomments}}|{{topic>en:bible:notes:luk?discuss&nocomments}}|{{topic>en:bible:notes:luk?publish&nocomments}}|
+
+
+
+
+
 ==== Did I do anything this week? ====
 {{changes>ns=en:bible:notes&15000&user=ed_quigley&maxage=604800&render=pagelist(default, firsthl, desc, sort, date, nocomments, user)}}
 
