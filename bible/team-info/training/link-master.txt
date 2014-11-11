@@ -8,12 +8,13 @@ The Link and Page Master (LPM) will handle the hyperlink and page creation that 
 Each page was automatically assigned one of the following tags when it was created depending if the key term is to go directly to the key terms team or wait:
 
 <code>
-{{tag>create BBBNN}} BBB=lowercase 3-letter Bible book designator and NN=Chapter number 
+{{tag>create BBBNN}} 
 **OR**
 {{tag>draft}}
 
 </code>
-
+where BBB = lowercase 3-letter Bible book designator\\ 
+and    NN = Chapter number
 
 When the Notes teams finish adding the draft content, the LPM will change the status tag in each page to:
 
