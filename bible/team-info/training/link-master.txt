@@ -69,6 +69,7 @@ Text
 ~~DISCUSSION~~
 
 
+{{tag>create lukxx}}
 {{tag>draft}}
 
 </code>
@@ -100,6 +101,7 @@ Text
 ~~DISCUSSION~~
 
 
+{{tag>create lukxx}}
 {{tag>draft}}
 
 </code>
@@ -111,4 +113,3 @@ Also add the URL name to the topic tag at the bottom of the new page, as below:
 <code>
 {{topic>urlname}}
 </code>
-
