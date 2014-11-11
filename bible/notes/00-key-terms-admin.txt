@@ -9,16 +9,5 @@
 |  **Draft Pages**  |  **Review Pages**  |  **Discuss Pages**  | **Publish Pages**  |
 |{{topic>en:bible:notes:key-terms?draft&nocomments}}|{{topic>en:bible:notes:key-terms?review&nocomments}}|{{topic>en:bible:notes:key-terms?discuss&nocomments}}|{{topic>en:bible:notes:key-terms?publish&nocomments}}|
 
-==== Check on bad tags ====
 
-{{pagequery>ns:en:bible:notes:key-terms "tag> " ;
-  fulltext;
-  sort=title:asc;
-  display={title};
-  natsort;
-  layout=table;
-  showcount;
-  hidemsg;
-  hidejump;}}
-  
- 
+{{tag>kt101}}
