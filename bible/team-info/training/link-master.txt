@@ -5,11 +5,15 @@ The Link and Page Master (LPM) will handle the hyperlink and page creation that 
 
 ==== Change Page Status ====
 
-Each page was automatically assigned the following tag when it was created:
+Each page was automatically assigned one of the following tags when it was created depending if the key term is to go directly to the key terms team or wait:
 
 <code>
+{{tag>create lukxx}}
+**OR**
 {{tag>draft}}
+
 </code>
+
 
 When the Notes teams finish adding the draft content, the LPM will change the status tag in each page to:
 
