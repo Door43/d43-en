@@ -14,8 +14,3 @@
 
 
 <nspages en:ta:figuresofspeech -title -exclude:home -textPages="List of tA Pages about Figures of Speech:">
-
-
-<nspages en:ta:customs:cultural -title -exclude:home -textPages="List of tA Pages about Cultural Customs:">
-
-<nspages en:ta:customs:religious -title -exclude:home -textPages="List of tA Pages about Religious Customs:">
