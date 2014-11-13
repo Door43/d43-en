@@ -304,6 +304,9 @@
 **[[:xmf:obs|xmf OBS]]**
 {{changes>ns=xmf:obs&maxage=604800&render=pagelist(header,date,user,nocomments)}}
 
+**[[:yam:obs|yam OBS]]**
+{{changes>ns=yam:obs&maxage=604800&render=pagelist(header,date,user,nocomments)}}
+
 **[[:yao:obs|yao OBS]]**
 {{changes>ns=yao:obs&maxage=604800&render=pagelist(header,date,user,nocomments)}}
 
