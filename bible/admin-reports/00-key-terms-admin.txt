@@ -1,0 +1,13 @@
+====== Key Terms Page Administration ======
+
+~~NOCACHE~~
+
+\\ 
+
+==== Key Terms Pages Status ====
+
+|  **Draft Pages**  |  **Review Pages**  |  **Discuss Pages**  | **Publish Pages**  |
+|{{topic>en:bible:notes:key-terms?draft&nocomments}}|{{topic>en:bible:notes:key-terms?review&nocomments}}|{{topic>en:bible:notes:key-terms?discuss&nocomments}}|{{topic>en:bible:notes:key-terms?publish&nocomments}}|
+
+
+{{tag>kt101}}
