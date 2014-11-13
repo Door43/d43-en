@@ -1,11 +1,5 @@
-====== Key Terms Page Administration ======
+====== Key Terms Page Administration (Old) ======
 
-~~NOCACHE~~
+This page has been moved to a new location:
 
-\\ 
-
-==== Key Terms Pages Status ====
-
-|  **Draft Pages**  |  **Review Pages**  |  **Discuss Pages**  | **Publish Pages**  |
-|{{topic>en:bible:notes:key-terms?draft&nocomments}}|{{topic>en:bible:notes:key-terms?review&nocomments}}|{{topic>en:bible:notes:key-terms?discuss&nocomments}}|{{topic>en:bible:notes:key-terms?publish&nocomments}}|
-
+[[:en:bible:admin-reports:00-key-terms-admin|Key Terms: Admin Page]]
