@@ -1,22 +1,5 @@
-====== Notes Page Administration ======
+====== Notes Page Administration (Old) ======
 
-~~NOCACHE~~
+This page has been moved to a new location:
 
-\\ 
-
-==== Luke Pages Status ====
-
-|  **Review Pages**  |  **Discuss Pages**  | **Publish Pages**  |
-|{{topic>en:bible:notes:luk?review&nocomments}}|{{topic>en:bible:notes:luk?discuss&nocomments}}|{{topic>en:bible:notes:luk?publish&nocomments}}|
-
-==== Check on bad tags ====
-
-{{pagequery>ns:en:bible:notes:luk "tag> " ;
-  fulltext;
-  sort=title:asc;
-  display={title};
-  natsort;
-  layout=table;
-  showcount;
-  hidemsg;
-  hidejump;}}
+[[:en:bible:admin-reports:01-notes1-admin|Notes: Luke Admin Page]]
