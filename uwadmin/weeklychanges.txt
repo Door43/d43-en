@@ -127,6 +127,9 @@
 **[[:jv:obs|jv OBS]]**
 {{changes>ns=jv:obs&maxage=604800&render=pagelist(header,date,user,nocomments)}}
 
+**[[:kia:obs|kia OBS]]**
+{{changes>ns=kia:obs&maxage=604800&render=pagelist(header,date,user,nocomments)}}
+
 **[[:kkl:obs|kkl OBS]]**
 {{changes>ns=kkl:obs&maxage=604800&render=pagelist(header,date,user,nocomments)}}
 
