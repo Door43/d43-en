@@ -47,15 +47,11 @@ The following pages are tagged as "draft" and need to be edited by the team:
 
 The following pages are tagged as "review" and need final review and then to be published:
 
-
 {{topic>en:ta?review&nocomments}}
-
 
 === Followup ===
 
 After you have published the module:
 
   * Edit the link to the tA page in the Bible chunk page
-  * Remove the tag from the Bible text page (leave any "ktlink" tags)  
- 
-   
+  * Remove the tag from the Bible text page (leave any "ktlink" tags)
