@@ -1,36 +1,53 @@
-Sentence Structure & Parts of Speech
-
+==== Sentence Structure & Parts of Speech ====
 
 DRAFT - IN PROGRESS
 
+A //**sentence**// is a group of words that express a complete thought.  The may state something (declarative; 'This is a fact.'), ask something (interrogative; 'Do you know him?') or exclaim something (exclamatory; Ouch, that hurt!)
 
-The simplest sentence structure in English includes a subject and a verb.  
+The simplest sentence structure in English includes a subject and a verb.
 
+The //**subject**// is who or what the sentence is about; Subjects are typically nouns or pronouns.
 
-The subject is who or what the sentence is about; it uses nouns or pronouns.
+------------------------------------------------
 
+The **VERB** is either an action or a state-of-being word such as is, are, was. The portion of the sentence which contains the verb is called the predicate.
 
-The VERB is either an action or a state-of-being word such as is, are, was.  The portion of the sentence which contains the verb is called the predicate.
+//**NOUNS**// are words that represent a person, place, thing or idea.
 
+//**PRONOUNS**// take the place of nouns and include such words as he, she, it, they and we. More detailed pages on pronouns can be found here: [[https://door43.org/en/ta/vocabulary/singularpronoun|https://door43.org/en/ta/vocabulary/singularpronoun]] and here [[https://door43.org/en/ta/vocabulary/pluralpronouns|https://door43.org/en/ta/vocabulary/pluralpronouns]].
 
-NOUNS are words that represent a person, place, thing or idea.
+//**ARTICLES**// are the term used to describe the words: a, an, the. "The" a definite article which means a specific one (e.g. the dog) instead of a generic description such as "a dog."
 
+Articles are actually part of a larger group of words called ADJECTIVES. Adjectives describe nouns and convey such things as quantity, size and color.
 
-PRONOUNS take the place of nouns and include such words as he, she, it, they and we.  More detailed pages on pronouns can be found here:  [[https://door43.org/en/ta/vocabulary/singularpronoun|https://door43.org/en/ta/vocabulary/singularpronoun]] and here [[https://door43.org/en/ta/vocabulary/pluralpronouns|https://door43.org/en/ta/vocabulary/pluralpronouns]].
+//**ADVERBS**// are a group of words that describe verbs (or adjectives) and tell such things as how, when, why or where.
 
+--------------------------------------------------
 
-ARTICLES are the term used to describe the words:  a, an, the.  "The" a definite article which means a specific one (e.g. the dog) instead of a generic description such as "a dog."
+//**MORE HELPFUL CONCEPTS:** // \\
+\\
+**//VERB TENSE// **
 
+Just as time has past, present and future, verbs do also.  When an action has or will take place is reflected in the verb.  Perfect tenses of verbs indicate continuing action (either continuous from a time past or continuous into the future).
 
-Articles are actually part of a larger group of words called ADJECTIVES.  Adjectives describe nouns and convey such things as quantity, size and color.
+//**SINGULAR & PLURAL** //
 
+<font inherit/inherit;;inherit;;inherit>Nouns and Pronouns have the ability to be either singular (meaning one) or plural (more than one).  For the majority of words, plurals are formed simply by adding an 's' to the root word.  Some words</font>
 
-ADVERBS are a group of words that describe verbs (or adjectives) and tell such things as how, when, why or where.
+<font inherit/inherit;;inherit;;inherit>The Singular & Plural Pronoun pages have in-depth clarification.  Basically, singular pronouns include I, he, she and it.  Plural pronouns include you, they and we.  "It" refers back to nouns (the antecedent) which are non-human.  There are collective nouns which describe quantities in excess of one but which remain singular in treatment; for example, team refers to several people.  However, in a sentence, team is singular.  (e.g.  The team is tired.)</font>
 
+<font inherit/inherit;;inherit;;inherit>Each has specific corresponding verbs.  For example:  The Bible is one book.  (This sentence has a s</font> ingular<font inherit/inherit;;inherit;;inherit>subject and a singular verb.)  The Bibles are on the desk.  (This speaks of more than one bible and uses 'are' which is the plural form of the be verb.)</font>
+
+<font inherit/inherit;;inherit;;inherit>The chart below explains the "Be" verb.</font>
+
+|  \\ I \\  \\ He \\  \\ She \\  \\ It \\  \\ You \\  \\ They \\  \\ we \\  |  \\ **Present** \\   \\ am \\  \\ is \\  \\ is \\  \\ is \\  \\ are \\  \\ are \\  \\ are \\  |  \\   \\  |  \\ **Past** \\   \\ was \\  \\ was \\  \\ was \\  \\ was \\  \\ were \\  \\ were \\  \\ were \\  |
 
 <code>
 {{tag>[sentence structure]}}
 </code>
+
 <code>
 {{tag>[parts of speech]}}
 </code>
+
+\\
