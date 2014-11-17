@@ -1,121 +1,89 @@
 ====== Edit the UDB ======
 
-
-**Introduction to the UDB** 
-
+**Introduction to the UDB**
 
 The UDB (UnfoldingWord Dynamic Bible) is a “dynamic” version that is intended to be used as a source text for translating the Bible into other languages. It is less literal than the ULB text and expresses the meaning of the original text in alternate, more natural ways in order to clarify the meaning. One goal of the UDB text is to have less abstract or figurative wording that might be difficult to translate into another language. Certain types of implied information are included in the UDB in order to express the meaning of the original more clearly. Sometimes the wording of the UDB has been chosen in order to avoid certain translation issues, such as the use of the passive voice.
 
-
 The UDB and ULB texts are not intended to be “finished” or “polished” translations. Rather, they are meant only to serve as source texts for other translations. With this in mind, the primary aim of both these source texts is to accurately convey the meaning of the Bible text in a way that is easy to understand, even for people whose first language is not English. The ULB is more literal, staying closer to the structure of the original text and is more limiting in its use of implied information. The UDB, while still retaining the clear meaning of the original Greek text, allows more flexibility in sentence structure and vocabulary in order to achieve a highly natural way of expressing that meaning. Even so, the UDB will not be beautiful or idiomatic English. The primary goal of the UDB is clarity, so we will use simple rather than elegant words, short rather than long sentences, and we will fill in the subjects and objects of verbs in case the translator needs them, even though that may make the text sound choppy in English.
 
-
-**The Text from which the UDB Is Being Adapted** 
-
+**The Text from which the UDB Is Being Adapted**
 
 The UDB is an adaptation of the Translation for Translators (TFT). However there are many differences between the two texts. The TFT is closer to a paraphrase in style in that it removes most complex theological terms, idioms and other figures of speech, and replaces them with simpler wording. With the goal of explaining the meaning of the text, it also adds a large amount of implied information, some of which is interpretive.
 
-
-**The Style of the UDB** \\ 
+**The Style of the UDB** \\
 The UDB, too, is a very readable text, but it does not eliminate the theological terms and other complex language issues. It also does not add as much implied information as the TFT has. Instead, many of the difficult theological terms are retained in the text and then explained in the translation notes that are provided on each frame. In addition, links are provided to key term pages which explain theological words and other important terms that occur throughout the Bible. However the UDB is still a very readable text that retains the meaning accurately while expressing it in a natural and easy-to–understand way.
 
+\\
+**In Summary, the UDB:**
 
-\\ 
-**In Summary, the UDB:** 
-
-
-    * Is a dynamic, easy-to-understand text in which the meaning of the Greek text is conveyed simply and clearly.
-    * Only adds explanatory words or other implied information if they are necessary for understanding the meaning of the passage.
-    * Avoids long or complex sentences.
-    * Keeps the idioms and figures of speech of the Greek text if they are easy to understand, but sometimes replaces abstract nouns with simpler, more concrete language.
-    * Seeks to be consistent in its use of theological key terms.
-    * Relies on translation notes and key term pages for longer explanations of portions of the text that are more difficult to understand.
-    * Provides an alternate to the more literal ULB, expressing the same meaning in a more natural way.
-
+   * Is a dynamic, easy-to-understand text in which the meaning of the Greek text is conveyed simply and clearly.
+  * Only adds explanatory words or other implied information if they are necessary for understanding the meaning of the passage.
+  * Avoids long or complex sentences.
+  * Keeps the idioms and figures of speech of the Greek text if they are easy to understand, but sometimes replaces abstract nouns with simpler, more concrete language.
+  * Seeks to be consistent in its use of theological key terms.
+  * Relies on translation notes and key term pages for longer explanations of portions of the text that are more difficult to understand.
+  * Provides an alternate to the more literal ULB, expressing the same meaning in a more natural way.
 
 === Editing the UDB ===
 
-
 The edit team members will:
 
+  * Check to see what the original idioms and figures of speech were and put them back in the text if they are easy to understand. Sometimes a brief comment is added to make the meaning clear. Longer explanations will be left for the notes.
+  * Restore the theological words (such as forgiveness, repentance, salvation) that can easily be explained in the notes or key term pages.
+  * Remove unnecessary added commentary and comments that were in the TFT text.
+  * Check that the English level is easy to understand.
+  * Keep the sentences short if possible.
+  * Retain the dynamic nature of the text–it should complement the “literal” ULB rather than be similar to it.
+  * Correct any errors that have resulted from making the text too far from the Greek text, or from making some things clear at the expense of obscuring others.
 
-    * Check to see what the original idioms and figures of speech were and put them back in the text if they are easy to understand. Sometimes a brief comment is added to make the meaning clear. Longer explanations will be left for the notes.
-    * Restore the theological words (such as forgiveness, repentance, salvation) that can easily be explained in the notes or key term pages.
-    * Remove unnecessary added commentary and comments that were in the TFT text.
-    * Check that the English level is easy to understand.
-    * Keep the sentences short if possible.
-    * Retain the dynamic nature of the text–it should complement the “literal” ULB rather than be similar to it.
-    * Correct any errors that have resulted from making the text too far from the Greek text, or from making some things clear at the expense of obscuring others.
+**Specific**  **editing guidelines**
 
+  * Only use quotation marks at the beginning and ending of direct speech. Do not put quotation marks at the beginning of each verse, even though the speech may span several verses.
+  * Capitalization issues: in general, we are following the practice of the 2011 NIV.
+  * All pronouns are lower case (except when beginning sentences).
+  * Capitalize titles (Son of Man, King David, the Messiah).
+  * Restore theological terms such as "resurrection" or "kingdom of God."
+  * For "law," use "religious law" or "Jewish law."
+  * For "law of Moses," use "law(s) that God gave to Moses."
+  * For "Sabbath," use "day of rest." As an option for narration: "Jewish day of rest," as an option for direct speech: "our day of rest."
+  * For "Christ," use "the Messiah."
+  * For "parable," use "story."
+  * Do not begin sentences with "And" in narration.
 
-**Specific**  **editing guidelines** 
-
-
-    * Only use quotation marks at the beginning and ending of direct speech. Do not put quotation marks at the beginning of each verse, even though the speech may span several verses.
-    * Capitalization issues: in general, we are following the practice of the 2011 NIV.
-    * All pronouns are lower case (except when beginning sentences).
-    * Capitalize titles (Son of Man, King David, the Messiah).
-    * Restore theological terms such as "resurrection" or "kingdom of God."
-    * For "law," use "religious law" or "Jewish law."
-    * For "law of Moses," use "law(s) that God gave to Moses."
-    * For "Sabbath," use "day of rest." As an option for narration: "Jewish day of rest," as an option for direct speech: "our day of rest."
-    * For "Christ," use "the Messiah."
-    * For "parable," use "story."
-    * Do not begin sentences with "And" in narration.
-
-
-**Notes regarding drafting ULB and UDB texts** 
-
+**Notes regarding drafting ULB and UDB texts**
 
 1. The system we are using to draft these texts involves editors being able to edit the texts simultaneously. That means that what one editor deleted or added may be changed by another editor. However all the previous edits are preserved and can be viewed by using the timeline. The final editor will make decisions regarding what edits will be used for the final draft. Discussion about the edits or about alternate suggestions for the final editor to consider can be made in the chat boxes.
 
-
 2. Although we are drafting these source texts in English, they will also be translated into other major languages (such as Spanish, French and others) to serve as source texts for people who know those languages and who will use these texts to translate into their own languages. Therefore the source texts have to be fairly easy to understand in order to be translated into the major languages, which in turn will need to be in a form that is easy to understand. Having them in natural English will set an example of naturalness that these other major languages can follow.
-
 
 3. Translating from one language to another will involve changes in structure and differences in vocabulary. For example, one word in the first language may require two or more in the second language. The opposite will also be true, where the first language uses several words but the second language has to say it using only one word. Sometimes it is more natural in a language to omit a word like “is” (ex. Greek or Indonesian) whereas another language requires it (ex. English or French). The meaning is exactly the same but the way of expressing that meaning will be different depending on the language.
 
-
 4. Strict adherence to certain words or structures at the expense of meaning results in a “translation” that does not preserve the meaning of the original text. So as these texts are drafted, we need to keep in mind that our aim is to faithfully communicate the meaning of the Greek text. A translation that does not make sense in the second language is not being faithful to the original text (which was written for the purpose of communicating a message). A stilted, unnatural translation obscures meaning, which is the opposite of what a translation should do.
-
 
 5. Words will not always be translated exactly the same way every time they occur in the text since in every language, some words will have more than one meaning. One example in Greek is the word that can mean either “sky” or “heaven” depending on the context. In French the word for “dear” can also mean “expensive.” The word “run” in English can have many different meanings. There are many more examples like these in other languages. In these cases, the meaning of the word is usually made clear by the other words and sentences surrounding it.
 
-
 6. The goal of both the ULB and UDB texts is to accurately communicate the meaning of the Greek text. The ULB will also strive to keep as closely as possible to the Greek words and language structures as long as doing so does not change the meaning or make it hard to understand. The UDB will allow more flexibility so as to produce an even more natural English text that communicates the same meaning in a more dynamic way.
 
-
-**Draft of a Sample Portion of UDB text** 
-
+**Draft of a Sample Portion of UDB text**
 
 Types of edits to look for:
 
-
 • awkward phrasing \\ • outdated or low frequency vocabulary (and outdated spellings) \\ • wrong punctuation \\ • extraneous implied information \\ • unclear or unnatural use of pronouns or conjunctions \\ • wording that could cause a translation issue \\ • implied information that is important for comprehension \\ • original information restored
-
 
 UDB Luke 12:1-3
 
-
 Original: \\ 1 While they were doing that, many thousands of people gathered around Jesus. There were so many that they were stepping on each other. Then he said to his disciples, "Beware of becoming hypocrites like the Pharisees. Their evil influence spreads to others like yeast spreads its influence in dough. \\ 2 People will not be able to continue concealing the things that they or other people try to conceal now. God will someday cause the things that are hidden now to be known. \\ 3 All the things that you say in the dark secretly, some day will be heard in the daylight. The things you have whispered among yourselves in your rooms will be proclaimed publicly.”
-
 
 Edited: \\ 1 Meanwhile, many thousands of people gathered around Jesus. There were so many close together that they were stepping on each other. But first he said to his disciples, "Be careful that you do not become like the Pharisees who act religious in public, but do evil things in secret. Just like yeast causes a lump of dough to rise, their evil behavior causes others to be hypocrites like they are. \\ 2 People will not be able to continue covering up their sins the way they can now. Someday God will let everyone know the things that people hide now. \\ 3 Everything you say in the dark, someday people will hear in the daylight. Whatever you whisper in your room will someday be as public as if it were shouted from the rooftops.”
 
-
 See the attached document on {{:en:bible:team-info:processes:how_to_use_ether_padv2.pdf|How to Use the Ether Pad}}  interface.
-
 
 This section has links to additional resources for your "continuing education" in how to do the best job of editing the text.
 
-
 {{topic>udb201}}
-
 
 Additional topics will be added as they are needed and developed. Please check back here from time to time.
 
-
 (See also: [[:en:bible:team-info:processes:edit-ulb|Edit the ULB]])
-
 
 {{tag>udb101}}
