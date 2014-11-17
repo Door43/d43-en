@@ -46,6 +46,9 @@
 **[[:bnp:obs|bnp OBS]]**
 {{changes>ns=bnp:obs&maxage=604800&render=pagelist(header,date,user,nocomments)}}
 
+**[[:brh:obs|brh OBS]]**
+{{changes>ns=brh:obs&maxage=604800&render=pagelist(header,date,user,nocomments)}}
+
 **[[:brx:obs|brx OBS]]**
 {{changes>ns=brx:obs&maxage=604800&render=pagelist(header,date,user,nocomments)}}
 
