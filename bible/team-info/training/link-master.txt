@@ -2,19 +2,18 @@
 
 The Link and Page Master (LPM) will handle the hyperlink and page creation that is necessary as the Notes teams transfer to new chapters. The bulk of this work will occur every Monday morning, after the Notes teams have finished their one-week assignments. The LPM will perform the actions below.
 
-
 ==== Change Page Status ====
 
 Each page was automatically assigned one of the following tags when it was created depending if the key term is to go directly to the key terms team or wait:
 
 <code>
-{{tag>create BBBNN}} 
+{{tag>create BBBNN}}
 **OR**
 {{tag>draft}}
-
 </code>
-where BBB = lowercase 3-letter Bible book designator\\ 
-and    NN = Chapter number
+
+  where BBB = lowercase 3-letter Bible book designator\\
+and NN = Chapter number
 
 When the Notes teams finish adding the draft content, the LPM will change the status tag in each page to:
 
@@ -22,9 +21,7 @@ When the Notes teams finish adding the draft content, the LPM will change the st
 {{tag>review}}
 </code>
 
-
 ==== Add KT Hyperlinks ====
-
 
 The Notes team will identify KT's for each chunk in a bullet list. The LPM will convert these list items to hyperlinks in the following format:
 
@@ -32,14 +29,13 @@ The Notes team will identify KT's for each chunk in a bullet list. The LPM will 
   * [[en:bible:notes:key-terms:URLterm|term]]
 </code>
 
-The display name of the KT's in the list will remain in the format of the original bullet list, which will be how they appear in the ULB on that chunk page. 
+The display name of the KT's in the list will remain in the format of the original bullet list, which will be how they appear in the ULB on that chunk page.
 
-The link will use the URL name of the term. These names can be found by reading the tooltip popup on the https://door43.org/en/bible/notes/key-terms/01-kt-list page. If the term is a multi-word phrase, the words will be run together without spaces, hyphens, or other breaks (ex: kingdomofJudah). 
-
+The link will use the URL name of the term. These names can be found by reading the tooltip popup on the [[https://door43.org/en/bible/notes/key-terms/01-kt-list|https://door43.org/en/bible/notes/key-terms/01-kt-list]] page. If the term is a multi-word phrase, the words will be run together without spaces, hyphens, or other breaks (ex: kingdomofJudah).
 
 ==== Create KT Pages as Needed ====
 
-When KT's on the Notes page are not found in the https://door43.org/en/bible/notes/key-terms/01-kt-list, new pages must be created. The URL name for the new KT page should in the following format:
+When KT's on the Notes page are not found in the [[https://door43.org/en/bible/notes/key-terms/01-kt-list|https://door43.org/en/bible/notes/key-terms/01-kt-list]], new pages must be created. The URL name for the new KT page should in the following format:
 
 <code>
 https://door43.org/en/bible/notes/key-terms/urlname
@@ -47,16 +43,14 @@ https://door43.org/en/bible/notes/key-terms/urlname
 
 For one-word KT's, the word will become the URL name. If the term is a multi-word phrase, the words will be run together without spaces, hyphens, or other breaks, as with existing terms.
 
-There are two kinds of KT pages--one for terms that require definition, and the other for proper names that requires facts. 
+There are two kinds of KT pages–one for terms that require definition, and the other for proper names that requires facts.
 
 The draft code for a "term" KT page is:
 
 <code>
 ====== term ======
 
-
 ===== Definition: =====
-
 
 Text
     * bullet
@@ -64,19 +58,14 @@ Text
 
 (See also: [[:en:bible:notes:key-terms:URLterm|term]])
 
-
 ===== Bible References: =====
 
- 
 {{topic>URLterm}}
-
 
 ~~DISCUSSION~~
 
-
 {{tag>create rutxx}}
 {{tag>draft}}
-
 </code>
 
 The draft code for a "Name" KT page is:
@@ -84,32 +73,24 @@ The draft code for a "Name" KT page is:
 <code>
 ====== Name ======
 
-
 ===== Facts: =====
 
 Text
     * bullet
     * bullet
 
-
 (Translation suggestions: [[en:ta:translate:translatenames]])
 
 (See also: [[:en:bible:notes:key-terms:URLterm|term]])
 
-
 ===== Bible References: =====
 
- 
 {{topic>urlname}}
-
 
 ~~DISCUSSION~~
 
-
 {{tag>create rutxx}}
 {{tag>draft}}
-
-
 </code>
 
 Change the "term" or "Name" placeholder text to the title of the KT.
