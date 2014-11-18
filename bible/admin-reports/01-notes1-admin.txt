@@ -2,21 +2,13 @@
 
 ~~NOCACHE~~
 
-\\ 
-
 ==== Luke Pages Status ====
 
-|  **Review Pages**  |  **Discuss Pages**  | **Publish Pages**  |
-|{{topic>en:bible:notes:luk?review&nocomments}}|{{topic>en:bible:notes:luk?discuss&nocomments}}|{{topic>en:bible:notes:luk?publish&nocomments}}|
+|  **Review Pages**    |  **Discuss Pages**    |**Publish Pages**   |
+|{{topic>en:bible:notes:luk?review&nocomments}} |{{topic>en:bible:notes:luk?discuss&nocomments}} |{{topic>en:bible:notes:luk?publish&nocomments}} |
 
 ==== Check on bad tags ====
 
-{{pagequery>ns:en:bible:notes:luk "tag> " ;
-  fulltext;
-  sort=title:asc;
-  display={title};
-  natsort;
-  layout=table;
-  showcount;
-  hidemsg;
-  hidejump;}}
+{{pagequery>ns:en:bible:notes:luk "tag> " ; fulltext; sort=title:asc; display={title}; natsort; layout=table; showcount; hidemsg; hidejump;}}
+
+\\
