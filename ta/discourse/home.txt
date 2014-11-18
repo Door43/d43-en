@@ -1,37 +1,39 @@
-=====Discourse Information=====
+===== Discourse Information =====
 
-
-
-===Markers===
+=== Markers ===
 
   * This phrase is used here to mark the __a new part of a story__. If your language has a way for doing this, you could consider using it here.
   * This phrase is used here to mark __where the action starts__.
   * This phrase is used here to mark __an important event in the story__.
 
+=== Genre ===
 
-===Genre===
+Narrative
 
+Historical
 
-===What else?===
+Letter
 
+Story within a Story
+
+=== What else? ===
+
+Foreground and Background
 
 ----
 
+"The Discourse Function of //kai egeneto//  in Luke and Acts" by JoAnn Marie Gault in Journal of Translation and Text Linguistics describes Luke's uses of kai egeneto and egeneto de to mark the beginning of an episode and certain events within an episode, and she tells how he used one differently from the other.
 
-"The Discourse Function of //kai egeneto// in Luke and Acts" by JoAnn Marie Gault in Journal of Translation and Text Linguistics describes Luke's uses of kai egeneto and egeneto de to mark the beginning of an episode and certain events within an episode, and she tells how he used one differently from the other. 
+In her final paragraph she says not to ignore these two markers, but she also warns about translating them as "It came to pass" since that's not normal English, and "it happened that" since in English that connotes 'happenstance'.
 
-In her final paragraph she says not to ignore these two markers, but she also warns about translating them as "It came to pass" since that's not normal English, and "it happened that" since in English that connotes 'happenstance'. 
+It might be good for the TN team to write context specific notes like the following:
 
-
-It might be good for the TN team  to write context specific notes like the following:
-
-  * This phrase is used here to mark the __beginning of a new <del>episode</del>__ **part of a story**. If your language has a way for doing this, you could consider using it here.
+  * This phrase is used here to mark the __beginning of a new <del>episode</del>__**part of a story**. If your language has a way for doing this, you could consider using it here.
   * This phrase is used here to mark __where the action starts__.
   * This phrase is used here to mark __an important event in the story__.
 
-(Unfortunately the underlined words above  are hers. We don't want to plagiarize, but those phrases are very clear.)
+(Unfortunately the underlined words above are hers. We don't want to plagiarize, but those phrases are very clear.)
 
 The MTTs might not know what to do with that information. But after a while, they might realize that in their language they would do something special at those points in a narrative, such as putting in a certain word, or changing the word order, clause type, or aspect marking.
-
 
 ~~DISCUSSION~~
