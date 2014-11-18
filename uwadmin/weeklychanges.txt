@@ -316,6 +316,9 @@
 **[[:yao:obs|yao OBS]]**
 {{changes>ns=yao:obs&maxage=604800&render=pagelist(header,date,user,nocomments)}}
 
+**[[:ymq:obs|ymq OBS]]**
+{{changes>ns=ymq:obs&maxage=604800&render=pagelist(header,date,user,nocomments)}}
+
 **[[:zh:obs|zh OBS]]**
 {{changes>ns=zh:obs&maxage=604800&render=pagelist(header,date,user,nocomments)}}
 
