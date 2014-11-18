@@ -60,7 +60,7 @@ Text
 
 ===== Bible References: =====
 
-{{topic>URLterm}}
+{{topic>URLterm&nocomments}}
 
 ~~DISCUSSION~~
 
@@ -85,7 +85,7 @@ Text
 
 ===== Bible References: =====
 
-{{topic>urlname}}
+{{topic>urlname&nocomments}}
 
 ~~DISCUSSION~~
 
