@@ -211,6 +211,8 @@
 {{changes>ns=yam:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:yao:obs|yao OBS]]**
 {{changes>ns=yao:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
+**[[:ylm:obs|ylm OBS]]**
+{{changes>ns=ylm:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:ymq:obs|ymq OBS]]**
 {{changes>ns=ymq:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:zh:obs|zh OBS]]**
