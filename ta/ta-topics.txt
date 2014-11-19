@@ -1,16 +1,11 @@
 ====== Translation Academy Topics ======
 
-
 <nspages en:ta:translate -title -exclude:home -textPages="List of tA Pages about How to Translate:">
-
 
 <nspages en:ta:unknown -title -exclude:home -textPages="List of tA Pages about Translating Unknowns:">
 
-
 <nspages en:ta:discourse-title -textPages="List of tA Pages about Discourse/Literature and Genre:">
 
-
 <nspages en:ta:vocabulary -title -exclude:home -textPages="List of tA Pages about English Vocabulary and Grammar:">
-
 
 <nspages en:ta:figuresofspeech -title -exclude:home -textPages="List of tA Pages about Figures of Speech:">
