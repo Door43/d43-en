@@ -1,12 +1,12 @@
-=====Verbs======
+====== Verbs ======
 
-The VERB is either an action or a state-of-being word such as is, are, was. The portion of the sentence which contains the verb is called the predicate. 
+The VERB is either an action or a state-of-being word such as is, are, was. The portion of the sentence which contains the verb is called the predicate.
 
-**VERB TENSE** 
+**VERB TENSE**
 
 Just as time has past, present and future, verbs do also. When an action has or will take place is reflected in the verb. Perfect tenses of verbs indicate continuing action (either continuous from a time past or continuous into the future).
 
-**SOME VERB ODDITIES** 
+**SOME VERB ODDITIES**
 
 Can and May. The verb can shows ability or power; May involves permission. Examples: 'I can read' states a fact. 'May I read now?' seeks permission to do something I have the ability to do.
 
@@ -14,7 +14,8 @@ Teach and Learn. These verbs are partners. Teaching imparts knowledge. Learning 
 
 Sit, Sat and Set. These verbs are often confused. Sit is used to convey resting or being seated. Set means to place something on an object. For example: I sit on a chair. I set my book on the table. Sat is the past tense for sit.
 
-**SINGULAR & PLURAL SUBJECTS – VERB AGREEMENT** 
+\\
+**SINGULAR & PLURAL SUBJECTS – VERB AGREEMENT**
 
 Nouns and Pronouns have the ability to be either singular (meaning one) or plural (more than one). For the majority of words, plurals are formed simply by adding an 's' to the root word. Some words
 
@@ -23,68 +24,15 @@ The Singular & Plural Pronoun pages have in-depth clarification. Basically, sing
 Verb agreement requires matching singular subjects with singular verbs. For example, The boys eat lunch next door. The word boys is plural and eat is plural. Alternatively, 'The boy eats alone,' shows one boy (singular) and uses a singular verb (eats). Typically, nouns that are plural have an 's' on the end; verbs that are plural do not. Singular verbs typically have an 's' on the end and their subject will not (e.g. A dog eats. Two dogs eat.)
 
 <font inherit/inherit;;inherit line-height: 1.4;;;inherit>Pronouns work the same way.</font> <font inherit line-height: 1.4; background-color: inherit;/inherit;;inherit line-height: 1.4;;;inherit font-family: inherit; font-size: inherit; line-height: 1.4; background-color: inherit;>The chart below shows the "Be" verb (in present and past tense) with each of the pronouns.</font>
- 
 
+| \\ **Pronoun** \\  |**Present** |**Past** |
+|I|am|was|
+|he|is|was|
+|she|is|was|
+|ot|is|was|
+|you|are|were|
+|they|are|were|
+|we|are|were|
 
-I
-
-He
-
-She
-
-It
-
-You
-
-They
-
-we 
-Present
-
-am
-
-is
-
-is
-
-is
-
-are
-
-are
-
-are 
- 
-Past
-
-was
-
-was
-
-was
-
-was
-
-were
-
-were
-
-were 
- {{tag>verb}}{{tag>[sentence structure]}}
-
-
-
-
-
-
-
-{{tag>[be verb]}}
-
-
-
-
-
-
-
-{{tag>[parts of speech]}}
-
+\\
+~~COMPLEX_TABLES~~
