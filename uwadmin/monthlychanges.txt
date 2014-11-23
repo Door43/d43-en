@@ -105,6 +105,8 @@
 {{changes>ns=lki:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:ln:obs|ln OBS]]**
 {{changes>ns=ln:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
+**[[:lns:obs|lns OBS]]**
+{{changes>ns=lns:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:lo:obs|lo OBS]]**
 {{changes>ns=lo:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:loe:obs|loe OBS]]**
