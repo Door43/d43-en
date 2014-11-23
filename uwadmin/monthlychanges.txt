@@ -25,6 +25,8 @@
 {{changes>ns=bhj:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:bho:obs|bho OBS]]**
 {{changes>ns=bho:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
+**[[:bkm:obs|bkm OBS]]**
+{{changes>ns=bkm:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:blx:obs|blx OBS]]**
 {{changes>ns=blx:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:bn:obs|bn OBS]]**
