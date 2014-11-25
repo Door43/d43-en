@@ -1,23 +1,14 @@
 ====== grain, barley, wheat, mustard ======
 
-
 ===== Definition: =====
 
-
 Text
-    * bullet
-    * bullet
+
+  * bullet
+  * bullet
 
 (See also: [[:en:bible:notes:key-terms:wheat|wheat]])
 
-
 ===== Bible References: =====
 
- 
-{{topic>grain&nocomments}}
-
-
-~~DISCUSSION~~
-
-
-{{tag>create rut01}}
+{{topic>grain&nocomments}}~~DISCUSSION~~{{tag>create rut01}}
