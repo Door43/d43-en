@@ -115,6 +115,9 @@
 **[[:hi:obs|hi OBS]]**
 {{changes>ns=hi:obs&maxage=604800&render=pagelist(header,date,user,nocomments)}}
 
+**[[:hi-x-dehathi:obs|hi-x-dehathi OBS]]**
+{{changes>ns=hi-x-dehathi:obs&maxage=604800&render=pagelist(header,date,user,nocomments)}}
+
 **[[:hoc:obs|hoc OBS]]**
 {{changes>ns=hoc:obs&maxage=604800&render=pagelist(header,date,user,nocomments)}}
 
