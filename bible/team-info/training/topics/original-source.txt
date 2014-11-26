@@ -5,19 +5,12 @@ The average user of the Bible translation apps will not be a professional transl
 
 ==== Meanings of Original Terms ====
 
-  * Do not to emphasize the original languages in the notes with phrases such as "in the original Greek, this means..." Instead, simply say "This could also be translated as ..."
-  * Do not lower confidence in the ULB translation by using phrases such as "this literally means..." Rather, say "This could also be translated as ..." and list the more literal meaning if it is helpful.
-  * If there is a uncertainty about the meaning of an original term, simply list the alternatives, with the preferred meaning first, in this form, "Possible meanings are 1) 'preferred meaning' or 2) 'other meaning'...
-
 We want the translators to know the range of probably meanings for a given text. However, since they will not have the background to make decisions about the original languages, we will simply present them with the preferred meaning or meanings. Since most of these decisions have have already been made in the translation of the ULB and UDB, those should normally be the preferred options. Therefore, here are suggested wordings:
 
 |  **Do NOT Write**  |  **Do Write**  |
 |In the original Greek, this means "...|This could also be translated as "...|
 |This literally means "...|This could be translated as "...|
 |The original Hebrew word can have multiple meanings...|Possible meanings are 1) "preferred meaning" or 2) "other meaning"...|
-
-
-
 
 
 ==== Disputed Text ====
