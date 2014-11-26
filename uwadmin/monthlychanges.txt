@@ -91,6 +91,8 @@
 {{changes>ns=kan:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:kfb:obs|kfb OBS]]**
 {{changes>ns=kfb:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
+**[[:kfq:obs|kfq OBS]]**
+{{changes>ns=kfq:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:kia:obs|kia OBS]]**
 {{changes>ns=kia:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:kkl:obs|kkl OBS]]**
