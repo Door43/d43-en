@@ -277,6 +277,9 @@
 **[[:te:obs|te OBS]]**
 {{changes>ns=te:obs&maxage=604800&render=pagelist(header,date,user,nocomments)}}
 
+**[[:tel:obs|tel OBS]]**
+{{changes>ns=tel:obs&maxage=604800&render=pagelist(header,date,user,nocomments)}}
+
 **[[:tg:obs|tg OBS]]**
 {{changes>ns=tg:obs&maxage=604800&render=pagelist(header,date,user,nocomments)}}
 
