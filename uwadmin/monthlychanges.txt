@@ -5,6 +5,8 @@
 {{changes>ns=abp:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:abs:obs|abs OBS]]**
 {{changes>ns=abs:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
+**[[:adi:obs|adi OBS]]**
+{{changes>ns=adi:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:af:obs|af OBS]]**
 {{changes>ns=af:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:aii:obs|aii OBS]]**
