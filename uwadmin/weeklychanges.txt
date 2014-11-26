@@ -133,6 +133,9 @@
 **[[:kan:obs|kan OBS]]**
 {{changes>ns=kan:obs&maxage=604800&render=pagelist(header,date,user,nocomments)}}
 
+**[[:kfb:obs|kfb OBS]]**
+{{changes>ns=kfb:obs&maxage=604800&render=pagelist(header,date,user,nocomments)}}
+
 **[[:kia:obs|kia OBS]]**
 {{changes>ns=kia:obs&maxage=604800&render=pagelist(header,date,user,nocomments)}}
 
