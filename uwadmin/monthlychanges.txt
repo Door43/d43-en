@@ -159,6 +159,8 @@
 {{changes>ns=ne:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:niz:obs|niz OBS]]**
 {{changes>ns=niz:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
+**[[:njz:obs|njz OBS]]**
+{{changes>ns=njz:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:nl:obs|nl OBS]]**
 {{changes>ns=nl:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:nxl:obs|nxl OBS]]**
