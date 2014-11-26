@@ -244,6 +244,9 @@
 **[[:ru:obs|ru OBS]]**
 {{changes>ns=ru:obs&maxage=604800&render=pagelist(header,date,user,nocomments)}}
 
+**[[:sck:obs|sck OBS]]**
+{{changes>ns=sck:obs&maxage=604800&render=pagelist(header,date,user,nocomments)}}
+
 **[[:sdh:obs|sdh OBS]]**
 {{changes>ns=sdh:obs&maxage=604800&render=pagelist(header,date,user,nocomments)}}
 
