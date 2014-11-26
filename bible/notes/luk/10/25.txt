@@ -15,10 +15,10 @@
 ===== UDB: =====
 
 <usfm>
-\v 25 One day as Jesus was teaching people, a man who had studied carefully the laws that God gave Moses was there. He wanted to ask Jesus a difficult question. So he stood up and asked, "Teacher, what shall I do in order to live with God forever?"
-\v 26 Jesus said to him, "You what Moses has written in the laws that God gave him. What did Moses write about that?"
-\v 27 The man replied, "He wrote that we. We must show that by what we feel and by what we do and by what we think. He also wrote that we must love people that we come in contact with as much as we love ourselves."
-\v 28 Jesus replied, "You have answered your question correctly. If you do all that continually, you will live with God forever."
+\v 25 One day as Jesus was teaching people, a certain teacher of Jewish laws was there. He wanted to test Jesus by asking him a difficult question. So he stood up and asked, "Teacher, what must I do in order to live with God forever?"
+\v 26 Jesus said to him, "You have read what Moses has written in the laws that God gave him. What do the laws say?"
+\v 27 The man replied, "Love the Lord your God with all your heart, with all your soul, with all your strength and with all your mind. And love your neighbor as much as you love yourself."
+\v 28 Jesus replied, "You have answered correctly. If you do all that, you will live with God forever."
 
 
 \p
@@ -29,35 +29,39 @@
 
 <usfm>
 \p
-\v 25 And behold, a certain lawyer stood up and made trial of tested him, saying, Teacher, what should I do to inherit eternal life?
-\v 26 And he said to him, What is written in the law? how read you do you read it?
-\v 27 And answering he said, You shall love the Lord your God with all your heart, and with all your soul, and with all your
-strength, and with all your mind; and your neighbor as yourself.
-\v 28 And he said to him, You have answered right: do this, and you will live.
+\v 25 And behold, a certain teacher of the Jewish laws stood up and tested him, saying, "Teacher, what should I do to inherit eternal life?"
+\v 26 And he said to him, "What is written in the law? How do you read it?"
+\v 27 And answering he said, "You must love the Lord your God with all your heart, and with all your soul, and with all your strength, and with all your mind, and your neighbor as yourself."
+\v 28 And he said to him, "You have answered correctly. Do this, and you will live."
 </usfm>
 
 
 ===== Important Terms: =====
 
-  * example
-  * example
-  * example
-  * example
- 
+
+    * [[:en:bible:notes:key-terms:scribe|teacher of the Jewish laws]]
+    * [[:en:bible:notes:key-terms:lawofmoses|law]]
+    * [[:en:bible:notes:key-terms:test|test]]
+    * [[:en:bible:notes:key-terms:inherit|inherit]]
+    * [[:en:bible:notes:key-terms:eternallife|eternal life]]
+    * [[:en:bible:notes:key-terms:love|love]]
+    * [[:en:bible:notes:key-terms:lord|Lord]]
+    * [[:en:bible:notes:key-terms:god|God]]
+    * [[:en:bible:notes:key-terms:heart|heart]]
+    * [[:en:bible:notes:key-terms:soul|soul]]
 
 ===== Translation Notes: =====
 
-
-    * **bold words**  - explanation
-    * **bold words**  - explanation
-    * **bold words**  - explanation
-    * **bold words**  - explanation
-    * **bold words**  - explanation
-    * **bold words**  - explanation
-  
+    * **And behold, a certain teacher** - The word "behold" alerts us to a new person in the story. Your language may have a way of doing this. English uses "There was a certain teacher...”
+    * **tested him** - That is, "tested Jesus."
+    * **What is written in the law** - This could also be translated as "What did Moses write in the law" or "What do the scriptures say?"
+    * **How do you read it?** - This could also be translated as, "What have you read in it?" or 'What do  you understand it to say?"
+    * **your neighbor**  - This refers to a member of your community. It could also be translated as your "your fellow-citizen" or "your community" or "the people of your community.'
+    * **as  yourself**  - That is, "in the same way that you love yourself"
+    * **And he said to him**  - That is, "And Jesus said to the man."
 ===== Links: =====
 
-  * **[[en/bible/notes:luk/questions/comprehension/10|Luke Chapter 10 Checking Questions]]**
+  * **[[en/bible/notes:luk/questions/comprehension/10|Luke Chapter 10 Comprehension Questions]]**
   * **[[en/bible/notes:luk/questions/checking/Luke-checking|Luke Checking Questions]]**
 
  
@@ -66,4 +70,5 @@ strength, and with all your mind; and your neighbor as yourself.
 
 ~~DISCUSSION~~
 
-{{tag>draft}}
+
+{{tag>review lawofmoses scribe }}

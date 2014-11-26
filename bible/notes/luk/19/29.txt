@@ -13,9 +13,9 @@
 ===== UDB: =====
 
 <usfm>
-\v 29 When they got near Bethphage and Bethany villages, near the hill that is called  Olive Tree Hill,
-\v 30 he said to two of his disciples, "Go to the village just ahead of you. As you two enter it, you will see a young animal that no one has ever ridden that has been  tied up. Untie it and bring it to me.
-\v 31 If anyone asks you, 'Why are you untying it?' say to him, 'The Lord needs it.'"
+\v 29 When they got close to the villages of Bethphage and Bethany, near the Mount of Olives,
+\v 30 he said to two of his disciples, "Go to the village just ahead of you. As you enter it, you will see a young donkey tied up there that no one has ever ridden. Untie it and bring it to me.
+\v 31 If anyone asks you, 'Why are you untying the donkey?' say to him, 'The Lord needs it.'"
 </usfm>
 
 
@@ -23,33 +23,30 @@
 
 <usfm>
 \p
-\v 29 And it came to pass, when he drew near to Bethphage and Bethany, at the mount that is called Olivet, he sent two of the disciples,
-\v 30 saying, Go your way into the village over against you; in which as you enter you shall find a colt tied, whereon no man ever yet sat: loose him, and bring him.
-\v 31 And if any one ask you, Why do you loose him? thus shall you say, The Lord has need of him.
+\v 29 And it came to pass when he drew near to Bethphage and Bethany, at the mount that is called Olivet, he sent two of the disciples,
+\v 30 saying, "Go into the next village. As you enter, you will find a colt that has never been ridden. Untie it and bring it to me.
+ \v 31 And if any one asks you, 'Why are you untying it?' say, 'The Lord has need of it.'"
 </usfm>
 
 
 ===== Important Terms: =====
 
-  * example
-  * example
-  * example
-  * example
- 
+  * [[:en:bible:notes:key-terms:lord|Lord]]
+
+
 
 ===== Translation Notes: =====
 
+  * **Bethphage**  - Bethphage was a village on the mountain called Olivet, which is across a small valley (Kidron Valley) from Jerusalem. No one knows for sure of its exact location, but it is where Jesus started His triumphal entry into Jerusalem, so it could not have been too far away from the city.
+  * **Bethany**  - Bethany is a village about 3 kilometers from Jerusalem. It was the home of Mary, Martha and Lazarus.
+  * **the mount that is called Olivet**  - This is a mountain close to Jerusalem. The Kidron Valley separates it from the city. It could also be called "Olivet Mountain."
+  * **colt**  - This is a young donkey.
+  * **the Lord has need-** Or, "the Lord of It has need." Jesus is the God (creator) of the colt.
+  * **bold words**  - explanation
 
-    * **bold words**  - explanation
-    * **bold words**  - explanation
-    * **bold words**  - explanation
-    * **bold words**  - explanation
-    * **bold words**  - explanation
-    * **bold words**  - explanation
-  
 ===== Links: =====
 
-  * **[[en/bible/notes:luk/questions/comprehension/19|Luke Chapter 19 Checking Questions]]**
+  * **[[en/bible/notes:luk/questions/comprehension/19|Luke Chapter 19 Comprehension Questions]]**
   * **[[en/bible/notes:luk/questions/checking/Luke-checking|Luke Checking Questions]]**
 
  
@@ -57,5 +54,6 @@
 **[[en/bible/notes/luk/19/28|<<]] | [[en/bible/notes/luk/19/32|>>]]**
 
 ~~DISCUSSION~~
+
 
 {{tag>draft}}

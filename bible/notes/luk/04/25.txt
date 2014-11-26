@@ -22,16 +22,16 @@
 ===== ULB: =====
 
 <usfm>
-\v 25 But I say to you in truth that there were many widows in Israel during Elijah's time, when the sky was shut up, with no rain, for three and a half years, when there was a great famine over all the land. 
+\v 25 But I say to you in truth that there were many widows in Israel during Elijah's time, when the sky was shut up with no rain for three and a half years, when there was a great famine over all the land. 
 \v 26 But Elijah was not sent to any of them, but only to a widow living in Zarephath near the city of Sidon. 
-\v 27 There were also many lepers in Israel during the time of Elisha the prophet, but none of them was healed except Naaman the Syrian."
+\v 27 There were also many lepers in Israel during the time of Elisha the prophet, but none of them were healed except Naaman the Syrian."
 </usfm>
 
 
 ===== Important Terms: =====
 
 
-    * [[:en:bible:notes:key-terms:Israel|Israel]]
+    * [[:en:bible:notes:key-terms:israel|Israel]]
     * [[:en:bible:notes:key-terms:leprosy|leper]]
     * [[:en:bible:notes:key-terms:elijah|Elijah]]
     * [[:en:bible:notes:key-terms:elisha|Elisha]]
@@ -40,20 +40,17 @@
 
 ===== Translation Notes: =====
 
-
-    * (Jesus continues to speak to the people in the synagogue.)
-    * **in truth**  - That is, "in what is right in God's moral law." This is different from simply saying something that is true.
-    * **during Elijah's time**  - That is, during the time in which the prophet Elijah was serving God in Israel.
-    * **the sky was shut up**  - This is a figure of speech. No rain came down, and it was as if the sky were a box that had been closed to prevent spills.
-    * **three and a half years**  - That is, three years and six months.
-    * **great famine**  - That is, a famine that covered a large geographical area.
-    * **Elijah was not sent**  - That is, God did not command Elijah to go.
-    * **widow**  - This refers to a woman whose husband has died.
-    * **Zarephath - **  This was a town in Sidon.
-
+  * (Jesus continues to speak to the people in the synagogue.)
+  * **I say to you in truth**  - "I tell you truthfully" This phrase was used to emphasize the importance, truth, and accuracy of the statement that follows.
+  * **widows** - A widow is a woman whose husband has died. 
+  * **during Elijah's time**  - This could also be translated as "when Elijah was prophesying in Israel." The people Jesus was speaking to would have known that Elijah was one of God's prophets. If your readers would not know that you can make this implicit information explicit. (See: [[en:ta:vocabulary:implicitexplicit|Explicit and Implicit Information]]).
+  * **when the sky was shut up with no rain**  - This can be translated as "when no rain came down from the sky" or "when there was no rain at all." This is a metaphor. The sky is pictured as a ceiling that was closed up to keep the water above it from coming down as rain.  (See: [[en:ta:figuresofspeech:metaphor|Metaphors]]) 
+  * **when there was a great famine**  - "when there was a serious lack of food" or "when the people did not have enough food" A famine is a long period of time when the crops do not produce enough food for the people. 
+  * **a widow living in Zarephath**  -The people living in the town of Zarephath were Gentiles, not Jews. This could be translated as "a gentile widow living in Zarephath." The people listening to Jesus would have understood that the people of Zarephath were Gentiles. (See: [[en:ta:vocabulary:implicitexplicit|Explicit and Implicit Information]]).
+  * **Naaman the Syrian** - A Syrian is a person from the country of Syria. The people of Syria were Gentiles, not Jews. This could be translated as "the Gentile Naaman from Syria."
 ===== Links: =====
 
-  * **[[en/bible/notes:luk/questions/comprehension/04|Luke Chapter 04 Checking Questions]]**
+  * **[[en/bible/notes:luk/questions/comprehension/04|Luke Chapter 04 Comprehension Questions]]**
   * **[[en/bible/notes:luk/questions/checking/Luke-checking|Luke Checking Questions]]**
 
  
@@ -62,4 +59,5 @@
 
 ~~DISCUSSION~~
 
-{{tag>draft}}
+
+{{tag>publish elijah elisha}}

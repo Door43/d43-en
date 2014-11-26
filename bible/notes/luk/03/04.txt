@@ -1,35 +1,41 @@
-====== Luke 3:4 ======
+====== Luke 03:4 ======
 
 
 ===== TFT: =====
 
 
-<usfm>  
-\p  
-\v 4 John was the one who  \add fulfilled \add* these words that had  \add been written \add* by the prophet Isaiah  \f +  \ft Or:that the prophet Isaiah had written  \f* on a scroll  \add long ago \add*:  \pi In a desolate area, someone  \f +  \ft synecdoche  \f* will be heard shouting  \add to the people who pass by \add*,  \pi Prepare yourselves  \add to receive \add* the Lord when he comes!  \pi  \add Make yourselves ready so that you will be prepared when he comes \add*,  \pi  \add just like people \add* straighten out the road  \f +  \ft metaphor  \f*  \add for an important official \add*  \f +  \ft metaphor, doublet  \f*! </usfm>
+<usfm>
+\v 4 John was the one who \add fulfilled\add* these words that had \add been written\add* by the prophet Isaiah \f + \ft Or:that the prophet Isaiah had written \f* on a scroll \add long ago\add*:
+\pi In a desolate area, someone \f + \ft synecdoche \f* will be heard shouting \add to the people who pass by\add*,
+\pi Prepare yourselves \add to receive\add* the Lord when he comes!
+\pi \add Make yourselves ready so that you will be prepared when he comes\add*,
+\pi \add just like people\add* straighten out the road \f + \ft metaphor \f* \add for an important official\add* \f + \ft metaphor, doublet \f*!
+\pi
+</usfm>
 
 
 ===== UDB: =====
 
 
-<usfm>  
-\s5  
-\v 4 The prophet Isaiah wrote these words on a scroll long ago:  
-\q1 "In the wilderness, someone will be calling out:  
-\q1 Prepare the way of the Lord,  
-\q1 Make straight paths for him. 
+<usfm>
+\v 4 The prophet Isaiah wrote these words on a scroll long ago:
+\q1 "In the wilderness, someone will be calling out:
+\q1 Prepare the way of the Lord,
+\q1 Make straight paths for him.
+
+
+\q1
 </usfm>
 
 
 ===== ULB: =====
 
 
-<usfm> 
-\s5 
+<usfm>
 \q1 \v 4 As it is written in the book of the words of Isaiah the prophet,
-\q1 "The voice of someone calling out in the wilderness, 
-\q1 Make ready the way of the Lord, 
-\q1 Make his paths straight. 
+\q1 "The voice of someone calling out in the wilderness,
+\q1 'Make ready the way of the Lord,
+\q1 Make his paths straight.
 </usfm>
 
 
@@ -42,12 +48,11 @@
 ===== Translation Notes: =====
 
 
-    * **As it is written … prophet**  - That is, "This happened as Isaiah the prophet had written in his book" or, "John fulfilled the words that the prophet Isaiah had written in his book" or, "The prophet Isaiah wrote these words on a scroll long ago" (UDB).
-    * **the voice of someone calling out**- That is, "Someone will shout out loud."
-    * **the way **- That is, "the path" or, "the road."
-    * **Prepare....make straight-** Prepare is a one time command whereas make straight is something which is to continually be done. Might be understood as "Make the decision to follow God...Continuously make a clear path for His will in your life."
-    * **Make ready the way of the Lord**  - That is, "Make the road ready for the Lord to come along it." It is a metaphor meaning, "Repent and be ready for when the Lord comes." This metaphor continues through verse 5 to show how important it is to be ready when the Lord comes. If it is not clear to your readers that this is telling people to repent, you could explain it in a footnote. (See: [[:en:ta:figuresofspeech:metaphor|Metaphor]]).
-
+    * **As it is written … prophet** - This could be translated as "This happened as Isaiah the prophet had written in his book" or "John fulfilled the words that the prophet Isaiah had written in his book."
+    * **the way** - "the path" or "the road"
+    * **Make ready....make his paths straight** - This section is in the style of Hebrew poetry, which often repeats important phrases in similar words. "Make ready the way of the Lord" is therefore another way to say "Make his paths straight." The main difference is the first indicates it happens once, while the second should continue to be done.
+    * **Make ready the way of the Lord** - This is metaphor of a road means "Repent and be ready for when the Lord comes." (See: [[:en:ta:figuresofspeech:metaphor|Metaphor]])
+    * **Make his paths straight** - This image of a path is also a metaphor that means "Be continually ready for the Lord to come." 
 ===== Links: =====
 
 
@@ -61,4 +66,4 @@
 ~~DISCUSSION~~
 
  
-{{tag>review Isaiah prophet}}
+{{tag>publish isaiah prophet}}

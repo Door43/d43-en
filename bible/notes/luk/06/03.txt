@@ -26,8 +26,8 @@
 ===== ULB: =====
 
 <usfm>
-\v 3 And Jesus answering them said, "Have you not also read what David did when he was hungry, he and the men who were with him;
-\v 4 how he went into the house of God, and took the ceremonial bread and ate some of it, and also gave some to the men who were with him to eat, even though it was not lawful to eat except only for the priests?
+\v 3 And Jesus, answering them, said, "Have you not also read what David did when he was hungry, he and the men who were with him:
+\v 4 how he went into the house of God, and took the ceremonial bread and ate some of it, and also gave some to the men who were with him to eat, even though it was not lawful to eat, except only for the priests?"
 \v 5 Then he said to them, "The Son of Man is Lord of the Sabbath."
 </usfm>
 
@@ -36,35 +36,36 @@
 
 
 
-    * Jesus
-    * David
-    * house of God
-    * bread
-    * lawful
-    * priests
-    * Son of Man
-    * Lord
-    * Sabbath
+    * [[:en:bible:notes:key-terms:david|David]]
+    * [[:en:bible:notes:key-terms:houseofgod|house of God]]
+    * [[:en:bible:notes:key-terms:bread|bread]]
+    * [[:en:bible:notes:key-terms:lawful|lawful]]
+    * [[:en:bible:notes:key-terms:priest|priests]]
+    * [[:en:bible:notes:key-terms:sonofman|Son of Man]]
+    * [[:en:bible:notes:key-terms:lord|Lord]]
+    * [[:en:bible:notes:key-terms:sabbath|Sabbath]]
+
 
 ===== Translation Notes: =====
 
 
-    * **not also read**  - Or, "not even read."
-    * **the house of God**  - In this case, this was the tent in Shiloh which held the Ark ("box") of the Covenant ("contract") and the other sacred furniture which would later be housed in the temple in Jerusalem. The temple became known as the house of God.
-    * **the ceremonial bread**  - This literally means the bread of the showing. It was made fresh every day and placed on a table next to the innermost room of the temple. It was required by the Mosaic law as a part of the worship practice.
-    * **he said **- Or, "he was saying."
-    * **Son of Man **- This is literally meant "son of the human being." It can also be translated as "Human Son." It is similar in construction to the Hebrew term ("ben-adam") meaning "son of Adam" or "son of the human being**."**
-    * **is Lord of the Sabbath**  - That is, the Son of Man (Christ), the one who created the Sabbath, is here before you right now. This could also be translated as "is owner of the Sabbath."
-
+    * **Have you not also read** - This is the beginning of a rhetorical question. Jesus is mildly rebuking them for not learning from it. It could also be translated as "Certainly you have read" (UDB) or "You should learn from what you read" (See: [[en:ta:figuresofspeech:rhetoricalquestion|Rhetorical Questions]])
+    * **not also read**  - "not even read"
+    * **the house of God**  - This could also be translated as "tabernacle" or "tent of God." (See: [[:en:bible:notes:key-terms:tabernacle|tabernacle]])
+    * **the ceremonial bread**  - "the sacred bread" or "the bread that was offered to God"
+    * **Son of Man** - This could also be translated as "I, the Son of Man." Jesus was referring to himself. 
+    * **is Lord of the Sabbath**  -  "is owner of the Sabbath." It could also be translated as has the authority to determine what is right for people to do on the Sabbath!" (UDB)
 ===== Links: =====
 
-  * **[[en/bible/notes:luk/questions/comprehension/06|Luke Chapter 06 Checking Questions]]**
+  * **[[en/bible/notes:luk/questions/comprehension/06|Luke Chapter 06 Comprehension Questions]]**
   * **[[en/bible/notes:luk/questions/checking/Luke-checking|Luke Checking Questions]]**
 
  
 
 **[[en/bible/notes/luk/06/01|<<]] | [[en/bible/notes/luk/06/06|>>]]**
 
+
 ~~DISCUSSION~~
 
-{{tag>draft}}
+
+{{tag>discuss david houseofgod sonofman}}

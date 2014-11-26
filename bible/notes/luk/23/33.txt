@@ -12,8 +12,8 @@
 ===== UDB: =====
 
 <usfm>
-\v 33 When they came to the place which is called 'The Skull', they nailed Jesus to a crossafter removing his clothes. They did the same thing to the two criminals. They put one at the right side of Jesus and one at his left side.
-\v 34 Jesus said, "My Father, forgive them, because they do not realize whom they are doing this to." Then the soldiers divided his clothing by gambling with something like dice, to decide which piece of clothing each one would get.
+\v 33 When they came to the place named 'The Skull', there they crucified Jesus by nailing him to a cross. They did the same thing to the two criminals. They put one at the right side of Jesus and one at his left side.
+\v 34 But Jesus said, "Father, forgive these people who did this, because they do not really know whom they are doing this to." Then the soldiers divided his clothes by gambling with something like dice, to decide which piece of clothing each one would get.
 </usfm>
 
 
@@ -21,17 +21,18 @@
 
 <usfm>
 \p
-\v 33 And when they came to the place which is called The skull, there they crucified him, and the criminals, one on the right hand and the other on the left.
-\v 34 And Jesus said, Father, forgive them; for they know not what they do. And parting his garments among them, they cast lots.
+\v 33 And when they came to the place which is called The Skull, there they crucified him and the criminals, one on the right of him and the other on the left.
+\v 34 And Jesus said, "Father, forgive them, for they do not know what they are doing." And they cast lots, dividing up his garments.
 </usfm>
 
 
 ===== Important Terms: =====
 
-  * example
-  * example
-  * example
-  * example
+  * [[:en:bible:notes:key-terms:crucify|crucified]]
+  * [[:en:bible:notes:key-terms:jesus|Jesus]]
+  * [[:en:bible:notes:key-terms:godthefather|Father]]
+  * [[:en:bible:notes:key-terms:forgive|forgive]]
+ 
  
 
 ===== Translation Notes: =====
@@ -46,7 +47,7 @@
   
 ===== Links: =====
 
-  * **[[en/bible/notes:luk/questions/comprehension/23|Luke Chapter 23 Checking Questions]]**
+  * **[[en/bible/notes:luk/questions/comprehension/23|Luke Chapter 23 Comprehension Questions]]**
   * **[[en/bible/notes:luk/questions/checking/Luke-checking|Luke Checking Questions]]**
 
  
@@ -55,4 +56,5 @@
 
 ~~DISCUSSION~~
 
-{{tag>draft}}
+
+{{tag>draft crucify}}

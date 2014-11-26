@@ -1,0 +1,14 @@
+====== Key Term: Pages Tagged Create ======
+
+~~NOCACHE~~
+
+The following Key Terms are tagged as "create" and are on hold.\\
+They are not available for the Key Terms team to edit.
+
+==== Sorted by Key Term ====
+
+{{topic>en:bible:notes:key-terms?create&tags&nocomments}}
+
+==== Sorted by creation date ====
+
+{{pagequery> ns:en:bible:notes:key-terms "tag>create" ; fulltext; sort=cdate:asc; group; limit=100; spelldate; hidestart; display= {title} {date:created} ; layout=table; natsort; }}

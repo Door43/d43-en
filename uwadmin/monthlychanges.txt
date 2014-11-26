@@ -5,6 +5,12 @@
 {{changes>ns=abp:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:abs:obs|abs OBS]]**
 {{changes>ns=abs:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
+**[[:adi:obs|adi OBS]]**
+{{changes>ns=adi:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
+**[[:adl:obs|adl OBS]]**
+{{changes>ns=adl:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
+**[[:af:obs|af OBS]]**
+{{changes>ns=af:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:aii:obs|aii OBS]]**
 {{changes>ns=aii:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:am:obs|am OBS]]**
@@ -23,14 +29,22 @@
 {{changes>ns=bhj:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:bho:obs|bho OBS]]**
 {{changes>ns=bho:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
+**[[:bkm:obs|bkm OBS]]**
+{{changes>ns=bkm:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:blx:obs|blx OBS]]**
 {{changes>ns=blx:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:bn:obs|bn OBS]]**
 {{changes>ns=bn:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:bnp:obs|bnp OBS]]**
 {{changes>ns=bnp:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
+**[[:bns:obs|bns OBS]]**
+{{changes>ns=bns:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
+**[[:brh:obs|brh OBS]]**
+{{changes>ns=brh:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:brx:obs|brx OBS]]**
 {{changes>ns=brx:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
+**[[:bus:obs|bus OBS]]**
+{{changes>ns=bus:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:ceb:obs|ceb OBS]]**
 {{changes>ns=ceb:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:cnh:obs|cnh OBS]]**
@@ -65,6 +79,10 @@
 {{changes>ns=ha:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:hi:obs|hi OBS]]**
 {{changes>ns=hi:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
+**[[:hi-x-dehathi:obs|hi-x-dehathi OBS]]**
+{{changes>ns=hi-x-dehathi:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
+**[[:hoc:obs|hoc OBS]]**
+{{changes>ns=hoc:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:ht:obs|ht OBS]]**
 {{changes>ns=ht:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:hu:obs|hu OBS]]**
@@ -79,8 +97,18 @@
 {{changes>ns=jit:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:jmd:obs|jmd OBS]]**
 {{changes>ns=jmd:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
-**[[:kh:obs|kh OBS]]**
-{{changes>ns=kh:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
+**[[:jv:obs|jv OBS]]**
+{{changes>ns=jv:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
+**[[:kfb:obs|kfb OBS]]**
+{{changes>ns=kfb:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
+**[[:kff:obs|kff OBS]]**
+{{changes>ns=kff:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
+**[[:kfq:obs|kfq OBS]]**
+{{changes>ns=kfq:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
+**[[:kfx:obs|kfx OBS]]**
+{{changes>ns=kfx:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
+**[[:kia:obs|kia OBS]]**
+{{changes>ns=kia:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:kkl:obs|kkl OBS]]**
 {{changes>ns=kkl:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:km:obs|km OBS]]**
@@ -93,12 +121,18 @@
 {{changes>ns=ko:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:ktu:obs|ktu OBS]]**
 {{changes>ns=ktu:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
+**[[:kxv:obs|kxv OBS]]**
+{{changes>ns=kxv:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
+**[[:lae:obs|lae OBS]]**
+{{changes>ns=lae:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:lgg:obs|lgg OBS]]**
 {{changes>ns=lgg:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:lki:obs|lki OBS]]**
 {{changes>ns=lki:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:ln:obs|ln OBS]]**
 {{changes>ns=ln:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
+**[[:lns:obs|lns OBS]]**
+{{changes>ns=lns:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:lo:obs|lo OBS]]**
 {{changes>ns=lo:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:loe:obs|loe OBS]]**
@@ -125,6 +159,10 @@
 {{changes>ns=mzn:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:ne:obs|ne OBS]]**
 {{changes>ns=ne:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
+**[[:niz:obs|niz OBS]]**
+{{changes>ns=niz:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
+**[[:njz:obs|njz OBS]]**
+{{changes>ns=njz:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:nl:obs|nl OBS]]**
 {{changes>ns=nl:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:nxl:obs|nxl OBS]]**
@@ -149,8 +187,16 @@
 {{changes>ns=pt:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:pt-br:obs|pt-br OBS]]**
 {{changes>ns=pt-br:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
+**[[:raj:obs|raj OBS]]**
+{{changes>ns=raj:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
+**[[:rn:obs|rn OBS]]**
+{{changes>ns=rn:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:ru:obs|ru OBS]]**
 {{changes>ns=ru:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
+**[[:sat:obs|sat OBS]]**
+{{changes>ns=sat:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
+**[[:sck:obs|sck OBS]]**
+{{changes>ns=sck:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:sdh:obs|sdh OBS]]**
 {{changes>ns=sdh:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:shn:obs|shn OBS]]**
@@ -163,6 +209,8 @@
 {{changes>ns=so:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:srp:obs|srp OBS]]**
 {{changes>ns=srp:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
+**[[:suv:obs|suv OBS]]**
+{{changes>ns=suv:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:sw:obs|sw OBS]]**
 {{changes>ns=sw:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:ta:obs|ta OBS]]**
@@ -175,6 +223,8 @@
 {{changes>ns=tg:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:th:obs|th OBS]]**
 {{changes>ns=th:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
+**[[:thr:obs|thr OBS]]**
+{{changes>ns=thr:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:tk:obs|tk OBS]]**
 {{changes>ns=tk:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:tl:obs|tl OBS]]**
@@ -199,8 +249,14 @@
 {{changes>ns=wo:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:xmf:obs|xmf OBS]]**
 {{changes>ns=xmf:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
+**[[:yam:obs|yam OBS]]**
+{{changes>ns=yam:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:yao:obs|yao OBS]]**
 {{changes>ns=yao:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
+**[[:ylm:obs|ylm OBS]]**
+{{changes>ns=ylm:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
+**[[:ymq:obs|ymq OBS]]**
+{{changes>ns=ymq:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:zh:obs|zh OBS]]**
 {{changes>ns=zh:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:zmz:obs|zmz OBS]]**

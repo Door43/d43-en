@@ -1,36 +1,42 @@
-====== Luke 1:1-4 ======
+====== Luke 01:1-4 ======
 
 
 ===== TFT: =====
 
-<usfm> 
-\c 1 \p \v 1-2 My noble \add friend\add* Theophilus, many people saw the things that \add Jesus\add* did while he was with us, from the time when he started \f + \ft metonymy \f* \add his ministry\add*. They served God \add by teaching people\add* the message\add about the Lord Jesus\add*. Many of those who heard what they taught wrote down for us accounts of the things that \add Jesus did from the time when\add* he began\add his ministry\add*. \v 3 I myself have studied carefully these accounts. So I decided that it would be good for me also to write for you\add \f + \ft singular \f*\add* an accurate account of these matters. \v 4 I want you to know the truth about what you have been taught \f + \ft Or:what others have taught you \f*. 
+<usfm>
+\v 1-2 My noble \add friend\add* Theophilus, many people saw the things that \add Jesus\add* did while he was with us, from the time when he started \f + \ft metonymy \f* \add his ministry\add*. They served God \add by teaching people\add* the message\add about the Lord Jesus\add*. Many of those who heard what they taught wrote down for us accounts of the things that \add Jesus did from the time when\add* he began\add his ministry\add*.
+\v 3 I myself have studied carefully these accounts. So I decided that it would be good for me also to write for you\add \f + \ft singular \f*\add* an accurate account of these matters.
+\v 4 I want you to know the truth about what you have been taught \f + \ft Or:what others have taught you \f*.
+
+
+\p
 </usfm>
 
 
 ===== UDB: =====
 
-<usfm> 
-\c 1 
-\p 
+<usfm>
 \v 1 Dear Theophilus, 
 \p Many people have written reports about the amazing events that have happened among us.
-\v 2 We heard about these things from people who saw them happen, from the time everything first started happening. These people taught others about God's message. 
-\v 3 I myself have carefully studied everything that these people wrote and taught. So I decided that it would also be good for me to write for you, noble Theophilus, an accurate account of these matters. 
+\v 2 We heard about these things from people who saw them happen, from the time everything first started happening. These people taught others about God's message.
+\v 3 I myself have carefully studied everything that these people wrote and taught. So I decided that it would also be good for me to write for you, noble Theophilus, an accurate account of these matters.
 \v 4 I am doing this so that you may know that what you have been taught about these things is true. 
+
+
+\p
 </usfm>
 
 
 ===== ULB: =====
 
-<usfm> 
+<usfm>
 \c 1 
 \p 
 \v 1 Many people have attempted to write accounts concerning those things which have been fulfilled among us. 
-\v 2 Those who were eyewitnesses from the beginning and had become servants of the word reported them to us\f + \ft Exclusive \f*. 
+\v 2 Those who were eyewitnesses from the beginning and had become servants of the word reported them to us\f + \ft exclusive \f*. 
 \v 3 So, it seemed good to me also, having investigated everything accurately from the beginning, to write it down for you in order, most excellent Theophilus. 
 \v 4 I want you to know the certainty of the things that you were taught. 
-\b 
+\b
 </usfm>
 
 
@@ -44,16 +50,13 @@
 
 ===== Translation Notes: =====
 
-    * **us **- The word "us" in this section may exclude Theophilus, but the text does not specifically say that. (See: [[:en:ta:vocabulary:exclusive]])
-    * **have attempted to write **- That is, "have written" as in the UDB.
-    * **accounts**  - That is, "reports" or, "narratives" or, "true stories."
-    * **from the beginning**  - That is, "from the beginning of these events." Also see the UDB.
-    * **from the beginning were eyewitnesses**  - That is, "saw these things from the time they first happened."
-    * **and had become servants of the word**  - That is, "and who then served God by telling people his message" or, "and who also taught people the good news about Jesus."
-    * **most excellent**  - Luke said this to show honor and respect for Theophilus. This manner of address may also mean that Theophilus was an important government official. Other ways to translate this would be, "honorable" or "noble." Some people may prefer to also put this greeting at the beginning and say, "To…..Theophilus" or, "Dear… Theophilus."
-    * **investigated everything accurately**  - This means he was careful to find out exactly what happened. He probably talked to the different people who saw what happened to make sure that what he wrote down about these events was correct. Another way to translate this would be, "carefully researched everything that happened."
-    * **Theophilus**  - This name means, "friend of God." It may describe this man's character or it may have been his actual name. Most translations have it as a name. (See: [[en:tA:translate:translatenames]])
-
+  * **us **- The word "us" in this section may exclude Theophilus, but the text does not specifically say that. (See: [[:en:ta:vocabulary:exclusive|Exclusive]])
+  * **accounts**  - "reports" or "narratives" or "true stories"
+  * **from the beginning were eyewitnesses**  - This could be translated as "saw these things from the time they first happened."
+  * **had become servants of the word**  - Other possible meanings are "served God by telling people his message" or "taught people the good news about Jesus."
+  * **most excellent**  - Luke said this to show honor and respect for Theophilus. This manner of address may also mean that Theophilus was an important government official. Other ways to translate this would be "honorable" or "noble." Some people may prefer to also put this greeting at the beginning and say "To…..Theophilus" or "Dear… Theophilus."
+  * **investigated everything accurately**  - This means he was careful to find out exactly what happened. He probably talked to the different people who saw what happened to make sure that what he wrote down about these events was correct. Another way to translate this would be "carefully researched everything that happened."
+  * **Theophilus**  - This name means "friend of God." It may describe this man's character or it may have been his actual name. Most translations have it as a name. (See: [[:en:ta:translate:translatenames|How to Translate Names]])
 
 ===== Links: =====
 
@@ -67,4 +70,4 @@
 ~~DISCUSSION:on~~
 
 
-{{tag>publish fulfill servant wordofGod}}
+{{tag>publish}}

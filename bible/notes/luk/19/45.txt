@@ -13,8 +13,8 @@
 ===== UDB: =====
 
 <usfm>
-\v 45 Jesus entered Jerusalem and went into the Temple courtyard. He saw in that place the people who were selling things,
-\v 46 and he began to chase them out. He said to them, "It has been written  in the Scriptures that God said, 'I want my house to be a place where people pray'; but you bandits have made it a cave where you can hide!"
+\v 45 Jesus entered Jerusalem and went into the temple courtyard. He saw in that place the people who were selling things,
+\v 46 and he began to chase them out. He said to them, "It has been written in the scriptures, 'I want my house to be a place where people pray,' but you have made it a hideout for thieves!"
 
 
 \p
@@ -25,32 +25,27 @@
 
 <usfm>
 \p
-\v 45 And he entered into the temple, and began to cast out thosethat were selling,
-\v 46 saying to them, It is written, And my house shall be a house of prayour: but you have made it a den of robbers.
+\v 45 And he entered the temple and began to cast out those that were selling,
+\v 46 saying to them, "It is written, 'My house shall be a house of prayer,' but you have made it a den of robbers."
 </usfm>
 
 
 ===== Important Terms: =====
 
-  * example
-  * example
-  * example
-  * example
+  * [[:en:bible:notes:key-terms:temple|temple]]
  
 
 ===== Translation Notes: =====
 
-
-    * **bold words**  - explanation
-    * **bold words**  - explanation
-    * **bold words**  - explanation
-    * **bold words**  - explanation
-    * **bold words**  - explanation
-    * **bold words**  - explanation
-  
+  * **it is written**  - This could be translated as "The scriptures say."
+  * **house of prayer**  - That is, "a place where people will pray to me" or "a place set aside for people to pray in."
+  * **a den of robbers**  - That is, "a place where robbers hide out." This This is a metaphor. It could also be translated with a simile as "like a den of robbers." (See: [[en:ta:figuresofspeech:metaphor|Metaphor]], [[en:ta:figuresofspeech:simile|Simile]])
+  * **bold words**  - explanation
+  * **bold words**  - explanation
+  * **bold words**  - explanation
 ===== Links: =====
 
-  * **[[en/bible/notes:luk/questions/comprehension/19|Luke Chapter 19 Checking Questions]]**
+  * **[[en/bible/notes:luk/questions/comprehension/19|Luke Chapter 19 Comprehension Questions]]**
   * **[[en/bible/notes:luk/questions/checking/Luke-checking|Luke Checking Questions]]**
 
  
@@ -59,4 +54,5 @@
 
 ~~DISCUSSION~~
 
-{{tag>draft}}
+
+{{tag>draft temple}}

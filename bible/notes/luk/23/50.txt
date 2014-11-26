@@ -12,8 +12,8 @@
 ===== UDB: =====
 
 <usfm>
-\v 50 There was a man named Joseph who came there. He was from the town of Arimathea in Judea. He was a good and a righteous man, and he was a member of the Jewish Council.
-\v 51 But he had not agreed with the other Council members when they decided to kill Jesus and when they planned how to do it. He was waiting expectantly for the time when God would send his king to begin to rule.
+\v 50 Now there was a man named Joseph from Arimathea, a Jewish town. He was a good and a righteous man, and he was a member of the Jewish Council. He saw everything happen,
+\v 51 but he had not agreed with the other Council members when they decided to kill Jesus and when they planned how to do it. He was waiting eagerly for the time when God would send his king to begin to rule.
 </usfm>
 
 
@@ -21,19 +21,18 @@
 
 <usfm>
 \p
-\v 50 And behold, a man named Joseph, who was a councillor, a good and righteous man
-\v 51 (he had not consented to their counsel and deed), a man of Arimathaea, a city of the Jews, who was looking for the kingdom of God:
+\v 50 And behold, there was a man named Joseph, belonging to the council, a good and righteous man
+\v 51 (he had not agreed with the decision and their action), from Arimathea, a Jewish city, who was waiting for the kingdom of God.
 </usfm>
 
 
 ===== Important Terms: =====
 
-  * example
-  * example
-  * example
+  * [[:en:bible:notes:key-terms:righteous|righteous]]
+  * [[:en:bible:notes:key-terms:kingdomofgod|kingdom of God]]
+  * [[:en:bible:notes:key-terms:counsel|counsel]]
   * example
  
-
 ===== Translation Notes: =====
 
 
@@ -46,7 +45,7 @@
   
 ===== Links: =====
 
-  * **[[en/bible/notes:luk/questions/comprehension/23|Luke Chapter 23 Checking Questions]]**
+  * **[[en/bible/notes:luk/questions/comprehension/23|Luke Chapter 23 Comprehension Questions]]**
   * **[[en/bible/notes:luk/questions/checking/Luke-checking|Luke Checking Questions]]**
 
  
@@ -55,4 +54,5 @@
 
 ~~DISCUSSION~~
 
-{{tag>draft}}
+
+{{tag>draft counsel}}

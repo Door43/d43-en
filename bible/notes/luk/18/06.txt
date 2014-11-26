@@ -16,9 +16,9 @@
 ===== UDB: =====
 
 <usfm>
-\v 6 Then the Lord Jesus said, "Even though the judge was not a righteous man, think carefully about what he said!
-\v 7 Similarly, God will certainly show that what you have done has been right! He will do this for you whom he has chosen. He will do this for you who pray earnestly to him night and day, asking him to help you. He may delay helping you.
-\v 8 But I tell you, some day he will show that what you did was right, and he will do it quickly. But when I, the one who came from heaven, return to earth, there may not be many people who will still be trusting that I will vindicate them "
+\v 6 Then the Lord Jesus said, "Think carefully about what the unjust judge said.
+\v 7 Even more certainly will God, who is just, bring about justice for his chosen people, who pray earnestly to him night and day! And he is always patient with them.
+\v 8 I tell you, God will quickly do justice for his chosen ones! But when I, the Son of Man, come back to earth, will I still find people who believe in me?"
 
 
 \p
@@ -28,33 +28,38 @@
 ===== ULB: =====
 
 <usfm>
-\v 6 And the Lord said, Hear what the unrighteous judge says.
-\v 7 And shall not God avenge his elect, that cry to him day and night, and  yet he is longsuffering over them?
-\v 8 I say to you, that he will avenge them speedily. Nevertheless, when the Son of man comes, shall he find faith on the earth?
+\v 6 And the Lord said, "Listen to what the unjust judge says.
+\v 7 Now, will not God also bring justice to his chosen ones who cry out to him day and night, and he is patient with them?
+\v 8 I say to you that he will bring justice to them speedily. But when the Son of Man comes, will he find faith on the earth?"
 </usfm>
 
 
 ===== Important Terms: =====
 
-  * example
-  * example
-  * example
-  * example
+  * [[:en:bible:notes:key-terms:righteous|unjust]]
+  * [[:en:bible:notes:key-terms:judgenoun|judge]]
+  * [[:en:bible:notes:key-terms:god|God]]
+  * [[:en:bible:notes:key-terms:justice|justice]]
+  * [[:en:bible:notes:key-terms:chosenone|chosen ones]]
+  * [[:en:bible:notes:key-terms:sonofman|Son of Man]]
+  * [[:en:bible:notes:key-terms:faith|faith]]
  
 
 ===== Translation Notes: =====
 
 
+    * (Jesus continues speaking to his disciples about prayer.)
+    * **Listen to what the unjust judge says**  - This can also be translated, as "Think about what the unjust judge just said." Jesus already told what the judge said. Translate this in a way that people will not expect Jesus to tell what the judge said.
+    * **Will not God also bring**  - This could also be translated as "God will certainly bring" or "So you can be sure that God will also bring." Jesus used this rhetorical question to indicate that what he was teaching was something that his audience should already be able to figure out. (See: Rhetorical Questions)
+    * **his chosen ones**  - That is, "the people he has chosen."
+    * **and is he not patient with them?**  - This could also be translated as "And you know that he is patient with them." Jesus used this rhetorical question to remind people of something they should already have known about God. (See: Rhetorical Questions)
+    * **But … will he find faith**  - When Jesus as "the Son of Man" returns to the earth, will he find people who express their faith in him through prayer? (see verse 1).
     * **bold words**  - explanation
     * **bold words**  - explanation
-    * **bold words**  - explanation
-    * **bold words**  - explanation
-    * **bold words**  - explanation
-    * **bold words**  - explanation
-  
+
 ===== Links: =====
 
-  * **[[en/bible/notes:luk/questions/comprehension/18|Luke Chapter 18 Checking Questions]]**
+  * **[[en/bible/notes:luk/questions/comprehension/18|Luke Chapter 18 Comprehension Questions]]**
   * **[[en/bible/notes:luk/questions/checking/Luke-checking|Luke Checking Questions]]**
 
  
@@ -63,4 +68,5 @@
 
 ~~DISCUSSION~~
 
-{{tag>draft}}
+
+{{tag>draft God faith cohesion}}

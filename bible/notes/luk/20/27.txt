@@ -12,8 +12,8 @@
 ===== UDB: =====
 
 <usfm>
-\v 27 Some Sadducees came to Jesus. They are a Jewish sect who do not believe that people will become alive again after they die.
-\v 28 Theywanted to askJesus a questionin order to discredit the idea that dead people will live again. One of them said to him, "Teacher, Moses wrote for us Jews that if a man who has a wife but no children dies, his brother should marry the dead man's widow so that she can have a child by him. Peoplewill consider that the child is the descendant of the man who died, and in that way the dead man will have descendants.
+\v 27 After that, some Sadducees came to Jesus. They are a group of Jews who say that no one will rise from the dead.
+\v 28 They also wanted to ask Jesus a question. One of them said to him, "Teacher, Moses wrote for us Jews that if a man who has a wife but no children dies, his brother should marry the widow so that she can have a child by him. In this way, people will consider that the child is the descendant of the man who died.
 </usfm>
 
 
@@ -21,32 +21,30 @@
 
 <usfm>
 \p
-\v 27 And there came to him certain of the Sadducees, they that say that there is no resurrection;
-\v 28 and they asked him, saying, Teacher, Moses wrote to us, that if a man’s brother dies, having a wife, and he being childless, his brother should take the wife, and raise up seed to his brother.
+\v 27 And there came to him some of the Sadducees, the ones who say that there is no resurrection.
+\v 28 And they asked him, saying, "Teacher, Moses wrote to us that if a man’s brother dies, having a wife, and being childless, the man should take the brother's wife, and have a child for his brother.
 </usfm>
 
 
 ===== Important Terms: =====
 
-  * example
-  * example
-  * example
-  * example
+  * [[:en:bible:notes:key-terms:sadducee|Sadducees]]
+  * [[:en:bible:notes:key-terms:resurrection|resurrection]]
+  * [[:en:bible:notes:key-terms:teacher|Teacher]]
+  * [[:en:bible:notes:key-terms:moses|Moses]]
  
 
 ===== Translation Notes: =====
 
-
-    * **bold words**  - explanation
-    * **bold words**  - explanation
-    * **bold words**  - explanation
-    * **bold words**  - explanation
-    * **bold words**  - explanation
-    * **bold words**  - explanation
-  
+  * **and being childless**  - That is, "without children" or "before any children are born."
+  * **the man should take the brother's wife**  - That is, "the man should marry his dead brother's wife."
+  * **bold words**  - explanation
+  * **bold words**  - explanation
+  * **bold words**  - explanation
+  * **bold words**  - explanation
 ===== Links: =====
 
-  * **[[en/bible/notes:luk/questions/comprehension/20|Luke Chapter 20 Checking Questions]]**
+  * **[[en/bible/notes:luk/questions/comprehension/20|Luke Chapter 20 Comprehension Questions]]**
   * **[[en/bible/notes:luk/questions/checking/Luke-checking|Luke Checking Questions]]**
 
  
@@ -55,4 +53,5 @@
 
 ~~DISCUSSION~~
 
-{{tag>draft}}
+
+{{tag>draft sadducee resurrection moses}}

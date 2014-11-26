@@ -12,8 +12,8 @@
 ===== UDB: =====
 
 <usfm>
-\v 1 Jesus told his disciples a parable to teach them that they always ought to pray confidently and not be discouraged if God does not immediately answer their prayers.
-\v 2 He said, "In a certain city there was a judge who did not revere God, and did not care about people, either.
+\v 1 Jesus told his disciples another story to teach them that they ought to pray continually and not become discouraged if God does not immediately answer their prayers.
+\v 2 He said, "In a certain city there was a judge who did not revere God and did not care about people.
 </usfm>
 
 
@@ -22,32 +22,32 @@
 <usfm>
 \c 18
 \p
-\v 1 And he spoke a parable to them to the end that they ought always to pray, and not to faint;
-\v 2 saying, There was in a city a judge, who did not  fear God, and did not regard man:
+\v 1 Then he spoke a parable to them about how they should always pray, and not become discouraged,
+\v 2 saying, "There was in a certain city a certain judge who did not fear God and did not respect people,
 </usfm>
 
 
 ===== Important Terms: =====
 
-  * example
-  * example
-  * example
-  * example
- 
-
+    * [[:en:bible:notes:key-terms:parable|parable]]
+    * [[:en:bible:notes:key-terms:pray|pray]]
+    * [[:en:bible:notes:key-terms:judgenoun|judge]]
+    * [[:en:bible:notes:key-terms:fear|fear]]
 ===== Translation Notes: =====
 
 
+    * (Jesus continues speaking to his disciples.)
+    * **Then he**- That is, "Then Jesus."
+    * **saying**- This could also be translated as "He said" (UDB) or the the new sentence could simply begin with what is in the quote, without the words "saying" or "he said."
+    * **and not become discouraged**  - This could also be translated as, "and not grow tired of praying" or "and not quit."
+    * **There was in a certain city a certain judge**  - This can be translated as, "In a certain city there was a judge," or "There was a certain judge in a certain city." Or it could also be translated "in some city some judge."
+    * **fear**  - That is, "revere" (UDB)
+    * **did not respect people**  - Also, "paid no regard to a person."
     * **bold words**  - explanation
-    * **bold words**  - explanation
-    * **bold words**  - explanation
-    * **bold words**  - explanation
-    * **bold words**  - explanation
-    * **bold words**  - explanation
-  
+
 ===== Links: =====
 
-  * **[[en/bible/notes:luk/questions/comprehension/18|Luke Chapter 18 Checking Questions]]**
+  * **[[en/bible/notes:luk/questions/comprehension/18|Luke Chapter 18 Comprehension Questions]]**
   * **[[en/bible/notes:luk/questions/checking/Luke-checking|Luke Checking Questions]]**
 
  
@@ -56,4 +56,5 @@
 
 ~~DISCUSSION~~
 
-{{tag>draft}}
+
+{{tag>draft pray judgenoun}}

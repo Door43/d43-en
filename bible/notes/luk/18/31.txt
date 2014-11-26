@@ -13,9 +13,9 @@
 ===== UDB: =====
 
 <usfm>
-\v 31 Jesus took the twelve disciples to a place by themselves and said to them, "Listen carefully! We.
-\v 32 I will be put  into the hands of non-Jews. The non-Jews will make fun of me and mistreat me and spit on me.
-\v 33 They will whip me, and then they will kill me. But on the third day after that I will become alive again."
+\v 31 Jesus took the twelve disciples to a place by themselves and said to them, "Listen carefully! We are now going up to Jerusalem. While we are there, everything that the prophets wrote long ago about me, the Son of man, will be accomplished.
+\v 32 My enemies will put me into the power of the non-Jews. They  will mock me, treat me with disdain and spit on me.
+\v 33 They will whip me, and then they will kill me. But, on the third day after that I will become alive again."
 </usfm>
 
 
@@ -23,33 +23,37 @@
 
 <usfm>
 \p
-\v 31 And he took to him the twelve, and said to them, Behold, we go up to Jerusalem, and all the things that are written through the prophets shall be accomplished to the Son of man.
-\v 32 For he shall be delivered up to the Gentiles, and shall be mocked, and shamefully treated, and spit upon:
-\v 33 and they shall whip and kill him: and the third day he shall rise again.
+\v 31 And after he gathered the Twelve to himself, he said to them, "Behold, we are going up to Jerusalem, and all the things that have been written by the prophets about the Son of man will be accomplished.
+\v 32 For he will be given over to the Gentiles, and will be mocked, and shamefully treated, and spit upon;
+\v 33 and after whipping him they will kill him and on the third day he will rise again."
 </usfm>
 
 
 ===== Important Terms: =====
 
-  * example
-  * example
-  * example
-  * example
+  * [[:en:bible:notes:key-terms:apostle|the Twelve]]
+  * [[:en:bible:notes:key-terms:jerusalem|Jerusalem]]
+  * [[:en:bible:notes:key-terms:prophet|prophets]]
+  * [[:en:bible:notes:key-terms:sonofman|Son of Man]]
+  * [[:en:bible:notes:key-terms:gentile|Gentiles]]
+  * [[:en:bible:notes:key-terms:mock|mocked]]
+  * [[:en:bible:notes:key-terms:raise|rise]]
  
 
 ===== Translation Notes: =====
 
 
+    * **the prophets**- means the Old Testament prophets like Isaiah and Jeremiah.****
+    * **will be accomplished - ** This can also be translated, "will happen" or "will occur".
+    * **the Gentiles**- means "the non Jews," like the Roman Pontius Pilate.
+    * **Son of Man**  - Jesus speaks of himself as "the Son of Man" and uses "he" to refer to himself.
     * **bold words**  - explanation
     * **bold words**  - explanation
     * **bold words**  - explanation
-    * **bold words**  - explanation
-    * **bold words**  - explanation
-    * **bold words**  - explanation
-  
+
 ===== Links: =====
 
-  * **[[en/bible/notes:luk/questions/comprehension/18|Luke Chapter 18 Checking Questions]]**
+  * **[[en/bible/notes:luk/questions/comprehension/18|Luke Chapter 18 Comprehension Questions]]**
   * **[[en/bible/notes:luk/questions/checking/Luke-checking|Luke Checking Questions]]**
 
  
@@ -58,4 +62,5 @@
 
 ~~DISCUSSION~~
 
-{{tag>draft}}
+
+{{tag>draft apostle jerusalem prophet raise}}

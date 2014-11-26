@@ -12,7 +12,7 @@
 ===== UDB: =====
 
 <usfm>
-\v 36 As they were saying that, Jesus himself suddenly appeared among them. He said to them, "May God give you inner peace!"
+\v 36 As they were saying that, Jesus himself suddenly appeared among them. He said to them, "May God give you peace!"
 \v 37 They were startled and afraid, because they thought that they were seeing a ghost!
 </usfm>
 
@@ -21,16 +21,16 @@
 
 <usfm>
 \p
-\v 36 And as they spoke these things, he himself stood in the midst of them, and says to them, Peace be to you.
-\v 37 But they were terrified and affrighted, and supposed that they [*]saw a spirit.
+\v 36 And as they spoke these things, he himself stood in the midst of them, and said to them, "Peace be to you."
+\v 37 But they were terrified and filled with fear, and supposed that they saw a spirit.
 </usfm>
 
 
 ===== Important Terms: =====
 
-  * example
-  * example
-  * example
+  * [[:en:bible:notes:key-terms:peace|peace]]
+  * [[:en:bible:notes:key-terms:fear|fear]]
+  * [[:en:bible:notes:key-terms:spirit|spirit]]
   * example
  
 
@@ -46,7 +46,7 @@
   
 ===== Links: =====
 
-  * **[[en/bible/notes:luk/questions/comprehension/24|Luke Chapter 24 Checking Questions]]**
+  * **[[en/bible/notes:luk/questions/comprehension/24|Luke Chapter 24 Comprehension Questions]]**
   * **[[en/bible/notes:luk/questions/checking/Luke-checking|Luke Checking Questions]]**
 
  
@@ -55,4 +55,5 @@
 
 ~~DISCUSSION~~
 
-{{tag>draft}}
+
+{{tag>draft fear}}

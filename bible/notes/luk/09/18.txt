@@ -12,8 +12,8 @@
 ===== UDB: =====
 
 <usfm>
-\v 18 One day Jesus was praying in a place where only the disciples were with him. He asked them, "The crowds of people, who do they say that I really am?"
-\v 19 They replied, "Some people say that you are John the Baptizer, who has come back to life again. Others say that you are the prophet Elijah, who has returned from heaven as God promised. Others say that you are one of the other prophets who lived long ago, who has come back to life again."
+\v 18 One day while Jesus was praying in private, his disciples came to him and he asked them, "Who do the crowds say that I am?"
+\v 19 They replied, "Some people say that you are John the Baptizer,  but others say that you are the prophet Elijah, and still others say that you are one of the other prophets from long ago who has come back to life again."
 </usfm>
 
 
@@ -21,40 +21,41 @@
 
 <usfm>
 \p
-\v 18 And it came to pass, as he was praying apart, the disciples were with him: and he asked them, saying, Who do the
-multitudes say that I am?
-\v 19 And they answering said, John the Baptist; but others say, Elijah; and others, that one of the old prophets is
-risen again.
+\v 18 And it happened that, as he was praying alone, the disciples were with him, and he questioned them, saying, "Who do the multitudes say that I am?"
+\v 19 And answering, they said, "John the Baptist, but others say Elijah, and others say that one of the prophets from ancient times has risen again."
 </usfm>
 
 
 ===== Important Terms: =====
 
-  * example
-  * example
-  * example
-  * example
- 
+
+    * [[:en:bible:notes:key-terms:pray|pray]]
+    * [[:en:bible:notes:key-terms:disciple|disciple]]
+    * [[:en:bible:notes:key-terms:johnthebaptist|John (the Baptist)]]
+    * [[:en:bible:notes:key-terms:elijah|Elijah]]
+    * [[:en:bible:notes:key-terms:prophet|prophet]]
+    * [[:en:bible:notes:key-terms:raise|risen]]
+
 
 ===== Translation Notes: =====
 
-
-    * **bold words**  - explanation
-    * **bold words**  - explanation
-    * **bold words**  - explanation
-    * **bold words**  - explanation
-    * **bold words**  - explanation
-    * **bold words**  - explanation
-  
+    * **And it happened that** - This phrase is used here to mark the beginning of a new part of the story. If your language has a way for doing this, you could consider using it here. 
+    * **as he was praying alone** - This refers to Jesus.
+    * **And answering, they said** - That is, "And they answered him by saying."
+    * **John the Baptist** - Some languages may prefer to add, "Some say you are John the Baptist."
+    * **from ancient times** - That is, "who lived a very long time ago."
+    * **has risen again** - That is, "has come back to life."
 ===== Links: =====
 
-  * **[[en/bible/notes:luk/questions/comprehension/09|Luke Chapter 09 Checking Questions]]**
+  * **[[en/bible/notes:luk/questions/comprehension/09|Luke Chapter 09 Comprehension Questions]]**
   * **[[en/bible/notes:luk/questions/checking/Luke-checking|Luke Checking Questions]]**
 
  
 
 **[[en/bible/notes/luk/09/15|<<]] | [[en/bible/notes/luk/09/20|>>]]**
 
+
 ~~DISCUSSION~~
 
-{{tag>draft}}
+
+{{tag>discuss pray prophet}}

@@ -1,9 +1,5 @@
 ====== How to Get Started ======
 
-\\
-\\
-\\
-
 
 ===== Get connected to the Door43 community! =====
 
@@ -43,7 +39,7 @@ Door43 has a [[:playground:playground|test page]] that you can edit for practice
 
 Go to [[en/obs-training/syntax]] for some of the easy editing tools.
 
-Note: Click [[en:obs-training:get-started:switching_editors|here]] to learn how to switch between the editors. Or click [[https://www.youtube.com/watch?v=kFK1zK_dSYc|here]] for the "how to" 1 minute video.
+Note: Click [[en:switching_editors|here]] to learn how to switch between the editors. Or click [[https://www.youtube.com/watch?v=kFK1zK_dSYc|here]] for the "how to" 1 minute video.
 ===== 3. Choose a Story =====
 
 
@@ -56,10 +52,9 @@ Note: Right click on links and choose "Open in new window."
 
 ===== 4. Choose the language into which you want to translate =====
 
-
 In the sidebar of Story 31, you should see a language selection dropdown. When you click it, a list of available languages displays, sorted by language code. If you see the language into which you would like to translate, click it.
 
-If you need a language added to Door43, please  [[http://distantshoresmedia.org/contact|contact us]].
+If you need a language added to Door43, please [[http://distantshores.org/contact|contact us]].
 
 ===== 5. Start Translating =====
 

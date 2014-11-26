@@ -1,0 +1,35 @@
+====== Sample Door43 Code ======
+
+Code to pull in content from a specific section:
+<code>
+{{section>:en:bible:notes:luk:01:01#important terms:&noheader}}
+</code>
+
+
+Code to display the activity of a user:
+  * Replace "USER" with Door43 username
+  * Count= sets number of results
+<code>
+**USER:** 
+{{changes>user=USER&count=12&render=pagelist(header,date,user,nocomments)&maxage=25920000}}
+</code>
+
+
+Display pages with in namespace with specific tag:
+<code>
+{{topic>en:bible:notes:luk?draft&nocomments}}
+</code>
+
+
+iten: 
+
+<code>
+
+</code>
+
+item:
+
+<code>
+
+</code>
+

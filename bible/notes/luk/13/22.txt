@@ -13,9 +13,9 @@
 ===== UDB: =====
 
 <usfm>
-\v 22 Jesus continued traveling, along with the disciples, through various towns and villages on the way to Jerusalem. As they went, he was teaching the people.
-\v 23 Someone asked him, "Lord, will there be only a few people who are saved  is like a narrow door.
-\v 24 Therefore, try hard to enter that narrow doorway, because I tell you that many people will try to enter heaven by some other way, but they will not be able to get in.
+\v 22 Jesus continued traveling toward Jerusalem. He stopped in all the towns and villages along the way and taught the people.
+\v 23 Someone asked him, "Lord, will God only save a few people?” Jesus replied,
+\v 24 "You need to try hard to enter the narrow doorway. I tell you that many people will try some other way, but they will not be able to get in.
 </usfm>
 
 
@@ -23,33 +23,30 @@
 
 <usfm>
 \p
-\v 22 And he went on his way through cities and villages, teaching, and journeying on to Jerusalem.
-\v 23 And one said to him, Lord, are they few that are saved? And he said to them,
-\v 24 Strive to enter in by the narrow door: for many, I say to you, shall seek to enter in, and shall not be able.
+\v 22 And he visited each town and village on the way to Jerusalem and taught them.
+\v 23 Someone said to him, "Lord, are only a few people to be saved?" So he said to them,
+\v 24 "Struggle to enter the narrow door because many will try and not be able to enter.
 </usfm>
 
 
 ===== Important Terms: =====
 
-  * example
-  * example
-  * example
-  * example
- 
+
+    * [[:en:bible:notes:key-terms:jerusalem|Jerusalem]]
+    * [[:en:bible:notes:key-terms:lord|Lord]]
+    * [[:en:bible:notes:key-terms:save|saved]]
+
 
 ===== Translation Notes: =====
 
 
-    * **bold words**  - explanation
-    * **bold words**  - explanation
-    * **bold words**  - explanation
-    * **bold words**  - explanation
-    * **bold words**  - explanation
-    * **bold words**  - explanation
-  
+    * (Jesus goes to various towns and villages and teaches people.)
+    * **and taught them** - Jesus taught the people living in the towns and villages through which he passed. This could also be translated as "and taught the people in those places."
+    * **Are only a few people to be saved?** - That is, "Will only  a few people be saved?"
+    * **Struggle to enter the narrow day** - That is, "Make every effort to go through the narrow door."  This is a metaphor meaning to become one whom God will save. It could also be translated as "Work hard to go through the narrow door to salvation" or "Do your best to go through the narrow way so that God will save you." (See: [[en:ta:figuresofspeech:metaphor|Metaphor]])
 ===== Links: =====
 
-  * **[[en/bible/notes:luk/questions/comprehension/13|Luke Chapter 13 Checking Questions]]**
+  * **[[en/bible/notes:luk/questions/comprehension/13|Luke Chapter 13 Comprehension Questions]]**
   * **[[en/bible/notes:luk/questions/checking/Luke-checking|Luke Checking Questions]]**
 
  
@@ -58,4 +55,5 @@
 
 ~~DISCUSSION~~
 
-{{tag>draft}}
+
+{{tag>review save}}

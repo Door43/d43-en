@@ -13,7 +13,7 @@
 
 <usfm>
 \v 31 One day he went with his disciples down to Capernaum, a city in the region of Galilee. On the next Sabbath, he taught the people in the synagogue.
-\v 32 They were continually amazed at what he was teaching, because he spoke with authority.
+\v 32 They were continually amazed at what he was teaching, because he spoke with confidence.
 </usfm>
 
 
@@ -21,7 +21,7 @@
 
 <usfm>
 \p 
-\v 31 Then he went down to Capernaum, a city in Galilee. One Sabbath day he was teaching the people in the synagogue 
+\v 31 Then he went down to Capernaum, a city in Galilee. One Sabbath day he was teaching the people in the synagogue, 
 \v 32 and they were astonished at his teaching, because he spoke with authority.
 </usfm>
 
@@ -33,20 +33,18 @@
     * [[:en:bible:notes:key-terms:galilee|Galilee]]
     * [[:en:bible:notes:key-terms:sabbath|Sabbath]]
     * [[:en:bible:notes:key-terms:synagogue|synagogue]]
-
+    * [[:en:bible:notes:key-terms:authority|authority]]
 
 ===== Translation Notes: =====
 
 
-    * **he went down - ** That is, he went downhill. There was an elevation change.
-    * **was teaching -**  One could say Jesus "was continually teaching."
-    * **astonished**  - That is, "overwhelmed."
-    * **were astonished**  - One could say "were continually astonished."
-    * **he spoke with authority **- This literally means, "his word was with authority" or "his message was continually having authority."
-
+    * **he went down** - "Jesus went downhill" Capernaum was lower in altitude than Nazareth.
+    * **Capernaum, a city in Galilee** - Since Jesus was already in Galilee, this could be translated as "Capernaum, another city in Galilee." 
+    * **astonished**  - "greatly surprised" or "impressed"
+    * **he spoke with authority** - This could be translated as "his word had authority" or "he spoke as one with authority."
 ===== Links: =====
 
-  * **[[en/bible/notes:luk/questions/comprehension/04|Luke Chapter 04 Checking Questions]]**
+  * **[[en/bible/notes:luk/questions/comprehension/04|Luke Chapter 04 Comprehension Questions]]**
   * **[[en/bible/notes:luk/questions/checking/Luke-checking|Luke Checking Questions]]**
 
  
@@ -55,4 +53,4 @@
 
 ~~DISCUSSION~~
 
-{{tag>draft}}
+{{tag>publish capernaum synagogue}}

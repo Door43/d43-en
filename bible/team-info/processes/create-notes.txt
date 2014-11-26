@@ -1,30 +1,42 @@
 ====== How to Create Translation Notes ======
 
-These are some ideas to guide how the Translation Notes are created:
+==== These are some ideas to guide how the Translation Notes are created: ====
 
-  * Select a portion from the ULB that needs discussion and write it in bold by one of the bullets under "Translation Notes."
+  * Select a portion from the ULB that needs a note and write it in bold by one of the bullets under "Translation Notes."
   * Write a translation suggestion that can be used in place of the portion you have selected.
-    * If the suggestion is synonymous with the ULB, you might start it with "That is."
-    * If the suggestion includes making implied information explicit, you might start it with "This can also be translated as."
-    * Precede each suggestion with a comma and put the suggestion in quotes. This isn't the standard English use of punctuation, but it may make it easier for the translators to distinguish translation suggestions from explanation and one suggestion from another.
-        * That is, "Y."
-        * This can also be translated as, "X" or, "Y" or, "Z".
-  *  You may also explain the issue, but try to include a translation suggestion.
-  *  If there is a Translation Academy page that deals with the issue, refer to it by writing, for example, "(See: Metonymy)" or "(See: Exclusive)" at the end of the note.  You can see these at [[en:ta:ta-topics|Topics]].
-  * Normally we do not need to write notes for key terms. However, when a key term has multiple senses, you may need to write a note telling which sense is meant in the text.
+      * If the suggestion is synonymous with the ULB, simply add the suggestion with double-quotes around it.
+      * If the suggestion includes making implied information explicit, or if it suggests a less specific way of translating the text, start it with "This could be translated as..."
+      * Put the suggestion in quotes and if there is more than one suggestion, separate them with the word "or."
+        * This can also be translated as "X" or "Y" or "Z".
+  * You may also need to explain the issue, but try to include a translation suggestion.
+  * If there is a Translation Academy page that deals with the issue, refer to it by writing, for example, "(See: Metonymy)" or "(See: Exclusive)" at the end of the note. You can see these at [[:en:ta:ta-topics|Topics]].
+  * Normally we do not need to write notes for terms that are in the key terms list. However, when a key term has multiple senses, you may need to write a note telling which sense is meant in the text.
+  * If you write several translation suggestions and one of them is the UDB, write "(UDB)" after it.
+  * When it is required to give a different meaning that if found in the ULB, begin the note with "Another possible meaning is '...'" or "Other possible meanings are 1) 'meaning A' or 2) 'meaning B.'"
 
-Here are some reasons for different kinds of translation notes:
+==== Reasons for translation notes: ====
 
-  * An English word may have multiple meanings, so we want to help them understand which meaning is intended.
-  * It may not be obvious what a particular pronoun refers to. Or it may be obvious to us, but if the antecedent is on a previous chunk, it might help to remind the translators.
-  * We may need to explain a particular figure of speech.
-  * We may need to make some implicit information explicit for people who are not familiar with the cultures of the Bible.
-  * We may need to give information that will help translators choose the appropriate grammatical form in their language. For example, many languages have distinct singular and plural forms of "you," but English does not. If it is not clear from the English text which is intended, we may need to state it in a note and direct the translators to the Translation Academy page that deals with that issue. For example, "At this point, Jesus was only addressing Peter, so languages that have singular and plural forms of 'you' would use the singular form here. (See: Singular Pronoun)"
+Here are some reasons for different kinds of translation notes.
 
-In the Important Terms section list the important terms in the order that they occur in in the ULB. The names of many people and places will be included even if they are referred to many times in the text you are working on. The words in the list will be changed to links so that the translators can click on the link and go immediately to the KT page telling about it. If you think that any words should have a KT page, include them too. Do not write any definitions in the Important Terms list. 
+  * Neither the ULB nor the UDB gives certain information that translaotrs might need in order to translate the text.
+      * who or what a pronoun or demonstrative refers to
+      * which meaning is intended for a word that has multiple meanings
 
+  * Translators may need certain information because of the grammar of their language.
+      * whether 'you' is singular, dual, or plural
+      * whether 'we' includes the audience or not
+      * who the actor is in a passive clause
 
-~~DISCUSSION~~
+  * Some languages don't have the same syntactic structures that English has or they may use them only for certain purposes. We may need to give suggestions for translating texts that have things like passive clauses, relative clauses, appositions, ellipses, or indirect quotes.
 
+  * Translators may not understand a particular figure of speech and may need some suggestions for how to translate it – particularly if they don't use that kind of figure or would not use it in certain situations.
 
-{{tag>notes101}}
+  * The translators and their readers may not be familiar with the cultures of the Bible, and so may not understand the text because they lack information that the authors left implicit. We may need to explain the implicit information and give suggestions for how they might translate it. (We don't want to add information to the text that the author was not intending to communicate. But if the author must have assumed that the people would have something in mind in order to understand what he was saying, we may need to bring that out.)
+
+  * If a page has a continuing quote, we'll need a note in parentheses like "John continues speaking to the crowd" or "Jesus continues speaking to his disciples" or "Jesus continues telling his parable."
+
+==== List of Important Terms ====
+
+The Important Terms section will have a list of the important terms in the ULB on that page. Each word will be linked to a Key Term page that explains it. Do not write anything in this section. If you think a word should be included, say so in the Discussion section. This page explains how we decide whether a term should have a page: [[:en:bible:team-info:training:topics:kt-yes-no|Is It a Key Term?]]
+
+~~DISCUSSION~~{{tag>notes101}}

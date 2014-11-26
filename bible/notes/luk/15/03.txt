@@ -14,8 +14,8 @@
 
 <usfm>
 \v 3 So Jesus told them this parable:
-\v 4 "Suppose that one of you had a hundred sheep. If one of them were lost, you
-\v 5 When you found it, you would lay it on your shoulders and be happy.
+\v 4 "Suppose that one of you has a hundred sheep and you lose one of them.  Certainly you will leave the ninety-nine other sheep in the wilderness and go search for the lost sheep until you have found it.
+\v 5 And when you find it, you will joyfully put it on your shoulders to carry it home.
 </usfm>
 
 
@@ -23,33 +23,34 @@
 
 <usfm>
 \p
-\v 3 And he spoke to them this parable, saying,
-\v 4 What man of you, having a hundred sheep, and having lost one of them, does not leave the ninety and nine in the wilderness, and go after that which is lost, until he find it?
-\v 5 And when he has found it, he lays it on his shoulders, rejoicing.
+\v 3 And he spoke this parable to them, saying,
+\v 4 "Which one of you, if he has a hundred sheep and then loses one of them, will not leave the ninety-nine in the wilderness, and go after the lost one until he finds it?
+\v 5 And when he has found it, he lays it across his shoulders and rejoices.
 </usfm>
 
 
 ===== Important Terms: =====
 
-  * example
-  * example
-  * example
-  * example
- 
+    * [[:en:bible:notes:key-terms:parable|parable]]
+    * [[:en:bible:notes:key-terms:sheep|sheep]]
+    * [[:en:bible:notes:key-terms:desert|wilderness]]
+    * [[:en:bible:notes:key-terms:rejoice|rejoice]]
+
 
 ===== Translation Notes: =====
 
+    * (Jesus tells the religious leaders a parable.)
+    * **spoke this parable to them, saying**  - or, "by saying", or "he told them a parable, and said"
+    * * **Which one of you . . will not leave the ninety nine . . and go after . . until he finds it?** - This is a rhetorical question. Jesus was reminding the people that if any of them lost one of their sheep, they would certainly go looking for it. This sentence could also be translated as "You know that if you had a hundred sheep and lost one of them, you would leave the ninety-nine in the wilderness, and go looking for the lost one until you found it."  (See: [[en:ta:figuresofspeech:rhetoricalquestion|Rhetorical Question]])
+    * **leave** - That is, "leave behind," or "go away from."
+    * **go after the lost one**- That is, "look for the lost sheep from one place to another place."
+    * **lays it across his shoulders** - That is "puts the sheep around his shoulders" or "carries the sheep across his shoulders." 
+    * **and rejoices** - That is, "while rejoicing," or "rejoices while the sheep is on his shoulders."
 
-    * **bold words**  - explanation
-    * **bold words**  - explanation
-    * **bold words**  - explanation
-    * **bold words**  - explanation
-    * **bold words**  - explanation
-    * **bold words**  - explanation
-  
+
 ===== Links: =====
 
-  * **[[en/bible/notes:luk/questions/comprehension/15|Luke Chapter 15 Checking Questions]]**
+  * **[[en/bible/notes:luk/questions/comprehension/15|Luke Chapter 15 Comprehension Questions]]**
   * **[[en/bible/notes:luk/questions/checking/Luke-checking|Luke Checking Questions]]**
 
  
@@ -58,4 +59,5 @@
 
 ~~DISCUSSION~~
 
-{{tag>draft}}
+
+{{tag>review parable sheep}}

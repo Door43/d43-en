@@ -1,4 +1,4 @@
-====== Luke 1:76-77 ======
+====== Luke 01:76-77 ======
 
 
 ===== TFT: =====
@@ -18,22 +18,25 @@
 
 ===== UDB: =====
 
-<usfm> 
-\p 
+<usfm>
 \v 76 Then Zechariah said this to his baby son: 
 \q "My child, you will be called a prophet 
 \q of the Most High God. 
 \q You will go ahead of the Lord 
 \q to prepare a people to be ready when he comes.
-\q \v 77 You will tell people that God is able to forgive them and save them from being punished for their sins.
+\q
+\v 77 You will tell people that God is able to forgive them and save them from being punished for their sins.
+
+
+\q
 </usfm>
 
 
 ===== ULB: =====
 
-<usfm> 
-\q \v 76 And you my child, will be called the prophet of the Most High,
-\q because you will go in advance of the Lord, 
+<usfm>
+\q \v 76 And you, my child, will be called the prophet of the Most High,
+\q because you will go in advance of the Lord 
 \q to prepare people for his coming, 
 \q \v 77 and to help people know how they can be saved
 \q through the forgiveness of their sins.
@@ -43,8 +46,8 @@
 ===== Important Terms: =====
 
     * [[:en:bible:notes:key-terms:prophet|prophet]]
-    * [[:en:bible:notes:key-terms:MostHigh|Most High]]
-    * [[:en:bible:notes:key-terms:Lord|Lord]]
+    * [[:en:bible:notes:key-terms:mosthigh|Most High]]
+    * [[:en:bible:notes:key-terms:lord|Lord]]
     * [[:en:bible:notes:key-terms:save|save]]
     * [[:en:bible:notes:key-terms:forgive|forgiveness]]
     * [[:en:bible:notes:key-terms:sin|sin]]
@@ -53,9 +56,9 @@
 ===== Translation Notes: =====
 
     * (Zechariah continues to prophecy, but now he speaks directly to his newborn son:)
-    * **will be called the prophet** - This means he actually will be the prophet and people will know him as such. To make that clear, this could be translated as, "will be the prophet."
-    * **of the Most High**  - That is, "who serves the Most High" or, "who speaks for God Most High."
-    * **how they can be saved through the forgiveness of their sins**  - This can also be translated as, "how God will save them by forgiving their sins."
+    * **will be called the prophet** - This means he actually will be the prophet and people will know him as such. To make that clear, this could be translated as "will be the prophet."
+    * **of the Most High**  - This could be translated as "who serves the Most High" or "who speaks for God Most High."
+    * **how they can be saved through the forgiveness of their sins**  - This can be translated as "how God will save them by forgiving their sins."
 
 
 ===== Links: =====
@@ -70,4 +73,4 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish prophet MostHigh save forgiveness}}
+{{tag>publish prophet mosthigh save forgiveness}}

@@ -13,8 +13,7 @@
 ===== UDB: =====
 
 <usfm>
-\v 37 But as to people becoming alive again after they die, Moses wrote something about that. In the place where he wrote about the burning bush, he mentions the Lord as being the God whom Abraham worships and the God whom Isaac worships and the God whom Jacob worships.
-\v 38 It is not dead people who worship God. It is living people who worship him. Abraham, Isaac and Jacob died long before Moses lived, but God said that they were still worshipping him, so we know their spirits were still alive! All people whose spirits are alive again after they die continue to live to honor him!"
+\v 37 But about people rising from the dead, Moses wrote something about that. In the place where he wrote about the burning bush, he mentions the Lord as being the God whom Abraham worships, whom Isaac worships and whom Jacob worships. It is not dead people who worship God, but rather living people who worship him. All people whose spirits are alive again after they die continue to honor him!"
 
 
 \p
@@ -24,32 +23,35 @@
 ===== ULB: =====
 
 <usfm>
-\v 37 But that the dead are raised, even Moses showed, in the place concerning the Bush, when he calls the Lord the God of Abraham, and the God of Isaac, and the God of Jacob.
-\v 38 Now he is not the God of the dead, but of the living: for all live to him.
+\v 37 But that the dead are raised, even Moses showed, in the place concerning the bush, when he calls the Lord the God of Abraham and the God of Isaac and the God of Jacob.
+\v 38 Now he is not the God of the dead, but of the living because all live to him."
 </usfm>
 
 
 ===== Important Terms: =====
 
-  * example
-  * example
-  * example
-  * example
+  * [[:en:bible:notes:key-terms:death|dead]]
+  * [[:en:bible:notes:key-terms:raise|raised]]
+  * [[:en:bible:notes:key-terms:moses|moses]]
+  * [[:en:bible:notes:key-terms:lord|Lord]]
+  * [[:en:bible:notes:key-terms:god|God]]
+  * [[:en:bible:notes:key-terms:abraham|Abraham]]
+  * [[:en:bible:notes:key-terms:isaac|Isaac]]
+  * [[:en:bible:notes:key-terms:jacob|Jacob]]
  
-
 ===== Translation Notes: =====
 
-
-    * **bold words**  - explanation
-    * **bold words**  - explanation
-    * **bold words**  - explanation
-    * **bold words**  - explanation
-    * **bold words**  - explanation
-    * **bold words**  - explanation
-  
+  * (Jesus continues speaking)
+  * **But that the dead are raised, even Moses showed**  - This could be reordered. "But even Moses showed that dead people are raised from death."
+  * **in the place concerning the bush** -That is, "In the place where he wrote about the burning bush" or "in the scripture about the burning bush."
+  * **when he calls the Lord** - That is "when Moses called the Lord"
+  * **the God of Abraham and the God of Isaac and the God of Jacob**  - This could also be translated as "The God of Abraham, Isaac, and Jacob." They all worshipped the same God.
+  * **the God of the dead**  - That is, "the God of dead people."
+  * **but of the living**  - That is "but the God of living people."
+  * **bold words**  - explanation
 ===== Links: =====
 
-  * **[[en/bible/notes:luk/questions/comprehension/20|Luke Chapter 20 Checking Questions]]**
+  * **[[en/bible/notes:luk/questions/comprehension/20|Luke Chapter 20 Comprehension Questions]]**
   * **[[en/bible/notes:luk/questions/checking/Luke-checking|Luke Checking Questions]]**
 
  
@@ -58,4 +60,5 @@
 
 ~~DISCUSSION~~
 
-{{tag>draft}}
+
+{{tag>draft moses death life}}

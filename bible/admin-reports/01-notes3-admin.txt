@@ -1,0 +1,21 @@
+====== Notes: Titus Admin Page ======
+
+
+~~NOCACHE~~
+
+==== Titus Pages Status ====
+
+|  **Review Pages**  |  **Discuss Pages**  | **Publish Pages**  |
+|{{topic>en:bible:notes:tit?review&nocomments}}|{{topic>en:bible:notes:tit?discuss&nocomments}}|{{topic>en:bible:notes:tit?publish&nocomments}}|
+
+==== Check on bad tags ====
+
+{{pagequery>ns:en:bible:notes:tit "tag> " ;
+  fulltext;
+  sort=title:asc;
+  display={title};
+  natsort;
+  layout=table;
+  showcount;
+  hidemsg;
+  hidejump;}}

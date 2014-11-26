@@ -15,11 +15,11 @@
 ===== UDB: =====
 
 <usfm>
-\v 18 A Jewish leader asked Jesus, "Good teacher, what shall I do in order to have eternal life?"
-\v 19 Jesus said to him, "Only God is good! No one else is good! So you
+\v 18 Once a Jewish leader asked Jesus, "Good teacher, what must I do in order to have eternal life?"
+\v 19 Jesus said to him, "Why do you call me good? God is the only one who is truly good!
 \p
-\v 20 But to answer your question, you know the commandments that God gave Moses. He commanded such things as 'do not commit adultery, do not commit murder, do not steal, do not testify falsely about what you have seen or heard, honor your father and mother.'~"
-\v 21 The man said, "I have obeyed all those commandments ever since I was young. So there must be something else I have not done."
+\v 20 In answer to your question, certainly you know the commandments that God gave to Moses for us to obey:  'Do not commit adultery, do not murder anyone, do not steal, do not give a false report, honor your father and mother.'"
+\v 21 The man said, "I have obeyed all those commandments ever since I was young."
 </usfm>
 
 
@@ -27,34 +27,34 @@
 
 <usfm>
 \p
-\v 18 And a certain ruler asked him, saying, Good Teacher, what shall I do to inherit eternal life?
-\v 19 And Jesus said to him, Why call you me good? none is good, except one, even God.
-\v 20 You know the commandments, Do not commit adultery, Do not kill, Do not steal, Do not bear false witness, Honor your father and mother.
-\v 21 And he said, All these things I have observed from my youth up.
+\v 18 And a certain ruler asked him, saying, "Good teacher, what must I do to inherit eternal life?"
+\v 19 And Jesus said to him, "Why do you call me good? No one is good, except God alone.
+\v 20 You know the commandments: do not commit adultery, do not kill, do not steal, do not testify falsely, honor your father and mother."
+\v 21 And he said, "All these things I have obeyed from the time I was a youth."
 </usfm>
 
 
 ===== Important Terms: =====
 
-  * example
-  * example
-  * example
-  * example
- 
-
+  * [[:en:bible:notes:key-terms:good|good]]
+  * [[:en:bible:notes:key-terms:teacher|teacher]]
+  * [[:en:bible:notes:key-terms:eternallife|eternal life]]
+  * [[:en:bible:notes:key-terms:tencommandments|commandments]]
+  * [[:en:bible:notes:key-terms:adultery|adultery]]
+  * [[:en:bible:notes:key-terms:obey|obey]]
 ===== Translation Notes: =====
 
 
+    * **good teacher-** Or, "worthy to be listened to and obeyed"
+    * **what must I do**  - That is, "what do I need to do" or "what is required of me"
+    * **No one is good, **-That is, "No person is good," or "No human is good,"
+    * **do not kill,**  - That is, "do not murder,"
+    * **All these things - **  This could be translated, "All of these commandments"
     * **bold words**  - explanation
-    * **bold words**  - explanation
-    * **bold words**  - explanation
-    * **bold words**  - explanation
-    * **bold words**  - explanation
-    * **bold words**  - explanation
-  
+
 ===== Links: =====
 
-  * **[[en/bible/notes:luk/questions/comprehension/18|Luke Chapter 18 Checking Questions]]**
+  * **[[en/bible/notes:luk/questions/comprehension/18|Luke Chapter 18 Comprehension Questions]]**
   * **[[en/bible/notes:luk/questions/checking/Luke-checking|Luke Checking Questions]]**
 
  
@@ -63,4 +63,5 @@
 
 ~~DISCUSSION~~
 
-{{tag>draft}}
+
+{{tag>draft teacher eternallife obey}}

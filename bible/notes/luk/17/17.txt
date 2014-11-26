@@ -16,9 +16,9 @@
 ===== UDB: =====
 
 <usfm>
-\v 17 Then Jesus said, "I healed ten lepers! I am disappointed that the other nine did not come back!
-\v 18 I am disappointed  that this non-Jewish man was the only one who returned to thank God; none of the others came back to me!"
-\v 19 Then he said to the man, "Get up and continue on your journey. God  because you trusted in me."
+\v 17 Then Jesus said, "I healed ten lepers! Why did the other nine not come back?
+\v 18 This foreign man was the only one who returned to thank God; none of the others came back!"
+\v 19 Then he said to the man, "Get up and go on your way. God has healed you because you trusted in me."
 
 
 \p
@@ -28,33 +28,33 @@
 ===== ULB: =====
 
 <usfm>
-\v 17 And Jesus answering said, Were not the ten cleansed? but where are the nine?
-\v 18 Were there none found that returned to give glory to God, except this stranger?
-\v 19 And he said to him, Arise, and go your way: your faith has made you whole.
+\v 17 And Jesus, answering, said, "Were not the ten cleansed? And where are the nine?
+\v 18 Were there no others that returned to give glory to God, except this foreigner?"
+\v 19 And he said to him, "Arise, and go; your faith has healed you."
 </usfm>
 
 
 ===== Important Terms: =====
 
-  * example
-  * example
-  * example
-  * example
+  * [[:en:bible:notes:key-terms:glory|glory]]
+  * [[:en:bible:notes:key-terms:faith|faith]]
+  * [[:en:bible:notes:key-terms:heal|heal]]
  
 
 ===== Translation Notes: =====
 
 
-    * **bold words**  - explanation
-    * **bold words**  - explanation
-    * **bold words**  - explanation
-    * **bold words**  - explanation
-    * **bold words**  - explanation
-    * **bold words**  - explanation
-  
+    * **And Jesus answering. said**  - This can be translated as "Then Jesus replied," or "Then Jesus answered."
+    * **Were not the ten cleansed? **- This is a rhetorical question expecting an affirmative answer. This can be translated as "Ten were healed of leprosy," or "Ten lepers were cured of their leprosy."
+    * **And where are the nine?**- This can be translated as "But where are the other nine who were cured of leprosy?"
+    * **Were there no others that returned to give glory to God except this foreigner? **- A rhetorical question expecting an affirmative answer. This can be translated as "There were no others that came back to give glory to God except this foreigner" or "No one else came back to give glory to God except this foreigner" or in question form, "Were there no one else that came back except this foreigner?"
+    * **foreigner**  - The Samaritan was considered a foreigner by the Jews because they were a mixed group with both Jewish and non Jewish ancestors.
+    * **Arise and go**- This can be translated as "Stand up and go" or "Get up and go your way."
+    * **your faith has healed you**  - If this refers to something more than his physical healing, this could be translated as "your faith has saved you." If this refers to his healing of leprosy, this can also be translated as "your faith has cured you from leprosy."
+
 ===== Links: =====
 
-  * **[[en/bible/notes:luk/questions/comprehension/17|Luke Chapter 17 Checking Questions]]**
+  * **[[en/bible/notes:luk/questions/comprehension/17|Luke Chapter 17 Comprehension Questions]]**
   * **[[en/bible/notes:luk/questions/checking/Luke-checking|Luke Checking Questions]]**
 
  
@@ -63,4 +63,5 @@
 
 ~~DISCUSSION~~
 
-{{tag>draft}}
+
+{{tag>draft glory faith}}

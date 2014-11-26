@@ -16,9 +16,9 @@
 ===== UDB: =====
 
 <usfm>
-\v 23 But they kept insisting. They shouted loudly that Jesus should be nailed  so loudly,
-\v 24 Pilate decided to do what they requested.
-\v 25 The man who had been  put in prison because he had rebelled against the government and who had murdered someone, he released! That was the man whom the crowd had asked him to release. He put Jesus into the hands of the soldiers, to do what the crowd wanted.
+\v 23 But they kept insisting with loud voices that Jesus should be die on a cross. Finally, because they continued to shout so loudly, persuaded Pilate
+\v 24 to do what they requested.
+\v 25 So he set free the man who was in prison because he had fought against the government and murdered people! He then commanded the soldiers to take Jesus and do what the crowd wanted.
 
 
 \p
@@ -28,18 +28,18 @@
 ===== ULB: =====
 
 <usfm>
-\v 23 But they were urgent with loud voices, asking that he might be crucified. And their voices prevailed.
-\v 24 And Pilate gave sentence that what they asked for should be done.
-\v 25 And he released him that for rioting and murder had been cast into prison, whom they asked for; but Jesus he delivered up to their will.
+\v 23 But they were insistent with loud voices, demanding for him to be crucified. And their voices convinced Pilate.
+\v 24 So Pilate decided to grant their demand. 
+\v 25 And he released the one they asked for who had been put in prison for rioting and murder. But he delivered up Jesus to their will.
 </usfm>
 
 
 ===== Important Terms: =====
 
-  * example
-  * example
-  * example
-  * example
+  * [[:en:bible:notes:key-terms:crucify|crucified]]
+  * [[:en:bible:notes:key-terms:pilate|Pilate]]
+  * [[:en:bible:notes:key-terms:prison|prison]]
+  * [[:en:bible:notes:key-terms:jesus|Jesus]]
  
 
 ===== Translation Notes: =====
@@ -54,7 +54,7 @@
   
 ===== Links: =====
 
-  * **[[en/bible/notes:luk/questions/comprehension/23|Luke Chapter 23 Checking Questions]]**
+  * **[[en/bible/notes:luk/questions/comprehension/23|Luke Chapter 23 Comprehension Questions]]**
   * **[[en/bible/notes:luk/questions/checking/Luke-checking|Luke Checking Questions]]**
 
  
@@ -63,4 +63,5 @@
 
 ~~DISCUSSION~~
 
-{{tag>draft}}
+
+{{tag>draft pilate}}

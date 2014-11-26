@@ -13,9 +13,9 @@
 ===== UDB: =====
 
 <usfm>
-\v 22 Jesus said to his disciples, "There will be a time when you will want to see me , the one who came from heaven, ruling powerfully. But you will not see that.
-\v 23 Some people will say to you, 'Look, the Messiah is over there!' or they will say 'Look, he is here!' When they say that, do not believe them. Do not follow them to go see the Messiah.
-\v 24 Because when the lightning flashes and lights up the sky from one side to the other, everyone can see it. Similarly  when I, the one who came from heaven, come back again, everyone will see me.
+\v 22 Jesus said to his disciples, "There will be a time when you will want to see me, the Son of Man, ruling powerfully. But you will not see that.
+\v 23 People will say to you, 'Look, the Messiah is over there!' or they will say 'Look, he is here!' When they say that, do not follow them.
+\v 24 Because when the lightning flashes and lights up the sky from one side to the other, everyone can see it. Similarly  when I, the Son of Man, come back again, everyone will see me.
 </usfm>
 
 
@@ -23,33 +23,32 @@
 
 <usfm>
 \p
-\v 22 And he said to the disciples, The days will come, when you shall desire to see one of the days of the Son of man, and you shall not see it.
-\v 23 And they shall say to you, Look, there! Look, here! go not away dont go looking, nor follow after them:
-\v 24 for as the lightning, when it shines out of the one part under the heaven, shines to the other part under heaven; so shall the Son of man be in his day.
+\v 22 And he said to the disciples, "The days will come when you will desire to see one of the days of the Son of Man, but you will not see it.
+\v 23 And they will say to you, 'Look, there! Look, here!' Don't go looking, nor follow after them,
+\v 24 for as the lightning appears when it flashes from one part of the sky to another part of the sky, so will the Son of Man be in his day.
 </usfm>
 
 
 ===== Important Terms: =====
 
-  * example
-  * example
-  * example
-  * example
- 
+  * [[:en:bible:notes:key-terms:disciple|disciple]]
+  * [[:en:bible:notes:key-terms:sonofman|Son of Man]]
+
 
 ===== Translation Notes: =====
 
 
-    * **bold words**  - explanation
-    * **bold words**  - explanation
-    * **bold words**  - explanation
-    * **bold words**  - explanation
-    * **bold words**  - explanation
-    * **bold words**  - explanation
-  
+    * **And he said**  - That is, "And Jesus said."
+    * **The days will come**  - This could also be translated as "A time will come" or "Someday in the future."
+    * **to see one of the days of the Son of Man-**  Or, "the Messiah, ruling powerfully"
+    * **Don't go looking**  - That is, "Don't go looking for the Son of Man."
+    * **nor follow after them**  - That is, "and don't follow after them."
+    * **for as the lightning appears**  - This is a simile. It could also be translated as "for as the lightning is visible to everyone when it appears and" or "for as the lightning appears suddenly" (See [[:en:ta:figuresofspeech:simile|Similes]])
+    * **so will the Son of Man be in his day**  - The title "Son of Man" is Jesus description of himself. The picture here is of Jesus' second coming with he comes with power and great glory.
+
 ===== Links: =====
 
-  * **[[en/bible/notes:luk/questions/comprehension/17|Luke Chapter 17 Checking Questions]]**
+  * **[[en/bible/notes:luk/questions/comprehension/17|Luke Chapter 17 Comprehension Questions]]**
   * **[[en/bible/notes:luk/questions/checking/Luke-checking|Luke Checking Questions]]**
 
  
@@ -58,4 +57,5 @@
 
 ~~DISCUSSION~~
 
-{{tag>draft}}
+
+{{tag>draft sonofman}}

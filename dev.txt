@@ -35,5 +35,3 @@ This is not an exhaustive list but just a few pointers to keep us on the same pa
     * Use existing code whenever possible.  If someone has already done what you are trying to do, or even something slightly similar, see if you can use that first (of course check the license).
     * We tend to license our code with a BSD/MIT style license, when possible.
     * In terms of license assignment and identification, use something very similar to what you see at the top of https://github.com/Door43/tools/blob/master/uwb/t4t2dw.py.
-
-test

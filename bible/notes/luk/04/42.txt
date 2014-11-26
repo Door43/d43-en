@@ -22,27 +22,33 @@
 ===== ULB: =====
 
 
-<usfm> \v 42 When daybreak came, he went out into a solitary place. Crowds of people were looking for him and came to the place where he was. They tried to keep him from going away from them. \v 43 But he said to them, "I must also preach the good news about the kingdom of God to many other cities, because this is the reason I was sent here. \v 44 And he continued to preach in the synagogues throughout the province of Judea. </usfm>
+<usfm>
+\p 
+\v 42 When daybreak came, he went out into a solitary place. Crowds of people were looking for him and came to the place where he was. They tried to keep him from going away from them. 
+\v 43 But he said to them, "I must also preach the good news about the kingdom of God to many other cities, because this is the reason I was sent here."
+\p 
+\v 44 And he continued to preach in the synagogues throughout the province of Judea.
+</usfm>
 
 ===== Important Terms: =====
 
     * [[:en:bible:notes:key-terms:pray|pray]]
     * [[:en:bible:notes:key-terms:preach|preach]]
     * [[:en:bible:notes:key-terms:goodnews|good news]]
-    * [[:en:bible:notes:key-terms:Kingdomofgod|Kingdom of God]]
+    * [[:en:bible:notes:key-terms:kingdomofgod|Kingdom of God]]
     * [[:en:bible:notes:key-terms:synagogue|synagogue]]
     * [[:en:bible:notes:key-terms:judea|Judea]]
 
 ===== Translation Notes: =====
 
 
-    * **daybreak**  - That is, "sunrise" or "dawn."
-    * **to a solitary place **- That is, he went to a place where no other people lived. It was a place outside the village, but not a cultivated field.
-    * **They kept urging him**  - They repeatedly said to him, or several people in the crowd said to him. Or, "they were restraining" him.
-
+    * **When daybreak came**  - That is, "At sunrise" or "At dawn" or "Early the next morning." (UDB)
+    * **a solitary place** - That is, "a deserted place" or "a place where no people lived" or "a place where there were no people."
+    * **to many other cities** - That is, "to the people in many other cities."
+    * **this is the reason I was sent here** - That is, "this is what I was sent to do" (UDB). It could also be translated with an active clause as in "this is the reason God sent me here." (See: [[en:ta:vocabulary:active|Active or Passive]])
 ===== Links: =====
 
-  * **[[en/bible/notes:luk/questions/comprehension/04|Luke Chapter 04 Checking Questions]]**
+  * **[[en/bible/notes:luk/questions/comprehension/04|Luke Chapter 04 Comprehension Questions]]**
   * **[[en/bible/notes:luk/questions/checking/Luke-checking|Luke Checking Questions]]**
 
  
@@ -51,4 +57,4 @@
 
 ~~DISCUSSION~~
 
-{{tag>draft}}
+{{tag>publish preach judea}}

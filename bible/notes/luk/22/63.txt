@@ -17,7 +17,7 @@
 
 <usfm>
 \v 63 The men who were guarding Jesus made fun of him and beat him.
-\v 64 They put a blindfold on him and beat him again. Then they said to him, "Because you that you are a prophet, prove it by telling us who it was that struck you!"
+\v 64 They put a blindfold on him and said to him, "Show us that you are a prophet! Tell us who it was that struck you!"
 \v 65 They said many other evil things about him, insulting him.
 
 
@@ -29,18 +29,18 @@
 
 <usfm>
 \p
-\v 63 And the men that held Jesus mocked him, and beat him.
-\v 64 And they blindfolded him, and asked him, saying, Prophesy: who is he that struck thee?
-\v 65 And many other things spoke they against him, blaspheming him.
+\v 63 And the men guarding Jesus mocked and beat him.
+\v 64 After blindfolding him, they asked him, saying, "Prophesy! Who is the one that hit you?"
+\v 65 And they spoke many other things against him, blaspheming him.
 </usfm>
 
 
 ===== Important Terms: =====
 
-  * example
-  * example
-  * example
-  * example
+  * [[:en:bible:notes:key-terms:jesus|Jesus]]
+  * [[:en:bible:notes:key-terms:mock|mock]]
+  * [[:en:bible:notes:key-terms:prophet|prophesy]]
+  * [[:en:bible:notes:key-terms:blasphemy|blaspheming]]
  
 
 ===== Translation Notes: =====
@@ -55,7 +55,7 @@
   
 ===== Links: =====
 
-  * **[[en/bible/notes:luk/questions/comprehension/22|Luke Chapter 22 Checking Questions]]**
+  * **[[en/bible/notes:luk/questions/comprehension/22|Luke Chapter 22 Comprehension Questions]]**
   * **[[en/bible/notes:luk/questions/checking/Luke-checking|Luke Checking Questions]]**
 
  
@@ -64,4 +64,5 @@
 
 ~~DISCUSSION~~
 
-{{tag>draft}}
+
+{{tag>draft mock blasphemy}}

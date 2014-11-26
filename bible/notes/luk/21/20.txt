@@ -13,9 +13,9 @@
 ===== UDB: =====
 
 <usfm>
-\v 20 "But when you see that Jerusalem has been surrounded by the armies of your enemies, you will know that it is the time for this city to be completely destroyed .
-\v 21 At that time those of you who are in Judea district must flee to the higher hills. Those who are in this city must leave quickly. Those who are in the nearby countryside must not go back into the city to get any of their possessions before they flee.
-\v 22 You must obey what I tell you because, in order that all the things that are writtenin the Scriptures will be fulfilled, God will very severely punish the people who stay in this city.
+\v 20 "When you see Jerusalem surrounded by armies, then you will know that they will soon destroy this city.
+\v 21 At that time those of you who are in the region of Judea must flee to the mountains. And those of you who are in this city must leave. Those of you who are in the nearby countryside must not come into the city.
+\v 22 For this will be the time when God will punish this city; when he does, the words in the Scriptures will come true.
 </usfm>
 
 
@@ -23,18 +23,20 @@
 
 <usfm>
 \p
-\v 20 But when you see Jerusalem surrounded with armies, then know that her destruction is at hand.
-\v 21 Then let them that are in Judaea flee to the mountains; and let them that are in the midst of her depart out; and let not them that are in the country enter in there.
-\v 22 For these are days of vengeance, that all things which are written may be fulfilled.
+\v 20 But when you see Jerusalem surrounded by armies, then know that its destruction is near.
+l
+\v 21 Then let those in Judea flee to the mountains, and let those that are in the middle of the city leave,  and do not let those that are in the country enter it.
+\v 22 For these are days of justice, so that all the things that are written will be fulfilled.
 </usfm>
 
 
 ===== Important Terms: =====
 
-  * example
-  * example
-  * example
-  * example
+  * [[:en:bible:notes:key-terms:jerusalem|Jerusalem]]
+  * [[:en:bible:notes:key-terms:judea|Judea]]
+  * [[:en:bible:notes:key-terms:justice|justice]]
+  * [[:en:bible:notes:key-terms:written|written]]
+  * [[:en:bible:notes:key-terms:fulfill|fulfill]]
  
 
 ===== Translation Notes: =====
@@ -49,7 +51,7 @@
   
 ===== Links: =====
 
-  * **[[en/bible/notes:luk/questions/comprehension/21|Luke Chapter 21 Checking Questions]]**
+  * **[[en/bible/notes:luk/questions/comprehension/21|Luke Chapter 21 Comprehension Questions]]**
   * **[[en/bible/notes:luk/questions/checking/Luke-checking|Luke Checking Questions]]**
 
  
@@ -58,4 +60,5 @@
 
 ~~DISCUSSION~~
 
-{{tag>draft}}
+
+{{tag>draft written justice}}

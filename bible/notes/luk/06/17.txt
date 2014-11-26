@@ -22,7 +22,7 @@
 ===== ULB: =====
 
 <usfm>
-\v 17 Then Jesus came down the mountain with them, and stood on a level place. A large crowd of his disciples was there, as well as a large number of the people from Judea and Jerusalem, and from the sea coast of Tyre and Sidon, who had come to hear him teach and to be healed of their diseases.
+\v 17 Then Jesus came down the mountain with them and stood on a level place. A large crowd of his disciples was there, as well as a large number of the people from Judea and Jerusalem, and from the sea coast of Tyre and Sidon, who had come to hear him teach and to be healed of their diseases.
 \v 18 People who were troubled with unclean spirits were also healed.
 \v 19 And everyone in the crowd kept trying to touch him because power to heal was coming out from him, and he healed them all.
 </usfm>
@@ -31,37 +31,36 @@
 ===== Important Terms: =====
 
 
-    * Jesus
-    * disciple
-    * Judea
-    * Jerusalem
-    * Tyre
-    * Sidon
-    * healed (link to heal)
-    * unclean spirits
-    * power
+    * [[:en:bible:notes:key-terms:jesus|Jesus]]
+    * [[:en:bible:notes:key-terms:disciple|disciple]]
+    * [[:en:bible:notes:key-terms:judea|Judea]]
+    * [[:en:bible:notes:key-terms:jerusalem|Jerusalem]]
+    * [[:en:bible:notes:key-terms:tyre|Tyre]]
+    * [[:en:bible:notes:key-terms:sidon|Sidon]]
+    * [[:en:bible:notes:key-terms:heal|healed]]
+    * [[:en:bible:notes:key-terms:demon|unclean spirits]]
+    * [[:en:bible:notes:key-terms:power|power]]
 
 ===== Translation Notes: =====
 
 
-    * **with them **- That is the twelve who were chosen.
-    * **stood on a level place**  - That is, "stood on a flat place," or "stood on a place that is a flat surface."t
-    * **also healed**-That is, "were being healed"
-    * **power to heal was coming out from him**  -The power to heal was present in the very being of Christ and those who touched him in faith were healed.
-    * **bold words**  - explanation
-    * **bold words**  - explanation
-    * **bold words**  - explanation
-    * **bold words**  - explanation
-
+    * **with them** - "with the twelve he had chosen" or "with his twelve apostles"
+    * **and to be healed** - This could also be translated with the active voice as "and for Jesus to heal them."  If it is not clear to your readers that Jesus actually healed them, you could make it explicit by saying "and Jesus healed them." (See [[en:ta:vocabulary:active|Active or Passive]], [[en:ta:vocabulary:implicitexplicit|Explicit and Implicit Information]])
+    * **who were troubled with unclean spirits** - "who were bothered by unclean spirits" or "whom evil spirits had troubled (UDB). This could also be translated as "who were controlled by unclean spirits" or "who were held captive by unclean spirits."
+    * **were also healed** - This could also be translated with the active voice as "Jesus also healed." If it is not natural to talk about people being healed from unclean spirits, this could also be translated as "Jesus set them free" or "Jesus made the evil spirits leave them."
+    * **power to heal was coming out from him** - This could also be translated as "he had power to heal people." Jesus did not lose any power when power went out from him.
+  
 ===== Links: =====
 
-  * **[[en/bible/notes:luk/questions/comprehension/06|Luke Chapter 06 Checking Questions]]**
+  * **[[en/bible/notes:luk/questions/comprehension/06|Luke Chapter 06 Comprehension Questions]]**
   * **[[en/bible/notes:luk/questions/checking/Luke-checking|Luke Checking Questions]]**
 
  
 
 **[[en/bible/notes/luk/06/14|<<]] | [[en/bible/notes/luk/06/20|>>]]**
 
+
 ~~DISCUSSION~~
 
-{{tag>draft}}
+
+{{tag>discuss heal power}}

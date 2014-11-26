@@ -16,9 +16,9 @@
 ===== UDB: =====
 
 <usfm>
-\v 3 Pilate asked him, "Do you claim that you are the King of the Jews?" He replied, "It is as you have just now said."
-\v 4 Pilate said to the chief priests and the rest of the crowd, "I do not conclude that this man is guilty of any crime."
-\v 5 But they kept insisting, saying, "He is inciting the people to riot! He has been teaching his ideas throughout all of Judea district. He started doing it in Galilee district and now he is doing it here!"
+\v 3 Pilate then asked him, "Are you the King of the Jews?" Jesus replied, "Yes, it is just as you have asked me."
+\v 4 Then Pilate said to the chief priests and to the crowd, "This man is not guilty of any crime."
+\v 5 But they kept on accusing Jesus; they said, "He is trying to get the people to riot! He has been teaching his ideas throughout all of the region of Judean. He started doing this in the region of Galilee and now he is doing it here, also!"
 
 
 \p
@@ -28,18 +28,19 @@
 ===== ULB: =====
 
 <usfm>
-\v 3 And Pilate asked him, saying, Are you the King of the Jews? And he answered him and said, You say so.
-\v 4 And Pilate said to the chief priests and the multitudes, I find no fault in this man.
-\v 5 But they were insisting, saying, He stirs up the people, teaching throughout all Judaea, and beginning from Galilee even to this place.
+\v 3 And Pilate asked him, saying, "Are you the King of the Jews?" And he answered him and said, "You say so."
+\v 4 And Pilate said to the chief priests and the multitudes, "I find no fault in this man."
+\v 5 But they were insisting, saying, "He stirs up the people, teaching throughout all Judea, and beginning from Galilee even to this place."
 </usfm>
 
 
 ===== Important Terms: =====
 
-  * example
-  * example
-  * example
-  * example
+  * [[:en:bible:notes:key-terms:pilate|Pilate]]
+  * [[:en:bible:notes:key-terms:kingofthejews|King of the Jews]]
+  * [[:en:bible:notes:key-terms:priest|priests]]
+  * [[:en:bible:notes:key-terms:judea|Judea]]
+  * [[:en:bible:notes:key-terms:galilee|Galilee]]
  
 
 ===== Translation Notes: =====
@@ -54,7 +55,7 @@
   
 ===== Links: =====
 
-  * **[[en/bible/notes:luk/questions/comprehension/23|Luke Chapter 23 Checking Questions]]**
+  * **[[en/bible/notes:luk/questions/comprehension/23|Luke Chapter 23 Comprehension Questions]]**
   * **[[en/bible/notes:luk/questions/checking/Luke-checking|Luke Checking Questions]]**
 
  
@@ -63,4 +64,5 @@
 
 ~~DISCUSSION~~
 
-{{tag>draft}}
+
+{{tag>draft kingofthejews}}

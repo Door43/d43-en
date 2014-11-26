@@ -13,9 +13,9 @@
 ===== UDB: =====
 
 <usfm>
-\v 35 As Jesus and his disciples came near to Jericho city, a blind man was sitting beside the road. He was begging for money.
+\v 35 As Jesus and his disciples came near to the city of Jericho, a blind man was sitting beside the road. He was begging for money.
 \v 36 When he heard the crowd of people passing by, he asked someone, "What is happening?"
-\v 37 They told him, "Jesus, the man from Nazareth town, is passing by."
+\v 37 They told him, "Jesus, the man from the town of Nazareth, is passing by."
 </usfm>
 
 
@@ -23,33 +23,32 @@
 
 <usfm>
 \p
-\v 35 And it came to pass, as he drew near to Jericho, a certain blind man sat by the way side begging:
-\v 36 and hearing a crowd going by, he inquired what this meant.
-\v 37 And they told him, that Jesus of Nazareth passes by.
+\v 35 And it came about that, as he drew near to Jericho, a certain blind man was sitting by the road begging;
+\v 36 and hearing a crowd going by, he asked what was happening.
+\v 37 And they told him that Jesus of Nazareth was passing by.
 </usfm>
 
 
 ===== Important Terms: =====
 
-  * example
-  * example
-  * example
-  * example
+  * [[:en:bible:notes:key-terms:jericho|Jericho]]
+  * [[:en:bible:notes:key-terms:beg|begging]]
+  * [[:en:bible:notes:key-terms:jesus|Jesus]]
  
 
 ===== Translation Notes: =====
 
+  * **<font 14px line-height: 19px; text-align: justify; text-indent: 17.5px;/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19px; text-align: justify; text-indent: 17.5px;;;#ffffff>Jesus of Nazareth</font> **- Jesus came from the town of Nazareth that was located in Galilee.
+  * **a certain blind man**  - This can also be translated, "Some blind man" or "a blind man"
+  * **and hearing a crowd going by**  - This can also be translated, "Because he heard a crowd going by"
+  * **and they told him**  - that is, people in the crowd told the blind man
+  * **drew near to - **  That is, "was approaching"
+  * **begging; and hearing**  - That is, "begging. Hearing"
+  * **Nazareth was passing by**. - That is, "Nazareth was walking past him."
 
-    * **bold words**  - explanation
-    * **bold words**  - explanation
-    * **bold words**  - explanation
-    * **bold words**  - explanation
-    * **bold words**  - explanation
-    * **bold words**  - explanation
-  
 ===== Links: =====
 
-  * **[[en/bible/notes:luk/questions/comprehension/18|Luke Chapter 18 Checking Questions]]**
+  * **[[en/bible/notes:luk/questions/comprehension/18|Luke Chapter 18 Comprehension Questions]]**
   * **[[en/bible/notes:luk/questions/checking/Luke-checking|Luke Checking Questions]]**
 
  
@@ -58,4 +57,5 @@
 
 ~~DISCUSSION~~
 
-{{tag>draft}}
+
+{{tag>draft Jericho}}

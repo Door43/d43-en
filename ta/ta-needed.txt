@@ -1,22 +1,15 @@
-===== Translation Academy Topics to Do ======
+===== Translation Academy Topics to Do =====
 
 The following pages are tagged with the "talink" code and contain a tA link that may require a creation of a module:
 
-
-{{topic>talink}}\\
-\\
-
-
+{{topic>talink&nocomments}}
 
 == Draft Content for "Topic" Page: ==
-
 
 <code>
 ====== topic ======
 
-
 ===== Definition: =====
-
 
 Text
     * bullet
@@ -24,40 +17,28 @@ Text
 
 (See also: [[:en:ta:xxxx]])
 
-
-
 {{tag>draft}}
 
 ~~DISCUSSION~~
 </code>
 
-Please be sure to pdate the [[https://docs.google.com/a/wycliffeassociates.org/spreadsheets/d/19YzXJ17CWRq6gLB_wSv85QvYM4aJ5N_Xe1imKkJ3A8M/edit?usp=sharing|Translation Studio Topics Process]] list on Google Drive during this process.\\
-
+Please be sure to pdate the [[https://docs.google.com/a/wycliffeassociates.org/spreadsheets/d/19YzXJ17CWRq6gLB_wSv85QvYM4aJ5N_Xe1imKkJ3A8M/edit?usp=sharing|Translation Studio Topics Process]] list on Google Drive during this process.
 
 ==== Draft tA Pages to Edit ====
 
 The following pages are tagged as "draft" and need to be edited by the team:
 
-
-{{topic>en:ta?draft}}
-
-
+{{topic>en:ta?draft&nocomments}}
 
 ==== Edited tA Pages to Review ====
 
 The following pages are tagged as "review" and need final review and then to be published:
 
-
-{{topic>en:ta?review}}
-
+{{topic>en:ta?review&nocomments}}
 
 === Followup ===
 
 After you have published the module:
 
+  * Edit the link to the tA page in the Bible chunk page
   * Remove the tag from the Bible text page (leave any "ktlink" tags)
-  * Update the [[https://docs.google.com/a/wycliffeassociates.org/spreadsheets/d/19YzXJ17CWRq6gLB_wSv85QvYM4aJ5N_Xe1imKkJ3A8M/edit?usp=sharing|Translation Studio Topics Process]] list on Google Drive.\\
-   
-   
- 
-   

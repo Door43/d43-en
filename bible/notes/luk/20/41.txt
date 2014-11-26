@@ -20,11 +20,11 @@
 ===== UDB: =====
 
 <usfm>
-\v 41 Later he said to them, "I will show you
-\v 42 Because David himself wrote in the book of Psalms about the Messiah,
+\v 41 Later Jesus said to them, "I will show you that when people say that the Messiah is only a descendant of King David, they are wrong!
+\v 42 David himself wrote in the book of Psalms about the Messiah,
 \q God said to my Lord,
-\q Sit here beside me on my right, where I will highly honor you.
-\v 43 Sit here while I completely defeat your enemies.
+\q 'Sit here beside me at my right, where I will highly honor you.
+\v 43 Sit here while I completely defeat your enemies.'
 \p
 \v 44 King David calls the Messiah 'my Lord'! So the Messiah cannot be just someone descended from King David! What I just said proves that he is much greater than David, isn't that right?"
 
@@ -37,38 +37,42 @@
 
 <usfm>
 \p
-\v 41 And he said to them, How say they that the Christ is David’s son?
+\v 41 And he said to them, "How do they say that the Christ is David’s son?
 \v 42 For David himself says in the book of Psalms, 
 \q The Lord said to my Lord,
-\q Sit you on my right hand,
+\q 'Sit on my right hand,
 \q
-\v 43 Till I make your enemies the footstool of your feet.
+\v 43 till I make your enemies your footstool.'
 \m
-\v 44 David therefore calls him Lord, and how is he his son?
+\v 44 David therefore calls him 'Lord', and how is he his son?"
 </usfm>
 
 
 ===== Important Terms: =====
 
-  * example
-  * example
-  * example
-  * example
- 
+  * [[:en:bible:notes:key-terms:christ|Christ]]
+  * [[:en:bible:notes:key-terms:david|David]]
+  * [[:en:bible:notes:key-terms:son|son]]
+  * [[:en:bible:notes:key-terms:lord|Lord]]
+
 
 ===== Translation Notes: =====
 
-
-    * **bold words**  - explanation
-    * **bold words**  - explanation
-    * **bold words**  - explanation
-    * **bold words**  - explanation
-    * **bold words**  - explanation
-    * **bold words**  - explanation
-  
+  * **And he said to them**  - That is, "Jesus said to the scribes."
+  * **How do they say** - This is a rhetorical question. It could also be translated as "Why do they say" or "Let's think about them saying" or "I will talk about them saying." (See: [[en:ta:figuresofspeech:rhetoricalquestion|Rhetorical Questions]])
+  * **David's son** - That is, "King David's descendant." The word "son" is used to refer to a descendant. (See: [[en:ta:figuresofspeech:synecdoche|Synecdoche]]). In this case it refers to the descendant that would be the Christ, the one who would reign over God's kingdom.
+  * **The Lord said to my Lord** - This could also be translated as "The Lord God said to my Lord" or "God said to my Lord". The book of Psalms was written in Hebrew, which said "Yahweh said to my Lord." Yahweh is God's name. When Jesus was speaking, the Jews would say the word "Lord" instead of "Yahweh." 
+  * **my Lord** - The word "my" refers to David.
+  * **my right hand** - The word "my" refers to Yahweh.
+  * **footstool**  - A footstool is something someone rests their feet on.
+  * **till I make your enemies your footstool** - This is a metaphor. It could also be translated as "till I make your enemies like a footstool for you" or "till I conquer your enemies for you." (See: [[en:ta:figuresofspeech:metaphor|Metaphor]])
+  * **David therefore calls him Lord**  - That is, "So David called the Christ Lord."
+  * **how is he his son**  - That is "how can the Christ be David's son?" This is a rhetorical question.  This whole sentence could also be translated as "Since David calls the Christ Lord, the Christ is not merely David's descendant."
+  * **bold words**  - explanation
+  * **bold words**  - explanation
 ===== Links: =====
 
-  * **[[en/bible/notes:luk/questions/comprehension/20|Luke Chapter 20 Checking Questions]]**
+  * **[[en/bible/notes:luk/questions/comprehension/20|Luke Chapter 20 Comprehension Questions]]**
   * **[[en/bible/notes:luk/questions/checking/Luke-checking|Luke Checking Questions]]**
 
  
@@ -77,4 +81,5 @@
 
 ~~DISCUSSION~~
 
-{{tag>draft}}
+
+{{tag>draft christ david}}

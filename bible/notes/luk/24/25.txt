@@ -14,8 +14,8 @@
 ===== UDB: =====
 
 <usfm>
-\v 25 He said to them, "You two foolish men! You are so slow to believe all that the prophets have written about the Messiah!
-\v 26 You should certainly have known that it was necessary that the Messiah should suffer all those things and die, and then enter his glorious home in heaven!"
+\v 25 He said to them, "You two foolish men! You are so slow to believe all that the prophets have written about Jesus the Messiah!
+\v 26 You should certainly have known that it was necessary that Jesus the Messiah should suffer all those things and die, and then enter his glorious home in heaven!"
 \v 27 Then he explained to them all the things that the prophets had written in the Scriptures about himself. He started with what Moses  wrote and then explained to them what all the other prophets wrote.
 
 
@@ -26,18 +26,19 @@
 ===== ULB: =====
 
 <usfm>
-\v 25 And he said to them, O foolish men, and slow of heart to believe in all that the prophets have spoken!
-\v 26 Behooved it not the Christ to suffer these things, and to enter into his glory?
+\v 25 And he said to them, "Oh foolish men and slow of heart to believe in all that the prophets have spoken!
+\v 26 Was it not necessary for the Christ to suffer these things, and to enter into his glory?"
 \v 27 And beginning from Moses and from all the prophets, he interpreted to them in all the scriptures the things concerning himself.
 </usfm>
 
 
 ===== Important Terms: =====
 
-  * example
-  * example
-  * example
-  * example
+  * [[:en:bible:notes:key-terms:prophet|prophets]]
+  * [[:en:bible:notes:key-terms:christ|Christ]]
+  * [[:en:bible:notes:key-terms:glory|glory]]
+  * [[:en:bible:notes:key-terms:moses|Moses]]
+  * [[:en:bible:notes:key-terms:scripture|scriptures]]
  
 
 ===== Translation Notes: =====
@@ -52,7 +53,7 @@
   
 ===== Links: =====
 
-  * **[[en/bible/notes:luk/questions/comprehension/24|Luke Chapter 24 Checking Questions]]**
+  * **[[en/bible/notes:luk/questions/comprehension/24|Luke Chapter 24 Comprehension Questions]]**
   * **[[en/bible/notes:luk/questions/checking/Luke-checking|Luke Checking Questions]]**
 
  
@@ -61,4 +62,5 @@
 
 ~~DISCUSSION~~
 
-{{tag>draft}}
+
+{{tag>draft scripture}}

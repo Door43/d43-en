@@ -21,7 +21,7 @@
 
 <usfm>
 \v 3 And the devil said to him, "If you are the Son of God, command this stone to become bread." 
-\v 4 And Jesus answered him, "It is written, 'Mankind cannot live on bread alone.'"
+\v 4 And Jesus answered him, "It is written, 'Man will not live on bread alone.'"
 </usfm>
 
 
@@ -30,19 +30,18 @@
 
     * [[:en:bible:notes:key-terms:satan|devil]]
     * [[:en:bible:notes:key-terms:sonofgod|Son of God]]
+    * [[:en:bible:notes:key-terms:wordofgod|scriptures]]
     * [[:en:bible:notes:key-terms:bread|bread]]
-
 ===== Translation Notes: =====
 
 
-    * **If you are the Son of God **- That is, "if you are really the Son of God." The Greek text words this phrase, “If you are the Son of God” or “If a Son you are of God.” This emphasizes the word “Son” and could be translated as “If God really fathered you.” This was a challenge meaning "assuming you are indeed the Son of God, show it to me" or "you claim that you are the Son of God, do this." Others see the phrase as a recognition, such as "since you are the Son of God."
-    * **command this stone to become bread**  - This literally means "speak to this stone so that it might become bread" and could be translated as "tell this stone to become bread." The devil was either holding the stone in his hand or pointing to a nearby stone.
-    * **It is written**  - Rather, "it has been written." This implies authority and truthfulness, such as "it is written in the Scriptures" or "it is written in the authoritative Scriptures."
-    * **"Mankind cannot live on bread alone"**  - This literally means "A human being will not live on just bread" and could be translated as "It is not just bread that makes a person live." Bread was a staple food, something common to meet physical needs. Here "bread" is used to refer to food in general. If people would understand it as saying that bread is not the only food that people need to eat, it could also be translated as "food." (See: [[:en:ta:figuresofspeech:synecdoche|Synecdoche]]).
-
+    * **If you are the Son of God** - The devil was probably challenging Jesus to prove that he was the Son of God. 
+    * **this stone**  - The devil was either holding a stone in his hand or pointing to a nearby stone.
+    * **It is written**  - "it is written in the scriptures" or "the scriptures say" or "in the scriptures God said"
+    * **Man will not live on bread alone**  - This could be translated as "People cannot live on just bread" or "It is not just food that makes a person live." The word "bread" is used to refer to food in general.  (See: [[:en:ta:figuresofspeech:synecdoche|Synecdoche]]) The point is that food is not enough to sustain a person. People need to obey God. Jesus was quoting the scripture to say why he would not turn the stone into bread.
 ===== Links: =====
 
-  * **[[en/bible/notes:luk/questions/comprehension/04|Luke Chapter 04 Checking Questions]]**
+  * **[[en/bible/notes:luk/questions/comprehension/04|Luke Chapter 04 Comprehension Questions]]**
   * **[[en/bible/notes:luk/questions/checking/Luke-checking|Luke Checking Questions]]**
 
  
@@ -51,4 +50,4 @@
 
 ~~DISCUSSION~~
 
-{{tag>draft}}
+{{tag>publish sonofgod bread }}

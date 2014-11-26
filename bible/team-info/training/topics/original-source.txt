@@ -1,0 +1,30 @@
+====== Original Languages ======
+
+
+The average user of the Bible translation apps will not be a professional translator, and may not have any formal biblical training. Therefore, we cannot assume that they know anything about the original Greek or Hebrew source texts. With this in mind, here are a few guidelines for developing the text of the translation notes and key term explanations.
+
+==== Meanings of Original Terms ====
+
+We want the translators to know the range of probably meanings for a given text. However, since they will not have the background to make decisions about the original languages, we will simply present them with the preferred meaning or meanings. Since most of these decisions have have already been made in the translation of the ULB and UDB, those should normally be the preferred options. Therefore, here are suggested wordings:
+
+^  **Do NOT Write**  ^  **Do Write**  ^
+|In the original Greek, this means "...\\ This literally means "...|This could also be translated as "...|
+|The original Hebrew word can have multiple meanings...|Possible meanings are 1) "preferred meaning" or 2) "other meaning"...|
+
+
+==== Disputed Text ====
+
+Sometimes there is great debate about which text is to be preferred in the original versions. These range from single words to the whole sections (Jn 8, Mk 16). We do not want to open up that debate in the notes. Rather, when this occurs, we will simply put a note such as these below:
+
+  * "Some versions translate this as '...'"
+  * "Some versions do not have these verses."
+
+
+==== Summary ====
+
+It is our belief that translators who know how to use the original languages will do so. We do not need to provide that help for them. If they do not have those skills, it would be better not to overwhelm them with information that they cannot effectively use. 
+
+As the Translation Academy develops, we may add topics related to these issues. Even then, though, we would not include explanations of the original languages in the notes. Instead, we would simply link to the TA topics.
+
+
+{{tag>notes201 kt201}}

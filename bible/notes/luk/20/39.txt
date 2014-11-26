@@ -15,8 +15,8 @@
 ===== UDB: =====
 
 <usfm>
-\v 39 Some of the men who taught the Jewish laws replied, "Teacher, you have answered very well!"
-\v 40 After that, they no longer dared to ask him any more questions like that to try to trap him.
+\v 39 Some of the teachers of the Jewish law replied, "Teacher, you have answered very well!"
+\v 40 After that, no one dared to ask him any more questions like that to trap him.
 
 
 \p
@@ -26,23 +26,22 @@
 ===== ULB: =====
 
 <usfm>
-\v 39 And certain of the scribes answering said, Teacher, you have well said.
-\v 40 For they dared not any more ask him any question.
+\v 39 And some of the scribes answered, "Teacher, you have answered well."
+\v 40 For they did not dare ask him any more questions.
 </usfm>
 
 
 ===== Important Terms: =====
 
-  * example
-  * example
-  * example
-  * example
- 
+  * [[:en:bible:notes:key-terms:scribe|scribes]]
+  * [[:en:bible:notes:key-terms:teacher|Teacher]]
+
 
 ===== Translation Notes: =====
 
 
-    * **bold words**  - explanation
+    * **And some of the scribes answered** - That is, "And some of the scribes said to Jesus."
+    * **they did not dare ask him**  - That is, "they were afraid to ask him"
     * **bold words**  - explanation
     * **bold words**  - explanation
     * **bold words**  - explanation
@@ -51,7 +50,7 @@
   
 ===== Links: =====
 
-  * **[[en/bible/notes:luk/questions/comprehension/20|Luke Chapter 20 Checking Questions]]**
+  * **[[en/bible/notes:luk/questions/comprehension/20|Luke Chapter 20 Comprehension Questions]]**
   * **[[en/bible/notes:luk/questions/checking/Luke-checking|Luke Checking Questions]]**
 
  
@@ -60,4 +59,5 @@
 
 ~~DISCUSSION~~
 
-{{tag>draft}}
+
+{{tag>draft teacher}}

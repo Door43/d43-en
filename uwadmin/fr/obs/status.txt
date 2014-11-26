@@ -1,10 +1,12 @@
+{{http://api.unfoldingword.org/obs/jpg/1/checkinglevels/uW-Level1-32px.png}}
+
 //The status of development for Open Bible Stories// 
 
 
-publish date: 2014-10-06
+publish date: 2014-10-27
 
 
-version: 3.2
+version: 3.2.1
 
 
 contributors: francoise39;grace-duval;morendo

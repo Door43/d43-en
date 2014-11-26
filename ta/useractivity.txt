@@ -1,18 +1,45 @@
 ====== user activity ======
 
 Chris Jarka
-{{changes>user=USERNAMEHERE&count=50&render=pagelist(header,date,user,nocomments)&maxage=25920000}}
+{{changes>user=samuel&count=50&render=pagelist(header,date,user,nocomments)&maxage=25920000}}
 
 Changes this week
 
-**[[:en:bible|EN Bible]]**
-{{changes>ns=en:bible&maxage=604800&render=pagelist(header,date,user,nocomments)}}
+**Translation Academy Namespace**
+{{changes>ns=en:ta&count=50&maxage=604800&render=pagelist(header,date,user,nocomments)}}//
+//
 
-Changes this week on tag=publish
+===Published===
 
-**[[:en:bible|EN Bible]]**
-{{changes>ns=en:bible&maxage=604800&render=pagelist(topic>publish)(pagelist_flags=header,date,user,nocomments)}}
+[[en:ta:useractivity:published]]
+
+~~NOCACHE~~ 
+
+{{pagequery> ns:en:bible:notes tag>publish|tag>publish; fulltext; sort=title:sac;
+filter=mdate:7 days ago->;
+display={title};
+label=Page Titles;
+showcount;
+layout=column;
+natsort;
+}}
 
 
 
+====Review Status====
+
+
+
+[[en:ta:useractivity:review]]
+
+
+====Draft Status====
+
+==Draft Note Pages List==
+
+[[en:bible:notes:00-notes-draft]]
+
+==Draft Key Terms List==
+
+[[en:bible:notes:key-terms:00-kt-unfinished]]
 

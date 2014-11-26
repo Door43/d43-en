@@ -11,7 +11,7 @@
 ===== UDB: =====
 
 <usfm>
-\v 44 Then he said to them, "I will repeat what I told you while I was still with you: Everything that was written about me by Moses and the other prophets  and in the Psalms must be fulfilled!"
+\v 44 Then he said to them, "I will repeat what I told you while I was still with you: Everything that was written about me by Moses and the other prophets and in the Psalms must be fulfilled!"
 </usfm>
 
 
@@ -19,16 +19,16 @@
 
 <usfm>
 \p
-\v 44 And he said to them, These are my words which I spoke to you, while I was yet with you, that all things must needs be fulfilled, which are written in the law of Moses, and the prophets, and the psalms, concerning me.
+\v 44 And he said to them, "When I was with you, I told you that all that was written in the law of Moses and the prophets must be fufilled."
 </usfm>
 
 
 ===== Important Terms: =====
 
-  * example
-  * example
-  * example
-  * example
+  * [[:en:bible:notes:key-terms:written|written]]
+  * [[:en:bible:notes:key-terms:lawofmoses|law of Moses]]
+  * [[:en:bible:notes:key-terms:prophet|prophets]]
+  * [[:en:bible:notes:key-terms:fulfill|fulfilled]]
  
 
 ===== Translation Notes: =====
@@ -43,7 +43,7 @@
   
 ===== Links: =====
 
-  * **[[en/bible/notes:luk/questions/comprehension/24|Luke Chapter 24 Checking Questions]]**
+  * **[[en/bible/notes:luk/questions/comprehension/24|Luke Chapter 24 Comprehension Questions]]**
   * **[[en/bible/notes:luk/questions/checking/Luke-checking|Luke Checking Questions]]**
 
  
@@ -52,4 +52,5 @@
 
 ~~DISCUSSION~~
 
-{{tag>draft}}
+
+{{tag>draft written lawofmoses}}

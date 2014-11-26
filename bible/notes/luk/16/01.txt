@@ -12,8 +12,8 @@
 ===== UDB: =====
 
 <usfm>
-\v 1 Jesus also said to his disciples, "Once there was a rich man who had a household manager. One day he was told  that the manager was managing the rich man's money badly.
-\v 2 So he summoned the manager and said to him, 'It is terrible what they are saying about you Give me a written account of the funds you have been managing, because you can no longer be my household manager!'
+\v 1 Jesus also said to his disciples, "Once there was a rich man who had a household manager. One day the rich man was told that the manager was managing his property so badly that he was causing the rich man to lose his possessions.
+\v 2 So he called the manager to come to him and said to him, 'What you have been doing is terrible! Give me a final written report of what you have been managing, because you may no longer be my household manager!'
 </usfm>
 
 
@@ -22,32 +22,28 @@
 <usfm>
 \c 16
 \p
-\v 1 And he said also to the disciples, There was a certain rich man, who had a steward; and the same was accused to him that he was wasting his goods.
-\v 2 And he called him, and said to him, What is this that I hear of you  ? pay back the account of your stewardship; for you can be no longer be steward.
+\v 1 And Jesus also said to the disciples, "There was a certain rich man who had a manager, and it was reported to him that this manager was squandering his possessions.
+\v 2 And he called him and said to him, 'What is this that I hear about you? Give an account of your management, for you can no longer be manager.'
 </usfm>
 
 
 ===== Important Terms: =====
 
-  * example
-  * example
-  * example
-  * example
+  * [[:en:bible:notes:key-terms:manager|manager]]
  
 
 ===== Translation Notes: =====
 
-
-    * **bold words**  - explanation
-    * **bold words**  - explanation
-    * **bold words**  - explanation
-    * **bold words**  - explanation
-    * **bold words**  - explanation
-    * **bold words**  - explanation
-  
+    * (Jesus continues to speak to the people.)
+    * **And Jesus also said to his disciples**  - The last section was directed at Pharisees and scribes, though Jesus' disciples may have been part of the crowd listening.
+    * **manager**  - A manager is an employee or servant who is in charge of another person's possessions. The rich man had money and had given the manager the job of taking care of it.
+    * **it was reported to him**  - That is, "people reported to the rich man."
+    * **squandering his possessions**  - That is, "scattering his possessions" or "foolishly spending the rich man's wealth". 
+    * **What is this I hear about you**? - This is a rhetorical question. The rich man is saying, "I have heard what you are doing." (See: [[en:ta:figuresofspeech:rhetoricalquestion|Rhetorical Question]])
+    * **Give an account of your management**  - This could also be translated as, "Set things in order to pass on to someone else" or "Straighten things up to hand over" or "Prepare the records you have written about my money."
 ===== Links: =====
 
-  * **[[en/bible/notes:luk/questions/comprehension/16|Luke Chapter 16 Checking Questions]]**
+  * **[[en/bible/notes:luk/questions/comprehension/16|Luke Chapter 16 Comprehension Questions]]**
   * **[[en/bible/notes:luk/questions/checking/Luke-checking|Luke Checking Questions]]**
 
  
@@ -58,4 +54,5 @@
 ~~DISCUSSION~~
 
 
-{{tag>draft}}
+
+{{tag>review manager}}
