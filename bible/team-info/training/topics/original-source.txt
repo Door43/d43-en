@@ -1,8 +1,17 @@
 ====== Original Languages ======
 
 
-The average user of the Bible translation apps will not be a professional translator, and may not have any formal biblical training. Therefore, we cannot assume that they know anything about the original Greek or Hebrew source texts.
+The average user of the Bible translation apps will not be a professional translator, and may not have any formal biblical training. Therefore, we cannot assume that they know anything about the original Greek or Hebrew source texts. With this in mind, here are a few guidelines for developing the text of the translation notes and key term explanations.
 
+==== Meanings of Original Terms ====
+
+  * Do not to emphasize the original languages in the notes with phrases such as "in the original Greek, this means..." Instead, simply say "This could also be translated as ..."
+  * Do not lower confidence in the ULB translation by using phrases such as "this literally means..." Rather, say "This could also be translated as ..." and list the more literal meaning if it is helpful.
+  * If there is a uncertainty about the meaning of an original term, simply list the alternatives, with the preferred meaning first, in this form, "Possible meanings are 1) 'preferred meaning' or 2) 'other meaning'...
+
+==== Disputed Text ====
+
+  * Do not debate the critical textual evidence for various manuscripts in the notes. Instead, even
 
 
 
