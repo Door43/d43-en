@@ -10,6 +10,9 @@
 **[[:adi:obs|adi OBS]]**
 {{changes>ns=adi:obs&maxage=604800&render=pagelist(header,date,user,nocomments)}}
 
+**[[:adl:obs|adl OBS]]**
+{{changes>ns=adl:obs&maxage=604800&render=pagelist(header,date,user,nocomments)}}
+
 **[[:af:obs|af OBS]]**
 {{changes>ns=af:obs&maxage=604800&render=pagelist(header,date,user,nocomments)}}
 
