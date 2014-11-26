@@ -154,6 +154,9 @@
 **[[:kfq:obs|kfq OBS]]**
 {{changes>ns=kfq:obs&maxage=604800&render=pagelist(header,date,user,nocomments)}}
 
+**[[:kfx:obs|kfx OBS]]**
+{{changes>ns=kfx:obs&maxage=604800&render=pagelist(header,date,user,nocomments)}}
+
 **[[:kia:obs|kia OBS]]**
 {{changes>ns=kia:obs&maxage=604800&render=pagelist(header,date,user,nocomments)}}
 
