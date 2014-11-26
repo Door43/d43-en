@@ -181,6 +181,8 @@
 {{changes>ns=rn:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:ru:obs|ru OBS]]**
 {{changes>ns=ru:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
+**[[:sat:obs|sat OBS]]**
+{{changes>ns=sat:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:sck:obs|sck OBS]]**
 {{changes>ns=sck:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:sdh:obs|sdh OBS]]**
