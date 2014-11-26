@@ -295,6 +295,9 @@
 **[[:ta:obs|ta OBS]]**
 {{changes>ns=ta:obs&maxage=604800&render=pagelist(header,date,user,nocomments)}}
 
+**[[:tam:obs|tam OBS]]**
+{{changes>ns=tam:obs&maxage=604800&render=pagelist(header,date,user,nocomments)}}
+
 **[[:tdj:obs|tdj OBS]]**
 {{changes>ns=tdj:obs&maxage=604800&render=pagelist(header,date,user,nocomments)}}
 

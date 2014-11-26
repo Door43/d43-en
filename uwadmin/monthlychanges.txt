@@ -197,6 +197,8 @@
 {{changes>ns=sw:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:ta:obs|ta OBS]]**
 {{changes>ns=ta:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
+**[[:tam:obs|tam OBS]]**
+{{changes>ns=tam:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:tdj:obs|tdj OBS]]**
 {{changes>ns=tdj:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:te:obs|te OBS]]**
