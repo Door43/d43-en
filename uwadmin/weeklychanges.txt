@@ -298,6 +298,9 @@
 **[[:th:obs|th OBS]]**
 {{changes>ns=th:obs&maxage=604800&render=pagelist(header,date,user,nocomments)}}
 
+**[[:thr:obs|thr OBS]]**
+{{changes>ns=thr:obs&maxage=604800&render=pagelist(header,date,user,nocomments)}}
+
 **[[:tk:obs|tk OBS]]**
 {{changes>ns=tk:obs&maxage=604800&render=pagelist(header,date,user,nocomments)}}
 

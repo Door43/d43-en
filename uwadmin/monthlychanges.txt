@@ -199,6 +199,8 @@
 {{changes>ns=tg:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:th:obs|th OBS]]**
 {{changes>ns=th:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
+**[[:thr:obs|thr OBS]]**
+{{changes>ns=thr:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:tk:obs|tk OBS]]**
 {{changes>ns=tk:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:tl:obs|tl OBS]]**
