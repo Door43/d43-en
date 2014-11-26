@@ -87,6 +87,8 @@
 {{changes>ns=jmd:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:jv:obs|jv OBS]]**
 {{changes>ns=jv:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
+**[[:kan:obs|kan OBS]]**
+{{changes>ns=kan:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:kia:obs|kia OBS]]**
 {{changes>ns=kia:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:kkl:obs|kkl OBS]]**
