@@ -28,6 +28,9 @@
 **[[:as:obs|as OBS]]**
 {{changes>ns=as:obs&maxage=604800&render=pagelist(header,date,user,nocomments)}}
 
+**[[:asm:obs|asm OBS]]**
+{{changes>ns=asm:obs&maxage=604800&render=pagelist(header,date,user,nocomments)}}
+
 **[[:az:obs|az OBS]]**
 {{changes>ns=az:obs&maxage=604800&render=pagelist(header,date,user,nocomments)}}
 
