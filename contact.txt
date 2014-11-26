@@ -1,0 +1,19 @@
+<form>\\
+Action mail me@example.com\\
+Thanks "Thanks for submitting your valuable data."
+
+Fieldset "A set of fields"\\
+Textbox  "Employee Name" "=Your Name"\\
+number "Your Age" >13 <99\\
+email "Your E-Mail Address"\\
+textbox "Occupation (optional)" !\\
+password "Some password"
+
+fieldset "even more fields"\\
+select "Please select an option" "Peaches|Apples|Oranges"\\
+static "Some static text that could be an agreement"\\
+yesno "Read the agreement?"\\
+textarea "Tell me about your self"\\
+textbox "You need to write 'agree' here" /^agree$/\\
+submit "Submit Query"\\
+</form>
