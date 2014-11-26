@@ -235,6 +235,9 @@
 **[[:ne:obs|ne OBS]]**
 {{changes>ns=ne:obs&maxage=604800&render=pagelist(header,date,user,nocomments)}}
 
+**[[:niz:obs|niz OBS]]**
+{{changes>ns=niz:obs&maxage=604800&render=pagelist(header,date,user,nocomments)}}
+
 **[[:nl:obs|nl OBS]]**
 {{changes>ns=nl:obs&maxage=604800&render=pagelist(header,date,user,nocomments)}}
 
