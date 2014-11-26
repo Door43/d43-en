@@ -55,6 +55,9 @@
 **[[:brx:obs|brx OBS]]**
 {{changes>ns=brx:obs&maxage=604800&render=pagelist(header,date,user,nocomments)}}
 
+**[[:bus:obs|bus OBS]]**
+{{changes>ns=bus:obs&maxage=604800&render=pagelist(header,date,user,nocomments)}}
+
 **[[:ceb:obs|ceb OBS]]**
 {{changes>ns=ceb:obs&maxage=604800&render=pagelist(header,date,user,nocomments)}}
 

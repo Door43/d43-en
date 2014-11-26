@@ -37,6 +37,8 @@
 {{changes>ns=brh:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:brx:obs|brx OBS]]**
 {{changes>ns=brx:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
+**[[:bus:obs|bus OBS]]**
+{{changes>ns=bus:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:ceb:obs|ceb OBS]]**
 {{changes>ns=ceb:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:cnh:obs|cnh OBS]]**
