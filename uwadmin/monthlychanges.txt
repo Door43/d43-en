@@ -109,6 +109,8 @@
 {{changes>ns=ko:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:ktu:obs|ktu OBS]]**
 {{changes>ns=ktu:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
+**[[:kxv:obs|kxv OBS]]**
+{{changes>ns=kxv:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:lgg:obs|lgg OBS]]**
 {{changes>ns=lgg:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:lki:obs|lki OBS]]**
