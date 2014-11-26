@@ -9,14 +9,23 @@ We want the translators to know the range of probably meanings for a given text.
 
 ^  **Do NOT Write**  ^  **Do Write**  ^
 |In the original Greek, this means "...|This could also be translated as "...|
-|This literally means "...|This could be translated as "...|
+|This literally means "...|Another possible meaning is "...|
 |The original Hebrew word can have multiple meanings...|Possible meanings are 1) "preferred meaning" or 2) "other meaning"...|
 
 
 ==== Disputed Text ====
 
-  * Do not debate the critical textual evidence for various manuscripts in the notes. Instead, even
+Sometimes there is great debate about which text is to be preferred in the original versions. These range from single words to the whole sections (Jn 8, Mk 16). We do not want to open up that debate in the notes. Rather, when this occurs, we will simply put a note such as these below:
 
+  * "Some versions translate this as '...'"
+  * "Some versions do not have these verses."
+
+
+==== Summary ====
+
+It is our belief that translators who know how to use the original languages will do so. We do not need to provide that help for them. If they do not have those skills, it would be better not to overwhelm them with information that they cannot effectively use. 
+
+As the Translation Academy develops, we may add topics related to these issues. Even then, though, we would not include explanations of the original languages in the notes. Instead, we would simply link to the TA topics.
 
 
 {{tag>notes201 kt201}}
