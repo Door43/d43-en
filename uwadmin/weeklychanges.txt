@@ -28,9 +28,6 @@
 **[[:as:obs|as OBS]]**
 {{changes>ns=as:obs&maxage=604800&render=pagelist(header,date,user,nocomments)}}
 
-**[[:asm:obs|asm OBS]]**
-{{changes>ns=asm:obs&maxage=604800&render=pagelist(header,date,user,nocomments)}}
-
 **[[:az:obs|az OBS]]**
 {{changes>ns=az:obs&maxage=604800&render=pagelist(header,date,user,nocomments)}}
 
@@ -54,6 +51,9 @@
 
 **[[:bnp:obs|bnp OBS]]**
 {{changes>ns=bnp:obs&maxage=604800&render=pagelist(header,date,user,nocomments)}}
+
+**[[:bns:obs|bns OBS]]**
+{{changes>ns=bns:obs&maxage=604800&render=pagelist(header,date,user,nocomments)}}
 
 **[[:brh:obs|brh OBS]]**
 {{changes>ns=brh:obs&maxage=604800&render=pagelist(header,date,user,nocomments)}}
@@ -144,9 +144,6 @@
 
 **[[:jv:obs|jv OBS]]**
 {{changes>ns=jv:obs&maxage=604800&render=pagelist(header,date,user,nocomments)}}
-
-**[[:kan:obs|kan OBS]]**
-{{changes>ns=kan:obs&maxage=604800&render=pagelist(header,date,user,nocomments)}}
 
 **[[:kfb:obs|kfb OBS]]**
 {{changes>ns=kfb:obs&maxage=604800&render=pagelist(header,date,user,nocomments)}}
@@ -319,17 +316,11 @@
 **[[:ta:obs|ta OBS]]**
 {{changes>ns=ta:obs&maxage=604800&render=pagelist(header,date,user,nocomments)}}
 
-**[[:tam:obs|tam OBS]]**
-{{changes>ns=tam:obs&maxage=604800&render=pagelist(header,date,user,nocomments)}}
-
 **[[:tdj:obs|tdj OBS]]**
 {{changes>ns=tdj:obs&maxage=604800&render=pagelist(header,date,user,nocomments)}}
 
 **[[:te:obs|te OBS]]**
 {{changes>ns=te:obs&maxage=604800&render=pagelist(header,date,user,nocomments)}}
-
-**[[:tel:obs|tel OBS]]**
-{{changes>ns=tel:obs&maxage=604800&render=pagelist(header,date,user,nocomments)}}
 
 **[[:tg:obs|tg OBS]]**
 {{changes>ns=tg:obs&maxage=604800&render=pagelist(header,date,user,nocomments)}}
