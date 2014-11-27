@@ -313,8 +313,8 @@
 **[[:sr:obs|sr OBS]]**
 {{changes>ns=sr:obs&maxage=604800&render=pagelist(header,date,user,nocomments)}}
 
-**[[:srp:obs|srp OBS]]**
-{{changes>ns=srp:obs&maxage=604800&render=pagelist(header,date,user,nocomments)}}
+**[[:stb:obs|stb OBS]]**
+{{changes>ns=stb:obs&maxage=604800&render=pagelist(header,date,user,nocomments)}}
 
 **[[:suv:obs|suv OBS]]**
 {{changes>ns=suv:obs&maxage=604800&render=pagelist(header,date,user,nocomments)}}
