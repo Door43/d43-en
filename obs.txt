@@ -10,9 +10,16 @@ Open Bible Stories is developed by [[http://distantshoresmedia.org|Distant Shore
 ==== How You Can Help ====
 
 
-Feel free to join the Open Bible Stories translation team and help finish a translation, or start a new one. Here's **[[:en:obs:help|how to get started]]** translating Open Bible Stories.
+Feel free to join the Open Bible Stories translation team and start a new translation, complete one that has already been started, or help check a completed translation. To learn more about how you can help, please consult the Translation Manual. 
+
+{{page>en:obs:translation-manual}} 
+
+
+==== Downloads ====
 
 //If you prefer, you can download the [[https://api.unfoldingword.org/obs/txt/1/en/en-obs-v3_1_1-2014-10-27.zip|latest English OBS]] source text as a zip archive and begin translating offline, on any computer or mobile device.  Or, you can download [[https://api.unfoldingword.org/obs/txt/1/en/en-obs-notes-v3_1_1-2014-10-27.zip|latest English OBS + translation notes]] to help with your translation.  You can also download the [[https://api.unfoldingword.org/obs/txt/1/en/obs-en-v3_1_1.pdf|latest English OBS as a PDF]].// 
+
+==== Version Changes ====
 
 If you would like to know what has changed over the course of Open Bible Stories development, see:
 
