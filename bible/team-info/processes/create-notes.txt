@@ -5,14 +5,14 @@
   * Select a portion from the ULB that needs a note and write it in bold by one of the bullets under "Translation Notes."
   * Write a translation suggestion that can be used in place of the portion you have selected.
       * If the suggestion is synonymous with the ULB, simply add the suggestion with double-quotes around it.
-      * If the suggestion includes making implied information explicit, or if it suggests a less specific way of translating the text, start it with "This could be translated as..."
+      * If the suggestion includes making implied information explicit, or if it suggests a less specific way of translating the text, start it with "This could be translated as…"
       * Put the suggestion in quotes and if there is more than one suggestion, separate them with the word "or."
         * This can also be translated as "X" or "Y" or "Z".
   * You may also need to explain the issue, but try to include a translation suggestion.
   * If there is a Translation Academy page that deals with the issue, refer to it by writing, for example, "(See: Metonymy)" or "(See: Exclusive)" at the end of the note. You can see these at [[:en:ta:ta-topics|Topics]].
   * Normally we do not need to write notes for terms that are in the key terms list. However, when a key term has multiple senses, you may need to write a note telling which sense is meant in the text.
   * If you write several translation suggestions and one of them is the UDB, write "(UDB)" after it.
-  * When it is required to give a different meaning that if found in the ULB, begin the note with "Another possible meaning is '...'" or "Other possible meanings are 1) 'meaning A' or 2) 'meaning B.'"
+  * When it is required to give a different meaning that if found in the ULB, begin the note with "Another possible meaning is '…'" or "Other possible meanings are 1) 'meaning A' or 2) 'meaning B.'"
 
 ==== Reasons for translation notes: ====
 
