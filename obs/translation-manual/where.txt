@@ -85,7 +85,7 @@ Each story is its own text file. Open one of the files.
 Translate the title: the title looks like this: ====== 31. Jesus Walks on Water ====== . Leave the “=” alone and just translate the title. 
 Translate the text: start translating the text for each frame. After you have translated the text into the target language, then delete the original text of the source language.
 
-Note: Be sure to leave all of the links that look similar to this <code>{{:en:obs:obs-31-01.jpg?nolink&640x360}}</code> alone. These are the links to the pictures. If left in tact, all the images will work perfectly once the work is put on the website.
+Note: Be sure to leave all of the links that look similar to this <code>{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-01.jpg}}</code> alone. These are the links to the pictures. If left in tact, all the images will work perfectly once the work is put on the website.
 
 
 //Continue to [[en:obs:translation-manual:translate|How to Translate Open Bible Stories]]//
