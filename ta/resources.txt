@@ -1,26 +1,22 @@
 ====== Resources of the WA Training Department ======
 
-
-Use this [[en:ta:resources:ta-page-definition|template]] when creating new tA pages.
-
+Use this [[:en:ta:resources:ta-page-definition|template]] when creating new tA pages.
 
 === Samples ===
 
+{{:en:ta:resources:dsmtest.pdf|test pdf - captivate demo with action and sound}}
 
-{{:en:ta:resources:dsmtest.pdf|test pdf - captivate demo with action and sound}} 
+<code>
+{{:en:ta:resources:dsmtest.pdf|test pdf - captivate demo with action and sound}}
+</code>
 
-<code>{{:en:ta:resources:dsmtest.pdf|test pdf - captivate demo with action and sound}} </code>
 {{:en:ta:resources:form_and_meaning_6.mp4|form and meaning video}}  3 minutes from Captivate
-
 
 {{:en:ta:resources:form_and_meaning-computer.mp4|form and meaning video}}  2:50 minutes from Movie Maker
 
-
-{{:en:ta:inclusive.jpg?direct&180x180}}\\ 
+{{:en:ta:inclusive.jpg?direct&180x180}}\\
 this is an example of an inclusive word
 
-
 {{:en:ta:banana_slices_without_peel.png?nolink&360x360}}
-
 
 {{en:ta:opening-icon-copy.mp4|360x360}}
