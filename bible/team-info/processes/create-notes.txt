@@ -1,21 +1,90 @@
 ====== How to Create Translation Notes ======
 
-==== These are some ideas to guide how the Translation Notes are created: ====
+===== These are some ideas to guide how the Translation Notes are created: =====
 
   * Select a portion from the ULB that needs a note and write it in bold by one of the bullets under "Translation Notes."
   * Write a translation suggestion that can be used in place of the portion you have selected.
-      * If the suggestion is synonymous with the ULB, simply add the suggestion with double-quotes around it.
-      * If the suggestion includes making implied information explicit, or if it suggests a less specific way of translating the text, start it with "This can be translated as…"
-      * Put the suggestion in quotes and if there is more than one suggestion, separate them with the word "or."
-        * This can be translated as "X" or "Y" or "Z".
-  * You may also need to explain the issue, but try to include a translation suggestion.
-  * If there is a Translation Academy page that deals with the issue, refer to it by writing, for example, "(See: Metonymy)" or "(See: Exclusive)" at the end of the note. You can see these at [[:en:ta:ta-topics|Topics]].
+  * Put the suggestion in quotes and if there is more than one suggestion, separate them with the word "or."
+        * "X" or "Y" or "Z"
+        * This can be translated as "X" or "Y" or "Z."
   * Normally we do not need to write notes for terms that are in the key terms list. However, when a key term has multiple senses, you may need to write a note telling which sense is meant in the text.
-  * If you write several translation suggestions and one of them is the UDB, write "(UDB)" immediately after the suggestion.
-      * **brings forth that which is good**  - “brings out good things” or “displays good things.” This could also be translated without the metaphor as “lives his life in a good way” or “does good things which show” (UDB).
-  * When it is required to give a different meaning than what is found in the ULB, begin the note with "Another possible meaning is '…'" or "Other possible meanings are 1) 'meaning A' or 2) 'meaning B.'"
 
-==== Reasons for translation notes: ====
+
+
+==== Types of Notes: ====
+
+There are several ways to write translation notes. We would like them to fit into one of the following formats so we can easily train the translators and so they will recognize the purpose of each note. 
+
+
+=== Synonym(s) or Equivalent Phrase(s) ===
+
+Synonyms or equivalent phrases should simply be written in double-quotes. They do not need to be full sentences, and should not normally be punctuated. However, if they are followed by another sentence, they should have a final period to set off the following sentence.
+
+  * **the way** - "the path" or "the road"
+  * **to be baptized by him**  - "for John to baptize them"
+  * **do likewise**  - "do the same thing." It can be translated here as "give food to someone who does not have any."
+  * **taught the people out of the boat**  - "taught the people while he sat in the boat." Jesus was in the boat a short distance from the shore and he was speaking to the people who were on the shore.
+
+
+=== Alternate Translation(s) ===
+
+When a note presents a translation alternative that is somewhat different than the ULB word or phrase, have "This could be translated as" appended before it. The entire note should be written in sentence form. 
+
+  * **see the salvation of God**  - This could be translated as "learn about how God saves people from sin."
+  * **asked him to put it out into the water**  - This could  be translated as "asked Peter to move the boat farther from the shore."
+  
+
+=== Alternate Translation in the UDB ===
+
+If the UDB provides a good alternate translation for the ULB, it is normally not necessary to include a note. However, on occasion it may be helpful to include text from the UDB as well as another alternate translation. In that case, append "(UDB)" after the alternate from the UDB as below:
+
+  * **implored him** - "begged him" or "pleaded with him" (UDB)
+  * **he fell on his face** - "he bowed down to the ground" (UDB) or "he knelt and touched the ground with his face" 
+
+
+=== Alternate Meaning(s) ===
+
+Alternate meanings refer to when there are not just multiple ways to express something, but to when there are different understandings of what the word or phrase means. In this case, prefix the meanings with "Possible meanings are" and number them with the preferred rendering as the first meaning.
+
+   * **fell down at Jesus knees** - Possible meanings are 1) "bowed down at Jesus feet" or 2) "lay down on the ground at Jesus feet" or 3) "knelt down before Jesus." Peter did not fall accidentally. He did this as a sign of  humility and respect for Jesus. 
+
+
+=== Identify Figures of Speech ===
+
+When writing a note to identify and explain a figure of speech, use sentence form and put the meaning in quotes. 
+
+  * **Make ready the way of the Lord**  - This is metaphor of a road means "Repent and be ready for when the Lord comes." (See: [[:en:ta:figuresofspeech:metaphor|Metaphor]])
+  * **You offspring of poisonous snakes**  - This is a metaphor. Poisonous snakes are dangerous and represent evil. This could be translated as "You evil poisonous snakes!" or "You are evil like poisonous snakes." (See: [[en:ta:figuresofspeech:metaphor|Metaphor]])
+
+If there is a Translation Academy page that deals with a figure of speech, you can include it in the note. 
+
+  * Refer to TA topics by writing, for example, "(See: Metonymy)" or "(See: Exclusive)" at the end of the note. You can see these at [[:en:ta:ta-topics|Topics]].
+
+
+=== Explanatory Comment ===
+
+Simple explanations about words or phrases should be in sentence format.
+
+  * **washing their nets**  - They were cleaning their fishing nets in order to use them again them again to catch fish.
+  * **motioned**  - They were too far from shore to call so they made gestures, probably waving their arms.
+
+
+=== Indirect to Direct Quote ===
+
+When adding the option for a direct quote, preface the alternate with "It can be translated as a direct quote:" followed by the new phrase. 
+
+  * **to tell no one** - This is an indirect quote. It can be translated as a direct quote: "Do not tell anyone." The implied information is "that you have been healed." (See: [[en:ta:vocabulary:quotation|Speech Quotations]], [[en:ta:vocabulary:implicitexplicit|Explicit and Implicit Information]])
+  
+
+=== Explanation of Source Language ===
+
+In general, we want to downplay the original languages since most of the users of the notes will not have had any training in them. This does not mean we avoid the content. Rather, it means that we should look for simple ways to express that content. When possible, use plain-language explanations in English. 
+
+  * **sinful man** - The word here for "man" means "adult male" and not the more general "human being."
+  * **Master**  - The Greek word that is translated here as “Master” is a not the normal word for “Master.” This one refers to someone who has authority, and not to  someone who owns someone else. You could also translate it as "Boss" or "Foreman" or with a word that is commonly used to address a person in authority, such as “Sir.”
+ 
+
+===== Reasons for translation notes: =====
 
 Here are some reasons for different kinds of translation notes.
 
