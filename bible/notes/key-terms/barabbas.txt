@@ -3,18 +3,14 @@
 ===== Facts: =====
 
 Text
-    * bullet
-    * bullet
 
-(Translation suggestions: [[en:ta:translate:translatenames]])
+  * bullet
+  * bullet
 
-(See also: [[:en:bible:notes:key-terms:URLterm|term]])
+(Translation suggestions: [[:en:ta:translate:translatenames|How to Translate Names]])
+
+(See also: [[:en:bible:notes:key-terms:urlterm|term]])
 
 ===== Bible References: =====
 
-{{topic>Barabbas&nocomments}}
-
-~~DISCUSSION~~
-
-{{tag>create luk23}}
-
+{{topic>Barabbas&nocomments}}~~DISCUSSION~~{{tag>draft}}
