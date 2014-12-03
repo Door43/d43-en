@@ -2,7 +2,7 @@
 
 Chris Jarka
 
-{{changes>user=petersmircich&count=50&render=pagelist(header,date,user,nocomments)&maxage=25920000}}
+{{changes>user=USERNAME&count=50&render=pagelist(header,date,user,nocomments)&maxage=25920000}}
 
 Changes this week
 
