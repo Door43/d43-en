@@ -9,9 +9,9 @@ Before adding a tA link to a page, check here to see if it already exists in [[e
 === If the topic is not on the Translation Academy Topics Page: ===
   - Type in "(See talink TOPIC)" at the end of the Translation Note.
   - Add a tag syntax on the Bible chunk page above the Discussion syntax: 
-<code>{{tag>[talink]}}</code>
+<code>{{tag>talink}}</code>
   * If there is already a tag for the KT link, leave a space and add to it like this: 
-<code>{{tag>[ktlink talink]}}</code>
+<code>{{tag>ktlink talink}}</code>
 
   * The tA team will see the list of chunks that need tA page/video/module here: [[en/ta/ta-needed]]
 
