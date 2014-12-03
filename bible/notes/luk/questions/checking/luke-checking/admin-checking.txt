@@ -1,12 +1,21 @@
 ====== Admin Page for Checking ======
 
-This is the "working page" to organize and develop Checking resources. This page will not be visible to the end-users. 
+This is the "working page" to organize and develop Checking resources. This page will not be visible to the end-users.
+
+We are developing the Checking resources to parallel the three levels of approval for UnfoldingWord.
 
 ==== Level 1 Checking ====
+
+Level 1 checking will be done by the translator or translation group. The purpose of this level is to verify that:
+
+  - the translation was done according to the translation notes
+  - the translator tested the translation with other local speakers of the langauge
+
 
 
 
 ==== Level 2 Checking ====
+
 
 
 
