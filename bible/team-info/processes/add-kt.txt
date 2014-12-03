@@ -7,13 +7,13 @@ If not:
   * Add the f​ollowing tag to the to the chunk page above the Discussion link:
 
 <code>
-{{tag>[ktlink]}}
+{{tag>ktlink}}
 </code>
 
   * If there is already a tag for the tA link, leave a space and add to it like this:
 
 <code>
-{{tag>[talink ktlink]}}
+{{tag>talink ktlink}}
 </code>
 
   * The KT team will see the list of chunks that need KT's here: [[:en:bible:notes:key-terms:00-kt-needed|00-kt-needed]]
