@@ -1,6 +1,6 @@
 ====== How to Create Translation Notes ======
 
-===== These are some ideas to guide how the Translation Notes are created: =====
+===== General Principles for Creation of Translation Notes: =====
 
   * Select a portion from the ULB that needs a note and write it in bold by one of the bullets under "Translation Notes."
   * Write a translation suggestion that can be used in place of the portion you have selected.
@@ -9,9 +9,7 @@
         * This can be translated as "X" or "Y" or "Z."
   * Normally we do not need to write notes for terms that are in the key terms list. However, when a key term has multiple senses, you may need to write a note telling which sense is meant in the text.
 
-
-
-==== Types of Notes: ====
+===== Types of Notes: =====
 
 There are several ways to write translation notes. We would like them to fit into one of the following formats so we can easily train the translators and so they will recognize the purpose of each note. 
 
