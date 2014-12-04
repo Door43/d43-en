@@ -3,15 +3,12 @@
 ===== Definition: =====
 
 Text
-    * bullet
-    * bullet
 
-(See also: [[:en:bible:notes:key-terms:URLterm|term]])
+  * bullet
+  * bullet
+
+(See also: [[:en:bible:notes:key-terms:urlterm|term]])
 
 ===== Bible References: =====
 
-{{topic>scripture&nocomments}}
-
-~~DISCUSSION~~
-
-{{tag>create luk24}}
+{{topic>scripture&nocomments}}~~DISCUSSION~~{{tag>publish}}
