@@ -3,18 +3,16 @@
 ===== Facts: =====
 
 Text
-    * bullet
-    * bullet
 
-(Translation suggestions: [[en:ta:translate:translatenames]])
+  * bullet
+  * bullet
 
-(See also: [[:en:bible:notes:key-terms:URLterm|term]])
+(Translation suggestions: [[:en:ta:translate:translatenames|How to Translate Names]])
+
+(See also: [[:en:bible:notes:key-terms:urlterm|term]])
 
 ===== Bible References: =====
+
 ~~NOCACHE~~
-{{topic>Bethany&nocomments}}
 
-~~DISCUSSION~~
-
-{{tag>create luk24}}
-
+{{topic>Bethany&nocomments}}~~DISCUSSION~~{{tag>publish}}
