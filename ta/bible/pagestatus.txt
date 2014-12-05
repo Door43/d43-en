@@ -2,7 +2,18 @@
 
 ==== Ruth Pages Status ====
 
-|  **Review Pages**    |  **Discuss Pages**    |**Publish Pages**   |
-|{{topic>en:bible:notes:rut?review&nocomments}} |{{topic>en:bible:notes:rut?discuss&nocomments}} |{{topic>en:bible:notes:rut?publish&nocomments}} |
+|**Draft Pages** |  **Review Pages**    |  **Discuss Pages**    |**Publish Pages**   |
+|{{topic>en:bible:notes:rut?draft&nocomments}}|{{topic>en:bible:notes:rut?review&nocomments}} |{{topic>en:bible:notes:rut?discuss&nocomments}} |{{topic>en:bible:notes:rut?publish&nocomments}} |
 
-\\
+
+==== Titus Pages Status ====
+
+|**Draft Pages** |  **Review Pages**    |  **Discuss Pages**    |**Publish Pages**   |
+|{{topic>en:bible:notes:tit?draft&nocomments}}|{{topic>en:bible:notes:tit?review&nocomments}} |{{topic>en:bible:notes:tit?discuss&nocomments}} |{{topic>en:bible:notes:tit?publish&nocomments}} |
+
+
+==== Luke Pages Status ====
+
+|**Draft Pages** |  **Review Pages**    |  **Discuss Pages**    |**Publish Pages**   |
+|{{topic>en:bible:notes:luk?draft&nocomments}}|{{topic>en:bible:notes:luk?review&nocomments}} |{{topic>en:bible:notes:luk?discuss&nocomments}} |{{topic>en:bible:notes:luk?publish&nocomments}} |
+
