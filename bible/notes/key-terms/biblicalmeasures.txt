@@ -4,11 +4,17 @@
 
 Text
 
-  * bullet
-  * bullet
+^  Term  ^   Liters ^
+| bath       |   22.000 |
+| hin        |    3.700 |
+| homer      |  230.000 |
+| kab        |    1.276 |
+| kor        |  220.000 |
+| log        |    0.320 |
+| seah       |    7.700 |
+
 
 (See also: [[:en:bible:notes:key-terms:urlterm|term]])
-
 ===== Bible References: =====
 
 {{topic>biblicalmeasures&nocomments}}
