@@ -4,14 +4,15 @@
 
 Text
 
-^  Term  ^   Liters ^
-| bath       |   22.0 |
-| hin        |    3.7 |
-| homer      |  230.0 |
-| kab        |    1.3 |
-| kor        |  220.0 |
-| log        |    0.3 |
-| seah       |    7.7 |
+The volumes of the measures below are listed in liters:
+
+  * bath - 22.0
+  * hin - 3.7
+  * homer - 230.0
+  * kab - 1.3
+  * kor - 220.0
+  * log - 0.3
+  * seah - 7.7
 
 
 (See also: [[:en:bible:notes:key-terms:urlterm|term]])
