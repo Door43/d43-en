@@ -4,8 +4,8 @@
 
 ==== Luke Pages Status ====
 
-^  Review Pages  ^  **Discuss Pages**  ^  **Publish Pages**  ^
-|{{topic>en:bible:notes:luk?review&nocomments}} |{{topic>en:bible:notes:luk?discuss&nocomments}} |{{topic>en:bible:notes:luk?publish&nocomments}} |
+^  Draft Pages  ^  Review Pages  ^  Discuss Pages  ^  Publish Pages  ^
+|{{topic>en:bible:notes:luk?draft&nocomments}} |{{topic>en:bible:notes:luk?review&nocomments}} |{{topic>en:bible:notes:luk?discuss&nocomments}} |{{topic>en:bible:notes:luk?publish&nocomments}} |
 
 ==== Check on bad tags ====
 
