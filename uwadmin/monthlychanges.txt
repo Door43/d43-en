@@ -105,6 +105,8 @@
 {{changes>ns=kfb:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:kff:obs|kff OBS]]**
 {{changes>ns=kff:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
+**[[:kfp:obs|kfp OBS]]**
+{{changes>ns=kfp:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:kfq:obs|kfq OBS]]**
 {{changes>ns=kfq:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:kfx:obs|kfx OBS]]**
