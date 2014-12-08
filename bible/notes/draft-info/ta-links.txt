@@ -2,12 +2,12 @@
 
 These are drafts of the tA links that we include in pages:
 
-Exclusive:
+Exclusive
 <code>
 [[:en:ta:vocabulary:exclusive]]
 </code>
 
-How to Translate Names:
+How to Translate Names
 <code>
 [[:en:ta:translate:translatenames]]
 </code>
@@ -17,8 +17,34 @@ Implicit/Explicit
 [[:en:ta:vocabulary:implicitexplicit]]
 </code>
 
-
+Idiom
 <code>
+[[:en:ta:figuresofspeech:idiom]]
+</code>
+
+Forms of "you"
+<code>
+[[:en:ta:vocabulary:formsofyou]]
+</code>
+
+Adjectival noun
+<code>
+[[:en:ta:vocabulary:adjectivalnoun]]
+</code>
+
+Rhetorical question
+<code>
+[[:en:ta:figuresofspeech:rhetoricalquestion]]
+</code>
+
+Euphemism
+<code>
+[[:en:ta:figuresofspeech:euphemism]]
+</code>
+
+Metaphor
+<code>
+[[:en:ta:figuresofspeech:metaphor]]
 </code>
 
 
@@ -60,26 +86,5 @@ Implicit/Explicit
 
 <code>
 </code>
-
-
-<code>
-</code>
-
-
-<code>
-</code>
-
-
-<code>
-</code>
-
-
-<code>
-</code>
-
-
-<code>
-</code>
-
 
 
