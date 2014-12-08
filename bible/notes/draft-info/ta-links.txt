@@ -2,24 +2,19 @@
 
 These are drafts of the tA links that we include in pages:
 
+Adjectival noun
+<code>
+[[:en:ta:vocabulary:adjectivalnoun]]
+</code>
+
+Euphemism
+<code>
+[[:en:ta:figuresofspeech:euphemism]]
+</code>
+
 Exclusive
 <code>
 [[:en:ta:vocabulary:exclusive]]
-</code>
-
-How to Translate Names
-<code>
-[[:en:ta:translate:translatenames]]
-</code>
-
-Implicit/Explicit
-<code>
-[[:en:ta:vocabulary:implicitexplicit]]
-</code>
-
-Idiom
-<code>
-[[:en:ta:figuresofspeech:idiom]]
 </code>
 
 Forms of "you"
@@ -27,19 +22,24 @@ Forms of "you"
 [[:en:ta:vocabulary:formsofyou]]
 </code>
 
-Adjectival noun
+How to Translate Names
 <code>
-[[:en:ta:vocabulary:adjectivalnoun]]
+[[:en:ta:translate:translatenames]]
+</code>
+
+Idiom
+<code>
+[[:en:ta:figuresofspeech:idiom]]
+</code>
+
+Implicit/Explicit
+<code>
+[[:en:ta:vocabulary:implicitexplicit]]
 </code>
 
 Rhetorical question
 <code>
 [[:en:ta:figuresofspeech:rhetoricalquestion]]
-</code>
-
-Euphemism
-<code>
-[[:en:ta:figuresofspeech:euphemism]]
 </code>
 
 Metaphor
@@ -86,5 +86,4 @@ Metaphor
 
 <code>
 </code>
-
 
