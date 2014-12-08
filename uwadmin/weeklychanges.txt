@@ -22,6 +22,9 @@
 **[[:am:obs|am OBS]]**
 {{changes>ns=am:obs&maxage=604800&render=pagelist(header,date,user,nocomments)}}
 
+**[[:apd:obs|apd OBS]]**
+{{changes>ns=apd:obs&maxage=604800&render=pagelist(header,date,user,nocomments)}}
+
 **[[:ar:obs|ar OBS]]**
 {{changes>ns=ar:obs&maxage=604800&render=pagelist(header,date,user,nocomments)}}
 
