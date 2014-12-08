@@ -3,11 +3,24 @@
 These are drafts of the tA links that we include in pages:
 
 Exclusive:
-
 <code>
-(See [[:en:ta:vocabulary:exclusive]])
+[[:en:ta:vocabulary:exclusive]]
+</code>
+
+How to Translate Names:
+<code>
+[[:en:ta:translate:translatenames]]
+</code>
+
+Implicit/Explicit
+<code>
+[[:en:ta:vocabulary:implicitexplicit]]
 </code>
 
 
-(See [[:en:ta:translate:translatenames]])
+<code>
+</code>
 
+
+<code>
+</code>
