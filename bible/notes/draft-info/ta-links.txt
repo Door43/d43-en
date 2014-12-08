@@ -2,14 +2,12 @@
 
 These are drafts of the tA links that we include in pages:
 
-=== KT Pages ===
+Exclusive:
 
-[[:en:ta:translate:translatenames|How to Translate Names]]
+<code>
+(See [[:en:ta:vocabulary:exclusive]])
+</code>
 
-=== Notes Pages ===
 
-(See [[:en:ta:vocabulary:exclusive|Exclusive]])
+(See [[:en:ta:translate:translatenames]])
 
-(See [[:en:ta:translate:translatenames|How to Translate Names]])
-
-(See also: [[:en:bible:notes:key-terms:home|Bible References:]])
