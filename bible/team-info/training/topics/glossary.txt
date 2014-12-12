@@ -6,6 +6,7 @@ This is a list of some of the terms and abbreviations that we are using in this 
 
   * **DSM** - Distant Shores Media
   * **TS** - TranslationStudio
+  * **GW** - gateway, as in gateway language
   * **UDB** - UnfoldingWord Dynamic Bible
   * **ULB** - UnfoldingWord Literal Bible
   * **WA** - Wycliffe Associates
@@ -14,6 +15,7 @@ This is a list of some of the terms and abbreviations that we are using in this 
 === Terms ===
 
   * **dynamic translation** - This contrasts with a "literal" translation. A "dynamic" translation favors readability over adherence to the form of the original language. Dynamic translations should still be accurate, but more freely adjust sentence order and length, and also more willing replace difficult words and phrases with more easily-understood equivalents.
+  * **gateway language** - Also called "trade" languages. These languages are major languages that are widely-spoken by people of many different people groups or sub-languages. They can serve as "intermediate" languages in which we can provide translation resources to speakers of smaller languages.
   * **literal** - This contrasts with a "dynamic" translation. A "literal" translation tries to remain as close as possible to the form and grammar of the original language. A dynamic translation should still be readable, but avoids using equivalents when possible.
   * **TranslationStudio** - This is the app that will enable people to translate the Bible on a phone or tablet.
   * **UnfoldingWord** - This is the name of the app that will display all of the Bible translations that are completed in TranslationStudio
