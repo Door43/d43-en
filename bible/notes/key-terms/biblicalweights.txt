@@ -3,17 +3,17 @@
 ===== Definition: =====
 
 Text
-    * bullet
-    * bullet
 
+  * bullet
+  * bullet
 
+There are different ways units of measure can be translated:
 
-(See also: [[:en:bible:notes:key-terms:URLterm|term]])
+  - Use a term similar in spelling to the Bible term for that measure, followed by the equivalent value using a unit of measure that is known to the receptor culture.
+  - Directly use the equivalent amount in terms of the unit of measure that is known to the receptor culture, without using the Bible name.
+
+(See also: [[:en:bible:notes:key-terms:urlterm|term]])
 
 ===== Bible References: =====
 
-{{topic>biblicalweights&nocomments}}
-
-~~DISCUSSION~~
-
-{{tag>draft}}
+{{topic>biblicalweights&nocomments}}~~DISCUSSION~~{{tag>draft}}
