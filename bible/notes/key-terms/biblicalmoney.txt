@@ -2,14 +2,17 @@
 
 ===== Description: =====
 
-  * talent
-  * denarius
-  * mite
+The following terms are some of the most well-known units of money that are used in the Bible.
 
-There are different ways units of measure can be translated:
+  * talent  (gold)
+  * denarius (silver coin)
+  * mite (copper coin)
+  * shekel (silver) -- used as basis for measuring other money weights
 
-  - Use a term similar in spelling to the Bible term for that measure, followed by the equivalent value using a unit of measure that is known to the receptor culture.
-  - Directly use the equivalent amount in terms of the unit of measure that is known to the receptor culture, without using the Bible name.
+There are different ways units of measure for money can be translated:
+
+  - Use a term similar in spelling to the Bible term for that measure, followed by the equivalent value in terms of what can be earned by a days' work in Bible times or how many coins of silver or gold it represents.
+  - For units of money, it is important to NOT use modern money values since these will change from year to year and will cause any Bible translation that uses them to become <font 13.63636302948px line-height: 17.8181819915772px;/inherit;;inherit;;inherit>outdated</font> .
 
 (See also: [[:en:bible:notes:key-terms:urlterm|term]])
 
