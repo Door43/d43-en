@@ -1,0 +1,23 @@
+====== Glossary of Terms ======
+
+This is a list of some of the terms and abbreviations that we are using in this project.
+
+=== Abbreviations ===
+
+  * **DSM** - Distant Shores Media
+  * **TS** - TranslationStudio
+  * **UDB** - UnfoldingWord Dynamic Bible
+  * **ULB** - UnfoldingWord Literal Bible
+  * **WA** - Wycliffe Associates
+
+
+=== Terms ===
+
+  * **dynamic translation** - This contrasts with a "literal" translation. A "dynamic" translation favors readability over adherence to the form of the original language. Dynamic translations should still be accurate, but more freely adjust sentence order and length, and also more willing replace difficult words and phrases with more easily-understood equivalents.
+  * **literal** - This contrasts with a "dynamic" translation. A "literal" translation tries to remain as close as possible to the form and grammar of the original language. A dynamic translation should still be readable, but avoids using equivalents when possible.
+  * **TranslationStudio** - This is the app that will enable people to translate the Bible on a phone or tablet.
+  * **UnfoldingWord** - This is the name of the app that will display all of the Bible translations that are completed in TranslationStudio
+
+
+
+{{tag>notes201 kt201}}
