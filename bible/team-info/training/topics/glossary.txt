@@ -14,7 +14,9 @@ This is a list of some of the terms and abbreviations that we are using in this 
 
 === Terms ===
 
+  * **Door43** - This is the name of the online site where we are developing our translation resources. The name refers to Colossians 4:3 "//And pray for us, too, that God may open a door for our message//."
   * **dynamic translation** - This contrasts with a "literal" translation. A "dynamic" translation favors readability over adherence to the form of the original language. Dynamic translations should still be accurate, but more freely adjust sentence order and length, and also more willing replace difficult words and phrases with more easily-understood equivalents.
+  * **Etherpad** - This is an online editor outside of Door43 where the text team is editing the ULB and UDB versions. 
   * **gateway language** - Also called "trade" languages. These languages are major languages that are widely-spoken by people of many different people groups or sub-languages. They can serve as "intermediate" languages in which we can provide translation resources to speakers of smaller languages.
   * **literal** - This contrasts with a "dynamic" translation. A "literal" translation tries to remain as close as possible to the form and grammar of the original language. A dynamic translation should still be readable, but avoids using equivalents when possible.
   * **TranslationStudio** - This is the app that will enable people to translate the Bible on a phone or tablet.
