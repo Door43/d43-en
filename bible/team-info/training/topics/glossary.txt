@@ -11,8 +11,8 @@ This is a list of some of the terms and abbreviations that we are using in this 
   * **ULB**  - UnfoldingWord Literal Bible
   * **uW**  - Unfolding Word
   * **WA**  - Wycliffe Associates
-  * **tA**
- - Translation Academy
+  * **tA**  - Translation Academy
+- Translation Academy
 
 === Terms ===
 
@@ -21,9 +21,8 @@ This is a list of some of the terms and abbreviations that we are using in this 
   * **Etherpad**  - This is an online editor outside of Door43 where the text team is editing the ULB and UDB versions.
   * **gateway language**  - Also called "trade" languages. These languages are major languages that are widely-spoken by people of many different people groups or sub-languages. They can serve as "intermediate" languages in which we can provide translation resources to speakers of smaller languages.
   * **literal**  - This contrasts with a "dynamic" translation. A "literal" translation tries to remain as close as possible to the form and grammar of the original language. A dynamic translation should still be readable, but avoids using equivalents when possible.
-  * **namespace **- This is the term used, instead of folders, for the organization of the Door43 pages. For example the Door43 page with the URL of [[https://door43.org/en/obs|https://door43.org/en/obs]] is the namespace of //obs // in the namespace of //en//.
+  * **namespace **- This is the term used, instead of folders, for the organization of the Door43 pages. For example the Door43 page with the URL of [[https://door43.org/en/obs|https://door43.org/en/obs]] is the namespace of //obs //  in the namespace of //en//.
   * **Translation Academy**  - This is the name of the area that the pages and modules will be developed for training the national translators.
   * **TranslationStudio**  - This is the app that will enable people to translate the Bible on a phone or tablet.
-  * **UnfoldingWord**  - This is the name of the app that will display all of the Bible translations that are completed in TranslationStudio
-  *
+  * **UnfoldingWord**  - This is the name of the app that will display all of the Bible translations that are completed in TranslationStudio.
 {{tag>notes201 kt201}}
