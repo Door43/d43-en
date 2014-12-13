@@ -22,7 +22,7 @@
 ===== ULB: =====
 
 <usfm>
-\v 6 So Jesus continued on his way with them. And when he was not far from the house, the centurion sent friends to say to him, "Lord, do not trouble yourself, because I am not worthy that you should enter under my roof.
+\v 6 So Jesus continued on his way with them. But when he was not far from the house, the centurion sent friends to say to him, "Lord, do not trouble yourself, because I am not worthy that you should enter under my roof.
 \v 7 For this reason I did not even consider myself to be worthy enough to come to you, but just say a word and my servant will be healed.
 \v 8 For I also am a man who is placed under authority and I have soldiers under me. I say to this one, 'Go,'  and he goes, and to another one, 'Come,' and he comes, and to my servant, 'Do this,' and he does it."
 </usfm>
@@ -37,16 +37,15 @@
     * [[:en:bible:notes:key-terms:heal|healed]]
 ===== Translation Notes: =====
 
+  * **Do not trouble yourself**  - "Don't trouble yourself by coming to my house." It could also be translated as "I don't wish to bother you." The centurion was speaking politely to Jesus.
+  * **enter under my roof**  - "come into my house". "Enter under my roof" is an idiom. If you language has an idiom meaning "come into my house," think about whether it would be good to use here. (See: [[:en:ta:figuresofspeech:idiom]])
+  * **just say a word**  - This can be translated as "just give the order." The servant understood that Jesus could heal the servant just by speaking.
+  * **my servant will be healed**  - The word that is translated here as "servant" is normally translated as "boy." It may indicate that the servant was very young, or show the centurion's affection for him. 
+  * **to my servant**  - The word that is translated here as "servant" is the typical word for a servant.
 
-    * **I am not worthy**  - This literally means "I am not enough" or "I am not sufficient." The centurion didn't consider his problem enough of a reason for Jesus to come personally. He considered Jesus to be more important of a person than he himself was.
-    * **enter under my roof** - That is, "come into my house". "Enter under my roof" is an idiom. If you language has an idiom meaning "come into my house" you might think about whether it would be good to use here. (See: [[en:ta:figuresofspeech:idiom|Idiom]])
-    * **just say a word**  - This could also be translated as, "just give the order."
-    * **servant**  - The literally means means "boy," and can refer to a "serving-boy" in the same way that the French word "garcon" means "boy" but refers more often to a "waiter."
-    * **I say to this one**  - This could be translated as "I tell this one" or "I order this person."
 ===== Links: =====
 
   * **[[en/bible/notes:luk/questions/comprehension/07|Luke Chapter 07 Comprehension Questions]]**
-  * **[[en/bible/notes:luk/questions/checking/Luke-checking|Luke Checking Questions]]**
 
  
 
@@ -56,4 +55,4 @@
 ~~DISCUSSION~~
 
 
-{{tag>review centurion obey}}
+{{tag>publish centurion obey}}

@@ -1,19 +1,26 @@
-====== Biblical measures (in metric) ======
+====== Biblical measures ======
 
 ===== Definition: =====
 
-Text
-    * bullet
-    * bullet
+The following terms are the most common Biblical units of measure used to explain how much liquid (such as wine) or solid objects (such as grain) a certain receptacle contains.
 
+  * bath - 22.0 liters
+  * hin - 3.7 liters
+  * homer - 230.0 liters
+  * kab - 1.3 liters
+  * kor - 220.0 liters
+  * log - 0.3 liters
+  * seah - 7.7 liters
 
+How to translate units of measure in the Bible:
 
-(See also: [[:en:bible:notes:key-terms:URLterm|term]])
+  - Keep the Bible term, spelling it in a way that is similar to the way it sounds or is spelled in the Bible. [See Transliterate]
+  - An important reason for keeping the Bible terms is to show that the Bible is true and that people actually used these units of measure during that time period.
+  - If it doesn't work to use the Bible term, then instead, state the equivalent amount using a unit of measure that is known.
+  - These methods could be combined, using the Bible term but then also giving the equivalent amount in the text or a note.
+
+<font 13.63636302948px line-height: 1.4/inherit;;inherit;;inherit>(See also:</font>    [[:en:bible:notes:key-terms:urlterm|term]]<font 13.63636302948px line-height: 1.4/inherit;;inherit;;inherit>)</font>
 
 ===== Bible References: =====
 
-{{topic>biblicalmeasures&nocomments}}
-
-~~DISCUSSION~~
-
-{{tag>draft}}
+{{topic>biblicalmeasures&nocomments}}~~DISCUSSION~~{{tag>draft}}

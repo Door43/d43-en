@@ -38,7 +38,7 @@ Specific editing guidelines:
   * Do not use contractions.
   * Punctuation marks go inside the quote marks.
   * Capitalization issues: in general, we are following the practice of the 2011 NIV.
-  * All pronouns are lower case (except when beginning sentences).
+  * All pronouns are lower case (except when beginning sentences and except for the first sg. prn. "I").
   * Capitalize titles (Son of Man, King David, the Messiah).
   * Try to find other ways to translate the Greek participle. Many languages do not have participles.
 
@@ -50,25 +50,27 @@ However, a TG cannot be foolproof, because the SD will often use some words to s
 
 Note that occasionally, the TG's specified translation will not be suitable. As always, the text editors must remain in control of the decision-making process. The TG is to guide you as much as is possible. If you must depart from the TG guidelines, do so and insert a note to that effect.
 
-**TG for the Old Testament ULB**
-
-**(Preferred English renderings appear in bold type.)**
-
-  * //wayehi //"**It came about**"
-  * //hinneh //"**Behold**" (when used in normal narrative passages or in narrative embedded in direct speech, such as when Joseph tells his brothers what happened in his dreams). In conversational passages, translate //hinneh //  as, "**look**," "**see**," "**see here**," or something else suitable for signaling that what immediately follows in the text is prominent. Some conversational contexts may make it almost impossible to give any translation at all of //hinneh.//
-  * //wehinneh //"**And behold**" (when used <font inherit/inherit;;inherit;;inherit>in normal narrative passages or in narrative embedded in direct speech). For conversational passages, see the preceding paragraph.</font>
+**Translation Glossary ****for the Old Testament ULB**  **(Preferred English renderings appear in bold type.)**
+  * //wayehi //"**It came about,**" "**It happened that…**"
+  * //hinneh //"**Behold**" (when used in normal narrative passages or in narrative embedded in direct speech, such as when Joseph tells his brothers what happened in his dreams). In conversational passages, translate //hinneh //  as, "**look**," "**see**," "**see here**," or something else suitable for signaling that what immediately follows in the text is prominent. Some conversational contexts may make it almost impossible to give any translation at all of //hinneh//. – However, in direct reported speech of God or his angel, you may use "**behold**," especially if it lends more dignity in English to the divine words than "look" or "see," etc., would do.
+  * //wehinneh //"**And behold**," "**behold**" (when used <font inherit/inherit;;inherit;;inherit>in normal narrative passages or in narrative embedded in direct speech). For conversational passages, see the preceding paragraph.</font>
   * <font inherit/inherit;;inherit;;inherit>// YHWH  // , Jehovah, Lord (when referring to YHWH) "  ** Yahweh  ** " (The ASV uses "Jehovah," but we will not.)</font>
   * //Meshiach "//**Messiah**" (almost always, "**the Messiah**," since "Messiah" is a titl//e)//
-  *
+  * preverbal //and //  of the type, "and Joseph said," "and it came about," etc.: translate these without supplying "and." – <font inherit/inherit;;inherit;;inherit>These occurrences of "and" in the</font>    ASV <font inherit/inherit;;inherit;;inherit>and its derivatives usually occur where the</font>    ASV <font inherit/inherit;;inherit;;inherit>translates the preverbal Greek particle</font>    //kai// <font inherit/inherit;;inherit;;inherit>or the Hebrew</font>    //vav // <font inherit/inherit;;inherit;;inherit>in the</font>    //wayyiqtol // <font inherit/inherit;;inherit;;inherit>verb form. The Greek particle</font>    //kai// <font inherit/inherit;;inherit;;inherit>was usually a Hebraism on the part of the New Testament writers that reflected their understanding that the Hebrew</font>    //wayyiqtol // <font inherit/inherit;;inherit;;inherit>form contained the conjunctive</font>    //vav// <font inherit/inherit;;inherit;;inherit>​ 'and'. This, however, was a misunderstanding, for modern scholarship has shown that the</font>    //wayyiqtol// <font inherit/inherit;;inherit;;inherit>​ form was a frozen form with parallels in cognate Semitic languages; it was the preferred Hebrew verb form for signaling event verbs in Hebrew narration. – In some cases, good English style may require a preverbal "and." When it does, you are free to supply it. In most cases, however, English style does not require this "and." – Note that the ASV very often supplies preverbal "and" even when there is no  // kai  // ​ in Greek, and even when Greek has the particle  // de  // , and, in fact, often when there is no Greek connective at all between clauses.</font>
+  * <font inherit/inherit;;inherit;;inherit>Expressions of the type, "he knew his wife" or "he went into his wife": try to use acceptable English euphemisms such as, " ** he slept with his wife ** ," " ** he made love to his wife ** ," or even " ** they came together as man and wife ** ." Every language has its own euphemisms for these ideas, and our English usage is simply to encourage them to employ their own. This general rule is as true for the UDB as for the ULB. To express a crime of this nature, try using, " ** he forced himself on her ** ."</font>
+  * <font inherit/inherit;;inherit;;inherit>// Shall  // vs.  // will  // in English future expressions: in general, use "will" instead of "shall." This general preference for "will" probably conforms to the instincts of most English native speakers. -- However, in genres such as prophecies, blessings, curses, and in other passages expressing special intention, consider using "shall," e.g., "A deliverer shall come to Zion," "every mountain and hill shall be made low."</font>
 
-**TG for the New Testament ULB**
-
+**Translation Glossary ****for the New Testament ULB**
   * //nomikos //"**expert in the Jewish law**"
   * //grammateus//  "**scribe**"
   * //egeneto de//, //kai egeneto //  "**And it came about**"
   * //idou // <font inherit/inherit;;inherit;;inherit>"  ** Behold  ** " (when used in normal narrative passages or in narrative embedded in direct speech. In conversational passages, translate</font>    //idou preferably // <font inherit/inherit;;inherit;;inherit>as, "  ** look  ** ," "  ** see  ** ," "  ** see here  ** ," or at need as something else suitable for signaling that what immediately follows in the text is prominent. Some conversational contexts may make it almost impossible to give any translation at all of</font>    //idou.//
   * //Messiah//  This term <font inherit/inherit;;inherit;;inherit>sometimes appears in the NT in transliterated Greek. You will have to evaluate each case, but in general this term should be translated, "  ** Messiah  ** ."</font>
   * //Xristos //"**Christ**" or "**the Christ**" (if the term is being clearly used as a title; Paul often seems to use //Xristos //  as a second name for Jesus, but at times he clearly uses it as a title).
+  * preverbal //and //  of the type, "and Joseph said," "and it came about," etc.: translate these without supplying "and." – <font inherit/inherit;;inherit;;inherit>These occurrences of "and" in the</font>    ASV <font inherit/inherit;;inherit;;inherit>and</font>    its derivatives usually occur where the ASV <font inherit/inherit;;inherit;;inherit>translates</font>    the preverbal Greek particle //kai// <font inherit/inherit;;inherit;;inherit>or the Hebrew</font>    //vav // <font inherit/inherit;;inherit;;inherit>in the</font>    //wayyiqtol // <font inherit/inherit;;inherit;;inherit>verb form. The Greek particle</font>    //kai// <font inherit/inherit;;inherit;;inherit>was usually a Hebraism on the part of the New Testament writers that reflected their understanding that the Hebrew</font>    //wayyiqtol // <font inherit/inherit;;inherit;;inherit>form contained the conjunctive</font>    //vav// <font inherit/inherit;;inherit;;inherit>​ 'and'. This, however, was a misunderstanding, for modern scholarship has shown that the</font>    //wayyiqtol// <font inherit/inherit;;inherit;;inherit>​ form was a frozen form with parallels in cognate Semitic languages; it was the preferred Hebrew verb form for signaling event verbs in Hebrew narration. – In some cases, good English style may require a preverbal "and." When it does, you are free to supply it. In most cases, however, English style does not require this "and." – Note that the ASV very often supplies preverbal "and" even when their is no  // kai  // ​ in Greek, and even when Greek has the particle  // de  // , and, in fact, often when there is no Greek connective at all between clauses.</font>
+  * <font inherit/inherit;;inherit;;inherit>Expressions of the type, "he knew his wife" or "he went into his wife": try to use acceptable English euphemisms such as, "he slept with his wife" or even "they came together as man and wife." Every language has its own euphemisms for these ideas, and our English usage is simply to encourage them to employ their own. This general rule is as true for the UDB as for the ULB.</font>
+  * <font inherit/inherit;;inherit;;inherit>// Shall  // vs.  // will  // in English future expressions: in general, use "will" instead of "shall." This general preference for "will" probably conforms to the instincts of most English native speakers. -- However, in genres such as prophecies, blessings, curses, and in other passages expressing special intention, consider using "shall," e.g., "A deliverer shall come to Zion," "every mountain and hill shall be made low."</font>
+
 **Notes regarding drafting ULB and UDB texts:**
 
 1. The system we are using to draft these texts involves editors being able to edit the texts simultaneously. That means that what one editor deleted or added may be changed by another editor. However all the previous edits are preserved and can be viewed by using the timeline. The final editor will make decisions regarding what edits will be used for the final draft. Discussion about the edits or about alternate suggestions for the final editor to consider can be made in the chat boxes.
@@ -107,7 +109,7 @@ v. 2 But there is nothing covered up that will not be revealed, and nothing hidd
 
 v. 3 Therefore, whatever you say in the darkness will be heard in the light and whatever you have spoken in someone’s ear in a closet will be proclaimed from the roof of a house.
 
-See the attached document on {{:en:bible:team-info:processes:how_to_use_ether_padv2.pdf|How to Use the Ether Pad}}  interface.
+See the attached document on [[:en:bible:team-info:processes:how-to-use-the-ether-pad|How to Use the Ether Pad]] interface.
 
 This section has links to additional resources for your "continuing education" in how to do the best job of editing the text.
 
@@ -115,6 +117,6 @@ This section has links to additional resources for your "continuing education" i
 
 Additional topics will be added as they are needed and developed. Please check back here from time to time.
 
-(See also: [[:en:bible:team-info:processes:edit-udb|Edit the UDB]])
+(See also: [[:en:bible:team-info:processes:edit-the-udb|Edit the UDB]])
 
 {{tag>ulb101}}

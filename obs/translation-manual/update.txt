@@ -1,0 +1,18 @@
+===== How to Update a Previous Version of Open Bible Stories =====
+
+In an effort to ensure the highest quality resource possible with the highest level of accuracy to the Bible, several revisions have been made to Open Bible Stories through the years. Sometimes translations have been made off of a previous version. It is our desire that every translation be updated to the latest, best version of Open Bible Stories. 
+
+==== Identify which Version of Open Bible Stories ====
+
+Most translations have the version number listed. Some translations, especially those done offline, do not have the version number. To figure out which version a particular translation is:
+  * Check story #45. If it ends with Philip looking at the chariot then it is version 1.0. If it ends with the Ethiopian Official smiling go to step 2.
+  * Check 06-02. If the phrase "to the land where Abraham's relatives lived" is not included then it is version 2.0. If it is included it is at least version 3.0. (Also check 09-06, if "in order to save him from being killed" is not included it is version 2.0. If it is included it is at least version 3.0.)
+  * To make sure you have the latest version, click [[en:obs:change-log|here]] and make sure these changes have been made in your language. 
+
+==== Update to the Latest Version of Open Bible Stories ====
+ 
+Once you have identified which version of Open Bible Stories your language is, you will need to update your language to the latest version. To help simplify the update process, we have generated change logs of all the changes that happened between [[https://door43.org/obs-diffs/ver_1-to-ver_3.html|version 1 and the latest]] and [[https://door43.org/obs-diffs/ver_2-to-ver_3.html|version 2 and the latest]]. Simply go through these changes and update the text to according to those documents. 
+
+//Continue to [[en:obs:translation-manual:content|What Needs to Be Translated]]//
+
+~~DISCUSSION~~

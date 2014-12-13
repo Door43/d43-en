@@ -1,20 +1,28 @@
-====== Biblical distances (in metric) ======
+====== Biblical distances ======
 
 ===== Definition: =====
 
-Text
-    * cubit
-    * furlong
+<font 13.63636302948px line-height: 17.8181819915772px/inherit;;inherit;;inherit>The following terms are the most common Biblical units that were used to measure distance or the length of something.</font>
 
+  * <font 13.63636302948px line-height: 17.8181819915772px/inherit;;inherit;;inherit>The  ** cubit  ** referred to the length of a man's forearm, from the elbow to the tip of the longest finger.</font>
+  * <font 13.63636302948px line-height: 17.8181819915772px/inherit;;inherit;;inherit>A  ** furlong  ** is an ancient English word that refers to the average length of a plowed field. It was used to translate the Greek word "stadion".</font>
+  * <font 13.63636302948px line-height: 17.8181819915772px/inherit;;inherit;;inherit>The  ** span  ** or handspan was the width of a man's hand with fingers spread out.</font>
 
+<font 13.63636302948px line-height: 17.8181819915772px/inherit;;inherit;;inherit>[Table]</font>
 
+  * cubit = 46 centimeters (18 inches)
+  * furlong = 202 meters (660 feet)
+  * span = 23 centimeters (9 inches)
 
-(See also: [[:en:bible:notes:key-terms:URLterm|term]])
+How to translate units of measure for distance or length in the Bible:
+
+  - Keep the Bible term, spelling it in a way that is similar to the way it sounds or is spelled in the Bible. [See Transliterate]
+  - An important reason for keeping the Bible terms is to show that the Bible is true and people actually used these units of measure during that time period.
+  - If it doesn't work to use the Bible term, then instead, state the same distance or length in terms of a unit of measure that is known.
+  - These methods could be combined, using the Bible term but then also giving the equivalent amount in the text or a note.
+
+(See also: [[:en:bible:notes:key-terms:urlterm|term]])
 
 ===== Bible References: =====
 
-{{topic>biblicaldistances&nocomments}}
-
-~~DISCUSSION~~
-
-{{tag>draft}}
+{{topic>biblicaldistances&nocomments}}~~DISCUSSION~~{{tag>draft}}

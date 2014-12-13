@@ -21,8 +21,8 @@
 
 <usfm>
 \p
-\v 57 And as they were going on their way, someone said to him, "I will follow you wherever you go."
-\v 58 And Jesus said to him, "Foxes have holes, and the birds of the sky have nests, but the Son of Man has nowhere to lay his head."
+\v 57 As they were going on their way, someone said to him, "I will follow you wherever you go."
+\v 58 Jesus said to him, "Foxes have holes, and the birds of the sky have nests, but the Son of Man has nowhere to lay his head."
 </usfm>
 
 
@@ -34,13 +34,15 @@
 
 ===== Translation Notes: =====
 
-
-    * **Foxes **- These are land animals that live in a den or a burrow.
+  * **Foxes**  - These are land animals similar to small dogs. They sleep in a den or a burrow in the ground.
+  * **someone**  - This was not one of the disciples.
+  * **birds of the sky**  - "birds that fly in the air"
+  * **Son of Man**  - Jesus is speaking about himself in the third person. This could be translated as "I, the Son of Man." (See: [[:en:ta:vocabulary:123person]])
+  * **nowhere to lay his head**  - "nowhere to rest my head" or "nowhere to sleep." This is a hyperbole. Jesus is exaggerating in order to get across the point that he did not have a home of any kind. (See: [[:en:ta:figuresofspeech:hyperbole]])
 
 ===== Links: =====
 
   * **[[en/bible/notes:luk/questions/comprehension/09|Luke Chapter 09 Comprehension Questions]]**
-  * **[[en/bible/notes:luk/questions/checking/Luke-checking|Luke Checking Questions]]**
 
  
 
@@ -50,4 +52,4 @@
 ~~DISCUSSION~~
 
 
-{{tag>review sonofman}}
+{{tag>discuss talink sonofman}}

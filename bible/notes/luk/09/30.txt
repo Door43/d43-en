@@ -19,7 +19,7 @@
 ===== ULB: =====
 
 <usfm>
-\v 30 And behold, there were two men talking with him; they were Moses and Elijah,
+\v 30 Behold, there were two men talking with him; they were Moses and Elijah,
 \v 31 who looked glorious. They spoke about his departure, which he was about to fulfill in Jerusalem.
 </usfm>
 
@@ -36,12 +36,12 @@
 
 ===== Translation Notes: =====
 
-  * **And behold, there were two men**  - The word "behold" alerts us to the two new people in the story. Your language may have a way of doing this. English uses "There were two men who were...”
-  * **departure** - That is, his death, burial & resurrection.
+  * **And behold, there were two men talking**  - The word “behold” here alerts us pay attention to the surprising thing that follows. It can be translated as "Suddenly there were two men talking" or "Suddenly two men were talking."
+  * **who looked glorious** - This relative clause is adding information about Moses and Elijah. It can be translated as "and they looked glorious." (See: talink Relative Clauses)
+  * **his departure**  - "his leaving" or "how he would leave this world." It could be translated as "his death." (See: [[:en:ta:figuresofspeech:euphemism]])
 ===== Links: =====
 
   * **[[en/bible/notes:luk/questions/comprehension/09|Luke Chapter 09 Comprehension Questions]]**
-  * **[[en/bible/notes:luk/questions/checking/Luke-checking|Luke Checking Questions]]**
 
 
 **[[en/bible/notes/luk/09/28|<<]] | [[en/bible/notes/luk/09/32|>>]]**
@@ -50,4 +50,4 @@
 ~~DISCUSSION~~
 
 
-{{tag>review moses elijah}}
+{{tag>discuss moses elijah talink}}

@@ -30,8 +30,9 @@ The following gives an overview of a few projects we have going:
 
 This is not an exhaustive list but just a few pointers to keep us on the same page.
 
-    * We use Git for managing code (data, too) and usually Github.  This makes everyone's life easier.  If you need help here, see Github's helpful sites: https://help.github.com/ and https://help.github.com/articles/set-up-git.  See also the Git manual: http://git-scm.com/documentation.
-    * When using Git, commit often, see http://blog.crealytics.com/2010/07/09/5-reasons-keeping-git-commits-small-admin/.
-    * Use existing code whenever possible.  If someone has already done what you are trying to do, or even something slightly similar, see if you can use that first (of course check the license).
-    * We tend to license our code with a BSD/MIT style license, when possible.
-    * In terms of license assignment and identification, use something very similar to what you see at the top of https://github.com/Door43/tools/blob/master/uwb/t4t2dw.py.
+  * We use Git for managing code (data, too) and usually Github. This makes everyone's life easier. If you need help here, see Github's helpful sites: [[https://help.github.com/|https://help.github.com/]] and [[https://help.github.com/articles/set-up-git|https://help.github.com/articles/set-up-git]]. See also the Git manual: [[http://git-scm.com/documentation|http://git-scm.com/documentation]].
+  * When using Git, commit often, see [[http://blog.crealytics.com/2010/07/09/5-reasons-keeping-git-commits-small-admin/|http://blog.crealytics.com/2010/07/09/5-reasons-keeping-git-commits-small-admin/]].
+  * Use existing code whenever possible. If someone has already done what you are trying to do, or even something slightly similar, see if you can use that first (of course check the license).
+  * We tend to license our code with a BSD/MIT style license, when possible.  Feel free to copy [[https://github.com/Door43/tools/blob/master/LICENSE|https://github.com/Door43/tools/blob/master/LICENSE]] into new projects.
+  * In terms of license assignment and identification, use something very similar to what you see at the top of [[https://github.com/Door43/tools/blob/master/uwb/t4t2dw.py|https://github.com/Door43/tools/blob/master/uwb/t4t2dw.py]].
+  * Access to our servers is allowed only via SSH public key authentication to non-root accounts.  If you are on Windows, you'll need PuTTY.  If you are creating a new key, use these options, ''ssh-keygen -t rsa -b 4096''.

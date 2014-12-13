@@ -5,14 +5,23 @@
 ==== A Free & Open Visual Mini-Bible ====
 
 
-Open Bible Stories is developed by [[http://distantshoresmedia.org|Distant Shores Media]], [[http://www.wycliffeassociates.org|Wycliffe Associates]], and the Door43 world missions community. The illustrations are © [[http://www.sweetpublishing.com|Sweet Publishing]] and the entire project—text and illustrations—is made available under a [[http://creativecommons.org/licenses/by-sa/3.0|Creative Commons Attribution-ShareAlike 3.0 Unported License]], please attribute [[http://openbiblestories.com|http://openbiblestories.com]].
+Open Bible Stories is developed by [[http://distantshoresmedia.org|Distant Shores Media]], [[http://www.wycliffeassociates.org|Wycliffe Associates]], and the Door43 world missions community. The illustrations are © [[http://www.sweetpublishing.com|Sweet Publishing]] and the entire project—text and illustrations—is made available under a [[http://creativecommons.org/licenses/by-sa/4.0|Creative Commons Attribution-ShareAlike 4.0 Unported License]], please attribute [[http://openbiblestories.com|http://openbiblestories.com]].
 
 ==== How You Can Help ====
 
 
-Feel free to join the Open Bible Stories translation team and help finish a translation, or start a new one. Here's **[[:en:obs:help|how to get started]]** translating Open Bible Stories.
+Feel free to join the Open Bible Stories translation team and start a new translation, complete one that has already been started, or help check a completed translation. To learn more about how you can help, please consult the Translation Manual. 
 
-//If you prefer, you can download the [[https://api.unfoldingword.org/obs/txt/1/en/en-obs-v3_1_1-2014-10-27.zip|latest English OBS]] source text as a zip archive and begin translating offline, on any computer or mobile device.  Or, you can download [[https://api.unfoldingword.org/obs/txt/1/en/en-obs-notes-v3_1_1-2014-10-27.zip|latest English OBS + translation notes]] to help with your translation.  You can also download the [[https://api.unfoldingword.org/obs/txt/1/en/obs-en-v3_1_1.pdf|latest English OBS as a PDF]].// 
+{{page>en:obs:translation-manual}} 
+
+
+==== Downloads ====
+
+//If you prefer, you can download the [[https://api.unfoldingword.org/obs/txt/1/en/en-obs-v3_1_1-2014-10-27.zip|latest English OBS]] source text as a zip archive and begin translating offline, on any computer or mobile device. Or, you can download [[https://api.unfoldingword.org/obs/txt/1/en/en-obs-notes-v3_1_1-2014-10-27.zip|latest English OBS + translation notes]] to help with your translation. You can also download the [[https://api.unfoldingword.org/obs/txt/1/en/obs-en-v3_1_1.pdf|latest English OBS as a PDF]].//
+
+//You can also download the zip files of the images in [[https://api.unfoldingword.org/obs/jpg/1/en/obs-images-360px.zip|standard definition ]]or [[https://api.unfoldingword.org/obs/jpg/1/en/obs-images-2160px.zip|high definition]].//
+
+==== Version Changes ====
 
 If you would like to know what has changed over the course of Open Bible Stories development, see:
 

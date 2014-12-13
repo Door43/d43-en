@@ -1,18 +1,26 @@
 ====== Add Key Terms to Notes Page ======
 
-Before adding a KT link to a page, check here to see if it already exists in [[en/bible/notes/key-terms/01-kt-list]]
+Before adding a KT link to a page, check here to see if it already exists in [[:en:bible:notes:key-terms:01-kt-list|Full Key Terms List]]
 
-If not: 
+If not:
 
-  * Add the f​ollowing tag to the to the chunk page above the Discussion link: 
-<code>{{tag>[ktlink]}}</code>
-  * If there is already a tag for the tA link, leave a space and add to it like this: 
-<code>{{tag>[talink ktlink]}}</code>
-  * The KT team will see the list of chunks that need KT's here: [[en/bible/notes/key-terms/00-kt-needed]]
+  * Add the f​ollowing tag to the to the chunk page above the Discussion link:
+
+<code>
+{{tag>ktlink}}
+</code>
+
+  * If there is already a tag for the tA link, leave a space and add to it like this:
+
+<code>
+{{tag>talink ktlink}}
+</code>
+
+  * The KT team will see the list of chunks that need KT's here: [[:en:bible:notes:key-terms:00-kt-needed|00-kt-needed]]
   * Once they have created the page, they will delete the tag.
-If you have any comments about an existing KT page, put them in the Discussion section of that page, and the add the date of your comment to the "Discussion added" column of the  [[https://docs.google.com/a/wycliffeassociates.org/spreadsheet/ccc?key=0Ao3SWGDZejXHdF9zZ2tDMWJoaHlmOVh6a2xtVGduZGc&usp=sharing​|Key Terms List on Google Drive]].
+
+If you have any comments about an existing KT page, put them in the Discussion section of that page, and the add the date of your comment to the "Discussion added" column of the [[https://docs.google.com/a/wycliffeassociates.org/spreadsheet/ccc?key=0Ao3SWGDZejXHdF9zZ2tDMWJoaHlmOVh6a2xtVGduZGc&usp=sharing​|Key Terms List on Google Drive]].
 
 If you are unsure of the syntax of a KT link, see "Page Link" column of the [[https://docs.google.com/a/wycliffeassociates.org/spreadsheet/ccc?key=0Ao3SWGDZejXHdF9zZ2tDMWJoaHlmOVh6a2xtVGduZGc&usp=sharing​|Key Terms List on Google Drive]].
-
 
 {{tag>notes301 kt301}}

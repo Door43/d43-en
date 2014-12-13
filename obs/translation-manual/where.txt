@@ -1,0 +1,93 @@
+===== Where to Translate Open Bible Stories =====
+
+There are three places where a translation of Open Bible Stories can happen: 
+
+  * **[[en:obs:translation-manual:where#Online Translation (door43.org)|online at Door43]]**
+  * **[[en:obs:translation-manual:where#Offline Translation on a Mobile Device (translationStudio)|offline on the translationStudio mobile app]]**
+  * **[[en:obs:translation-manual:where#Offline Translation in a Text Editor|offline in a text editor]]** 
+
+It is recommended to either do the translation on Door43 or in the translationStudio mobile app. 
+
+==== Online Translation (door43.org) ====
+
+Translating content in Door43 is easy! Follow these simple steps to get started:
+
+=== 1. Create an Account & Log into Door43 ===
+
+To start translating content, you will need a user account on Door43. If you see your name in the top area below the browser menu bar, skip to #2 below. If you do not have an account, [[:en:get-started?do=register|create one]] then you can [[https://door43.org/en/obs-training/get-started?do=login&sectok=ee4e19eb537ef77891aa5a6b54b7b2a4|login]].\\ 
+Watch this [[http://youtu.be/dpsJRDAa3I8|video]] (45 seconds long) to see how to set up an account.
+
+    * Click on the Register link at the top of the page.
+    * Fill in the necessary information to set up an account.
+    * Check your email for the automatic generated password. (You might find the email in your spam folder.)
+    * Click on the 'Update Profile' link to change the password.
+
+=== 2. Practice Editing a Page ===
+
+Door43 has a [[:playground:playground|test page]] that you can edit for practice. 
+
+Note: Click [[en:obs-training:get-started:switching_editors|here]] to learn how to switch between the editors.
+
+=== 3. Choose a Story ===
+
+Let's start with a story about Jesus and his disciples. Click for the story [[:en:obs:31|31. Jesus Walks on Water]].
+
+<code>
+Note: Right click on links and choose "Open in new window."
+</code>
+
+=== 4. Choose the language into which you want to translate ===
+
+In the sidebar of Story 31, you should see a language selection dropdown. When you click it, a list of available languages displays, sorted by language code. If you see the language into which you would like to translate, click it.
+
+If you need a language added to Door43, please  [[http://distantshoresmedia.org/contact|contact us]].
+
+=== 5. Start Translating ===
+
+Simply begin translating the source text into the language you selected.
+
+
+==== Offline Translation on a Mobile Device (translationStudio) ====
+
+=== 1. Download & Install the app ===
+
+The app is available in the [[https://play.google.com/store/apps/details?id=com.translationstudio.androidapp|Google Play Store]] and the [[https://itunes.apple.com/us/app/translation-studio/id925570675?mt=8|App Store]]. Or it can be [[http://distantshores.org/translationStudio|directly downloaded and installed]]. 
+
+=== 2. Create Your Profile ===
+
+Tap on the person icon. Create your profile. 
+
+=== 3. Choose Your Language ===
+
+Tap on the gear icon. Tap on “Add a new target language.” Type in the name of target language and choose from the list. 
+
+Note: Multiple languages can be selected and translated on the same device. 
+
+Also note: the left-to-right or right-to-left toggle switch at the top of this menu. 
+
+=== 4. Start Translating ===
+
+Tap on the books icon on the left. The open book icon on the top left shows all 50 stories. Select a story. The page icon on the top right shows the frames within the selected story. Select a frame. Tap on the righthand side of the main page and begin translating. You will be prompted to translate the title and where the story can be found in the Bible. Work your way through all the stories, and invite other people who speak your language to help! 
+
+
+==== Offline Translation in a Text Editor ====
+
+=== 1. Download the Source Text ===
+
+The easiest way to translate Open Bible Stories in a word processor is to [[http://door43.org/_media/en/obs/en-obs-v3_1-2014-08-06.zip|download the source text]].
+
+=== 2. Open a Story File ===
+
+Each story is its own text file. Open one of the files.
+
+=== 3. Start Translating === 
+
+Translate the title: the title looks like this: ====== 31. Jesus Walks on Water ====== . Leave the “=” alone and just translate the title. 
+Translate the text: start translating the text for each frame. After you have translated the text into the target language, then delete the original text of the source language.
+
+Note: Be sure to leave all of the links that look similar to this <code>{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-01.jpg}}</code> alone. These are the links to the pictures. If left in tact, all the images will work perfectly once the work is put on the website.
+
+
+//Continue to [[en:obs:translation-manual:translate|How to Translate Open Bible Stories]]//
+
+~~DISCUSSION~~

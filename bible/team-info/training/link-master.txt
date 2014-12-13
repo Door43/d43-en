@@ -12,7 +12,7 @@ Each page was automatically assigned one of the following tags when it was creat
 {{tag>draft}}
 </code>
 
-  where BBB = lowercase 3-letter Bible book designator\\
+where BBB = lowercase 3-letter Bible book designator\\
 and NN = Chapter number
 
 When the Notes teams finish adding the draft content, the LPM will change the status tag in each page to:
@@ -63,7 +63,7 @@ Text
 {{topic>URLterm&nocomments}}
 
 ~~DISCUSSION~~
-
+~~NOCACHE~~
 {{tag>create rutxx}}
 {{tag>draft}}
 </code>
@@ -88,7 +88,7 @@ Text
 {{topic>urlname&nocomments}}
 
 ~~DISCUSSION~~
-
+~~NOCACHE~~
 {{tag>create rutxx}}
 {{tag>draft}}
 </code>
