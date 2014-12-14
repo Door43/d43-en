@@ -2,15 +2,17 @@
 
 ===== Definition: =====
 
-The following terms are the most common Biblical units of measure used to explain how much liquid (such as wine) or solid objects (such as grain) a certain receptacle contains.
+The following terms are the most common Biblical units of measure used to explain how much liquid (such as wine) or solid (dry) objects (such as grain) a certain receptacle contains.
 
-  * bath - 22.0 liters
-  * hin - 3.7 liters
-  * homer - 230.0 liters
-  * kab - 1.3 liters
-  * kor - 220.0 liters
-  * log - 0.3 liters
-  * seah - 7.7 liters
+^ Type    ^ Measurement  ^    Value ^ Units   ^
+| Dry/Liq |              |          |         |
+| Dry     | homer        |   220.00 | liters  |
+| Dry     | kor          |   220.00 | liters  |
+| Dry     | seah         |     7.70 | liters  |
+| Liquid  | bath         |    22.00 | liters  |
+| Liquid  | hin          |     3.70 | liters  |
+| Liquid  | kab          |     1.23 | liters  |
+| Liquid  | log          |     0.31 | liters  |
 
 How to translate units of measure in the Bible:
 
