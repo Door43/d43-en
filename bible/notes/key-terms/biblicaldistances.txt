@@ -8,11 +8,12 @@
   * <font 13.63636302948px line-height: 17.8181819915772px/inherit;;inherit;;inherit>A  ** furlong  ** is an ancient English word that refers to the average length of a plowed field. It was used to translate the Greek word "stadion".</font>
   * <font 13.63636302948px line-height: 17.8181819915772px/inherit;;inherit;;inherit>The  ** span  ** or handspan was the width of a man's hand with fingers spread out.</font>
 
-<font 13.63636302948px line-height: 17.8181819915772px/inherit;;inherit;;inherit>[Table]</font>
+<font 13.63636302948px line-height: 17.8181819915772px/inherit;;inherit;;inherit></font>
 
-  * cubit = 46 centimeters (18 inches)
-  * furlong = 202 meters (660 feet)
-  * span = 23 centimeters (9 inches)
+^ Distance ^    Value ^ Units       ^
+| cubit    |       46 | centimeters |
+| furlong  |      202 | meters      |
+| span     |       23 | centimeters |
 
 How to translate units of measure for distance or length in the Bible:
 
