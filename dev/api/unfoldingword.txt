@@ -51,5 +51,22 @@ e.g. api.unfoldingword.org/obs/jpg/1/en/2160px/obs-en-01-01.jpg
 
 This catalog records resources available for translation in translationStudio.
 
+Example content:
+
+  [
+    {
+      "title": "Open Bible Stories", 
+      "desc": "50 key stories of the Bible",
+      "slug": "obs", 
+      "catalog": "https://api.unfoldingword.org/obs/txt/1/obs-catalog.json"
+    },
+    {
+      "title": "Gospel of Luke",
+      "desc": "Gospel",
+      "meta": ["Bible", "New Testament"],
+      "slug": "luk",
+      "catalog": "https://api.unfoldingword.org/bible/txt/1/luk-catalog.json
+    }
+  ]
 
 Visit [[http://door43.org/en/uwadmin/home|http://door43.org/en/uwadmin/home]] to export another language.
