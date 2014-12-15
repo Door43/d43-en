@@ -77,7 +77,7 @@ The Bible catalog files *may* look like this:
       "direction": "ltr",
       "language": "en",
       "name": "udb",
-      "location: "https://api.unfoldingword.org/udb/txt/1/en/luk.usx"
+      "location: "https://api.unfoldingword.org/udb/txt/1/en/luk/luk.usx"
       "status": {
       "checking_entity": "Distant Shores Media; Wycliffe Associates",
         "checking_level": "3",
@@ -95,7 +95,7 @@ The Bible catalog files *may* look like this:
       "direction": "ltr", 
       "language": "en", 
       "name": "ulb",
-      "location: "https://api.unfoldingword.org/ulb/txt/1/en/luk.usx"
+      "location: "https://api.unfoldingword.org/ulb/txt/1/en/luk/luk.usx"
       "status": {
       "checking_entity": "Distant Shores Media; Wycliffe Associates", 
         "checking_level": "3", 
