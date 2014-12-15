@@ -10,4 +10,5 @@ We have decided to use "American-style" punctuation. For this project, that mean
   * When writing a string of translation alternatives separated by "or" do not use commas between the phrases. (Ex. That is, "one time" or "the next" or "all at once.")
   * Do not use a comma when introducing a note with "This can be translated as …"
   * Do **not **  use the colon (:). Many MTTs are unfamiliar with the colon and its use. This request will require editing out a good many colons from the ASV-based text. <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>If you want to use a colon, as in “He sent them a gift: nuts, figs, and skins of wine,” then rephrase it to “He sent them a gift. It was nuts, figs, and skins of wine.”</font>
+
 {{tag>notes201 kt201 udb201 ulb201}}~~DISCUSSION~~
