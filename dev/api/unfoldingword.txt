@@ -79,6 +79,7 @@ Example content:
   {
     "proj_name": "Luke",
     "proj_desc": "Gospel",
+    "meta_proj": ["Bible", "New Testament"],
     "language": "en",
     "lang_name": "English",
     "direction": "ltr",
