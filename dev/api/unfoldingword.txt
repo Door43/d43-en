@@ -69,44 +69,47 @@ Example content:
     }
   ]
 
-The Bible catalog files *may* look like this:
+The Bible catalog files (e.g. luk-catalog.json) *may* look like this:
 
   [
     {
+      "book_name": "Luke",
       "date_modified": "20141207",
       "direction": "ltr",
       "language": "en",
-      "name": "udb",
+      "lang_name": "English",
       "location: "https://api.unfoldingword.org/udb/txt/1/en/luk"
+      "res_name": "udb",
       "status": {
       "checking_entity": "Distant Shores Media; Wycliffe Associates",
         "checking_level": "3",
         "comments": "Original source text.",
-        "contributors": "Distant Shores Media",
+        "contributors": "Wycliffe Associates",
         "publish_date": "2014-12-07",
         "source_text": "en",
         "source_text_version": "3.1.1",
         "version": "3.1.1"
       },
-      "string": "English"
+      "slug": "luk",
     },
     {
-      "date_modified": "20141209", 
-      "direction": "ltr", 
-      "language": "en", 
-      "name": "ulb",
+      "book_name": "Luke",
+      "date_modified": "20141207",
+      "direction": "ltr",
+      "language": "en",
+      "lang_name": "English",
       "location: "https://api.unfoldingword.org/ulb/txt/1/en/luk"
+      "res_name": "ulb",
       "status": {
-      "checking_entity": "Distant Shores Media; Wycliffe Associates", 
-        "checking_level": "3", 
-        "comments": "Original source text.", 
-        "contributors": "Distant Shores Media", 
-        "publish_date": "2014-12-07", 
-        "source_text": "en", 
-        "source_text_version": "3.1.1", 
+      "checking_entity": "Distant Shores Media; Wycliffe Associates",
+        "checking_level": "3",
+        "comments": "Original source text.",
+        "contributors": "Wycliffe Associates",
+        "publish_date": "2014-12-07",
+        "source_text": "en",
+        "source_text_version": "3.1.1",
         "version": "3.1.1"
-      }, 
-      "string": "English"
-    }, 
+      },
+      "slug": "luk",
+    }
   ]
-
