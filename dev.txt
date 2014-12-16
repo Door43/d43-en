@@ -8,11 +8,10 @@ The following gives an overview of a few projects we have going:
 
 ===== Open Bible Stories =====
 
-
-    * **[[:en:dev:obs-app|Open Bible Stories App]]** — //a picture flipboard "ebook" with the text of each segment overlayed over the picture and all of it wrapped in a mobile app. // 
-    * **[[:en:dev:obs-translation-app|Open Bible Stories Translation App]]** — //an Android (and possibly Chrome(book) extension) that facilitates the translation of Open Bible Stories using a mobile device without requiring Internet access.// 
-    * **[[:en:dev:api:unfoldingword|Open Bible Stories API]]** — //how to access Open Bible Stories content via API.// 
-    * **[[:en:dev:obs-book-render|OBS Book Render]]** — //Open Bible Stories starts out as plain text, translated into any language. The text is combined with images on Door43 to create webpages with illustrations. The function of the **OBS Book Render**  utility is to convert the translated text and images into an Open Document file that can be post-processed and printed as a book.// 
+  * **[[:en:dev:obs-app|Open Bible Stories App]]** — //a picture flipboard "ebook" with the text of each segment overlayed over the picture and all of it wrapped in a mobile app. //
+  * **[[:en:dev:obs-translation-app|Open Bible Stories Translation App]]** — //an Android (and possibly Chrome(book) extension) that facilitates the translation of Open Bible Stories using a mobile device without requiring Internet access.//
+  * **[[:en:dev:api:unfoldingword|unfoldingWord API]]** — //how to access unfoldingWord content via API.//
+  * **[[:en:dev:obs-book-render|OBS Book Render]]** — //Open Bible Stories starts out as plain text, translated into any language. The text is combined with images on Door43 to create webpages with illustrations. The function of the **OBS Book Render**  utility is to convert the translated text and images into an Open Document file that can be post-processed and printed as a book.//
 
 ===== Extending Door43 =====
 
