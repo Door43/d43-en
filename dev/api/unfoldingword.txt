@@ -53,9 +53,11 @@ e.g. api.unfoldingword.org/obs/jpg/1/en/2160px/obs-en-01-01.jpg
 
 This catalog records resources available for translation in translationStudio. In the following examples each catalog reference could be generated dynamically in order to slim down the api size.
 
-Example content:
+Example:
 
 <code>
+location: /ts/txt/2/catalog.json
+content:
 [
   {
     "slug": "obs",
@@ -72,9 +74,11 @@ Example content:
 
 The language catalog would contain the translated project name and description along with necessary information regarding the language and it's status. Optional meta in the project provides the ability to create soft/virtual categories when viewed in the app. e.g. Bible→New Testament→Luke.
 
-Example content:
+Example:
 
 <code>
+location: /ts/txt/2/luk/languages.json
+content:
 [
   {
     "project": {
@@ -129,9 +133,11 @@ Example content:
 
 The resource catalog would contain the different types of resources available for translation. When multiple resources are present the app will supply ui controls to switch between resources.
 
-Example content.
+Example:
 
 <code>
+location: /ts/txt/2/luk/es/resources.json
+content:
 [
   {
     "slug": "ulb",
