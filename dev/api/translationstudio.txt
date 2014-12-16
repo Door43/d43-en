@@ -1,0 +1,108 @@
+====== translationStudio v2 API ======
+
+This catalog records resources available for translation in translationStudio. In the following examples each catalog reference could be generated dynamically in order to slim down the api size.
+
+{{https://api.unfoldingword.org/ts/txt/2/catalog.json|api.unfoldingword.org/ts/txt/2/catalog.json}}
+
+Example:
+
+<code>
+location: /ts/txt/2/catalog.json
+content:
+[
+  {
+    "slug": "obs",
+    "date_modified": "20141207",
+    "lang_catalog": "https://api.unfoldingword.org/ts/txt/2/obs/languages.json"
+  },
+  {
+    "slug": "luk",
+    "date_modified": "20141207",
+    "lang_catalog": "https://api.unfoldingword.org/ts/txt/2/luk/languages.json"
+  }
+]
+</code>
+
+The language catalog would contain the translated project name and description along with necessary information regarding the language and it's status. Optional meta in the project provides the ability to create soft/virtual categories when viewed in the app. e.g. Bible→New Testament→Luke.
+
+Example:
+
+<code>
+location: /ts/txt/2/luk/languages.json
+content:
+[
+  {
+    "project": {
+      "name": "Luke",
+      "desc": "Gospel",
+      "meta": ["Bible", "New Testament"]
+    },
+    "language": {
+      "slug": "en",
+      "name": "English",
+      "direction": "ltr",
+      "date_modified": "20141207"
+    },
+    "status": {
+      "checking_entity": "Distant Shores Media; Wycliffe Associates",
+      "checking_level": "3",
+      "comments": "Original source text.",
+      "contributors": "Wycliffe Associates",
+      "publish_date": "2014-12-07",
+      "source_text": "en",
+      "source_text_version": "3.1.1",
+      "version": "3.1.1"
+    },
+    "res_catalog": "https://api.unfoldingword.org/ts/txt/2/luk/en/resources.json"
+  },
+  {
+    "project": {
+      "name": "Lucas",
+      "desc": "evangelio",
+      "meta": ["Biblia", "Nuevo Testamento"]
+    },
+    "language": {
+      "slug": "es",
+      "name": "español",
+      "direction": "ltr",
+      "date_modified": "20141207"
+    },
+    "status": {
+      "checking_entity": "Distant Shores Media; Wycliffe Associates",
+      "checking_level": "3",
+      "comments": "Original source text.",
+      "contributors": "Wycliffe Associates",
+      "publish_date": "2014-12-07",
+      "source_text": "en",
+      "source_text_version": "3.1.1",
+      "version": "3.2.1"
+    },
+    "res_catalog": "https://api.unfoldingword.org/ts/txt/2/luk/es/resources.json"
+  }
+]
+</code>
+
+The resource catalog would contain the different types of resources available for translation. When multiple resources are present the app will supply ui controls to switch between resources.
+
+Example:
+
+<code>
+location: /ts/txt/2/luk/es/resources.json
+content:
+[
+  {
+    "slug": "ulb",
+    "name": "unfoldingWord Literal Bible",
+    "source": "https://api.unfoldingword.org/ts/txt/2/luk/es/ulb/source.json",
+    "terms": "https://api.unfoldingword.org/ts/txt/2/luk/es/ulb/terms.json",
+    "notes": "https://api.unfoldingword.org/ts/txt/2/luk/es/ulb/notes.json"
+  },
+  {
+    "slug": "udb",
+    "name": "unfoldingWord Dynamic Bible",
+    "source": "https://api.unfoldingword.org/ts/txt/2/luk/es/udb/source.json",
+    "terms": "https://api.unfoldingword.org/ts/txt/2/luk/es/udb/terms.json",
+    "notes": "https://api.unfoldingword.org/ts/txt/2/luk/es/udb/notes.json"
+  }
+]
+</code>
