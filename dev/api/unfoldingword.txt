@@ -77,9 +77,11 @@ Example content:
 <code>
 [
   {
-    "proj_name": "Luke",
-    "proj_desc": "Gospel",
-    "meta_proj": ["Bible", "New Testament"],
+    "project": {
+      "name": "Luke",
+      "desc": "Gospel",
+      "meta": ["Bible", "New Testament"]
+    },
     "language": "en",
     "lang_name": "English",
     "direction": "ltr",
