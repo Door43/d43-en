@@ -70,7 +70,7 @@ Example content:
 ]
 </code>
 
-The language catalog would contain the translated project name and description along with necessary information regarding the language and it's status.
+The language catalog would contain the translated project name and description along with necessary information regarding the language and it's status. Optional meta in the project provides the ability to create soft/virtual categories when viewed in the app. e.g. Bible->New Testament->Luke.
 
 Example content:
 
