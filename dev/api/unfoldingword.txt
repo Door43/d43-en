@@ -122,9 +122,9 @@ content:
       "comments": "Original source text.",
       "contributors": "Wycliffe Associates",
       "publish_date": "2014-12-07",
-      "source_text": "es",
+      "source_text": "en",
       "source_text_version": "3.1.1",
-      "version": "3.1.1"
+      "version": "3.2.1"
     },
     "res_catalog": "https://api.unfoldingword.org/ts/txt/2/luk/es/resources.json"
   }
