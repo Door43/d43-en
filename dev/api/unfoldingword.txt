@@ -48,7 +48,7 @@ e.g. api.unfoldingword.org/obs/jpg/1/en/2160px/obs-en-01-01.jpg
 ===== translationStudio Resource Catalog =====
 
 <code>
-  api.unfoldingword.org/ts/txt/2/ts-catalog.json
+  api.unfoldingword.org/ts/txt/2/catalog.json
 </code>
 
 This catalog records resources available for translation in translationStudio. In the following examples each catalog reference could be generated dynamically in order to slim down the api size.
