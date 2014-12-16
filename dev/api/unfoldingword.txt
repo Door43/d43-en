@@ -110,15 +110,15 @@ Example content.
 <code>
 [
   {
-    "resource": "ulb",
-    "res_name": "unfoldingWord Literal Bible",
+    "slug": "ulb",
+    "name": "unfoldingWord Literal Bible",
     "source": "https://api.unfoldingword.org/ts/txt/2/luk/es/ulb/source.json",
     "terms": "https://api.unfoldingword.org/ts/txt/2/luk/es/ulb/terms.json",
     "notes": "https://api.unfoldingword.org/ts/txt/2/luk/es/ulb/notes.json"
   },
   {
-    "resource": "udb",
-    "res_name": "unfoldingWord Dynamic Bible",
+    "slug": "udb",
+    "name": "unfoldingWord Dynamic Bible",
     "source": "https://api.unfoldingword.org/ts/txt/2/luk/es/udb/source.json",
     "terms": "https://api.unfoldingword.org/ts/txt/2/luk/es/udb/terms.json",
     "notes": "https://api.unfoldingword.org/ts/txt/2/luk/es/udb/notes.json"
