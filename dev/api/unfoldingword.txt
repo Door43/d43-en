@@ -47,69 +47,76 @@ e.g. api.unfoldingword.org/obs/jpg/1/en/2160px/obs-en-01-01.jpg
 
 ===== translationStudio Resource Catalog =====
 
-    api.unfoldingword.org/ts/txt/1/ts-catalog.json
+<code>
+  api.unfoldingword.org/ts/txt/2/ts-catalog.json
+</code>
 
-This catalog records resources available for translation in translationStudio.
+This catalog records resources available for translation in translationStudio. In the following examples each catalog reference could be generated dynamically in order to slim down the api size.
 
 Example content:
 
-  [
-    {
-      "title": "Open Bible Stories", 
-      "desc": "50 key stories of the Bible",
-      "slug": "obs", 
-      "catalog": "https://api.unfoldingword.org/obs/txt/1/obs-catalog.json"
-    },
-    {
-      "title": "Gospel of Luke",
-      "desc": "Gospel",
-      "meta": ["Bible", "New Testament"],
-      "slug": "luk",
-      "catalog": "https://api.unfoldingword.org/bible/txt/1/luk-catalog.json
-    }
-  ]
+<code>
+[
+  {
+    "slug": "obs",
+    "date_modified": "20141207",
+    "lang_catalog": "https://api.unfoldingword.org/ts/txt/2/obs/languages.json"
+  },
+  {
+    "slug": "luk",
+    "date_modified": "20141207",
+    "lang_catalog": "https://api.unfoldingword.org/ts/txt/2/luk/languages.json"
+  }
+]
+</code>
 
-The Bible catalog files (e.g. luk-catalog.json) *may* look like this:
+The language catalog would contain the translated project name and description along with necessary information regarding the language and it's status.
 
-  [
-    {
-      "book_name": "Luke",
-      "date_modified": "20141207",
-      "direction": "ltr",
-      "language": "en",
-      "lang_name": "English",
-      "location: "https://api.unfoldingword.org/udb/txt/1/en/luk"
-      "res_name": "udb",
-      "status": {
+Example content:
+
+<code>
+[
+  {
+    "proj_name": "Luke",
+    "proj_desc": "Gospel",
+    "language": "en",
+    "lang_name": "English",
+    "direction": "ltr",
+    "date_modified": "20141207",
+    "status": {
       "checking_entity": "Distant Shores Media; Wycliffe Associates",
-        "checking_level": "3",
-        "comments": "Original source text.",
-        "contributors": "Wycliffe Associates",
-        "publish_date": "2014-12-07",
-        "source_text": "en",
-        "source_text_version": "3.1.1",
-        "version": "3.1.1"
-      },
-      "slug": "luk",
+      "checking_level": "3",
+      "comments": "Original source text.",
+      "contributors": "Wycliffe Associates",
+      "publish_date": "2014-12-07",
+      "source_text": "en",
+      "source_text_version": "3.1.1",
+      "version": "3.1.1"
     },
-    {
-      "book_name": "Luke",
-      "date_modified": "20141207",
-      "direction": "ltr",
-      "language": "en",
-      "lang_name": "English",
-      "location: "https://api.unfoldingword.org/ulb/txt/1/en/luk"
-      "res_name": "ulb",
-      "status": {
-      "checking_entity": "Distant Shores Media; Wycliffe Associates",
-        "checking_level": "3",
-        "comments": "Original source text.",
-        "contributors": "Wycliffe Associates",
-        "publish_date": "2014-12-07",
-        "source_text": "en",
-        "source_text_version": "3.1.1",
-        "version": "3.1.1"
-      },
-      "slug": "luk",
-    }
-  ]
+    "res_catalog": "https://api.unfoldingword.org/ts/txt/2/luk/en/resources.json"
+  }
+]
+</code>
+
+The resource catalog would contain the different types of resources available for translation.
+
+Example content.
+
+<code>
+[
+  {
+    "resource": "ulb",
+    "res_name": "Literal Bible",
+    "source": "https://api.unfoldingword.org/ts/txt/2/luk/es/ulb/source.json",
+    "terms": "https://api.unfoldingword.org/ts/txt/2/luk/es/ulb/terms.json",
+    "notes": "https://api.unfoldingword.org/ts/txt/2/luk/es/ulb/notes.json"
+  },
+  {
+    "resource": "udb",
+    "res_name": "Dynamic Bible",
+    "source": "https://api.unfoldingword.org/ts/txt/2/luk/es/udb/source.json",
+    "terms": "https://api.unfoldingword.org/ts/txt/2/luk/es/udb/terms.json",
+    "notes": "https://api.unfoldingword.org/ts/txt/2/luk/es/udb/notes.json"
+  }
+]
+</code>
