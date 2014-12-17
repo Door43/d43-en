@@ -10,5 +10,3 @@
 ==== Check on bad tags ====
 
 {{pagequery>ns:en:bible:notes:luk "tag> " ; fulltext; sort=title:asc; display={title}; natsort; layout=table; showcount; hidemsg; hidejump;}}
-
-\\
