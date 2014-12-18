@@ -68,7 +68,7 @@ content:
 </code>
 ===== Resources Catalog =====
 
-The resource catalog contains the different types of resources available for translation. When multiple resources are present the app will supply ui controls to switch between resources. The date_modified field is updated any time the source, terms, or notes catalogs are updated. Included in each resource is status which indicates (among other things) the checking level of the resource. The app uses this to determine whether or not the resource is ready for use in the app.
+The resource catalog contains the different types of resources available for translation. When multiple resources are present the app will supply ui controls to switch between resources. The date_modified field is updated any time the source, terms, or notes catalogs are updated. Included in each resource is status which indicates (among other things) the checking level of the resource. The app uses this to determine whether or not the resource is ready for use in the app. If there is only one resource it should be given the slug value "default" and the name can be left as an empty string.
 
 Example:
 
