@@ -1,8 +1,8 @@
 ====== translationStudio v2 API ======
 
-<font 14px line-height: 19.6000003814697px;/inherit;;inherit;;inherit>In the following examples each catalog reference (i.e. the</font> url<font 14px line-height: 19.6000003814697px;/inherit;;inherit;;inherit>) could be generated dynamically in order to slim down the</font> api<font 14px line-height: 19.6000003814697px;/inherit;;inherit;;inherit>size.</font>
+<font 14px line-height: 19.6000003814697px/inherit;;inherit;;inherit>In the following examples each catalog reference (i.e. the</font>    url<font 14px line-height: 19.6000003814697px/inherit;;inherit;;inherit>) could be generated dynamically in order to slim down the</font>    api<font 14px line-height: 19.6000003814697px/inherit;;inherit;;inherit>size</font>    <font 14px line-height: 19.6000003814697px/inherit;;inherit;;inherit>.</font>
 
-The main catalog records resources available for translation in translationStudio. This file will always be downloaded first by the app in order to identify available updates. Please note: the date_modified field within this catalog gets it's value from the most recent date_modified  value found in the languages catalog. This allows the app to determine if updates are available.
+The main catalog records resources available for translation in translationStudio. This file will always be downloaded first by the app in order to identify available updates. Please note: the date_modified field within this catalog gets it's value from the most recent date_modified value found in the languages catalog. This allows the app to determine if updates are available.
 
 {{https://api.unfoldingword.org/ts/txt/2/catalog.json|api.unfoldingword.org/ts/txt/2/catalog.json}}
 
@@ -25,7 +25,7 @@ content:
 ]
 </code>
 
-The language catalog contains the translated project name and description along with necessary information regarding the language and it's status. Optional meta in the project provides the ability to create soft/virtual categories when viewed in the app. e.g. Bible→New Testament→Luke.
+The language catalog contains the translated project name and description along with necessary information regarding the language and it's status. Optional meta in the project provides the ability to create soft/virtual categories when viewed in the app. e.g. Bible→New Testament→Luke. The date_modified field in the language gets it's value from the most recent date_modified value in the resources catalog. Once again this allows the app to determine if updates are available for a particular language.
 
 Example:
 
@@ -84,7 +84,7 @@ content:
 ]
 </code>
 
-The resource catalog would contain the different types of resources available for translation. When multiple resources are present the app will supply ui controls to switch between resources.
+The resource catalog would contain the different types of resources available for translation. When multiple resources are present the app will supply ui controls to switch between resources. The date_modified field is updated any time the source, terms, or notes catalogs are updated.
 
 Example:
 
@@ -95,6 +95,7 @@ content:
   {
     "slug": "ulb",
     "name": "unfoldingWord Literal Bible",
+    "date_modified": "20141207",
     "source": "https://api.unfoldingword.org/ts/txt/2/luk/es/ulb/source.json",
     "terms": "https://api.unfoldingword.org/ts/txt/2/luk/es/ulb/terms.json",
     "notes": "https://api.unfoldingword.org/ts/txt/2/luk/es/ulb/notes.json"
@@ -102,6 +103,7 @@ content:
   {
     "slug": "udb",
     "name": "unfoldingWord Dynamic Bible",
+    "date_modified": "20141207",
     "source": "https://api.unfoldingword.org/ts/txt/2/luk/es/udb/source.json",
     "terms": "https://api.unfoldingword.org/ts/txt/2/luk/es/udb/terms.json",
     "notes": "https://api.unfoldingword.org/ts/txt/2/luk/es/udb/notes.json"
