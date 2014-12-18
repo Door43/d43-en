@@ -114,3 +114,11 @@ content:
   }
 ]
 </code>
+
+===== Audio =====
+
+It has not been determined if a new api will be developed for audio files. This is partly due to the fact that audio has not been incorporated into the app yet.
+
+===== Images =====
+
+It has not been determined if a new api will be developed for images. Please refer to the [[https://door43.org/en/dev/api/unfoldingword|Open Bible Stories API]] instead.
