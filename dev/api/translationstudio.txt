@@ -121,4 +121,4 @@ It has not been determined if a new api will be developed for audio files. This 
 
 ===== Images =====
 
-It has not been determined if a new api will be developed for images. Please refer to the [[:door43.org:en:dev:api:unfoldingword|Open Bible Stories API]] instead.
+It has not been determined if a new api will be developed for images. Please refer to the [[https://door43.org/en/dev/api/unfoldingword|Open Bible Stories API]] instead.
