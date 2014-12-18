@@ -25,7 +25,7 @@ content:
 ]
 </code>
 
-The language catalog contains the translated project name and description along with necessary information regarding the language and it's status. Optional meta in the project provides the ability to create soft/virtual categories when viewed in the app. e.g. Bible→New Testament→Luke. The date_modified field in the language gets it's value from the most recent date_modified value in the resources catalog. Once again this allows the app to determine if updates are available for a particular language.
+The language catalog contains the translated project name and description along with necessary information regarding the language. Optional meta in the project provides the ability to create soft/virtual categories when viewed in the app. e.g. Bible→New Testament→Luke. The date_modified field in the language gets it's value from the most recent date_modified value in the resources catalog. Once again this allows the app to determine if updates are available for a particular language.
 
 Example:
 
@@ -45,16 +45,6 @@ content:
       "direction": "ltr",
       "date_modified": "20141207"
     },
-    "status": {
-      "checking_entity": "Distant Shores Media; Wycliffe Associates",
-      "checking_level": "3",
-      "comments": "Original source text.",
-      "contributors": "Wycliffe Associates",
-      "publish_date": "2014-12-07",
-      "source_text": "en",
-      "source_text_version": "3.1.1",
-      "version": "3.1.1"
-    },
     "res_catalog": "https://api.unfoldingword.org/ts/txt/2/luk/en/resources.json"
   },
   {
@@ -69,22 +59,12 @@ content:
       "direction": "ltr",
       "date_modified": "20141207"
     },
-    "status": {
-      "checking_entity": "Distant Shores Media; Wycliffe Associates",
-      "checking_level": "3",
-      "comments": "Original source text.",
-      "contributors": "Wycliffe Associates",
-      "publish_date": "2014-12-07",
-      "source_text": "en",
-      "source_text_version": "3.1.1",
-      "version": "3.2.1"
-    },
     "res_catalog": "https://api.unfoldingword.org/ts/txt/2/luk/es/resources.json"
   }
 ]
 </code>
 
-The resource catalog would contain the different types of resources available for translation. When multiple resources are present the app will supply ui controls to switch between resources. The date_modified field is updated any time the source, terms, or notes catalogs are updated.
+The resource catalog contains the different types of resources available for translation. When multiple resources are present the app will supply ui controls to switch between resources. The date_modified field is updated any time the source, terms, or notes catalogs are updated. Included in each resource is status which indicates (among other things) the checking level of the resource. The app uses this to determine whether or not the resource is ready for use in the app.
 
 Example:
 
@@ -96,6 +76,16 @@ content:
     "slug": "ulb",
     "name": "unfoldingWord Literal Bible",
     "date_modified": "20141207",
+    "status": {
+      "checking_entity": "Distant Shores Media; Wycliffe Associates",
+      "checking_level": "3",
+      "comments": "Original source text.",
+      "contributors": "Wycliffe Associates",
+      "publish_date": "2014-12-07",
+      "source_text": "en",
+      "source_text_version": "3.1.1",
+      "version": "3.1.1"
+    },
     "source": "https://api.unfoldingword.org/ts/txt/2/luk/es/ulb/source.json",
     "terms": "https://api.unfoldingword.org/ts/txt/2/luk/es/ulb/terms.json",
     "notes": "https://api.unfoldingword.org/ts/txt/2/luk/es/ulb/notes.json"
@@ -104,6 +94,16 @@ content:
     "slug": "udb",
     "name": "unfoldingWord Dynamic Bible",
     "date_modified": "20141207",
+    "status": {
+      "checking_entity": "Distant Shores Media; Wycliffe Associates",
+      "checking_level": "3",
+      "comments": "Original source text.",
+      "contributors": "Wycliffe Associates",
+      "publish_date": "2014-12-07",
+      "source_text": "en",
+      "source_text_version": "3.1.1",
+      "version": "3.1.1"
+    },
     "source": "https://api.unfoldingword.org/ts/txt/2/luk/es/udb/source.json",
     "terms": "https://api.unfoldingword.org/ts/txt/2/luk/es/udb/terms.json",
     "notes": "https://api.unfoldingword.org/ts/txt/2/luk/es/udb/notes.json"
