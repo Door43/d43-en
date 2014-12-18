@@ -2,6 +2,8 @@
 
 <font 14px line-height: 19.6000003814697px/inherit;;inherit;;inherit>In the following examples each catalog reference (i.e. the</font>    url<font 14px line-height: 19.6000003814697px/inherit;;inherit;;inherit>) could be generated dynamically in order to slim down the</font>    api<font 14px line-height: 19.6000003814697px/inherit;;inherit;;inherit>size</font>    <font 14px line-height: 19.6000003814697px/inherit;;inherit;;inherit>.</font>
 
+===== Projects Catalog =====
+
 The main catalog records resources available for translation in translationStudio. This file will always be downloaded first by the app in order to identify available updates. Please note: the date_modified field within this catalog gets it's value from the most recent date_modified value found in the languages catalog. This allows the app to determine if updates are available.
 
 {{https://api.unfoldingword.org/ts/txt/2/catalog.json|api.unfoldingword.org/ts/txt/2/catalog.json}}
@@ -24,6 +26,7 @@ content:
   }
 ]
 </code>
+===== Languages Catalog =====
 
 The language catalog contains the translated project name and description along with necessary information regarding the language. Optional meta in the project provides the ability to create soft/virtual categories when viewed in the app. e.g. Bible→New Testament→Luke. The date_modified field in the language gets it's value from the most recent date_modified value in the resources catalog. Once again this allows the app to determine if updates are available for a particular language.
 
@@ -63,6 +66,7 @@ content:
   }
 ]
 </code>
+===== Resources Catalog =====
 
 The resource catalog contains the different types of resources available for translation. When multiple resources are present the app will supply ui controls to switch between resources. The date_modified field is updated any time the source, terms, or notes catalogs are updated. Included in each resource is status which indicates (among other things) the checking level of the resource. The app uses this to determine whether or not the resource is ready for use in the app.
 
