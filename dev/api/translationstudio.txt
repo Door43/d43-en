@@ -69,7 +69,7 @@ The resource catalog contains the different types of resources available for tra
 Example:
 
 <code>
-location: /ts/txt/2/luk/es/resources.json
+location: /ts/txt/2/luk/en/resources.json
 content:
 [
   {
@@ -86,9 +86,9 @@ content:
       "source_text_version": "3.1.1",
       "version": "3.1.1"
     },
-    "source": "https://api.unfoldingword.org/ts/txt/2/luk/es/ulb/source.json",
-    "terms": "https://api.unfoldingword.org/ts/txt/2/luk/es/ulb/terms.json",
-    "notes": "https://api.unfoldingword.org/ts/txt/2/luk/es/ulb/notes.json"
+    "source": "https://api.unfoldingword.org/ts/txt/2/luk/en/ulb/source.json",
+    "terms": "https://api.unfoldingword.org/ts/txt/2/luk/en/ulb/terms.json",
+    "notes": "https://api.unfoldingword.org/ts/txt/2/luk/en/ulb/notes.json"
   },
   {
     "slug": "udb",
@@ -104,9 +104,9 @@ content:
       "source_text_version": "3.1.1",
       "version": "3.1.1"
     },
-    "source": "https://api.unfoldingword.org/ts/txt/2/luk/es/udb/source.json",
-    "terms": "https://api.unfoldingword.org/ts/txt/2/luk/es/udb/terms.json",
-    "notes": "https://api.unfoldingword.org/ts/txt/2/luk/es/udb/notes.json"
+    "source": "https://api.unfoldingword.org/ts/txt/2/luk/en/udb/source.json",
+    "terms": "https://api.unfoldingword.org/ts/txt/2/luk/en/udb/terms.json",
+    "notes": "https://api.unfoldingword.org/ts/txt/2/luk/en/udb/notes.json"
   }
 ]
 </code>
