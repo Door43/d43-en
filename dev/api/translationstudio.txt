@@ -16,16 +16,17 @@ content:
 [
   {
     "slug": "obs",
-    "date_modified": "20141207",
+    "date_modified": 20141207,
     "lang_catalog": "https://api.unfoldingword.org/ts/txt/2/obs/languages.json"
   },
   {
     "slug": "luk",
-    "date_modified": "20141207",
+    "date_modified": 20141207,
     "lang_catalog": "https://api.unfoldingword.org/ts/txt/2/luk/languages.json"
   }
 ]
 </code>
+
 ===== Languages Catalog =====
 
 The language catalog contains the translated project name and description along with necessary information regarding the language. Optional meta in the project provides the ability to create soft/virtual categories when viewed in the app. e.g. Bible→New Testament→Luke. The date_modified field in the language gets it's value from the most recent date_modified value in the resources catalog. Once again this allows the app to determine if updates are available for a particular language.
@@ -46,7 +47,7 @@ content:
       "slug": "en",
       "name": "English",
       "direction": "ltr",
-      "date_modified": "20141207"
+      "date_modified": 20141207
     },
     "res_catalog": "https://api.unfoldingword.org/ts/txt/2/luk/en/resources.json"
   },
@@ -60,12 +61,13 @@ content:
       "slug": "es",
       "name": "español",
       "direction": "ltr",
-      "date_modified": "20141207"
+      "date_modified": 20141207
     },
     "res_catalog": "https://api.unfoldingword.org/ts/txt/2/luk/es/resources.json"
   }
 ]
 </code>
+
 ===== Resources Catalog =====
 
 The resource catalog contains the different types of resources available for translation. When multiple resources are present the app will supply ui controls to switch between resources. The date_modified field is updated any time the source, terms, or notes catalogs are updated. Included in each resource is status which indicates (among other things) the checking level of the resource. The app uses this to determine whether or not the resource is ready for use in the app. If there is only one resource it should be given the slug value "default" and the name can be left as an empty string.
@@ -79,7 +81,7 @@ content:
   {
     "slug": "ulb",
     "name": "unfoldingWord Literal Bible",
-    "date_modified": "20141207",
+    "date_modified": 20141207,
     "status": {
       "checking_entity": "Distant Shores Media; Wycliffe Associates",
       "checking_level": "3",
@@ -97,7 +99,7 @@ content:
   {
     "slug": "udb",
     "name": "unfoldingWord Dynamic Bible",
-    "date_modified": "20141207",
+    "date_modified": 20141207,
     "status": {
       "checking_entity": "Distant Shores Media; Wycliffe Associates",
       "checking_level": "3",
