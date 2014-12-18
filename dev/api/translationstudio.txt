@@ -117,7 +117,7 @@ content:
 
 ===== Audio =====
 
-It has not been determined if a new api will be developed for audio files. This is partly due to the fact that audio has not been incorporated into the app yet. <font 14px line-height: 19.6000003814697px;/inherit;;inherit;;inherit>Please refer to the</font> [[https://door43.org/en/dev/api/unfoldingword|unfoldingWord API]]<font 14px line-height: 19.6000003814697px;/inherit;;inherit;;inherit>instead.</font>
+It has not been determined if a new api will be developed for audio files. This is partly due to the fact that audio has not been incorporated into the app yet. <font 14px line-height: 19.6000003814697px/inherit;;inherit;;inherit>Please refer to the</font>    [[https://door43.org/en/dev/api/unfoldingword|unfoldingWord API]] <font 14px line-height: 19.6000003814697px/inherit;;inherit;;inherit>instead.</font>
 
 ===== Images =====
 
