@@ -10,4 +10,4 @@
 
 ==== Check on bad tags ====
 
-{{pagequery>ns:en:bible:notes:luk "tag> " ; fulltext; sort=title:asc; display={title}; natsort; layout=table; showcount; hidemsg; hidejump;}}
+{{pagequery>ns:en:bible:notes:luk "tag>" -"tag>create" -"tag>draft" -"tag>review" -"tag>discuss" -"tag>publish"; fulltext; sort=title:asc; display={title}; natsort; layout=table; showcount; hidemsg; hidejump;}}
