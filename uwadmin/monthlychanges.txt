@@ -19,6 +19,8 @@
 {{changes>ns=apd:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:ar:obs|ar OBS]]**
 {{changes>ns=ar:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
+**[[:ar-x-dcv:obs|ar-x-dcv OBS]]**
+{{changes>ns=ar-x-dcv:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:arz:obs|arz OBS]]**
 {{changes>ns=arz:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:as:obs|as OBS]]**
