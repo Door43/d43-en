@@ -30,7 +30,7 @@ content:
 
 ===== Languages Catalog =====
 
-The language catalog contains the translated project name and description along with necessary information regarding the language. Optional meta in the project provides the ability to create soft/virtual categories when viewed in the app. e.g. Bible→New Testament→Luke. The date_modified field in the language gets it's value from the most recent date_modified value in the resources catalog. Once again this allows the app to determine if updates are available for a particular language.
+The language catalog contains the translated project name and description along with necessary information regarding the language. Optional meta in the project provides the ability to create soft/virtual categories when viewed in the app. e.g. Bible→New Testament→Luke. NOTE: if the project specifies meta slugs the language must also provide the translated meta names. The date_modified field in the language gets it's value from the most recent date_modified value in the resources catalog. Once again this allows the app to determine if updates are available for a particular language.
 
 Example:
 
