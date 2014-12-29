@@ -11,10 +11,10 @@ Our workflow for releasing mobile apps looks like this:
 
 We have setup short URLs that redirect to the Github releases page for each app:
 
-ufw.io/ts       -> https://github.com/Door43/translationStudio2/releases
+http://ufw.io/ts       -> https://github.com/Door43/translationStudio2/releases
 
-ufw.io/tk       -> https://github.com/Door43/translationKeyboard/releases
+http://ufw.io/tk       -> https://github.com/Door43/translationKeyboard/releases
 
-ufw.io/uw       -> https://github.com/unfoldingWord/uw-android/releases
+http://ufw.io/uw       -> https://github.com/unfoldingWord/uw-android/releases
 
-ufw.io/uw-ios   -> https://github.com/unfoldingWord/uw-ios/releases
+http://ufw.io/uw-ios   -> https://github.com/unfoldingWord/uw-ios/releases
