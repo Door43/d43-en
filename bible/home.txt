@@ -59,4 +59,11 @@ EtherPad Files:
 |2 Samuel |Ecclesiastes |Jonah |John |  |Jude |
 |1 Kings |Song of Songs |Micah |  |  |Revelation |
 
-\\
+
+===== Beta USFM Files =====
+
+Beta USFM versions of the ULB and UDB may be found here:
+
+https://github.com/unfoldingWord/udb-en or [[https://github.com/unfoldingWord/udb-en/archive/master.zip|udb-en-latest.zip]]
+
+https://github.com/unfoldingWord/ulb-en or [[https://github.com/unfoldingWord/ulb-en/archive/master.zip|ulb-en-latest.zip]]
