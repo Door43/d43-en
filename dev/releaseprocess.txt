@@ -1,0 +1,20 @@
+====== Release Process ======
+
+
+Our workflow for releasing mobile apps looks like this:
+
+  * Developer tags git tree with a version number, appending -beta and build number if it's not a production release.
+  * On the Github releases page, fill out bullet list of release notes.  If this is a development release, then mark it as "development".
+  * Dev can upload app file to the release and can announce on Hall.  See short URLs below.
+  * David or I will bump the version in the uW Dashboard Basecamp Project if this is a production release.
+  * David or I will finish the publishing process by pushing to the relevant app storefronts, torrent link, and anything else we can think of.
+
+We have setup short URLs that redirect to the Github releases page for each app:
+
+ufw.io/ts       -> https://github.com/Door43/translationStudio2/releases
+
+ufw.io/tk       -> https://github.com/Door43/translationKeyboard/releases
+
+ufw.io/uw       -> https://github.com/unfoldingWord/uw-android/releases
+
+ufw.io/uw-ios   -> https://github.com/unfoldingWord/uw-ios/releases
