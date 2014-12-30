@@ -1,5 +1,7 @@
 ====== Key Terms: Admin Page ======
+
   *
+
 ~~NOCACHE~~
 
 ==== Key Terms Pages Status ====
@@ -16,3 +18,5 @@ This query checks the first tag to be one of 4 valid tags required to make the s
 This query checks that all curly braces"{}" include key word "tag>" or "topic>"
 
 {{pagequery>ns:en:bible:notes:key-terms "{{" -"tag>" -"topic"; fulltext; sort=title:asc; display={title}; natsort; layout=table; showcount; hidemsg; hidejump;}}
+
+\\
