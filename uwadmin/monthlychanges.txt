@@ -131,6 +131,8 @@
 {{changes>ns=ktu:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:kxv:obs|kxv OBS]]**
 {{changes>ns=kxv:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
+**[[:kyx:obs|kyx OBS]]**
+{{changes>ns=kyx:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:lae:obs|lae OBS]]**
 {{changes>ns=lae:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:lgg:obs|lgg OBS]]**

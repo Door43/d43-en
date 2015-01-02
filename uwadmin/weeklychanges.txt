@@ -196,6 +196,9 @@
 **[[:kxv:obs|kxv OBS]]**
 {{changes>ns=kxv:obs&maxage=604800&render=pagelist(header,date,user,nocomments)}}
 
+**[[:kyx:obs|kyx OBS]]**
+{{changes>ns=kyx:obs&maxage=604800&render=pagelist(header,date,user,nocomments)}}
+
 **[[:lae:obs|lae OBS]]**
 {{changes>ns=lae:obs&maxage=604800&render=pagelist(header,date,user,nocomments)}}
 
