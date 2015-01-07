@@ -98,12 +98,6 @@ Personification
 [[:en:ta:figuresofspeech:personification]]
 </code>
 
-Speech Quotations
-
-<code>
-[[:en:ta:vocabulary:quotation]]
-</code>
-
 Rhetorical question
 
 <code>
@@ -114,6 +108,12 @@ Simile
 
 <code>
 [[:en:ta:figuresofspeech:simile]]
+</code>
+
+Speech Quotations
+
+<code>
+[[:en:ta:vocabulary:quotation]]
 </code>
 
 Synecdoche
@@ -140,18 +140,7 @@ Unknown words
 
 </code>
 
-<code>
 
-</code>
 
-<code>
 
-</code>
 
-<code>
-
-</code>
-
-<code>
-
-</code>
