@@ -11,7 +11,8 @@ To search for all the links tied to the key term to be deleted. The Namespace by
   - Replace "XXX" text with the key term namespace.
   - Hit the "Preview" Button.
   - Scroll down to find all the related links.
-  - after editing the pages and deleting the Key Term links hit the "Cancel" button. That will reset the edited values back to "XXX".
+  - Edit the pages and deleting the Key Term links by right clicking on the links and opening the pages in a new tab or new window.
+  - Hit the "Cancel" button. That will reset the edited values back to "XXX".
 
 ==== find all pages where the key term is listed as a tag ====
 
