@@ -5,17 +5,15 @@ The following pages are tagged with the "talink" code and contain a tA link that
 {{topic>talink&nocomments}}
 
 ^Reference ^Topic ^Designer |
-|Luke 3.23 |background information |BS |
+|  |  |  |
 |Luke 8.9 |Verbs and Objects |  |
 |Luke 9.30 |Relative Clauses |  |
-|Luke 9.61 |Generic and Specific |  |
-|Luke 10.3 |Generic and Specific |  |
+|Luke 9.61 |Generic and Specific - Idiom? |  |
+|Luke 10.3 |Translating Unknown Concepts - animal |  |
 |Luke 13.12 |Sentence Types |  |
 |Luke 19.41 |Exclamation |  |
-| | | |
-|  | | |
-
-\\
+|Luke 22.47 |Translating Unknown Concepts - culture (greet with a kiss) |  |
+|Luke 22.66 |  \\ Active Passive \\  \\ Hypothetical Situations \\  |BS |
 
 ==== Draft Content for "Topic" Page: ====
 
@@ -24,16 +22,13 @@ The following pages are tagged with the "talink" code and contain a tA link that
 
 ===== Examples from English =====
 
-
 ===== Examples from the Bible =====
-
 
 ===== Translation Suggestions =====
 
 (See also: [[:en:ta:xxxx]])
 
 {{tag>draft}} ~~DISCUSSIONS~~
-
 </code>
 
 Please be sure to update the [[https://docs.google.com/a/wycliffeassociates.org/spreadsheets/d/19YzXJ17CWRq6gLB_wSv85QvYM4aJ5N_Xe1imKkJ3A8M/edit?usp=sharing|Translation Studio Topics Process]] list on Google Drive during this process.
@@ -42,24 +37,29 @@ Please be sure to update the [[https://docs.google.com/a/wycliffeassociates.org/
 
 The following pages are tagged as "draft" and need to be edited by the team:\\
 **Full List**
-{{topic>en:ta?draft&nocomments}}
 
-**Separated out list**\\
+ {{topic>en:ta?draft&nocomments}}
+
+**Separated out list** \\
 Discourse
+
 {{topic>en:ta:discourse?draft&nocomments}}
 
 Figures of Speech
+
 {{topic>en:ta:figuresofspeech?draft&nocomments}}
 
 Translate
+
 {{topic>en:ta:translate?draft&nocomments}}
 
 Translation Guidelines
+
 {{topic>en:ta:translation-guidelines?draft&nocomments}}
 
 Vocabulary
-{{topic>en:ta:vocabulary?draft&nocomments}}
 
+{{topic>en:ta:vocabulary?draft&nocomments}}
 
 ==== Edited tA Pages to Review ====
 
