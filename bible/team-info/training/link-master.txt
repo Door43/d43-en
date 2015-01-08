@@ -6,20 +6,21 @@
 
   - The Key Term Link and Page Master (LPM) will handle the hyperlink and page creation as necessary.
   - Creation of pages will normally be tagged as "create" following the template specified on this page. See templates.
-  - Each week "create" tagged key term pages will be promoted to "draft" as those kt pages are to support the Notes Teams efforts.
-  - It is up to the KT team leader to promote pages through the process to "publish"
-  - At "publish" stage, a check will be made to remove "ktlink" tag and create all x-ref hyperlinks.
+  - Each week "create" tagged key term pages will be promoted to "draft" as those pages are needed to support the Notes Teams efforts.
+  - It is up to the KT team leader to promote pages from "draft"  to "publish"
+  - At "publish" stage, a check will be made to create all x-ref hyperlinks and remove the "ktlink" tag.
 
 ==== Pagename naming conventions ====
-
-The display name of the KT will be the default Key Term Header title.
-
-The link will use the URL name of the term. 
-   See https://www.door43.org/en/bible/admin-reports/00-key-term-and-tag-names
 
 The key term pagename naming convention is:
   * for a single word, the url-name is lower case.
   * for a multi-word phrase, the url-name is the words without spaces, hyphens, or other breaks (ex: kingdomofJudah).
+
+The display name of the x-ref links for the KT will be the default Key Term Header title.
+
+The link will use the URL name of the term. 
+   See https://www.door43.org/en/bible/admin-reports/00-key-term-and-tag-names
+
 
 ==== Create KT Pages as Needed ====
 
@@ -81,10 +82,3 @@ Text
 {{tag>draft ktlink}}
 </code>
 
-Change the "term" or "Name" placeholder text to the title of the KT.
-
-Also add the URL name to the topic tag at the bottom of the new page, as below:
-
-<code>
-{{topic>urlname}}
-</code>
