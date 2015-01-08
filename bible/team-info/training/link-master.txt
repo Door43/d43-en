@@ -4,29 +4,15 @@
 
 ===== Procedures =====
 
-The Key Term Link and Page Master (LPM) will handle the hyperlink and page creation as necessary.
-  * Creation of pages will normally be tagged as "create" following the template specified on this page. Example:
-<code>
-{{tag>create BBBNN}}
-**  OR  **
-{{tag>draft}}
-where BBB = lowercase 3-letter Bible book designator\\
-and NN = Chapter number
-</code>
-  * Each week "create" tagged key term pages will be promoted to "draft" as those kt pages are to support the Notes Teams efforts. Example:
-<code>
-{{tag>review}}
-</code>
-  * It is up to the KT team leader to promote pages through the process to "publish"
-  * At "publish" stage, a check will be made to remove "ktlink" tag and create all x-ref hyperlinks. For Example:
-<code>
-  * [[en:bible:notes:key-terms:URLterm]]
-</code>
+  - The Key Term Link and Page Master (LPM) will handle the hyperlink and page creation as necessary.
+  - Creation of pages will normally be tagged as "create" following the template specified on this page. See templates.
+  - Each week "create" tagged key term pages will be promoted to "draft" as those kt pages are to support the Notes Teams efforts.
+  - It is up to the KT team leader to promote pages through the process to "publish"
+  - At "publish" stage, a check will be made to remove "ktlink" tag and create all x-ref hyperlinks.
 
 ==== Pagename naming conventions ====
 
-
-The display name of the KT will default to the Key Term Header (title).
+The display name of the KT will be the default Key Term Header title.
 
 The link will use the URL name of the term. 
    See https://www.door43.org/en/bible/admin-reports/00-key-term-and-tag-names
