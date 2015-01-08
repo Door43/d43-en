@@ -65,7 +65,7 @@ Text
 ~~DISCUSSION~~
 ~~NOCACHE~~
 {{tag>create rutxx ktlink}}
-{{tag>draft}}
+{{tag>draft ktlink}}
 </code>
 
 The draft code for a "Name" KT page is:
@@ -90,7 +90,7 @@ Text
 ~~DISCUSSION~~
 ~~NOCACHE~~
 {{tag>create rutxx ktlink}}
-{{tag>draft}}
+{{tag>draft ktlink}}
 </code>
 
 Change the "term" or "Name" placeholder text to the title of the KT.
