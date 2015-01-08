@@ -30,7 +30,7 @@ The key term pagename (urlname) naming convention is:
 
   - After the key term has been promoted to "publish" check for cross references that need to be converted into links. Example (See also: Adam, Eve)
   - Find the pagename (urlname) of the Key term on %%https://www.door43.org/en/bible/admin-reports/00-key-term-and-tag-names%%
-  - substitute the name with the follow link syntax %%[[:en:bible:notes:key-terms:urlname]]%%. Example: Adam will become [[:en:bible:notes:key-terms:adam|adam]] and Eve will become [[:en:bible:notes:key-terms:eve|eve]]. the full hyperlink will be: 
+  - substitute the name with the follow link syntax %%[[:en:bible:notes:key-terms:urlname]]%%. Example: Adam will become %%[[:en:bible:notes:key-terms:adam]]%% and Eve will become %%[[:en:bible:notes:key-terms:eve]]%%. the full hyperlink will be: 
       - %%(See also: [[:en:bible:notes:key-terms:adam]], [[:en:bible:notes:key-terms:eve]])%%
 
 
