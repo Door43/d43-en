@@ -1,40 +1,36 @@
 ====== Key Terms: Link and Page Master ======
+**note:** This page and job description has been revised to current procedures (8Jan15).
 
-The Key Term Link and Page Master (LPM) will handle the hyperlink and page creation that is necessary as the Notes teams transfer to new chapters. The bulk of this work will occur every Monday morning, after the Notes teams have finished their one-week assignments. The LPM will perform the actions below.
 
-==== Key Term Page Status ====
+===== Procedures =====
 
-Each page was automatically assigned one of the following tags when it was created depending if the key term is to go directly to the key terms team or put on hold:
-
+The Key Term Link and Page Master (LPM) will handle the hyperlink and page creation as necessary.
+  * Creation of pages will normally be tagged as "create" following the template specified on this page. Example:
 <code>
 {{tag>create BBBNN}}
-
-**OR**
-
+**  OR  **
 {{tag>draft}}
-</code>
-
 where BBB = lowercase 3-letter Bible book designator\\
 and NN = Chapter number
-
-When the key terms team finish adding the draft content, the team leader will change the status tag in each page to:
-
+</code>
+  * Each week "create" tagged key term pages will be promoted to "draft" as those kt pages are to support the Notes Teams efforts. Example:
 <code>
 {{tag>review}}
 </code>
-
-==== KT Hyperlinks ====
-
-The Notes team will identify KT's for each chunk in a bullet list. After the tag has been changed to "publish" & "ktlink", the LPM will convert these list items to hyperlinks in the following format:
-
+  * It is up to the KT team leader to promote pages through the process to "publish"
+  * At "publish" stage, a check will be made to remove "ktlink" tag and create all x-ref hyperlinks. For Example:
 <code>
   * [[en:bible:notes:key-terms:URLterm]]
 </code>
+
+==== Pagename naming conventions ====
+
 
 The display name of the KT will default to the Key Term Header (title).
 
 The link will use the URL name of the term. 
    See https://www.door43.org/en/bible/admin-reports/00-key-term-and-tag-names
+
 The key term pagename naming convention is:
   * for a single word, the url-name is lower case.
   * for a multi-word phrase, the url-name is the words without spaces, hyphens, or other breaks (ex: kingdomofJudah).
