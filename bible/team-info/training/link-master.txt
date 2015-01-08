@@ -21,14 +21,17 @@ The key term pagename (urlname) naming convention is:
   - enter edit mode and copy one of the two templates listed below into the new key term edit window.
   - edit the header to the full key term name
   - edit the line %%{{topic>URLterm&nocomments}}%% by changing "URLterm" to the pagename (urlname).
+  - determine if the KT is to be tagged "create" or "draft"
+    - If this KT is to be tagged "create" delete the Line %%{{tag>draft ktlink}}%% and edit the line %%{{tag>create BIBnn ktlink}}%% to the bible reference that this first discovered. Example: %%{{tag>create gen01 ktlink}}%%
+    - If this KT is to be tagged "draft" delete the line %%{{tag>create BIBnn ktlink}}%%.
 
 
 ==== Create cross references (hyperlinks) ====
 
-  - The display name of the x-ref links for the KT will be the default Key Term Header title.
-
-The link will use the URL name of the term. 
-   See https://www.door43.org/en/bible/admin-reports/00-key-term-and-tag-names
+  - After the key term has been promoted to "publish" check for cross references that need to be converted into links. Example (See also: Adam, Eve)
+  - Find the pagename (urlname) of the Key term on %%https://www.door43.org/en/bible/admin-reports/00-key-term-and-tag-names%%
+  - substitute the name with the follow link syntax %%[[:en:bible:notes:key-terms:urlname]]%%. Example: Adam will become [[:en:bible:notes:key-terms:adam|adam]] and Eve will become [[:en:bible:notes:key-terms:eve|eve]]. the full hyperlink will be: 
+      - %%(See also: [[:en:bible:notes:key-terms:Adam|Adam]], [[:en:bible:notes:key-terms:Eve|Eve]])%%
 
 
 ==== Term & Name Templates ====
