@@ -8,13 +8,15 @@
 |  **Draft Pages**    |  **Review Pages**    |  **Discuss Pages**    |**Publish Pages**   |
 |{{topic>en:bible:notes:key-terms?draft&nocomments}} |{{topic>en:bible:notes:key-terms?review&nocomments}} |{{topic>en:bible:notes:key-terms?discuss&nocomments}} |{{topic>en:bible:notes:key-terms?publish&nocomments}} |
 
-==== Check on bad tags ====
+==== Check for Bad Tags ====
 
-This query checks the first tag to be one of 4 valid tags required to make the system work correctly: {create|draft|review|discuss|Publish}. Any verses listed here are likely being overlooked above. please include this query for every bible book admin page. (EQ)
+The following query checks the first tag to be one of 4 valid tags required to make the system work correctly: {create|draft|review|discuss|Publish}. Any key terms listed here are not in the above chart. (EQ)
 
 {{pagequery>ns:en:bible:notes:key-terms "tag>" -"topic>" -"tag>create" -"tag>draft" -"tag>review" -"tag>discuss" -"tag>publish"; fulltext; sort=title:asc; display={title}; natsort; layout=table; showcount; hidemsg; hidejump;}}
 
-This query checks that all curly braces"{}" include key word "tag>" or "topic>"
+==== Check for Well Formed Tags ====
+
+The following query checks that all curly braces"{}" include the key word "tag>" or "topic>".
 
 {{pagequery>ns:en:bible:notes:key-terms "{{" -"tag>" -"topic"; fulltext; sort=title:asc; display={title}; natsort; layout=table; showcount; hidemsg; hidejump;}}
 
