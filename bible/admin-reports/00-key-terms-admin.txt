@@ -10,7 +10,7 @@
 
 ==== Check for Bad Tags ====
 
-The following query checks the first tag to be one of 4 valid tags required to make the system work correctly: {create|draft|review|discuss|Publish}. Any key terms listed here are not in the above chart. (EQ)
+The following query checks the first tag to be one of 4 valid tags required to make the system work correctly: {create|draft|review|discuss|publish}. Any key terms listed here are not in the above chart. (EQ)
 
 {{pagequery>ns:en:bible:notes:key-terms "tag>" -"topic>" -"tag>create" -"tag>draft" -"tag>review" -"tag>discuss" -"tag>publish"; fulltext; sort=title:asc; display={title}; natsort; layout=table; showcount; hidemsg; hidejump;}}
 
