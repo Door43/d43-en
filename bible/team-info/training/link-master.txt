@@ -57,9 +57,12 @@ Text
 {{topic>URLterm&nocomments}}
 
 ~~DISCUSSION~~
+
 ~~NOCACHE~~
+
 {{tag>create BIBnn ktlink}}
 {{tag>draft ktlink}}
+
 </code>
 
 The draft code for a "Name" KT page is:
@@ -82,7 +85,10 @@ Text
 {{topic>urlname&nocomments}}
 
 ~~DISCUSSION~~
+
 ~~NOCACHE~~
+
 {{tag>create BIBnn ktlink}}
 {{tag>draft ktlink}}
+
 </code>
