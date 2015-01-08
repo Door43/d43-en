@@ -10,27 +10,26 @@
   - It is up to the KT team leader to promote pages from "draft"  to "publish"
   - At "publish" stage, a check will be made to create all x-ref hyperlinks and remove the "ktlink" tag.
 
-==== Pagename naming conventions ====
+==== Pagename (urlname) naming conventions ====
 
-The key term pagename naming convention is:
-  * for a single word, the url-name is lower case.
-  * for a multi-word phrase, the url-name is the words without spaces, hyphens, or other breaks (ex: kingdomofJudah).
+The key term pagename (urlname) naming convention is:
+  - for a single word, the pagename is the key term in lower case letters.
+  - for a multi-word phrase, the pagename is the words without spaces, hyphens, or other breaks (ex: kingdomofJudah).
 
-The display name of the x-ref links for the KT will be the default Key Term Header title.
+==== Create KT Pages ====
+  -create a new kt page with the following link: %%https://door43.org/en/bible/notes/key-terms/urlname%%
+
+
+==== Create cross references (hyperlinks) ====
+
+  - The display name of the x-ref links for the KT will be the default Key Term Header title.
 
 The link will use the URL name of the term. 
    See https://www.door43.org/en/bible/admin-reports/00-key-term-and-tag-names
 
 
-==== Create KT Pages as Needed ====
+==== Term & Name Templates ====
 
-When KT's on the Notes page are not found in the [[https://door43.org/en/bible/notes/key-terms/01-kt-list|https://door43.org/en/bible/notes/key-terms/01-kt-list]], new pages must be created. The URL name for the new KT page should in the following format:
-
-<code>
-https://door43.org/en/bible/notes/key-terms/urlname
-</code>
-
-For one-word KT's, the word will become the URL name. If the term is a multi-word phrase, the words will be run together without spaces, hyphens, or other breaks, as with existing terms.
 
 There are two kinds of KT pages–one for terms that require definition, and the other for proper names that requires facts.
 
@@ -81,4 +80,3 @@ Text
 {{tag>create BIBnn ktlink}}
 {{tag>draft ktlink}}
 </code>
-
