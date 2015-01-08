@@ -17,7 +17,7 @@ Each page was automatically assigned one of the following tags when it was creat
 where BBB = lowercase 3-letter Bible book designator\\
 and NN = Chapter number
 
-When the key terms team finish adding the draft content, the LPM will change the status tag in each page to:
+When the key terms team finish adding the draft content, the team leader will change the status tag in each page to:
 
 <code>
 {{tag>review}}
