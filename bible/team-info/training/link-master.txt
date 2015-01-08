@@ -17,7 +17,10 @@ The key term pagename (urlname) naming convention is:
   - for a multi-word phrase, the pagename is the words without spaces, hyphens, or other breaks (ex: kingdomofJudah).
 
 ==== Create KT Pages ====
-  -create a new kt page with the following link: %%https://door43.org/en/bible/notes/key-terms/urlname%%
+  - create a new kt page with the following link: %%https://door43.org/en/bible/notes/key-terms/urlname%% 
+  - enter edit mode and copy one of the two templates listed below into the new key term edit window.
+  - edit the header to the full key term name
+  - edit the line %%{{topic>URLterm&nocomments}}%% by changing "URLterm" to the pagename (urlname).
 
 
 ==== Create cross references (hyperlinks) ====
