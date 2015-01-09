@@ -4,7 +4,3 @@ The **Link and Publish** page will search for Key term pages that have been prom
 These pages have potential links that need to be defined.
 
 {{topic>publish +ktlink&tags&sort&nocomments}}
-
-===== Temp list for "ktlink" =====
-
-{{topic>ktlink&tags&sort&nocomments}}
