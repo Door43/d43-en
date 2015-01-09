@@ -1,5 +1,7 @@
 ====== Sentences ======
 
+==== Sentence Types ====
+
 A **//sentence//** is a group of words that express a complete thought. They may:
 
    * State something (declarative) '//This is a fact.//'
@@ -33,11 +35,6 @@ Sometimes languages put an object pronoun before the verb, whereas English puts 
   * English: //The man sees it. //
   * French: //L'homme la voit. //
 
-Languages will also differ as to how they order their clauses.
-See also: [[en:ta:vocabulary:wordorder]].
+Languages will also differ as to how they order their clauses. See also: [[:en:ta:vocabulary:wordorder|Word Order]].
 
-
-{{tag>review}}
-
-~~DISCUSSIONS~~
-
+{{tag>review}}~~DISCUSSIONS~~
