@@ -14,7 +14,7 @@ To search for all the links tied to the key term to be deleted. The Namespace by
   - Edit the pages and deleting the Key Term links by right clicking on the links and opening the pages in a new tab or new window.
   - Hit the "Cancel" button. That will reset the edited values back to "XXX".
 
-==== find all pages where the key term is listed as a tag ====
+==== Find all pages where the key term is listed as a tag ====
 
 {{topic>XXX&nocomments}}
 
