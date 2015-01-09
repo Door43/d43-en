@@ -11,9 +11,9 @@ The //**subject**// is who or what the sentence is about; Subjects are typically
 
 ==== Sentence Structure ====
 
-<font inherit/inherit;;inherit;;inherit>The simplest sentence structure in English includes a subject and a verb. Example:  // The boy ran. //</font>
+<font inherit/inherit;;inherit;;inherit>The simplest sentence structure in English includes a subject and a verb. Example:  // The boy ran.  //</font>
 
-<font inherit/inherit;;inherit;;inherit>Compound sentences are two complete sentences joined together with a comma and a conjunction (i.e. and, or, but). Example:  // The boy ran very hard, but he count not catch the fox. //</font>
+<font inherit/inherit;;inherit;;inherit>Compound sentences are two complete sentences joined together with a comma and a conjunction (i.e. and, or, but). Example:  // The boy ran very hard, but he count not catch the fox.  //</font>
 
 <font inherit/inherit;;inherit;;inherit>Complex sentences, which many Bible verses are, contain various components such as as phrases, clauses and/or participles. Example:</font>    //Although the boy ran very hard, he couldn't catch the fox, which disappeared into the woods.//
 
@@ -21,13 +21,24 @@ Translators should use the sentence structure of the target language so that the
 
 For example, in English, adjectives almost always come before the noun they describe, but in French, adjectives can occur before or after the noun, depending on their type.
 
-English: French: \\ The ____pretty__// flower La ____jolie__// fleur The ____purple__// flower La fleur ____violette__ //
+  * English: t//he pretty flower//
+  * French: //la jolie fleur//
+  * English:// the purple flower//
+  * French:// la fleur violette//
+
 Sometimes languages put an object pronoun before the verb, whereas English puts it after the verb.
 
-English: French: \\ The man sees the house. L'homme voit la maison. The man sees it. L'homme la voit.
+  * English: //The man sees the house.//
+  * French: //L'homme voit la maison. //
+  * English: //The man sees it. //
+  * French: //L'homme la voit. //
 
-Languages will also differ as to how they order their clauses. (I don't have an example of this)
+Languages will also differ as to how they order their clauses..
 
-*It would be better to have Sentence structure as the title here or to not have one and just include examples after the last line of text in this section. These aren't examples of how to translate, just informing about basic ways languages may differ in structure.
+{{tag>review}}
 
-{{tag>review}}~~DISCUSSIONS~~
+~~DISCUSSIONS~~
+
+//__//__ __ //__ //
+
+~~COMPLEX_TABLES~~
