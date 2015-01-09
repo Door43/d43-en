@@ -5,13 +5,13 @@
 <font inherit/inherit;;inherit;;inherit>The following terms are the most common Biblical units that were used to measure distance or the length of something.</font>
 
   * <font inherit/inherit;;inherit;;inherit>The  ** cubit  ** referred to the length of a man's forearm, from the elbow to the tip of the longest finger.</font>
-  * <font inherit/inherit;;inherit;;inherit>A  ** furlong  ** is an ancient English word that refers to the average length of a plowed field. It was used to translate the Greek word "stadion".</font>
+  * <font inherit/inherit;;inherit;;inherit>A  ** stade  ** (plural, ** stadia **) referred to a certain footrace that was about 200 meters in length. Some older English versions translated this as "furlong", which referred to the average length of a plowed field.</font>
   * <font inherit/inherit;;inherit;;inherit>The  ** span  ** or handspan was the width of a man's hand with fingers spread out.</font>
 
 ^  Distance ^  Value ^  Units |
-|  cubit |  46 |  centimeters |
-|  furlong |  202 |  meters |
-|  span |  23 |  centimeters |
+|  cubit   |  46 |  centimeters |
+|  stade   | 202 |  meters |
+|  span    |  23 |  centimeters |
 
 How to translate units of measure for distance or length in the Bible:
 
