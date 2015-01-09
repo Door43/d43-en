@@ -2,7 +2,7 @@
 
 <nspages en:ta:translation-guidelines -title -exclude:home -textPages="List of tA Pages about The Translation Guidelines:">
 
-<nspages en:ta:translate -title -exclude:home -textPages="List of tA Pages about How to Translate:">
+<nspages en:ta:translate -title -exclude:home -textPages="List of tA Pages about How to Translate:"> 
 
 <nspages en:ta:discourse-title -textPages="List of tA Pages about Discourse/Literature and Genre:">
 
