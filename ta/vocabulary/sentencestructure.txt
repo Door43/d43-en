@@ -52,11 +52,23 @@ This is an example of a sentence that has two clauses:\\ '//He planted the yams 
 In the above example, each of the clauses can be a complete sentence. '//He planted the yams//.' and '//His wife planted the corn//.'
 Compound sentences are two complete sentences joined together with a comma and a **conjunction** (i.e. and, or, but).\\ For example:  //He planted the yams __and__ his wife planted the corn.//
 
-Complex sentences, which many Bible verses are, contain various components such as as phrases, clauses and/or participles. Example:</font>    //Although the boy ran very hard, he couldn't catch the fox, which disappeared into the woods.//
+Here is a sentence that have two clauses, but they are different. One of the clauses cannot be a sentence by itself. It is underlined.
+
+'//__When the corn was ready__, his wife picked it//.'\\
+The clause “when the corn was ready” is a clause, but it is not a full sentence. The clause “his wife picked it up” is a complete sentence.\\
+'//She did not dig up the yams __because that is very hard work__//'.
+
+In some languages, clauses can tell about something in the sentence. These are called **relative** clauses.
+For example:
+Relative clause that define which thing is being talked about.
+'//She put a little food in her own bag and a lot of food in the **bag** __that belonged to her only sister__//.' This relative clause '//that belonged to her only sister//' defines which bag.
+
 
 ===== Translation Suggestions =====
 
-Translators should use the sentence structure of the target language so that the final translation is natural. Some aspects of this include **word order **  and **clause order**. (See: [[:en:ta:vocabulary:wordorder|Word Order]])
+Many Bible verses contain various components such as phrases, clauses and/or participles. Example: //Although the boy ran very hard, he couldn't catch the fox, which disappeared into the woods.//
+
+Translators should use the sentence structure of the target language so that the final translation is natural. Some aspects of this include **[[:en:ta:vocabulary:wordorder|Word Order]])** and **clause order**. (See: 
 
 For example, in English, adjectives almost always come before the noun they describe, but in French, adjectives can occur before or after the noun, depending on their type.
 
