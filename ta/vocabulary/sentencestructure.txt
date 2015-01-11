@@ -16,7 +16,7 @@ Sentences can be used for other purposes as well.
 
 ==== Roles ====
 
-The following terms are used  in the explanations below:
+The following terms are used in the explanations below:
 
 **Actor**  - The one who does something.
 
@@ -39,15 +39,15 @@ Usually the subject is a **noun phrase**  - //'the boy'//  It can also be a clau
 
 The predicate is the part of a sentence which tells something about the subject. It usually has a [[:en:ta:vocabulary:verbs|verb]]. The verb may have an object or a complement.
 
-Here are some examples:\\
-'//The man is strong//.' -  the subject is '//the man//' and the predicate (that describes the man) is '//is strong//'.
-'//He worked hard//.' - the subject is '//he//' and the predicate (something the man did) is '//worked hard//'.
+Here are some examples: \\ '//The man is strong//.' - the subject is '//the man//' and the predicate  is '//is strong//' (that describes the man.)
 
-
-A sentence can have more than one set of subjects and predicates.
-
+'//He worked hard//.' - the subject is '//he//' and the predicate is '//worked hard//' (something the man did.)
 
 ==== Clause ====
+
+<font inherit/inherit;;inherit;;inherit>A sentence can have more than one set of subjects and predicates.</font>    ''<font 11px/ ;;inherit;;inherit>Each set is called a clause. This sentence has two clauses.</font>
+
+</font>   ''
 
 <font inherit/inherit;;inherit;;inherit>Compound sentences are two complete sentences joined together with a comma and a conjunction (i.e. and, or, but). Example:  // The boy ran, but he could not catch the fox.  //</font>
 
@@ -55,7 +55,7 @@ A sentence can have more than one set of subjects and predicates.
 
 ===== Translation Suggestions =====
 
-Translators should use the sentence structure of the target language so that the final translation is natural. Some aspects of this include **word order ** and **clause order**. (See: [[:en:ta:vocabulary:wordorder|Word Order]])
+Translators should use the sentence structure of the target language so that the final translation is natural. Some aspects of this include **word order **  and **clause order**. (See: [[:en:ta:vocabulary:wordorder|Word Order]])
 
 For example, in English, adjectives almost always come before the noun they describe, but in French, adjectives can occur before or after the noun, depending on their type.
 
