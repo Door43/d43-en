@@ -39,36 +39,31 @@ Usually the subject is a **noun phrase**  - //'the boy'//  It can also be a clau
 
 The predicate is the part of a sentence which tells something about the subject. It usually has a [[:en:ta:vocabulary:verbs|verb]]. The verb may have an object or a complement.
 
-Here are some examples: \\ '//The man is strong//.' - the subject is '//the man//' and the predicate  is '//is strong//' (that describes the man.)\\ '//He worked hard//.' - the subject is '//he//' and the predicate is '//worked hard//' (something the man did.)
+Here are some examples: \\ '//The man is strong//.' - the subject is '//the man//' and the predicate is '//is strong//' (that describes the man.) \\ '//He worked hard//.' - the subject is '//he//' and the predicate is '//worked hard//' (something the man did.)
 
 ==== Clause ====
 
-A sentence can have more than one set of subjects and predicates. Each set is called a clause. 
+A sentence can have more than one set of subjects and predicates. Each set is called a clause.
 
-This is an example of a sentence that has two clauses:\\ '//He planted the yams and his wife planted the corn//.'\\
-'//He planted the yams//' is one clause. 
-'//His wife planted the corn//' is another clause.\\ We can use underlining to help us see the clauses.  //__He planted the yams__ and __his wife planted the corn__.//
+This is an example of a sentence that has two clauses: \\ '//He planted the yams and his wife planted the corn//.' \\ '//He planted the yams//' is one clause. '//His wife planted the corn//' is another clause. \\ We can use underlining to help us see the clauses. //__He planted the yams__  and __his wife planted the corn__.//
 
-In the above example, each of the clauses can be a complete sentence. '//He planted the yams//.' and '//His wife planted the corn//.'
-Compound sentences are two complete sentences joined together with a comma and a **conjunction** (i.e. and, or, but).\\ For example:  //He planted the yams __and__ his wife planted the corn.//
+In the above example, each of the clauses can be a complete sentence. '//He planted the yams//.' and '//His wife planted the corn//.' Compound sentences are two complete sentences joined together with a comma and a **conjunction**  (i.e. and, or, but). \\ For example: //He planted the yams __and__  his wife planted the corn.//
 
-Here is a sentence that have two clauses, but they are different. One of the clauses cannot be a sentence by itself. It is underlined.
+Here is a sentence that have two clauses. The underlined clause cannot be a sentence by itself.
 
-'//__When the corn was ready__, his wife picked it//.'\\
-The clause “when the corn was ready” is a clause, but it is not a full sentence. The clause “his wife picked it up” is a complete sentence.\\
-'//She did not dig up the yams __because that is very hard work__//'.
+'//__When the corn was ready__, his wife picked it//.' \\ The clause “when the corn was ready” is a clause, but it is not a full sentence. The clause “his wife picked it up” is a complete sentence.
 
-In some languages, clauses can tell about something in the sentence. These are called **relative** clauses.
-For example:
-Relative clause that define which thing is being talked about.
-'//She put a little food in her own bag and a lot of food in the **bag** __that belonged to her only sister__//.' This relative clause '//that belonged to her only sister//' defines which bag.
+In some languages, clauses can tell about something in the sentence. These are called **relative**  clauses.
 
+  * Relative clauses can **define ** which thing is being talked about. For example:  '//She put a little food in her own bag and a lot of food in the **bag**__that belonged to her only sister__//.' This relative clause '//that belonged to her only sister//' defines which bag.
+  * Relative clauses can **describe ** or tell some more information.
+  * Some languages can use relative clauses both for defining and describing.
 
 ===== Translation Suggestions =====
 
 Many Bible verses contain various components such as phrases, clauses and/or participles. Example: //Although the boy ran very hard, he couldn't catch the fox, which disappeared into the woods.//
 
-Translators should use the sentence structure of the target language so that the final translation is natural. Some aspects of this include **[[:en:ta:vocabulary:wordorder|Word Order]])** and **clause order**. (See: 
+Translators should use the sentence structure of the target language so that the final translation is natural. Some aspects of this include **[[:en:ta:vocabulary:wordorder|Word Order]])** and **clause order**. (See:
 
 For example, in English, adjectives almost always come before the noun they describe, but in French, adjectives can occur before or after the noun, depending on their type.
 
@@ -84,6 +79,12 @@ Sometimes languages put an object pronoun before the verb, whereas English puts 
   * English: //The man sees it. //
   * French: //L'homme la voit. //
 
-Languages will also differ as to how they order their clauses.
+Languages will also differ as to how they order their clauses. Some languages can use relative clauses both for defining and describing. <font 12pt mso-fareast-font-family: "MS Mincho"; mso-fareast-theme-font: minor-fareast; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;/ ;;inherit;;inherit>Other languages only use relative clauses for defining. If your language is one of these, and you see a relative clause that simply describes, you may need to express it in a different way. For example:</font>
+
+</font>
+
+After putting the food in the bags, she brought them to their **house**, __which was in the village.__
+
+After putting the food in the bags, she brought them to their house. Her house was in the village.
 
 {{tag>review}}~~DISCUSSIONS~~
