@@ -4,3 +4,22 @@
 
 |**Create Pages** |  **Draft Pages**    |  **Review Pages**    |**Publish Pages**   |
 |{{topic>en:ta?create&nocomments}}|{{topic>en:ta?draft&nocomments}} |{{topic>en:ta?review&nocomments}}|{{topic>en:ta?publish&nocomments}}|
+
+
+==== Sorted by draft date ====
+
+~~NOCACHE~~
+
+{{pagequery>ns:en:ta "tag>draft"; fulltext; sort=cdate:asc; group; limit=100; spelldate; hidestart; display= {title} {date:created} ; layout=table; natsort; }}
+
+==== Sorted by review date ====
+
+~~NOCACHE~~
+
+{{pagequery>ns:en:ta "tag>review"; fulltext; sort=cdate:asc; group; limit=100; spelldate; hidestart; display= {title} {date:created} ; layout=table; natsort; }}
+
+==== Sorted by publish date ====
+
+~~NOCACHE~~
+
+{{pagequery>ns:en:ta "tag>publish"; fulltext; sort=cdate:asc; group; limit=100; spelldate; hidestart; display= {title} {date:created} ; layout=table; natsort; }}
