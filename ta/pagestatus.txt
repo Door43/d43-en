@@ -3,4 +3,4 @@
 
 
 |**Create Pages** |  **Draft Pages**    |  **Review Pages**    |**Publish Pages**   |
-|{{topic>en:ta:create&nocomments}}|{{topic>en:ta:draft&nocomments}} |{{topic>en:ta:review&nocomments}}|{{topic>en:ta:publish&nocomments}}|
+|{{topic>en:ta?create&nocomments}}|{{topic>en:ta?draft&nocomments}} |{{topic>en:ta?review&nocomments}}|{{topic>en:ta?publish&nocomments}}|
