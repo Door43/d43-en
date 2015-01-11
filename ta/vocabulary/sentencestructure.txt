@@ -50,7 +50,7 @@ In some languages, clauses can tell about something in the sentence. These are c
 
 ==== Roles ====
 
-The following terms are used in the explanations below:\\
+The following terms may be used:\\
 **Actor**  - The one who does something.\\
 **Patient**  - The one something is done to.\\
 **Recipient**  - The one who receives something.\\
