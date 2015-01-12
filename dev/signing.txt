@@ -41,3 +41,9 @@ All content released on Door43.org will be signed by the Certificate Authority. 
 The status of the content validation will be easily understood by some indicator while viewing the content. Validation information should be displayed when clicking on this indicator.
 
 <font 14px line-height: 19.6000003814697px/inherit;;inherit;;inherit>For each signature on the content, details of the Signing identity, including name, will be available for viewing.</font>
+
+===== Diagram =====
+
+==== ** **  ====
+
+{{https://door43.org/_media/en/dev/signing.png?linkonly|en:dev:signing.png}}
