@@ -14,11 +14,11 @@ This specification provides details to the process used for verifying approval b
 
 ===== Preparation =====
 
-A Certificate Authority (Door43) shall provide a private and public key pair. The public key otherwise known as the CA root certificate shall be publicly and easily available in addition to being distributed with apps developed by Door43 and needing to verify signed content, while the private key shall remain private and secure on the Door43 server.
+A Certificate Authority (unfoldingWord) shall provide a private and public key pair. The public key otherwise known as the CA root certificate shall be publicly and easily available in addition to being distributed with apps needing to verify signed content, while the private key shall remain private and secure on the server.
 
 ===== Creating A Signing Identity =====
 
-<font inherit/inherit;;inherit;;inherit>A member of the signing organization shall visit Door43.org and submit a request to create a new Signing Identity. Information gathered shall include, but not be limited to organization name and contact details. NOTE: if desired the signing organization may provide a public key along with their request. In this case the signing organization shall generate their own private and public key pairs for which they are responsible to keep secure.</font>
+<font inherit/inherit;;inherit;;inherit>A member of the signing organization shall visit unfoldingword.org and submit a request to create a new Signing Identity. Information gathered shall include, but not be limited to organization name and contact details. NOTE: if desired the signing organization may provide a public key along with their request. In this case the signing organization shall generate their own private and public key pairs for which they are responsible to keep secure.</font>
 
 <font inherit/inherit;;inherit;;inherit>Upon request approval, if no public key was provided by the signing organization, a new public and private key pair shall be generated and issued to the signing organization and thus establishing the signing organization as a new Signing Identity. The SI certificate (public key) shall be signed by the CA Private Key to return the intermediate certificate which verifies the Signing Identity against the Certificate Authority.</font>
 
@@ -32,16 +32,18 @@ A hash of the content will be generated according to some pre-determined algorit
 
 ===== Distributing Signed Content =====
 
-<font 14px line-height: 19.6000003814697px/inherit;;inherit;;inherit>For best results the signed content will be submitted to Door43.org where it will be verified and queued for release via the mobile API. The signed content may also be side loaded onto any supporting app where it will be verified and available for use.</font>
+<font 14px line-height: 19.6000003814697px/inherit;;inherit;;inherit>For best results the signed content will be submitted to unfoldingword.org where it will be verified and queued for release via the mobile API. The signed content may also be side loaded onto any supporting app where it will be verified and available for use.</font>
 
 ===== Further Notes =====
 
-All content released on Door43.org will be signed by the Certificate Authority. In addition this content may be signed by an unlimited number of Signing Identities.
+All content released on unfoldingword.org will be signed by the Certificate Authority. In addition this content may be signed by an unlimited number of Signing Identities.
 
 The status of the content validation will be easily understood by some indicator while viewing the content. Validation information should be displayed when clicking on this indicator.
 
 <font 14px line-height: 19.6000003814697px/inherit;;inherit;;inherit>For each signature on the content, details of the Signing identity, including name, will be available for viewing.</font>
 
 ===== Diagram =====
+
+Below is a diagram of the above specification.
 
 [[https://door43.org/_media/en/dev/signing.png|{{https://door43.org/_media/en/dev/signing.png?direct&}}]]
