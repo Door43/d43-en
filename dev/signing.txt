@@ -32,7 +32,7 @@ A hash of the content will be generated according to some pre-determined algorit
 
 ===== Distributing Signed Content =====
 
-<font 14px line-height: 19.6000003814697px;/inherit;;inherit;;inherit>For best results the signed content will be submitted to Door43.org where it will be verified and queued for release via the mobile API. The signed content may also be side loaded onto any supporting app where it will be verified and available for use.</font>
+<font 14px line-height: 19.6000003814697px/inherit;;inherit;;inherit>For best results the signed content will be submitted to Door43.org where it will be verified and queued for release via the mobile API. The signed content may also be side loaded onto any supporting app where it will be verified and available for use.</font>
 
 ===== Further Notes =====
 
@@ -40,4 +40,4 @@ All content released on Door43.org will be signed by the Certificate Authority. 
 
 The status of the content validation will be easily understood by some indicator while viewing the content. Validation information should be displayed when clicking on this indicator.
 
-<font 14px line-height: 19.6000003814697px;/inherit;;inherit;;inherit>For each signature on the content, details of the Signing identity, including name, will be available for viewing.</font>
+<font 14px line-height: 19.6000003814697px/inherit;;inherit;;inherit>For each signature on the content, details of the Signing identity, including name, will be available for viewing.</font>
