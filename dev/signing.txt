@@ -22,13 +22,13 @@ A Certificate Authority (Door43) shall provide a private and public key pair. Th
 
 <font inherit/inherit;;inherit;;inherit>Upon request approval, if no public key was provided by the signing organization, a new public and private key pair shall be generated and issued to the signing organization and thus establishing the signing organization as a new Signing Identity. The SI certificate (public key) shall be signed by the CA Private Key to return the intermediate certificate which verifies the Signing Identity against the Certificate Authority.</font>
 
-===== <font inherit/inherit;;inherit;;inherit>Signing Content</font>  =====
+===== <font inherit/inherit;;inherit;;inherit>Signing Content</font>     =====
 
 There are two ways in which content may be signed. If the Signing Identity manages it's own keys they will be responsible for fulfilling the following steps. Otherwise the following steps will be performed with the Certificate Authority.
 
-A hash of the content will be generated according to some pre-determined algorithm. T<font 14px line-height: 19.6000003814697px;/inherit;;inherit;;inherit>he SI private key and certificate will then be used to create the signature from this hash.</font>
+A hash of the content will be generated according to some pre-determined algorithm. T<font 14px line-height: 19.6000003814697px/inherit;;inherit;;inherit>he SI private key and certificate will then be used to create the signature from this hash.</font>
 
-<font 14px line-height: 19.6000003814697px;/inherit;;inherit;;inherit>The signature, SI certificate, and intermediate certificate will be bundled together with the original content to create the signed content.</font>
+<font 14px line-height: 19.6000003814697px/inherit;;inherit;;inherit>The signature, SI certificate, and intermediate certificate will be bundled together with the original content to create the signed content.</font>
 
 ===== Distributing Signed Content =====
 
