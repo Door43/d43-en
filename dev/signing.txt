@@ -1,11 +1,43 @@
 ====== Overview ======
 
-
 This is the Digital Signature specification for unfoldingWord content.
 
-Overview of digital signatures
-{{http://en.wikipedia.org/wiki/Digital_signature#mediaviewer/File:Digital_Signature_diagram.svg}}
+Overview of digital signatures {{http://en.wikipedia.org/wiki/Digital_signature#mediaviewer/File:Digital_Signature_diagram.svg|Digital_signature}}
 
-ECDSA is the expected implementation: http://en.wikipedia.org/wiki/Elliptic_Curve_Digital_Signature_Algorithm.
+ECDSA is the expected implementation: [[http://en.wikipedia.org/wiki/Elliptic_Curve_Digital_Signature_Algorithm|http://en.wikipedia.org/wiki/Elliptic_Curve_Digital_Signature_Algorithm]].
 
 ====== Specification ======
+
+Draft 1.
+
+This specification provides details to the process used for verifying approval by known authorities known as Signing Identities.
+
+===== Preparation =====
+
+A Certificate Authority (Door43) shall provide a private and public key pair. The public key otherwise known as the CA root certificate shall be publicly and easily available in addition to being distributed with apps developed by Door43 and needing to verify signed content, while the private key shall remain private and secure on the Door43 server.
+
+===== Creating A Signing Identity =====
+
+<font inherit/inherit;;inherit;;inherit>A member of the signing organization shall visit Door43.org and submit a request to create a new Signing Identity. Information gather shall include, but not be limited to organization name and contact details. NOTE: if desired the signing organization may provide a public key along with their request. In this case the signing organization shall generate their own private and public key pairs for which they are responsible to keep secure.</font>
+
+<font inherit/inherit;;inherit;;inherit>Upon request approval, if no public key was provided by the signing organization, a new public and private key pair shall be generated and issued to the signing organization and thus establishing the signing organization as a new Signing Identity. The SI certificate (public key) shall be signed by the CA Private Key to return the intermediate certificate which verifies the Signing Identity against the Certificate Authority.</font>
+
+===== <font inherit/inherit;;inherit;;inherit>Signing Content</font>  =====
+
+There are two ways in which content may be signed. If the Signing Identity manages it's own keys they will be responsible for fulfilling the following steps. Otherwise the following steps will be performed with the Certificate Authority.
+
+A hash of the content will be generated according to some pre-determined algorithm. T<font 14px line-height: 19.6000003814697px;/inherit;;inherit;;inherit>he SI private key and certificate will then be used to create the signature from this hash.</font>
+
+<font 14px line-height: 19.6000003814697px;/inherit;;inherit;;inherit>The signature, SI certificate, and intermediate certificate will be bundled together with the original content to create the signed content.</font>
+
+===== Distributing Signed Content =====
+
+<font 14px line-height: 19.6000003814697px;/inherit;;inherit;;inherit>For best results the signed content will be submitted to Door43.org where it will be verified and queued for release via the mobile API. The signed content may also be side loaded onto any supporting app where it will be verified and available for use.</font>
+
+===== Further Notes =====
+
+All content released on Door43.org will be signed by the Certificate Authority. In addition this content may be signed by an unlimited number of Signing Identities.
+
+The status of the content validation will be easily understood by some indicator while viewing the content. Validation information should be displayed when clicking on this indicator.
+
+<font 14px line-height: 19.6000003814697px;/inherit;;inherit;;inherit>For each signature on the content, details of the Signing identity, including name, will be available for viewing.</font>
