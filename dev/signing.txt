@@ -18,7 +18,7 @@ A Certificate Authority (Door43) shall provide a private and public key pair. Th
 
 ===== Creating A Signing Identity =====
 
-<font inherit/inherit;;inherit;;inherit>A member of the signing organization shall visit Door43.org and submit a request to create a new Signing Identity. Information gather shall include, but not be limited to organization name and contact details. NOTE: if desired the signing organization may provide a public key along with their request. In this case the signing organization shall generate their own private and public key pairs for which they are responsible to keep secure.</font>
+<font inherit/inherit;;inherit;;inherit>A member of the signing organization shall visit Door43.org and submit a request to create a new Signing Identity. Information gathered shall include, but not be limited to organization name and contact details. NOTE: if desired the signing organization may provide a public key along with their request. In this case the signing organization shall generate their own private and public key pairs for which they are responsible to keep secure.</font>
 
 <font inherit/inherit;;inherit;;inherit>Upon request approval, if no public key was provided by the signing organization, a new public and private key pair shall be generated and issued to the signing organization and thus establishing the signing organization as a new Signing Identity. The SI certificate (public key) shall be signed by the CA Private Key to return the intermediate certificate which verifies the Signing Identity against the Certificate Authority.</font>
 
