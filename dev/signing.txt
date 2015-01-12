@@ -1,0 +1,11 @@
+====== Overview ======
+
+
+This is the Digital Signature specification for unfoldingWord content.
+
+Overview of digital signatures
+{{http://en.wikipedia.org/wiki/Digital_signature#mediaviewer/File:Digital_Signature_diagram.svg}}
+
+ECDSA is the expected implementation: http://en.wikipedia.org/wiki/Elliptic_Curve_Digital_Signature_Algorithm.
+
+====== Specification ======
