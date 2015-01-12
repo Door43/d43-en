@@ -22,7 +22,7 @@ A Certificate Authority (Door43) shall provide a private and public key pair. Th
 
 <font inherit/inherit;;inherit;;inherit>Upon request approval, if no public key was provided by the signing organization, a new public and private key pair shall be generated and issued to the signing organization and thus establishing the signing organization as a new Signing Identity. The SI certificate (public key) shall be signed by the CA Private Key to return the intermediate certificate which verifies the Signing Identity against the Certificate Authority.</font>
 
-===== <font inherit/inherit;;inherit;;inherit>Signing Content</font>     =====
+===== Signing Content =====
 
 There are two ways in which content may be signed. If the Signing Identity manages it's own keys they will be responsible for fulfilling the following steps. Otherwise the following steps will be performed with the Certificate Authority.
 
