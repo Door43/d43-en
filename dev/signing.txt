@@ -43,7 +43,3 @@ The status of the content validation will be easily understood by some indicator
 <font 14px line-height: 19.6000003814697px/inherit;;inherit;;inherit>For each signature on the content, details of the Signing identity, including name, will be available for viewing.</font>
 
 ===== Diagram =====
-
-==== ** **  ====
-
-{{https://door43.org/_media/en/dev/signing.png?linkonly|en:dev:signing.png}}
