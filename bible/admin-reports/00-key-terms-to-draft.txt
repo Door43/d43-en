@@ -20,6 +20,7 @@ Edit the bible reference tags to create a list of key terms to promote to draft.
 {{topic>create +act01 &tags&nocomments}}
 {{topic>create +act02 &tags&nocomments}}
 {{topic>create +1ti01 &tags&nocomments}}
+{{topic>create +1ti02 &tags&nocomments}}
 
 {{topic>create +ktteam &tags&nocomments}}
 
