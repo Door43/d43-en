@@ -1,7 +1,7 @@
 ====== Chunks with tA links ======
 
 
-=== Luke ===
+==== Luke ====
 
 {{pagequery> ns:en:bible:notes:luk "(see: [[:en:ta"; fulltext; sort=title:asc; display={title}; layout=column; showcount; hidestart; natsort; bullet=square; }}
 
@@ -9,7 +9,7 @@
 
 {{pagequery> ns:en:bible:notes:luk "(see: [[en:ta"; fulltext; sort=title:asc; display={title}; layout=column; showcount; hidestart; natsort; bullet=square; }}
 
-=== Ruth ===
+==== Ruth ====
 
 {{pagequery> ns:en:bible:notes:rut "(see: [[:en:ta"; fulltext; sort=title:asc; display={title}; layout=column; showcount; hidestart; natsort; bullet=square; }}
 
@@ -17,7 +17,7 @@
 
 {{pagequery> ns:en:bible:notes:rut "(see: [[en:ta"; fulltext; sort=title:asc; display={title}; layout=column; showcount; hidestart; natsort; bullet=square; }}
 
-=== Titus ===
+==== Titus ====
 
 {{pagequery> ns:en:bible:notes:tit "(see: [[:en:ta"; fulltext; sort=title:asc; display={title}; layout=column; showcount; hidestart; natsort; bullet=square; }}
 
