@@ -1,12 +1,12 @@
 ====== Verbs ======
 
-Verbs either link the subject to a descriptive portion of the sentence or express an action or a state-of-being (e.g. am, is, are, was, were, be, being, been).\\
-Many languages use more verbs than English does. Events are usually expressed by **VERBS**.\\
-The context of the sentence determines the type of verb because some can function in different ways. For example, "The fish tasted oily," uses tasted as a linking verb that describes the subject. "John tasted the fish," uses tasted as an action verb showing what John did.
+Verbs either link the subject to a descriptive portion of the sentence or express an action or a state-of-being (e.g. am, is, are, was, were, be, being, been).  Many languages use more verbs than English does. <font 14px line-height: 19.6000003814697px;/inherit;;inherit;;inherit>The portion of the sentence which contains the verb is called the predicate.</font>
+
+Events are usually expressed by **VERBS**.
+
+The context of the sentence determines the type of verb because some can function in different ways. For example, "The fish tasted oily," uses tasted as a linking verb that describes the subject (the fish). "John tasted the fish" uses tasted as an action verb showing what the subject (John) did.
 
 Some verbs require a 'helper' and thus become a verb phrase. Examples include: am eating, are running, have been eating, will be eating.
-
-The portion of the sentence which contains the verb is called the predicate.
 
 ==== Verb Tense ====
 
@@ -14,28 +14,31 @@ Just as time can be expressed as past, present and future, verbs also have these
 
 ==== Verbs and Objects ====
 
-All sentences have a SUBJECT (PARTICIPANT), VERB (EVENT), and OBJECT (PARTICIPANT). English grammar allows for not stating the object of the verb so that the sentence may only have the SUBJECT (PARTICIPANT) and VERB (EVENT) stated.  \\ Examples:
+All sentences have a SUBJECT (PARTICIPANT), VERB (EVENT), and OBJECT (PARTICIPANT). English grammar allows for not stating the object of the verb so that the sentence may only have the SUBJECT (PARTICIPANT) and VERB (EVENT) stated.\\
+Examples:
+
   * '//He has been **singing**  all day//.' the object is not stated.
-  * '//He has been **singing** __hymns__ all day.//' states 'hymns' as the object of "singing."
+  * '//He has been **singing**__hymns__  all day.//' states 'hymns' as the object of "singing."
 
-Note that different languages have different [[en:ta:vocabulary:wordorder| orders]] for these parts of the sentences.
+Note that different languages have different [[:en:ta:vocabulary:wordorder|orders]] for these parts of the sentences.
 
-In your language, all the verbs may require an object. (In the examples below, the subject is first, the verb is bold, and the object is underlined.)
-In English, it is sometimes ok to leave out the object when the object is not important in the sentence.
-  * He **sang** __a song__.
+In your language, all the verbs may require an object. (In the examples below, the subject is first, the verb is bold, and the object is underlined.) In English, it is sometimes ok to leave out the object when the object is not important in the sentence.
+
+  * He **sang**__a song__.
   * He likes to **sing**.
-	
+
 In some languages, a verb that needs an object must always take one, even if the object is not very important. In all of these sentences, English can leave out the object.
-  * He likes to **sing** __songs__.
-  * He likes to **cook** __food__.
-  * He has not **eaten** __anything__ in three days.
-  * He is blind. He cannot **see** __anything__.
-	
+
+  * He likes to **sing**__songs__.
+  * He likes to **cook**__food__.
+  * He has not **eaten**__anything__  in three days.
+  * He is blind. He cannot **see**__anything__.
+
 Sometimes you may need to include an object even if there is no object in English.
 
 ==== Singular & Plural Subjects - Verb Agreement ====
 
-Nouns and Pronouns have the ability to be either singular (meaning "one") or plural (meaning "more than one"). For the majority of English words, plurals are formed simply by adding an 's' to the root word. 
+Nouns and Pronouns have the ability to be either singular (meaning "one") or plural (meaning "more than one"). For the majority of English words, plurals are formed simply by adding an 's' to the root word.
 
 The [[:en:ta:vocabulary:singularpronoun|Singular Pronouns]] & [[:en:ta:vocabulary:pluralpronouns|Plural Pronouns]] pages have more information. Basically, singular pronouns include I, you, he, she and it. Plural pronouns include you, they and we. "It" refers back to nouns (the antecedent) which are non-human. There are collective nouns which describe quantities in excess of one but which remain singular in treatment; for example, team refers to several people. However, in a sentence, team is singular. (e.g. The team is tired.)
 
@@ -43,7 +46,8 @@ Verb agreement requires matching singular subjects with singular verbs. An examp
 
   * 'The voter is angry.' One voter (singular) uses a singular verb (is).
   * 'The voters are angry.' Many voters (plural) uses a plural verb (are).
-Most of the time:
+
+Most of the time in English:
 
   * Nouns that are plural have an 's' on the end; verbs that are plural do not.
   * Singular verbs typically have an 's' on the end and their subject will not (e.g. A dog eats. Two dogs eat.)
@@ -64,7 +68,7 @@ Pronouns work the same way; it is important to use the right verb for each of th
 **Can and May**. The verb "can" shows ability or power; "may" involves permission. Examples:
 
   * 'I can read' states a fact.
-  * 'May I read now?' seeks permission to do something..
+  * 'May I read now?' seeks permission to read.
 
 **Teach and Learn**. These verbs are partners. Teaching imparts knowledge. Learning means getting knowledge.
 
@@ -72,7 +76,6 @@ Pronouns work the same way; it is important to use the right verb for each of th
 
   * 'I sit on a chair.' means 'I rest on a chair.'
   * 'I set my book on the table.' means 'I place my book on the table.' (or, 'I placed my book on the table')
-
-{{tag>review}} ~~DISCUSSION~~
+{{tag>review}}~~DISCUSSION~~
 
 \\
