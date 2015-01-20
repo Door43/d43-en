@@ -37,6 +37,6 @@
     * compare sentence breaks in NIV, NASB, NLT, etc.
     * insert the break mid-sentence
     * write a note in the chat section alerting the Text team to the break
-  - For long sections with no natural break, such as genealogies, insert breaks every few verses and notify the Text team via the chat feature
+  - For long sections such as genealogies that do not have natural breaks, insert breaks every few verses and notify the Text team via the chat feature
 
 ~~DISCUSSION~~
