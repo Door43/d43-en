@@ -23,15 +23,20 @@
   - Insert a break before the chapter marker
   - Find and remove extraneous line breaks mid-verse that hinder scanning the text
   - Insert breaks before each paragraph marker //if// they occur a reasonable number of verses from the previous one
+  - Some chunks may include more than one very short, single-sentence paragraphs
   - Start at the top with the first section that is too long and look for natural breaks:
     * a change in speakers
     * a change in location
     * a significant change in action
     * a jump ahead in time
+  - Insert breaks every 1-4 verses, creating shorter sections whenever:
+    * there are a number of theological terms
+    * the sentences are long or complex
+    * there are idioms or other grammatical issues that require explanation
   - If division is necessary, but there is no sentence break, look for a place where the sentence //could// be broken without disrupting the flow:
     * compare sentence breaks in NIV, NASB, NLT, etc.
     * insert the break mid-sentence
     * write a note in the chat section alerting the Text team to the break
-
+  - For long sections with no natural break, such as genealogies, insert breaks every few verses and notify the Text team via the chat feature
 
 ~~DISCUSSION~~
