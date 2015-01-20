@@ -28,6 +28,10 @@
     * a change in location
     * a significant change in action
     * a jump ahead in time
+  - If division is necessary, but there is no sentence break, look for a place where the sentence //could// be broken without disrupting the flow:
+    * compare sentence breaks in NIV, NASB, NLT, etc.
+    * insert the break mid-sentence
+    * write a note in the chat section alerting the Text team to the break
 
 
 ~~DISCUSSION~~
