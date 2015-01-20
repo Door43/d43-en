@@ -23,7 +23,11 @@
   - Insert a break before the chapter marker
   - Find and remove extraneous line breaks mid-verse that hinder scanning the text
   - Insert breaks before each paragraph marker //if// they occur a reasonable number of verses from the previous one
-  - 
+  - Start at the top with the first section that is too long and look for natural breaks:
+    * a change in speakers
+    * a change in location
+    * a significant change in action
+    * a jump ahead in time
 
 
 ~~DISCUSSION~~
