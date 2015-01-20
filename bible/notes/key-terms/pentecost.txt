@@ -3,19 +3,18 @@
 ===== Facts: =====
 
 Text
-    * bullet
-    * bullet
 
-(Translation suggestions: [[:en:ta:translate:translatenames]])
+  * bullet
+  * bullet
+
+(Translation suggestions: [[:en:ta:translate:translatenames|How to Translate Names]])
 
 (See also: other)
 
 ===== Bible References: =====
 
-{{topic>pentecost&nocomments}}
-
-~~DISCUSSION~~
+{{topic>pentecost&nocomments}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 
-{{tag>create act02 ktlink}}
+{{tag>draft act02 ktlink}}
