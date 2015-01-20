@@ -16,4 +16,14 @@
   * Give extra weight to the structure of the original-language text rather than to English-langauge divisions.
   * As of 07/15/14, divisions must occur at verse breaks. The software is unable to accommodate a chunk such as "3-5a."
   * Final principle: It can be fixed. Don't agonize over the divisions. They can be changed later (with some effort) if a better division is discovered during the development of the notes.
+
+
+===== Suggested Process: =====
+
+  - Insert a break before the chapter marker
+  - Find and remove extraneous line breaks mid-verse that hinder scanning the text
+  - Insert breaks before each paragraph marker //if// they occur a reasonable number of verses from the previous one
+  - 
+
+
 ~~DISCUSSION~~
