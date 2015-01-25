@@ -7,17 +7,25 @@
 **AND**
 
  {{pagequery> ns:en:bible:notes:gen "(see: [[en:ta"; fulltext; sort=title:asc; display={title}; layout=column; showcount; hidestart; natsort; bullet=square; }}
-==== Ruth ====
+==== Acts ====
 
-{{pagequery> ns:en:bible:notes:rut "(see: [[:en:ta"; fulltext; sort=title:asc; display={title}; layout=column; showcount; hidestart; natsort; bullet=square; }}
-
-**AND**
-
- {{pagequery> ns:en:bible:notes:rut "(see: [[en:ta"; fulltext; sort=title:asc; display={title}; layout=column; showcount; hidestart; natsort; bullet=square; }}
-==== Titus ====
-
-{{pagequery> ns:en:bible:notes:tit "(see: [[:en:ta"; fulltext; sort=title:asc; display={title}; layout=column; showcount; hidestart; natsort; bullet=square; }}
+{{pagequery> ns:en:bible:notes:act "(see: [[:en:ta"; fulltext; sort=title:asc; display={title}; layout=column; showcount; hidestart; natsort; bullet=square; }}
 
 **AND**
 
- {{pagequery> ns:en:bible:notes:tit "(see: [[en:ta"; fulltext; sort=title:asc; display={title}; layout=column; showcount; hidestart; natsort; bullet=square; }}
+ {{pagequery> ns:en:bible:notes:act "(see: [[en:ta"; fulltext; sort=title:asc; display={title}; layout=column; showcount; hidestart; natsort; bullet=square; }}
+==== 1 Timothy ====
+
+{{pagequery> ns:en:bible:notes:1ti "(see: [[:en:ta"; fulltext; sort=title:asc; display={title}; layout=column; showcount; hidestart; natsort; bullet=square; }}
+
+**AND**
+
+ {{pagequery> ns:en:bible:notes:1ti "(see: [[en:ta"; fulltext; sort=title:asc; display={title}; layout=column; showcount; hidestart; natsort; bullet=square; }}
+
+==== 2 Timothy ====
+
+{{pagequery> ns:en:bible:notes:2ti "(see: [[:en:ta"; fulltext; sort=title:asc; display={title}; layout=column; showcount; hidestart; natsort; bullet=square; }}
+
+**AND**
+
+ {{pagequery> ns:en:bible:notes:2ti "(see: [[en:ta"; fulltext; sort=title:asc; display={title}; layout=column; showcount; hidestart; natsort; bullet=square; }}
