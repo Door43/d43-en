@@ -1,20 +1,18 @@
 ====== Antioch ======
+
 ~~NOCACHE~~
+
 ===== Facts: =====
 
 Text
-    * bullet
-    * bullet
 
-(Translation suggestions: [[en:ta:translate:translatenames]])
+  * bullet
+  * bullet
+
+(Translation suggestions: [[:en:ta:translate:translatenames|How to Translate Names]])
 
 (See also: other)
 
 ===== Bible References: =====
 
-{{topic>antioch&nocomments}}
-
-~~DISCUSSION~~
-
-
-{{tag>create 2ti03 ktlink}}
+{{topic>antioch&nocomments}}~~DISCUSSION~~{{tag>draft ktlink}}
