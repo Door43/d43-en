@@ -41,6 +41,5 @@
   - When the following markers precede a verse marker, they should be included within the section break:
     * \p - this marker formats the verse as a new paragraph
     * \q - this marker formats the verse as a quotation (also: \q1, \q2)
-    * \m - this marker creates a blank line before the paragraph
 
 ~~DISCUSSION~~
