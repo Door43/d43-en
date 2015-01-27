@@ -120,7 +120,7 @@ content:
 
 ===== Source Catalog =====
 
-The source catalog contains all the chapters and frames of the project.
+The source catalog contains all the chapters and frames of the project. The ref and title are optional. If left blank they will not be available for translation within the app. The img field is likewise optional. There is a new format field that allows you to specify the format of the frame text. For example Bible translation projects are in the usx format. Valid options for format are currently usx and txt.
 
 <code>
 location: /ts/txt/2/luk/en/udb/source.json
@@ -129,11 +129,17 @@ content:
   "chapters": [
     {
       "number": "01",
-      "frames": {
-        "id": "01-01",
-        "text": "<para style=\"p\"><verse number=\"1\" style=\"v\" />Now in those days, it came about that Caesar Augustus sent out a decree ordering that a census be taken of all the people living in the Roman world.<verse number=\"2\" style=\"v\" />This was the first census made while Quirinius was governor of Syria.<verse number=\"3\" style=\"v\" />So everyone went to his own town to be registered for the census.</para>"
-       },
-       ...
+      "ref": "",
+      "title": "",
+      "frames": [
+        {
+          "id": "01-01",
+          "img": "",
+          "format": "usx",
+          "text": "<para style=\"p\"><verse number=\"1\" style=\"v\" />Now in those days, it came about that Caesar Augustus sent out a decree ordering that a census be taken of all the people living in the Roman world.<verse number=\"2\" style=\"v\" />This was the first census made while Quirinius was governor of Syria.<verse number=\"3\" style=\"v\" />So everyone went to his own town to be registered for the census.</para>"
+         },
+         ...
+       ],
     },
     ...
   ],
