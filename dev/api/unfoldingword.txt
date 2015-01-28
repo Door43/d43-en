@@ -9,6 +9,9 @@ Official specification for unfoldingWord API, version 1:
 
     api.unfoldingword.org/obs/txt/1/obs-catalog.json
 
+For languages that are currently in progress (from door43.org's perspective), there is a JSON endpoint at:
+
+    api.unfoldingword.org/obs/txt/1/obs-in-progress.json
 
 ===== translationStudio App Catalog =====
 
