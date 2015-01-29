@@ -2,20 +2,20 @@
 
 ===== en =====
 ^Language   ^Publish Date   ^Version    ^Checking Level ^
-|  [[:en:uwadmin:en:obs:status|English]]  |  2014-12-07  |  3.1.1  |  {{http://api.unfoldingword.org/obs/jpg/1/checkinglevels/uW-Level3-32px.png}}  |
+|  [[:en:uwadmin:en:obs:status|English]]  |  2014-12-07  |  3.1.1  |  {{https://api.unfoldingword.org/obs/jpg/1/checkinglevels/uW-Level3-32px.png}}  |
 
 ===== es =====
 ^Language   ^Publish Date   ^Version    ^Checking Level ^
-|  [[:en:uwadmin:es:obs:status|Español]]  |  2014-12-08  |  3.2  |  {{http://api.unfoldingword.org/obs/jpg/1/checkinglevels/uW-Level1-32px.png}}  |
+|  [[:en:uwadmin:es:obs:status|Español]]  |  2014-12-08  |  3.2  |  {{https://api.unfoldingword.org/obs/jpg/1/checkinglevels/uW-Level1-32px.png}}  |
 
 ===== fr =====
 ^Language   ^Publish Date   ^Version    ^Checking Level ^
-|  [[:en:uwadmin:fr:obs:status|Français]]  |  2014-12-08  |  3.2.1  |  {{http://api.unfoldingword.org/obs/jpg/1/checkinglevels/uW-Level1-32px.png}}  |
+|  [[:en:uwadmin:fr:obs:status|Français]]  |  2014-12-08  |  3.2.1  |  {{https://api.unfoldingword.org/obs/jpg/1/checkinglevels/uW-Level1-32px.png}}  |
 
 ===== ru =====
 ^Language   ^Publish Date   ^Version    ^Checking Level ^
-|  [[:en:uwadmin:ru:obs:status|Русский]]  |  2014-12-08  |  2.1  |  {{http://api.unfoldingword.org/obs/jpg/1/checkinglevels/uW-Level1-32px.png}}  |
+|  [[:en:uwadmin:ru:obs:status|Русский]]  |  2014-12-08  |  2.1  |  {{https://api.unfoldingword.org/obs/jpg/1/checkinglevels/uW-Level1-32px.png}}  |
 
 ===== pt-br =====
 ^Language   ^Publish Date   ^Version    ^Checking Level ^
-|  [[:en:uwadmin:pt-br:obs:status|Português]]  |  2015-01-19  |  3.2.2  |  {{http://api.unfoldingword.org/obs/jpg/1/checkinglevels/uW-Level3-32px.png}}  |
+|  [[:en:uwadmin:pt-br:obs:status|Português]]  |  2015-01-29  |  3.2.3  |  {{https://api.unfoldingword.org/obs/jpg/1/checkinglevels/uW-Level3-32px.png}}  |
