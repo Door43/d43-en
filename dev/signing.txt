@@ -42,6 +42,43 @@ The status of the content validation will be easily understood by some indicator
 
 <font 14px line-height: 19.6000003814697px/inherit;;inherit;;inherit>For each signature on the content, details of the Signing identity, including name, will be available for viewing.</font>
 
+
+===== Signing Identity Endpoint =====
+
+A list of Signing Identities (SI) and their verification keys is available at:
+
+    location: https://pki.unfoldingword.org/si_catalog.json
+    content:
+    [
+      {
+        'slug': 'uW',
+        'si': 'https://pki.unfoldingword.org/uW.tar'
+      },
+      ...
+    ]
+
+An example SI endpoint:
+
+    location: https://pki.unfoldingword.org/uW.tar
+    content:
+    file: uW.pem (public key for verifying payloads)
+    file: uW.sig (signature for JSON payload below)
+    file: uW.json (contains SI information)
+      [
+        {
+          'org': 'unfoldingWord',
+          'slug': 'uW'
+          'web': 'https://unfoldingword.org',
+          'email': 'admin@unfoldingword.org',
+          'created': '2015-01-22',
+        ​  '​modified': '201​5​-01-29'​,
+          'expires': '2020-​01-22'
+        }
+      ]
+
+Once an application has downloaded information for a SI they can verify the identification information.  Subsequently, it can verify signed content using the SI's verification key.
+
+
 ===== Diagram =====
 
 Below is a diagram of the above specification.
