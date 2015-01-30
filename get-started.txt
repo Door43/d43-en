@@ -44,7 +44,12 @@ Note: Right click on links and choose "Open in new window."
 
 In the sidebar of Story 31, you should see a language selection dropdown. When you click it, a list of available languages displays, sorted by language code. If you see the language into which you would like to translate, click it.
 
-If you need a language added to Door43, please [[http://distantshores.org/contact|contact us]].
+If you need a language added to Door43, please go to [[obs-setup]]. Follow the directions on the page.
+  * Pick a source language from a drop down menu.
+  * Pick a Destination Language.
+    * Start typing in the in field the name of the target language. 
+  * Click the 'Create OBS Now' button.
+  * A message that the stories have been created will appear in a few moments.
 
 ===== 5. Start Translating =====
 
