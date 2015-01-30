@@ -4,7 +4,7 @@
 publish date: 
 
 
-version: ??
+version: 
 
 
 contributors: 
@@ -13,16 +13,16 @@ contributors:
 checking entity: translation team
 
 
-checking level: ??
+checking level: 
 
 
 source text: en
 
 
-source text version: ??
+source text version: 3.1.1
 
 
 comments: 
 
 
-Progress Notes: 
+Progress Notes: Initial setup 2015-01-30
