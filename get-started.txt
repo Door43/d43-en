@@ -42,7 +42,9 @@ Note: Right click on links and choose "Open in new window."
 
 ===== 4. Choose the language into which you want to translate =====
 
-In the sidebar of Story 31, you should see a language selection dropdown. When you click it, a list of available languages displays, sorted by language code. If you see the language into which you would like to translate, click it.
+In the sidebar of each story, you should see a language selection field. Click in the field and start typing in the name of the target language. A list of available languages displays.  If you see the language into which you would like to translate, click it.
+
+The first OBS story should show in the window. If it does not, then the language needs to be added to Door43.
 
 If you need a language added to Door43, please go to [[:obs-setup]]. Follow the directions on the page.
   * Pick a source language from a drop down menu.
