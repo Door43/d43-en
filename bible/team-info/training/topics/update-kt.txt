@@ -1,1 +1,25 @@
-Update a Published KT
+====== Updates to Published KT Pages ======
+
+As the notes teams work through their books, they see changes that they would like to have made to KT pages that are already published. We are also aware that we imported about 180 KT pages from OBS that were never really edited with the whole Bible in mind. 
+
+
+==== Minor Errors on Published KT Pages ====
+
+If the Notes team sees a typo or other insignificant issue in a published KT page, the Notes team leader should just make the change to the KT page. End of story.
+
+
+==== Significant Changes to Published KT Pages ====
+
+When there should be a significant change to a KT page, the Notes team leader will do two things:
+
+  - Add a new comment in the Discussion explaining the suggested change
+  - Add two new tags to the KT page:  “review” and “ktlink” (do not remove or change the “publish” tag)
+
+We need to keep the “publish” tag so an app update will not skip the KT if and update runs during this process. But the additional presence of the “review” tag will let the KT team leader know there is work to be done on the page. The “ktlink” tag is a technical tag that makes it possible to track of what is happening to all the KT pages.
+
+When the “review” and “publish” tags are added, the KT page will appear on the KT team leader's “To Do” list. When the team lead will remove the “review” tag after editing the page, but will leave the “publish” and “ktlink” tags just like the normal process when the team finishes a page. 
+
+When the page is back to “publish” and “ktlink” status, the KT tech person will run some checks. That completes the update process.
+
+
+{{tag>notes301 kt301}}
