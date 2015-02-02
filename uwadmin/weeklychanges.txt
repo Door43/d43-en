@@ -376,6 +376,9 @@
 **[[:tr:obs|tr OBS]]**
 {{changes>ns=tr:obs&maxage=604800&render=pagelist(header,date,user,nocomments)}}
 
+**[[:ts:obs|ts OBS]]**
+{{changes>ns=ts:obs&maxage=604800&render=pagelist(header,date,user,nocomments)}}
+
 **[[:ttt-x-ismai:obs|ttt-x-ismai OBS]]**
 {{changes>ns=ttt-x-ismai:obs&maxage=604800&render=pagelist(header,date,user,nocomments)}}
 

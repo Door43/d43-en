@@ -251,6 +251,8 @@
 {{changes>ns=tpi:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:tr:obs|tr OBS]]**
 {{changes>ns=tr:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
+**[[:ts:obs|ts OBS]]**
+{{changes>ns=ts:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:ttt-x-ismai:obs|ttt-x-ismai OBS]]**
 {{changes>ns=ttt-x-ismai:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:ttt-x-txizi:obs|ttt-x-txizi OBS]]**
