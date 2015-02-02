@@ -6,8 +6,28 @@ If you need help with Open Bible Stories you can
   * Read the Translation Manual (see below)
   * Get connected to the Door43 community (see below)
 
+===== The Translation Manual =====
+
 {{page>en:obs:translation-manual}}
 
 ===== Get connected to the Door43 community! =====
 
 Join others in our Hall group. Help develop a better Door43. Share ideas with the developers. Click [[https://hall.com/invites/Hl5sUFX5flazj1u7H3aCFg|here]]. Are you translating the stories? Click [[https://hall.com/invites/4-0kfZ-9_0pi3FtB-dt7jA|here]] to join the Translators Group. Follow the links using Chrome, Safari, FireFox, or IE 11 (or higher).
+
+===== Other Resources =====
+
+==== Downloads ====
+
+//If you prefer, you can download the [[https://api.unfoldingword.org/obs/txt/1/en/en-obs-v3_1_1-2014-10-27.zip|latest English OBS]] source text as a zip archive and begin translating offline, on any computer or mobile device. Or, you can download [[https://api.unfoldingword.org/obs/txt/1/en/en-obs-notes-v3_1_1-2014-10-27.zip|latest English OBS + translation notes]] to help with your translation. You can also download the [[https://api.unfoldingword.org/obs/txt/1/en/obs-en-v3_1_1.pdf|latest English OBS as a PDF]].//
+
+//You can also download the zip files of the images in [[https://api.unfoldingword.org/obs/jpg/1/en/obs-images-360px.zip|standard definition ]]or [[https://api.unfoldingword.org/obs/jpg/1/en/obs-images-2160px.zip|high definition]].//
+
+==== Version Changes ====
+
+If you would like to know what has changed over the course of Open Bible Stories development, see:
+
+  * [[https://door43.org/obs-diffs/ver_1-to-ver_3.html|Version 1 to 3 Changes]]
+  * [[https://door43.org/obs-diffs/ver_2-to-ver_3.html|Version 2 to 3 Changes]]
+  * [[https://door43.org/en/obs/change-log|Recent Minor Changes]]
+
+If you would like access to download links for the images or video clips, click [[:en:obs:resources|here]].
