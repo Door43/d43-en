@@ -221,6 +221,8 @@
 {{changes>ns=slu:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:so:obs|so OBS]]**
 {{changes>ns=so:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
+**[[:soh:obs|soh OBS]]**
+{{changes>ns=soh:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:sr:obs|sr OBS]]**
 {{changes>ns=sr:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:stb:obs|stb OBS]]**
