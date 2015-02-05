@@ -60,9 +60,9 @@ Source text showing chunks:
 |Deuteronomy |Nehemiah |Daniel |Zechariah |Ephesians |1 Peter |
 |Joshua |Esther |Hosea |Malachi |Philippians |2 Peter |
 |Judges |Job |Joel |Matthew |Colossians |1 John |
-|  |Psalm |Amos |Mark |1 Thessalonians |2 John |
+|Ruth |Psalm |Amos |Mark |1 Thessalonians |2 John |
 |1 Samuel |Proverbs |Obadiah |  |2 Thessalonians |3 John |
-|2 Samuel |Ecclesiastes |  |John |  |  |
+|2 Samuel |Ecclesiastes |<font 18px/inherit;;rgb(0, 0, 255);;inherit>Jonah</font>  |John |  |  |
 |1 Kings |Song of Songs |Micah |  |  |  |
 
 ===== Beta USFM Files =====
