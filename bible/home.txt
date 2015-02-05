@@ -37,7 +37,7 @@
 
 ===== Source Text =====
 
-<font 18px/inherit;;inherit;;inherit>** Books in Process - Source Text **</font>
+<font 18px/inherit;;inherit;;inherit>** Books in Process - Source Text  **</font>
 
 EtherPad Files:
 
@@ -51,7 +51,7 @@ Source text showing chunks:
 
 ==== Books Left to Process - Source Text Editing ====
 
-|  |2 Kings |Isaiah |Nahum |Romans |  |
+|<font 18px/inherit;;rgb(255, 0, 0);;inherit>Genesis</font>  |2 Kings |Isaiah |Nahum |Romans |  |
 |Exodus |1 Chronicles |Jeremiah |Habakkuk |1 Corinthians |  |
 |Leviticus |2 Chronicles |Lamentations |Zephaniah |2 Corinthians |Hebrews |
 |Numbers |Ezra |Ezekiel |Haggai |Galatians |James |
