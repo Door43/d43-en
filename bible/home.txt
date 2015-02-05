@@ -49,7 +49,9 @@ Source text showing chunks:
 
 ==== Books In Process - Source Text Editing ====
 
-==== <font inherit/inherit;;rgb(255, 0, 0);;inherit>Red = Not yet in process</font>     ====
+<font 18px/inherit;;inherit;;inherit>Black = In Process</font>
+
+<font 18px/inherit;;rgb(255, 0, 0);;inherit>Red = Not yet in process</font>
 
 <font 18px/inherit;;rgb(0, 0, 255);;inherit>Blue = Finished</font>
 
@@ -64,8 +66,6 @@ Source text showing chunks:
 |<font 18px/inherit;;rgb(255, 0, 0);;inherit>1 Samuel</font>     |<font 18px/inherit;;rgb(255, 0, 0);;inherit>Proverbs</font>     |<font 18px/inherit;;rgb(255, 0, 0);;inherit>Obadiah</font>     |<font 18px/inherit;;rgb(0, 0, 255);;inherit>Luke</font>     |2 Thessalonians |3 John |
 |<font 18px/inherit;;rgb(255, 0, 0);;inherit>2 Samuel</font>     |<font 18px/inherit;;rgb(255, 0, 0);;inherit>Ecclesiastes</font>     |<font 18px/inherit;;rgb(0, 0, 255);;inherit>Jonah</font>     |John |<font 18px/inherit;;rgb(0, 0, 255);;inherit>1 Timothy</font>     |<font 18px/inherit;;rgb(0, 0, 255);;inherit>Jude</font>     |
 |<font 18px/inherit;;rgb(255, 0, 0);;inherit>1 Kings</font>     |<font 18px/inherit;;rgb(255, 0, 0);;inherit>Song of Songs</font>     |<font 18px/inherit;;rgb(255, 0, 0);;inherit>Micah</font>     |<font 18px/inherit;;rgb(0, 0, 255);;inherit>Acts</font>     |<font 18px/inherit;;rgb(0, 0, 255);;inherit>2 Timothy</font>     |<font 18px/inherit;;rgb(0, 0, 255);;inherit>Revelation</font>     |
-
-\\
 
 ===== Beta USFM Files =====
 
