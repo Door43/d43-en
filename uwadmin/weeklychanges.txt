@@ -397,6 +397,9 @@
 **[[:vi:obs|vi OBS]]**
 {{changes>ns=vi:obs&maxage=604800&render=pagelist(header,date,user,nocomments)}}
 
+**[[:wja:obs|wja OBS]]**
+{{changes>ns=wja:obs&maxage=604800&render=pagelist(header,date,user,nocomments)}}
+
 **[[:wo:obs|wo OBS]]**
 {{changes>ns=wo:obs&maxage=604800&render=pagelist(header,date,user,nocomments)}}
 
