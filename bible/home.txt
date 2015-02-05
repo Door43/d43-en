@@ -51,7 +51,9 @@ Source text showing chunks:
 
 ==== Books Left to Process - Source Text Editing ====
 
-|<font 18px/inherit;;rgb(255, 0, 0);;inherit>Genesis</font>  |2 Kings |Isaiah |Nahum |Romans |  |
+<font 18px/inherit;;rgb(0, 0, 255);;inherit>Blue = Finished</font>
+
+|<font 18px/inherit;;rgb(0, 0, 255);;inherit>Genesis</font>     |2 Kings |Isaiah |Nahum |Romans |  |
 |Exodus |1 Chronicles |Jeremiah |Habakkuk |1 Corinthians |  |
 |Leviticus |2 Chronicles |Lamentations |Zephaniah |2 Corinthians |Hebrews |
 |Numbers |Ezra |Ezekiel |Haggai |Galatians |James |
