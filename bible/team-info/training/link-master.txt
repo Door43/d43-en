@@ -33,6 +33,14 @@ The key term pagename (urlname) naming convention is:
   - substitute the name with the follow link syntax <nowiki>[[:en:bible:notes:key-terms:urlname]]</nowiki>. Example: Adam will become <nowiki>[[:en:bible:notes:key-terms:adam]]</nowiki> and Eve will become <nowiki>[[:en:bible:notes:key-terms:eve]]</nowiki>. the full hyperlink will be:
       - <nowiki>(See also: [[:en:bible:notes:key-terms:adam]], [[:en:bible:notes:key-terms:eve]])</nowiki>
 
+==== Key Term Template ====
+
+The code for the Key Term is:
+
+<code>
+[[:en:bible:notes:key-terms:term|term title]]
+</code> 
+
 ==== Term & Name Templates ====
 
 There are two kinds of KT pages–one for terms that require definition, and the other for proper names that requires facts.
