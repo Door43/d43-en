@@ -4,12 +4,12 @@
 
 ~~NOCACHE~~
 
-{{count>create draft review discuss publish&en:bible:notes:key-terms}}
+{{count>new create draft review discuss publish&en:bible:notes:key-terms}}
 
 ==== Key Terms Pages Status ====
 
-|  **Draft Pages**    |  **Review Pages**    |  **Discuss Pages**    |**Publish Pages**   |
-|{{topic>en:bible:notes:key-terms?draft&nocomments}} |{{topic>en:bible:notes:key-terms?review&nocomments}} |{{topic>en:bible:notes:key-terms?discuss&nocomments}} |{{topic>en:bible:notes:key-terms?publish&nocomments}} |
+|  **New Pages**    |  **Draft Pages**    |  **Review Pages**    |  **Discuss Pages**    |**Publish Pages**   |
+|{{topic>en:bible:notes:key-terms?new&nocomments}} |{{topic>en:bible:notes:key-terms?draft&nocomments}} |{{topic>en:bible:notes:key-terms?review&nocomments}} |{{topic>en:bible:notes:key-terms?discuss&nocomments}} |{{topic>en:bible:notes:key-terms?publish&nocomments}} |
 
 ==== Check for Bad Tags ====
 
