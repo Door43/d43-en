@@ -208,6 +208,9 @@
 **[[:lki:obs|lki OBS]]**
 {{changes>ns=lki:obs&maxage=604800&render=pagelist(header,date,user,nocomments)}}
 
+**[[:lmn:obs|lmn OBS]]**
+{{changes>ns=lmn:obs&maxage=604800&render=pagelist(header,date,user,nocomments)}}
+
 **[[:ln:obs|ln OBS]]**
 {{changes>ns=ln:obs&maxage=604800&render=pagelist(header,date,user,nocomments)}}
 
