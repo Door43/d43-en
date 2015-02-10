@@ -2,10 +2,10 @@
 
 ===== Facts: =====
 
-Text
+<font 14px line-height: 19.600000381469727px;/inherit;;inherit;;inherit>Hamor was a non-Jewish neighbor of Jacob.</font>
 
-  * Hamor was a non-Jewish neighbor of Jacob in Genesis 34. Jacob bought a family burial ground from him. His son Schechem raped Jacob's daughter Dinah and her brothers took revenge on Hamor and his family for it.
-  *
+  * Jacob bought a family burial ground from him.
+  * Hamor's son Shechem raped Jacob's daughter Dinah and her brothers took revenge on Hamor and his family..
 
 (Translation suggestions: [[:en:ta:translate:translatenames|How to Translate Names]])
 
@@ -13,10 +13,8 @@ Text
 
 ===== Bible References: =====
 
-{{topic>hamor&nocomments}}
-
-~~DISCUSSION~~
+{{topic>hamor&nocomments}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 
-{{tag>new ktlink}}
+{{tag>draft ktlink}}
