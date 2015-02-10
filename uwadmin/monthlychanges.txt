@@ -75,6 +75,8 @@
 {{changes>ns=fr:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:frd:obs|frd OBS]]**
 {{changes>ns=frd:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
+**[[:gaa:obs|gaa OBS]]**
+{{changes>ns=gaa:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:gaj:obs|gaj OBS]]**
 {{changes>ns=gaj:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:gu:obs|gu OBS]]**
