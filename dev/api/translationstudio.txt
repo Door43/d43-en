@@ -2,6 +2,12 @@
 
 <font 14px line-height: 19.6000003814697px/inherit;;inherit;;inherit>In the following examples each catalog reference (i.e. the</font>    url<font 14px line-height: 19.6000003814697px/inherit;;inherit;;inherit>) could be generated dynamically in order to slim down the</font>    api<font 14px line-height: 19.6000003814697px/inherit;;inherit;;inherit>size</font>    <font 14px line-height: 19.6000003814697px/inherit;;inherit;;inherit>.</font>
 
+===== Target Languages Catalog =====
+
+The target languages catalog contains a list of all the available target language to which a translation may be made
+
+[[https://api.unfoldingword.org/obs/txt/1/langnames.json|https://api.unfoldingword.org/obs/txt/1/langnames.json]]
+
 ===== Projects Catalog =====
 
 The main catalog records resources available for translation in translationStudio. This file will always be downloaded first by the app in order to identify available updates. Please note: the date_modified field within this catalog gets it's value from the most recent date_modified value found in the languages catalog. This allows the app to determine if updates are available. You may optionally specify meta categories on a project. See the notes on the language catalog for more details.
