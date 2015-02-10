@@ -4,7 +4,7 @@
 
 publish date: 2015-02-10
 
-version: 3.1.2
+version: 3.2
 
 contributors: Distant Shores Media
 
@@ -14,7 +14,7 @@ checking level: 3
 
 source text: en
 
-source text version: 3.1.2
+source text version: 3.2
 
 comments: Original source text.
 
