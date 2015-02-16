@@ -1,9 +1,27 @@
-====== Switching Editors ======
+====== Door43 Editors ======
 
-**Visual Editor** – When you click the "Edit this page" button, you will probably see an edit window that looks like a simplified word processor. Click [[https://www.youtube.com/watch?v=kFK1zK_dSYc|here]] for the "how to" 1 minute video. The buttons take care of formatting text and generally make it easier to use. Here is information on the toolbar icons: [[doku>toolbar|quickbuttons]].
+There are two built-in editors in Door43:
 
-**Text Editor** – If you prefer, you can click the "DW Edit" button beneath the edit box to switch to a text-based editor. This is the standard DokuWiki editor and it provides full control over the syntax of the text. Go to the [[:en:obs-training:syntax|Formatting Text]] page for some simple editing formats to use in the text editor.
+  * CKG Edit
+  * DW Edit
 
-//Note:// when using the text editor, you can switch back to the graphical editor by clicking the "FCK Edit" button. [[https://www.youtube.com/watch?v=dF7px5U6PdA|Here]] is a short video (45 seconds) on how to switch between the text editor and the graphical editor.
+
+==== CKG Edit ====
+
+CKG Edit is a "visual" or "WYSIWYG ("what you see is what you get")" editor. 
+
+When you click the "Edit this page" button, this editor is the default version that will normally load. The edit window looks like a simplified word processor. Click [[https://www.youtube.com/watch?v=kFK1zK_dSYc|here]] for the "how to" 1 minute video. The buttons take care of formatting text and generally make it easier to use. Here is information on the toolbar icons: [[doku>toolbar|quickbuttons]].
+
+
+==== DW Edit ====
+
+DW Edit is a "plain text editor." – This is the most basic DokuWiki editor, and it provides full control over the syntax of the text. Go to the [[:en:obs-training:syntax|Formatting Text]] page for some simple editing formats to use in the text editor.
+
+
+==== Switching Between Editors ====
+
+When you are in the Edit mode for a page, a button will appear to the right of the "Save" button with the option to switch to the other editor. If you are working in "GKG Edit," the button will say "DW Edit." If you are working in "DW Edit," the button will say "CKG Edit." 
+
+[[https://www.youtube.com/watch?v=dF7px5U6PdA|Here]] is a short video (45 seconds) on how to switch between the text editor and the graphical editor.
 
 
