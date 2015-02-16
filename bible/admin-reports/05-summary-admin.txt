@@ -13,14 +13,14 @@ Page link: [[:en:bible:admin-reports:00-key-terms-admin]]
 
 Page link: [[:en:bible:admin-reports:01-notes5-admin]]
 
-{{count>draft review discuss publish&en:bible:notes:gen}}
+{{count>review discuss publish&en:bible:notes:gen}}
 
 
 ==== Acts Admin ====
 
 Page link: [[:en:bible:admin-reports:01-notes4-admin]]
 
-{{count>draft review discuss publish&en:bible:notes:act}}
+{{count>review discuss publish&en:bible:notes:act}}
 
 
 ==== Epistles Admin ====
@@ -30,27 +30,20 @@ Page link: [[:en:bible:admin-reports:01-notes6-admin]]
 
 === 1 Timothy ===
 
-{{count>draft review discuss publish&en:bible:notes:1ti}}
+{{count>review discuss publish&en:bible:notes:1ti}}
 
 
 === 2 Timothy ===
 
-{{count>draft review discuss publish&en:bible:notes:2ti}}
+{{count>review discuss publish&en:bible:notes:2ti}}
 
 
 === Galatians ===
 
-{{count>draft review discuss publish&en:bible:notes:gal}}
+{{count>review discuss publish&en:bible:notes:gal}}
 
 
-=== Ephesians ===
 
-{{count>draft review discuss publish&en:bible:notes:eph}}
-
-
-=== Philippians ===
-
-{{count>draft review discuss publish&en:bible:notes:php}}
 
 
 
