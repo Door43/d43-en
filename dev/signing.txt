@@ -52,14 +52,14 @@ A list of Signing Identities (SI) and their verification keys is available at:
     [
       {
         'slug': 'uW',
-        'si': 'https://pki.unfoldingword.org/uW.tar'
+        'si': 'https://pki.unfoldingword.org/si/uW.tar'
       },
       ...
     ]
 
 An example SI endpoint:
 
-    location: https://pki.unfoldingword.org/uW.tar
+    location: https://pki.unfoldingword.org/si/uW.tar
     content:
     file: uW.pem (public key for verifying payloads)
     file: uW.sig (signature for JSON payload below)
