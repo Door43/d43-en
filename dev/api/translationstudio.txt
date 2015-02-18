@@ -28,7 +28,7 @@ content:
   },
   {
     "slug": "luk",
-    "sort": "42"
+    "sort": "42",
     "meta": ["bible", "nt"],
     "date_modified": 20141207,
     "lang_catalog": "https://api.unfoldingword.org/ts/txt/2/luk/languages.json"
