@@ -8,7 +8,7 @@ ECDSA is the expected implementation: [[http://en.wikipedia.org/wiki/Elliptic_Cu
 
 ====== Specification ======
 
-Draft 1.
+Draft 2.
 
 This specification provides details to the process used for verifying approval by known authorities known as Signing Identities.
 
@@ -42,41 +42,75 @@ The status of the content validation will be easily understood by some indicator
 
 <font 14px line-height: 19.6000003814697px/inherit;;inherit;;inherit>For each signature on the content, details of the Signing identity, including name, will be available for viewing.</font>
 
+===== Public Key Format =====
+
+Verification (public) keys for the root and for the Signing Identities will include 2 parts, the actual public key, PEM encoded, and the organizational information base64 encoded.  An example:
+
+<code>
+-----BEGIN PUBLIC KEY-----
+MHYwEAYHKoZIzj0CAQYFK4EEACIDYgAESwmkZ0AJIQo9cELigBaEPaVbQYnWOWhq
+ouunp1AGWSgv+KvV/RS9AiRAMjgr4robcgxDjjrdrESyCiTbRehl1yGT0NxfkGhp
+qkjQDUV4/4UH63jfRO3F6d1DtBvrxXJp
+-----END PUBLIC KEY-----
+-----BEGIN ORG INFO-----
+ewogICJjcmVhdGVkIjogIjIwMTUtMDItMTgiLCAKICAiZW1haWwiOiAiYWRtaW5Ad
+W5mb2xkaW5nd29yZC5vcmciLCAKICAiZXhwaXJlcyI6ICIyMDI1LTAyLTE4IiwgCi
+AgIm1vZGlmaWVkIjogIjIwMTUtMDItMTgiLCAKICAib3JnIjogInVuZm9sZGluZ1d
+vcmQiLCAKICAic2x1ZyI6ICJ1VyIsIAogICJ3ZWIiOiAiaHR0cHM6Ly91bmZvbGRp
+bmd3b3JkLm9yZyIKfQo=
+-----END ORG INFO-----
+</code>
+
+In the above example, the organizational information decodes to:
+
+    {
+      "created": "2015-02-18", 
+      "email": "admin@unfoldingword.org", 
+      "expires": "2025-02-18", 
+      "modified": "2015-02-18", 
+      "org": "unfoldingWord", 
+      "slug": "uW", 
+      "web": "https://unfoldingword.org"
+    }
+
+
+===== Root Identity Endpoint =====
+
+The root identity is the unfoldingWord key.  The root identity includes the public verification key with the organizational information included and a signature of that file.
+
+    location: https://pki.unfoldingword.org/uW-vk.pem
+    location: https://pki.unfoldingword.org/uW-vk.pem.sig
+    
 
 ===== Signing Identity Endpoint =====
 
-A list of Signing Identities (SI) and their verification keys is available at:
+A list of Signing Identities (SI) and will be available at:
 
     location: https://pki.unfoldingword.org/si_catalog.json
     content:
     [
       {
-        'slug': 'uW',
-        'si': 'https://pki.unfoldingword.org/si/uW.tar'
+        "slug": "WA",
+        "si": "https://pki.unfoldingword.org/si/WA.pem",
+        "sigs": [ 
+          "https://pki.unfoldingword.org/si/WA.pem.sig",
+          "https://pki.unfoldingword.org/si/WA.pem.sig-uW"
+          ]
       },
       ...
     ]
+    
+The "sigs" key will always include at least:
 
-An example SI endpoint:
+  - The signature of the SI itself
 
-    location: https://pki.unfoldingword.org/si/uW.tar
-    content:
-    file: uW.pem (public key for verifying payloads)
-    file: uW.sig (signature for JSON payload below)
-    file: uW.json (contains SI information)
-      [
-        {
-          'org': 'unfoldingWord',
-          'slug': 'uW'
-          'web': 'https://unfoldingword.org',
-          'email': 'admin@unfoldingword.org',
-          'created': '2015-01-22',
-        ​  '​modified': '201​5​-01-29'​,
-          'expires': '2020-​01-22'
-        }
-      ]
+  - The signature of the uW root
 
-Once an application has downloaded information for a SI they can verify the identification information.  Subsequently, it can verify signed content using the SI's verification key.
+It may also include signatures from other SIs that have cross signed the current organization.
+
+The format of the SI public verification key follows the Public Key Format example listed above.
+
+Once an application has downloaded information for a SI the app can verify the identification information with the SI's verification key, the uW root verification key, and the verification keys of any other organization that has crossed signed this SI.  Subsequently, the app can verify content that has been signed by this SI with the SI's verification key.
 
 
 ===== Diagram =====
