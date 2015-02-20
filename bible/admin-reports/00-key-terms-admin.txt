@@ -12,10 +12,10 @@
 
 ==== Key Terms Pages Status ====
 
-{{count>create new newa newb draft review discuss publish&en:bible:notes:key-terms}}
+{{count>create newa newb draft review discuss publish&en:bible:notes:key-terms}}
 
-^  New  ^  New-A Pages  ^  New-B Pages  ^  Draft Pages  ^
-|{{topic>en:bible:notes:key-terms?new&nocomments}} |{{topic>en:bible:notes:key-terms?newa&nocomments}} |{{topic>en:bible:notes:key-terms?newb&nocomments}} |{{topic>en:bible:notes:key-terms?draft&nocomments}} |
+^  New-A Pages  ^  New-B Pages  ^  Draft Pages  ^
+|{{topic>en:bible:notes:key-terms?newa&nocomments}} |{{topic>en:bible:notes:key-terms?newb&nocomments}} |{{topic>en:bible:notes:key-terms?draft&nocomments}} |
 
 ^  Review Pages  ^  Discuss Pages  ^
 |{{topic>en:bible:notes:key-terms?review&nocomments}} |{{topic>en:bible:notes:key-terms?discuss&nocomments}} |
