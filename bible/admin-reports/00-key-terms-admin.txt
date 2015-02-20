@@ -14,7 +14,7 @@
 
 {{count>create newa newb draft review discuss publish&en:bible:notes:key-terms}}
 
-^  New-A Pages  ^  New-B Pages  ^  Draft Pages  ^
+^  Group-A New Pages  ^  Group-B New Pages  ^  Draft Pages  ^
 |{{topic>en:bible:notes:key-terms?newa&nocomments}} |{{topic>en:bible:notes:key-terms?newb&nocomments}} |{{topic>en:bible:notes:key-terms?draft&nocomments}} |
 
 ^  Review Pages  ^  Discuss Pages  ^
