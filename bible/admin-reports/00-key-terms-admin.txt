@@ -8,8 +8,8 @@
 
 ==== Key Terms Pages Status ====
 
-|  **New-A Pages**    |  **New-B Pages**    |  **Draft Pages**    |
-|{{topic>en:bible:notes:key-terms?newa&nocomments}} |{{topic>en:bible:notes:key-terms?newb&nocomments}} |{{topic>en:bible:notes:key-terms?draft&nocomments}} |
+|  **New** |  **New-A Pages**    |  **New-B Pages**    |  **Draft Pages**    |
+|{{topic>en:bible:notes:key-terms?new&nocomments}} |{{topic>en:bible:notes:key-terms?newa&nocomments}} |{{topic>en:bible:notes:key-terms?newb&nocomments}} |{{topic>en:bible:notes:key-terms?draft&nocomments}} |
 
 |  **Review Pages**  |  **Discuss Pages**    |
 |{{topic>en:bible:notes:key-terms?review&nocomments}} |{{topic>en:bible:notes:key-terms?discuss&nocomments}} |
