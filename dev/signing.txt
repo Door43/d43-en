@@ -20,7 +20,7 @@ A Certificate Authority (unfoldingWord) shall provide a private and public key p
 
 <font inherit/inherit;;inherit;;inherit>A member of the signing organization shall visit unfoldingword.org and submit a request to register as a new Signing Entity. Information gathered shall include, but not be limited to organization name and contact details. NOTE: if desired the signing organization may provide a public key along with their request. In this case the signing organization shall generate their own private and public key pairs for which they are responsible to keep secure.</font>
 
-<font inherit/inherit;;inherit;;inherit>Upon request approval, if no public key was provided by the signing organization, a new public and private key pair shall be generated and issued to the signing organization and thus establish the signing organization as a new Signing Entity (SE). The SE public key and organization information shall be signed by the CA Private Key to return the intermediate certificate which verifies the Signing Identity against the Certificate Authority. The combination of the SE public key, SE organization information, and intermediate certificate shall be known as as the  ** Signing Identity ** and will serve to identify the signing organization as a valid SE. See Signing Identity Format for details.</font>
+<font inherit/inherit;;inherit;;inherit>Upon request approval, if no public key was provided by the signing organization, a new public and private key pair shall be generated and issued to the signing organization and thus establish the signing organization as a new Signing Entity (SE). The SE public key and organization information shall be signed by the CA Private Key to return the intermediate certificate which verifies the Signing Identity against the Certificate Authority. The combination of the SE public key, SE organization information, and intermediate certificate shall be known as as the  ** Signing Identity  ** and will serve to identify the signing organization as a valid SE. See Signing Identity Format for details.</font>
 
 ===== Signing Content =====
 
@@ -44,7 +44,7 @@ The status of the content validation will be easily understood by some indicator
 
 ===== Signing Identity Format =====
 
-SI's for the CA and SE's will include 3 parts: the PEM encoded SE public key, the <font 14px line-height: 19.6000003814697px;/inherit;;inherit;;inherit></font> base64<font 14px line-height: 19.6000003814697px;/inherit;;inherit;;inherit>encoded</font> SE organizational information, and the signature of the first 2 parts (without comments or newlines, and base64 encoded). An example:
+SI's for the CA and SE's will include 3 parts: the PEM encoded SE public key, the base64<font 14px line-height: 19.6000003814697px/inherit;;inherit;;inherit>encoded</font>    SE organizational information, and the signature of the first 2 parts (without comments or newlines, and base64 encoded). An example:
 
 <code>
 -----BEGIN PUBLIC KEY-----
@@ -82,7 +82,7 @@ In the above example, the organizational information decodes to:
 
 ===== Certificate Authority Signing Identity Endpoint =====
 
-The CA SI contains the unfoldingWord public key and only differs from normal SI's in that the included signature is not an intermediate certificate, but a direct certificate. Devices that implement signing verification will already be packaged with the CA public key so the key in the CA SI will effectively be ignored.
+The CA SI contains the unfoldingWord public key and only differs from normal SI's in that the included signature is not an intermediate certificate, but a direct certificate.
 
 <code>
   location: https://pki.unfoldingword.org/uW-vk.pem
