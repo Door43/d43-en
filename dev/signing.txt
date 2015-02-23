@@ -44,7 +44,7 @@ The status of the content validation will be easily understood by some indicator
 
 ===== Public Key Format =====
 
-Verification (public) keys for the root and for the Signing Identities will include 2 parts, the actual public key, PEM encoded, and the organizational information base64 encoded.  An example:
+Verification (public) keys for the root and for the Signing Identities will include 3 parts, the actual public key, PEM encoded, the organizational information base64 encoded, and a signature of the first 2 parts.  An example:
 
 <code>
 -----BEGIN PUBLIC KEY-----
@@ -59,6 +59,11 @@ AgIm1vZGlmaWVkIjogIjIwMTUtMDItMTgiLCAKICAib3JnIjogInVuZm9sZGluZ1d
 vcmQiLCAKICAic2x1ZyI6ICJ1VyIsIAogICJ3ZWIiOiAiaHR0cHM6Ly91bmZvbGRp
 bmd3b3JkLm9yZyIKfQo=
 -----END ORG INFO-----
+-----BEGIN SIG-----
+MGQCMGCfhKmNkhelDVJl8Wk4OkiNQIzxkKdgtrU5RMo++ojvjNxr+Fn5Iuc4YG3cf
+02gHAIwGcEgyWu2Wd3iWZRMmSSItjDcRpxjwr8BT3URGyq9QokMh0MSHhCZNAgY8c
+vVTDHS
+-----END SIG-----
 </code>
 
 In the above example, the organizational information decodes to:
