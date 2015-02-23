@@ -44,7 +44,7 @@ The status of the content validation will be easily understood by some indicator
 
 ===== Public Key Format =====
 
-Verification (public) keys for the root and for the Signing Identities will include 3 parts, the actual public key, PEM encoded, the organizational information base64 encoded, and a signature of the first 2 parts.  An example:
+Verification (public) keys for the root and for the Signing Identities will include 3 parts, the actual public key, PEM encoded, the organizational information base64 encoded, and a signature of the first 2 parts (base64 encoded).  An example:
 
 <code>
 -----BEGIN PUBLIC KEY-----
@@ -97,21 +97,14 @@ A list of Signing Identities (SI) and will be available at:
       {
         "slug": "WA",
         "si": "https://pki.unfoldingword.org/si/WA.pem",
-        "sigs": [ 
-          "https://pki.unfoldingword.org/si/WA.pem.sig",
+        "sigs": [
           "https://pki.unfoldingword.org/si/WA.pem.sig-uW"
           ]
       },
       ...
     ]
     
-The "sigs" key will always include at least:
-
-  - The signature of the SI itself
-
-  - The signature of the uW root
-
-It may also include signatures from other SIs that have cross signed the current organization.
+The "sigs" key will always include at least the signature of the uW root, it may also include signatures from other SIs that have cross signed the current organization.
 
 The format of the SI public verification key follows the Public Key Format example listed above.
 
