@@ -28,7 +28,19 @@ There are two ways in which content may be signed. If the Signing Entity manages
 
 A hash of the content will be generated according to some pre-determined algorithm. T<font 14px line-height: 19.6000003814697px/inherit;;inherit;;inherit>he SE private key will then be used to create a signature from this hash.</font>
 
-<font 14px line-height: 19.6000003814697px/inherit;;inherit;;inherit>The content signature and SI will be bundled together with the original content to create the signed content.</font>
+Signatures of content will be listed in a .sig file.  For example, obs-en.json would have its signatures like this:
+<code>
+location: https://api.unfoldingword.org/obs/txt/1/en/obs-en.sig
+content:
+[
+  { "si": "uW",
+    "sig": "MGQCMFnYGwvUpx2aB4qs/ODuHzcOej8UuYO8gH778eh8B+tK/YLBQn7P7ZnhGeEbYYhxqAIwFFoTJUjsA7ywKvJtG36n6EN/nubgH2G0XEOLLteR4ylD4+m7hyaiXyphLkP+M/Vv"
+  }
+]
+</code>
+
+Note that the signatures are base64 encoded.
+
 
 ===== Distributing Signed Content =====
 
