@@ -16,19 +16,19 @@ This specification provides details to the process used for verifying approval b
 
 A Certificate Authority (unfoldingWord) shall provide a private and public key pair. The public key otherwise known as the CA root certificate shall be publicly and easily available in addition to being distributed with apps needing to verify signed content, while the private key shall remain private and secure on the server.
 
-===== Creating A Signing Identity =====
+===== Creating A Signing Entity =====
 
-<font inherit/inherit;;inherit;;inherit>A member of the signing organization shall visit unfoldingword.org and submit a request to create a new Signing Identity. Information gathered shall include, but not be limited to organization name and contact details. NOTE: if desired the signing organization may provide a public key along with their request. In this case the signing organization shall generate their own private and public key pairs for which they are responsible to keep secure.</font>
+<font inherit/inherit;;inherit;;inherit>A member of the signing organization shall visit unfoldingword.org and submit a request to register as a new Signing Entity. Information gathered shall include, but not be limited to organization name and contact details. NOTE: if desired the signing organization may provide a public key along with their request. In this case the signing organization shall generate their own private and public key pairs for which they are responsible to keep secure.</font>
 
-<font inherit/inherit;;inherit;;inherit>Upon request approval, if no public key was provided by the signing organization, a new public and private key pair shall be generated and issued to the signing organization and thus establishing the signing organization as a new Signing Identity. The SI certificate (public key) shall be signed by the CA Private Key to return the intermediate certificate which verifies the Signing Identity against the Certificate Authority.</font>
+<font inherit/inherit;;inherit;;inherit>Upon request approval, if no public key was provided by the signing organization, a new public and private key pair shall be generated and issued to the signing organization and thus establish the signing organization as a new Signing Entity (SE). The SE public key and organization information shall be signed by the CA Private Key to return the intermediate certificate which verifies the Signing Identity against the Certificate Authority. The combination of the SE public key, SE organization information, and intermediate certificate shall be known as as the  ** Signing Identity ** and will serve to identify the signing organization as a valid SE. See Signing Identity Format for details.</font>
 
 ===== Signing Content =====
 
-There are two ways in which content may be signed. If the Signing Identity manages it's own keys they will be responsible for fulfilling the following steps. Otherwise the following steps will be performed with the Certificate Authority.
+There are two ways in which content may be signed. If the Signing Entity manages it's own keys they will be responsible for fulfilling the following steps. Otherwise the following steps will be performed with the CA.
 
-A hash of the content will be generated according to some pre-determined algorithm. T<font 14px line-height: 19.6000003814697px/inherit;;inherit;;inherit>he SI private key and certificate will then be used to create the signature from this hash.</font>
+A hash of the content will be generated according to some pre-determined algorithm. T<font 14px line-height: 19.6000003814697px/inherit;;inherit;;inherit>he SE private key will then be used to create a signature from this hash.</font>
 
-<font 14px line-height: 19.6000003814697px/inherit;;inherit;;inherit>The signature, SI certificate, and intermediate certificate will be bundled together with the original content to create the signed content.</font>
+<font 14px line-height: 19.6000003814697px/inherit;;inherit;;inherit>The content signature and SI will be bundled together with the original content to create the signed content.</font>
 
 ===== Distributing Signed Content =====
 
@@ -36,15 +36,15 @@ A hash of the content will be generated according to some pre-determined algorit
 
 ===== Further Notes =====
 
-All content released on unfoldingword.org will be signed by the Certificate Authority. In addition this content may be signed by an unlimited number of Signing Identities.
+All content released on unfoldingword.org will be signed by the CA. In addition this content may be signed by an unlimited number of SE.
 
 The status of the content validation will be easily understood by some indicator while viewing the content. Validation information should be displayed when clicking on this indicator.
 
 <font 14px line-height: 19.6000003814697px/inherit;;inherit;;inherit>For each signature on the content, details of the Signing identity, including name, will be available for viewing.</font>
 
-===== Public Key Format =====
+===== Signing Identity Format =====
 
-Verification (public) keys for the root and for the Signing Identities will include 3 parts, the actual public key, PEM encoded, the organizational information base64 encoded, and a signature of the first 2 parts (base64 encoded).  An example:
+SI's for the CA and SE's will include 3 parts: the PEM encoded SE public key, the <font 14px line-height: 19.6000003814697px;/inherit;;inherit;;inherit></font> base64<font 14px line-height: 19.6000003814697px;/inherit;;inherit;;inherit>encoded</font> SE organizational information, and the signature of the first 2 parts (without comments or newlines, and base64 encoded). An example:
 
 <code>
 -----BEGIN PUBLIC KEY-----
@@ -68,48 +68,51 @@ vYjGjsuU
 
 In the above example, the organizational information decodes to:
 
-    {
-      "created": "2015-02-18", 
-      "email": "admin@unfoldingword.org", 
-      "expires": "2025-02-18", 
-      "modified": "2015-02-18", 
-      "org": "unfoldingWord", 
-      "slug": "uW", 
-      "web": "https://unfoldingword.org"
-    }
+<code>
+  {
+    "created": "2015-02-18",
+    "email": "admin@unfoldingword.org",
+    "expires": "2025-02-18",
+    "modified": "2015-02-18",
+    "org": "unfoldingWord",
+    "slug": "uW",
+    "web": "https://unfoldingword.org"
+  }
+</code>
 
+===== Certificate Authority Signing Identity Endpoint =====
 
-===== Root Identity Endpoint =====
+The CA SI contains the unfoldingWord public key and only differs from normal SI's in that the included signature is not an intermediate certificate, but a direct certificate. Devices that implement signing verification will already be packaged with the CA public key so the key in the CA SI will effectively be ignored.
 
-The root identity is the unfoldingWord key.  The root identity includes the public verification key with the organizational information included and a signature of that file.
-
-    location: https://pki.unfoldingword.org/uW-vk.pem
-    location: https://pki.unfoldingword.org/uW-vk.pem.sig
-    
+<code>
+  location: https://pki.unfoldingword.org/uW-vk.pem
+  location: https://pki.unfoldingword.org/uW-vk.pem.sig
+</code>
 
 ===== Signing Identity Endpoint =====
 
 A list of Signing Identities (SI) and will be available at:
 
-    location: https://pki.unfoldingword.org/si_catalog.json
-    content:
-    [
-      {
-        "slug": "WA",
-        "si": "https://pki.unfoldingword.org/si/WA.pem",
-        "sigs": [
-          "https://pki.unfoldingword.org/si/WA.pem.sig-uW"
-          ]
-      },
-      ...
-    ]
-    
+<code>
+  location: https://pki.unfoldingword.org/si_catalog.json
+  content:
+  [
+    {
+      "slug": "WA",
+      "si": "https://pki.unfoldingword.org/si/WA.pem",
+      "sigs": [
+        "https://pki.unfoldingword.org/si/WA.pem.sig-uW"
+        ]
+    },
+    ...
+  ]
+</code>
+
 The "sigs" key will always include at least the signature of the uW root, it may also include signatures from other SIs that have cross signed the current organization.
 
 The format of the SI public verification key follows the Public Key Format example listed above.
 
-Once an application has downloaded information for a SI the app can verify the identification information with the SI's verification key, the uW root verification key, and the verification keys of any other organization that has crossed signed this SI.  Subsequently, the app can verify content that has been signed by this SI with the SI's verification key.
-
+Once an application has downloaded information for a SI the app can verify the identification information with the SI's verification key, the uW root verification key, and the verification keys of any other organization that has crossed signed this SI. Subsequently, the app can verify content that has been signed by this SI with the SI's verification key.
 
 ===== Diagram =====
 
