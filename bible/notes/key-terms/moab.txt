@@ -3,16 +3,23 @@
 ===== Facts: =====
 
 Text
+    * bullet
+    * bullet
 
-  * bullet
-  * bullet
 
-(Translation suggestions: [[:en:ta:translate:translatenames|How to Translate Names]])
+(Translation suggestions: [[:en:ta:translate:translatenames]])
 
-(See also: [[:en:bible:notes:key-terms:urlterm|term]])
+(See also: [[:en:bible:notes:key-terms:URLterm|term]])
+
 
 ===== Bible References: =====
 
-{{topic>moab&nocomments}}~~DISCUSSION~~
+{{topic>moab&nocomments}}
 
-[[:en:bible:notes:key-terms:draft?media=en:bible:notes:key-terms:draft|draft]]
+~~DISCUSSION~~
+
+~~NOCACHE~~
+
+{{draft}}
+
+\\ 
