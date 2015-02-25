@@ -1,10 +1,29 @@
 ====== Door43 Development ======
 
-If you would like to help out, please join our [[https://hall.com/invites/zhayRLTBnM2at26KuU89PA| Team43 Hall group]] and introduce yourself.  You can ping @Jesse Griffin there if you are interested in developing with us.
+===== Get Involved =====
+
+We need your expertise!  If you have several hours a week to volunteer and you know one of the following languages, we want you on our team!
+
+  * Javascript
+  * Java (Android)
+  * Python
+  * PHP
+  * HTML/CSS
+  * Objective-C (iOS)
+
+If you are interested, please join our [[https://hall.com/invites/zhayRLTBnM2at26KuU89PA| Team43 Hall group]] and introduce yourself.  Ping @Jesse Griffin there if you are interested in developing with us.
+
+===== Projects =====
+
+We have too many projects to list and most are in active development, here is a sampling:
+
+  * Translation mobile and desktop apps
+  * Bible and discipleship mobile apps (including audio/video)
+  * Publishing apps
+  * Wiki style collaboration software
 
 You should also browse our code repositories on Github, see [[https://github.com/Door43|Door43 Github account]], [[https://github.com/Door43/tools|Door43 tools repo]], [[https://github.com/Door43/translationdb-tools|translationDB tools repo]], [[https://github.com/Door43/translationStudio2|translationStudio v2]], [[https://github.com/Door43/translationKeyboard|translationKeyboard]], and unfoldingWord [[https://github.com/unfoldingWord/uW-android|android]] / [[https://github.com/unfoldingWord/uW-ios|ios]] mobile app.
 
-The following gives an overview of a few projects we have going:
 
 ===== Open Bible Stories =====
 
@@ -26,7 +45,7 @@ The following gives an overview of a few projects we have going:
     * **[[:en:dev:obs-video-render|Open Bible Stories video render system]]** – //currently in development by [[http://missionaldigerati.org|Missional Digerati]].//
     * **[[:en:dev:map-creator|Map Creator (for Open Bible Maps)]]** — //What if you had no concept of where Israel is, or Rome, or Egypt, or Galilee, or any of the other places mentioned in the Bible? Imagine how difficult it would be to accurately understand the Bible and the history of Israel. **Open Bible Maps**  makes it possible to rapidly translate high-quality maps of the Bible in any language.//
 
-====== General Dev Guidelines ======
+===== General Dev Guidelines =====
 
 This is not an exhaustive list but just a few pointers to keep us on the same page.
 
