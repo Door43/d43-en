@@ -4,7 +4,7 @@ This is the Digital Signature specification for unfoldingWord content.
 
 Overview of digital signatures {{http://en.wikipedia.org/wiki/Digital_signature#mediaviewer/File:Digital_Signature_diagram.svg|Digital_signature}}
 
-ECDSA is the expected implementation: [[http://en.wikipedia.org/wiki/Elliptic_Curve_Digital_Signature_Algorithm|http://en.wikipedia.org/wiki/Elliptic_Curve_Digital_Signature_Algorithm]].
+Keys will be generated using [[http://en.wikipedia.org/wiki/Elliptic_Curve_Digital_Signature_Algorithm|ECDSA ]]. And signatures will be hashed with [[http://en.wikipedia.org/wiki/Secure_Hash_Algorithm|SHA384]].
 
 ====== Specification ======
 
@@ -28,7 +28,8 @@ There are two ways in which content may be signed. If the Signing Entity manages
 
 A hash of the content will be generated according to some pre-determined algorithm. T<font 14px line-height: 19.6000003814697px/inherit;;inherit;;inherit>he SE private key will then be used to create a signature from this hash.</font>
 
-Signatures of content will be listed in a .sig file.  For example, obs-en.json would have its signatures like this:
+Signatures of content will be listed in a .sig file. For example, obs-en.json would have its signatures like this:
+
 <code>
 location: https://api.unfoldingword.org/obs/txt/1/en/obs-en.sig
 content:
@@ -40,7 +41,6 @@ content:
 </code>
 
 Note that the signatures are base64 encoded.
-
 
 ===== Distributing Signed Content =====
 
