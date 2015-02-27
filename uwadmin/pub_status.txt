@@ -2,7 +2,7 @@
 
 ===== es =====
 ^Language   ^Publish Date   ^Version    ^Checking Level ^
-|  [[:en:uwadmin:es:obs:status|Español]]  |  2014-12-08  |  3.2  |  {{https://api.unfoldingword.org/obs/jpg/1/checkinglevels/uW-Level1-32px.png}}  |
+|  [[:en:uwadmin:es:obs:status|Español]]  |  2014-12-08  |  3.2.1  |  {{https://api.unfoldingword.org/obs/jpg/1/checkinglevels/uW-Level1-32px.png}}  |
 
 ===== fr =====
 ^Language   ^Publish Date   ^Version    ^Checking Level ^
@@ -19,3 +19,7 @@
 ===== en =====
 ^Language   ^Publish Date   ^Version    ^Checking Level ^
 |  [[:en:uwadmin:en:obs:status|English]]  |  2015-02-10  |  3.2  |  {{https://api.unfoldingword.org/obs/jpg/1/checkinglevels/uW-Level3-32px.png}}  |
+
+===== am =====
+^Language   ^Publish Date   ^Version    ^Checking Level ^
+|  [[:en:uwadmin:am:obs:status|አማርኛ]]  |  2015-02-26  |  3.3.1  |  {{https://api.unfoldingword.org/obs/jpg/1/checkinglevels/uW-Level3-32px.png}}  |
