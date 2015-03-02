@@ -4,7 +4,7 @@ When all 50 stories are translated, we encourage each language to check the stor
 
 The strategy for quality assurance of unfoldingWord content, including Open Bible Stories, is described briefly here and in detail in the document [[http://distantshores.org/resources/whitepapers/quality-assurance|“Quality Assurance of Open-License Biblical Content”]].
 
-The three-level checking scale we use is dependent on the unfoldingWord [[:en:statement-of-faith|Statement of Faith]] and [[:en:translation-guidelines|Translation Guidelines]]. All translated content is compared against the theology of the Statement of Faith and against the procedures and methodologies of theTranslation Guidelines. With these documents forming the foundation, these are the three levels of checking used in the unfoldingWord project:
+The three-level checking scale we use is dependent on the unfoldingWord [[:en:statement-of-faith|Statement of Faith]] and [[:en:translation-guidelines|Translation Guidelines]]. All translated content is compared against the theology of the Statement of Faith and against the procedures and methodologies of the Translation Guidelines. With these documents forming the foundation, these are the three levels of checking used in the unfoldingWord project:
 
 ==== Checking Level 1 – Internal Check ====
 
@@ -44,7 +44,7 @@ In either track, the checking entities must have a track record that does not co
 
 ==== Checking the checkers ====
 
-The process and checking framework described in this document depends on an ongoing process of checking and revising content, as determined by the Church that uses the content. Feedback loops are encouraged (and modeled in translation software, where feasible) with a view to maximizing input from the greatest number of users of the con- tent.The translations of the content are made available on the [[http://door43.org|Door43]] translation platform, which is designed to make it easy for users to collaboratively create content that increases in quality over time.
+The process and checking framework described in this document depends on an ongoing process of checking and revising content, as determined by the Church that uses the content. Feedback loops are encouraged (and modeled in translation software, where feasible) with a view to maximizing input from the greatest number of users of the content. The translations of the content are made available on the [[http://door43.org|Door43]] translation platform, which is designed to make it easy for users to collaboratively create content that increases in quality over time.
 
 //Continue to [[:en:obs:translation-manual:update|How to Update a Previous Version of Open Bible Stories]]//
 
