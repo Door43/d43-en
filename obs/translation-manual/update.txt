@@ -9,6 +9,8 @@ Most translations have the version number listed. Some translations, especially 
   * Check 06-02. If the phrase "to the land where Abraham's relatives lived" is not included then it is version 2.0. If it is included it is at least version 3.0. (Also check 09-06, if "in order to save him from being killed" is not included it is version 2.0. If it is included it is at least version 3.0.)
   * To make sure you have the latest version, click [[en:obs:change-log|here]] and make sure these changes have been made in your language. 
 
+You may also compare the translation with [[https://door43.org/obs-diffs/ver_1-to-ver_3.html|Version 1]] or [[https://door43.org/obs-diffs/ver_2-to-ver_3.html|Version 2]] to see which version the translation was based off of.
+
 ==== Update to the Latest Version of Open Bible Stories ====
  
 Once you have identified which version of Open Bible Stories your language is, you will need to update your language to the latest version. To help simplify the update process, we have generated change logs of all the changes that happened between [[https://door43.org/obs-diffs/ver_1-to-ver_3.html|version 1 and the latest]] and [[https://door43.org/obs-diffs/ver_2-to-ver_3.html|version 2 and the latest]]. Simply go through these changes and update the text to according to those documents. 
