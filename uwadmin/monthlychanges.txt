@@ -57,6 +57,8 @@
 {{changes>ns=de:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:dgo:obs|dgo OBS]]**
 {{changes>ns=dgo:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
+**[[:dks:obs|dks OBS]]**
+{{changes>ns=dks:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:dng:obs|dng OBS]]**
 {{changes>ns=dng:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:dz:obs|dz OBS]]**
