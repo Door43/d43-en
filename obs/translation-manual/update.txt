@@ -6,6 +6,10 @@ In an effort to ensure the highest quality resource possible with the highest le
 
 A version of Open Bible Stories refers to a variation in the text itself that differs from an earlier form of the same text. 
 
+Versions are indicated by two or three numbers separated by periods (e.g. 2.0 or 3.1.2). 
+
+The purpose of using versions is to easily and consistently be able to differentiate between and communicate about variations and modifications Open Bible Stories has gone through.
+
 ==== How Version Numbering Happens ====
 
 Open Bible Stories was written in English and remains the "gold standard" of Open Bible Stories. After Open Bible Stories was originally written, let's say it was version 1.0. Each major change after that bumped the translation up 0.1. So after the first major change after it was written, Open Bible Stories went from version 1.0 to version 1.1. For each minor change, a version is increased by 0.0.1. So let's say after the major change a minor change was then made, the version would increase from 1.1 to 1.1.1. Either after an especially large change or after a series of major changes, the version number is bumped up to the next level and "resets". For instance, after version 1.1.1 if there was an especially large change, the next release would be 2.0. 
