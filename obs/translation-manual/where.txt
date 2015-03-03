@@ -26,21 +26,17 @@ Watch this [[http://youtu.be/dpsJRDAa3I8|video]] (45 seconds long) to see how to
 
 Door43 has a [[:playground:playground|test page]] that you can edit for practice. 
 
-Note: Click [[en:obs-training:get-started:switching_editors|here]] to learn how to switch between the editors.
-
 === 3. Choose a Story ===
 
 Let's start with a story about Jesus and his disciples. Click for the story [[:en:obs:31|31. Jesus Walks on Water]].
 
-<code>
-Note: Right click on links and choose "Open in new window."
-</code>
+<blockquote>Note: You can right click on links and choose "Open in new window" to see multiple pages at once.</blockquote>
 
 === 4. Choose the language into which you want to translate ===
 
-In the sidebar of Story 31, you should see a language selection dropdown. When you click it, a list of available languages displays, sorted by language code. If you see the language into which you would like to translate, click it.
+In the sidebar of Story 31, you will see a language selection dropdown. When you click it, a list of available languages displays, sorted by language code. If you see the language into which you would like to translate, click it.
 
-If you need a language added to Door43, please  [[http://distantshoresmedia.org/contact|contact us]].
+If you need a language added to Door43, please go [[https://door43.org/obs-setup|here]], choose your source language, choose your destination language (your language) and click "Create OBS Now". If you have any questions please [[http://distantshores.org/contact|contact us]].
 
 === 5. Start Translating ===
 
