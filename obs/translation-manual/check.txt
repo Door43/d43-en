@@ -8,13 +8,16 @@ A Checking Level of Open Bible Stories refers to a three-level iterative checkin
 
 There are three checking levels: [[#Checking Level 1 - Internal Check|Checking Level 1]], [[#Checking Level 2 - External Check|Checking Level 2]], and [[#Checking Level 3 - Authenticated Check|Checking Level 3]]. Any translation that has not yet been checked to Level 1 is considered to have not been checked and is assigned no checking status.
 
-''Note: Only translations that have reached Checking Level 1 (Checking Level 2 for Bible translations) or higher will be made available on the [[https://unfoldingword.org/stories|unfoldingWord website]] and the unfoldingWord mobile app.''
-
-''Also note: Only translations that have reached Checking Level 3 will be approved as source texts for other translations.''
-
-''Also note: Only Open Bible Stories translations that have been made off of version 3.0 or higher are eligible to be checked to Level 1 (or higher). Translations made off of versions before 3.0 [[:en:obs:translation-manual:update|must be updated]] before proceeding with Checking Levels.''
-
 The purpose of the Checking Levels is to make translated materials quickly available to the church, allowing the content to be iteratively checked and corroborated in the open while clearly indicating the degree to which its accuracy has been corroborated. We believe this will result in a faster checking process, broad church participation and ownership, and better translations.
+
+==== How Checking Levels Work ====
+
+Here are some important tips to remember when working with Checking Levels:
+
+  * Only Open Bible Stories translations that have been made off of version 3.0 or higher are eligible to be checked to Level 1 (or higher). Translations made off of versions before 3.0 [[:en:obs:translation-manual:update|must be updated]] before proceeding with Checking Levels.
+  * Only translations that have reached Checking Level 1 (Checking Level 2 for Bible translations) or higher will be made available on the [[https://unfoldingword.org/stories|unfoldingWord website]] and the unfoldingWord mobile app.
+  * Only translations that have reached Checking Level 3 will be approved as source texts for other translations.
+  * When a Checking Level has been completed and all appropriate edits have been made to door43, the checkers will inform unfoldingWord of the details of the check. unfoldingWord will harvest a copy of what is on door43, digitally publish a static copy of it on [[https://unfoldingword.org/stories|their website]] and made available on the unfoldingWord mobile app. A print-ready PDF will also be produced and made available for download. The checked version on door43 will remain fluid, allowing for future checking and editing.
 
 ==== The Checking Levels ====
 
