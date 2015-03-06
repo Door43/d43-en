@@ -1,0 +1,33 @@
+==== Door43 ====
+
+Translating content in Door43 is easy! Follow these simple steps to get started:
+
+=== 1. Create an Account & Log into Door43 ===
+
+To start translating content, you will need a user account on Door43. If you see your name in the top area below the browser menu bar, skip to #2 below. If you do not have an account, [[:en:get-started?do=register|create one]] then you can [[https://door43.org/en/obs-training/get-started?do=login&sectok=ee4e19eb537ef77891aa5a6b54b7b2a4|login]].\\ 
+Watch this [[http://youtu.be/dpsJRDAa3I8|video]] (45 seconds long) to see how to set up an account.
+
+    * Click on the Register link at the top of the page.
+    * Fill in the necessary information to set up an account.
+    * Check your email for the automatic generated password. (You might find the email in your spam folder.)
+    * Click on the 'Update Profile' link to change the password.
+
+=== 2. Practice Editing a Page ===
+
+Door43 has a [[:playground:playground|test page]] that you can edit for practice. 
+
+=== 3. Choose a Story ===
+
+Let's start with a story about Jesus and his disciples. Click for the story [[:en:obs:31|31. Jesus Walks on Water]].
+
+''Note: You can right click on links and choose "Open in new window" to see multiple pages at once.''
+
+=== 4. Choose the language into which you want to translate ===
+
+In the sidebar of Story 31, you will see a language selection dropdown. When you click it, a list of available languages displays, sorted by language code. If you see the language into which you would like to translate, click it.
+
+If you need a language added to Door43, please go [[https://door43.org/obs-setup|here]], choose your source language, choose your destination language (your language) and click "Create OBS Now". If you have any questions please [[http://distantshores.org/contact|contact us]].
+
+=== 5. Start Translating ===
+
+Simply begin translating the source text into the language you selected. Learn [[en:obs:translation-manual:translate|How to Translate Open Bible Stories]]
