@@ -6,7 +6,7 @@ When all 50 Open Bible Stories are translated, we encourage each translation to 
 
 A Checking Level of Open Bible Stories refers to a three-level iterative checking scale that helps show the extent to which the accuracy of a translation has been corroborated. The checking levels that are used on Door43 have been developed by the [[https://unfoldingword.org|unfoldingWord network]], the same group that manages Door43 with the help of many volunteers.
 
-There are three checking levels: [[#Checking Level 1 - Internal Check|Checking Level 1]], [[#Checking Level 2 - External Check|Checking Level 2]], and [[#Checking Level 3 - Authenticated Check|Checking Level 3]]. Any translation that has not yet been checked to Level 1 is considered to have not been checked and is assigned no checking status.
+There are three checking levels: [[:en:obs:translation-manual:check:level1|Checking Level 1]], [[:en:obs:translation-manual:check:level2|Checking Level 2]], and [[:en:obs:translation-manual:check:level3|Checking Level 3]]. Any translation that has not yet been checked to Level 1 is considered to have not been checked and is assigned no checking status.
 
 The purpose of the Checking Levels is to make translated materials quickly available to the church, allowing the content to be iteratively checked and corroborated in the open while clearly indicating the degree to which its accuracy has been corroborated. We believe this will result in a faster checking process, broad church participation and ownership, and better translations.
 
@@ -35,6 +35,6 @@ The three-level checking scale we use is dependent on the unfoldingWord [[:en:st
 
 The process and checking framework described in this document depends on an ongoing process of checking and revising content, as determined by the Church that uses the content. Feedback loops are encouraged (and modeled in translation software, where feasible) with a view to maximizing input from the greatest number of users of the content. The translations of the content are made available on the [[http://door43.org|Door43]] translation platform, which is designed to make it easy for users to collaboratively create content that increases in quality over time.
 
-//Continue to [[:en:obs:translation-manual:update|How to Update a Previous Version of Open Bible Stories]]//
+//Continue to [[:en:obs:translation-manual:update|How to Update a Previous Version]]//
 
 ~~DISCUSSION~~
