@@ -46,6 +46,11 @@ For details, see: [[:en:bible:workshop:matthew-chunks]]
 {{count>draft review publish&en:bible:notes:mat:11 en:bible:notes:mat:25 en:bible:notes:mat:26}}
 
 
+==== All Groups ====
+
+{{count>draft review publish&en:bible:notes:mat en:bible:notes:mat en:bible:notes:mat}}
+
+
 ==== Check on bad tags ====
 
 This query checks the first tag to be one of 4 valid tags required to make the system work correctly: {create|draft|review|discuss|publish}. Any verses listed here are likely being overlooked above. please include this query for every bible book admin page. (EQ)
