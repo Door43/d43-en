@@ -44,7 +44,7 @@ This [[http://youtu.be/5fFl8crhglE|video]] (1 minute 20 seconds) will give a qui
 
     * The stories are separated into separate pages by the pictures (called frames).
     * Each page has the picture and the text, in the source language, from the story.
-    * There are green words in the text. These are links to the Important Terms that need to be translated correctly. Click on the green word to go to another page that will give more information on how to translate the very important word.
+    * There are bold words in the text. These are links to the Important Terms that need to be translated correctly. Click on the green word to go to another page that will give more information on how to translate the very important word.
     * Translation Notes explains how to translate some of the important words in the story. The definition of the word or phrase should help you understand how to translate.
 
 === Use the Translation Notes in translationStudio ===
