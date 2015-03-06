@@ -4,17 +4,18 @@ A basic translation process for Open Bible Stories is explained here. Note: the 
 
 ==== Translating the Text ====
 
-As you translate Open Bible Stories, be sure that you: 
+As you translate Open Bible Stories, be sure that you:
+
   * pray that God would help you make an easily-understandable, Scripturally-accurate translation
   * translate everything that is in the source language
   * don't add anything that that is not necessary for comprehension
-  * always do your translation according to the [[en:translation-guidelines|Translation Guidelines]]
-  * always do your translation according to the [[en:statement-of-faith|Statement of Faith]]
-  * use the [[en:obs:notes|Translation Notes]] to help you make a better translation
+  * always do your translation according to the [[:en:translation-guidelines|Translation Guidelines]]
+  * always do your translation according to the [[:en:statement-of-faith|Statement of Faith]]
+  * use the [[:en:obs:notes|Translation Notes]] to help you make a better translation
 
 ==== Where To Start Translating ====
 
-You can work your way through the Stories however you want, but we have found [[en:obs:31|Story #31]] is a good first story to translate since it is short and easy to understand. 
+You can work your way through the Stories however you want, but we have found [[:en:obs:31|Story #31]] is a good first story to translate since it is short and easy to understand.
 
 ==== Translate from the Source Language ====
 
@@ -26,13 +27,13 @@ When the target language is [[https://door43.org/obs-setup|set up]] on Door43, t
 
 === Translation Notes & Important Terms ===
 
-To help translators make the best translation possible, [[:en:obs:notes|Translation Notes]] and [[:en:obs:notes:key-terms:home|Important Terms]] have been created. 
+To help translators make the best translation possible, [[:en:obs:notes|Translation Notes]] and [[:en:obs:notes:key-terms:home|Important Terms]] have been created.
 
-Translation Notes are cultural, linguistic, and exegetical notes that help to describe and explain the context in which the stories from Open Bible Stories was written as well as inform the translator of translation options available to them. 
+Translation Notes are cultural, linguistic, and exegetical notes that help to describe and explain the context in which the stories from Open Bible Stories was written as well as inform the translator of translation options available to them.
 
 The Important Terms are key terms found in Open Bible Stories that are very crucial that they be translated correctly. Each Important Term has a small article written about it as well as cross-references to other places that term is used in Open Bible Stories to ensure that it has been translated correctly there, too.
 
-Once you have consulted the Translation Notes and Important Terms, then you are ready to make the best translation. 
+Once you have consulted the Translation Notes and Important Terms, then you are ready to make the best translation.
 
 **Please use the Translation Notes & Important Terms when doing your translation!**
 
@@ -42,28 +43,28 @@ It is best to open the webpage of the story in the target language and the webpa
 
 This [[http://youtu.be/5fFl8crhglE|video]] (1 minute 20 seconds) will give a quick overview of how to use the Translation Notes.
 
-    * The stories are separated into separate pages by the pictures (called frames).
-    * Each page has the picture and the text, in the source language, from the story.
-    * There is a list of the Important Terms that need to be translated correctly. Click on the green word to go to another page that will give more information on how to translate the very important word.
-    * Translation Notes explains how to translate some of the important words in the story. The definition of the word or phrase should help you understand how to translate.
+  * The stories are separated into separate pages by the pictures (called frames).
+  * Each page has the picture and the text, in the source language, from the story.
+  * There is a list of the Important Terms that need to be translated correctly. Click on the green word to go to another page that will give more information on how to translate the very important word.
+  * Translation Notes explains how to translate some of the important words in the story. The definition of the word or phrase should help you understand how to translate.
 
 === Use the Translation Notes in translationStudio ===
 
-All of the Translation Notes and Important Terms have been included in the translationStudio mobile app. 
+All of the Translation Notes and Important Terms have been included in the translationStudio mobile app.
 
   * As you are reading the source language, swipe from right to left to pull up the pane that has the Translation Notes and Important Terms for that frame.
-  * Choose the "Important Terms" tab. Click on one of the Important Terms that is there. 
-  * When you are done with the Translation Notes and Important Terms, swipe from left to right to make the pane go away. 
+  * Choose the "Important Terms" tab. Click on one of the Important Terms that is there.
+  * When you are done with the Translation Notes and Important Terms, swipe from left to right to make the pane go away.
   * Continue with your translation.
 
 === Work with Others who Speak Your Language ===
 
-You are always encouraged to work with other people who speak your language and especially getting your church involved in the translation and checking process. This is very important for [[en:obs:translation-manual:check|checking Open Bible Stories]]
+You are always encouraged to work with other people who speak your language and especially getting your church involved in the translation and checking process. This is very important for [[:en:obs:translation-manual:check|checking Open Bible Stories]]
 
 === Join the Online Community ===
 
-There is also an online community that can encourage you and help you answer any questions you might have. [[https://hall.com/invites/HiDj5JXsAfvHbMqdiNe_eA|Join the community]]. 
+There is also an online community that can encourage you and help you answer any questions you might have. [[https://hall.com/invites/HiDj5JXsAfvHbMqdiNe_eA|Join the community]].
 
-//Continue to [[en:obs:translation-manual:check|How to Check Open Bible Stories]]//
+//Continue to [[:en:obs:translation-manual:check|How to Check Open Bible Stories]]//
 
 ~~DISCUSSION~~
