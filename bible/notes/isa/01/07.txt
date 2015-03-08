@@ -20,14 +20,14 @@
 ===== UDB: =====
 
 <usfm>
-\v 7 Your country is ruined,
-\q2 your towns have been burned,
-\q1 foreigners plunder the crops in your fields while you watch,
-\q2 and they destroy everything that they see.
+\v 7 Enemies have ruined your country;
+\q2 they have burned your towns.
+\q1 Foreigners plunder the crops in your fields while you watch;
+\q2 they destroy everything that they see.
 \q1
-\v 8 The city of Jerusalem has been abandoned,
-\q2 it is like a shelter in a vineyard that has been abandoned by the watchmen;
-\q1 it is like a watchman's hut in a field of melons that has been deserted.
+\v 8 The city of Jerusalem has become as small as a shepherd's hut.
+\q2 It is like a shelter in a vineyard;
+\q1 it is like a watchman's hut in a field of melons.
 \q2 It is a city surrounded by its enemies who are waiting to attack it.
 
 
@@ -38,9 +38,13 @@
 ===== ULB: =====
 
 <usfm>
-\v 7 Your country is desolate; your cities are burned with fire; your crops are devoured by strangers in your presence, a waste and
-desolation, as overthrown by strangers.
-\v 8 The daughter of Zion is left as a hut in a vineyard, as a shed in a garden of cucumbers, as a besieged city.
+\q1
+\v 7 Your country is desolate; your cities are burned with fire; 
+\q1 your fields--in your presence, strangers are destroying them
+\q1 a waste and desolation, as overthrown by strangers.  
+\q1
+\v 8 The daughter of Zion is left as a hut in a vineyard, 
+\q1 as a shed in a garden of cucumbers, as a besieged city.
 </usfm>
 
 
