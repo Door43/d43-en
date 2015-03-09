@@ -83,6 +83,8 @@
 {{changes>ns=gaj:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:gu:obs|gu OBS]]**
 {{changes>ns=gu:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
+**[[:guz:obs|guz OBS]]**
+{{changes>ns=guz:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:ha:obs|ha OBS]]**
 {{changes>ns=ha:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:hch:obs|hch OBS]]**

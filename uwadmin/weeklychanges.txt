@@ -124,6 +124,9 @@
 **[[:gu:obs|gu OBS]]**
 {{changes>ns=gu:obs&maxage=604800&render=pagelist(header,date,user,nocomments)}}
 
+**[[:guz:obs|guz OBS]]**
+{{changes>ns=guz:obs&maxage=604800&render=pagelist(header,date,user,nocomments)}}
+
 **[[:ha:obs|ha OBS]]**
 {{changes>ns=ha:obs&maxage=604800&render=pagelist(header,date,user,nocomments)}}
 
