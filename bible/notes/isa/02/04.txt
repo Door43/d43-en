@@ -18,11 +18,11 @@
 ===== UDB: =====
 
 <usfm>
-\v 4 Yahweh will listen to the disputes between nations
+\v 4 Yahweh will listen to the disputes between nations,
 \q2 and he will settle their arguments.
 \q1 Then, instead of fighting against each other, they will hammer their swords into plow blades,
 \q2 and they will hammer their spears into pruning knives.
-\q1 The armies of nations will no longer fight against each other,
+\q1 The armies of the nations will no longer fight against each other,
 \q2 and they will not even train men to fight in battles."
 \b
 
@@ -34,7 +34,10 @@
 ===== ULB: =====
 
 <usfm>
-\v 4 He will judge between the nations, and will render decisions for many peoples; and they will hammer their swords into plowshares, and their spears into pruning-hooks; nation will not lift up sword against nation, nor will they learn war any more.
+\q1
+\v 4 He will judge between the nations and will render decisions for many peoples; 
+\q1 they will hammer their swords into plowshares, and their spears into pruning-hooks; 
+\q1 nation will not lift up sword against nation, nor will they train for war any longer."
 </usfm>
 
 
