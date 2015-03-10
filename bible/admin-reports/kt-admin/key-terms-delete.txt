@@ -1,0 +1,29 @@
+===== Key Terms: Delete Key Term =====
+
+~~NOCACHE~~
+
+==== Purpose ====
+
+To search for all the links tied to the key term to be deleted. The Namespace by standard naming conventions is the tag name.
+
+==== Usage ====
+  - Go to the DW (text) editor. 
+  - Replace "XXX" text with the key term namespace.
+  - Hit the "Preview" Button.
+  - Scroll down to find all the related links.
+  - Edit the pages and deleting the Key Term links by right clicking on the links and opening the pages in a new tab or new window.
+  - Hit the "Cancel" button. That will reset the edited values back to "XXX".
+
+==== Find all pages where the key term is listed as a tag ====
+
+{{topic>XXX&nocomments}}
+
+==== Find all pages that have links to this key term ====
+
+  * search Key Term links in the Important Terms section of Notes Pages.
+  * search cross reference links of the key term on other Key Term pages.
+{{pagequery> "en:bible:notes:key-terms:XXX"; fulltext; sort=title:asc; display={title}; layout=table; showcount; hidestart; natsort; bullet=square; }}
+
+==== Find the key term page ====
+
+[[:en:bible:notes:key-terms:XXX]]
