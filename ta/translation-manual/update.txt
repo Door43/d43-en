@@ -32,6 +32,6 @@ Some translations, especially those done offline, do not have the version number
  
 Once you have identified which version of Open Bible Stories your language is, you will need to update your language to the latest version. To help simplify the update process, we have generated change logs of all the changes that happened between [[https://door43.org/obs-diffs/ver_1-to-ver_3.html|version 1 and the latest]] and [[https://door43.org/obs-diffs/ver_2-to-ver_3.html|version 2 and the latest]]. Simply go through these changes and update the text according to those documents. 
 
-//Continue to [[en:ta:translation-manual:content|What Needs to Be Translated]]//
+//Continue to [[en:ta:translation-manual:after|What to do when the Translation is Completed]]//
 
 ~~DISCUSSION~~
