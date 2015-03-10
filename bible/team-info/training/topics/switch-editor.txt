@@ -17,7 +17,7 @@ When you click the "Edit this page" button, this editor is the default version t
 
 ==== DW Edit ====
 
-DW Edit is a "plain text editor." – This is the most basic DokuWiki editor, and it provides full control over the syntax of the text. Go to the [[:en:obs-training:syntax|Formatting Text]] page for some simple editing formats to use in the text editor.
+DW Edit is a "plain text editor." – This is the most basic DokuWiki editor, and it provides full control over the syntax of the text. Go to the [[:en:ta:syntax|Formatting Text]] page for some simple editing formats to use in the text editor.
 
 ==== Which Editor to Use? ====
 
