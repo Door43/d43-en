@@ -1,7 +1,7 @@
 ====== Translation Academy Topics ======
 
 
-<nspages en:bible:team-info:training:topics:discourse -nbCol=2 -textPages="tA Pages about Discourse/Literature and Genre:">
+<nspages en:bible:team-info:training:topics:discourse -nbCol=2 -exclude:home -textPages="tA Pages about Discourse/Literature and Genre:">
 
 <nspages en:bible:team-info:training:topics:grammar -title -nbCol=2 -exclude:home -textPages="tA Pages about English Vocabulary and Grammar:">
 
