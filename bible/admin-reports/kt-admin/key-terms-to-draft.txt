@@ -1,0 +1,26 @@
+====== Key Terms: Create to Draft ======
+
+===== Description =====
+
+Edit the bible reference tags to create a list of key terms to promote to draft. This report should be executed weekly.
+
+===== Procedure =====
+
+  - Edit this page in the [DW Edit] Editor.
+  - Edit the bible reference to the chapters that need to be promoted from create to draft. make sure not to delete the "+" sign. It performs a logical "AND" when searching tags.
+  - Save the new query.
+  - Click on each list item to open that key term.
+  - Edit the key term to change the tag from "create" to "draft".
+  - Delete the bible reference from the tag.
+  - Save and close the key term page.
+  - Repeat until all terms have been edited.
+
+{{topic>create +gen01 &tags&nocomments}}
+{{topic>create +gen02 &tags&nocomments}}
+{{topic>create +act01 &tags&nocomments}}
+{{topic>create +act02 &tags&nocomments}}
+{{topic>create +1ti01 &tags&nocomments}}
+{{topic>create +1ti02 &tags&nocomments}}
+
+{{topic>create +ktteam &tags&nocomments}}
+
