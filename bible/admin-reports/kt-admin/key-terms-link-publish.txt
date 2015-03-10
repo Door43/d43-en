@@ -1,0 +1,6 @@
+====== Key Terms: Link and Publish ======
+
+The **Link and Publish** page will search for Key term pages that have been promoted to Publish (tag changed to Publish) and still have the "ktlink" tab.\\
+These pages have potential links that need to be defined.
+
+{{topic>publish +ktlink&tags&sort&nocomments}}
