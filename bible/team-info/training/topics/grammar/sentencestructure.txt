@@ -1,0 +1,89 @@
+====== Sentences ======
+
+===== Sentence Types =====
+
+A **//sentence//** is a group of words that express a complete thought. The basic types of sentences are:
+
+   * **Declarative **- These are usually used to give information. '//This is a fact.//'
+  * **Interrogative **- These are usually used to ask for information. '//Do you know him?//'
+  * **Exclamation **- These are usually used to express a feeling. '//Ouch, that hurt!//'
+  * **Imperative **  or **Command **- These are usually used to make something happen. '//Pick that up.//'
+Sentences can be used for other purposes as well.
+
+===== Sentence Structure =====
+
+<font inherit/inherit;;inherit;;inherit>The simplest sentence structure in English includes a  //  ** subject  **  // and an  //  ** action  **  // word. '  // The boy ran.'  //</font>
+
+==== Subject ====
+
+The //**subject**// is who or what the sentence is about. In these examples, the subject is underlined: 1) //'__The boy__  is running.'//  2) //'__He__  is running.'//
+
+Subjects are typically typically noun phrases or pronouns. (See: [[:en:ta:vocabulary:parts-of-speech|English Parts of Speech]] for more information.) In the examples above, "the boy" is a noun phrase that has the noun 'boy,' and "he" is a pronoun.
+
+Sometimes a subject is not stated but is implied. For example, //'Close the door//.' The verb is 'close'; the subject is implied to be 'you.' See [[:en:ta:vocabulary:implicitexplicit|Explicit and Implicit Information]] for more information.
+
+==== Predicate ====
+
+The predicate is the part of a sentence which tells something about the subject. It usually has a [[:en:ta:vocabulary:verbs|verb]].
+
+Here are some examples: \\ '//The man is strong//.' - The subject is '//the man//' and the predicate is '//is strong//' (It describes the man.) \\ '//He worked hard//.' - The subject is '//he//' and the predicate is '//worked hard//' (It is something the man did.)
+
+The verb may have an object or a complement: \\ //'The man made a garden.'//  "The man" is the subject. "Made" is the verb. "A garden" is the object. \\ //'The man is strong.'//  "The man" is the subject. "Is" is the verb. "Strong" is the complement.
+
+==== Clause ====
+
+A sentence can have more than one set of subjects and predicates. Such sentences are compound sentences, Compound sentences are separated by a comma and a conjunction (i.e. but, and, or). Here is an example:
+
+'//__He planted the yams__ and __his wife planted the corn__//.'\\
+'//He planted the yams//' is one clause. '//His wife planted the corn//' is another clause.
+
+'//He planted the yams//' is a complete thought/sentence. '//His wife planted the corn//' is also a complete thought/sentence.
+
+Sentences can also include **CLAUSES**. A clause is an incomplete thought that supports the full sentence. A clause is not a full sentence.
+
+'//__When the corn was ready__, his wife picked it//.'
+
+The clause “when the corn was ready” is a clause, but it is not a full sentence. “His wife picked it up” is a complete sentence.
+
+In some languages, clauses can tell about something in the sentence. These are called **relative** clauses.
+
+   * Relative clauses can **define **  which thing is being talked about. For example: '//She put a little food in her own bag and a lot of food in the bag __that belonged to her sister__//.' This relative clause '//that belonged to her sister//' defines which bag.
+  * Relative clauses can **describe**  or tell some more information. For example: '//She gave some of the food to her only sister, __who was very thankful__.//' The clause “//who was very thankful//” tells something about the sister. Since she had only one sister, it does not tell which sister. It simply tells how her sister responded.
+
+Some languages can use relative clauses both to define and describe. Other languages only use them for defining.
+
+===== Translation Suggestions =====
+
+Many sentences in the Bible have more than one clause. And each clause can have phrases in addition to the subject and verb.
+
+A language may have a preferred order for its clauses and other phrases. For example some languages may prefer the order in the first example, while others may prefer the order in the second.
+
+  - //She went to the garden to pick some tomatoes.//
+  - //In order to pick some tomatoes, she went to the garden.//
+A language may have a preferred word order for its subject, verb, and object or complement. (See: [[:en:ta:vocabulary:wordorder|Word Order]]) For example, English and French normally put the object after the verb. But if the object is a pronoun, French puts it before the verb.
+
+  * English: //The man sees __the house__.//
+  * French: //L'homme voit __la maison__. //  (The man sees the house.)
+  * English: //The man sees __it__. //
+  * French: //L'homme __la__  voit. //  (The man it sees.)
+
+Even within the noun phrase, languages have different word orders. For example, in English, adjectives come before the noun they describe. But in French, adjectives can occur before or after the noun, depending on their type.
+
+  * English: //the __pretty__  flower//
+  * French: //la __jolie__  fleur//  (the pretty flower)
+  * English:// the __purple__  flower//
+  * French:// la fleur __violette__// (The flower violette)
+
+Translators should become aware of the following things in their language: the normal orders of clauses in sentences, the normal order of phrases in clauses, and the normal order of words in phrases. If their language allows variety, translators should learn what each variety is used to communicate.
+
+Translators should became aware of the kinds of clauses their language has and their functions. They should understand the purposes of the clauses in the language they are translating from. When they are translating into their language, they should use the types of clauses and the clause orders that are natural in their own language and that have the same meaning as that of the language they are translating form .
+
+For example, the relative clause in the examples below give added information about the house. Languages that do not use relative clauses and languages that do not use relative clauses for that purpose, will need another way of expressing the information.
+
+ \\ '//After putting the food in the bags, she brought them to her **house**, __which was in the village__//.' \\ '//After putting the food in the bags, she brought them to her house. Her house was in the village.//'
+
+//'Although the boy ran very hard, he couldn't catch the **fox**, __which disappeared into the woods__.'//  \\ //'Although the boy ran very hard, he couldn't catch the fox, because it disappeared into the woods.'//
+
+{{tag>publish}}~~DISCUSSIONS~~
+
+~~NOCACHE~~
