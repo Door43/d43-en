@@ -1,1 +1,63 @@
-__false__
+====== Summary Admin Page ======
+
+~~NOCACHE~~
+
+==== Key Terms Admin ====
+
+  * [[:en:bible:admin-reports:00-key-terms-admin]]
+  * [[:en:bible:admin-reports:00-key-terms-draft]]
+
+{{count>create newa newb draft review discuss publish&en:bible:notes:key-terms}}
+
+
+==== Genesis Admin ====
+
+  * [[:en:bible:admin-reports:01-notes5-admin]]
+  * [[:en:bible:admin-reports:01-notes2-draft]]
+  * [[:en:bible:admin-reports:04-questions-comprehension-admin-genesis]]
+  * [[:en:bible:notes:gen:01:01]]
+
+{{count>review discuss publish&en:bible:notes:gen}}
+
+
+==== Acts Admin ====
+
+  * [[:en:bible:admin-reports:01-notes4-admin]]
+  * [[:en:bible:admin-reports:01-notes1-draft]]
+  * [[:en:bible:admin-reports:04-questions-comprehension-admin-acts]]
+  * [[:en:bible:notes:act:01:01]]
+
+{{count>review discuss publish&en:bible:notes:act}}
+
+
+==== Epistles Admin ====
+
+  * [[:en:bible:admin-reports:01-notes6-admin]]
+  * [[:en:bible:admin-reports:01-notes3-draft]]
+
+
+=== 1 Timothy ===
+
+  * [[:en:bible:admin-reports:01-notes7-admin]]
+  * [[:en:bible:admin-reports:04-questions-comprehension-admin-1timothy]]
+  * [[:en:bible:notes:1ti:01:01]]
+
+{{count>review discuss publish&en:bible:notes:1ti}}
+
+
+=== 2 Timothy ===
+
+  * [[:en:bible:admin-reports:01-notes8-admin]]
+  * [[:en:bible:admin-reports:04-questions-comprehension-admin-2timothy]]
+  * [[:en:bible:notes:2ti:01:01]]
+
+{{count>review discuss publish&en:bible:notes:2ti}}
+
+
+=== Galatians ===
+
+  * [[:en:bible:admin-reports:01-notes9-admin]]
+  * [[:en:bible:admin-reports:04-questions-comprehension-admin-galatians]]
+  * [[:en:bible:notes:gal:01:01]]
+
+{{count>review discuss publish&en:bible:notes:gal}}
