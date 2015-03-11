@@ -34,12 +34,13 @@
 <usfm>
 \c 3
 \p
-\v 1 A prayer of Habakkuk the prophet, set to Shigionoth.
+\v 1 The prayer of Habakkuk the prophet, as a lamentation:
+[[Shigionoth is an obscure term usually left untranslated, but this might be confusing for a MTT. The sense seems to be that this is some form of lamentation, so I went with that interpretation. We can change this if you think it would be better that way.]]
 \q
-\v 2 O Jehovah, I have heard the report of thee, and am afraid:
-\q O Jehovah, revive your work in the midst of the years;
-\q In the midst of the years make it known;
-\q In wrath remember mercy.
+\v 2 Yahweh, I have heard your report, and I am afraid!
+\q Yahweh, revive your work in the midst of these times,
+\q In the midst of these times make it known;
+\q remember compassion in your wrath!
 </usfm>
 
 
