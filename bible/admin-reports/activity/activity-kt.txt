@@ -1,0 +1,68 @@
+====== KT Team Activity ======
+
+=== (Activity for previous 10 days) ===
+
+**Lizz Carlton:**
+ {{changes>user=lizzcarlton&count=15&render=pagelist(header,date,user,nocomments)&maxage=864000}}
+
+**Charlie Miller:**
+ {{changes>user=charlie-miller&count=12&render=pagelist(header,date,user,nocomments)&maxage=864000}}
+
+**David Book:**
+ {{changes>user=bookman&count=12&render=pagelist(header,date,user,nocomments)&maxage=864000}}
+
+**Dennis Mack:**
+ {{changes>user=dmack&count=12&render=pagelist(header,date,user,nocomments)&maxage=864000}}
+
+**Doug Koch:**
+ {{changes>user=drkoch87&count=12&render=pagelist(header,date,user,nocomments)&maxage=864000}}
+
+**Drew Curley:**
+ {{changes>user=drew-curley&count=12&render=pagelist(header,date,user,nocomments)&maxage=864000}}
+
+**Duane Frederick:**
+ {{changes>user=spcfredy&count=12&render=pagelist(header,date,user,nocomments)&maxage=864000}}
+
+**Gregory Morris:**
+ {{changes>user= gmorris&count=12&render=pagelist(header,date,user,nocomments)&maxage=864000}}
+
+**Jan Zanutto:**
+ {{changes>user=jzanutto&count=12&render=pagelist(header,date,user,nocomments)&maxage=864000}}
+
+**Jim Nickel:**
+ {{changes>user=nick28&count=12&render=pagelist(header,date,user,nocomments)&maxage=864000}}
+
+**Kevin Mckenna: (needs to register)**
+ {{changes>user=USER&count=12&render=pagelist(header,date,user,nocomments)&maxage=864000}}
+
+**Mark Sweeting:**
+ {{changes>user=masweeting&count=12&render=pagelist(header,date,user,nocomments)&maxage=864000}}
+
+**Matthew Latham:**
+ {{changes>user=mslgtwam&count=12&render=pagelist(header,date,user,nocomments)&maxage=864000}}
+
+**Paul Holloway:**
+ {{changes>user=pwholloway&count=12&render=pagelist(header,date,user,nocomments)&maxage=864000}}
+
+**Randall Ivey:**
+{{changes>user=bear-dawg1725&count=15&render=pagelist(date,header,user,nocomments)&maxage=864000}}
+
+**Richard Joki:**
+ {{changes>user=rickjoki&count=12&render=pagelist(header,date,user,nocomments)&maxage=864000}}
+
+**USER: (needs to register)**
+ {{changes>user=USER&count=12&render=pagelist(header,date,user,nocomments)&maxage=864000}}
+
+**Activity Pages:**
+
+  * [[:en:bible:admin-reports:activity:activity|Return to Activity overview page]]
+  * [[:en:bible:admin-reports:activity:activity-act]]
+  * [[:en:bible:admin-reports:activity:activity-gen]]
+  * [[:en:bible:admin-reports:activity:activity-gal]]
+
+//Note: "maxage" = seconds//
+
+  * //1 day = 86400//
+  * //7 days = 604800//
+  * //10 days = 864000//
+  * //12 days = 1036800//
