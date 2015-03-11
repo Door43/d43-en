@@ -22,8 +22,20 @@ To search for all the links tied to the key term to be deleted. The Namespace by
 
   * search Key Term links in the Important Terms section of Notes Pages.
   * search cross reference links of the key term on other Key Term pages.
-{{pagequery> "en:bible:notes:key-terms:XXX"; fulltext; sort=title:asc; display={title}; layout=table; showcount; hidestart; natsort; bullet=square; }}
+
+{{pagequery> "en:bible:notes:key-terms:XXX";
+fulltext;
+sort=title:asc;
+display={title};
+layout=table;
+showcount;
+hidestart; 
+natsort;
+bullet=square}}
 
 ==== Find the key term page ====
 
 [[:en:bible:notes:key-terms:XXX]]
+
+
+\\ 
