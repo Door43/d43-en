@@ -3,8 +3,8 @@
 ====== Purpose ======
 Lists all the tags specified on the Key Terms pages. Only {status}, {bibnn} {ktlink} should be in this list. Any other value indicates a problem that needs to be corrected.
 
-{status} = create, newa, newb, draft, review, discuss, publish
-{bibnn} = act01, gen02 (examples)
+{status} = create, newa, newb, draft, review, discuss, publish \\ 
+{bibnn} = act01, gen02 (examples) \\ 
 {ktlink} = ktlink
 
 ~~NOCACHE~~
