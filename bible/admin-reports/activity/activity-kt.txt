@@ -53,12 +53,7 @@
 **USER: (needs to register)**
  {{changes>user=USER&count=12&render=pagelist(header,date,user,nocomments)&maxage=864000}}
 
-**Activity Pages:**
 
-  * [[:en:bible:admin-reports:activity:activity|Return to Activity overview page]]
-  * [[:en:bible:admin-reports:activity:activity-act]]
-  * [[:en:bible:admin-reports:activity:activity-gen]]
-  * [[:en:bible:admin-reports:activity:activity-gal]]
 
 //Note: "maxage" = seconds//
 
