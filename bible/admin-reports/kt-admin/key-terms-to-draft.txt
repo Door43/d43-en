@@ -14,16 +14,20 @@ Edit the bible reference tags to create a list of key terms to promote to draft.
   - Delete the bible reference from the tag.
   - Save and close the key term page.
   - Repeat until all terms have been edited.
+==== Genesis Markup ====
 
-{{topic>create +gen01 &tags&nocomments}}
-{{topic>create +gen02 &tags&nocomments}}
-{{topic>create +act01 &tags&nocomments}}
-{{topic>create +act02 &tags&nocomments}}
-{{topic>create +1ti01 &tags&nocomments}}
-{{topic>create +1ti02 &tags&nocomments}}
+{{topic>create +gen03 &tags&nocomments}}
 
-{{topic>create +ktteam &tags&nocomments}}
+==== Acts Markup ====
 
+{{topic>create +act05 &tags&nocomments}}
+{{topic>create +act06 &tags&nocomments}}
+{{topic>create +act07 &tags&nocomments}}
+{{topic>create +act08 &tags&nocomments}}
+
+==== Timothy Markup ====
+
+{{topic>create +1ti06 &tags&nocomments}}
 
 
 \\ 
