@@ -1,0 +1,25 @@
+===== Key Terms: Authenticate Tags Report =====
+
+==== Purpose ====
+
+To find key terms that are not properly tagged Create, Draft, Review, Discuss, or Publish.
+
+==== Tag count of Key Term Pages ====
+
+~~NOCACHE~~
+
+{{count>create new newa newb draft review discuss publish &en:bible:notes:key-terms}}
+
+==== Check for Bad Tags ====
+
+The following query checks the first tag to be one of 6 valid tags required to make the system work correctly: {create|newa|newb|draft|review|discuss|publish}. Any key terms listed here are not in the above chart. (EQ)
+
+{{pagequery>ns:en:bible:notes:key-terms "{{tag>" -"{{tag>create" -"{{tag>newa" -"{{tag>newb" -"{{tag>draft" -"{{tag>review" -"{{tag>discuss" -"{{tag>publish"; fulltext; sort=title:asc; display={title}; natsort; layout=table; showcount; hidemsg; hidejump;}}
+
+==== Check for Well Formed Tags ====
+
+The following query checks that every page that has curly brace sets"{}" include the key word "tag>" in at least one set.
+
+{{pagequery>ns:en:bible:notes:key-terms "{{" -"{{tag>"; fulltext; sort=title:asc; display={title}; natsort; layout=table; showcount; hidemsg; hidejump;}}
+
+\\
