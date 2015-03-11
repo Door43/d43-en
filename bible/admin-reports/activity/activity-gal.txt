@@ -1,0 +1,44 @@
+====== Galatians Notes Team Activity ======
+
+
+=== (Activity for the previous 10 days) ===
+
+~~NOCACHE~~
+
+**Henry Whitney - Team Leader:**
+ {{changes>user=hmw3&count=15&render=pagelist(header,date,user,nocomments)&maxage=864000}}
+
+**Alfred Van Dellen:**
+ {{changes>user=football&count=15&render=pagelist(header,date,user,nocomments)&maxage=864000}}
+
+**Allen Bair:**
+ {{changes>user=teddybairs1&count=15&render=pagelist(header,date,user,nocomments)&maxage=864000}}
+
+**Angelo Palo:**
+ {{changes>user=angrock01&count=15&render=pagelist(header,date,user,nocomments)&maxage=864000}}
+
+**Lester Harper:**
+ {{changes>user=lester-h&count=15&render=pagelist(date,header,user,nocomments)&maxage=864000}}
+
+**Raif Turner:**
+ {{changes>user=raif_turner&count=15&render=pagelist(date,header,user,nocomments)&maxage=864000}}
+
+**Sherie Nelson:**
+ {{changes>user=hispoema&count=15&render=pagelist(date,header,user,nocomments)&maxage=864000}}
+
+**Tom Jopling:**
+ {{changes>user=tom.jopling&count=15&render=pagelist(date,header,user,nocomments)&maxage=864000}}
+
+**Vicki Ivester:**
+ {{changes>user=ivester&count=15&render=pagelist(header,date,user,nocomments)&maxage=864000}}
+
+**USER: (needs to register)**
+ {{changes>user=USER&count=15&render=pagelist(date,header,user,nocomments)&maxage=864000}}
+
+
+//Note: "maxage" = seconds//
+
+  * //1 day = 86400//
+  * //7 days = 604800//
+  * //10 days = 864000//
+  * //12 days = 1036800//
