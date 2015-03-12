@@ -14,7 +14,7 @@
 
 {{count>create draft1 draft2 draft3 review discuss publish&en:bible:notes:key-terms}}
 
-^  Group 1 Pages Draft Pages  ^  Group 2 Pages Draft Pages  ^  Group 3 Draft Pages  ^
+^  Group 1 Draft Pages  ^  Group 2 Draft Pages  ^  Group 3 Draft Pages  ^
 |{{topic>en:bible:notes:key-terms?draft1&nocomments}} |{{topic>en:bible:notes:key-terms?draft2&nocomments}} |{{topic>en:bible:notes:key-terms?draft3&nocomments}} |
 
 ^  Review Pages  ^  Discuss Pages  ^
@@ -22,9 +22,9 @@
 
 ==== Check for Bad Tags ====
 
-The following query checks the first tag to be one of 6 valid tags required to make the system work correctly: {create|newa|newb|draft|review|discuss|publish}. Any key terms listed here are not in the above chart. (EQ)
+The following query checks the first tag to be one of 6 valid tags required to make the system work correctly: {create|draft|review|discuss|publish}. Any key terms listed here are not in the above chart. (EQ)
 
-{{pagequery>ns:en:bible:notes:key-terms "{{tag>" -"{{tag>create" -"{{tag>draft1" -"{{tag>draft2"-"{{tag>draft3" -"{{tag>draft" -"{{tag>review" -"{{tag>discuss" -"{{tag>publish"; fulltext; sort=title:asc; display={title}; natsort; layout=table; showcount; hidemsg; hidejump;}}
+{{pagequery>ns:en:bible:notes:key-terms "{{tag>" -"{{tag>create" -"{{tag>draft1" -"{{tag>draft2"-"{{tag>draft3" -"{{tag>review" -"{{tag>discuss" -"{{tag>publish"; fulltext; sort=title:asc; display={title}; natsort; layout=table; showcount; hidemsg; hidejump;}}
 
 ==== Check for Well Formed Tags ====
 
