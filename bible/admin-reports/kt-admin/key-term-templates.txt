@@ -67,7 +67,7 @@ Text
 ~~NOCACHE~~
 
 {{tag>create BIBnn ktlink}}
-{{tag>draft ktlink}}
+{{tag>draftN ktlink}}
 </code>
 
 The draft code for a "Name" KT page is:
@@ -94,5 +94,5 @@ Text
 ~~NOCACHE~~
 
 {{tag>create BIBnn ktlink}}
-{{tag>draft ktlink}}
+{{tag>draftN ktlink}}
 </code>
