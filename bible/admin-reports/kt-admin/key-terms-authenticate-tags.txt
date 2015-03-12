@@ -21,5 +21,3 @@ The following query checks the first tag to be one of 6 valid tags required to m
 The following query checks that every page that has curly brace sets"{}" include the key word "tag>" in at least one set.
 
 {{pagequery>ns:en:bible:notes:key-terms "{" -"{{tag>"; fulltext; sort=title:asc; display={title}; natsort; layout=table; showcount; hidemsg; hidejump;}}
-
-\\
