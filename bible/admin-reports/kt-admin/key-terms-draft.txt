@@ -4,19 +4,14 @@
 
 The Key Terms in table below are ready to be edited by the Key Terms Team.
 
-  * **New Terms**  - These terms have little or no content. They are divided into two columns and assigned to either Group A or Group B. Adding initial content to these terms should be the first priority for the team each week.
-  * **Draft Terms**  - These terms are nearing completion. Both groups should review these terms and make final changes or comments.
-
-Because of the volume of terms, they KT team is divided into two groups so that each group can focus on creating initial content for a portion of the "New" terms each week. After that, the whole team works together to complete the editing of the "Draft" terms.
+Because of the volume of terms, the KT team is divided into three groups so that each group can focus on a different set of terms each week. We always want multiple people to evaluate and edit each term, but the group is too large to all work on the same terms.
 
 
-==== New Terms: ====
+==== Terms by Group: ====
 
-^  Group A "New" Terms  ^  Group B "New" Terms  ^
-|  Richard Joki\\ Drew Curley\\ David Book\\ Dennis Mack\\ Gregory Morris\\ Jim Nickel\\ Randall Ivey  |  Paul Holloway\\ Matthew Latham\\ Jan Zanutto\\ Doug Koch\\ Dennis Mack\\ Duane Frederick\\ Mark Sweeting\\ Charlie Miller  |
-|{{topic>en:bible:notes:key-terms?newa&nocomments}}  |{{topic>en:bible:notes:key-terms?newb&nocomments}}  |
+^  Groups  ^  Terms  ^
+|  Jan Zanutto\\ Matthew Latham\\ Richard Joki\\  |  David Book\\ Drew Curley\\ Paul Holloway\\  |  Charlie Miller Dennis Mack\\ Doug Koch\\ Duane Frederick\\ Gregory Morris\\ Jim Nickel\\ Mark Sweeting\\ Randall Ivey\\  |
+|{{topic>en:bible:notes:key-terms?draft1&nocomments}}  |{{topic>en:bible:notes:key-terms?draft2&nocomments}}  |{{topic>en:bible:notes:key-terms?draft3&nocomments}}  |
 
 
-==== Draft Terms (Group A and B): ====
-
-{{topic>en:bible:notes:key-terms?draft&date}}{{tag>kt101}}
+{{tag>kt101}}
