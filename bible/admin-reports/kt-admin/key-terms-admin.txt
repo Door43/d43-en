@@ -30,6 +30,6 @@ The following query checks the first tag to be one of 6 valid tags required to m
 
 The following query checks that every page that has curly braces"{}" include the key word "tag>".
 
-{{pagequery>ns:en:bible:notes:key-terms "{{" -"{{tag>"; fulltext; sort=title:asc; display={title}; natsort; layout=table; showcount; hidemsg; hidejump;}}
+{{pagequery>ns:en:bible:notes:key-terms -exclude:home "{{" -"{{tag>"; fulltext; sort=title:asc; display={title}; natsort; layout=table; showcount; hidemsg; hidejump;}}
 
 \\
