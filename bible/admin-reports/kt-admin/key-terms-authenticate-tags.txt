@@ -8,7 +8,7 @@ To find key terms that are not properly tagged Create, Draft, Review, Discuss, o
 
 ~~NOCACHE~~
 
-{{count>create new draft review discuss publish &en:bible:notes:key-terms}}
+{{count>+ &en:bible:notes:key-terms}}
 
 ==== Check for Bad Tags ====
 
