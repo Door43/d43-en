@@ -15,13 +15,13 @@ Lists all the key terms and tags sorted by Status tag. Good for reviewing all th
 
 ==== Draft 1-3 ====
 
-{{count>new&en:bible:notes:key-terms}}
+{{count>draft1&en:bible:notes:key-terms}}
 {{topic>en:bible:notes:key-terms?draft1&nocomments&list&tags}}
 
-{{count>new&en:bible:notes:key-terms}}
-{{topic>en:bible:notes:key-terms?draft3&nocomments&list&tags}}
+{{count>draft2&en:bible:notes:key-terms}}
+{{topic>en:bible:notes:key-terms?draft2&nocomments&list&tags}}
 
-{{count>draft&en:bible:notes:key-terms}}
+{{count>draft3&en:bible:notes:key-terms}}
 {{topic>en:bible:notes:key-terms?draft3&nocomments&list&tags}}
 
 ==== REVIEW ====
