@@ -17,8 +17,10 @@
 ===== UDB: =====
 
 <usfm>
-\v 1-2 Yahweh, I have heard about you;
-\q1 I revere you because of all the amazing things that you have done.
+\v1 A lamentation prayer sung by Habakkuk
+\p
+\v2 Yahweh, I have heard about you;
+\q1 and I revere you because of all the amazing things that you have done.
 \q2 In our time, do again some of those things that you did long ago!
 \q1 Even when you are angry with us,
 \q2 act mercifully toward us!
@@ -38,8 +40,7 @@
 [[Shigionoth is an obscure term usually left untranslated, but this might be confusing for a MTT. The sense seems to be that this is some form of lamentation, so I went with that interpretation. We can change this if you think it would be better that way.]]
 \q
 \v 2 Yahweh, I have heard your report, and I am afraid!
-\q Yahweh, revive your work in the midst of these times,
-\q In the midst of these times make it known;
+\q Yahweh, revive your work in the midst of these times, in the midst of these times make it known;
 \q remember compassion in your wrath!
 </usfm>
 
