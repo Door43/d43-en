@@ -14,7 +14,7 @@ The second checking level is an external check made by three church leaders who 
 The third checking level is an authenticated check with two possible tracks. In the first track, leaders of three church networks must sign off on the translation. In the second track, one leader of a church network and one trained translation checker must sign off on the translation. In both tracks, the translation is again thoroughly checked to make sure that translated work is an accurate translation of the source text and that the translation is in line with the Statement of Faith and the Translation Guidelines.
 
 ==== Copyrights & Licensing ====
-[[:en:ta:translation-manual:before#Copyrights & Licensing|(view)]] The terms and conditions which govern unfoldingWord content. 
+[[en:ta:before#Copyrights & Licensing|(view)]] The terms and conditions which govern unfoldingWord content. 
 
 ==== Door43 ====
 [[https://door43.org|(website)]], an online translation platform where anyone can collaborate in the translation and checking of open-licensed Biblical content. This website can be extended to host translation projects for every language of the world. 
@@ -35,7 +35,7 @@ once a translation is complete, it shortly is available for download in a variet
 The language from which a translation is made.
 
 ==== Statement of Faith ==== 
-[[:en:ta:translation-manual:before#Statement of Faith|(view)]], The statement of faith is a basic explanation of the beliefs that are subscribed to by all member organizations of and contributors to the [[http://unfoldingword.org|unfoldingWord]] project. It is in agreement with the [[http://www.lausanne.org/en/documents/lausanne-covenant.html|Lausanne Covenant]].
+[[en:ta:before#Statement of Faith|(view)]], The statement of faith is a basic explanation of the beliefs that are subscribed to by all member organizations of and contributors to the [[http://unfoldingword.org|unfoldingWord]] project. It is in agreement with the [[http://www.lausanne.org/en/documents/lausanne-covenant.html|Lausanne Covenant]].
 
 ==== Target Language ====
 The language into which a translation is made.
@@ -44,7 +44,7 @@ The language into which a translation is made.
 [[http://distantshores.org/translationKeyboard|(website)]], a customizable keyboard for mobile devices that enables users to input text in any language. Available for [[https://play.google.com/store/apps/details?id=org.distantshoresmedia.translationkeyboard&hl=en|Android]].
 
 ==== Translation Guidelines ====
-[[:en:ta:translation-manual:before#Translation Guidelines|(view)]], The translation guidelines is a statement on the principles and procedures used in translation is subscribed to by all member organizations of and contributors to the [[http://unfoldingword.org|unfoldingWord]] project. All translation activities are carried out according to these common guidelines.
+[[en:ta:before#Translation Guidelines|(view)]], The translation guidelines is a statement on the principles and procedures used in translation is subscribed to by all member organizations of and contributors to the [[http://unfoldingword.org|unfoldingWord]] project. All translation activities are carried out according to these common guidelines.
 
 ==== Translation Notes ====
 Certain unfoldingWord translation projects (e.g. Bible translation, [[:en:obs:notes|Open Bible Stories]]) are accompanied by translation notes which help to explain the linguistic, cultural, and historical context to the translator so that a more accurate translation can be made.
@@ -61,4 +61,4 @@ Certain unfoldingWord translation projects (e.g. Bible translation, [[:en:obs:no
 ==== Version ==== 
 A version refers to a variation in the text that differs from an earlier form of the same text. unfoldingWord uses versions for all of its projects to more easily track changes that have been made.
 
-Continue to [[:en:ta:translation-manual:before|Before Translating]]
+Continue to [[en:ta:before|Before Translating]]
