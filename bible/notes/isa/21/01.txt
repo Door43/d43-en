@@ -44,11 +44,17 @@
 ===== ULB: =====
 
 <usfm>
-\c 21
+\c 21  
 \p
-\v 1 The oracle of the desert by the sea.
-\p Like stormwinds from the Nege it comes passing through from the desert, from a terrible land.
-\v 2 A distressing vision has been told to me; the treacherous man deals treacherously, and the destroyer destroys. Go up, Elam; besiege, Media; I will stop all her groaning.
+\v 1 A declaration about the desert by the sea.
+\p 
+\q1 Like stormwinds from the Negev it comes 
+\q1 passing through from the desert, from a terrible land.
+\q1
+\v 2 A distressing vision has been given to me: 
+\q1 the treacherous man deals treacherously, and the destroyer destroys. 
+\q1 Go up and attack, Elam; besiege, Media; 
+\q1 I will stop all her groaning.
 </usfm>
 
 
