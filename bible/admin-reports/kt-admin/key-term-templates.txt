@@ -1,38 +1,5 @@
 ====== Key Terms: Templates ======
 
-**note:** This page and job description has been revised to current procedures (8Jan15).
-===== Procedures =====
-
-  - The Key Term Link and Page Master (LPM) will handle the hyperlink and page creation as necessary.
-  - Creation of pages will normally be tagged as "create" following the template specified on this page. See templates.
-  - Each week "create" tagged key term pages will be promoted to "draft" as those pages are needed to support the Notes Teams efforts.
-  - It is up to the KT team leader to promote pages from "draft" to "publish"
-  - At "publish" stage, a check will be made to create all x-ref hyperlinks and remove the "ktlink" tag.
-
-==== Pagename (urlname) naming conventions ====
-
-The key term pagename (urlname) naming convention is:
-
-  - for a single word, the pagename is the key term in lower case letters.
-  - for a multi-word phrase, the pagename is the words without spaces, hyphens, or other breaks (ex: kingdomofJudah).
-
-==== Create KT Pages ====
-
-  - create a new kt page with the following link: <nowiki>https://door43.org/en/bible/notes/key-terms/urlname</nowiki>
-  - enter edit mode and copy one of the two templates listed below into the new key term edit window.
-  - edit the header to the full key term name
-  - edit the line <nowiki>{{topic>URLterm&nocomments}}</nowiki> by changing "URLterm" to the pagename (urlname).
-  - determine if the KT is to be tagged "create" or "draft"
-      - If this KT is to be tagged "create" delete the Line <nowiki>{{tag>draft ktlink}}</nowiki> and edit the line <nowiki>{{tag>create BIBnn ktlink}}</nowiki> to the bible reference that this first discovered. Example: <nowiki>{{tag>create gen01 ktlink}}</nowiki>
-      - If this KT is to be tagged "draft" delete the line <nowiki>{{tag>create BIBnn ktlink}}</nowiki>.
-
-==== Create cross references (hyperlinks) ====
-
-  - After the key term has been promoted to "publish" check for cross references that need to be converted into links. Example (See also: Adam, Eve)
-  - Find the pagename (urlname) of the Key term on <nowiki>https://www.door43.org/en/bible/admin-reports/00-key-term-and-tag-names</nowiki>
-  - substitute the name with the follow link syntax <nowiki>[[:en:bible:notes:key-terms:urlname]]</nowiki>. Example: Adam will become <nowiki>[[:en:bible:notes:key-terms:adam]]</nowiki> and Eve will become <nowiki>[[:en:bible:notes:key-terms:eve]]</nowiki>. the full hyperlink will be:
-      - <nowiki>(See also: [[:en:bible:notes:key-terms:adam]], [[:en:bible:notes:key-terms:eve]])</nowiki>
-
 ==== Key Term Template ====
 
 The code for the Key Term is:
