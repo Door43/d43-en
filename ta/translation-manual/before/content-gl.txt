@@ -1,0 +1,34 @@
+==== Everything That Needs To Be Translated for Gateway Languages ====
+
+If your language is a Gateway Language, then your language will serve as a source text for other languages to translate. As a result, more content needs to be translated and all of it needs to be checked to Level 3 before it can be used as a source text for another language. Below is a list of everything that needs to be translated into each Gateway Language: 
+
+Door43/translationStudio
+  * [[en:obs:app_words|App Words]]
+  * [[en:obs-training:questions:home?do=register|Register as New User]]
+  * [[en:get-started|How to Get Started]]
+  * [[en:obs:help|Help Page]]
+  * [[en:ta:translation-manual|Translation Manual]]
+  * [[en:statement-of-faith|Statement of Faith]]
+  * [[en:translation-guidelines|Translation Guidelines]]
+  * [[en:legal:license|Copyright & Licensing Information]]
+
+
+Open Bible Stories (OBS)
+  * [[en:obs|OBS Text]]
+  * [[en:obs:front-matter|Front Matter]]
+  * [[en:obs:back-matter|Back Matter]]
+  * [[en:obs:notes|OBS Translation Notes]]
+  * [[en:obs:notes:key-terms:home|OBS Important Terms]]
+  * [[en:obs-training:questions:home|OBS Comprehension Questions]]
+
+unfoldingWord Literal Bible (ULB)
+  * [[:en:ulb:home|ULB Text]]
+  * [[:en:bible:notes:home|Bible Translation Notes]]
+  * [[:en:bible:notes:key-terms:home|Bible Important Terms]]
+  * [[:en:bible:notes:gen:questions:comprehension:01|Bible Comprehension Questions]]
+
+unfoldingWord Dynamic Bible (UDB)
+  * [[:en:udb:home|UDB Text]]
+
+translationAcademy (tA)
+  * [[:en:ta|tA Text]]
