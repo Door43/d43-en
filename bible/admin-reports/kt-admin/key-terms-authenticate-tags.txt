@@ -4,6 +4,10 @@
 
 To find key terms that are not properly tagged Create, Draft, Review, Discuss, or Publish.
 
+{status} = create, draft1, draft2, draft3, review, discuss, publish\\
+{bibnn} = act01, gen02 (examples)\\
+{ktlink} = ktlink
+
 ==== Tag count of Key Term Pages ====
 
 ~~NOCACHE~~
