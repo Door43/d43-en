@@ -7,7 +7,7 @@
   * [[:en:bible:admin-reports:kt-admin:key-terms-admin]]
   * [[:en:bible:admin-reports:kt-admin:key-terms-draft]]
 
-{{count>create newa newb draft review discuss publish&en:bible:notes:key-terms}}
+{{count>create draft1 draft2 draft3 review discuss publish&en:bible:notes:key-terms}}
 
 
 ==== Genesis Admin ====
@@ -17,7 +17,7 @@
   * [[:en:bible:admin-reports:questions-comprehension:gen]]
   * [[:en:bible:notes:gen:01:01]]
 
-{{count>review discuss publish&en:bible:notes:gen}}
+{{count>draft review discuss publish&en:bible:notes:gen}}
 
 
 ==== Acts Admin ====
@@ -27,28 +27,28 @@
   * [[:en:bible:admin-reports:questions-comprehension:act]]
   * [[:en:bible:notes:act:01:01]]
 
-{{count>review discuss publish&en:bible:notes:act}}
+{{count>draft review discuss publish&en:bible:notes:act}}
 
 
-=== 1 Timothy ===
+==== 1 Timothy ====
 
   * [[:en:bible:admin-reports:notes-admin:1ti]]
   * [[:en:bible:admin-reports:questions-comprehension:1ti]]
   * [[:en:bible:notes:1ti:01:01]]
 
-{{count>review discuss publish&en:bible:notes:1ti}}
+{{count>draft review discuss publish&en:bible:notes:1ti}}
 
 
-=== 2 Timothy ===
+==== 2 Timothy ====
 
   * [[:en:bible:admin-reports:notes-admin:2ti]]
   * [[:en:bible:admin-reports:questions-comprehension:2ti]]
   * [[:en:bible:notes:2ti:01:01]]
 
-{{count>review discuss publish&en:bible:notes:2ti}}
+{{count>draft review discuss publish&en:bible:notes:2ti}}
 
 
-=== Galatians ===
+==== Galatians ====
 
   * [[:en:bible:admin-reports:notes-admin:gal]]
   * [[:en:bible:admin-reports:assignment:gal]]
@@ -56,4 +56,4 @@
   * [[:en:bible:notes:gal:01:01]]
 
 
-{{count>review discuss publish&en:bible:notes:gal}}
+{{count>draft review discuss publish&en:bible:notes:gal}}
