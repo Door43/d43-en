@@ -3,7 +3,7 @@
 ~~NOCACHE~~
 
 
-==== Ruth Pages Status ====
+==== Matthew Pages Status ====
 
 ^  Draft  ^  Review  ^  Discuss  ^  Publish  ^
 |{{pagequery>ns:en:bible:notes:mat "{{tag>draft"; fulltext; sort=title:asc; display={title}; natsort; showcount; hidemsg; hidejump;}}  |{{pagequery>ns:en:bible:notes:mat "{{tag>review"; fulltext; sort=title:asc; display={title}; natsort; showcount; hidemsg; hidejump;}}  |{{pagequery>ns:en:bible:notes:mat "{{tag>discuss"; fulltext; sort=title:asc; display={title}; natsort; showcount; hidemsg; hidejump;}}  |{{pagequery>ns:en:bible:notes:mat"{{tag>publish"; fulltext; sort=title:asc; display={title}; natsort; showcount; hidemsg; hidejump;}}  |
