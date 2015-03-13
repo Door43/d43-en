@@ -1,6 +1,6 @@
 ====== Translation Manual for unfoldingWord Projects ======
 
-  * [[:en:ta:translation-manual:intro|Introduction to unfoldingWord]]
+  * [[intro|Introduction to unfoldingWord]]
   * [[:en:ta:translation-manual:before|Before Translating]]
     * [[:en:ta:translation-manual:before:statement_of_faith|Statement of Faith]]
     * [[:en:ta:translation-manual:before:translation_guidelines|Translation Guidelines]]
@@ -18,7 +18,7 @@
     * [[en:ta:translation-manual:before:ts|translationStudio]]
   * [[en:ta:translation-manual:before:update|How to Update from a Previous Version]]
 
-  * [[:en:ta:translation-manual:translate|How to Translate]]
+  * [[translate|How to Translate]]
 
   * [[:en:ta:translation-manual:check|How to Check]]
     * [[:en:ta:translation-manual:check:level1|Level 1]]
