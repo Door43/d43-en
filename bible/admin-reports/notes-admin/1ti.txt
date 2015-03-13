@@ -6,7 +6,7 @@
 ==== 1 Timothy Pages Status ====
 
 ^  Draft  ^  Review  ^  Discuss  ^  Publish  ^
-|{{pagequery>ns:en:bible:notes:1ti "{{tag>draft"; fulltext; sort=title:asc; display={title}; natsort; showcount; hidemsg; hidejump;}}  |{{pagequery>ns:en:bible:notes:1ti "{{tag>review"; fulltext; sort=title:asc; display={title}; natsort; showcount; hidemsg; hidejump;}}  |{{pagequery>ns:en:bible:notes:1ti "{{tag>discuss"; fulltext; sort=title:asc; display={title}; natsort; showcount; hidemsg; hidejump;}}  |{{pagequery>ns:en:bible:notes:1ti "{{tag>publish"; fulltext; sort=title:asc; display={title}; natsort; showcount; hidemsg; hidejump;}}  |
+|{{pagequery>ns:en:bible:notes:1ti -ns:en:bible:notes:1ti:questions:comprehension "{{tag>draft"; fulltext; sort=title:asc; display={title}; natsort; showcount; hidemsg; hidejump;}}  |{{pagequery>ns:en:bible:notes:1ti -ns:en:bible:notes:1ti:questions:comprehension "{{tag>review"; fulltext; sort=title:asc; display={title}; natsort; showcount; hidemsg; hidejump;}}  |{{pagequery>ns:en:bible:notes:1ti -ns:en:bible:notes:1ti:questions:comprehension "{{tag>discuss"; fulltext; sort=title:asc; display={title}; natsort; showcount; hidemsg; hidejump;}}  |{{pagequery>ns:en:bible:notes:1ti -ns:en:bible:notes:1ti:questions:comprehension "{{tag>publish"; fulltext; sort=title:asc; display={title}; natsort; showcount; hidemsg; hidejump;}}  |
 
 
 ==== Check on bad tags ====
