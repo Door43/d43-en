@@ -17,7 +17,7 @@ Here are some important tips to remember when working with Checking Levels:
   * Only translations that have reached Checking Level 1 (Checking Level 2 for Bible translations) or higher will be made available on the [[https://unfoldingword.org/stories|unfoldingWord website]] and the unfoldingWord mobile app.
   * Only translations that have reached Checking Level 3 will be approved as source texts for other translations.
   * When a Checking Level has been completed and all appropriate edits have been made to door43, the checkers will inform unfoldingWord of the details of the check. unfoldingWord will harvest a copy of what is on door43, digitally publish a static copy of it on the [[https://unfoldingword.org/stories|unfoldingWord website]] and made available on the unfoldingWord mobile app. A print-ready PDF will also be produced and made available for download. The checked version on door43 will remain fluid, allowing for future checking and editing.
-  * For Open Bible Stories projects: Only Open Bible Stories translations that have been made off of version 3.0 or higher are eligible to be checked to Level 1 (or higher). Translations made off of versions before 3.0 [[:en:ta:translation-manual:update|must be updated]] before proceeding with Checking Levels.
+  * For Open Bible Stories projects: Only Open Bible Stories translations that have been made off of version 3.0 or higher are eligible to be checked to Level 1 (or higher). Translations made off of versions before 3.0 [[en:ta:translation-manual:before:update|must be updated]] before proceeding with Checking Levels.
 
 ==== The Checking Levels ====
 
@@ -35,6 +35,6 @@ The three-level checking scale we use is dependent on the unfoldingWord [[:en:st
 
 The process and checking framework described in this document depends on an ongoing process of checking and revising content, as determined by the Church that uses the content. Feedback loops are encouraged (and modeled in translation software, where feasible) with a view to maximizing input from the greatest number of users of the content. The translations of the content are made available on the [[http://door43.org|Door43]] translation platform, which is designed to make it easy for users to collaboratively create content that increases in quality over time.
 
-//Continue to [[:en:ta:translation-manual:update|How to Update a Previous Version]]//
+//Continue to [[en:ta:translation-manual:before:update|How to Update a Previous Version]]//
 
 ~~DISCUSSION~~
