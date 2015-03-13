@@ -24,13 +24,10 @@ Edit the bible reference tags to create a list of key terms to promote to draft.
 
 ==== Acts Markup ====
 
-{{topic>create +act09 &tags&nocomments}}
 {{topic>create +act10 &tags&nocomments}}
-{{topic>create +act11 &tags&nocomments}}
 
-==== Timothy Markup ====
+==== Galatians Markup ====
 
-{{topic>create +gal04 &tags&nocomments}}
 {{topic>create +gal05 &tags&nocomments}}
 
 
