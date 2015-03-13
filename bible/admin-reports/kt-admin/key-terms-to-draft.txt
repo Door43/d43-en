@@ -15,20 +15,22 @@ Edit the bible reference tags to create a list of key terms to promote to draft.
   - Save and close the key term page.
   - Repeat until all terms have been edited.
 
+==== Release Date 3/18 for Key Terms Teams ====
+
 ==== Genesis Markup ====
 
-{{topic>create +gen16 &tags&nocomments}}
-{{topic>create +gen17 &tags&nocomments}}
-{{topic>create +gen18 &tags&nocomments}}
+{{topic>create +gen19 &tags&nocomments}}
+{{topic>create +gen20 &tags&nocomments}}
+{{topic>create +gen21 &tags&nocomments}}
 
 
 ==== Acts Markup ====
 
-{{topic>create +act10 &tags&nocomments}}
+{{topic>create +act11 &tags&nocomments}}
 
 ==== Galatians Markup ====
 
-{{topic>create +gal05 &tags&nocomments}}
+{{topic>create +gal06 &tags&nocomments}}
 
 
 \\ 
