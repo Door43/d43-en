@@ -9,8 +9,8 @@
 ==== Acts Pages Status ====
 
 
-^  Review Pages  ^  Discuss Pages  ^  Publish Pages  ^
-|{{topic>en:bible:notes:act?review&nocomments}}  |{{topic>en:bible:notes:act?discuss&nocomments}}  |{{topic>en:bible:notes:act?publish&nocomments}}  |
+^  Draft  ^  Review  ^  Discuss  ^  Publish  ^
+|{{topic>en:bible:notes:act?review&nocomments}}  |{{topic>en:bible:notes:act?review&nocomments}}  |{{topic>en:bible:notes:act?discuss&nocomments}}  |{{topic>en:bible:notes:act?publish&nocomments}}  |
 
 
 ==== Check on bad tags ====
