@@ -17,12 +17,22 @@ Edit the bible reference tags to create a list of key terms to promote to draft.
 
 ==== Genesis Markup ====
 
-{{topic>create +gen03 &tags&nocomments}}
+{{topic>create +gen09 &tags&nocomments}}
+{{topic>create +gen10 &tags&nocomments}}
+{{topic>create +gen11 &tags&nocomments}}
+
 
 ==== Acts Markup ====
 
-{{topic>create +act05 &tags&nocomments}}{{topic>create +act06 &tags&nocomments}}{{topic>create +act07 &tags&nocomments}}{{topic>create +act08 &tags&nocomments}}
+{{topic>create +act10 &tags&nocomments}}
+{{topic>create +act11 &tags&nocomments}}
+{{topic>create +act12 &tags&nocomments}}
+{{topic>create +act13 &tags&nocomments}}
 
 ==== Timothy Markup ====
 
-{{topic>create +1ti06 &tags&nocomments}}
+{{topic>create +gal05 &tags&nocomments}}
+{{topic>create +gal06 &tags&nocomments}}
+
+
+\\ 
