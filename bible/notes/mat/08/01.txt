@@ -2,29 +2,15 @@
 
 ===== TFT: =====
 
-<usfm>
-\v 1 When Jesus went down from the hillside, large crowds followed him.
-\v 2 \add After he left the crowds\add*, a man who had \add the skin disease called\add* leprosy unexpectedly came and knelt before him. He said \add to Jesus\add*, "Lord\f + \ft Or: Sir \f*, \add please heal me, because I know\add* you are able to heal me if you are willing to."
-\v 3 Then Jesus, \add disregarding the religious law that forbade people to come close to lepers\add*, stretched out his hand and touched the man. He said \add to him\add*, "I am willing to \add heal you\add*, and I heal you \add now\add*!" Immediately the man was healed from his leprosy \f + \ft Or:he was no longer a leper \f*.
-</usfm>
+<usfm> \v 1 When Jesus went down from the hillside, large crowds followed him. \v 2 \add After he left the crowds\add*, a man who had \add the skin disease called\add* leprosy unexpectedly came and knelt before him. He said \add to Jesus\add*, "Lord\f + \ft Or: Sir \f*, \add please heal me, because I know\add* you are able to heal me if you are willing to." \v 3 Then Jesus, \add disregarding the religious law that forbade people to come close to lepers\add*, stretched out his hand and touched the man. He said \add to him\add*, "I am willing to \add heal you\add*, and I heal you \add now\add*!" Immediately the man was healed from his leprosy \f + \ft Or:he was no longer a leper \f*. </usfm>
 
 ===== UDB: =====
 
-<usfm>
-\v 1 When Jesus went down from the hillside, a large crowd followed him.
-\v 2 After Jesus left the crowds, a man who had a skin disease came and knelt before him. He said to Jesus, "Lord, please heal me, because I know you are able to heal me if you are willing to."
-\v 3 Then Jesus disobeyed the law that kept the sick man from healthy people; he stretched out his hand and touched the man. He said to him, "I am willing to heal you, and I heal you now!" Immediately the man was healed from his sickness.
-</usfm>
+<usfm> \v 1 When Jesus went down from the hillside, a large crowd followed him. \v 2 After Jesus left the crowds, a man who had a skin disease came and knelt before him. He said to Jesus, "Lord, please heal me, because I know you are able to heal me if you are willing to." \v 3 Then Jesus disobeyed the law that kept the sick man from healthy people; he stretched out his hand and touched the man. He said to him, "I am willing to heal you, and I heal you now!" Immediately the man was healed from his sickness. </usfm>
 
 ===== ULB: =====
 
-<usfm>
-\c 8
-\p
-\v 1 When Jesus had come down from the hill, a large crowd followed him.
-\v 2 Behold, a leper came to him, bowed before him, saying, "Lord, if you are willing, you can make me clean."
-\v 3 Jesus reached out his hand and touched him, saying, "I am willing. Be clean." Immediately he was cleansed of his leprosy.
-</usfm>
+<usfm> \c 8 \p \v 1 When Jesus had come down from the hill, a large crowd followed him. \v 2 Behold, a leper came to him, bowed before him, saying, "Lord, if you are willing, you can make me clean." \v 3 Jesus reached out his hand and touched him, saying, "I am willing. Be clean." Immediately he was cleansed of his leprosy. </usfm>
 
 ===== Important Terms: =====
 
@@ -35,13 +21,19 @@
   * [[:en:bible:notes:key-terms:lord|Lord]]
   * [[:en:bible:notes:key-terms:clean|clean, cleansed]]
 
-__false__
+===== Translation Notes: =====
 
+Jesus has finished his teaching to the crowds on the hillside.
+
+  * **if you are willing **  - this could be translated "if you want to" or "if you desire". The leper believes that Jesus has the power to heal him if he wants to.
+  * **you can make me clean**  - <font 14px line-height: 19.6000003814697px/inherit;;inherit;;inherit>this could be translated</font>    "you can heal me"
+  * **immediately**  - "right away"
+  * **he was cleansed**  - This means that Jesus cleansed (or "healed") the leper. (See: Passive/Active)
 ===== Links: =====
 
   * **[[:en:bible:notes:mat:questions:comprehension:08|Matthew Chapter 08 Comprehension Questions]]**
 **[[:en:bible:notes:mat:07:28|<<]] | [[:en:bible:notes:mat:08:04|>>]]**
 
-~~DISCUSSION~~{{tag>review jesus behold leprosy falldown lord clean }}
+{{tag>review jesus behold leprosy falldown lord clean }}
 
 ~~NOCACHE~~
