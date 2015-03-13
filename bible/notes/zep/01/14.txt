@@ -48,11 +48,17 @@
 
 <usfm>
 \p
+\q
 \v 14 The great day of Yahweh is near! Near and quickly hastening!
-The sound of the day of Yahweh will be that of a warrior crying bitterly!
-\v 15 That day will be a day of fury, a day of distress and anguish, a day of storm and desolation, a day of darkness and gloom, a day of clouds and billowing darkness!
+\q The sound of the day of Yahweh will be that of a warrior crying bitterly!
+\q
+\v 15 That day will be a day of fury, a day of distress and anguish, 
+\q a day of storm and desolation, a day of darkness and gloom, 
+\q a day of clouds and billowing darkness!
 [["Billowing darkness" is a bit unusual, but I wanted something that captured both the connotation of cloudiness and darkness better than "thick". Suggestions?]]
-\v 16 It will be a day of the trumpet and alarm against the fortified cities and the high battlements!
+\q
+\v 16 It will be a day of the trumpet and alarm 
+\q against the fortified cities and the high battlements!
 </usfm>
 
 
