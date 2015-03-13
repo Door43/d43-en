@@ -2,7 +2,7 @@
 
 ==== Key Term Template ====
 
-The code for the Key Term is:
+The code for creating a Key Term link is:
 
 <code>
 [[:en:bible:notes:key-terms:term|term title]]
