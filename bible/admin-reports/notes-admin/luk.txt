@@ -6,7 +6,7 @@
 ==== Luke Pages Status ====
 
 ^  Draft  ^  Review  ^  Discuss  ^  Publish  ^
-|{{pagequery>ns:en:bible:notes:luk "{{tag>draft"; fulltext; sort=title:asc; display={title}; natsort; showcount; hidemsg; hidejump;}}  |{{pagequery>ns:en:bible:notes:luk "{{tag>review"; fulltext; sort=title:asc; display={title}; natsort; showcount; hidemsg; hidejump;}}  |{{pagequery>ns:en:bible:notes:luk "{{tag>discuss"; fulltext; sort=title:asc; display={title}; natsort; showcount; hidemsg; hidejump;}}  |{{pagequery>ns:en:bible:notes:luk "{{tag>publish"; fulltext; sort=title:asc; display={title}; natsort; showcount; hidemsg; hidejump;}}  |
+|{{pagequery>ns:en:bible:notes:luk -ns:en:bible:notes:luk:questions:comprehension "{{tag>draft"; fulltext; sort=title:asc; display={title}; natsort; showcount; hidemsg; hidejump;}}  |{{pagequery>ns:en:bible:notes:luk -ns:en:bible:notes:luk:questions:comprehension "{{tag>review"; fulltext; sort=title:asc; display={title}; natsort; showcount; hidemsg; hidejump;}}  |{{pagequery>ns:en:bible:notes:luk -ns:en:bible:notes:luk:questions:comprehension "{{tag>discuss"; fulltext; sort=title:asc; display={title}; natsort; showcount; hidemsg; hidejump;}}  |{{pagequery>ns:en:bible:notes:luk -ns:en:bible:notes:luk:questions:comprehension "{{tag>publish"; fulltext; sort=title:asc; display={title}; natsort; showcount; hidemsg; hidejump;}}  |
 
 
 ==== Check on bad tags ====
