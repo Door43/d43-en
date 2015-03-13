@@ -4,9 +4,8 @@
 
 ==== Acts Pages Status ====
 
-
 ^  Draft  ^  Review  ^  Discuss  ^  Publish  ^
-|{{topic>en:bible:notes:act?review&nocomments}}  |{{topic>en:bible:notes:act?review&nocomments}}  |{{topic>en:bible:notes:act?discuss&nocomments}}  |{{topic>en:bible:notes:act?publish&nocomments}}  |
+|{{pagequery>ns:en:bible:notes:act -ns:en:bible:notes:act:questions:comprehension "{{tag>draft"; fulltext; sort=title:asc; display={title}; natsort; showcount; hidemsg; hidejump;}}  |{{pagequery>ns:en:bible:notes:act -ns:en:bible:notes:act:questions:comprehension "{{tag>review"; fulltext; sort=title:asc; display={title}; natsort; showcount; hidemsg; hidejump;}}  |{{pagequery>ns:en:bible:notes:act -ns:en:bible:notes:act:questions:comprehension "{{tag>discuss"; fulltext; sort=title:asc; display={title}; natsort; showcount; hidemsg; hidejump;}}  |{{pagequery>ns:en:bible:notes:act -ns:en:bible:notes:act:questions:comprehension "{{tag>publish"; fulltext; sort=title:asc; display={title}; natsort; showcount; hidemsg; hidejump;}}  |
 
 
 ==== Check on bad tags ====
