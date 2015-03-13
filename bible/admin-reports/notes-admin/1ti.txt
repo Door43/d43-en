@@ -6,7 +6,7 @@
 ==== 1 Timothy Pages Status ====
 
 ^  Draft  ^  Review  ^  Discuss  ^  Publish  ^
-|{{topic>en:bible:notes:1ti?draft&nocomments}} |{{topic>en:bible:notes:1ti?review&nocomments}} |{{topic>en:bible:notes:1ti?discuss&nocomments}} |{{topic>en:bible:notes:1ti?publish&nocomments}} |
+|{{pagequery>ns:en:bible:notes:1ti "{{tag>draft"; fulltext; sort=title:asc; display={title}; natsort; showcount; hidemsg; hidejump;}}  |{{pagequery>ns:en:bible:notes:1ti "{{tag>review"; fulltext; sort=title:asc; display={title}; natsort; showcount; hidemsg; hidejump;}}  |{{pagequery>ns:en:bible:notes:1ti "{{tag>discuss"; fulltext; sort=title:asc; display={title}; natsort; showcount; hidemsg; hidejump;}}  |{{pagequery>ns:en:bible:notes:1ti "{{tag>publish"; fulltext; sort=title:asc; display={title}; natsort; showcount; hidemsg; hidejump;}}  |
 
 
 ==== Check on bad tags ====
