@@ -10,7 +10,7 @@
 
 ==== Check on bad tags ====
 
-This query checks the first tag to be one of 4 valid tags required to make the system work correctly: {create|draft|review|discuss|publish}. Any verses listed here are likely being overlooked above. please include this query for every bible book admin page. (EQ)
+This query checks the first tag to be one of 4 valid tags required to make the system work correctly: {create|draft|review|discuss|publish}. Any verses listed here are likely being overlooked above. Please include this query for every bible book admin page. (EQ)
 
 {{pagequery>ns:en:bible:notes "{{tag>" -"{{tag>create" -"{{tag>draft" -"{{tag>draft1" -"{{tag>draft2" -"{{tag>draft3" -"{{tag>review" -"{{tag>discuss" -"{{tag>publish"; fulltext; sort=title:asc; display={title}; natsort; layout=table; showcount; hidemsg; hidejump;}}
 
