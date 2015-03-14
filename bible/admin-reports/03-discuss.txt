@@ -4,7 +4,14 @@
 
 ==== Location ====
 
-|  **KT's**    |  **Acts**    |  **Genesis**    |**2 Timothy**   |
-|{{topic>en:bible:notes:key-terms?discuss&nocomments}} |{{topic>en:bible:notes:act?discuss&nocomments}} |{{topic>en:bible:notes:gen?discuss&nocomments}} |{{topic>en:bible:notes:2ti?discuss&nocomments}} |
+^  KT's**   ^  Books  ^
+|{{pagequery>ns:en:bible:notes:key-terms "{{tag>discuss"; fulltext; sort=title:asc; display={title}; natsort; showcount; hidemsg; hidejump;}}  |{{pagequery>ns:en:bible:notes "{{tag>discuss"; fulltext; sort=title:asc; display={title}; natsort; showcount; hidemsg; hidejump;}}  |
+
+
+==== Check on bad tags ====
+
+This query checks the first tag to be one of 4 valid tags required to make the system work correctly: {draft|review|discuss|publish}. Any verses listed here are likely being overlooked above. please include this query for every bible book admin page. (EQ)
+
+{{pagequery>ns:en:bible:notes "{{tag>" -"{{tag>draft" -"{{tag>review" -"{{tag>discuss" -"{{tag>publish"; fulltext; sort=title:asc; display={title}; natsort; layout=table; showcount; hidemsg; hidejump;}}
 
 \\
