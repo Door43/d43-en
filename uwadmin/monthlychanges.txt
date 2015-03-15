@@ -85,6 +85,8 @@
 {{changes>ns=gaj-x-aygm:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:gaj-x-kamu:obs|gaj-x-kamu OBS]]**
 {{changes>ns=gaj-x-kamu:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
+**[[:gaj-x-ymnk:obs|gaj-x-ymnk OBS]]**
+{{changes>ns=gaj-x-ymnk:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:gu:obs|gu OBS]]**
 {{changes>ns=gu:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:guz:obs|guz OBS]]**
