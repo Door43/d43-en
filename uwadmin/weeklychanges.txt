@@ -121,6 +121,9 @@
 **[[:gaj:obs|gaj OBS]]**
 {{changes>ns=gaj:obs&maxage=604800&render=pagelist(header,date,user,nocomments)}}
 
+**[[:gaj-x-aygm:obs|gaj-x-aygm OBS]]**
+{{changes>ns=gaj-x-aygm:obs&maxage=604800&render=pagelist(header,date,user,nocomments)}}
+
 **[[:gu:obs|gu OBS]]**
 {{changes>ns=gu:obs&maxage=604800&render=pagelist(header,date,user,nocomments)}}
 
