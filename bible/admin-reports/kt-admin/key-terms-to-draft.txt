@@ -22,7 +22,7 @@ Edit the bible reference tags to create a list of key terms to promote to draft.
 {{topic>create +gen19 &tags&nocomments}}
 {{topic>create +gen20 &tags&nocomments}}
 {{topic>create +gen21 &tags&nocomments}}
-
+{{topic>create +gen22 &tags&nocomments}}
 
 ==== Acts Markup ====
 
