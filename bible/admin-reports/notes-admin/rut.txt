@@ -2,15 +2,14 @@
 
 ~~NOCACHE~~
 
-==== Ruth Pages Status ====
+==== Ruth Page Status ====
 
-^  **Review Pages**    ^  **Discuss Pages**    ^**Publish Pages**   |
-|{{topic>en:bible:notes:rut?review&nocomments}} |{{topic>en:bible:notes:rut?discuss&nocomments}} |{{topic>en:bible:notes:rut?publish&nocomments}} |
+^  Draft  ^  Review  ^  Discuss  ^  Publish  ^
+|{{pagequery>ns:en:bible:notes:rut -ns:en:bible:notes:rut:questions:comprehension "{{tag>draft"; fulltext; sort=title:asc; display={title}; natsort; showcount; hidemsg; hidejump;}}  |{{pagequery>ns:en:bible:notes:rut -ns:en:bible:notes:rut:questions:comprehension "{{tag>review"; fulltext; sort=title:asc; display={title}; natsort; showcount; hidemsg; hidejump;}}  |{{pagequery>ns:en:bible:notes:rut -ns:en:bible:notes:rut:questions:comprehension "{{tag>discuss"; fulltext; sort=title:asc; display={title}; natsort; showcount; hidemsg; hidejump;}}  |{{pagequery>ns:en:bible:notes:rut -ns:en:bible:notes:rut:questions:comprehension "{{tag>publish"; fulltext; sort=title:asc; display={title}; natsort; showcount; hidemsg; hidejump;}}  |
 
 ==== Check on bad tags ====
-
 This query checks the first tag to be one of 4 valid tags required to make the system work correctly: {draft|review|discuss|publish}. Any verses listed here are likely being overlooked above. please include this query for every bible book admin page. (EQ)
 
 {{pagequery>ns:en:bible:notes:rut "{{tag>" -"{{tag>draft" -"{{tag>review" -"{{tag>discuss" -"{{tag>publish"; fulltext; sort=title:asc; display={title}; natsort; layout=table; showcount; hidemsg; hidejump;}}
 
-\\
+\\ 
