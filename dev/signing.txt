@@ -6,11 +6,17 @@ Overview of digital signatures {{http://en.wikipedia.org/wiki/Digital_signature#
 
 Keys will be generated using [[http://en.wikipedia.org/wiki/Elliptic_Curve_Digital_Signature_Algorithm|ECDSA ]]. And signatures will be hashed with [[http://en.wikipedia.org/wiki/Secure_Hash_Algorithm|SHA384]].
 
+====== Definitions ======
+
+  * **Certificate Authority (CA)**  - The organization that authorizes and verifies the existence of valid Signing Entities. See the wiki on [[http://en.wikipedia.org/wiki/Certificate_authority|Certificate Authority]] for a detailed explanation.
+  * **Signing Organization (SO)**  - An organization or individual that has opted to become a Signing Entity.
+  * **Signing Entity (SE)**  - A Signing Organization that has been authorized by the Certificate Authority to sign content.
+  * **Signing Identity (SI)**  - The digital representation of the Signing Entity that will be distributed for the purpose of verifying the existence of the related Signing Entity.
 ====== Specification ======
 
 Draft 2.
 
-This specification provides details to the process used for verifying approval by known authorities known as Signing Identities.
+This specification provides details to the process used for verifying approval by known authorities known as Signing Entities.
 
 ===== Preparation =====
 
