@@ -1,13 +1,11 @@
-====== Notes: Ruth Admin Page ======
+====== Notes: Titus Admin Page ======
 
 ~~NOCACHE~~
 
-
 ==== Titus Pages Status ====
 
-^  Review Pages    ^  Discuss Pages    ^Publish Pages   ^
+^  Review Pages  ^  Discuss Pages  ^Publish Pages |
 |{{topic>en:bible:notes:tit?review&nocomments}} |{{topic>en:bible:notes:tit?discuss&nocomments}} |{{topic>en:bible:notes:tit?publish&nocomments}} |
-
 
 ==== Check on bad tags ====
 
@@ -15,4 +13,4 @@ This query checks the first tag to be one of 4 valid tags required to make the s
 
 {{pagequery>ns:en:bible:notes:tit "{{tag>" -"{{tag>draft" -"{{tag>review" -"{{tag>discuss" -"{{tag>publish"; fulltext; sort=title:asc; display={title}; natsort; layout=table; showcount; hidemsg; hidejump;}}
 
-\\ 
+\\
