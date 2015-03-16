@@ -1,5 +1,16 @@
 ====== user activity ======
 
+Side bar thought
+
+  * Open Bible Stories
+  * Translation Notes
+  * Bible
+      * Translation Notes
+  * Translation Academy
+  * Translation Manual
+  * Open Bible Lexicon
+  * Open Christian Library
+
 Chris Jarka
 
 {{changes>user=oreo&count=50&render=pagelist(header,date,user,nocomments)&maxage=25920000}}
@@ -8,4 +19,4 @@ Changes this week
 
 **Translation Academy Namespace**
 
- {{changes>ns=en:ta&count=50&maxage=604800&render=pagelist(header,date,user,nocomments)}}
+{{changes>ns=en:ta&count=50&maxage=604800&render=pagelist(header,date,user,nocomments)}}
