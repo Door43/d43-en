@@ -7,24 +7,29 @@
 
 **Resources**
 
-  * [[:en:ta:before:translation-manual|Translation Manual]]
   * [[:en:obs|Open Bible Stories]]
     * [[:en:obs:notes|Translation Notes]]
     * [[en:obs:notes:questions:home|Comprehension Questions]]
   * [[en:bible:home|Bible]]
   * [[:en:lexicon|Open Bible Lexicon]]
   * [[:en:library|Open Christian Library]]
-  * [[:en:ta|Translation Academy]]
+  * [[:en:ta|translationAcademy]]
 
 **About Door43**
 
-  * [[en:get-started|How to Get Started]]
   * [[en:statement-of-faith|Statement of Faith]]
   * [[en:translation-guidelines]]
   * [[en:legal:license|Copyrights & Licensing]]
   * [[en:syntax|Formatting Content]]
   * [[en:tips-tricks|Tips & Tricks]]
   * [[en:technical|Technical Details]]
+
+**Help**
+
+  * [[en:get-started|How to Get Started]]
+  * [[en:ta:before:translation-manual|Translation Manual]]
+  * [[en:obs:help|Open Bible Stories Help]]
+
 
 **Door43 Development**
 
