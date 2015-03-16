@@ -26,11 +26,11 @@ Edit the bible reference tags to create a list of key terms to promote to draft.
 
 ==== Acts Markup ====
 
-{{topic>create +act11 &tags&nocomments}}
+{{topic>create +act12 &tags&nocomments}}
 
-==== Galatians Markup ====
+==== Philippians Markup ====
 
-{{topic>create +gal06 &tags&nocomments}}
+{{topic>create +php1 &tags&nocomments}}
 
 
 \\ 
