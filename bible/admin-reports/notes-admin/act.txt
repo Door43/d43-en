@@ -4,9 +4,8 @@
 
 ==== Acts Pages Status ====
 
-^  Draft  ^  Review  ^  Discuss  ^  Publish  ^
-|{{pagequery>ns:en:bible:notes:act -ns:en:bible:notes:act:questions:comprehension "{{tag>draft"; fulltext; sort=title:asc; display={title}; natsort; showcount; hidemsg; hidejump;}}  |{{pagequery>ns:en:bible:notes:act -ns:en:bible:notes:act:questions:comprehension "{{tag>review"; fulltext; sort=title:asc; display={title}; natsort; showcount; hidemsg; hidejump;}}  |{{pagequery>ns:en:bible:notes:act -ns:en:bible:notes:act:questions:comprehension "{{tag>discuss"; fulltext; sort=title:asc; display={title}; natsort; showcount; hidemsg; hidejump;}}  |{{pagequery>ns:en:bible:notes:act -ns:en:bible:notes:act:questions:comprehension "{{tag>publish"; fulltext; sort=title:asc; display={title}; natsort; showcount; hidemsg; hidejump;}}  |
-
+^  Draft  ^  Review  ^  Discuss  ^  Publish  |
+|{{pagequery>ns:en:bible:notes:act -ns:en:bible:notes:act:questions:comprehension "{{tag>draft"; fulltext; sort=title:asc; display={title}; natsort; showcount; hidemsg; hidejump;}} |{{pagequery>ns:en:bible:notes:act -ns:en:bible:notes:act:questions:comprehension "{{tag>review"; fulltext; sort=title:asc; display={title}; natsort; showcount; hidemsg; hidejump;}} |{{pagequery>ns:en:bible:notes:act -ns:en:bible:notes:act:questions:comprehension "{{tag>discuss"; fulltext; sort=title:asc; display={title}; natsort; showcount; hidemsg; hidejump;}} |{{pagequery>ns:en:bible:notes:act -ns:en:bible:notes:act:questions:comprehension "{{tag>publish"; fulltext; sort=title:asc; display={title}; natsort; showcount; hidemsg; hidejump;}} |
 
 ==== Check on bad tags ====
 
@@ -14,4 +13,4 @@ This query checks the first tag to be one of 4 valid tags required to make the s
 
 {{pagequery>ns:en:bible:notes:act "{{tag>" -"{{tag>draft" -"{{tag>review" -"{{tag>discuss" -"{{tag>publish"; fulltext; sort=title:asc; display={title}; natsort; layout=table; showcount; hidemsg; hidejump;}}
 
-\\ 
+\\
