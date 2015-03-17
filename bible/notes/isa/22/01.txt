@@ -36,12 +36,14 @@
 ===== ULB: =====
 
 <usfm>
-\c 22  —
+\c 22  
 \p
-\v 1 A declaration about the valley of vision.
+\v 1 A declaration about the valley of vision:
+\q1
 \p What is the reason  that you all have gone up to the housetops?
-\v 2 A noisy city, a town full of revelry; your slain are not killed with the sword  nor did 
-they die in battle.
+\q1
+\v 2 A noisy city, a town full of revelry; 
+\q1 your dead were not killed with the sword, and they did not die in battle.
 </usfm>
 
 
