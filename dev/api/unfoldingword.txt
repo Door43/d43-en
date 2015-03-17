@@ -1,10 +1,10 @@
 ====== unfoldingWord API ======
 
-<font inherit/inherit;;inherit;;inherit>Official specification for</font> unfoldingWord<font inherit/inherit;;inherit;;inherit>API, version 2:</font>
+<font inherit/inherit;;inherit;;inherit>Official specification for</font>    unfoldingWord<font inherit/inherit;;inherit;;inherit>API</font>    <font inherit/inherit;;inherit;;inherit>, version 2:</font>
 
 ===== unfoldingWord Projects Catalog =====
 
-http://api.unfoldingword.org/uw/txt/2/obs-catalog.json
+[[http://api.unfoldingword.org/uw/txt/2/obs-catalog.json|http://api.unfoldingword.org/uw/txt/2/obs-catalog.json]]
 
 <code>
 location: /uw/txt/2/catalog.json
@@ -24,13 +24,102 @@ content:
   }
 ]
 </code>
-======   ======
 
-======   ======
+====== unfoldingWord Languages Catalog ======
+
+https://api.unfoldingword.org/uw/txt/2/bible/languages.json
+
+<code>
+location: /uw/txt/2/bible/catalog.json
+content:
+[
+  {
+    "language": "English",
+    "iso6391": "en",
+    "versions":
+        [
+           {
+              "id" : 1,
+              "name" : "unfoldingWord Dynamic Bible",
+              "table_of_contents" : "https://api.unfoldingword.org/uw/txt/2/bible/en/1/table_of_contents.json"
+              "status"
+                  {
+                     checking_entity: "Wycliffe Associates",
+                     checking_level: "3",
+                     comments: "Original source text",
+                     contributors: "Wycliffe Associates",
+                     publish_date: "20150310",
+                     source_text: "en",
+                     source_text_version: "2.0.0-beta4",
+                     version: "2.0.0-beta4"
+                  }
+              },
+              {
+              "id" : 2,
+              "name" : "unfoldingWord Literal Bible",
+              "table_of_contents" : "https://api.unfoldingword.org/uw/txt/2/bible/en/2/table_of_contents.json"
+              "status"
+                  {
+                     checking_entity: "Wycliffe Associates",
+                     checking_level: "3",
+                     comments: "Original source text",
+                     contributors: "Wycliffe Associates",
+                     publish_date: "20150310",
+                     source_text: "en",
+                     source_text_version: "2.0.0-beta4",
+                     version: "2.0.0-beta4"
+                  }
+              },
+
+        ]
+  },
+{
+    "language": "Espanol",
+    "iso6391": "es",
+    "versions":
+        [
+           {
+              "id" : 3,
+              "name" : "unfoldingWord Dynamic Bible",
+              "table_of_contents" : "https://api.unfoldingword.org/uw/txt/2/bible/en/3/table_of_contents.json"
+              "status"
+                  {
+                     checking_entity: "Wycliffe Associates",
+                     checking_level: "3",
+                     comments: "Original source text",
+                     contributors: "Wycliffe Associates",
+                     publish_date: "20150310",
+                     source_text: "en",
+                     source_text_version: "2.0.0-beta4",
+                     version: "2.0.0-beta4"
+                  }
+              },
+              {
+              "id" : 4,
+              "name" : "unfoldingWord Literal Bible",
+              "table_of_contents" : "https://api.unfoldingword.org/uw/txt/2/bible/en/4/table_of_contents.json"
+              "status"
+                  {
+                     checking_entity: "Wycliffe Associates",
+                     checking_level: "3",
+                     comments: "Original source text",
+                     contributors: "Wycliffe Associates",
+                     publish_date: "20150310",
+                     source_text: "en",
+                     source_text_version: "2.0.0-beta4",
+                     version: "2.0.0-beta4"
+                  }
+              },
+
+        ]
+  },
+
+]
+</code>
 
 ====== unfoldingWord API ======
 
-<font inherit/inherit;;inherit;;inherit>Official specification for</font> unfoldingWord<font inherit/inherit;;inherit;;inherit>API, version 1:</font>
+<font inherit/inherit;;inherit;;inherit>Official specification for</font>    unfoldingWord<font inherit/inherit;;inherit;;inherit>API</font>    <font inherit/inherit;;inherit;;inherit>, version 1:</font>
 
 ===== unfoldingWord App Catalog =====
 
