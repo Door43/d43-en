@@ -129,7 +129,7 @@ content:
     "description": "The first book of the Bible.",
     "section_slug": "gen",
     "usfm": "https://api.unfoldingword.org/uw/txt/2/bible/en/1/gen/chapters.usfm",
-    "fr": null,
+    "frames": null,
     "date_modified": 1426626752,
   },
   {
@@ -137,7 +137,7 @@ content:
     "description": "The story of the Israelites Exodus from Egypt.",
     "section_slug": "exo",
     "usfm": "https://api.unfoldingword.org/uw/txt/2/bible/en/1/exo/chapters.usfm",
-    "chapters": null,
+    "frames": null,
     "date_modified": 1426626752,
   }
 ]
