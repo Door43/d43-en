@@ -116,6 +116,10 @@ content:
 ]
 </code>
 
+====== unfoldingWord Table of Contents ======
+
+[[https://api.unfoldingword.org/uw/txt/2/bible/en/1/table_of_contents.json|https://api.unfoldingword.org/uw/txt/2/bible/en/1/table_of_contents.json]]
+
 ====== unfoldingWord API ======
 
 <font inherit/inherit;;inherit;;inherit>Official specification for</font>    unfoldingWord<font inherit/inherit;;inherit;;inherit>API</font>    <font inherit/inherit;;inherit;;inherit>, version 1:</font>
