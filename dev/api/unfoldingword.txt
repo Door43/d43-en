@@ -120,6 +120,25 @@ content:
 
 [[https://api.unfoldingword.org/uw/txt/2/bible/en/1/table_of_contents.json|https://api.unfoldingword.org/uw/txt/2/bible/en/1/table_of_contents.json]]
 
+<code>
+location: /uw/txt/2/bible/en/1/table_of_contents.json
+content:
+[
+  {
+    "section_title": "Genesis",
+    "usfm": "",
+    "date_modified": 1426626752,
+    "lang_catalog": "https://api.unfoldingword.org/uw/txt/2/obs/languages.json"
+  },
+  {
+    "title": "Bible",
+    "slug": "bible",
+    "date_modified": 1426626752,
+    "lang_catalog": "https://api.unfoldingword.org/uw/txt/2/bible/languages.json"
+  }
+]
+</code>
+
 ====== unfoldingWord API ======
 
 <font inherit/inherit;;inherit;;inherit>Official specification for</font>    unfoldingWord<font inherit/inherit;;inherit;;inherit>API</font>    <font inherit/inherit;;inherit;;inherit>, version 1:</font>
