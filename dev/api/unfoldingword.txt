@@ -129,7 +129,7 @@ content:
     "description": "The first book of the Bible.",
     "section_slug": "gen",
     "usfm": "https://api.unfoldingword.org/uw/txt/2/bible/en/1/gen/chapters.usfm",
-    "chapters": null,
+    "fr": null,
     "date_modified": 1426626752,
   },
   {
@@ -144,6 +144,31 @@ content:
 </code>
 
 In the case of OBS content the above JSON would look like this.
+
+<code>
+location: /uw/txt/2/obs/en/1/table_of_contents.json
+content:
+[
+  {
+    "section_title": "1. The Creation",
+    "description": "A Bible Story from Genesis 1-2",
+    "section_slug": "01",
+    "usfm": null,
+    "frames": "https://api.unfoldingword.org/uw/txt/2/obs/en/1/01/frames.json",
+    "date_modified": 1426626752,
+  },
+  {
+    "section_title": "Exodus",
+    "description": "The story of the Israelites Exodus from Egypt.",
+    "section_slug": "01",
+    "usfm": null,
+    "frames": "https://api.unfoldingword.org/uw/txt/2/obs/en/1/02/frames.json",
+    "date_modified": 1426626752,
+  }
+]
+</code>
+
+In the above JSON the frames JSON would contain just the frames for the given section.
 
 ====== unfoldingWord API ======
 
