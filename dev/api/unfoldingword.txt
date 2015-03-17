@@ -27,7 +27,7 @@ content:
 
 ====== unfoldingWord Languages Catalog ======
 
-https://api.unfoldingword.org/uw/txt/2/bible/languages.json
+[[https://api.unfoldingword.org/uw/txt/2/bible/languages.json|https://api.unfoldingword.org/uw/txt/2/bible/languages.json]]
 
 <code>
 location: /uw/txt/2/bible/catalog.json
@@ -73,7 +73,7 @@ content:
 
         ]
   },
-{
+  {
     "language": "Espanol",
     "iso6391": "es",
     "versions":
@@ -111,9 +111,8 @@ content:
                   }
               },
 
-        ]
-  },
-
+       ]
+  }
 ]
 </code>
 
