@@ -1,0 +1,7 @@
+<nspages en:ta:before -title -exclude:home -nbCol=2 -textPages="List of pages in ta:before">
+
+<nspages en:ta:translate -title -exclude:home -nbCol=2 -textPages="List of pages in ta:translate">
+
+<nspages en:ta:check -title -exclude:home -nbCol=2 -textPages="List of pages in ta:check">
+
+<nspages en:ta:after -title -exclude:home -nbCol=2 -textPages="List of pages in ta:after">
