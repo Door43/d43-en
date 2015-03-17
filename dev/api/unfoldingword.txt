@@ -1,60 +1,87 @@
 ====== unfoldingWord API ======
 
+<font inherit/inherit;;inherit;;inherit>Official specification for</font> unfoldingWord<font inherit/inherit;;inherit;;inherit>API, version 2:</font>
 
-Official specification for unfoldingWord API, version 1:
+===== unfoldingWord Projects Catalog =====
 
+http://api.unfoldingword.org/uw/txt/2/obs-catalog.json
+
+<code>
+location: /uw/txt/2/catalog.json
+content:
+[
+  {
+    "title": "Open Bible Stories",
+    "slug": "obs",
+    "date_modified": 1426626752,
+    "lang_catalog": "https://api.unfoldingword.org/uw/txt/2/obs/languages.json"
+  },
+  {
+    "title": "Bible",
+    "slug": "bible",
+    "date_modified": 1426626752,
+    "lang_catalog": "https://api.unfoldingword.org/uw/txt/2/bible/languages.json"
+  }
+]
+</code>
+======   ======
+
+======   ======
+
+====== unfoldingWord API ======
+
+<font inherit/inherit;;inherit;;inherit>Official specification for</font> unfoldingWord<font inherit/inherit;;inherit;;inherit>API, version 1:</font>
 
 ===== unfoldingWord App Catalog =====
 
-
-    api.unfoldingword.org/obs/txt/1/obs-catalog.json
+<code>
+  api.unfoldingword.org/obs/txt/1/obs-catalog.json
+</code>
 
 For languages that are currently in progress (from door43.org's perspective), there is a JSON endpoint at:
 
-    api.unfoldingword.org/obs/txt/1/obs-in-progress.json
+<code>
+  api.unfoldingword.org/obs/txt/1/obs-in-progress.json
+</code>
 
 ===== translationStudio App Catalog =====
 
-
-    api.unfoldingword.org/ts/txt/1/ts-catalog.json
-
+<code>
+  api.unfoldingword.org/ts/txt/1/ts-catalog.json
+</code>
 
 ===== JSON Text =====
 
-
-    api.unfoldingword.org/obs/txt/1/[langcode]/obs-[langcode].json
-
+<code>
+  api.unfoldingword.org/obs/txt/1/[langcode]/obs-[langcode].json
+</code>
 
 e.g. api.unfoldingword.org/obs/txt/1/en/obs-en.json
 
-
 ===== Audio =====
 
-
-    api.unfoldingword.org/obs/mp3/1/[langcode]/obs-[langcode]-[frame].[format]
-
+<code>
+  api.unfoldingword.org/obs/mp3/1/[langcode]/obs-[langcode]-[frame].[format]
+</code>
 
 e.g. api.unfoldingword.org/obs/mp3/1/en/obs-en-01.mp3
 
-
 ===== Images =====
 
-
-    api.unfoldingword.org/obs/jpg/1/[langcode]/[heightpx]/obs-[langcode]-[chapter]-[frame].[format]
-
+<code>
+  api.unfoldingword.org/obs/jpg/1/[langcode]/[heightpx]/obs-[langcode]-[chapter]-[frame].[format]
+</code>
 
 e.g. api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-01.jpg
 
 e.g. api.unfoldingword.org/obs/jpg/1/en/2160px/obs-en-01-01.jpg
 
-
-
 ===== translationStudio Resource Catalog =====
 
+**WARNING: This is outdated, please see {{https://door43.org/en/dev/api/translationstudio|translationStudio API}}  instead.**
 
-**WARNING: This is outdated, please see {{https://door43.org/en/dev/api/translationstudio|translationStudio API}} instead.**
-
-
-    api.unfoldingword.org/ts/txt/1/ts-catalog.json
+<code>
+  api.unfoldingword.org/ts/txt/1/ts-catalog.json
+</code>
 
 This catalog records resources available for translation in translationStudio.
