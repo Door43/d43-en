@@ -154,7 +154,18 @@ content:
     "description": "A Bible Story from Genesis 1-2",
     "section_slug": "01",
     "usfm": null,
-    "frames": "https://api.unfoldingword.org/uw/txt/2/obs/en/1/01/frames.json",
+    "frames": [
+                  {
+                     "id":"01-01",
+                     "img": "https://api.unfoldingword.org/uw/txt/2/obs/en/1/01-01.jpg",
+                     "text": "This is how the beginning..."
+                  },
+{
+                     "id":"01-02",
+                     "img": "https://api.unfoldingword.org/uw/txt/2/obs/en/1/01-02.jpg",
+                     "text": "Then God said..."
+                  },
+               ]
     "date_modified": 1426626752,
   },
   {
@@ -162,7 +173,18 @@ content:
     "description": "A Bible story from: Genesis 3",
     "section_slug": "02",
     "usfm": null,
-    "frames": "https://api.unfoldingword.org/uw/txt/2/obs/en/1/02/frames.json",
+    "frames": [
+                  {
+                     "id":"02-01",
+                     "img": "https://api.unfoldingword.org/uw/txt/2/obs/en/1/02-01.jpg",
+                     "text": "Adam and his wife..."
+                  },
+{
+                     "id":"02-02",
+                     "img": "https://api.unfoldingword.org/uw/txt/2/obs/en/1/02-02.jpg",
+                     "text": "But there was a crafty..."
+                  },
+               ],
     "date_modified": 1426626752,
   }
 ]
