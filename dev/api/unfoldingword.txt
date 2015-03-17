@@ -126,18 +126,24 @@ content:
 [
   {
     "section_title": "Genesis",
-    "usfm": "",
+    "description": "The first book of the Bible.",
+    "section_slug": "gen",
+    "usfm": "https://api.unfoldingword.org/uw/txt/2/bible/en/1/gen/chapters.usfm",
+    "chapters": null,
     "date_modified": 1426626752,
-    "lang_catalog": "https://api.unfoldingword.org/uw/txt/2/obs/languages.json"
   },
   {
-    "title": "Bible",
-    "slug": "bible",
+    "section_title": "Exodus",
+    "description": "The story of the Israelites Exodus from Egypt.",
+    "section_slug": "exo",
+    "usfm": "https://api.unfoldingword.org/uw/txt/2/bible/en/1/exo/chapters.usfm",
+    "chapters": null,
     "date_modified": 1426626752,
-    "lang_catalog": "https://api.unfoldingword.org/uw/txt/2/bible/languages.json"
   }
 ]
 </code>
+
+In the case of OBS content the above JSON would look like this.
 
 ====== unfoldingWord API ======
 
