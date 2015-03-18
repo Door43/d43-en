@@ -18,8 +18,8 @@
 <usfm>
 \v 9 The land of Judah is dry and barren.
 \q2 The cedar trees in Lebanon are drying up and decaying.
-\q1 The Sharon Plain along the coast is now a desert.
-\q2 There are no more leaves on the trees in the Bashan and Carmel areas.
+\q1 The Plain of Sharon along the coast is now a desert.
+\q2 There are no more leaves on the trees in the areas of Bashan and Carmel.
 \b
 
 
@@ -30,7 +30,9 @@
 ===== ULB: =====
 
 <usfm>
-\v 9 The land mourns and withers away; Lebanon is confounded and withereth away; Sharon is like a desert; and Bashan and Carmel shake off their leaves.
+\q1 
+\v 9 The land mourns and withers away; Lebanon is confounded and withers away; 
+\q1 Sharon is like a desert; and Bashan and Carmel shake off their leaves.
 </usfm>
 
 

@@ -31,7 +31,7 @@
 \q1 Water will gush out from springs in the desert,
 \q2 and streams will flow in the desert.
 \q1
-\v 7 The very dry ground will become a pool of water,
+\v 7 The very hot and dry ground will become a pool of water,
 \q2 and springs will provide water for the dry land.
 \q1 Grass and reeds and papyrus will grow in places where the jackals lived previously.
 \b
@@ -45,9 +45,14 @@
 
 <usfm>
 \p
+\q1
 \v 5 Then the eyes of the blind will see, and the ears of the deaf will hear.
-\v 6 Then  the lame man will leap like a deer, and mute tongue will sing, for water will flow in the desert, and streams in the wilderness.
-\v 7 And the burning sand will become a pool, and the thirsty ground springs of water; in the habitation of jackals, where they lay, will be grass with reeds and rushes.
+\q1
+\v 6 Then the lame man will leap like a deer, and the mute tongue will sing, 
+\q1 for water will break forth in the desert, and streams in the wilderness.
+\q1
+\v 7 The burning sand will become a pool, and the thirsty ground springs of water; 
+\q1 in the habitation of jackals, where they once lay, will be grass with reeds and rushes.
 </usfm>
 
 

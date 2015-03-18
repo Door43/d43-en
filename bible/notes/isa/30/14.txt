@@ -15,9 +15,9 @@
 ===== UDB: =====
 
 <usfm>
-\v 14 You will be smashed like a clay jar is smashed when it is dropped,
-\q1 and it shatters completely, with the result that there is not one piece big enough
-\q2 to carry some coals from a stove
+\v 14 You will be smashed like a clay jar is smashed when it is dropped
+\q1 and shatters completely, with the result that there is not one piece big enough
+\q2 to sweep out cinders from a stove
 \q2 or to carry a little bit of water from a well."
 
 
@@ -28,8 +28,10 @@
 ===== ULB: =====
 
 <usfm>
-\v 14 He will break it like a potter’s vessel is broken, breaking it in pieces without sparing, so that there will not be a shard
- with which to scrape fire from the hearth, or to scoop up water out of the cistern.
+\q1
+\v 14 He will break it like a potter’s vessel is broken; he will not spare it, 
+\q1 so that there will not be found among its pieces a shard
+\q1  with which to scrape fire from the hearth, or to scoop up water out of the cistern.
 </usfm>
 
 
