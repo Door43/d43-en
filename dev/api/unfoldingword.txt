@@ -1,6 +1,6 @@
-====== unfoldingWord API ======
+====== unfoldingWord API Version 2 ======
 
-<font inherit/inherit;;inherit;;inherit>Official specification for</font>    unfoldingWord<font inherit/inherit;;inherit;;inherit>API</font>    <font inherit/inherit;;inherit;;inherit>, version 2:</font>
+<font inherit/inherit;;inherit;;inherit>Official specification for</font>    unfoldingWord<font inherit/inherit;;inherit;;inherit> API</font>    <font inherit/inherit;;inherit;;inherit>, version 2:</font>
 
 ===== unfoldingWord Projects Catalog =====
 
@@ -13,35 +13,21 @@ content:
   {
     "title": "Bible",
     "slug": "bible",
-    "date_modified": 1426626752,
-    "lang_catalog":
+    "langs":
       [
         {
-          "language": "English",
-          "iso6391": "en",
+          "ln": "English",
+          "lc": "en",
+          "direction": "ltr",
+          "source": "",
           "versions":
             [
-              {
-                "id" : 1,
+              { 
                 "name" : "unfoldingWord Dynamic Bible",
-                "table_of_contents" : "https://api.unfoldingword.org/uw/txt/2/bible/en/1/table_of_contents.json"
-                "status"
-                 {
-                   checking_entity: "Wycliffe Associates",
-                   checking_level: "3",
-                   comments: "Original source text",
-                   contributors: "Wycliffe Associates",
-                   publish_date: "20150310",
-                   source_text: "en",
-                   source_text_version: "2.0.0-beta4",
-                   version: "2.0.0-beta4"
-                  }
-               },
-               {
-                 "id" : 2,
-                 "name" : "unfoldingWord Literal Bible",
-                 "table_of_contents" : "https://api.unfoldingword.org/uw/txt/2/bible/en/2/table_of_contents.json"
-                 "status"
+                "date_modified": "20150210",
+                "slug" : "UDB",
+                "toc" : "https://api.unfoldingword.org/uw/txt/2/bible/en/1/table_of_contents.json"
+                "status":
                   {
                     checking_entity: "Wycliffe Associates",
                     checking_level: "3",
@@ -51,150 +37,59 @@ content:
                     source_text: "en",
                     source_text_version: "2.0.0-beta4",
                     version: "2.0.0-beta4"
-                   }
-                 },
-              ]
-            },
-            {
-             "language": "Espanol",
-             "iso6391": "es",
-             "versions":
-              [
-               {
-                "id" : 3,
-                "name" : "unfoldingWord Dynamic Bible",
-                "table_of_contents" : "https://api.unfoldingword.org/uw/txt/2/bible/en/3/table_of_contents.json"
-                "status"
-                  {
-                     checking_entity: "Wycliffe Associates",
-                     checking_level: "3",
-                     comments: "Original source text",
-                     contributors: "Wycliffe Associates",
-                     publish_date: "20150310",
-                     source_text: "en",
-                     source_text_version: "2.0.0-beta4",
-                     version: "2.0.0-beta4"
                   }
               },
-              {
-              "id" : 4,
-              "name" : "unfoldingWord Literal Bible",
-              "table_of_contents" : "https://api.unfoldingword.org/uw/txt/2/bible/en/4/table_of_contents.json"
-              "status"
-                  {
-                     checking_entity: "Wycliffe Associates",
-                     checking_level: "3",
-                     comments: "Original source text",
-                     contributors: "Wycliffe Associates",
-                     publish_date: "20150310",
-                     source_text: "en",
-                     source_text_version: "2.0.0-beta4",
-                     version: "2.0.0-beta4"
+              { 
+                "name" : "unfoldingWord Literal Bible",
+                "date_modified": "20150210",
+                "slug" : "ULB",
+                "toc" : "https://api.unfoldingword.org/uw/txt/2/bible/en/2/table_of_contents.json"
+                "status":
+                  { 
+                    checking_entity: "Wycliffe Associates",
+                    checking_level: "3",
+                    comments: "Original source text",
+                    contributors: "Wycliffe Associates",
+                    publish_date: "20150310",
+                    source_text: "en",
+                    source_text_version: "2.0.0-beta4",
+                    version: "2.0.0-beta4"
                   }
-             },
-
-       ]
-
+              },
+            ]
+        },
+      ]
   },
   {
     "title": "Open Bible Stories",
     "slug": "obs",
-    "date_modified": 1426626752,
-    "lang_catalog": "https://api.unfoldingword.org/uw/txt/2/bible/languages.json"
+    "langs":
+      [
+        {
+          "ln": "English",
+          "lc": "en",
+          "direction": "ltr",
+          "date_modified": "20150210",
+          "source": "https://api.unfoldingword.org/obs/txt/1/en/obs-en.json",
+          "versions": "",
+          "status":
+            {
+              "checking_entity": "Distant Shores Media; Wycliffe Associates",
+              "checking_level": "3",
+              "comments": "Original source text.",
+              "contributors": "Distant Shores Media",
+              "publish_date": "2015-02-10",
+              "source_text": "en",
+              "source_text_version": "3.2",
+              "version": "3.2"
+            }
+        }
+      ]
   }
 ]
 </code>
 
-====== unfoldingWord Languages Catalog ======
 
-[[https://api.unfoldingword.org/uw/txt/2/bible/languages.json|https://api.unfoldingword.org/uw/txt/2/bible/languages.json]]
-
-<code>
-location: /uw/txt/2/bible/catalog.json
-content:
-[
-  {
-    "language": "English",
-    "iso6391": "en",
-    "versions":
-        [
-           {
-              "id" : 1,
-              "name" : "unfoldingWord Dynamic Bible",
-              "table_of_contents" : "https://api.unfoldingword.org/uw/txt/2/bible/en/1/table_of_contents.json"
-              "status"
-                  {
-                     checking_entity: "Wycliffe Associates",
-                     checking_level: "3",
-                     comments: "Original source text",
-                     contributors: "Wycliffe Associates",
-                     publish_date: "20150310",
-                     source_text: "en",
-                     source_text_version: "2.0.0-beta4",
-                     version: "2.0.0-beta4"
-                  }
-              },
-              {
-              "id" : 2,
-              "name" : "unfoldingWord Literal Bible",
-              "table_of_contents" : "https://api.unfoldingword.org/uw/txt/2/bible/en/2/table_of_contents.json"
-              "status"
-                  {
-                     checking_entity: "Wycliffe Associates",
-                     checking_level: "3",
-                     comments: "Original source text",
-                     contributors: "Wycliffe Associates",
-                     publish_date: "20150310",
-                     source_text: "en",
-                     source_text_version: "2.0.0-beta4",
-                     version: "2.0.0-beta4"
-                  }
-              },
-
-        ]
-  },
-  {
-    "language": "Espanol",
-    "iso6391": "es",
-    "versions":
-        [
-           {
-              "id" : 3,
-              "name" : "unfoldingWord Dynamic Bible",
-              "table_of_contents" : "https://api.unfoldingword.org/uw/txt/2/bible/en/3/table_of_contents.json"
-              "status"
-                  {
-                     checking_entity: "Wycliffe Associates",
-                     checking_level: "3",
-                     comments: "Original source text",
-                     contributors: "Wycliffe Associates",
-                     publish_date: "20150310",
-                     source_text: "en",
-                     source_text_version: "2.0.0-beta4",
-                     version: "2.0.0-beta4"
-                  }
-              },
-              {
-              "id" : 4,
-              "name" : "unfoldingWord Literal Bible",
-              "table_of_contents" : "https://api.unfoldingword.org/uw/txt/2/bible/en/4/table_of_contents.json"
-              "status"
-                  {
-                     checking_entity: "Wycliffe Associates",
-                     checking_level: "3",
-                     comments: "Original source text",
-                     contributors: "Wycliffe Associates",
-                     publish_date: "20150310",
-                     source_text: "en",
-                     source_text_version: "2.0.0-beta4",
-                     version: "2.0.0-beta4"
-                  }
-              },
-
-       ]
-  }
-]
-</code>
 
 ====== unfoldingWord Table of Contents ======
 
@@ -223,56 +118,9 @@ content:
 ]
 </code>
 
-In the case of OBS content the above JSON would look like this.
 
-<code>
-location: /uw/txt/2/obs/en/1/table_of_contents.json
-content:
-[
-  {
-    "section_title": "1. The Creation",
-    "description": "A Bible Story from Genesis 1-2",
-    "section_slug": "01",
-    "usfm": null,
-    "frames": [
-                  {
-                     "id":"01-01",
-                     "img": "https://api.unfoldingword.org/uw/txt/2/obs/en/1/01-01.jpg",
-                     "text": "This is how the beginning..."
-                  },
-                  {
-                     "id":"01-02",
-                     "img": "https://api.unfoldingword.org/uw/txt/2/obs/en/1/01-02.jpg",
-                     "text": "Then God said..."
-                  },
-               ]
-    "date_modified": 1426626752,
-  },
-  {
-    "section_title": "2. Sin Enters the World",
-    "description": "A Bible story from: Genesis 3",
-    "section_slug": "02",
-    "usfm": null,
-    "frames": [
-                  {
-                     "id":"02-01",
-                     "img": "https://api.unfoldingword.org/uw/txt/2/obs/en/1/02-01.jpg",
-                     "text": "Adam and his wife..."
-                  },
-                  {
-                     "id":"02-02",
-                     "img": "https://api.unfoldingword.org/uw/txt/2/obs/en/1/02-02.jpg",
-                     "text": "But there was a crafty..."
-                  },
-               ],
-    "date_modified": 1426626752,
-  }
-]
-</code>
 
-In the above JSON the frames JSON would contain just the frames for the given section.
-
-====== unfoldingWord API ======
+====== unfoldingWord API Version 1 ======
 
 <font inherit/inherit;;inherit;;inherit>Official specification for</font>    unfoldingWord<font inherit/inherit;;inherit;;inherit>API</font>    <font inherit/inherit;;inherit;;inherit>, version 1:</font>
 
