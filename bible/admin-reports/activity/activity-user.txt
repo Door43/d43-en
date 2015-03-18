@@ -4,4 +4,4 @@ This page can be used to check the activity of a particular user for any time pe
 
 
 
-{{changes>user=bill-pruett&count=15&render=pagelist(header,date,user,nocomments)&maxage=10368000}}
+{{changes>user=bill-pruett&count=15&render=pagelist(header,date,user,nocomments)&maxage=103680000}}
