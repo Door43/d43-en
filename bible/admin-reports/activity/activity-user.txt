@@ -1,0 +1,7 @@
+====== Activity of an Individual User ======
+
+This page can be used to check the activity of a particular user for any time period. You will need to know the username of the individual.
+
+
+
+{{changes>user=bill-pruett&count=15&render=pagelist(header,date,user,nocomments)&maxage=10368000}}
