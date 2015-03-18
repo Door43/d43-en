@@ -15,57 +15,56 @@ content:
     "slug": "obs",
     "date_modified": 1426626752,
     "lang_catalog":
-          [
-             {
-                 "language": "English",
-                 "iso6391": "en",
-                 "versions":
-                        [
-                             {
-                                "id" : 1,
-                                "name" : "unfoldingWord Dynamic Bible",
-                                "table_of_contents" : "https://api.unfoldingword.org/uw/txt/2/bible/en/1/table_of_contents.json"
-                                "status"
-                                      {
-                                          checking_entity: "Wycliffe Associates",
-                                          checking_level: "3",
-                                          comments: "Original source text",
-                                          contributors: "Wycliffe Associates",
-                                          publish_date: "20150310",
-                                          source_text: "en",
-                                          source_text_version: "2.0.0-beta4",
-                                          version: "2.0.0-beta4"
-                                       }
-                              },
-                              {
-                                 "id" : 2,
-                                 "name" : "unfoldingWord Literal Bible",
-                                 "table_of_contents" : "https://api.unfoldingword.org/uw/txt/2/bible/en/2/table_of_contents.json"
-                                 "status"
-                                        {
-                                            checking_entity: "Wycliffe Associates",
-                                            checking_level: "3",
-                                            comments: "Original source text",
-                                            contributors: "Wycliffe Associates",
-                                            publish_date: "20150310",
-                                            source_text: "en",
-                                            source_text_version: "2.0.0-beta4",
-                                            version: "2.0.0-beta4"
-                                         }
-                               },
-
-                          ]
-                    },
-                    {
-    "language": "Espanol",
-    "iso6391": "es",
-    "versions":
-        [
-           {
-              "id" : 3,
-              "name" : "unfoldingWord Dynamic Bible",
-              "table_of_contents" : "https://api.unfoldingword.org/uw/txt/2/bible/en/3/table_of_contents.json"
-              "status"
+      [
+        {
+          "language": "English",
+          "iso6391": "en",
+          "versions":
+            [
+              {
+                "id" : 1,
+                "name" : "unfoldingWord Dynamic Bible",
+                "table_of_contents" : "https://api.unfoldingword.org/uw/txt/2/bible/en/1/table_of_contents.json"
+                "status"
+                 {
+                   checking_entity: "Wycliffe Associates",
+                   checking_level: "3",
+                   comments: "Original source text",
+                   contributors: "Wycliffe Associates",
+                   publish_date: "20150310",
+                   source_text: "en",
+                   source_text_version: "2.0.0-beta4",
+                   version: "2.0.0-beta4"
+                  }
+               },
+               {
+                 "id" : 2,
+                 "name" : "unfoldingWord Literal Bible",
+                 "table_of_contents" : "https://api.unfoldingword.org/uw/txt/2/bible/en/2/table_of_contents.json"
+                 "status"
+                  {
+                    checking_entity: "Wycliffe Associates",
+                    checking_level: "3",
+                    comments: "Original source text",
+                    contributors: "Wycliffe Associates",
+                    publish_date: "20150310",
+                    source_text: "en",
+                    source_text_version: "2.0.0-beta4",
+                    version: "2.0.0-beta4"
+                   }
+                 },
+              ]
+            },
+            {
+             "language": "Espanol",
+             "iso6391": "es",
+             "versions":
+              [
+               {
+                "id" : 3,
+                "name" : "unfoldingWord Dynamic Bible",
+                "table_of_contents" : "https://api.unfoldingword.org/uw/txt/2/bible/en/3/table_of_contents.json"
+                "status"
                   {
                      checking_entity: "Wycliffe Associates",
                      checking_level: "3",
@@ -92,11 +91,10 @@ content:
                      source_text_version: "2.0.0-beta4",
                      version: "2.0.0-beta4"
                   }
-              },
+             },
 
        ]
-  }
-]
+
   },
   {
     "title": "Bible",
