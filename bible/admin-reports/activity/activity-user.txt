@@ -1,5 +1,7 @@
 ====== Activity of an Individual User ======
 
+~~NOCACHE~~
+
 This page can be used to check the activity of a particular user for any time period. You will need to know the __username__ of the individual.
 
 The code looks like this:
@@ -8,7 +10,7 @@ The code looks like this:
 {{changes>user=USER&count=15&render=pagelist(header,date,user,nocomments)&maxage=864000}}
 </code>
 
-To check activity: 
+==== How to check activity: ====
 
   - Replace the word "USER" with the username of the individual.
   - Set "count=" to the maximum number of edits you wish to see.
@@ -23,4 +25,11 @@ To check activity:
     * //etc.//
 
 
-{{changes>user=bill-pruett&count=15&render=pagelist(header,date,user,nocomments)&maxage=864000}}
+==== Check activity ====
+
+Edit the page and change the code that will appear below in order to check activity.
+
+{{changes>user=USER&count=15&render=pagelist(header,date,user,nocomments)&maxage=864000}}
+
+
+
