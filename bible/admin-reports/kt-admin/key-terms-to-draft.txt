@@ -19,18 +19,23 @@ Edit the bible reference tags to create a list of key terms to promote to draft.
 
 ==== Genesis Markup ====
 
+{{topic>create +gen18 &tags&nocomments}}
 {{topic>create +gen19 &tags&nocomments}}
-{{topic>create +gen20 &tags&nocomments}}
-{{topic>create +gen21 &tags&nocomments}}
-{{topic>create +gen22 &tags&nocomments}}
+
 
 ==== Acts Markup ====
 
-{{topic>create +act12 &tags&nocomments}}
+{{topic>create +act11 &tags&nocomments}}
 
-==== Philippians Markup ====
+==== Galatians Markup ====
 
-{{topic>create +php1 &tags&nocomments}}
+{{topic>create +gal6 &tags&nocomments}}
+
+===== Matthew Markup =====
+
+{{topic>create +mat01 &tags&nocomments}}
+
+
 
 
 \\ 
