@@ -1,15 +1,25 @@
-====== numbers, numerals ======
+====== Translating Unknowns - Numbers ======
+
+There are times that the source language will use words and ideas that are not familiar. If you do not know what the source word means, the Translation Notes and Important Terms pages will help you understand its meaning. Sometimes, however, a word in the source text is a number that is not known to the people who speak the target language.
+
+Translators may write the numerals “130” and “800” or the words “one hundred thirty” and “eight hundred”.
 
   - They can write numbers using words or numerals.
   - Some languages do not have words for all the numbers.
   - If their people normally use the gateway language words for numbers, and if they want to write words, it’s ok to use the gateway language words.
   - They should choose something that will be easy for people to read and understand.
-  - It would be good if they are consistent in whatever way they choose. But there are different ways of being consistent.
-      - They could use words to represent numbers all of the time. (They might have very long words.)
-      - They could use numerals to represent numbers all of the time.
-      - They could use words to represent the numbers that their language has words for and use numerals for the numbers that their language does not have words for.
-      - They could use words for numbers that require few words and numerals for numbers that require more than a few words.
 
-Examples of different types of consistency 1. The ULB and UDB use words for numbers that only take one or two words (nine, sixteen, three hundred) The ULB and UDB use numerals for numbers that need more than one word (The numerals "115” instead of "one hundred fifteen”) 2. Some English writers use words for numbers up to ten or twenty and then numerals for numbers over 11 or 21.
+==== Be Consistent in your translations. ====
 
+Decide how the numbers will be translated, using numbers or numerals. There are different ways of being consistent.
+
+  - Use words to represent numbers all of the time. (They might have very long words.)
+  - Use numerals to represent numbers all of the time.
+  - Use words to represent the numbers that the target language has words for and use numerals for the numbers that the target language does not have words for.
+  - Use words for numbers that require few words and numerals for numbers that require more than a few words.
+
+Examples of different types of consistency
+
+  - The ULB, unfoldingWord Literal Bible, and the UDB, unfoldingWord Dynamic Bible, use words for numbers that only take one or two words (nine, sixteen, three hundred) The ULB and UDB use numerals for numbers that need more than one word (The numerals "115” instead of "one hundred fifteen”)
+  - Some English writers use words for numbers up to ten or twenty and then numerals for numbers over 11 or 21.
 {{tag>draft}}
