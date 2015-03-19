@@ -63,7 +63,7 @@ content:
             "date_modified": "1426786387",
             "toc" : [
               {
-                "title": "Open Bible Stories",
+                "title": "",
                 "desc": "Condensed version of the Bible.",
                 "slug": "",
                 "source": "https://api.unfoldingword.org/obs/txt/1/en/obs-en.json",
