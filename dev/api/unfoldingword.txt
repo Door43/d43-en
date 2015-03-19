@@ -6,6 +6,7 @@ Language information may be pulled from http://td.unfoldingword.org/exports/lang
 
 ===== unfoldingWord Projects Catalog =====
 
+The unfoldingWord app now has a unified API endpoint at
 [[http://api.unfoldingword.org/uw/txt/2/catalog.json|http://api.unfoldingword.org/uw/txt/2/catalog.json]]
 
 <code>
