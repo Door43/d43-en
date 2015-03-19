@@ -6,7 +6,7 @@ Language information may be pulled from http://td.unfoldingword.org/exports/lang
 
 ===== unfoldingWord Projects Catalog =====
 
-[[http://api.unfoldingword.org/uw/txt/2/obs-catalog.json|http://api.unfoldingword.org/uw/txt/2/obs-catalog.json]]
+[[http://api.unfoldingword.org/uw/txt/2/catalog.json|http://api.unfoldingword.org/uw/txt/2/catalog.json]]
 
 <code>
 location: /uw/txt/2/catalog.json
@@ -22,16 +22,15 @@ content:
         "versions": [
           {
             "name" : "unfoldingWord Dynamic Bible",
-            "date_modified": "20150210",
+            "date_modified": "1426786387",
             "slug" : "UDB",
             "toc" : [
-              { 
+              {
                 "title": "Genesis",
                 "desc": "The first book of the Bible.",
                 "slug": "gen",
-                "sort": "01",
-                "source": "https://api.unfoldingword.org/udb/txt/1/udb-en/01-GEN.usfm",         
-                "date_modified": "20150310",
+                "source": "https://api.unfoldingword.org/udb/txt/1/udb-en/01-GEN.usfm",
+                "date_modified": "1426786387",
               }
             ],
             "status": {
@@ -44,18 +43,18 @@ content:
               "source_text_version": "2.0.0-beta4",
               "version": "2.0.0-beta4"
             }
-          } 
-        ]   
+          }
+        ]
       }
     ]
-  },        
-  { 
+  },
+  {
     "title": "Open Bible Stories",
     "slug": "obs",
     "langs": [
       {
         "lc": "en",
-        "date_modified": "20150210",
+        "date_modified": "1426786387",
         "source": "https://api.unfoldingword.org/obs/txt/1/en/obs-en.json",
         "versions": "",
         "status": {
