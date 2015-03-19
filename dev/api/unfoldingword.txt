@@ -2,6 +2,8 @@
 
 Official specification for unfoldingWord API, version 2:
 
+Language information may be pulled from http://td.unfoldingword.org/exports/langnames.json.
+
 ===== unfoldingWord Projects Catalog =====
 
 [[http://api.unfoldingword.org/uw/txt/2/obs-catalog.json|http://api.unfoldingword.org/uw/txt/2/obs-catalog.json]]
@@ -15,12 +17,10 @@ content:
     "slug": "bible",
     "langs": [
       {
-        "ln": "English",
         "lc": "en",
-        "direction": "ltr",
         "source": "",
         "versions": [
-          { 
+          {
             "name" : "unfoldingWord Dynamic Bible",
             "date_modified": "20150210",
             "slug" : "UDB",
@@ -45,18 +45,16 @@ content:
               "version": "2.0.0-beta4"
             }
           } 
-        ]
-      }     
-    ]       
-  },
-  {         
+        ]   
+      }
+    ]
+  },        
+  { 
     "title": "Open Bible Stories",
     "slug": "obs",
     "langs": [
       {
-        "ln": "English",
         "lc": "en",
-        "direction": "ltr", 
         "date_modified": "20150210",
         "source": "https://api.unfoldingword.org/obs/txt/1/en/obs-en.json",
         "versions": "",
