@@ -25,10 +25,4 @@ The code looks like this:
     * //etc.//
 
 
-==== Check activity ====
-
-Edit the page and change the (now invisible) code below this line in order to check activity.
-
-{{changes>user=<font 13px line-height: normal; white-space: pre-wrap;/arial, sans, sans-serif;;rgb(0, 0, 0) font-family: arial, sans, sans-serif; font-size: 13px; line-height: normal; white-space: pre-wrap;;;inherit>ghmurrayiv</font> &count=15&render=pagelist(header,date,user,nocomments)&maxage=77760000}}
-
-(//Please restore it to "USER" when finished//)
+__false__
