@@ -21,7 +21,7 @@
 ===== UDB: =====
 
 <usfm>
-\v 14 I was delirious, and I chirped like a swift or a swallow,
+\v 14 I was delirious; I chirped like a swift or a swallow
 \q2 and moaned like a dove.
 \q1 My eyes became tired looking up toward heaven for help.
 \q2 I cried out, 'Yahweh, help me, because I am distressed!'
@@ -40,13 +40,12 @@
 ===== ULB: =====
 
 <usfm>
-\q
-\v 14 Like a swallow, I chirp;
-       \q2 I coo as a dove; my eyes grow tired with looking upward.
-       \q3 O Lord, I am oppressed, help me.
-\q
+\q1
+\v 14 Like a swallow I chirp; I coo like a dove; 
+\q1 my eyes grow tired with looking upward. O Lord, I am oppressed; help me.
+\q1
 \v 15 What shall I say? He has both spoken to me, and has done it;
-      \q I will walk slowly all my years because my soul is ovecome with grief.
+\q1 I will walk slowly all my years because my soul is overcome with grief.
 </usfm>
 
 
