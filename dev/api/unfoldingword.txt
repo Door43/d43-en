@@ -19,12 +19,13 @@ content:
     "langs": [
       {
         "lc": "en",
-        "source": "",
         "versions": [
           {
             "name" : "unfoldingWord Dynamic Bible",
             "date_modified": "1426786387",
             "slug" : "UDB",
+            "source": "",
+            "source_sig": "",
             "toc" : [
               {
                 "title": "Genesis",
@@ -57,19 +58,26 @@ content:
       {
         "lc": "en",
         "date_modified": "1426786387",
-        "source": "https://api.unfoldingword.org/obs/txt/1/en/obs-en.json",
-        "source_sig": "https://api.unfoldingword.org/obs/txt/1/en/obs-en.sig",
-        "versions": "",
-        "status": {
-          "checking_entity": "Distant Shores Media; Wycliffe Associates",
-          "checking_level": "3",
-          "comments": "Original source text.",
-          "contributors": "Distant Shores Media",
-          "publish_date": "2015-02-10",
-          "source_text": "en",
-          "source_text_version": "3.2",
-          "version": "3.2"
-        }
+        "versions":  [
+          {
+            "name": "Open Bible Stories",
+            "slug": "obs-en",
+            "date_modified": "1426786387",
+            "source": "https://api.unfoldingword.org/obs/txt/1/en/obs-en.json",
+            "source_sig": "https://api.unfoldingword.org/obs/txt/1/en/obs-en.sig",
+            "toc": ""
+            "status": {
+              "checking_entity": "Distant Shores Media; Wycliffe Associates",
+              "checking_level": "3",
+              "comments": "Original source text.",
+              "contributors": "Distant Shores Media",
+              "publish_date": "2015-02-10",
+              "source_text": "en",
+              "source_text_version": "3.2",
+              "version": "3.2"
+            }
+          }
+        ]
       }
     ]
   }
