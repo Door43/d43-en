@@ -31,7 +31,7 @@ content:
                 "desc": "The first book of the Bible.",
                 "slug": "gen",
                 "source": "https://api.unfoldingword.org/udb/txt/1/udb-en/01-GEN.usfm",
-                "date_modified": "1426786387",
+                "date_modified": "1426786387"
               }
             ],
             "status": {
