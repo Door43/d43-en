@@ -1,23 +1,11 @@
 ===== translationStudio =====
 
-==== 1. Download & Install the app ====
+The translationStudio mobile app is a mobile app where translators can do offline translating. It can be downloaded for [[https://play.google.com/store/apps/details?id=com.translationstudio.androidapp&hl=en|Android]] or [[https://itunes.apple.com/us/app/translation-studio/id925570675?mt=8|iOS]] devices. It contains the content that needs to be translated as well as [[en:ta:before:helps|translation helps]]. Information can be shared directly from device to device and finished content can be uploaded to [[en:ta:before:door43|Door43]] and digitally published.
 
-The app is available in the [[https://play.google.com/store/apps/details?id=com.translationstudio.androidapp|Google Play Store]]. Or it can be [[https://unfoldingword.org/apps/#tS|directly downloaded and installed]]. 
-
-==== 2. Create Your Profile ====
-
-Tap on the person icon. Create your profile. 
-
-==== 3. Choose Your Language ====
-
-Tap on the gear icon. Tap on “Add a new target language.” Type in the name of target language and choose from the list. 
-
-Note: Multiple languages can be selected and translated on the same device. 
-
-Also note: the left-to-right or right-to-left toggle switch at the top of this menu. 
-
-==== 4. Start Translating ====
-
-Tap on the books icon on the left. The open book icon on the top left shows all 50 stories. Select a story. The page icon on the top right shows the frames within the selected story. Select a frame. Tap on the righthand side of the main page and begin translating. You will be prompted to translate the title and where the story can be found in the Bible. Work your way through all the stories, and invite other people who speak your language to help! 
+Below are some resources to help you with translationStudio: 
+  * [[en:ta:before:ts-install|Install the app]]
+  * [[en:ta:before:ts-get-started|How to get started]]
+  * [[en:ta:before:ts-share|How to share my work with others]]
+  * [[en:ta:before:ts-upload|How to upload my work when I'm done]]
 
 //Continue to [[en:ta:translate|How to Translate]]// 
