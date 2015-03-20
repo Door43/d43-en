@@ -19,7 +19,7 @@
 ===== UDB: =====
 
 <usfm>
-\v 16 My people who have been taken to Babylonia are like  blind people,
+\v 16 My people who have been taken into exile are like blind people,
 \q2 but I will lead them along a road on which they have not walked before,
 \q1 on a road that they have not seen before.
 \q2 They have felt very helpless, as though they were walking in the darkness,
@@ -36,9 +36,10 @@
 ===== ULB: =====
 
 <usfm>
-\v 16 /q1 And I will bring the blind by a way that they know not; in paths that they know not will I lead them;
-        /q2 I will turn the darkness into light before them, and  make the crooked places straight. These things I will  do,
-            and I will not abandon them.
+\q1
+\v 16 I will bring the blind by a way that they do not know; in paths that they do not know I will lead them.
+\q1 I will turn the darkness into light before them, and make the crooked places straight. 
+\q1 These things I will do, and I will not abandon them.
 </usfm>
 
 

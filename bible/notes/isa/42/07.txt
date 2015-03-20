@@ -15,7 +15,7 @@
 ===== UDB: =====
 
 <usfm>
-\v 7 You will enable blind [IDI] people to see,
+\v 7 For you will enable blind people to see,
 \q2 you will free those who are in prison 
 \q2 and release those who are in dark dungeons.
 \b
@@ -28,9 +28,9 @@
 ===== ULB: =====
 
 <usfm>
-\v 7  /q1 to open the eyes of the blind, 
-       /q2 to release the prisoners from the dungeon, and those who sit in darkness, out of prison. 
-.
+\q1
+\v 7 to open the eyes of the blind, to release the prisoners from the dungeon, 
+\q1 and from the house of confinement those who sit in darkness.
 </usfm>
 
 

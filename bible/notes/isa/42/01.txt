@@ -36,11 +36,11 @@
 <usfm>
 \c 42
 \p
-\v 1 /q1 Behold, my servant, whom I uphold; my chosen, in whom my soul delights:
-       /q2 I have put my Spirit upon him; he will bring forth justice to the nations 
-.
-\v 2 /q1 He will not cry out, nor lshout, 
-       /q2 nor cause it to be heard in the street.
+\q1
+\v 1 Behold, my servant, whom I uphold; my chosen one, in whom my soul delights:
+\q1 I have put my Spirit upon him; he will bring forth justice to the nations.
+\q1
+\v 2 He will not cry out nor shout, nor make his voice heard in the streets.
 </usfm>
 
 
