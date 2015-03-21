@@ -23,7 +23,7 @@
 \q1
 \v 2 Many people are saying about me,
 \q2 "God will certainly not help him."
-\qr (Think about that!)
+\qr 
 \b
 
 
@@ -38,11 +38,12 @@
 \d A Psalm of David, when he fled from Absalom his son.
 \b
 \q
-\v 1 Yahwah, how many are my enemies!
+\v 1 Yahweh, how many are my enemies!
 \q Many have turned away and attack me.
 \q
 \v 2 Many say about me,
-\q There is no help for him from God. \qs [Selah\qs*
+\q "There is no help for him from God." 
+\qs [Selah\qs*
 </usfm>
 
 
