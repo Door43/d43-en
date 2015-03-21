@@ -16,10 +16,10 @@
 ===== UDB: =====
 
 <usfm>
-\v 14 Before he carves an idol from that block of wood, he has cut down a cedar tree,
+\v 14 Before he carves an idol from that block of wood, he has already cut down a cedar tree,
 \q2 or he has selected a cypress tree or an oak tree
 \q2 and allowed it to grow tall in the forest.
-\q1 Or, he has planted a pine tree
+\q1 Or he has planted a pine tree,
 \q2 and the rain has watered it and caused it to grow tall.
 
 
@@ -30,8 +30,9 @@
 ===== ULB: =====
 
 <usfm>
-\v 14 He cuts  down cedars, or chooses a cyprus tree. He picks for himself trees of the
-forest. He plants a fir tree and the rain makes it grow.
+\q1
+\v 14 He cuts down cedars, or chooses a cyprus tree or an oak tree. 
+\q1 He picks for himself trees in the forest. He plants a fir tree and the rain makes it grow.
 </usfm>
 
 

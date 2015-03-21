@@ -18,7 +18,7 @@
 <usfm>
 \v 12 Metalworkers stand in front of hot coals
 \q2 in order to make idols.
-\q1 They pound them strongly with hammers, and shape them.
+\q1 They pound them with hammers and shape them.
 \q1 Because they work very hard, they become hungry and weak;
 \q2 they become very thirsty and feel exhausted.
 
@@ -31,8 +31,10 @@
 
 <usfm>
 \p
-\v 12 The smith works with his tools, forming it, working over  the coals. He shapes it with hammers and works it with his
-strong arm. He is hungry and his strength wanes, he drinks no waterand becomes faint.
+\q1
+\v 12 The smith works with his tools, forming it, working over the coals. 
+\q1 He shapes it with hammers and works it with his strong arm. 
+\q1 He is hungry, and his strength wanes; he drinks no water and becomes faint.
 </usfm>
 
 

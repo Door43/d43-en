@@ -19,13 +19,13 @@
 ===== UDB: =====
 
 <usfm>
-\v 12 So you can continue to perform all your magic spells!
-\q2 You can perform the many kinds of sorcery that you have practiced for many years!
+\v 12 So continue to perform all your magic spells!
+\q2 Keep doing the many kinds of sorcery that you have been doing for many years!
 \q1 Perhaps doing those things will enable you to be successful;
 \q2 perhaps you will be able to cause your enemies to be afraid of you!
 \q1
 \v 13 But all that has resulted from your doing all the things that the magicians have told you to do is that you have become tired!
-\q1 The men who look at the stars every month and predict what will happen
+\q1 The men who look at the stars, announce every new moon, predict what will happen
 \q2 should come forward and rescue you from the disasters that you are about to experience.
 
 
@@ -37,12 +37,15 @@
 
 <usfm>
 \p
-\v 12  /q1 Persist in trusting in your spells and your many sorceries, which you have faithfully recited since your childhood; 
-         /q2 perhaps you will be successful and scare away disaster.
-\v 13 /q1 You are tired out with your many consultations:
-               stand up, and save you from the disaster that is about to happen to you.
-         /q2 Let the astrologers, the star-gazers who make  monthly predictions
-               stand up, and save you from the disaster that is about to happen to you.
+\q1
+\v 12 Persist in casting your spells and your many sorceries, 
+\q1 which you have faithfully recited since your childhood; 
+\q1 perhaps you will be successful, perhaps you will scare away disaster.
+
+\q1
+\v 13 You are tired out with your many consultations; let those men stand up 
+\q1 and save you—those who chart the heavens and look at the stars, 
+\q1 those who declare the new moons—let them save you from what will happen to you.
 </usfm>
 
 

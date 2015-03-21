@@ -24,7 +24,7 @@
 ===== UDB: =====
 
 <usfm>
-\v 10 You felt protected even though you were doing many wicked things,
+\v 10 You felt safe even though you were doing many wicked things,
 \q2 and you said, 'No one will see what we are doing!'
 \q1 You thought that you were very wise and knew many things,
 \q2 and you said, 'We are gods, and there are no others like us,'
@@ -33,7 +33,7 @@
 \v 11 So you will experience terrible things,
 \q2 and you will not be able to prevent them by working magic.
 \q1 You will experience disasters,
-\q2 and you will not be able to pay anyone to prevent those things from happening.
+\q2 and you will not be able to pay any magician to keep those things from happening.
 \q1 A catastrophe will happen to you suddenly,
 \q2 something that you will not realize is about to happen.
 \b
@@ -46,11 +46,14 @@
 ===== ULB: =====
 
 <usfm>
-\v 10 /q1 You have trusted in your wickedness; you have said, "No one sees me;" your wisdom and your knowledge lead you astray, 
-         /q2 so you say in your heart, "I am, and there is no one else."
-\v 11 /q1 Disaster will overcome you; you will not be able  to charm it away:  destruction will fall on you; you
-              will not be able to ward it off:
-        /q2 Calamity will strike you suddenly, before you know it.
+\q1
+\v 10 You have trusted in your wickedness; you have said, "No one sees me;" 
+\q1 your wisdom and your knowledge lead you astray,
+\q1 but you say in your heart, "I exist, and there is no one else like me."
+\q1
+\v 11 Disaster will overcome you; you will not be able to drive it away with your incantations.  
+\q1 Destruction will fall on you; you will not be able to ward it off.
+\q1 Calamity will strike you suddenly, before you know it.
 </usfm>
 
 
