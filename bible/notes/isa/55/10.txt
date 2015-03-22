@@ -36,11 +36,13 @@
 ===== ULB: =====
 
 <usfm>
-\v 10 /q1 The rain and snow come down from heaven and do not return, but water the earth,
-         /q2 and make it sprout and bud and give seed to the sower and bread to the one who  eats.
-               
-\v 11 /q1  So my word will be that goes from my mouth: it  will not return to me fruitless, 
-        /q2 but it will accomplish that which I intend, and it will succeed in that which I intended."
+\q1
+\v 10 For as the rain and snow come down from heaven 
+\q1 and do not return there unless they water the earth,
+\q1 and make it sprout and bud and give seed to the sower and bread to the one who eats,
+\q1
+\v 11 So also my word will be that goes from my mouth: it  will not return to me empty,
+\q1 but it will accomplish that which I intend, and it will succeed in that which I intended."
 </usfm>
 
 
