@@ -21,6 +21,9 @@
 **Lester Harper:**
  {{changes>user=lester-h&count=15&render=pagelist(date,header,user,nocomments)&maxage=2592000}}
 
+**Paul Mellema:**
+ {{changes>user=paul_mellema&count=15&render=pagelist(date,header,user,nocomments)&maxage=2592000}}
+
 **Raif Turner:**
  {{changes>user=raif_turner&count=15&render=pagelist(date,header,user,nocomments)&maxage=2592000}}
 
