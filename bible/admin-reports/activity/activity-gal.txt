@@ -13,7 +13,7 @@
  {{changes>user=football&count=15&render=pagelist(header,date,user,nocomments)&maxage=864000}}
 
 **Allen Bair:**
- {{changes>user=teddybairs1&count=15&render=pagelist(header,date,user,nocomments)&maxage=2592000}}
+ {{changes>user=teddybairs1&count=15&render=pagelist(header,date,user,nocomments)&maxage=864000}}
 
 **Angelo Palo:**
  {{changes>user=angrock01&count=15&render=pagelist(header,date,user,nocomments)&maxage=864000}}
