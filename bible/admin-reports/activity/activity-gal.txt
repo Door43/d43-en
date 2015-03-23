@@ -7,31 +7,31 @@
 ~~NOCACHE~~
 
 **Henry Whitney - Team Leader:**
- {{changes>user=hmw3&count=15&render=pagelist(header,date,user,nocomments)&maxage=864000}}
+ {{changes>user=hmw3&count=15&render=pagelist(header,date,user,nocomments)&maxage=2592000}}
 
 **Alfred Van Dellen:**
- {{changes>user=football&count=15&render=pagelist(header,date,user,nocomments)&maxage=864000}}
+ {{changes>user=football&count=15&render=pagelist(header,date,user,nocomments)&maxage=2592000}}
 
 **Allen Bair:**
- {{changes>user=teddybairs1&count=15&render=pagelist(header,date,user,nocomments)&maxage=864000}}
+ {{changes>user=teddybairs1&count=15&render=pagelist(header,date,user,nocomments)&maxage=2592000}}
 
 **Angelo Palo:**
- {{changes>user=angrock01&count=15&render=pagelist(header,date,user,nocomments)&maxage=864000}}
+ {{changes>user=angrock01&count=15&render=pagelist(header,date,user,nocomments)&maxage=2592000}}
 
 **Lester Harper:**
- {{changes>user=lester-h&count=15&render=pagelist(date,header,user,nocomments)&maxage=864000}}
+ {{changes>user=lester-h&count=15&render=pagelist(date,header,user,nocomments)&maxage=2592000}}
 
 **Raif Turner:**
- {{changes>user=raif_turner&count=15&render=pagelist(date,header,user,nocomments)&maxage=864000}}
+ {{changes>user=raif_turner&count=15&render=pagelist(date,header,user,nocomments)&maxage=2592000}}
 
 **Sherie Nelson:**
- {{changes>user=hispoema&count=15&render=pagelist(date,header,user,nocomments)&maxage=864000}}
+ {{changes>user=hispoema&count=15&render=pagelist(date,header,user,nocomments)&maxage=2592000}}
 
 **Tom Jopling:**
- {{changes>user=tom.jopling&count=15&render=pagelist(date,header,user,nocomments)&maxage=864000}}
+ {{changes>user=tom.jopling&count=15&render=pagelist(date,header,user,nocomments)&maxage=2592000}}
 
 **Vicki Ivester:**
- {{changes>user=ivester&count=15&render=pagelist(header,date,user,nocomments)&maxage=864000}}
+ {{changes>user=ivester&count=15&render=pagelist(header,date,user,nocomments)&maxage=2592000}}
 
 **USER: (needs to register)**
  {{changes>user=USER&count=15&render=pagelist(date,header,user,nocomments)&maxage=864000}}
