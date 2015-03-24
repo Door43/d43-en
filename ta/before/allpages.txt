@@ -5,3 +5,8 @@
 <nspages en:ta:check -title -exclude:home -nbCol=2 -textPages="List of pages in ta:check">
 
 <nspages en:ta:after -title -exclude:home -nbCol=2 -textPages="List of pages in ta:after">
+
+
+Custom Tag
+
+{{topic>en:ta?custom&nocomments}}
