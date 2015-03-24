@@ -18,8 +18,8 @@
 ===== UDB: =====
 
 <usfm>
-\v 11 We growl like  hungry bears;
-\q2 we continually moan like  doves.
+\v 11 We growl like hungry bears;
+\q2 we continually moan like doves.
 \q1 We seek people who do what is just,
 \q2 but we cannot find any anywhere.
 \q1 We want God to rescue us,
@@ -34,8 +34,9 @@
 ===== ULB: =====
 
 <usfm>
-\v 11 We growl like bears, and moan like doves; we wait for justice, but there is none; for salvation, but it is far
- from us.
+\q1
+\v 11 We growl like bears and moan like doves; 
+\q1 we wait for justice, but there is none; for salvation, but it is far  from us.
 </usfm>
 
 

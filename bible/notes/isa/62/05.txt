@@ -16,9 +16,9 @@
 
 <usfm>
 \v 5 You people will live in all the country of Judah
-\q2 like  a young man lives with his bride.
-\q1 And our God will be happy that you belong to him
-\q2 like  a bridegroom is happy that his bride belongs to him.
+\q2 like a young man lives with his bride.
+\q1 And our God will be happy that you belong to him,
+\q2 like a bridegroom is happy that his bride belongs to him.
 
 
 \q1
@@ -28,8 +28,10 @@
 ===== ULB: =====
 
 <usfm>
-\v 5 As a young man marries a young woman, so your sons will marry you. As a bridegroom rejoices over his bride, so
- your God will  rejoice over you.
+\q1
+\v 5 As a young man marries a young woman, so your sons will marry you. 
+\q1 As a bridegroom rejoices over his bride, 
+ your God will rejoice over you.
 </usfm>
 
 
