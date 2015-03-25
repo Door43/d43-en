@@ -20,7 +20,7 @@
 <usfm>
 \c 4
 \p
-\v 1Now  when  Jesus knew that the Pharisees had heard that hewas making and baptizing more disciples than John
+\v 1Now  when  Jesus knew that the Pharisees had heard that he was making and baptizing more disciples than John
 \v 2 (although Jesus himself was not baptizing, but his disciples were),
 he left Judea and departed for Galilee.
 </usfm>
@@ -28,10 +28,13 @@ he left Judea and departed for Galilee.
 
 ===== Important Terms: =====
 
-  * example
-  * example
-  * example
-  * example
+  * [[:en:bible:notes:key-terms:jesus|Jesus]]
+  * [[:en:bible:notes:key-terms:pharisee|Pharisees]]
+  * [[:en:bible:notes:key-terms:baptize|baptizing]]
+  * [[:en:bible:notes:key-terms:disciple|disciples]]
+  * [[:en:bible:notes:key-terms:johnthebaptist|John]]
+  * [[:en:bible:notes:key-terms:judea|Judea]]
+  * [[:en:bible:notes:key-terms:galilee|Galilee]]
  
 
 ===== Translation Notes: =====
@@ -55,6 +58,6 @@ he left Judea and departed for Galilee.
 ~~DISCUSSION~~
 
 
-{{tag>draft}}
+{{tag>draft jesus pharisee baptize disciple johnthebaptist judea galilaa}}
 
 ~~NOCACHE~~
