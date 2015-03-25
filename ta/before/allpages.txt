@@ -10,3 +10,11 @@
 Custom Tag
 
 {{topic>en:ta?custom&nocomments}}
+
+Cultural Tag
+
+{{topic>en:ta?cultural&nocomments}}
+
+Religious Tag
+
+{{topic>en:ta?religious&nocomments}}
