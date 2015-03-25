@@ -1,35 +1,6 @@
 ====== user activity ======
 
-Side bar thought
-
-  * Open Bible Stories
-  * Translation Notes
-  * Bible
-      * Translation Notes
-  * Translation Academy
-  * Translation Manual
-  * Open Bible Lexicon
-  * Open Christian Library
-
-Chris Jarka
-
-= = =
-
-Ben's side bar thoughts
-
-  * Translation Manual
-  * Open Bible Stories
-      * OBS Translation Notes
-      * OBS Comprehension Questions
-  * Bible
-      * UDB
-      * ULB
-      * Bible Translation Notes
-      * Bible Comprehension Questions
-  * Open Bible Lexicon
-  * Open Christian Library
-  * translationAcademy
-{{changes>user=crowderjt&count=50&render=pagelist(header,date,user,nocomments)&maxage=25920000}}
+{{changes>user=rwj&count=50&render=pagelist(header,date,user,nocomments)&maxage=25920000}}
 
 Changes this week
 
