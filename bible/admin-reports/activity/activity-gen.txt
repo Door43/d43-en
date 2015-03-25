@@ -4,42 +4,22 @@
 
 [[:en:bible:admin-reports:activity:activity|(Back to main Activity page)]]
 
+
 ==== (Activity for previous 10 days) ====
 
-^  Team A  ^  Team B  |
-|**Carl Pace:**  \\ {{changes>user=cpace&count=15&render=pagelist(date,header,user,nocomments)&maxage=864000}}
-             \\  \\  **Dale Hahs:**  \\  {{changes>user=dehahs&count=15&render=pagelist(date,header,user,nocomments)&maxage=864000}}
-
-             \\  \\ **Jerry Lund:**  \\  {{changes>user=omsetjar1&count=15&render=pagelist(date,header,user,nocomments)&maxage=864000}}
-
-             \\  \\ **John Geddis:**  \\  {{changes>user=jwgeddis&count=15&render=pagelist(date,header,user,nocomments)&maxage=864000}}
-
-             \\  \\ **Mike Tisdell:**  \\  {{changes>user=miketisdell&count=15&render=pagelist(date,header,user,nocomments)&maxage=864000}}  |**Amanda Adams:**  \\ {{changes>user=amanda.adams&count=15&render=pagelist(date,header,user,nocomments)&maxage=864000}}
-             \\  \\  **Bill Pruett:**  \\  {{changes>user=bill-pruett&count=15&render=pagelist(header,date,user,nocomments)&maxage=864000}}
-
-             \\  \\ **George Murray:**  \\  {{changes>user=ghmurrayiv&count=15&render=pagelist(date,header,user,nocomments)&maxage=864000}}
-
-             \\  \\ **George Somsel:**  \\  {{changes>user=gfsomsel&count=15&render=pagelist(date,header,user,nocomments)&maxage=864000}}
-
-             \\  \\ **Ryan Austie:**  \\  {{changes>user= austie&count=15&render=pagelist(date,header,user,nocomments)&maxage=864000}}
-
-             \\  \\ **Steve Gibbs:**  \\  {{changes>user=rsteveg&count=15&render=pagelist(date,header,user,nocomments)&maxage=864000}}
-
-             \\  \\ **Stacey Swanson:**  \\  {{changes>user=staceyswanson2&count=15&render=pagelist(date,header,user,nocomments)&maxage=864000}}
-
-             \\  \\ **Theresa Baker:**  \\  {{changes>user=theresasb&count=15&render=pagelist(date,header,user,nocomments)&maxage=864000}}
-
-             \\  \\ **Warren Lamb:**  \\  {{changes>user=warren_g&count=15&render=pagelist(date,header,user,nocomments)&maxage=864000}}  |
+^  Team A  ^  Team B  ^
+|**Carl Pace:**\\ {{changes>user=cpace&count=15&render=pagelist(date,header,user,nocomments)&maxage=864000}}\\ **Dale Hahs:**\\ {{changes>user=dehahs&count=15&render=pagelist(date,header,user,nocomments)&maxage=864000}}\\ **Jerry Lund:**\\ {{changes>user=omsetjar1&count=15&render=pagelist(date,header,user,nocomments)&maxage=864000}}\\ **John Geddis:**\\ {{changes>user=jwgeddis&count=15&render=pagelist(date,header,user,nocomments)&maxage=864000}}\\ **Mike Tisdell:**\\ {{changes>user=miketisdell&count=15&render=pagelist(date,header,user,nocomments)&maxage=864000}}|**Amanda Adams:**\\ {{changes>user=amanda.adams&count=15&render=pagelist(date,header,user,nocomments)&maxage=864000}}\\ **Bill Pruett:**\\ {{changes>user=bill-pruett&count=15&render=pagelist(header,date,user,nocomments)&maxage=864000}}\\ **George Murray:**\\ {{changes>user=ghmurrayiv&count=15&render=pagelist(date,header,user,nocomments)&maxage=864000}}\\ **George Somsel:**\\ {{changes>user=gfsomsel&count=15&render=pagelist(date,header,user,nocomments)&maxage=864000}}\\ **Ryan Austie:**\\ {{changes>user= austie&count=15&render=pagelist(date,header,user,nocomments)&maxage=864000}}\\ **Steve Gibbs:**\\ {{changes>user=rsteveg&count=15&render=pagelist(date,header,user,nocomments)&maxage=864000}}\\ **Stacey Swanson:**\\ {{changes>user=staceyswanson2&count=15&render=pagelist(date,header,user,nocomments)&maxage=864000}}\\ **Theresa Baker:**\\ {{changes>user=theresasb&count=15&render=pagelist(date,header,user,nocomments)&maxage=864000}}\\ **Warren Lamb:**\\ {{changes>user=warren_g&count=15&render=pagelist(date,header,user,nocomments)&maxage=864000}}|
+ 
 
 **USER: (needs to register)**
 
  {{changes>user=USER&count=15&render=pagelist(date,header,user,nocomments)&maxage=864000}}
 
+
+
 //Note: "maxage" = seconds//
 
-   * //1 day = 86400//
+  * //1 day = 86400//
   * //7 days = 604800//
   * //10 days = 864000//
   * //12 days = 1036800//
-
-\\
