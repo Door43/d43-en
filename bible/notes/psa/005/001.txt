@@ -21,19 +21,9 @@
 ===== UDB: =====
 
 <usfm>
-\v 1 Yahweh, listen to me while I pray!
-\q2 Pay attention to me when I am groaning because I am suffering very much.
-\q1
-\v 2 You are my King and my God.
-\q1 When I call to you to request you to help me, listen to me,
-\q2 because you are the one to whom I pray.
-\q1
-\v 3 Listen to me when I pray to you each morning,
-\q2 and I wait for you to reply.
-\b
-
-
-\q1
+\v 1
+\v 2
+\v 3
 </usfm>
 
 
@@ -41,17 +31,17 @@
 
 <usfm>
 \c 5
-\d For the Chief Musician; with wind insturments. A Psalm of David.
+\d \va 1 \va* For the Chief Musician; with wind instruments. A Psalm of David.
 \b
 \q
-\v 1 Listen to my cry , O Yahwah,
-\q  Consider my groanings..
+\v 1 \va 2 \va* Listen to my cry, O Yahweh,
+\q  Consider my groanings.
 \q
-\v 2 Hear my cry, my King, and my God;
-\q For to you do I pray.
+\v 2 \va 3 \va* Listen to the sound of my cry, my King and my God;
+\q For to you I pray.
 \q
-\v 3 O Yahwah, in the morning you hear my cry for help;
-\q In the morning I will bring my petiton to you, and wait expectantly..
+\v 3 \va 4 \va* O Yahweh, in the morning you hear my cry;
+\q In the morning I will bring my petiton to you and wait expectantly.
 </usfm>
 
 

@@ -20,18 +20,9 @@
 ===== UDB: =====
 
 <usfm>
-\v 4 You are not a god who is pleased with wicked people;
-\q2 you do not associate with those who do what is evil.
-\q1
-\v 5 You do not allow those who are proud to come to you to worship you.
-\q2 You hate all those who do evil things.
-\q1
-\v 6 You get rid of liars,
-\q2 and you despise those who murder others and those who deceive others.
-\b
-
-
-\q1
+\v 4
+\v 5
+\v 6
 </usfm>
 
 
@@ -39,14 +30,14 @@
 
 <usfm>
 \q
-\v 4 Certainly  you are not a God who approves of evil:
-\q Evil people will not dwell with you.
+\v 4 \va 5 \va* Certainly you are not a God who approves of evil;
+\q Evil people will not be your guests.
 \q
-\v 5 The arrogant will not stand in your presence:
+\v 5 \va 6 \va* The arrogant will not stand in your presence;
 \q You hate all who behave wickedly.
 \q
-\v 6 You will destroy liars:
-\q Yahwah despises  violent and deceitful men.
+\v 6 \va 7 \va* You will destroy liars;
+\q Yahweh despises violent and deceitful men.
 </usfm>
 
 

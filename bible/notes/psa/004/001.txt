@@ -15,13 +15,7 @@
 ===== UDB: =====
 
 <usfm>
-\v 1 God, answer me when I pray to you.
-\q2 You are the one who shows people that I am right to trust in you.
-\q1 You rescued me when I was in great trouble.
-\q2 Act mercifully toward me and listen to me while I pray.
-
-
-\q1
+\v 1
 </usfm>
 
 
@@ -29,10 +23,10 @@
 
 <usfm>
 \c 4
-\d For the Chief Musician; on stringed instruments. A Psalm of David.
+\d \va 1 \va* For the Chief Musician; on stringed instruments. A Psalm of David.
 \b
 \q
-\v 1 Answer me when I call, O God of my righteousness;
+\v 1 \va 2 \va* Answer me when I call, O God of my righteousness;
 \q You gave me room when I was hemmed in.
 \q Have mercy on me and hear my prayer.
 </usfm>

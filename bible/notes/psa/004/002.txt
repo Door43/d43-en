@@ -20,18 +20,8 @@
 ===== UDB: =====
 
 <usfm>
-\v 2 How long will you people shame me instead of honoring me?
-\q2 You people love to falsely accuse me.
-\qr
-\b
-\q1
-\v 3 All those who honor Yahweh;
-\q2 he has chosen them to belong to him.
-\q1 Yahweh listens to me when I pray to him.
-\b
-
-
-\q1
+\v 2
+\v 3
 </usfm>
 
 
@@ -39,11 +29,11 @@
 
 <usfm>
 \q
-\v 2 O you people, how long will you turn my glory into shame?
+\v 2 \va 3 \va* O you people, how long will you turn my glory into shame?
 \q How long will you love that which is worthless, and seek after lies?
 \qs [Selah\qs*
 \q
-\v 3 But know that Yahweh sets apart the godly for himself.
+\v 3 \va 4 \va* But know that Yahweh sets apart the godly for himself.
 \q Yahweh will hear when I call to him.
 </usfm>
 
