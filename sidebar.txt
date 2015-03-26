@@ -1,59 +1,61 @@
 
+
 ----
 
-** Door43 **
+**Door43 **
 
-  *[[en:home|Home (English)]]
+   * [[:en:home|Home (English)]]
 
 **Resources**
 
-  * [[:en:obs|Open Bible Stories]]
-    * [[:en:obs:notes|Translation Notes]]
-    * [[en:obs:notes:questions:home|Comprehension Questions]]
-  * [[en:bible:home|Bible]]
-    * [[en:ulb:home|unfoldingWord Literal Bible]]
-    * [[en:udb:home|unfoldingWord Dynamic Bible]]
-    * [[en:bible:notes:home|Translation Notes]]
-    * [[en:bible:questions:home|Comprehension Questions]]
+  *  [[:en:obs|Open Bible Stories]]
+      * [[:en:obs:notes|Translation Notes]]
+      * [[:en:obs:notes:questions:home|Comprehension Questions]]
+  *  [[:en:bible:home|Bible]]
+      * [[:en:ulb:home|unfoldingWord Literal Bible]]
+      * [[:en:udb:home|unfoldingWord Dynamic Bible]]
+      * [[:en:bible:notes:home|Translation Notes]]
+      * [[:en:bible:questions:home|Comprehension Questions]]
   * [[:en:lexicon|Open Bible Lexicon]]
-  * [[:en:library|Open Christian Library]]
-    * [[en:pet|Plain English Translation]]
-    * [[en:library:t4t:home|Translation for Translators]]
+  *  [[:en:library|Open Christian Library]]
+      * [[:en:pet|Plain English Translation]]
+      * [[:en:library:t4t:home|Translation for Translators]]
   * [[:en:ta|translationAcademy]]
 
 **About Door43**
 
-  * [[en:statement-of-faith|Statement of Faith]]
-  * [[en:translation-guidelines]]
-  * [[en:legal:license|Copyrights & Licensing]]
-  * [[en:syntax|Formatting Content]]
-  * [[en:tips-tricks|Tips & Tricks]]
-  * [[en:technical|Technical Details]]
+  * [[:en:statement-of-faith|Statement of Faith]]
+  * [[:en:translation-guidelines|Translation Guidelines]]
+  * [[:en:legal:license|Copyrights & Licensing]]
+  * [[:en:syntax|Formatting Content]]
+  * [[:en:tips-tricks|Tips & Tricks]]
+  * [[:en:technical|Technical Details]]
 
 **Help**
 
-  * [[en:get-started|How to Get Started]]
-  * [[en:ta:before:translation-manual|Translation Manual]]
-  * [[en:obs:help|Open Bible Stories Help]]
-
+  * [[:en:get-started|How to Get Started]]
+  * [[:en:ta:before:translation-manual|Translation Manual]]
+  * [[:en:obs:help|Open Bible Stories Help]]
 
 **Door43 Development**
 
-  * [[en:dev|Development Projects]]
+  * [[:en:dev|Development Projects]]
 
 ~~NOCACHE~~
 
 **Downloads**
 
-All content for this namespace is available in the [[https://github.com/Door43/d43-en|d43-en repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-en/archive/master.zip|d43-en.zip]]
+All content for this namespace is available in the [[https://github.com/Door43/d43-en|d43-en repository]]. To download it as a zip file, click [[https://github.com/Door43/d43-en/archive/master.zip|d43-en.zip]]
 
 **Recent Changes**
+
 {{changes>ns = en}}
 
-**[[en:uwadmin:en:obs:status|Latest OBS Status]]**
-{{page>en:uwadmin:en:obs:status}}
+**[[:en:uwadmin:en:obs:status|Latest OBS Status]]**
 
+{{page>en:uwadmin:en:obs:status}}
 
 **Language Information**
 
 [[http://www.ethnologue.com/language/eng|Ethnologue data]]
+
