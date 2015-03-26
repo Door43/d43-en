@@ -7,12 +7,12 @@
 **[[:en:bible:notes:mrk:01:01|Mark]]** \\
 **[[:en:bible:notes:act:01:01|Acts]]** \\
 **[[:en:bible:notes:jas:01:01|James]]** \\
-**[[:en:bible:notes:gal:01:01|Galatians]]**\\
-**[[:en:bible:notes:php:01:01|Philippians]]**\\
-**[[:en:bible:notes:col:01:01|Colossians]]**\\
-**[[:en:bible:notes:1jn:01:01|1 John]]**\\
-**[[:en:bible:notes:2jn:01:01|2 John]]**\\
-**[[:en:bible:notes:3jn:01:01|3 John]]**\\
+**[[:en:bible:notes:gal:01:01|Galatians]]** \\
+**[[:en:bible:notes:php:01:01|Philippians]]** \\
+**[[:en:bible:notes:col:01:01|Colossians]]** \\
+**[[:en:bible:notes:1jn:01:01|1 John]]** \\
+**[[:en:bible:notes:2jn:01:01|2 John]]** \\
+**[[:en:bible:notes:3jn:01:01|3 John]]**
 
 ==== Books Left to Process - Translation Notes ====
 
@@ -21,10 +21,10 @@
 |Leviticus |2 Chronicles |Lamentations |Zephaniah |2 Corinthians |Hebrews |
 |Numbers |Ezra |Ezekiel |Haggai |  |  |
 |Deuteronomy |Nehemiah |Daniel |Zechariah |Ephesians |1 Peter |
-|Joshua |Esther |Hosea |Malachi | |2 Peter |
-|Judges |Job |Joel |  | | |
-|  |Psalm |Amos | |1 Thessalonians | |
-|1 Samuel |Proverbs |Obadiah |  |2 Thessalonians | |
+|Joshua |Esther |Hosea |Malachi |  |2 Peter |
+|Judges |Job |Joel |  |  |  |
+|  |Psalm |Amos |  |1 Thessalonians |  |
+|1 Samuel |Proverbs |Obadiah |  |2 Thessalonians |  |
 |2 Samuel |Ecclesiastes |Jonah |John |  |Jude |
 |1 Kings |Song of Songs |Micah |  |  |Revelation |
 
@@ -75,8 +75,6 @@ See the [[:en:library|Open Christian Library]] for more copies of open license B
 |<font 18px/inherit;;rgb(0, 0, 0);;inherit>1 Samuel</font>     |<font 18px/inherit;;rgb(255, 0, 0);;inherit>Proverbs</font>     |<font 18px/inherit;;rgb(255, 0, 0);;inherit>Obadiah</font>     |<font 18px/inherit;;rgb(0, 0, 255);;inherit>Luke</font>     |<font 18px/inherit;;rgb(0, 0, 255);;inherit>2 Thessalonians</font>     |<font 18px/inherit;;rgb(0, 0, 255);;inherit>3 John</font>     |
 |<font 18px/inherit;;rgb(0, 0, 0);;inherit>2 Samuel</font>     |<font 18px/inherit;;rgb(255, 0, 0);;inherit>Ecclesiastes</font>     |<font 18px/inherit;;rgb(0, 0, 255);;inherit>Jonah</font>     |John |<font 18px/inherit;;rgb(0, 0, 255);;inherit>1 Timothy</font>     |<font 18px/inherit;;rgb(0, 0, 255);;inherit>Jude</font>     |
 |<font 18px/inherit;;rgb(0, 0, 0);;inherit>1 Kings</font>     |<font 18px/inherit;;rgb(255, 0, 0);;inherit>Song of Songs</font>     |<font 18px/inherit;;rgb(0, 0, 0);;inherit>Micah</font>     |<font 18px/inherit;;rgb(0, 0, 255);;inherit>Acts</font>     |<font 18px/inherit;;rgb(0, 0, 255);;inherit>2 Timothy</font>     |<font 18px/inherit;;rgb(0, 0, 255);;inherit>Revelation</font>     |
-
-\\
 
 ===== Beta USFM Files =====
 
