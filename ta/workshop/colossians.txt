@@ -1,12 +1,19 @@
-====== Colossians Chapters ======
+====== Colossians ======
+===== Links: =====
 
+  * [[:en:ulb:ep:51-col.usfm|Full ULB text of Colossians]]
+  * [[:en:udb:ep:51-col.usfm|Full UDB text of Colossians]]
+  * [[:en:ta:workshop|TN Workshop]]
+  * [[:en:bible:team-info:training:notes-training|Notes Training]]
+
+===== Chapters: =====
 <nspages en:bible:notes:col:01 -title -exclude:home -textPages="Colossians 1:" -nbCol=2> 
 
-<nspages en:bible:notes:col:02 -title -exclude:home -textPages="Colossians2:" -nbCol=2> 
+<nspages en:bible:notes:col:02 -title -exclude:home -textPages="Colossians 2:" -nbCol=2> 
 
-<nspages en:bible:notes:col:03 -title -exclude:home -textPages="Colossians3:" -nbCol=2> 
+<nspages en:bible:notes:col:03 -title -exclude:home -textPages="Colossians 3:" -nbCol=2> 
 
-<nspages en:bible:notes:col:04 -title -exclude:home -textPages="Colossians4:" -nbCol=2> 
+<nspages en:bible:notes:col:04 -title -exclude:home -textPages="Colossians 4:" -nbCol=2> 
 
 
 Return to [[en:ta:workshop]]
