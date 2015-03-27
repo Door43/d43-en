@@ -14,10 +14,10 @@
 {{count>create delete draft1 draft2 draft3 review discuss publish&en:bible:notes:key-terms}}
 
 ^  Group 1 Draft Pages  ^  Group 2 Draft Pages  ^  Group 3 Draft Pages  |
-| {{pagequery>ns:en:bible:notes:keyterms "{{tag>draft1"; fulltext; sort=title:asc; display={title}; natsort; showcount; hidemsg; hidejump;}} | {{pagequery>ns:en:bible:notes:keyterms "{{tag>draft2"; fulltext; sort=title:asc; display={title}; natsort; showcount; hidemsg; hidejump;}} | {{pagequery>ns:en:bible:notes:keyterms "{{tag>draft3"; fulltext; sort=title:asc; display={title}; natsort; showcount; hidemsg; hidejump;}} |
+| {{pagequery>ns:en:bible:notes:key-terms "{{tag>draft1"; fulltext; sort=title:asc; display={title}; natsort; showcount; hidemsg; hidejump;}} | {{pagequery>ns:en:bible:notes:key-terms "{{tag>draft2"; fulltext; sort=title:asc; display={title}; natsort; showcount; hidemsg; hidejump;}} | {{pagequery>ns:en:bible:notes:key-terms "{{tag>draft3"; fulltext; sort=title:asc; display={title}; natsort; showcount; hidemsg; hidejump;}} |
 
 ^  Review Pages  ^  Discuss Pages  |
-| {{pagequery>ns:en:bible:notes:keyterms "{{tag>review"; fulltext; sort=title:asc; display={title}; natsort; showcount; hidemsg; hidejump;}} | {{pagequery>ns:en:bible:notes:keyterms "{{tag>discuss"; fulltext; sort=title:asc; display={title}; natsort; showcount; hidemsg; hidejump;}} |
+| {{pagequery>ns:en:bible:notes:key-terms "{{tag>review"; fulltext; sort=title:asc; display={title}; natsort; showcount; hidemsg; hidejump;}} | {{pagequery>ns:en:bible:notes:key-terms "{{tag>discuss"; fulltext; sort=title:asc; display={title}; natsort; showcount; hidemsg; hidejump;}} |
 
 ==== Check for Bad Tags ====
 
