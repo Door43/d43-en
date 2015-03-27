@@ -6,18 +6,17 @@
 
 ==== KT Page Links ====
 
-  * [[:en:bible:admin-reports:kt-admin:key-term-and-tag-names]]
-  * [[:en:bible:admin-reports:kt-admin:key-terms-draft]]
-
+  * [[:en:bible:admin-reports:kt-admin:key-term-and-tag-names|Key Terms: Page and Tag Name]]
+  * [[:en:bible:admin-reports:kt-admin:key-terms-draft|Key Terms: Pages to Edit]]
 
 ==== Key Terms Pages Status ====
 
 {{count>create delete draft1 draft2 draft3 review discuss publish&en:bible:notes:key-terms}}
 
-^  Group 1 Draft Pages  ^  Group 2 Draft Pages  ^  Group 3 Draft Pages  ^
+^  Group 1 Draft Pages  ^  Group 2 Draft Pages  ^  Group 3 Draft Pages  |
 |{{topic>en:bible:notes:key-terms?draft1&nocomments}} |{{topic>en:bible:notes:key-terms?draft2&nocomments}} |{{topic>en:bible:notes:key-terms?draft3&nocomments}} |
 
-^  Review Pages  ^  Discuss Pages  ^
+^  Review Pages  ^  Discuss Pages  |
 |{{topic>en:bible:notes:key-terms?review&nocomments}} |{{topic>en:bible:notes:key-terms?discuss&nocomments}} |
 
 ==== Check for Bad Tags ====
