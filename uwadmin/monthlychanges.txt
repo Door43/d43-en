@@ -227,6 +227,8 @@
 {{changes>ns=sat:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:sck:obs|sck OBS]]**
 {{changes>ns=sck:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
+**[[:sco:obs|sco OBS]]**
+{{changes>ns=sco:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:sdh:obs|sdh OBS]]**
 {{changes>ns=sdh:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:shn:obs|shn OBS]]**
