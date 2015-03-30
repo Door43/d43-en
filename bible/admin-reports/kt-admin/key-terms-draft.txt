@@ -11,7 +11,7 @@ Because of the volume of terms, the KT team is divided into three groups so that
 ^  Groups  ^  Terms  |
 |  __**Group 1**  __  \\ Jan Zanutto \\ Matthew Latham \\ Richard Joki \\ Chris Samuel \\ |{{pagequery>ns:en:bible:notes:key-terms "{{tag>draft1"; fulltext; sort=title:asc; display={title}; natsort; showcount; hidemsg; hidejump;}} |
 |  __**Group 2**  __  \\ David Book \\ Drew Curley \\ Paul Holloway |{{pagequery>ns:en:bible:notes:key-terms "{{tag>draft2"; fulltext; sort=title:asc; display={title}; natsort; showcount; hidemsg; hidejump;}} |
-|  __**Group 3**  __  \\ |{{pagequery>ns:en:bible:notes:key-terms "{{tag>draft3"; fulltext; sort=title:asc; display={title}; natsort; showcount; hidemsg; hidejump;}} |
+
 
 {{tag>kt101}}
 
