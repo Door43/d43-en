@@ -24,13 +24,17 @@ We have too many projects to list and most are in active development, here is a 
 
 You should also browse our code repositories on Github, see [[https://github.com/Door43|Door43 Github account]], [[https://github.com/Door43/tools|Door43 tools repo]], [[https://github.com/Door43/translationdb-tools|translationDB tools repo]], [[https://github.com/Door43/translationStudio2|translationStudio v2]], [[https://github.com/Door43/translationKeyboard|translationKeyboard]], and unfoldingWord [[https://github.com/unfoldingWord/uW-android|android]] / [[https://github.com/unfoldingWord/uW-ios|ios]] mobile app.
 
+===== API Information =====
+
+  * **[[:en:dev:api:unfoldingword|unfoldingWord API]]** — //how to access unfoldingWord content via API.//
+  * **[[:en:dev:api:translationstudio|translationStudio API]]** — //how to access translationStudio content via API.//
+  * **[[:en:dev:api:translationkeyboard|translationKeyboard API]]** — //how to access translationKeyboard keyboards content via API.//
+
 
 ===== Open Bible Stories =====
 
   * **[[:en:dev:obs-app|Open Bible Stories App]]** — //a picture flipboard "ebook" with the text of each segment overlayed over the picture and all of it wrapped in a mobile app. //
   * **[[:en:dev:obs-translation-app|Open Bible Stories Translation App]]** — //an Android (and possibly Chrome(book) extension) that facilitates the translation of Open Bible Stories using a mobile device without requiring Internet access.//
-  * **[[:en:dev:api:unfoldingword|unfoldingWord API]]** — //how to access unfoldingWord content via API.//
-  * **[[:en:dev:api:translationstudio|translationStudio API]]** — //how to access translationStudio content via API.//
   * **[[:en:dev:obs-book-render|OBS Book Render]]** — //Open Bible Stories starts out as plain text, translated into any language. The text is combined with images on Door43 to create webpages with illustrations. The function of the **OBS Book Render**  utility is to convert the translated text and images into an Open Document file that can be post-processed and printed as a book.//
 
 ===== Extending Door43 =====
