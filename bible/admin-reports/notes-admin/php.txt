@@ -4,7 +4,7 @@
 
 ==== Philippians Pages Status ====
 
-^  Draft  ^  Review  ^  Discuss  ^  Publish  |
+^  Draft  ^  Review  ^  Discuss  ^  Publish  ^
 |{{pagequery>ns:en:bible:notes:php -ns:en:bible:notes:php:questions:comprehension "{{tag>draft"; fulltext; sort=title:asc; display={title}; natsort; showcount; hidemsg; hidejump;}} |{{pagequery>ns:en:bible:notes:php -ns:en:bible:notes:php:questions:comprehension "{{tag>review"; fulltext; sort=title:asc; display={title}; natsort; showcount; hidemsg; hidejump;}} |{{pagequery>ns:en:bible:notes:php -ns:en:bible:notes:php:questions:comprehension "{{tag>discuss"; fulltext; sort=title:asc; display={title}; natsort; showcount; hidemsg; hidejump;}} |{{pagequery>ns:en:bible:notes:php -ns:en:bible:notes:php:questions:comprehension "{{tag>publish"; fulltext; sort=title:asc; display={title}; natsort; showcount; hidemsg; hidejump;}} |
 
 ==== Check on bad tags ====
