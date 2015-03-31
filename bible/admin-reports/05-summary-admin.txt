@@ -2,13 +2,14 @@
 
 ~~NOCACHE~~
 
-==== In Process =====
-
-=== Key Terms Admin ===
+==== Key Terms Admin ====
 
   * [[:en:bible:admin-reports:kt-admin:key-terms-admin|Key Terms: Admin Page]]
   * [[:en:bible:admin-reports:kt-admin:key-terms-draft|Key Terms: Pages to Edit]]
 {{count>create draft1 draft2 draft3 review discuss publish&en:bible:notes:key-terms}}
+
+
+==== Books in Process =====
 
 === Genesis Admin ===
 
@@ -42,7 +43,7 @@
 {{count>draft review discuss publish&en:bible:notes:mat}}
 
 
-==== Finished ====
+==== Books Finished ====
 
 === 1 Timothy ===
 
