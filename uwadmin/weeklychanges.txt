@@ -70,6 +70,9 @@
 **[[:brx:obs|brx OBS]]**
 {{changes>ns=brx:obs&maxage=604800&render=pagelist(header,date,user,nocomments)}}
 
+**[[:bsk:obs|bsk OBS]]**
+{{changes>ns=bsk:obs&maxage=604800&render=pagelist(header,date,user,nocomments)}}
+
 **[[:bus:obs|bus OBS]]**
 {{changes>ns=bus:obs&maxage=604800&render=pagelist(header,date,user,nocomments)}}
 
