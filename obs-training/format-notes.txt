@@ -10,9 +10,9 @@
 
 ===== Deciding When to Write a Note: =====
 If the meaning of a word is unclear, see if there is an Important Word page for that word. You can view the full list of the OBS Important Words [[en:obs:key-terms:home|here]].
-  * If there is, and if the page clarifies the meaning of the word, then do not write a note. 
-  * If the key term has different senses, write a note telling which sense is intended on that chunk.  
-  * If a word is not clear and it is not a key term, write a translation suggestion using a simpler word or phrase. If you can’t write a translation suggestion, explain what the word means.
+  * If there is an Important Word page, and if the page clarifies the meaning of the word, then do not write a note. 
+  * If the Important Word has different senses, write a note telling which sense is intended on that frame.  
+  * If a word is not clear and it is not a Important Word, write a translation suggestion using a simpler word or phrase. If you can’t write a translation suggestion, explain what the word means.
 
 Gateway translators have the liberty to make the adjustments necessary to make the meaning of what they are translating clear in their language. We are assuming that the Notes will need adjustments, additions, and deletions to keep them relevant to the text that they are commenting on, which will necessarily be worded differently than the English.
 ===== Adding New Notes  =====
