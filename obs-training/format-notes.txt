@@ -41,40 +41,4 @@ Gateway translators have the liberty to make the adjustments necessary to make t
   * Write a translation suggestion that can be used in place of the portion you have selected.
   * Continue with the rest of the notes.
 
-===== Formats for Specific Types of Notes: =====
-
-There are several ways to write translation notes. We would like them to fit into one of the following formats so we can easily train the translators and so they will recognize the purpose of each note.
-
-=== Synonym(s) or Equivalent Phrase(s) ===
-
-Synonyms or equivalent phrases should simply be written in double-quotes. They do not need to be full sentences, and should not normally be punctuated. However, if they are followed by another sentence, they should have a final period to set off the following sentence.
-
-  * **the way**  - "the path" or "the road"
-  * **to be baptized by him**  - "for John to baptize them"
-  * **do likewise**  - "do the same thing." It can be translated here as "give food to someone who does not have any."
-  * **taught the people out of the boat**  - "taught the people while he sat in the boat." Jesus was in the boat a short distance from the shore and he was speaking to the people who were on the shore.
-=== Definitions ===
-
-Simple definitions of words or phrases can be added without quotes or sentence format.
-
-  * **marketplace**  - a large, open-air area where people would come to sell their goods
-  * **flute**  - a long, hollow musical instrument which is played by blowing air in or over one end
-  * **kings' palaces**  - a large, expensive house that a king lives in
-=== Alternate Meaning(s) ===
-
-Alternate meanings refer to when there are not just multiple ways to express something, but to when there are different understandings of what the word or phrase means. In this case, prefix the meanings with "Possible meanings are" and number them with the preferred rendering as the first meaning.
-
-  * **fell down at Jesus knees**  - Possible meanings are 1) "bowed down at Jesus feet" or 2) "lay down on the ground at Jesus feet" or 3) "knelt down before Jesus." Peter did not fall accidentally. He did this as a sign of humility and respect for Jesus.
-=== Explanatory Comment ===
-
-Simple explanations about words or phrases should be in sentence format.
-
-  * **washing their nets**  - They were cleaning their fishing nets in order to use them again to catch fish.
-  * **motioned**  - They were too far from shore to call so they made gestures, probably waving their arms.
-=== Indirect to Direct Quote ===
-
-When adding the option for a direct quote, preface the alternate with "It can be translated as a direct quote:" followed by the new phrase.
-
-  * **to tell no one**  - This is an indirect quote. It can be translated as a direct quote: "Do not tell anyone."
-
 ~~DISCUSSIONS~~
