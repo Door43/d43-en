@@ -17,7 +17,7 @@
 | {{pagequery>ns:en:bible:notes:key-terms "{{tag>draft1"; fulltext; sort=title:asc; display={title}; natsort; showcount; hidemsg; hidejump;}} | {{pagequery>ns:en:bible:notes:key-terms "{{tag>draft2"; fulltext; sort=title:asc; display={title}; natsort; showcount; hidemsg; hidejump;}} |
 
 ^  Review Pages  ^  Discuss Pages  |
-| {{pagequery>ns:en:bible:notes:key-terms "{{tag>review" "{{tag>publish review"; fulltext; sort=title:asc; display={title}; natsort; showcount; hidemsg; hidejump;}} | {{pagequery>ns:en:bible:notes:key-terms "{{tag>discuss"; fulltext; sort=title:asc; display={title}; natsort; showcount; hidemsg; hidejump;}} |
+| {{pagequery>ns:en:bible:notes:key-terms "{{tag>review" +"{{tag>publish review"; fulltext; sort=title:asc; display={title}; natsort; showcount; hidemsg; hidejump;}} | {{pagequery>ns:en:bible:notes:key-terms "{{tag>discuss"; fulltext; sort=title:asc; display={title}; natsort; showcount; hidemsg; hidejump;}} |
 
 ==== Check for Bad Tags ====
 
