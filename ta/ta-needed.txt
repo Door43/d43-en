@@ -77,4 +77,21 @@ After you have published the module:
 
 \\
 
+==== Draft Content for "Topic" Page: ====
+
+<code>
+====== topic ======
+
+===== Examples from English =====
+
+===== Examples from the Bible =====
+
+===== Translation Suggestions =====
+
+(See also: [[:en:ta:xxxx]])
+
+{{tag>draft}} ~~DISCUSSIONS~~
+</code>
+
+
 ~~NOCACHE~~
