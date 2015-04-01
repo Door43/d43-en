@@ -1,0 +1,56 @@
+====== How to Format OBS Translation Notes ======
+
+===== General Principles for Formatting Notes: =====
+
+  * Select a portion from the story text that needs a note and write it by one of the bullets under "Translation Notes."
+  * If your language allows bolding, format the selected portion as bolded text.
+  * Follow the portion from the story with a dash ( - ).
+  * Write a translation suggestion that can be used in place of the portion you have selected.
+  * Put the suggestion in quotes and if there is more than one suggestion, separate them with the word "or."
+      * "X" or "Y" or "Z"
+      * This can be translated as "X" or "Y" or "Z."
+  * Normally we do not need to write notes for terms that are in the key terms list. However, when a key term has multiple senses, you may need to write a note telling which sense is meant in the text.
+
+===== Formats for Specific Types of Notes: =====
+
+There are several ways to write translation notes. We would like them to fit into one of the following formats so we can easily train the translators and so they will recognize the purpose of each note.
+
+=== Synonym(s) or Equivalent Phrase(s) ===
+
+Synonyms or equivalent phrases should simply be written in double-quotes. They do not need to be full sentences, and should not normally be punctuated. However, if they are followed by another sentence, they should have a final period to set off the following sentence.
+
+  * **the way**  - "the path" or "the road"
+  * **to be baptized by him**  - "for John to baptize them"
+  * **do likewise**  - "do the same thing." It can be translated here as "give food to someone who does not have any."
+  * **taught the people out of the boat**  - "taught the people while he sat in the boat." Jesus was in the boat a short distance from the shore and he was speaking to the people who were on the shore.
+=== Definitions ===
+
+Simple definitions of words or phrases can be added without quotes or sentence format.
+
+  * **marketplace**  - a large, open-air area where people would come to sell their goods
+  * **flute**  - a long, hollow musical instrument which is played by blowing air in or over one end
+  * **kings' palaces**  - a large, expensive house that a king lives in
+=== Alternate Meaning(s) ===
+
+Alternate meanings refer to when there are not just multiple ways to express something, but to when there are different understandings of what the word or phrase means. In this case, prefix the meanings with "Possible meanings are" and number them with the preferred rendering as the first meaning.
+
+  * **fell down at Jesus knees**  - Possible meanings are 1) "bowed down at Jesus feet" or 2) "lay down on the ground at Jesus feet" or 3) "knelt down before Jesus." Peter did not fall accidentally. He did this as a sign of humility and respect for Jesus.
+=== Explanatory Comment ===
+
+Simple explanations about words or phrases should be in sentence format.
+
+  * **washing their nets**  - They were cleaning their fishing nets in order to use them again to catch fish.
+  * **motioned**  - They were too far from shore to call so they made gestures, probably waving their arms.
+=== Indirect to Direct Quote ===
+
+When adding the option for a direct quote, preface the alternate with "It can be translated as a direct quote:" followed by the new phrase.
+
+  * **to tell no one**  - This is an indirect quote. It can be translated as a direct quote: "Do not tell anyone." The implied information is "that you have been healed." (See: __[[:en:ta:vocabulary:quotation|
+Speech Quotations
+
+</font> ]]__, __[[:en:ta:discourse:implicitexplicit|
+Explicit and Implicit Information
+
+</font> ]]__)
+
+===   ===
