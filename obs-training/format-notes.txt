@@ -1,20 +1,21 @@
 ====== Writing OBS Translation Notes ======
 
-==== Things to Look for in the Text: ====
+===== Things to Look for in the Text: =====
+
   * Words or phrases that are difficult to understand.
   * Implicit information - This is information that the speaker did not actually say, but the original audience would have understood.
   * Figures of speech such as rhetorical questions, metaphors, similes that may be hard for other languages to understand.
   * Pronouns that might not be easy to understand who or what it refers to in the text.
   * Verbal nouns that may be difficult to translate into other languages. For example, they may not have a noun meaning ‘forgiveness’, but they may have a verb meaning ‘forgive.’
 
-==== Deciding when to Write a Note: ====
+===== Deciding when to Write a Note: =====
 If the meaning of a word is unclear, see if there is an Important Word page for that word. You can view the full list of the OBS Important Words [[en:obs:key-terms:home|here]].
   * If there is, and if the page clarifies the meaning of the word, then do not write a note. 
   * If the key term has different senses, write a note telling which sense is intended on that chunk.  
   * If a word is not clear and it is not a key term, write a translation suggestion using a simpler word or phrase. If you can’t write a translation suggestion, explain what the word means.
 
 
-==== General Principles for Formatting Notes: ====
+===== General Principles for Formatting Notes: =====
 
   * Select a portion from the story text that needs a note and write it by one of the bullets under "Translation Notes."
   * If your language allows bolding, format the selected portion as bolded text.
