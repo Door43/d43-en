@@ -1,7 +1,7 @@
 ===== Translation Tools =====
 
 To help facilitate the translation and creation of Biblical content, unfoldingWord has created a number of tools:
-  * [[en:ta:tech:door43|Door43]] - a website where translators can do online translating, also the content management system for unfoldingWord
+  * [[en:ta:tech:door43|Door43]] - an online translation platform where people can collaborate on translation and checking, also the content management system for unfoldingWord
   * [[en:ta:tech:ts|translationStudio]] - a mobile app where translators can do offline translating
   * [[en:ta:tech:tk|translationKeyboard]] - a mobile app where users can create custom keyboards for languages not supported by their mobile device
   * [[en:ta:tech:uw|unfoldingWord app]] - a mobile app where checked unfoldingWord translations are published and distributed
