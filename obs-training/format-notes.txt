@@ -15,9 +15,9 @@ If the meaning of a word is unclear, see if there is an Important Word page for 
   * If a word is not clear and it is not a key term, write a translation suggestion using a simpler word or phrase. If you can’t write a translation suggestion, explain what the word means.
 
 Gateway translators have the liberty to make the adjustments necessary to make the meaning of what they are translating clear in their language. We are assuming that the Notes will need adjustments, additions, and deletions to keep them relevant to the text that they are commenting on, which will necessarily be worded differently than the English.
-===== General Principles for Formatting Notes: =====
+===== Adding New Notes  =====
 
-  * Select a portion from the story text that needs a note and write it by one of the bullets under "Translation Notes."
+  * Select a portion from the story text that needs a new note. Add a new line after a note in the "Translation Notes" section. List the story portions in the same order they occurred in the text. 
   * If your language allows bolding, format the selected portion as bolded text.
   * Follow the portion from the story with a dash ( - ).
   * Write a translation suggestion that can be used in place of the portion you have selected.
@@ -25,6 +25,15 @@ Gateway translators have the liberty to make the adjustments necessary to make t
       * "X" or "Y" or "Z"
       * This can be translated as "X" or "Y" or "Z."
   * Normally we do not need to write notes for terms that are in the key terms list. However, when a key term has multiple senses, you may need to write a note telling which sense is meant in the text.
+
+===== Basic Formatting of Notes  =====
+
+  * Add a new line after a note. (Click at the end of the note and press the Enter key.)
+  * Copy the translated text that corresponds with notes text from the story.
+  * If your language allows bolding, format the copied text as bolded text.
+  * Follow the portion from the story with a dash ( - ).
+  * Write a translation suggestion that can be used in place of the portion you have selected.
+  * Continue with the rest of the notes.
 
 ===== Formats for Specific Types of Notes: =====
 
