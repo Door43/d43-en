@@ -26,7 +26,13 @@ Gateway translators have the liberty to make the adjustments necessary to make t
       * This can be translated as "X" or "Y" or "Z."
   * Normally we do not need to write notes for terms that are in the key terms list. However, when a key term has multiple senses, you may need to write a note telling which sense is meant in the text.
 
-===== Basic Formatting of Notes  =====
+===== Basic Notes Formatting  =====
+
+  * Write the word or phrase from the source text in bold. Do not put quotes around it.
+  * If you write a translation suggestion, put the suggestion in double quotes. The translation suggestions should be able to replace the bolded phrase and fit in the ULB text. 
+  * If you give an explanation, use a full sentence with an initial capital letter and ordinary punctuation.
+
+===== Translating Notes  =====
 
   * Add a new line after a note. (Click at the end of the note and press the Enter key.)
   * Copy the translated text that corresponds with notes text from the story.
