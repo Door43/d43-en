@@ -6,52 +6,56 @@ Welcome to the workshop
 
   * [[:en:get-started?do=register|Register as a New User]]
   * [[:en:obs-training:format-notes|Writing OBS Translation Notes]]
-  * [[en:ta:ckg]]
-  * [[en:switching_editors]]
+  * [[:en:ta:ckg|Using the CKG (Graphical) Editor]]
+  * [[:en:switching_editors|Switching Editors]]
   * [[:en:ta:syntax|Formatting Content in the DW Editor]]
 
 ===== Language Links =====
 
-==== Brazilian Portuguese ==== 
+==== Brazilian Portuguese ====
+
 [[:pt-br:obs|Home Page]] General information and the list of stories. \\
 [[:pt-br:obs:01|Stories]] to Read. Choose a story by clicking on the link in the left column. \\
 [[:pt-br:obs:notes:home|Notes Directory]]- place to translate. Choose by story-frame number in the list or using story links in the left column. \\
 [[:pt-br:obs:key-terms:home|Important Words]] \\
-[[pt-br:obs:notes:questions|OBS Questions]]
-
+[[:pt-br:obs:notes:questions|OBS Questions]]
 
 ==== French ====
+
 [[:fr:obs|Home Page]] General information and the list of stories. \\
 [[:fr:obs:01|Stories]] to Read. Choose a story by clicking on the link in the left column. \\
 [[:fr:obs:notes:home|Notes Directory]]- place to translate. Choose by story-frame number in the list or using story links in the left column. \\
 [[:fr:obs:key-terms:home|Important Words]] \\
-[[fr:obs:notes:questions|OBS Questions]]
+[[:fr:obs:notes:questions|OBS Questions]]
 
 ==== Spanish ====
+
 [[:es:obs|Home Page]] General information and the list of stories. \\
 [[:es:obs:01|Stories]] to Read. Choose a story by clicking on the link in the left column. \\
 [[:es:obs:notes:home|Notes Directory]]- place to translate. Choose by story-frame number in the list or using story links in the left column. \\
 [[:es:obs:key-terms:home|Important Words]] \\
-[[es:obs:notes:questions|OBS Questions]]
+[[:es:obs:notes:questions|OBS Questions]]
 
 ==== Puerto Rican (Spanish) ====
+
 [[:es-419:obs|Home Page]] General information and the list of stories. \\
 [[:es-419:obs:01|Stories]] to Read. Choose a story by clicking on the link in the left column. \\
 [[:es-419:obs:notes:home|Notes Directory]]- place to translate. Choose by story-frame number in the list or using story links in the left column. \\
 [[:es-419:obs:key-terms:home|Important Words]] \\
-[[es-419:obs:notes:questions|OBS Questions]]
-
+[[:es-419:obs:notes:questions|OBS Questions]]
 
 ==== Chinese (Mandarin) ====
+
 [[:zh:obs|Home Page]] General information and the list of stories. \\
 [[:zh:obs:01|Stories]] to Read. Choose a story by clicking on the link in the left column. \\
 [[:zh:obs:notes:home|Notes Directory]]- place to translate. Choose by story-frame number in the list or using story links in the left column. \\
 [[:zh:obs:key-terms:home|Important Words]] \\
-[[zh:obs:notes:questions|OBS Questions]]
+[[:zh:obs:notes:questions|OBS Questions]]
 
 ==== Swahili ====
+
 [[:sw:obs|Home Page]] General information and the list of stories. \\
 [[:sw:obs:01|Stories]] to Read. Choose a story by clicking on the link in the left column. \\
 [[:sw:obs:notes:home|Notes Directory]]- place to translate. Choose by story-frame number in the list or using story links in the left column. \\
 [[:sw:obs:key-terms:home|Important Words]] \\
-[[sw:obs:notes:questions|OBS Questions]]
+[[:sw:obs:notes:questions|OBS Questions]]
