@@ -29,76 +29,14 @@ The following pages are tagged as "Erika" and need to be edited by **Erika**:
 
 After Erika has reorganized the pages these pages need to be edited by **Billie Jo**:
 
-{{topic>en:ta?bjo&nocomments}}
+ {{topic>en:ta?bjo&nocomments}}
 
 ----
 
 After Erika has reorganized the pages these pages need information added by **Dan King**:
 
-[[topic>en:ta?dank&nocomments}}
+{{topic>en:ta?dank&nocomments}}
 
-==== TA Topics Listed by Tag ====
-
- {{topic>tatopic&nocomments}}
-
-==== Draft tA Pages to Edit ====
-
-The following pages are tagged as "draft" and need to be edited by the team:\\
-**Full List**
-
- {{topic>en:ta?draft&nocomments}}
-
-**Separated out list** \\
-Discourse
-
-{{topic>en:ta:discourse?draft&nocomments}}
-
-Figures of Speech
-
-{{topic>en:ta:figuresofspeech?draft&nocomments}}
-
-Translate
-
-{{topic>en:ta:translate?draft&nocomments}}
-
-Translation Guidelines
-
-{{topic>en:ta:translation-guidelines?draft&nocomments}}
-
-Vocabulary
-
-{{topic>en:ta:vocabulary?draft&nocomments}}
-
-==== Edited tA Pages to Review ====
-
-The following pages are tagged as "review" and need final review and then to be published:
-
-{{topic>en:ta?review&nocomments}}
-
-=== Followup ===
-
-After you have published the module:
-
-  * Edit the link to the tA page in the Bible chunk page
-  * Remove the tag from the Bible text page (leave any "ktlink" tags)
-
-\\
-
-==== Draft Content for "Topic" Page: ====
-
-<code>
-====== topic ======
-
-===== Translation Suggestions =====
-
-===== Examples from the Bible =====
-
-===== Examples from English =====
-
-(See also: [[:en:ta:xxxx]])
-
-{{tag>draft}} ~~DISCUSSIONS~~
-</code>
-
+~~DISCUSSIONS~~
 
 ~~NOCACHE~~
