@@ -11,12 +11,12 @@
 
 <nspages en:bible:notes:jas:01 -sortID -title -exclude:home -textPages="James 1:" -nbCol=2>
 
-<nspages en:bible:notes:jas:02 -title -exclude:home -textPages="James 2:" -nbCol=2>
+<nspages en:bible:notes:jas:02 -sortID -title -exclude:home -textPages="James 2:" -nbCol=2>
 
-<nspages en:bible:notes:jas:03 -title -exclude:home -textPages="James 3:" -nbCol=2>
+<nspages en:bible:notes:jas:03 -sortID -title -exclude:home -textPages="James 3:" -nbCol=2>
 
-<nspages en:bible:notes:jas:04 -title -exclude:home -textPages="James 4:" -nbCol=2>
+<nspages en:bible:notes:jas:04 -sortID -title -exclude:home -textPages="James 4:" -nbCol=2>
 
-<nspages en:bible:notes:jas:05 -title -exclude:home -textPages="James 5:" -nbCol=2>
+<nspages en:bible:notes:jas:05  -title -sortID -exclude:home -textPages="James 5:" -nbCol=2>
 
 Return to [[:en:ta:workshop|TN Workshop]]
