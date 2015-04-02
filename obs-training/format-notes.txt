@@ -3,21 +3,24 @@
 ===== Things to Look for in the Text: =====
 
   * Words or phrases that are difficult to understand.
-  * Implicit information - This is information that the speaker did not actually say, but the original audience would have understood.
+  * Implicit information - This is information that the speaker did not actually say, but that the original audience would have understood.
   * Figures of speech such as rhetorical questions, metaphors, similes that may be hard for other languages to understand.
   * Pronouns that might not be easy to understand who or what it refers to in the text.
   * Verbal nouns that may be difficult to translate into other languages. For example, they may not have a noun meaning ‘forgiveness’, but they may have a verb meaning ‘forgive.’
 
 ===== Deciding When to Write a Note: =====
-If the meaning of a word is unclear, see if there is an Important Word page for that word. You can view the full list of the OBS Important Words [[en:obs:key-terms:home|here]].
-  * If there is an Important Word page, and if the page clarifies the meaning of the word, then do not write a note. 
-  * If the Important Word has different senses, write a note telling which sense is intended on that frame.  
+
+If the meaning of a word is unclear, see if there is an Important Word page for that word. You can view the full list of the OBS Important Words [[:en:obs:key-terms:home|here]].
+
+  * If there is an Important Word page, and if the page clarifies the meaning of the word, then do not write a note.
+  * If the Important Word has different senses, write a note telling which sense is intended on that frame.
   * If a word is not clear and it is not a Important Word, write a translation suggestion using a simpler word or phrase. If you can’t write a translation suggestion, explain what the word means.
 
 Gateway translators have the liberty to make the adjustments necessary to make the meaning of what they are translating clear in their language. We are assuming that the Notes will need adjustments, additions, and deletions to keep them relevant to the text that they are commenting on, which will necessarily be worded differently than the English.
-===== Adding New Notes  =====
 
-  * Select a portion from the story text that needs a new note. Add a new line after a note in the "Translation Notes" section. List the story portions in the same order they occurred in the text. 
+===== Adding New Notes =====
+
+  * Select a portion from the story text that needs a new note. Add a new line after a note in the "Translation Notes" section. List the story portions in the same order they occurred in the text.
   * If your language allows bolding, format the selected portion as bolded text.
   * Follow the portion from the story with a dash ( - ).
   * Write a translation suggestion that can be used in place of the portion you have selected.
@@ -26,13 +29,13 @@ Gateway translators have the liberty to make the adjustments necessary to make t
       * This can be translated as "X" or "Y" or "Z."
   * Normally we do not need to write notes for terms that are in the Important Terms list. However, when a the term has multiple senses, you may need to write a note telling which sense is meant in the text.
 
-===== Basic Notes Formatting  =====
+===== Basic Notes Formatting =====
 
   * Write the word or phrase from the source text in bold. Do not put quotes around it.
-  * If you write a translation suggestion, put the suggestion in double quotes. The translation suggestions should be able to replace the bolded phrase. 
+  * If you write a translation suggestion, put the suggestion in double quotes. The translation suggestions should be able to replace the bolded phrase.
   * If you give an explanation, use a full sentence with an initial capital letter and ordinary punctuation.
 
-===== Translating Notes  =====
+===== Translating Notes =====
 
   * Add a new line after a note. (Click at the end of the note and press the Enter key.)
   * Copy the translated text that corresponds with notes text from the story.
@@ -40,5 +43,4 @@ Gateway translators have the liberty to make the adjustments necessary to make t
   * Follow the portion from the story with a dash ( - ).
   * Write a translation suggestion that can be used in place of the portion you have selected.
   * Continue with the rest of the notes.
-
 ~~DISCUSSIONS~~
