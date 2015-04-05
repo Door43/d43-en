@@ -79,6 +79,8 @@
 {{changes>ns=fr:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:frd:obs|frd OBS]]**
 {{changes>ns=frd:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
+**[[:frr:obs|frr OBS]]**
+{{changes>ns=frr:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:gaa:obs|gaa OBS]]**
 {{changes>ns=gaa:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:gaj:obs|gaj OBS]]**
@@ -171,6 +173,8 @@
 {{changes>ns=lv:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:mas:obs|mas OBS]]**
 {{changes>ns=mas:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
+**[[:mer:obs|mer OBS]]**
+{{changes>ns=mer:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:mg:obs|mg OBS]]**
 {{changes>ns=mg:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:mgh:obs|mgh OBS]]**
@@ -199,6 +203,8 @@
 {{changes>ns=nxl:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:or:obs|or OBS]]**
 {{changes>ns=or:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
+**[[:p-br:obs|p-br OBS]]**
+{{changes>ns=p-br:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:pa:obs|pa OBS]]**
 {{changes>ns=pa:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:pga:obs|pga OBS]]**
