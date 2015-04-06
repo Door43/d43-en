@@ -6,6 +6,11 @@
 
 ==== (Activity for previous 10 days) ====
 
+
+**Susan Quigley:**
+
+ {{changes>user=susanquigley&count=15&render=pagelist(date,header,user,nocomments)&maxage=864000}}
+
 **Amanda Adams:**
 
  {{changes>user=amanda.adams&count=15&render=pagelist(date,header,user,nocomments)&maxage=864000}}
@@ -37,10 +42,6 @@
 **Theresa Baker:**
 
  {{changes>user=theresasb&count=15&render=pagelist(date,header,user,nocomments)&maxage=864000}}
-
-**Susan Q**
-
- {{changes>user=susanquigley&count=15&render=pagelist(date,header,user,nocomments)&maxage=864000}}
 
 
 **USER: (needs to register)**
