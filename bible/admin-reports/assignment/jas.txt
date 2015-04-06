@@ -22,6 +22,6 @@ These are the pages that that are in "draft" status. They are the ones your team
 {{topic>en:bible:notes:jas:05?draft&sort}}
 
 
-{{pagequery>ns:en:bible:notes:jas -ns:en:bible:notes:jas:questions:comprehension fulltext; sort=title:asc; display={title}; natsort; showcount; hidemsg; hidejump;}}
+{{pagequery>ns:en:bible:notes:jas -ns:en:bible:notes:jas:questions:comprehension "tag>" fulltext; sort=title:asc; display={title}; natsort; showcount; hidemsg; hidejump;}}
 
 {{tag>notes101}}
