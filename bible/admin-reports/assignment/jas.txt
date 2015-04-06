@@ -15,13 +15,6 @@ These are the pages that that are in "draft" status. They are the ones your team
 
 (When your team completes a page, your team lead should change the status to "review" in the tag at the bottom of the page.)
 
-{{topic>en:bible:notes:jas:01?draft&sort}}
-{{topic>en:bible:notes:jas:02?draft&sort}}
-{{topic>en:bible:notes:jas:03?draft&sort}}
-{{topic>en:bible:notes:jas:04?draft&sort}}
-{{topic>en:bible:notes:jas:05?draft&sort}}
-
-
 {{pagequery>ns:en:bible:notes:jas -ns:en:bible:notes:jas:questions:comprehension "{{tag>"; fulltext; sort=title:asc; display={title}; natsort; showcount; hidemsg; hidejump;}}
 
 {{tag>notes101}}
