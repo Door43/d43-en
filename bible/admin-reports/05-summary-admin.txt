@@ -6,8 +6,7 @@
 
   * [[:en:bible:admin-reports:kt-admin:key-terms-admin|Key Terms: Admin Page]]
   * [[:en:bible:admin-reports:kt-admin:key-terms-draft|Key Terms: Pages to Edit]]
-{{count>create draft1 draft2 review text discuss publish&en:bible:notes:key-terms}}
-
+{{count>create delete draft1 draft2 review text discuss publish&en:bible:notes:key-terms}}
 
 ==== Books in Process =====
 
