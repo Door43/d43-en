@@ -38,13 +38,15 @@
 
  {{changes>user=theresasb&count=15&render=pagelist(date,header,user,nocomments)&maxage=864000}}
 
+**Susan Q**
+
+ {{changes>user=susanquigley&count=15&render=pagelist(date,header,user,nocomments)&maxage=864000}}
+
+
 **USER: (needs to register)**
 
  {{changes>user=USER&count=15&render=pagelist(date,header,user,nocomments)&maxage=864000}}
 
-**Susan Q**
-
- {{changes>user=susanquigley&count=15&render=pagelist(date,header,user,nocomments)&maxage=864000}}
 
 //Note: "maxage" = seconds//
 
