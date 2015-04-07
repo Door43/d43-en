@@ -1,0 +1,20 @@
+====== Notes: Ephesians Admin Page ======
+
+~~NOCACHE~~
+
+\\
+
+\\
+
+==== Ephesians Page Status ====
+
+^  Draft  ^  Review  ^  Text  ^  Discuss  ^  Publish  ^
+|{{pagequery>ns:en:bible:notes:eph -ns:en:bible:notes:eph:questions:comprehension "{{tag>draft"; fulltext; sort=title:asc; display={title}; natsort; showcount; hidemsg; hidejump;}} |{{pagequery>ns:en:bible:notes:eph -ns:en:bible:notes:eph:questions:comprehension "{{tag>review"; fulltext; sort=title:asc; display={title}; natsort; showcount; hidemsg; hidejump;}} |{{pagequery>ns:en:bible:notes:eph -ns:en:bible:notes:eph:questions:comprehension "{{tag>text"; fulltext; sort=title:asc; display={title}; natsort; showcount; hidemsg; hidejump;}} |{{pagequery>ns:en:bible:notes:eph -ns:en:bible:notes:eph:questions:comprehension "{{tag>discuss"; fulltext; sort=title:asc; display={title}; natsort; showcount; hidemsg; hidejump;}} |{{pagequery>ns:en:bible:notes:eph -ns:en:bible:notes:eph:questions:comprehension "{{tag>publish"; fulltext; sort=title:asc; display={title}; natsort; showcount; hidemsg; hidejump;}} |
+
+==== Check on bad tags ====
+
+This query checks the first tag to be one of 5 valid tags required to make the system work correctly: {draft|review|text|discuss|publish}. Any verses listed here are likely being overlooked above. please include this query for every bible book admin page. (EQ)
+
+{{pagequery>ns:en:bible:notes:eph "{{tag>" -"{{tag>draft" -"{{tag>review" -"{{tag>text" -"{{tag>discuss" -"{{tag>publish"; fulltext; sort=title:asc; display={title}; natsort; layout=table; showcount; hidemsg; hidejump;}}
+
+\\
