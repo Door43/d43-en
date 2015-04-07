@@ -1,29 +1,26 @@
 ===== Adding Graphics to a Page =====
 
-
 Click [[http://youtu.be/Y7YczCLzVC8|here]] for a video of these steps:
 
+  - Be sure you are signed into your account.
+  - Go to the desired page.
+  - Select Media Manager.
+  - Click on the Upload tab.
+  - Browse for and select the file.
+  - Repeat selecting files if desired.
+  - Click the Upload button.
+  - Select the Media tab.
+  - Right click and copy shortcut of the uploaded file.
+  - Return to the page.
+  - Click the pencil icon.
+  - Use the DKEdit editor.
+  - Type in the syntax:
 
-    - Be sure you are signed into your account.
-    - Go to the desired page.
-    - Select Media Manager.
-    - Click on the Upload tab.
-    - Browse for and select the file.
-    - Repeat selecting files if desired.
-    - Click the Upload button.
-    - Select the Media tab.
-    - Right click and copy shortcut of the uploaded file.
-    - Return to the page.
-    - Click the pencil icon.
-    - Use the DKEdit editor.
-    - Type in the syntax:
+<code>
+ {{NAMESPACE:GRAPHIC_FILE_NAME.JPG?###X###}}
+</code>
 
+  - Save the edits.
+{{tag>notes401 kt301}}
 
-<code> {{NAMESPACE:GRAPHIC_FILE_NAME.JPG?###X###}} </code>
-
-
-    - Save the edits.
-
-
-{{tag>notes301 kt301}}
 ~~NOCACHE~~
