@@ -15,6 +15,4 @@ These are the pages that that are in "draft" status. They are the ones your team
 
 (When your team completes a page, your team lead should change the status to "review" in the tag at the bottom of the page.)
 
-{{pagequery>ns:en:bible:notes:2jn -ns:en:bible:notes:2jn:questions:comprehension "{{tag>draft"; fulltext; sort=title:asc; display={title}; natsort; showcount; hidemsg; hidejump;}}
-
-{{tag>notes101}}
+{{pagequery>ns:en:bible:notes:2jn -ns:en:bible:notes:2jn:questions:comprehension "{{tag>draft"; fulltext; sort=title:asc; display={title}; natsort; showcount; hidemsg; hidejump;}}{{tag>notes2101}}
