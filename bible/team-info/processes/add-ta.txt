@@ -1,23 +1,28 @@
 ====== Adding Translation Academy Links ======
 
-Before adding a tA link to a page, check here to see if it already exists in [[en/ta/ta-topics]]
+Before adding a tA link to a page, check here to see if it already exists in [[:en:ta:ta-topics|Translation Academy Topics]]
 
   * Add the link to the page using the correct link syntax.
   * If you are unsure of the syntax of a tA link, see "Page Link" column of the [[https://docs.google.com/spreadsheets/d/1ocRDg1_jdGI7PjnKbZe19qd_fmnHqOv4cDpjM0pdmFs/edit?usp=sharing​|Translation Studio Topics - Links]] list on Google Drive.
 
-
 === If the topic is not on the Translation Academy Topics Page: ===
-  - Type in "(See talink TOPIC)" at the end of the Translation Note.
-  - Add a tag syntax on the Bible chunk page above the Discussion syntax: 
-<code>{{tag>talink}}</code>
-  * If there is already a tag for the KT link, leave a space and add to it like this: 
-<code>{{tag>ktlink talink}}</code>
 
-  * The tA team will see the list of chunks that need tA page/video/module here: [[en/ta/ta-needed]]
+  - Type in "(See talink TOPIC)" at the end of the Translation Note.
+  - Add a tag syntax on the Bible chunk page above the Discussion syntax:
+
+<code>
+{{tag>talink}}
+</code>
+
+  * If there is already a tag for the KT link, leave a space and add to it like this:
+
+<code>
+{{tag>ktlink talink}}
+</code>
+
+  * The tA team will see the list of chunks that need tA page/video/module here: [[:en:ta:ta-needed|Translation Academy Topics to Do]]
 
   * Once they have created the page, they will delete the tag.
-
-
-{{tag>notes301 kt301}}
+{{tag>notes401 kt301}}
 
 ~~NOCACHE~~
