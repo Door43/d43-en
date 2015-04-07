@@ -23,14 +23,14 @@ To search for all the links tied to the key term to be deleted. The Namespace by
 
 ==== Find all pages where the key term is listed as a tag ====
 
-{{topic>XXX&nocomments}}
+{{topic>esther&nocomments}}
 
 ==== Find all pages that have links to this key term ====
 
   * search Key Term links in the Important Terms section of Notes Pages.
   * search cross reference links of the key term on other Key Term pages.
 
-{{pagequery> "en:bible:notes:key-terms:XXX"; 
+{{pagequery> "en:bible:notes:key-terms:esther"; 
 fulltext; 
 sort=title:asc; 
 display={title}; 
@@ -42,7 +42,7 @@ bullet=square}}
 
 ==== Find the key term page ====
 
-[[:en:bible:notes:key-terms:xxx]]
+[[:en:bible:notes:key-terms:esther]]
 
 
 \\ 
