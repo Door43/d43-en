@@ -1,0 +1,11 @@
+===== Technology Manual =====
+
+To help facilitate the translation and creation of Biblical content, unfoldingWord has created a number of tools. This manual will help explain how to use these tools.
+
+  * [[en:ta:tech:door43|Door43]] - an online translation platform where people can collaborate on translation and checking, also the content management system for unfoldingWord
+  * [[en:ta:tech:ts|translationStudio]] - a mobile app where translators can do offline translating
+  * [[en:ta:tech:tk|translationKeyboard]] - a mobile app where users can create custom keyboards for languages not supported by their mobile device
+  * [[en:ta:tech:uw|unfoldingWord app]] - a mobile app where checked unfoldingWord translations are published and distributed
+  * [[en:ta:tech:dpe|Digital Publishing Engine]] - a system of pushing checked translations to the unfoldingWord website and app and creating print-ready documents of the content
+  * [[en:ta:tech:audio|Audio Recording]] - a list of recommendations for audio recording equipment, software, and recording procedures
+  * [[en:ta:tech:video|Video Render Engine]] - an automatic video render system that takes audio recordings and merges them we video clips to create custom videos for certain projects
