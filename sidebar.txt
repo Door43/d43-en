@@ -29,14 +29,11 @@
   * [[:en:statement-of-faith|Statement of Faith]]
   * [[:en:translation-guidelines|Translation Guidelines]]
   * [[:en:legal:license|Copyrights & Licensing]]
-  * [[:en:syntax|Formatting Content]]
-  * [[:en:tips-tricks|Tips & Tricks]]
-  * [[:en:technical|Technical Details]]
 
 **Help**
 
+  * [[en:ta:intro:Handbook|translationAcademy Handbook]]
   * [[:en:get-started|How to Get Started]]
-  * [[:en:ta:before:translation-manual|Translation Manual]]
   * [[:en:obs:help|Open Bible Stories Help]]
 
 **Door43 Development**
@@ -60,4 +57,3 @@ All content for this namespace is available in the [[https://github.com/Door43/d
 **Language Information**
 
 [[http://www.ethnologue.com/language/eng|Ethnologue data]]
-
