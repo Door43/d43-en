@@ -3,5 +3,8 @@
 The unfoldingWord mobile app is a mobile app where checked unfoldingWord translations are published and distributed. It can be used on [[https://play.google.com/store/apps/details?id=com.unfoldingword.androidapp&hl=en|Android]] or [[https://itunes.apple.com/us/app/unfoldingword/id925570688?mt=8|iOS]] devices.
 
 Below are some resources to help you with the unfoldingWord mobile app:
-  * [[en:ta:before:uwapp-install|Install the app]]
-  * [[en:ta:before:uwapp-language|Find my language]]
+  * [[en:ta:tech:uw:install|How to install the uW app]]
+  * [[en:ta:tech:uw:get-started|How to get started]]
+  * [[en:ta:tech:uw:language|How to select a language]]
+  * [[en:ta:tech:uw:update-content|How to update content]]
+  * 
