@@ -5,7 +5,14 @@ The translationStudio mobile app is a mobile app where translators can do offlin
 Below are some resources to help you with translationStudio: 
   * [[en:ta:tech:ts:install|Install the app]]
   * [[en:ta:tech:ts:get-started|How to get started]]
+  * [[en:ta:tech:ts:naviage|How to navigate]]
+  * [[en:ta:tech:ts:source-language|How to choose a source language]]
+  * [[en:ta:tech:ts:target-language|How to choose a target language]]
+  * [[en:ta:tech:ts:request-language|How to request a new language]]
+  * [[en:ta:tech:ts:save|How to save my work]]
+  * [[en:ta:tech:ts:translation-notes|How to find and navigate translation notes]]
+  * [[en:ta:tech:ts:important-terms|How to find and navigate important terms]]
   * [[en:ta:tech:ts:share|How to share my work with others]]
-  * [[en:ta:tech:ts:upload|How to upload my work when I'm done]]
-
-//Continue to [[en:ta:translate|How to Translate]]// 
+  * [[en:ta:tech:ts:upload|How to upload my work to Door43]]
+  * [[en:ta:tech:ts:update|How to update the app]]
+  * [[en:ta:tech:ts:publish|How to publish content to unfoldingWord]]
