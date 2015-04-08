@@ -3,7 +3,12 @@
 translationKeyboard is a mobile app where users can create custom keyboards for languages not supported by their mobile device. You may download translationKeyboard for [[https://play.google.com/store/apps/details?id=org.distantshoresmedia.translationkeyboard&hl=en|Android devices]].
 
 Here are some resources to help you with translationKeyboard:
-  * [[en:ta:before:tk-install|Install the app]]
-  * [[en:ta:before:tk-locate|Locate a keyboard]]
-  * [[en:ta:before:tk-create|Create a keyboard]]
-  * [[en:ta:before:tk-share|Share a keyboard]]
+  * [[en:ta:tech:tk:install|How to install the app]]
+  * [[en:ta:tech:tk:get-started|How to get started]]
+  * [[en:ta:tech:tk:enable|How to enable translationKeyboard on my device]]
+  * [[en:ta:tech:tk:input-method|How to choose an input method]]
+  * [[en:ta:tech:tk:input-language|How to input my language]]
+  * [[en:ta:tech:tk:find|How to find a keyboard]]
+  * [[en:ta:tech:tk:select|How to select a keyboard]]
+  * [[en:ta:tech:tk:create|How to create a keyboard]]
+  * [[en:ta:tech:tk:device-keyboard|How to return to my device's keyboard]]
