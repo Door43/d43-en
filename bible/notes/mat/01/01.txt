@@ -2,29 +2,15 @@
 
 ===== TFT: =====
 
-<usfm>
-\v 1 \add This is\add* the record of the ancestors of Jesus Christ\f + \ft Or: the Messiah \f*, the descendant of \add King\add* David and of Abraham, \add from whom all we Jews have descended\add*.
-\v 2 Abraham was the father of Isaac. Isaac was the father of Jacob. Jacob was the father of Judah and Judah's \add older and younger\add* brothers.
-\v 3 Judah was the father of Perez and Zerah, \add and their mother\add* was Tamar. Perez was the father of Hezron. Hezron was the father of Ram.
-</usfm>
+<usfm> \v 1 \add This is\add* the record of the ancestors of Jesus Christ\f + \ft Or: the Messiah \f*, the descendant of \add King\add* David and of Abraham, \add from whom all we Jews have descended\add*. \v 2 Abraham was the father of Isaac. Isaac was the father of Jacob. Jacob was the father of Judah and Judah's \add older and younger\add* brothers. \v 3 Judah was the father of Perez and Zerah, \add and their mother\add* was Tamar. Perez was the father of Hezron. Hezron was the father of Ram. </usfm>
 
 ===== UDB: =====
 
-<usfm>
-\v 1 This is the record of the ancestors of Jesus Christ, the descendant of King David and of Abraham.
-\v 2 Abraham was the father of Isaac. Isaac was the father of Jacob. Jacob was the father of Judah and of his brothers.
-\v 3 Judah was the father of Perez and Zerah, and their mother was Tamar. Perez was the father of Hezron. Hezron was the father of Ram.
-</usfm>
+<usfm> \v 1 This is the record of the ancestors of Jesus Christ, the descendant of King David and of Abraham. \v 2 Abraham was the father of Isaac. Isaac was the father of Jacob. Jacob was the father of Judah and of his brothers. \v 3 Judah was the father of Perez and Zerah, and their mother was Tamar. Perez was the father of Hezron. Hezron was the father of Ram. </usfm>
 
 ===== ULB: =====
 
-<usfm>
-\c 1
-\p
-\v 1 The book of the genealogy of Jesus Christ, the son of David, the son of Abraham.
-\v 2 Abraham was the father of Isaac, and Isaac the father of Jacob, and Jacob the father of Judah and his brothers, 
-\v 3 Judah the father of Perez and Zerah by Tamar, Perez the father of Hezron, Hezron the father of Ram,
-</usfm>
+<usfm> \c 1 \p \v 1 The book of the genealogy of Jesus Christ, the son of David, the son of Abraham. \v 2 Abraham was the father of Isaac, and Isaac the father of Jacob, and Jacob the father of Judah and his brothers, \v 3 Judah the father of Perez and Zerah by Tamar, Perez the father of Hezron, Hezron the father of Ram, </usfm>
 
 ===== Important Terms: =====
 
@@ -41,10 +27,10 @@
 
 These are the ancestors of Jesus Christ.
 
-  * **the son of David, the son of Abraham** - This can be translated as "a descendant of David, who was a descendant of Abraham." There were many generations between Abraham and his descendant David, and between David and his descendant Jesus. 
-  * **Abraham was the father of Isaac** - This can also be translated as "Abraham became the father of Isaac" or "Abraham had a son Isaac" or "Abraham had a son named Isaac." It may be more clear for your readers if you choose one way of saying this and use it throughout the rest of the list.
-  * **Judah the father of Perez and Zerah by Tamar** - "Judah was the father of Perez and Zerah, and Tamar was their mother."
-  * **Tamar** - Tamar was one of the few women in the list. Languages that have masculine and feminine forms of names may need to use a feminine form for her name. 
+  * **the son of David, the son of Abraham**  - This can be translated as "a descendant of David, who was a descendant of Abraham." There were many generations between Abraham and his descendant David, and between David and his descendant Jesus.
+  * **Abraham was the father of Isaac**  - This can also be translated as "Abraham became the father of Isaac" or "Abraham had a son Isaac" or "Abraham had a son named Isaac." It may be more clear for your readers if you choose one way of saying this and use it throughout the rest of the list.
+  * **Judah the father of Perez and Zerah by Tamar**  - "Judah was the father of Perez and Zerah, and Tamar was their mother"
+  * **Tamar**  - Tamar was one of the few women in the list. Languages that have masculine and feminine forms of names may need to use a feminine form for her name.
 ===== Links: =====
 
   * **[[:en:bible:notes:mat:questions:comprehension:01|Matthew Chapter 01 Comprehension Questions]]**
