@@ -8,8 +8,7 @@ They are not available for the Key Terms team to edit.
 ==== Sorted by Key Term ====
 
 {{count>create&en:bible:notes:key-terms}}
-{{pagequery>ns:en:bible:notes:key-terms "{{tag>create"; fulltext; sort=title:asc; display={title}; natsort; showcount; hidemsg; hidejump;}}
-
+{{topic>en:bible:notes:key-terms?Create&nocomments&list&tags}}
 ==== Sorted by creation date ====
 
 ~~NOCACHE~~
