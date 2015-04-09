@@ -4,9 +4,8 @@
 
 ===== Target Languages Catalog =====
 
-The target languages catalog contains a list of all the available target language to which a translation may be made
+Language information may be pulled from http://td.unfoldingword.org/exports/langnames.json.
 
-[[https://api.unfoldingword.org/obs/txt/1/langnames.json|https://api.unfoldingword.org/obs/txt/1/langnames.json]]
 
 ===== Projects Catalog =====
 
