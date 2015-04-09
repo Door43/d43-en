@@ -2,7 +2,7 @@
 
 en:bible:admin-reports:notes-admin:home
 
-<nspages en:bible:admin-reports:notes-admin -title -naturalOrder -exclude:home -textPages="Matthew 1:" -nbCol=2>
+<nspages en:bible:admin-reports:notes-admin -title -naturalOrder -exclude:home -textPages="Links to Admin Reports of Books:" -nbCol=2>
 
 ==== Galatians Pages Status ====
 
