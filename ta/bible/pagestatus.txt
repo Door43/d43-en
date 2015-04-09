@@ -2,4 +2,10 @@
 
 <nspages en:bible:admin-reports:notes-admin -title -naturalOrder -exclude:home -textPages="Links to Admin Reports of Books:" -nbCol=2>
 
+<nspages en:bible:admin-reports:kt-admin -title -naturalOrder -exclude:home -textPages="Links to Admin Reports of Key Terms:" -nbCol=2>
+
+<nspages en:bible:admin-reports:questions-comprehension -title -naturalOrder -exclude:home -textPages="Links to Admin Reports of Books:" -nbCol=2>
+
+<nspages en:bible:admin-reports:assignment -title -naturalOrder -exclude:home -textPages="Links to Admin Reports of Books:" -nbCol=2>
+
 ====   ====
