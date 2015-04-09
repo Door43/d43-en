@@ -1,5 +1,9 @@
 ===== Bible Book Page Status =====
 
+en:bible:admin-reports:notes-admin:home
+
+<nspages en:bible:admin-reports:notes-admin -title -naturalOrder -exclude:home -textPages="Matthew 1:" -nbCol=2>
+
 ==== Galatians Pages Status ====
 
 |**Draft Pages**   |  **Review Pages**    |  **Discuss Pages**    |**Publish Pages**   |
@@ -9,6 +13,5 @@
 
 |**Draft Pages**   |  **Review Pages**    |  **Discuss Pages**    |**Publish Pages**   |
 |{{topic>en:bible:notes:act?draft&nocomments}} |{{topic>en:bible:notes:act?review&nocomments}} |{{topic>en:bible:notes:act?discuss&nocomments}} |{{topic>en:bible:notes:act?publish&nocomments}} |
-
 
 \\
