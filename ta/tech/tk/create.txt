@@ -1,1 +1,60 @@
-Test
+__How to create a Keyboard in tK__
+
+__Getting Started__
+
+   * Decide on the language you want to make a keyboard for
+  * Go to: tk.unfoldingword.org/users/sign_in
+  * Sign in using your username and password
+
+__Keyboard Search__
+
+Search through the keyboards already available to ensure the language has not been created or started. Three possibilities are available:
+
+  - The keyboard has been created already, you are done!
+  - If the keyboard has been started and not finished, you can:
+
+A. Wait to see if it is in progress and wait for the completion, or
+
+B. Continue the keyboard and complete it.
+
+  - If the desired keyboard is not available, the following suggestions are:
+
+  * Ask the requestor for more information about the keyboard/language desired specifics; such as the symbols needed for the keyboard
+  * Search for existing keyboards using a search engine
+  * Create a similar, but different keyboard using the information obtained through research.
+
+Or
+
+  * Find a Unicode or UTF website with the correct symbols.
+
+Then:
+
+__Creating or Editing a Keyboard in tK__
+
+At [[http://tk.unfoldingword.org/|http://tk.unfoldingword.org/]], select the keyboard that is desired if available, or select the “Create New Keyboard”* button at the top of the web page:
+
+  * A new window titled “Create New Keyboard” will appear.
+  * Type the name of the keyboard language in the Keyboard name box
+  * Pick the ISO Language Code by typing the first three to five letters of the language desired and pick the appropriate code from the list, this should fill in the ISO Region Code.
+  * Keyboard Type: Most keyboards the Android 4 row will work**, but the 5 row and IOS are also available.
+  * Press “Go”
+
+*Note: If the Keyboard has already been added, select the appropriate keyboard from the “Languages with Keyboards” list or “Recently Updated Keyboards” list.
+
+**Note: There are plus “+” and “-“ keys at the end of each row.  These keys allow more character keys to be added or deleted from each row.
+
+__Editing or Adding Symbols to a Keyboard__
+
+In the next window, press the “Edit Keyboard” button in the top, right corner of the screen.
+
+In the beginning, these boxes will be blank until they are filled the selected symbol, UTF or Unicode selection.
+
+__Input the Symbols of the Desired Language in tK__
+
+  * Pick the key to be edited by selecting it with the mouse button
+  * Select the Default and Shift characters desired or the corresponding UTF-8 or Unicode string for the character.
+  * Press “Save Changes”
+  * If additional characters are desired for that key, select that key again, press the “Longpress Character” key once for each additional Character desired.  You will not be able to enter characters into the long keys until the long key boxes are saved.  Then go back and enter the desired character or UTF-8 or Unicode string. ***
+  * Press “Save Changes”
+
+***Note: Unicode U+00xx usually translates to UTF-8 “xx”. For example: Unicode “U+0d38” is equal to UTF-8 “d38”. ADD: If you can find the correct unicode chart or symbol set for the language, you may be able to copy and paste symbols or codes from a Word document, Excel spreadsheet or Adobe PDF file into the keyboard keys in the "Edit" mode.
