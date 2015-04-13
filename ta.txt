@@ -2,12 +2,11 @@
 
 The “translationAcademy” is intended to enable anyone, anywhere to learn the basics of how to translate the Bible into their own language, or help someone who wants to do so. It is intended to be highly flexible, can be in-advance or just-in-time (or both, as needed), modular, and highly visual, in web and offline mobile video formats.
 
-If you are new to the project, we strongly encourage you to work through the **[[en:ta:intro:handbook|translationAcademy Handbook]]** which will give you a good [[en:ta:intro|Introduction]] to the project as well as an overview of the three manuals contained in translationAcademy: 
+If you are new to the project, we strongly encourage you to work through the **[[:en:ta:intro:handbook|translationAcademy Handbook]]** which will give you a good [[:en:ta:intro|Introduction]] to the project as well as an overview of the three manuals contained in translationAcademy:
 
-  * **[[en:ta:translate|Translation Manual]]** - explains how to translate
-  * **[[en:ta:check|Checking Manual]]** - explains how to check a translation
-  * **[[en:ta:tech|Technology Manual]]** - explains how to use the different technology tools
-
+  * **[[:en:ta:translate|Translation Manual]]**- explains how to translate
+  * **[[:en:ta:check|Checking Manual]]**- explains how to check a translation
+  * **[[:en:ta:tech|Technology Manual]]**- explains how to use the different technology tools
 ==== translationAcademy Workbench ====
 
 We need “Domain Experts” to start identifying the modules that are needed in each area of focus, and then writing up the content and (soon) recording the teaching videos. The draft of the big picture overview is nearly ready for distribution and will be made available here and on the [[https://basecamp.com/2676946/projects/6340506|translationAcademy Group on Base Camp]] or join the Hall group.
@@ -19,6 +18,6 @@ Ready to begin?
 
 If you are new to translationAcademy, you may also want to take a look at the Translation Manual to learn the basics of translation, checking, and beyond! (See below.)
 
-===== =====
+=====   =====
 
 {{page>en:ta:intro:handbook}}
