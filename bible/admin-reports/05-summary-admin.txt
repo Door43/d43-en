@@ -8,7 +8,7 @@
   * [[:en:bible:admin-reports:kt-admin:key-terms-draft|Key Terms: Pages to Edit]]
 {{count>create delete draft1 draft2 review text discuss publish&en:bible:notes:key-terms}}
 
-==== Books in Process =====
+==== Books in Process ====
 
 === Genesis Admin ===
 
@@ -40,7 +40,6 @@
   * [[:en:bible:admin-reports:questions-comprehension:mat|Comprehension Questions: Matthew Admin]]
   * [[:en:bible:notes:mat:01:01|Matthew 01:1-3]]
 {{count>draft review text discuss publish&en:bible:notes:mat}}
-
 
 ==== Books Finished ====
 
@@ -78,7 +77,6 @@
   * [[:en:bible:admin-reports:questions-comprehension:rut|Comprehension Questions: Ruth Admin]]
   * [[:en:bible:notes:rut:01:01|Ruth 01:1-2]]
 {{count>draft review discuss publish&en:bible:notes:rut}}
-
 
 ==== Check on bad tags ====
 
