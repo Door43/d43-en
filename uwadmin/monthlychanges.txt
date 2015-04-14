@@ -123,6 +123,8 @@
 {{changes>ns=jmd:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:jv:obs|jv OBS]]**
 {{changes>ns=jv:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
+**[[:kam:obs|kam OBS]]**
+{{changes>ns=kam:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:kfb:obs|kfb OBS]]**
 {{changes>ns=kfb:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:kff:obs|kff OBS]]**
