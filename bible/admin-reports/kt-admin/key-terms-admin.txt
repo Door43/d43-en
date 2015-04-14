@@ -22,7 +22,7 @@
 ^  New Pages to Review  ^  Published Pages to Review  ^  Discuss Pages  |
 |{{pagequery>ns:en:bible:notes:key-terms "{{tag>review"; fulltext; sort=title:asc; display={title}; natsort; showcount; hidemsg; hidejump;}} |{{pagequery>ns:en:bible:notes:key-terms "{{tag>publish review"; fulltext; sort=title:asc; display={title}; natsort; showcount; hidemsg; hidejump;}} |{{pagequery>ns:en:bible:notes:key-terms "{{tag>discuss"; fulltext; sort=title:asc; display={title}; natsort; showcount; hidemsg; hidejump;}} |
 
-==== Missing KT Links in Notes ====
+==== Notes Pages that need KT Links Added ====
 
 {{pagequery>ns:en:bible:notes -ns:en:bible:notes:key-terms "ktlink"; fulltext; sort=title:asc; display={title}; natsort; layout=table; showcount; hidemsg; hidejump;}}
 
