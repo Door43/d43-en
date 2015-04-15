@@ -1,0 +1,157 @@
+
+
+**Writing Translation Notes**
+
+==== Team Member Tasks ====
+
+Some team members will:
+
+  *
+
+Recognize how a word, phrase, sentence, or paragraph might be hard to understand for people who don’t know English well, don’t understand the cultures of the Bible, or who don’t know the passage well.
+
+  *
+
+Consult other versions of the Bible, Hebrew or Greek texts and helps, and commentaries to find out the meaning of words and phrases in the passage.
+
+  *
+
+Find a simple way to explain a word or phrase to the translator. Suggest ways for a translator to reword a phrase or restructure a complex sentence because his language is different.
+
+  *
+
+Recognize the different kinds of information we give in a note and write the note according to our guidelines for different kinds of information.
+
+**__Things to look for in the text__ **
+  *
+
+**Words or phrases**  that are difficult to understand.
+  *
+
+**Implicit information**  - This is information that the speaker did not actually say, but the original audience would have understood.
+  *
+
+**Figures of speech**  such as rhetorical questions, metaphors, similes that may be hard for other languages to understand.
+  * < > that might not be easy to understand who or what it refers to in the text.
+
+**Verbal nouns**  that may be difficult to translate into other languages. For example, they may not have a noun meaning ‘forgiveness’, but they may have a verb meaning ‘forgive.’
+
+==== Deciding when to write a note ====
+
+  -
+
+Read the ULB. Is there any word or phrase that is unclear?
+
+  -
+
+Read the UDB.
+
+      -
+
+Do __no__t write a note, if it is easy to understand the word or phrase from the UDB.
+
+      -
+
+Write a note if the UDB uses different phrases than the ULB or if the information is presented in a different order that might be hard for someone who does not know English very well to figure out which parts of the UDB mean the same as the ULB.
+
+  -
+
+If the meaning of a word is unclear, see if there is a key term page for that word. You can view the full list of key terms [[https://door43.org/en/bible/admin-reports/kt-admin/key-term-full-list|here]].
+
+      -
+
+If there is, and if the page clarifies the meaning of the word, then do __not__  write a note.
+
+      -
+
+If the key term has different senses, write a note telling which sense is intended on that chunk.
+
+      -
+
+If a word is not clear and it is not a key term, write a translation suggestion using a simpler word or phrase. If you can’t write a translation suggestion, explain what the word means.
+
+=== Key Terms ===
+
+  * If you come across a word in the text that you think should be a key term, write it in the Important Terms list. List the words in the same orderthey occurred in the text.
+  * If a key term page does not tell about the sense that is used in the chunk you are writing on, write a note in the discussion page for that chunk.
+
+Basic Notes Formatting
+
+  -
+
+Write the word or phrase from the ULB in bold. Do __not__  put quotes around it.
+
+  -
+
+If you write a translation suggestion, put the suggestion in double quotes. The translation suggestions should be able to replace the bolded phrase and fit in the ULB text.
+
+  -
+
+If you give an explanation, use a full sentence with an initial capital letter and ordinary punctuation.
+
+  -
+
+If you use a direct quote from the UDB as a suggestion put the suggestion in quotes followed by (UDB).
+
+==== __Sample Notes__  ====
+
+1. Find phrases with hard words and simplify them. Give a translation suggestion when possible rather than just an explanation. The translation suggestion should be able to replace the phrase that is being discussed.
+
+Matthew 1:9
+
+**at the time of the deportation to Babylon**  - “when the Jews were forced to move to Babylon” or “when the Babylonians made the Jews leave Israel and go live in Babylon”
+
+2. Give information that will help the translator understand a difference between the ULB and UDB. (This will help the translators understand that both mean the same thing.)
+
+Matt 1:1-3
+
+**the son of David, the son of Abraham**  - This can be translated as “a descendant of David, who was a descendant of Abraham.”  There were many generations between Abraham and his descendant David, and between David and his descendant Jesus.
+
+ \\ 3. Suggest different ways of saying something and suggest consistency.
+
+Matt 1:1-3
+
+Abraham was the father of Isaac- This can also be translated as “Abraham became the father of Isaac” or “Abraham had a son Isaac” or “Abraham had a son named Isaac.” It may be clearer for your readers if you choose one way of saying this and use it throughout the rest of the list.
+
+5. Explain the meaning of a prepositional phrase.  (The note below explains the meaning of “by Tamar.”)
+
+Matt 1:1-3
+
+**Judah the father of Perez and Zerah by Tamar**  - “Judah was the father of Perez and Zerah, and Tamar was their mother”
+
+6. Identify a figure of speech and tell what it means. If you add a translation suggestion, it should be able to replace the phrase that you discuss. Direct the translators to the Translation Academy page that tells about that kind of figure of speech. (You can just write it as it is written below. The reviewer will add the code for the link.)
+
+Matt 1:18
+
+**before they came together**  - This euphemism means “before they had sexual relations.” (See: Euphemism)
+
+Luke 7:24-26
+
+**What did you go out to see**  - Jesus used this phrase in three rhetorical questions to cause the people to think about what kind of person John the Baptist was. It could be translated as “Did you go out to see …? Of course not!” or “Surely you did not go out to see …!” (See: Rhetorical Question)
+
+Luke 7:24-26
+
+**a reed shaken by the wind**  - This metaphor could also be translated as a simile: "a man who was like a reed shaken by the wind." It has two possible interpretations. 1) Reeds are easily moved by the wind, so it could refer to a person who is easily motivated to change his mind. 2) Reeds make noise when the wind rattles them, so it could refer to a person who talks a lot but his speech does not result in anything important. (See: Metaphor)
+
+7. Identify a cultural issue that might help the translation.
+
+Matt 1:18
+
+**had been engaged to marry**  - “was promised to marry” (UDB) or “was committed to marry.” Parents normally arranged marriages of their children.
+
+8. Tell how the current chunk is a continuation of a previous chunk
+
+Matt 1:4
+
+This is part of the list of Jesus' ancestors. Use the same wording that you used in Matthew 1:1-3.
+
+**__For more information__ **
+
+[[https://door43.org/en/ta/workshop|https://door43.org/en/ta/workshop]]
+
+[[https://door43.org/en/bible/team-info/training/notes-training|https://door43.org/en/bible/team-info/training/notes-training]]
+
+[[https://door43.org/en/bible/team-info/processes/create-notes|https://door43.org/en/bible/team-info/processes/create-notes]]
+
+[[https://door43.org/en/bible/team-info/processes/when-notes|https://door43.org/en/bible/team-info/processes/when-notes]]
+
