@@ -1,4 +1,6 @@
-====== **Writing Translation Notes**  ========== Team Member Tasks ====
+====== Writing Translation Notes ========== 
+
+==== Team Member Tasks ====
 
 Some team members will:
 
@@ -18,7 +20,7 @@ Some team members will:
 
   - Read the ULB. Is there any word or phrase that is unclear?
   - Read the UDB.
-      - Do __no__t write a note, if it is easy to understand the word or phrase from the UDB.
+      - Do __not__ write a note, if it is easy to understand the word or phrase from the UDB.
       - Write a note if the UDB uses different phrases than the ULB or if the information is presented in a different order that might be hard for someone who does not know English very well to figure out which parts of the UDB mean the same as the ULB.
   - If the meaning of a word is unclear, see if there is a key term page for that word. You can view the full list of key terms [[https://door43.org/en/bible/admin-reports/kt-admin/key-term-full-list|here]].
       - If there is, and if the page clarifies the meaning of the word, then do __not__  write a note.
@@ -32,7 +34,7 @@ Some team members will:
 
 ==== Basic Notes Formatting ====
 
-  - Write the word or phrase from the ULB in bold. Do __not__  put quotes around it.
+  - Write the word or phrase from the ULB in bold. Do __not__ put quotes around it.
   - If you write a translation suggestion, put the suggestion in double quotes. The translation suggestions should be able to replace the bolded phrase and fit in the ULB text.
   - If you give an explanation, use a full sentence with an initial capital letter and ordinary punctuation.
   - If you use a direct quote from the UDB as a suggestion put the suggestion in quotes followed by (UDB).
@@ -91,10 +93,10 @@ This is part of the list of Jesus' ancestors. Use the same wording that you used
 
 **__For more information__  **
 
-[[https://door43.org/en/ta/workshop|https://door43.org/en/ta/workshop]]
+[[:en:ta:workshop]]
 
-[[https://door43.org/en/bible/team-info/training/notes-training|https://door43.org/en/bible/team-info/training/notes-training]]
+[[:en:bible:team-info:training:notes-training]]
 
-[[https://door43.org/en/bible/team-info/processes/create-notes|https://door43.org/en/bible/team-info/processes/create-notes]]
+[[:en:bible:team-info:processes:create-notes]]
 
-[[https://door43.org/en/bible/team-info/processes/when-notes|https://door43.org/en/bible/team-info/processes/when-notes]]
+[[:en:bible:team-info:processes:when-notes]]
