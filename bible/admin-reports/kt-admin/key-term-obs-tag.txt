@@ -5,7 +5,7 @@
 ==== Pages not yet tagged "ktequal" or "ktchange" ====
 
 
-{{pagequery>ns:en:obs:notes:key-terms -"ktequal" -"ktchange" -exclude:home; fulltext; sort=title:asc; display={title}; natsort; showcount; hidemsg; hidejump;}} 
+{{pagequery>ns:en:obs:notes:key-terms -"ktequal" -"ktchange" -exclude:home -exclude:key-terms; fulltext; sort=title:asc; display={title}; natsort; showcount; hidemsg; hidejump;}} 
 
 
 \\
