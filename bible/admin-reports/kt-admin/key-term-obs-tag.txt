@@ -1,0 +1,11 @@
+====== Key Terms: OBS Pages to Tag ======
+
+~~NOCACHE~~
+
+==== Pages not yet tagged "ktequal" or "ktchange" ====
+
+
+{{pagequery>ns:en:obs:notes:key-terms -"ktequal" -"ktchange"; fulltext; sort=title:asc; display={title}; natsort; showcount; hidemsg; hidejump;}} 
+
+
+\\
