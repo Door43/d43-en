@@ -202,6 +202,9 @@
 **[[:kfx:obs|kfx OBS]]**
 {{changes>ns=kfx:obs&maxage=604800&render=pagelist(header,date,user,nocomments)}}
 
+**[[:khz:obs|khz OBS]]**
+{{changes>ns=khz:obs&maxage=604800&render=pagelist(header,date,user,nocomments)}}
+
 **[[:kia:obs|kia OBS]]**
 {{changes>ns=kia:obs&maxage=604800&render=pagelist(header,date,user,nocomments)}}
 
