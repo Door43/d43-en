@@ -2,15 +2,17 @@
 
 ~~NOCACHE~~
 
-\\
+==== Links: ====
 
-\\
+* [[:en:ulb:ep:40-mat.usfm|Full ULB text of Mark]]\\
+* [[:en:udb:ep:40-mat.usfm|Full UDB text of Mark]]\\
+* [[:en:ta:workshop|TN Workshop]]\\
+* [[:en:bible:team-info:training:notes-training|Notes Training]]
 
 ==== Matthew Pages Status ====
 
-^  Draft  ^  Review  ^  Text  ^  Discuss  ^  Publish  ^
-|{{pagequery>ns:en:bible:notes:mat -ns:en:bible:notes:mat:questions:comprehension "{{tag>draft"; fulltext; sort=title:asc; display={title}; natsort; showcount; hidemsg; hidejump;}}  |{{pagequery>ns:en:bible:notes:mat -ns:en:bible:notes:mat:questions:comprehension "{{tag>review"; fulltext; sort=title:asc; display={title}; natsort; showcount; hidemsg; hidejump;}}  |{{pagequery>ns:en:bible:notes:mat -ns:en:bible:notes:mat:questions:comprehension "{{tag>text"; fulltext; sort=title:asc; display={title}; natsort; showcount; hidemsg; hidejump;}}  |{{pagequery>ns:en:bible:notes:mat -ns:en:bible:notes:mat:questions:comprehension "{{tag>discuss"; fulltext; sort=title:asc; display={title}; natsort; showcount; hidemsg; hidejump;}}  |{{pagequery>ns:en:bible:notes:mat -ns:en:bible:notes:mat:questions:comprehension "{{tag>publish"; fulltext; sort=title:asc; display={title}; natsort; showcount; hidemsg; hidejump;}}  |
-
+^  Draft  ^  Review  ^  Text  ^  Discuss  ^  Publish  |
+|{{pagequery>ns:en:bible:notes:mat -ns:en:bible:notes:mat:questions:comprehension "{{tag>draft"; fulltext; sort=title:asc; display={title}; natsort; showcount; hidemsg; hidejump;}} |{{pagequery>ns:en:bible:notes:mat -ns:en:bible:notes:mat:questions:comprehension "{{tag>review"; fulltext; sort=title:asc; display={title}; natsort; showcount; hidemsg; hidejump;}} |{{pagequery>ns:en:bible:notes:mat -ns:en:bible:notes:mat:questions:comprehension "{{tag>text"; fulltext; sort=title:asc; display={title}; natsort; showcount; hidemsg; hidejump;}} |{{pagequery>ns:en:bible:notes:mat -ns:en:bible:notes:mat:questions:comprehension "{{tag>discuss"; fulltext; sort=title:asc; display={title}; natsort; showcount; hidemsg; hidejump;}} |{{pagequery>ns:en:bible:notes:mat -ns:en:bible:notes:mat:questions:comprehension "{{tag>publish"; fulltext; sort=title:asc; display={title}; natsort; showcount; hidemsg; hidejump;}} |
 
 ==== Check on bad tags ====
 
@@ -18,4 +20,4 @@ This query checks the first tag to be one of 5 valid tags required to make the s
 
 {{pagequery>ns:en:bible:notes:rut "{{tag>" -"{{tag>draft" -"{{tag>review" -"{{tag>text" -"{{tag>discuss" -"{{tag>publish"; fulltext; sort=title:asc; display={title}; natsort; layout=table; showcount; hidemsg; hidejump;}}
 
-\\ 
+\\
