@@ -1,0 +1,13 @@
+====== Key Terms: OBS "change" pages ======
+
+~~NOCACHE~~
+
+==== Pages tagged "ktchange" ====
+
+
+The pages below have different content than the Bible KT pages and need to be synced.
+
+{{pagequery>ns:en:obs:notes:key-terms "ktchange"; fulltext; sort=title:asc; display={title}; natsort; showcount; hidemsg; hidejump;}} 
+
+
+\\
