@@ -4,7 +4,7 @@
 
 ==== 3 John Pages Status ====
 
-^  Draft  ^  Review  ^  Text  ^  Discuss  ^  Publish  ^
+^  Draft  ^  Review  ^  Text  ^  Discuss  ^  Publish  |
 |{{pagequery>ns:en:bible:notes:3jn -ns:en:bible:notes:3jn:questions:comprehension "{{tag>draft"; fulltext; sort=title:asc; display={title}; natsort; showcount; hidemsg; hidejump;}} |{{pagequery>ns:en:bible:notes:3jn -ns:en:bible:notes:3jn:questions:comprehension "{{tag>review"; fulltext; sort=title:asc; display={title}; natsort; showcount; hidemsg; hidejump;}} |{{pagequery>ns:en:bible:notes:3jn -ns:en:bible:notes:3jn:questions:comprehension "{{tag>text"; fulltext; sort=title:asc; display={title}; natsort; showcount; hidemsg; hidejump;}} |{{pagequery>ns:en:bible:notes:3jn -ns:en:bible:notes:3jn:questions:comprehension "{{tag>discuss"; fulltext; sort=title:asc; display={title}; natsort; showcount; hidemsg; hidejump;}} |{{pagequery>ns:en:bible:notes:3jn -ns:en:bible:notes:3jn:questions:comprehension "{{tag>publish"; fulltext; sort=title:asc; display={title}; natsort; showcount; hidemsg; hidejump;}} |
 
 ==== Check on bad tags ====
