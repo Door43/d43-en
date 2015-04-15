@@ -2,12 +2,12 @@
 
 ~~NOCACHE~~
 
-==== Pages tagged "obs" ====
+==== Pages tagged "ktobs" ====
 
 
-The pages below in the Bible KT list are tagged as "obs" in order to be sorted as needed.
+The pages below in the Bible KT list are tagged as "ktobs" in order to be sorted as needed.
 
-{{pagequery>ns:en:bible:notes:key-terms "obs"; fulltext; sort=title:asc; display={title}; natsort; showcount; hidemsg; hidejump;}} 
+{{pagequery>ns:en:bible:notes:key-terms "ktobs"; fulltext; sort=title:asc; display={title}; natsort; showcount; hidemsg; hidejump;}} 
 
 
 \\
