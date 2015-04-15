@@ -7,7 +7,7 @@
 
 The pages below are equal content to the Bible KT pages and may be replaced.
 
-{{pagequery>ns:en:obs:key-terms "ktequal"; fulltext; sort=title:asc; display={title}; natsort; showcount; hidemsg; hidejump;}} 
+{{pagequery>ns:en:obs:notes:key-terms "ktequal"; fulltext; sort=title:asc; display={title}; natsort; showcount; hidemsg; hidejump;}} 
 
 
 \\
