@@ -19,4 +19,6 @@ The team leader will be responsible for the following:
   * Add a comment in the discussion panel about any suggested changes to the UDB and ULB text and notify the Translation Notes Teams Manager of the suggestion.
   * Use the “ktlink” tag to keep the KT team updated on requests for new Key Terms.
   * Suggest updates to the existing KT pages to Translation Notes Teams Manager.
-  * Communicate with the Translation Notes Teams Manager of any concerns and issues with the team members or the project
+  * Use the "talink" tag to notify the translationAcademy team of references to present tA pages or creation of a new tA topic.
+  * Communicate with the Translation Notes Teams Manager of any concerns and issues with the team members or the project.
+  * Tag the page 'review' when the team has completed their work.
