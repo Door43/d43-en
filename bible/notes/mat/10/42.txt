@@ -2,22 +2,15 @@
 
 ===== TFT: =====
 
-<usfm>
-\v 42 \add Note this\add*: Suppose people \add see that you are thirsty\add* \f + \ft metonymy \f* \add and\add* give you a drink of cold water because they know that \f + \ft metonymy \f* you are one of my disciples. \add God\add* will certainly reward people who do that\add . They might consider that what they did\add* is insignificant, \add but God will consider it very significant\add*." \f + \ft litotes \f*
-</usfm>
+<usfm> \v 42 \add Note this\add*: Suppose people \add see that you are thirsty\add* \f + \ft metonymy \f* \add and\add* give you a drink of cold water because they know that \f + \ft metonymy \f* you are one of my disciples. \add God\add* will certainly reward people who do that\add . They might consider that what they did\add* is insignificant, \add but God will consider it very significant\add*." \f + \ft litotes \f* </usfm>
 
 ===== UDB: =====
 
-<usfm>
-\v 42 Note this: Suppose people see that you are thirsty and give you a drink of cold water because they know that you are one of my disciples, even if you are not an important person at all. God will certainly reward people who do that.”
-</usfm>
+<usfm> \v 42 Note this: Suppose people see that you are thirsty and give you a drink of cold water because they know that you are one of my disciples, even if you are not an important person at all. God will certainly reward people who do that.” </usfm>
 
 ===== ULB: =====
 
-<usfm>
-\v 42 Whoever gives to one of these unimportant ones, even a cup of cold water to drink, because he is a disciple, 
-truly I say to you, he will in no way lose his reward."
-</usfm>
+<usfm> \v 42 Whoever gives to one of these unimportant ones, even a cup of cold water to drink, because he is a disciple, truly I say to you, he will in no way lose his reward." </usfm>
 
 ===== Important Terms: =====
 
@@ -27,11 +20,13 @@ truly I say to you, he will in no way lose his reward."
 
 ===== Translation Notes: =====
 
-  * **Whoever**  - This is anyone.
-  * **these unimportant ones**  - "the common people." Jesus is referring in a general way to normal people of no special importance.
-  * **truly I say**  - Jesus is talking.
-  * **he will in no way lose his reward**  - This is a negative way of saying the positive is true. Anyone who does a small thing because he is a disciple will be rewarded. (See: Litotes)
-
+  * **Whoever gives**
+ - "Anyone who gives."
+  * **one of these unimportant ones, even a cup of cold water to drink, because he is a disciple**
+ - This can also be translated "one of these lowly persons a cup of cold water because he is a disciple of mine" or "one of the least of these my disciples even a drink of cold water."
+  * **truly I say to you**
+ - Jesus is speaking to his twelve apostles.
+  * **he will in no way lose his reward**  - This is a negative way of saying the positive is true. Anyone who does a small thing because he is a disciple will be rewarded. It can also be translated "that person will certainly receive his reward." (See: Litotes)
 ===== Links: =====
 
   * **[[:en:bible:notes:mat:questions:comprehension:10|Matthew Chapter 10 Comprehension Questions]]**
