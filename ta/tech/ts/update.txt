@@ -1,0 +1,13 @@
+Watch the {{:en:ta:tech:tS_Options_Menu_-_Update_-_Android_v4.mp4|Installing translationStudio}} one minute video or follow these directions:
+
+Note: Updating requires an Internet connection.
+
+  * Open translationStudio on the Android device. Tap on the tS icon.
+  * The program opens. Go to the edit screen. (Source text on the left and edit box on the right.)
+  * Tap on the 3 vertical dots at the top right of the screen. The Options Menu opens.
+  * Tap on the 'Update' word. An information message appears.
+  * Tap yes.
+  * Wait for the update process.
+  * When the process is done a message will appear at the top of the application window.
+
+The update is done.
