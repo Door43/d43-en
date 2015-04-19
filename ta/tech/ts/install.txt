@@ -5,15 +5,15 @@ Watch the {{:en:ta:tech:installing_translationstudio_-_android_v2.mp4|Installing
 
 Note: Installing requires an Internet connection.
 
-Tap on the Google Play Store Icon on the Android device. Google Play Store opens.
-In the Play Store search for the program. Click on the magnifying glass at the top right of the window.
-Tap on the words "Search Google Play" and type in translationStudio (do not use spaces).
-Tap the magnifying glass or close the keyboard.
-When the Play Store has found the program, tap on the tS icon.
-Tap "Install" on the next screen.
-Tap "Accept" to accept the default settings of the program.
-The program will download and then install. Once the program is installed there will be two choices Open or Uninstall.
-Use the Android back button to close the Google Play Store.
-The tS icon is now on the Android screen.
+  * Tap on the Google Play Store Icon on the Android device. Google Play Store opens.
+  * In the Play Store search for the program. Click on the magnifying glass at the top right of the window.
+  * Tap on the words "Search Google Play" and type in translationStudio (do not use spaces).
+  * Tap the magnifying glass or close the keyboard.
+  * When the Play Store has found the program, tap on the tS icon.
+  * Tap "Install" on the next screen.
+  * Tap "Accept" to accept the default settings of the program.
+  * The program will download and then install. Once the program is installed there will be two choices Open or Uninstall.
+  * Use the Android back button to close the Google Play Store.
+  * The tS icon is now on the Android screen.\\
 
 translationStudio is now installed.
