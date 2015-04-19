@@ -28,4 +28,18 @@ Action 3: Select the input languages.
   * Select by tapping on the box to the right of the language.
   * Use the back arrow on the Android menu to go back to the setup window.
 
+==== How to Use the translationKeyboard in translationStudio ====
 
+  * Tap the tS iconto open the program
+  * the Edit window opens
+  * Tap to type - the keyboard slides up.
+  * Notice that the default language is written on the space bar of the keyboard.
+  * Tap-slide your finger on the keyboard's space bar to choose another language.
+  * Stop sliding the finger when the desired language shows.
+
+==== Update translationKeyboard ====
+Sometimes you may need to update the keyboard.
+  * Open the translationKeyboard application by tapping on the tK icon found on the Android screen.
+  * Tap on the 'Update Keyboard' button. 
+  * Wait for the update to complete.
+Close the tK application.
