@@ -1,2 +1,31 @@
 ====== Setting Up the translationKeyboard APP on an Android device ======
 Watch the {{:en:ta:tech:setting_up_translationkeyboard-android_v2.mp4|Setting Up the translationKeyboard}} three minute video or follow these directions:
+Set up translationKeyboard so you can type in the font of your language.
+Tap the tK icon to open the program.
+The Installation Instructions window opens.
+Use your finger to tap-swipe up to move the information up on the screen.
+
+Action 1: Add translationKeyboard to the system.
+  * Tap on the 'Enable Keyboard' button.
+  * A window with all the available keyboards opens.
+  * Find translationKeyboard on the list.
+  * Look for the on-off slide to the right of the translationKeyboard name.
+  * Tap-slide the button. The button turns green.
+  * A warning screen opens.
+  * Tap on 'OK' to allow the keyboard to work.
+  * Tap the back arrow on the Android menu to go back to the setup window.
+
+Action 2: Set the input method.
+  * Tap the 'set input method' button.
+  * A window opens. Tap the circle by 'translationKeyboard'.
+  * The window closes.
+
+Action 3: Select the input languages.
+  * Tap on the 'Input Language' button.
+  * The Input languages list shows.
+  * Use a tap-swipe-up action to see all the languages on the list.
+  * Look for the target language keyboard.
+  * Select by tapping on the box to the right of the language.
+  * Use the back arrow on the Android menu to go back to the setup window.
+
+
