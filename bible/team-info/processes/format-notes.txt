@@ -11,6 +11,8 @@ Return to: [[:en:bible:team-info:processes:create-notes|How to Create Translatio
       * This can be translated as "X" or "Y" or "Z."
   * Normally we do not need to write notes for terms that are in the key terms list. However, when a key term has multiple senses, you may need to write a note telling which sense is meant in the text.
 
+=====   =====
+
 ===== Formats for Specific Types of Notes: =====
 
 There are several ways to write translation notes. We would like them to fit into one of the following formats so we can easily train the translators and so they will recognize the purpose of each note.
@@ -81,4 +83,12 @@ Sometimes we need notes for a phrase and separate notes for portions of that phr
   * **you say, 'Behold, he is a gluttonous man**  - This can be translated as an indirect quote: "you say that he is a gluttonous man" or "you accuse him of being a gluttonous man."
   * **he is a gluttonous man**  - "he is a greedy eater" or "he habitually eats too much food"
   * **a drunkard**  - "a drunk" or "a habitual drunk”
+=== Phrases that have notes earlier in the book ===
+
+Sometimes a phrase is repeated multiple times in a book. We can make it easier for the translators by reminding them of where they have already translated it so they can translate it the same way.
+
+  *
+
+**be fruitful and multiply** - <font inherit/inherit;;inherit;;rgb(255, 255, 153)>See how you translated</font> these commands in [[https://door43.org/en/bible/notes/gen/01/28|1:28]].
+
 ~~DISCUSSION~~
