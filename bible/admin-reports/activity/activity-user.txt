@@ -29,6 +29,6 @@ The code looks like this:
 
 Edit the page and change the (now invisible) code below this line in order to check activity.
 
-{{changes>user=USER&count=15&render=pagelist(header,date,user,nocomments)&maxage=604800}}
+{{changes>user=susanquigley&count=100&render=pagelist(header,date,user,nocomments)&maxage=604800}}
 
 (//Please restore it to "USER" when finished//)
