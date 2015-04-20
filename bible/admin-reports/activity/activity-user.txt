@@ -15,20 +15,18 @@ The code looks like this:
   - Replace the word "USER" with the username of the individual.
   - Set "count=" to the maximum number of edits you wish to see.
   - Set "maxusage" to the length of time in seconds
-    * //1 day = 86400//
-    * //7 days = 604800//
-    * //10 days = 864000//
-    * //12 days = 1036800//
-    * //30 days = 25920000//
-    * //60 days = 51840000//
-    * //90 days = 77760000//
-    * //etc.//
-
-
+      * //1 day = 86400//
+      * //7 days = 604800//
+      * //10 days = 864000//
+      * //12 days = 1036800//
+      * //30 days = 25920000//
+      * //60 days = 51840000//
+      * //90 days = 77760000//
+      * //etc.//
 ==== Check activity ====
 
 Edit the page and change the (now invisible) code below this line in order to check activity.
 
-{{changes>user=USER&count=150&render=pagelist(header,date,user,nocomments)&maxage=604800}}
+{{changes>user=theresasb&count=150&render=pagelist(header,date,user,nocomments)&maxage=10368000}}
 
 (//Please restore it to "USER" when finished//)
