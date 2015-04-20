@@ -83,12 +83,13 @@ Sometimes we need notes for a phrase and separate notes for portions of that phr
   * **you say, 'Behold, he is a gluttonous man**  - This can be translated as an indirect quote: "you say that he is a gluttonous man" or "you accuse him of being a gluttonous man."
   * **he is a gluttonous man**  - "he is a greedy eater" or "he habitually eats too much food"
   * **a drunkard**  - "a drunk" or "a habitual drunk”
-=== Phrases that have notes earlier in the book ===
 
-Sometimes a phrase is repeated multiple times in a book. We can make it easier for the translators by reminding them of where they have already translated it so they can translate it the same way.
+=== Repeated Phrases in a Book ===
 
-  *
+Sometimes a phrase is repeated multiple times in a book. We can make it easier for the translators by reminding them of where they have already translated that phrase so they can translate it the same way. We only point them back to notes in the book they are working on.
 
-**be fruitful and multiply**  - <font inherit/inherit;;inherit;;rgb(255, 255, 153)>See how you translated</font>    these commands in [[https://door43.org/en/bible/notes/gen/01/28|1:28]].
+  * **be fruitful and multiply**  - See how you translated    these commands in [[https://door43.org/en/bible/notes/gen/01/28|1:28]].
+
+  * **will be blessed in him** - This can be translated as "will be blessed because of Abraham" or "will be blessed because I have blessed Abraham." See how you translated "through you" in [[en:bible:notes:gen:12:01|12:3]].
 
 ~~DISCUSSION~~
