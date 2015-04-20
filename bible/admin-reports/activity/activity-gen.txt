@@ -15,6 +15,10 @@
 
  {{changes>user=amanda.adams&count=15&render=pagelist(date,header,user,nocomments)&maxage=864000}}
 
+**Andrew Johnson: (needs to register) (will start 5/1/15)**
+
+ {{changes>user=USER&count=15&render=pagelist(date,header,user,nocomments)&maxage=864000}}
+
 **Carl Pace:**
 
  {{changes>user=cpace&count=15&render=pagelist(date,header,user,nocomments)&maxage=864000}}
