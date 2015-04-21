@@ -1,27 +1,6 @@
 ====== Translation Manual for unfoldingWord Projects ======
 
-**[[:en:ta:before|Before Translating]]**
-  * [[en:ta:intro:uw|Introduction to unfoldingWord]]
-    * [[en:ta:intro:statement-of-faith|Statement of Faith]]
-    * [[en:ta:intro:translation-guidelines|Translation Guidelines]]
-    * [[:en:ta:intro:license|Open License]]
-  * [[en:ta:intro:glossary|Glossary]]
-  * [[en:ta:intro:projects|Current Projects]]
-    * [[en:ta:intro:obs-project|Open Bible Stories]]
-    * [[en:ta:intro:bible-project|The Bible]]
-  * [[en:ta:intro:content|What Needs To Be Translated]]
-    * [[en:ta:intro:glstrategy|Gateway Langauges Strategy]]
-    * [[en:ta:intro:content-not-gl|What Needs To Be Translated for Non-Gateway Languages]]
-    * [[en:ta:intro:content-gl|What Needs To Be Translated for Gateway Languages]]
-  * [[en:ta:intro:tools|Translation Tools]]
-    * [[en:ta:tech:door43|Door43]]
-    * [[en:ta:tech:ts|translationStudio]]
-    * [[en:ta:tech:tk|translationKeyboard]]
-    * [[en:ta:tech:uw|unfoldingWord app]]
-    * [[en:ta:tech:dpe|Digital Publishing Engine]]
-  * [[en:ta:before:helps|Translation Helps]]
-    * [[en:ta:before:translation-notes|Translation Notes]]
-    * [[en:ta:before:comprehension-questions|Comprehension Questions]]
+
   * [[en:ta:before:update|How to Update from a Previous Version]]
 
 **[[:en:ta:translate|How to Translate]]**
