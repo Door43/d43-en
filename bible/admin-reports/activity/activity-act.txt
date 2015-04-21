@@ -2,43 +2,43 @@
 
 [[:en:bible:admin-reports:activity:activity|(Back to main Activity page)]]
 
-This report covers the last 7 days of activity and the last 50 changes made.
+This report covers the last 14 days of activity and the last 50 changes made.
 
-  * 604800 = 7 days *set
+  * 604800 = 7 days 
   * 864000 = 10 days
-  * 1209600 = 14 days
+  * 1209600 = 14 days *set
   * 1814400 = 21 days
 
 ~~NOCACHE~~
 
 __Angelo Palo:__
 
-{{changes>ns=en:bible:notes:act&user=angrock01&count=50&render=pagelist(date,header,user)&maxage= 604800}}
+{{changes>ns=en:bible:notes:act&user=angrock01&count=50&render=pagelist(date,header,user)&maxage= 1209600}}
 
 __Deborah Miniard:__
 
-{{changes>ns=en:bible:notes:act&user=deborah&count=50&render=pagelist(date,header,user)&maxage= 604800}}
+{{changes>ns=en:bible:notes:act&user=deborah&count=50&render=pagelist(date,header,user)&maxage= 1209600}}
 
 __Jeff Martin:__
 
-{{changes>ns=en:bible:notes:act&user=chappymartin&count=50&render=pagelist(date,header,user)&maxage= 604800}}
+{{changes>ns=en:bible:notes:act&user=chappymartin&count=50&render=pagelist(date,header,user)&maxage= 1209600}}
 
 __Mark Albertini:__
 
-{{changes>ns=en:bible:notes:act&user=translator09&count=50&render=pagelist(date,header,user)&maxage= 604800}}
+{{changes>ns=en:bible:notes:act&user=translator09&count=50&render=pagelist(date,header,user)&maxage= 1209600}}
 
 __Megan Kidwell:__
 
-{{changes>ns=en:bible:notes:act&user=megan.kidwell&count=50&render=pagelist(date,header,user)&maxage= 604800}}
+{{changes>ns=en:bible:notes:act&user=megan.kidwell&count=50&render=pagelist(date,header,user)&maxage= 1209600}}
 
 __Sherie Nelson:__
 
-{{changes>ns=en:bible:notes:act&user=hispoema&count=50&render=pagelist(date,header,user)&maxage= 604800}}
+{{changes>ns=en:bible:notes:act&user=hispoema&count=50&render=pagelist(date,header,user)&maxage= 1209600}}
 
 __Vicki Ivester:__
 
-{{changes>ns=en:bible:notes:act&user= ivester&count=50&render=pagelist(date,header,user)&maxage= 604800}}
+{{changes>ns=en:bible:notes:act&user= ivester&count=50&render=pagelist(date,header,user)&maxage= 1209600}}
 
 __Ed Quigley:__
 
-{{changes>ns=en:bible:notes:act&user=ed_quigley&count=50&render=pagelist(date,header,user)&maxage= 604800}}
+{{changes>ns=en:bible:notes:act&user=ed_quigley&count=50&render=pagelist(date,header,user)&maxage= 1209600}}
