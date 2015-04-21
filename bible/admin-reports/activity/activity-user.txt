@@ -12,6 +12,7 @@ The code looks like this:
 
 ==== How to check activity: ====
 
+  - Open the page with DWEdit
   - Replace the word "USER" with the username of the individual.
   - Set "count=" to the maximum number of edits you wish to see.
   - Set "maxusage" to the length of time in seconds
