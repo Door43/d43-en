@@ -1,4 +1,4 @@
-====== Notes: 1 Timothy Admin Page ======
+====== Notes: 1,2 Timothy Admin Page ======
 
 ~~NOCACHE~~
 
@@ -9,9 +9,16 @@
 |{{pagequery>ns:en:bible:notes:1ti -ns:en:bible:notes:1ti:questions:comprehension "{{tag>draft"; fulltext; sort=title:asc; display={title}; natsort; showcount; hidemsg; hidejump;}}  |{{pagequery>ns:en:bible:notes:1ti -ns:en:bible:notes:1ti:questions:comprehension "{{tag>review"; fulltext; sort=title:asc; display={title}; natsort; showcount; hidemsg; hidejump;}}  |{{pagequery>ns:en:bible:notes:1ti -ns:en:bible:notes:1ti:questions:comprehension "{{tag>discuss"; fulltext; sort=title:asc; display={title}; natsort; showcount; hidemsg; hidejump;}}  |{{pagequery>ns:en:bible:notes:1ti -ns:en:bible:notes:1ti:questions:comprehension "{{tag>publish"; fulltext; sort=title:asc; display={title}; natsort; showcount; hidemsg; hidejump;}}  |
 
 
-==== Check on bad tags ====
-This query checks the first tag to be one of 4 valid tags required to make the system work correctly: {draft|review|discuss|publish}. Any verses listed here are likely being overlooked above. please include this query for every bible book admin page. (EQ)
+==== 2 Timothy Pages Status ====
 
-{{pagequery>ns:en:bible:notes:1ti "{{tag>" -"{{tag>draft" -"{{tag>review" -"{{tag>discuss" -"{{tag>publish"; fulltext; sort=title:asc; display={title}; natsort; layout=table; showcount; hidemsg; hidejump;}}
+^  Draft  ^  Review  ^  Discuss  ^  Publish  ^
+|{{pagequery>ns:en:bible:notes:2ti -ns:en:bible:notes:2ti:questions:comprehension "{{tag>draft"; fulltext; sort=title:asc; display={title}; natsort; showcount; hidemsg; hidejump;}}  |{{pagequery>ns:en:bible:notes:2ti -ns:en:bible:notes:2ti:questions:comprehension "{{tag>review"; fulltext; sort=title:asc; display={title}; natsort; showcount; hidemsg; hidejump;}}  |{{pagequery>ns:en:bible:notes:2ti -ns:en:bible:notes:2ti:questions:comprehension "{{tag>discuss"; fulltext; sort=title:asc; display={title}; natsort; showcount; hidemsg; hidejump;}}  |{{pagequery>ns:en:bible:notes:2ti -ns:en:bible:notes:2ti:questions:comprehension "{{tag>publish"; fulltext; sort=title:asc; display={title}; natsort; showcount; hidemsg; hidejump;}}  |
+
+
+==== Check on bad tags ====
+
+This query checks the first tag to be one of the valid tags required to make the system work correctly: {create|delete|draft*|review|text|discuss|publish}. Any verses listed here are likely being overlooked above. Please include this query for every bible book admin page. (EQ)
+
+{{pagequery>ns:en:bible:notes:1ti ns:en:bible:notes:12g>review" -"{{tag>text" -"{{tag>discuss" -"{{tag>publish"; fulltext; sort=title:asc; display={title}; natsort; layout=table; showcount; hidemsg; hidejump;}}
 
 \\ 
