@@ -2,9 +2,9 @@
 
 //The status of development for Open Bible Stories//
 
-publish date: 2015-02-10
+publish date: 2015-04-22
 
-version: 3.2
+version: 3.2.1
 
 contributors: Distant Shores Media
 
@@ -14,7 +14,7 @@ checking level: 3
 
 source text: en
 
-source text version: 3.2
+source text version: 3.2.1
 
 comments: Original source text.
 
