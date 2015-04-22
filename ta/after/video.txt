@@ -1,3 +1,0 @@
-===== Make Videos =====
-
-Once the audio recordings have been made, videos can be automatically made of each story. To see a sample, click [[https://www.youtube.com/watch?v=BCLd3ruQUwk|here]]. This video generator proof of concept is functional and can be run manually, but development for fully automated video rendering is still in production.
