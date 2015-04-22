@@ -40,16 +40,12 @@
   * [[:en:bible:notes:mrk:questions:comprehension:home|Page List]]
 {{count>draft review discuss publish&en:bible:notes:mrk:questions:comprehension}}
 
-==== 1 Thessalonians ====
+==== 1,2 Thessalonians ====
 
   * [[:en:bible:admin-reports:questions-comprehension:1th|Comprehension Questions: 1,2 Thessalonians Admin]]
-  * [[:en:bible:notes:1th:questions:comprehension:home|Page List]]
+  * [[:en:bible:notes:1th:questions:comprehension:home|1Th Page List]]
+  * [[:en:bible:notes:2th:questions:comprehension:home|2Th Page List]]
 {{count>draft review discuss publish&en:bible:notes:1th:questions:comprehension en:bible:notes:2th:questions:comprehension}}
-
-==== 2 Thessalonians ====
-
-  * [[:en:bible:notes:2th:questions:comprehension:home|Page List]]
-{{count>draft review discuss publish&en:bible:notes:2th:questions:comprehension}}
 
 ==== Philippians ====
 
@@ -75,21 +71,13 @@
   * [[:en:bible:notes:php:questions:comprehension:home|Page List]]
 {{count>draft review discuss publish&en:bible:notes:php:questions:comprehension}}
 
-==== 1 John ====
+==== 1,2,3 John ====
 
   * [[:en:bible:admin-reports:questions-comprehension:1jn|Comprehension Questions: 1,2,3 John Admin]]
-  * [[:en:bible:notes:1jn:questions:comprehension:home|Page List]]
-{{count>draft review discuss publish&en:bible:notes:1jn:questions:comprehension}}
-
-==== 2 John ====
-
+  * [[:en:bible:notes:1jn:questions:comprehension:home|1Jn Page List]]
   * [[:en:bible:notes:2jn:questions:comprehension:home|Page List]]
-{{count>draft review discuss publish&en:bible:notes:2jn:questions:comprehension}}
-
-==== 3 John ====
-
   * [[:en:bible:notes:3jn:questions:comprehension:home|Page List]]
-{{count>draft review discuss publish&en:bible:notes:3jn:questions:comprehension}}
+{{count>draft review discuss publish&en:bible:notes:1jn:questions:comprehension en:bible:notes:2jn:questions:comprehension en:bible:notes:3jn:questions:comprehension}}
 
 ==== Philemon ====
 
@@ -121,6 +109,7 @@
   * [[:en:bible:notes:exo:questions:comprehension:home|Page List]]
 {{count>draft review discuss publish&en:bible:notes:exo:questions:comprehension}}
 
+
 ===== Completed: =====
 
 ==== Galatians ====
@@ -132,12 +121,8 @@
 ==== 1 Timothy ====
 
   * [[:en:bible:notes:1ti:questions:comprehension:home|Page List]]
-{{count>draft review discuss publish&en:bible:notes:1ti:questions:comprehension}}
-
-==== 2 Timothy ====
-
   * [[:en:bible:notes:2ti:questions:comprehension:home|Page List]]
-{{count>draft review discuss publish&en:bible:notes:2ti:questions:comprehension}}
+{{count>draft review discuss publish&en:bible:notes:1ti:questions:comprehension en:bible:notes:2ti:questions:comprehension}}
 
 ==== Ruth ====
 
