@@ -13,7 +13,6 @@ This page contains the links to notes and resources for the TN Workshop.
   * [[:en:bible:team-info:processes:gettingstarted|Get Started]]
   * [[:en:get-started?do=register|Register as a New User]]
   * [[:en:ta:syntax|Formatting Content]]
-  * [[en:bible:team-info:processes:add-kt]]
 
 ==== Working Pages ====
 
@@ -36,6 +35,7 @@ This page contains the links to notes and resources for the TN Workshop.
 
   * [[:en:bible:team-info:training:topics:kt-yes-no|Is It a Key Term?]]
   * [[:en:bible:admin-reports:kt-admin:key-term-full-list]]
+  * [[en:bible:team-info:processes:add-kt]]
  
   * [[:en:ulb:ep:40-mat.usfm|Matthew USFM File]]
   * [[:en:ulb:ep:42-luk.usfm|Luke USFM File]]
