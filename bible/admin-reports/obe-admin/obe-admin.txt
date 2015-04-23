@@ -1,0 +1,41 @@
+====== OBE: Admin Page ======
+
+(Use this page to delete terms: [[:en:bible:admin-reports:obe-admin:terms-delete]])
+
+~~NOCACHE~~
+
+==== KT Page Links ====
+
+  * [[:en:bible:admin-reports:obe-admin:obe-page-and-tag-kt]]
+  * [[:en:bible:admin-reports:obe-admin:obe-page-and-tag-other]]
+  * [[:en:bible:admin-reports:obe-admin:obe-draft]]
+  * [[:en:bible:admin-reports:obe-admin:obe-create]]
+  * [[:en:bible:admin-reports:obe-admin:obe-create-book]]
+
+==== Key Terms Pages Status ====
+
+{{count>create delete draft1 draft2 review discuss publish&en:obe}}
+
+^  Group 1 Draft Pages  ^  Group 2 Draft Pages  |
+|{{pagequery>ns:en:obe "{{tag>draft1"; fulltext; sort=title:asc; display={title}; natsort; showcount; hidemsg; hidejump;}} |{{pagequery>ns:en:obe "{{tag>draft2"; fulltext; sort=title:asc; display={title}; natsort; showcount; hidemsg; hidejump;}} |
+
+^  New Pages to Review  ^  Published Pages to Review  ^  Discuss Pages  |
+|{{pagequery>ns:en:obe "{{tag>review"; fulltext; sort=title:asc; display={title}; natsort; showcount; hidemsg; hidejump;}} |{{pagequery>ns:en:obe "{{tag>publish review"; fulltext; sort=title:asc; display={title}; natsort; showcount; hidemsg; hidejump;}} |{{pagequery>ns:en:obe "{{tag>discuss"; fulltext; sort=title:asc; display={title}; natsort; showcount; hidemsg; hidejump;}} |
+
+==== Notes Pages that need KT Links Added ====
+
+{{pagequery>ns:en:bible:notes -ns:en:bible:notes:key-terms "ktlink"; fulltext; sort=title:asc; display={title}; natsort; layout=table; showcount; hidemsg; hidejump;}}
+
+==== Check for Bad Tags ====
+
+The following query checks the first tag to be one of the valid tags required to make the system work correctly: {create|delete|draft|review|discuss|publish}. Any key terms listed here are not in the above chart. (EQ)
+
+{{pagequery>ns:en:obe "{{tag>" -"{{tag>create" -"{{tag>delete" -"{{tag>draft1" -"{{tag>draft2" -"{{tag>review" -"{{tag>discuss" -"{{tag>publish"; fulltext; sort=title:asc; display={title}; natsort; layout=table; showcount; hidemsg; hidejump;}}
+
+==== Check for Well Formed Tags ====
+
+The following query checks that every page that has curly braces"{}" include the key word "tag>".
+
+{{pagequery>ns:en:obe -exclude:home "{{" -"{{tag>"; fulltext; sort=title:asc; display={title}; natsort; layout=table; showcount; hidemsg; hidejump;}}
+
+\\
