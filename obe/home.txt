@@ -1,10 +1,11 @@
 ====== Complete list of Important Terms ======
 
-===== (Key Terms and OBE Terms) =====
+==== Individual Key Terms and Other Term Lists) ====
 
-[[:en:obe:kt:home|Key Terms]]
+  * [[:en:obe:kt:home|Key Terms]]
+  * [[:en:obe:other:home|Other Terms]]
 
-[[:en:obe:other:home|Other Terms]]
+==== Combined Lists ====
 
 {{pagequery>ns:en:obe; fulltext; sort=title:asc; display={title}; natsort; showcount; hidemsg; hidejump; layout=column}}
 
