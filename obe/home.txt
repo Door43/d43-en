@@ -1,12 +1,11 @@
-====== Complete list of Important Terms =====
+====== Complete list of Important Terms ======
+
 ===== (Key Terms and OBE Terms) =====
 
 [[:en:obe:kt:home|Key Terms]]
 
 [[:en:obe:other:home|Other Terms]]
 
-
 {{pagequery>ns:en:obe; fulltext; sort=title:asc; display={title}; natsort; showcount; hidemsg; hidejump;}}
-
 
 <nspages en:obe:other -title -exclude:home -textPages="List of other terms:"> <nspages en:obe:kt -title -exclude:home -textPages="List of key terms:">
