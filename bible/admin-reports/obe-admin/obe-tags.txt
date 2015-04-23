@@ -12,7 +12,7 @@ Lists all the OBE terms and tags sorted by Status tag. Good for reviewing all th
 {{count>create&en:obe}}
 {{topic>en:obe?Create&nocomments&list&tags}}
 
-==== Draft 1-3 ====
+==== Draft 1-2 ====
 
 {{count>draft1&en:obe}}
 {{topic>en:obe?draft1&nocomments&list&tags}}
@@ -20,8 +20,6 @@ Lists all the OBE terms and tags sorted by Status tag. Good for reviewing all th
 {{count>draft2&en:obe}}
 {{topic>en:obe?draft2&nocomments&list&tags}}
 
-{{count>draft3&en:obe}}
-{{topic>en:obe?draft3&nocomments&list&tags}}
 
 ==== REVIEW ====
 
