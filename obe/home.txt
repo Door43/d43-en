@@ -8,4 +8,3 @@
 
 {{pagequery>ns:en:obe; fulltext; sort=title:asc; display={title}; natsort; showcount; hidemsg; hidejump; layout=column}}
 
-<nspages en:obe:other -title -exclude:home -textPages="List of other terms:"> <nspages en:obe:kt -title -exclude:home -textPages="List of key terms:">
