@@ -2,4 +2,4 @@
 
 ~~NOCACHE~~
 
-{{<pagequery>ns:en:obe:kt ns:en:obe:other -exclude:home -exclude:en:obe:kt:home -exclude:en:obe:other:home -textPages="KT URL and Title" -idAndTitle -nbCol=2>}}
+<nspages en:obe:kt en:obe:other -exclude:home -textPages="KT URL and Title" -idAndTitle -nbCol=2>
