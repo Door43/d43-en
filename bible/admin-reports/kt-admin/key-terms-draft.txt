@@ -1,17 +1,7 @@
 ====== Key Terms: Pages to Edit ======
 
-~~NOCACHE~~
+This page has moved to: [[en:bible:admin-reports:obe-admin:obe-edit]]
 
-The Key Terms in table below are ready to be edited by the Key Terms Team.
-
-Because of the volume of terms, the KT team is divided into three groups so that each group can focus on a different set of terms each week. We always want multiple people to evaluate and edit each term, but the group is too large to all work on the same terms.
-
-==== Terms by Group: ====
-
-^  Groups  ^  Terms  |
-|  __**Group 1** __  \\ Jan Zanutto \\ Matthew Latham \\ Richard Joki \\ Chris Samuel |  {{pagequery>ns:en:obe "{{tag>draft1"; fulltext; sort=title:asc; display={title}; natsort; showcount; hidemsg; hidejump;}} |
-|  __**Group 2** __  \\ David Book \\ Drew Curley \\ Paul Holloway |  {{pagequery>ns:en:obe "{{tag>draft2"; fulltext; sort=title:asc; display={title}; natsort; showcount; hidemsg; hidejump;}} |
-
-{{tag>kt101}}
+Please update your bookmarks.
 
 \\
