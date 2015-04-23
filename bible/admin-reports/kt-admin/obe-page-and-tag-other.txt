@@ -1,5 +1,5 @@
-====== OBE: Page and Tag Names (other) ======
+====== OBE: Page and Tag Names (Other) ======
 
 ~~NOCACHE~~
 
-<nspages en:obe:other -exclude:home -textPages="KT URL and Title" -idAndTitle -nbCol=2>
+<nspages en:obe:other -exclude:home -textPages="Other URL and Title" -idAndTitle -nbCol=2>
