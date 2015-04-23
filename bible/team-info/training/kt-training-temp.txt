@@ -35,6 +35,6 @@ The key term pagename (urlname) naming convention is:
 ==== Create cross references (hyperlinks) ====
 
   - After the key term has been promoted to "publish" check for cross references that need to be converted into links. Example (See also: Adam, Eve)
-  - Find the pagename (urlname) of the Key term on <nowiki>https://www.door43.org/en/bible/admin-reports/00-key-term-and-tag-names</nowiki>
-  - substitute the name with the follow link syntax <nowiki>[[:en:bible:notes:key-terms:urlname]]</nowiki>. Example: Adam will become <nowiki>[[:en:bible:notes:key-terms:adam]]</nowiki> and Eve will become <nowiki>[[:en:bible:notes:key-terms:eve]]</nowiki>. the full hyperlink will be:
-      - <nowiki>(See also: [[:en:bible:notes:key-terms:adam]], [[:en:bible:notes:key-terms:eve]])</nowiki>
+  - Find the pagename (urlname) of the OBE term on <nowiki>https://www.door43.org/en/bible/admin-reports/obe-admin/obe-page-and-tag</nowiki>
+  - substitute the name with the follow link syntax <nowiki>[[:en:obe:kt:urlname]]</nowiki> or <nowiki>[[:en:obe:other:urlname]]</nowiki>. Example: Adam will become <nowiki>[[:en:obe:other:adam]]</nowiki> and Jesus will become <nowiki>[[:en:obe:kt:jesus]]</nowiki>. the full hyperlink will be:
+      - <nowiki>(See also: [[:en:obe:other:adam]], [[:en:obe:kt:jesus]])</nowiki>
