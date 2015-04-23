@@ -5,6 +5,7 @@ This was taken from key terms template.
 Check with other materials for relevancy.
 
 **note:** This page and job description has been revised to current procedures (8Jan15).
+
 ===== Procedures =====
 
   - The Key Term Template will handle the hyperlink and page creation as necessary.
@@ -22,7 +23,8 @@ The key term pagename (urlname) naming convention is:
 
 ==== Create KT Pages ====
 
-  - create a new kt page with the following link: <nowiki>https://door43.org/en/bible/notes/key-terms/urlname</nowiki>
+  - decide if the new page will be a primary "kt" or "other" within the OBE directories.
+  - create a new kt page with the following link: <nowiki>https://door43.org/en/obe/kt/urlname</nowiki> or <nowiki>https://door43.org/en/obe/other/urlname</nowiki>
   - enter edit mode and copy one of the two templates listed below into the new key term edit window.
   - edit the header to the full key term name
   - edit the line <nowiki>{{topic>URLterm&nocomments}}</nowiki> by changing "URLterm" to the pagename (urlname).
