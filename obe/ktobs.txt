@@ -1,7 +1,5 @@
-====== OBS Page List ======
+====== OBS Key Terms List ======
 
 ~~NOCACHE~~
-
-==== Pages tagged "ktobs" ====
 
 {{pagequery>ns:en:obe "ktobs"; fulltext; sort=title:asc; display={title}; natsort; showcount; hidemsg; hidejump;}}
