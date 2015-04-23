@@ -4,9 +4,9 @@
 
 ==== Key Terms Admin ====
 
-  * [[:en:bible:admin-reports:kt-admin:key-terms-admin|Key Terms: Admin Page]]
-  * [[:en:bible:admin-reports:kt-admin:key-terms-draft|Key Terms: Pages to Edit]]
-{{count>create delete draft1 draft2 review text discuss publish&en:bible:notes:key-terms}}
+  * [[:en:bible:admin-reports:kt-admin:obe-admin]]
+  * [[:en:bible:admin-reports:kt-admin:obe-draft]]
+{{count>create delete draft1 draft2 review text discuss publish&en:obe}}
 
 ==== Books in Process ====
 
