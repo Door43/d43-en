@@ -2,4 +2,4 @@
 
 ~~NOCACHE~~
 
-<nspages en:obe -exclude:home -en:obe:kt:home -en:obe:other:home -textPages="KT URL and Title" -idAndTitle -nbCol=2>
+<nspages en:obe -exclude:home -exclude:en:obe:kt:home -exclude:en:obe:other:home -textPages="KT URL and Title" -idAndTitle -nbCol=2>
