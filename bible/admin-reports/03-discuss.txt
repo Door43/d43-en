@@ -5,7 +5,7 @@
 ==== Location ====
 
 ^  KT's  ^  Books  |
-|{{pagequery>ns:en:bible:notes:key-terms "{{tag>discuss"; fulltext; sort=title:asc; display={title}; natsort; showcount; hidemsg; hidejump;}} |{{pagequery>ns:en:bible:notes -ns:en:bible:notes:key-terms "{{tag>discuss"; fulltext; sort=title:asc; display={title}; natsort; showcount; hidemsg; hidejump;}} |
+|{{pagequery>ns:en:obe "{{tag>discuss"; fulltext; sort=title:asc; display={title}; natsort; showcount; hidemsg; hidejump;}} |{{pagequery>ns:en:bible:notes -ns:en:bible:notes:key-terms "{{tag>discuss"; fulltext; sort=title:asc; display={title}; natsort; showcount; hidemsg; hidejump;}} |
 
 ==== Check on bad tags ====
 
