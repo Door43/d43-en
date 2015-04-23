@@ -1,5 +1,0 @@
-====== OBE: Page and Tag Names (KT) ======
-
-~~NOCACHE~~
-
-<nspages en:obe:kt -exclude:home -textPages="KT URL and Title" -idAndTitle -nbCol=2>
