@@ -1,14 +1,22 @@
-====== Is It a Key Term? ======
+====== Does This Term Require a Page? ======
 
-Why are some terms labeled as key terms, and other are not? This decision is made by the Notes teams, and is actually more art than science. To become a Key Term, a word or phrase should have these characteristics:
+Why do some terms labeled have OBE pages, and other do not? To become an OBE term, a word or phrase should have these characteristics:
 
-  - it is biblically or theologically significant
   - it needs more than a sentence or two in the notes to explain how to translate it accurately
   - it appears often in the Bible, so it is more efficient to link to another page than to keep repeating the explanation in the notes
 
-If a word has a simple definition that an average speaker would be expected to know from a dictionary, it should not be a Key Term.
+If a word has a simple definition that an average speaker would be expected to know from a dictionary, it should not be an OBE term.
 
-If you want to find out if a word is already a key term, see [[en:obe:home|Key Terms List]].
+==== Two Types of OBE Terms ====
+
+There are two types of OBE terms:
+
+  * OBE Key Terms
+  * OBE Other Terms
+
+The Key Terms are more significant theologically, and require special care in their translation. Deciding which category is the right place for a term is actually more art than science. In general, "Key Terms" provide more explanation and translation guidance than the "Other Terms."
+
+If you want to find out if a word is already an OBE term, see [[en:obe:home]].
 
 {{tag>notes301 kt201}}
 
