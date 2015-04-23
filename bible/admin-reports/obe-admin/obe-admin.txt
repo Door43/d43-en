@@ -36,6 +36,6 @@ The following query checks the first tag to be one of the valid tags required to
 
 The following query checks that every page that has curly braces"{}" include the key word "tag>".
 
-{{pagequery>ns:en:obe -exclude:home "{{" -"{{tag>"; fulltext; sort=title:asc; display={title}; natsort; layout=table; showcount; hidemsg; hidejump;}}
+{{pagequery>ns:en:obe -en:obe:home -en:obe:kt:home - en:obe:other:home "{{" -"{{tag>"; fulltext; sort=title:asc; display={title}; natsort; layout=table; showcount; hidemsg; hidejump;}}
 
 \\
