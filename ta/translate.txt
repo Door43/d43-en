@@ -2,6 +2,23 @@
 
 This manual teaches translation theory and how to make a good translation. 
 
+  * Basics of Translation
+    * [[en:ta:translate:basics]]
+    * [[en:ta:translate:scriptures]]
+    * [[en:ta:translate:translatenames]]
+    * [[en:ta:translate:translateunknowns]]
+    * [[en:ta:translate:translateunknowns-numbers]]
+  * Translating According to the Translation Guidelines
+    * [[en:ta:translate:accurate]]
+    * [[en:ta:translate:authoritative]]
+    * [[en:ta:translate:clear]]
+    * [[en:ta:translate:collaborative]]
+    * [[en:ta:translate:expressive]]
+    * [[en:ta:translate:faithful]]
+    * [[en:ta:translate:historical]]
+    * [[en:ta:translate:natural]]
+    * [[en:ta:translate:ongoing]]
+    * [[en:ta:translate:pure]]
   * [[en:ta:translate:figuresofspeech|Figures of Speech]]
     * [[en:ta:translate:apostrophe]]
     * [[en:ta:translate:doublet]]
@@ -18,7 +35,15 @@ This manual teaches translation theory and how to make a good translation.
     * [[en:ta:translate:rhetoricalquestion]]
     * [[en:ta:translate:simile]]
     * [[en:ta:translate:synecdoche]]
-
-
+  * Other Modules
+    * [[en:ta:translate:implicitexplicit]]
+    * [[en:ta:translate:update]]
+    * [[en:ta:translate:hypothetical]]
+    * [[en:ta:translate:eventorder]]
+    * [[en:ta:translate:parable]]
+    * [[en:ta:translate:writingstyles]]
+  * Drafts
+    * [[en:ta:translate:merism]]
+    * [[en:ta:translate:originalmanuscripts]]
 
 [[en:ta:translate:allpages|See All Modules]]
