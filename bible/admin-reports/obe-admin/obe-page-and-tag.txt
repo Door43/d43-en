@@ -2,11 +2,7 @@
 
 ~~NOCACHE~~
 
-===== OBE Key Terms: =====
-
-<nspages en:obe:kt -exclude:home -idAndTitle -nbCol=2>
+<nspages en:obe:kt -exclude:home -textPages="Key Terms: URL and Title" -idAndTitle -nbCol=2>
 
 
-===== OBE Other Terms: =====
-
-<nspages en:obe:kt -exclude:home -idAndTitle -nbCol=2>
+<nspages en:obe:kt -exclude:home -textPages="Other Terms: URL and Title" -idAndTitle -nbCol=2>
