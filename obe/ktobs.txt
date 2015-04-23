@@ -1,0 +1,9 @@
+OBS Page List ======
+
+~~NOCACHE~~
+
+==== Pages tagged "ktobs" ====
+
+The pages below in the OBE namespace are tagged as "ktobs" in order to be sorted as needed.
+
+{{pagequery>ns:en:obe "ktobs"; fulltext; sort=title:asc; display={title}; natsort; showcount; hidemsg; hidejump;}}
