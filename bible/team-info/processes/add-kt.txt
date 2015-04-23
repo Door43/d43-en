@@ -1,11 +1,10 @@
-====== Add Key Terms to Notes Page ======
+====== Add New Key Terms to Notes Page ======
 
-Before adding a KT link to a page, check here to see if it already exists in one of the two lists:
+Before requesting a new Key Term for a page, check here to see if it already exists in one of the two lists:
 
-  * [[:en:obe:kt:home]]
-  * [[:en:obe:other:home]]
+  * [[:en:obe:home]]
 
-If not:
+If the term does not yet exist, do the following to notify the text team to create the link:
 
   * Add the f​ollowing tag to the to the chunk page above the Discussion link:
 
