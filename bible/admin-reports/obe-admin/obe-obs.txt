@@ -6,4 +6,4 @@
 
 The pages below in the OBE namespace are tagged as "ktobs" in order to be sorted as needed.
 
-{{pagequery>ns:en:obe "ktobs"; fulltext; sort=title:asc; display={title}; natsort; showcount; hidemsg; hidejump; cols=2;}}
+{{pagequery>ns:en:obe "ktobs"; fulltext; sort=title:asc; display={title}; natsort; showcount; hidemsg; hidejump; group; cols=2;}}
