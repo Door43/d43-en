@@ -4,5 +4,5 @@
 
 [[:en:obe:other:home|Other Terms]]
 
-<nspages en:obe:other en:obe:kt -title -exclude:home -textPages="List of other terms:">
+<nspages en:obe:other -title -exclude:home -textPages="List of other terms:">
 <nspages en:obe:kt -title -exclude:home -textPages="List of key terms:">
