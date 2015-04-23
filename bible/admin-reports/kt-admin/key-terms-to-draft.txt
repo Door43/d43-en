@@ -19,9 +19,7 @@ Edit the bible reference tags to create a list of key terms to promote to draft.
 
 ==== Genesis Markup ====
 
-{{topic>create +gen19 &tags&nocomments}}
-{{topic>create +gen20 &tags&nocomments}}
-
+{{topic>create +gen19 &tags&nocomments}}{{topic>create +gen20 &tags&nocomments}}
 
 ==== Acts Markup ====
 
@@ -33,12 +31,4 @@ Edit the bible reference tags to create a list of key terms to promote to draft.
 
 ===== Matthew Markup =====
 
-{{topic>create +mat02 &tags&nocomments}}
-{{topic>create +mat03 &tags&nocomments}}
-{{topic>create +mat04 &tags&nocomments}}
-{{topic>create +mat05 &tags&nocomments}}
-
-
-
-
-\\ 
+{{topic>create +mat02 &tags&nocomments}}{{topic>create +mat03 &tags&nocomments}}{{topic>create +mat04 &tags&nocomments}}{{topic>create +mat05 &tags&nocomments}}
