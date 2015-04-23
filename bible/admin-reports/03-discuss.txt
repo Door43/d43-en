@@ -5,7 +5,7 @@
 ==== Location ====
 
 ^  OBE  ^  Books  |
-|{{topic>en:obe?discuss&nocomments}} |{{pagequery>ns:en:bible:notes -ns:en:bible:notes:key-terms "{{tag>discuss"; fulltext; sort=title:asc; display={title}; natsort; showcount; hidemsg; hidejump;}} |
+|{{topic>en:obe?discuss&nocomments}}  |{{topic>en:bible:notes?discuss&nocomments}}  |
 
 ==== Check on bad tags ====
 
