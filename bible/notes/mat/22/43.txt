@@ -2,28 +2,15 @@
 
 ===== TFT: =====
 
-<usfm>
-\v 43 Jesus said to them, "\add If the Messiah is King David's descendant\add*, then David should not have called him 'Lord' when David was saying \add what\add* the \add Holy\add* Spirit \add prompted him to\add* say.\f + \ft Or: Why did David call the Messiah 'Lord' when David was speaking \add what\add* the \add Holy\add* Spirit \add prompted him to\add* say? \f* \f + \ft rhetorical question \f*
-\v 44 \add David wrote this in the Scriptures about the Messiah\add*: 'God said to my Lord, "Sit \add here beside me\add* on my right, \add where I will greatly honor you\add* \f + \ft metonymy \f*. \add Sit here\add* while I completely defeat your enemies \f + \ft metonymy \f*."'
-</usfm>
+<usfm> \v 43 Jesus said to them, "\add If the Messiah is King David's descendant\add*, then David should not have called him 'Lord' when David was saying \add what\add* the \add Holy\add* Spirit \add prompted him to\add* say.\f + \ft Or: Why did David call the Messiah 'Lord' when David was speaking \add what\add* the \add Holy\add* Spirit \add prompted him to\add* say? \f* \f + \ft rhetorical question \f* \v 44 \add David wrote this in the Scriptures about the Messiah\add*: 'God said to my Lord, "Sit \add here beside me\add* on my right, \add where I will greatly honor you\add* \f + \ft metonymy \f*. \add Sit here\add* while I completely defeat your enemies \f + \ft metonymy \f*."' </usfm>
 
 ===== UDB: =====
 
-<usfm>
-\v 43 Jesus said to them, "If the Christ is King David's descendant, then David should not have called him 'Lord' when David was saying what the Holy Spirit told him to say.
-\v 44 David wrote this in the Scriptures about the Christ: 'God said to my Lord, "Sit here beside me on my right, where I will greatly honor you."'
-</usfm>
+<usfm> \v 43 Jesus said to them, "If the Christ is King David's descendant, then David should not have called him 'Lord' when David was saying what the Holy Spirit told him to say. \v 44 David wrote this in the Scriptures about the Christ: 'God said to my Lord, "Sit here beside me on my right, where I will greatly honor you."' </usfm>
 
 ===== ULB: =====
 
-<usfm>
-\v 43 Jesus said to them, "How then does David in the Spirit call him Lord, saying,
-\q
-\v 44 'The Lord said to my Lord,
-\q Sit at my right hand,
-\q Till I put your enemies underneath your feet
-\m
-</usfm>
+<usfm> \v 43 Jesus said to them, "How then does David in the Spirit call him Lord, saying, \q \v 44 'The Lord said to my Lord, \q Sit at my right hand, \q Till I put your enemies underneath your feet \m </usfm>
 
 ===== Important Terms: =====
 
@@ -34,11 +21,10 @@
 
 ===== Translation Notes: =====
 
-  * **How then does David in the Spirit call him Lord**  - Jesus is using a question to make a point. <font 14px line-height: 21.7777786254883px;/inherit;;inherit;;inherit>(See: Rhetorical Question)</font>
-  * **The Lord said to my Lord**  - The first Lord refers to God the father and the second Lord refers to the Messiah. David spoke of the Messiah as the Lord. (Psalm 110:1) This could be translated as "The Lord said to my master,"
-  * **at my right hand **- "at a place of honor and importance" <font 14px line-height: 21.7777786254883px;/inherit;;inherit;;inherit>(See: Metaphor)</font>
-  * **Till I put your enemies underneath your feet.**  - "Until I, God, conquer your enemies." <font 14px line-height: 21.7777786254883px;/inherit;;inherit font-size: 14px; line-height: 21.7777786254883px;;;inherit>(See: Idiom)</font>  <font 14px line-height: 21.7777786254883px;/inherit;;inherit font-size: 14px; line-height: 21.7777786254883px;;;inherit></font>
-
+  * **How then does David in the Spirit call him Lord**  - Jesus is using a question to make a point. <font inherit/inherit;;inherit;;inherit>(See: Rhetorical Question)</font>
+  * **The Lord said to my Lord**  - The first Lord refers to God the father and the second Lord refers to the Messiah. David spoke of the Messiah as the Lord. (Psalm 110:1) This could be translated as "The Lord said to my master."
+  * **at my right hand **- "at a place of honor and importance" <font inherit/inherit;;inherit;;inherit>(See: Metaphor)</font>
+  * **Till I put your enemies underneath your feet**  - "Until I, God, conquer your enemies" <font 14px line-height: 21.7777786254883px;/inherit;;inherit font-size: 14px; line-height: 21.7777786254883px;;;inherit>(See: Idiom)</font> <font 14px line-height: 21.7777786254883px;/inherit;;inherit font-size: 14px; line-height: 21.7777786254883px;;;inherit></font>
 ===== Links: =====
 
   * **[[:en:bible:notes:mat:questions:comprehension:22|Matthew Chapter 22 Comprehension Questions]]**
