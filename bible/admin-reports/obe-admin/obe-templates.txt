@@ -1,14 +1,12 @@
 ====== OBE: Templates ======
 
-==== OBE Key Term Template ====
+==== OBE Term Template ====
 
 The code for creating an OBE Key Term link is:
 
 <code>
 [[:en:obe:kt:term|term title]]
 </code>
-
-==== OBE Other Term Template ====
 
 The code for creating an OBE Other Term link is:
 
