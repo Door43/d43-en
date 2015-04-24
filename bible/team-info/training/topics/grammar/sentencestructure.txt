@@ -18,13 +18,13 @@ Sentences can be used for other purposes as well.
 
 The //**subject**// is who or what the sentence is about. In these examples, the subject is underlined: 1) //'__The boy__  is running.'//  2) //'__He__  is running.'//
 
-Subjects are typically typically noun phrases or pronouns. (See: [[:en:ta:vocabulary:parts-of-speech|English Parts of Speech]] for more information.) In the examples above, "the boy" is a noun phrase that has the noun 'boy,' and "he" is a pronoun.
+Subjects are typically typically noun phrases or pronouns. (See: [[en:ta:translate:parts-of-speech|English Parts of Speech]] for more information.) In the examples above, "the boy" is a noun phrase that has the noun 'boy,' and "he" is a pronoun.
 
 Sometimes a subject is not stated but is implied. For example, //'Close the door//.' The verb is 'close'; the subject is implied to be 'you.' See [[:en:ta:vocabulary:implicitexplicit|Explicit and Implicit Information]] for more information.
 
 ==== Predicate ====
 
-The predicate is the part of a sentence which tells something about the subject. It usually has a [[:en:ta:vocabulary:verbs|verb]].
+The predicate is the part of a sentence which tells something about the subject. It usually has a [[en:ta:translate:verbs|verb]].
 
 Here are some examples: \\ '//The man is strong//.' - The subject is '//the man//' and the predicate is '//is strong//' (It describes the man.) \\ '//He worked hard//.' - The subject is '//he//' and the predicate is '//worked hard//' (It is something the man did.)
 
@@ -60,7 +60,7 @@ A language may have a preferred order for its clauses and other phrases. For exa
 
   - //She went to the garden to pick some tomatoes.//
   - //In order to pick some tomatoes, she went to the garden.//
-A language may have a preferred word order for its subject, verb, and object or complement. (See: [[:en:ta:vocabulary:wordorder|Word Order]]) For example, English and French normally put the object after the verb. But if the object is a pronoun, French puts it before the verb.
+A language may have a preferred word order for its subject, verb, and object or complement. (See: [[en:ta:translate:wordorder|Word Order]]) For example, English and French normally put the object after the verb. But if the object is a pronoun, French puts it before the verb.
 
   * English: //The man sees __the house__.//
   * French: //L'homme voit __la maison__. //  (The man sees the house.)
