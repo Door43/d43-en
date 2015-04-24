@@ -1,17 +1,18 @@
 ====== Page Status Tags ======
 
-
-The Notes and KT pages contain status tags at the bottom. These tags should be changed only by team leaders or people specifically assigned by them to do so. These tags are key to the workflow between the teams. 
+The Notes and KT pages contain status tags at the bottom. These tags should be changed only by team leaders or people specifically assigned by them to do so. These tags are key to the workflow between the teams.
 
 The main tags and their meaning are:
 
-  * **talink** - this alerts the Translation Academy team that a new topic needs to be created on a Notes page
-  * **draft** - this indicates that a page needs to have draft content created by the appropriate team
-  * **review** - this indicates that the page is ready for final review by the team leader
-  * **text** - this indicates that the team leader is waiting for a response from the text team about changes
-  * **discuss** - this indicates that the team leader would like to discuss this page with someone else before publishing
-  * **publish** - this indicates that the page is finished and ready to release in the app
-
-
+  * **talink**  - this alerts the Translation Academy team that a new topic needs to be created
+  * **ktlink **- this alerts the Key Terms team that a new Important Word needs to be created or an existing word/phrase was added to the list
+  * **draft**  - this indicates that a page needs to have draft content created by the appropriate team
+  * **check**
+ - this indicates that the page is ready for the Translation Notes Teams Manager to check
+  * **review**  - this indicates that the page is ready for the Translation Specialist to review
+  * **text**  - this indicates that the Reviewer is waiting for a response from the text team about changes
+  * **discuss**  - this indicates that the Reviewer would like to discuss this page with another Reviewer before publishing
+  * **publish**  - this indicates that the page is finished and ready to release in the app
 {{tag>notes401 kt301}}
+
 ~~NOCACHE~~
