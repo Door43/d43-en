@@ -10,12 +10,11 @@ The code looks like this:
 {{changes>user=USER&count=15&render=pagelist(header,date,user,nocomments)&maxage=864000}}
 </code>
 
-==== How to check activity: ====
+==== Variables: ====
 
-  - Open the page with DWEdit
-  - Replace the word "USER" with the username of the individual in the "Check Activity" section below.
-  - Set "count=" to the maximum number of edits you wish to see.
-  - Set "maxusage" to the length of time in seconds
+  * "USER" is the username of the individual.
+  * "count=" is the maximum number of edits you wish to see.
+  * "maxusage" to the length of time in seconds:
       * //1 day = 86400//
       * //7 days = 604800//
       * //10 days = 864000//
@@ -24,13 +23,16 @@ The code looks like this:
       * //60 days = 51840000//
       * //90 days = 77760000//
       * //etc.//
-  - Click the "Preview" button to see the results
-  - When finished, click "Cancel" to restore page to original condition.
 
 
 ==== Check activity ====
 
-Edit the page and change the (now invisible) code below this line and then click "Preview" to see activity.
+  - Open the page with DWEdit.
+  - Change the (now invisible) code  in the "Check Activity" section below.
+  - Replace the word "USER" with the username of the individual.
+  - Set "count=" to the maximum number of edits.
+  - Set "maxusage" to the length of time in seconds.
+  - Click "Preview" to see activity.
 
 {{changes>user=USER&count=150&render=pagelist(header,date,user,nocomments)&maxage=1036800}}
 
