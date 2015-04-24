@@ -7,9 +7,7 @@ The main tags and their meaning are:
   * **talink**  - this alerts the Translation Academy team that a new topic needs to be created
   * **ktlink **- this alerts the Key Terms team that a new Important Word needs to be created or an existing word/phrase was added to the list
   * **draft**  - this indicates that a page needs to have draft content created by the appropriate team
-  * **check**
-- this indicates that the page is ready for the Translation Notes Teams Manager to check
-
+  * **check** - this indicates that the page is ready for the Translation Notes Teams Manager to check
   * **review**  - this indicates that the page is ready for the Translation Specialist to review
   * **text**  - this indicates that the Reviewer is waiting for a response from the text team about changes
   * **discuss**  - this indicates that the Reviewer would like to discuss this page with another Reviewer before publishing
