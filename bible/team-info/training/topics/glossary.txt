@@ -27,11 +27,11 @@ This is a list of some of the terms and abbreviations that we are using in this 
 
 **namespace**  - This is the term used, instead of folders, for the organization of the Door43 pages. For example the Door43 page with the URL of [[https://door43.org/en/obs|https://door43.org/en/obs]] is the namespace of //obs //  in the namespace of //en//.
 
-**Translation Academy**  - This is the name of the area that the pages and modules will be developed for training the national translators.
+**translationAcademy**  - This is the name of the area that the pages and modules will be developed for training the national translators.
 
-**TranslationStudio**  - This is the app that will enable people to translate the Bible on a phone or tablet.
+**translationStudio**  - This is the app that will enable people to translate the Bible on a phone or tablet.
 
-**UnfoldingWord**  - This is the name of the app that will display all of the Bible translations that are completed in TranslationStudio.
+**unfoldingWord**  - This is the name of the app that will display all of the Bible translations that are completed in TranslationStudio.
 
 {{tag>notes301 kt201}}
 
