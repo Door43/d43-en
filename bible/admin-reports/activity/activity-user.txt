@@ -24,11 +24,14 @@ The code looks like this:
       * //60 days = 51840000//
       * //90 days = 77760000//
       * //etc.//
+  - Click the "Preview" button to see the results
+  - When finished, click "Cancel" to restore page to original condition.
+
 
 ==== Check activity ====
 
-Edit the page and change the (now invisible) code below this line in order to check activity.
+Edit the page and change the (now invisible) code below this line and then click "Preview" to see activity.
 
 {{changes>user=USER&count=150&render=pagelist(header,date,user,nocomments)&maxage=1036800}}
 
-(//Please restore it to "USER" when finished//)
+(//Please click "Cancel" when finished to restore the page to "USER"//)
