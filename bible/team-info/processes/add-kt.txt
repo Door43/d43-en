@@ -1,27 +1,40 @@
-====== Add New Key Terms to Notes Page ======
+====== Add New Important Terms to Notes Page ======
 
-Before requesting a new Key Term for a page, check here to see if it already exists in one of the two lists:
+This page explains the process of requesting a new Important Term link on the page.
+
+
+==== Team Members ====
+
+Before requesting a new Key Term for a page, check here to see if a page for the term already exists:
 
   * [[:en:obe:home|Complete list of Important Terms]]
 
-If the term does not yet exist, do the following to notify the text team to create the link:
+If a page for the term exists, make a note in the discussion requesting that the link be added.
 
-  * Add the f​ollowing tag to the to the chunk page above the Discussion link:
+If a page for the term does note exist, :
 
-<code>
-{{tag>ktlink}}
-</code>
+  - Make a note in the discussion explaining why you think the terms should be added to the list.
+  - Notify your team leader about your request.
 
-  * If there is already a tag for the tA link, leave a space and add to it like this:
 
-<code>
-{{tag>talink ktlink}}
-</code>
+==== Team Leaders ====
+
+When you are informed that a term with an existing page needs to be added to a notes page, do the following:
+
+
+==== Team Managers ====
+
+Email the KT team managers (Andrew and Lizz) that a new page has been requested for a specific notes page. 
+
+
+==== KT Team Managers ====
+
+The KT team managers will:
 
   * The KT team will see the list of chunks that need KT's on their admin page.
   * Once they have created the page, they will delete the tag.
 
-If you have any comments about an existing KT page, put them in the Discussion section of that page, and the add the date of your comment to the "Discussion added" column of the [[https://docs.google.com/a/wycliffeassociates.org/spreadsheet/ccc?key=0Ao3SWGDZejXHdF9zZ2tDMWJoaHlmOVh6a2xtVGduZGc&usp=sharing​|Key Terms List on Google Drive]].
+If you have any comments about an existing KT page, notify the Translation Notes Teams Manager about the discussion. They will in turn notify the Key Terms Team Leader.
 
 {{tag>notes401 kt301}}
 
