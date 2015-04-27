@@ -8,7 +8,7 @@
 
 **Help**
 
-  * [[en:ta:intro:Handbook|translationAcademy Handbook]]
+  * [[:en:ta:intro:handbook|translationAcademy Handbook]]
   * [[:en:get-started|How to Get Started]]
   * [[:en:obs:help|Open Bible Stories Help]]
 
@@ -22,9 +22,9 @@
       * [[:en:udb:home|unfoldingWord Dynamic Bible]]
       * [[:en:bible:notes:home|translationNotes]]
       * [[:en:bible:questions:home|Comprehension Questions]]
-  * [[en:obe:home|Open Bible Encyclopedia]]
-      * [[en:obe:kt:home|Vol 1 - Key Terms]]
-      * [[en:obe:other:home|Vol 2 - Other Terms]]
+  *  [[:en:obe:home|Open Bible Encyclopedia]]
+      * [[:en:obe:kt:home|Vol 1 - Key Terms]]
+      * [[:en:obe:other:home|Vol 2 - Other Terms]]
   * [[:en:lexicon|Open Bible Lexicon]]
   *  [[:en:library|Open Christian Library]]
       * [[:en:pet|Plain English Translation]]
@@ -58,3 +58,4 @@ All content for this namespace is available in the [[https://github.com/Door43/d
 **Language Information**
 
 [[http://www.ethnologue.com/language/eng|Ethnologue data]]
+
