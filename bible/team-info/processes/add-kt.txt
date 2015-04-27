@@ -22,7 +22,16 @@ If a page for the term does note exist, :
 When you are informed that a term with an existing page needs to be added to a notes page, do the following:
 
   - Insert the name of the term into the Important Terms list (do not create the link).
-  - Alert the text team by adding the tag "ktlink" to the tags on the notes page, as in the examples below:
+
+When you are informed that a new term page needs to be created, notify your notes team manager via email about the specific chunk and term. 
+
+
+==== Team Managers ====
+
+When informed by the team leaders about the need for additional KT links or pages, do the following as applicable:
+
+  - Verify that the request is for an existing term, or fit the guidelines for a new one. If so, leave the suggested term in the Important Terms list. If not, remove it.
+  - Alert the text team that KT links or pages are needed by adding the tag "ktlink" to the tags on the notes page, as in the examples below:
 
 <code>
 {{tag>draft ktlink}}
@@ -31,13 +40,6 @@ When you are informed that a term with an existing page needs to be added to a n
 
 </code>
 
-When you are informed that a new term page needs to be created, notify your notes team manager via email about the specific chunk and term. 
-
-
-==== Team Managers ====
-
-Email the KT team managers (Andrew and Lizz) that a new term page has been requested for a specific notes page. 
-
 
 ==== KT Team Managers ====
 
@@ -45,6 +47,11 @@ The KT team managers will:
 
   * Check the terms admin page to see which pages have "ktlink" tags and need to have additional existing terms linked. Once they have linked the terms, they will delete the "ktlink" tag.
   * Follow up on email requests for new terms from the team managers, and create terms as needed.
+
+
+==== Reviewers ====
+
+Reviewers will verify that the necessary Important Terms are included in the list and linked to pages.
 
 
 {{tag>notes401 kt301}}
