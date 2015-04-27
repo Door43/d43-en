@@ -1,7 +1,7 @@
 ====== OBE Key Terms ======
 
-Link to [[en:obe:other:home]]
+Link to [[:en:obe:other:home|OBE Other Terms]]
 
-<nspages en:obe:kt -title -exclude:home -textPages="List of key terms:">
+<nspages en:obe:kt -title -exclude:home -showcount -textPages="List of key terms:">
 
 ~~NOCACHE~~
