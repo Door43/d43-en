@@ -10,6 +10,7 @@ digraph ta_dependency_map {
 	intro -> how;
 	how -> uW_network
         uW_network -> statement_of_faith;
+        statement_of_faith -> translate;
 	uW_network -> translation_guidelines;
 	uW_network -> open_license;
 	how -> gateway_languages_strategy;
@@ -20,8 +21,12 @@ digraph ta_dependency_map {
 	what -> tools;
 	what -> helps;
         helps -> obe;
-	what -> glossary;
-	what -> intro_map;
+        intro -> other;
+	other -> glossary;
+	other -> intro_map;
+        intro_map -> translate; 
+        intro_map -> check; 
+        intro_map -> tech;
 	intro -> translate;
         helps -> translate;
         open_licensed_content -> Bible;
@@ -40,6 +45,7 @@ digraph ta_dependency_map {
 	check -> level1;
 	check -> level2;
 	check -> level3;
+        check -> consultant_checking;
 	level1 -> level2;
 	level2 -> level3;
 	tools -> tech;
