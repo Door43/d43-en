@@ -17,19 +17,22 @@ Review work of teams that created resources to support Wycliffe Associates' stra
 
 ===== Process of Review =====
 
-  * Receive an alert that notes are ready for review.
-  * Note any information in the discussion area. May contain inquiries about source text, key term suggestions, or other items of interest from the Notes Team.
-  * Decide on the suggested added Key Terms.
-      * If agree - Add the “ktlink” tag to keep the KT team updated on requests for new Key Terms.
-      * If disagree - May need to add a Translation Note.
-  * Communicate with the Translation Notes Teams Manager regarding the quality of notes.
-  * Edit existing notes as required.
-  * Add any necessary notes as required.
-  * Communicate with others about:
-      * Text Team - communicate suggested changes in the text by changing the tag to "text" and adding the comment on the appropriate Etherpad page.
-      * Reviewer Team - communicate with other Reviewers ……… LARRY PLEASE COMPLETE THIS SENTENCE
-  * Change the 'review' tag to 'publish.'
-
+  - Receive notification that notes are ready for review.
+  - Review any information in the discussion area. May contain inquiries about source text, key term suggestions, or other items of interest from the Notes Team.
+  - Verify that Important Terms are correct:
+      * Check to see that terms link to the correct pages.
+      * Add missing terms to the list and create the links, or add the “ktlink” tag to notify the KT team to add links or pages.
+      * Remove or fix incorrect terms.
+  - Check other materials as available to identify translation issues in the passage.
+  - Verify that the ULB and UDB are accurately-translated and work together well to explain issues in the text.
+  - Edit existing notes as required:
+      * Add additional notes as required.
+      * Delete unnecessary notes, or portions of notes that do not address translation issues.
+  - Communicate with others:
+      * Text Team - communicate suggested changes in the text by changing the status tag to "text" and adding the comment on the appropriate Etherpad page.
+      * Review Team - Add comments in the discussion for other reviewers about your decisions or concerns. Email or Skype with other reviewers as needed. If an issue is particularly difficult, change the status tag to 'discuss' and identify the issue in the discussion section.
+      * Notes Team - inform the Notes Team Manager of the quality of notes, and common problems that should be addressed.
+  - If the notes are finished, change the status tag to 'publish.'
 ===== Advising on How to Improve Notes =====
 
   * Suggest to the Translation Notes Teams Manager improvements to share with the notes writers.
