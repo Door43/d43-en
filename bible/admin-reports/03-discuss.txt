@@ -2,11 +2,16 @@
 
 ~~NOCACHE~~
 
-\\
+Discuss pages in OBE:
+{{count>discuss&en:obe}}
+
+Discuss pages in OBE:
+{{count>discuss&en:bible:notes}}
+
 
 ==== Location ====
 
-^  Terms  ^  Notes  ^
+^  OBE  ^  Notes  ^
 |{{topic>en:obe?discuss&nocomments}}  |{{topic>en:bible:notes?discuss&nocomments}}  |
 
 ==== Check on bad tags ====
