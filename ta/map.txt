@@ -3,36 +3,57 @@
 <graphviz dot right>
 digraph ta_dependency_map {
 	rankdir=BT;
-	node [shape = doublecircle]; intro translate check tech;
+	node [shape = doublecircle]; tA intro translate check tech;
 	node [shape = ellipse];
-	intro -> intro_why;
-	intro -> intro_how;
-	intro_how -> intro_statement_of_faith;
-	intro_how -> intro_translation_guidelines;
-	intro_how -> intro_license;
-	intro_how -> intro_glstrategy;
-	intro_how -> intro_content;
-	intro -> intro_what;
-	intro_what -> intro_projects;
-	intro_what -> intro_tools;
-	intro_what -> intro_helps;
-	intro -> intro_glossary;
-	intro -> intro_map;
-	intro_map -> translate;
+	tA -> intro
+        intro -> why;
+	intro -> how;
+	how -> uW_network
+        uW_network -> statement_of_faith;
+	uW_network -> translation_guidelines;
+	uW_network -> open_license;
+	how -> gateway_languages_strategy;
+	gateway_languages_strategy -> what_needs_translating;
+        what_needs_translating -> translate
+	intro -> what;
+	what -> open_licensed_content;
+	what -> tools;
+	what -> helps;
+        helps -> obe;
+	what -> glossary;
+	what -> intro_map;
+	intro -> translate;
+        helps -> translate;
+        open_licensed_content -> Bible;
+        open_licensed_content -> obs;
+        open_licensed_content -> obe;
+        Bible -> translate;
+        obs -> translate;
+        obe -> translate;
 	translate -> translate_update;
 	translate -> check;
+        translate -> basics_of_translation;
+        translate -> translating_by_translation_guidelines;
+        basics_of_translation -> figures_of_speech
+        basics_of_translation -> vocabulary
+        translation_guidelines -> translating_by_translation_guidelines;
 	check -> level1;
 	check -> level2;
 	check -> level3;
 	level1 -> level2;
 	level2 -> level3;
-	intro -> tech;
+	tools -> tech;
 	tech -> door43;
-	tech -> ts;
-	tech -> tk;
-	tech -> uw;
+	tech -> tS;
+	tech -> tK;
+	tech -> uW;
 	tech -> dpe;
-	door43 -> dpe;
+	level1 -> door43;
+        level2 -> door43;
+        level3 -> door43;
+        dpe -> uW;
+        tS -> door43;
+        door43 -> dpe;
 	tech -> audio;
 	tech -> video;
 	audio -> video;
