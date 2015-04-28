@@ -1,84 +1,82 @@
 ====== Mapping the dependencies of the translationAcademy ======
 
-<graphviz dot right> digraph ta_dependency_map {
-
-<code>
-rankdir=BT;
-node [shape = doublecircle]; intro translate check tech;
-node [shape = ellipse];
-      intro -> why;
-intro -> how;
-how -> uW_network
-      uW_network -> statement_of_faith;
-      statement_of_faith -> translate;
-      translation_guidelines -> translate;
-uW_network -> translation_guidelines;
-uW_network -> open_license;
-how -> gateway_languages_strategy;
-gateway_languages_strategy -> what_needs_translating;
-      what_needs_translating -> translate
-intro -> what;
-what -> open_licensed_content;
-what -> tools;
-what -> helps;
-      helps -> obe;
-      helps -> translation_notes;
-      helps -> tA;
-      tA -> translate;
-      translation_notes -> translate;
-      intro -> other;
-other -> glossary;
-other -> intro_map;
-      intro_map -> translate;
-      intro_map -> check;
-      intro_map -> tech;
-intro -> translate;
-      open_licensed_content -> Bible;
-      open_licensed_content -> obs;
-      open_licensed_content -> obe;
-      Bible -> translate;
-      obs -> translate;
-      obe -> translate;
-translate -> updating_obs;
-translate -> check;
-      translate -> basics_of_translation;
-      translate -> translating_by_translation_guidelines;
-      translate -> where
-      where -> door43
-      where -> tS
-      basics_of_translation -> figures_of_speech
-      basics_of_translation -> vocabulary
-      translation_guidelines -> translating_by_translation_guidelines;
-      translating_by_translation_guidelines -> accurate
-      translating_by_translation_guidelines -> authoritative
-      translating_by_translation_guidelines -> clear
-      translating_by_translation_guidelines -> collaborative
-      translating_by_translation_guidelines -> expressive
-      translating_by_translation_guidelines -> faithful
-      translating_by_translation_guidelines -> historical
-      translating_by_translation_guidelines -> natural
-      translating_by_translation_guidelines -> ongoing
-      translating_by_translation_guidelines -> pure
-check -> level1;
-consultant_checking -> level2;
-consultant_checking -> level3;
-      check -> consultant_checking;
-level1 -> level2;
-level2 -> level3;
-tools -> tech;
-tech -> tS;
-tech -> tK;
-tech -> audio;
-      dpe -> uW;
-      tS -> door43;
-      tK -> tS;
-      door43 -> dpe;
-      door43 -> audio;
-audio -> video;
-      audio -> uW;
-      video -> uW;
-</code>
-
-} </graphviz>
+<graphviz dot right>
+digraph ta_dependency_map {
+	rankdir=BT;
+	node [shape = doublecircle]; intro translate check tech;
+	node [shape = ellipse];
+        intro -> why;
+	intro -> how;
+	how -> uW_network
+        uW_network -> statement_of_faith;
+        statement_of_faith -> translate;
+        translation_guidelines -> translate;
+	uW_network -> translation_guidelines;
+	uW_network -> open_license;
+	how -> gateway_languages_strategy;
+	gateway_languages_strategy -> what_needs_translating;
+        what_needs_translating -> translate
+	intro -> what;
+	what -> open_licensed_content;
+	what -> tools;
+	what -> helps;
+        helps -> obe;
+        helps -> translation_notes;
+        helps -> tA; 
+        tA -> translate;
+        translation_notes -> translate;
+        intro -> other;
+	other -> glossary;
+	other -> intro_map;
+        intro_map -> translate; 
+        intro_map -> check; 
+        intro_map -> tech;
+	intro -> translate;
+        open_licensed_content -> Bible;
+        open_licensed_content -> obs;
+        open_licensed_content -> obe;
+        Bible -> translate;
+        obs -> translate;
+        obe -> translate;
+	translate -> updating_obs;
+	translate -> check;
+        translate -> basics_of_translation;
+        translate -> translating_by_translation_guidelines;
+        translate -> where
+        where -> door43
+        where -> tS
+        basics_of_translation -> figures_of_speech
+        basics_of_translation -> vocabulary
+        translation_guidelines -> translating_by_translation_guidelines;
+        translating_by_translation_guidelines -> accurate
+        translating_by_translation_guidelines -> authoritative
+        translating_by_translation_guidelines -> clear
+        translating_by_translation_guidelines -> collaborative
+        translating_by_translation_guidelines -> expressive
+        translating_by_translation_guidelines -> faithful
+        translating_by_translation_guidelines -> historical
+        translating_by_translation_guidelines -> natural
+        translating_by_translation_guidelines -> ongoing
+        translating_by_translation_guidelines -> pure
+	check -> level1;
+	consultant_checking -> level2;
+	consultant_checking -> level3;
+        check -> consultant_checking;
+	level1 -> level2;
+	level2 -> level3;
+	tools -> tech;
+	tech -> tS;
+	tech -> tK;
+	tech -> audio;
+        dpe -> uW;
+        tS -> door43;
+        tK -> tS;
+        door43 -> dpe;
+        door43 -> audio;
+	audio -> video;
+        audio -> uW;
+        video -> uW;
+}
+</graphviz>
 
 ~~NOCACHE~~
