@@ -1,1 +1,42 @@
-<font inherit/inherit;;inherit;;inherit>Mapping the dependencies of the translationAcademy</font>
+====== Mapping the dependencies of the translationAcademy ======
+
+<graphviz dot right>
+digraph ta_dependency_map {
+	rankdir=BT;
+	node [shape = doublecircle]; intro translate check tech;
+	node [shape = ellipse];
+	intro -> intro_why;
+	intro -> intro_how;
+	intro_how -> intro_statement_of_faith;
+	intro_how -> intro_translation_guidelines;
+	intro_how -> intro_license;
+	intro_how -> intro_glstrategy;
+	intro_how -> intro_content;
+	intro -> intro_what;
+	intro_what -> intro_projects;
+	intro_what -> intro_tools;
+	intro_what -> intro_helps;
+	intro -> intro_glossary;
+	intro -> intro_map;
+	intro_map -> translate;
+	translate -> translate_update;
+	translate -> check;
+	check -> level1;
+	check -> level2;
+	check -> level3;
+	level1 -> level2;
+	level2 -> level3;
+	intro -> tech;
+	tech -> door43;
+	tech -> ts;
+	tech -> tk;
+	tech -> uw;
+	tech -> dpe;
+	door43 -> dpe;
+	tech -> audio;
+	tech -> video;
+	audio -> video;
+}
+</graphviz>
+
+~~NOCACHE~~
