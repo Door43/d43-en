@@ -1,14 +1,26 @@
 ====== Overview ======
 
-The unfoldingWord technical initiatives are broken down into various projects.  Each of these projects is run by a team of people who each have specific goals within that project.  The roles defined below are the categories that everyone on the team falls into.
+The unfoldingWord technical initiatives are broken down into various projects.  Each of these projects is run by a Core Team of people who each have specific roles within that project.  Each Core Team is also a part of an Extended Team that primarily provides feedback to the Core Team.
+
+Graphically, the teams look like this:
+{{:en:dev:uw_technical_project_organization.svg|}}
+
+
+===== Core Team =====
+
+The roles defined below are the categories that everyone on the Core Team falls into.
 
 ^  Accountability  ^  Responsibility  ^  Authority  ^
 | Tracker: single person who ensures communication and progress occur | Implementer: group that does the majority of the work to make it happen | Decision Maker: group that makes the high level decisions |
 
-Each of these people or teams must work together to make the project move forward.  Though each has a unique role, the relationship between the three is reciprocal:
+Each of these people or teams must work together to make the project move forward.  Though each has a unique role, the relationship between the three is reciprocal.
 
-{{"https://docs.google.com/drawings/d/1ZxRzFKID8SjNRiBkER_llJbcKMYG-eEFGdjqfmE3xok/pub?w=405&h=339&.png?"}}
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-01.jpg?direct&}}
+===== Extended Team =====
+
+The roles defined below are the categories that everyone on the Extended Team falls into.
+
+^  Core Team  ^  Consultants  ^  Users  ^
+| The group that develops the project | Group of specialists that provides feedback to the Core Team | Group of people providing feedback on their use of the project |
 
 
 ====== translationStudio ======
