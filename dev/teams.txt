@@ -8,7 +8,9 @@ Graphically, the teams look like this:
 
 ===== Core Team =====
 
-The roles defined below are the categories that everyone on the Core Team falls into.
+The Core Team is the essential working unit, the group that drives progress on the project.  It is essential that this unit's communication cycle is measured in hours or days at worst.
+
+Core Team Roles:
 
 ^  Accountability  ^  Responsibility  ^  Authority  ^
 | Tracker: single person who ensures communication and progress occur | Implementer: group that does the majority of the work to make it happen | Decision Maker: group that makes the high level decisions |
@@ -17,7 +19,9 @@ Each of these people or teams must work together to make the project move forwar
 
 ===== Extended Team =====
 
-The roles defined below are the categories that everyone on the Extended Team falls into.
+The Extended Team is the essential feedback unit, the group that drives iteration in the Core Team.  It is essential that this unit's communication cycle with the Core Team be measured in days or weeks at worst.
+
+Extended Team Roles:
 
 ^  Core Team  ^  Consultants  ^  Users  ^
 | The group that develops the project | Group of specialists that provides feedback to the Core Team | Group of people providing feedback on their use of the project |
