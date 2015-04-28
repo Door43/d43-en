@@ -1,0 +1,68 @@
+====== Overview ======
+
+The unfoldingWord technical initiatives are broken down into various projects.  Each of these projects is run by a team of people who each have specific goals within that project.  The roles defined below are the categories that everyone on the team falls into.
+
+^  Accountability  ^  Responsibility  ^  Authority  ^
+| Tracker: group who ensures communication and progress occur | Implementer: group that does the majority of the work to make it happen | Decision Maker: group that makes the high level decisions |
+
+Each of these people or teams must work together to make the project move forward.  Though each has a unique role, the relationship between the three is reciprocal:
+
+//
+
+<graphviz dot right>
+digraph team_relationship {
+        rankdir=LR;
+        size="9,5"
+	node [shape = circle];
+	Accountability -> Authority;
+	Responsibility -> Authority;
+        Authority -> Accountability;
+        Responsibility -> Accountability;
+        Authority -> Responsibility;
+        Accountability -> Responsibility;
+}
+</graphviz>
+
+//
+
+====== translationStudio ======
+
+^  Accountability  ^  Responsibility  ^  Authority  ^
+|  Leo  |  Joel, Hanna  |  Jesse, Tim  |
+
+====== translationStudio Desktop ======
+
+^  Accountability  ^  Responsibility  ^  Authority  ^
+|  Leo  |  Del, Joel  |  Jesse, Tim  |
+
+====== translationKeyboard ======
+
+^  Accountability  ^  Responsibility  ^  Authority  ^
+|  David G.  |  Bryn  |  Jesse, Tim  |
+
+====== unfoldingWord Mobile App ======
+
+^  Accountability  ^  Responsibility  ^  Authority  ^
+|  Leo  |  Bryn  |  Jesse, Tim  |
+
+====== Door43 ======
+
+^  Accountability  ^  Responsibility  ^  Authority  ^
+|  David G.  |  Phil, Yvonne, Rick  |  Jesse, Tim  |
+
+====== unfoldingWord Web ======
+
+^  Accountability  ^  Responsibility  ^  Authority  ^
+|  Leo  |  Joel, Hanna  |  Jesse, Tim  |
+
+====== translationDatabase ======
+
+^  Accountability  ^  Responsibility  ^  Authority  ^
+|  Leo  |  Patrick, Steven  |  Jesse, Tim  |
+
+====== Typesetting/Publishing ======
+
+^  Accountability  ^  Responsibility  ^  Authority  ^
+|  David G.  |  David B., Jean   |  Jesse, Tim  |
+
+
