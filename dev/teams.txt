@@ -41,7 +41,7 @@ This section details who falls into which roles for each of our technical projec
 
 ^  Extended Team  ^^^
 ^  Core Team  ^  Consultants  ^  Users  ^
-|  ???  |  Rich, Larry, Christine  |  ???  |
+|  Leo  |  Rich, Larry, Christine  |  ???  |
 
 
 ====== translationStudio Desktop ======
@@ -50,11 +50,19 @@ This section details who falls into which roles for each of our technical projec
 ^  Accountability  ^  Responsibility  ^  Authority  ^
 |  Leo  |  Del, Joel  |  Jesse, Tim  |
 
+^  Extended Team  ^^^
+^  Core Team  ^  Consultants  ^  Users  ^
+|  Leo  |  Rich, Larry, Christine  |  ???  |
+
 ====== translationKeyboard ======
 
 ^  Core Team  ^^^
 ^  Accountability  ^  Responsibility  ^  Authority  ^
 |  David G.  |  Bryn  |  Jesse, Tim  |
+
+^  Extended Team  ^^^
+^  Core Team  ^  Consultants  ^  Users  ^
+|  David G.  |  Rich  |  ???  |
 
 ====== unfoldingWord Mobile App ======
 
@@ -62,17 +70,29 @@ This section details who falls into which roles for each of our technical projec
 ^  Accountability  ^  Responsibility  ^  Authority  ^
 |  Leo  |  Bryn  |  Jesse, Tim  |
 
+^  Extended Team  ^^^
+^  Core Team  ^  Consultants  ^  Users  ^
+|  Leo  |  Rich  |  ???  |
+
 ====== Door43 ======
 
 ^  Core Team  ^^^
 ^  Accountability  ^  Responsibility  ^  Authority  ^
 |  David G.  |  Phil, Yvonne, Rick  |  Jesse, Tim  |
 
+^  Extended Team  ^^^
+^  Core Team  ^  Consultants  ^  Users  ^
+|  David G.  |  Rich   |  Larry, Christine  |
+
 ====== unfoldingWord Web ======
 
 ^  Core Team  ^^^
 ^  Accountability  ^  Responsibility  ^  Authority  ^
-|  Leo  |  Joel, Hanna  |  Jesse, Tim  |
+|  Leo  |  Phil  |  Jesse, Tim  |
+
+^  Extended Team  ^^^
+^  Core Team  ^  Consultants  ^  Users  ^
+|  Leo  |  Rich  |  ???  |
 
 ====== translationDatabase ======
 
@@ -80,11 +100,19 @@ This section details who falls into which roles for each of our technical projec
 ^  Accountability  ^  Responsibility  ^  Authority  ^
 |  Leo  |  Patrick, Steven  |  Jesse, Tim  |
 
+^  Extended Team  ^^^
+^  Core Team  ^  Consultants  ^  Users  ^
+|  Leo  |  Rich, Tim  |  ???  |
+
 ====== Typesetting/Publishing ======
 
 ^  Core Team  ^^^
 ^  Accountability  ^  Responsibility  ^  Authority  ^
 |  David G.  |  David B., Jean   |  Jesse, Tim  |
+
+^  Extended Team  ^^^
+^  Core Team  ^  Consultants  ^  Users  ^
+|  David G.  |  Rich, Daniel Lins  |  ???  |
 
 
 
