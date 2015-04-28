@@ -21,6 +21,8 @@ digraph ta_dependency_map {
 	what -> tools;
 	what -> helps;
         helps -> obe;
+        helps -> translation_notes;
+        translation_notes -> translate;
         intro -> other;
 	other -> glossary;
 	other -> intro_map;
