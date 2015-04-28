@@ -7,20 +7,9 @@ The unfoldingWord technical initiatives are broken down into various projects.  
 
 Each of these people or teams must work together to make the project move forward.  Though each has a unique role, the relationship between the three is reciprocal:
 
-//
+{{https://docs.google.com/drawings/d/1ZxRzFKID8SjNRiBkER_llJbcKMYG-eEFGdjqfmE3xok/pub?w=405&h=339}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-01.jpg?direct&}}
 
-<graphviz dot center>
-digraph team_relationship {
-        rankdir=LR;
-        size="9,5"
-	node [shape = circle];
-	Accountability -> Authority [dir="both",label="Communication: vision"];
-	Responsibility -> Authority [dir="both",label="Communication: objectives"];
-        Accountability -> Responsibility [dir="both",label="Communication: progress"];
-}
-</graphviz>
-
-//
 
 ====== translationStudio ======
 
