@@ -3,7 +3,7 @@
 The unfoldingWord technical initiatives are broken down into various projects.  Each of these projects is run by a team of people who each have specific goals within that project.  The roles defined below are the categories that everyone on the team falls into.
 
 ^  Accountability  ^  Responsibility  ^  Authority  ^
-| Tracker: group who ensures communication and progress occur | Implementer: group that does the majority of the work to make it happen | Decision Maker: group that makes the high level decisions |
+| Tracker: single person who ensures communication and progress occur | Implementer: group that does the majority of the work to make it happen | Decision Maker: group that makes the high level decisions |
 
 Each of these people or teams must work together to make the project move forward.  Though each has a unique role, the relationship between the three is reciprocal:
 
@@ -66,3 +66,5 @@ digraph team_relationship {
 |  David G.  |  David B., Jean   |  Jesse, Tim  |
 
 
+
+//The three phase breakdown of the teams is from Scaling Up, by Vern Harnish//
