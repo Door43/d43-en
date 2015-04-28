@@ -104,51 +104,6 @@
 {{count>draft review text discuss publish&en:bible:notes:jon}}
 
 
-==== Books Finished ====
-
-=== Galatians ===
-
-  * [[:en:bible:admin-reports:notes-admin:gal|Notes: Galatians Admin Page]]
-  * [[:en:bible:admin-reports:assignment:gal|Assignment Page - Galatians]]
-  * [[:en:bible:admin-reports:questions-comprehension:gal|Comprehension Questions: Galatians Admin]]
-  * [[:en:bible:notes:gal:01:01|Galatians 01:1-2]]
-{{count>draft review text discuss publish&en:bible:notes:gal}}
-
-=== 1 Timothy ===
-
-  * [[:en:bible:admin-reports:notes-admin:1ti|Notes: 1 Timothy Admin Page]]
-  * [[:en:bible:admin-reports:questions-comprehension:1ti|Comprehension Questions: 1 Timothy Admin]]
-  * [[:en:bible:notes:1ti:01:01|1 Timothy 01:1-2]]
-{{count>draft review discuss publish&en:bible:notes:1ti}}
-
-=== 2 Timothy ===
-
-  * [[:en:bible:admin-reports:notes-admin:2ti|Notes: 2 Timothy Admin Page]]
-  * [[:en:bible:admin-reports:questions-comprehension:1ti]]
-  * [[:en:bible:notes:2ti:01:01|2 Timothy 01:1-2]]
-{{count>draft review discuss publish&en:bible:notes:2ti}}
-
-=== Luke ===
-
-  * [[:en:bible:admin-reports:notes-admin:luk|Notes: Luke Admin Page]]
-  * [[:en:bible:admin-reports:questions-comprehension:luk|Comprehension Questions: Luke Admin]]
-  * [[:en:bible:notes:luk:01:01|Luke 01:1-4]]
-{{count>draft review discuss publish&en:bible:notes:luk}}
-
-=== Titus ===
-
-  * [[:en:bible:admin-reports:notes-admin:tit|Notes: Titus Admin Page]]
-  * [[:en:bible:admin-reports:questions-comprehension:tit|Comprehension Questions: Titus Admin]]
-  * [[:en:bible:notes:tit:01:01|Titus 01:1-3]]
-{{count>draft review discuss publish&en:bible:notes:tit}}
-
-=== Ruth ===
-
-  * [[:en:bible:admin-reports:notes-admin:rut|Notes: Ruth Admin Page]]
-  * [[:en:bible:admin-reports:questions-comprehension:rut|Comprehension Questions: Ruth Admin]]
-  * [[:en:bible:notes:rut:01:01|Ruth 01:1-2]]
-{{count>draft review discuss publish&en:bible:notes:rut}}
-
 ==== Check on bad tags ====
 
 This query checks the first tag to be one of the valid tags required to make the system work correctly: {create|delete|draft*|review|text|discuss|publish}. Any verses listed here are likely being overlooked above. Please include this query for every bible book admin page. (EQ)
