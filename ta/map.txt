@@ -48,6 +48,16 @@ digraph ta_dependency_map {
         basics_of_translation -> figures_of_speech
         basics_of_translation -> vocabulary
         translation_guidelines -> translating_by_translation_guidelines;
+        translating_by_translation_guidelines -> accurate
+        translating_by_translation_guidelines -> authoritative
+        translating_by_translation_guidelines -> clear
+        translating_by_translation_guidelines -> collaborative
+        translating_by_translation_guidelines -> expressive
+        translating_by_translation_guidelines -> faithful
+        translating_by_translation_guidelines -> historical
+        translating_by_translation_guidelines -> natural
+        translating_by_translation_guidelines -> ongoing
+        translating_by_translation_guidelines -> pure
 	check -> level1;
 	consultant_checking -> level2;
 	consultant_checking -> level3;
