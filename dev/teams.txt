@@ -9,17 +9,14 @@ Each of these people or teams must work together to make the project move forwar
 
 //
 
-<graphviz dot right>
+<graphviz dot center>
 digraph team_relationship {
         rankdir=LR;
         size="9,5"
 	node [shape = circle];
-	Accountability -> Authority;
-	Responsibility -> Authority;
-        Authority -> Accountability;
-        Responsibility -> Accountability;
-        Authority -> Responsibility;
-        Accountability -> Responsibility;
+	Accountability -> Authority [dir="both",label="Communication: vision"];
+	Responsibility -> Authority [dir="both",label="Communication: objectives"];
+        Accountability -> Responsibility [dir="both",label="Communication: progress"];
 }
 </graphviz>
 
