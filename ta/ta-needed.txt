@@ -24,8 +24,8 @@ The following lists are the pages that need work.  This is the process:
   - Page is built and tagged with status 'draft jody'.
   - Jody will work on her list and then change the status from 'jody' to 'kara'
   - Kara will proof the pages, making changes as required, then change the status from 'kara' to Erika'.
-  - Erika will then proof the page and change the status to 'review'.
-  - tA Manager will then do a final check on the page and change the status to 'publish'. 
+  - Erika will then proof the page and change the tag status and chart above status to 'review'. 
+  - tA Manager will then do a final check on the page and change the status to 'publish'. Then will add the link to the Bible chunk.
 
 ----
 The following pages are tagged as "Erika" and need to be edited by **Erika**:
