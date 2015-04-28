@@ -35,7 +35,7 @@ digraph ta_dependency_map {
         Bible -> translate;
         obs -> translate;
         obe -> translate;
-	translate -> translate_update;
+	translate -> updating_obs;
 	translate -> check;
         translate -> basics_of_translation;
         translate -> translating_by_translation_guidelines;
@@ -59,10 +59,13 @@ digraph ta_dependency_map {
         level3 -> door43;
         dpe -> uW;
         tS -> door43;
+        tS -> tK;
         door43 -> dpe;
 	tech -> audio;
 	tech -> video;
 	audio -> video;
+        audio -> uW;
+        video -> uW;
 }
 </graphviz>
 
