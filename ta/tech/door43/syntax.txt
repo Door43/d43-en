@@ -47,7 +47,7 @@ You can mark something as <del>deleted</del> as well.
 
 **Paragraphs**  are created from blank lines. If you want to **force a newline**  without a paragraph, you can use two backslashes followed by a whitespace or the end of line.
 
-This is some text with some linebreaks \\ Note that the two backslashes are only recognized at the end of a line \\ or followed by \\ a whitespace %this happens without it.
+This is some text with some linebreaks \\ Note that the two backslashes are only recognized at the end of a line \\or followed by \\ a whitespace \\ this happens without it.
 
 <code>
 This is some text with some linebreaks\
@@ -57,7 +57,7 @@ two backslashes are only recognized at the end of a line\
 
 or followed by\
 
-a whitespace \\this happens without it.
+a whitespace \\ this happens without it.
 </code>
 
 You should use forced newlines only if really needed.
