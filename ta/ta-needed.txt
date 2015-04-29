@@ -8,51 +8,49 @@ The following pages are tagged with the "talink" code and contain a tA link that
 ==== Unfinished Topics ====
 
 ^Topic ^References/Chunk ^Page Status |
-|[[en:ta:translate:originalmanuscripts]] |Acts 8.37 |Draft |
-|[[en:ta:translate:deictics]] |Acts 12.18 |Draft |
-|[[en:ta:translate:merism]] |Genesis 2.9 |Draft |
-|[[en:ta:translate:merism]] |Genesis 3.4 |Draft |
-|[[en:ta:translate:merism]] |Genesis 3.22 |Draft |
-|[[en:ta:translate:translateunknowns-numbers|numbers, numeral]] |Genesis 5.3 |Draft |
-
-
-\\
+|[[:en:ta:translate:originalmanuscripts|Original Manuscripts]] |Acts 8.37 |Draft |
+|[[:en:ta:translate:deictics|Deictics]] |Acts 12.18 |Draft |
+|[[:en:ta:translate:merism|Merism]] |Genesis 2.9 |Draft |
+|[[:en:ta:translate:merism|Merism]] |Genesis 3.4 |Draft |
+|[[:en:ta:translate:merism|Merism]] |Genesis 3.22 |Draft |
+|[[:en:ta:translate:translateunknowns-numbers|numbers, numeral]] |Genesis 5.3 |Draft |
 
 ===== Editing Process on tA Pages =====
-The following lists are the pages that need work.  This is the process: 
+
+The following lists are the pages that need work. This is the process:
+
   - Suggested topics arrive from Translation Notes writers.
   - Page is built and tagged with status 'draft jody'.
   - Jody will work on her list and then change the status from 'jody' to 'kara'
   - Kara will proof the pages, making changes as required, then change the status from 'kara' to Erika'.
-  - Erika will then proof the page and change the tag status and chart above status to 'review'. 
+  - Erika will then proof the page and change the tag status and chart above status to 'review'.
   - tA Manager will then do a final check on the page and change the status to 'publish'. Then will add the link to the Bible chunk.
 
 ----
+
 The following pages are tagged as "Erika" and need to be edited by **Erika**:
 
- {{topic>en:ta?erika&nocomments}}
+{{topic>en:ta?erika&nocomments}}
 
 ----
 
 After Erika has reorganized the pages these pages need to be edited by **Kara**:
 
- {{topic>en:ta?bjo&nocomments}}
+{{topic>en:ta?kara&nocomments}}
+
+{{topic>en:ta?bjo&nocomments}}
 
 ----
 
 These pages need information added by **Jody**:
 
- {{topic>en:ta?jody&nocomments}}
-
-
+{{topic>en:ta?jody&nocomments}}
 
 ==== Draft tA Pages to Edit ====
 
-The following pages are tagged as "draft" and need to be edited by the team:\\
-**Full List**
+The following pages are tagged as "draft" and need to be edited by the team: \\ **Full List**
 
- {{topic>en:ta?draft&nocomments}}
-
+{{topic>en:ta?draft&nocomments}}
 
 ==== Edited tA Pages to Review ====
 
@@ -73,8 +71,6 @@ After the page status has been changed to 'publish':
   * Edit the link to the tA page in the Bible chunk page
   * Remove the tag from the Bible text page (leave any "ktlink" tags)
 
-\\
-
 ==== Draft Content for "Topic" Page: ====
 
 <code>
@@ -91,5 +87,6 @@ After the page status has been changed to 'publish':
 {{tag>draft}} ~~DISCUSSIONS~~
 </code>
 
-
 ~~NOCACHE~~
+
+\\
