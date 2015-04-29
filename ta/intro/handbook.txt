@@ -17,11 +17,11 @@
       * [[:en:ta:intro:map|Translation and Checking Roadmap]]
 
   *  [[:en:ta:translate:home|Translation Manual]]
-      * [[:en:ta:translate:update|How to Update a Previous Version of Open Bible Stories]]
+      *  [[:en:ta:translate:update|How to Update a Previous Version of Open Bible Stories]]
         * Version 1 to Version 2
         * Version 2 to Version 3
         * Updates in Version 3
-      * [[en:get-started|#5 How to translate the stories in Door43]]
+      * [[:en:get-started|#5 How to translate the stories in Door43]]
       * How to translate the stories in translationStudio
 
   *  [[:en:ta:check|Checking Manual]]
@@ -30,10 +30,10 @@
       * [[:en:ta:check:level3|Level 3]]
 
   *  [[:en:ta:tech|Technology Manual]]
-      * [[:en:ta:tech:door43|Door43]]
-      * [[:en:ta:tech:ts|translationStudio]]
-      * [[:en:ta:tech:tk|translationKeyboard]]
-      * [[:en:ta:tech:uw|unfoldingWord app]]
-      * [[:en:ta:tech:dpe|Digital Publishing Engine]]
-      * [[:en:ta:tech:audio|Audio Recording]]
-      * [[:en:ta:tech:video|Video Render Engine]]
+      * [[:en:ta:tech:door43|V1 Door43]]
+      * V1 [[:en:ta:tech:ts|translationStudio]]
+      * [[:en:ta:tech:tk|V1 translationKeyboard]]
+      * V1 [[:en:ta:tech:uw|unfoldingWord app]]
+      * [[:en:ta:tech:dpe|V2 Digital Publishing Engine]]
+      * [[:en:ta:tech:audio|V2 Audio Recording]]
+      * [[:en:ta:tech:video|V2 Video Render Engine]]
