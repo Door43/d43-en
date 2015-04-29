@@ -20,7 +20,7 @@
       *  [[:en:ta:translate:update|How to Update a Previous Version of Open Bible Stories]]
         * [[https://door43.org/obs-diffs/ver_1-to-ver_3.html|Version 1 to Version 3]]
         * [[https://door43.org/obs-diffs/ver_2-to-ver_3.html|Version 2 to Version 3]]
-        * Updates in Version 3
+        * [[https://door43.org/en/obs/change-log|Updates in Version 3]]
       * How to translate the stories in Door43
         * [[:en:ta:translate:stories|Translate the Open Bible Stories]]
       * How to translate the stories in translationStudio
@@ -33,8 +33,8 @@
   *  [[:en:ta:tech|Technology Manual]]
       * [[:en:ta:tech:door43|V1 Door43]]
       * V1 [[:en:ta:tech:ts|translationStudio]]
-      * [[:en:ta:tech:tk|V1 translationKeyboard]]
+      * V1 [[:en:ta:tech:tk|translationKeyboard]]
       * V1 [[:en:ta:tech:uw|unfoldingWord app]]
-      * [[:en:ta:tech:dpe|V2 Digital Publishing Engine]]
-      * [[:en:ta:tech:audio|V2 Audio Recording]]
-      * [[:en:ta:tech:video|V2 Video Render Engine]]
+      * V2 [[:en:ta:tech:dpe|Digital Publishing Engine]]
+      * V2 [[:en:ta:tech:audio|Audio Recording]]
+      * V2 [[:en:ta:tech:video|Video Render Engine]]
