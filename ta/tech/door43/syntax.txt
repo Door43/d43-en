@@ -4,6 +4,15 @@
 
 ===== Basic Text Formatting =====
 
+**Headings** - every page has a heading. The title of the page determines the displayed name in page lists and directories. The number of equal signs determine the formatting. It is important for the formatting of specific headers to be the same in all pages.
+
+<code>
+====== Page Header ====== is 6 equal signs, space, title, space, 6 equal signs
+
+===== Section Header ===== is 5 equal signs, space, title, space, 5 equal signs
+</code>
+
+
 DokuWiki supports **bold**, //italic//, __underlined__ and ''monospaced'' texts. Of course you can **__//''combine'' //__**all these.
 <code>
 DokuWiki supports **bold**, //italic//, __underlined__ and
@@ -28,14 +37,6 @@ You can add Bullet lists -
 and Numbered lists -
   - Item 1
   - Item 2
-  -
-</code>
-
-You can use <sub>subscript</sub> and <sup>superscript</sup>   , too.
-
-<code>
-You can use <sub>subscript</sub> and
-<sup>superscript</sup>, too.
 </code>
 
 You can mark something as <del>deleted</del>  as well.
