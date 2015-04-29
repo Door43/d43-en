@@ -21,9 +21,13 @@
         * [[https://door43.org/obs-diffs/ver_1-to-ver_3.html|Version 1 to Version 3]]
         * [[https://door43.org/obs-diffs/ver_2-to-ver_3.html|Version 2 to Version 3]]
         * [[https://door43.org/en/obs/change-log|Updates in Version 3]]
-      * How to translate the stories in Door43
-        * [[:en:ta:translate:stories|Translate the Open Bible Stories]]
-      * How to translate the stories in translationStudio
+      * How to translate the source text in Door43
+        * Open Bible Stories
+          * [[:en:ta:translate:stories|Translate the Open Bible Stories]]
+        * Bible
+      * How to translate the source text in translationStudio
+        * Open Bible Stories
+        * Bible
 
   *  [[:en:ta:check|Checking Manual]]
       * [[:en:ta:check:level1|Level 1]]
