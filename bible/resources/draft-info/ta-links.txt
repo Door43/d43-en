@@ -5,49 +5,49 @@ These are drafts of the tA links that we include in pages:
 Active/Passive
 
 <code>
-[[:en:ta:vocabulary:active]]
+[[:en:ta:translate:active]]
 </code>
 
 Adjectival noun
 
 <code>
-[[:en:ta:vocabulary:adjectivalnoun]]
+[[:en:ta:translate:adjectivalnoun]]
 </code>
 
 Double negatives
 
 <code>
-[[:en:ta:vocabulary:double-negatives]]
+[[:en:ta:translate:double-negatives]]
 </code>
 
 Euphemism
 
 <code>
-[[:en:ta:figuresofspeech:euphemism]]
+[[:en:ta:translate:euphemism]]
 </code>
 
 Exclusive
 
 <code>
-[[:en:ta:vocabulary:exclusive]]
+[[:en:ta:translate:exclusive]]
 </code>
 
 First, second, or third person
 
 <code>
-[[:en:ta:vocabulary:123person]]
+[[:en:ta:translate:123person]]
 </code>
 
 Forms of "you"
 
 <code>
-[[:en:ta:vocabulary:formsofyou]]
+[[:en:ta:translate:formsofyou]]
 </code>
 
 Hendiadys
 
 <code>
-[[:en:ta:figuresofspeech:hendiadys]]
+[[:en:ta:translate:hendiadys]]
 </code>
 
 How to Translate Names
@@ -59,80 +59,75 @@ How to Translate Names
 Hyperbole
 
 <code>
-[[:en:ta:figuresofspeech:hyperbole]]
+[[:en:ta:translate:hyperbole]]
 </code>
 
 Hypothetical Situation
 
 <code>
-[[:en:ta:discourse:hypothetical]]
+[[:en:ta:translate:hypothetical]]
 </code>
 
 Idiom
 
 <code>
-[[:en:ta:figuresofspeech:idiom]]
+[[:en:ta:translate:idiom]]
 </code>
 
 Implicit/Explicit
 
 <code>
-[[:en:ta:discourse:implicitexplicit]]
+[[:en:ta:translate:implicitexplicit]]
 </code>
 
 Litotes
 
 <code>
-[[:en:ta:figuresofspeech:litotes]]
+[[:en:ta:translate:litotes]]
 </code>
 
 Metaphor
 
 <code>
-[[:en:ta:figuresofspeech:metaphor]]
+[[:en:ta:translate:metaphor]]
 </code>
 
 Metonymy
 
 <code>
-[[:en:ta:figuresofspeech:metonymy]]
+[[:en:ta:translate:metonymy]]
 </code>
 
 Personification
 
 <code>
-[[:en:ta:figuresofspeech:personification]]
+[[:en:ta:translate:personification]]
 </code>
 
 Rhetorical question
 
 <code>
-[[:en:ta:figuresofspeech:rhetoricalquestion]]
+[[:en:ta:translate:rhetoricalquestion]]
 </code>
 
 Simile
 
 <code>
-[[:en:ta:figuresofspeech:simile]]
+[[:en:ta:translate:simile]]
 </code>
 
 Speech Quotations
 
 <code>
-[[:en:ta:vocabulary:quotation]]
+[[:en:ta:translate:quotation]]
 </code>
 
 Synecdoche
 
 <code>
-[[:en:ta:figuresofspeech:synecdoche]]
+[[:en:ta:translate:synecdoche]]
 </code>
 
-Unknown words
-
-<code>
-[[:en:ta:unknown:words]]
-</code>
 
 <code>
 
