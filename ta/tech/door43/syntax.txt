@@ -80,3 +80,10 @@ You can force other words to show for the link rather than the page name. Such a
 <code>
 Such as [[en:ta:tech:door43:syntax|click here]].
 </code>
+
+==== Tags ====
+
+Some pages have tags. Tags appear at the bottom of the page under a line. Most tags are to be left alone but sometimes you may need to change a tag. When you edit the tag syntax, remember that there should always be a space between each tag word.
+Tags are formatted with 2 sets of 2 curly brackets around the syntax. The syntax is "tag>" and then a word for each tag. <code>
+So a tag syntax for two tags would be {{tag>tag1 tag2}}.
+</code>So a tag syntax for two tags would be {{tag>tag1 tag2}}.
