@@ -53,8 +53,8 @@ Alternate meanings refer to when there are not just multiple ways to express som
 
 When writing a note to identify and explain a figure of speech, use sentence form and put the meaning in quotes.
 
-  * **Make ready the way of the Lord**  - This metaphor of a road means "Repent and be ready for when the Lord comes." (See: [[en:ta:translate:metaphor|Metaphor]])
-  * **You offspring of poisonous snakes**  - This is a metaphor. Poisonous snakes are dangerous and represent evil. This could be translated as "You evil poisonous snakes!" or "You are evil like poisonous snakes." (See: [[en:ta:translate:metaphor|Metaphor]])
+  * **Make ready the way of the Lord**  - This metaphor of a road means "Repent and be ready for when the Lord comes." (See: [[:en:ta:translate:metaphor|Metaphor]])
+  * **You offspring of poisonous snakes**  - This is a metaphor. Poisonous snakes are dangerous and represent evil. This could be translated as "You evil poisonous snakes!" or "You are evil like poisonous snakes." (See: [[:en:ta:translate:metaphor|Metaphor]])
 If there is a Translation Academy page that deals with a figure of speech, you can include it in the note.
 
   * Refer to TA topics by writing, for example, "(See: Metonymy)" or "(See: Exclusive)" at the end of the note. You can see these at [[:en:ta:ta-topics|Topics]].
@@ -69,13 +69,13 @@ Simple explanations about words or phrases should be in sentence format.
 
 When adding the option for a direct quote, preface the alternate with "It can be translated as a direct quote:" followed by the new phrase.
 
-  * **to tell no one**  - This is an indirect quote. It can be translated as a direct quote: "Do not tell anyone." The implied information is "that you have been healed." (See: [[en:ta:translate:quotation|Speech Quotations]], [[en:ta:translate:implicitexplicit|Explicit and Implicit Information]])
+  * **to tell no one**  - This is an indirect quote. It can be translated as a direct quote: "Do not tell anyone." The implied information is "that you have been healed." (See: [[:en:ta:translate:quotation|Speech Quotations]], [[:en:ta:translate:implicitexplicit|Explicit and Implicit Information]])
 === Explanation of Source Language ===
 
 In general, we want to downplay the original languages since most of the users of the notes will not have had any training in them. This does not mean we avoid the content. Rather, it means that we should look for simple ways to express that content. When possible, use plain-language explanations in English.
 
   * **sinful man**  - The word here for "man" means "adult male" and not the more general "human being."
-  * **Master**  - The Greek word that is translated here as “Master” is a not the normal word for “Master.” This one refers to someone who has authority, and not to someone who owns someone else. You could also translate it as "Boss" or "Foreman" or with a word that is commonly used to address a person in authority, such as “Sir.”
+  * **Master**  - The word that is translated here as “Master” is a not the normal word for “Master.” This one refers to someone who has authority, and not to someone who owns someone else. You could also translate it as "Boss" or "Foreman" or with a word that is commonly used to address a person in authority, such as “Sir.”
 === Multiple Notes on Long Phrase ===
 
 Sometimes we need notes for a phrase and separate notes for portions of that phrase. In that case, we list the larger phrase first, and its parts afterward, unless there is a compelling reason to reverse them.
@@ -83,13 +83,11 @@ Sometimes we need notes for a phrase and separate notes for portions of that phr
   * **you say, 'Behold, he is a gluttonous man**  - This can be translated as an indirect quote: "you say that he is a gluttonous man" or "you accuse him of being a gluttonous man."
   * **he is a gluttonous man**  - "he is a greedy eater" or "he habitually eats too much food"
   * **a drunkard**  - "a drunk" or "a habitual drunk”
-
 === Repeated Phrases in a Book ===
 
 Sometimes a phrase is used multiple times in a book. We can make it easier for the translators by reminding them of where they have already translated that phrase so they can translate it the same way. We only point them back to notes in the book they are working on.
 
-  * **be fruitful and multiply**  - See how you translated    these commands in [[en:bible:notes:gen:01:28|1:28]]
-  * **everything that creeps along the ground** - This includes all types of small animals. See how you translated this in [[en:bible:notes:gen:01:24|1:25]].
-  * **will be blessed in him** - This can be translated as "will be blessed because of Abraham" or "will be blessed because I have blessed Abraham." For translating "in him," see how you translated "through you" in [[en:bible:notes:gen:12:01|12:3]].
-
+  * **be fruitful and multiply**  - See how you translated these commands in [[:en:bible:notes:gen:01:28|1:28]]
+  * **everything that creeps along the ground**  - This includes all types of small animals. See how you translated this in [[:en:bible:notes:gen:01:24|1:25]].
+  * **will be blessed in him**  - This can be translated as "will be blessed because of Abraham" or "will be blessed because I have blessed Abraham." For translating "in him," see how you translated "through you" in [[:en:bible:notes:gen:12:01|12:3]].
 ~~DISCUSSION~~
