@@ -1,0 +1,40 @@
+
+
+----
+
+**Door43 **
+
+   * [[:en:home|Home (English)]]
+
+**translationAcademy**
+
+  * [[en:ta|tA Home]]
+    * [[en:ta:intro|tA Intro]]
+      * [[en:ta:intro:why|Why]]
+      * [[en:ta:intro:how|How]]
+      * [[en:ta:intro:what|What]]
+    * [[en:ta:translate:home|Translation Manual]]
+      * [[en:ta:translate:basics|Basics of Translation]]
+      * [[en:ta:translate:scriptures|Bible Translation Principles]]
+    * [[en:ta:check|Checking Manual]]
+      * [[en:ta:check:level1|Level 1]]
+      * [[en:ta:check:level2|Level 2]]
+      * [[en:ta:check:level3|Level 3]]
+    * [[en:ta:tech|Technology Manual]]
+      * [[en:ta:tech:tk|translationKeyboard]]
+      * [[en:ta:tech:ts|translationStudio]]
+      * [[en:ta:tech:door43|Door43]]
+      * [[en:ta:tech:audio|Audio]]
+      * [[en:ta:tech:video|Video]]
+      * [[en:ta:tech:uw|unfoldingWord]]
+      * [[en:ta:tech:dpe|Digital Publishing Engine]]
+
+~~NOCACHE~~
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-en|d43-en repository]]. To download it as a zip file, click [[https://github.com/Door43/d43-en/archive/master.zip|d43-en.zip]]
+
+**Recent Changes**
+
+{{changes>ns = en}}
