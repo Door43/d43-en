@@ -3,23 +3,30 @@
 [[http://door43.org|Door43]] is a website where translators can do online translating. It is also the content management system for unfoldingWord.
 
 Here are some resources to help you with Door43:
-
+Get Started
   * [[:en:ta:tech:door43:get-started|Get Started]]
   * [[en:ta:tech:door43:create|Create an Account and Log into Door 43]]
+The Open Bible Stories in My Language
   * [[:en:ta:tech:door43:find-language|Find My Language]]
     * [[:obs-setup|Request a New Language]]
   * [[:en:ta:tech:door43:obs-setup|Set up Open Bible Stories in My Language]]
-  * [[:en:ta:tech:door43:ckg|Using the Graphical Editor]]
+How to Use the Editors
   * [[:en:ta:tech:door43:edit|Editing a Page]]
-  * [[:en:ta:tech:door43:logon|Are you Logged On?]]
-  * [[:en:ta:tech:door43:change-editors|Changing Editors]]
   * [[:en:ta:tech:door43:syntax|Formatting Content]]
+  * [[:en:ta:tech:door43:change-editors|Changing Editors]]
+  * [[:en:ta:tech:door43:ckg|Using the Graphical Editor]]
     * [[en:ta:tech:door43:practice|Practice Editing a Page]]
+Extra Help
+  * [[:en:ta:tech:door43:logon|Are you Logged On?]]
   * [[:en:ta:tech:door43:tips-tricks|Tips & Tricks]]
   * [[:en:ta:tech:door43:navigate|Navigating Door43]]
+Versions of a Page
   * [[:en:ta:tech:door43:old-revision|Finding Older Versions of a Page]]
   * [[:en:ta:tech:door43:revert|Reverting a Page to an Older Version]]
+Subscriptions
   * [[:en:ta:tech:door43:subscribe|Watching a Page]]
   * [[:en:ta:tech:door43:recent-changes|Finding Recent Changes]]
+Publish
   * [[:en:ta:tech:door43:publish|Publishing to unfoldingWord]]
+Technical Details
   * [[:en:ta:tech:door43:technical|Door43 Technical Details]]
