@@ -10,9 +10,9 @@
 
 ==== Pasting Content from Word, LibreOffice, or Web Browsers ====
 
-If you have content in a Word document or web page that can legally be included on Door43, use the Graphical Editor (FCK Editor, the default) and look for the "Paste from Word" button on the toolbar. (It looks like a clipboard with a W on it.) 
+If you have content in a Word document or web page that can legally be included on Door43, use the Graphical Editor (CKG Editor) and look for the "Paste from Word" button on the toolbar. (It looks like a clipboard with a W on it.)
 
-This button opens up a dialog where you can paste formatted content (with **bold**, //italics//, etc.) and, after clicking "OK", pastes it into the page on Door43 with the formatting. Not perfect, but may help. 
+This button opens up a dialog where you can paste formatted content (with **bold**, //italics//, etc.) and, after clicking "OK", pastes it into the page on Door43 with the formatting. Not perfect, but may help.
 
 ==== Watching Pages ====
 
