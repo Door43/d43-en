@@ -6,7 +6,7 @@
 
 ==== Acts ====
 
-{{topic>:en:bible:notes:mat?matmgr&nocomments}}
+{{topic>:en:bible:notes?mgrmat&nocomments}}
 
 
 {{pagequery>ns:en:bible:notes:mat "mgrmat"; fulltext; sort=date:asc; display={title}; natsort; layout=table; showcount; hidemsg; hidejump;}}
