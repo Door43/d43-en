@@ -6,101 +6,67 @@
 
 ==== Acts ====
 
-{{topic>:en:bible:notes?mgrmat&nocomments}}
-
-
-{{pagequery>ns:en:bible:notes:mat "mgrmat"; fulltext; sort=date:asc; display={title}; natsort; layout=table; showcount; hidemsg; hidejump;}}
-
+{{topic>:en:bible:notes?mgract&nocomments}}
 
 ==== Genesis ====
 
-  * [[:en:bible:admin-reports:questions-comprehension:gen|Comprehension Questions: Genesis Admin]]
-  * [[:en:bible:notes:gen:questions:comprehension:home|Page List]]
-{{count>draft review discuss publish&en:bible:notes:gen:questions:comprehension}}
+{{topic>:en:bible:notes?mgrgen&nocomments}}
 
 ==== Matthew ====
 
-  * [[:en:bible:admin-reports:questions-comprehension:mat|Comprehension Questions: Matthew Admin]]
-  * [[:en:bible:notes:mat:questions:comprehension:home|Page List]]
-{{count>draft review discuss publish&en:bible:notes:mat:questions:comprehension}}
+{{topic>:en:bible:notes?mgrmat&nocomments}}
 
 ==== Colossians ====
 
-  * [[:en:bible:admin-reports:questions-comprehension:col|Comprehension Questions: Colossians Admin]]
-  * [[:en:bible:notes:col:questions:comprehension:home|Page List]]
-{{count>draft review discuss publish&en:bible:notes:col:questions:comprehension}}
+{{topic>:en:bible:notes?mgrcol&nocomments}}
 
 ==== James ====
 
-  * [[:en:bible:admin-reports:questions-comprehension:jas|Comprehension Questions: James Admin]]
-  * [[:en:bible:notes:jas:questions:comprehension:home|Page List]]
-{{count>draft review discuss publish&en:bible:notes:jas:questions:comprehension}}
+{{topic>:en:bible:notes?mgrjas&nocomments}}
 
 ==== Mark ====
 
-  * [[:en:bible:admin-reports:questions-comprehension:mrk|Comprehension Questions: Mark Admin]]
-  * [[:en:bible:notes:mrk:questions:comprehension:home|Page List]]
-{{count>draft review discuss publish&en:bible:notes:mrk:questions:comprehension}}
+{{topic>:en:bible:notes?mgrmrk&nocomments}}
 
 ==== 1,2 Thessalonians ====
 
-  * [[:en:bible:admin-reports:questions-comprehension:1th|Comprehension Questions: 1,2 Thessalonians Admin]]
-  * [[:en:bible:notes:1th:questions:comprehension:home|1Th Page List]]
-  * [[:en:bible:notes:2th:questions:comprehension:home|2Th Page List]]
-{{count>draft review discuss publish&en:bible:notes:1th:questions:comprehension en:bible:notes:2th:questions:comprehension}}
+{{topic>:en:bible:notes?mgr1th&nocomments}}
+{{topic>:en:bible:notes?mgr2th&nocomments}}
 
 ==== Philippians ====
 
-  * [[:en:bible:admin-reports:questions-comprehension:php|Comprehension Questions: Philippians Admin]]
-  * [[:en:bible:notes:php:questions:comprehension:home|Page List]]
-{{count>draft review discuss publish&en:bible:notes:php:questions:comprehension}}
+{{topic>:en:bible:notes?mgrphp&nocomments}}
 
 ==== Jonah ====
 
-  * [[:en:bible:admin-reports:questions-comprehension:jon|Comprehension Questions: Jonah Admin]]
-  * [[:en:bible:notes:jon:questions:comprehension:home|Page List]]
-{{count>draft review discuss publish&en:bible:notes:jon:questions:comprehension}}
+{{topic>:en:bible:notes?mgrjon&nocomments}}
 
 ==== Ephesians ====
 
-  * [[:en:bible:admin-reports:questions-comprehension:eph|Comprehension Questions: Ephesians Admin]]
-  * [[:en:bible:notes:eph:questions:comprehension:home|Page List]]
-{{count>draft review discuss publish&en:bible:notes:eph:questions:comprehension}}
+{{topic>:en:bible:notes?mgreph&nocomments}}
 
 ==== 1,2,3 John ====
 
-  * [[:en:bible:admin-reports:questions-comprehension:1jn|Comprehension Questions: 1,2,3 John Admin]]
-  * [[:en:bible:notes:1jn:questions:comprehension:home|1Jn Page List]]
-  * [[:en:bible:notes:2jn:questions:comprehension:home|2Jn Page List]]
-  * [[:en:bible:notes:3jn:questions:comprehension:home|3Jn Page List]]
-{{count>draft review discuss publish&en:bible:notes:1jn:questions:comprehension en:bible:notes:2jn:questions:comprehension en:bible:notes:3jn:questions:comprehension}}
+{{topic>:en:bible:notes?mgr1jn&nocomments}}
+{{topic>:en:bible:notes?mgr2jn&nocomments}}
+{{topic>:en:bible:notes?mgr3jn&nocomments}}
 
 ==== Philemon ====
 
-  * [[:en:bible:admin-reports:questions-comprehension:phm|phm]]
-  * [[:en:bible:notes:phm:questions:comprehension:home|Page List]]
-{{count>draft review discuss publish&en:bible:notes:phm:questions:comprehension}}
+{{topic>:en:bible:notes?mgrphm&nocomments}}
 
 ==== Revelation ====
 
-  * [[:en:bible:admin-reports:questions-comprehension:rev|rev]]
-  * [[:en:bible:notes:rev:questions:comprehension:home|Page List]]
-{{count>draft review discuss publish&en:bible:notes:rev:questions:comprehension}}
+{{topic>:en:bible:notes?mgrrev&nocomments}}
 
 ==== Jude ====
 
-  * [[:en:bible:admin-reports:questions-comprehension:jud|jud]]
-  * [[:en:bible:notes:jud:questions:comprehension:home|Page List]]
-{{count>draft review discuss publish&en:bible:notes:jud:questions:comprehension}}
+{{topic>:en:bible:notes?mgrjud&nocomments}}
 
 ==== Lamentations ====
 
-  * [[:en:bible:admin-reports:questions-comprehension:lam|lam]]
-  * [[:en:bible:notes:lam:questions:comprehension:home|Page List]]
-{{count>draft review discuss publish&en:bible:notes:lam:questions:comprehension}}
+{{topic>:en:bible:notes?mgrlam&nocomments}}
 
 ==== Exodus ====
 
-  * [[:en:bible:admin-reports:questions-comprehension:exo|exo]]
-  * [[:en:bible:notes:exo:questions:comprehension:home|Page List]]
-{{count>draft review discuss publish&en:bible:notes:exo:questions:comprehension}}
+{{topic>:en:bible:notes?mgrexo&nocomments}}
