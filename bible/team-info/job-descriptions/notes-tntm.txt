@@ -17,7 +17,7 @@ Manage teams that will be creating resources to support Wycliffe Associates' str
 
   * Receive notification that notes are ready for checking.
   * Use the checklist to assess the work.
-  * Make sure Translation Academy notes are present as needed:
+  * Make sure translationAcademy notes are present as needed:
       * Add tA links when missing
       * Add tA topics when missing
       * Notify tA team of need for new topics by adding the "talink" tag and putting a note about the need in the notes Discussion section
