@@ -1,13 +1,16 @@
-====== Key Terms Team Leader Responsibilities ======
+====== Important Terms Team Leader Responsibilities ======
 
 
 ==== Team Purpose ==== 
 
-The Key Terms (KT) team will write and update the content of the KT pages. These pages will provide concise, clear explanations of important words, people, people, places, things, and phrases that require more than a brief note. 
+The Important Terms team will write and update the content of the OBE (Open Bible Encyclopedia) pages. These pages will provide concise, clear explanations of important words, people, people, places, things, and phrases that require more than a brief note. The OBE is divided into two sections:
 
-The KT pages should present all the necessary information about the term that a translator would need to accurately represent it in his/her own language. They should also provide alternative translation suggestions as possible. In addition, the KT pages should be cross-linked with other KT pages as helpful.
+  * Key Terms - Terms that require extra guidance on translation because they are theologically critical, are abstract concepts, etc.
+  * Other Terms - Terms that might not be known by the translator, but require only basic definition or translation suggestions.
 
-The content of KT pages are not specific to any particular book. They should present the meaning of the term across the Bible. Also, they will need to occasionally be updated as the Notes teams work on new books and discover additional issues not yet covered by the KT pages.
+The OBE pages should present all the necessary information about the term that a translator would need to accurately represent it in his/her own language. They should also provide alternative translation suggestions as possible. In addition, the OBE pages should be cross-linked with other OBE pages as helpful.
+
+The content of OBE pages are not specific to any particular book. They should present the meaning of the term across the Bible. Also, they will need to occasionally be updated as the Notes teams work on new books and discover additional issues not yet covered by the OBE pages.
 
 All of the content developed will be released as open-source, unrestricted materials. No copyrighted materials should be included in their creation. It is also understood that the team agrees to have the product of their work freely distributed as open-source.
 
@@ -16,11 +19,12 @@ All of the content developed will be released as open-source, unrestricted mater
 
 The team leader will be responsible for the following:
 
-  * Follow the status of KT pages on the [[en:bible:admin-reports:00-key-terms-admin]] page
-  * Assist, guide and encourage KT team members as they work through the KT's on the Draft list
-  * Update "draft" tags on KT pages to "review" as the team completes the draft text
-  * Review and edit all KT pages tagged as "review" and change the status to "publish"
-  * Keep track of requests for changes to pages by the Notes teams
+  * Follow the status of OBE pages on the [[en:bible:admin-reports:obe-admin:obe-admin]] page
+  * Assist, guide and encourage team members as they work through the terms on the Draft list
+  * Update "draft" tags on OBE pages to "review" as the team completes the draft text
+  * Review and edit all OBE pages tagged as "review" and change the status to "publish"
+  * Keep track of requests for changes to pages by the Notes teams by checking for pages with "ktlink" tags in [[en:bible:admin-reports:obe-admin:obe-link-publish]].
   * Keep the project manager apprised of any concerns and issues with the team members or the project
+
 {{tag>kt101}}
 ~~NOCACHE~~
