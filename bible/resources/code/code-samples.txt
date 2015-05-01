@@ -22,10 +22,10 @@ Display pages with in namespace with specific tag:
 {{topic>en:bible:notes:luk?draft&nocomments}}
 </code>
 
-iten:
+Search ns for pages with or without text string:
 
 <code>
-
+{{pagequery>ns:en:bible:notes:mat "{{tag>create" -"{{tag>delete"; fulltext; sort=title:asc; display={title}; natsort; layout=table; showcount; hidemsg; hidejump;}}
 </code>
 
 item:
