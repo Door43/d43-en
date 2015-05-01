@@ -18,12 +18,12 @@ Review work of teams that created resources to support Wycliffe Associates' stra
 ===== Process of Review =====
 
   - Receive notification that notes are ready for review.
-  - Review any information in the discussion area. May contain inquiries about source text, key term suggestions, or other items of interest from the Notes Team.
+  - Review any information in the discussion area for inquiries about source text, key term suggestions, or other items of interest from the Notes Team.
   - Verify that Important Terms are correct:
       * Check to see that terms link to the correct pages.
-      * Add missing terms to the list and create the links, or add the “ktlink” tag to notify the KT team to add links or pages.
+      * Add missing terms to the list and create the links, or add the “ktlink” tag to notify the OBE team to add links or pages.
       * Remove or fix incorrect terms.
-  - Check other materials as available to identify translation issues in the passage.
+  - Check other materials such and handbooks, commentaries, or manuals as available to identify translation issues in the passage.
   - Verify that the ULB and UDB are accurately-translated and work together well to explain issues in the text.
   - Check the EtherPad communication page for the assigned book for messages from the Text team.
   - Edit existing notes as required:
@@ -43,6 +43,8 @@ Review work of teams that created resources to support Wycliffe Associates' stra
     * Write a note to the manager in the discussion area. Begin the note with the title "**Manager**" in bold to make the comment easy for the manager to find it. 
     * Add a tag to the page to alert the manager. The tag should be "mgr" followed by the three-letter book code. For example, a comment on Matthew would be tagged as "mgrmat". 
   * If you need to communicate something complex or important to a manager, send an email, or call via phone or Skype.
+
+
 ===== Common Issues that Require Review =====
 
 These are issues that often occur:
