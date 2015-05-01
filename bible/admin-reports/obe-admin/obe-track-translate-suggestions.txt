@@ -1,3 +1,4 @@
-====== OBE: KT Pages with Translation Suggestions ======
+====== OBE: Translation Suggestions on KT Pages ======
 
-{{pagequery>ns:en:obe:kt "=== Translation Suggestions"; fulltext; sort=title:asc; display={title}; natsort; layout=table; showcount; hidemsg; hidejump;}}
+^  Pages without TS  ^  Pages with TS  ^
+|{{pagequery>ns:en:obe:kt -"=== Translation Suggestions"; fulltext; sort=title:asc; display={title}; natsort; layout=table; showcount; hidemsg; hidejump;}}  |{{pagequery>ns:en:obe:kt "=== Translation Suggestions"; fulltext; sort=title:asc; display={title}; natsort; layout=table; showcount; hidemsg; hidejump;}}  |
