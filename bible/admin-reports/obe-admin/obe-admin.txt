@@ -25,11 +25,13 @@
 
 ==== Notes pages tagged "ktlink" ====
 
+These pages need links, page creation, page update, etc.
+
 {{topic>en:bible:notes?ktlink&tags&sort&nocomments}}
 
 ==== Link and Publish ====
 
-OBE pages that have been promoted to "publish" and still have the "ktlink" tab (excludes pages that also have a "review" tag). Cross-links may need to be defined.
+OBE pages that have been promoted to "publish" and still have the "ktlink" tag, but not a "review" tag. Cross-links may need to be defined.
 
 {{topic>publish +ktlink -review&tags&sort&nocomments}}
 
