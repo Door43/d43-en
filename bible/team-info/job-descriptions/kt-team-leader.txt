@@ -22,8 +22,12 @@ The team leader will track the status of OBE pages on the [[en:bible:admin-repor
   * Assist the OBE teams:
     * Assist, guide and encourage team members as they work through the terms on the Draft list
     * Update "draft" tags on OBE pages to "review" as the team completes the draft text
-  * Review and edit all OBE pages tagged as "review" and change the status to "publish" when finished
+  * Review and edit all OBE pages tagged as "review":
+    * Update content and add cross-links to other OBE pages as necessary.
+    * Change the status to "publish" when finished.
   * Keep track of requests for changes to pages by the Notes teams by checking for pages with "ktlink" tags on the [[en:bible:admin-reports:obe-admin:obe-admin]].
+    * Review Discussion comments on the Notes pages with "ktlink" tags and correct any issues of problems. 
+    * Correspond with Notes Managers and Notes Reviewers for the associates books as necessary.
   * Keep the project manager apprised of any concerns and issues with the team members or the project
 
 {{tag>kt101}}
