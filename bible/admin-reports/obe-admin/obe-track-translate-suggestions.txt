@@ -1,0 +1,3 @@
+====== OBE: KT Pages with Translation Suggestions ======
+
+{{pagequery>ns:en:obe:kt "=== Translation Suggestions ==="; fulltext; sort=title:asc; display={title}; natsort; layout=table; showcount; hidemsg; hidejump;}}
