@@ -26,6 +26,8 @@
 
 ==== Notes Pages that need KT Links Added ====
 
+{{topic>en:bible:notes?ktlink&tags&sort&nocomments}}
+
 {{pagequery>ns:en:bible:notes -ns:en:bible:notes:key-terms "ktlink"; fulltext; sort=title:asc; display={title}; natsort; layout=table; showcount; hidemsg; hidejump;}}
 
 ====== Link and Publish ======
