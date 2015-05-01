@@ -24,15 +24,15 @@
 ^  New Pages to Review  ^  Published Pages to Review  ^  Discuss Pages  |
 |{{pagequery>ns:en:obe "{{tag>review"; fulltext; sort=title:asc; display={title}; natsort; showcount; hidemsg; hidejump;}} |{{pagequery>ns:en:obe "{{tag>publish review"; fulltext; sort=title:asc; display={title}; natsort; showcount; hidemsg; hidejump;}} |{{pagequery>ns:en:obe "{{tag>discuss"; fulltext; sort=title:asc; display={title}; natsort; showcount; hidemsg; hidejump;}} |
 
-==== Notes Pages that need KT Links Added ====
+==== Notes pages tagged "ktlink" ====
 
 {{topic>en:bible:notes?ktlink&tags&sort&nocomments}}
 
 {{pagequery>ns:en:bible:notes -ns:en:bible:notes:key-terms "ktlink"; fulltext; sort=title:asc; display={title}; natsort; layout=table; showcount; hidemsg; hidejump;}}
 
-====== Link and Publish ======
+==== Link and Publish ====
 
-OBE pages that have been promoted to Publish (tag changed to Publish) and still have the "ktlink" tab (excludes pages that also have a "review" tag). Cross-links may need to be defined.
+OBE pages that have been promoted to "publish" and still have the "ktlink" tab (excludes pages that also have a "review" tag). Cross-links may need to be defined.
 
 {{topic>publish +ktlink -review&tags&sort&nocomments}}
 
