@@ -28,6 +28,12 @@
 
 {{pagequery>ns:en:bible:notes -ns:en:bible:notes:key-terms "ktlink"; fulltext; sort=title:asc; display={title}; natsort; layout=table; showcount; hidemsg; hidejump;}}
 
+====== Link and Publish ======
+
+OBE pages that have been promoted to Publish (tag changed to Publish) and still have the "ktlink" tab (excludes pages that also have a "review" tag). Cross-links may need to be defined.
+
+{{topic>publish +ktlink -review&tags&sort&nocomments}}
+
 ==== Check for Bad Tags ====
 
 The following query checks the first tag to be one of the valid tags required to make the system work correctly: {create|delete|draft|review|discuss|publish}. Any key terms listed here are not in the above chart. (EQ)
