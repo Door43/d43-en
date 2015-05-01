@@ -20,9 +20,9 @@ Manage teams that will be creating resources to support Wycliffe Associates' str
   * Make sure translationAcademy notes are present as needed:
       * Add tA links when missing
       * Add tA topics when missing
-      * Notify tA team of need for new topics by adding the "talink" tag and putting a note about the need in the notes Discussion section.
+      * Notify tA team of need for new topics by adding the "talink" tag and putting an explanation of the need in the Notes Discussion section.
   * Make sure Important Terms exist and are linked as needed:
-      * Create links to existing OBE pages as needed by referring to the [[:en:obe:home|Complete list of Important Terms]] and noting whether the terms are in the KT or Other namespace.
+      * Create links to existing OBE pages as needed by referring to the [[:en:obe:home|Complete list of Important Terms]], taking care to correctly link them to the KT or Other namespace.
       * Add the “ktlink” tag to notes pages that need new terms created, and place a note in the notes Discussion section to explain the need.
       * Add the "ktlink" tag to notes pages that need to have a term modified, and also add a note to the Discussion section of the Term page to explain the need.
   * Communicate with the Notes Team Leader regarding the quality of notes.
