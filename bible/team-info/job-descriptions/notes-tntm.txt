@@ -18,13 +18,13 @@ Manage teams that will be creating resources to support Wycliffe Associates' str
   * Receive notification that notes are ready for checking.
   * Use the checklist to assess the work.
   * Make sure Translation Academy notes are present as needed:
-    * Add tA links when missing
-    * Add tA topics when missing
-    * Notify tA team of need for new topics by adding the "talink" tag and putting a note about the need in the notes Discussion section
+      * Add tA links when missing
+      * Add tA topics when missing
+      * Notify tA team of need for new topics by adding the "talink" tag and putting a note about the need in the notes Discussion section
   * Make sure Important Terms exist and are linked as needed:
-    * Create links to existing OBE pages as needed by referring to the [[en:obe:home]] and noting whether the terms are in the KT or Other namespace
-    * Add the “ktlink” tag to notes pages that need new terms created, and place a note in the notes Discussion section to explain the need
-    * Add the "ktlink" tag to notes pages that need to have a term modified, and also add a note to the Discussion section of the Term page to explain the need
+      * Create links to existing OBE pages as needed by referring to the [[:en:obe:home|Complete list of Important Terms]] and noting whether the terms are in the KT or Other namespace
+      * Add the “ktlink” tag to notes pages that need new terms created, and place a note in the notes Discussion section to explain the need
+      * Add the "ktlink" tag to notes pages that need to have a term modified, and also add a note to the Discussion section of the Term page to explain the need
   * Communicate with the Notes Team Leader regarding the quality of notes.
   * Communicate with the Reviewer about any questions/requests from the Team.
   * Change the 'check' tag to 'review.'
@@ -37,19 +37,4 @@ Manage teams that will be creating resources to support Wycliffe Associates' str
       * Those pages will be tagged with “mgr” followed by the three-letter book code. For example, a comment on Matthew would be tagged as “mgrmat”. You can use the Search box to find these occurrences, or use the admin page: [[:en:bible:admin-reports:reviewer-manager-admin|Reviewer to Manager Admin Page]].
       * When you have read and responded to the comment, delete the tag from the page.
 
-===== Issues that Come Up When Reviewing Notes =====
-
-Discuss this list to decide who has the responsibility of each issue.
-
-  * A note might be a Bible study commentary rather than a translation issue.
-  * A note might have complicated language that would be hard for some of our audience.
-  * A note might not be worded, structured, and formatted according to [[:en:bible:team-info:processes:create-notes|How to Create Translation Notes]]
-  * A note might be written as if it is the first time the phrase has occurred when we could explain it a little and say "See how you translated this in 8:19."
-  * There may be other issues that need translation notes.
-  * Team members may have differing views about how to handle something.
-
-  * (?) Team members may request changes to the UDB or ULB. I discuss these with the editor for those texts.
-
-  * There is a need to revise notes to fit with the revisions to the UDB or ULB.
-  * Check that the Important Terms that need to be listed are listed.
-  * Add the links to the Translation Academy pages that are referred to in the notes.
+=====   =====
