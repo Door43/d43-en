@@ -1,24 +1,25 @@
 ====== Translation Notes Workshop ======
+
 ====== May 2015 ======
 
 This page contains the links to notes and resources for the TN Workshop.
 
 ==== May 4-8, 2015, Orlando Information ====
 
-  * [[en:ta:workshop-may2015-schedule|Schedule]]
-  * [[en:ta:workshop-may2015-attendees|Workshop Participants]]
+  * [[:en:ta:workshop-may2015-schedule|Schedule]]
+  * [[:en:ta:workshop-may2015-attendees|Workshop Participants]]
 
 ==== Links ====
 
   * [[:en:bible:team-info:processes:gettingstarted|Get Started]]
   * [[:en:get-started?do=register|Register as a New User]]
-  * [[en:ta:tech:door43:syntax|Formatting Content]]
+  * [[:en:ta:tech:door43:syntax|Formatting Content]]
 
 ==== Working Pages ====
 
   * [[:en:bible:workshop:playground:list|Practice Door43 Pages]]
   * [[:en:ta:workshop:jonah|Jonah Chapters]]
-  * [[en:bible:admin-reports:notes-admin:jon]]
+  * [[:en:bible:admin-reports:notes-admin:jon|Notes: Jonah Admin Page]]
 
 ==== Workshop Content ====
 
@@ -39,11 +40,10 @@ This page contains the links to notes and resources for the TN Workshop.
 
   * [[:en:ulb:ep:32-jon.usfm|Jonah ULB File]]
   * [[:en:udb:ep:32-jon.usfm|Jonah UDB File]]
- 
 
   * [[:en:bible:team-info:training:topics:glossary|Glossary of Door43 Terms]]
   * [[:en:bible:team-info:training:topics:sample-chunks|Sample Completed Notes]]
   * [[:en:bible:team-info:training:notes-training|Notes Training]]
 
-  * [[en:bible:team-info:job-descriptions:notes-localteam]]
-  * [[en:bible:team-info:job-descriptions:notes-tntm]]
+  * [[:en:bible:team-info:job-descriptions:notes-localteam|Translation Notes Team Information]]
+  * [[:en:bible:team-info:job-descriptions:notes-tntm|Translation Notes Teams Manager]]
