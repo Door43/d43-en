@@ -14,11 +14,17 @@ This page contains the links to notes and resources for the TN Workshop.
   * [[:en:bible:team-info:processes:gettingstarted|Get Started]]
   * [[:en:get-started?do=register|Register as a New User]]
   * [[:en:ta:tech:door43:syntax|Formatting Content]]
+  * [[:en:bible:workshop:playground:list|Practice Door43 Pages]]
+
+  * [[:en:bible:team-info:job-descriptions:notes-localteam|Translation Notes Team Information]]
+  * [[:en:bible:team-info:job-descriptions:notes-tntm|Translation Notes Teams Manager]]
+
 
 ==== Working Pages ====
 
-  * [[:en:bible:workshop:playground:list|Practice Door43 Pages]]
-  * [[:en:ta:workshop:jonah|Jonah Chapters]]
+  * [[:en:ta:workshop:jonah|Jonah Chapters]] 
+  * [[:en:ulb:ep:32-jon.usfm|Jonah ULB File]]
+  * [[:en:udb:ep:32-jon.usfm|Jonah UDB File]]
   * [[:en:bible:admin-reports:notes-admin:jon|Notes: Jonah Admin Page]]
 
 ==== Workshop Content ====
@@ -29,21 +35,19 @@ This page contains the links to notes and resources for the TN Workshop.
   * [[:en:bible:team-info:training:topics:punctuation|Punctuation]]
   * [[:en:bible:team-info:training:topics:measures|Measures, Weights, Distances]]
   * [[:en:bible:team-info:training:topics:original-source|Original Languages]]
-  * [[:en:bible:team-info:training:topics:status-tags|Page Status Tags]]
+  * [[:en:bible:team-info:training:notes-training|Notes Training]]
 
   * [[:en:ta:ta-topics|Translation Academy Topics]]
   * [[:en:ta:figuresofspeech:home|Figures of Speech]]
 
   * [[:en:bible:team-info:training:topics:kt-yes-no|Is It a Key Term?]]
   * [[:en:obe:home|Complete list of Important Terms]]
-  * [[:en:bible:team-info:processes:add-kt|Add New Important Terms to Notes Page]]
 
-  * [[:en:ulb:ep:32-jon.usfm|Jonah ULB File]]
-  * [[:en:udb:ep:32-jon.usfm|Jonah UDB File]]
+  * [[:en:bible:team-info:processes:add-kt|Add New Important Terms to Notes Page]]
+  * [[:en:bible:team-info:training:topics:status-tags|Page Status Tags]]
+
 
   * [[:en:bible:team-info:training:topics:glossary|Glossary of Door43 Terms]]
   * [[:en:bible:team-info:training:topics:sample-chunks|Sample Completed Notes]]
-  * [[:en:bible:team-info:training:notes-training|Notes Training]]
 
-  * [[:en:bible:team-info:job-descriptions:notes-localteam|Translation Notes Team Information]]
-  * [[:en:bible:team-info:job-descriptions:notes-tntm|Translation Notes Teams Manager]]
+
