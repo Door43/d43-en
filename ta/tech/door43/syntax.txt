@@ -2,7 +2,7 @@
 
 **DokuWiki** supports some simple markup language, which tries to make the files to be as readable as possible. This page contains the possible syntax you may use when editing the pages. The syntax for the described formatting is in the box below the examples. If you want to try something, just use the [[:playground:playground|playground]] page.
 
-You might want a printed copy of the page. {{:en:ta:dokuwiki_cheatsheet_-_simplified.pdf|Simplified DoKuWiki Code}}
+You might want a printed copy of the page. {{:en:ta:dokuwiki_editor_codes.pdf|Simplified DoKuWiki Code}}
 
 ===== Basic Text Formatting =====
 
