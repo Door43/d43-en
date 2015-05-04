@@ -7,7 +7,7 @@
 
 ==== 1 John Pages Status ====
 
-{{topic>en:bible:notes:1jn -questions?draft&nocomments}} 
+{{topic>-en:bible:notes:1jn:questions:comprehension?draft&nocomments}} 
 
 ^  Draft  ^  Review  ^  Text  ^  Discuss  ^  Publish  ^
 |{{topic>en:bible:notes:1jn -en:bible:notes:1jn:questions?draft&nocomments}}  |{{pagequery>ns:en:bible:notes:1jn -ns:en:bible:notes:1jn:questions:comprehension "{{tag>review"; fulltext; sort=title:asc; display={title}; natsort; showcount; hidemsg; hidejump;}} |{{pagequery>ns:en:bible:notes:1jn -ns:en:bible:notes:1jn:questions:comprehension "{{tag>text"; fulltext; sort=title:asc; display={title}; natsort; showcount; hidemsg; hidejump;}} |{{pagequery>ns:en:bible:notes:1jn -ns:en:bible:notes:1jn:questions:comprehension "{{tag>discuss"; fulltext; sort=title:asc; display={title}; natsort; showcount; hidemsg; hidejump;}} |{{pagequery>ns:en:bible:notes:1jn -ns:en:bible:notes:1jn:questions:comprehension "{{tag>publish"; fulltext; sort=title:asc; display={title}; natsort; showcount; hidemsg; hidejump;}} |
