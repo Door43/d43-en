@@ -2,6 +2,8 @@
 
 ~~NOCACHE~~
 
+  * [[:en:bible:admin-reports:check-tags]]
+
 {{count>create&en:obe}}
 
 The following Key Terms are tagged as "create" and are on hold.\\
@@ -91,10 +93,3 @@ They are available to assign to the Key Terms teams to edit.
 ==== Exodus ====
 
 {{topic>en:obe?create +exo01&tags&nocomments}}{{topic>en:obe?create +exo02&tags&nocomments}}{{topic>en:obe?create +exo03&tags&nocomments}}{{topic>en:obe?create +exo04&tags&nocomments}}{{topic>en:obe?create +exo05&tags&nocomments}}{{topic>en:obe?create +exo06&tags&nocomments}}{{topic>en:obe?create +exo07&tags&nocomments}}{{topic>en:obe?create +exo08&tags&nocomments}}{{topic>en:obe?create +exo09&tags&nocomments}}{{topic>en:obe?create +exo10&tags&nocomments}}{{topic>en:obe?create +exo11&tags&nocomments}}{{topic>en:obe?create +exo12&tags&nocomments}}{{topic>en:obe?create +exo13&tags&nocomments}}{{topic>en:obe?create +exo14&tags&nocomments}}{{topic>en:obe?create +exo15&tags&nocomments}}{{topic>en:obe?create +exo16&tags&nocomments}}{{topic>en:obe?create +exo17&tags&nocomments}}{{topic>en:obe?create +exo18&tags&nocomments}}{{topic>en:obe?create +exo19&tags&nocomments}}{{topic>en:obe?create +exo20&tags&nocomments}}{{topic>en:obe?create +exo21&tags&nocomments}}{{topic>en:obe?create +exo22&tags&nocomments}}{{topic>en:obe?create +exo23&tags&nocomments}}{{topic>en:obe?create +exo24&tags&nocomments}}{{topic>en:obe?create +exo25&tags&nocomments}}{{topic>en:obe?create +exo26&tags&nocomments}}{{topic>en:obe?create +exo27&tags&nocomments}}{{topic>en:obe?create +exo28&tags&nocomments}}{{topic>en:obe?create +exo29&tags&nocomments}}{{topic>en:obe?create +exo30&tags&nocomments}}{{topic>en:obe?create +exo31&tags&nocomments}}{{topic>en:obe?create +exo32&tags&nocomments}}{{topic>en:obe?create +exo33&tags&nocomments}}{{topic>en:obe?create +exo34&tags&nocomments}}{{topic>en:obe?create +exo35&tags&nocomments}}{{topic>en:obe?create +exo36&tags&nocomments}}{{topic>en:obe?create +exo37&tags&nocomments}}{{topic>en:obe?create +exo38&tags&nocomments}}{{topic>en:obe?create +exo39&tags&nocomments}}{{topic>en:obe?create +exo40&tags&nocomments}}
-
-
-==== Check for Bad Tags ====
-
-The following query checks the first tag to be one of the valid tags required to make the system work correctly: {create|draft|review|discuss|publish}. Any key terms listed here are not in the above chart. (EQ)
-
-{{pagequery>ns:en:obe "{{tag>" -"{{tag>create" -"{{tag>delete" -"{{tag>draft1" -"{{tag>draft2" -"{{tag>review" -"{{tag>discuss" -"{{tag>publish"; fulltext; sort=title:asc; display={title}; natsort; layout=table; showcount; hidemsg; hidejump;}}
