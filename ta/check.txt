@@ -30,11 +30,11 @@ The strategy for quality assurance of unfoldingWord content, including Open Bibl
 
 The three-level checking scale we use is dependent on the unfoldingWord [[:en:statement-of-faith|Statement of Faith]] and [[:en:translation-guidelines|Translation Guidelines]]. All translated content is compared against the theology of the Statement of Faith and against the procedures and methodologies of the Translation Guidelines. With these documents forming the foundation, these are the three levels of checking used in the unfoldingWord project:
 
-[[:en:ta:check:level1|Checking Level 1 - Internal Check]]
+[[:en:ta:check:level1|Checking Level One - Internal Check]]
 
-[[:en:ta:check:level2|Checking Level 2 - External Check]]
+[[:en:ta:check:level2|Checking Level Two - External Check]]
 
-[[:en:ta:check:level3|Checking Level 3 - Authenticated Check]]
+[[:en:ta:check:level3|Checking Level Three - Authenticated Check]]
 
 ==== Checking the checkers ====
 
