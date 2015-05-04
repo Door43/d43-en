@@ -2,10 +2,16 @@
 
 There are two built-in editors in Door43:
 
-  * CKG Edit
   * DW Edit
+  * CKG Edit
 
-We have found that both editors have some issues with different browsers. DW Edit can be especially finicky with Internet Explorer. In general, they both tend to work better on Firefox.
+We have found that both editors have some issues with different browsers. DW Edit can be finicky with Internet Explorer. In general, they both tend to work better on Firefox.
+
+
+==== DW Edit ====
+
+DW Edit is a "plain text editor." – This is the most basic DokuWiki editor, and it provides full control over the syntax of the text. Go to the [[:en:ta:tech:door43:syntax|Formatting Text]] page for some simple editing formats to use in the text editor.
+
 
 ==== CKG Edit ====
 
@@ -13,15 +19,13 @@ CKG Edit is a "visual" or "WYSIWYG ("what you see is what you get")" editor.
 
 When you click the "Edit this page" button, this editor is the default version that will normally load. The edit window looks like a simplified word processor. Click [[https://www.youtube.com/watch?v=kFK1zK_dSYc|here]] for the "how to" 1 minute video. The buttons take care of formatting text and generally make it easier to use. Here is information on the toolbar icons: [[doku>toolbar|quickbuttons]].
 
-==== DW Edit ====
-
-DW Edit is a "plain text editor." – This is the most basic DokuWiki editor, and it provides full control over the syntax of the text. Go to the [[:en:ta:tech:door43:syntax|Formatting Text]] page for some simple editing formats to use in the text editor.
 
 ==== Which Editor to Use? ====
 
-We suggest that people who are new to Door43 use CKG Edit. It is easier for most people, and will prevent you from introducing errors in the code for the page.
+By default, Door43 pages will open to DW Edit. It will give you a bit more control over stray spaces and other issues that occasionally happen in the code. It also allows you to insert bullets or bold text by either typing in the codes for them or by using the formatting buttons. Until you learn how to use the formatting in DW Edit, you can always click the "Preview" button while editing to see what the formatted text would look like.
 
-If you are familiar with programming languages, or have exceptional computer skills, you may want to try DW Edit. It will give you a bit more control over stray spaces and other issues that occasionally happen in the code.
+If you have trouble using DW Edit, you may want to switch to the CKG Edit. CKG Edit is easier for some people, and it may prevent you from introducing errors in the code for the page. However, it is more difficult to insert bullets or text formatting exactly where you want it.
+
 
 ==== How to Switch Editors ====
 
