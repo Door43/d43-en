@@ -2,13 +2,16 @@
 
 Welcome to unfoldingWord! [[http://unfoldingword.org|unfoldingWord]] is a project put together and managed by various missions organizations and volunteers from around the world who think that everyone should have adequate Biblical content, in their own language, without copyright restrictions, and for free.
 
-unfoldingWord uses tools like [[en:ta:tech:door43|Door43]] and [[en:ta:tech:ts|translationStudio]] as platforms where the global church can collaborate to translate open Biblical content. We have also created a [[en:ta:check|three-tier checking system]] which empowers the global church not only to translate the content, but to corroborate its accuracy. unfoldingWord is also a digital publishing engine that will push checked content through the engine to make it available online, on the [[en:ta:tech:uw|unfoldingWord mobile app]], for download, and in print-ready formats. By empowering the global church in this way, we believe this process will help provide unrestricted Biblical content, in every language, for every people group.
+unfoldingWord uses tools like [[:en:ta:tech:door43|Door43]] and [[:en:ta:tech:ts|translationStudio]] as platforms where the global church can collaborate to translate open Biblical content. We have also created a [[:en:ta:check|three-tier checking system]] which empowers the global church not only to translate the content, but to corroborate its accuracy. unfoldingWord is also a digital publishing engine that will push checked content through the engine to make it available online, on the [[:en:ta:tech:uw|unfoldingWord mobile app]], for download, and in print-ready formats. By empowering the global church in this way, we believe this process will help provide unrestricted Biblical content, in every language, for every people group.
 
 All unfoldingWord projects follow three important documents:
-  * [[statement-of-faith|Statement of Faith]] - the theological guidelines for all unfoldingWord resources and translations
-  * [[translation-guidelines|Translation Guidelines]] - the translation guidelines required of all translations
-  * [[license|Open License]] - the open license which governs all unfoldingWord content
 
-Continue to [[glossary|Glossary]]
+  * [[:en:ta:intro:statement-of-faith|Statement of Faith]] - the theological guidelines for all unfoldingWord resources and translations
+  * [[:en:ta:intro:translation-guidelines|Translation Guidelines]] - the translation guidelines required of all translations
+  * [[:en:ta:intro:license|Open License]] - the open license which governs all unfoldingWord content
+
+Entities such as translation organizations and church denominations can be part of the unfoldingWord network, given that they agree with the Statement of Faith and Translation Guidelines and that they are publicly accountable in some way to constituents who are part of the Church (including donors, members, etc.). Based on the strength of the trust relationship between entities, the unfoldingWord network can grow rapidly and it becomes self-reinforcing as multiple nodes connect to each other.
+
+Continue to [[:en:ta:intro:glossary|Glossary]]
 
 ~~DISCUSSION~~
