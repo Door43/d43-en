@@ -9,10 +9,12 @@ They are not available for the team to edit.
 
 ==== Sorted by Term ====
 
-{{count>create&en:obe}}{{topic>en:obe?Create&nocomments&list&tags}}
+{{count>create&en:obe}}
+{{topic>en:obe?create&nocomments&list&tags}}
+
 
 ==== Sorted by creation date ====
 
 ~~NOCACHE~~
 
-{{pagequery>ns:en:obe "tag> create"; fulltext; sort=cdate:asc; group; limit=100; spelldate; hidestart; display= {title} {date:created} ; layout=table; natsort; }}
+{{pagequery>ns:en:obe "tag>create"; fulltext; sort=cdate:asc; group; limit=100; spelldate; hidestart; display= {title} {date:created} ; layout=table; natsort; }}
