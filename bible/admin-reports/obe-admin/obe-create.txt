@@ -10,8 +10,8 @@ They are not available for the team to edit.
 ==== Sorted by Term ====
 
 {{count>create&en:obe}}
-{{topic>en:obe?create&nocomments&list&tags}}
-
+{{topic>en:obe:kt?create&nocomments&list&tags}}
+{{topic>en:obe:other?create&nocomments&list&tags}}
 
 ==== Sorted by creation date ====
 
