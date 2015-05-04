@@ -28,7 +28,7 @@
 
 These pages need links, page creation, page update, etc.
 
-{{topic>en:bible:notes?ktlink&tags&sort&nocomments}}
+{{topic>en:bible:notes?ktlink -publish&tags&sort&nocomments}}
 
 ==== Link and Publish ====
 
