@@ -1,14 +1,8 @@
 ====== Translation Manual ======
 
-This manual teaches translation theory and how to make a good translation. 
+This manual teaches translation theory and how to make a good translation.\\
+ 
 Core topics
-    * [[en:ta:translate:basics]]
-    * [[en:ta:translate:scriptures]]
-    * [[en:ta:translate:translatenames]]
-    * [[en:ta:translate:translateunknowns]]
-    * [[en:ta:translate:translateunknowns-numbers]]
-Not Core topics
-
 
   * Basics of Translation
     * [[en:ta:translate:basics]]
@@ -16,6 +10,9 @@ Not Core topics
     * [[en:ta:translate:translatenames]]
     * [[en:ta:translate:translateunknowns]]
     * [[en:ta:translate:translateunknowns-numbers]]
+
+
+Not Core topics\\
   * Translating According to the Translation Guidelines
     * [[en:ta:translate:accurate]]
     * [[en:ta:translate:authoritative]]
