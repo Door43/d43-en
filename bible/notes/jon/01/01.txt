@@ -2,32 +2,17 @@
 
 ===== TFT: =====
 
-<usfm>
-\v 1 \add One day\add* Yahweh said to \add the prophet\add* Jonah, the son of Amittai,
-\v 2 "I have \add seen\add* how wicked \add the people of\add* \f + \ft metonymy \f* the great city\f + \ft Or: Nineveh \f* are. Therefore go there and warn the people that \add I am planning to\add* destroy their city \add because of their sins\add*."
-\v 3 But \add instead of going to Nineveh\add*, Jonah \add went in the direction\add* opposite to where Yahweh \add told him to go\add*. He went down to Joppa \add city\add*. There he bought a ticket to travel on a ship that was going to Tarshish \add city\add*, in order to avoid \add doing what\add* Yahweh \add told him to do\add*. \add He got on the ship\add*, and \add then went down\add* to a lower deck, \add lay down\add*, \add and went to sleep\add*.
-\p
-</usfm>
+<usfm> \v 1 \add One day\add* Yahweh said to \add the prophet\add* Jonah, the son of Amittai, \v 2 "I have \add seen\add* how wicked \add the people of\add* \f + \ft metonymy \f* the great city\f + \ft Or: Nineveh \f* are. Therefore go there and warn the people that \add I am planning to\add* destroy their city \add because of their sins\add*." \v 3 But \add instead of going to Nineveh\add*, Jonah \add went in the direction\add* opposite to where Yahweh \add told him to go\add*. He went down to Joppa \add city\add*. There he bought a ticket to travel on a ship that was going to Tarshish \add city\add*, in order to avoid \add doing what\add* Yahweh \add told him to do\add*. \add He got on the ship\add*, and \add then went down\add* to a lower deck, \add lay down\add*, \add and went to sleep\add*. \p </usfm>
 
 ===== UDB: =====
 
-<usfm>
-\v 1 One day Yahweh said to the prophet Jonah, the son of Amittai,
-\v 2 "I have seen how wicked the people are who live in the great city of Nineveh. Therefore go there and warn the people that I am planning to destroy their city because of their sins."
-\v 3 But instead of going to Nineveh, Jonah went in the direction of the city of Tarshish, to get away from Yahweh. He went down to the city of Joppa. There he bought a ticket to travel on a ship that was going to the city of Tarshish. He got on the ship, and then went down to a lower deck, lay down, and went to sleep.
+<usfm> \v 1 One day Yahweh said to the prophet Jonah, the son of Amittai, \v 2 "I have seen how wicked the people are who live in the great city of Nineveh. Therefore go there and warn the people that I am planning to destroy their city because of their sins." \v 3 But instead of going to Nineveh, Jonah went in the direction of the city of Tarshish, to get away from Yahweh. He went down to the city of Joppa. There he bought a ticket to travel on a ship that was going to the city of Tarshish. He got on the ship, and then went down to a lower deck, lay down, and went to sleep.
 
-\p
-</usfm>
+\p </usfm>
 
 ===== ULB: =====
 
-<usfm>
-\c 1
-\p
-\v 1 Now the word of Yahweh came to Jonah the son of Amittai, saying,
-\v 2 "Arise, go to Nineveh, that great city, and speak out against it, because their wickedness has risen up before me."
-\v 3 But Jonah rose up to run away from the presence of Yahweh and go to Tarshish. He went down to Joppa and found a ship going to Tarshish.  So he paid the fare and boarded the ship to go with them to Tarshish, away from the presence of Yahweh.
-</usfm>
+<usfm> \c 1 \p \v 1 Now the word of Yahweh came to Jonah the son of Amittai, saying, \v 2 "Arise, go to Nineveh, that great city, and speak out against it, because their wickedness has risen up before me." \v 3 But Jonah rose up to run away from the presence of Yahweh and go to Tarshish. He went down to Joppa and found a ship going to Tarshish. So he paid the fare and boarded the ship to go with them to Tarshish, away from the presence of Yahweh. </usfm>
 
 ===== Important Terms: =====
 
@@ -38,13 +23,13 @@
   * [[:en:obe:kt:evil|wickedness]]
   * [[:en:obe:other:tarshish|Tarshish]]
   * [[:en:obe:other:joppa|Joppa]]
+
 ===== Translation Notes: =====
 
-  * **Now the word of Yahweh came** - "One day Yahweh said" (UDB)
-  * **Yahweh** - This is the name of God that he revealed to his people in the Old Testament. See the note on the Important Term page concerning how to translate this.
-  * **Amittai** - This is the name of Jonah's father. (See: [[en:ta:translate:translatenames]])
-  * **Arise, go to Nineveh, that great city** - "Go to the important city of Nineveh"​
-  * **speak out against it** - "warn the people" (UDB) 
+  * **Yahweh**  - This is the name of God that he revealed to his people in the Old Testament. See the note on the Important Term page concerning how to translate this.
+  * **Amittai**  - This is the name of Jonah's father. (See: [[:en:ta:translate:translatenames|How to Translate Names]])
+  * **Arise, go to Nineveh, that great city**  - "Go to the important city of Nineveh"​
+  * **speak out against it**  - "warn the people" (UDB)
   * **their wickedness has risen up before me -**  "I know they have been continually sinning"
   * **rose up to run away from the presence of Yahweh -**  "ran away from Yahweh"
   * **and go to Tarshish -**  "and went the wrong direction toward Tarshish" (See: Explicit and Implicit Information)
@@ -53,8 +38,7 @@
   * **So he paid the fare -**  "There Jonah paid for the trip"
   * **and boarded the ship -**  "and got on the ship"
   * **to go with them to Tarshish -**  "to go to Tarshish"
-  * **with them** - The word "them" refers to the others who were going on the ship.
-
+  * **with them**  - The word "them" refers to the others who were going on the ship.
 ===== Links: =====
 
   * **[[:en:bible:notes:jon:questions:comprehension:01|Jonah Chapter 01 Comprehension Questions]]**
