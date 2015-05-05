@@ -40,6 +40,8 @@ The three-level checking scale we use is dependent on the unfoldingWord [[:en:st
 
 The process and checking framework described in this document depends on an ongoing process of checking and revising content, as determined by the Church that uses the content. Feedback loops are encouraged (and modeled in translation software, where feasible) with a view to maximizing input from the greatest number of users of the content. The translations of the content are made available on the [[http://door43.org|Door43]] translation platform, which is designed to make it easy for users to collaboratively create content that increases in quality over time.
 
+[[:en:ta:check:TOC|Translation Checking Manual Full Table of Contents]]
+
 //Continue to [[:en:ta:before:update|How to Update a Previous Version]]//
 
 ~~DISCUSSION~~
