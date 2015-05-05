@@ -30,9 +30,9 @@ These pages need links, page creation, page update, etc.
 
 {{topic>en:bible:notes?ktlink -publish&tags&sort&nocomments}}
 
-==== Link and Publish ====
+==== Pages tagged "ktlink" and "publish" ====
 
-OBE pages that have been promoted to "publish" and still have the "ktlink" tag, but not a "review" tag. Cross-links may need to be defined.
+These Notes or OBE pages are published, but also have the "ktlink" tag. They need immediate attention to correct issues with the terms. This can be as simple as cross-links on an OBE page, or as complex as a reviewer requesting significant changes to a term.
 
 {{topic>publish +ktlink -review&tags&sort&nocomments}}
 
