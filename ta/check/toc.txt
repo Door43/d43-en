@@ -1,9 +1,9 @@
 ===== Translation Checking Manual Table of Contents =====
 
-  * Introduction
-  * Definition of a Checking Level
-  * How Checking Levels Work
-  * The Checking Levels
+  * [[:en:ta:check|Introduction]]
+  * [[:en:ta:check|Definition of a Checking Level]]
+  * [[:en:ta:check|How Checking Levels Work]]
+  * [[:en:ta:check|The Checking Levels]]
       *  [[:en:ta:check:level1|Checking Level One - Internal Check]]
         * [[:en:ta:check:level1|Definition of Checking Level One]]
         *  [[:en:ta:check:level1|Steps for checking under Level One (Internal)]]
