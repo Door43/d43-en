@@ -16,7 +16,7 @@
 
 ==== Key Terms Pages Status ====
 
-{{count>create delete draft1 draft2 review discuss publish&en:obe:kt en:obe:other}}
+{{count>create delete draft1 draft2 review discuss publish&en:obe}}
 
 ^  Group 1 Draft Pages  ^  Group 2 Draft Pages  ^
 |{{pagequery>ns:en:obe "{{tag>draft1"; fulltext; sort=title:asc; display={title}; natsort; showcount; hidemsg; hidejump;}} |{{pagequery>ns:en:obe "{{tag>draft2"; fulltext; sort=title:asc; display={title}; natsort; showcount; hidemsg; hidejump;}} |
