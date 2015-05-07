@@ -28,13 +28,13 @@ Search ns for pages with or without text string:
 {{pagequery>ns:en:bible:notes:mat "{{tag>create" -"{{tag>delete"; fulltext; sort=title:asc; display={title}; natsort; layout=table; showcount; hidemsg; hidejump;}}
 </code>
 
-Search for inserted beginning **or** ending HTML font code in OBE pages:
+Search for inserted beginning **or** ending <nowiki>HTML <font></nowiki> code in OBE pages:
 
 <code>
 {{pagequery>ns:en:obe "<font" | ns:en:obe "</font>"; fulltext; sort=date:asc; display={title}; natsort; layout=table; showcount; hidemsg; hidejump;}}
 </code>
 
-Search for inserted beginning **or** ending HTML font code in Bible notes pages:
+Search for inserted beginning **or** ending <nowiki>HTML <font></nowiki> code in Bible notes pages:
 
 <code>
 {{pagequery>ns:en:bible:notes "<font" | ns:en:bible:notes "</font>"; fulltext; sort=date:asc; display={title}; natsort; layout=table; showcount; hidemsg; hidejump;}}
