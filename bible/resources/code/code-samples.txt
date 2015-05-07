@@ -41,10 +41,10 @@ Search for inserted beginning **or** ending <nowiki>HTML <font></nowiki> code in
 </code>
 
 
-item:
+Open Door43 page in edit mode:
 
 <code>
-
+?do=edit&rev=0
 </code>
 
 item:
