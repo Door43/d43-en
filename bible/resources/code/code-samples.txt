@@ -31,7 +31,7 @@ Search ns for pages with or without text string:
 Search for inserted HTML font code in OBE pages:
 
 <code>
-{{pagequery>ns:en:obe ""; fulltext; sort=date:asc; display={title}; natsort; layout=table; showcount; hidemsg; hidejump;}}
+{{pagequery>ns:en:obe "</code>"; fulltext; sort=date:asc; display={title}; natsort; layout=table; showcount; hidemsg; hidejump;}}
 </code>
 
 item:
