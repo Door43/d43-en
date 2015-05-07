@@ -17,15 +17,15 @@ Manage teams that will be creating resources to support Wycliffe Associates' str
 
   - Receive notification that notes are ready for checking.
   - Use the checklist to assess the work.
-  - Make sure translationAcademy notes are present as needed:
+  - Make sure references to translationAcademy topics are present as needed:
+      * Add "(See: talink)" for existing tA topics when missing from the notes
       * Add tA links when missing
-      * Add tA topics when missing
-      * Notify tA team of need for new topics by adding the "talink" tag and putting an explanation of the need in the Notes Discussion section.
-  - Make sure Important Terms exist and are linked as needed:
-      * Create links to existing OBE pages as needed by referring to the [[:en:obe:home|Complete list of Important Terms]], taking care to correctly link them to the KT or Other namespace.
-      * Add the “ktlink” tag to notes pages that need new terms created, and place a note in the Notes Discussion section to explain the need.
-      * Add the "ktlink" tag to notes pages that need to have a term modified, and also add a note to the Discussion section of the Term page to explain the need.
-  - Communicate with the Notes Team Leader regarding the quality of notes.
+      * Suggest to the tA team the need of a new topic, by adding the "talink" tag and putting an explanation of the need in the Notes Discussion section.
+  - Respond to the team's work on Important Terms in the following ways:
+      * For existing Important Term pages - create links as needed by referring to the [[:en:obe:home|Complete list of Important Terms]], taking care to link them correctly.
+      * Suggested new Important Term - Add the “ktlink” tag to the Notes page that need new terms created and place a note in the Notes Discussion section to explain the need.
+      * Modification to an Important Term - add a note to the Discussion section of the Term page to explain the need and add the "ktlink" tag. 
+  - Communicate with the Notes Team Leader regarding the quality of notes and current Best Practices.
   - Communicate with the Reviewer about any questions/requests from the Team.
   - Change the 'check' tag to 'review.'
 
