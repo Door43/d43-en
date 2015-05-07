@@ -1,0 +1,7 @@
+====== Find Font Code in Notes ======
+
+~~NOCACHE~~
+
+Search text string:
+
+{{pagequery>ns:en:bible:notes "<font" | ns:en:bible:notes "</font>"; fulltext; sort=date:asc; display={title}; natsort; layout=table; showcount; hidemsg; hidejump;}}
