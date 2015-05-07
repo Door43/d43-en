@@ -4,24 +4,24 @@
 
 ==== KT Page Links ====
 
-  * [[:en:bible:admin-reports:obe-admin:obe-page-and-tag]]
-  * [[:en:obe:home]]
-  * [[:en:bible:admin-reports:obe-admin:obe-notes-ktlink]] (//also see section below//)
-  * [[:en:bible:admin-reports:obe-admin:obe-link-publish]] (//also see section below//)
-  * [[:en:bible:admin-reports:obe-admin:obe-create-to-draft]]
-  * [[:en:bible:admin-reports:obe-admin:obe-create]]
-  * [[:en:bible:admin-reports:obe-admin:obe-create-book]]
-  * [[:en:bible:admin-reports:obe-admin:obe-delete]]
-  * [[:en:bible:admin-reports:check-tags]]
+  * [[:en:bible:admin-reports:obe-admin:obe-page-and-tag|OBE: Page and Tag Names]]
+  * [[:en:obe:home|Complete list of Important Terms]]
+  * [[:en:bible:admin-reports:obe-admin:obe-notes-ktlink|OBE: Notes Pages Tagged "ktlink"]] (//also see section below//)
+  * [[:en:bible:admin-reports:obe-admin:obe-link-publish|OBE: Link and Publish]] (//also see section below//)
+  * [[:en:bible:admin-reports:obe-admin:obe-create-to-draft|OBE: Create to Draft]]
+  * [[:en:bible:admin-reports:obe-admin:obe-create|OBE: Pages Tagged "Create"]]
+  * [[:en:bible:admin-reports:obe-admin:obe-create-book|OBE: Pages Tagged "Create" by Book]]
+  * [[:en:bible:admin-reports:obe-admin:obe-delete|OBE: Delete Term]]
+  * [[:en:bible:admin-reports:check-tags|Check Tags]]
 
 ==== Key Terms Pages Status ====
 
 {{count>create delete draft1 draft2 review discuss publish&en:obe}}
 
-^  Group 1 Draft Pages  ^  Group 2 Draft Pages  ^
+^  Group 1 Draft Pages  ^  Group 2 Draft Pages  |
 |{{pagequery>ns:en:obe "{{tag>draft1"; fulltext; sort=title:asc; display={title}; natsort; showcount; hidemsg; hidejump;}} |{{pagequery>ns:en:obe "{{tag>draft2"; fulltext; sort=title:asc; display={title}; natsort; showcount; hidemsg; hidejump;}} |
 
-^  New Pages to Review  ^  Published Pages to Review  ^  Discuss Pages  ^
+^  New Pages to Review  ^  Published Pages to Review  ^  Discuss Pages  |
 |{{pagequery>ns:en:obe "{{tag>review"; fulltext; sort=title:asc; display={title}; natsort; showcount; hidemsg; hidejump;}} |{{pagequery>ns:en:obe "{{tag>publish review"; fulltext; sort=title:asc; display={title}; natsort; showcount; hidemsg; hidejump;}} |{{pagequery>ns:en:obe "{{tag>discuss"; fulltext; sort=title:asc; display={title}; natsort; showcount; hidemsg; hidejump;}} |
 
 ==== Notes pages tagged "ktlink" ====
@@ -36,3 +36,4 @@ These Notes or OBE pages are published, but also have the "ktlink" tag. They nee
 
 {{topic>publish +ktlink -review&tags&sort&nocomments}}
 
+\\
