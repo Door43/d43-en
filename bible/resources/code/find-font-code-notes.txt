@@ -2,6 +2,6 @@
 
 ~~NOCACHE~~
 
-Search text string:
+Pages with opening or closing <nowiki>HTML <font></nowiki> tags:
 
 {{pagequery>ns:en:bible:notes "<font" | ns:en:bible:notes "</font>"; fulltext; sort=date:asc; display={title}; natsort; layout=table; showcount; hidemsg; hidejump;}}
