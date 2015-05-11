@@ -10,8 +10,8 @@ Team Lead - Mark A\\
 
 ==== Acts Pages Status ====
 
-^  Check  ^  Review  ^  Text  ^  Discuss  ^  Publish  ^
-|{{topic>en:bible:notes:act?check&nocomments}}  |{{topic>en:bible:notes:act?review&nocomments}}  |{{topic>en:bible:notes:act?text&nocomments}}  |{{topic>en:bible:notes:act?discuss&nocomments}}  |{{topic>en:bible:notes:act?publish&nocomments}}  |
+^  Draft  ^  Check  ^  Review  ^  Text  ^  Discuss  ^  Publish  ^
+|{{topic>en:bible:notes:act?draft&nocomments}}  |{{topic>en:bible:notes:act?check&nocomments}}  |{{topic>en:bible:notes:act?review&nocomments}}  |{{topic>en:bible:notes:act?text&nocomments}}  |{{topic>en:bible:notes:act?discuss&nocomments}}  |{{topic>en:bible:notes:act?publish&nocomments}}  |
 
 
 \\
