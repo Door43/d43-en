@@ -1,22 +1,6 @@
-====== Notes: Matthew Admin Page ======
-
-~~NOCACHE~~
-
-Reviewer - Henry W\\
-Manager - Catherine N\\
-Team Leader - Abner B\\
-
-==== Links: ====
-
-  * [[:en:ulb:ep:40-mat.usfm|Full ULB text of Matthew]]\\
-  * [[:en:udb:ep:40-mat.usfm|Full UDB text of Matthew]]\\
-  * [[:en:ta:workshop|TN Workshop]]\\
-  * [[:en:bible:team-info:training:notes-training|Notes Training]]
-  * [[:en:bible:admin-reports:check-tags]]
+====== Notes: Matthew Admin Page (Old) ======
 
 
-==== Matthew Pages Status ====
+Notes teams see this page: [[:en:bible:admin-reports:notes-team-admin:mat]]
 
-^  Draft  ^  Check  ^  Review  ^  Text  ^  Discuss  ^  Publish  ^
-|{{pagequery>ns:en:bible:notes:mat -ns:en:bible:notes:mat:questions:comprehension "{{tag>draft"; fulltext; sort=title:asc; display={title}; natsort; showcount; hidemsg; hidejump;}} |{{pagequery>ns:en:bible:notes:mat -ns:en:bible:notes:mat:questions:comprehension "{{tag>check"; fulltext; sort=title:asc; display={title}; natsort; showcount; hidemsg; hidejump;}} |{{pagequery>ns:en:bible:notes:mat -ns:en:bible:notes:mat:questions:comprehension "{{tag>review"; fulltext; sort=title:asc; display={title}; natsort; showcount; hidemsg; hidejump;}} |{{pagequery>ns:en:bible:notes:mat -ns:en:bible:notes:mat:questions:comprehension "{{tag>text"; fulltext; sort=title:asc; display={title}; natsort; showcount; hidemsg; hidejump;}} |{{pagequery>ns:en:bible:notes:mat -ns:en:bible:notes:mat:questions:comprehension "{{tag>discuss"; fulltext; sort=title:asc; display={title}; natsort; showcount; hidemsg; hidejump;}} |{{pagequery>ns:en:bible:notes:mat -ns:en:bible:notes:mat:questions:comprehension "{{tag>publish"; fulltext; sort=title:asc; display={title}; natsort; showcount; hidemsg; hidejump;}} |
-
+Reviewers see this page: [[:en:bible:admin-reports:notes-review-admin:mat]]
