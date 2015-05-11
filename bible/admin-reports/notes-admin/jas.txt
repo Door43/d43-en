@@ -1,15 +1,6 @@
-====== Notes: James Admin Page ======
+====== Notes: James Admin Page (Old) ======
 
-Reviewer - John A\\
-Manager - John H\\
-Team Leader - Deborah B\\
 
-~~NOCACHE~~
+Notes teams see this page: [[:en:bible:admin-reports:notes-team-admin:jas]]
 
-  * [[:en:bible:admin-reports:check-tags]]
-
-==== James Page Status ====
-
-^  Draft  ^  Check  ^  Review  ^  Text  ^  Discuss  ^  Publish  |
-|{{pagequery>ns:en:bible:notes:jas -ns:en:bible:notes:jas:questions:comprehension "{{tag>draft"; fulltext; sort=title:asc; display={title}; natsort; showcount; hidemsg; hidejump;}} |{{pagequery>ns:en:bible:notes:jas -ns:en:bible:notes:jas:questions:comprehension "{{tag>check"; fulltext; sort=title:asc; display={title}; natsort; showcount; hidemsg; hidejump;}} |{{pagequery>ns:en:bible:notes:jas -ns:en:bible:notes:jas:questions:comprehension "{{tag>review"; fulltext; sort=title:asc; display={title}; natsort; showcount; hidemsg; hidejump;}} |{{pagequery>ns:en:bible:notes:jas -ns:en:bible:notes:jas:questions:comprehension "{{tag>text"; fulltext; sort=title:asc; display={title}; natsort; showcount; hidemsg; hidejump;}} |{{pagequery>ns:en:bible:notes:jas -ns:en:bible:notes:jas:questions:comprehension "{{tag>discuss"; fulltext; sort=title:asc; display={title}; natsort; showcount; hidemsg; hidejump;}} |{{pagequery>ns:en:bible:notes:jas -ns:en:bible:notes:jas:questions:comprehension "{{tag>publish"; fulltext; sort=title:asc; display={title}; natsort; showcount; hidemsg; hidejump;}} |
-
+Reviewers see this page: [[:en:bible:admin-reports:notes-review-admin:jas]]
