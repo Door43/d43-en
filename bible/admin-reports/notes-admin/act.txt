@@ -3,17 +3,6 @@
 Reviewer - Edward Q\\
 Manager - Catherine N\\
 Team Lead - Mark A\\
-~~NOCACHE~~
-
-  * [[:en:bible:admin-reports:check-tags|Check Tags]]
-
-==== Acts Pages Status ====
-
-====== Notes: Acts Admin Page ======
-
-Reviewer - Edward Q\\
-Manager - Catherine N\\
-Team Lead - Mark A\\
 
 ~~NOCACHE~~
 
@@ -23,5 +12,6 @@ Team Lead - Mark A\\
 
 ^  Check  ^  Review  ^  Text  ^  Discuss  ^  Publish  ^
 |{{topic>en:bible:notes:act?check&nocomments}}  |{{topic>en:bible:notes:act?review&nocomments}}  |{{topic>en:bible:notes:act?text&nocomments}}  |{{topic>en:bible:notes:act?discuss&nocomments}}  |{{topic>en:bible:notes:act?publish&nocomments}}  |
+
 
 \\
