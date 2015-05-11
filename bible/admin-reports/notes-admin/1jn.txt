@@ -1,16 +1,5 @@
-====== Notes: 1 John Admin Page ======
+====== Notes: 1 John Admin Page (Old) ======
 
-Reviewer - John A\\
-Manager - John H\\
-Team Lead - Dennis\\
+Notes teams see this page: [[:en:bible:admin-reports:notes-team-admin:1jn]]
 
-~~NOCACHE~~
-
-  * [[:en:bible:admin-reports:check-tags]]
-
-
-==== 1 John Pages Status ====
-
-^  Draft  ^  Check  ^  Review  ^  Text  ^  Discuss  ^  Publish  ^
-|{{pagequery>ns:en:bible:notes:1jn -ns:en:bible:notes:1jn:questions:comprehension "{{tag>draft"; fulltext; sort=title:asc; display={title}; natsort; showcount; hidemsg; hidejump;}} |{{pagequery>ns:en:bible:notes:1jn -ns:en:bible:notes:1jn:questions:comprehension "{{tag>check"; fulltext; sort=title:asc; display={title}; natsort; showcount; hidemsg; hidejump;}} |{{pagequery>ns:en:bible:notes:1jn -ns:en:bible:notes:1jn:questions:comprehension "{{tag>review"; fulltext; sort=title:asc; display={title}; natsort; showcount; hidemsg; hidejump;}} |{{pagequery>ns:en:bible:notes:1jn -ns:en:bible:notes:1jn:questions:comprehension "{{tag>text"; fulltext; sort=title:asc; display={title}; natsort; showcount; hidemsg; hidejump;}} |{{pagequery>ns:en:bible:notes:1jn -ns:en:bible:notes:1jn:questions:comprehension "{{tag>discuss"; fulltext; sort=title:asc; display={title}; natsort; showcount; hidemsg; hidejump;}} |{{pagequery>ns:en:bible:notes:1jn -ns:en:bible:notes:1jn:questions:comprehension "{{tag>publish"; fulltext; sort=title:asc; display={title}; natsort; showcount; hidemsg; hidejump;}} |
-
+Reviewers see this page: [[:en:bible:admin-reports:notes-review-admin:1jn]]
