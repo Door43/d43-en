@@ -1,16 +1,6 @@
-====== Notes: Mark Admin Page ======
-
-Reviewer - Henry W\\
-Manager - Catherine N\\
-Team Leader - Sam T
-
-~~NOCACHE~~
-
-  * [[:en:bible:admin-reports:check-tags]]
-
-==== Mark Pages Status ====
+====== Notes: Mark Admin Page (Old) ======
 
 
-^  Draft  ^  Check  ^  Review  ^  Text  ^  Discuss  ^  Publish  ^
-|{{pagequery>ns:en:bible:notes:mrk -ns:en:bible:notes:mrk:questions:comprehension "{{tag>draft"; fulltext; sort=title:asc; display={title}; natsort; showcount; hidemsg; hidejump;}} |{{pagequery>ns:en:bible:notes:mrk -ns:en:bible:notes:mrk:questions:comprehension "{{tag>check"; fulltext; sort=title:asc; display={title}; natsort; showcount; hidemsg; hidejump;}} |{{pagequery>ns:en:bible:notes:mrk-ns:en:bible:notes:mrk:questions:comprehension "{{tag>review"; fulltext; sort=title:asc; display={title}; natsort; showcount; hidemsg; hidejump;}} |{{pagequery>ns:en:bible:notes:mrk-ns:en:bible:notes:mrk:questions:comprehension "{{tag>text"; fulltext; sort=title:asc; display={title}; natsort; showcount; hidemsg; hidejump;}} |{{pagequery>ns:en:bible:notes:mrk-ns:en:bible:notes:mrk:questions:comprehension "{{tag>discuss"; fulltext; sort=title:asc; display={title}; natsort; showcount; hidemsg; hidejump;}} |{{pagequery>ns:en:bible:notes:mrk-ns:en:bible:notes:mrk:questions:comprehension "{{tag>publish"; fulltext; sort=title:asc; display={title}; natsort; showcount; hidemsg; hidejump;}} |
+Notes teams see this page: [[:en:bible:admin-reports:notes-team-admin:mrk]]
 
+Reviewers see this page: [[:en:bible:admin-reports:notes-review-admin:mrk]]
