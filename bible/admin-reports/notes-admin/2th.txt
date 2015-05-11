@@ -1,15 +1,6 @@
-====== Notes: 2 Thessalonians Admin Page ======
-Reviewer - Edward Q\\
-Manager - Catherine N\\
-Team - May Workshop
-
-~~NOCACHE~~
-
-  * [[:en:bible:admin-reports:check-tags]]
+====== Notes: 2 Thessalonians Admin Page (Old) ======
 
 
-==== 2 Thessalonians Pages Status ====
+Notes teams see this page: [[:en:bible:admin-reports:notes-team-admin:2th]]
 
-^  Draft  ^  Check  ^  Review  ^  Discuss  ^  Publish  ^
-|{{pagequery>ns:en:bible:notes:2th -ns:en:bible:notes:2th:questions:comprehension "{{tag>draft"; fulltext; sort=title:asc; display={title}; natsort; showcount; hidemsg; hidejump;}}  |{{pagequery>ns:en:bible:notes:2th -ns:en:bible:notes:2th:questions:comprehension "{{tag>check"; fulltext; sort=title:asc; display={title}; natsort; showcount; hidemsg; hidejump;}}  |{{pagequery>ns:en:bible:notes:2th -ns:en:bible:notes:2th:questions:comprehension "{{tag>review"; fulltext; sort=title:asc; display={title}; natsort; showcount; hidemsg; hidejump;}}  |{{pagequery>ns:en:bible:notes:2th -ns:en:bible:notes:2th:questions:comprehension "{{tag>discuss"; fulltext; sort=title:asc; display={title}; natsort; showcount; hidemsg; hidejump;}}  |{{pagequery>ns:en:bible:notes:2th -ns:en:bible:notes:2th:questions:comprehension "{{tag>publish"; fulltext; sort=title:asc; display={title}; natsort; showcount; hidemsg; hidejump;}}  |
-
+Reviewers see this page: [[:en:bible:admin-reports:notes-review-admin:2th]]
