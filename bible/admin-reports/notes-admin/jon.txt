@@ -9,5 +9,5 @@
 
 ==== Jonah Page Status ====
 
-^  Draft  ^  Check  ^  Review  ^  Text  ^  Discuss  ^  Publish  ^
-|{{pagequery>ns:en:bible:notes:jon -ns:en:bible:notes:jon:questions:comprehension "{{tag>draft"; fulltext; sort=title:asc; display={title}; natsort; showcount; hidemsg; hidejump;}} |{{pagequery>ns:en:bible:notes:jon -ns:en:bible:notes:jon:questions:comprehension "{{tag>check"; fulltext; sort=title:asc; display={title}; natsort; showcount; hidemsg; hidejump;}} |{{pagequery>ns:en:bible:notes:jon -ns:en:bible:notes:jon:questions:comprehension "{{tag>review"; fulltext; sort=title:asc; display={title}; natsort; showcount; hidemsg; hidejump;}} |{{pagequery>ns:en:bible:notes:jon -ns:en:bible:notes:jon:questions:comprehension "{{tag>text"; fulltext; sort=title:asc; display={title}; natsort; showcount; hidemsg; hidejump;}} |{{pagequery>ns:en:bible:notes:jon -ns:en:bible:notes:jon:questions:comprehension "{{tag>discuss"; fulltext; sort=title:asc; display={title}; natsort; showcount; hidemsg; hidejump;}} |{{pagequery>ns:en:bible:notes:jon -ns:en:bible:notes:jon:questions:comprehension "{{tag>publish"; fulltext; sort=title:asc; display={title}; natsort; showcount; hidemsg; hidejump;}} |
+^  Check  ^  Review  ^  Text  ^  Discuss  ^  Publish  ^
+|{{topic>en:bible:notes:jon?check&nocomments}}  |{{topic>en:bible:notes:jon?review&nocomments}}  |{{topic>en:bible:notes:jon?text&nocomments}}  |{{topic>en:bible:notes:jon?discuss&nocomments}}  |{{topic>en:bible:notes:jon?publish&nocomments}}  |
