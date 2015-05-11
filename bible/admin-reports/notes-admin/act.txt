@@ -9,7 +9,19 @@ Team Lead - Mark A\\
 
 ==== Acts Pages Status ====
 
-^  Draft  ^  Check  ^  Review  ^  Text  ^  Discuss  ^  Publish  |
-|{{pagequery>ns:en:bible:notes:act -ns:en:bible:notes:act:questions:comprehension "{{tag>draft"; fulltext; sort=title:asc; display={title}; natsort; showcount; hidemsg; hidejump;}} |{{pagequery>ns:en:bible:notes:act -ns:en:bible:notes:act:questions:comprehension "{{tag>check"; fulltext; sort=title:asc; display={title}; natsort; showcount; hidemsg; hidejump;}} |{{pagequery>ns:en:bible:notes:act -ns:en:bible:notes:act:questions:comprehension "{{tag>review"; fulltext; sort=title:asc; display={title}; natsort; showcount; hidemsg; hidejump;}} |{{pagequery>ns:en:bible:notes:act -ns:en:bible:notes:act:questions:comprehension "{{tag>text"; fulltext; sort=title:asc; display={title}; natsort; showcount; hidemsg; hidejump;}} |{{pagequery>ns:en:bible:notes:act -ns:en:bible:notes:act:questions:comprehension "{{tag>discuss"; fulltext; sort=title:asc; display={title}; natsort; showcount; hidemsg; hidejump;}} |{{pagequery>ns:en:bible:notes:act -ns:en:bible:notes:act:questions:comprehension "{{tag>publish"; fulltext; sort=title:asc; display={title}; natsort; showcount; hidemsg; hidejump;}} |
+====== Notes: Acts Admin Page ======
+
+Reviewer - Edward Q\\
+Manager - Catherine N\\
+Team Lead - Mark A\\
+
+~~NOCACHE~~
+
+  * [[:en:bible:admin-reports:check-tags|Check Tags]]
+
+==== Acts Pages Status ====
+
+^  Check  ^  Review  ^  Text  ^  Discuss  ^  Publish  ^
+|{{topic>en:bible:notes:act?check&nocomments}}  |{{topic>en:bible:notes:act?review&nocomments}}  |{{topic>en:bible:notes:act?text&nocomments}}  |{{topic>en:bible:notes:act?discuss&nocomments}}  |{{topic>en:bible:notes:act?publish&nocomments}}  |
 
 \\
