@@ -9,5 +9,5 @@
 
 ==== Jonah Page Status ====
 
-^  Check  ^  Review  ^  Text  ^  Discuss  ^  Publish  ^
-|{{topic>en:bible:notes:jon?check&nocomments}}  |{{topic>en:bible:notes:jon?review&nocomments}}  |{{topic>en:bible:notes:jon?text&nocomments}}  |{{topic>en:bible:notes:jon?discuss&nocomments}}  |{{topic>en:bible:notes:jon?publish&nocomments}}  |
+^  Draft  ^  Check  ^  Review  ^  Text  ^  Discuss  ^  Publish  ^
+|{{topic>en:bible:notes:jon?draft&nocomments}}  |{{topic>en:bible:notes:jon?check&nocomments}}  |{{topic>en:bible:notes:jon?review&nocomments}}  |{{topic>en:bible:notes:jon?text&nocomments}}  |{{topic>en:bible:notes:jon?discuss&nocomments}}  |{{topic>en:bible:notes:jon?publish&nocomments}}  |
