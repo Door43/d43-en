@@ -1,16 +1,6 @@
-====== Notes: Jonah Admin Page ======
-
-~~NOCACHE~~
-
-Reviewer - John Anderson\\
-Manager - John Hutchins\\
-
-  * [[:en:ulb:ep:32-jon.usfm|Full ULB text of Jonah]]
-  * [[:en:udb:ep:32-jon.usfm|Full UDB text of Jonah]]
-  * [[:en:bible:admin-reports:check-tags]]
+====== Notes: Jonah Admin Page (Old) ======
 
 
-==== Jonah Page Status ====
+Notes teams see this page: [[:en:bible:admin-reports:notes-team-admin:jon]]
 
-^  Draft  ^  Check  ^  Review  ^  Text  ^  Discuss  ^  Publish  ^
-|{{topic>en:bible:notes:jon?draft&nocomments}}  |{{topic>en:bible:notes:jon?check&nocomments}}  |{{topic>en:bible:notes:jon?review&nocomments}}  |{{topic>en:bible:notes:jon?text&nocomments}}  |{{topic>en:bible:notes:jon?discuss&nocomments}}  |{{topic>en:bible:notes:jon?publish&nocomments}}  |
+Reviewers see this page: [[:en:bible:admin-reports:notes-review-admin:jon]]
