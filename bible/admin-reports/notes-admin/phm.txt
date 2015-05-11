@@ -1,16 +1,6 @@
-====== Notes: Philemon Admin Page ======
-
-Reviewer - Susan Q\\
-Manager - John H\\
-Team Leader - Hank B\\
-
-~~NOCACHE~~
-
-  * [[:en:bible:admin-reports:check-tags]]
+====== Notes: Philemon Admin Page (Old) ======
 
 
-==== Philemon Page Status ====
+Notes teams see this page: [[:en:bible:admin-reports:notes-team-admin:phm]]
 
-^  Draft  ^  Check  ^  Review  ^  Text  ^  Discuss  ^  Publish  ^
-|{{pagequery>ns:en:bible:notes:phm -ns:en:bible:notes:phm:questions:comprehension "{{tag>draft"; fulltext; sort=title:asc; display={title}; natsort; showcount; hidemsg; hidejump;}} |{{pagequery>ns:en:bible:notes:phm -ns:en:bible:notes:phm:questions:comprehension "{{tag>check"; fulltext; sort=title:asc; display={title}; natsort; showcount; hidemsg; hidejump;}} |{{pagequery>ns:en:bible:notes:phm -ns:en:bible:notes:phm:questions:comprehension "{{tag>review"; fulltext; sort=title:asc; display={title}; natsort; showcount; hidemsg; hidejump;}} |{{pagequery>ns:en:bible:notes:phm -ns:en:bible:notes:phm:questions:comprehension "{{tag>text"; fulltext; sort=title:asc; display={title}; natsort; showcount; hidemsg; hidejump;}} |{{pagequery>ns:en:bible:notes:phm -ns:en:bible:notes:phm:questions:comprehension "{{tag>discuss"; fulltext; sort=title:asc; display={title}; natsort; showcount; hidemsg; hidejump;}} |{{pagequery>ns:en:bible:notes:phm -ns:en:bible:notes:phm:questions:comprehension "{{tag>publish"; fulltext; sort=title:asc; display={title}; natsort; showcount; hidemsg; hidejump;}} |
-
+Reviewers see this page: [[:en:bible:admin-reports:notes-review-admin:phm]]
