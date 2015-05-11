@@ -1,16 +1,6 @@
-====== Notes: Colossians Admin Page ======
-
-Reviewer - Edward Q\\
-Manager - Catherine N\\
-Team Leader - Jim F
-
-~~NOCACHE~~
-
-  * [[:en:bible:admin-reports:check-tags]]
+====== Notes: Colossians Admin Page (Old) ======
 
 
-==== Colossians Pages Status ====
+Notes teams see this page: [[:en:bible:admin-reports:notes-team-admin:col]]
 
-^  Draft  ^  Check  ^  Review  ^  Text  ^  Discuss  ^  Publish  ^
-|{{pagequery>ns:en:bible:notes:col -ns:en:bible:notes:col:questions:comprehension "{{tag>draft"; fulltext; sort=title:asc; display={title}; natsort; showcount; hidemsg; hidejump;}} |{{pagequery>ns:en:bible:notes:col -ns:en:bible:notes:col:questions:comprehension "{{tag>check"; fulltext; sort=title:asc; display={title}; natsort; showcount; hidemsg; hidejump;}} |{{pagequery>ns:en:bible:notes:col -ns:en:bible:notes:col:questions:comprehension "{{tag>review"; fulltext; sort=title:asc; display={title}; natsort; showcount; hidemsg; hidejump;}} |{{pagequery>ns:en:bible:notes:col -ns:en:bible:notes:col:questions:comprehension "{{tag>text"; fulltext; sort=title:asc; display={title}; natsort; showcount; hidemsg; hidejump;}} |{{pagequery>ns:en:bible:notes:col -ns:en:bible:notes:col:questions:comprehension "{{tag>discuss"; fulltext; sort=title:asc; display={title}; natsort; showcount; hidemsg; hidejump;}} |{{pagequery>ns:en:bible:notes:col -ns:en:bible:notes:col:questions:comprehension "{{tag>publish"; fulltext; sort=title:asc; display={title}; natsort; showcount; hidemsg; hidejump;}} |
-
+Reviewers see this page: [[:en:bible:admin-reports:notes-review-admin:col]]
