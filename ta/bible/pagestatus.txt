@@ -1,6 +1,8 @@
 ===== Bible Book Page Status =====
 
-<nspages en:bible:admin-reports:notes-admin -title -naturalOrder -exclude:home -textPages="Links to Admin Reports of Books:" -nbCol=2>
+<nspages en:bible:admin-reports:notes-team-admin -title -naturalOrder -exclude:home -textPages="Links to Admin Team Reports of Books:" -nbCol=2>
+
+<nspages en:bible:admin-reports:notes-review-admin -title -naturalOrder -exclude:home -textPages="Links to Admin Review Reports of Books:" -nbCol=2>
 
 <nspages en:bible:admin-reports:obe-admin -title -naturalOrder -exclude:home -textPages="Links to Admin Reports of Key Terms:" -nbCol=2>
 
