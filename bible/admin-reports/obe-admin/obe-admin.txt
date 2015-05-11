@@ -34,6 +34,6 @@ These pages need links, page creation, page update, etc.
 
 These Notes or OBE pages are published, but also have the "ktlink" tag. They need immediate attention to correct issues with the terms. This can be as simple as cross-links on an OBE page, or as complex as a reviewer requesting significant changes to a term.
 
-{{topic>publish +ktlink -review&tags&sort&nocomments}}
+{{topic>publish +ktlink -review - discuss&tags&sort&nocomments}}
 
 \\
