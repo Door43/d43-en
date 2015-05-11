@@ -22,22 +22,25 @@
 
 === Acts ===
 
-  * [[:en:bible:admin-reports:notes-admin:act|Notes: Acts Admin Page]]
   * [[:en:bible:admin-reports:assignment:act|Assignment Page - Acts]]
+  * [[:en:bible:admin-reports:notes-team-admin:act]]
+  * [[:en:bible:admin-reports:notes-review-admin:act]]
   * [[:en:bible:admin-reports:questions-comprehension:act|Comprehension Questions: Acts Admin]]
   * [[:en:bible:notes:act:01:01|Acts 01:1-3]]
 {{count>draft review text discuss publish&en:bible:notes:act}}
 
 === Colossians ===
 
-  * [[:en:bible:admin-reports:notes-admin:col|Notes: Colossians Admin Page]]
+  * [[:en:bible:admin-reports:notes-team-admin:col]]
+  * [[:en:bible:admin-reports:notes-review-admin:col]]
   * [[:en:bible:admin-reports:questions-comprehension:col|Comprehension Questions: Colossians Admin]]
   * [[:en:bible:notes:col:01:01|Colossians 01:1-3]]
 {{count>draft check review text discuss publish&en:bible:notes:col}}
 
 === 2 Thessalonians ===
 
-  * [[:en:bible:admin-reports:notes-admin:2th|Notes: 2 Thessalonians Admin Page]]
+  * [[:en:bible:admin-reports:notes-team-admin:2th]]
+  * [[:en:bible:admin-reports:notes-review-admin:2th]]
   * [[:en:bible:admin-reports:questions-comprehension:1th|Comprehension Questions: 1,2 Thessalonians Admin]]
   * [[:en:bible:notes:2th:01:01|2 Thessalonians 01:1-2]]
 {{count>draft check review text discuss publish&en:bible:notes:2th}}
@@ -47,15 +50,17 @@
 
 === Genesis ===
 
-  * [[:en:bible:admin-reports:notes-admin:gen|Notes: Genesis Admin Page]]
   * [[:en:bible:admin-reports:assignment:gen|Assignment Page - Genesis]]
+  * [[:en:bible:admin-reports:notes-team-admin:gen]]
+  * [[:en:bible:admin-reports:notes-review-admin:gen]]
   * [[:en:bible:admin-reports:questions-comprehension:gen|Comprehension Questions: Genesis Admin]]
   * [[:en:bible:notes:gen:01:01|Genesis 01:1-2]]
 {{count>draft review text discuss publish&en:bible:notes:gen}}
 
 === Philemon ===
 
-  * [[:en:bible:admin-reports:notes-admin:phm|Notes: Philemon Admin Page]]
+  * [[:en:bible:admin-reports:notes-review-admin:phm]]
+  * [[:en:bible:admin-reports:notes-review-admin:phm]]
   * [[:en:bible:admin-reports:questions-comprehension:phm|Comprehension Questions: Philemon Admin]]
   * [[:en:bible:notes:phm:01:01|Philemon 01:1-3]]
 {{count>draft check review text discuss publish&en:bible:notes:phm}}
@@ -65,28 +70,32 @@
 
 === Jonah ===
 
-  * [[:en:bible:admin-reports:notes-admin:jon|Notes: Jonah Admin Page]]
+  * [[:en:bible:admin-reports:notes-team-admin:jon]]
+  * [[:en:bible:admin-reports:notes-review-admin:jon]]
   * [[:en:bible:admin-reports:questions-comprehension:jon|Comprehension Questions: Jonah Admin]]
   * [[:en:bible:notes:jon:01:01|Jonah 01:1-3]]
 {{count>draft check review text discuss publish&en:bible:notes:jon}}
 
 === 1 John ===
 
-  * [[:en:bible:admin-reports:notes-admin:1jn|Notes: 1 John Admin Page]]
+  * [[:en:bible:admin-reports:notes-team-admin:1jn]]
+  * [[:en:bible:admin-reports:notes-review-admin:1jn]]
   * [[:en:bible:admin-reports:questions-comprehension:1jn|Comprehension Questions: 1,2,3 John Admin]]
   * [[:en:bible:notes:1jn:01:01|1 John 01:1-2]]
 {{count>draft check review text discuss publish&en:bible:notes:1jn}}
 
 === Philippians ===
 
-  * [[:en:bible:admin-reports:notes-admin:php|Notes: Philippians Admin Page]]
+  * [[:en:bible:admin-reports:notes-team-admin:php]]
+  * [[:en:bible:admin-reports:notes-review-admin:php]]
   * [[:en:bible:admin-reports:questions-comprehension:php|Comprehension Questions: Philippians Admin]]
   * [[:en:bible:notes:php:01:01|Philippians 01:1-2]]
 {{count>draft check review text discuss publish&en:bible:notes:php}}
 
 === James ===
 
-  * [[:en:bible:admin-reports:notes-admin:jas|Notes: James Admin Page]]
+  * [[:en:bible:admin-reports:notes-team-admin:jas]]
+  * [[:en:bible:admin-reports:notes-review-admin:jas]]
   * [[:en:bible:admin-reports:questions-comprehension:jas|Comprehension Questions: James Admin]]
   * [[:en:bible:notes:jas:01:01|James 01:1-3]]
 {{count>draft check review text discuss publish&en:bible:notes:jas}}
@@ -96,7 +105,8 @@
 
 === Matthew ===
 
-  * [[:en:bible:admin-reports:notes-admin:mat|Notes: Matthew Admin Page]]
+  * [[:en:bible:admin-reports:notes-team-admin:mat]]
+  * [[:en:bible:admin-reports:notes-review-admin:mat]]
   * [[:en:bible:admin-reports:questions-comprehension:mat|Comprehension Questions: Matthew Admin]]
   * [[:en:bible:notes:mat:01:01|Matthew 01:1-3]]
 {{count>draft check review text discuss publish&en:bible:notes:mat}}
@@ -106,28 +116,32 @@
 
 === Mark ===
 
-  * [[:en:bible:admin-reports:notes-admin:mrk|Notes: Mark Admin Page]]
+  * [[:en:bible:admin-reports:notes-team-admin:mrk]]
+  * [[:en:bible:admin-reports:notes-review-admin:mrk]]
   * [[:en:bible:admin-reports:questions-comprehension:mrk|Comprehension Questions: Mark Admin]]
   * [[:en:bible:notes:mrk:01:01|Mark 01:1-3]]
 {{count>draft check review text discuss publish&en:bible:notes:mrk}}
 
 === 2 John ===
 
-  * [[:en:bible:admin-reports:notes-admin:2jn|Notes: 2 John Admin Page]]
+  * [[:en:bible:admin-reports:notes-team-admin:2jn]]
+  * [[:en:bible:admin-reports:notes-review-admin:2jn]]
   * [[:en:bible:admin-reports:questions-comprehension:1jn|Comprehension Questions: 1,2,3 John Admin]]
   * [[:en:bible:notes:2jn:01:01|2 John 01:1-3]]
 {{count>draft check review text discuss publish&en:bible:notes:2jn}}
 
 === 3 John ===
 
-  * [[:en:bible:admin-reports:notes-admin:3jn|Notes: 3 John Admin Page]]
+  * [[:en:bible:admin-reports:notes-team-admin:3jn]]
+  * [[:en:bible:admin-reports:notes-review-admin:3jn]]
   * [[:en:bible:admin-reports:questions-comprehension:1jn|Comprehension Questions: 1,2,3 John Admin]]
   * [[:en:bible:notes:3jn:01:01|3 John 01:1-4]]
 {{count>draft check review text discuss publish&en:bible:notes:3jn}}
 
 === 1 Thessalonians ===
 
-  * [[:en:bible:admin-reports:notes-admin:1th|Notes: 1 Thessalonians Admin Page]]
+  * [[:en:bible:admin-reports:notes-review-admin:1th]]
+  * [[:en:bible:admin-reports:notes-review-admin:1th]]
   * [[:en:bible:admin-reports:questions-comprehension:1th|Comprehension Questions: 1,2 Thessalonians Admin]]
   * [[:en:bible:notes:1th:01:01|1 Thessalonians 01:1]]
 {{count>draft check review text discuss publish&en:bible:notes:1th}}
