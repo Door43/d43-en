@@ -1,17 +1,6 @@
 ====== Notes: Acts Admin Page ======
 
-Reviewer - Edward Q\\
-Manager - Catherine N\\
-Team Lead - Mark A\\
 
-~~NOCACHE~~
+Notes teams see this page: [[:en:bible:admin-reports:notes-team-admin:act]]
 
-  * [[:en:bible:admin-reports:check-tags|Check Tags]]
-
-==== Acts Pages Status ====
-
-^  Draft  ^  Check  ^  Review  ^  Text  ^  Discuss  ^  Publish  ^
-|{{topic>en:bible:notes:act?draft&nocomments}}  |{{topic>en:bible:notes:act?check&nocomments}}  |{{topic>en:bible:notes:act?review&nocomments}}  |{{topic>en:bible:notes:act?text&nocomments}}  |{{topic>en:bible:notes:act?discuss&nocomments}}  |{{topic>en:bible:notes:act?publish&nocomments}}  |
-
-
-\\
+Reviewers see this page: [[:en:bible:admin-reports:notes-review-admin:act]]
