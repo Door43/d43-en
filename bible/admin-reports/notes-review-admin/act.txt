@@ -2,15 +2,15 @@
 
 Team Lead - Mark A\\
 Manager - Cahterine N\\
-Reviewer - Ed Q\\
+Reviewer - Ed Q
 
 ~~NOCACHE~~
 
-  * [[:en:bible:admin-reports:check-tags]]
-
+  * [[:en:bible:admin-reports:check-tags|Check Tags]]
 
 ==== Acts Pages Status ====
 
-^  Review  ^  Text  ^  Discuss  ^  Publish  ^
-|{{topic>en:bible:notes:act?review&nocomments}}  |{{topic>en:bible:notes:act?text&nocomments}}  |{{topic>en:bible:notes:act?discuss&nocomments}}  |{{topic>en:bible:notes:act?publish&nocomments}}  |
+^  Review  ^  Text  ^  Discuss  ^  Publish  |
+|{{topic>en:bible:notes:act?review&nocomments}} |{{topic>en:bible:notes:act?text&nocomments}} |{{topic>en:bible:notes:act?discuss&nocomments}} |{{topic>en:bible:notes:act?publish&nocomments}} |
 
+\\
