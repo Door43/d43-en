@@ -12,5 +12,4 @@ Reviewer - Henry W\\
 ==== Mark Pages Status ====
 
 ^  Review  ^  Text  ^  Discuss  ^  Publish  ^
-|{{topic>en:bible:notes:mrk?review&nocomments}}  |{{topic>en:bible:notes:mrk?text&nocomments}}  |{{topic>en:bible:notes:mrk?discuss&nocomments}}  |{{topic>en:bible:notes:mrk?publish&nocomments}}  |
-
+|{{topic>en:bible:notes:mrk?review&nocomments&simplelist}}  |{{topic>en:bible:notes:mrk?text&nocomments&simplelist}}  |{{topic>en:bible:notes:mrk?discuss&nocomments&simplelist}}  |{{topic>en:bible:notes:mrk?publish&nocomments&simplelist}}  |
