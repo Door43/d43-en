@@ -12,5 +12,4 @@ Reviewer - John A\\
 ==== Philippians Pages Status ====
 
 ^  Review  ^  Text  ^  Discuss  ^  Publish  ^
-|{{topic>en:bible:notes:php?review&nocomments}}  |{{topic>en:bible:notes:php?text&nocomments}}  |{{topic>en:bible:notes:php?discuss&nocomments}}  |{{topic>en:bible:notes:php?publish&nocomments}}  |
-
+|{{topic>en:bible:notes:php?review&nocomments&simplelist}}  |{{topic>en:bible:notes:php?text&nocomments&simplelist}}  |{{topic>en:bible:notes:php?discuss&nocomments&simplelist}}  |{{topic>en:bible:notes:php?publish&nocomments&simplelist}}  |
