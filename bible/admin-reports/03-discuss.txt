@@ -2,17 +2,19 @@
 
 ~~NOCACHE~~
 
-  * [[:en:bible:admin-reports:check-tags]]
+  * [[:en:bible:admin-reports:check-tags|Check Tags]]
 
 Discuss pages in OBE:
+
 {{count>discuss&en:obe}}
 
 Discuss pages in Bible:
-{{count>discuss&en:bible:notes}}
 
+{{count>discuss&en:bible:notes}}
 
 ==== Location ====
 
-^  OBE  ^  Notes  ^
-|{{topic>en:obe?discuss&nocomments}}  |{{topic>en:bible:notes?discuss&nocomments}}  |
+^  OBE  ^  Notes  |
+|{{topic>en:obe?discuss&nocomments}} |{{topic>en:bible:notes?discuss&nocomments}} |
 
+\\
