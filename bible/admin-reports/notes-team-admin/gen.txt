@@ -10,6 +10,5 @@ Reviewer - Susan Q\\
 ==== Genesis Pages Status ====
 
 ^  Draft  ^  Check  ^  Review  ^
-|{{topic>en:bible:notes:gen?draft&nocomments}}  |{{topic>en:bible:notes:gen?check&nocomments}}  |{{topic>en:bible:notes:gen?review&nocomments}}  |
-
+|{{topic>en:bible:notes:gen?draft&nocomments&simplelist}}  |{{topic>en:bible:notes:gen?check&nocomments&simplelist}}  |{{topic>en:bible:notes:gen?review&nocomments&simplelist}}  |
 
