@@ -22,7 +22,7 @@ To search for all the links tied to the term to be deleted. The Namespace by sta
 
 ==== Find all pages where the OBE term is listed as a tag ====
 
-{{topic>peoplegroup&nocomments}}
+{{topic>XXX&nocomments}}
 
 ==== Find all pages that have links to this term ====
 
@@ -31,11 +31,11 @@ To search for all the links tied to the term to be deleted. The Namespace by sta
 
 OBE KT's: {{pagequery> "en:obe:kt:XXX"; fulltext; sort=title:asc; display={title}; layout=table; showcount; hidestart; natsort; bullet=square}}
 
-OBE Other: {{pagequery> "en:obe:other:peoplegroup"; fulltext; sort=title:asc; display={title}; layout=table; showcount; hidestart; natsort; bullet=square}}
+OBE Other: {{pagequery> "en:obe:other:XXX"; fulltext; sort=title:asc; display={title}; layout=table; showcount; hidestart; natsort; bullet=square}}
 
 ==== Find the key term page ====
 
   * OBE KT: [[:en:obe:kt:XXX|XXX]]
-  * OBE Other: [[:en:obe:other:peoplegroup|peoplegroup]]
+  * OBE Other: [[:en:obe:other:XXX|XXX]]
 
 \\
