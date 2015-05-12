@@ -7,4 +7,4 @@
 
 ==== All terms from both lists: ====
 
-{{pagequery>ns:en:obe; fulltext; sort=title:asc; display={name} - {title}; natsort; showcount; hidemsg; hidejump; layout=column}}
+{{pagequery>ns:en:obe; fulltext; sort=title:asc; display={name} -{title}; natsort; showcount; hidemsg; hidejump; layout=column}}
