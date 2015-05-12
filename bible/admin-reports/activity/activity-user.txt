@@ -7,7 +7,7 @@ This page can be used to check the activity of a particular user for any time pe
 The code looks like this:
 
 <code>
-{{changes>user=lizzcartlton&count=15&render=pagelist(header,date,user,nocomments)&maxage=864000}}
+{{changes>user=USER&count=15&render=pagelist(header,date,user,nocomments)&maxage=864000}}
 </code>
 
 ==== Variables: ====
