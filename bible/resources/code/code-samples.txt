@@ -19,7 +19,7 @@ Code to display the activity of a user:
 Display pages with in namespace with specific tag:
 
 <code>
-{{topic>en:bible:notes:luk?draft&nocomments}}
+{{topic>en:bible:notes:luk?draft&nocomments&simplelist}}
 </code>
 
 Search ns for pages with or without text string:
