@@ -1,0 +1,36 @@
+====== Apostrophe ======
+
+
+===== Description =====
+
+In apostrophe, a speaker turns his attention from the people he is speaking to and makes an exclamation to someone who is not there with them.
+
+
+===== Template =====
+
+Notes should follow this format:
+
+  * **phrase from ULB** - 
+
+===== Bible Examples =====
+
+=== Ref:ch:vv ===
+
+"ULB text of the verse for which the note is created."
+
+  * **phrase from ULB** - sample note
+
+=== Ref:ch:vv ===
+
+"ULB text of the verse for which the note is created."
+
+  * **phrase from ULB** - sample note
+
+=== Ref:ch:vv ===
+
+"ULB text of the verse for which the note is created."
+
+  * **phrase from ULB** - sample note
+
+
+{{tag>draft}}
