@@ -2,35 +2,19 @@
 
 ===== TFT: =====
 
-<usfm>
-\v 1 \add I\add*, Paul, and Timothy, \add who is with me, are\add* men who serve Christ Jesus. I \add am writing this letter\add* to all \add of you who are\add* pastors and deacons in Philippi \add city\add* and to the rest of God's people \add there who have a close relationship\add* with Christ Jesus.
-\v 2 \add We both\add* (OR\add , I\add*) \add pray that\add* God, \add who is\add* our Father, and Jesus Christ, \add who is our\add* Lord, \add will continue to\add* act kindly toward you and \add will continue to\add* cause you to have \add inner\add* peace.
+<usfm> \v 1 \add I\add*, Paul, and Timothy, \add who is with me, are\add* men who serve Christ Jesus. I \add am writing this letter\add* to all \add of you who are\add* pastors and deacons in Philippi \add city\add* and to the rest of God's people \add there who have a close relationship\add* with Christ Jesus. \v 2 \add We both\add* (OR\add , I\add*) \add pray that\add* God, \add who is\add* our Father, and Jesus Christ, \add who is our\add* Lord, \add will continue to\add* act kindly toward you and \add will continue to\add* cause you to have \add inner\add* peace.
 
-
-\p
-</usfm>
+\p </usfm>
 
 ===== UDB: =====
 
-<usfm>
-\v 1 Dear fellow believers in the city of Philippi, this is Paul and Timothy, who are serving Christ Jesus. We are writing this letter to all of you in Philippi whom God has set apart for himself and has joined to Christ Jesus. We are also writing especially to the overseers and deacons there.
-\v 2 We pray that God our Father and Jesus Christ our Lord will be kind to you and give you peace.
+<usfm> \v 1 Dear fellow believers in the city of Philippi, this is Paul and Timothy, who are serving Christ Jesus. We are writing this letter to all of you in Philippi whom God has set apart for himself and has joined to Christ Jesus. We are also writing especially to the overseers and deacons there. \v 2 We pray that God our Father and Jesus Christ our Lord will be kind to you and give you peace.
 
-
-
-
-\p
-</usfm>
+\p </usfm>
 
 ===== ULB: =====
 
-<usfm>
-\c 1
-\p
-\v 1 Paul and Timothy, servants of Christ Jesus, to all the ones set apart in Christ Jesus who are at Philippi, with the overseers and deacons.
-\v 2 Grace to you and peace from God our Father and the Lord Jesus Christ.
-\b
-</usfm>
+<usfm> \c 1 \p \v 1 Paul and Timothy, servants of Christ Jesus, to all the ones set apart in Christ Jesus who are at Philippi, with the overseers and deacons. \v 2 Grace to you and peace from God our Father and the Lord Jesus Christ. \b </usfm>
 
 ===== Important Terms: =====
 
@@ -46,17 +30,16 @@
   * [[:en:obe:other:peace|peace]]
   * [[:en:obe:kt:godthefather|God our Father]]
   * [[:en:obe:kt:lord|Lord Jesus Christ]]
+
 ===== Translation Notes: =====
 
   * **Paul and Timothy **- "From Paul and Timothy." Your language may have a particular way of introducing the authors of a letter. This could be translated as "We, Paul and Timothy, wrote this letter."
-  * **servants of Christ Jesus**  - The phrase “We are” is implied. (See: [[:en:ta:translate:implicitexplicit]]) You could make it clearer with a new sentence: “We are servants of Jesus Christ.”
-  * **to all the ones** - "to all the believers"
+  * **servants of Christ Jesus**  - The phrase “We are” is implied. (See: [[:en:ta:translate:implicitexplicit|Explicit and Implicit Information]]) You could make it clearer with a new sentence: “We are servants of Jesus Christ.”
+  * **to all the ones**  - "to all the believers"
   * **the overseers and deacons**  - "the leaders of the church"
-  * **Grace to you** - The pronoun “you” refers to the believers in the Philippian Church. (See: [[:en:ta:translate:pluralpronouns]])
-  * **from God our Father** - The pronoun "our" probably refers to all believers in Christ, including Paul and Timothy. (See: [[:en:ta:translate:inclusive]])
-
+  * **Grace to you**  - The pronoun “you” refers to the believers in the Philippian Church. (See: [[:en:ta:translate:pluralpronouns|English Plural Pronouns]])
+  * **from God our Father**  - The pronoun "our" probably refers to all believers in Christ, including Paul and Timothy. (See: [[:en:ta:translate:inclusive|Inclusive]])
 ===== Links: =====
-
 
   * **[[:en:bible:notes:php:questions:comprehension:01|Philippians Chapter 01 Comprehension Questions]]**
 **[[:en:bible:notes:php:01:03|>>]]**
