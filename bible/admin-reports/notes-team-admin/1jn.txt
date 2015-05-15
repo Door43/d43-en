@@ -9,6 +9,6 @@ Reviewer - John A
 ==== 1 John Pages Status ====
 
 ^  Draft  ^  Check  ^  Review  |
-|{{topic>en:bible:notes:1jn?draft&nocomments&simplelist}} |{{topic>en:bible:notes:1jn?check&nocomments&simplelist}} |{{topic>en:bible:notes:1jn?review&nocomments&simplelist}} |
+|{{topic>en:bible:notes:1jn?draft -cq&nocomments&simplelist}} |{{topic>en:bible:notes:1jn?check -cq&nocomments&simplelist}} |{{topic>en:bible:notes:1jn?review -cq&nocomments&simplelist}} |
 
 \\
