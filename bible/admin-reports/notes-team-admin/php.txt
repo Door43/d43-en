@@ -9,5 +9,4 @@ Reviewer - John A
 ==== Philippians Pages Status ====
 
 ^  Draft  ^  Check  ^  Review  ^
-|{{topic>en:bible:notes:php?draft&nocomments&simplelist}}  |{{topic>en:bible:notes:php?check&nocomments&simplelist}}  |{{topic>en:bible:notes:php?review&nocomments&simplelist}}  |
-
+|{{topic>en:bible:notes:php?draft -cq&nocomments&simplelist}}  |{{topic>en:bible:notes:php?check -cq&nocomments&simplelist}}  |{{topic>en:bible:notes:php?review -cq&nocomments&simplelist}}  |
