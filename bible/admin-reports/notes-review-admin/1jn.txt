@@ -12,4 +12,4 @@ Reviewer - John A\\
 ==== 1 John Pages Status ====
 
 ^  Review  ^  Text  ^  Discuss  ^  Publish  ^
-|{{topic>en:bible:notes:1jn?review&nocomments&simplelist}}  |{{topic>en:bible:notes:1jn?text&nocomments&simplelist}}  |{{topic>en:bible:notes:1jn?discuss&nocomments&simplelist}}  |{{topic>en:bible:notes:1jn?publish&nocomments&simplelist}}  |
+|{{topic>en:bible:notes:1jn?review -cq&nocomments&simplelist}}  |{{topic>en:bible:notes:1jn?text -cq&nocomments&simplelist}}  |{{topic>en:bible:notes:1jn?discuss -cq&nocomments&simplelist}}  |{{topic>en:bible:notes:1jn?publish -cq&nocomments&simplelist}}  |
