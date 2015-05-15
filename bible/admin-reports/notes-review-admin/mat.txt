@@ -12,4 +12,5 @@ Reviewer - Henry W\\
 ==== Matthew Pages Status ====
 
 ^  Review  ^  Text  ^  Discuss  ^  Publish  ^
-|{{topic>en:bible:notes:mat?review&nocomments&simplelist}}  |{{topic>en:bible:notes:mat?text&nocomments&simplelist}}  |{{topic>en:bible:notes:mat?discuss&nocomments&simplelist}}  |{{topic>en:bible:notes:mat?publish&nocomments&simplelist}}  |
+|{{topic>en:bible:notes:mat?review -cq&nocomments&simplelist}}  |{{topic>en:bible:notes:mat?text -cq&nocomments&simplelist}}  |{{topic>en:bible:notes:mat?discuss -cq&nocomments&simplelist}}  |{{topic>en:bible:notes:mat?publish -cq&nocomments&simplelist}}  |
+
