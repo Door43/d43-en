@@ -9,5 +9,4 @@ Reviewer - John A
 ==== James Pages Status ====
 
 ^  Draft  ^  Check  ^  Review  ^
-|{{topic>en:bible:notes:jas?draft&nocomments&simplelist}}  |{{topic>en:bible:notes:jas?check&nocomments&simplelist}}  |{{topic>en:bible:notes:jas?review&nocomments&simplelist}}  |
-
+|{{topic>en:bible:notes:jas?draft -cq&nocomments&simplelist}}  |{{topic>en:bible:notes:jas?check -cq&nocomments&simplelist}}  |{{topic>en:bible:notes:jas?review -cq&nocomments&simplelist}}  |
