@@ -22,6 +22,12 @@ Display pages with in namespace with specific tag:
 {{topic>en:bible:notes:luk?draft&nocomments&simplelist}}
 </code>
 
+Display pages with in namespace with specific tag, but without another tag:
+
+<code>
+{{topic>en:bible:notes:luk?draft -cq&nocomments&simplelist}}
+</code>
+
 Search ns for pages with or without text string:
 
 <code>
