@@ -12,4 +12,5 @@ Reviewer - Ed Q\\
 ==== Colossians Pages Status ====
 
 ^  Review  ^  Text  ^  Discuss  ^  Publish  ^
-|{{topic>en:bible:notes:col?review&nocomments&simplelist}}  |{{topic>en:bible:notes:col?text&nocomments&simplelist}}  |{{topic>en:bible:notes:col?discuss&nocomments&simplelist}}  |{{topic>en:bible:notes:col?publish&nocomments&simplelist}}  |
+|{{topic>en:bible:notes:col?review -cq&nocomments&simplelist}}  |{{topic>en:bible:notes:col?text -cq&nocomments&simplelist}}  |{{topic>en:bible:notes:col?discuss -cq&nocomments&simplelist}}  |{{topic>en:bible:notes:col?publish -cq&nocomments&simplelist}}  |
+
