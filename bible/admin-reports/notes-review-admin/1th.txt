@@ -12,4 +12,5 @@ Reviewer - \\
 ==== 1 Thessalonians Pages Status ====
 
 ^  Review  ^  Text  ^  Discuss  ^  Publish  ^
-|{{topic>en:bible:notes:1th?review&nocomments&simplelist}}  |{{topic>en:bible:notes:1th?text&nocomments&simplelist}}  |{{topic>en:bible:notes:1th?discuss&nocomments&simplelist}}  |{{topic>en:bible:notes:1th?publish&nocomments&simplelist}}  |
+|{{topic>en:bible:notes:1th?review -cq&nocomments&simplelist}}  |{{topic>en:bible:notes:1th?text -cq&nocomments&simplelist}}  |{{topic>en:bible:notes:1th?discuss -cq&nocomments&simplelist}}  |{{topic>en:bible:notes:1th?publish -cq&nocomments&simplelist}}  |
+
