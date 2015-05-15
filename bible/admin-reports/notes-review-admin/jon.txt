@@ -12,4 +12,4 @@ Reviewer - Susan Q\\
 ==== Jonah Pages Status ====
 
 ^  Review  ^  Text  ^  Discuss  ^  Publish  ^
-|{{topic>en:bible:notes:jon?review&nocomments&simplelist}}  |{{topic>en:bible:notes:jon?text&nocomments&simplelist}}  |{{topic>en:bible:notes:jon?discuss&nocomments&simplelist}}  |{{topic>en:bible:notes:jon?publish&nocomments&simplelist}}  |
+|{{topic>en:bible:notes:jon?review -cq&nocomments&simplelist}}  |{{topic>en:bible:notes:jon?text -cq&nocomments&simplelist}}  |{{topic>en:bible:notes:jon?discuss -cq&nocomments&simplelist}}  |{{topic>en:bible:notes:jon?publish -cq&nocomments&simplelist}}  |
