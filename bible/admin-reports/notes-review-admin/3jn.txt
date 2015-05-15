@@ -12,4 +12,5 @@ Reviewer - \\
 ==== 3 John Pages Status ====
 
 ^  Review  ^  Text  ^  Discuss  ^  Publish  ^
-|{{topic>en:bible:notes:3jn?review&nocomments&simplelist}}  |{{topic>en:bible:notes:3jn?text&nocomments&simplelist}}  |{{topic>en:bible:notes:3jn?discuss&nocomments&simplelist}}  |{{topic>en:bible:notes:3jn?publish&nocomments&simplelist}}  |
+|{{topic>en:bible:notes:3jn?review -cq&nocomments&simplelist}}  |{{topic>en:bible:notes:3jn?text -cq&nocomments&simplelist}}  |{{topic>en:bible:notes:3jn?discuss -cq&nocomments&simplelist}}  |{{topic>en:bible:notes:3jn?publish -cq&nocomments&simplelist}}  |
+
