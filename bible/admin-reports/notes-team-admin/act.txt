@@ -10,5 +10,4 @@ Reviewer - Ed Q\\
 ==== Acts Pages Status ====
 
 ^  Draft  ^  Check  ^  Review  ^
-|{{topic>en:bible:notes:act?draft&nocomments&simplelist}}  |{{topic>en:bible:notes:act?check&nocomments&simplelist}}  |{{topic>en:bible:notes:act?review&nocomments&simplelist}}  |
-
+|{{topic>en:bible:notes:act?draft -cq&nocomments&simplelist}}  |{{topic>en:bible:notes:act?check -cq&nocomments&simplelist}}  |{{topic>en:bible:notes:act?review -cq&nocomments&simplelist}}  |
