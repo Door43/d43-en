@@ -30,11 +30,11 @@ Notes should follow this format:
 
   * **Abram was**  - This introduces background information about Abram's age when these things happened. Your language may have a special way to mark background information. (See: [[:en:ta:translate:writingstyles]])
 
-=== Ref:ch:vv ===
+=== Luk:03:23 ===
 
-"ULB text of the verse for which the note is created."
+"Now Jesus himself, when he began to teach, was about thirty years of age. He was the son (as was supposed) of Joseph, the son of Heli, "
 
-  * **phrase from ULB**  - sample note
+  * **Jesus himself**  - "this Jesus" or "this person Jesus." This is immediately followed by background information about Jesus. If your language has a way of showing that what follows is background information, you should use it here. (See: [[:en:ta:translate:writingstyles|Writing Styles - Background Information]])
 
 
 {{tag>draft}}
