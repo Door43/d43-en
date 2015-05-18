@@ -50,10 +50,10 @@ Open Door43 page in edit mode:
 ?do=edit&rev=0
 </code>
 
-item:
+Find missing text portions:
 
 <code>
-
+{{pagequery>ns:en:bible:notes "Important Terms" -"===== Important Terms: ====="; fulltext; sort=title:asc; display={title}; natsort; layout=table; showcount; hidemsg; hidejump;}}
 </code>
 
 item:
