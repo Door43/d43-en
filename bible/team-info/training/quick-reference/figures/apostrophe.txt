@@ -2,28 +2,33 @@
 
 ===== Description =====
 
-In apostrophe, a speaker turns his attention from the people he is speaking to and makes an exclamation to someone who is not there with them.
+In apostrophe, a speaker turns his attention from the people he is speaking to and makes an exclamation to someone who is not there with them. He could even speak to an imaginary person or a thing or idea that is treated as if it were a person (See [[:en:ta:translate:personification|Personification]].)
 
 ===== Template =====
 
 Notes should follow this format:
 
   * **phrase from ULB**  -
+
 ===== Bible Examples =====
 
-=== Ref:ch:vv ===
+=== Luk:10:13 ===
 
-"ULB text of the verse for which the note is created."
+"Woe to you, Chorazin! Woe to you, Bethsaida! If the mighty works had been done in Tyre and Sidon which were done in you, they would have repented long ago, sitting in sackcloth and ashes."
 
-  * **phrase from ULB**  - sample note
-=== Ref:ch:vv ===
+    * **Woe to you Chorazin! Woe to you Bethsaida**  - Jesus speaks as if the people of the cities of Chorazin and Bethsaida were there listening to him, but they were not. (See: [[en:ta:translate:apostrophe]])
 
-"ULB text of the verse for which the note is created."
+=== Luk:13:34===
 
-  * **phrase from ULB**  - sample note
-=== Ref:ch:vv ===
+"Jerusalem, Jerusalem, who kills the prophets and stones those sent to you. How often I desired to gather your children the way a hen gathers her brood under her wings, but you did not desire this. "
 
-"ULB text of the verse for which the note is created."
+  * **Jerusalem, Jerusalem**  - Jesus speaks as if the people of Jerusalem were there listening to him. Jesus said this twice to show how sad he was for them. (See: [[:en:ta:translate:apostrophe|Apostrophe]])
 
-  * **phrase from ULB**  - sample note
-{{tag>create}}
+=== Mat:02:06  ===
+
+"And you, Bethlehem, in the land of Judah, are not the least among the leaders of Judah, for from you will come a ruler who will shepherd my people Israel."
+
+  * **you, Bethlehem, … are not the least among the leaders of Judah**  - "You who live in Bethlehem, your town is certainly very important" (UDB) or "you, Bethlehem, … are one of the most important cities." (See: [[:en:ta:translate:apostrophe|Apostrophe]])
+
+
+{{tag>draft}}
