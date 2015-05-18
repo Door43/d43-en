@@ -3,7 +3,7 @@
 
 ===== Description =====
 
-description text
+A **doublet** states the same thought in two ways–typically, as a way to reinforce the concept. In the Bible, doublets are often used in poetry, prophecy, and sermons.
 
 
 ===== Template =====
@@ -14,23 +14,23 @@ Notes should follow this format:
 
 ===== Bible Examples =====
 
-=== Ref:ch:vv ===
+=== Gen:22:12 ===
 
-"ULB text of the verse for which the note is created."
+"He said, "Do not lay your hand upon the lad, nor do anything to harm him, for now I know that you fear God, seeing that you have not withheld your son, your only son, from me.""
 
-  * **phrase from ULB** - sample note
+  * **Do not lay your hand upon the lad, nor do anything to harm him**  - Both of these phrases mean basically the same thing: "Do not hurt the boy in any way." God made sure that Abraham would hear and understand him. (See: [[:en:ta:translate:doublet|Doublet]])
 
-=== Ref:ch:vv ===
+=== Luk:01:71 ===
 
-"ULB text of the verse for which the note is created."
+"He promised to provide for us salvation from our enemies, and from the hand of everyone who hates us."
 
-  * **phrase from ULB** - sample note
+  * **enemies..all who hate us**  - This is a doublet in which "enemies" and "all who hate us" both refer to those who are against God's people. This could be translated as "people who fight against us and want to harm us." (See: [[:en:ta:translate:doublet|Doublet]])
 
-=== Ref:ch:vv ===
+=== 2Th:01:04 ===
 
-"ULB text of the verse for which the note is created."
+"So we ourselves speak proudly about you among the churches of God concerning your patience and faith in all your persecutions and afflictions that you endure. "
 
-  * **phrase from ULB** - sample note
+  * **persecutions and afflictions**  This is an expression of saying the same thing different ways for emphasis. (See: [[:en:ta:translate:doublet|Doublet]])
 
 
-{{tag>create}}
+{{tag>draft}}
