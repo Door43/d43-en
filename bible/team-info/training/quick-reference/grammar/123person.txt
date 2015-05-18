@@ -1,16 +1,21 @@
 ====== First, Second, or Third Person ======
 
+
 ===== Description =====
 
 description text
+
 
 ===== Template =====
 
 Notes should follow this format:
 
   * **phrase from ULB**  -
+
+
 ===== Bible Examples =====
 
+
 === Ref:ch:vv ===
 
 "ULB text of the verse for which the note is created."
@@ -26,5 +31,6 @@ Notes should follow this format:
 "ULB text of the verse for which the note is created."
 
   * **phrase from ULB**  - sample note
+
 
 {{tag>create}}
