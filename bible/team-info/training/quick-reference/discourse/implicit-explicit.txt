@@ -14,23 +14,23 @@ Notes should follow this format:
 
 ===== Bible Examples =====
 
-=== Ref:ch:vv ===
+=== Act:15:19 ===
 
-"ULB text of the verse for which the note is created."
+"Therefore, my opinion is, that we should not trouble those of the Gentiles who turn to God; "
 
-  * **phrase from ULB** - sample note
+  * **we should not trouble those of the Gentiles**  - "we should not require the gentiles to become circumcised and obey the laws of Moses" (See: [[:en:ta:translate:implicitexplicit|Explicit and Implicit Information]])
 
-=== Ref:ch:vv ===
+=== Gen:16:15 ===
 
-"ULB text of the verse for which the note is created."
+"Hagar gave birth to Abram's son, and Abram named his son, whom Hagar bore, Ishmael."
 
-  * **phrase from ULB** - sample note
+  * **Hagar gave birth**  - Hagar's return to Sarai and Abram is implict. You can make this more explicit: "So Hagar went back and gave birth." (See: [[:en:ta:translate:implicitexplicit|Explicit and Implicit Information]]).
 
-=== Ref:ch:vv ===
+=== Luk:23:17 ===
 
-"ULB text of the verse for which the note is created."
+"Now Pilate was obligated to release to the Jews one prisoner at the feast. "
 
-  * **phrase from ULB** - sample note
+  * **he was obligated to release to them one prisoner**  - Pilate was required to do this by political custom. This implied information can be stated explicitly: "he was obligated by custom to release to them one prisoner." (See: [[:en:ta:translate:implicitexplicit|Explicit and Implicit Information]])
 
 
 {{tag>create}}
