@@ -18,16 +18,18 @@ Notes should follow this format:
 
 ===== Bible Examples =====
 
-=== Ref:ch:vv ===
+=== Act:08:09 ===
 
-"ULB text of the verse for which the note is created."
+"But there was a certain man in the city named Simon, who had earlier been practicing sorcery; he used to astonish the people of Samaria, while claiming that he was an important person."
 
-  * **phrase from ULB**  - sample note
-=== Ref:ch:vv ===
+  * **the city**  - "the city in Samaria." "in Samaria" is background information. (See: [[:en:ta:translate:writingstyles|Writing Styles - Background Information]])
 
-"ULB text of the verse for which the note is created."
+=== Gen:16:16 ===
 
-  * **phrase from ULB**  - sample note
+"Abram was eighty-six years old when Hagar bore Ishmael to Abram."
+
+  * **Abram was**  - This introduces background information about Abram's age when these things happened. Your language may have a special way to mark background information. (See: [[:en:ta:translate:writingstyles]])
+
 === Ref:ch:vv ===
 
 "ULB text of the verse for which the note is created."
