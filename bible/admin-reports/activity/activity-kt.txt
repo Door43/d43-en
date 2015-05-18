@@ -4,20 +4,26 @@
 
 ==== (Activity for previous 10 days) ====
 
+^  Group 1  ^  Group 2  |
+|**Jan Zanutto:**  \\ {{changes>user=jzanutto&count=12&render=pagelist(header,user,nocomments)&maxage=864000}}
+             \\  \\  **Matthew Latham:**  \\  {{changes>user=mslgtwam&count=12&render=pagelist(header,user,nocomments)&maxage=864000}}
 
-^  Group 1  ^  Group 2  ^
-|**Jan Zanutto:**\\ {{changes>user=jzanutto&count=12&render=pagelist(header,user,nocomments)&maxage=864000}}\\ **Matthew Latham:**\\ {{changes>user=mslgtwam&count=12&render=pagelist(header,user,nocomments)&maxage=864000}}\\ **Richard Joki:**\\ {{changes>user=rickjoki&count=12&render=pagelist(header,user,nocomments)&maxage=864000}} \\ **Chris Samuel:**\\ {{changes>user=child-of-jesus&count=12&render=pagelist(header,user,nocomments)&maxage=864000}} |**David Book:**\\ {{changes>user=bookman&count=12&render=pagelist(header,user,nocomments)&maxage=864000}}\\ **Drew Curley:**\\ {{changes>user=drew-curley&count=12&render=pagelist(header,user,nocomments)&maxage=864000}}\\ **Paul Holloway:**\\ {{changes>user=pwholloway&count=12&render=pagelist(header,user,nocomments)&maxage=864000}}| 
+             \\  \\ **Richard Joki:**  \\  {{changes>user=rickjoki&count=12&render=pagelist(header,user,nocomments)&maxage=864000}}
 
+             \\  \\ **Chris Samuel:**  \\  {{changes>user=child-of-jesus&count=12&render=pagelist(header,user,nocomments)&maxage=864000}}  |**David Book:**  \\ {{changes>user=bookman&count=12&render=pagelist(header,user,nocomments)&maxage=864000}}
+             \\  \\  **Drew Curley:**  \\  {{changes>user=drew-curley&count=12&render=pagelist(header,user,nocomments)&maxage=864000}}
 
+             \\  \\ **Paul Holloway:**  \\  {{changes>user=pwholloway&count=12&render=pagelist(header,user,nocomments)&maxage=864000}}  |
 
 **USER: (needs to register)**
+
  {{changes>user=USER&count=12&render=pagelist(header,date,user,nocomments)&maxage=864000}}
-
-
 
 //Note: "maxage" = seconds//
 
-  * //1 day = 86400//
+   * //1 day = 86400//
   * //7 days = 604800//
   * //10 days = 864000//
   * //12 days = 1036800//
+
+\\
