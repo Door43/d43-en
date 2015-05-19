@@ -6,6 +6,8 @@ Core topics
 
   * Basics of Translation
     * [[en:ta:translate:basics]]
+    * [[en:ta:translate:clear]]
+    * [[en:ta:translate:accurate]]
     * [[en:ta:translate:scriptures]]
     * [[en:ta:translate:translatenames]]
     * [[en:ta:translate:translateunknowns]]
@@ -14,9 +16,9 @@ Core topics
 
 Not Core topics\\
   * Translating According to the Translation Guidelines
-    * [[en:ta:translate:accurate]]
+
     * [[en:ta:translate:authoritative]]
-    * [[en:ta:translate:clear]]
+
     * [[en:ta:translate:collaborative]]
     * [[en:ta:translate:expressive]]
     * [[en:ta:translate:faithful]]
