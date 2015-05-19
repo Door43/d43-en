@@ -1,21 +1,21 @@
 {{https://api.unfoldingword.org/obs/jpg/1/checkinglevels/uW-Level1-32px.png?direct&}}
 
-//The status of development for Open Bible Stories//
+//El estado de desarrollo de las Historias Bíblicas Libres//
 
-publish date: 2015-04-08
+Fecha de publicación: 2015-04-08
 
-version: 3.2.1
+Versión: 3.2.1
 
-contributors: ljbadiola; natilatina
+Contribuidores:: ljbadiola; natilatina
 
-checking entity: translation team
+Entidad que revisa: equipo de traducción
 
-checking level: 1
+Nivel de revisión: 1
 
-source text: en
+Fuente del texto: en
 
-source text version: 3.1
+Versión de la fuente del texto: 3.1
 
-comments: Level 1 check cleared via email to Tim Jore by translation team.
+Comentarios:  Nivel 1 revisado vía correo electrónico por Tim Jore por el equipo de traducción.
 
-Progress Notes: English text removed
+Notas de progreso: Se removió el texto en inglés.
