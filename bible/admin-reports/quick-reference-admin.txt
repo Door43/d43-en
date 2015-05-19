@@ -4,23 +4,17 @@
 
 ===== Discourse: =====
 
-{{count>create draft review discuss publish&en:bible:team-info:training:quick-reference:discourse}}
-
 ^  Create  ^  Draft  ^  Review  ^  Discuss  ^  Publish  |
 |{{topic>en:bible:team-info:training:quick-reference:discourse?create&nocomments&simplelist}} |{{topic>en:bible:team-info:training:quick-reference:discourse?draft&nocomments&simplelist}} |{{topic>en:bible:team-info:training:quick-reference:discourse?review&nocomments&simplelist}} |{{topic>en:bible:team-info:training:quick-reference:discourse?discuss&nocomments&simplelist}} |{{topic>en:bible:team-info:training:quick-reference:discourse?publish&nocomments&simplelist}} |
 
 
 ===== Figures of Speech: =====
 
-{{count>create draft review discuss publish&en:bible:team-info:training:quick-reference:figures}}
-
 ^  Create  ^  Draft  ^  Review  ^  Discuss  ^  Publish  |
 |{{topic>en:bible:team-info:training:quick-reference:figures?create&nocomments&simplelist}} |{{topic>en:bible:team-info:training:quick-reference:figures?draft&nocomments&simplelist}} |{{topic>en:bible:team-info:training:quick-reference:figures?review&nocomments&simplelist}} |{{topic>en:bible:team-info:training:quick-reference:figures?discuss&nocomments&simplelist}} |{{topic>en:bible:team-info:training:quick-reference:figures?publish&nocomments&simplelist}} |
 
 
 ===== Grammar: =====
-
-{{count>create draft review discuss publish&en:bible:team-info:training:quick-reference:grammar}}
 
 ^  Create  ^  Draft  ^  Review  ^  Discuss  ^  Publish  |
 |{{topic>en:bible:team-info:training:quick-reference:grammar?create&nocomments&simplelist}} |{{topic>en:bible:team-info:training:quick-reference:grammar?draft&nocomments&simplelist}} |{{topic>en:bible:team-info:training:quick-reference:grammar?review&nocomments&simplelist}} |{{topic>en:bible:team-info:training:quick-reference:grammar?discuss&nocomments&simplelist}} |{{topic>en:bible:team-info:training:quick-reference:grammar?publish&nocomments&simplelist}} |
