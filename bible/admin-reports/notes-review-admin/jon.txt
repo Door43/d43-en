@@ -1,15 +1,16 @@
 ====== Notes: Jonah Review Admin ======
 
-Team Lead - \\
+Team Lead -\\
 Manager - John H\\
-Reviewer - Susan Q\\
+Reviewer - Susan Q
 
 ~~NOCACHE~~
 
-  * [[:en:bible:admin-reports:check-tags]]
-
+  * [[:en:bible:admin-reports:check-tags|Check Tags]]
 
 ==== Jonah Pages Status ====
 
-^  Review  ^  Text  ^  Discuss  ^  Publish  ^
-|{{topic>en:bible:notes:jon?review -cq&nocomments&simplelist}}  |{{topic>en:bible:notes:jon?text -cq&nocomments&simplelist}}  |{{topic>en:bible:notes:jon?discuss -cq&nocomments&simplelist}}  |{{topic>en:bible:notes:jon?publish -cq&nocomments&simplelist}}  |
+^  Review  ^  Text  ^  Discuss  ^  Publish  |
+|{{topic>en:bible:notes:jon?review -cq&nocomments&simplelist}} |{{topic>en:bible:notes:jon?text -cq&nocomments&simplelist}} |{{topic>en:bible:notes:jon?discuss -cq&nocomments&simplelist}} |{{topic>en:bible:notes:jon?publish -cq&nocomments&simplelist}} |
+
+\\
