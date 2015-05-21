@@ -1,12 +1,5 @@
 ====== Sample Door43 Code ======
 
-==== Transclude: ====
-
-Code to pull in content from a specific section:
-
-<code>
-{{section>:en:bible:notes:luk:01:01#important terms:&noheader}}
-</code>
 
 ==== Activity: ====
 
@@ -71,6 +64,15 @@ Open Door43 page in edit mode:
 
 <code>
 ?do=edit&rev=0
+</code>
+
+
+==== Transclude: ====
+
+Code to pull in content from a specific section:
+
+<code>
+{{section>:en:bible:notes:luk:01:01#important terms:&noheader}}
 </code>
 
 ==== Other: ====
