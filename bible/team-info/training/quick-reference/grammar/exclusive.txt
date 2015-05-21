@@ -2,28 +2,35 @@
 
 ===== Description =====
 
-description text
+Some languages have two sets of pronouns for we/us/our. The exclusive pronouns refer only to the speaker and at least one other person but not the person being spoken to. 
+
 
 ===== Template =====
 
 Notes should follow this format:
 
   * **phrase from ULB**  -
+
+
 ===== Bible Examples =====
 
-=== Ref:ch:vv ===
+=== Gen:24:05 ===
 
-"ULB text of the verse for which the note is created."
+"Abraham said to his young men, 'Stay here with the donkey, and I and the lad will go over there. We will worship and come again to you.'"
 
-  * **phrase from ULB**  - sample note
-=== Ref:ch:vv ===
+  * **We will worship** - The word "we" refers only to Abraham and Isaac. (See:[[en:ta:translate:exclusive]])
 
-"ULB text of the verse for which the note is created."
+=== Rut:01:10 ===
 
-  * **phrase from ULB**  - sample note
-=== Ref:ch:vv ===
+"And they said to her, "No, but we will return with you to your people.""
 
-"ULB text of the verse for which the note is created."
+  * **we will return**  - When Orpah and Ruth said "we", they were referring to themselves and not Naomi. So languages that have inclusive and exclusive "we" would use the exclusive form here. (See: [[en:ta:translate:exclusive]])
 
-  * **phrase from ULB**  - sample note
-{{tag>create}}
+=== Act:13:46 ===
+
+"But Paul and Barnabas spoke out boldly and said, 'It was necessary that the word of God should first be spoken to you. Seeing you push it away from yourselves and consider yourselves unworthy of eternal life, see, we will turn to the Gentiles."
+
+  * **we will turn**  "we" refers to Paul & Barnabas but not the crowd that was present. (See: [[:en:ta:translate:exclusive|Exclusive]])
+
+
+{{tag>draft}}
