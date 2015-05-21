@@ -3,7 +3,7 @@
 
 ===== Description =====
 
-description text
+Personification is giving attributes human characteristics to a non-human object (i.e. thing, idea or animal). Personification helps a writer to make something more vivid or life-like. It adds depth to writing and helps the reader 'feel' the subject matter more fully. 
 
 
 ===== Template =====
@@ -12,25 +12,26 @@ Notes should follow this format:
 
   * **phrase from ULB** - 
 
+
 ===== Bible Examples =====
 
-=== Ref:ch:vv ===
+=== Gen:01:18 ===
 
-"ULB text of the verse for which the note is created."
+"God set them (lights) in the sky to give light upon the earth, to rule over the day and over the night, and to divide the light from the darkness."
 
-  * **phrase from ULB** - sample note
+  * **to rule the day**  - This can be translated as "to direct the daytime as a ruler directs a group of people" or "to mark the times of the day" (See: [[:en:ta:translate:personification|Personification]])
 
-=== Ref:ch:vv ===
+=== Gal:03:07 ===
 
-"ULB text of the verse for which the note is created."
+"The scripture foresaw that God would justify the Gentiles by faith. "
 
-  * **phrase from ULB** - sample note
+  * **foresaw**  - "predicted" or "saw before it happened." Because God made the promise to Abraham and they wrote it down before the promise came through Christ, the scripture is like someone who knows the future before it happens. (See: [[:en:ta:translate:personification|Personification]])
 
-=== Ref:ch:vv ===
+=== Tit:02:12 ===
 
-"ULB text of the verse for which the note is created."
+"You see, the grace of God that is able to bring salvation to everyone has appeared and trains us to deny ungodliness and worldly passions and to live sensibly, righteously, and in a godly way in this age"
 
-  * **phrase from ULB** - sample note
+  * **trains us**  - This is a figure of speech that presents the grace of God as a person who trains and disciplines people to live holy lives. (See: [[:en:ta:translate:personification|Personification]])
 
 
-{{tag>create}}
+{{tag>draft}}
