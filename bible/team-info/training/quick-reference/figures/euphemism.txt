@@ -2,28 +2,35 @@
 
 ===== Description =====
 
-description text
+A euphemism is a mild or polite way of referring to something that is unpleasant, embarrassing or considered to be socially unacceptable. Its purpose is to avoid offending the people who hear or read it. 
+
 
 ===== Template =====
 
 Notes should follow this format:
 
   * **phrase from ULB**  -
+
+
 ===== Bible Examples =====
 
-=== Ref:ch:vv ===
+=== Act:05:10 ===
 
-"ULB text of the verse for which the note is created."
+"She instantly fell down at his feet, and breathed her last, and the young men came in and found her dead; they carried her out and buried her by her husband."
 
-  * **phrase from ULB**  - sample note
-=== Ref:ch:vv ===
+  * **breathed her last**  - This is a euphemism for "she died." (See: [[:en:ta:translate:euphemism|Euphemism]])
 
-"ULB text of the verse for which the note is created."
+=== Gen:04:25 ===
 
-  * **phrase from ULB**  - sample note
-=== Ref:ch:vv ===
+"Adam had marital relations with his wife again, and she bore another son. "
 
-"ULB text of the verse for which the note is created."
+  * **had marital relations**  - “had sex with.” Your language may have a way of saying this politely. Some languages say “knew” or “slept with.” (See: [[:en:ta:translate:euphemism|Euphemism]])
 
-  * **phrase from ULB**  - sample note
+=== Luk:08:43 ===
+
+"A woman was there who had been bleeding for twelve years and had spent all her money on physicians, but could not be healed by any of them."
+
+  * **had been bleeding**  - "had a flow of blood." She was probably bleeding from her womb even when it was not the normal time for it. Some cultures may have a polite way of referring to this condition. (See: [[:en:ta:translate:euphemism|Euphemism]])
+
+
 {{tag>create}}
