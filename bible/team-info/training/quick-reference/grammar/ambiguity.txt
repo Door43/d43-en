@@ -3,7 +3,7 @@
 
 ===== Description =====
 
-description text
+Ambiguity happens when a single word or phrase can have more than one meaning. 
 
 
 ===== Template =====
@@ -16,16 +16,18 @@ Notes should follow this format:
 ===== Bible Examples =====
 
 
+=== 1Jn:01:09===
+
+"But if we confess our sins, he is faithful and righteous to forgive us our sins and to cleanse us from all unrighteousness. If we say that we have not sinned, we make him a liar, and his word is not in us."
+
+  * **he…him…his**  - These pronouns are probably referring to Jesus, but they may refer to God the Father. It is best to leave the pronouns ambiguous if your language will allow it. (See: [[:en:ta:translate:ambiguity|Ambiguity]])
+
 === Ref:ch:vv ===
 
 "ULB text of the verse for which the note is created."
 
   * **phrase from ULB**  - sample note
-=== Ref:ch:vv ===
 
-"ULB text of the verse for which the note is created."
-
-  * **phrase from ULB**  - sample note
 === Ref:ch:vv ===
 
 "ULB text of the verse for which the note is created."
