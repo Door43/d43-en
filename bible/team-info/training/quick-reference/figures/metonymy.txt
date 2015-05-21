@@ -3,7 +3,7 @@
 
 ===== Description =====
 
-description text
+Metonymy is a figure of speech in which a thing or idea is called not by its own name, but by the name of something closely associated with it. A //metonym// is a word or phrase used as a substitute for something it is associated with. 
 
 
 ===== Template =====
@@ -12,25 +12,26 @@ Notes should follow this format:
 
   * **phrase from ULB** - 
 
+
 ===== Bible Examples =====
 
-=== Ref:ch:vv ===
+=== Gen:06:08 ===
 
-"ULB text of the verse for which the note is created."
+"But Noah found favor in the eyes of Yahweh."
 
-  * **phrase from ULB** - sample note
+  * **in the eyes of Yahweh**  - This is metonymy. It can be translated as "in Yahweh's sight" or "in Yahweh's thoughts" or "Yahweh looked" as in the note above this one. Though Yahweh does not have physical eyes, he sees. (See: [[:en:ta:translate:metonymy|Metonymy]])
 
-=== Ref:ch:vv ===
+=== Luk:11:17 ===
 
-"ULB text of the verse for which the note is created."
+"But Jesus knew their thoughts and said to them, "Every kingdom divided against itself is made desolate, and a house divided against itself falls."
 
-  * **phrase from ULB** - sample note
+  * **a house divided against itself falls**  - "a family whose members fight each other will be ruined" or "a family whose members fight each other will be stop being a family." The word "house" is used to refer to a family or to the people living in a house. (See: [[en:ta:translate:metonymy]])
 
-=== Ref:ch:vv ===
+=== Gal:05:02 ===
 
-"ULB text of the verse for which the note is created."
+"Look, I, Paul, say to you that if you become circumcised, Christ will not benefit you in any way."
 
-  * **phrase from ULB** - sample note
+  * **if you become circumcised**  - "if you return to the Jewish religion." Paul is using circumcision as metonymy for Judaism. (See: [[:en:ta:translate:metonymy|Metonymy]])
 
 
-{{tag>create}}
+{{tag>draft}}
