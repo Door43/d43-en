@@ -2,28 +2,35 @@
 
 ===== Description =====
 
-description text
+Plural pronouns replace plural nouns — those that name more than one person, place, thing, or idea. 
+
 
 ===== Template =====
 
 Notes should follow this format:
 
   * **phrase from ULB**  -
+
+
 ===== Bible Examples =====
 
-=== Ref:ch:vv ===
+=== Gen:11:07 ===
 
-"ULB text of the verse for which the note is created."
+"Come, let us go down and confuse their language there, so that they may not understand each other."
 
-  * **phrase from ULB**  - sample note
-=== Ref:ch:vv ===
+  * **let us go down**  - The word “us” is plural even though it refers to God. Some translate it as "let me go down" or “I will go down.” If you do this, consider adding a footnote to say that the word is plural. (See the note on "Let us make" in [[:en:bible:notes:gen:01:26|1:26]].) ([[:en:ta:translate:pluralpronouns|English Plural Pronouns]])
 
-"ULB text of the verse for which the note is created."
+=== Luk:10:11 ===
 
-  * **phrase from ULB**  - sample note
-=== Ref:ch:vv ===
+"Even the dust from your city that clings to our feet we wipe off against you!"
 
-"ULB text of the verse for which the note is created."
+    * **Even the dust from your city that clings to our feet, we wipe off against you!**  - This can be translated as "Just as you rejected us, we thoroughly reject you. We even reject the dust from your city that clings to our feet." Since Jesus was sending these people out in groups of two, it would be two people saying this. So languages that have a dual form of 'we' would use it. (See: [[en:ta:translate:pluralpronouns]])
 
-  * **phrase from ULB**  - sample note
+=== Luk:24:33 ===
+
+"They rose up that very hour, and returned to Jerusalem."
+
+    * **They rose up** - "They" refers to the two men. Languages that have a dual form of "they" should use it here. (See: [[en:ta:translate:pluralpronouns]])
+
+
 {{tag>create}}
