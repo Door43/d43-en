@@ -2,28 +2,39 @@
 
 ===== Description =====
 
-description text
+ First person is written from the speaker’s point of view. The pronoun “I” or “we” is used from the position of the speaker or writer.
+
+Second person text tells what ‘you’ have done or ought to do.
+
+Third person is told from the perspective of someone outside of the story. The pronouns “he”, “she”, “it” or “they” are used. 
+
 
 ===== Template =====
 
 Notes should follow this format:
 
   * **phrase from ULB**  -
+
+
 ===== Bible Examples =====
 
-=== Ref:ch:vv ===
+=== Luk:09:58 ===
 
-"ULB text of the verse for which the note is created."
+"Jesus said to him, 'Foxes have holes, and the birds of the sky have nests, but the Son of Man has nowhere to lay his head.'"
 
-  * **phrase from ULB**  - sample note
-=== Ref:ch:vv ===
+  * **Son of Man**  - Jesus is speaking about himself in the third person. This could be translated as "I, the Son of Man." (See: [[:en:ta:translate:123person|First, Second or Third Person]])
 
-"ULB text of the verse for which the note is created."
+=== Luk:15:04 ===
 
-  * **phrase from ULB**  - sample note
-=== Ref:ch:vv ===
+"Which one of you, if he has a hundred sheep and then loses one of them, will not leave the ninety-nine in the wilderness, and go after the lost one until he finds it?"
 
-"ULB text of the verse for which the note is created."
+  * **Which one of you, if he has a hundred sheep**  - Since the parable starts with "Which one of you", some languages would continue the parable in the second person "if you have a hundred sheep." (See: [[:en:ta:translate:123person|First, Second or Third Person]])
 
-  * **phrase from ULB**  - sample note
-{{tag>create}}
+=== Luk:17:25 ===
+
+"But first he must suffer many things and be rejected by this generation."
+
+  * **But first he must suffer**  - "But first the Son of Man must suffer." Jesus was speaking about himself in the 3rd person. (See: [[:en:ta:translate:123person|First, Second or Third Person]])
+
+
+{{tag>draft}}
