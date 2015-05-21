@@ -1,29 +1,37 @@
 ====== Verbs ======
 
+
 ===== Description =====
 
-description text
+Verbs either link the subject to a descriptive portion of the sentence or express an action or a state-of-being (e.g. am, is, are, was, were, be, being, been). Many languages use more verbs than English does. The portion of the sentence which contains the verb is called the predicate.
+
 
 ===== Template =====
 
 Notes should follow this format:
 
   * **phrase from ULB**  -
+
+
 ===== Bible Examples =====
 
+=== Luk:08:10 ===
+
+"Jesus said to them, "You have been given the privilege of understanding the mysteries of the kingdom of God, but the rest of the people will only be taught with parables, so that 'seeing they will not really see, and hearing they will not really understand.'"
+
+  * **seeing they will not really see**  - "though they see, they will not perceive." If the verbs require an object it could be translated as "though they see things, they will not understand them" or "though they see things happen, they will not understand what they mean." (See: the section about [[https://door43.org/en/ta/vocabulary/verbs#verbs-and-objects|Verbs and Objects]] on [[:en:ta:translate:verbs|Verbs]])
+
+=== Act:01:05 ===
+
+"You heard from me that John indeed baptized with water but you shall be baptized in the Holy Spirit in a few days."
+
+  * **John baptized with water**  - For languages that require an object with "baptize," this can be translated as "John baptized people with water" or "John baptized them with water." (See: [[:en:ta:translate:verbs|Verbs]])
+
 === Ref:ch:vv ===
 
 "ULB text of the verse for which the note is created."
 
   * **phrase from ULB**  - sample note
-=== Ref:ch:vv ===
 
-"ULB text of the verse for which the note is created."
 
-  * **phrase from ULB**  - sample note
-=== Ref:ch:vv ===
-
-"ULB text of the verse for which the note is created."
-
-  * **phrase from ULB**  - sample note
-{{tag>create}}
+{{tag>draft}}
