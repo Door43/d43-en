@@ -3,7 +3,7 @@
 
 ===== Description =====
 
-description text
+Some languages have more than one word for ‘you’ depending on how many people are being spoken to. If they are speaking to one person, they use the ‘singular’ form of ‘you’. If they are speaking to more than one person, they use the ‘plural’ form of ‘you.’ Some languages have a ‘dual’ form for speaking to two people and some have other forms for speaking to three or four people. 
 
 
 ===== Template =====
@@ -16,21 +16,23 @@ Notes should follow this format:
 ===== Bible Examples =====
 
 
-=== Ref:ch:vv ===
+=== Gen:18:03 ===
 
-"ULB text of the verse for which the note is created."
+"He said, "O Lord, if I have found favor in your sight, do not pass by and leave your servant."
 
-  * **phrase from ULB**  - sample note
-=== Ref:ch:vv ===
+  * **if I have found favor in your sight**  - Abraham was speaking to one of the men. The word "your" in verse 3 is singular. (See: [[:en:ta:translate:formsofyou|Forms of 'You']])
 
-"ULB text of the verse for which the note is created."
+=== Luk:24:36 ===
 
-  * **phrase from ULB**  - sample note
-=== Ref:ch:vv ===
+"As they spoke these things, Jesus himself stood in the midst of them, and said to them, 'Peace be to you.'"
 
-"ULB text of the verse for which the note is created."
+    * **Peace be to you** - "May you have peace" or "May God give you peace!" (UDB) The word "you" is plural. (See: [[en:ta:translate:formsofyou]])
 
-  * **phrase from ULB**  - sample note
+=== 1Ti:05:21 ===
+
+"I solemnly command you in the sight of God, of Christ Jesus, and of the chosen angels, that you keep these rules without bias, and that you do nothing out of favoritism."
+
+  * **you**  - Paul is addressing one person, Timothy, so all forms of **you**  and commands should be singular. (See: [[:en:ta:translate:formsofyou|Forms of 'You']])
 
 
-{{tag>create}}
+{{tag>draft}}
