@@ -3,7 +3,7 @@
 
 ===== Description =====
 
-description text
+Synecdoche is a figure of speech in which 1) the name of a part of something is used to refer to the whole thing, or 2) the name of a whole thing is used to refer to just one part of it. 
 
 
 ===== Template =====
@@ -12,25 +12,26 @@ Notes should follow this format:
 
   * **phrase from ULB** - 
 
+
 ===== Bible Examples =====
 
-=== Ref:ch:vv ===
+=== Gen:22:18 ===
 
-"ULB text of the verse for which the note is created."
+"Through your offspring all the nations of the earth will be blessed, because you have obeyed my voice."
 
-  * **phrase from ULB** - sample note
+  * **obeyed my voice**  - "obeyed me" (See: [[en:ta:translate:synecdoche]])
 
-=== Ref:ch:vv ===
+=== Luk:24:16 ===
 
-"ULB text of the verse for which the note is created."
+"But their eyes were prevented from recognizing him."
 
-  * **phrase from ULB** - sample note
+  * **Their eyes were prevented from recognizing him**  - "Their eyes were kept from recognizing Jesus." The men's ability to recognize Jesus is spoken of as their eyes' ability to recognize him. It can also be translated as "They were kept from recognizing him" or "Something prevented them so they could not recognize him." (See: [[:en:ta:translate:synecdoche|Synecdoche]])
 
-=== Ref:ch:vv ===
+=== Act:15:07 ===
 
-"ULB text of the verse for which the note is created."
+"Brothers, you know that a good while ago God made a choice among you, that by my mouth the Gentiles should hear the word of the gospel, and believe."
 
-  * **phrase from ULB** - sample note
+  * **by my mouth**  - Peter uses this expression to refer to himself. (See [[:en:ta:translate:synecdoche|Synecdoche]])
 
 
-{{tag>create}}
+{{tag>draft}}
