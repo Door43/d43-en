@@ -3,7 +3,7 @@
 
 ===== Description =====
 
-description text
+A rhetorical question is a question that is used for something other than getting information. An answer is not expected for rhetorical questions. A rhetorical question may be used to express deep emotion or to encourage the reader to think deeply on a topic. At times, rhetorical questions are used for sarcasm, rebuking or scolding.
 
 
 ===== Template =====
@@ -12,25 +12,26 @@ Notes should follow this format:
 
   * **phrase from ULB** - 
 
+
 ===== Bible Examples =====
 
-=== Ref:ch:vv ===
+=== Gen:21:07 ===
 
-"ULB text of the verse for which the note is created."
+"She also said, "Who would have said to Abraham that Sarah would nurse children, and yet I have borne him a son in his old age!"
 
-  * **phrase from ULB** - sample note
+  * **Who would have said to Abraham that Sarah would nurse children**  -  This is a rhetorical question which emphasizes how unlikely it was for Sarah to have children. It can also be translated as a statement: "No one would have ever said to Abraham, 'Sarah will nurse children.'" (See: [[en:ta:translate:rhetoricalquestion]])
 
-=== Ref:ch:vv ===
+=== Jon:01:06 ===
 
-"ULB text of the verse for which the note is created."
+"So the captain came to him and said to him, 'What are you doing, sleeping? Get up! Call upon your god! Maybe your god will notice us and we will not perish.'"
 
-  * **phrase from ULB** - sample note
+  * **What are you doing, sleeping?**  - "Why are you sleeping?" He used this rhetorical question to scold Jonah. (See: [[:en:ta:translate:rhetoricalquestion|Rhetorical Question]])
 
-=== Ref:ch:vv ===
+=== Act:14:15 ===
 
-"ULB text of the verse for which the note is created."
+"But when the apostles, Barnabas and Paul, heard of it, they tore their clothing and quickly went out into the crowd, crying out and saying, "Men, why are you doing these things? We also are human beings with the same feelings as you."
 
-  * **phrase from ULB** - sample note
+  * **Men, why are you doing these things?**  - Paul and Barnabas are rebuking the people for trying to sacrifice to them. This can be stated as, "Men, you must not do these things!" (See: [[:en:ta:translate:rhetoricalquestion|Rhetorical Question]])
 
 
-{{tag>create}}
+{{tag>draft}}
