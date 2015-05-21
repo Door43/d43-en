@@ -3,7 +3,7 @@
 
 ===== Description =====
 
-description text
+The English language makes a distinction in pronouns between male, female and neutral nouns. 
 
 
 ===== Template =====
@@ -21,11 +21,13 @@ Notes should follow this format:
 "ULB text of the verse for which the note is created."
 
   * **phrase from ULB**  - sample note
+
 === Ref:ch:vv ===
 
 "ULB text of the verse for which the note is created."
 
   * **phrase from ULB**  - sample note
+
 === Ref:ch:vv ===
 
 "ULB text of the verse for which the note is created."
