@@ -16,23 +16,23 @@ Notes should follow this format:
 ===== Bible Examples =====
 
 
+=== Rut:01:08 ===
+
+"May Yahweh show loyalty toward you, as you have shown loyalty toward the dead and toward me."
+
+  * **toward the dead and to me**  - "to your husbands who died, and to me." (See: [[en:ta:translate:adjectivalnoun]])
+
+=== RutL02:20 ===
+
+"And Naomi said to her daughter-in-law, 'May he be blessed by Yahweh, who has not left off his loyalty to the living and to the dead.'"
+
+  * **to the living and the dead**  - This could be translated "to the people who are still living and to the people who have already died." Naomi and Ruth were the "living" and Naomi's husband and sons were the "dead." (See: [[en:ta:translate:adjectivalnoun|Adjectival Noun]])
+
 === Ref:ch:vv ===
 
 "ULB text of the verse for which the note is created."
 
   * **phrase from ULB**  - sample note
 
-=== Ref:ch:vv ===
 
-"ULB text of the verse for which the note is created."
-
-  * **phrase from ULB**  - sample note
-
-=== Ref:ch:vv ===
-
-"ULB text of the verse for which the note is created."
-
-  * **phrase from ULB**  - sample note
-
-
-{{tag>create}}
+{{tag>draft}}
