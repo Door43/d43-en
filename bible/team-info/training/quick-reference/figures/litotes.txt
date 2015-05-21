@@ -3,7 +3,7 @@
 
 ===== Description =====
 
-description text
+Litotes is a strong statement made by negative phrases to strengthen a positive meaning. Litotes are made to say that the opposite idea is not true. 
 
 
 ===== Template =====
@@ -12,25 +12,26 @@ Notes should follow this format:
 
   * **phrase from ULB** - 
 
+
 ===== Bible Examples =====
 
-=== Ref:ch:vv ===
+=== Luk:11:04 ===
 
-"ULB text of the verse for which the note is created."
+"Forgive us our sins, for we ourselves forgive everyone who is in debt to us. Do not lead us into temptation."
 
-  * **phrase from ULB** - sample note
+  * **Do not lead us into temptation**  - This is a figure of speech that means "Lead us away from temptation." (See: [[:en:ta:translate:litotes|Litotes]])
 
-=== Ref:ch:vv ===
+=== Act:10:47 ===
 
-"ULB text of the verse for which the note is created."
+"Can anyone keep water from these people so they should not be baptized, these people who have received the Holy Spirit as well as we?"
 
-  * **phrase from ULB** - sample note
+  * **they should not be baptized**  - Peter is making a negative statement, called litotes, with the rhetorical question to emphasize that these people deserve to be baptized. (See: [[:en:ta:translate:litotes|Litotes]])
 
-=== Ref:ch:vv ===
+=== Gal:04:12 ===
 
-"ULB text of the verse for which the note is created."
+"I beg you, brothers, become as I am, for I also have become as you are. You did me no wrong,"
 
-  * **phrase from ULB** - sample note
+  * **You did me no wrong**  - This can also be translated "You treated me very well" or "You treated me as you should have." (See: [[:en:ta:translate:litotes|Litotes]])
 
 
 {{tag>create}}
