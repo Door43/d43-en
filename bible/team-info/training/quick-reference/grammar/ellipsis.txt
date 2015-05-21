@@ -16,23 +16,23 @@ Notes should follow this format:
 ===== Bible Examples =====
 
 
-=== Ref:ch:vv ===
+=== Gen:21:24 ===
 
-"ULB text of the verse for which the note is created."
+"Abraham said, 'I swear.'"
 
-  * **phrase from ULB**  - sample note
+  * **I swear** - "I swear to show you the kindness you have shown to me." (See: [[en:ta:translate:ellipsis]])
 
-=== Ref:ch:vv ===
+=== Luk:21:10 ===
 
-"ULB text of the verse for which the note is created."
+"Then he said to them, "Nation will rise against nation, and kingdom against kingdom."
 
-  * **phrase from ULB**  - sample note
+  * **kingdom against kingdom**  - "kingdom will rise against kingdom" or "one kingdom will attack another" (See: [[en:ta:translate:ellipsis]])
 
-=== Ref:ch:vv ===
+=== 2Th:01:07 ===
 
-"ULB text of the verse for which the note is created."
+"It is righteous for God to return affliction to those who afflict you, 7and relief to you who are afflicted with us, at the revelation of the Lord Jesus from heaven with the angels of his power."
 
-  * **phrase from ULB**  - sample note
+  * **and relief to you**  - This example of ellipsis leaves out the words "for God to return". It can be translated as, "and for God to return relief to you." (See: [[:en:ta:translate:ellipsis|Ellipsis]])
 
 
-{{tag>create}}
+{{tag>draft}}
