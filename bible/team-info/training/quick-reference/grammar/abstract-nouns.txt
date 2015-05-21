@@ -2,28 +2,35 @@
 
 ===== Description =====
 
-description text
+Remember that //**nouns**// are by definition a person, place, thing or idea. **ABSTRACT NOUN**S involves experiencing ideas that cannot be seen, heard, tasted, smelled or touched in a physical sense. Ideas and things like 'peace' are equally real, but can not be seen or touched in a physical sense.
+
 
 ===== Template =====
 
 Notes should follow this format:
 
   * **phrase from ULB**  -
+
+
 ===== Bible Examples =====
 
+=== Luk:19:09 ===
+
+"Jesus said to him, "Today salvation has come to this house, because he too is a son of Abraham. "
+
+  * **salvation has come to this house**  - The abstract noun "salvation" can be translated with the verb "save": "God has saved this household" (UDB). (See: [[:en:ta:translate:abstract-nouns|Abstract Nouns]])
+
+=== Act:09:01 ===
+
+"But Saul, still speaking threats even of murder against the disciples of the Lord, went to the high priest"
+
+  * **…still speaking threats even of murder against the disciples…**  - the abstract noun "murder" can be translated as, "…still speaking threats, even to murder the disciples…" (see: [[:en:ta:translate:abstract-nouns|Abstract Nouns]])
+
 === Ref:ch:vv ===
 
 "ULB text of the verse for which the note is created."
 
   * **phrase from ULB**  - sample note
-=== Ref:ch:vv ===
 
-"ULB text of the verse for which the note is created."
 
-  * **phrase from ULB**  - sample note
-=== Ref:ch:vv ===
-
-"ULB text of the verse for which the note is created."
-
-  * **phrase from ULB**  - sample note
-{{tag>create}}
+{{tag>draft}}
