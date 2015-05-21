@@ -3,7 +3,7 @@
 
 ===== Description =====
 
-description text
+A hyperbole is to make something larger or greater than it really is which is used to indicate the speaker’s feeling or opinion about something.
 
 
 ===== Template =====
@@ -12,25 +12,26 @@ Notes should follow this format:
 
   * **phrase from ULB** - 
 
+
 ===== Bible Examples =====
 
-=== Ref:ch:vv ===
+=== Luk:09:58 ===
 
-"ULB text of the verse for which the note is created."
+"Jesus said to him, 'Foxes have holes, and the birds of the sky have nests, but the Son of Man has nowhere to lay his head.'"
 
-  * **phrase from ULB** - sample note
+  * **nowhere to lay his head**  - "nowhere to rest my head" or "nowhere to sleep." This is a hyperbole. Jesus is exaggerating in order to get across the point that he was not welcome anywhere to live. (See: [[:en:ta:translate:hyperbole|Hyperbole]])
 
-=== Ref:ch:vv ===
+=== Act:07:22 ===
 
-"ULB text of the verse for which the note is created."
+"Moses was educated in all the learning of the Egyptians; and he was mighty in his words and works."
 
-  * **phrase from ULB** - sample note
+  * **all the learning of the Egyptians**  - This is an exaggeration for "many things that the Egyptians knew." (See: [[:en:ta:translate:hyperbole|Hyperbole]])
 
-=== Ref:ch:vv ===
+=== Tit:01:12 ===
 
-"ULB text of the verse for which the note is created."
+"One of them, a wise man of theirs, said, 'Cretans are unceasing liars, bad and dangerous animals, lazy bellies.'"
 
-  * **phrase from ULB** - sample note
+  * **Cretans are unceasing liars**  - "Cretans are lying all the time" or "Cretans never stop lying." The is an exaggeration. (See: [[:en:ta:translate:hyperbole|Hyperbole]])
 
 
-{{tag>create}}
+{{tag>draft}}
