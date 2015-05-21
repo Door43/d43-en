@@ -9,7 +9,6 @@ In English there are direct and non-direct (indirect) quotations.
   * **INDIRECT**  or **NON-DIRECT**  quotations are when someone reports basically what another person said but from his own perspective (his own words). (She told him to come. He said he would come.) The pronouns change, and often there is a change in the verb tense. Indirect quotations are written without quote marks “ ”.
 
 
-
 ===== Template =====
 
 Notes should follow this format:
@@ -20,21 +19,23 @@ Notes should follow this format:
 ===== Bible Examples =====
 
 
-=== Ref:ch:vv ===
+=== Luk:09:21 ===
 
-"ULB text of the verse for which the note is created."
+"But warning them, Jesus instructed them to tell this to no one, "
 
-  * **phrase from ULB**  - sample note
-=== Ref:ch:vv ===
+    * **to tell this to no one** - "not to tell anyone" or "that they should not tell anyone." This is an indirect quote. It can also be translated as a direct quote, as in "Do not tell anyone." (See: [[en:ta:translate:quotation]])
 
-"ULB text of the verse for which the note is created."
+=== Luk:22:11 ===
 
-  * **phrase from ULB**  - sample note
-=== Ref:ch:vv ===
+"Then say to the master of the house, 'The Teacher says to you, "Where is the guest room, where I will eat the Passover with my disciples?"'"
 
-"ULB text of the verse for which the note is created."
+  * **The Teacher says to you** - This begins a direct quotation where Jesus tells the disciples what they should say. The UDB renders this as an indirect quotation: "Our teacher says to show us." (See: [[en:ta:translate:quotation]])
 
-  * **phrase from ULB**  - sample note
+=== Act:14:22 ===
+
+"They kept strengthening the minds of the disciples and encouraging them to continue in the faith. They told them that it is through many sufferings that we must enter into the kingdom of God."
+
+  * **They told them that it is through many sufferings that we must enter into the kingdom of God** - This is an indirect speech quote. It can be translated using a direct speech quote as, "They told them, 'It is through many sufferings that we must enter the kingdom of God.' " (See: [[:en:ta:translate:quotation]])
 
 
-{{tag>create}}
+{{tag>draft}}
