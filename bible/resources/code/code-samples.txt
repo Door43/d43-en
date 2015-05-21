@@ -1,10 +1,14 @@
 ====== Sample Door43 Code ======
 
+==== Transclude: ====
+
 Code to pull in content from a specific section:
 
 <code>
 {{section>:en:bible:notes:luk:01:01#important terms:&noheader}}
 </code>
+
+==== Activity: ====
 
 Code to display the activity of a user:
 
@@ -15,6 +19,8 @@ Code to display the activity of a user:
 **USER:**
 {{changes>user=USER&count=12&render=pagelist(header,date,user,nocomments)&maxage=25920000}}
 </code>
+
+==== Tags: ====
 
 Display pages with in namespace with specific tag:
 
@@ -27,6 +33,14 @@ Display pages with in namespace with specific tag, but without another tag:
 <code>
 {{topic>en:bible:notes:luk?draft -cq&nocomments&simplelist}}
 </code>
+
+Display count of all tags in a namespace:
+
+<code>
+{{count>+&en:bible:team-info:training:quick-reference}}
+</code>
+
+==== Search Text String: ====
 
 Search ns for pages with or without text string:
 
@@ -44,17 +58,22 @@ Search for inserted beginning **or**  ending <nowiki>HTML <font></nowiki> code i
 {{pagequery>ns:en:bible:notes "<font" | ns:en:bible:notes "</font>"; fulltext; sort=title:asc; display={title}; natsort; layout=table; showcount; hidemsg; hidejump;}}
 </code>
 
+Find missing text portions:
+
+<code>
+{{pagequery>ns:en:bible:notes "Important Terms" -"===== Important Terms: ====="; fulltext; sort=title:asc; display={title}; natsort; layout=table; showcount; hidemsg; hidejump;}}
+</code>
+
+
+==== Edit Page: ====
+
 Open Door43 page in edit mode:
 
 <code>
 ?do=edit&rev=0
 </code>
 
-Find missing text portions:
-
-<code>
-{{pagequery>ns:en:bible:notes "Important Terms" -"===== Important Terms: ====="; fulltext; sort=title:asc; display={title}; natsort; layout=table; showcount; hidemsg; hidejump;}}
-</code>
+==== Other: ====
 
 item:
 
