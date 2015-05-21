@@ -3,7 +3,7 @@
 
 ===== Description =====
 
-description text
+An adjectival noun is a noun that acts like an adjective and describes another noun. A noun is a person, place or thing. An adjective is a word that describes a noun. A noun that describes another noun is acting like an adjective and so that is why it is called an “adjectival noun”. 
 
 
 ===== Template =====
@@ -21,11 +21,13 @@ Notes should follow this format:
 "ULB text of the verse for which the note is created."
 
   * **phrase from ULB**  - sample note
+
 === Ref:ch:vv ===
 
 "ULB text of the verse for which the note is created."
 
   * **phrase from ULB**  - sample note
+
 === Ref:ch:vv ===
 
 "ULB text of the verse for which the note is created."
