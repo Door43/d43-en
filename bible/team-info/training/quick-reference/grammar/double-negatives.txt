@@ -3,7 +3,7 @@
 
 ===== Description =====
 
-description text
+Most languages express the negative near the verb. Some languages can also express negative in a pronoun like “none,” “nothing,” and “no one,” or an adverb like “nowhere.” In English the following pairs of sentences mean the same thing. “I do __not__ have any” – “I have __none__”. “I do __not__ want anything” – “I want __nothing__”.
 
 
 ===== Template =====
@@ -15,22 +15,23 @@ Notes should follow this format:
 
 ===== Bible Examples =====
 
+=== Gen:11:06 ===
 
-=== Ref:ch:vv ===
+"Yahweh said, "Look, they are one people with the same language, and they are beginning to do this! Soon nothing that they intend to do will be impossible for them."
 
-"ULB text of the verse for which the note is created."
+  * **nothing that they intend to do will be impossible for them**  - This double negative can also be translated as: "anything they intend to do will be possible for them." It can also be translated as "they will be able to do anything they want to do." (See: [[:en:ta:translate:double-negatives|Double Negatives]])
 
-  * **phrase from ULB**  - sample note
-=== Ref:ch:vv ===
+=== Luk:11:42 ===
 
-"ULB text of the verse for which the note is created."
+"But woe to you Pharisees, because you tithe the mint and rue and every other garden herb, but you neglect justice and the love of God. It is necessary to act justly and love God, without failing to do the other things also."
 
-  * **phrase from ULB**  - sample note
-=== Ref:ch:vv ===
+    * **without failing to do the other things also** - This double-negative could be translated as a positive statement: "and to always do the other good things as well." (See: [[en:ta:translate:double-negatives]])
 
-"ULB text of the verse for which the note is created."
+=== Tit:03:14 ===
 
-  * **phrase from ULB**  - sample note
+"Our people must learn to engage themselves in good works that meet urgent needs so that they may not be unfruitful."
+
+  * **so that they may not be unfruitful**  - This double-negative can also be stated positively: "so they will be fruitful" or "so they can produce fruit for God" or "so their lives will be useful." (See: [[:en:ta:translate:double-negatives|Double Negatives]])
 
 
-{{tag>create}}
+{{tag>draft}}
