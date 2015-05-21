@@ -3,7 +3,7 @@
 
 ===== Description =====
 
-description text
+A metaphor is a figure of speech that creates a 'word picture' by relating one thing (the topic of the metaphor) to an unrelated object. Metaphors imply (or state directly) that the two things have something in common. Like simile, this involves a comparison, but the words ‘like’ and ‘as’ are not used to show it. A metaphor transfers an image from one familiar object to another object that is less easily understood.
 
 
 ===== Template =====
@@ -12,25 +12,26 @@ Notes should follow this format:
 
   * **phrase from ULB** - 
 
+
 ===== Bible Examples =====
 
-=== Ref:ch:vv ===
+=== Rut:01:13 ===
 
-"ULB text of the verse for which the note is created."
+"It greatly grieves me, much more than it grieves you, because the hand of Yahweh has turned against me."
 
-  * **phrase from ULB** - sample note
+  * **the hand of Yahweh has turned against me**  – "Yahweh has caused terrible things to happen to me." The word "hand" is used in a figurative way to refer to Yahweh's power or influence. (See: [[:en:ta:translate:metaphor|Metaphor]])
 
-=== Ref:ch:vv ===
+=== Act:07:39 ===
 
-"ULB text of the verse for which the note is created."
+"This is the man whom our forefathers refused to obey; they pushed him away from themselves, and in their hearts they turned back to Egypt."
 
-  * **phrase from ULB** - sample note
+  * **pushed him away from themselves** - This metaphor emphasizes their rejection of Moses. It can be translated as "they rejected him as their leader" (UDB). (See: [[:en:ta:translate:metaphor]])
 
-=== Ref:ch:vv ===
+=== 1Ti:01:02 ===
 
-"ULB text of the verse for which the note is created."
+"To Timothy, a true son in the faith. Grace, mercy, and peace from God our Father and Christ Jesus our Lord. "
 
-  * **phrase from ULB** - sample note
+  * **true son **- ​"real son." Timothy is not Paul's actual son. ​Paul uses this metaphor praises the way Timothy imitates Paul's devotion to Christ as if he were Paul's own son. (See: [[:en:ta:translate:metaphor|Metaphor]])
 
 
-{{tag>create}}
+{{tag>draft}}
