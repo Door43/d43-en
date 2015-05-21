@@ -8,7 +8,6 @@ The English language has the active and passive forms of speech.\\
 * In the **PASSIVE** form, the action is done to the subject and is //not always// mentioned.\\
 
 
-
 ===== Template =====
 
 Notes should follow this format:
@@ -19,23 +18,23 @@ Notes should follow this format:
 ===== Bible Examples =====
 
 
-=== Ref:ch:vv ===
+=== Gen:24:67 ===
 
-"ULB text of the verse for which the note is created."
+"Then Isaac brought her into his mother Sarah’s tent and took Rebekah, and she became his wife, and he loved her. So Isaac was comforted after his mother’s death."
 
-  * **phrase from ULB**  - sample note
+  * **So Isaac was comforted**  - This can be translated with an active clause: "So Rebekah comforted Isaac." (See: [[:en:ta:translate:active|Active or Passive]])
 
-=== Ref:ch:vv ===
+=== Luk:23:15 ===
 
-"ULB text of the verse for which the note is created."
+"No, nor does Herod, for he sent him back to us, and behold, nothing worthy of death has been done by him."
 
-  * **phrase from ULB**  - sample note
+  * **nothing worthy of death has been done by him**  - This can be translated in active voice: "He has not done anything to deserve a death sentence." (See: [[:en:ta:translate:active|Active or Passive]])
 
-=== Ref:ch:vv ===
+=== Act:10:45 ===
 
-"ULB text of the verse for which the note is created."
+"The people who belonged to the circumcision group of believers—all of those who came with Peter—were amazed, because the gift of the Holy Spirit was poured out also on the Gentiles."
 
-  * **phrase from ULB**  - sample note
+  * **the Holy Spirit was poured out** - God poured out the Holy Spirit (See: [[en:ta:translate:active]])
 
 
 {{tag>create}}
