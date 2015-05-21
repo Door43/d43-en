@@ -3,7 +3,7 @@
 
 ===== Description =====
 
-description text
+Parallelism is the expression of one idea in two or more different ways. Parallelism is most commonly found in the book of Psalms and Proverbs but is found throughout the whole of the Hebrew Bible. 
 
 
 ===== Template =====
@@ -12,25 +12,26 @@ Notes should follow this format:
 
   * **phrase from ULB** - 
 
+
 ===== Bible Examples =====
 
-=== Ref:ch:vv ===
+=== Rut:02:12 ===
 
-"ULB text of the verse for which the note is created."
+"May Yahweh reward you for your deed. May you receive full payment from Yahweh, the God of Israel, under whose wings you have found refuge."
 
-  * **phrase from ULB** - sample note
+  * **May you receive full payment from Yahweh**  - This is a poetic expression that is very similar to the previous sentence. It could be translated as "May Yahweh give back to you even more than you have given." (See: [[:en:ta:translate:parallelism|Parallelism]])
 
-=== Ref:ch:vv ===
+=== Rut:02:19 ===
 
-"ULB text of the verse for which the note is created."
+"And her mother-in-law said to her, "Where have you gleaned today? And where did you go to work?"
 
-  * **phrase from ULB** - sample note
+  * **"Where have you gleaned today. And where did you go to work?**  - The Hebrews often repeated thing in different words as a way of emphasis. (See: [[en:ta:translate:parallelism]])
 
-=== Ref:ch:vv ===
+=== Luk:12:02 ===
 
-"ULB text of the verse for which the note is created."
+"But there is nothing concealed, that will not be revealed, and nothing hidden, that will not be known."
 
-  * **phrase from ULB** - sample note
+  * **and nothing hidden, that will not be made known**  - This part of the sentence uses different words to say the same thing as the first part in order to emphasize its truth. (See: [[:en:ta:translate:parallelism|Parallelism]])
 
 
-{{tag>create}}
+{{tag>draft}}
