@@ -1,23 +1,23 @@
 ===== translationStudio =====
 
-The translationStudio mobile app is a mobile app where translators can do offline translating. It can be downloaded for [[https://play.google.com/store/apps/details?id=com.translationstudio.androidapp&hl=en|Android]] or [[https://itunes.apple.com/us/app/translation-studio/id925570675?mt=8|iOS]] devices. It contains the content that needs to be translated as well as [[en:ta:intro:helps|translation helps]]. Information can be shared directly from device to device and finished content can be uploaded to [[en:ta:tech:door43|Door43]] and digitally published.
+The translationStudio mobile app is a mobile app where translators can do offline translating. It can be downloaded for [[https://play.google.com/store/apps/details?id=com.translationstudio.androidapp&hl=en|Android]] or [[https://itunes.apple.com/us/app/translation-studio/id925570675?mt=8|iOS]] devices. It contains the content that needs to be translated as well as [[:en:ta:intro:helps|translation helps]]. Information can be shared directly from device to device and finished content can be uploaded to [[:en:ta:tech:door43|Door43]] and digitally published.
 
-Below are some resources to help you with translationStudio: 
-  * [[en:ta:tech:ts:install|How to Install the app]]
-  * [[en:ta:tech:ts:get-started|How to get started]]
-  * [[en:ta:tech:ts:naviage|How to navigate]]
-  * [[en:ta:tech:ts:source-language|How to choose a source language]]
-  * [[en:ta:tech:ts:target-language|How to choose a target language]]
-  * [[en:ta:tech:ts:request-language|How to request a new language]]
-  * [[en:ta:tech:ts:save|How to save my work]]
-  * [[en:ta:tech:ts:translation-notes|How to find and navigate translation notes]]
-  * [[en:ta:tech:ts:important-terms|How to find and navigate important terms]]
-  * [[en:ta:tech:ts:share|How to share my work with others]]
-  * [[en:ta:tech:ts:upload|How to upload my work to Door43]]
-  * [[en:ta:tech:ts:update|How to update the app]]
-  * [[en:ta:tech:ts:publish|How to publish content to unfoldingWord]]
+Below are some resources to help you with translationStudio:
 
-Videos by Chris\\
-{{:en:ta:tech:new_project_translationstudio_-_obs_v5.mp4|New Project in tS}} 1:20 video \\
-{{:en:ta:tech:translating_in_ts_-_obs_v2.mp4|tS OBS}} 4:02 video\\
-{{:en:ta:tech:starting_up_translationstudio-obs_600x400_v6.mp4|Starting up tS}} 1:52 video \\
+  * [[:en:ta:tech:ts:install|Install the app]]
+  * [[:en:ta:tech:ts:get-started|Use]] translationStudio for the first time
+  * [[:en:ta:tech:ts:naviage|Navigate]] in translationStudio
+  * [[:en:ta:tech:ts:source-language|Select your languages]]
+  * [[:en:ta:tech:ts:request-language|Request a new language]]
+  * [[:en:ta:tech:ts:edit|Create a new chapter]]
+  * [[:en:ta:tech:ts:edit|Edit your work]]
+  * [[:en:ta:tech:ts:translation-notes|Find translation notes]]
+  * [[:en:ta:tech:ts:important-terms|Find important terms]]
+  * [[:en:ta:tech:ts:share|Share your work with others]]
+  * [[:en:ta:tech:ts:upload|Upload your work to Door43]]
+  * [[:en:ta:tech:ts:update|Update the app]]
+  * [[:en:ta:tech:ts:publish|Publish content to unfoldingWord]]
+
+Videos by Chris \\ {{:en:ta:tech:new_project_translationstudio_-_obs_v5.mp4|New Project in tS}}  1:20 video \\
+{{:en:ta:tech:translating_in_ts_-_obs_v2.mp4|tS OBS}}  4:02 video \\
+{{:en:ta:tech:starting_up_translationstudio-obs_600x400_v6.mp4|Starting up tS}}  1:52 video
