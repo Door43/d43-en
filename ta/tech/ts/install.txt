@@ -1,6 +1,6 @@
-====== Installing the translationStudio APP on an Android device ======
+====== Install the translationStudio APP on an Android device ======
 
-Watch the {{:en:ta:tech:installing_translationstudio_-_android_v2.mp4|Installing translationStudio}}  one minute 15 seconds video or follow these directions:
+Watch the {{:en:ta:tech:installing_translationstudio_-_android_v2.mp4|Install translationStudio}}  video or follow these directions:
 
 Note: Installing requires an Internet connection.
 
@@ -17,4 +17,4 @@ Note: Installing requires an Internet connection.
 
 translationStudio is now installed.
 
-Go back to [[::en:ta:tech:ts|translationStudio]].
+Go back to the [[:en:ta:tech:ts|translationStudio]] page.
