@@ -1,9 +1,9 @@
 ====== user activity ======
 
-{{changes>user=rwj&count=50&render=pagelist(header,date,user,nocomments)&maxage=25920000}}
+{{changes>user=lrsallee&count=50&render=pagelist(header,date,user,nocomments)&maxage=25920000}}
 
 Changes this week
 
 **Translation Academy Namespace**
 
-{{changes>ns=en:ta&count=50&maxage=604800&render=pagelist(header,date,user,nocomments)}}
+ {{changes>ns=en:ta&count=50&maxage=604800&render=pagelist(header,date,user,nocomments)}}
