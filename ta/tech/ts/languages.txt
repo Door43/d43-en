@@ -1,12 +1,12 @@
 ===== Select Source and Target Languages =====
 
-You can select and change your source language and target language whenever you use translationStudio. The first time you use the application, translationStudio will open the Settings > Language screen so you can select your languages. To get to this screen any other time, tap **Settings**, then tap **Language**.
+You can select and change your source language and target language whenever you use translationStudio. The first time you use the application, translationStudio will open the Settings > Language screen so you can select your languages. To get to this screen any other time, tap **Project Settings**, then tap **Language**.
 
 **Note: The default Source Language is English.**
 
 Complete these steps to select or change the target language, which is the language you are translating to:
 
-  - Tap **Settings**  then tap **Language**.
+  - Tap **Project ****Settings**  then tap **Language**.
   - Tap on the target language to open the list of available target languages.
   - Tap above the list to open the keyboard.
   - Type the first few letters of your language to navigate to that portion of the list.
@@ -16,7 +16,7 @@ Complete these steps to select or change the target language, which is the langu
 
 Complete these steps to select or change the source language, which is the language you are translating from:
 
-  - Tap **Settings**  then tap **Language**.
+  - Tap **Project ****Settings**  then tap **Language**.
   - Tap on the source language (default: English) to open the list of available source languages.
   - Tap above the list to open the keyboard.
   - Type the first few letters of your language to navigate to that portion of the list.
