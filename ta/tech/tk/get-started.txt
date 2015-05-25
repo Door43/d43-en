@@ -1,5 +1,3 @@
-======   ======
-
 ====== Setting Up the translationKeyboard APP on an Android device ======
 
 Watch the {{:en:ta:tech:setting_up_translationkeyboard-android_v2.mp4|Setting Up the translationKeyboard}}  three minute video or follow these directions: Set up translationKeyboard so you can type in the font of your language. Tap the tK icon to open the program. The Installation Instructions window opens. Use your finger to tap-swipe up to move the information up on the screen.
@@ -50,4 +48,4 @@ Sometimes you may need to update the keyboard.
 
 ----
 
-Go back to the [[:en:ta:tech:tk:get-started:en:ta:tech:tk:|translationKeyboard]] page.
+Go back to the [[:en:ta:tech:tk:get-started:en:ta:tech:tk|translationKeyboard]] page.
