@@ -2,12 +2,10 @@
 
 There are times that the source language will use words and ideas that are not familiar. If you do not know what the source word means, the Translation Notes and Important Terms pages will help you understand its meaning. Sometimes, however, a word in the source text is a number that is not known to the people who speak the target language.
 
-Translators may write the numerals “130” and “800” or the words “one hundred thirty” and “eight hundred”.
-
-  - They can write numbers using words or numerals.
-  - Some languages do not have words for all the numbers.
-  - If their people normally use the gateway language words for numbers, and if they want to write words, it’s ok to use the gateway language words.
-  - They should choose something that will be easy for people to read and understand.
+  * Translators can write numbers using numerals such as “130” and “800” or the words such as “one hundred thirty” and “eight hundred”.
+  * Some languages do not have words for all the numbers.
+  * If the target language normally uses the gateway language words for numbers it’s ok to use the gateway language words.
+  * The translator should choose something that will be easy for people to read and understand.
 
 ===== Translation Suggestions =====
 
