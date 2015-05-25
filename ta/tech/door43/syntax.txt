@@ -67,17 +67,18 @@ You should use forced newlines only if really needed.
 
 ==== Links ====
 
-Door43 uses links to Important Words, translationAcademy topics, other stories and Bible passages. First, go to the page to be linked and copy the address from the top right tab. Type in 2 brackets, followed by the link and then 2 more brackets, so that the link reads [[en:ta:tech:door43:syntax]].\\
+Door43 uses links to Important Words, translationAcademy topics, other stories and Bible passages. First, go to the page to be linked and copy the address from the top right tab. Type in 2 brackets, followed by the link and then 2 more brackets, so that the link reads [[:en:ta:tech:door43:syntax|Formatting Content]].\\
 In this example the name of the page appears as the link.
 
 <code>
 Type in 2 brackets, followed by the link and then 2 more brackets,\\
 so that the link reads [[en:ta:tech:door43:syntax]].\\
 In this example the name of the page appears as the link.
-
 </code>
 
-You can force other words to show for the link rather than the page name. Such as [[en:ta:tech:door43:syntax|click here]].
+You can force other words to show for the link rather than the page name.
+
+Such as [[:en:ta:tech:door43:syntax|click here]].
 
 <code>
 Such as [[en:ta:tech:door43:syntax|click here]].
