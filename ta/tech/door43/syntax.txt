@@ -19,19 +19,20 @@ The above code creates this formatting:
 ====== Page Header ====== 
 ===== Section Header ===== 
 ==== Text Format ====
-DokuWiki supports **bold**, //italic//, __underlined__ and ''monospaced'' texts. Of course you can **__//''combine'' //__**all these.
+
 <code>
 DokuWiki supports **bold**, //italic//, __underlined__ and
 ''monospaced'' texts.
 Of course you can **__//''combine''//__** all these.
 </code>
-
-You can mark something as <del>deleted</del>  as well.
+The above code creates this formatting: \\
+DokuWiki supports **bold**, //italic//, __underlined__ and ''monospaced'' texts. Of course you can **__//''combine'' //__**all these.
 
 <code>
 You can mark something as <del>deleted</del> as well.
 </code>
-
+The above code creates this formatting:\\
+You can mark something as <del>deleted</del>  as well.
 ==== Lists ====
 You can add Bullet lists -
 
