@@ -16,9 +16,8 @@ Every page has a heading. The title of the page determines the displayed name in
 ===== Section Header ===== is 5 equal signs, space, title, space, 5 equal signs
 </code>
 The above code shows as:
-====== Page Header ====== is 6 equal signs, space, title, space, 6 equal signs
-
-===== Section Header ===== is 5 equal signs, space, title, space, 5 equal signs
+====== Page Header ====== 
+===== Section Header ===== 
 ==== Text Format ====
 DokuWiki supports **bold**, //italic//, __underlined__ and ''monospaced'' texts. Of course you can **__//''combine'' //__**all these.
 <code>
