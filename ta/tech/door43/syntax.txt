@@ -34,15 +34,6 @@ You can mark something as <del>deleted</del> as well.
 The above code creates this formatting:\\
 You can mark something as <del>deleted</del>  as well.
 ==== Lists ====
-You can add Bullet lists -
-
-  * Item 1
-  * Item 2
-
-and Numbered lists -
-
-  - Item 1
-  - Item 2
 
 <code>
 You can add Bullet lists -
@@ -53,6 +44,17 @@ and Numbered lists -
   - Item 2
 </code>
 
+**The above code creates this formatting:**\\
+
+You can add Bullet lists -
+
+  * Item 1
+  * Item 2
+
+and Numbered lists -
+
+  - Item 1
+  - Item 2
 ==== Paragraphs ====
 
 Blank lines divides the text into paragraphs. If you want to **force a new line**  without a paragraph, you can use two backslashes followed by a whitespace or the end of line.
