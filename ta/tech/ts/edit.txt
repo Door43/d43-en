@@ -1,25 +1,32 @@
 ===== Create and Edit Text =====
 
-This page tells how to create and edit text in translationAcademy. The video {{:en:ta:tech:translating_in_ts_-_obs_v2.mp4|
-Translating in translationStudio
+This page tells how to create and edit text in translationAcademy. The video {{:en:ta:tech:translating_in_ts_-_obs_v2.mp4|Translating in translationStudio}}  shows how to navigate to the scripture you want to translate and begin working.
 
-</font> shows how to tap on the Edit Screenand begin working on a new portion of text.
+==== Navigate in translationStudio ====
 
-===== Create Translation Text =====
+The first time you use translationStudio, the app will prompt you to set your languages and then return you to the **Edit Screen**. Otherwise you will begin at the **Edit Screen**.
 
-The first time you use translationStudio, the app will prompt you to set your languages and then return you to the **Edit Screen**. Tap on the **Edit Screen** to begin working. Note that after the first use of translationStudio, the app will open at the **Edit Screen**.
+Complete these steps to find the text you wish to translate:
 
-To create a new chapter for your language, navigate to the desired chapter and tap on the **Edit Screen**. The keyboard should open and you can begin working. Your work will be saved automatically every five seconds.
+  - Above the left side of the **Edit Screen** select from **Projects**, **Chapters**  or **Frames**  to navigate between books, chapters, or specific sections of text.
+      - Select **Projects** to navigate between Open Bible Stories, The Old Testament, or the New Testament.
+      - Select **Chapters ** to navigate between stories if you are in Open Bible Stories, or between books of the Bible if you are in the Old or New Testament.
+      - Select **Frames ** to navigate between story paragraphs if you are in Open Bible Stories or verses in the Bible.
+  - When you locate the frame where you want to work, you can swipe back and forth to move between frames of text.
+
+==== **Create Translation Text**  ====
+
+To create a new chapter in your language, navigate to the desired chapter and tap on the **Edit Screen**. The keyboard will open and you can begin working. Your work will be saved automatically every five seconds.
 
 When you are finished working, you can navigate to a different chapter or exit the app.
 
-===== Edit Translation Text =====
+==== Edit Translation Text ====
 
 When you use translationStudio, you have the ability to create and change text on any page. So to edit existing work that you or another translator created, just navigate to the chapter and tap on the translation side of the page. Your work will be saved automatically every five seconds.
 
 When you are finished working, you can navigate to a different chapter or exit the app.
 
-===== Delete Translation Text =====
+==== Delete Translation Text ====
 
 If there is a situation where you feel that a large amount of work must be deleted, such as an entire chapter, please contact your superior. Do not remove large amounts of text without discussing it first, even if you feel that a mistranslated key word has caused a significant problem. Your superior may know of another way to handle the issue without deleting previous work.
 
@@ -27,7 +34,4 @@ If you accidentally delete a large amount of work, contact your superior.
 
 ----
 
-Go back to the __[[https://door43.org/en/ta/tech/ts|
-translationStudio
-
-</font> ]]__ page.
+Go back to the __[[https://door43.org/en/ta/tech/ts|translationStudio </font> ]]__ page.
