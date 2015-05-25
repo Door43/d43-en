@@ -47,12 +47,9 @@ and Numbered lists -
 **The above code creates this formatting:**\\
 
 You can add Bullet lists -
-
   * Item 1
   * Item 2
-
 and Numbered lists -
-
   - Item 1
   - Item 2
 ==== Paragraphs ====
