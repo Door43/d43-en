@@ -74,23 +74,24 @@ This is some text with some line breaks \\ Note that the two backslashes are onl
 
 ==== Links ====
 
-Door43 uses links to Important Words, translationAcademy topics, other stories and Bible passages. First, go to the page to be linked and copy the address from the top right tab. Type in 2 brackets, followed by the link and then 2 more brackets, so that the link reads [[:en:ta:tech:door43:syntax|Formatting Content]].\\
-In this example the name of the page appears as the link.
+Door43 uses links to Important Words, translationAcademy topics, other stories and Bible passages. First, go to the page to be linked and copy the address from the top right tab. 
 
 <code>
 Type in 2 brackets, followed by the link and then 2 more brackets,\\
 so that the link reads [[en:ta:tech:door43:syntax]].\\
 In this example the name of the page appears as the link.
 </code>
+**The above code creates this formatting:**\\
+Type in 2 brackets, followed by the link and then 2 more brackets, so that the link reads [[:en:ta:tech:door43:syntax|Formatting Content]].\\
+In this example the name of the page appears as the link.
 
 You can force other words to show for the link rather than the page name.
-
-Such as [[:en:ta:tech:door43:syntax|click here]].
 
 <code>
 Such as [[en:ta:tech:door43:syntax|click here]].
 </code>
-
+**The above code creates this formatting:**\\
+Such as [[:en:ta:tech:door43:syntax|click here]].
 ==== Tags ====
 
 Some pages have tags. Tags appear at the bottom of the page under a line. Most tags are to be left alone but sometimes you may need to change a tag. When you edit the tag syntax, remember that there should always be a space between each tag word.
