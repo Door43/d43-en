@@ -6,7 +6,7 @@ These resources help with common tasks in translationStudio:
 
   * [[:en:ta:tech:ts:install|Install the app]]
   * [[:en:ta:tech:ts:get-started|Use translationStudio for the first time]]
-  * [[:en:ta:tech:ts:naviage|Navigate in translationStudio]]
+  * [[:en:ta:tech:ts:navigate|Navigate in translationStudio]]
   * [[:en:ta:tech:ts:languages|Select languages]]
   * [[:en:ta:tech:ts:request-language|Request a new language]]
   * [[:en:ta:tech:ts:edit|Create and edit translated text]]
