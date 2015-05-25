@@ -15,7 +15,7 @@ Every page has a heading. The title of the page determines the displayed name in
 
 ===== Section Header ===== is 5 equal signs, space, title, space, 5 equal signs
 </code>
-The above code creates:
+The above code creates this formatting:
 ====== Page Header ====== 
 ===== Section Header ===== 
 ==== Text Format ====
