@@ -1,4 +1,4 @@
-====== Watching Pages ======
+====== Watching a Page ======
 
 Door43 generates RSS feeds of all changes in a given namespace, for instance, this will provide a feed of all changes to every page in English:
 
