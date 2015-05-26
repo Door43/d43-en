@@ -16,7 +16,7 @@ Manage teams that will be creating resources to support Wycliffe Associates' str
 ===== Process to Review =====
 
   - Receive notification that notes are ready for checking.
-  - Use the checklist to assess the work.
+  - Use the {{en:bible:team-info:manager_s_checklist.pdf|checklist}} to assess the work.
   - Make sure references to translationAcademy topics are present as needed:
       * Add "(See: talink)" for existing tA topics when missing from the notes
       * Add tA links when missing
