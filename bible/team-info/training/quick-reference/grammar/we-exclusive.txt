@@ -8,10 +8,16 @@ Some languages have two sets of pronouns for we/us/our. The exclusive pronouns r
 
 
 ===== Template =====
+Create notes as follows:
 
-Notes should follow this format:
+  - List the phrase with pronoun from the ULB in bold
+  - Identify and state the speaker and their party (if any)
+  - Identify and state the speaker's audience
+  - Identify and state that the audience is included with the speaker.
+  - Add TA link
+  * **Pronoun phrase** - The referent for the speakers party EXCLUDES the referent for the speaker's audience. (see: [[:en:ta:translate:exclusive]])
 
-  * **phrase from ULB**  -
+
 ===== Bible Examples =====
 
 === Gen:24:05 ===
