@@ -8,9 +8,14 @@ Ellipsis is where words are left out of the sentence because it is not needed to
 
 ===== Template =====
 
-Notes should follow this format:
+Create notes as follows:
 
-  * **phrase from ULB**  -
+  - List the phrase that includes the ----- from the ULB in bold
+  - Explain what the ------ means
+  - Offer translation alternative if helpful
+  - Add TA Link
+
+  * **phrase** - Meaning. (See: topic)
 
 
 ===== Bible Examples =====
