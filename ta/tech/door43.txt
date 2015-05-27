@@ -30,11 +30,10 @@ Extra Help
 
 Page Changes
 
-  * [[:en:ta:tech:door43:old-revision|Finding Older Versions of a Page]]
-  * [[:en:ta:tech:door43:revert|Reverting a Page to an Older Version]]
   * [[:en:ta:tech:door43:subscribe|Watching a Page]]
   * [[:en:ta:tech:door43:recent-changes|Finding Recent Changes]]
-
+  * [[:en:ta:tech:door43:old-revision|Finding Older Versions of a Page]]
+  * [[:en:ta:tech:door43:revert|Reverting a Page to an Older Version]]
 
 Search
   * [[:en:ta:tech:door43:navigate|Navigating Door43]]
