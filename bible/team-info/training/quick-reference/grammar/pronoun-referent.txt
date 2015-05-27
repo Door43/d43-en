@@ -10,61 +10,20 @@ Third person is told from the perspective of someone outside of the story. The p
 
 ===== Usage =====
 
-The following procedure can be used to create a note when it is unclear who the pronoun is referring to.
+A note in only necessary when __both the ULB and UDB are unclear about who the pronoun is referring to__.
 
-===== Template: First Person =====
 
-Notes should follow this format:
+===== Template: =====
 
-  - identify phrase with pronoun
-  - repeat phrase with pronoun and insert referent
+Create notes as follows:
 
-=== Col 1:24 ===
+  - List the phrase with pronoun from the ULB in bold
+  - State who the pronoun refers to
+  - Add TA link
 
-Now I rejoice in my sufferings for you, and fill up in my flesh what is lacking of the afflictions of Christ for his body’s sake, which is the church.
+  * **pronoun phrase**  - The referent for the pronoun. (See: First, Second, or Third Person)
 
-  * **Now I rejoice**  - "Now I, Paul, rejoice"
-===== Template: Second Person =====
-
-Notes should follow this format:
-
-  - identify phrase with pronoun
-  - repeat phrase with pronoun and insert referent
-
-=== Col 1:24 ===
-
-Now I rejoice in my sufferings for you, and fill up in my flesh what is lacking of the afflictions of Christ for his body’s sake, which is the church.
-
-  * **for you**  - "for you, Colossian believers,"
-  * **for you**  - for you, Colossian believers,
-  * **for you**  - The word "you" refers to the Colossian believers.
-  * **for you**  - "you" refers to the Colossian believers
-  * **for you**  - This refers to the Colossian believers.
-
-=== Col 1:21 ===
-
-And you also, at one time, were strangers from God and were his enemies in your mind and by your evil deeds.
-
-  * **And you also**  - “And you Colossian believers also”.
-
-===== Template: Third Person =====
-
-Notes should follow this format:
-
-  - identify phrase with pronoun
-  - repeat phrase but substitute referent for pronoun
-
-=== Col 1:18 ===
-
-He is the head of the church, his body. He is the originating authority, the firstborn out of the dead ones, so he has first place among all things.
-
-  * **he is the head**  - “Jesus Christ, the Son of God, is the head”
-=== Col 1:13 ===
-
-He has rescued us from the dominion of darkness and transferred us to the kingdom of his beloved Son.
-
-  * **He has rescued us**  - “God the Father has rescued us”
-===== Other Bible Examples =====
+===== Bible Examples =====
 
 === Luk:09:58 ===
 
