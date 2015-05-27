@@ -7,11 +7,14 @@ Not all languages have “inclusive” pronouns. If a language has two sets of p
 
 (See also: [[:en:bible:team-info:training:quick-reference:grammar:we-exclusive]])
 ===== Template =====
+Create notes as follows:
 
-Notes should follow this format:
-
-  * **phrase from ULB**  -
-
+  - List the phrase with pronoun from the ULB in bold
+  - Identify and state the speaker and their party (if any)
+  - Identify and state the speaker's audience
+  - Identify and state that the audience is included with the speaker.
+  - Add TA link
+  * **Pronoun phrase** - The referent for the speakers party INCLUDES the referent for the speaker's audience. (see: [[:en:ta:translate:inclusive]])
 
 ===== Bible Examples =====
 
