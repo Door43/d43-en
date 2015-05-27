@@ -8,14 +8,11 @@ Occasionally an author may take a break from the storyline to share something of
   * To provide important historical or cultural information.
   * To tell the reader, or listener, something very important
 
-
 ===== Template =====
 
 Notes should follow this format:
 
   * **phrase from ULB**  -
-
-
 ===== Bible Examples =====
 
 === Act:08:09 ===
@@ -23,18 +20,14 @@ Notes should follow this format:
 "But there was a certain man in the city named Simon, who had earlier been practicing sorcery; he used to astonish the people of Samaria, while claiming that he was an important person."
 
   * **the city**  - "the city in Samaria." "in Samaria" is background information. (See: [[:en:ta:translate:writingstyles|Writing Styles - Background Information]])
-
 === Gen:16:16 ===
 
 "Abram was eighty-six years old when Hagar bore Ishmael to Abram."
 
-  * **Abram was**  - This introduces background information about Abram's age when these things happened. Your language may have a special way to mark background information. (See: [[:en:ta:translate:writingstyles]])
-
+  * **Abram was**  - This introduces background information about Abram's age when these things happened. Your language may have a special way to mark background information. (See: [[:en:ta:translate:writingstyles|Writing Styles - Background Information]])
 === Luk:03:23 ===
 
 "Now Jesus himself, when he began to teach, was about thirty years of age. He was the son (as was supposed) of Joseph, the son of Heli, "
 
   * **Jesus himself**  - "this Jesus" or "this person Jesus." This is immediately followed by background information about Jesus. If your language has a way of showing that what follows is background information, you should use it here. (See: [[:en:ta:translate:writingstyles|Writing Styles - Background Information]])
-
-
 {{tag>draft}}
