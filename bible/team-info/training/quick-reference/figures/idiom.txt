@@ -5,20 +5,20 @@
 
 An idiom is a group of words that has a meaning that is different from what one would understand from the meanings of the individual words. 
 
-
 ===== Template =====
+Required Fields: (See: [[en:bible:team-info:training:quick-reference:template]])
 
-Create notes as follows:
+  * (1) List the phrase that includes the idiom from the ULB in bold
+  * (3) Identify what the idiom means
+  * (4) Suggest alternate translation if helpful
+  * (5) Add TA Link: (See: [[:en:ta:translate:Idiom]])
 
-  - List the phrase that includes the idiom from the ULB in bold
-  - Identify what the idiom means
-  - Suggest alternate translation if helpful
-  - Add TA Link
-
-  * **phrase** - Meaning. Alternate translation. (See: Idiom)
+  * **(1) Idiom phrase** - **(3)** Meaning. **(4)** Alternate translation. **(5)** (See: [[:en:ta:translate:Idiom]])
 
 
 ===== Bible Examples =====
+Field reference numbers are included for clarity purposes only. They are omitted in the actual note.
+
 
 === Gen:21:19 ===
 
