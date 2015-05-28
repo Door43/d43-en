@@ -7,18 +7,17 @@ Ellipsis is where words are left out of the sentence because it is not needed to
 
 
 ===== Template =====
+Required Fields: (See: [[en:bible:team-info:training:quick-reference:template]])
 
-Create notes as follows:
+  * **1.** List the phrase that includes the ellipsis from the ULB in bold
+  * **3.** State the information that has been left out
+  * **4.** Offer translation alternative if helpful
+  * **5.** Add TA Link (See: [[:en:ta:translate:ellipsis]])
 
-  - List the phrase that includes the ellipsis from the ULB in bold
-  - Offer translation alternative if helpful
-  - Identify the information that has been left out
-  - Add TA Link
-
-  * **phrase** - Translation alternative. Missing information. (See: Ellipsis)
-
+  * **(1) Ellipsis phrase** - **(3)** Missing information. **(4)** Translation alternative. **(5)** (See: Ellipsis)
 
 ===== Bible Examples =====
+Field reference numbers are included for clarity purposes only. They are omitted in the actual note.
 
 
 === Gen:21:24 ===
