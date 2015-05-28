@@ -9,25 +9,24 @@ The quick Reference template uses the following format for creating notes. Which
 
 Create notes as follows:
 
-  - (Required) State the topic phrase or the phrase that includes the topic word
-  - (Optional) State a clarifying translation
+  - **(Required)** State the topic phrase or the phrase that includes the topic word
+  - **(Optional)** State a clarifying translation
     - mainly used with figures of speech
-  - (Optional) State the meaning of the topic
+  - **(Optional)** State the meaning of the topic
     - used to explain figures of speech
-    - used to explain meanings
-  - (Optional) State a translation suggestion.\\ This is the main translation suggestion field. examples:
+    - used to give various meanings
+  - **(Optional)** State a translation suggestion.\\ This is the main translation suggestion field. examples:
     - State Metaphors as similes
-    - State Rhetorical Questions as a statement
+    - State Rhetorical Questions as statements
     - State Passive constructions as Active 
-  - (Optional) Add TA Link
+  - **(Optional)** Add TA Link
 
   * **(1) topic phrase** - **(2)** Clarifying translation.  **(3)** Text meaning. **(4)** Translation suggestion. **(5)** (See: Translation Academy Topic)
 
 ==== Comments ====
 
   * All Notes require Topic Phrase (1).
-  * The kind of note written determines which optional fields must be included.
-
+  * The kind of note created determines which optional fields are to be included in the note.
 
 ===== Bible Examples =====
 
