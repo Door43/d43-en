@@ -9,11 +9,14 @@ In a simile something is compared to something else of a different kind in order
 Required Fields: (See: [[en:bible:team-info:training:quick-reference:template]])
 
   * **1.** List the phrase that includes the simile from the ULB in bold
-  * **3.** Explain the purpose of the simile
-  * **4.** State a translation suggestion of helpful
+  * **3.** Explain the parts of the simile
+    - State the topic 
+    - State the image
+    - State the point of similarity 
+  * **4.** State a translation suggestion if helpful
   * **5.** Add TA Link: (See: [[:en:ta:translate:Simile]])
 
-  * **(1) phrase** - **3.** Purpose. **4.** Alternate translation. **5.** (See: [[:en:ta:translate:Simile]])
+  * **(1) Simile phrase** - **(3)** the parts of the simile. **(4)** Alternate translation. **(5)** (See: [[:en:ta:translate:Simile]])
  
 
 ===== Bible Examples =====
@@ -23,19 +26,19 @@ Field reference numbers are included for clarity purposes only. They are omitted
 
 "I will surely bless you and I will greatly multiply your descendants as the stars of the heavens, and as the sand which is upon the seashore; and your descendants will possess the gate of their enemies."
 
-  * **as the stars of heaven, and as the sand which is upon the seashore**  - These phrases are similes used to show the huge number of descendants God will give Abraham. This could be translated as "beyond what you can count." (See: [[:en:ta:translate:simile]])
+  * **(1) as the stars of heaven, and as the sand which is upon the seashore**  - **(3)**These phrases are similes used to show the huge number of descendants God will give Abraham. **(4)** This could be translated as "beyond what you can count." **(5)** (See: [[:en:ta:translate:simile]])
 
 === Luk:22:44 ===
 
 "Being in agony, he prayed more earnestly, and his sweat became like great drops of blood falling down upon the ground."
 
-  * **his sweat became like great drops of blood falling down on the ground**  - Drops of sweat that were as large as drops of blood fell from his skin onto the ground. (See: [[:en:ta:translate:simile]])
+  * **(1) his sweat became like great drops of blood falling down on the ground**  - **(3)** Drops of sweat that were as large as drops of blood fell from his skin onto the ground. **(5)** (See: [[:en:ta:translate:simile]])
 
 === Act:06:15 ===
 
 "Everyone who sat in the council fixed their eyes on him and saw his face was like the face of an angel."
 
-  * **was like the face of an angel** -  This is a simile like comparison with the point of similarity likely being "shining" which is not mentioned. It could be translated as "was shining like the face of an angel" (UDB). (see: [[:en:ta:translate:simile]])
+  * **(1) was like the face of an angel** -  **(3)** This is a simile like comparison with the point of similarity likely being "shining" which is not mentioned. **(4)**It could be translated as "was shining like the face of an angel" (UDB). **(5)** (see: [[:en:ta:translate:simile]])
 
 
 {{tag>eq}}
