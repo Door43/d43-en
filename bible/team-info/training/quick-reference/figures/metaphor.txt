@@ -7,25 +7,27 @@ A metaphor is a figure of speech that creates a 'word picture' by relating one t
 
 
 ===== Template =====
+Required Fields: (See: [[en:bible:team-info:training:quick-reference:template]])
 
-Create notes as follows:
+  * **1.** List the phrase that includes the metaphor from the ULB in bold
+  * **3.** Explain the parts of the metaphor
+    - State the topic 
+    - State the image
+    - State the point of similarity 
+  * **4.** State the metaphor as a simile or other translation suggestion
+  * **5.** Add TA Link: (See: [[:en:ta:translate:Simile]])
 
-  - List the phrase that includes the metaphor from the ULB in bold
-  - Identify the parts of the metaphor
-  - Describe point(s) of comparison of the metaphor
-  - Suggest a simile if helpful
-  - Add TA Link
-
-  * **phrase** - Parts of the metaphor. Point(s) of comparison. Simile if helpful. (See: Metaphor)
+  * **(1) Metaphor phrase** - **(3)** the parts of the metaphor (Topic:, Image:, Similarity:). **(4)** Simile or Alternate translation. **(5)** (See: [[:en:ta:translate:metaphor]])
 
 
 ===== Bible Examples =====
+Field reference numbers are included for clarity purposes only. They are omitted in the actual note.
 
 === Rut:01:13 ===
 
 "It greatly grieves me, much more than it grieves you, because the hand of Yahweh has turned against me."
 
-  * **the hand of Yahweh has turned against me**  – "Yahweh has caused terrible things to happen to me." The word "hand" is used in a figurative way to refer to Yahweh's power or influence. (See: [[:en:ta:translate:metaphor|Metaphor]])
+  * **the hand of Yahweh has turned against me**  – "Yahweh has caused terrible things to happen to me." The word "hand" is used in a figurative way to refer to Yahweh's power or influence. (See: [[:en:ta:translate:metaphor]])
 
 === Act:07:39 ===
 
@@ -37,7 +39,7 @@ Create notes as follows:
 
 "To Timothy, a true son in the faith. Grace, mercy, and peace from God our Father and Christ Jesus our Lord. "
 
-  * **true son **- ​"real son." Timothy is not Paul's actual son. ​Paul uses this metaphor praises the way Timothy imitates Paul's devotion to Christ as if he were Paul's own son. (See: [[:en:ta:translate:metaphor|Metaphor]])
+  * **true son **- ​"real son." Timothy is not Paul's actual son. ​Paul uses this metaphor praises the way Timothy imitates Paul's devotion to Christ as if he were Paul's own son. (See: [[:en:ta:translate:metaphor]])
 
 
-{{tag>draft}}
+{{tag>eq}}
