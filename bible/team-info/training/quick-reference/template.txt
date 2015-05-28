@@ -12,11 +12,13 @@ Create notes as follows:
   - (Required) State the topic phrase or the phrase that includes the topic word
   - (Optional) State a clarifying translation
     - mainly used with figures of speech
-  - (Optional) State the meaning of the topic.
+  - (Optional) State the meaning of the topic
     - used to explain figures of speech
     - used to explain meanings
-  - (Optional) State an alternate translation
-    - used to state translation suggestions for Figures of Speech and Grammar topics 
+  - (Optional) State a translation suggestion.\\ This is the main translation suggestion field. examples:
+    - State Metaphors as similes
+    - State Rhetorical Questions as a statement
+    - State Passive constructions as Active 
   - (Optional) Add TA Link
 
   * **(1) topic phrase** - **(2)** Clarifying translation.  **(3)** Text meaning. **(4)** Translation suggestion. **(5)** (See: Translation Academy Topic)
