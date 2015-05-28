@@ -7,15 +7,19 @@ Metonymy is a figure of speech in which a thing or idea is called not by its own
 
 
 ===== Template =====
+Required Fields: (See: [[en:bible:team-info:training:quick-reference:template]])
 
-Create the note as follows:
+  * **1.** List the metonym phrase from the ULB in bold
+  * **3.** State the purpose of the hyperbole
+  * **4.** State a translation suggestion
+  * **5.** Add TA Link: (See: [[:en:ta:translate:Hyperbole]])
+
   - List the metonym phrase from the ULB in bold
   - state what the metonym means
   - Translation suggestion without the metonym
   - Add TA Link: (See: [[:en:ta:translate:metonymy]])
 
   * **Metonym phrase** - Metonym meaning. Restate without metonym. (See: [[:en:ta:translate:metonymy]])
-
 ===== Bible Examples =====
 
 === Gen:06:08 ===
