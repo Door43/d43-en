@@ -8,35 +8,28 @@ Irony is using words to say the opposite of what you mean. Irony is typically us
 Required Fields: (See: [[en:bible:team-info:training:quick-reference:template]])
 
   * **1.**  List the phrase that includes the irony from the ULB in bold
-  * **3.**  Explain the meaning and state the purpose of the irony
-  * **4.**  Offer translation suggestion if helpful
+  * **3.**  Explain the meaning and purpose of the irony
+  * **4.**  State the Opposite translation
   * **5.**  Add TA Link
 
-  * **(1) Irony phrase** - **(3)** Meaning & Purpose. **(4)** Translation Suggestion. **(5)** (See: Irony)
+  * **(1) Irony phrase** - **(3)** Meaning & Purpose. **(4)** Opposite Translation. **(5)** (See: [[:en:ta:translate:irony]])
 
 
 ===== Bible Examples =====
 Field reference numbers are included for clarity purposes only. They are omitted in the actual note.
 
 
-=== Mat:05:29 ===
-
-"And if your right eye causes you to stumble, pluck it out and throw it away from you; for it is better for you that one of your body parts should perish, than that your whole body should be thrown into hell."
-
-  * **if your right eye causes you to stumble**  - "if what you see causes you to stumble" or "if you want to sin because of what you see." "Stumble" is a metaphor for "sin." Jesus is using irony here, as people usually use their eyes to keep from stumbling over things. (See: [[:en:ta:translate:metaphor]], [[:en:ta:translate:irony]])
-
 === Luk:10:21 ===
 
-"At that same time he rejoiced greatly in the Holy Spirit, and said, "I praise you, O Father, Lord of heaven and earth, because you concealed these things from the wise and understanding, and revealed them to those who are untaught, like little children."
+At that same time he rejoiced greatly in the Holy Spirit, and said, "I praise you, O Father, Lord of heaven and earth, because you concealed these things from the wise and understanding, and revealed them to those who are untaught, like little children."
 
-  * **the wise and understanding**  - "from people who are wise and understanding." This can be translated as "from people who think they are wise and understanding." (See: [[:en:ta:translate:irony]])
+  * **(1) the wise and understanding**  - **(3)** from people who are suppose to be wise and understanding. **(4)** This can be translated as "from people who think they are wise and understanding."  **(5)** (See: [[:en:ta:translate:irony]])
 
 === Luk:13:33 ===
 
 "In any case, it is necessary for me to continue on today, tomorrow, and the following day, since it is not acceptable to kill a prophet away from Jerusalem."
 
-  * **it is not acceptable to kill a prophet outside of Jerusalem**  - "it is not right for a prophet to die outside of Jerusalem." Jesus was using irony. It was never right to kill God's prophets, and certainly not in Jerusalem. But the Jews had killed many of God's prophets there, and Jesus knew that they would kill him there too. (See: [[:en:ta:translate:irony]])
+  * **(1) it is not acceptable to kill a prophet outside of Jerusalem**  - **(3)** It was never right to kill God's prophets, and certainly not in Jerusalem. But the Jewish leaders had killed many of God's prophets there, and Jesus knew that they would kill him there too. **(4)** "it is not right for a prophet to die outside of Jerusalem."   **(5)** (See: [[:en:ta:translate:irony]])
 
 
-
-{{tag>draft}}
+{{tag>ed ip}}
