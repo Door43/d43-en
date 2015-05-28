@@ -11,32 +11,28 @@ Required Fields: (See: [[en:bible:team-info:training:quick-reference:template]])
 
   * **1.** List the phrase that includes the ellipsis from the ULB in bold
   * **3.** State the information that has been left out
-  * **4.** Offer translation suggestion if helpful
   * **5.** Add TA Link (See: [[:en:ta:translate:ellipsis]])
 
-  * **(1) Ellipsis phrase** - **(3)** Missing information. **(4)** Translation Suggestion. **(5)** (See: Ellipsis)
+  * **(1) Ellipsis phrase** - **(3)** Missing information. **(5)** (See: Ellipsis)
 
 ===== Bible Examples =====
 Field reference numbers are included for clarity purposes only. They are omitted in the actual note.
 
 
 === Gen:21:24 ===
+Abraham said, "I swear."
 
-"Abraham said, 'I swear.'"
-
-  * **I swear** - "I swear to show you the kindness you have shown to me." (See: [[en:ta:translate:ellipsis]])
+  * **(1) I swear** - **(3)** "I swear to show you the kindness you have shown to me." **(5)** (See: [[en:ta:translate:ellipsis]])
 
 === Luk:21:10 ===
-
 "Then he said to them, "Nation will rise against nation, and kingdom against kingdom."
 
-  * **kingdom against kingdom**  - "kingdom will rise against kingdom" or "one kingdom will attack another" (See: [[en:ta:translate:ellipsis]])
+  * **(1) kingdom against kingdom**  - **(3)** "kingdom will rise against kingdom" or "one kingdom will attack another" **(5)** (See: [[en:ta:translate:ellipsis]])
 
 === 2Th:01:07 ===
-
 "It is righteous for God to return affliction to those who afflict you, 7and relief to you who are afflicted with us, at the revelation of the Lord Jesus from heaven with the angels of his power."
 
-  * **and relief to you**  - This example of ellipsis leaves out the words "for God to return". It can be translated as, "and for God to return relief to you." (See: [[:en:ta:translate:ellipsis|Ellipsis]])
+  * **(1) and relief to you**  - **(3)** This example of ellipsis leaves out the words "for God to return". **(4)** It can be translated as, "and for God to return relief to you." **(5)** (See: [[:en:ta:translate:ellipsis]])
 
 
-{{tag>draft}}
+{{tag>ed}}
