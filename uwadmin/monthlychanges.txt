@@ -49,6 +49,8 @@
 {{changes>ns=brx:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:bsk:obs|bsk OBS]]**
 {{changes>ns=bsk:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
+**[[:bst:obs|bst OBS]]**
+{{changes>ns=bst:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:bus:obs|bus OBS]]**
 {{changes>ns=bus:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:bwo:obs|bwo OBS]]**
