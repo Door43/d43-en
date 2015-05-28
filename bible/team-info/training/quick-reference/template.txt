@@ -3,7 +3,7 @@
 
 ===== Description =====
 
-The quick Reference template uses the following format for creating notes. Which fields are actually included in a note depends on the type of note being created. (see: [[en:bible:team-info:processes:create-notes]] and [[en:bible:team-info:processes:format-notes]])
+The quick Reference templates uses the following format for creating notes. The order of the fields in the template are fixed but Which fields are actually included in a note depends on the type of note being created. (see: [[en:bible:team-info:processes:create-notes]] and [[en:bible:team-info:processes:format-notes]])
 
 ===== Template =====
 
@@ -26,6 +26,7 @@ Create notes as follows:
 ==== Comments ====
 
   * All Notes require Topic Phrase (1).
+  * The order of appearance of these note fields are fixed.
   * The kind of note created determines which optional fields are to be included in the note.
 
 ===== Bible Examples =====
