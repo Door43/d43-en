@@ -7,16 +7,14 @@ The English language has the active and passive forms of speech.\\
 * In the **ACTIVE** form, the subject does the action and is always mentioned.\\
 * In the **PASSIVE** form, the action is done to the subject and is //not always// mentioned.\\
 
-
 ===== Template =====
+Required Fields: (See: [[en:bible:team-info:training:quick-reference:template]])
 
-Create notes as follows:
+  * **1.** List the phrase that includes the passive verb from the ULB in bold
+  * **4.** State a translation suggestion using active verb
+  * **5.** Add TA Link: (See: [[:en:ta:translate:active]])
 
-  - List the phrase that includes the passive verb from the ULB in bold
-  - Suggest alternative translation using active verb
-  - Add TA Link
-
-  * **phrase** - Alternate translation using active verb. (See: Passive/Active)
+  * **(1) Passive verb phrase** - **(4)** Translation suggestion using active verb. **(5)** (See: [[:en:ta:translate:active]])
 
 
 ===== Bible Examples =====
@@ -26,19 +24,19 @@ Create notes as follows:
 
 "Then Isaac brought her into his mother Sarah’s tent and took Rebekah, and she became his wife, and he loved her. So Isaac was comforted after his mother’s death."
 
-  * **So Isaac was comforted**  - This can be translated with an active clause: "So Rebekah comforted Isaac." (See: [[:en:ta:translate:active|Active or Passive]])
+  * **(1) So Isaac was comforted** - **(4)** This can be translated with an active clause: "So Rebekah comforted Isaac."  **(5)** (See: [[en:ta:translate:active]])
 
 === Luk:23:15 ===
 
 "No, nor does Herod, for he sent him back to us, and behold, nothing worthy of death has been done by him."
 
-  * **nothing worthy of death has been done by him**  - This can be translated in active voice: "He has not done anything to deserve a death sentence." (See: [[:en:ta:translate:active|Active or Passive]])
+  * **(1) nothing worthy of death has been done by him** - **(4)** This can be translated as "He has not done anything to deserve a death sentence."  **(5)** (See: [[en:ta:translate:active]])
 
 === Act:10:45 ===
 
 "The people who belonged to the circumcision group of believers—all of those who came with Peter—were amazed, because the gift of the Holy Spirit was poured out also on the Gentiles."
 
-  * **the Holy Spirit was poured out** - God poured out the Holy Spirit (See: [[en:ta:translate:active]])
+  * **(1) the Holy Spirit was poured out** - **(4)** This can be translated as "God poured out the Holy Spirit." **(5)** (See: [[en:ta:translate:active]])
 
 
-{{tag>draft}}
+{{tag>eq}}
