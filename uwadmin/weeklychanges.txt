@@ -295,6 +295,9 @@
 **[[:my:obs|my OBS]]**
 {{changes>ns=my:obs&maxage=604800&render=pagelist(header,date,user,nocomments)}}
 
+**[[:mym:obs|mym OBS]]**
+{{changes>ns=mym:obs&maxage=604800&render=pagelist(header,date,user,nocomments)}}
+
 **[[:mzn:obs|mzn OBS]]**
 {{changes>ns=mzn:obs&maxage=604800&render=pagelist(header,date,user,nocomments)}}
 
