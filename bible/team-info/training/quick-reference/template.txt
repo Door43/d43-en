@@ -9,7 +9,7 @@ The quick Reference templates uses the following format for creating notes. The 
 
 Create notes as follows:
 
-  - **(Required)** State the topic phrase or the phrase that includes the topic word
+  - **(Required)** State the topic phrase or the phrase that includes the topic word from the ULB in bold
   - **(Optional)** State a clarifying translation
     - mainly used with figures of speech
   - **(Optional)** State the meaning of the topic
@@ -22,7 +22,6 @@ Create notes as follows:
   - **(Optional)** Add TA Link
 
   * **(1) topic phrase** - **(2)** Clarifying translation.  **(3)** Text meaning. **(4)** Translation suggestion. **(5)** (See: Translation Academy Topic)
-
 ==== Comments ====
 
   * All Notes require Topic Phrase (1).
