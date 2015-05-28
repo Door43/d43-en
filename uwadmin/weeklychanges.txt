@@ -394,6 +394,9 @@
 **[[:stb:obs|stb OBS]]**
 {{changes>ns=stb:obs&maxage=604800&render=pagelist(header,date,user,nocomments)}}
 
+**[[:stv:obs|stv OBS]]**
+{{changes>ns=stv:obs&maxage=604800&render=pagelist(header,date,user,nocomments)}}
+
 **[[:suv:obs|suv OBS]]**
 {{changes>ns=suv:obs&maxage=604800&render=pagelist(header,date,user,nocomments)}}
 
