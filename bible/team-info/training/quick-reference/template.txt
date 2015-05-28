@@ -3,7 +3,7 @@
 
 ===== Description =====
 
-The quick Reference template uses the following format for creating notes. Which fields are actually included in a note depends on the type of note being created.
+The quick Reference template uses the following format for creating notes. Which fields are actually included in a note depends on the type of note being created. (see: [[en:bible:team-info:processes:create-notes]] and [[en:bible:team-info:processes:format-notes]])
 
 ===== Template =====
 
@@ -17,9 +17,9 @@ Create notes as follows:
     - used to explain meanings
   - (Optional) State an alternate translation
     - used to state translation suggestions for Figures of Speech and Grammar topics 
-  - Add TA Link
+  - (Optional) Add TA Link
 
-  * **topic phrase** - clarifying translation.  Text meaning. Translation suggestion. (See: Translation Academy Topic)
+  * **(1) topic phrase** - **(2)** Clarifying translation.  **(3)** Text meaning. **(4)** Translation suggestion. **(5)** (See: Translation Academy Topic)
 
 ==== Notes ====
 
@@ -33,7 +33,7 @@ Create notes as follows:
 
 "But their eyes were prevented from recognizing him."
 
-  * **Their eyes were prevented from recognizing him**  - "Their eyes were kept from recognizing Jesus." The men's ability to recognize Jesus is spoken of as their eyes' ability to recognize him. It can also be translated as "They were kept from recognizing him" or "Something prevented them so they could not recognize him." (See: [[:en:ta:translate:synecdoche]])
+  * **//(1)// Their eyes were prevented from recognizing him**  - **(2)** "Their eyes were kept from recognizing Jesus." **(3)** The men's ability to recognize Jesus is spoken of as their eyes' ability to recognize him. **(4)** It can also be translated as "They were kept from recognizing him" or "Something prevented them so they could not recognize him." **(5)** (See: [[:en:ta:translate:synecdoche]])
 
 
 
