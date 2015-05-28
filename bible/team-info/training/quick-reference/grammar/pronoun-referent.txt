@@ -29,17 +29,25 @@ These situations have their own pages:
   - "you" (all forms)
     * [[:en:bible:team-info:training:quick-reference:grammar:formsofyou]]
 
+
 ===== Template =====
+Required Fields: (See: [[en:bible:team-info:training:quick-reference:template]])
 
-Create notes as follows:
+ 
+  * **1.** List the phrase with pronoun from the ULB in bold
+  * **3.** State the pronoun and it's participant referent
+  * **5.** Add TA link (See: [[:en:ta:translate:123person]])
 
-  - List the phrase with pronoun from the ULB in bold
-  - State who the pronoun refers to
-  - Add TA link
-
-  * **pronoun phrase**  - The referent for the pronoun. (See: First, Second, or Third Person)
+  * **(1) pronoun phrase**  - **(3)** The word "PRONOUN" refers to PARTICIPANT REFERENT. **(5)**(See: [[:en:ta:translate:123person]])
 
 ===== Bible Examples =====
+Field reference numbers are included for clarity purposes only. They are omitted in the actual note.
+
+=== Col:02:03 ===
+All the hidden treasures of wisdom and knowledge are in him.
+
+ * **(1) are in him ** - **(3)** The word "him" refers to Christ **(4)** "are in Christ." **(5)** (See: [[:en:ta:translate:123person]])
+
 
 === Luk:09:58 ===
 
