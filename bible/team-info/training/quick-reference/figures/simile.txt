@@ -16,7 +16,7 @@ Required Fields: (See: [[en:bible:team-info:training:quick-reference:template]])
   * **4.** State a translation suggestion if helpful
   * **5.** Add TA Link: (See: [[:en:ta:translate:Simile]])
 
-  * **(1) Simile phrase** - **(3)** the parts of the simile. **(4)** Alternate translation. **(5)** (See: [[:en:ta:translate:Simile]])
+  * **(1) Simile phrase** - **(3)** the parts of the simile (Topic:, Image:, Similarity:). **(4)** Alternate translation. **(5)** (See: [[:en:ta:translate:Simile]])
  
 
 ===== Bible Examples =====
@@ -32,7 +32,7 @@ Field reference numbers are included for clarity purposes only. They are omitted
 
 "Being in agony, he prayed more earnestly, and his sweat became like great drops of blood falling down upon the ground."
 
-  * **(1) his sweat became like great drops of blood falling down on the ground**  - **(3)** topic: Jesus sweating. image: drops of blood. similarity: Drops of sweat that were as large as drops of blood fell from his skin onto the ground. **(5)** (See: [[:en:ta:translate:simile]])
+  * **(1) his sweat became like great drops of blood falling down on the ground**  - **(3)** Topic: Jesus sweating. Image: drops of blood. Similarity: Drops of sweat that were as large as drops of blood fell from his skin onto the ground. **(5)** (See: [[:en:ta:translate:simile]])
   *
 
 === Act:06:15 ===
