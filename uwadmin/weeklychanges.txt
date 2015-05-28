@@ -193,6 +193,9 @@
 **[[:kam:obs|kam OBS]]**
 {{changes>ns=kam:obs&maxage=604800&render=pagelist(header,date,user,nocomments)}}
 
+**[[:kbr:obs|kbr OBS]]**
+{{changes>ns=kbr:obs&maxage=604800&render=pagelist(header,date,user,nocomments)}}
+
 **[[:kfb:obs|kfb OBS]]**
 {{changes>ns=kfb:obs&maxage=604800&render=pagelist(header,date,user,nocomments)}}
 
