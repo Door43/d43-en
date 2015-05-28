@@ -1,4 +1,4 @@
-====== Hyperbole ======
+ ====== Hyperbole ======
 
 
 ===== Description =====
@@ -7,13 +7,12 @@ A hyperbole is to make something larger or greater than it really is which is us
 
 
 ===== Template =====
+Required Fields: (See: [[en:bible:team-info:training:quick-reference:template]])
 
-Create notes as follows:
-
-  - List the hyperbole phrase
-  - State the purpose of the hyperbole
-  - State a translation suggestion
-  - Add TA Link
+  **1.** List the hyperbole phrase
+  **3.** State the purpose of the hyperbole
+  **4.** State a translation suggestion
+  **5.** Add TA Link
 
   * **(1) hyperbole phrase** - **(2)** Purpose. **(3)** Translation Suggestion. **(4)** (See: [[:en:ta:translate:Hyperbole]])
 
@@ -39,4 +38,4 @@ Create notes as follows:
   * **Cretans are unceasing liars**  - "Cretans are lying all the time" or "Cretans never stop lying." The is an exaggeration. (See: [[:en:ta:translate:hyperbole|Hyperbole]])
 
 
-{{tag>draft}}
+{{tag>eq}}
