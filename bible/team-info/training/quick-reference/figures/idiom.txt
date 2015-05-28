@@ -10,7 +10,7 @@ Required Fields: (See: [[en:bible:team-info:training:quick-reference:template]])
 
   * (1) List the phrase that includes the idiom from the ULB in bold
   * (3) Identify what the idiom means
-  * (4) Suggest alternate translation if helpful
+  * (4) State a translation suggestion
   * (5) Add TA Link: (See: [[:en:ta:translate:Idiom]])
 
   * **(1) Idiom phrase** - **(3)** Meaning. **(4)** Alternate translation. **(5)** (See: [[:en:ta:translate:Idiom]])
@@ -24,19 +24,22 @@ Field reference numbers are included for clarity purposes only. They are omitted
 
 "Then God opened her eyes, and she saw a well of water. She went and filled the skin with water, and gave the lad a drink."
 
-  * **God opened her eyes, and she saw**  - "God caused Hagar to see" or "God showed Hagar" (UDB). The phrase "opened her eyes" is an idiom that means "made her aware of." (See: [[:en:ta:translate:idiom|Idiom]])
+  * **(1) God opened her eyes, and she saw**  - **(3)** The phrase "opened her eyes" is an idiom that means "made her aware of." **(4)** "God caused Hagar to see" or "God showed Hagar" (UDB). **(5)** (See: [[:en:ta:translate:idiom|Idiom]])
 
 === Luk:05:22 ===
 
 "But Jesus, perceiving what they were thinking, answered and said to them, "Why are you questioning this in your hearts?"
 
-  * **in your hearts**  - This is an idiom referring to the part of a person that thinks or believes. Some languages will find it more natural not to include this phrase. (See: [[:en:ta:translate:idiom|Idiom]])
+  * **(1) in your hearts** - **(3)** This is an idiom referring to the part of a person that thinks or believes. **(4)** Some languages will find it more natural not to include this phrase. **(5)** (See: [[:en:ta:translate:idiom|Idiom]])
 
 === Act:07:54 ===
 
 "Now when the council members heard these things, they were cut to the heart, and they ground their teeth at Stephen."
 
-  * **ground their teeth **- This is an idiom for expressing strong anger or hatred. Can be translated as "they became so angry that they ground their teeth together". (See: [[en:ta:translate:idiom]])
+  * **(1) ground their teeth** - **(3)** This is an idiom for expressing strong anger or hatred. **(4)** Can be translated as "they became so angry that they ground their teeth together". **(5)** (See: [[en:ta:translate:idiom]])
 
 
-{{tag>draft}}
+{{tag>eq}}
+
+\\ 
+
