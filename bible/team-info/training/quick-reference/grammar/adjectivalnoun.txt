@@ -5,39 +5,28 @@
 
 An adjectival noun is a noun that acts like an adjective and describes another noun. A noun is a person, place or thing. An adjective is a word that describes a noun. A noun that describes another noun is acting like an adjective and so that is why it is called an “adjectival noun”. 
 
-
 ===== Template =====
+Required Fields: (See: [[en:bible:team-info:training:quick-reference:template]])
 
-Create notes as follows:
+  * **1.** List the phrase that includes the adjectival noun from the ULB in bold
+  * **3.** Explain what the adjectival noun means
+  * **4.** Offer translation alternative using a noun form
+  * **5.** Add TA Link (See: [[:en:ta:translate:adjectivalnoun]])
 
-  - List the phrase that includes the adjectival noun from the ULB in bold
-  - Explain what the adjectival noun means
-  - Offer translation alternative using a noun form
-  - Add TA Link
-
-  * **phrase** - Meaning. Translation alternative with noun form. (See: Adjectival Noun)
-
-
+  * **(1) Adjectival Noun phrase** - **(3)** Meaning. **(4)** Translation alternative with noun form. **(5)** (See: [[:en:ta:translate:adjectivalnoun]])
 
 ===== Bible Examples =====
 Field reference numbers are included for clarity purposes only. They are omitted in the actual note.
 
-
-=== Rut:01:08 ===
-
-"May Yahweh show loyalty toward you, as you have shown loyalty toward the dead and toward me."
-
-  * **toward the dead and to me**  - "to your husbands who died, and to me." (See: [[en:ta:translate:adjectivalnoun]])
-
 === Rut:02:20 ===
-
 "And Naomi said to her daughter-in-law, 'May he be blessed by Yahweh, who has not left off his loyalty to the living and to the dead.'"
 
-  * **to the living and the dead**  - This could be translated "to the people who are still living and to the people who have already died." Naomi and Ruth were the "living" and Naomi's husband and sons were the "dead." (See: [[en:ta:translate:adjectivalnoun|Adjectival Noun]])
+  * **(1) to the living and the dead**  - **(3)** Naomi and Ruth were the "living" and Naomi's husband and sons were the "dead."  **(4)** This could be translated "to the people who are still living and to the people who have already died."  **(5)** (See: [[en:ta:translate:adjectivalnoun|Adjectival Noun]])
 
+=== Rut:01:08 ===
+"May Yahweh show loyalty toward you, as you have shown loyalty toward the dead and toward me."
 
-  * **phrase from ULB**  - sample note
-
+  * **(1) toward the dead and to me**  -  **(4)** "to your husbands who died, and to me."  **(5)** (See: [[en:ta:translate:adjectivalnoun]])
 
 {{tag>eq ip}}
 
