@@ -7,30 +7,31 @@ Some languages have more than one word for ‘you’ depending on how many peopl
 
 
 ===== Template =====
+Required Fields: (See: [[en:bible:team-info:training:quick-reference:template]])
 
-Create notes as follows:
-  - List the phrase with the pronoun from ULB in bold
-  - Identify the referent of the word 'you'.\\ You may need to include the following:
-    - number (singular, dual, plural)
-    - gender (male, female, neuter)
-  - Add TA link
+  * **1.** List the phrase with the pronoun from ULB in bold
+  * **3.** Identify the referent of the word 'you'.\\ You may need to include the following:
+      - number (singular, dual, plural)
+      - gender (male, female, neuter)
+  * **5.** Add TA link (See: [[:en:ta:translate:formsofyou|Forms of 'You']])
 
-  * **pronoun phrase** - Pronoun referent. (See: TA link)
+  * **(1) pronoun phrase** - **(4)** Pronoun referent. **(5)** (See: TA link)
+
 
 ===== Bible Examples =====
-
+Field reference numbers are included for clarity purposes only. They are omitted in the actual note.
 
 === Gen:18:03 ===
 
 "He said, "O Lord, if I have found favor in your sight, do not pass by and leave your servant."
 
-  * **if I have found favor in your sight**  - The word "your" refers to the Lord who appeared with two other beings in the form of man (angels). (See: [[:en:ta:translate:formsofyou|Forms of 'You']])
+  * **(1) if I have found favor in your sight** - **(3)** The word "your" refers to the Lord who appeared with two other beings in the form of man (angels). **(5)**  (See: [[:en:ta:translate:formsofyou|Forms of 'You']])
 
 === Luk:24:36 ===
 
 "As they spoke these things, Jesus himself stood in the midst of them, and said to them, 'Peace be to you.'"
 
-    * **Peace be to you** - The word "you" refers to all the apostles present. (See: [[en:ta:translate:formsofyou]])
+    * **(1) Peace be to you** - **(3)** The word "you" refers to all the apostles present. **(5)** (See: [[en:ta:translate:formsofyou]])
 
 === 1Ti:05:21 ===
 
@@ -39,6 +40,6 @@ Create notes as follows:
   * **solemnly command you**  - The word "you" refers to Timothy. (See: [[:en:ta:translate:formsofyou]])
 
 
-{{tag>eq}}
+{{tag>eq ip}}
 
 \\ 
