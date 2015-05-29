@@ -30,9 +30,9 @@
 
  {{changes>user=jwgeddis&count=15&render=pagelist(date,header,user,nocomments)&maxage=864000}}
 
-**Joshua Berkowitz: (needs to register)**
+**Joshua Berkowitz:**
 
- {{changes>user=USER&count=15&render=pagelist(date,header,user,nocomments)&maxage=864000}}
+ {{changes>user=ybennoach&count=15&render=pagelist(date,header,user,nocomments)&maxage=864000}}
 
 **Mike Tisdell:**
 
