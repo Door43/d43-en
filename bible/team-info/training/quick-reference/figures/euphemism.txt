@@ -4,40 +4,40 @@
 
 A euphemism is a mild or polite way of referring to something that is unpleasant, embarrassing or considered to be socially unacceptable. Its purpose is to avoid offending the people who hear or read it. 
 
-
 ===== Template =====
-
+Required Fields: (See: [[en:bible:team-info:training:quick-reference:template]])
 
 Create notes as follows:
 
-  - List the phrase that includes the euphemism from the ULB in bold
-  - Offer literal translation suggestion if helpful
-  - Explain what the euphemism means
-  - Explain why the euphemism is used
-  - Add TA Link
+  * **1.** List the phrase that includes the euphemism from the ULB in bold
+  * **3.** Explain what the euphemism means and why it is used
+  * **4.** State a literal or alternate translation
+  * **5.**Add TA Link (See: [[:en:ta:translate:euphemism]])
 
-  * **phrase** - Translation suggestion. Meaning. Purpose. (See: Euphemism)
+  * **(1) Euphemism phrase** - **(3) **Meaning & Purpose. **(4)** Literal Translation. **(5)** (See: [[:en:ta:translate:euphemism]])
 
 
 ===== Bible Examples =====
+Field reference numbers are included for clarity purposes only. They are omitted in the actual note.
+
 
 === Act:05:10 ===
 
 "She instantly fell down at his feet, and breathed her last, and the young men came in and found her dead; they carried her out and buried her by her husband."
 
-  * **breathed her last**  - This is a euphemism for "she died." (See: [[:en:ta:translate:euphemism|Euphemism]])
+  * **(1) breathed her last**  - **(4)**  "she died." **(5)** (See: [[:en:ta:translate:euphemism]])
 
 === Gen:04:25 ===
 
 "Adam had marital relations with his wife again, and she bore another son. "
 
-  * **had marital relations**  - “had sex with.” Your language may have a way of saying this politely. Some languages say “knew” or “slept with.” (See: [[:en:ta:translate:euphemism|Euphemism]])
+  * **(1) had marital relations**  - **(3)** had sex with his wife. **(4)** This can be translated as “knew” or “slept with.” **(5)** (See: [[:en:ta:translate:euphemism]])
 
 === Luk:08:43 ===
 
 "A woman was there who had been bleeding for twelve years and had spent all her money on physicians, but could not be healed by any of them."
 
-  * **had been bleeding**  - "had a flow of blood." She was probably bleeding from her womb even when it was not the normal time for it. Some cultures may have a polite way of referring to this condition. (See: [[:en:ta:translate:euphemism|Euphemism]])
+  * **(1) had been bleeding**  -  **(3)** She was probably bleeding from her womb even when it was not the normal time for it. **(4)** This can be translated as "had a flow of blood." **(5)** (See: [[:en:ta:translate:euphemism]])
 
 
-{{tag>draft}}
+{{tag>eq}}
