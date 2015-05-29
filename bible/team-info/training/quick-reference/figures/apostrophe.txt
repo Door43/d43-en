@@ -10,6 +10,7 @@ Required Fields: (See: [[en:bible:team-info:training:quick-reference:template]])
 
   * **1.** List the phrase that includes the apostrophe from the ULB in bold
   * **3.** Identify the audience to whom the apostrophe is spoken and \\ Explain the purpose of the apostrophe
+  * **4.** State a Translation suggestion
   * **5.** Add TA Link (See: [[:en:ta:translate:apostrophe]])
 
   * **(1) Apostrophe phrase** - **(3)** Audience & Purpose. **(5)** (See: [[:en:ta:translate:apostrophe]])
@@ -23,7 +24,7 @@ Field reference numbers are included for clarity purposes only. They are omitted
 
 "Woe to you, Chorazin! Woe to you, Bethsaida! If the mighty works had been done in Tyre and Sidon which were done in you, they would have repented long ago, sitting in sackcloth and ashes."
 
-    * **(1) Woe to you Chorazin! Woe to you Bethsaida**  - Jesus speaks as if the people of the cities of Chorazin and Bethsaida were there listening to him, but they were not. (See: [[en:ta:translate:apostrophe]])
+    * **(1) Woe to you Chorazin! Woe to you Bethsaida**  -  **(3)** Jesus speaks as if the people of the cities of Chorazin and Bethsaida were there listening to him, but they were not. (See: [[en:ta:translate:apostrophe]])
 
 === Luk:13:34===
 
@@ -35,7 +36,9 @@ Field reference numbers are included for clarity purposes only. They are omitted
 
 "And you, Bethlehem, in the land of Judah, are not the least among the leaders of Judah, for from you will come a ruler who will shepherd my people Israel."
 
-  * **(1) you, Bethlehem, … are not the least among the leaders of Judah**  - "You who live in Bethlehem, your town is certainly very important" (UDB) or "you, Bethlehem, … are one of the most important cities." (See: [[:en:ta:translate:apostrophe|Apostrophe]])
+  * **(1) you, Bethlehem, … are not the least among the leaders of Judah**  -  **(4)** "You who live in Bethlehem, your town is certainly very important" (UDB) or "you, Bethlehem, … are one of the most important cities." (See: [[:en:ta:translate:apostrophe|Apostrophe]])
 
 
 {{tag>eq}}
+
+\\ 
