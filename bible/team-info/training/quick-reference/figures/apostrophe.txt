@@ -5,38 +5,37 @@
 
 In apostrophe, a speaker turns his attention from the people he is speaking to and makes an exclamation to someone who is not there with them. He could even speak to an imaginary person or a thing or idea that is treated as if it were a person (See [[:en:ta:translate:personification|Personification]].)
 
-
 ===== Template =====
+Required Fields: (See: [[en:bible:team-info:training:quick-reference:template]])
 
-Create notes as follows:
+  * **1.** List the phrase that includes the apostrophe from the ULB in bold
+  * **3.** Identify the audience to whom the apostrophe is spoken and \\ Explain the purpose of the apostrophe
+  * **5.** Add TA Link (See: [[:en:ta:translate:apostrophe]])
 
-  - List the phrase that includes the apostrophe from the ULB in bold
-  - Identify the audience to whom the apostrophe is spoken
-  - Explain the purpose of the apostrophe
-  - Add TA Link
-
-  * **phrase** - Audience. Purpose. (See: Apostrophe)
+  * **(1) Apostrophe phrase** - **(3)** Audience & Purpose. **(5)** (See: [[:en:ta:translate:apostrophe]])
 
 
 ===== Bible Examples =====
+Field reference numbers are included for clarity purposes only. They are omitted in the actual note.
+
 
 === Luk:10:13 ===
 
 "Woe to you, Chorazin! Woe to you, Bethsaida! If the mighty works had been done in Tyre and Sidon which were done in you, they would have repented long ago, sitting in sackcloth and ashes."
 
-    * **Woe to you Chorazin! Woe to you Bethsaida**  - Jesus speaks as if the people of the cities of Chorazin and Bethsaida were there listening to him, but they were not. (See: [[en:ta:translate:apostrophe]])
+    * **(1) Woe to you Chorazin! Woe to you Bethsaida**  - Jesus speaks as if the people of the cities of Chorazin and Bethsaida were there listening to him, but they were not. (See: [[en:ta:translate:apostrophe]])
 
 === Luk:13:34===
 
 "Jerusalem, Jerusalem, who kills the prophets and stones those sent to you. How often I desired to gather your children the way a hen gathers her brood under her wings, but you did not desire this. "
 
-  * **Jerusalem, Jerusalem**  - Jesus speaks as if the people of Jerusalem were there listening to him. Jesus said this twice to show how sad he was for them. (See: [[:en:ta:translate:apostrophe|Apostrophe]])
+  * **(1) Jerusalem, Jerusalem**  - **(3)** Jesus speaks as if the people of Jerusalem were there listening to him. Jesus said this twice to show how sad he was for them. (See: [[:en:ta:translate:apostrophe|Apostrophe]])
 
 === Mat:02:06  ===
 
 "And you, Bethlehem, in the land of Judah, are not the least among the leaders of Judah, for from you will come a ruler who will shepherd my people Israel."
 
-  * **you, Bethlehem, … are not the least among the leaders of Judah**  - "You who live in Bethlehem, your town is certainly very important" (UDB) or "you, Bethlehem, … are one of the most important cities." (See: [[:en:ta:translate:apostrophe|Apostrophe]])
+  * **(1) you, Bethlehem, … are not the least among the leaders of Judah**  - "You who live in Bethlehem, your town is certainly very important" (UDB) or "you, Bethlehem, … are one of the most important cities." (See: [[:en:ta:translate:apostrophe|Apostrophe]])
 
 
-{{tag>draft}}
+{{tag>eq}}
