@@ -5,43 +5,35 @@
 
 Verbs either link the subject to a descriptive portion of the sentence or express an action or a state-of-being (e.g. am, is, are, was, were, be, being, been). Many languages use more verbs than English does. The portion of the sentence which contains the verb is called the predicate.
 
-
 ===== Template =====
+Required Fields: (See: [[en:bible:team-info:training:quick-reference:template]])
 
-Create notes as follows:
 
-  - List the phrase that includes the verb from the ULB in bold
-  - Explain the additional information that might be needed to clarify the meaning of the verb
-  - Offer translation alternative with the additional information added
-  - Add TA Link
+  * **1.** List the phrase that includes the verb from the ULB in bold
+  * **1.** Explain the additional information that might be needed to clarify the meaning of the verb
+  * **1.** Offer translation alternative with the additional information added
+  * **1.** Add TA Link (See: [[:en:ta:translate:verbs]])
 
-  * **phrase** - Additional information needed. Translation alternative with additional information added. (See: Verbs)
+  * **(1) Verb phrase** -  **(5)** Additional information needed.  **(5)** Translation alternative with additional information added. **(5)** (See: [[:en:ta:translate:verbs]])
 
 
 ===== Bible Examples =====
+Field reference numbers are included for clarity purposes only. They are omitted in the actual note.
+
 
 === Luk:08:10 ===
 
 "Jesus said to them, "You have been given the privilege of understanding the mysteries of the kingdom of God, but the rest of the people will only be taught with parables, so that 'seeing they will not really see, and hearing they will not really understand.'"
 
-  * **seeing they will not really see**  - "though they see, they will not perceive." If the verbs require an object it could be translated as "though they see things, they will not understand them" or "though they see things happen, they will not understand what they mean." (See: the section about [[https://door43.org/en/ta/vocabulary/verbs#verbs-and-objects|Verbs and Objects]] on [[:en:ta:translate:verbs|Verbs]])
+  * **seeing they will not really see**  -  **(2)** "though they see, they will not perceive."  **(3)** If the verbs require an object  **(4)** It could be translated as "though they see things, they will not understand them" or "though they see things happen, they will not understand what they mean."  **(5)** (See: [[:en:ta:translate:verbs]])
 
 === Act:01:05 ===
 
 "You heard from me that John indeed baptized with water but you shall be baptized in the Holy Spirit in a few days."
 
-  * **John baptized with water**  - For languages that require an object with "baptize," this can be translated as "John baptized people with water" or "John baptized them with water." (See: [[:en:ta:translate:verbs|Verbs]])
-
-=== Ref:ch:vv ===
-
-"ULB text of the verse for which the note is created."
-
-  * **phrase from ULB**  - sample note
-
+  * **John baptized with water**  -  **(3)** For languages that require an object with "baptize,"  **(4)** this can be translated as "John baptized people with water" or "John baptized them with water."  **(5)** (See: [[:en:ta:translate:verbs]])
 
 
 {{tag>eq ip}}
 
 \\ 
-
-
