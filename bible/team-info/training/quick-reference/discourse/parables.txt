@@ -6,37 +6,26 @@
 Concepts translated as "parable" include narrative stories, metaphors, similes, proverbs and even riddles. When you encounter a parable, know that the intent is to convey meaning through a story or word picture. A parable is not an actual account of an event; it is more like an imaginary example (e.g. This could happen).
 
 
+
 ===== Template =====
+Required Fields: (See: [[en:bible:team-info:training:quick-reference:template]])
 
-Create notes as follows:
+  * **1.** List the phrase that includes the parable from the ULB in bold
+  * **3.** Identify the key components of the parable and explain what the parable means
+  * **5.** Add TA Link (See: [[:en:ta:translate:parable]])
 
-  - List the phrase that includes the parable from the ULB in bold
-  - Identify the key components of the parable
-  - Explain what the parable means
-  - Add TA Link
-
-  * **phrase** - Components of the parable. Meaning. (See: Parable)
+  * **(1) phrase** - **(3)** Components & meaning of the parable.  **(5)** (See: [[:en:ta:translate:parable]])
 
 
 ===== Bible Examples =====
+Field reference numbers are included for clarity purposes only. They are omitted in the actual note.
+
 
 === Luk:12:42 ===
 
 "The Lord said, "Who then is the faithful and wise manager whom his lord will set over his other servants to give them their portion of food at the right time?"
 
-  * **the faithful and wise manager**  - Jesus tells another parable about how servants should be faithful while they wait for their master to return. (See: [[:en:ta:translate:parable|Parables]])
-
-=== Ref:ch:vv ===
-
-"ULB text of the verse for which the note is created."
-
-  * **phrase from ULB** - sample note
-
-=== Ref:ch:vv ===
-
-"ULB text of the verse for which the note is created."
-
-  * **phrase from ULB** - sample note
+  * **(1) the faithful and wise manager**  -  **(3)** Jesus tells another parable about how servants should be faithful while they wait for their master to return.  **(5)** (See: [[:en:ta:translate:parable]])
 
 
-{{tag>draft}}
+{{tag>eq}}
