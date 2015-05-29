@@ -10,11 +10,11 @@ Required Fields: (See: [[en:bible:team-info:training:quick-reference:template]])
 
 
   * **1.** List the phrase that includes the verb from the ULB in bold
-  * **1.** Explain the additional information that might be needed to clarify the meaning of the verb
-  * **1.** Offer translation alternative with the additional information added
-  * **1.** Add TA Link (See: [[:en:ta:translate:verbs]])
+  * **3.** Explain the additional information that might be needed to clarify the meaning of the verb
+  * **4.** State translation alternative
+  * **5.** Add TA Link (See: [[:en:ta:translate:verbs]])
 
-  * **(1) Verb phrase** -  **(5)** Additional information needed.  **(5)** Translation alternative with additional information added. **(5)** (See: [[:en:ta:translate:verbs]])
+  * **(1) Verb phrase** -  **(3)** Additional information needed.  **(4)** Translation alternative. **(5)** (See: [[:en:ta:translate:verbs]])
 
 
 ===== Bible Examples =====
