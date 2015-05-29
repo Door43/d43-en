@@ -5,39 +5,37 @@
 
 Something that is hypothetical is 'assumed' or 'supposed.' A hypothetical situation is a possible scenario from any point in time: past, present or future. This situation may or may not actually be true. It could possibly happen or it may never happen. A hypothetical situation might mean asking a “what if” question. It might be a “suppose” or “if only” statement.
 
-
 ===== Template =====
+Required Fields: (See: [[en:bible:team-info:training:quick-reference:template]])
 
-Create notes as follows:
+  * **1.** List the phrase that includes the hypothetical situation from the ULB in bold
+  * **3.** Identify and state the purpose of the hypothetical situation
+  * **4.** Suggest the translator use form from their language if it exists
+  * **5.** Add TA Link (See: [[:en:ta:translate:hypothetical]])
 
-  - List the phrase that includes the hypothetical situation from the ULB in bold
-  - Identify this as a hypothetical situation
-  - Explain the purpose of the hypothetical situation
-  - Suggest the translator use form from their language if it exists
-  - Add TA Link
-
-  * **phrase** - Identify the situation. Purpose. Suggest use cultural form. (See: Hypothetical Situation)
-
+  * **(1) Hypothetical phrase** - **(3)** Identify and state the purpose of the situation. **(4)** Suggest to use cultural form. **(5)** (See: [[:en:ta:translate:hypothetical]])
 
 ===== Bible Examples =====
+Field reference numbers are included for clarity purposes only. They are omitted in the actual note.
+
 
 === Mat:24:08 ===
 
 "But if the woman is not willing to follow you, then you will be free from this oath of mine. Only you are not to take my son back there."
 
-  * **But if**  - Abraham is answering the servant's hypothetical question from [[:en:bible:notes:gen:24:05|24:5]]. Abraham thinks this is an unlikely, even impossible, situation. (See: [[:en:ta:translate:hypothetical|Hypothetical Situations]])
+  * **But if**  - Abraham is answering the servant's hypothetical question from [[:en:bible:notes:gen:24:05|24:5]]. Abraham thinks this is an unlikely, even impossible, situation. (See: [[:en:ta:translate:hypothetical]])
 
 === Gal:01:08 ===
 
 "But even if we, or an angel from heaven, should proclaim to you a gospel other than the one we proclaimed to you, he should be cursed."
 
-  * **should proclaim**  - "would proclaim" or "were to proclaim." This is describing something that has not happened and should not happen. (See: [[:en:ta:translate:hypothetical|Hypothetical Situations]])
+  * **should proclaim**  - "would proclaim" or "were to proclaim." This is describing something that has not happened and should not happen. (See: [[:en:ta:translate:hypothetical]])
 
 === Luk:22:67 ===
 
 "saying, "If you are the Christ, tell us." But he said to them, "If I tell you, you will not believe,"
 
-  * **If I tell you, you will not believe**  - This is the first of two hypothetical statements by Jesus. It was a way for Jesus to respond without giving them a reason to say that he was guilty of blasphemy. Your language may have a way of indicating that the action has not actually happened. (See: [[:en:ta:translate:hypothetical|Hypothetical Situations]])
+  * **If I tell you, you will not believe**  - This is the first of two hypothetical statements by Jesus. It was a way for Jesus to respond without giving them a reason to say that he was guilty of blasphemy. Your language may have a way of indicating that the action has not actually happened. (See: [[:en:ta:translate:hypothetical]])
 
 
-{{tag>draft}}
+{{tag>eq}}
