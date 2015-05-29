@@ -17,7 +17,7 @@ Required Fields: (See: [[en:bible:team-info:training:quick-reference:template]])
     - State the preferred choice, no ambiguity
   * **5.** Add TA Link (See: [[:en:ta:translate:ambiguity]])
 
-  * **Ambiguous phrase** - **(3)** Meaning. **(4)** Translation suggestion. **(3)** (See: [[:en:ta:translate:ambiguity]])
+  * **Ambiguous phrase** - **(3)** Meaning. **(4)** Translation suggestion. **(5)** (See: [[:en:ta:translate:ambiguity]])
 
 
 ===== Bible Examples =====
@@ -28,7 +28,7 @@ Field reference numbers are included for clarity purposes only. They are omitted
 
 "But if we confess our sins, he is faithful and righteous to forgive us our sins and to cleanse us from all unrighteousness. If we say that we have not sinned, we make him a liar, and his word is not in us."
 
-  * **(1) he…him…his**  - **(3)** These pronouns are probably referring to Jesus, but they may refer to God the Father. It is best to leave the pronouns ambiguous if your language will allow it. **(3)** (See: [[:en:ta:translate:ambiguity]])
+  * **(1) he…him…his**  - **(3)** These pronouns are probably referring to Jesus, but they may refer to God the Father. **(4)** It is best to leave the pronouns ambiguous if your language will allow it. **(5)** (See: [[:en:ta:translate:ambiguity]])
 
 
 {{tag>eq ip}}
