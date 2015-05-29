@@ -6,37 +6,25 @@
 In English, events are not always told in the order in which they occurred. Sometimes the author may need to discuss something that happened at an earlier time. The English language does this by using different tenses or time words such as ‘yesterday’, ‘last year’ or ‘before that.’ Other languages clearly state the order of events to avoid confusion.
 
 
+
 ===== Template =====
+Required Fields: (See: [[en:bible:team-info:training:quick-reference:template]])
 
-Create notes as follows:
+  * **1.** List the phrase that includes the marker from the ULB in bold
+  * **3.** Explain what the marker means
+  * **4.** Offer translation alternative if helpful
+  * **5.** Add TA Link
 
-  - List the phrase that includes the ----- from the ULB in bold
-  - Explain what the ------ means
-  - Offer translation alternative if helpful
-  - Add TA Link
-
-  * **phrase** - Meaning. (See: Order of Events)
-
+  * **(1) Order of Event marker phrase** - **(3)** Meaning. **(5)** (See: [[:en:ta:translate:eventorder]])
 
 ===== Bible Examples =====
+Field reference numbers are included for clarity purposes only. They are omitted in the actual note.
 
 === Ref:ch:vv ===
 
 "ULB text of the verse for which the note is created."
 
-  * **phrase from ULB** - sample note
-
-=== Ref:ch:vv ===
-
-"ULB text of the verse for which the note is created."
-
-  * **phrase from ULB** - sample note
-
-=== Ref:ch:vv ===
-
-"ULB text of the verse for which the note is created."
-
-  * **phrase from ULB** - sample note
+  * **(1) phrase from ULB** - **(3)** sample note. **(3)** sample translation. **(5)** (See: [[:en:ta:translate:eventorder]])
 
 
-{{tag>draft}}
+{{tag>eq}}
