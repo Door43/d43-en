@@ -7,37 +7,28 @@ Ambiguity happens when a single word or phrase can have more than one meaning.
 
 
 ===== Template =====
+Required Fields: (See: [[en:bible:team-info:training:quick-reference:template]])
 
-Create notes as follows:
 
-  - List the phrase that includes the ambiguity from the ULB in bold
-  - Explain the possible meanings for the ambiguous phrase
-  - Suggest making the translation ambiguous as well if possible
-  - Add TA Link
+  * **1.** List the phrase that includes the ambiguity from the ULB in bold
+  * **3.** Explain the possible meanings for the ambiguous phrase
+  * **4.** State translation suggestion
+    * State ways to maintain ambiguity
+    * State the preferred choice, no ambiguity
+  * **5.** Add TA Link (See: [[:en:ta:translate:ambiguity]])
 
-  * **phrase** - Meaning. Translation suggestion. (See: Ambiguity)
+  * **Ambiguous phrase** - **(3)** Meaning. **(4)** Translation suggestion. **(3)** (See: [[:en:ta:translate:ambiguity]])
 
 
 ===== Bible Examples =====
+Field reference numbers are included for clarity purposes only. They are omitted in the actual note.
 
 
 === 1Jn:01:09===
 
 "But if we confess our sins, he is faithful and righteous to forgive us our sins and to cleanse us from all unrighteousness. If we say that we have not sinned, we make him a liar, and his word is not in us."
 
-  * **he…him…his**  - These pronouns are probably referring to Jesus, but they may refer to God the Father. It is best to leave the pronouns ambiguous if your language will allow it. (See: [[:en:ta:translate:ambiguity|Ambiguity]])
-
-=== Ref:ch:vv ===
-
-"ULB text of the verse for which the note is created."
-
-  * **phrase from ULB**  - sample note
-
-=== Ref:ch:vv ===
-
-"ULB text of the verse for which the note is created."
-
-  * **phrase from ULB**  - sample note
+  * **(1) he…him…his**  - **(3)** These pronouns are probably referring to Jesus, but they may refer to God the Father. It is best to leave the pronouns ambiguous if your language will allow it. **(3)** (See: [[:en:ta:translate:ambiguity]])
 
 
-{{tag>draft}}
+{{tag>eq ip}}
