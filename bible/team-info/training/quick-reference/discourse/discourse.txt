@@ -5,7 +5,7 @@
 
 Discourse markers are like cohesion markers in that they join sentences together on a higher level in connecting events, episodes, into a coherent story line.
 
-(See: [[:en:ta:translate:cohesion]])
+(See:[[:en:ta:discourse:home]] and [[:en:ta:translate:cohesion]])
 
 ===== Template =====
 Required Fields: (See: [[en:bible:team-info:training:quick-reference:template]])
@@ -13,20 +13,19 @@ Required Fields: (See: [[en:bible:team-info:training:quick-reference:template]])
   * **1.** List the phrase that includes the marker from the ULB in bold
   * **3.** Explain what the marker means
   * **4.** Point the translator to how his language handles the discourse marker
-  * **5.** Add TA Link (See: [[:en:ta:translate:cohesion]])
+  * **5.** Add TA Link (See:[[:en:ta:discourse:home]])
 
-  * **(1) Discourse marker phrase** - **(3)** Meaning. **(4)** Exame how your language marks this and use it.  **(5)** (See: [[:en:ta:translate:cohesion]]) 
+  * **(1) Discourse marker phrase** - **(3)** Meaning. **(4)** Exame how your language marks this and use it.  **(5)** (See: [[:en:ta:discourse:home]])
 
 
 ===== Bible Examples =====
 Field reference numbers are included for clarity purposes only. They are omitted in the actual note.
 
 
-=== Ref:ch:vv ===
+=== Act:12:20 ===
+Now Herod was very angry with the people of Tyre and Sidon. 
 
-"ULB text of the verse for which the note is created."
-
-  * **phrase from ULB** - sample note
+  * **(1) Now** - (3) “Now” marks a change in the story timeline. (4)It can be translation as “At that time.” **(5)** (See: [[:en:ta:discourse:home]])
 
 
 {{tag>eq ip}}
