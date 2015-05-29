@@ -6,31 +6,42 @@ There are two different forms of communication found in both written and spoken 
    * A message with all information included is **explicit**,
   * A message that leaves out information but is still understood is **implicit**.
 
+
 ===== Template =====
+Required Fields: (See: [[en:bible:team-info:training:quick-reference:template]])
 
-Create notes as follows:
 
-  - List the phrase from the ULB in bold where the implicit information should appear
-  - Identify the content of the implicit information
-  - Suggest translation alternative with information made explicit
-  - Add TA Link
+  * **1.** List the phrase from the ULB in bold where the implicit information should appear
+  * **3.** Identify the content of the implicit information
+  * **4.** Suggest translation alternative with information made explicit
+  * **5.** Add TA Link (See: implicitexplicit)
 
-  * **phrase**  - Implicit content. Explicit translation suggestion. (See: Explicit and Implicit Information)
+  * **(1) Implicit phrase** - **(3)** Implicit content. **(4)** Explicit translation suggestion. **(5)** (See: [[:en:ta:translate:implicitexplicit]])
+
 ===== Bible Examples =====
+Field reference numbers are included for clarity purposes only. They are omitted in the actual note.
 
 === Act:15:19 ===
 
 "Therefore, my opinion is, that we should not trouble those of the Gentiles who turn to God; "
 
-  * **we should not trouble those of the Gentiles**  - "we should not require the gentiles to become circumcised and obey the laws of Moses" (See: [[:en:ta:translate:implicitexplicit|Explicit and Implicit Information]])
+  * **(1) we should not trouble those of the Gentiles**  - **(3)** It was implied that the gentiles should not have to be circumcised and be required to follow the Law of Moses to be saved. **(4)** This can be translated as "we should not require the gentiles to become circumcised and obey the laws of Moses" **(5)** (See: [[:en:ta:translate:implicitexplicit]])
+
 === Gen:16:15 ===
 
 "Hagar gave birth to Abram's son, and Abram named his son, whom Hagar bore, Ishmael."
 
-  * **Hagar gave birth**  - Hagar's return to Sarai and Abram is implict. You can make this more explicit: "So Hagar went back and gave birth." (See: [[:en:ta:translate:implicitexplicit|Explicit and Implicit Information]]).
+  * **(1) Hagar gave birth** - **(3)** Hagar's return to Sarai and Abram is implict. **(4)** It can be translated as "So Hagar went back and gave birth." **(5)** (See: [[:en:ta:translate:implicitexplicit]])
+
+
 === Luk:23:17 ===
 
 "Now Pilate was obligated to release to the Jews one prisoner at the feast. "
 
-  * **he was obligated to release to them one prisoner**  - Pilate was required to do this by political custom. This implied information can be stated explicitly: "he was obligated by custom to release to them one prisoner." (See: [[:en:ta:translate:implicitexplicit|Explicit and Implicit Information]])
-{{tag>draft}}
+  * **(1) he was obligated to release to them one prisoner**  - **(3)** Pilate was required to do this by political custom. **(4)** This can be translated as "he was obligated by custom to release to them one prisoner." **(5)** (See: [[:en:ta:translate:implicitexplicit]])
+
+
+{{tag>eq}}
+
+\\ 
+
