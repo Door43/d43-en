@@ -12,9 +12,9 @@ Required Fields: (See: [[en:bible:team-info:training:quick-reference:template]])
 
   * **1.** List the phrase that includes the ambiguity from the ULB in bold
   * **3.** Explain the possible meanings for the ambiguous phrase
-  * **4.** State translation suggestion
-    * State ways to maintain ambiguity
-    * State the preferred choice, no ambiguity
+  * **4.** State alternate translation
+    - State ways to maintain ambiguity
+    - State the preferred choice, no ambiguity
   * **5.** Add TA Link (See: [[:en:ta:translate:ambiguity]])
 
   * **Ambiguous phrase** - **(3)** Meaning. **(4)** Translation suggestion. **(3)** (See: [[:en:ta:translate:ambiguity]])
