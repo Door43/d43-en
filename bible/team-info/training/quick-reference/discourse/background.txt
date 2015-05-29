@@ -10,33 +10,42 @@ Occasionally an author may take a break from the storyline to share something of
 
 
 ===== Template =====
+Required Fields: (See: [[en:bible:team-info:training:quick-reference:template]])
 
-Create notes as follows:
+  * **1.** List the phrase that includes or begins the background information from the ULB in bold
+  * **3.** Identify the content and purpose of the background information
+  * **4.** Suggest they translators use their form for background information if one exists
+  * **5.** Add TA Link (See: [[:en:ta:translate:writingstyles]])
 
-  - List the phrase that includes or begins the background information from the ULB in bold
-  - Identify the content of the background information
-  - Explain the purpose of the background information
-  - Suggest they translators use their form for background information if one exists
-  - Add TA Link
-
-  * **phrase** - Content. Purpose. Suggestion to use cultural form. (See: Background Information)
+  * **(1) Background info phrase** - **(3)** Content & Purpose. **(4)**Suggestion to use cultural form. **(5)** (See: [[:en:ta:translate:writingstyles]])
 
 
 ===== Bible Examples =====
+Field reference numbers are included for clarity purposes only. They are omitted in the actual note.
+
 
 === Act:08:09 ===
 
 "But there was a certain man in the city named Simon, who had earlier been practicing sorcery; he used to astonish the people of Samaria, while claiming that he was an important person."
 
-  * **the city**  - "the city in Samaria." "in Samaria" is background information. (See: [[:en:ta:translate:writingstyles|Writing Styles - Background Information]])
+  * **(1) the city** - **(3)** "in Samaria" is background information. **(4)** "the city in Samaria." **(5)** (See: [[:en:ta:translate:writingstyles]])
+
+
 === Gen:16:16 ===
 
 "Abram was eighty-six years old when Hagar bore Ishmael to Abram."
 
-  * **Abram was**  - This introduces background information about Abram's age when these things happened. Your language may have a special way to mark background information. (See: [[:en:ta:translate:writingstyles|Writing Styles - Background Information]])
+  * **(1) Abram was** - **(3)** This introduces background information about Abram's age when these things happened. **(4)** Your language may have a special way to mark background information. **(5)** (See: [[:en:ta:translate:writingstyles]])
+
+
 === Luk:03:23 ===
 
 "Now Jesus himself, when he began to teach, was about thirty years of age. He was the son (as was supposed) of Joseph, the son of Heli, "
 
-  * **Jesus himself**  - "this Jesus" or "this person Jesus." This is immediately followed by background information about Jesus. If your language has a way of showing that what follows is background information, you should use it here. (See: [[:en:ta:translate:writingstyles|Writing Styles - Background Information]])
-{{tag>draft}}
+  * **(1) Jesus himself**  - **(2)** "this Jesus" or "this person Jesus."  **(3)** This is immediately followed by background information about Jesus. **(4)** If your language has a way of showing that what follows is background information, you should use it here. **(5)** (See: [[:en:ta:translate:writingstyles]])
+
+
+{{tag>eq}}
+
+\\ 
+
