@@ -4,5 +4,5 @@
 
 This is the status of the Genesis Comprehension Question pages:
 
-^  Draft  ^  Review  ^  Publish  ^
-|{{topic>en:bible:notes:gen:questions:comprehension?draft&nocomments&simplelist}} |{{topic>en:bible:notes:gen:questions:comprehension?review&nocomments&simplelist}} |{{topic>en:bible:notes:gen:questions:comprehension?publish&nocomments&simplelist}} |
+^  Draft  ^  Review  ^  Text  ^  Publish  ^
+|{{topic>en:bible:notes:gen:questions:comprehension?draft&nocomments&simplelist}} |{{topic>en:bible:notes:gen:questions:comprehension?review&nocomments&simplelist}} |{{topic>en:bible:notes:gen:questions:comprehension?text&nocomments&simplelist}} |{{topic>en:bible:notes:gen:questions:comprehension?publish&nocomments&simplelist}} |
