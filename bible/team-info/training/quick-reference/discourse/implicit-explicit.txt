@@ -1,13 +1,10 @@
 ====== Implicit and Explicit Information ======
 
-
 ===== Description =====
 
 There are two different forms of communication found in both written and spoken messages. One is called **//explicit//** and the other //**implicit**//. The speaker, or writer, has a particular audience in mind as he gives the message. This affects the form of his message and his decision on what information to include or leave out.
-
-  * A message with all information included is **explicit**,
+   * A message with all information included is **explicit**,
   * A message that leaves out information but is still understood is **implicit**.
-
 
 ===== Template =====
 
@@ -18,9 +15,7 @@ Create notes as follows:
   - Suggest translation alternative with information made explicit
   - Add TA Link
 
-  * **phrase** - Implicit content. Explicit translation suggestion.  (See: Explicit and Implicit Information)
-
-
+  * **phrase**  - Implicit content. Explicit translation suggestion. (See: Explicit and Implicit Information)
 ===== Bible Examples =====
 
 === Act:15:19 ===
@@ -28,18 +23,14 @@ Create notes as follows:
 "Therefore, my opinion is, that we should not trouble those of the Gentiles who turn to God; "
 
   * **we should not trouble those of the Gentiles**  - "we should not require the gentiles to become circumcised and obey the laws of Moses" (See: [[:en:ta:translate:implicitexplicit|Explicit and Implicit Information]])
-
 === Gen:16:15 ===
 
 "Hagar gave birth to Abram's son, and Abram named his son, whom Hagar bore, Ishmael."
 
   * **Hagar gave birth**  - Hagar's return to Sarai and Abram is implict. You can make this more explicit: "So Hagar went back and gave birth." (See: [[:en:ta:translate:implicitexplicit|Explicit and Implicit Information]]).
-
 === Luk:23:17 ===
 
 "Now Pilate was obligated to release to the Jews one prisoner at the feast. "
 
   * **he was obligated to release to them one prisoner**  - Pilate was required to do this by political custom. This implied information can be stated explicitly: "he was obligated by custom to release to them one prisoner." (See: [[:en:ta:translate:implicitexplicit|Explicit and Implicit Information]])
-
-
 {{tag>draft}}
