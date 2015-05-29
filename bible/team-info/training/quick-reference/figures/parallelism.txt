@@ -5,39 +5,39 @@
 
 Parallelism is the expression of one idea in two or more different ways. Parallelism is most commonly found in the book of Psalms and Proverbs but is found throughout the whole of the Hebrew Bible. 
 
-
 ===== Template =====
+Required Fields: (See: [[en:bible:team-info:training:quick-reference:template]])
 
-Create notes as follows:
 
-  - List the phrases that includes the parallelism from the ULB in bold
-  - Explain the purpose of the parallelism
-  - Suggest alternative translation if helpful
-  - Add TA Link
+  * **1.** List the phrases that includes the parallelism from the ULB in bold
+  * **3.** Explain the purpose of the parallelism
+  * **4.** Alternative translation
+  * **5.** Add TA Link
 
-  * **phrase** - Purpose. Alternate translation. (See: Parallelism)
+  * **(1) Parallelism phrase** - **(3)** Purpose. **(4)** Alternate translation. **(5)** (See: [[:en:ta:translate:parallelism]])
 
 
 ===== Bible Examples =====
+Field reference numbers are included for clarity purposes only. They are omitted in the actual note.
+
 
 === Rut:02:12 ===
 
 "May Yahweh reward you for your deed. May you receive full payment from Yahweh, the God of Israel, under whose wings you have found refuge."
 
-  * **May you receive full payment from Yahweh**  - This is a poetic expression that is very similar to the previous sentence. It could be translated as "May Yahweh give back to you even more than you have given." (See: [[:en:ta:translate:parallelism|Parallelism]])
+  * **May you receive full payment from Yahweh**  -  **(3)** This is a poetic expression that is very similar to the previous sentence.  **(4)** It could be translated as "May Yahweh give back to you even more than you have given." **(5)** (See: [[:en:ta:translate:parallelism]])
 
 === Rut:02:19 ===
 
 "And her mother-in-law said to her, "Where have you gleaned today? And where did you go to work?"
 
-  * **"Where have you gleaned today. And where did you go to work?**  - The Hebrews often repeated thing in different words as a way of emphasis. (See: [[en:ta:translate:parallelism]])
+  * **"Where have you gleaned today. And where did you go to work?**  -  **(3)** The Hebrews often repeated thing in different words as a way of emphasis.  **(4)** It can be translated as "where have you worked and gleaned today?" **(5)** (See: [[:en:ta:translate:parallelism]])
 
 === Luk:12:02 ===
 
 "But there is nothing concealed, that will not be revealed, and nothing hidden, that will not be known."
 
-  * **and nothing hidden, that will not be made known**  - This part of the sentence uses different words to say the same thing as the first part in order to emphasize its truth. (See: [[:en:ta:translate:parallelism|Parallelism]])
+  * **and nothing hidden, that will not be made known**  -  **(3)** This part of the sentence uses different words to say the same thing as the first part in order to emphasize its truth.  **(4)** It can be translated as "all will be visible and made known." **(5)** (See: [[:en:ta:translate:parallelism]])
 
 
-
-{{tag>draft}}
+{{tag>eq}}
