@@ -9,37 +9,38 @@ In English there are direct and non-direct (indirect) quotations.
   * **INDIRECT**  or **NON-DIRECT**  quotations are when someone reports basically what another person said but from his own perspective (his own words). (She told him to come. He said he would come.) The pronouns change, and often there is a change in the verb tense. Indirect quotations are written without quote marks “ ”.
 
 
+
 ===== Template =====
+Required Fields: (See: [[en:bible:team-info:training:quick-reference:template]])
 
-Create notes as follows:
+  * **1.** List the phrase that includes the speech quotations from the ULB in bold
+  * **3.** Identify the type of speech quotation
+  * **4.** Offer translation alternative using another type of quotation
+  * **5.** Add TA Link (See: [[:en:ta:translate:quotation]])
 
-  - List the phrase that includes the speech quotations from the ULB in bold
-  - Identify the type of speech quotation
-  - Offer translation alternative using another type of quotation
-  - Add TA Link
-
-  * **phrase** - Type of quotation. Alternate translation using another type of quotation. (See: Speech Quotations)
-
+  * **(1) phrase** - Type of quotation. Alternate translation using another type of quotation. **(5)** (See: [[:en:ta:translate:quotation]])
 
 ===== Bible Examples =====
+Field reference numbers are included for clarity purposes only. They are omitted in the actual note.
+
 
 === Luk:09:21 ===
 
 "But warning them, Jesus instructed them to tell this to no one, "
 
-    * **to tell this to no one** - "not to tell anyone" or "that they should not tell anyone." This is an indirect quote. It can also be translated as a direct quote, as in "Do not tell anyone." (See: [[en:ta:translate:quotation]])
+    * **(1) to tell this to no one** - "not to tell anyone" or "that they should not tell anyone." This is an indirect quote. It can also be translated as a direct quote, as in "Do not tell anyone." **(5)** (See: [[:en:ta:translate:quotation]])
 
 === Luk:22:11 ===
 
 "Then say to the master of the house, 'The Teacher says to you, "Where is the guest room, where I will eat the Passover with my disciples?"'"
 
-  * **The Teacher says to you** - This begins a direct quotation where Jesus tells the disciples what they should say. The UDB renders this as an indirect quotation: "Our teacher says to show us." (See: [[en:ta:translate:quotation]])
+  * **(1) The Teacher says to you** - This begins a direct quotation where Jesus tells the disciples what they should say. The UDB renders this as an indirect quotation: "Our teacher says to show us." **(5)** (See: [[:en:ta:translate:quotation]])
 
 === Act:14:22 ===
 
 "They kept strengthening the minds of the disciples and encouraging them to continue in the faith. They told them that it is through many sufferings that we must enter into the kingdom of God."
 
-  * **They told them that it is through many sufferings that we must enter into the kingdom of God** - This is an indirect speech quote. It can be translated using a direct speech quote as, "They told them, 'It is through many sufferings that we must enter the kingdom of God.' " (See: [[:en:ta:translate:quotation]])
+  * **(1) They told them that it is through many sufferings that we must enter into the kingdom of God** - This is an indirect speech quote. It can be translated using a direct speech quote as, "They told them, 'It is through many sufferings that we must enter the kingdom of God.' " **(5)** (See: [[:en:ta:translate:quotation]])
 
 
-{{tag>draft}}
+{{tag>eq ip}}
