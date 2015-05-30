@@ -28,3 +28,29 @@
 **AND**
 
  {{pagequery> ns:en:bible:notes:mat "(see: [[en:ta"; fulltext; sort=title:asc; display={title}; layout=column; showcount; hidestart; natsort; bullet=square; }}
+
+==== Mark ====
+
+{{pagequery> ns:en:bible:notes:mrk "(see: [[:en:ta"; fulltext; sort=title:asc; display={title}; layout=column; showcount; hidestart; natsort; bullet=square; }}
+
+**AND**
+
+ {{pagequery> ns:en:bible:notes:mrk "(see: [[en:ta"; fulltext; sort=title:asc; display={title}; layout=column; showcount; hidestart; natsort; bullet=square; }}
+
+==== 2 Thessalonians ====
+
+{{pagequery> ns:en:bible:notes:2th "(see: [[:en:ta"; fulltext; sort=title:asc; display={title}; layout=column; showcount; hidestart; natsort; bullet=square; }}
+
+**AND**
+
+ {{pagequery> ns:en:bible:notes:2th "(see: [[en:ta"; fulltext; sort=title:asc; display={title}; layout=column; showcount; hidestart; natsort; bullet=square; }}
+
+==== Colossians ====
+
+{{pagequery> ns:en:bible:notes:col "(see: [[:en:ta"; fulltext; sort=title:asc; display={title}; layout=column; showcount; hidestart; natsort; bullet=square; }}
+
+**AND**
+
+ {{pagequery> ns:en:bible:notes:col "(see: [[en:ta"; fulltext; sort=title:asc; display={title}; layout=column; showcount; hidestart; natsort; bullet=square; }}
+
+
