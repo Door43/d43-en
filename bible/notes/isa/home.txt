@@ -4,9 +4,6 @@
   * [[en:bible:admin-reports:notes-team-admin:isa]]
   * [[:en:bible:team-info:training:notes-training|Notes Training]]
 
-
-<nspages en:bible:notes:rom:01 -title -naturalOrder -exclude:home -textPages="Romans 1:" -nbCol=2> 
-
 <nspages en:bible:notes:isa:01 -title -naturalOrder -exclude:home -textPages="Isaiah 1" -nbCol=2> 
 
 <nspages en:bible:notes:isa:02 -title -naturalOrder -exclude:home -textPages="Isaiah 2" -nbCol=2> 
