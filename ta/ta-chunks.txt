@@ -14,13 +14,13 @@
 **AND**
 
  {{pagequery> ns:en:bible:notes:act "(see: [[en:ta"; fulltext; sort=title:asc; display={title}; layout=column; showcount; hidestart; natsort; bullet=square; }}
-==== Galatians ====
+==== James ====
 
-{{pagequery> ns:en:bible:notes:gal "(see: [[:en:ta"; fulltext; sort=title:asc; display={title}; layout=column; showcount; hidestart; natsort; bullet=square; }}
+{{pagequery> ns:en:bible:notes:jam "(see: [[:en:ta"; fulltext; sort=title:asc; display={title}; layout=column; showcount; hidestart; natsort; bullet=square; }}
 
 **AND**
 
- {{pagequery> ns:en:bible:notes:gal "(see: [[en:ta"; fulltext; sort=title:asc; display={title}; layout=column; showcount; hidestart; natsort; bullet=square; }}
+ {{pagequery> ns:en:bible:notes:jam "(see: [[en:ta"; fulltext; sort=title:asc; display={title}; layout=column; showcount; hidestart; natsort; bullet=square; }}
 ==== Matthew ====
 
 {{pagequery> ns:en:bible:notes:mat "(see: [[:en:ta"; fulltext; sort=title:asc; display={title}; layout=column; showcount; hidestart; natsort; bullet=square; }}
