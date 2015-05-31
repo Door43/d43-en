@@ -1,0 +1,24 @@
+==== Genesis ====
+
+{{pagequery> ns:en:bible:notes:gen "(see: [[:en:ta"; fulltext; sort=title:asc; display={title}; layout=column; showcount; hidestart; natsort; bullet=square; }}
+
+**AND Genesis**
+
+ {{pagequery> ns:en:bible:notes:gen "(see: [[en:ta"; fulltext; sort=title:asc; display={title}; layout=column; showcount; hidestart; natsort; bullet=square; }}
+
+==== Isaiah ====
+
+{{pagequery> ns:en:bible:notes:isa "(see: [[:en:ta"; fulltext; sort=title:asc; display={title}; layout=column; showcount; hidestart; natsort; bullet=square; }}
+
+**AND Isaiah**
+
+ {{pagequery> ns:en:bible:notes:isa "(see: [[en:ta"; fulltext; sort=title:asc; display={title}; layout=column; showcount; hidestart; natsort; bullet=square; }}
+
+
+==== Jonah ====
+
+{{pagequery> ns:en:bible:notes:jon "(see: [[:en:ta"; fulltext; sort=title:asc; display={title}; layout=column; showcount; hidestart; natsort; bullet=square; }}
+
+**AND Jonah**
+
+ {{pagequery> ns:en:bible:notes:jon "(see: [[en:ta"; fulltext; sort=title:asc; display={title}; layout=column; showcount; hidestart; natsort; bullet=square; }}
