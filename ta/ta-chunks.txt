@@ -37,13 +37,13 @@
 
  {{pagequery> ns:en:bible:notes:mrk "(see: [[en:ta"; fulltext; sort=title:asc; display={title}; layout=column; showcount; hidestart; natsort; bullet=square; }}
 
-==== 2 Thessalonians ====
+==== Jonah ====
 
-{{pagequery> ns:en:bible:notes:2th "(see: [[:en:ta"; fulltext; sort=title:asc; display={title}; layout=column; showcount; hidestart; natsort; bullet=square; }}
+{{pagequery> ns:en:bible:notes:jon "(see: [[:en:ta"; fulltext; sort=title:asc; display={title}; layout=column; showcount; hidestart; natsort; bullet=square; }}
 
 **AND**
 
- {{pagequery> ns:en:bible:notes:2th "(see: [[en:ta"; fulltext; sort=title:asc; display={title}; layout=column; showcount; hidestart; natsort; bullet=square; }}
+ {{pagequery> ns:en:bible:notes:jon "(see: [[en:ta"; fulltext; sort=title:asc; display={title}; layout=column; showcount; hidestart; natsort; bullet=square; }}
 
 ==== Colossians ====
 
