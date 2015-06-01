@@ -8,6 +8,7 @@ Discourse markers are like cohesion markers in that they join sentences together
 (See: [[:en:ta:discourse:home]] and [[:en:ta:translate:cohesion]])
 
 ===== Template =====
+
 Required Fields: (See: [[en:bible:team-info:training:quick-reference:template]])
 
   * **1.** List the phrase that includes the marker from the ULB in bold
@@ -19,14 +20,17 @@ Required Fields: (See: [[en:bible:team-info:training:quick-reference:template]])
 
 
 ===== Bible Examples =====
+
 Field reference numbers are included for clarity purposes only. They are omitted in the actual note.
 
 
 === Act:12:20 ===
+
 Now Herod was very angry with the people of Tyre and Sidon. 
 
   * **(1) Now Herod** - **(3)** “Now” marks a change in the story timeline. **(4)** It can be translated as “At that time.” **(5)** (See: [[:en:ta:discourse:home]])
 
+~~DISCUSSION~~
 
 {{tag>eq}}
 
