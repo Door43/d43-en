@@ -10,6 +10,7 @@ These resources help with common tasks in translationStudio:
   * [[:en:ta:tech:ts:languages|Select languages]]
   * [[:en:ta:tech:ts:request-language|Request a new language]]
   * [[:en:ta:tech:ts:edit|Create and edit translated text]]
+    * Add a Footnote
   * [[:en:ta:tech:ts:resources|Find resources - translation notes and important terms]]
   * [[:en:ta:tech:ts:share|Share your work with others]]
   * [[:en:ta:tech:ts:upload|Upload your work to Door43]]
