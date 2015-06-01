@@ -7,18 +7,17 @@ A metaphor is a figure of speech that creates a 'word picture' by relating one t
 
 
 ===== Template =====
-Required Fields: (See: [[en:bible:team-info:training:quick-reference:template]])
 
-  * **1.** List the phrase that includes the metaphor from the ULB in bold
-  * **3.** Explain the parts of the metaphor
-    - State the topic 
-    - State the image
-    - State the point of similarity 
-  * **4.** State the metaphor as a simile or other translation suggestion
-  * **5.** Add TA Link: (See: [[:en:ta:translate:Simile]])
+Required Fields: (See: [[:en:bible:team-info:training:quick-reference:template|General Template]])
 
-  * **(1) Metaphor phrase** - **(3)** the parts of the metaphor (Topic:, Image:, Similarity:). **(4)** Simile or Alternate translation. **(5)** (See: [[:en:ta:translate:metaphor]])
-
+  * **1.**  List the phrase that includes the metaphor from the ULB in bold
+  * **3.**  Explain the parts of the metaphor
+      - State the topic
+      - State the image
+      - State the point of similarity
+  * **4.**  State the metaphor as a simile or other translation suggestion
+  * **5.**  Add TA Link: (See: [[:en:ta:translate:simile|Simile]])
+  * **(1) Metaphor phrase**  - **(3)**  the parts of this metaphor (Topic:, Image:, Similarity:). **(4)**  Simile or Alternate translation. **(5)**  (See: [[:en:ta:translate:metaphor|Metaphor]])
 
 ===== Bible Examples =====
 Field reference numbers are included for clarity purposes only. They are omitted in the actual note.
