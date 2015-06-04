@@ -7,7 +7,6 @@ Ellipsis is where words are left out of the sentence because it is not needed to
 
 
 ===== Template =====
-Required Fields: (See: [[en:bible:team-info:training:quick-reference:template]])
 
   * **1.** List the phrase that includes the ellipsis from the ULB in bold
   * **3.** State the information that has been left out
@@ -15,6 +14,16 @@ Required Fields: (See: [[en:bible:team-info:training:quick-reference:template]])
 
   * **(1) Ellipsis phrase** - **(3)** Missing information. **(5)** (See: Ellipsis)
 
+
+Template fields: (See: [[:en:bible:team-info:training:quick-reference:template|General Template]])
+
+  - **(Required)**  List the text that includes the topic from the ULB in bold
+  - (Optional)  State a clarifying translation
+  - **(Required)**  State the meaning of the topic
+  - **(Required)**  Suggest alternate ways to translate the topic
+  - **(Required)**  Add TA Link: (See: topic)
+
+  * **(1) ULB text**  - **(2)**  Clarifying translation. **(3)** Text meaning. **(4)** Alternate translation suggestion. **(5)** (See: Translation Academy Topic)
 ===== Bible Examples =====
 Field reference numbers are included for clarity purposes only. They are omitted in the actual note.
 
