@@ -25,9 +25,9 @@
 ^  New Pages to Review  ^  Published Pages to Review  ^  Discuss Pages  |
 |{{pagequery>ns:en:obe "{{tag>review"; fulltext; sort=title:asc; display={title}; natsort; showcount; hidemsg; hidejump;}} |{{pagequery>ns:en:obe "{{tag>publish review"; fulltext; sort=title:asc; display={title}; natsort; showcount; hidemsg; hidejump;}} |{{pagequery>ns:en:obe "{{tag>discuss"; fulltext; sort=title:asc; display={title}; natsort; showcount; hidemsg; hidejump;}} |
 
-==== Pages tagged "delete" ====
+==== Terms tagged "delete" ====
 
-These pages should be deleted, after the links and tags are removed or pointed to other pages.
+These terms should be deleted, after the links and tags are removed or pointed to other pages.
 
 {{topic>en:obe?delete&tags&sort&nocomments}}
 
