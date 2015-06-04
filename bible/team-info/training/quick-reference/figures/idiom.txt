@@ -6,41 +6,41 @@
 An idiom is a group of words that has a meaning that is different from what one would understand from the meanings of the individual words. 
 
 ===== Template =====
-Required Fields: (See: [[en:bible:team-info:training:quick-reference:template]])
 
-  * **1.** List the phrase that includes the idiom from the ULB in bold
-  * **3.** Identify what the idiom means
-  * **4.** State a translation suggestion
-  * **5.** Add TA Link: (See: [[:en:ta:translate:Idiom]])
+Template fields: (See: [[:en:bible:team-info:training:quick-reference:template|General Template]])
 
-  * **(1) Idiom phrase** - **(3)** Meaning. **(4)** Alternate translation. **(5)** (See: [[:en:ta:translate:Idiom]])
+  - **(Required)**  List the text that includes the idiom from the ULB in bold
+  - (Optional)  State a clarifying translation
+  - **(Required)**  State the meaning of the idiom
+  - **(Required)**  Suggest alternate ways to translate the idiom
+  - **(Required)**  Add TA Link: (See: Idiom)
 
+  * **(1) ULB text**  - **(3)** Text meaning. **(4)** Alternate translation suggestion. **(5)** (See: Idiom)
 
 ===== Bible Examples =====
-Field reference numbers are included for clarity purposes only. They are omitted in the actual note.
 
+Field reference numbers are included for clarity purposes only. They are omitted in the actual note.
 
 === Gen:21:19 ===
 
 "Then God opened her eyes, and she saw a well of water. She went and filled the skin with water, and gave the lad a drink."
 
-  * **(1) God opened her eyes, and she saw**  - **(3)** The phrase "opened her eyes" is an idiom that means "made her aware of." **(4)** "God caused Hagar to see" or "God showed Hagar" (UDB). **(5)** (See: [[:en:ta:translate:idiom|Idiom]])
+  * **(1) God opened her eyes, and she saw**  - **(3)** The phrase "opened her eyes" is an idiom that means "made her aware of." **(4)** This could be translated as "God caused Hagar to see" or "God showed Hagar" (UDB). **(5)** (See: Idiom)
 
 === Luk:05:22 ===
 
 "But Jesus, perceiving what they were thinking, answered and said to them, "Why are you questioning this in your hearts?"
 
-  * **(1) in your hearts** - **(3)** This is an idiom referring to the part of a person that thinks or believes. **(4)** Some languages will find it more natural not to include this phrase. **(5)** (See: [[:en:ta:translate:idiom|Idiom]])
+  * **(1) in your hearts** - **(3)** This is an idiom referring to the part of a person that thinks or believes. **(4)** Some languages will find it more natural not to include this phrase. **(5)** (See: Idiom)
 
 === Act:07:54 ===
 
 "Now when the council members heard these things, they were cut to the heart, and they ground their teeth at Stephen."
 
-  * **(1) ground their teeth** - **(3)** This is an idiom for expressing strong anger or hatred. **(4)** Can be translated as "they became so angry that they ground their teeth together". **(5)** (See: [[en:ta:translate:idiom]])
+  * **(1) ground their teeth** - **(3)** This is an idiom for expressing strong anger or hatred. **(4)** This could be translated as "they became so angry that they ground their teeth together". **(5)** (See: Idiom)
 
 ~~DISCUSSION~~
 
-{{tag>eq}}
+{{tag>publish}}
 
 \\ 
-

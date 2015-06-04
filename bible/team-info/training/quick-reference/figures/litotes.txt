@@ -7,38 +7,40 @@ Litotes is a strong statement made by negative phrases to strengthen a positive 
 
 
 ===== Template =====
-Required Fields: (See: [[en:bible:team-info:training:quick-reference:template]])
 
+Template fields: (See: [[:en:bible:team-info:training:quick-reference:template|General Template]])
 
-  * **1.** List the phrase that includes the litotes from the ULB in bold
-  * **4.** State the phrase in the opposite format
-  * **5.** Add TA Link (See: [[:en:ta:translate:litotes]])
+  - **(Required)**  List the text that includes the litotes from the ULB in bold
+  - (Optional)  State a clarifying translation
+  - (Optional)  State the meaning of the litotes
+  - **(Required)**  State the litotes in the opposite format
+  - **(Required)**  Add TA Link: (See: Litotes)
 
-  * **(1) Litotes phrase** - **(4)** Phrase in the opposite format. **(5)** (See: [[:en:ta:translate:litotes]])
+  * **(1) ULB text**  - **(4)** Alternate translation suggestion. **(5)** (See: Litotes)
 
 
 ===== Bible Examples =====
-Field reference numbers are included for clarity purposes only. They are omitted in the actual note.
 
+Field reference numbers are included for clarity purposes only. They are omitted in the actual note.
 
 === Luk:11:04 ===
 
 "Forgive us our sins, for we ourselves forgive everyone who is in debt to us. Do not lead us into temptation."
 
-  * **Do not lead us into temptation**  - **(4)** "Lead us away from temptation." **(5)** (See: [[:en:ta:translate:litotes]])
+  * **Do not lead us into temptation**  - **(4)** "Lead us away from temptation." **(5)** (See: Litotes)
 
 === Gal:04:12 ===
 
 "I beg you, brothers, become as I am, for I also have become as you are. You did me no wrong,"
 
-  * **You did me no wrong**  - **(4)** "You treated me very well" or "You treated me as you should have." **(5)** (See: [[:en:ta:translate:litotes]])
+  * **You did me no wrong**  - **(4)** "You treated me very well" or "You treated me as you should have." **(5)** (See: Litotes)
 
 === Act:10:47 ===
 
 "Can anyone keep water from these people so they should not be baptized, these people who have received the Holy Spirit as well as we?"
 
-  * **Can anyone keep water from these people so they should not be baptized**  - **(3)** Peter is making a negative statement in the form of a Rhetorical question to emphasize that these people deserve to be baptized. **(4)** This can be translated as "Let these people be baptized."  **(5)** (See: [[:en:ta:translate:litotes]] and [[:en:ta:translate:rhetoricalquestion]]) 
+  * **Can anyone keep water from these people so they should not be baptized**  - **(3)** Peter is making a negative statement in the form of a Rhetorical question to emphasize that these people deserve to be baptized. **(4)** This can be translated as "Let these people be baptized."  **(5)** (See: Litotes, Rhetorical Question) 
 
 ~~DISCUSSION~~
 
-{{tag>eq}}
+{{tag>review}}

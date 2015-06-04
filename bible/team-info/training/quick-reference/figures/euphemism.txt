@@ -5,18 +5,16 @@
 A euphemism is a mild or polite way of referring to something that is unpleasant, embarrassing or considered to be socially unacceptable. Its purpose is to avoid offending the people who hear or read it. 
 
 ===== Template =====
-Required Fields: (See: [[en:bible:team-info:training:quick-reference:template]])
 
-Create notes as follows:
+Template fields: (See: [[:en:bible:team-info:training:quick-reference:template|General Template]])
 
-  * **1.** List the phrase that includes the euphemism from the ULB in bold
-  * **3.** Explain what the euphemism means and why it is used
-  * **4.** State a literal or alternate translation
-  * **5.**Add TA Link (See: [[:en:ta:translate:euphemism]])
+  - **(Required)**  List the text that includes the topic euphemism from the ULB in bold
+  - (Optional)  Explain what the euphemism means and why it is used
+  - **(Required)**  State the meaning of the topic
+  - **(Required)**  Suggest alternate ways to translate the topic.
+  - **(Required)**  Add TA Link (See: Euphemism)
 
-  * **(1) Euphemism phrase** - **(3) **Meaning & Purpose. **(4)** Literal Translation. **(5)** (See: [[:en:ta:translate:euphemism]])
-
-
+  * **(1) ULB text**  - **(3)**  Text meaning. **(4)**  Alternate translation suggestion. **(5)** (See: Euphemism)
 ===== Bible Examples =====
 Field reference numbers are included for clarity purposes only. They are omitted in the actual note.
 
@@ -25,20 +23,20 @@ Field reference numbers are included for clarity purposes only. They are omitted
 
 "She instantly fell down at his feet, and breathed her last, and the young men came in and found her dead; they carried her out and buried her by her husband."
 
-  * **(1) breathed her last**  - **(4)**  "she died." **(5)** (See: [[:en:ta:translate:euphemism]])
+  * **(1) breathed her last**  - **(4)**  "she died." **(5)** (See: Euphemism)
 
 === Gen:04:25 ===
 
 "Adam had marital relations with his wife again, and she bore another son. "
 
-  * **(1) had marital relations**  - **(3)** had sex with his wife. **(4)** This can be translated as “knew” or “slept with.” **(5)** (See: [[:en:ta:translate:euphemism]])
+  * **(1) had marital relations with his wife**  - **(3)** This meant that he had sex with his wife. **(4)** Some languages use less direct phrases such as “knew his wife” or “slept with his wife.” **(5)** (See: Euphemism)
 
 === Luk:08:43 ===
 
 "A woman was there who had been bleeding for twelve years and had spent all her money on physicians, but could not be healed by any of them."
 
-  * **(1) had been bleeding**  -  **(3)** She was probably bleeding from her womb even when it was not the normal time for it. **(4)** This can be translated as "had a flow of blood." **(5)** (See: [[:en:ta:translate:euphemism]])
+  * **(1) had been bleeding**  -  **(3)** She was probably bleeding from her womb even when it was not the normal time for it. **(4)** This can be translated as "had a flow of blood." **(5)** (See: Euphemism)
 
 ~~DISCUSSION~~
 
-{{tag>eq ls}}
+{{tag>publish}}

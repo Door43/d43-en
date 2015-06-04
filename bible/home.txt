@@ -2,21 +2,22 @@
 
 ===== Books in Process - Translation Notes =====
 
-**[[:en:bible:notes:gen:01:01|Genesis]]** \\
-**[[:en:bible:notes:isa:01:01|Isaiah]]** \\
-**[[:en:bible:notes:jon:01:01|Jonah]]** \\
-**[[:en:bible:notes:mat:01:01|Matthew]]** \\
-**[[:en:bible:notes:mrk:01:01|Mark]]** \\
-**[[:en:bible:notes:act:01:01|Acts]]** \\
-**[[:en:bible:notes:jas:01:01|James]]** \\
-**[[:en:bible:notes:eph:01:01|Ephesians]]** \\
-**[[:en:bible:notes:php:01:01|Philippians]]** \\
-**[[:en:bible:notes:col:01:01|Colossians]]** \\
-**[[:en:bible:notes:phm:01:01|Philemon]]** \\
-**[[:en:bible:notes:1jn:01:01|1 John]]** \\
-**[[:en:bible:notes:2jn:01:01|2 John]]** \\
-**[[:en:bible:notes:3jn:01:01|3 John]]**\\
-**[[:en:bible:notes:jud:01:01|Jude]]**
+**[[:en:bible:notes:gen:home|Genesis]]** \\
+**[[:en:bible:notes:isa:home|Isaiah]]** \\
+**[[:en:bible:notes:jon:home|Jonah]]** \\
+**[[:en:bible:notes:mat:home|Matthew]]** \\
+**[[:en:bible:notes:mrk:home|Mark]]** \\
+**[[:en:bible:notes:act:home|Acts]]** \\
+**[[:en:bible:notes:jas:home|James]]** \\
+**[[:en:bible:notes:eph:home|Ephesians]]** \\
+**[[:en:bible:notes:php:home|Philippians]]** \\
+**[[:en:bible:notes:col:home|Colossians]]** \\
+**[[:en:bible:notes:phm:home|Philemon]]** \\
+**[[:en:bible:notes:2pe:home|2 Peter]]** \\
+**[[:en:bible:notes:1jn:home|1 John]]** \\
+**[[:en:bible:notes:2jn:home|2 John]]** \\
+**[[:en:bible:notes:3jn:home|3 John]]** \\
+**[[:en:bible:notes:jud:home|Jude]]**
 
 ==== Books with Completed Translation Notes (mmyy) ====
 
@@ -32,19 +33,18 @@
 |  |  |  |  |[[:en:bible:notes:1ti:01:01|1 Timothy]] 03/15 |  |
 |  |  |  |  |[[:en:bible:notes:2ti:01:01|2 Timothy]] 03/15 |  |
 
-
 ==== Books Left to Process - Translation Notes ====
 
-|  |2 Kings | |Nahum |Romans |  |
-|Exodus |1 Chronicles |Jeremiah |Habakkuk |1 Corinthians | |
+|  |2 Kings |  |Nahum |Romans |  |
+|Exodus |1 Chronicles |Jeremiah |Habakkuk |1 Corinthians |  |
 |Leviticus |2 Chronicles |Lamentations |Zephaniah |2 Corinthians |Hebrews |
 |Numbers |Ezra |Ezekiel |Haggai |  |  |
-|Deuteronomy |Nehemiah |Daniel |Zechariah | |1 Peter |
-|Joshua |Esther |Hosea |Malachi |  |2 Peter |
+|Deuteronomy |Nehemiah |Daniel |Zechariah |  |1 Peter |
+|Joshua |Esther |Hosea |Malachi |  |  |
 |Judges |Job |Joel |  |  |  |
 |  |Psalm |Amos |  |1 Thessalonians |  |
 |1 Samuel |Proverbs |Obadiah |  |  |  |
-|2 Samuel |Ecclesiastes |  |John |  | |
+|2 Samuel |Ecclesiastes |  |John |  |  |
 |1 Kings |Song of Songs |Micah |  |  |Revelation |
 
 ===== Source Text =====
@@ -69,17 +69,17 @@ See the [[:en:library|Open Christian Library]] for more copies of open license B
 
 <font 18px/inherit;;rgb(0, 0, 255);;inherit>Blue = Finished</font>
 
-|<font 18px/inherit;;rgb(0, 0, 255);;inherit>Genesis</font>     |<font 18px/inherit;;rgb(0, 0, 0);;inherit>2 Kings</font>     |<font 18px/inherit;;rgb(0, 0, 255);;inherit>Isaiah</font>     |<font 18px/inherit;;rgb(255, 0, 0);;inherit>Nahum</font>     |<font 18px/inherit;;rgb(0, 0, 255);;inherit>Romans</font>     |<font 18px/inherit;;rgb(0, 0, 255);;inherit>Titus</font>     |
-|<font 18px/inherit;;rgb(0, 0, 255);;inherit>Exodus</font>     |<font 18px/inherit;;rgb(255, 0, 0);;inherit>1 Chronicles</font>     |<font 18px/inherit;;rgb(0, 0, 0);;inherit>Jeremiah</font>     |<font 18px/inherit;;rgb(0, 0, 255);;inherit>Habakkuk</font>     |<font 18px/inherit;;rgb(0, 0, 255);;inherit>1 Corinthians</font>     |<font 18px/inherit;;rgb(0, 0, 255);;inherit>Philemon</font>     |
-|<font 18px/inherit;;rgb(0, 0, 0);;inherit>Leviticus</font>     |<font 18px/inherit;;rgb(255, 0, 0);;inherit>2 Chronicles</font>     |<font 18px/inherit;;rgb(0, 0, 255);;inherit>Lamentations</font>     |<font 18px/inherit;;rgb(0, 0, 0);;inherit>Zephaniah</font>     |2 Corinthians |Hebrews |
+|<font 18px/inherit;;rgb(0, 0, 255);;inherit>Genesis</font>     |<font 18px/inherit;;rgb(0, 0, 0);;inherit>2 Kings</font>     |<font 18px/inherit;;rgb(0, 0, 255);;inherit>Isaiah</font>     |<font 18px/inherit;;rgb(0, 0, 255);;inherit>Nahum</font>     |<font 18px/inherit;;rgb(0, 0, 255);;inherit>Romans</font>     |<font 18px/inherit;;rgb(0, 0, 255);;inherit>Titus</font>     |
+|<font 18px/inherit;;rgb(0, 0, 255);;inherit>Exodus</font>     |<font 18px/inherit;;rgb(0, 0, 255);;inherit>1 Chronicles</font>     |<font 18px/inherit;;rgb(0, 0, 0);;inherit>Jeremiah</font>     |<font 18px/inherit;;rgb(0, 0, 255);;inherit>Habakkuk</font>     |<font 18px/inherit;;rgb(0, 0, 255);;inherit>1 Corinthians</font>     |<font 18px/inherit;;rgb(0, 0, 255);;inherit>Philemon</font>     |
+|<font 18px/inherit;;rgb(0, 0, 0);;inherit>Leviticus</font>     |<font 18px/inherit;;rgb(0, 0, 0);;inherit>2 Chronicles</font>     |<font 18px/inherit;;rgb(0, 0, 255);;inherit>Lamentations</font>     |<font 18px/inherit;;rgb(0, 0, 0);;inherit>Zephaniah</font>     |**<font 18px/inherit;;rgb(0, 0, 255);;inherit>2 Corinthians</font> **  |**<font 18px/inherit;;rgb(0, 0, 255);;inherit>Hebrews</font> **  |
 |<font 18px/inherit;;rgb(0, 0, 0);;inherit>Numbers</font>     |<font 18px/inherit;;rgb(0, 0, 0);;inherit>Ezra</font>     |<font 18px/inherit;;rgb(0, 0, 0);;inherit>Ezekiel</font>     |<font 18px/inherit;;rgb(0, 0, 0);;inherit>Haggai</font>     |<font 18px/inherit;;rgb(0, 0, 255);;inherit>Galatians</font>     |<font 18px/inherit;;rgb(0, 0, 255);;inherit>James</font>     |
-|<font 18px/inherit;;rgb(0, 0, 255);;inherit>Deuteronomy</font>     |<font 18px/inherit;;rgb(255, 0, 0);;inherit>Nehemiah</font>     |Daniel |<font 18px/inherit;;rgb(0, 0, 255);;inherit>Zechariah</font>     |<font 18px/inherit;;rgb(0, 0, 205);;inherit>Ephesians</font>     |<font 18px/inherit;;rgb(0, 0, 255);;inherit>1 Peter</font>     |
-|<font 18px/inherit;;rgb(0, 0, 0);;inherit>Joshua</font>     |<font 18px/inherit;;rgb(255, 0, 0);;inherit>Esther</font>     |<font 18px/inherit;;rgb(255, 0, 0);;inherit>Hosea</font>     |<font 18px/inherit;;rgb(255, 0, 0);;inherit>Malachi</font>     |<font 18px/inherit;;rgb(0, 0, 255);;inherit>Philippians</font>     |<font 18px/inherit;;rgb(0, 0, 255);;inherit>2 Peter</font>     |
-|<font 18px/inherit;;rgb(255, 0, 0);;inherit>Judges</font>     |<font 18px/inherit;;rgb(0, 0, 0);;inherit>Job</font>     |<font 18px/inherit;;rgb(255, 0, 0);;inherit>Joel</font>     |<font 18px/inherit;;rgb(0, 0, 255);;inherit>Matthew</font>     |<font 18px/inherit;;rgb(0, 0, 255);;inherit>Colossians</font>     |<font 18px/inherit;;rgb(0, 0, 255);;inherit>1 John</font>     |
-|<font 18px/inherit;;rgb(0, 0, 255);;inherit>Ruth</font>     |<font 18px/inherit;;rgb(0, 0, 0);;inherit>Psalms</font>     |<font 18px/inherit;;rgb(255, 0, 0);;inherit>Amos</font>     |<font 18px/inherit;;rgb(0, 0, 255);;inherit>Mark</font>     |<font 18px/inherit;;rgb(0, 0, 255);;inherit>1 Thessalonians</font>     |<font 18px/inherit;;rgb(0, 0, 255);;inherit>2 John</font>     |
-|<font 18px/inherit;;rgb(0, 0, 0);;inherit>1 Samuel</font>     |<font 18px/inherit;;rgb(0, 0, 0);;inherit>Proverbs</font>     |<font 18px/inherit;;rgb(255, 0, 0);;inherit>Obadiah</font>     |<font 18px/inherit;;rgb(0, 0, 255);;inherit>Luke</font>     |<font 18px/inherit;;rgb(0, 0, 255);;inherit>2 Thessalonians</font>     |<font 18px/inherit;;rgb(0, 0, 255);;inherit>3 John</font>     |
+|<font 18px/inherit;;rgb(0, 0, 255);;inherit>Deuteronomy</font>     |<font 18px/inherit;;rgb(0, 0, 255);;inherit>Nehemiah</font>     |**Daniel**   |<font 18px/inherit;;rgb(0, 0, 255);;inherit>Zechariah</font>     |<font 18px/inherit;;rgb(0, 0, 205);;inherit>Ephesians</font>     |<font 18px/inherit;;rgb(0, 0, 255);;inherit>1 Peter</font>     |
+|<font 18px/inherit;;rgb(0, 0, 0);;inherit>Joshua</font>     |<font 18px/inherit;;rgb(0, 0, 0);;inherit>Esther</font>     |<font 18px/inherit;;rgb(0, 0, 0);;inherit>Hosea</font>     |<font 18px/inherit;;rgb(0, 0, 0);;inherit>Malachi</font>     |<font 18px/inherit;;rgb(0, 0, 255);;inherit>Philippians</font>     |<font 18px/inherit;;rgb(0, 0, 255);;inherit>2 Peter</font>     |
+|<font 18px/inherit;;rgb(0, 0, 255);;inherit>Judges</font>     |<font 18px/inherit;;rgb(0, 0, 255);;inherit>Job</font>     |<font 18px/inherit;;rgb(0, 0, 255);;inherit>Joel</font>     |<font 18px/inherit;;rgb(0, 0, 255);;inherit>Matthew</font>     |<font 18px/inherit;;rgb(0, 0, 255);;inherit>Colossians</font>     |<font 18px/inherit;;rgb(0, 0, 255);;inherit>1 John</font>     |
+|<font 18px/inherit;;rgb(0, 0, 255);;inherit>Ruth</font>     |<font 18px/inherit;;rgb(0, 0, 0);;inherit>Psalms</font>     |<font 18px/inherit;;rgb(0, 0, 0);;inherit>Amos</font>     |<font 18px/inherit;;rgb(0, 0, 255);;inherit>Mark</font>     |<font 18px/inherit;;rgb(0, 0, 255);;inherit>1 Thessalonians</font>     |<font 18px/inherit;;rgb(0, 0, 255);;inherit>2 John</font>     |
+|<font 18px/inherit;;rgb(0, 0, 0);;inherit>1 Samuel</font>     |<font 18px/inherit;;rgb(0, 0, 0);;inherit>Proverbs</font>     |<font 18px/inherit;;rgb(0, 0, 0);;inherit>Obadiah</font>     |<font 18px/inherit;;rgb(0, 0, 255);;inherit>Luke</font>     |<font 18px/inherit;;rgb(0, 0, 255);;inherit>2 Thessalonians</font>     |<font 18px/inherit;;rgb(0, 0, 255);;inherit>3 John</font>     |
 |<font 18px/inherit;;rgb(0, 0, 0);;inherit>2 Samuel</font>     |<font 18px/inherit;;rgb(0, 0, 0);;inherit>Ecclesiastes</font>     |<font 18px/inherit;;rgb(0, 0, 255);;inherit>Jonah</font>     |<font 18px/inherit;;rgb(0, 0, 255);;inherit>John</font>     |<font 18px/inherit;;rgb(0, 0, 255);;inherit>1 Timothy</font>     |<font 18px/inherit;;rgb(0, 0, 255);;inherit>Jude</font>     |
-|<font 18px/inherit;;rgb(0, 0, 0);;inherit>1 Kings</font>     |<font 18px/inherit;;rgb(255, 0, 0);;inherit>Song of Songs</font>     |<font 18px/inherit;;rgb(0, 0, 0);;inherit>Micah</font>     |<font 18px/inherit;;rgb(0, 0, 255);;inherit>Acts</font>     |<font 18px/inherit;;rgb(0, 0, 255);;inherit>2 Timothy</font>     |<font 18px/inherit;;rgb(0, 0, 255);;inherit>Revelation</font>     |
+|<font 18px/inherit;;rgb(0, 0, 0);;inherit>1 Kings</font>     |<font 18px/inherit;;rgb(0, 0, 0);;inherit>Song of Songs</font>     |<font 18px/inherit;;rgb(0, 0, 0);;inherit>Micah</font>     |<font 18px/inherit;;rgb(0, 0, 255);;inherit>Acts</font>     |<font 18px/inherit;;rgb(0, 0, 255);;inherit>2 Timothy</font>     |<font 18px/inherit;;rgb(0, 0, 255);;inherit>Revelation</font>     |
 
 ===== Beta USFM Files =====
 

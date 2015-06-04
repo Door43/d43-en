@@ -1,0 +1,55 @@
+<graphviz dot right>
+digraph finite_state_machine {
+rankdir=BT;
+graph [fontname="Arial"];
+node [shape=oval, fontname="Arial", fontsize=12, style=filled, fillcolor="#dddddd"];
+edge [arrowsize=1.4];
+"Introduction" [fillcolor="#ff9999"]
+"Translation" [fillcolor="#99ff99"]
+"Checking" [fillcolor="#9999ff"]
+"Technology" [fillcolor="#ffff99"]
+"Test" [fillcolor="#99ffff"]
+"translation_guidelines" [fillcolor="#ff9999"]
+"uw_intro" -> "translation_guidelines"
+"gl_strategy" [fillcolor="#ff9999"]
+"uw_intro" -> "gl_strategy"
+"statement_of_faith" [fillcolor="#ff9999"]
+"uw_intro" -> "statement_of_faith"
+"open_license" [fillcolor="#ff9999"]
+"uw_intro" -> "open_license"
+"uw_intro" [fillcolor="#ff9999"]
+"ta_intro" -> "uw_intro"
+"ta_intro" [fillcolor="#ff9999"]
+"Introduction" -> "ta_intro"
+"why_translate" [fillcolor="#99ff99"]
+"Translation" -> "why_translate"
+"accurate" [fillcolor="#99ff99"]
+"translation-guidelines" -> "accurate"
+"why" -> "accurate"
+"what" -> "accurate"
+"process" -> "accurate"
+"equal" [fillcolor="#99ff99"]
+"translation-guidelines" -> "equal"
+"why" -> "equal"
+"what" -> "equal"
+"process" -> "equal"
+"natural" [fillcolor="#99ff99"]
+"translation-guidelines" -> "natural"
+"why" -> "natural"
+"what" -> "natural"
+"process" -> "natural"
+"clear" [fillcolor="#99ff99"]
+"translation-guidelines" -> "clear"
+"why" -> "clear"
+"what" -> "clear"
+"process" -> "clear"
+"testmod1" [fillcolor="#99ffff"]
+"Test" -> "testmod1"
+"testmod2" [fillcolor="#99ffff"]
+"testmod1" -> "testmod2"
+"testmod3" [fillcolor="#99ffff"]
+"testmod1" -> "testmod3"
+"testmod2" -> "testmod3"
+}
+</graphviz>
+~~NOCACHE~~

@@ -14,12 +14,14 @@ Create notes as follows:
   - **(Optional)**  State the meaning of the topic
       - used to explain figures of speech
       - used to give various meanings
-  - **(Optional)**  State a translation suggestion. \\ This is the main translation suggestion field. examples:
+  - **(Optional)**  Suggest alternate ways to translate the topic. \\ This is the main translation suggestion field. Some examples are:
       - State Metaphors as similes
       - State Rhetorical Questions as statements
       - State Passive constructions as Active
+      - Provide suggestions about how to translate the topic
   - **(Optional)**  Add TA Link
-  * **(1) topic phrase**  - **(2)**  Clarifying translation. **(3)**  Text meaning. **(4)**  Translation suggestion. **(5)**  (See: Translation Academy Topic)
+  * **(1) topic phrase**  - **(2)**  Clarifying translation. **(3)**  Text meaning. **(4)**  Alternate translation suggestion. **(5)**  (See: Translation Academy Topic)
+
 ==== Comments ====
 
   * All Notes require Topic Phrase (1).
@@ -45,7 +47,4 @@ Field reference numbers are included for clarity purposes only. They are omitted
 You accepted the tabernacle of Molech And the star of the god Rephan, And the images that you made to worship them: And I will carry you away beyond Babylon.'
 
   * **(1) tabernacle of Molech**  - **(3)**  The tabernacle or tent that housed the false god Molech.
-
-~~DISCUSSION~~
-
-{{tag>eq}}
+~~DISCUSSION~~{{tag>eq ls}}

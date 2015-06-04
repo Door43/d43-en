@@ -5,35 +5,36 @@
 Irony is using words to say the opposite of what you mean. Irony is typically used to be humorous or to place emphasis on the differences in something. In irony, sometimes a speaker repeats what someone has (or could have) said or thought, but he expects the listeners to understand from the context that he does not agree with it. 
 
 ===== Template =====
-Required Fields: (See: [[en:bible:team-info:training:quick-reference:template]])
 
-  * **1.**  List the phrase that includes the irony from the ULB in bold
-  * **3.**  Explain the meaning and purpose of the irony
-  * **4.**  State the Opposite translation
-  * **5.**  Add TA Link
+Template fields: (See: [[:en:bible:team-info:training:quick-reference:template|General Template]])
 
-  * **(1) Irony phrase** - **(3)** Meaning & Purpose. **(4)** Opposite Translation. **(5)** (See: [[:en:ta:translate:irony]])
+  - **(Required)**  List the text that includes the irony from the ULB in bold
+  - (Optional)  State a clarifying translation
+  - **(Required)**  State the meaning of the irony
+  - **(Required)**  Suggest alternate ways to translate the irony
+  - **(Required)**  Add TA Link: (See: Irony)
+
+  * **(1) ULB text**  - **(3)** Text meaning. **(4)** Alternate translation suggestion. **(5)** (See: Irony)
 
 
 ===== Bible Examples =====
-Field reference numbers are included for clarity purposes only. They are omitted in the actual note.
 
+Field reference numbers are included for clarity purposes only. They are omitted in the actual note.
 
 === Luk:10:21 ===
 
 At that same time he rejoiced greatly in the Holy Spirit, and said, "I praise you, O Father, Lord of heaven and earth, because you concealed these things from the wise and understanding, and revealed them to those who are untaught, like little children."
 
-  * **(1) concealed...from the wise...revealed...to the untaught** - **(3)** It is the wise and educated people that understand God's writings and teach them to the untaught people. **(4)** This can be translated as "God revealed his truth to the uneducated people to show the simplicity of His truth." **(5)** (See: [[:en:ta:translate:irony]])
+  * **(1) concealed...from the wise...revealed...to the untaught** - **(3)** It is the wise and educated people that understand God's writings and teach them to the untaught people. **(4)** This can be translated as "God revealed his truth to the uneducated people to show the simplicity of His truth." **(5)** (See: Irony)
 
 === Luk:13:33 ===
 
 "In any case, it is necessary for me to continue on today, tomorrow, and the following day, since it is not acceptable to kill a prophet away from Jerusalem."
 
-  * **(1) it is not acceptable to kill a prophet outside of Jerusalem** - **(3)** The Jewish leaders killed many of God's prophets in Jerusalem and Jesus knew that they would kill him there too. **(4)** It can be translated as "It is in Jerusalem that the Jewish leaders kill God's messengers." **(5)** (See: [[:en:ta:translate:irony]])
+  * **(1) it is not acceptable to kill a prophet outside of Jerusalem** - **(3)** The Jewish leaders killed many of God's prophets in Jerusalem and Jesus knew that they would kill him there too. **(4)** It can be translated as "It is in Jerusalem that the Jewish leaders kill God's messengers." **(5)** (See: Irony)
 
 ~~DISCUSSION~~
 
-{{tag>eq}}
+{{tag>review}}
 
 \\ 
-

@@ -1,0 +1,9 @@
+====== OBE: OBS Pages in Other List ======
+
+~~NOCACHE~~
+
+==== Pages tagged "ktobs" ====
+
+The pages below in the OBE/Other namespace are tagged as "ktobs" in order to be sorted as needed.
+
+{{pagequery>ns:en:obe:other "ktobs"; fulltext; sort=a:asc,title:asc; group; display={title}; natsort; showcount; hidemsg; hidejump; cols=2;}}

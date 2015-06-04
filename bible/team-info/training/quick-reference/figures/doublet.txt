@@ -7,14 +7,17 @@ A **doublet** states the same thought in two ways–typically, as a way to reinf
 
 
 ===== Template =====
-Required Fields: (See: [[en:bible:team-info:training:quick-reference:template]])
 
-  * **1.** List the phrase that includes the doublet from the ULB in bold
-  * **3.** Explain the purpose of the doublet
-  * **4.** Alternative translation
-  * **5.** Add TA Link (See: [[:en:ta:translate:doublet]])
+Template fields: (See: [[:en:bible:team-info:training:quick-reference:template|General Template]])
 
-  * **(1) Doublet phrase** - **(3)** Doublet purpose. **(4)** Alternate translation. **(5)** (See: [[:en:ta:translate:doublet]])
+  - **(Required)**  List the text that includes the doublet from the ULB in bold
+  - (Optional)  State a clarifying translation
+  - **(Required)**  Explain the purpose of the doublet
+  - **(Required)**  Suggest alternate ways to translate the doublet
+  - **(Required)**  Add TA Link (See: Doublet)
+
+  * **(1) ULB text**  - **(3)**  Text meaning. **(4)**  Alternate translation suggestion. **(5)**  (See: Translation Academy Topic)
+
 
 ===== Bible Examples =====
 Field reference numbers are included for clarity purposes only. They are omitted in the actual note.
@@ -23,20 +26,20 @@ Field reference numbers are included for clarity purposes only. They are omitted
 
 "He said, "Do not lay your hand upon the lad, nor do anything to harm him, for now I know that you fear God, seeing that you have not withheld your son, your only son, from me.""
 
-  * **(1) Do not lay your hand upon the lad, nor do anything to harm him**  - **(3)** Both of these phrases mean basically the same thing. God made sure that Abraham would hear and understand him. **(4)** This can be translated as "Do not hurt the boy in any way." **(5)** (See: [[:en:ta:translate:doublet|Doublet]])
+  * **(1) Do not lay your hand upon the lad, nor do anything to harm him**  - **(3)** Both of these phrases mean basically the same thing. God made sure that Abraham would hear and understand him. **(4)** This can be translated as "Do not hurt the boy in any way." **(5)** (See: Doublet)
 
 === Luk:01:71 ===
 
 "He promised to provide for us salvation from our enemies, and from the hand of everyone who hates us."
 
-  * **(1) enemies..all who hate us**  - **(3)** This is a doublet in which "enemies" and "all who hate us" both refer to those who are against God's people. **(4)** This could be translated as "people who fight against us and want to harm us." **(5)** (See: [[:en:ta:translate:doublet|Doublet]])
+  * **(1) enemies..all who hate us**  - **(3)** The phrases "enemies" and "all who hate us" both refer to those who are against God's people. **(4)** This could be translated as "people who fight against us and want to harm us." **(5)** ((See: Doublet)
 
 === 2Th:01:04 ===
 
 "So we ourselves speak proudly about you among the churches of God concerning your patience and faith in all your persecutions and afflictions that you endure. "
 
-  * **(1) persecutions and afflictions** - **(3)** This is an expression of saying the same thing different ways for emphasis. **(5)** (See: [[:en:ta:translate:doublet|Doublet]])
+  * **(1) persecutions and afflictions** - **(3)** This is an expression of saying the same thing different ways for emphasis. **(5)** (See: Doublet)
 
 ~~DISCUSSION~~
 
-{{tag>eq ls}}
+{{tag>publish}}

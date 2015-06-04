@@ -1,0 +1,31 @@
+__20150525AM__
+
+
+__**Reference Links:**__
+  - Migrating from IntelliJ Projects [http://tools.android.com/tech-docs/new-build-system/migrating-from-intellij-projects]
+  - Basic structure of an Android Project circa 2012 [http://www.codeproject.com/Articles/395614/Basic-structure-of-an-Android-project]
+
+__Notes:__
+
+**OLD SETUP:**
+
+Every Android project contains several folders:
+  * src: 
+    * This folder contains the Java source files
+  * gen: 
+    * Generated Java library
+    * this library is for Android internal use only
+  * res: 
+    * stores resource files such as pictures
+    * XML files for defining layouts, and so forth
+    * Within this folder there are additional folders such as Drawable, Layout, and Values.
+      * drawable: 
+        * stores the various graphic files
+        * stores drawable folders for many Android devices with different screen resolutions
+        * By default, there are several versions of this folder such as: Drawable-mdpi, drawable-hdpi, and so forth 
+        * required to adapt to different screen resolutions
+      * layout:
+        * for XML layout files
+        * XML layout files define how various Android objects (such as textboxes, buttons, etc.) are organized on screen.
+      * values:
+        * XML files which store various string values (titles, labels, etc.)

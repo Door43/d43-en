@@ -8,32 +8,32 @@ A metaphor is a figure of speech that creates a 'word picture' by relating one t
 
 ===== Template =====
 
-Required Fields: (See: [[:en:bible:team-info:training:quick-reference:template|General Template]])
+Template fields: (See: [[:en:bible:team-info:training:quick-reference:template|General Template]])
 
-  * **1.**  List the phrase that includes the metaphor from the ULB in bold
-  * **3.**  Explain the parts of the metaphor
-      - State the topic
-      - State the image
-      - State the point of similarity
-  * **4.**  State the metaphor as a simile or other translation suggestion
-  * **5.**  Add TA Link: (See: [[:en:ta:translate:simile|Simile]])
-  * **(1) Metaphor phrase**  - **(3)**  The parts of this metaphor are (Topic:, Image:, Similarity:). **(4)**  Simile or Alternate translation. **(5)**  (See: [[:en:ta:translate:metaphor|Metaphor]])
+  - **(Required)**  List the text that includes the metaphor from the ULB in bold
+  - (Optional)  State a clarifying translation
+  - **(Required)**  Explain the parts and meaning of the metaphor
+  - (Optional)  State the metaphor as a simile or other translation suggestion
+  - **(Required)**  Add TA Link: (See: Metaphor)
+
+  * **(1) ULB text**  - **(3)**  Text meaning. **(5)** (See: Metaphor)
 
 ===== Bible Examples =====
+
 Field reference numbers are included for clarity purposes only. They are omitted in the actual note.
 
 === Act:07:39 ===
 
 "This is the man whom our forefathers refused to obey; they pushed him away from themselves, and in their hearts they turned back to Egypt."
 
-  * ** (1) pushed him away from themselves** - **(3)** The parts of this metaphor are Topic: The Israelites rejecting Moses. Image: one man pushing another man away. Similarity: As one man pushes another man away from him, so the Israelites pushed Moses away by rejecting his leadership over them.  **(4)** It can be translated as "they rejected him as their leader" (UDB). **(5)** (See: [[:en:ta:translate:metaphor]])
+  * ** (1) pushed him away from themselves** - **(3)** This metaphor compares how the Israelites rejected Moses to how people might shove away someone they do not like. **(4)** It can be translated as "they rejected him as their leader" (UDB). **(5)** (See: Metaphor)
 
 === 1Ti:01:02 ===
 
 "To Timothy, a true son in the faith. Grace, mercy, and peace from God our Father and Christ Jesus our Lord. "
 
-  * **(1) true son ** - **​(2)** "real son." **3** The parts of this metaphor are Topic: Timothy's devotion to Paul. Image: The devotion of a child to his own father. Similarity: As a child is devoted to his father, so was Timothy's devotion Paul. **(4)** This can be translated as "You are like a true son to me"  **(5)** (See: [[:en:ta:translate:metaphor]])
+  * **(1) true son ** - **​(2)** "real son." **(3)** This metaphor compares the close relationship between Timothy and Paul to that of a father and a son. Timothy was not Paul's actual son, but he gave Paul the same level of honor, obedience, and service that any son could give his father. **(4)** This can be translated as "You are like a true son to me"  **(5)** (See: Metaphor)
 
 ~~DISCUSSION~~
 
-{{tag>eq}}
+{{tag>publish}}

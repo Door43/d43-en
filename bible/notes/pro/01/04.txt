@@ -23,15 +23,15 @@
 <usfm>
 \v 4 They give wise teaching to those who have no experience, to instruct those who do not know, how to to live a moral life,
 \q and to give the young the knowledge they need and to teach them the understanding they do not have— 
-\q
+\q1
 \v 5 so the wise may listen to these sayings and increase in their learning,
-\q and those who have already have insight will gain more ways to teach people how they should live—
-\q
+\q2 and those who have already have insight will gain more ways to teach people how they should live—
+\q1
 \v 6 they understand the lessons of the proverbs and meaning of the parables,
-\q they hear words spoken by the wise, and the difficult riddles will teach them a lesson.
+\q2 they hear words spoken by the wise, and the difficult riddles will teach them a lesson.
 
 
-\q
+\q1
 </usfm>
 
 
@@ -39,11 +39,11 @@
 
 <usfm>
 \q
-\v 4 To give wisdom to the those who have not been taught,
-\q and to give knowledge and discretion to the young—
+\v 4 To give wisdom to those who have not been taught,
+\q and to give knowledge and discretion to the young.
 \q
-\v 5 let the wise listen and increase their learning,
-\q and let the discerning get guidance—
+\v 5 Let the wise listen and increase their learning,
+\q and let the discerning get guidance;
 \q
 \v 6 to understand a proverb and a saying;
 \q the words of the wise and their riddles.
