@@ -4,10 +4,11 @@
 ===== Description =====
 
 The English language has the active and passive forms of speech.\\
-* In the **ACTIVE** form, the subject does the action and is always mentioned.\\
-* In the **PASSIVE** form, the action is done to the subject and is //not always// mentioned.\\
+  * In the **ACTIVE** form, the subject does the action and is always mentioned.\\
+  * In the **PASSIVE** form, the action is done to the subject and is //not always// mentioned.\\
 
 ===== Template =====
+
 Required Fields: (See: [[en:bible:team-info:training:quick-reference:template]])
 
   * **1.** List the phrase that includes the passive verb from the ULB in bold
