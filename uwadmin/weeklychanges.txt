@@ -145,6 +145,9 @@
 **[[:gaj-x-ymnk:obs|gaj-x-ymnk OBS]]**
 {{changes>ns=gaj-x-ymnk:obs&maxage=604800&render=pagelist(header,date,user,nocomments)}}
 
+**[[:gaz:obs|gaz OBS]]**
+{{changes>ns=gaz:obs&maxage=604800&render=pagelist(header,date,user,nocomments)}}
+
 **[[:gu:obs|gu OBS]]**
 {{changes>ns=gu:obs&maxage=604800&render=pagelist(header,date,user,nocomments)}}
 
