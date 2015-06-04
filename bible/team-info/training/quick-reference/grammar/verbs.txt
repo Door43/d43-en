@@ -6,15 +6,16 @@
 Verbs either link the subject to a descriptive portion of the sentence or express an action or a state-of-being (e.g. am, is, are, was, were, be, being, been). Many languages use more verbs than English does. The portion of the sentence which contains the verb is called the predicate.
 
 ===== Template =====
-Required Fields: (See: [[en:bible:team-info:training:quick-reference:template]])
 
+Template fields: (See: [[:en:bible:team-info:training:quick-reference:template|General Template]])
 
-  * **1.** List the phrase that includes the verb from the ULB in bold
-  * **3.** Explain the additional information that might be needed to clarify the meaning of the verb
-  * **4.** State translation alternative
-  * **5.** Add TA Link (See: [[:en:ta:translate:verbs]])
+  - **(Required)**  List the text that includes the verb from the ULB in bold
+  - (Optional)  State a clarifying translation
+  - **(Required)**  Explain the additional information that might be needed to clarify the meaning of the verb
+  - **(Required)**  Suggest alternate ways to translate the verb
+  - **(Required)**  Add TA Link: (See: Verbs)
 
-  * **(1) Verb phrase** -  **(3)** Additional information needed.  **(4)** Translation alternative. **(5)** (See: [[:en:ta:translate:verbs]])
+  * **(1) ULB text**  - **(3)** Text meaning. **(4)** Additional information that might be needed to clarify the meaning of the verb. **(5)** (See: Verbs)
 
 
 ===== Bible Examples =====
