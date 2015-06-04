@@ -7,14 +7,16 @@ Most languages express the negative near the verb. Some languages can also expre
 
 
 ===== Template =====
-Required Fields: (See: [[en:bible:team-info:training:quick-reference:template]])
 
-  * **1.** List the phrase that includes the double negatives from the ULB in bold
-  * **3.** Explain what the double negatives means
-  * **4.** State a translation alternative in positive form
-  * **5.** Add TA Link (See: [[en:ta:translate:double-negatives]])
+Template fields: (See: [[:en:bible:team-info:training:quick-reference:template|General Template]])
 
-  * **(1) Double negative phrase** - **(3)** Meaning.  **(4)** Translation alternative in positive form. **(5)** (See: [[en:ta:translate:double-negatives]])
+  - **(Required)**  List the text that includes the double negatives from the ULB in bold
+  - (Optional)  State a clarifying translation
+  - **(Required)**  Explain what the double negatives means
+  - **(Required)**  State a translation alternative in positive form
+  - **(Required)**  Add TA Link: (See: Double Negatives)
+
+  * **(1) ULB text**  - **(3)** Text meaning. **(4)** Alternate translation suggestion in positive form. **(5)** (See: Double Negatives)
 
 
 ===== Bible Examples =====
