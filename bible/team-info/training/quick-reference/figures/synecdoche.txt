@@ -7,15 +7,17 @@ Synecdoche is a figure of speech in which 1) the name of a part of something is 
 
 
 ===== Template =====
-Required Fields: (See: [[en:bible:team-info:training:quick-reference:template]])
 
+Template fields: (See: [[:en:bible:team-info:training:quick-reference:template|General Template]])
 
-  * **1.** List the synecdoche phrase from the ULB in bold
-  * **3.** Identify what the synecdoche means
-  * **4.** Restate the phrase without the synecdoche
-  * **5.** Add TA Link
+  - **(Required)**  List the text that includes the synecdoche from the ULB in bold
+  - (Optional)  State a clarifying translation
+  - **(Required)**  State the meaning of the synecdoche
+  - **(Required)**  Restate the phrase without the synecdoche
+  - **(Required)**  Add TA Link: (See: Synecdoche)
 
-  * **(1) synecdoche phrase** - **(3)** Synecdoche meaning. **(4)** Restated without synecdoche. **(5)** (See: Synecdoche)
+  * **(1) ULB text**  - **(3)** Text meaning. **(4)** Alternate translation suggestion. **(5)** (See: Synecdoche)
+
 
 ===== Bible Examples =====
 Field reference numbers are included for clarity purposes only. They are omitted in the actual note.
