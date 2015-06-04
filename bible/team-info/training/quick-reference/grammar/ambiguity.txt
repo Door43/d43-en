@@ -7,17 +7,16 @@ Ambiguity happens when a single word or phrase can have more than one meaning.
 
 
 ===== Template =====
-Required Fields: (See: [[en:bible:team-info:training:quick-reference:template]])
 
+Template fields: (See: [[:en:bible:team-info:training:quick-reference:template|General Template]])
 
-  * **1.** List the phrase that includes the ambiguity from the ULB in bold
-  * **3.** Explain the possible meanings for the ambiguous phrase
-  * **4.** State alternate translation
-    - State ways to maintain ambiguity
-    - State the preferred choice, no ambiguity
-  * **5.** Add TA Link (See: [[:en:ta:translate:ambiguity]])
+  - **(Required)**  List the text that includes the ambiguity from the ULB in bold
+  - (Optional)  State a clarifying translation
+  - **(Required)**  State the meaning of the ambiguity
+  - **(Required)**  Suggest alternate ways to translate the topic, with our without the ambiguity
+  - **(Required)**  Add TA Link: (See: Ambiguity)
 
-  * **Ambiguous phrase** - **(3)** Meaning. **(4)** Translation suggestion. **(5)** (See: [[:en:ta:translate:ambiguity]])
+  * **(1) ULB text**  - **(3)** Text meaning. **(4)** Alternate translation suggestion. **(5)** (See: Ambiguity)
 
 
 ===== Bible Examples =====
