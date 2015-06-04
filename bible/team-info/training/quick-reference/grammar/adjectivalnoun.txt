@@ -6,14 +6,17 @@
 An adjectival noun is a noun that acts like an adjective and describes another noun. A noun is a person, place or thing. An adjective is a word that describes a noun. A noun that describes another noun is acting like an adjective and so that is why it is called an “adjectival noun”. 
 
 ===== Template =====
-Required Fields: (See: [[en:bible:team-info:training:quick-reference:template]])
 
-  * **1.** List the phrase that includes the adjectival noun from the ULB in bold
-  * **3.** Explain what the adjectival noun means
-  * **4.** Offer translation alternative using a noun form
-  * **5.** Add TA Link (See: [[:en:ta:translate:adjectivalnoun]])
+Template fields: (See: [[:en:bible:team-info:training:quick-reference:template|General Template]])
 
-  * **(1) Adjectival Noun phrase** - **(3)** Meaning. **(4)** Translation alternative with noun form. **(5)** (See: [[:en:ta:translate:adjectivalnoun]])
+  - **(Required)**  List the text that includes the adjectival noun from the ULB in bold
+  - (Optional)  State a clarifying translation
+  - **(Required)**  State the meaning of the adjectival noun
+  - **(Required)**  Suggest a translation alternative using a noun form
+  - **(Required)**  Add TA Link: (See: Adjectival Noun)
+
+  * **(1) ULB text**  - **(3)** Text meaning. **(4)** Translation alternative using a noun form. **(5)** (See: Adjectival Noun)
+
 
 ===== Bible Examples =====
 Field reference numbers are included for clarity purposes only. They are omitted in the actual note.
