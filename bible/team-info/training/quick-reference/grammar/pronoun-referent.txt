@@ -31,14 +31,17 @@ These situations have their own pages:
 
 
 ===== Template =====
-Required Fields: (See: [[en:bible:team-info:training:quick-reference:template]])
 
- 
-  * **1.** List the phrase with pronoun from the ULB in bold
-  * **3.** State the pronoun and it's participant referent
-  * **5.** Add TA link (See: [[:en:ta:translate:123person]])
+Template fields: (See: [[:en:bible:team-info:training:quick-reference:template|General Template]])
 
-  * **(1) pronoun phrase**  - **(3)** The word "PRONOUN" refers to PARTICIPANT REFERENT. **(5)** (See: [[:en:ta:translate:123person]])
+  - **(Required)**  List the text that includes the pronoun from the ULB in bold
+  - (Optional)  State a clarifying translation
+  - **(Required)**  State the pronoun and identify to whom or what it refers
+  - (Optional)  Suggest alternate ways to translate the pronoun
+  - **(Required)**  Add TA Link: (See: Pronoun Referent)
+
+  * **(1) ULB text**  - **(3)** State the pronoun and referent. **(5)** (See: Pronoun Referent)
+
 
 ===== Bible Examples =====
 Field reference numbers are included for clarity purposes only. They are omitted in the actual note.
