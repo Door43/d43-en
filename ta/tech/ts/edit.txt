@@ -4,9 +4,16 @@ This page tells how to create and edit text in translationStudio. The video {{:e
 
 ==== Create Translation Text ====
 
-To create a new chapter in your language, navigate to the desired chapter and tap on the **Edit Screen**. The keyboard will open and you can begin working. Your work will be saved automatically every five seconds.
+To create a new chapter in your language, navigate to the desired chapter and tap on the **Edit Screen**. The keyboard will open and you can begin working. When you are finished working, you can navigate to a different chapter or exit the app.
+==== Save Translation Text ====
 
-When you are finished working, you can navigate to a different chapter or exit the app.
+Every five seconds, your work is saved automatically in your device memory.  Your work is not saved permanently until you upload your work.  See __[[:en:ta:tech:ts:upload|
+Upload your work to
+
+</font>
+Door43
+
+</font> ]]__.
 
 ==== Edit Translation Text ====
 
