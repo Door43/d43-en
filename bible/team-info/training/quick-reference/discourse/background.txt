@@ -18,15 +18,12 @@ Template fields: (See: [[:en:bible:team-info:training:quick-reference:template|G
   - (Optional) Suggest they translators use their form for background information if one exists
   - **(Required)**  Add TA Link: (See: Background Information)
   * **(1) ULB text**  - **(3)**  Text meaning. **(5)**  (See: Background Information)
+
+
 ===== Bible Examples =====
 
 Field reference numbers are included for clarity purposes only. They are omitted in the actual note.
 
-=== Act:08:09 ===
-
-"But there was a certain man in the city named Simon, who had earlier been practicing sorcery; he used to astonish the people of Samaria, while claiming that he was an important person."
-
-  * **(1) the city**  - **(2)**  "the city in Samaria." **(3)**  "in Samaria" is background information that is included later in the verse. **(5)**  (See: Background Information)
 === Gen:16:16 ===
 
 "Abram was eighty-six years old when Hagar bore Ishmael to Abram."
@@ -37,4 +34,9 @@ Field reference numbers are included for clarity purposes only. They are omitted
 "Now Jesus himself, when he began to teach, was about thirty years of age. He was the son (as was supposed) of Joseph, the son of Heli, "
 
   * **(1) Jesus himself**  - **(2)**  "this Jesus" or "this person Jesus." **(3)**  This is immediately followed by background information about Jesus. **(4)**  If your language has a way of showing that what follows is background information, you should use it here. **(5)**  (See: Background Information)
-~~DISCUSSION~~{{tag>review}}
+~~DISCUSSION~~
+
+{{tag>review}}
+
+\\ 
+
