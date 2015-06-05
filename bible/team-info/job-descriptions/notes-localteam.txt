@@ -29,11 +29,11 @@ The team leader will be responsible for the following:
 
 The final editing of the notes before going to the Translation Notes Teams Manager is the responsibility of the Team Leader or their designee. The Doku Wiki Editor provides the best interface for exact corrections. The Notes Editor should:
 
+  * Confirm that the Important Words and the list of notes are in the same order as they appear in the ULB.
   * Remove all extraneous formatting.
-  * Use the {{en:bible:team-info:manager_s_checklist.pdf|checklist}} to check for the correct formatting of the notes.
+  * Use the {{:en:bible:team-info:manager_s_checklist.pdf|checklist}}  to check for the correct formatting of the notes.
   * Change the 'draft' tag to 'check' when the work is completed.
   * Save all changes.
-
 
 ===== Team Member Responsibilities =====
 
