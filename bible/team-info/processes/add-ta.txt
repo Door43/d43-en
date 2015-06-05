@@ -1,9 +1,9 @@
 ====== Adding translationAcademy Links ======
 
-Before adding a tA link to a page, check here to see if it already exists in [[:en:ta:ta-topics|Translation Academy Topics]]
+Before adding a tA link to a page, check here to see if it already exists in [[:en:ta:ta-topics]]
 
   * Add the link to the page using the correct link syntax.
-  * If you are unsure of the syntax of a tA link, see "Page Link" column of the [[https://docs.google.com/spreadsheets/d/1ocRDg1_jdGI7PjnKbZe19qd_fmnHqOv4cDpjM0pdmFs/edit?usp=sharing​|Translation Studio Topics - Links]] list on Google Drive.
+  * If you are unsure of the syntax of a tA link, see "Page Link" column of the [[https://docs.google.com/spreadsheets/d/1ocRDg1_jdGI7PjnKbZe19qd_fmnHqOv4cDpjM0pdmFs/edit?usp=sharing​]] list on Google Drive.
 
 === If the topic is not on the translationAcademy Topics Page: ===
 
@@ -20,7 +20,7 @@ Before adding a tA link to a page, check here to see if it already exists in [[:
 {{tag>ktlink talink}}
 </code>
 
-  * The tA team will see the list of chunks that need tA page/video/module here: [[:en:ta:ta-needed|Translation Academy Topics to Do]]
+  * The tA team will see the list of chunks that need tA page/video/module here: [[:en:ta:ta-needed]]
 
   * Once they have created the page, they will delete the tag.
 {{tag>notes401 kt301}}
