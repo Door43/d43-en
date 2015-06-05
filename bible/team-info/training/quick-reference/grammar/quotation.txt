@@ -11,14 +11,17 @@ In English there are direct and non-direct (indirect) quotations.
 
 
 ===== Template =====
-Required Fields: (See: [[en:bible:team-info:training:quick-reference:template]])
 
-  * **1.** List the phrase that includes the speech quotations from the ULB in bold
-  * **3.** Identify the type of speech quotation
-  * **4.** State a translation alternative using another type of quotation
-  * **5.** Add TA Link (See: [[:en:ta:translate:quotation]])
+Template fields: (See: [[:en:bible:team-info:training:quick-reference:template|General Template]])
 
-  * **(1) phrase** - **(3)** Type of quotation. **(4)** Alternate translation using another type of quotation. **(5)** (See: [[:en:ta:translate:quotation]])
+  - **(Required)**  List the text that includes the speech quotation from the ULB in bold
+  - (Optional)  State a clarifying translation
+  - **(Required)**  Identify the type of speech quotation
+  - **(Required)**  State a translation alternative using another type of quotation
+  - **(Required)**  Add TA Link: (See: Quotation)
+
+  * **(1) ULB text**  - **(3)** Type of speech quotation. **(4)** Translation alternative using another type of quotation. **(5)** (See: Quotation)
+
 
 ===== Bible Examples =====
 Field reference numbers are included for clarity purposes only. They are omitted in the actual note.
