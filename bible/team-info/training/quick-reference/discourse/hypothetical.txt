@@ -6,14 +6,17 @@
 Something that is hypothetical is 'assumed' or 'supposed.' A hypothetical situation is a possible scenario from any point in time: past, present or future. This situation may or may not actually be true. It could possibly happen or it may never happen. A hypothetical situation might mean asking a “what if” question. It might be a “suppose” or “if only” statement.
 
 ===== Template =====
-Required Fields: (See: [[en:bible:team-info:training:quick-reference:template]])
 
-  * **1.** List the phrase that includes the hypothetical situation from the ULB in bold
-  * **3.** Identify and state the purpose of the hypothetical situation
-  * **4.** Suggest that the translator use form from their language if it exists
-  * **5.** Add TA Link (See: [[:en:ta:translate:hypothetical]])
+Template fields: (See: [[:en:bible:team-info:training:quick-reference:template|General Template]])
 
-  * **(1) Hypothetical phrase** - **(3)** Identify and state the purpose of the situation. **(4)** Suggest to use cultural form. **(5)** (See: [[:en:ta:translate:hypothetical]])
+  - **(Required)**  List the text that includes the hypothetical situation from the ULB in bold
+  - (Optional)  State a clarifying translation
+  - **(Required)**  Identify and state the purpose of the hypothetical situation
+  - **(Required)**  Suggest that the translator use form from their language if it exists
+  - **(Required)**  Add TA Link: (See: Hypothetical)
+
+  * **(1) ULB text**  - **(3)** Identity and purpose of the situation. **(4)** Suggestion to use form from their language if it exists. **(5)** (See: Hypothetical)
+
 
 ===== Bible Examples =====
 Field reference numbers are included for clarity purposes only. They are omitted in the actual note.
