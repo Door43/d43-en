@@ -11,13 +11,11 @@ Something that is hypothetical is 'assumed' or 'supposed.' A hypothetical situat
 Template fields: (See: [[:en:bible:team-info:training:quick-reference:template|General Template]])
 
   - **(Required)**  List the text that includes the hypothetical situation from the ULB in bold
-  - (Optional)  State a clarifying translation
+  - (Optional) State a clarifying translation
   - **(Required)**  Identify and state the purpose of the hypothetical situation
-  - **(Required)**  Suggest that the translator use form from their language if it exists
+  - **(Required)**  Suggest that the translator use a form from their language if it exists
   - **(Required)**  Add TA Link: (See: Hypothetical)
-
-  * **(1) ULB text**  - **(3)** Identity and purpose of the situation. **(4)** Suggestion to use form from their language if it exists. **(5)** (See: Hypothetical)
-
+  * **(1) ULB text**  - **(3)**  Identity and purpose of the situation. **(4)**  Suggestion to use form from their language if it exists. **(5)**  (See: Hypothetical)
 
 ===== Bible Examples =====
 
