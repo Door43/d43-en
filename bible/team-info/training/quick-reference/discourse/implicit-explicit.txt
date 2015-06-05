@@ -8,15 +8,17 @@ There are two different forms of communication found in both written and spoken 
 
 
 ===== Template =====
-Required Fields: (See: [[en:bible:team-info:training:quick-reference:template]])
 
+Template fields: (See: [[:en:bible:team-info:training:quick-reference:template|General Template]])
 
-  * **1.** List the phrase from the ULB in bold where the implicit information should appear
-  * **3.** Identify the content of the implicit information
-  * **4.** Suggest translation alternative with information made explicit
-  * **5.** Add TA Link (See: implicitexplicit)
+  - **(Required)**  List the phrase from the ULB in bold where the implicit information should appear
+  - (Optional)  State a clarifying translation
+  - **(Required)**  Identify the content of the implicit information
+  - **(Required)**  Suggest translation alternative with information made explicit
+  - **(Required)**  Add TA Link: (See: Implicit/Explicit)
 
-  * **(1) Implicit phrase** - **(3)** Implicit content. **(4)** Explicit translation suggestion. **(5)** (See: [[:en:ta:translate:implicitexplicit]])
+  * **(1) ULB text**  - **(3)** Implicit content. **(4)** Translation alternative with information made explicit. **(5)** (See: Implicit/Explicit)
+
 
 ===== Bible Examples =====
 Field reference numbers are included for clarity purposes only. They are omitted in the actual note.
