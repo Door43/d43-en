@@ -10,8 +10,8 @@ Synecdoche is a figure of speech in which 1) the name of a part of something is 
 
 Template fields: (See: [[:en:bible:team-info:training:quick-reference:template|General Template]])
 
-  - **(Required)**  List the text that includes the synecdoche from the ULB in bold
-  - (Optional)  State a clarifying translation
+  - **(Required)**  Write the text that includes the synecdoche from the ULB in bold
+  - (Optional)  Give a clarifying translation
   - **(Required)**  State the meaning of the synecdoche
   - **(Required)**  Restate the phrase without the synecdoche
   - **(Required)**  Add TA Link: (See: Synecdoche)
