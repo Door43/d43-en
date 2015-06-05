@@ -15,7 +15,7 @@ Template fields: (See: [[:en:bible:team-info:training:quick-reference:template|G
   - (Optional)  Suggest alternate ways to translate the idiom
   - **(Required)**  Add TA Link: (See: Idiom)
 
-  * **(1) ULB text**  - **(3)** Text meaning. **(5)** (See: Idiom)
+  * **(1) ULB text**  - **(3)** The meaning of the idiom. **(5)** (See: Idiom)
 
 ===== Bible Examples =====
 
@@ -31,13 +31,13 @@ Field reference numbers are included for clarity purposes only. They are omitted
 
 "Pray together for us also, that God would open a door for us to speak the word, the mystery of Christ."
 
-  * **(1) God would open a door for us**  - **(3)** This is an idiom that means "God will provide opportunities for us." **(5)** (See: Idiom)
+  * **(1) God would open a door for us**  - **(3)** This expression means "God will provide opportunities for us." **(5)** (See: Idiom)
 
 === 2Th:03:13 ===
 
 "But you, brothers, do not lose heart in doing what is right."
 
-  * **(1) do not lose heart**  - **(3)** This is an idiom that means “do not be discouraged”. **(5)** (See: Idiom)
+  * **(1) do not lose heart**  - **(3)** This expression means “do not be discouraged”. **(5)** (See: Idiom)
 
 ~~DISCUSSION~~
 
