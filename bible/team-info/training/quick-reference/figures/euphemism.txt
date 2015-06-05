@@ -9,7 +9,7 @@ A euphemism is a mild or polite way of referring to something that is unpleasant
 Template fields: (See: [[:en:bible:team-info:training:quick-reference:template|General Template]])
 
   - **(Required)**  Write the text that includes the euphemism from the ULB in bold
-  - (Optional)  Rephrase the text if needed with the euphemism still in it.
+  - (Optional)  Give an alternate translation with the euphemism still in it.
   - **(Required)**  State the meaning of the euphemism
   - **(Required)**  Suggest alternate ways to translate it.
   - **(Required)**  Add TA Link (See: Euphemism)
