@@ -14,15 +14,17 @@ Template fields: (See: [[:en:bible:team-info:training:quick-reference:template|G
   - **(Required)**  Suggest alternate ways to translate the hyperbole
   - **(Required)**  Add TA Link: (See: Hyperbole)
   * **(1) ULB text**  - **(3)**  Text meaning. **(4)**  Alternate translation suggestion. **(5)**  (See: Hyperbole)
+
 ===== Bible Examples =====
 
 Field reference numbers are included for clarity purposes only. They are omitted in the actual note.
 
-=== Luk:09:58 ===
+=== 2TH:01:11 ===
+For this we also pray continually for you, that our God will consider you worthy of your calling, and fulfill every desire of goodness
 
-"Jesus said to him, 'Foxes have holes, and the birds of the sky have nests, but the Son of Man has nowhere to lay his head.'"
+ * **we also pray continually for you**  - "frequently". (See: [[:en:ta:translate:hyperbole|Hyperbole]])
 
-  * **(1) nowhere to lay his head**  - **(3)**  This is a hyperbole. Jesus is exaggerating in order to get across the point that he was not welcome anywhere to live. **(4)**  This can be translated as "nowhere to rest his head" or "nowhere to sleep."**(5)**  (See: Hyperbole)
+
 === Act:07:22 ===
 
 "Moses was educated in all the learning of the Egyptians; and he was mighty in his words and works."
