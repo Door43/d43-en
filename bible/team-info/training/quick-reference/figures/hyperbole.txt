@@ -1,47 +1,36 @@
- ====== Hyperbole ======
-
+====== Hyperbole ======
 
 ===== Description =====
 
 A hyperbole is to make something larger or greater than it really is which is used to indicate the speaker’s feeling or opinion about something.
-
 
 ===== Template =====
 
 Template fields: (See: [[:en:bible:team-info:training:quick-reference:template|General Template]])
 
   - **(Required)**  List the text that includes the hyperbole from the ULB in bold
-  - (Optional)  State a clarifying translation
+  - (Optional) State a clarifying translation
   - **(Required)**  State the purpose of the hyperbole
   - **(Required)**  Suggest alternate ways to translate the hyperbole
   - **(Required)**  Add TA Link: (See: Hyperbole)
-
-  * **(1) ULB text**  - **(3)** Text meaning. **(4)** Alternate translation suggestion. **(5)** (See: Hyperbole)
-
+  * **(1) ULB text**  - **(3)**  Text meaning. **(4)**  Alternate translation suggestion. **(5)**  (See: Hyperbole)
 ===== Bible Examples =====
-Field reference numbers are included for clarity purposes only. They are omitted in the actual note.
 
+Field reference numbers are included for clarity purposes only. They are omitted in the actual note.
 
 === Luk:09:58 ===
 
 "Jesus said to him, 'Foxes have holes, and the birds of the sky have nests, but the Son of Man has nowhere to lay his head.'"
 
-  * **(1) nowhere to lay his head**  - **(3)**  This is a hyperbole. Jesus is exaggerating in order to get across the point that he was not welcome anywhere to live. **(4)** This can be translated as "nowhere to rest his head" or "nowhere to sleep."**(5)**  (See: Hyperbole)
-
+  * **(1) nowhere to lay his head**  - **(3)**  This is a hyperbole. Jesus is exaggerating in order to get across the point that he was not welcome anywhere to live. **(4)**  This can be translated as "nowhere to rest his head" or "nowhere to sleep."**(5)**  (See: Hyperbole)
 === Act:07:22 ===
 
 "Moses was educated in all the learning of the Egyptians; and he was mighty in his words and works."
 
-  * **(1) all the learning of the Egyptians**  - **(3)**  This is an exaggeration for **(4)** This can be translated as "many things that the Egyptians knew." **(5)**  (See: Hyperbole)
-
+  * **(1) all the learning of the Egyptians**  - **(3)**  This is an exaggeration for **(4)**  This can be translated as "many things that the Egyptians knew." **(5)**  (See: Hyperbole)
 === Tit:01:12 ===
 
 One of them, a wise man of theirs, said, "Cretans are unceasing liars, bad and dangerous animals, lazy bellies."
 
-  * **(1) Cretans are unceasing liars** - **(3)**  The is an exaggeration.  **(4)**  "Cretans are lying all the time" or "Cretans never stop lying."  **(5)**  (See: Hyperbole)
-
-~~DISCUSSION~~
-
-{{tag>review}}
-
-\\ 
+  * **(1) Cretans are unceasing liars**  - **(3)**  The is an exaggeration. **(4)**  "Cretans are lying all the time" or "Cretans never stop lying." **(5)**  (See: Hyperbole)
+~~DISCUSSION~~{{tag>review}}
