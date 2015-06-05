@@ -8,20 +8,16 @@ Occasionally an author may take a break from the storyline to share something of
   * To provide important historical or cultural information.
   * To tell the reader, or listener, something very important
 
-
 ===== Template =====
 
 Template fields: (See: [[:en:bible:team-info:training:quick-reference:template|General Template]])
 
   - **(Required)**  List the text that includes or begins the background information from the ULB in bold
-  - (Optional)  State a clarifying translation
+  - (Optional) State a clarifying translation
   - **(Required)**  Identify the content and purpose of the background information
-  - (Optional)  Suggest they translators use their form for background information if one exists
+  - (Optional) Suggest they translators use their form for background information if one exists
   - **(Required)**  Add TA Link: (See: Background Information)
-
-  * **(1) ULB text**  - **(3)** Text meaning. **(5)** (See: Background Information)
-
-
+  * **(1) ULB text**  - **(3)**  Text meaning. **(5)**  (See: Background Information)
 ===== Bible Examples =====
 
 Field reference numbers are included for clarity purposes only. They are omitted in the actual note.
@@ -30,24 +26,15 @@ Field reference numbers are included for clarity purposes only. They are omitted
 
 "But there was a certain man in the city named Simon, who had earlier been practicing sorcery; he used to astonish the people of Samaria, while claiming that he was an important person."
 
-  * **(1) the city** - **(2)** "the city in Samaria." **(3)** "in Samaria" is background information that is included later in the verse. **(5)** (See: Background Information)
-
-
+  * **(1) the city**  - **(2)**  "the city in Samaria." **(3)**  "in Samaria" is background information that is included later in the verse. **(5)**  (See: Background Information)
 === Gen:16:16 ===
 
 "Abram was eighty-six years old when Hagar bore Ishmael to Abram."
 
-  * **(1) Abram was eighty-six years old** - **(3)** This introduces background information about Abram's age when these things happened. **(4)** Your language may have a special way to mark background information. **(5)** (See: Background Information)
-
-
+  * **(1) Abram was eighty-six years old**  - **(3)**  This introduces background information about Abram's age when these things happened. **(4)**  Your language may have a special way to mark background information. **(5)**  (See: Background Information)
 === Luk:03:23 ===
 
 "Now Jesus himself, when he began to teach, was about thirty years of age. He was the son (as was supposed) of Joseph, the son of Heli, "
 
-  * **(1) Jesus himself**  - **(2)** "this Jesus" or "this person Jesus."  **(3)** This is immediately followed by background information about Jesus. **(4)** If your language has a way of showing that what follows is background information, you should use it here. **(5)** (See: Background Information)
-
-~~DISCUSSION~~
-
-{{tag>review}}
-
-\\ 
+  * **(1) Jesus himself**  - **(2)**  "this Jesus" or "this person Jesus." **(3)**  This is immediately followed by background information about Jesus. **(4)**  If your language has a way of showing that what follows is background information, you should use it here. **(5)**  (See: Background Information)
+~~DISCUSSION~~{{tag>review}}
