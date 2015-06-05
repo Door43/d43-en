@@ -8,8 +8,8 @@ Parallelism is the expression of one idea in two or more different ways. Paralle
 
 Template fields: (See: [[:en:bible:team-info:training:quick-reference:template|General Template]])
 
-  - **(Required)**  List the text that includes the parallelism from the ULB in bold
-  - (Optional)  State a clarifying translation
+  - **(Required)**  Write the text that includes the parallelism from the ULB in bold
+  - (Optional)  Give a clarifying translation
   - **(Required)**  State the meaning of the parallelism
   - **(Required)**  Suggest alternate ways to translate the parallelism
   - **(Required)**  Add TA Link: (See: Parallelism)
