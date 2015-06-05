@@ -7,8 +7,8 @@ A hyperbole is an exaggeration that is used to show the speaker’s feeling or o
 
 Template fields: (See: [[:en:bible:team-info:training:quick-reference:template|General Template]])
 
-  - **(Required)**  List the text that includes the hyperbole from the ULB in bold
-  - (Optional) State a clarifying translation
+  - **(Required)**  Write the text that includes the hyperbole from the ULB in bold
+  - (Optional) Give a clarifying translation
   - **(Required)**  State the purpose of the hyperbole
   - **(Required)**  Suggest alternate ways to translate the hyperbole
   - **(Required)**  Add TA Link: (See: Hyperbole)
