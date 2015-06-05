@@ -1,13 +1,32 @@
-====== translationStudio Options Menu - Update ======
+====== Update translationStudio Projects ======
 
-Watch the {{:en:ta:tech:tS_Options_Menu_-_Update_-_Android_v4.mp4|Installing translationStudio}} one minute video or follow these directions:
+To update project information on your device, complete the steps below.  If you are looking for a way to update the translationStudio app, this process is now automated each time you open the app.
 
-Note: Updating requires an Internet connection.
+**Note: ** This process requires an Internet connection.
 
-  * Open translationStudio on the Android device. Tap on the tS icon.
-  * The program opens. Go to the edit screen. (Source text on the left and edit box on the right.)
-  * Tap on the 3 vertical dots at the top right of the screen. The Options Menu opens.
-  * Tap on the 'Update' word. An information message appears.
+To update translationStudio projects:
+
+  -
+
+In the green bar at the top of the screen, tap the three dots on the right.
+
+  -
+
+In the list of options, tap **Update**.
+
+      -
+
+Select **Update Projects ** to download available updates from the server.
+
+      -
+
+Select **Transfer from device ** to transfer projects from a nearby device.
+
+      -
+
+Select **Import from storage**  to import project data from the SD card in the device.
+
+  * An information message appears.
   * Tap yes.
   * Wait for the update process.
   * When the process is done a message will appear at the top of the application window.
