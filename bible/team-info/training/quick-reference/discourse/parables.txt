@@ -8,13 +8,16 @@ Concepts translated as "parable" include narrative stories, metaphors, similes, 
 
 
 ===== Template =====
-Required Fields: (See: [[en:bible:team-info:training:quick-reference:template]])
 
-  * **1.** List the phrase that includes the parable from the ULB in bold
-  * **3.** Identify the key components and meaning of the parable
-  * **5.** Add TA Link (See: [[:en:ta:translate:parable]])
+Template fields: (See: [[:en:bible:team-info:training:quick-reference:template|General Template]])
 
-  * **(1) phrase** - **(3)** Components & meaning of the parable.  **(5)** (See: [[:en:ta:translate:parable]])
+  - **(Required)**  List the text that includes or begins the parable from the ULB in bold
+  - (Optional)  State a clarifying translation
+  - **(Required)**  Identify the key components and meaning of the parable
+  - (Optional)  Suggest alternate ways to translate the parable
+  - **(Required)**  Add TA Link: (See: Parable)
+
+  * **(1) ULB text**  - **(3)** Components & meaning of the parable. **(5)** (See: Parable)
 
 
 ===== Bible Examples =====
