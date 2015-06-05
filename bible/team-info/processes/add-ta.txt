@@ -7,10 +7,13 @@ Before adding a tA link to a page, check here to see if it already exists in [[:
   * If the topic exists, add the link to the page using the correct link syntax.
     * Right click on the link and choose open in a new window.
     * Click-and-Drag to select the letters on the tab of the topic’s window.
-
+{{en:bible:team-info:select_the_tab_no_number.png?nolink&600x209}}
   * Return to the Translation Notes editor window.
-  * Replace the talink topic with the link syntax.
-
+  * Select to highlight the word "//topic//" or the words "//talink topic//".  
+  * Replace the highlighted word(s) with the link syntax. (2-square-brackets copied-text 2-square-brackets) So that: (See: topic) becomes
+<code>
+(See: [[copied text from topic page tab]])
+</code>
 
 === If the topic is **not** on the translationAcademy Topics Page: ===
   * Type in "(See talink TOPIC)" at the end of the Translation Note.
@@ -23,7 +26,7 @@ Before adding a tA link to a page, check here to see if it already exists in [[:
   * If there is already a tag listed, leave a space and add to it like this:
 
 <code>
-{{tag>ktlink talink}}
+{{tag>draft ktlink talink}}
 </code>
 
   * The tA team will see the list of chunks that need tA page/video/module here: [[:en:ta:ta-needed]]
