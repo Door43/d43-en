@@ -17,7 +17,7 @@ Template fields: (See: [[:en:bible:team-info:training:quick-reference:template|G
   - **(Required)**  Point the translator to how his language handles the discourse marker
   - **(Required)**  Add TA Link: (See: Discourse)
 
-  * **(1) ULB text**  - **(3)** Text meaning. **(4)** Examine how your language marks this and use it. **(5)** (See: Discourse)
+  * **(1) ULB text**  - **(3)** Text meaning. **(4)** Suggestion to use the way their language expresses this topic. **(5)** (See: Discourse)
 
 
 ===== Bible Examples =====
@@ -29,11 +29,10 @@ Field reference numbers are included for clarity purposes only. They are omitted
 
 Now Herod was very angry with the people of Tyre and Sidon. 
 
-  * **(1) Now Herod** - **(3)** “Now” marks a change in the story timeline. **(4)** It can be translated as “At that time.” **(5)** (See: [[:en:ta:discourse:home]])
+  * **(1) Now Herod** - **(2)** “At that time, Herod.” **(3)** The word “Now” marks a change in the story timeline. **(4)** If your language has a way of expressing a change in a story, use it here. **(5)** (See: Discourse)
 
 ~~DISCUSSION~~
 
-{{tag>eq ls}}
+{{tag>review}}
 
 \\ 
-
