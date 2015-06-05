@@ -13,10 +13,10 @@ Template fields: (See: [[:en:bible:team-info:training:quick-reference:template|G
   - **(Required)**  List the text that includes the ellipsis from the ULB in bold
   - (Optional)  State a clarifying translation
   - **(Required)**  State the information that has been left out
-  - (Optional)  Suggest alternate ways to translate the ellipsis
+  - **(Required)**  Suggest alternate ways to translate the ellipsis
   - **(Required)**  Add TA Link: (See: Ellipsis)
 
-  * **(1) ULB text**  - **(3)** The information that has been left out. **(5)** (See: Ellipsis)
+  * **(1) ULB text**  - **(3)** The information that has been left out. **(4)**  Alternate translation suggestion. **(5)** (See: Ellipsis)
 
 
 ===== Bible Examples =====
