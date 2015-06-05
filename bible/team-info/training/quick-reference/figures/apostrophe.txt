@@ -10,7 +10,7 @@ In apostrophe, a speaker turns his attention from the people he is speaking to a
 Template fields: (See: [[:en:bible:team-info:training:quick-reference:template|General Template]])
 
   - **(Required)**  List the text that includes the apostrophe from the ULB in bold
-  - (Optional) State a clarifying translation
+  - (Optional) Give a clarifying translation
   - **(Required)**  Identify the audience to whom the apostrophe is spoken and explain the purpose of the apostrophe
   - **(** Optional**)**  Suggest alternate ways to translate the topic.
   - **(Required)**  Add TA Link: (See: Apostrophe)
