@@ -6,7 +6,7 @@ You can select and change your source language and target language whenever you 
 
 **Note: ** The default Source Language is English.
 
-Complete these steps to select or change the target language, which is the language you are translating to:
+Complete these steps to select or change the target language, which is the language you are translating TO:
 
   - Tap **Project ****Settings**  then tap **Language**.
   - Tap on the target language to open the list of available target languages.
@@ -16,7 +16,7 @@ Complete these steps to select or change the target language, which is the langu
   - When you have selected your language, tap **OK **  in the upper right corner.
   - If you are satisfied with your target language, tap **OK **  again in the upper right corner. Otherwise repeat these steps to select the correct language.
 
-Complete these steps to select or change the source language, which is the language you are translating from:
+Complete these steps to select or change the source language, which is the language you are translating FROM:
 
   - Tap **Project ****Settings**  then tap **Language**.
   - Tap on the source language (default: English) to open the list of available source languages.
