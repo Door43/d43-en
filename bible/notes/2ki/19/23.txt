@@ -29,10 +29,10 @@
 \p We have cut down its tallest cedar trees
 \p and its nicest pine trees.
 \p We have been to the most distant peaks
-\p and to its densess forests.
+\p and to its densest forests.
 \p
 \v 24 We have dug wells in other countries and drank water from them.
-\p And by marching through  the streams of Egypt,
+\p And by marching through the streams of Egypt,
 \p we dried them all up !'
 \b
 
@@ -44,6 +44,7 @@
 ===== ULB: =====
 
 <usfm>
+\q 
 \v 23 By your messengers you have defied the Lord, 
 \q and have said, 'With the multitude of my chariots 
 \q I have gone up to the height of the mountains, 
@@ -51,8 +52,9 @@
 \q and I cut down the tall cedars and the choice pine trees there, 
 \q and I entered into his farthest lodging place, 
 \q the most fruitful forest.
+\q 
 \v 24 I have dug wells and have drunk foreign waters, 
-\q and with the sole of my feet will I dry up all the rivers of Egypt.
+\q and with the sole of my feet will I dry up all the rivers of Egypt.'
 </usfm>
 
 
