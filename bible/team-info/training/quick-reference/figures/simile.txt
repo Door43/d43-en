@@ -9,8 +9,8 @@ In a simile something is compared to something else of a different kind in order
 
 Template fields: (See: [[:en:bible:team-info:training:quick-reference:template|General Template]])
 
-  - **(Required)**  List the text that includes the simile from the ULB in bold
-  - (Optional)  State a clarifying translation
+  - **(Required)**  Write the text that includes the simile from the ULB in bold
+  - (Optional)  Give a clarifying translation
   - **(Required)**  Explain the parts of the simile and what it means
   - (Optional)  Suggest alternate ways to translate the simile
   - **(Required)**  Add TA Link: (See: Simile)
