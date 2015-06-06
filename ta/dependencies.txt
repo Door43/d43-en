@@ -43,6 +43,10 @@ edge [arrowsize=1.4];
 "why" -> "clear"
 "what" -> "clear"
 "process" -> "clear"
+"intro_checking" [fillcolor="#9999ff"]
+"intro_check" -> "intro_checking"
+"intro_check" [fillcolor="#9999ff"]
+"ta_intro" -> "intro_check"
 "testmod1" [fillcolor="#99ffff"]
 "Test" -> "testmod1"
 "testmod2" [fillcolor="#99ffff"]
