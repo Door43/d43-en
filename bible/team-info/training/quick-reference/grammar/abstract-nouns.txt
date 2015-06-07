@@ -8,12 +8,12 @@
 
 Template fields: (See: [[:en:bible:team-info:training:quick-reference:template|General Template]])
 
-  - **(Required)**  List the text that includes the abstract noun from the ULB in bold
-  - (Optional) State a clarifying translation
+  - **(Required)**  Write the text that includes the abstract noun from the ULB in bold
+  - (Optional) Give a clarifying translation
   - (Optional) State the meaning of the abstract noun
-  - **(Required)**  Suggest alternate translation as a verb
+  - **(Required)**  Suggest an alternate translation as a verb or adjective
   - **(Required)**  Add TA Link: (See: Abstract Nouns)
-  * **(1) ULB text**  - **(4)**  Alternate translation as a verb. **(5)**  (See: Abstract Nouns)
+  * **(1) ULB text**  - **(4)**  Alternate translation as a verb or adjective. **(5)**  (See: Abstract Nouns)
 
 ===== Bible Examples =====
 
