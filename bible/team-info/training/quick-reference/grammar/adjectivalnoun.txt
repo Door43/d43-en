@@ -12,8 +12,8 @@ There are two type of Adjectival Nouns.
 
 Template fields: (See: [[:en:bible:team-info:training:quick-reference:template|General Template]])
 
-  - **(Required)**  List the text that includes the adjectival noun from the ULB in bold
-  - (Optional)  State a clarifying translation
+  - **(Required)**  Write the text that includes the adjectival noun from the ULB in bold
+  - (Optional)  Give a clarifying translation
   - **(Required)**  State the meaning of the adjectival noun
   - **(Required)**  Suggest a translation alternative using a noun form
   - **(Required)**  Add TA Link: (See: Adjectival Noun)
