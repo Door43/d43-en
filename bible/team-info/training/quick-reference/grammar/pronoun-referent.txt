@@ -4,17 +4,16 @@
 
 First person is how a speaker normally refers to himself. English has the first person pronouns ”I” and ”we”. (Also: me, my, mine, us, our, ours)
 
-Second person is how a  speaker normally refers to the person or people he is speaking to. English uses the second person pronoun ”you.” (Also: your, yours)
+Second person is how a speaker normally refers to the person or people he is speaking to. English uses the second person pronoun ”you.” (Also: your, yours)
 
 Third person is how a speaker refers to someone else. English has the third person pronouns ”he”, ”she”, ”it” and ”they”. (Also: him, his, her, hers, its, them, their, theirs.)
 
-In some languages, first, second and third person are usually shown with a prefix or suffix on a word, rather than with a personal pronoun.  You should do what is most natural in your language. Furthermore, in some languages (including Greek) using a personal pronoun indicates a special emphasis on the thing it refers to.  
+In some languages, first, second and third person are usually shown with a prefix or suffix on a word, rather than with a personal pronoun. You should do what is most natural in your language. Furthermore, in some languages (including Greek) using a personal pronoun indicates a special emphasis on the thing it refers to.
 
-  - People normally use first person pronouns when referring to themselves. 
-    * The mother said to her young children, ”Stop fighting over the ball. Give it to me.”
+  - People normally use first person pronouns when referring to themselves.
+      * The mother said to her young children, ”Stop fighting over the ball. Give it to me.”
   - But sometimes they use a noun instead of a pronoun.
-    * The mother said to her young children, "Stop fighting over the ball. Give it to Mommy.
-
+      * The mother said to her young children, "Stop fighting over the ball. Give it to Mommy.
 
 ===== Usage =====
 
@@ -23,26 +22,23 @@ A note is only necessary when __both the ULB and UDB are unclear about who the p
 ===== Special Situations =====
 
 These situations have their own pages:
-  - "we" (Dual & Plural) is always inclusive or exclusive
-    * [[:en:bible:team-info:training:quick-reference:grammar:we-exclusive]]
-    * [[:en:bible:team-info:training:quick-reference:grammar:we-inclusive]]
-  - "you" (all forms)
-    * [[:en:bible:team-info:training:quick-reference:grammar:formsofyou]]
 
+  - "we" (Dual & Plural) is always inclusive or exclusive
+      * [[:en:bible:team-info:training:quick-reference:grammar:we-exclusive|'We' Exclusive]]
+      * [[:en:bible:team-info:training:quick-reference:grammar:we-inclusive|'We' Inclusive]]
+  - "you" (all forms)
+      * [[:en:bible:team-info:training:quick-reference:grammar:formsofyou|Forms of 'You']]
 
 ===== Template =====
 
 Template fields: (See: [[:en:bible:team-info:training:quick-reference:template|General Template]])
 
   - **(Required)**  List the text that includes the pronoun from the ULB in bold
-  - (Optional)  State a clarifying translation
+  - (Optional) State a clarifying translation
   - **(Required)**  State the pronoun and identify to whom or what it refers
-  - (Optional)  Suggest alternate ways to translate the pronoun
+  - (Optional) Suggest alternate ways to translate the pronoun
   - **(Required)**  Add TA Link: (See: Pronoun Referent)
-
-  * **(1) ULB text**  - **(3)** State the pronoun and referent. **(5)** (See: Pronoun Referent)
-
-
+  * **(1) ULB text**  - **(3)**  State the pronoun and referent. **(5)**  (See: Pronoun Referent)
 ===== Bible Examples =====
 
 Field reference numbers are included for clarity purposes only. They are omitted in the actual note.
@@ -51,22 +47,15 @@ Field reference numbers are included for clarity purposes only. They are omitted
 
 All the hidden treasures of wisdom and knowledge are in him.
 
-  * **(1) are in him ** - **(3)** The word "him" refers to Christ. **(5)** (See: Pronoun Referent)
-
+  * **(1) are in him **  - **(3)**  The word "him" refers to Christ. **(5)**  (See: Pronoun Referent)
 === Col:02:01 ===
 
 For I want you to know how great a struggle I have had for you, and for those at Laodicea, and for as many as have not seen my face in the flesh,
 
-  * **(1) For I want you to know how great a struggle I have had for you** - **(3)** The word "I" refers to Paul and the word "you" refers to the Colossian believers. **(5)** (See: Pronoun Referent, Forms of 'You')
-
+  * **(1) For I want you to know how great a struggle I have had for you**  - **(3)**  The word "I" refers to Paul and the word "you" refers to the Colossian believers. **(5)**  (See: Pronoun Referent, Forms of 'You')
 === Luk:17:25 ===
 
 "But first he must suffer many things and be rejected by this generation."
 
-  * **(1) But first he must suffer**  -  **(3)** The pronoun "he" is referring to the Son of Man which refers back to Jesus. Here, Jesus was speaking about himself as the "Son of Man".  **(4)** This can be translated as "But first the son of Man must suffer" or " but first I, the Son of Man must suffer." **(5)** (See: Pronoun Referent)
-
-~~DISCUSSION~~
-
-{{tag>publish}}
-
-\\ 
+  * **(1) But first he must suffer**  - **(3)**  The pronoun "he" is referring to the Son of Man which refers back to Jesus. Here, Jesus was speaking about himself as the "Son of Man". **(4)**  This can be translated as "But first the son of Man must suffer" or " but first I, the Son of Man must suffer." **(5)**  (See: Pronoun Referent)
+~~DISCUSSION~~{{tag>publish}}
