@@ -2,12 +2,13 @@
 
 ===== Description =====
 
-The quick Reference templates uses the following format for creating notes. The order of the fields in the template are fixed but Which fields are actually included in a note depends on the type of note being created. 
+The quick Reference templates uses the following format for creating notes. The order of the fields in the template are fixed but Which fields are actually included in a note depends on the type of note being created.
 
   * Quick Links:
   * [[:en:bible:team-info:processes:create-notes|How to Create Translation Notes]]
   * [[:en:bible:team-info:processes:format-notes|How to Format Translation Notes]]
-  * [[:en:bible:team-info:training:quick-reference:quick-reference-notes]]
+  * [[:en:bible:team-info:training:quick-reference:quick-reference-notes|Quick Reference Guide for Notes]]
+
 ===== Template =====
 
 Create notes as follows:
@@ -25,7 +26,6 @@ Create notes as follows:
       - Provide suggestions about how to translate the topic
   - **(Optional)**  Add TA Link
   * **(1) topic phrase**  - **(2)**  Clarifying translation. **(3)**  Text meaning. **(4)**  Alternate translation suggestion. **(5)**  (See: Translation Academy Topic)
-
 ==== Comments ====
 
   * All Notes require Topic Phrase (1).
