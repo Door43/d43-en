@@ -39,6 +39,7 @@ Template fields: (See: [[:en:bible:team-info:training:quick-reference:template|G
   - (Optional) Suggest alternate ways to translate the pronoun
   - **(Required)**  Add TA Link: (See: Pronoun Referent)
   * **(1) ULB text**  - **(3)**  State the pronoun and referent. **(5)**  (See: Pronoun Referent)
+
 ===== Bible Examples =====
 
 Field reference numbers are included for clarity purposes only. They are omitted in the actual note.
@@ -59,6 +60,15 @@ For I want you to know how great a struggle I have had for you, and for those at
 
   * **(1) But first he must suffer**  - **(3)**  The word "he" refers to the Son of Man which refers back to Jesus. Here, Jesus was speaking about himself as the "Son of Man". **(4)**  This can be translated as "But first the son of Man must suffer" or " but first I, the Son of Man must suffer." **(5)**  (See: Pronoun Referent)
 
+===== Alternative template for third person =====
+
+  * **(1) ULB text**  - **(4)**  State the ULB Text replacing the pronoun with the referent
+
+===== Bible Examples =====
+=== Col:01:08 ===
+
+He has revealed to us your love in the Spirit.
+  * **He has revealed to us** - “Epaphras has made know to us”
 
 
 ~~DISCUSSION~~
