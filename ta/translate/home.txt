@@ -23,7 +23,6 @@ Core topics
     * [[en:ta:translate:123person]]
     * [[en:ta:translate:wordorder]]
     * [[en:ta:translate:formsofyou]]
-    * [[en:ta:translate:formsofyou-formal]]
     * [[en:ta:translate:formsofyou-plural]]
     * [[en:ta:translate:formsofyou-singular]]
   * Other Modules
@@ -70,6 +69,7 @@ Not Core topics\\
     * [[en:ta:translate:quotation]]
     * [[en:ta:translate:sentencestructure]]
     * [[en:ta:translate:singularpronoun]]
+    * [[en:ta:translate:formsofyou-formal]]
     * [[en:ta:translate:verbs]]
   * Other Modules
     * [[en:ta:translate:update]]
