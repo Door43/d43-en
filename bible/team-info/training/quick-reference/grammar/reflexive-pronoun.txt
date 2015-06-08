@@ -13,12 +13,13 @@ A note is only necessary when __both the ULB and UDB are unclear about who the p
 
 Template fields: (See: [[:en:bible:team-info:training:quick-reference:template|General Template]])
 
-  - **(Required)**  List the text that includes the pronoun from the ULB in bold
+  - **(Required)**  List the text that includes the reflexive pronoun from the ULB in bold
   - (Optional) State a clarifying translation
-  - **(Required)**  State the pronoun and identify to whom or what it refers
-  - (Optional) Suggest alternate ways to translate the pronoun
-  - **(Required)**  Add TA Link: (See: Pronoun Referent)
-  * **(1) ULB text**  - **(3)**  State the pronoun and referent. **(5)**  (See: Pronoun Referent)
+  - **(Required)**  State the reflexive pronoun and explain its purpose
+  - (Optional) Suggest alternate ways to translate the reflexive pronoun
+  - **(Required)**  Add TA Link: (See: Reflexive Pronoun)
+
+  * **(1) ULB text**  - **(3)**  The purpose of the reflexive pronoun. **(5)**  (See: Reflexive Pronoun)
 
 ===== Bible Examples =====
 
