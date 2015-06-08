@@ -1,0 +1,34 @@
+====== Reflexive Pronoun ======
+
+===== Description =====
+
+text
+
+===== Usage =====
+
+A note is only necessary when __both the ULB and UDB are unclear about who the pronoun is referring to__.
+
+
+===== Template =====
+
+Template fields: (See: [[:en:bible:team-info:training:quick-reference:template|General Template]])
+
+  - **(Required)**  List the text that includes the pronoun from the ULB in bold
+  - (Optional) State a clarifying translation
+  - **(Required)**  State the pronoun and identify to whom or what it refers
+  - (Optional) Suggest alternate ways to translate the pronoun
+  - **(Required)**  Add TA Link: (See: Pronoun Referent)
+  * **(1) ULB text**  - **(3)**  State the pronoun and referent. **(5)**  (See: Pronoun Referent)
+
+===== Bible Examples =====
+
+Field reference numbers are included for clarity purposes only. They are omitted in the actual note.
+
+=== Act:20:13 ===
+
+All the hidden treasures of wisdom and knowledge are in him.
+
+  * **(1) are in him **  - **(3)**  The word "him" refers to Christ. **(5)**  (See: Pronoun Referent)
+
+
+~~DISCUSSION~~{{tag>draft}}
