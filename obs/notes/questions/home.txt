@@ -1,4 +1,4 @@
-====== Comprehension Questions ======
+====== translationQuestions ======
 
 
 Translators should use these questions during the level checking process this way:
@@ -14,4 +14,4 @@ Translators should use these questions during the level checking process this wa
 The translation can be approved for level 2 when the questions have been answered correctly.
 
 
-<nspages en:obs:notes:questions -sortId -simpleList -title -exclude:home -textPages="Comprehension Questions for the Open Bible Stories:">
+<nspages en:obs:notes:questions -sortId -simpleList -title -exclude:home -textPages="translationQuestions for the Open Bible Stories:">
