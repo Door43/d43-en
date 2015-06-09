@@ -2,10 +2,14 @@
 
 For our purposes, translation is a process performed between different languages that involves a person (the translator) changing a text from one language into a different language.
 
-Translating can be a literal translation or a dynamic translation. Literal translation means it is a word for word translation which may lose the meaning in another language. Dynamic translation means that has the meaning, but some of the words might be different. The difficult part of translation is to find a balance between literal translation (which we call "formal equivalence") and the intended meaning (which we call "dynamic equivalence").
+There are basically two kinds of translations: literal and dynamic. 
+  * Very literal translations focus on using words that have the same meanings and phrases that have similar structures to the phrases in the first language.   
+  * Dynamic translations focus on the meaning of the sentence, but may use different words and phrases.  
+
 
 ----
 
 [[https://pad.door43.org/p/ta-translate_whatis|https://pad.door43.org/p/ta-translate_whatis]]
 
 {{tag>draft epady Erika}}~~DISCUSSION~~
+
