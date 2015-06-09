@@ -12,4 +12,7 @@ Consider the example below. A translator uses a Swahili NT as the source for a n
 The only way to make sure the translation is accurate is to compare the new translation with the original language. Use the ULB when it is not possible to use a source text in the original language. \\
 See the [[en:ta:translate:literal]] and [[en:ta:translate:dynamic]] for more information.
 
+----
+https://pad.door43.org/p/ta-translate_retell
+
 {{tag>publish epady}}
