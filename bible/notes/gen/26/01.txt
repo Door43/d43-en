@@ -2,24 +2,15 @@
 
 ===== TFT: =====
 
-<usfm>
-\v 1 Some time later there was a severe famine\f + \ft Or: scarcity of food \f* in the land. That was different from the famine that occurred when Abraham was alive. So Isaac went \add southeast\add* to Gerar \add town\add*, to talk to Abimelech, the king of the Philistine people-group. What happened was this: Isaac considered going to Egypt,
-</usfm>
+<usfm> \v 1 Some time later there was a severe famine\f + \ft Or: scarcity of food \f* in the land. That was different from the famine that occurred when Abraham was alive. So Isaac went \add southeast\add* to Gerar \add town\add*, to talk to Abimelech, the king of the Philistine people-group. What happened was this: Isaac considered going to Egypt, </usfm>
 
 ===== UDB: =====
 
-<usfm>
-\v 1 Some time later there was a severe famine in the land. That was different from the famine that occurred when Abraham was alive. So Isaac went southeast to Gerar city to talk to Abimelech, the king of the Philistine people. Now Isaac had been considering going to Egypt because of the famine.
--
-</usfm>
+<usfm> \v 1 Some time later there was a severe famine in the land. That was different from the famine that occurred when Abraham was alive. So Isaac went southeast to Gerar city to talk to Abimelech, the king of the Philistine people. Now Isaac had been considering going to Egypt because of the famine. - </usfm>
 
 ===== ULB: =====
 
-<usfm>
-\c 26
-\p
-\v 1 Now a famine happened in the land, besides the first famine that had been in the days of Abraham. Isaac went to the city of Gerar, under Abimelech, king of the Philistines.
-</usfm>
+<usfm> \c 26 \p \v 1 Now a famine happened in the land, besides the first famine that had been in the days of Abraham. Isaac went to the city of Gerar, under Abimelech, king of the Philistines. </usfm>
 
 ===== Important Terms: =====
 
@@ -27,21 +18,20 @@
   * [[:en:obe:other:abraham|Abraham]]
   * [[:en:obe:other:isaac|Isaac]]
   * [[:en:obe:other:gerar|Gerar]]
-  * [[en:obe:other:abimelech]]
+  * [[:en:obe:other:abimelech|Abimelech]]
   * [[:en:obe:other:philistines|Philistines]]
 
 ===== Translation Notes: =====
 
-  * **Now** - This word is used here to mark a new part of the story. 
+  * **Now**  - This word is used here to mark a new part of the story.
   * **a famine happened**  - "there was a famine" or "there was another famine"
-  * **in the land**  - The land this refers to can be made explicit: "in the land where Isaac and his family lived." (See: [[en:ta:translate:implicitexplicit]])
-  * **that had been in the days of Abraham**  - The phrase "in the days" is an idiom that can be translated as "that was during Abraham's life." (See: [[en:ta:translate:idiom]])
-
+  * **in the land**  - The land this refers to can be made explicit: "in the land where Isaac and his family lived." (See: [[:en:ta:translate:implicitexplicit|Explicit and Implicit Information]])
+  * **that had been in the days of Abraham**  - The phrase "in the days" is an idiom that can be translated as "that was during Abraham's life." (See: [[:en:ta:translate:idiom|Idiom]])
 ===== Links: =====
 
   * **[[:en:bible:notes:gen:questions:comprehension:26|Genesis Chapter 26 Comprehension Questions]]**
 **[[:en:bible:notes:gen:25:31|<<]] | [[:en:bible:notes:gen:26:02|>>]]**
 
-~~DISCUSSION~~{{tag>review  isaac}}
+~~DISCUSSION~~{{tag>review isaac}}
 
 ~~NOCACHE~~
