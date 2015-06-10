@@ -1,7 +1,5 @@
 ====== Check Notes Tags ======
 
-<font 14px line-height: 19.6000003814697px/inherit;;inherit;;inherit>~~</font>    NOCACHE<font 14px line-height: 19.6000003814697px/inherit;;inherit;;inherit>~~</font>
-
 ==== Check on Bad Notes Tags ====
 
 This query checks if the first tag is one of the valid tags required to make the system work correctly: {create|delete|draft|check|review|text|discuss|publish}. Pages listed here are likely being overlooked.(EQ)
