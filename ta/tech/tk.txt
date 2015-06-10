@@ -1,6 +1,6 @@
 ===== translationKeyboard =====
 
-translationKeyboard is a mobile app where users can create custom keyboards for languages not supported by their mobile device. You may download translationKeyboard for [[https://play.google.com/store/apps/details?id=org.distantshoresmedia.translationkeyboard&hl=en|Android devices]].
+The translationKeyboard is a mobile app where users can create custom keyboards for languages not supported by their mobile device. You may download translationKeyboard for [[https://play.google.com/store/apps/details?id=org.distantshoresmedia.translationkeyboard&hl=en|Android devices]].
 
 These resources help with common tasks in translationKeyboard:
 
@@ -9,4 +9,7 @@ These resources help with common tasks in translationKeyboard:
   * [[:en:ta:tech:tk:enable|Enable translationKeyboard on your device]]
   * [[:en:ta:tech:tk:find|Find and select a keyboard]]
   * [[:en:ta:tech:tk:create|Create a keyboard]]
+----
+https://pad.door43.org/p/ta-tK_intro
+{{tag>epady}}
 ~~DISCUSSION~~
