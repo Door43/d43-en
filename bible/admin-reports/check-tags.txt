@@ -5,3 +5,9 @@
 This query checks if the first tag is one of the valid tags required to make the system work correctly: {create|delete|draft|check|review|text|discuss|publish}. Pages listed here are likely being overlooked.(EQ)
 
 {{pagequery>ns:en:bible:notes "{{tag>" -"{{tag>create" -"{{tag>delete" -"{{tag>draft" -"{{tag>check" -"{{tag>review" -"{{tag>text" -"{{tag>discuss" -"{{tag>publish"; fulltext; sort=title:asc; display={title}; natsort; layout=table; showcount; hidemsg; hidejump;}}
+
+
+~~NOCACHE~~
+
+\\ 
+
