@@ -5,7 +5,7 @@ Our workflow for releasing mobile apps looks like this:
 
   * Developer tags git tree with a version number, appending -beta and build number if it's not a production release.
   * On the Github releases page, fill out bullet list of release notes.  If this is a development release, then mark it as "development".
-  * Dev can upload app file to the release and can announce on Hall.  See short URLs below.
+  * Dev can upload app file to the release and can announce on Slack.  See short URLs below.
   * David or I will bump the version in the uW Dashboard Basecamp Project if this is a production release.
   * David or I will finish the publishing process by pushing to the relevant app storefronts, torrent link, and anything else we can think of.
 
