@@ -2,29 +2,15 @@
 
 ===== TFT: =====
 
-<usfm>
-\v 1 Then \add some\add* Pharisees and men who taught the \add Jewish\add* laws came from Jerusalem \add to talk to\add* Jesus. They said,
-\v 2 "We think it is disgusting that your disciples disobey the traditions of our ancestors!\f + \ft Or: Why do your disciples disobey \add what our ancestors wrote down and\add* our \add elders taught us\add*? \f* \f + \ft rhetorical question \f* They do not perform the proper ritual of washing their hands before they eat!"
-\v 3 Jesus answered them, "What is really disgusting is that \bd you\bd* refuse to obey God's commands\add just\add* so that you can follow what your ancestors taught you!\f + \ft Or: Why do you refuse to obey what God commanded \add people to do, just\add* so that you can follow your own traditions? \f* \f + \ft rhetorical question \f*
-</usfm>
+<usfm> \v 1 Then \add some\add* Pharisees and men who taught the \add Jewish\add* laws came from Jerusalem \add to talk to\add* Jesus. They said, \v 2 "We think it is disgusting that your disciples disobey the traditions of our ancestors!\f + \ft Or: Why do your disciples disobey \add what our ancestors wrote down and\add* our \add elders taught us\add*? \f* \f + \ft rhetorical question \f* They do not perform the proper ritual of washing their hands before they eat!" \v 3 Jesus answered them, "What is really disgusting is that \bd you\bd* refuse to obey God's commands\add just\add* so that you can follow what your ancestors taught you!\f + \ft Or: Why do you refuse to obey what God commanded \add people to do, just\add* so that you can follow your own traditions? \f* \f + \ft rhetorical question \f* </usfm>
 
 ===== UDB: =====
 
-<usfm>
-\v 1 Then some Pharisees and men who taught the Jewish laws came from Jerusalem to talk to Jesus. They said,
-\v 2 "We see that your disciples disobey the traditions of our ancestors! They do not perform the proper ritual of washing their hands before they eat!"
-\v 3 Jesus answered them, "And I see that you refuse to obey God's commands just so that you can follow what your ancestors taught you!
-</usfm>
+<usfm> \v 1 Then some Pharisees and men who taught the Jewish laws came from Jerusalem to talk to Jesus. They said, \v 2 "We see that your disciples disobey the traditions of our ancestors! They do not perform the proper ritual of washing their hands before they eat!" \v 3 Jesus answered them, "And I see that you refuse to obey God's commands just so that you can follow what your ancestors taught you! </usfm>
 
 ===== ULB: =====
 
-<usfm>
-\c 15
-\p
-\v 1 Then some Pharisees and scribes came to Jesus from Jerusalem; they said, 
-\v 2 "Why do your disciples violate the tradition of the elders, for they do not wash their hands when they eat."
-\v 3 Jesus answered and said to them, "And you--why do you violate the commandment of God for the sake of your traditions?
-</usfm>
+<usfm> \c 15 \p \v 1 Then some Pharisees and scribes came to Jesus from Jerusalem; they said, \v 2 "Why do your disciples violate the tradition of the elders, for they do not wash their hands when they eat." \v 3 Jesus answered and said to them, "And you–why do you violate the commandment of God for the sake of your traditions? </usfm>
 
 ===== Important Terms: =====
 
@@ -47,10 +33,9 @@
   * **And you–why do you **- the pronoun "you" refers to the Pharisees and scribes.
   * **why do you violate the commandment of God **- Jesus is using a rhetorical question to point out their disobedience. (See: Rhetorical Question)
   * **for the sake of your traditions **- This means "to follow what has been passed down to you." Their traditions have become more important than obeying God's word.
-
 ===== Links: =====
 
   * **[[:en:bible:notes:mat:questions:comprehension:15|Matthew Chapter 15 Comprehension Questions]]**
 **[[:en:bible:notes:mat:14:34|<<]] | [[:en:bible:notes:mat:15:04|>>]]**
 
-~~DISCUSSION~~{{tag>draft pharisee jerusalem tradition}}
+~~DISCUSSION~~{{tag>check pharisee jerusalem tradition}}
