@@ -21,39 +21,34 @@ edge [arrowsize=1.4];
 "ta_intro" -> "uw_intro"
 "ta_intro" [fillcolor="#ff9999"]
 "Introduction" -> "ta_intro"
+"guidelines_natural" [fillcolor="#99ff99"]
+"translation_guidelines" -> "guidelines_natural"
+"translate_manual" -> "guidelines_natural"
+"guidelines_accurate" [fillcolor="#99ff99"]
+"translation_guidelines" -> "guidelines_accurate"
+"translate_manual" -> "guidelines_accurate"
+"translate_helpd43" [fillcolor="#99ff99"]
+"translate_what" -> "translate_helpd43"
+"translate_manual" -> "translate_helpd43"
+"translate_literal" [fillcolor="#99ff99"]
+"translate_whatis" -> "translate_literal"
+"translate_process" -> "translate_literal"
+"translate_manual" -> "translate_literal"
+"translate_fandm" -> "translate_literal"
+"translate_helptS" [fillcolor="#99ff99"]
+"translate_what" -> "translate_helptS"
+"translate_manual" -> "translate_helptS"
+"translate_help" [fillcolor="#99ff99"]
+"translate_what" -> "translate_help"
+"translate_manual" -> "translate_help"
+"translate_manual" [fillcolor="#99ff99"]
+"Translation" -> "translate_manual"
 "why_translate" [fillcolor="#99ff99"]
-"Translation" -> "why_translate"
-"accurate" [fillcolor="#99ff99"]
-"translation-guidelines" -> "accurate"
-"why" -> "accurate"
-"what" -> "accurate"
-"process" -> "accurate"
-"equal" [fillcolor="#99ff99"]
-"translation-guidelines" -> "equal"
-"why" -> "equal"
-"what" -> "equal"
-"process" -> "equal"
-"natural" [fillcolor="#99ff99"]
-"translation-guidelines" -> "natural"
-"why" -> "natural"
-"what" -> "natural"
-"process" -> "natural"
-"clear" [fillcolor="#99ff99"]
-"translation-guidelines" -> "clear"
-"why" -> "clear"
-"what" -> "clear"
-"process" -> "clear"
-"intro_checking" [fillcolor="#9999ff"]
-"intro_check" -> "intro_checking"
+"A list of prerequisite modules, e.g. [intro], [howdy]" -> "why_translate"
 "intro_check" [fillcolor="#9999ff"]
 "ta_intro" -> "intro_check"
-"testmod1" [fillcolor="#99ffff"]
-"Test" -> "testmod1"
-"testmod2" [fillcolor="#99ffff"]
-"testmod1" -> "testmod2"
-"testmod3" [fillcolor="#99ffff"]
-"testmod1" -> "testmod3"
-"testmod2" -> "testmod3"
+"intro_checking" [fillcolor="#9999ff"]
+"intro_check" -> "intro_checking"
 }
 </graphviz>
 ~~NOCACHE~~
