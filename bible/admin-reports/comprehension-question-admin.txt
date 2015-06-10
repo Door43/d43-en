@@ -20,6 +20,12 @@
 
 ===== In Progress: =====
 
+==== Philippians ====
+
+  * [[:en:bible:admin-reports:questions-comprehension:php|Comprehension Questions: Philippians Admin]]
+  * [[:en:bible:notes:php:questions:comprehension:home|Page List]]
+{{count>+&en:bible:notes:php:questions:comprehension}}
+
 ==== 1 Thessalonians ====
 
   * [[:en:bible:admin-reports:questions-comprehension:1th]]
@@ -50,12 +56,6 @@
   * [[:en:bible:admin-reports:questions-comprehension:mrk|Comprehension Questions: Mark Admin]]
   * [[:en:bible:notes:mrk:questions:comprehension:home|Page List]]
 {{count>+&en:bible:notes:mrk:questions:comprehension}}
-
-==== Philippians ====
-
-  * [[:en:bible:admin-reports:questions-comprehension:php|Comprehension Questions: Philippians Admin]]
-  * [[:en:bible:notes:php:questions:comprehension:home|Page List]]
-{{count>+&en:bible:notes:php:questions:comprehension}}
 
 
 ===== Upcoming =====
