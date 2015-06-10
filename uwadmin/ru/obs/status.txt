@@ -2,11 +2,11 @@
 
 //The status of development for Open Bible Stories//
 
-publish date: 2014-12-08
+publish date: 2015-06-10
 
-version: 2.1
+version: 3.3.1
 
-contributors: jack.shibata
+contributors: jack.shibata; Ivan Pavlii
 
 checking entity: translation team
 
@@ -14,8 +14,8 @@ checking level: 1
 
 source text: en
 
-source text version: 2.0
+source text version: 3.2
 
-comments: Level 1 check cleared via email to Tim Jore by translation team.
+comments: 
 
 Progress Notes:
