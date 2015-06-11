@@ -8,7 +8,7 @@ This describes how write a note calling attention to a footnote explaining chang
 
 When text contains a footnote explaining what portions of text are omitted, the following Transation Note should state the following:
 
-* **verse [number]**  - This verse was omitted because some of the older, more reliable, ancient texts did not include the verse. (See: [[:en:ta:translate:originalmanuscripts|Original Manuscripts]])
+  * **verse [number]**  - This verse was omitted because some of the older, more reliable, ancient texts did not include the verse. (See: [[:en:ta:translate:originalmanuscripts|Original Manuscripts]])
 
 
 ===== Bible Examples =====
@@ -22,7 +22,7 @@ When text contains a footnote explaining what portions of text are omitted, the 
 
 ==== Translation notes: ====
 
-* **verse 37**  - This verse was omitted because some of the older, more reliable, ancient texts did not include the verse. (See: [[:en:ta:translate:originalmanuscripts|Original Manuscripts]])
+  * **verse 37**  - This verse was omitted because some of the older, more reliable, ancient texts did not include the verse. (See: [[:en:ta:translate:originalmanuscripts|Original Manuscripts]])
 
 
 ~~DISCUSSION~~
