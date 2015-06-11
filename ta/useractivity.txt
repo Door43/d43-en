@@ -1,5 +1,8 @@
 ====== user activity ======
 
+{{pagequery>ns:en:ta "{{tag> -epady"; fulltext; sort=title:asc; display={title}; natsort; layout=table; showcount; hidemsg; hidejump;}}
+
+
 {{changes>user=berton-t&count=50&render=pagelist(header,date,user,nocomments)&maxage=25920000}}{{changes>user=berton-turnip&count=50&render=pagelist(header,date,user,nocomments)&maxage=25920000}}
 
 Changes this week
