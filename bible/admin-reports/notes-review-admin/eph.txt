@@ -1,0 +1,11 @@
+====== Notes: Ephesians Admin Page ======
+
+~~NOCACHE~~
+
+  * [[:en:bible:admin-reports:check-tags]]
+
+
+==== Ephesians Pages Status ====
+
+^  Review  ^  Text  ^  Discuss  ^  Publish  ^
+|{{topic>en:bible:notes:eph?review -cq&nocomments&simplelist}}  |{{topic>en:bible:notes:eph?text -cq&nocomments&simplelist}}  |{{topic>en:bible:notes:eph?discuss -cq&nocomments&simplelist}}  |{{topic>en:bible:notes:eph?publish -cq&nocomments&simplelist}}  |
