@@ -37,13 +37,27 @@
 
  {{pagequery> ns:en:bible:notes:mrk "(see: [[en:ta"; fulltext; sort=title:asc; display={title}; layout=column; showcount; hidestart; natsort; bullet=square; }}
 
-==== Jonah ====
+==== 3 John ====
 
-{{pagequery> ns:en:bible:notes:jon "(see: [[:en:ta"; fulltext; sort=title:asc; display={title}; layout=column; showcount; hidestart; natsort; bullet=square; }}
+{{pagequery> ns:en:bible:notes:1jn "(see: [[:en:ta"; fulltext; sort=title:asc; display={title}; layout=column; showcount; hidestart; natsort; bullet=square; }}
 
 **AND**
 
- {{pagequery> ns:en:bible:notes:jon "(see: [[en:ta"; fulltext; sort=title:asc; display={title}; layout=column; showcount; hidestart; natsort; bullet=square; }}
+{{pagequery> ns:en:bible:notes:1jn "(see: [[en:ta"; fulltext; sort=title:asc; display={title}; layout=column; showcount; hidestart; natsort; bullet=square; }}
+
+{{pagequery> ns:en:bible:notes:2jn "(see: [[:en:ta"; fulltext; sort=title:asc; display={title}; layout=column; showcount; hidestart; natsort; bullet=square; }}
+
+**AND**
+
+{{pagequery> ns:en:bible:notes:2jn "(see: [[en:ta"; fulltext; sort=title:asc; display={title}; layout=column; showcount; hidestart; natsort; bullet=square; }}
+
+{{pagequery> ns:en:bible:notes:3jn "(see: [[:en:ta"; fulltext; sort=title:asc; display={title}; layout=column; showcount; hidestart; natsort; bullet=square; }}
+
+**AND**
+
+{{pagequery> ns:en:bible:notes:3jn "(see: [[en:ta"; fulltext; sort=title:asc; display={title}; layout=column; showcount; hidestart; natsort; bullet=square; }}
+
+----
 
 ==== Colossians ====
 
