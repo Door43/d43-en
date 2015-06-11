@@ -25,6 +25,29 @@ This page includes a list of common notes that appear often in the text. When th
 The following note is useful for when ”behold” comes at the beginning of a sentence, especially in a quote:
 
   * **Behold**  - This can be translated as “Look” or “Listen” or “Pay attention to what I am about to tell you.”
+
+
+=== Original Text Variants ===
+
+The text will contain a footnote and a note will be provided explaining the footnote
+== ULB ==
+
+<usfm>
+\v 36 As they went on the road, they came to some water; the eunuch said, "Look, there is water here; what prevents me from being baptized?"
+\v 37 \f + \ft Some ancient authorities add, in whole or in part, v. 37.
+\fqa Philip said, "If you believe with all your heart, you may be baptized." The Ethiopian answered, "I believe that Jesus Christ is the Son of God." \f*
+\v 38 So the Ethiopian commanded the chariot to stop, and they went down into the water, both Philip and the eunuch; and Philip baptized him.
+</usfm>
+== Translation notes: ==
+ * **verse 37**  - This verse was omitted because some of the older, more reliable, ancient texts did not include the verse. (See: [[:en:ta:translate:originalmanuscripts]])
+
 {{tag>notes301}}
+
+
+\\ 
+
+
+
+
 
 ~~NOCACHE~~
