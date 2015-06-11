@@ -8,11 +8,12 @@ This describes how write a note calling attention to a footnote explaining chang
 
 The text will contain a footnote and a note will be provided explaining the footnote
 
-== ULB ==
+==== ULB ====
+
 
 <usfm> \v 36 As they went on the road, they came to some water; the eunuch said, "Look, there is water here; what prevents me from being baptized?" \v 37 \f + \ft Some ancient authorities add, in whole or in part, v. 37. \fqa Philip said, "If you believe with all your heart, you may be baptized." The Ethiopian answered, "I believe that Jesus Christ is the Son of God." \f* \v 38 So the Ethiopian commanded the chariot to stop, and they went down into the water, both Philip and the eunuch; and Philip baptized him. </usfm>
 
-== Translation notes: ==
+==== Translation notes: ====
 
 * **verse 37**  - This verse was omitted because some of the older, more reliable, ancient texts did not include the verse. (See: [[:en:ta:translate:originalmanuscripts|Original Manuscripts]])
 
