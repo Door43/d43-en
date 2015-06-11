@@ -7,6 +7,14 @@
 **AND**
 
  {{pagequery> ns:en:bible:notes:gen "(see: [[en:ta"; fulltext; sort=title:asc; display={title}; layout=column; showcount; hidestart; natsort; bullet=square; }}
+
+===== Isaiah =====
+
+{{pagequery> ns:en:bible:notes:isa "(see: [[:en:ta"; fulltext; sort=title:asc; display={title}; layout=column; showcount; hidestart; natsort; bullet=square; }}
+
+**AND**
+
+ {{pagequery> ns:en:bible:notes:isa "(see: [[en:ta"; fulltext; sort=title:asc; display={title}; layout=column; showcount; hidestart; natsort; bullet=square; }}
 ===== Acts =====
 
 {{pagequery> ns:en:bible:notes:act "(see: [[:en:ta"; fulltext; sort=title:asc; display={title}; layout=column; showcount; hidestart; natsort; bullet=square; }}
