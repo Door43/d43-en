@@ -27,4 +27,9 @@
 ^  Draft  ^  Review  ^  Publish  ^
 |{{topic>en:bible:team-info:training:quick-reference:grammar?draft&nocomments&simplelist}} |{{topic>en:bible:team-info:training:quick-reference:grammar?review&nocomments&simplelist}} |{{topic>en:bible:team-info:training:quick-reference:grammar?publish&nocomments&simplelist}} |
 
+===== Standard Notes: =====
+
+^  Draft  ^  Review  ^  Publish  ^
+|{{topic>en:bible:team-info:training:quick-reference:standard-notes?draft&nocomments&simplelist}} |{{topic>en:bible:team-info:training:quick-reference:standard-notes?review&nocomments&simplelist}} |{{topic>en:bible:team-info:training:quick-reference:standard-notes?publish&nocomments&simplelist}} |
+
 \\
