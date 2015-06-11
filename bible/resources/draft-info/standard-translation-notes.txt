@@ -7,14 +7,17 @@ This page includes a list of common notes that appear often in the text. When th
   * **It came about that**  - This phrase is used here to mark the beginning of a new part of the story. If your language has a way for doing this, you could consider using it here.
   * **It came about that**  - This phrase is used here to mark where the action starts. If your language has a way for doing this, you could consider using it here.
   * **It came about that**  - This phrase is used here to mark an important event in the story. If your language has a way for doing this, you could consider using it here.
+
 === Now ===
 
   * **Now**  - This word is used here to mark a change from the story to information about….
   * **Now**  - This word is used here to mark a new part of the story.
   * **Now**  - This word is used in English to introduce a new part of the story and information about….
+
 === Yahweh ===
 
   * **Yahweh**  - This is the name of God that he revealed to his people in the Old Testament. See the note on the Important Term page concerning how to translate this. (Use this note the first time ”Yahweh” occurs in an OT book. Otherwise, just listed Yahweh in the Important Terms list.)
+
 === Behold ===
 
   * **Behold**  - The word "behold" alerts us to a new person in the story. Your language may have a way of doing this. English uses "There was a man who was…”
@@ -25,29 +28,18 @@ This page includes a list of common notes that appear often in the text. When th
 The following note is useful for when ”behold” comes at the beginning of a sentence, especially in a quote:
 
   * **Behold**  - This can be translated as “Look” or “Listen” or “Pay attention to what I am about to tell you.”
-
-
 === Original Text Variants ===
 
 The text will contain a footnote and a note will be provided explaining the footnote
+
 == ULB ==
 
-<usfm>
-\v 36 As they went on the road, they came to some water; the eunuch said, "Look, there is water here; what prevents me from being baptized?"
-\v 37 \f + \ft Some ancient authorities add, in whole or in part, v. 37.
-\fqa Philip said, "If you believe with all your heart, you may be baptized." The Ethiopian answered, "I believe that Jesus Christ is the Son of God." \f*
-\v 38 So the Ethiopian commanded the chariot to stop, and they went down into the water, both Philip and the eunuch; and Philip baptized him.
-</usfm>
+<usfm> \v 36 As they went on the road, they came to some water; the eunuch said, "Look, there is water here; what prevents me from being baptized?" \v 37 \f + \ft Some ancient authorities add, in whole or in part, v. 37. \fqa Philip said, "If you believe with all your heart, you may be baptized." The Ethiopian answered, "I believe that Jesus Christ is the Son of God." \f* \v 38 So the Ethiopian commanded the chariot to stop, and they went down into the water, both Philip and the eunuch; and Philip baptized him. </usfm>
+
 == Translation notes: ==
- * **verse 37**  - This verse was omitted because some of the older, more reliable, ancient texts did not include the verse. (See: [[:en:ta:translate:originalmanuscripts]])
+
+* **verse 37**  - This verse was omitted because some of the older, more reliable, ancient texts did not include the verse. (See: [[:en:ta:translate:originalmanuscripts|Original Manuscripts]])
 
 {{tag>notes301}}
-
-
-\\ 
-
-
-
-
 
 ~~NOCACHE~~
