@@ -2,7 +2,7 @@
 
 Compare the meaning in the Target Language translation with the meaning in the Original Language.
 
-=== Source Language may not be Accurate ===
+==== Source Language may not be Accurate ====
 
 If the translator does not understand the Original Language they must use a Source Language. The meaning in the source may be correct, depending on how carefully it was translated from the original. But it is still an intermediate version. In some cases, the source may have actually been translated from another source, rather than from the original.\\
 Consider the example below. A translator uses a Swahili NT as the source for a new language version. However, the particular Swahili Bible version he is using was actually translated from English — not directly from the Greek (Original Language)!
