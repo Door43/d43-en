@@ -2,7 +2,7 @@
 
 ===== Description =====
 
-The quick Reference templates uses the following format for creating notes. The order of the fields in the template are fixed but Which fields are actually included in a note depends on the type of note being created.
+The quick Reference templates uses the following format for creating notes. The order of the fields in the template are fixed but which fields are actually included in a note depends on the type of note being created.
 
   * Quick Links:
   * [[:en:bible:team-info:processes:create-notes|How to Create Translation Notes]]
