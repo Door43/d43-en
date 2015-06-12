@@ -1,4 +1,4 @@
-====== Comprehension Question Admin Page ======
+====== Translation Question Admin Page ======
 
 ~~NOCACHE~~
 
@@ -22,38 +22,38 @@
 
 ==== Philippians ====
 
-  * [[:en:bible:admin-reports:questions-comprehension:php|Comprehension Questions: Philippians Admin]]
+  * [[:en:bible:admin-reports:questions-comprehension:php]]
   * [[:en:bible:notes:php:questions:comprehension:home|Page List]]
 {{count>+&en:bible:notes:php:questions:comprehension}}
 
 ==== 1 Thessalonians ====
 
-  * [[:en:bible:admin-reports:questions-comprehension:1th|Translation Questions: 1 Thessalonians Admin]]
+  * [[:en:bible:admin-reports:questions-comprehension:1th]]
   * [[:en:bible:notes:1th:questions:comprehension:home|1Th Page List]]
 {{count>+&en:bible:notes:1th:questions:comprehension}}
 
 ==== 2,3 John ====
 
-  * [[:en:bible:admin-reports:questions-comprehension:1jn|Comprehension Questions: 2,3 John Admin]]
+  * [[:en:bible:admin-reports:questions-comprehension:1jn]]
   * [[:en:bible:notes:2jn:questions:comprehension:home|2Jn Page List]]
   * [[:en:bible:notes:3jn:questions:comprehension:home|3Jn Page List]]
 {{count>+&en:bible:notes:2jn:questions:comprehension en:bible:notes:3jn:questions:comprehension}}
 
 ==== Genesis ====
 
-  * [[:en:bible:admin-reports:questions-comprehension:gen|Comprehension Questions: Genesis Admin]]
+  * [[:en:bible:admin-reports:questions-comprehension:gen]]
   * [[:en:bible:notes:gen:questions:comprehension:home|Page List]]
 {{count>+&en:bible:notes:gen:questions:comprehension}}
 
 ==== Acts ====
 
-  * [[:en:bible:admin-reports:questions-comprehension:act|Comprehension Questions: Acts Admin]]
+  * [[:en:bible:admin-reports:questions-comprehension:act]]
   * [[:en:bible:notes:act:questions:comprehension:home|Page List]]
 {{count>+&en:bible:notes:act:questions:comprehension}}
 
 ==== Mark ====
 
-  * [[:en:bible:admin-reports:questions-comprehension:mrk|Comprehension Questions: Mark Admin]]
+  * [[:en:bible:admin-reports:questions-comprehension:mrk]]
   * [[:en:bible:notes:mrk:questions:comprehension:home|Page List]]
 {{count>+&en:bible:notes:mrk:questions:comprehension}}
 
@@ -61,36 +61,36 @@
 
 ==== Exodus ====
 
-  * [[:en:bible:admin-reports:questions-comprehension:exo|Translation Questions: Exodus Admin]]
+  * [[:en:bible:admin-reports:questions-comprehension:exo]]
   * [[:en:bible:notes:exo:questions:comprehension:home|Page List]]
 {{count>+&en:bible:notes:exo:questions:comprehension}}
 
 ==== Lamentations ====
 
-  * [[:en:bible:admin-reports:questions-comprehension:lam|Translation Questions: Lamentations Admin]]
+  * [[:en:bible:admin-reports:questions-comprehension:lam]]
   * [[:en:bible:notes:lam:questions:comprehension:home|Page List]]
 {{count>+&en:bible:notes:lam:questions:comprehension}}
 
 ==== Isaiah ====
 
-  * [[:en:bible:admin-reports:questions-comprehension:isa|Translation Questions: Isaiah Admin]]
+  * [[:en:bible:admin-reports:questions-comprehension:isa]]
   * [[:en:bible:notes:isa:questions:comprehension:home|Page List]]
 {{count>+&en:bible:notes:isa:questions:comprehension}}
 
 ==== Ephesians ====
 
-  * [[:en:bible:admin-reports:questions-comprehension:eph|Comprehension Questions: Ephesians Admin]]
+  * [[:en:bible:admin-reports:questions-comprehension:eph]]
   * [[:en:bible:notes:eph:questions:comprehension:home|Page List]]
 {{count>+&en:bible:notes:eph:questions:comprehension}}
 
 ==== Jude ====
 
-  * [[:en:bible:admin-reports:questions-comprehension:jud|Translation Questions: Jude Admin]]
+  * [[:en:bible:admin-reports:questions-comprehension:jud]]
   * [[:en:bible:notes:jud:questions:comprehension:home|Page List]]
 {{count>+&en:bible:notes:jud:questions:comprehension}}
 
 ==== Revelation ====
 
-  * [[:en:bible:admin-reports:questions-comprehension:rev|Translation Questions: Revelation Admin]]
+  * [[:en:bible:admin-reports:questions-comprehension:rev]]
   * [[:en:bible:notes:rev:questions:comprehension:home|Page List]]
 {{count>+&en:bible:notes:rev:questions:comprehension}}
