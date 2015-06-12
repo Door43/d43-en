@@ -25,7 +25,7 @@
   * [[:en:bible:admin-reports:assignment:act|Assignment Page - Acts]]
   * [[:en:bible:admin-reports:notes-team-admin:act|Notes: Acts Team Admin]]
   * [[:en:bible:admin-reports:notes-review-admin:act|Notes: Acts Review Admin]]
-  * [[:en:bible:admin-reports:questions-comprehension:act|Comprehension Questions: Acts Admin]]
+  * [[:en:bible:admin-reports:questions-comprehension:act]]
   * [[:en:bible:notes:act:home]]
 {{count>cq draft check review text discuss publish&en:bible:notes:act}}
 
@@ -33,7 +33,7 @@
 
   * [[:en:bible:admin-reports:notes-team-admin:1th|Notes: 1 Thessalonians Team Admin]]
   * [[:en:bible:admin-reports:notes-review-admin:1th|Notes: 1 Thessalonians Review Admin]]
-  * [[:en:bible:admin-reports:questions-comprehension:1th|Comprehension Questions: 1,2 Thessalonians Admin]]
+  * [[:en:bible:admin-reports:questions-comprehension:1th]]
   * [[:en:bible:notes:1th:home]]
 {{count>cq draft check review text discuss publish&en:bible:notes:1th}}
 
@@ -41,7 +41,7 @@
 
   * [[:en:bible:admin-reports:notes-team-admin:php|Notes: Philippians Team Admin]]
   * [[:en:bible:admin-reports:notes-review-admin:php|Notes: Philippians Review Admin]]
-  * [[:en:bible:admin-reports:questions-comprehension:php|Comprehension Questions: Philippians Admin]]
+  * [[:en:bible:admin-reports:questions-comprehension:php]]
   * [[:en:bible:notes:php:home]]
 {{count>cq draft check review text discuss publish&en:bible:notes:php}}
 
@@ -49,7 +49,7 @@
 
   * [[:en:bible:admin-reports:notes-team-admin:jas|Notes: James Team Admin]]
   * [[:en:bible:admin-reports:notes-review-admin:jas|Notes: James Review Admin]]
-  * [[:en:bible:admin-reports:questions-comprehension:jas|Comprehension Questions: James Admin]]
+  * [[:en:bible:admin-reports:questions-comprehension:jas]]
   * [[:en:bible:notes:jas:home]]
 {{count>cq draft check review text discuss publish&en:bible:notes:jas}}
 
@@ -69,7 +69,7 @@
   * [[:en:bible:admin-reports:assignment:gen|Assignment Page - Genesis]]
   * [[:en:bible:admin-reports:notes-team-admin:gen|Notes: Genesis Team Admin]]
   * [[:en:bible:admin-reports:notes-review-admin:gen|Notes: Genesis Review Admin]]
-  * [[:en:bible:admin-reports:questions-comprehension:gen|Comprehension Questions: Genesis Admin]]
+  * [[:en:bible:admin-reports:questions-comprehension:gen]]
   * [[:en:bible:notes:gen:home]]
 {{count>cq draft check review text discuss publish&en:bible:notes:gen}}
 
@@ -77,7 +77,7 @@
 
   * [[:en:bible:admin-reports:notes-team-admin:isa|Notes: Isaiah Team Admin]]
   * [[:en:bible:admin-reports:notes-review-admin:isa|Notes: Isaiah Review Admin]]
-  * [[:en:bible:admin-reports:questions-comprehension:isa|Comprehension Questions: Isaiah Admin]]
+  * [[:en:bible:admin-reports:questions-comprehension:isa]]
   * [[:en:bible:notes:isa:home]]
 {{count>cq draft check review text discuss publish&en:bible:notes:isa}}
 
@@ -88,7 +88,7 @@
 
   * [[:en:bible:admin-reports:notes-team-admin:1jn|Notes: 1 John Team Admin]]
   * [[:en:bible:admin-reports:notes-review-admin:1jn|Notes: 1 John Review Admin]]
-  * [[:en:bible:admin-reports:questions-comprehension:1jn|Comprehension Questions: 1,2,3 John Admin]]
+  * [[:en:bible:admin-reports:questions-comprehension:1jn]]
   * [[:en:bible:notes:1jn:home]]
 {{count>cq draft check review text discuss publish&en:bible:notes:1jn}}
 
@@ -99,7 +99,7 @@
 
   * [[:en:bible:admin-reports:notes-team-admin:mat|Notes: Matthew Team Admin]]
   * [[:en:bible:admin-reports:notes-review-admin:mat|Notes: Matthew Review Admin]]
-  * [[:en:bible:admin-reports:questions-comprehension:mat|Comprehension Questions: Matthew Admin]]
+  * [[:en:bible:admin-reports:questions-comprehension:mat]]
   * [[:en:bible:notes:mat:home]]
 {{count>cq draft check review text discuss publish&en:bible:notes:mat}}
 
@@ -107,7 +107,7 @@
 
   * [[:en:bible:admin-reports:notes-team-admin:mrk|Notes: Mark Team Admin]]
   * [[:en:bible:admin-reports:notes-review-admin:mrk|Notes: Mark Review Admin]]
-  * [[:en:bible:admin-reports:questions-comprehension:mrk|Comprehension Questions: Mark Admin]]
+  * [[:en:bible:admin-reports:questions-comprehension:mrk]]
   * [[:en:bible:notes:mrk:home]]
 {{count>cq draft check review text discuss publish&en:bible:notes:mrk}}
 
@@ -118,7 +118,7 @@
 
   * [[:en:bible:admin-reports:notes-team-admin:2jn|Notes: 2 John Team Admin]]
   * [[:en:bible:admin-reports:notes-review-admin:2jn|Notes: 2 John Review Admin]]
-  * [[:en:bible:admin-reports:questions-comprehension:1jn|Comprehension Questions: 1,2,3 John Admin]]
+  * [[:en:bible:admin-reports:questions-comprehension:1jn]]
   * [[:en:bible:notes:2jn:home]]
 {{count>cq draft check review text discuss publish&en:bible:notes:2jn}}
 
@@ -126,7 +126,7 @@
 
   * [[:en:bible:admin-reports:notes-team-admin:3jn|Notes: 3 John Team Admin]]
   * [[:en:bible:admin-reports:notes-review-admin:3jn|Notes: 3 John Review Admin]]
-  * [[:en:bible:admin-reports:questions-comprehension:1jn|Comprehension Questions: 1,2,3 John Admin]]
+  * [[:en:bible:admin-reports:questions-comprehension:1jn]]
   * [[:en:bible:notes:3jn:home]]
 {{count>cq draft check review text discuss publish&en:bible:notes:3jn}}
 
