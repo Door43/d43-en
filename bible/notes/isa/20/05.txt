@@ -2,7 +2,7 @@
 
 ===== TFT: =====
 
-<usfm> \v 5 Then the people of other countries who trusted that the armies of Egypt and Ethiopia would be able to help them will be very dismayed\f \ft Or: confused \f* and afraid\f \ft Or: disappointed \f*. \v 6 They will say, 'We relied that the armies of Egypt and Ethiopia \add would help us and defend us, but they have been destroyed\add*, so there is no way \f \ft rhetorical question \f* that we can escape from \add being destroyed by the army of\add* the king of Assyria!'~" </usfm>
+<usfm> \v 5 Then the people of other countries who trusted that the armies of Egypt and Ethiopia would be able to help them will be very dismayed\f + \ft Or: confused \f* and afraid\f + \ft Or: disappointed \f*. \v 6 They will say, 'We relied that the armies of Egypt and Ethiopia \add would help us and defend us, but they have been destroyed\add*, so there is no way \f + \ft rhetorical question \f* that we can escape from \add being destroyed by the army of\add* the king of Assyria!'~" </usfm>
 
 ===== UDB: =====
 
@@ -14,25 +14,57 @@
 
 ===== Important Terms: =====
 
-  * Ethiopia
-  * hope
-  * Egypt
-  * glory
-  * delivered
-  * king
-  * Assyria
+  *
+
+      *
+
+Ethiopia
+
+      *
+
+hope
+
+      *
+
+Egypt
+
+      *
+
+glory
+
+      *
+
+delivered
+
+      *
+
+king
+
+      *
+
+Assyria
 
 ===== Translation Notes: =====
 
-  * **They**  - "They" refers to the <font 14px line-height: 19px; text-align: justify; text-indent: 17.5px;/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19px; text-align: justify; text-indent: 17.5px;;;inherit>people of other countries who trusted that the armies of Egypt and Ethiopia would be able to help them.</font>
-  * **dismayed and ashamed **- "upset and embarrassed"
-  * **because of Ethiopia their hope and of Egypt their glory **- "because they had trusted in the armies of Ethiopia and Egypt"
-  * **and now, how can we escape? **- This is a rhetorical question that can be translated as, "and there is no way we can escape from being destroyed by the King of Assyria." (See: Rhetorical Question)
+      *
+
+**They**
+ - “They” refers to the <font inherit/inherit;;inherit;;inherit>people of other countries who trusted that the armies of Egypt and Ethiopia would be able to help them.</font>
+
+      *
+
+**dismayed and ashamed **- “upset and embarrassed”
+      *
+
+**because of Ethiopia their hope and of Egypt their glory **- “because they had trusted in the armies of Ethiopia and Egypt”
+      *
+
+**and now, how can we escape? **- This is a rhetorical question that can be translated as, “and there is no way we can escape from being destroyed by the King of Assyria.” (See: Rhetorical Question)
 ===== Links: =====
 
   * **[[:en:bible:notes:isa:questions:comprehension:20|Isaiah Chapter 20 Comprehension Questions]]**
 **[[:en:bible:notes:isa:20:03|<<]] | [[:en:bible:notes:isa:21:01|>>]]**
 
-~~DISCUSSION~~{{tag>draft}}
+{{tag>draft}}
 
 ~~NOCACHE~~
