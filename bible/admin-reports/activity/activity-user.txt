@@ -31,6 +31,6 @@ The code looks like this:
   - Set "count=" to the maximum number of edits.
   - Set "maxusage" to the length of time in seconds.
   - Click "Preview" to see activity.
-{{changes>user=USER&count=150&render=pagelist(header,date,user,nocomments)&maxage=864000}}
+{{changes>user=susanquigley&count=150&render=pagelist(header,date,user,nocomments)&maxage=604800}}
 
 (//Please click "Cancel" when finished to restore the page to "USER"//)
