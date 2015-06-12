@@ -40,7 +40,11 @@ edge [arrowsize=1.4];
 "translate_tform" [fillcolor="#99ff99"]
 "translate_dynamic" -> "translate_tform"
 "translate_fandm" [fillcolor="#99ff99"]
-"Translation" -> "translate_fandm"
+"translate_terms" -> "translate_fandm"
+"translate_whatis" -> "translate_fandm"
+"guidelines_equal" [fillcolor="#99ff99"]
+"translation_guidelines" -> "guidelines_equal"
+"translate_manual" -> "guidelines_equal"
 "translate_helptS" [fillcolor="#99ff99"]
 "translate_what" -> "translate_helptS"
 "translate_manual" -> "translate_helptS"
@@ -62,8 +66,8 @@ edge [arrowsize=1.4];
 "translate_manual" -> "guidelines_pure"
 "translate_manual" [fillcolor="#99ff99"]
 "Translation" -> "translate_manual"
-"why_translate" [fillcolor="#99ff99"]
-"A list of prerequisite modules, e.g. [intro], [howdy]" -> "why_translate"
+"translate_why" [fillcolor="#99ff99"]
+"translate_manual" -> "translate_why"
 "translate_dynamic" [fillcolor="#99ff99"]
 "translate_whatis" -> "translate_dynamic"
 "translate_process" -> "translate_dynamic"
@@ -80,6 +84,9 @@ edge [arrowsize=1.4];
 "translate_fandm" -> "translate_literal"
 "translate_form" [fillcolor="#99ff99"]
 "translate_fandm" -> "translate_form"
+"translate_process" -> "translate_form"
+"tanslate_terms" [fillcolor="#99ff99"]
+"translate_manual" -> "tanslate_terms"
 "guidelines_clear" [fillcolor="#99ff99"]
 "translation_guidelines" -> "guidelines_clear"
 "translate_manual" -> "guidelines_clear"
@@ -88,44 +95,55 @@ edge [arrowsize=1.4];
 "translate_help" [fillcolor="#99ff99"]
 "translate_what" -> "translate_help"
 "translate_manual" -> "translate_help"
-"guidelines_collaborative" [fillcolor="#9999ff"]
-"translation_guidelines" -> "guidelines_collaborative"
-"translate_manual" -> "guidelines_collaborative"
+"vol2_steps" [fillcolor="#9999ff"]
+"vol2_intro" -> "vol2_steps"
 "intro_check" [fillcolor="#9999ff"]
 "ta_intro" -> "intro_check"
+"vol2_backtranslation" [fillcolor="#9999ff"]
+"vol2_steps" -> "vol2_backtranslation"
+"intro_levels" [fillcolor="#9999ff"]
+"intro_checking" -> "intro_levels"
+"vol2_intro" [fillcolor="#9999ff"]
+"church_leader_check" -> "vol2_intro"
+"level3" -> "vol2_intro"
 "intro_checking" [fillcolor="#9999ff"]
 "intro_check" -> "intro_checking"
-"guidelines_ongoing" [fillcolor="#9999ff"]
-"translation_guidelines" -> "guidelines_ongoing"
-"translate_manual" -> "guidelines_ongoing"
-"uW_select" [fillcolor="#ffff99"]
-"uW_intro" -> "uW_select"
-"tK_find" [fillcolor="#ffff99"]
-"tK_intro" -> "tK_find"
 "uW_install" [fillcolor="#ffff99"]
 "uW_intro" -> "uW_install"
-"uW_intro" [fillcolor="#ffff99"]
-"Technology" -> "uW_intro"
-"tK_install" [fillcolor="#ffff99"]
-"tK_intro" -> "tK_install"
-"tK_intro" [fillcolor="#ffff99"]
-"Technology" -> "tK_intro"
+"uW_audio" [fillcolor="#ffff99"]
+"uW_intro" -> "uW_audio"
 "tK_start" [fillcolor="#ffff99"]
 "tK_intro" -> "tK_start"
 "tK_create" [fillcolor="#ffff99"]
 "tK_intro" -> "tK_create"
-"ts_intro" [fillcolor="#ffff99"]
-"Technology" -> "ts_intro"
+"uW_first" [fillcolor="#ffff99"]
+"uW_intro" -> "uW_first"
+"tK_intro" [fillcolor="#ffff99"]
+"Technology" -> "tK_intro"
+"tS_request" [fillcolor="#ffff99"]
+"tS_intro" -> "tS_request"
+"tS_select" [fillcolor="#ffff99"]
+"tS_intro" -> "tS_select"
+"tK_find" [fillcolor="#ffff99"]
+"tK_intro" -> "tK_find"
+"uW_select" [fillcolor="#ffff99"]
+"uW_intro" -> "uW_select"
+"uW_intro" [fillcolor="#ffff99"]
+"Technology" -> "uW_intro"
+"tK_install" [fillcolor="#ffff99"]
+"tK_intro" -> "tK_install"
 "tK_update" [fillcolor="#ffff99"]
 "tK_intro" -> "tK_update"
+"tS_install" [fillcolor="#ffff99"]
+"tS_intro" -> "tS_install"
+"tS_navigate" [fillcolor="#ffff99"]
+"tS_intro" -> "tS_navigate"
+"ts_intro" [fillcolor="#ffff99"]
+"Technology" -> "ts_intro"
 "tK_use" [fillcolor="#ffff99"]
 "tK_intro" -> "tK_use"
 "tK_enable" [fillcolor="#ffff99"]
 "tK_intro" -> "tK_enable"
-"uW_first" [fillcolor="#ffff99"]
-"uW_intro" -> "uW_first"
-"uW_audio" [fillcolor="#ffff99"]
-"uW_intro" -> "uW_audio"
 }
 </graphviz>
 ~~NOCACHE~~
