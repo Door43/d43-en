@@ -1,9 +1,9 @@
-====== Comprehension Questions: Matthew Admin ======
+====== Translation Questions: Matthew Admin ======
 
 ~~NOCACHE~~
 
-This is the status of the Matthew Comprehension Question pages:
+This is the status of the Matthew Translation Question pages:
 
 
-^  Draft  ^  Review  ^  Publish  ^
-|{{topic>en:bible:notes:mat:questions:comprehension?draft&nocomments&simplelist}}|{{topic>en:bible:notes:mat:questions:comprehension?review&nocomments&simplelist}}|{{topic>en:bible:notes:mat:questions:comprehension?publish&nocomments&simplelist}}|
+^  Draft  ^  Review  ^  Text  ^  Publish  ^
+|{{topic>en:bible:notes:mat:questions:comprehension?draft&nocomments&simplelist}}|{{topic>en:bible:notes:mat:questions:comprehension?review&nocomments&simplelist}}|{{topic>en:bible:notes:mat:questions:comprehension?text&nocomments&simplelist}}|{{topic>en:bible:notes:mat:questions:comprehension?publish&nocomments&simplelist}}|
