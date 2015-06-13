@@ -30,9 +30,13 @@ edge [arrowsize=1.4];
 "guidelines_historical" [fillcolor="#99ff99"]
 "translation_guidelines" -> "guidelines_historical"
 "translate_manual" -> "guidelines_historical"
+"figs_order" [fillcolor="#99ff99"]
+"figs_intro" -> "figs_order"
+"figs_hypo" [fillcolor="#99ff99"]
+"figs_intro" -> "figs_hypo"
 "translate_helpd43" [fillcolor="#99ff99"]
 "translate_what" -> "translate_helpd43"
-"translate_manual" -> "translate_helpd43"
+"translate_help" -> "translate_helpd43"
 "translate_wforw" [fillcolor="#99ff99"]
 "translate_literal" -> "translate_wforw"
 "translate_retell" [fillcolor="#99ff99"]
@@ -42,15 +46,18 @@ edge [arrowsize=1.4];
 "translate_fandm" [fillcolor="#99ff99"]
 "translate_terms" -> "translate_fandm"
 "translate_whatis" -> "translate_fandm"
+"figs_metaphor" [fillcolor="#99ff99"]
+"figs_intro" -> "figs_metaphor"
 "guidelines_equal" [fillcolor="#99ff99"]
 "translation_guidelines" -> "guidelines_equal"
 "translate_manual" -> "guidelines_equal"
 "translate_helptS" [fillcolor="#99ff99"]
 "translate_what" -> "translate_helptS"
-"translate_manual" -> "translate_helptS"
-"guidelines_authoritative" [fillcolor="#99ff99"]
-"translation_guidelines" -> "guidelines_authoritative"
-"translate_manual" -> "guidelines_authoritative"
+"translate_help" -> "translate_helptS"
+"figs_events" [fillcolor="#99ff99"]
+"figs_intro" -> "figs_events"
+"figs_123person" [fillcolor="#99ff99"]
+"figs_intro" -> "figs_123person"
 "guidelines_accurate" [fillcolor="#99ff99"]
 "translation_guidelines" -> "guidelines_accurate"
 "translate_manual" -> "guidelines_accurate"
@@ -61,11 +68,19 @@ edge [arrowsize=1.4];
 "translate_literal" -> "translate_difference"
 "translate_whatis" [fillcolor="#99ff99"]
 "translate_manual" -> "translate_whatis"
+"figs_rquestion" [fillcolor="#99ff99"]
+"figs_intro" -> "figs_rquestion"
 "guidelines_pure" [fillcolor="#99ff99"]
 "translation_guidelines" -> "guidelines_pure"
 "translate_manual" -> "guidelines_pure"
 "translate_manual" [fillcolor="#99ff99"]
 "Translation" -> "translate_manual"
+"figs_youdual" [fillcolor="#99ff99"]
+"figs_intro" -> "figs_youdual"
+"figs_explicit" [fillcolor="#99ff99"]
+"figs_intro" -> "figs_explicit"
+"figs_idiom" [fillcolor="#99ff99"]
+"figs_intro" -> "figs_idiom"
 "translate_why" [fillcolor="#99ff99"]
 "translate_manual" -> "translate_why"
 "translate_dynamic" [fillcolor="#99ff99"]
@@ -75,6 +90,10 @@ edge [arrowsize=1.4];
 "translate_fandm" -> "translate_dynamic"
 "translate_process" [fillcolor="#99ff99"]
 "Translation" -> "translate_process"
+"figs_irony" [fillcolor="#99ff99"]
+"figs_intro" -> "figs_irony"
+"figs_parables" [fillcolor="#99ff99"]
+"figs_intro" -> "figs_parables"
 "translate_discover" [fillcolor="#99ff99"]
 "translate_process" -> "translate_discover"
 "translate_literal" [fillcolor="#99ff99"]
@@ -82,6 +101,19 @@ edge [arrowsize=1.4];
 "translate_process" -> "translate_literal"
 "translate_manual" -> "translate_literal"
 "translate_fandm" -> "translate_literal"
+"figs_explicitinfo" [fillcolor="#99ff99"]
+"figs_intro" -> "figs_explicitinfo"
+"figs_you" [fillcolor="#99ff99"]
+"figs_intro" -> "figs_you"
+"guidelines_authoritative" [fillcolor="#99ff99"]
+"translation_guidelines" -> "guidelines_authoritative"
+"translate_manual" -> "guidelines_authoritative"
+"figs_similie" [fillcolor="#99ff99"]
+"figs_intro" -> "figs_similie"
+"figs_intro" [fillcolor="#99ff99"]
+"Translation" -> "figs_intro"
+"figs_yousingular" [fillcolor="#99ff99"]
+"figs_intro" -> "figs_yousingular"
 "translate_form" [fillcolor="#99ff99"]
 "translate_fandm" -> "translate_form"
 "translate_process" -> "translate_form"
@@ -97,6 +129,8 @@ edge [arrowsize=1.4];
 "translate_manual" -> "translate_help"
 "vol2_steps" [fillcolor="#9999ff"]
 "vol2_intro" -> "vol2_steps"
+"vol2_things_to_check" [fillcolor="#9999ff"]
+"vol2_steps" -> "vol2_things_to_check"
 "intro_check" [fillcolor="#9999ff"]
 "ta_intro" -> "intro_check"
 "vol2_backtranslation" [fillcolor="#9999ff"]
@@ -112,38 +146,60 @@ edge [arrowsize=1.4];
 "uW_intro" -> "uW_install"
 "uW_audio" [fillcolor="#ffff99"]
 "uW_intro" -> "uW_audio"
+"uW_language" [fillcolor="#ffff99"]
+"uW_intro" -> "uW_language"
 "tK_start" [fillcolor="#ffff99"]
 "tK_intro" -> "tK_start"
 "tK_create" [fillcolor="#ffff99"]
 "tK_intro" -> "tK_create"
 "uW_first" [fillcolor="#ffff99"]
 "uW_intro" -> "uW_first"
+"tS_publish" [fillcolor="#ffff99"]
+"tS_intro" -> "tS_publish"
+"uW_checking" [fillcolor="#ffff99"]
+"uW_intro" -> "uW_checking"
 "tK_intro" [fillcolor="#ffff99"]
 "Technology" -> "tK_intro"
 "tS_request" [fillcolor="#ffff99"]
 "tS_intro" -> "tS_request"
 "tS_select" [fillcolor="#ffff99"]
 "tS_intro" -> "tS_select"
+"tS_update" [fillcolor="#ffff99"]
+"tS_intro" -> "tS_update"
 "tK_find" [fillcolor="#ffff99"]
 "tK_intro" -> "tK_find"
+"tS_footnote" [fillcolor="#ffff99"]
+"tS_intro" -> "tS_footnote"
 "uW_select" [fillcolor="#ffff99"]
 "uW_intro" -> "uW_select"
+"tS_problem" [fillcolor="#ffff99"]
+"tS_intro" -> "tS_problem"
 "uW_intro" [fillcolor="#ffff99"]
 "Technology" -> "uW_intro"
 "tK_install" [fillcolor="#ffff99"]
 "tK_intro" -> "tK_install"
 "tK_update" [fillcolor="#ffff99"]
 "tK_intro" -> "tK_update"
+"tS_create" [fillcolor="#ffff99"]
+"tS_intro" -> "tS_create"
+"tS_resouces" [fillcolor="#ffff99"]
+"tS_intro" -> "tS_resouces"
 "tS_install" [fillcolor="#ffff99"]
 "tS_intro" -> "tS_install"
 "tS_navigate" [fillcolor="#ffff99"]
 "tS_intro" -> "tS_navigate"
-"ts_intro" [fillcolor="#ffff99"]
-"Technology" -> "ts_intro"
+"tS_first" [fillcolor="#ffff99"]
+"tS_intro" -> "tS_first"
+"tS_intro" [fillcolor="#ffff99"]
+"Technology" -> "tS_intro"
 "tK_use" [fillcolor="#ffff99"]
 "tK_intro" -> "tK_use"
 "tK_enable" [fillcolor="#ffff99"]
 "tK_intro" -> "tK_enable"
+"tS_share" [fillcolor="#ffff99"]
+"tS_intro" -> "tS_share"
+"tS_upload" [fillcolor="#ffff99"]
+"tS_intro" -> "tS_upload"
 }
 </graphviz>
 ~~NOCACHE~~
