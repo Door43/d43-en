@@ -96,6 +96,8 @@ edge [arrowsize=1.4];
 "translate_whatis" -> "translate_literal"
 "translate_process" -> "translate_literal"
 "translate_terms" -> "translate_literal"
+"figs_explicitinfo" [fillcolor="#99ff99"]
+"figs_explicit" -> "figs_explicitinfo"
 "figs_you" [fillcolor="#99ff99"]
 "figs_intro" -> "figs_you"
 "guidelines_authoritative" [fillcolor="#99ff99"]
