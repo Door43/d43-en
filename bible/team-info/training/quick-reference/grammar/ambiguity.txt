@@ -10,10 +10,10 @@ Ambiguity happens when a single word or phrase can have more than one meaning.
 
 The following information is either required or optional in the notes:
 
-  - **(Required)**  List the text that includes the ambiguity from the ULB in bold
-  - (Optional)  State a clarifying translation
+  - **(Required)**  Write the text from the ULB that has the ambiguity in bold
+  - (Optional)  Give a clarifying translation
   - **(Required)**  State the meaning of the ambiguity
-  - **(Required)**  Suggest alternate ways to translate the topic, with or without the ambiguity
+  - **(Required)**  Suggest alternate ways to translate the text, with or without the ambiguity
   - **(Required)**  Add TA Link: (See: Ambiguity)
 
   * **(1) ULB text**  - **(3)** Text meaning. **(4)** Alternate translation suggestion. **(5)** (See: Ambiguity)
