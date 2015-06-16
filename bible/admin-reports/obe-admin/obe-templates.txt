@@ -15,11 +15,74 @@ The code for creating an OBE Other Term link is:
 </code>
 
 
-==== Term & Name Templates ====
+==== OBE/KT templates ====
 
-There are two kinds of OBE pages–one for terms that require definition, and the other for proper names that requires facts.
+The draft code for a "term" OBE/KT page is:
 
-The draft code for a "term" OBE page is:
+<code>
+====== term ======
+
+===== Definition: =====
+
+Text
+    * bullet
+    * bullet
+
+===== Translation Suggestions: =====
+
+    * bullet
+    * bullet
+
+(See also: other)
+
+===== Bible References: =====
+
+{{topic>URLterm&nocomments}}
+
+~~DISCUSSION~~
+
+~~NOCACHE~~
+
+{{tag>create BIBnn ktlink}}
+{{tag>draftN ktlink}}
+</code>
+
+The draft code for a "Name" OBE/KT page is:
+
+<code>
+====== Name ======
+
+===== Facts: =====
+
+Text
+    * bullet
+    * bullet
+
+===== Translation Suggestions: =====
+
+    * bullet
+    * bullet
+
+(See: [[en:ta:translate:translatenames]])
+
+(See also: other)
+
+===== Bible References: =====
+
+{{topic>urlname&nocomments}}
+
+~~DISCUSSION~~
+
+~~NOCACHE~~
+
+{{tag>create BIBnn ktlink}}
+{{tag>draftN ktlink}}
+</code>
+
+
+==== OBE/other templates ====
+
+The draft code for a "term" OBE/other page is:
 
 <code>
 ====== term ======
@@ -44,7 +107,7 @@ Text
 {{tag>draftN ktlink}}
 </code>
 
-The draft code for a "Name" OBE page is:
+The draft code for a "Name" OBE/other page is:
 
 <code>
 ====== Name ======
