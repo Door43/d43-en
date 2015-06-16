@@ -1,5 +1,5 @@
 ====== OBE: Translation Suggestions - Lizz ======
 
 ^  Pages to Check TS  ^  Finished Pages  ^
-|{{pagequery>ns:en:obe:kt "==== Translation" +"drewc"; fulltext; sort=title:asc; display={title}; natsort; layout=table; showcount; hidemsg; hidejump;}}  |{{pagequery>ns:en:obe:kt "==== Translation" -"drewc"; fulltext; sort=title:asc; display={title}; natsort; layout=table; showcount; hidemsg; hidejump;}}  |
+|{{pagequery>ns:en:obe:kt "drewc"; fulltext; sort=title:asc; display={title}; natsort; layout=table; showcount; hidemsg; hidejump;}}  |{{pagequery>ns:en:obe:kt "==== Translation" -"drewc"; fulltext; sort=title:asc; display={title}; natsort; layout=table; showcount; hidemsg; hidejump;}}  |
 
