@@ -20,9 +20,9 @@ Examples:
   * '//He has been **singing**  for three hours//.' the object is not stated.
   * '//He has been **singing**__hymns__  for three hours.//' states 'hymns' as the object of "singing."
 
-Note that different languages have different [[:en:ta:translate:wordorder|orders]] for these parts of the sentences.
+Note that different languages have different [[:en:ta:translate:wordorder|orders]] for these parts of the sentences. In the examples below, the subject is first, the verb is bold, and the object is underlined. 
 
-In your language, all the verbs may require an object. (In the examples below, the subject is first, the verb is bold, and the object is underlined.) In English, it is sometimes ok to leave out the object when the object is not important in the sentence.
+In English, it is sometimes ok to leave out the object when the object is not important in the sentence.
 
   * He **sang**__a____ song__.
   * He likes to **sing**.
