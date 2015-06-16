@@ -23,7 +23,6 @@ Synonyms or equivalent phrases should simply be written in double-quotes. They d
   * **to be baptized by him**  - "for John to baptize them"
   * **do likewise**  - "do the same thing." It can be translated here as "give food to someone who does not have any."
   * **taught the people out of the boat**  - "taught the people while he sat in the boat." Jesus was in the boat a short distance from the shore and he was speaking to the people who were on the shore.
-
 === Definitions ===
 
 Simple definitions of words or phrases can be added without quotes or sentence format.
@@ -31,27 +30,23 @@ Simple definitions of words or phrases can be added without quotes or sentence f
   * **marketplace**  - a large, open-air area where people would come to sell their goods
   * **flute**  - a long, hollow musical instrument which is played by blowing air in or over one end
   * **kings' palaces**  - a large, expensive house that a king lives in
-
 === Alternate Translation(s) ===
 
 When a note presents a translation alternative that is somewhat different than the ULB word or phrase, have "This could be translated as" appended before it. The entire note should be written in sentence form.
 
   * **see the salvation of God**  - This could be translated as "learn about how God saves people from sin."
   * **Follow me**  - This can also be translated as “Be my disciple” or “Come, follow me as your teacher.”
-
 === Alternate Translation in the UDB ===
 
 If the UDB provides a good alternate translation for the ULB, it is normally not necessary to include a note. However, on occasion it may be helpful to include text from the UDB as well as another alternate translation. In that case, append "(UDB)" after the alternate from the UDB as below:
 
   * **implored him**  - "begged him" or "pleaded with him" (UDB)
   * **he fell on his face**  - "he bowed down to the ground" (UDB) or "he knelt and touched the ground with his face"
-
 === Alternate Meaning(s) ===
 
 Alternate meanings refer to when there are not just multiple ways to express something, but to when there are different understandings of what the word or phrase means. In this case, prefix the meanings with "Possible meanings are" and number them with the preferred rendering as the first meaning.
 
   * **fell down at Jesus knees**  - Possible meanings are 1) "bowed down at Jesus feet" or 2) "lay down on the ground at Jesus feet" or 3) "knelt down before Jesus." Peter did not fall accidentally. He did this as a sign of humility and respect for Jesus.
-
 === Identify Figures of Speech ===
 
 When writing a note to identify and explain a figure of speech, use sentence form and put the meaning in quotes.
@@ -68,20 +63,17 @@ Simple explanations about words or phrases should be in sentence format.
 
   * **washing their nets**  - They were cleaning their fishing nets in order to use them again to catch fish.
   * **motioned**  - They were too far from shore to call so they made gestures, probably waving their arms.
-
 === Indirect to Direct Quote ===
 
 When adding the option for a direct quote, preface the alternate with "It can be translated as a direct quote:" followed by the new phrase.
 
   * **to tell no one**  - This is an indirect quote. It can be translated as a direct quote: "Do not tell anyone." The implied information is "that you have been healed." (See: [[:en:ta:translate:quotation|Speech Quotations]], [[:en:ta:translate:implicitexplicit|Explicit and Implicit Information]])
-
 === Explanation of Source Language ===
 
 In general, we want to downplay the original languages since most of the users of the notes will not have had any training in them. This does not mean we avoid the content. Rather, it means that we should look for simple ways to express that content. When possible, use plain-language explanations in English.
 
   * **sinful man**  - The word here for "man" means "adult male" and not the more general "human being."
   * **Master**  - The word that is translated here as “Master” is a not the normal word for “Master.” This one refers to someone who has authority, and not to someone who owns someone else. You could also translate it as "Boss" or "Foreman" or with a word that is commonly used to address a person in authority, such as “Sir.”
-
 === Multiple Notes on Long Phrase ===
 
 Sometimes we need notes for a phrase and separate notes for portions of that phrase. In that case, we list the larger phrase first, and its parts afterward, unless there is a compelling reason to reverse them.
@@ -89,7 +81,6 @@ Sometimes we need notes for a phrase and separate notes for portions of that phr
   * **you say, 'Behold, he is a gluttonous man**  - This can be translated as an indirect quote: "you say that he is a gluttonous man" or "you accuse him of being a gluttonous man."
   * **he is a gluttonous man**  - "he is a greedy eater" or "he habitually eats too much food"
   * **a drunkard**  - "a drunk" or "a habitual drunk”
-
 === Repeated Phrases in a Book ===
 
 Sometimes a phrase is used multiple times in a book. We can make it easier for the translators by reminding them of where they have already translated that phrase so they can translate it the same way. We only point them back to notes in the book they are working on.
@@ -97,6 +88,4 @@ Sometimes a phrase is used multiple times in a book. We can make it easier for t
   * **be fruitful and multiply**  - See how you translated these commands in [[:en:bible:notes:gen:01:28|1:28]]
   * **everything that creeps along the ground**  - This includes all types of small animals. See how you translated this in [[:en:bible:notes:gen:01:24|1:25]].
   * **will be blessed in him**  - This can be translated as "will be blessed because of Abraham" or "will be blessed because I have blessed Abraham." For translating "in him," see how you translated "through you" in [[:en:bible:notes:gen:12:01|12:3]].
-
-
 ~~DISCUSSION~~
