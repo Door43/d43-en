@@ -17,22 +17,22 @@ Just as time can be expressed as past, present and future, verbs also have these
 All sentences have a SUBJECT (PARTICIPANT), VERB (EVENT), and OBJECT (PARTICIPANT). English grammar allows for not stating the object of the verb so that the sentence may only have the SUBJECT (PARTICIPANT) and VERB (EVENT) stated.\\
 Examples:
 
-  * '//He has been **singing**  for three hours//.' the object is not stated.
-  * '//He has been **singing**__hymns__  for three hours.//' states 'hymns' as the object of "singing."
+  * '//He has been **singing**  for three hours//.' The object is not stated.
+  * '//He has been **singing** __hymns__  for three hours.//'  'Hymns' is the object of "singing."
 
 Note that different languages have different [[:en:ta:translate:wordorder|orders]] for these parts of the sentences. In the examples below, the subject is first, the verb is bold, and the object is underlined. 
 
 In English, it is sometimes ok to leave out the object when the object is not important in the sentence.
 
-  * He **sang**__a____ song__.
+  * He **sang** __a song__.
   * He likes to **sing**.
 
 In some languages, a verb that needs an object must always take one, even if the object is not very important. In all of these sentences, English can leave out the object.
 
-  * He likes to **sing**__songs__.
-  * He likes to **cook**__food__.
-  * He has not **eaten**__anything__  in three days.
-  * He is blind. He cannot **see**__anything__.
+  * He likes to **sing** __songs__.
+  * He likes to **cook** __food__.
+  * He has not **eaten** __anything__  in three days.
+  * He is blind. He cannot **see** __anything__.
 
 Sometimes you may need to include an object even if there is no object in English.
 
