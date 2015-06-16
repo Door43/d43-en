@@ -1,4 +1,4 @@
-====== OBE: Translation Suggestions Pages - Drew ======
+====== OBE: Translation Suggestions - Drew ======
 
 ^  Pages without TS\\ (w/o "drewc" tag)  ^  Pages with TS\\ (with "drewc" tag)  ^  Finished Pages  ^
 |{{pagequery>ns:en:obe:kt -"==== Translation"; fulltext; sort=title:asc; display={title}; natsort; layout=table; showcount; hidemsg; hidejump;}}  |{{pagequery>ns:en:obe:kt "drewc"; fulltext; sort=title:asc; display={title}; natsort; layout=table; showcount; hidemsg; hidejump;}}  |{{pagequery>ns:en:obe:kt "==== Translation" -"drewc"; fulltext; sort=title:asc; display={title}; natsort; layout=table; showcount; hidemsg; hidejump;}}  |
