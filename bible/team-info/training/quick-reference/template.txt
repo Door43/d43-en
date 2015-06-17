@@ -31,10 +31,9 @@ Create notes as follows:
 
 ==== Comments ====
 
-  * All Notes require ULB Text (1).
+  * All Notes require **(1)** ULB Text.
   * The order of the appearance of these note fields are fixed.
   * The type of note determines which fields are optional or required.
-
 ===== Bible Examples =====
 
 Field reference numbers are included for clarity purposes only. They are omitted in the actual note.
