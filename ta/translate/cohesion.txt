@@ -4,11 +4,27 @@
 
 Material that is written cohesively helps the reader understand the text. Cohesion helps a reader understand how sentences relate to one another and how they relate to the topic.
 
-Each language has its own patterns to show the different relationships and create cohesion. Specific words and phrases that join sentences together are common tools for increasing cohesion. The use of sequencing or time order is another method to build cohesion. Cause and effect, compare and contrast, and conclusion are other typical techniques for building cohesion.
+Cohesion can be created two ways: one is by the structure of the text; the other is by the meaning.
+
+Each language has its own patterns to show the different relationships and create cohesion. Specific words and phrases that join sentences together are common tools for increasing cohesion. The use of sequencing or time order is another method to build cohesion. Cause and effect, compare and contrast, and conclusion are other typical techniques for building cohesion.  The occurrence of the same word multiple times in a text, the use of a similar word or the substitution of one word for another (e.g. a pronoun for a noun) all increase cohesion.
 
 ===== Translation Suggestions =====
 
+Keeping lexical translations consistent is a good way to build cohesion (example: always use 'dog' instead of hound, canine, pooch, etc.
+
 ===== Examples from the Bible =====
+
+Psa 25:2-3
+
+<font inherit/inherit;;inherit;;inherit><sup> 2  </sup></font> <font inherit/inherit;;inherit;;inherit>O my God, I trust in Thee. Let me not be ashamed; let not mine enemies triumph over me.</font>
+
+<font inherit/inherit;;inherit;;inherit><sup> 3  </sup> Yea, let none that wait on Thee be ashamed; let them be ashamed that transgress without cause.</font>
+
+<font inherit/inherit;;inherit;;inherit>Psa 125:1-2</font>
+
+<font inherit/inherit;;inherit;;inherit>They that trust in the Lord</font> shall be as Mount Zion, which cannot be removed, but abideth for ever.
+
+<font inherit/inherit;;inherit;;inherit><sup> 2  </sup> As the mountains are round about Jerusalem, so the Lord</font> is round about His people from henceforth, even for ever.
 
 ===== Examples from English =====
 
@@ -22,6 +38,6 @@ We went to his work first, and then we returned to our house.
 
 We went to the store, but John forgot his wallet.
 
-{{tag>draft jody}}~~DISCUSSIONS~~
+{{tag>draft kara}}~~DISCUSSIONS~~
 
 ~~NOCACHE~~
