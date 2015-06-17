@@ -21,19 +21,13 @@
 ===== UDB: =====
 
 <usfm>
-\v 4 The kings will tell their troops,
-\q2 "Get ready for the battle.
-\q2 We should attack them before noontime.
-\q1 But if we arrive there late in the afternoon
-\q2 when the shadows are becoming long,
-\q1
-\v 5 we will attack them at night
-\q2 and tear down their fortresses."
-\b
+\v 4 The kings will tell their troops, "Get ready for the battle. We should attack them before noontime.
+\q But if we arrive there late in the afternoon when the shadows are becoming long,
+\q
+\v 5 We will attack them at night and tear down their fortresses."
 
 
-
-\p
+\q
 </usfm>
 
 
