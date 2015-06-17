@@ -11,22 +11,23 @@ Quick Links:
   * [[:en:bible:team-info:training:quick-reference:quick-reference-notes|Quick Reference Guide for Notes]]
 
 ===== Template =====
-
 Create notes as follows:
 
-  - **(Required)**  State the topic phrase or the phrase that includes the topic word from the ULB in bold
-  - **(Optional)**  Give a clarifying translation
-      - mainly used with figures of speech
-  - **(Optional)**  State the meaning of the topic
-      - used to explain figures of speech
-      - used to give various meanings
-  - **(Optional)**  Suggest alternate ways to translate the topic. \\ This is the main translation suggestion field. Some examples are:
-      - State Metaphors as similes
-      - State Rhetorical Questions as statements
-      - State Passive constructions as Active
-      - Provide suggestions about how to translate the topic
-  - **(Optional)**  Add TA Link
-  * **(1) topic phrase**  - **(2)**  Clarifying translation. **(3)**  Text meaning. **(4)**  Alternate translation suggestion. **(5)**  (See: Translation Academy Topic)
+  - **(Required)** Write the ULB phrase that needs explanation in bold
+  - **(Optional)** Give a simple clarifying translation
+    - with synonyms
+    - with minor changes in syntax
+  - **(Optional)** Explain the meaning of the phrase or word. This may involve
+    - figures of speech
+    - discourse issues
+    - grammar issues
+  - **(Optional)** Suggest alternate ways to translate the text. These involve more complex changes than the clarifying translation. Some examples are:
+    - restating a metaphor as a simile
+    - restating a passive construction as active
+    - restating the phrase and making implicit information explicit
+  - **(Optional)** Add TA Link
+  * **(1) ULB Text** - **(2)** Clarifying translation. **(3)** Text meaning. **(4)** Alternate translation suggestion. **(5)** (See: Translation Academy Topic)
+
 
 ==== Comments ====
 
