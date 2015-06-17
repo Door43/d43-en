@@ -31,9 +31,9 @@ Create notes as follows:
 
 ==== Comments ====
 
-  * All Notes require Topic Phrase (1).
+  * All Notes require ULB Text (1).
   * The order of the appearance of these note fields are fixed.
-  * The kind of note created determines which optional fields are to be included in the note.
+  * The type of note determines which fields are optional or required.
 
 ===== Bible Examples =====
 
