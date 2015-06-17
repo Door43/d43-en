@@ -9,7 +9,7 @@ Because of the volume of terms, the team is divided into two groups so that each
 ==== Terms by Group: ====
 
 ^  Groups  ^  Terms  |
-|  __**Group 1** __  \\ Jan Zanutto \\ Matthew Latham \\ Richard Joki  |  {{pagequery>ns:en:obe "{{tag>draft1"; fulltext; sort=title:asc; display={title}; natsort; showcount; hidemsg; hidejump;}} |
+|  __**Group 1**   __  \\ Jan Zanutto \\ Matthew Latham \\ Richard Joki |  {{pagequery>ns:en:obe "{{tag>draft1"; fulltext; sort=title:asc; display={title}; natsort; showcount; hidemsg; hidejump;}} |
 |  __**Group 2** __  \\ David Book \\ Drew Curley \\ Paul Holloway |  {{pagequery>ns:en:obe "{{tag>draft2"; fulltext; sort=title:asc; display={title}; natsort; showcount; hidemsg; hidejump;}} |
 
 {{tag>kt101}}
