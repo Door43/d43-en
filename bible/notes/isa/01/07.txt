@@ -2,66 +2,35 @@
 
 ===== TFT: =====
 
-<usfm>
-\v 7 \add It is as though\add* your country is ruined\f + \ft Or: desolate \f*;
-\q2 our towns have been burned.
-\q1 Foreigners plunder\f + \ft Or: steal \f* the crops in your fields while you watch;
-\q2 they destroy everything \add that they see\add*.
-\q1
-\v 8 The city of Jerusalem has already been abandoned,
-\q2 it is like \f + \ft simile \f* a shelter in a vineyard that has been abandoned by the watchmen;
-\q1 it is like \f + \ft simile \f* a watchman's hut in a field of melons that has been deserted.
-\q2 It is a city surrounded by its enemies who are waiting to attack it.
-\q1
-</usfm>
+<usfm> \v 7 \add It is as though\add* your country is ruined\f + \ft Or: desolate \f*; \q2 our towns have been burned. \q1 Foreigners plunder\f + \ft Or: steal \f* the crops in your fields while you watch; \q2 they destroy everything \add that they see\add*. \q1 \v 8 The city of Jerusalem has already been abandoned, \q2 it is like \f + \ft simile \f* a shelter in a vineyard that has been abandoned by the watchmen; \q1 it is like \f + \ft simile \f* a watchman's hut in a field of melons that has been deserted. \q2 It is a city surrounded by its enemies who are waiting to attack it. \q1 </usfm>
 
 ===== UDB: =====
 
-<usfm>
-\v 7 Enemies have ruined your country;
-\q2 they have burned your towns.
-\q1 Foreigners plunder the crops in your fields while you watch;
-\q2 they destroy everything that they see.
-\q1
-\v 8 The city of Jerusalem has become as small as a shepherd's hut.
-\q2 It is like a shelter in a vineyard;
-\q1 it is like a watchman's hut in a field of melons.
-\q2 It is a city surrounded by its enemies who are waiting to attack it.
+<usfm> \v 7 Enemies have ruined your country; \q2 they have burned your towns. \q1 Foreigners plunder the crops in your fields while you watch; \q2 they destroy everything that they see. \q1 \v 8 The city of Jerusalem has become as small as a shepherd's hut. \q2 It is like a shelter in a vineyard; \q1 it is like a watchman's hut in a field of melons. \q2 It is a city surrounded by its enemies who are waiting to attack it.
 
-
-\q1
-</usfm>
+\q1 </usfm>
 
 ===== ULB: =====
 
-<usfm>
-\q1
-\v 7 Your country is desolate; your cities are burned with fire; 
-\q1 your fields—in your presence, strangers are destroying them
-\q1 a waste and desolation, as overthrown by strangers.  
-\q1
-\v 8 The daughter of Zion is left as a hut in a vineyard, 
-\q1 as a shed in a garden of cucumbers, as a besieged city.
-</usfm>
+<usfm> \q1 \v 7 Your country is desolate; your cities are burned with fire; \q1 your fields—in your presence, strangers are destroying them \q1 a waste and desolation, as overthrown by strangers. \q1 \v 8 The daughter of Zion is left as a hut in a vineyard, \q1 as a shed in a garden of cucumbers, as a besieged city. </usfm>
 
 ===== Important Terms: =====
 
-  * [[en:obe:other:fire|fire]]
+  * [[:en:obe:other:fire|fire]]
   * stranger
-  * [[en:obe:other:waste|waste]]
-  * [[en:obe:other:zion|Zion]]
-  * [[en:obe:other:vineyard|vineyard]]
+  * [[:en:obe:other:waste|waste]]
+  * [[:en:obe:other:zion|Zion]]
+  * [[:en:obe:other:vineyard|vineyard]]
 
 ===== Translation Notes: =====
 
   * **Your country is desolate**- Isaiah continues the metaphor from 1:5-6. Here he shows Judah is like a wounded man because their land is in ruins. This could be translated as "There is no one left in the countryside."
   * **your fields–in your presence, strangers are destroying them**- "People who are not from your own country steal the crops in your fields while you watch"
-  * **a waste and desolation** - This could be translated as "the land is destroyed and no one lives there."
-  * **as overthrown by strangers**- This compares the destruction in Judah to what a land looks like after an enemy's army has conquered it. This can be translated with an active verb: "like a foreign army has completely conquered it." (See: [[en:ta:translate:simile]] and [[en:ta:translate:active]])
-  * **The daughter of Zion**- Isaiah refers to Zion or Jerusalem as the daughter of God. This emphasizes that God still loves the people of the city even though he has to punish them for their sins. This could be translated as "Zion" or "the city of Jerusalem" (UDB). (See: [[en:ta:translate:personification]])
-  * **is left as a hut in a vineyard, as a shed in a garden of cucumbers** - A "hut" and a "shed" refer to shelters that farmers built in the field during the harvest season. They lived there until harvest was over. These were temporary shelters that would quickly fall apart once the farmer left. Isaiah is comparing the image of these shelters falling apart out in a field to Jerusalem in a destroyed land while the city is slowly falling into ruin. 
+  * **a waste and desolation**  - This could be translated as "the land is destroyed and no one lives there."
+  * **as overthrown by strangers**- This compares the destruction in Judah to what a land looks like after an enemy's army has conquered it. This can be translated with an active verb: "like a foreign army has completely conquered it." (See: [[:en:ta:translate:simile|Simile]] and [[:en:ta:translate:active|Active or Passive]])
+  * **The daughter of Zion**- Isaiah refers to Zion or Jerusalem as the daughter of God. This emphasizes that God still loves the people of the city even though he has to punish them for their sins. This could be translated as "Zion" or "the city of Jerusalem" (UDB). (See: [[:en:ta:translate:personification|Personification]])
+  * **is left as a hut in a vineyard, as a shed in a garden of cucumbers**  - A "hut" and a "shed" refer to shelters that farmers built in the field during the harvest season. They lived there until harvest was over. These were temporary shelters that would quickly fall apart once the farmer left. Isaiah is comparing the image of these shelters falling apart out in a field to Jerusalem in a destroyed land while the city is slowly falling into ruin.
   * **as a besieged city**- This could be translated as a new sentence: "Her enemies have surrounded the city."
-
 ===== Links: =====
 
   * **[[:en:bible:notes:isa:questions:comprehension:01|Isaiah Chapter 01 Comprehension Questions]]**
