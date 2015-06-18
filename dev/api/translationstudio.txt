@@ -22,15 +22,15 @@ content:
   {
     "slug": "obs",
     "sort": "01",
-    "date_modified": 20141207,
-    "lang_catalog": "https://api.unfoldingword.org/ts/txt/2/obs/languages.json"
+    "date_modified": "20141207",
+    "lang_catalog": "https://api.unfoldingword.org/ts/txt/2/obs/languages.json?date_modified=20141207"
   },
   {
     "slug": "luk",
     "sort": "42",
     "meta": ["bible", "nt"],
-    "date_modified": 20141207,
-    "lang_catalog": "https://api.unfoldingword.org/ts/txt/2/luk/languages.json"
+    "date_modified": "20141207",
+    "lang_catalog": "https://api.unfoldingword.org/ts/txt/2/luk/languages.json?date_modified=20141207"
   }
 ]
 </code>
@@ -55,9 +55,9 @@ content:
       "slug": "en",
       "name": "English",
       "direction": "ltr",
-      "date_modified": 20141207
+      "date_modified": "20141207"
     },
-    "res_catalog": "https://api.unfoldingword.org/ts/txt/2/luk/en/resources.json"
+    "res_catalog": "https://api.unfoldingword.org/ts/txt/2/luk/en/resources.json?date_modified=20141207"
   },
   {
     "project": {
@@ -69,9 +69,9 @@ content:
       "slug": "es",
       "name": "español",
       "direction": "ltr",
-      "date_modified": 20141207
+      "date_modified": "20141207"
     },
-    "res_catalog": "https://api.unfoldingword.org/ts/txt/2/luk/es/resources.json"
+    "res_catalog": "https://api.unfoldingword.org/ts/txt/2/luk/es/resources.json?date_modified=20141207"
   }
 ]
 </code>
@@ -89,7 +89,7 @@ content:
   {
     "slug": "ulb",
     "name": "unfoldingWord Literal Bible",
-    "date_modified": 20141207,
+    "date_modified": "20141207",
     "status": {
       "checking_entity": "Distant Shores Media; Wycliffe Associates",
       "checking_level": "3",
@@ -100,15 +100,15 @@ content:
       "source_text_version": "3.1.1",
       "version": "3.1.1"
     },
-    "source": "https://api.unfoldingword.org/ts/txt/2/luk/en/ulb/source.json",
-    "terms": "https://api.unfoldingword.org/ts/txt/2/luk/en/ulb/terms.json",
-    "notes": "https://api.unfoldingword.org/ts/txt/2/luk/en/ulb/notes.json",
-    "checking_questions":"https://api.unfoldingword.org/ts/txt/2/luk/en/ulb/CQ-en.json"
+    "source": "https://api.unfoldingword.org/ts/txt/2/luk/en/ulb/source.json?date_modified=20150409",
+    "terms": "https://api.unfoldingword.org/ts/txt/2/luk/en/ulb/terms.json?date_modified=20150409",
+    "notes": "https://api.unfoldingword.org/ts/txt/2/luk/en/ulb/notes.json?date_modified=20150409",
+    "checking_questions":"https://api.unfoldingword.org/ts/txt/2/luk/en/ulb/CQ-en.json?date_modified=20150409"
   },
   {
     "slug": "udb",
     "name": "unfoldingWord Dynamic Bible",
-    "date_modified": 20141207,
+    "date_modified": "20141207",
     "status": {
       "checking_entity": "Distant Shores Media; Wycliffe Associates",
       "checking_level": "3",
@@ -119,10 +119,10 @@ content:
       "source_text_version": "3.1.1",
       "version": "3.1.1"
     },
-    "source": "https://api.unfoldingword.org/ts/txt/2/luk/en/udb/source.json",
-    "terms": "https://api.unfoldingword.org/ts/txt/2/luk/en/udb/terms.json",
-    "notes": "https://api.unfoldingword.org/ts/txt/2/luk/en/udb/notes.json",
-    "checking_questions":"https://api.unfoldingword.org/ts/txt/2/luk/en/udb/CQ-en.json"
+    "source": "https://api.unfoldingword.org/ts/txt/2/luk/en/udb/source.json?date_modified=20150409",
+    "terms": "https://api.unfoldingword.org/ts/txt/2/luk/en/udb/terms.json?date_modified=20150409",
+    "notes": "https://api.unfoldingword.org/ts/txt/2/luk/en/udb/notes.json?date_modified=20150409",
+    "checking_questions":"https://api.unfoldingword.org/ts/txt/2/luk/en/udb/CQ-en.json?date_modified=20150409"
   }
 ]
 </code>
@@ -152,7 +152,9 @@ content:
     },
     ...
   ],
-  "date_modified": 20141207
+  "date_modified": "20141207",
+  "direction": "ltr",
+  "language": "en"
 }
 </code>
 
