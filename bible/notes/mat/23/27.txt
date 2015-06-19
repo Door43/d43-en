@@ -2,13 +2,9 @@
 
 ===== TFT: =====
 
-<usfm>
-\v 27 "You men who teach the \add Jewish\add* laws and you Pharisees, your punishment will be terrible! You are hypocrites! You are like tombs \f + \ft simile \f* that are painted white \add so that people can see them and avoid touching them\add*. The outside surfaces are beautiful, but inside they are full of dead people's bones and filth.
-\v 28 You are \add like those tombs\add*. When people look at you, they think that you are righteous, but in your inner beings\f + \ft Or: hearts \f* you are hypocrites and you disobey \add God's\add* commands."
+<usfm> \v 27 "You men who teach the \add Jewish\add* laws and you Pharisees, your punishment will be terrible! You are hypocrites! You are like tombs \f + \ft simile \f* that are painted white \add so that people can see them and avoid touching them\add*. The outside surfaces are beautiful, but inside they are full of dead people's bones and filth. \v 28 You are \add like those tombs\add*. When people look at you, they think that you are righteous, but in your inner beings\f + \ft Or: hearts \f* you are hypocrites and you disobey \add God's\add* commands."
 
-
-\p
-</usfm>
+\p </usfm>
 
 ===== UDB: =====
 
@@ -18,12 +14,7 @@
 
 ===== ULB: =====
 
-<usfm>
-\p
-\v 27 Woe to you, scribes and Pharisees, hypocrites! for you are like whitewashed tombs, which on the outside look 
-beautiful, but on the inside are full of dead men’s bones and of sorts of uncleanliness.
-\v 28 In the same way, you also outwardly appear righteous to men, but on the inside you are full of hypocrisy and iniquity.
-</usfm>
+<usfm> \p \v 27 Woe to you, scribes and Pharisees, hypocrites! for you are like whitewashed tombs, which on the outside look beautiful, but on the inside are full of dead men’s bones and of sorts of uncleanliness. \v 28 In the same way, you also outwardly appear righteous to men, but on the inside you are full of hypocrisy and iniquity. </usfm>
 
 ===== Important Terms: =====
 
@@ -36,12 +27,13 @@ beautiful, but on the inside are full of dead men’s bones and of sorts of uncl
   * Woe to you - see you you translated this in __23:13__  and other verses.
   * **like whitewashed tombs**  - "Whitewashed" refers to a thin coat of cheap paint. Jesus uses a simile of painted graves to describe the scribes and Pharisees. (See: Simile)
   * **outwardly appear righteous to men**  - Jesus means that they do outward actions to make people think they are good.
-
 ===== Links: =====
 
   * **[[:en:bible:notes:mat:questions:comprehension:23|Matthew Chapter 23 Comprehension Questions]]**
 **[[:en:bible:notes:mat:23:25|<<]] | [[:en:bible:notes:mat:23:29|>>]]**
 
-~~DISCUSSION~~{{tag>draft} unclean iniquity}
+~~DISCUSSION~~
+
+{{tag>check} unclean iniquity}
 
 ~~NOCACHE~~
