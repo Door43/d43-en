@@ -24,6 +24,8 @@ edge [arrowsize=1.4];
 "Introduction" -> "ta_intro"
 "translate_what" [fillcolor="#99ff99"]
 "translate_manual" -> "translate_what"
+"figs_personification" [fillcolor="#99ff99"]
+"figs_intro" -> "figs_personification"
 "guidelines_natural" [fillcolor="#99ff99"]
 "guidelines_intro" -> "guidelines_natural"
 "translation_guidelines" -> "guidelines_natural"
@@ -40,9 +42,13 @@ edge [arrowsize=1.4];
 "translate_literal" -> "translate_wforw"
 "translate_retell" [fillcolor="#99ff99"]
 "translate_process" -> "translate_retell"
+"figs_parallelism" [fillcolor="#99ff99"]
+"figs_intro" -> "figs_parallelism"
 "translate_fandm" [fillcolor="#99ff99"]
 "translate_terms" -> "translate_fandm"
 "translate_process" -> "translate_fandm"
+"figs_litotes" [fillcolor="#99ff99"]
+"figs_intro" -> "figs_litotes"
 "figs_metaphor" [fillcolor="#99ff99"]
 "figs_intro" -> "figs_metaphor"
 "guidelines_equal" [fillcolor="#99ff99"]
@@ -54,16 +60,24 @@ edge [arrowsize=1.4];
 "figs_intro" -> "figs_events"
 "figs_123person" [fillcolor="#99ff99"]
 "figs_intro" -> "figs_123person"
+"figs_metonymy" [fillcolor="#99ff99"]
+"figs_intro" -> "figs_metonymy"
 "guidelines_accurate" [fillcolor="#99ff99"]
 "guidelines_intro" -> "guidelines_accurate"
 "translation_guidelines" -> "guidelines_accurate"
 "guidelines_faithful" [fillcolor="#99ff99"]
 "guidelines_intro" -> "guidelines_faithful"
 "translation_guidelines" -> "guidelines_faithful"
+"figs_hyperbole" [fillcolor="#99ff99"]
+"figs_intro" -> "figs_hyperbole"
 "translate_tform" [fillcolor="#99ff99"]
 "translate_dynamic" -> "translate_tform"
 "translate_whatis" [fillcolor="#99ff99"]
 "translate_manual" -> "translate_whatis"
+"figs_euphemism" [fillcolor="#99ff99"]
+"figs_intro" -> "figs_euphemism"
+"figs_hendiadys" [fillcolor="#99ff99"]
+"figs_intro" -> "figs_hendiadys"
 "figs_rquestion" [fillcolor="#99ff99"]
 "figs_intro" -> "figs_rquestion"
 "guidelines_pure" [fillcolor="#99ff99"]
@@ -79,6 +93,8 @@ edge [arrowsize=1.4];
 "figs_intro" -> "figs_idiom"
 "translate_why" [fillcolor="#99ff99"]
 "translate_manual" -> "translate_why"
+"figs_doublet" [fillcolor="#99ff99"]
+"figs_intro" -> "figs_doublet"
 "translate_dynamic" [fillcolor="#99ff99"]
 "translate_whatis" -> "translate_dynamic"
 "translate_process" -> "translate_dynamic"
@@ -121,10 +137,14 @@ edge [arrowsize=1.4];
 "translate_fandm" -> "translate_levels"
 "guidelines_intro" [fillcolor="#99ff99"]
 "translation_guidelines" -> "guidelines_intro"
+"figs_synecdoche" [fillcolor="#99ff99"]
+"figs_intro" -> "figs_synecdoche"
 "translate_help" [fillcolor="#99ff99"]
 "translate_what" -> "translate_help"
 "translate_problem" [fillcolor="#99ff99"]
 "translate_literal" -> "translate_problem"
+"figs_apostrophe" [fillcolor="#99ff99"]
+"figs_intro" -> "figs_apostrophe"
 "vol2_steps" [fillcolor="#9999ff"]
 "vol2_intro" -> "vol2_steps"
 "vol2_things_to_check" [fillcolor="#9999ff"]
