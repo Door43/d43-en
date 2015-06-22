@@ -1,11 +1,10 @@
 ====== Notes: Romans Team Admin ======
 
 Team Lead (//draft to check//) - June Workshop\\
-Manager (//check to review//) -\\
-Reviewer -
+Manager (//check to review//) - \\
+Reviewer - 
 
 ~~NOCACHE~~
-
 ==== Links: ====
 
   * [[:en:ulb:ep:45-rom.usfm|Full ULB text of Romans]]
@@ -14,7 +13,7 @@ Reviewer -
 
 ==== Romans Pages Status ====
 
-^  Draft  ^  Check  ^  Review  ^  Publish |
-|  {{topic>en:bible:notes:rom?draft -cq&nocomments&simplelist}} |  {{topic>en:bible:notes:rom?check -cq&nocomments&simplelist}} |  {{topic>en:bible:notes:rom?review -cq&nocomments&simplelist}} |  {{topic>en:bible:notes:rom?publish -cq&nocomments&simplelist}} |
+^  Draft  ^  Check  ^  Review  ^  Publish|
+|{{topic>en:bible:notes:rom?draft -cq&nocomments&simplelist}} |{{topic>en:bible:notes:rom?check -cq&nocomments&simplelist}} |{{topic>en:bible:notes:rom?review -cq&nocomments&simplelist}} |{{topic>en:bible:notes:rom?publish -cq&nocomments&simplelist}} |
 
 \\
