@@ -104,6 +104,12 @@ edge [arrowsize=1.4];
 "translate_manual" -> "translate_process"
 "figs_irony" [fillcolor="#99ff99"]
 "figs_intro" -> "figs_irony"
+"figs_adjectivalnoun" [fillcolor="#99ff99"]
+"figs_intro" -> "figs_adjectivalnoun"
+"figs_cohesion" [fillcolor="#99ff99"]
+"figs_intro" -> "figs_cohesion"
+"figs_activepassive" [fillcolor="#99ff99"]
+"figs_intro" -> "figs_activepassive"
 "figs_parables" [fillcolor="#99ff99"]
 "figs_intro" -> "figs_parables"
 "translate_discover" [fillcolor="#99ff99"]
@@ -119,6 +125,8 @@ edge [arrowsize=1.4];
 "guidelines_authoritative" [fillcolor="#99ff99"]
 "guidelines_intro" -> "guidelines_authoritative"
 "translation_guidelines" -> "guidelines_authoritative"
+"figs_abstractnouns" [fillcolor="#99ff99"]
+"figs_intro" -> "figs_abstractnouns"
 "figs_similie" [fillcolor="#99ff99"]
 "figs_intro" -> "figs_similie"
 "figs_intro" [fillcolor="#99ff99"]
@@ -137,8 +145,12 @@ edge [arrowsize=1.4];
 "translate_fandm" -> "translate_levels"
 "guidelines_intro" [fillcolor="#99ff99"]
 "translation_guidelines" -> "guidelines_intro"
+"figs_ambiguity" [fillcolor="#99ff99"]
+"figs_intro" -> "figs_ambiguity"
 "figs_synecdoche" [fillcolor="#99ff99"]
 "figs_intro" -> "figs_synecdoche"
+"figs_doublenegatives" [fillcolor="#99ff99"]
+"figs_intro" -> "figs_doublenegatives"
 "translate_help" [fillcolor="#99ff99"]
 "translate_what" -> "translate_help"
 "translate_problem" [fillcolor="#99ff99"]
