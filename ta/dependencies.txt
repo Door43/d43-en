@@ -38,8 +38,12 @@ edge [arrowsize=1.4];
 "figs_intro" -> "figs_hypo"
 "translate_helpd43" [fillcolor="#99ff99"]
 "translate_help" -> "translate_helpd43"
+"figs_ellipsis" [fillcolor="#99ff99"]
+"figs_intro" -> "figs_ellipsis"
 "translate_wforw" [fillcolor="#99ff99"]
 "translate_literal" -> "translate_wforw"
+"figs_inclusive" [fillcolor="#99ff99"]
+"figs_intro" -> "figs_inclusive"
 "translate_retell" [fillcolor="#99ff99"]
 "translate_process" -> "translate_retell"
 "figs_parallelism" [fillcolor="#99ff99"]
@@ -51,6 +55,8 @@ edge [arrowsize=1.4];
 "figs_intro" -> "figs_litotes"
 "figs_metaphor" [fillcolor="#99ff99"]
 "figs_intro" -> "figs_metaphor"
+"figs_sentences" [fillcolor="#99ff99"]
+"figs_intro" -> "figs_sentences"
 "guidelines_equal" [fillcolor="#99ff99"]
 "guidelines_intro" -> "guidelines_equal"
 "translation_guidelines" -> "guidelines_equal"
@@ -58,6 +64,8 @@ edge [arrowsize=1.4];
 "translate_help" -> "translate_helptS"
 "figs_events" [fillcolor="#99ff99"]
 "figs_intro" -> "figs_events"
+"figs_youformal" [fillcolor="#99ff99"]
+"figs_intro" -> "figs_youformal"
 "figs_123person" [fillcolor="#99ff99"]
 "figs_intro" -> "figs_123person"
 "figs_metonymy" [fillcolor="#99ff99"]
@@ -83,10 +91,14 @@ edge [arrowsize=1.4];
 "guidelines_pure" [fillcolor="#99ff99"]
 "guidelines_intro" -> "guidelines_pure"
 "translation_guidelines" -> "guidelines_pure"
+"figs_exclusive" [fillcolor="#99ff99"]
+"figs_intro" -> "figs_exclusive"
 "translate_manual" [fillcolor="#99ff99"]
 "ta_intro" -> "translate_manual"
 "figs_youdual" [fillcolor="#99ff99"]
 "figs_intro" -> "figs_youdual"
+"figs_partsofspeech" [fillcolor="#99ff99"]
+"figs_intro" -> "figs_partsofspeech"
 "figs_explicit" [fillcolor="#99ff99"]
 "figs_intro" -> "figs_explicit"
 "figs_idiom" [fillcolor="#99ff99"]
@@ -95,6 +107,8 @@ edge [arrowsize=1.4];
 "translate_manual" -> "translate_why"
 "figs_doublet" [fillcolor="#99ff99"]
 "figs_intro" -> "figs_doublet"
+"figs_verbs" [fillcolor="#99ff99"]
+"figs_intro" -> "figs_verbs"
 "translate_dynamic" [fillcolor="#99ff99"]
 "translate_whatis" -> "translate_dynamic"
 "translate_process" -> "translate_dynamic"
@@ -102,6 +116,8 @@ edge [arrowsize=1.4];
 "translate_fandm" -> "translate_dynamic"
 "translate_process" [fillcolor="#99ff99"]
 "translate_manual" -> "translate_process"
+"figs_singularpronouns" [fillcolor="#99ff99"]
+"figs_intro" -> "figs_singularpronouns"
 "figs_irony" [fillcolor="#99ff99"]
 "figs_intro" -> "figs_irony"
 "figs_adjectivalnoun" [fillcolor="#99ff99"]
@@ -110,6 +126,8 @@ edge [arrowsize=1.4];
 "figs_intro" -> "figs_cohesion"
 "figs_activepassive" [fillcolor="#99ff99"]
 "figs_intro" -> "figs_activepassive"
+"figs_gendernotations" [fillcolor="#99ff99"]
+"figs_intro" -> "figs_gendernotations"
 "figs_parables" [fillcolor="#99ff99"]
 "figs_intro" -> "figs_parables"
 "translate_discover" [fillcolor="#99ff99"]
@@ -138,6 +156,12 @@ edge [arrowsize=1.4];
 "translate_process" -> "translate_form"
 "translate_terms" [fillcolor="#99ff99"]
 "translate_manual" -> "translate_terms"
+"figs_quotations" [fillcolor="#99ff99"]
+"figs_intro" -> "figs_quotations"
+"figs_genitivecase" [fillcolor="#99ff99"]
+"figs_intro" -> "figs_genitivecase"
+"figs_grammar" [fillcolor="#99ff99"]
+"figs_intro" -> "figs_grammar"
 "guidelines_clear" [fillcolor="#99ff99"]
 "guidelines_intro" -> "guidelines_clear"
 "translation_guidelines" -> "guidelines_clear"
@@ -155,6 +179,8 @@ edge [arrowsize=1.4];
 "translate_what" -> "translate_help"
 "translate_problem" [fillcolor="#99ff99"]
 "translate_literal" -> "translate_problem"
+"figs_pluralpronouns" [fillcolor="#99ff99"]
+"figs_intro" -> "figs_pluralpronouns"
 "figs_apostrophe" [fillcolor="#99ff99"]
 "figs_intro" -> "figs_apostrophe"
 "vol2_steps" [fillcolor="#9999ff"]
