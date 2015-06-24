@@ -30,7 +30,7 @@ Create notes as follows:
   * **(1) ULB Text**  - **(2)**  Clarifying translation. **(3)**  Text meaning. **(4)**  Alternate translation suggestion. **(5)**  (See: Translation Academy Topic)
 ==== Comments ====
 
-  * All Notes require **(1)**  ULB Text.
+  * All Notes require **(1)** a phrase from the ULB Text. Try to avoid single word entries. Please include the context. (Ex. for pronouns like "he", "he has promised" is better than "he")
   * The order of the appearance of these note fields is fixed.
   * The topic of the note determines which fields are optional or required.
 
