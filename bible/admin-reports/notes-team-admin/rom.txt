@@ -14,7 +14,6 @@ Reviewer -
 
 ==== Romans Pages Status ====
 
-^  Draft  ^  Check  ^  Review  ^  Publish  |
-|  {{topic>en:bible:notes:rom?draft -cq&nocomments&simplelist}} |  {{topic>en:bible:notes:rom?check -cq&nocomments&simplelist}} |  {{topic>en:bible:notes:rom?review -cq&nocomments&simplelist}} |  {{topic>en:bible:notes:rom?publish -cq&nocomments&simplelist}} |
-
+^  Draft  ^  Check  ^  Review  ^  Publish  ^
+| {{pagequery>@en:bible:notes:rom \{\{tag>[^{]*draft[^{]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=column;hidemsg;hidejump;bullet=square;fontsize=100%}} | {{pagequery>@en:bible:notes:rom \{\{tag>[^{]*check[^{]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=column;hidemsg;hidejump;bullet=square;fontsize=100%}} | {{pagequery>@en:bible:notes:rom \{\{tag>[^{]*review[^{]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=column;hidemsg;hidejump;bullet=square;fontsize=100%}} | {{pagequery>@en:bible:notes:rom \{\{tag>[^{]*publish[^{]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=column;hidemsg;hidejump;bullet=square;fontsize=100%}} |
 \\
