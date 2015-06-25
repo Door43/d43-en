@@ -1,0 +1,35 @@
+====== Translate Names ======
+
+===== Description =====
+
+In English there are direct and non-direct (indirect) quotations.
+
+
+===== Template =====
+
+The following information is either required or optional in the notes:
+
+  - **(Required)**  List the text that includes the speech quotation from the ULB in bold
+  - (Optional) State a clarifying translation
+  - **(Required)**  Identify the type of speech quotation
+  - **(Required)**  State a translation alternative using the other type of quotation
+  - **(Required)**  Add TA Link: (See: Quotation)
+  * **(1) ULB text**  - **(3)**  Type of speech quotation. **(4)**  Translation alternative using the other type of quotation. **(5)**  (See: Quotation)
+
+===== Bible Examples =====
+
+Field reference numbers are included for clarity purposes only. They are omitted in the actual note.
+
+=== Luke 9:21 ===
+
+But warning them, Jesus instructed them to tell this to no one,
+
+  * **(1) to tell this to no one**  - **(2)**  "not to tell anyone" or "that they should not tell anyone." **(3)**  This is an indirect quote. **(4)**  Alternate translation: "But warning them, Jesus told them, 'Do not tell anyone.'" **(5)**  (See: Quotation)
+=== Acts 14:22 ===
+
+"They kept strengthening the minds of the disciples and encouraging them to continue in the faith. They told them that it is through many sufferings that we must enter into the kingdom of God."
+
+  * **(1) They told them that it is through many sufferings that we must enter into the kingdom of God**  - **(3)**  This is an indirect quote. **(4)**  Alternate translation: "They told them, 'It is through many sufferings that we must enter the kingdom of God.'" **(5)**  (See: Quotation)
+
+
+~~DISCUSSION~~{{tag>draft}}
