@@ -6,10 +6,7 @@ The “translationAcademy” is intended to enable anyone, anywhere to equip the
 
 translationAcademy is intended to be highly flexible. It can be used in a systematic, in-advance approach or it can be used for just-in-time learning (or both, as needed). It is modular in structure. These modules have been grouped as follows:
 
-<code>
-
- * **[[en:ta:intro|Introduction]]** - introduces the unfoldingWord project
- * **[[:en:ta:translate:home|Translation Manual]]**- explains how to translate
- * **[[:en:ta:check|Checker's Manual]]**- explains how to check a translation
- * **[[:en:ta:tech|Technology Manual]]**- explains how to use the different technology tools
-</code>
+  * **[[en:ta:intro|Introduction]]** - introduces the unfoldingWord project
+  * **[[:en:ta:translate:home|Translation Manual]]**- explains how to translate
+  * **[[:en:ta:check|Checker's Manual]]**- explains how to check a translation
+  * **[[:en:ta:tech|Technology Manual]]**- explains how to use the different technology tools
