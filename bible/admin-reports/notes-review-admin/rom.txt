@@ -2,10 +2,11 @@
 
 ~~NOCACHE~~
 
-  * [[:en:bible:admin-reports:check-tags]]
-
+  * [[:en:bible:admin-reports:check-tags|Check Notes Tags]]
 
 ==== Romans Pages Status ====
 
-^  Review  ^  Text  ^  Discuss  ^  Publish  ^
-|{{topic>en:bible:notes:rom?review&nocomments&simplelist}}  |{{topic>en:bible:notes:rom?text&nocomments&simplelist}}  |{{topic>en:bible:notes:rom?discuss&nocomments&simplelist}}  |{{topic>en:bible:notes:rom?publish&nocomments&simplelist}}  |
+^  Review  ^  Text  ^  Discuss  ^  Publish  |
+|{{topic>en:bible:notes:rom?review&nocomments&simplelist}} |{{topic>en:bible:notes:rom?text&nocomments&simplelist}} |{{topic>en:bible:notes:rom?discuss&nocomments&simplelist}} |{{topic>en:bible:notes:rom?publish&nocomments&simplelist}} |
+
+\\
