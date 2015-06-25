@@ -8,4 +8,4 @@
 ==== Luke Pages Status ====
 
 ^  Review  ^  Text  ^  Discuss  ^  Publish  ^
-|{{topic>en:bible:notes:luk?review&nocomments&simplelist}}  |{{topic>en:bible:notes:luk?text&nocomments&simplelist}}  |{{topic>en:bible:notes:luk?discuss&nocomments&simplelist}}  |{{topic>en:bible:notes:luk?publish&nocomments&simplelist}}  |
+|{{pagequery>@en:bible:notes:luk \{\{tag>[^}]*review[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=100%}}  |{{pagequery>@en:bible:notes:luk \{\{tag>[^}]*text[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=100%}}  |{{pagequery>@en:bible:notes:luk \{\{tag>[^}]*discuss[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=100%}}  |{{pagequery>@en:bible:notes:luk \{\{tag>[^}]*publish[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=100%}}  |
