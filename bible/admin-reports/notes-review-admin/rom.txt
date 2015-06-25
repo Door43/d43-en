@@ -7,8 +7,6 @@
 ==== Romans Pages Status ====
 
 ^  Review  ^  Text  ^  Discuss  ^  Publish  |
-|{{pagequery>@en:bible:notes:rom \{\{tag>[^}]*review&nocomments&simplelist}}
-    \\ [ \\   ^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=100%}} |{{pagequery>@en:bible:notes:rom \{\{tag>[^}]*discuss&nocomments&simplelist}}
-    \\ [ \\   ^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=100%}} |
+|{{pagequery>@en:bible:notes:rom \{\{tag>[^}]*review&nocomments&simplelist}}[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=100%}} |{{pagequery>@en:bible:notes:rom \{\{tag>[^}]*discuss&nocomments&simplelist}}[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=100%}} |
 
 \\
