@@ -8,4 +8,4 @@
 ==== 2 Timothy Pages Status ====
 
 ^  Review  ^  Text  ^  Discuss  ^  Publish  ^
-|{{topic>en:bible:notes:2ti?review&nocomments&simplelist}}  |{{topic>en:bible:notes:2ti?text&nocomments&simplelist}}  |{{topic>en:bible:notes:2ti?discuss&nocomments&simplelist}}  |{{topic>en:bible:notes:2ti?publish&nocomments&simplelist}}  |
+|{{pagequery>@en:bible:notes:2ti \{\{tag>[^}]*review[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=100%}}  |{{pagequery>@en:bible:notes:2ti \{\{tag>[^}]*text[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=100%}}  |{{pagequery>@en:bible:notes:2ti \{\{tag>[^}]*discuss[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=100%}}  |{{pagequery>@en:bible:notes:2ti \{\{tag>[^}]*publish[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=100%}}  |
