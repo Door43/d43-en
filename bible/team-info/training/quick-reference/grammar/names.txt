@@ -7,15 +7,27 @@ In English there are direct and non-direct (indirect) quotations.
 
 ===== Template =====
 
-The following information is either required or optional in the notes:
+If there are many new names in a chunk that are not listed in the Important Terms, simply write the following at the top of the translation notes: \\ 
+(See: Translate Names)
 
-  - **(Required)**  List the text that includes the speech quotation from the ULB in bold
-  - (Optional) State a clarifying translation
-  - **(Required)**  Identify the type of speech quotation
-  - **(Required)**  State a translation alternative using the other type of quotation
-  - **(Required)**  Add TA Link: (See: Quotation)
-  * **(1) ULB text**  - **(3)**  Type of speech quotation. **(4)**  Translation alternative using the other type of quotation. **(5)**  (See: Quotation)
+If this is the first time a person or place is named in the  book and it is not an important term, write a note like this:
 
+  - **(Required)**  Write the name  from the ULB in bold
+  - (Optional) Give a clarifying translation
+  - (Optional)  Identify what it is a name for (place, man, woman, spirit, god, etc.) or give information about it.
+  - (Optional) Give a translation alternative
+  - (Optional)  Add TA Link: (See: Translate Names)
+  * **(1) ULB text**  - **(3)**  Identify or give info **(5)**  (See: Translate Names)
+
+If this is a name that has been not been used in recent chapters or chunks, write a note like this: 
+
+  - **(Required)**  Write the name or list the names from the ULB in bold
+  - (Optional)  Give a clarifying translation
+  - (Optional)  Identify who or what it refers to
+  - (Optional) Give a translation alternative
+  - **(Required)** Refer translators to where they wrote it in an earlier chunk.
+
+  * **(1) ULB text**  - **(3)**  Identify. **(5)**  See how you wrote this in )
 ===== Bible Examples =====
 
 Field reference numbers are included for clarity purposes only. They are omitted in the actual note.
