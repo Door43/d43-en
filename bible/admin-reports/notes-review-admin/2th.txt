@@ -11,5 +11,5 @@ Reviewer - Ed Q
 ==== 2 Thessalonians Pages Status ====
 
 ^  Review  ^  Text  ^  Discuss  ^  Publish  ^
-|{{topic>en:bible:notes:2th?review -cq&nocomments&simplelist}}  |{{topic>en:bible:notes:2th?text -cq&nocomments&simplelist}}  |{{topic>en:bible:notes:2th?discuss -cq&nocomments&simplelist}}  |{{topic>en:bible:notes:2th?publish -cq&nocomments&simplelist}}  |
+|{{pagequery>@en:bible:notes:2th \{\{tag>[^}]*review[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=100%}}  |{{pagequery>@en:bible:notes:2th \{\{tag>[^}]*text[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=100%}}  |{{pagequery>@en:bible:notes:2th \{\{tag>[^}]*discuss[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=100%}}  |{{pagequery>@en:bible:notes:2th \{\{tag>[^}]*publish[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=100%}}  |
 

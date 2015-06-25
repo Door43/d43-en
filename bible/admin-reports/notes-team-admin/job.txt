@@ -16,6 +16,6 @@ Reviewer - (//review to publish//) -
 ==== Job Page Status ====
 
 ^  Draft  ^  Check  ^  Review  ^
-|{{topic>en:bible:notes:job?draft -cq&nocomments&simplelist}} |{{topic>en:bible:notes:job?check -cq&nocomments&simplelist}} |{{topic>en:bible:notes:job?review -cq&nocomments&simplelist}} |
+|{{pagequery>@en:bible:notes:job \{\{tag>[^}]*draft[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=100%}} |{{pagequery>@en:bible:notes:job \{\{tag>[^}]*check[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=100%}} |{{pagequery>@en:bible:notes:job \{\{tag>[^}]*review[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=100%}} |
 
 \\

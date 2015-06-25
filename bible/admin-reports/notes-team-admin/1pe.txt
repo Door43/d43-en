@@ -15,6 +15,6 @@ Reviewer -
 ==== 1 Peter Pages Status ====
 
 ^  Draft  ^  Check  ^  Review  |
-|{{topic>en:bible:notes:1pe?draft -cq&nocomments&simplelist}} |{{topic>en:bible:notes:1pe?check -cq&nocomments&simplelist}} |{{topic>en:bible:notes:1pe?review -cq&nocomments&simplelist}} |
+|{{pagequery>@en:bible:notes:1pe \{\{tag>[^}]*draft[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=100%}} |{{pagequery>@en:bible:notes:1pe \{\{tag>[^}]*check[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=100%}} |{{pagequery>@en:bible:notes:1pe \{\{tag>[^}]*review[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=100%}} |
 
 \\

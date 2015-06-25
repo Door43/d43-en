@@ -16,6 +16,6 @@ Reviewer - Ed Q
 ==== Acts Pages Status ====
 
 ^  Review  ^  Text  ^  Discuss  ^  Publish  |
-|{{topic>en:bible:notes:act?review -cq&nocomments&simplelist}} |{{topic>en:bible:notes:act?text -cq&nocomments&simplelist}} |{{topic>en:bible:notes:act?discuss -cq&nocomments&simplelist}} |{{topic>en:bible:notes:act?publish -cq&nocomments&simplelist}} |
+|{{pagequery>@en:bible:notes:act \{\{tag>[^}]*review[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=100%}} |{{pagequery>@en:bible:notes:act \{\{tag>[^}]*text[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=100%}} |{{pagequery>@en:bible:notes:act \{\{tag>[^}]*discuss[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=100%}} |{{pagequery>@en:bible:notes:act \{\{tag>[^}]*publish[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=100%}} |
 
 \\

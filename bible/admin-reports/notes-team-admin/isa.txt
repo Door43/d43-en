@@ -15,4 +15,4 @@ Reviewer - \\
 ==== Isaiah Pages Status ====
 
 ^  Draft  ^  Check  ^  Review  ^
-|{{topic>en:bible:notes:isa?draft -cq&nocomments&simplelist}}  |{{topic>en:bible:notes:isa?check -cq&nocomments&simplelist}}  |{{topic>en:bible:notes:isa?review -cq&nocomments&simplelist}}  |
+|{{pagequery>@en:bible:notes:isa \{\{tag>[^}]*draft[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=100%}}  |{{pagequery>@en:bible:notes:isa \{\{tag>[^}]*check[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=100%}}  |{{pagequery>@en:bible:notes:isa \{\{tag>[^}]*review[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=100%}}  |

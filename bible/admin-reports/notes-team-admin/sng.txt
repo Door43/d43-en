@@ -16,6 +16,6 @@ Reviewer - (//review to publish//) -
 ==== Song of Solomon Page Status ====
 
 ^  Draft  ^  Check  ^  Review  ^
-|{{topic>en:bible:notes:sng?draft -cq&nocomments&simplelist}} |{{topic>en:bible:notes:sng?check -cq&nocomments&simplelist}} |{{topic>en:bible:notes:sng?review -cq&nocomments&simplelist}} |
+|{{pagequery>@en:bible:notes:sng \{\{tag>[^}]*draft[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=100%}} |{{pagequery>@en:bible:notes:sng \{\{tag>[^}]*check[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=100%}} |{{pagequery>@en:bible:notes:sng \{\{tag>[^}]*review[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=100%}} |
 
 \\

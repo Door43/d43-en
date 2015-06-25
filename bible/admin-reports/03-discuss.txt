@@ -15,6 +15,6 @@ Discuss pages in Bible:
 ==== Location ====
 
 ^  OBE  ^  Notes  ^
-|{{topic>en:obe?discuss&nocomments&simplelist}} |{{topic>en:bible:notes?discuss&nocomments&simplelist}} |
+|{{pagequery>@en:obe \{\{tag>[^}]*discuss&nocomments&simplelist}}[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=100%}} |
 
 \\

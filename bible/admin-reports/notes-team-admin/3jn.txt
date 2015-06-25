@@ -13,4 +13,4 @@ Reviewer -
 ==== 3 John Pages Status ====
 
 ^  Draft  ^  Check  ^  Review  ^
-|{{topic>en:bible:notes:3jn?draft -cq&nocomments&simplelist}}  |{{topic>en:bible:notes:3jn?check -cq&nocomments&simplelist}}  |{{topic>en:bible:notes:3jn?review -cq&nocomments&simplelist}}  |
+|{{pagequery>@en:bible:notes:3jn \{\{tag>[^}]*draft[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=100%}}  |{{pagequery>@en:bible:notes:3jn \{\{tag>[^}]*check[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=100%}}  |{{pagequery>@en:bible:notes:3jn \{\{tag>[^}]*review[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=100%}}  |

@@ -12,4 +12,4 @@ Reviewer - Ed Q
 ==== Colossians Pages Status ====
 
 ^  Draft  ^  Check  ^  Review  ^
-|{{topic>en:bible:notes:col?draft -cq&nocomments&simplelist}}  |{{topic>en:bible:notes:col?check -cq&nocomments&simplelist}}  |{{topic>en:bible:notes:col?review -cq&nocomments&simplelist}}  |
+|{{pagequery>@en:bible:notes:col \{\{tag>[^}]*draft[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=100%}}  |{{pagequery>@en:bible:notes:col \{\{tag>[^}]*check[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=100%}}  |{{pagequery>@en:bible:notes:col \{\{tag>[^}]*review[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=100%}}  |

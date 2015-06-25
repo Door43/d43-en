@@ -12,4 +12,4 @@ Reviewer - Susan Q
 ==== Philemon Pages Status ====
 
 ^  Draft  ^  Check  ^  Review  ^
-|{{topic>en:bible:notes:phm?draft -cq&nocomments&simplelist}}  |{{topic>en:bible:notes:phm?check -cq&nocomments&simplelist}}  |{{topic>en:bible:notes:phm?review -cq&nocomments&simplelist}}  |
+|{{pagequery>@en:bible:notes:phm \{\{tag>[^}]*draft[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=100%}}  |{{pagequery>@en:bible:notes:phm \{\{tag>[^}]*check[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=100%}}  |{{pagequery>@en:bible:notes:phm \{\{tag>[^}]*review[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=100%}}  |

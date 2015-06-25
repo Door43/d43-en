@@ -10,4 +10,4 @@ Reviewer - Edward Q\\
 ==== 1 Thessalonians Pages Status ====
 
 ^  Draft  ^  Check  ^  Review  ^
-|{{topic>en:bible:notes:1th?draft -cq&nocomments&simplelist}}  |{{topic>en:bible:notes:1th?check -cq&nocomments&simplelist}}  |{{topic>en:bible:notes:1th?review -cq&nocomments&simplelist}}  |
+|{{pagequery>@en:bible:notes:1th \{\{tag>[^}]*draft[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=100%}}  |{{pagequery>@en:bible:notes:1th \{\{tag>[^}]*check[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=100%}}  |{{pagequery>@en:bible:notes:1th \{\{tag>[^}]*review[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=100%}}  |

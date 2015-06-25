@@ -16,6 +16,6 @@ Reviewer - (//review to publish//) -
 ==== Ephesians Page Status ====
 
 ^  Draft  ^  Check  ^  Review  ^
-|{{topic>en:bible:notes:jhn?draft -cq&nocomments&simplelist}} |{{topic>en:bible:notes:jhn?check -cq&nocomments&simplelist}} |{{topic>en:bible:notes:jhn?review -cq&nocomments&simplelist}} |
+|{{pagequery>@en:bible:notes:jhn \{\{tag>[^}]*draft[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=100%}} |{{pagequery>@en:bible:notes:jhn \{\{tag>[^}]*check[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=100%}} |{{pagequery>@en:bible:notes:jhn \{\{tag>[^}]*review[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=100%}} |
 
 \\

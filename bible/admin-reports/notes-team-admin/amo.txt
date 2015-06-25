@@ -16,6 +16,6 @@ Reviewer - (//review to publish//) -
 ==== Amos Page Status ====
 
 ^  Draft  ^  Check  ^  Review  ^
-|{{topic>en:bible:notes:amo?draft -cq&nocomments&simplelist}} |{{topic>en:bible:notes:amo?check -cq&nocomments&simplelist}} |{{topic>en:bible:notes:amo?review -cq&nocomments&simplelist}} |
+|{{pagequery>@en:bible:notes:amo \{\{tag>[^}]*draft[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=100%}} |{{pagequery>@en:bible:notes:amo \{\{tag>[^}]*check[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=100%}} |{{pagequery>@en:bible:notes:amo \{\{tag>[^}]*review[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=100%}} |
 
 \\

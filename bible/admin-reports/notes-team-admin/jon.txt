@@ -13,4 +13,4 @@ Reviewer - John A
 ==== Jonah Pages Status ====
 
 ^  Draft  ^  Check  ^  Review  ^
-|{{topic>en:bible:notes:jon?draft -cq&nocomments&simplelist}}  |{{topic>en:bible:notes:jon?check -cq&nocomments&simplelist}}  |{{topic>en:bible:notes:jon?review -cq&nocomments&simplelist}}  |
+|{{pagequery>@en:bible:notes:jon \{\{tag>[^}]*draft[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=100%}}  |{{pagequery>@en:bible:notes:jon \{\{tag>[^}]*check[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=100%}}  |{{pagequery>@en:bible:notes:jon \{\{tag>[^}]*review[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=100%}}  |

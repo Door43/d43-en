@@ -14,6 +14,6 @@ Reviewer - John A
 ==== Philippians Pages Status ====
 
 ^  Draft  ^  Check  ^  Review  |
-|{{topic>en:bible:notes:php?draft -cq&nocomments&simplelist}} |{{topic>en:bible:notes:php?check -cq&nocomments&simplelist}} |{{topic>en:bible:notes:php?review -cq&nocomments&simplelist}} |
+|{{pagequery>@en:bible:notes:php \{\{tag>[^}]*draft[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=100%}} |{{pagequery>@en:bible:notes:php \{\{tag>[^}]*check[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=100%}} |{{pagequery>@en:bible:notes:php \{\{tag>[^}]*review[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=100%}} |
 
 \\

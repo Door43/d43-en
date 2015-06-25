@@ -13,4 +13,4 @@ Reviewer - Henry W
 ==== Mark Pages Status ====
 
 ^  Draft  ^  Check  ^  Review  ^
-|{{topic>en:bible:notes:mrk?draft -cq&nocomments&simplelist}}  |{{topic>en:bible:notes:mrk?check -cq&nocomments&simplelist}}  |{{topic>en:bible:notes:mrk?review -cq&nocomments&simplelist}}  |
+|{{pagequery>@en:bible:notes:mrk \{\{tag>[^}]*draft[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=100%}}  |{{pagequery>@en:bible:notes:mrk \{\{tag>[^}]*check[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=100%}}  |{{pagequery>@en:bible:notes:mrk \{\{tag>[^}]*review[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=100%}}  |

@@ -12,5 +12,5 @@ Reviewer - \\
 ==== 2 Peter Pages Status ====
 
 ^  Review  ^  Text  ^  Discuss  ^  Publish  ^
-|{{topic>en:bible:notes:2pe?review -cq&nocomments&simplelist}}  |{{topic>en:bible:notes:2pe?text -cq&nocomments&simplelist}}  |{{topic>en:bible:notes:2pe?discuss -cq&nocomments&simplelist}}  |{{topic>en:bible:notes:2pe?publish -cq&nocomments&simplelist}}  |
+|{{pagequery>@en:bible:notes:2pe \{\{tag>[^}]*review[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=100%}}  |{{pagequery>@en:bible:notes:2pe \{\{tag>[^}]*text[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=100%}}  |{{pagequery>@en:bible:notes:2pe \{\{tag>[^}]*discuss[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=100%}}  |{{pagequery>@en:bible:notes:2pe \{\{tag>[^}]*publish[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=100%}}  |
 

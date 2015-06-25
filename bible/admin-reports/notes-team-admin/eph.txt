@@ -15,7 +15,7 @@ Reviewer - (//review to publish//) - Ed Q
 ==== Ephesians Page Status ====
 
 ^  Draft  ^  Check  ^  Review  ^
-|{{topic>en:bible:notes:eph?draft -cq&nocomments&simplelist}} |{{topic>en:bible:notes:eph?check -cq&nocomments&simplelist}} |{{topic>en:bible:notes:eph?review -cq&nocomments&simplelist}} |
+|{{pagequery>@en:bible:notes:eph \{\{tag>[^}]*draft[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=100%}} |{{pagequery>@en:bible:notes:eph \{\{tag>[^}]*check[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=100%}} |{{pagequery>@en:bible:notes:eph \{\{tag>[^}]*review[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=100%}} |
 
 \\
 

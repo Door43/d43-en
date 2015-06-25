@@ -11,6 +11,6 @@ Reviewer - Susan Q
 ==== Isaiah Pages Status ====
 
 ^  Review  ^  Text  ^  Discuss  ^  Publish  |
-|{{topic>en:bible:notes:isa?review -cq&nocomments&simplelist}} |{{topic>en:bible:notes:isa?text -cq&nocomments&simplelist}} |{{topic>en:bible:notes:isa?discuss -cq&nocomments&simplelist}} |{{topic>en:bible:notes:isa?publish -cq&nocomments&simplelist}} |
+|{{pagequery>@en:bible:notes:isa \{\{tag>[^}]*review[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=100%}} |{{pagequery>@en:bible:notes:isa \{\{tag>[^}]*text[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=100%}} |{{pagequery>@en:bible:notes:isa \{\{tag>[^}]*discuss[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=100%}} |{{pagequery>@en:bible:notes:isa \{\{tag>[^}]*publish[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=100%}} |
 
 \\

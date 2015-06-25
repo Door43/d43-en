@@ -9,4 +9,4 @@ Reviewer - Ed Q
 ==== 2 Thessalonians Pages Status ====
 
 ^  Draft  ^  Check  ^  Review  ^
-|{{topic>en:bible:notes:2th?draft -cq&nocomments&simplelist}}  |{{topic>en:bible:notes:2th?check -cq&nocomments&simplelist}}  |{{topic>en:bible:notes:2th?review -cq&nocomments&simplelist}}  |
+|{{pagequery>@en:bible:notes:2th \{\{tag>[^}]*draft[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=100%}}  |{{pagequery>@en:bible:notes:2th \{\{tag>[^}]*check[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=100%}}  |{{pagequery>@en:bible:notes:2th \{\{tag>[^}]*review[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=100%}}  |

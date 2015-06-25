@@ -16,6 +16,6 @@ Reviewer - (//review to publish//) -
 ==== Malachi Page Status ====
 
 ^  Draft  ^  Check  ^  Review  ^
-|{{topic>en:bible:notes:mal?draft -cq&nocomments&simplelist}} |{{topic>en:bible:notes:mal?check -cq&nocomments&simplelist}} |{{topic>en:bible:notes:mal?review -cq&nocomments&simplelist}} |
+|{{pagequery>@en:bible:notes:mal \{\{tag>[^}]*draft[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=100%}} |{{pagequery>@en:bible:notes:mal \{\{tag>[^}]*check[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=100%}} |{{pagequery>@en:bible:notes:mal \{\{tag>[^}]*review[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=100%}} |
 
 \\

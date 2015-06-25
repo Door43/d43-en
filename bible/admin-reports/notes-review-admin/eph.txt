@@ -12,6 +12,6 @@ Manager (//check to review//) - Catherine N\\
 Reviewer - (//review to publish//) - Ed Q
 
 ^  Review  ^  Text  ^  Discuss  ^  Publish  |
-|{{topic>en:bible:notes:eph?review -cq&nocomments&simplelist}} |{{topic>en:bible:notes:eph?text -cq&nocomments&simplelist}} |{{topic>en:bible:notes:eph?discuss -cq&nocomments&simplelist}} |{{topic>en:bible:notes:eph?publish -cq&nocomments&simplelist}} |
+|{{pagequery>@en:bible:notes:eph \{\{tag>[^}]*review[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=100%}} |{{pagequery>@en:bible:notes:eph \{\{tag>[^}]*text[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=100%}} |{{pagequery>@en:bible:notes:eph \{\{tag>[^}]*discuss[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=100%}} |{{pagequery>@en:bible:notes:eph \{\{tag>[^}]*publish[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=100%}} |
 
 \\

@@ -16,6 +16,6 @@ Reviewer - (//review to publish//) -
 ==== Revelation Page Status ====
 
 ^  Draft  ^  Check  ^  Review  ^
-|{{topic>en:bible:notes:rev?draft -cq&nocomments&simplelist}} |{{topic>en:bible:notes:rev?check -cq&nocomments&simplelist}} |{{topic>en:bible:notes:rev?review -cq&nocomments&simplelist}} |
+|{{pagequery>@en:bible:notes:rev \{\{tag>[^}]*draft[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=100%}} |{{pagequery>@en:bible:notes:rev \{\{tag>[^}]*check[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=100%}} |{{pagequery>@en:bible:notes:rev \{\{tag>[^}]*review[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=100%}} |
 
 \\

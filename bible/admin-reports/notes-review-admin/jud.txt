@@ -11,6 +11,6 @@ Reviewer (//review to publish//) -
 ==== Jude Pages Status ====
 
 ^  Review  ^  Text  ^  Discuss  ^  Publish  |
-|{{topic>en:bible:notes:jud?review -cq&nocomments&simplelist}} |{{topic>en:bible:notes:jud?text -cq&nocomments&simplelist}} |{{topic>en:bible:notes:jud?discuss -cq&nocomments&simplelist}} |{{topic>en:bible:notes:jud?publish -cq&nocomments&simplelist}} |
+|{{pagequery>@en:bible:notes:jud \{\{tag>[^}]*review[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=100%}} |{{pagequery>@en:bible:notes:jud \{\{tag>[^}]*text[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=100%}} |{{pagequery>@en:bible:notes:jud \{\{tag>[^}]*discuss[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=100%}} |{{pagequery>@en:bible:notes:jud \{\{tag>[^}]*publish[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=100%}} |
 
 \\

@@ -13,4 +13,4 @@ Reviewer - Henry W
 ==== Matthew Pages Status ====
 
 ^  Draft  ^  Check  ^  Review  ^
-|{{topic>en:bible:notes:mat?draft -cq&nocomments&simplelist}}  |{{topic>en:bible:notes:mat?check -cq&nocomments&simplelist}}  |{{topic>en:bible:notes:mat?review -cq&nocomments&simplelist}}  |
+|{{pagequery>@en:bible:notes:mat \{\{tag>[^}]*draft[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=100%}}  |{{pagequery>@en:bible:notes:mat \{\{tag>[^}]*check[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=100%}}  |{{pagequery>@en:bible:notes:mat \{\{tag>[^}]*review[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=100%}}  |

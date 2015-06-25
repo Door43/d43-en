@@ -16,6 +16,6 @@ Reviewer - (//review to publish//) -
 ==== Haggai Page Status ====
 
 ^  Draft  ^  Check  ^  Review  ^
-|{{topic>en:bible:notes:hag?draft -cq&nocomments&simplelist}} |{{topic>en:bible:notes:hag?check -cq&nocomments&simplelist}} |{{topic>en:bible:notes:hag?review -cq&nocomments&simplelist}} |
+|{{pagequery>@en:bible:notes:hag \{\{tag>[^}]*draft[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=100%}} |{{pagequery>@en:bible:notes:hag \{\{tag>[^}]*check[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=100%}} |{{pagequery>@en:bible:notes:hag \{\{tag>[^}]*review[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=100%}} |
 
 \\

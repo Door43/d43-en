@@ -16,6 +16,6 @@ Reviewer - (//review to publish//) -
 ==== Hebrews Page Status ====
 
 ^  Draft  ^  Check  ^  Review  ^
-|{{topic>en:bible:notes:heb?draft -cq&nocomments&simplelist}} |{{topic>en:bible:notes:heb?check -cq&nocomments&simplelist}} |{{topic>en:bible:notes:heb?review -cq&nocomments&simplelist}} |
+|{{pagequery>@en:bible:notes:heb \{\{tag>[^}]*draft[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=100%}} |{{pagequery>@en:bible:notes:heb \{\{tag>[^}]*check[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=100%}} |{{pagequery>@en:bible:notes:heb \{\{tag>[^}]*review[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=100%}} |
 
 \\

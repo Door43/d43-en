@@ -11,6 +11,6 @@ Reviewer - John A
 ==== Jonah Pages Status ====
 
 ^  Review  ^  Text  ^  Discuss  ^  Publish  |
-|{{topic>en:bible:notes:jon?review -cq&nocomments&simplelist}} |{{topic>en:bible:notes:jon?text -cq&nocomments&simplelist}} |{{topic>en:bible:notes:jon?discuss -cq&nocomments&simplelist}} |{{topic>en:bible:notes:jon?publish -cq&nocomments&simplelist}} |
+|{{pagequery>@en:bible:notes:jon \{\{tag>[^}]*review[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=100%}} |{{pagequery>@en:bible:notes:jon \{\{tag>[^}]*text[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=100%}} |{{pagequery>@en:bible:notes:jon \{\{tag>[^}]*discuss[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=100%}} |{{pagequery>@en:bible:notes:jon \{\{tag>[^}]*publish[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=100%}} |
 
 \\

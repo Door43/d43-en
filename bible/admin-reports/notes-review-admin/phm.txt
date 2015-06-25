@@ -12,5 +12,5 @@ Reviewer - Susan Q\\
 ==== Philemon Pages Status ====
 
 ^  Review  ^  Text  ^  Discuss  ^  Publish  ^
-|{{topic>en:bible:notes:phm?review -cq&nocomments&simplelist}}  |{{topic>en:bible:notes:phm?text -cq&nocomments&simplelist}}  |{{topic>en:bible:notes:phm?discuss -cq&nocomments&simplelist}}  |{{topic>en:bible:notes:phm?publish -cq&nocomments&simplelist}}  |
+|{{pagequery>@en:bible:notes:phm \{\{tag>[^}]*review[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=100%}}  |{{pagequery>@en:bible:notes:phm \{\{tag>[^}]*text[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=100%}}  |{{pagequery>@en:bible:notes:phm \{\{tag>[^}]*discuss[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=100%}}  |{{pagequery>@en:bible:notes:phm \{\{tag>[^}]*publish[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=100%}}  |
 
