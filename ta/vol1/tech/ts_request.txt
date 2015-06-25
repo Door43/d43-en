@@ -1,0 +1,11 @@
+===== Request a New Language =====
+
+If you are a translator in the field, please contact your superior to request a new target language in translationStudio. If your superior says you can request the language, create a Bug Report and provide the name of your superior, along with the name of the target language to be added.  Even after requesting a new language, certain approvals are required before it will be added to translationStudio.
+You can use the **Report Bug** link to request a new language:
+   - In the green bar at the top of the screen, tap on the three dots on the right.
+  - In the list of options, tap **Report Bug**.
+  - The **Bug Report **  screen opens. Type the name of the language you would like added to translationStudio.
+  - Tap **Upload**  to send your request.
+
+Go back to the [[https://door43.org/en/ta/tech/ts|translationStudio ]]page//. //
+
