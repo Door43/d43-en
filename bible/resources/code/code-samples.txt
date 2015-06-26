@@ -1,6 +1,5 @@
 ====== Sample Door43 Code ======
 
-
 ==== Activity: ====
 
 Code to display the activity of a user:
@@ -57,7 +56,6 @@ Find missing text portions:
 {{pagequery>ns:en:bible:notes "Important Terms" -"===== Important Terms: ====="; fulltext; sort=title:asc; display={title}; natsort; layout=table; showcount; hidemsg; hidejump;}}
 </code>
 
-
 ==== Edit Page: ====
 
 Open Door43 page in edit mode:
@@ -65,7 +63,6 @@ Open Door43 page in edit mode:
 <code>
 ?do=edit&rev=0
 </code>
-
 
 ==== Transclude: ====
 
