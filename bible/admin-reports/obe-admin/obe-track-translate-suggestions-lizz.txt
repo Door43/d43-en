@@ -1,4 +1,4 @@
 ====== OBE: Translation Suggestions - Lizz ======
 
-^  Pages to Check TS  ^  Finished Pages  ^
-|{{topic>en:obe:kt?drewc&nocomments&simplelist}}  |{{pagequery>ns:en:obe:kt "==== Translation" -"drewc"; fulltext; sort=title:asc; display={title}; natsort; layout=table; showcount; hidemsg; hidejump;}}  |
+^  OBS Pages to Check TS  ^  Non-OBS Pages to Check TS  ^  Finished Pages  ^
+|{{topic>en:obe:kt?drewc obs&nocomments&simplelist}}  |{{topic>en:obe:kt?drewc -obs&nocomments&simplelist}}  |{{pagequery>ns:en:obe:kt "==== Translation" -"drewc"; fulltext; sort=title:asc; display={title}; natsort; layout=table; showcount; hidemsg; hidejump;}}  |
