@@ -95,7 +95,6 @@ Find string "selector-size" without text "details.cfm:
 Test finding KT pages with "drewc" tag but not "ktobs" tag:
 
 <code>
-{{pagequery>@en:obe:kt drewc^(?!ktobs); fulltextregex; sort=title:asc; display={title}; natsort; layout=table; showcount; hidemsg; hidejump;}}
 
 </code>
 
