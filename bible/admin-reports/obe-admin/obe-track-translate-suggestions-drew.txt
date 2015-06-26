@@ -1,4 +1,5 @@
 ====== OBE: Translation Suggestions - Drew ======
 
-^  OBS Pages w/o TS\\ (w/o "drewc", with "ktobs" tag)  ^  Non-OBS Pages w/o TS\\ (w/o "drewc" or "ktobs" tags)  ^  Pages with TS\\ (with "drewc" tag)  ^  Finished Pages  ^
+^  OBS Pages w/o TS  ^  Non-OBS Pages w/o TS  ^  Pages with TS\\ (with "drewc" tag)  ^  Finished Pages  ^
+|  (w/o "drewc", with "ktobs" tag)  |  (w/o "drewc" or "ktobs" tags)  |  |
 |{{pagequery>ns:en:obe:kt -"==== Translation" -"drewc" "ktobs"; fulltext; sort=title:asc; display={title}; natsort; layout=table; showcount; hidemsg; hidejump;}}  |{{pagequery>ns:en:obe:kt -"==== Translation" -"drewc" -"ktobs"; fulltext; sort=title:asc; display={title}; natsort; layout=table; showcount; hidemsg; hidejump;}}  |{{pagequery>ns:en:obe:kt "drewc"; fulltext; sort=title:asc; display={title}; natsort; layout=table; showcount; hidemsg; hidejump;}}  |{{pagequery>ns:en:obe:kt "==== Translation" -"drewc"; fulltext; sort=title:asc; display={title}; natsort; layout=table; showcount; hidemsg; hidejump;}}  |
