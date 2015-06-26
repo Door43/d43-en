@@ -72,6 +72,21 @@ Code to pull in content from a specific section:
 {{section>:en:bible:notes:luk:01:01#important terms:&noheader}}
 </code>
 
+==== New-style full text search: ====
+
+Find all draft tags in Romans NS:
+
+<code>
+{{pagequery>@en:bible:notes:rom \{\{tag>[^}]*draft[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=100%}}
+</code>
+
+item:
+
+<code>
+
+</code>
+
+
 ==== Other: ====
 
 item:
