@@ -29,13 +29,17 @@ To search for all the links tied to the term to be deleted. The Namespace by sta
   * search OBE links in the Important Terms section of Notes Pages.
   * search cross reference links of the term on other OBE pages.
 
-OBE KT's: {{pagequery> "en:obe:kt:XXX"; fulltext; sort=title:asc; display={title}; layout=table; showcount; hidestart; natsort; bullet=square}}
+OBE KT's:
 
-OBE Other: {{pagequery> "en:obe:other:XXX"; fulltext; sort=title:asc; display={title}; layout=table; showcount; hidestart; natsort; bullet=square}}
+{{pagequery> "en:obe:kt:XXX"; fulltext; sort=title:asc; display={title}; layout=table; showcount; hidestart; natsort; bullet=square}}
+
+OBE Other:
+
+{{pagequery> "en:obe:other:XXX"; fulltext; sort=title:asc; display={title}; layout=table; showcount; hidestart; natsort; bullet=square}}
 
 ==== Find the key term page ====
 
-  * OBE KT: [[:en:obe:kt:XXX|XXX]]
-  * OBE Other: [[:en:obe:other:XXX|XXX]]
+  * OBE KT: [[:en:obe:kt:xxx|XXX]]
+  * OBE Other: [[:en:obe:other:xxx|XXX]]
 
 \\
