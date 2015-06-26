@@ -1,5 +1,8 @@
 ===== Adjectival Noun =====
 
+This module answers the question: What are adjectival nouns?\\
+Before you start this module have you learned about: ['figs_intro']
+
 An **adjectival noun** is a noun that acts like an adjective and describes another noun. A **noun** is a person, place or thing. An **adjective** is a word that describes a noun. See the [[:en:ta:translate:parts-of-speech|English Parts of Speech]] page for more complete information. A noun that describes another noun is acting like an adjective and so that is why it is called an "adjectival noun".
 ===== Translation Suggestions =====
 <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px;>When the adjectival noun shows 'ownership or belonging' use the noun and change the adjectival noun into an of noun phrase. For example, Gentile descendants is changed to 'descendants of Gentiles'.</font> Using a possessive form of a noun is another possibility (e.g. Israel's camp) or saying the camp belonging to the Israelites work equally well. Instead of 'church building, one might say 'the building that belongs to the church.'
@@ -10,3 +13,6 @@ In the example, "Bible teacher" the adjectival noun is "Bible" because it descri
 Note that another adjective may also be combined with an adjectival noun to describe a noun. For example: "yellow school bus" or "comfortable desk chair".
 
 
+
+
+Next we recommend you learn about: ['figs_abstractnouns', 'figs_activepassive', 'figs_ambiguity', 'figs_cohesion', 'figs_doublenegatives', 'figs_ellipsis', 'figs_exclusive', 'figs_gendernotations', 'figs_genitivecase', 'figs_grammar', 'figs_inclusive', 'figs_partsofspeech', 'figs_pluralpronouns', 'figs_quotations', 'figs_sentences', 'figs_singularpronouns', 'figs_youformal', 'figs_verbs']

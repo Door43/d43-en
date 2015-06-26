@@ -1,5 +1,8 @@
 ===== Introduction to translation checking =====
 
+This module answers the question: Why do we do translation checking?\\
+Before you start this module have you learned about: intro_check
+
 ===== Translation Checking =====
 
 === Why do we do translation checking? ===
@@ -16,6 +19,8 @@ This checking scale helps to show the extent to which the accuracy and clarity o
 There are three checking levels: [[:en:ta:check:level1|Checking Level One]], [[:en:ta:check:level2|Checking Level Two]], and [[:en:ta:check:level3|Checking Level Three]]. Any translation that has not yet been checked to Level One is considered to have not been checked and is assigned no checking status.
 
 The purpose of having several Checking Levels is to make translated materials quickly available to the church, while also allowing the content to continue to be checked and corroborated in an open environment. At all times, the degree to which its accuracy has been checked will be clearly indicated. We believe this will result in a faster checking process, allow broad church participation and ownership, and produce better translations.
+
+
 
 
 

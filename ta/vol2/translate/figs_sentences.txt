@@ -1,5 +1,8 @@
 ===== Sentences =====
 
+This module answers the question: What are the different types of sentences?\\
+Before you start this module have you learned about: ['figs_intro']
+
 ===== Sentence Types =====
 A **//sentence//** is a group of words that express a complete thought. The basic types of sentences are:
    * **Declarative **- These are usually used to give information. '//This is a fact.//'
@@ -51,3 +54,6 @@ For example, the relative clause in the examples below give added information ab
 //'Although the boy ran very hard, he couldn't catch the **fox**, __which disappeared into the woods__.'//  \\ //'Although the boy ran very hard, he couldn't catch the fox, because it disappeared into the woods.'//
 
 
+
+
+Next we recommend you learn about: ['figs_abstractnouns', 'figs_activepassive', 'figs_adjectivalnoun', 'figs_ambiguity', 'figs_cohesion', 'figs_doublenegatives', 'figs_ellipsis', 'figs_exclusive', 'figs_gendernotations', 'figs_genitivecase', 'figs_grammar', 'figs_inclusive', 'figs_partsofspeech', 'figs_pluralpronouns', 'figs_quotations', 'figs_singularpronouns', 'figs_youformal', 'figs_verbs']

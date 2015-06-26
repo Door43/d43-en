@@ -1,5 +1,8 @@
 ===== Setting Up the translationKeyboard APP on an Android device =====
 
+This module answers the question: How do I set up the translationKeyboard APP on an Android device?\\
+Before you start this module have you learned about: ['tK_install']
+
 Watch the {{:en:ta:tech:setting_up_translationkeyboard-android_v2.mp4|Setting Up the translationKeyboard}}  three minute video or follow these directions: Set up translationKeyboard so you can type in the font of your language. Tap the tK icon to open the program. The Installation Instructions window opens. Use your finger to tap-swipe up to move the information up on the screen.
 Action 1: Add translationKeyboard to the system.
   * Tap on the 'Enable Keyboard' button.
@@ -23,3 +26,6 @@ Action 3: Select the input languages.
   * Use the back arrow on the Android menu to go back to the setup window.
 
 
+
+
+Next we recommend you learn about: [u'\u201ctK_install\u201d', u'\u201ctK_use\u201d', u'\u201ctK_enable\u201d', u'\u201ctK_find\u201d', u'\u201ctK_create\u201d', u'\u201ctK_update\u201d']

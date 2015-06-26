@@ -1,4 +1,8 @@
 ===== translationKeyboard =====
 
+This module answers the question: What is the translationKeyboard App?\\
 The translationKeyboard is a mobile app where users can create custom keyboards for languages not supported by their mobile device. You may download translationKeyboard for Android devices. 
 
+
+
+Next we recommend you learn about: ['tK_install', 'tK_start', 'tK_use', 'tK_enable', 'tK_find', 'tK_create', 'tK_update']

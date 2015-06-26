@@ -1,5 +1,8 @@
 ===== Update translationStudio Projects =====
 
+This module answers the question: How do I update translationStudio projects?\\
+Before you start this module have you learned about: ['tS_install']
+
 To update project information on your device, complete the steps below. If you are looking for a way to update the translationStudio app, this process is now automated each time you open the app.
 **Note: ** This process requires an Internet connection.
 To update translationStudio projects:
@@ -11,3 +14,6 @@ To update translationStudio projects:
 
 Go back to the __[[https://door43.org/en/ta/tech/ts|translationStudio]]__ page//. //
 
+
+
+Next we recommend you learn about: ['tS_create', 'tS_first', 'tS_navigate', 'tS_select', 'tS_request', 'tS_footnote', 'tS_resources', 'tS_share', 'tS_upload', 'tS_publish', 'tS_problem']

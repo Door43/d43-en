@@ -1,5 +1,8 @@
 ===== Navigate in translationStudio =====
 
+This module answers the question: How do I navigate in translationStudio?\\
+Before you start this module have you learned about: ['tS_install']
+
 The first time you use translationStudio, the app will prompt you to set your languages and then return you to the **Edit Screen**. Otherwise you will begin at the **Edit Screen**.
 The video {{:en:ta:tech:translating_in_ts_-_obs_v2.mp4|Translating in translationStudio}}  shows how to navigate in the app.  You can watch the video or complete these steps to find the text you wish to translate:
   - Above the left side of the **Edit Screen**  select from **Projects**, **Chapters**  or **Frames**  to navigate between books, chapters, or specific sections of text.
@@ -10,3 +13,6 @@ The video {{:en:ta:tech:translating_in_ts_-_obs_v2.mp4|Translating in translatio
 
 Go back to the __[[https://door43.org/en/ta/tech/ts|translationStudio]]__ page.
 
+
+
+Next we recommend you learn about: [u'\u201ctS_intro\u201d', u'\u201ctS_first\u201d', u'\u201ctS_select\u201d', u'\u201ctS_select\u201d', u'\u201ctS_request\u201d', u'\u201ctS_create\u201d', u'\u201ctS_footnote\u201d', u'\u201ctS_resources\u201d', u'\u201ctS_share\u201d', u'\u201ctS_upload\u201d', u'\u201ctS_update\u201d', u'\u201ctS_publish\u201d', u'\u201ctS_problem\u201d']

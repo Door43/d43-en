@@ -1,5 +1,8 @@
 ===== Create a Keyboard in tK =====
 
+This module answers the question: How do I create a keyboard in tK?\\
+Before you start this module have you learned about: ['tK_intro']
+
 ==== Getting Started ====
   * Decide on the language you want to make a keyboard for
   * Go to: tk.unfoldingword.org/users/sign_in
@@ -36,3 +39,6 @@ In the beginning, these boxes will be blank until they are filled the selected s
 *Note: Unicode U+00xx usually translates to UTF-8 “xx”. For example: Unicode “U+0d38” is equal to UTF-8 “d38”. ADD: If you can find the correct unicode chart or symbol set for the language, you may be able to copy and paste symbols or codes from a Word document, Excel spreadsheet or Adobe PDF file into the keyboard keys in the "Edit" mode.
 
 
+
+
+Next we recommend you learn about: [u'\u201ctK_install\u201d', u'\u201ctK_start\u201d', u'\u201ctK_use\u201d', u'\u201ctK_enable\u201d', u'\u201ctK_find\u201d', u'\u201ctK_update\u201d']

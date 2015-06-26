@@ -1,5 +1,8 @@
 ===== Resources - Important Terms and Translation Notes =====
 
+This module answers the question: How do I find resources - important terms and translation notes?\\
+Before you start this module have you learned about: ['tS_create']
+
 View this {{:en:ta:tech:translating_in_ts_-_obs_v2.mp4|Resources Video}}  to learn how to:
   * Start work
   * Navigate in the work area
@@ -9,3 +12,6 @@ View this {{:en:ta:tech:translating_in_ts_-_obs_v2.mp4|Resources Video}}  to lea
   * Find translation notes
 Go back to the __[[https://door43.org/en/ta/tech/ts|translationStudio]]__ page.
 
+
+
+Next we recommend you learn about: ['tS_install', 'tS_first', 'tS_navigate', 'tS_select', 'tS_request', 'tS_create', 'tS_footnote', 'tS_share', 'tS_upload', 'tS_update', 'tS_publish', 'tS_problem']

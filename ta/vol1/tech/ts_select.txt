@@ -1,5 +1,8 @@
 ===== Select Source and Target Languages =====
 
+This module answers the question: How do I select source and target languages?\\
+Before you start this module have you learned about: ['tS_install']
+
 You can select and change your source language and target language whenever you use translationStudio.
 **Note:** The first time you use the application, translationStudio opens at the **Project Settings** screen so you can select your languages. To get to this screen any other time, tap **Project Settings** in the green bar at the top of the screen.
 Complete these steps to select or change the target language, which is the language you are translating TO:
@@ -22,3 +25,6 @@ To see a video of this process, {{:en:ta:tech:starting_up_translationstudio-obs_
 
 Go back to the __[[https://door43.org/en/ta/tech/ts|translationStudio]]__ page.
 
+
+
+Next we recommend you learn about: [u'\u201ctS_intro\u201d', u'\u201ctS_first\u201d', u'\u201ctS_navigate\u201d', u'\u201ctS_select\u201d', u'\u201ctS_request\u201d', u'\u201ctS_create\u201d', u'\u201ctS_footnote\u201d', u'\u201ctS_resources\u201d', u'\u201ctS_share\u201d', u'\u201ctS_upload\u201d', u'\u201ctS_update\u201d', u'\u201ctS_publish\u201d', u'\u201ctS_problem\u201d']

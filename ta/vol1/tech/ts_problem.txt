@@ -1,6 +1,12 @@
 ===== Report a Problem =====
 
+This module answers the question: How do I report a problem?\\
+Before you start this module have you learned about: ['tS_intro']
+
 The Door43 community uses Slack to communicate. When you [[:en:slack|join our slack channels]] you can learn about the benefits and challenges of this application and share your ideas with the developers as well as other translators. Slack works well in a Browser or you may download a native client for it as well.
 You may also use this form:
 {{contact>subj=Door43 Contact}}
 
+
+
+Next we recommend you learn about: ['tS_install', 'tS_first', 'tS_navigate', 'tS_select', 'tS_request', 'tS_create', 'tS_footnote', 'tS_resources', 'tS_share', 'tS_upload', 'tS_update', 'tS_publish']

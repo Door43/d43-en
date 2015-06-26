@@ -1,5 +1,8 @@
 ===== Use translationStudio for the First Time =====
 
+This module answers the question: How do I use translationStudio for the first time?\\
+Before you start this module have you learned about: ['tS_install']
+
 Complete these steps to use translationStudio for the first time:
   - To turn on the tablet, press the button on the side.
   - Tap on the translationStudio icon.
@@ -12,3 +15,6 @@ There may be an automatic update before the translationStudio app opens.
 
 Go back to the __[[:en:ta:tech:ts|translationStudio]]__ page.
 
+
+
+Next we recommend you learn about: ['tS_intro', 'tS_navigate', 'tS_select', 'tS_select', 'tS_request', 'tS_create', 'tS_footnote', 'tS_resources', 'tS_share', 'tS_upload', 'tS_update', 'tS_publish', 'tS_problem']

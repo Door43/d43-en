@@ -1,5 +1,8 @@
 ===== Create and Edit Text =====
 
+This module answers the question: How do I create and edit text?\\
+Before you start this module have you learned about: ['tS_install']
+
 This page tells how to create and edit text in translationStudio. The video {{:en:ta:tech:translating_in_ts_-_obs_v2.mp4|Translating in translationStudio}}  shows how to navigate to the scripture you want to translate and begin working. Or see Navigate in translationStudio.
 ==== Create Translation Text ====
 To create a new chapter in your language, navigate to the desired chapter and tap on the **Edit Screen**. The keyboard will open and you can begin working. When you are finished working, you can navigate to a different chapter or exit the app.
@@ -14,3 +17,6 @@ If you accidentally delete a large amount of work, contact your superior.
 
 Go back to the __[[https://door43.org/en/ta/tech/ts|translationStudio]]__ page.
 
+
+
+Next we recommend you learn about: ['tS_intro', 'tS_first', 'tS_navigate', 'tS_select', 'tS_request', 'tS_footnote', 'tS_resources', 'tS_share', 'tS_upload', 'tS_update', 'tS_publish', 'tS_problem']

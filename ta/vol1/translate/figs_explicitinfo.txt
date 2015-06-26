@@ -1,5 +1,8 @@
 ===== Explicit and Implicit Information =====
 
+This module answers the question: How do I make implicit information explicit?\\
+Before you start this module have you learned about: ['figs_explicit']
+
 To make implicit information explicit, translators need to be particularly sensitive when information is not stated explicitly. 
 The translator always wants to make sure the reader understands the original meaning of the message. This may mean the translation may have additional information included to make the meaning clear. 
 Read the Translation Notes for more information on how to make the implicit information explicit. 
@@ -19,3 +22,6 @@ The woman's reply is   **implicit**. If the woman’s reply were explicit, she w
 
 
 
+
+
+Next we recommend you learn about: ['figs_metaphor', 'figs_simile', 'figs_rquestion', 'figs_idiom', 'figs_irony', 'figs_123person', 'figs_order', 'figs_you', 'figs_youdual', 'figs_yousingular', 'figs_explicit', 'figs_hypo', 'figs_events', 'figs_parables']

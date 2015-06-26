@@ -1,5 +1,8 @@
 ===== Use the Translation Notes in translationStudio =====
 
+This module answers the question: How do I use the Translation Notes in translationStudio?\\
+Before you start this module have you learned about: ['translate_help']
+
 ===== Use the Translation Notes in translationStudio =====
 All of the Translation Notes and Important Terms have been included in the translationStudio mobile app.
   * As you are reading the source language, swipe from right to left to pull up the pane that has the Translation Notes and Important Terms for that frame.
@@ -7,3 +10,6 @@ All of the Translation Notes and Important Terms have been included in the trans
   * When you are done with the Translation Notes and Important Terms, swipe from left to right to make the pane go away.
   * Continue with your translation.
 
+
+
+Next we recommend you learn about: ['translate_helpd43']

@@ -1,5 +1,8 @@
 ===== Select an Input Method =====
 
+This module answers the question: How do I select an input method?\\
+Before you start this module have you learned about: ['tK_install']
+
 Complete these steps to select your input language:
   - Tap **Settings**.
   - Tap the **Input Language**  button.
@@ -8,3 +11,6 @@ Complete these steps to select your input language:
   - Use the back arrow on the Android menu to go back to the **Setup**  window.
 
 
+
+
+Next we recommend you learn about: [u'\u201ctK_install\u201d', u'\u201ctK_start\u201d', u'\u201ctK_use\u201d', u'\u201ctK_enable\u201d', u'\u201ctK_create\u201d', u'\u201ctK_update\u201d']

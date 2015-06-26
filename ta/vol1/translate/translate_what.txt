@@ -1,5 +1,8 @@
 ===== What to Start Translating =====
 
+This module answers the question: What do I start translating?\\
+Before you start this module have you learned about: ['translate_manual']
+
 ==== What To Start Translating ====
 We recommend that you begin by translating Open Bible Stories. You can work your way through the Stories however you want, but we have found [[:en:obs:31|Story #31]] is a good first story to translate since it is short and easy to understand.
 
@@ -9,3 +12,6 @@ Note:
 * "Target Language" refers to the language into which the translation is being done.
 When the target language is [[https://door43.org/obs-setup|set up]] on Door43, the source language can be chosen from a list of approved source languages. After it has been set up, the page for the target language will be populated with Open Bible Stories from the source language. The translator can then translate from the source language into the target language and then delete the source language when translation is completed. 
 
+
+
+Next we recommend you learn about: ['translate_help', 'translate_whatis']

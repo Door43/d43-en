@@ -1,5 +1,8 @@
 ===== Re-telling the Meaning =====
 
+This module answers the question: How do I te-tell the Meaning?\\
+Before you start this module have you learned about: ['translate_process']
+
 Compare the meaning in the Target Language translation with the meaning in the Original Language.
 
 ==== Source Language may not be Accurate ====
@@ -12,3 +15,6 @@ The only way to make sure the translation is accurate is to compare the new tran
 
 
 
+
+
+Next we recommend you learn about: ['translate_terms', 'translate_discover', 'translate_literal', 'translate_dynamic']

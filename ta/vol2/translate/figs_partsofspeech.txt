@@ -1,5 +1,8 @@
 ===== English Parts of Speech =====
 
+This module answers the question: What are English parts of speech?\\
+Before you start this module have you learned about: ['figs_intro']
+
 **(not an exhaustive list but covers the basics)**
 The **VERB** is either an action or a state-of-being word such as is, are, was. The portion of the sentence which contains the verb is called the predicate. More detailed information can be found on [[:en:ta:translate:verbs|Verbs]].
 **NOUNS** are words that represent a person, place, thing or idea. Proper Nouns are capitalized and refer to a specific entity (e.g. Peter, Calvary Baptist); common nouns are generic (e.g. disciples, church). Nouns have various roles in a sentence, including: subject, appositive (which renames a subject), nominatives, and objects. Also see: [[:en:ta:translate:abstract-nouns|Abstract Nouns]] or [[:en:ta:translate:adjectivalnoun|Adjectival Nouns]]
@@ -14,3 +17,6 @@ The **VERB** is either an action or a state-of-being word such as is, are, was. 
 
 
 
+
+
+Next we recommend you learn about: ['figs_abstractnouns', 'figs_activepassive', 'figs_adjectivalnoun', 'figs_ambiguity', 'figs_cohesion', 'figs_doublenegatives', 'figs_ellipsis', 'figs_exclusive', 'figs_gendernotations', 'figs_genitivecase', 'figs_grammar', 'figs_inclusive', 'figs_pluralpronouns', 'figs_quotations', 'figs_sentences', 'figs_singularpronouns', 'figs_youformal', 'figs_verbs']

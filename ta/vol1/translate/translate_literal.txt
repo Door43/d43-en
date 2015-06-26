@@ -1,5 +1,8 @@
 ===== Literal Translations =====
 
+This module answers the question: What are literal translations?\\
+Before you start this module have you learned about: ['translate_whatis', 'translate_process', 'translate_terms']
+
 Literal translations focus on the form of the text.\\
 === Other Names ===
 Literal translations are also called:
@@ -20,3 +23,6 @@ Literal translations usually contain the following problems:
 
 
 
+
+
+Next we recommend you learn about: ['translate_fandm', 'translate_problem']

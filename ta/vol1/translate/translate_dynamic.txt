@@ -1,5 +1,8 @@
 ===== Meaning-Based Translations =====
 
+This module answers the question: What are Meaning Based Translations?\\
+Before you start this module have you learned about: ['translate_whatis', 'translate_process', 'translate_literal', 'translate_fandm']
+
 We have looked closely at literal translations. Now, we will look at meaning-based translations.
 Other Names Meaning-based translations are also called: 
   * meaning-equivalent
@@ -33,3 +36,6 @@ Notice that both of these translations have changed the word order. Also, the wo
 
 
 
+
+
+Next we recommend you learn about: ['translate_tform']

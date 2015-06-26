@@ -1,5 +1,8 @@
 ===== Create Clear Translations =====
 
+This module answers the question: How do I create clear translations?\\
+Before you start this module have you learned about: ['guidelines_intro', 'translation_guidelines']
+
 To create a clear translation from the source text into your language you:
   * Check the pronouns in the source text and make it clear to whom or what each pronoun refers.
   * Understand who is doing the action. A clear translation will identify the subject that is doing the action and the object that has the action done to it.
@@ -27,3 +30,6 @@ You will also need to **look at each “of” phrase to identify the meaning of 
 A clear translation looks at each “of” phrase to identify the meaning of the possessive construction.
 Translation is re-telling, as exactly as possible, the meaning of the original message in a way that is clear and natural in the target language.
 
+
+
+Next we recommend you learn about: ['guidelines_accurate', 'guidelines_natural', 'guidelines_faithful', 'guidelines_authoritative ', 'guidelines_pure', 'guidelines_historical ', 'guidelines_equal', 'translate_discover']

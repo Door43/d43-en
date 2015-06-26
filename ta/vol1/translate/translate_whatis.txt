@@ -1,5 +1,8 @@
 ===== What is Translation =====
 
+This module answers the question: What is Translation?\\
+Before you start this module have you learned about: ['translate_manual']
+
 For our purposes, translation is a process performed between different languages that involves a person (the translator) changing a text from one language (the source language) into a different language (the target language).
 
 There are basically two kinds of translations: literal and dynamic. 
@@ -8,3 +11,6 @@ There are basically two kinds of translations: literal and dynamic.
 
 
 
+
+
+Next we recommend you learn about: ['translate_manual', 'translate_process', 'translate_fandm', 'translate_literal', 'translate_dynamic']

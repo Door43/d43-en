@@ -1,5 +1,8 @@
 ===== The Qualities of a Good Translation =====
 
+This module answers the question: What are the qualities of a good translation?\\
+Before you start this module have you learned about: ['translation_guidelines']
+
 ==== Four Main Qualities ====
 There are four main qualities of a good translation. It must be:
   * Clear
@@ -16,3 +19,6 @@ Use language forms that are effective and that reflect the way your language is 
 ==== Equal ====
 Communicate the same intent as the source text. As much as possible, maintain the literary forms in the original text, including narrative, poetry, exhortation, and prophecy, representing them with corresponding forms that communicate in a similar way in your language. 
 
+
+
+Next we recommend you learn about: ['guidelines_clear', 'guidelines_accurate', 'guidelines_natural', 'guidelines_faithful', 'guidelines_autyhoritative ', 'guidelines_pure', 'guidelines_historical ', 'guidelines_equal', 'translate_discover']

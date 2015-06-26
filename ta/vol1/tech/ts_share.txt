@@ -1,5 +1,8 @@
 ===== Share Your Work =====
 
+This module answers the question: How do I share my work?\\
+Before you start this module have you learned about: ['tS_create']
+
 You can share your work on DokuWiki, send it to another device, or put it on an SD card. When your work is on a storage card, you can put it on a computer or device that has the translationStudio app.
 **Note: ** You can only move or share the changes that have been made on the device you are using to perform this function. In these instructions, "your work" means any changes made on this device.
 To share, move, or store your work, complete these steps:
@@ -14,3 +17,6 @@ To share, move, or store your work, complete these steps:
 
 Go back to the __[[https://door43.org/en/ta/tech/ts|translationStudio]]__ page//. //
 
+
+
+Next we recommend you learn about: ['tS_install', 'tS_first', 'tS_navigate', 'tS_select', 'tS_request', 'tS_create', 'tS_footnote', 'tS_resources', 'tS_upload', 'tS_update', 'tS_publish', 'tS_problem']

@@ -1,5 +1,8 @@
 ===== Gender Notations =====
 
+This module answers the question: What are gender notations?\\
+Before you start this module have you learned about: ['figs_intro']
+
 Gender means making a distinction between the masculine, feminine and neutral nouns.  The English language does not make a distinction in noun gender the way some languages do. Instead, any gender markings (such as pronouns) take the natural gender of the object.
 "Whomever" is neither masculine nor feminine. The same is true for 'it'; however, 'it' is not a word English uses for people.
 Sometimes English uses "them/themselves" as a gender neutral marking; however, this changes the number of the noun from singular to plural.
@@ -15,3 +18,6 @@ English has two gender-specific //3rd Person Singular Subject Pronouns// that de
 English has one gender-neutral //3rd Person Singular Pronoun;//  however, it can only refer to non-human things.
   * //3rd Person Singular Non-human Pronoun//: **it**  - refers to a singular thing
 
+
+
+Next we recommend you learn about: ['figs_abstractnouns', 'figs_activepassive', 'figs_adjectivalnoun', 'figs_ambiguity', 'figs_cohesion', 'figs_doublenegatives', 'figs_ellipsis', 'figs_exclusive', 'figs_genitivecase', 'figs_grammar', 'figs_inclusive', 'figs_partsofspeech', 'figs_pluralpronouns', 'figs_quotations', 'figs_sentences', 'figs_singularpronouns', 'figs_youformal', 'figs_verbs']

@@ -1,5 +1,8 @@
 ===== How to Use the translationKeyboard in translationStudio =====
 
+This module answers the question: How do I use the translationKeyboard?\\
+Before you start this module have you learned about: ['tK_install']
+
   * Tap the tS icon to open the program
   * the Edit window opens
   * Tap to type - the keyboard slides up.
@@ -9,3 +12,6 @@
 
 
 
+
+
+Next we recommend you learn about: [u'\u201ctK_install\u201d', u'\u201ctK_start\u201d', u'\u201ctK_enable\u201d', u'\u201ctK_find\u201d', u'\u201ctK_create\u201d', u'\u201ctK_update\u201d']

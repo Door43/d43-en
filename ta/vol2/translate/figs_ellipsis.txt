@@ -1,5 +1,8 @@
 ===== Ellipsis =====
 
+This module answers the question: What is an ellipsis?\\
+Before you start this module have you learned about: ['figs_intro']
+
 Ellipsis is where words are left out of the sentence because it is not needed to be understood. The information that is omitted has usually already been stated in a preceding sentence or phrase. (See also: [[:en:ta:translate:implicitexplicit|Explicit and Implicit Information]])
 ===== Translation Suggestions =====
 It is important to understand what words have been omitted in the source text in order to:
@@ -14,3 +17,6 @@ It is important to understand what words have been omitted in the source text in
   * "//John can play the guitar and Mary can, too"//, the action that Mary does has been omitted because that is a natural way to express this in English. If the implied information is made explicit, the sentence would be, "//John can play the guitar and Mary can **play the guitar**, too". //  Some languages may need to include this implied information in order for the meaning to be clear.
 
 
+
+
+Next we recommend you learn about: ['figs_abstractnouns', 'figs_activepassive', 'figs_adjectivalnoun', 'figs_ambiguity', 'figs_cohesion', 'figs_doublenegatives', 'figs_exclusive', 'figs_gendernotations', 'figs_genitivecase', 'figs_grammar', 'figs_inclusive', 'figs_partsofspeech', 'figs_pluralpronouns', 'figs_quotations', 'figs_sentences', 'figs_singularpronouns', 'figs_youformal', 'figs_verbs']

@@ -1,5 +1,8 @@
 ===== Verbs =====
 
+This module answers the question: What are verbs?\\
+Before you start this module have you learned about: ['figs_intro']
+
 Verbs either link the subject to a descriptive portion of the sentence or express an action or a state-of-being (e.g. am, is, are, was, were, be, being, been). Many languages use more verbs than English does. <font inherit/inherit;;inherit;;inherit>The portion of the sentence which contains the verb is called the predicate.</font>
 Events are usually expressed by **VERBS**.
 The context of the sentence determines the type of verb because some can function in different ways. For example, "The fish tasted oily," uses tasted as a linking verb that describes the subject (the fish). "John tasted the fish" uses tasted as an action verb showing what the subject (John) did.
@@ -60,3 +63,6 @@ Modal verbs include: can, may, must, should, would
   * 'I set my book on the table.' means 'I place my book on the table.' (or, 'I placed my book on the table')
 
 
+
+
+Next we recommend you learn about: ['figs_abstractnouns', 'figs_activepassive', 'figs_adjectivalnoun', 'figs_ambiguity', 'figs_cohesion', 'figs_doublenegatives', 'figs_ellipsis', 'figs_exclusive', 'figs_gendernotations', 'figs_genitivecase', 'figs_grammar', 'figs_inclusive', 'figs_partsofspeech', 'figs_pluralpronouns', 'figs_quotations', 'figs_sentences', 'figs_singularpronouns', 'figs_youformal']

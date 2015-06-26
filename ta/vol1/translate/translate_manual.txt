@@ -1,5 +1,8 @@
 ===== Introduction to Translation Manual =====
 
+This module answers the question: What is the Translation Manual?\\
+Before you start this module have you learned about: ['ta_intro']
+
 This manual teaches translation theory and how to make a good translation.
 
 ==== Translating the Text ====
@@ -13,3 +16,6 @@ As you translate, be sure that you:
   
   
 
+
+
+Next we recommend you learn about: ['translation_guidelines', 'translate_how', 'translate_why', 'translate_whatis']

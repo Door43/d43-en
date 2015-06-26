@@ -1,5 +1,8 @@
 ===== Metonymy =====
 
+This module answers the question: What is a metonymy?\\
+Before you start this module have you learned about: ['figs_intro']
+
 Metonymy is a figure of speech in which a thing or idea is called not by its own name, but by the name of something closely associated with it. A //**metonym**// is a word or phrase used as a substitute for something it is associated with.
 Metonymy can be used:
   * as a shorter way of referring to something
@@ -16,3 +19,6 @@ Metonymy can be used:
 **"The __pen__  is mightier than __the sword__"**  means "Writing one's ideas and reasons is more effective than fighting."
 **"Could you give me __a hand__  with this work?"**  means "Could __you help__  me with this work?"
 
+
+
+Next we recommend you learn about: ['figs_apostrophe', 'figs_doublet', 'figs_euphemism', 'figs_hendiadys', 'figs_hyperbole', 'figs_litotes', 'figs_parallelism', 'figs_personification', 'figs_synecdoche']

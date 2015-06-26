@@ -1,5 +1,8 @@
 ===== Use the Translation Notes on Door43 =====
 
+This module answers the question: How do I use the Translation Notes on Door 43?\\
+Before you start this module have you learned about: ['translate_help']
+
 ===== Use the Translation Notes on Door43 =====
 It is best to open the webpage of the story in the target language and the webpage of the story with [[:en:obs:notes|Translation Notes]]. Unless someone has already translated the Translation Notes into the target language, they will be in the source language.
 This [[http://youtu.be/5fFl8crhglE|video]] (1 minute 20 seconds) will give a quick overview of how to use the Translation Notes.
@@ -8,3 +11,6 @@ This [[http://youtu.be/5fFl8crhglE|video]] (1 minute 20 seconds) will give a qui
   * There is a list of the Important Terms that need to be translated correctly. Click on the green word to go to another page that will give more information on how to translate the very important word.
   * Translation Notes explains how to translate some of the important words in the story. The definition of the word or phrase should help you understand how to translate.
 
+
+
+Next we recommend you learn about: ['translate_what', 'translate_helpts']

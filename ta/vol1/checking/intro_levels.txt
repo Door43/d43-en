@@ -1,5 +1,8 @@
 ===== Introduction to the Checking Levels =====
 
+This module answers the question: How do the checking levels work?\\
+Before you start this module have you learned about: intro_checking
+
 ==== How Checking Levels Work ====
 
 Here are some important tips to remember when working with Checking Levels:
@@ -28,4 +31,6 @@ The process and checking framework described in this document depends on an ongo
 [[:en:ta:check:toc|Translation Checking Manual Full Table of Contents]]
 
 //Continue to [[:en:ta:before:update|How to Update a Previous Version]]//
+
+
 
