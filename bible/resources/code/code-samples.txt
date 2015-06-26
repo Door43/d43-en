@@ -86,6 +86,17 @@ Find pages without certain tags:
 {{pagequery>@en:bible:notes \{\{tag>(?!draft|create|delete|check|review|text|discuss|publish); fulltextregex; sort=title:asc; display={title}; natsort; layout=table; showcount; hidemsg; hidejump;}}
 </code>
 
+Find string "selector-size" without text "details.cfm:
+
+<code>
+^(?!.*details\.cfm).*selector=size.*$
+</code>
+
+item:
+
+<code>
+
+</code>
 
 ==== Other: ====
 
