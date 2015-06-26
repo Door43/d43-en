@@ -80,10 +80,10 @@ Find all draft tags in Romans NS:
 {{pagequery>@en:bible:notes:rom \{\{tag>[^}]*draft[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=100%}}
 </code>
 
-item:
+Find pages without certain tags:
 
 <code>
-
+{{pagequery>@en:bible:notes \{\{tag>(?!draft|publish|create|delete|check|review|text|discuss|publish); fulltextregex; sort=title:asc; display={title}; natsort; layout=table; showcount; hidemsg; hidejump;}}
 </code>
 
 
