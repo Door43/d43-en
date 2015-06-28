@@ -1,3 +1,15 @@
+====== unfoldingWord End to End Publishing ======
+
+=== Goal: Functional text publishing by August 3rd ===
+
+=== Current State ===
+
+We are about 75% complete.
+
+The black lines and circles indicate parts of the process that are deployed and functional.
+
+The red lines and circles indicate parts of the process that are not deployed or that need work to become fully functional.
+
 <graphviz dot right >
 digraph finite_state_machine {
 	rankdir=BT;
