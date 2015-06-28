@@ -29,3 +29,14 @@ digraph finite_state_machine {
 
 }
 </graphviz>
+
+==== Relevant Issues ====
+
+https://github.com/unfoldingWord-dev/uwadmin/milestones/Functional%20OBS%20Publishing
+
+https://github.com/unfoldingWord-dev/dokuwiki-git-merge/issues
+
+PDF generation issues need cataloged, triaged, and fixed.
+
+Unknown: How to automate signing of content on API with uW key.
+
