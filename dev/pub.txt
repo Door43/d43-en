@@ -2,8 +2,8 @@
 digraph finite_state_machine {
 	rankdir=BT;
 	size="11,9"
-	node [shape = doublecircle]; DW_GitMerge;
-	node [shape = circle];
+	node [shape = circle, style=filled, fillcolor="#ffcccc"]; DW_GitMerge uW_Admin PDF;
+	node [shape = circle, style=unfilled];
 	tS -> tS_server [ label = "Git Push" ];
 	tS_server -> DW_GitMerge [ label = "Git Hook" ];
 	DW_GitMerge -> DokuWiki [ label = "Git Merge" ];
