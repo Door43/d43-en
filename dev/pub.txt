@@ -2,16 +2,16 @@
 digraph finite_state_machine {
 	rankdir=BT;
 	size="11,9"
-	node [shape = circle, style=filled, fillcolor="#ffcccc"]; DW_GitMerge uW_Admin PDF;
+	node [shape = circle, style=filled, fillcolor="#fc0204"]; DW_GitMerge uW_Admin;
 	node [shape = circle, style=unfilled];
 	tS -> tS_server [ label = "Git Push" ];
 	tS_server -> DW_GitMerge [ label = "Git Hook" ];
 	DW_GitMerge -> DokuWiki [ label = "Git Merge" ];
-	DokuWiki -> uW_Admin [ label = "Publish Request" ];
-	uW_Admin -> uW_API [ label = "Request Approved" ];
-	uW_API -> PDF [ label = "uW_Admin" ];
-	uW_API -> JSON [ label = "uW_Admin" ];
-	uW_API -> Web_Viewer [ label = "uW_Admin" ];
+	DokuWiki -> uW_Admin [ label = "Publish Request", color="#fc0204" ];
+	uW_Admin -> uW_API [ label = "PDF", color="#fc0204" ];
+	uW_Admin -> uW_API [ label = "JSON" ];
+	uW_Admin -> uW_API [ label = "Web" ];
+	uW_API -> uW_API [ label = "Sig", color="#fc0204" ];
 
 }
 </graphviz>
