@@ -1,0 +1,17 @@
+<graphviz dot right>
+digraph finite_state_machine {
+	rankdir=BT;
+	size="9,5"
+	node [shape = doublecircle]; DW_GitMerge;
+	node [shape = circle];
+	tS -> tS_server [ label = "Git Push" ];
+	tS_server -> DW_GitMerge [ label = "Git Hook" ];
+	DW_GitMerge -> DokuWiki [ label = "Git Merge" ];
+	DokuWiki -> uW_Admin [ label = "Publish Request" ];
+	uW_Admin -> uW_API [ label = "Request Approved" ];
+	uW_API -> PDF [ label = "uW_Admin" ];
+	uW_API -> JSON [ label = "uW_Admin" ];
+	uW_API -> Web_Viewer [ label = "uW_Admin" ];
+
+}
+</graphviz>
