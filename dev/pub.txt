@@ -12,7 +12,7 @@ The black indicates parts of the process that are deployed and functional.
 
 The red indicates parts of the process that are not deployed or that need work to become fully functional.
 
-<graphviz dot right >
+<graphviz dot center >
 digraph finite_state_machine {
 	rankdir=BT;
 	size="11,9"
