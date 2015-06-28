@@ -6,9 +6,9 @@
 
 We are about 75% complete.
 
-The black lines and circles indicate parts of the process that are deployed and functional.
+The black indicates parts of the process that are deployed and functional.
 
-The red lines and circles indicate parts of the process that are not deployed or that need work to become fully functional.
+The red indicates parts of the process that are not deployed or that need work to become fully functional.
 
 <graphviz dot right >
 digraph finite_state_machine {
