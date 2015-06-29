@@ -1,8 +1,9 @@
-====== Translation Questions: Acts Admin ======
+====== Comprehension Questions: Acts Admin ======
 
 ~~NOCACHE~~
 
-This is the status of the Acts Translation Question pages:
+This is the status of the Acts Comprehension Question pages:
 
-^  Draft  ^  Review  ^  Text  ^  Publish  ^
-|{{pagequery>@en:bible:notes:act:questions:comprehension \{\{tag>[^}]*draft&nocomments&simplelist}}[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=100%}} |{{pagequery>@en:bible:notes:act:questions:comprehension \{\{tag>[^}]*text&nocomments&simplelist}}[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=100%}} |
+^  Draft  ^  Review  ^  Publish  ^
+|{{topic>en:bible:notes:act:questions:comprehension?draft&nocomments&simplelist}} |{{topic>en:bible:notes:act:questions:comprehension?review&nocomments&simplelist}} |{{topic>en:bible:notes:act:questions:comprehension?publish&nocomments&simplelist}} |
+
