@@ -1,10 +1,10 @@
-====== Translation Questions: 1 Thessalonians Admin ======
+====== Comprehension Questions: 1 Thessalonians Admin ======
 
 ~~NOCACHE~~
 
-This is the status of the 1 Thessalonians Translation Question pages:
+This is the status of the 1 Thessalonians Comprehension Question pages:
 
 ^  Draft  ^  Review  ^  Text  ^  Publish  ^
-|{{pagequery>@en:bible:notes:1th:questions:comprehension \{\{tag>[^}]*draft&nocomments&simplelist}}[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=100%}} |{{pagequery>@en:bible:notes:1th:questions:comprehension \{\{tag>[^}]*text&nocomments&simplelist}}[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=100%}} |
+|{{topic>en:bible:notes:1th:questions:comprehension?draft&nocomments&simplelist}} |{{topic>en:bible:notes:1th:questions:comprehension?review&nocomments&simplelist}} |{{topic>en:bible:notes:1th:questions:comprehension?text&nocomments&simplelist}} |{{topic>en:bible:notes:1th:questions:comprehension?publish&nocomments&simplelist}} |
 
 \\
