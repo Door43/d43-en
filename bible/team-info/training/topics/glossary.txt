@@ -9,6 +9,7 @@ This is a list of some of the terms and abbreviations that we are using in this 
   * **TFT**  - Translation for Translators
   * **tA**  - translationAcademy
   * **tN** - translationNotes
+  * **tQ** - translationQuestions
   * **tS**  - translationStudio
   * **tW** - translationWords
   * **UDB**  - Unlocked Dynamic Bible
@@ -26,6 +27,8 @@ This is a list of some of the terms and abbreviations that we are using in this 
 
 **gateway language** - Also called "trade" languages. These languages are major languages that are widely-spoken by people of many different people groups or sub-languages. They can serve as "intermediate" languages in which we can provide translation resources to speakers of smaller languages.
 
+**importantWords** - This is the official repository for the "Important Terms" content. It is divided into two sections– Key Terms, and Other terms. "Key terms" have greater theological significance and tend to be more abstract than the "Other terms" and therefore include more guidance about how to translate them accurately.
+
 **literal translation** - This contrasts with a "dynamic" translation. A "literal" translation tries to remain as close as possible to the form and grammar of the original language. A literal translation should still be readable, but avoids using equivalents when possible.
 
 **namespace** - This is the term used, instead of folders, for the organization of the Door43 pages. For example the Door43 page with the URL of [[https://door43.org/en/obs|https://door43.org/en/obs]] is the namespace of //obs //  in the namespace of //en//.
@@ -36,7 +39,7 @@ This is a list of some of the terms and abbreviations that we are using in this 
 
 **unfoldingWord** - This is the name of the app that will display all of the Bible translations that are completed in TranslationStudio.
 
-**importantWords** - This is the official repository for the "Important Terms" content. It is divided into two sections– Key Terms, and Other terms. "Key terms" have greater theological significance and tend to be more abstract than the "Other terms" and therefore include more guidance about how to translate them accurately.
+
 
 {{tag>notes301 kt201}}
 
