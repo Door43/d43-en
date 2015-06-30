@@ -39,3 +39,5 @@ https://github.com/unfoldingWord-dev/dokuwiki-git-merge/issues
 PDF generation issues need cataloged, triaged, and fixed.
 
 Unknown: How/when to trigger signing of content on API with uW key.
+
+See [[en:dev:uwadmin]] for more information on how uW Admin should function.
