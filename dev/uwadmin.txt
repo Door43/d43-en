@@ -1,0 +1,56 @@
+====== Publishing Workflow ======
+
+Notes: 
+  * Red is automated (or will be)
+  * Green is performed by uW staff
+  * Blue is performed by the submitter
+  * Double circle signifies a check
+
+<graphviz dot right>
+
+digraph ta2_dependency_map {
+
+       rankdir=BT;
+       node [style = filled];
+       
+       node [colorscheme = oranges9];
+       node [color=3 shape=doublecircle];
+       node [color=3 shape=ellipse]; 
+       node [color=1];
+       
+       node [colorscheme = blues9]
+       node [color=3 shape=doublecircle]; final_check
+       node [color=3 shape=ellipse]; request_to_publish fix_pre_pub fix_qa fix_prelim
+       node [color=1]; 
+       
+       node [colorscheme = greens9]
+       node [color=4 shape=doublecircle]; qa_check pre_pub_check
+       node [color=4 shape=ellipse]; 
+       node [color=2]; 
+       
+       node [colorscheme = reds9]
+       node [color=4 shape=doublecircle]; prelim_check
+       node [color=4 shape=ellipse];
+       
+       request_to_publish -> prelim_check
+       prelim_check -> fix_prelim [ label = "FAIL" ]
+       prelim_check -> qa_check [ label = "PASS" ] 
+       fix_prelim -> prelim_check [label = "resubmit"]
+       qa_check -> fix_qa [label = "FAIL"]
+       fix_qa -> qa_check [label = "resubmit"]
+       qa_check -> pre_pub_check [label = "PASS"]
+       pre_pub_check -> fix_pre_pub [label = "FAIL"]
+       fix_pre_pub -> pre_pub_check [label = "resubmit"]
+       pre_pub_check -> publishing_engine [label = "PASS"]
+       publishing_engine -> json
+       json -> pdf
+       json -> web
+       pdf -> final_check
+       web -> final_check
+       final_check -> publishing_engine [constraint = false] [label = "FAIL"]; 
+       final_check -> publishing_complete [label = "PASS"]
+       
+}
+</graphviz>
+
+~~NOCACHE~~
