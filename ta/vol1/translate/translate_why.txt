@@ -1,7 +1,7 @@
 ===== Why We Translate the Bible =====
 
 This module answers the question: Why should we translate the Bible?\\
-Before you start this module have you learned about: ['translate_manual']
+Before you start this module have you learned about: [[https://door43.org/en/ta/vol1/translate/translate_manual|Introduction to Translation Manual]]
 
 The Bible is the most influential book in history. It is God's message to mankind. The Church is commanded to make disciples by teaching people from every nation to observe everything that is contained in it.
 //Go therefore and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit, teaching them to observe all that I have commanded you. And behold, I am with you always, to the end of the age.// [ESV]
@@ -10,4 +10,7 @@ The original Bible was written in the Hebrew, Aramaic, and Greek languages. Few 
 
 
 
-Next we recommend you learn about: ['translate_terms', 'translate_whatis']
+Next we recommend you learn about:
+  * [[https://door43.org/en/ta/vol1/translate/translate_terms|Terms to Know]]
+  * [[https://door43.org/en/ta/vol1/translate/translate_whatis|What is Translation]]
+

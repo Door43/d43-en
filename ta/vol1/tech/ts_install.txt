@@ -1,7 +1,7 @@
 ===== Install translationStudio on an Android Device =====
 
 This module answers the question: How do I install translationStudio on an Android device?\\
-Before you start this module have you learned about: ['tS_intro']
+Before you start this module have you learned about: [[https://door43.org/en/ta/vol1/tech/ts_intro|translationStudio]]
 
 Watch the {{:en:ta:tech:installing_translationstudio_-_android_v2.mp4|Install translationStudio}}  video or follow these directions:
 **Note:** This process requires an Internet connection.
@@ -18,4 +18,5 @@ Go back to the [[:en:ta:tech:ts|translationStudio]] page.
 
 
 
-Next we recommend you learn about: [u'\u201ctS_first\u201d', u'\u201ctS_navigate\u201d', u'\u201ctS_select\u201d', u'\u201ctS_select\u201d', u'\u201ctS_request\u201d', u'\u201ctS_create\u201d', u'\u201ctS_footnote\u201d', u'\u201ctS_resources\u201d', u'\u201ctS_share\u201d', u'\u201ctS_upload\u201d', u'\u201ctS_update\u201d', u'\u201ctS_publish\u201d', u'\u201ctS_problem\u201d']
+Next we recommend you learn about:
+

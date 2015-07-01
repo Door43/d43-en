@@ -1,7 +1,9 @@
 ===== Introduction to Translation Checking =====
 
 This module answers the question: Why should I check someone else's translation?\\
-Before you start this module have you learned about: ['church_leader_check', 'level3']
+Before you start this module have you learned about:
+  * [[https://door43.org/en/ta/vol1/checking/church_leader_check|Church Leader Check]]
+  * [[https://door43.org/en/ta/vol1/checking/level3|Level 3 Check]]
 
 Translation Checking Process Outline
 
@@ -31,4 +33,5 @@ that the church leaders can use to guide them in checking the translation for bo
 
 
 
-Next we recommend you learn about: vol2_steps
+Next we recommend you learn about: [[https://door43.org/en/ta/vol2/checking/vol2_steps|Steps in Checking a Translation]]
+

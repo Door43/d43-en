@@ -1,7 +1,11 @@
 ===== Meaning-Based Translations =====
 
 This module answers the question: What are Meaning Based Translations?\\
-Before you start this module have you learned about: ['translate_whatis', 'translate_process', 'translate_literal', 'translate_fandm']
+Before you start this module have you learned about:
+  * [[https://door43.org/en/ta/vol1/translate/translate_whatis|What is Translation]]
+  * [[https://door43.org/en/ta/vol1/translate/translate_process|The Translation Process]]
+  * [[https://door43.org/en/ta/vol1/translate/translate_literal|Literal Translations]]
+  * [[https://door43.org/en/ta/vol1/translate/translate_fandm|Form and Meaning]]
 
 We have looked closely at literal translations. Now, we will look at meaning-based translations.
 Other Names Meaning-based translations are also called: 
@@ -38,4 +42,5 @@ Notice that both of these translations have changed the word order. Also, the wo
 
 
 
-Next we recommend you learn about: ['translate_tform']
+Next we recommend you learn about: [[https://door43.org/en/ta/vol1/translate/translate_tform|Translate for Meaning]]
+

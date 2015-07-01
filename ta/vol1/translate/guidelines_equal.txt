@@ -1,7 +1,9 @@
 ===== Equal Translations =====
 
 This module answers the question: What is an equal translations?\\
-Before you start this module have you learned about: ['guidelines_intro', 'translation_guidelines']
+Before you start this module have you learned about:
+  * [[https://door43.org/en/ta/vol1/translate/guidelines_intro|The Qualities of a Good Translation]]
+  * [[https://door43.org/en/ta/vol1/intro/translation_guidelines|Translation Guidelines]]
 
 When translating the Bible:
 Ensure that any EXPRESSIVE meaning comes across similarly in the target language.
@@ -46,4 +48,15 @@ Communicate the feelings and attitudes of the original text.  Translate them int
 
 
 
-Next we recommend you learn about: ['guidelines_accurate', 'guidelines_clear', 'guidelines_faithful', 'guidelines_authoritative ', 'guidelines_pure', 'guidelines_historical ', 'guidelines_natural', 'translate_discover', 'figs_intro', 'figs_rquestion']
+Next we recommend you learn about:
+  * [[https://door43.org/en/ta/vol1/translate/guidelines_accurate|Create Accurate Translations]]
+  * [[https://door43.org/en/ta/vol1/translate/guidelines_clear|Create Clear Translations]]
+  * [[https://door43.org/en/ta/vol2/translate/guidelines_faithful|Create Faithful Translations]]
+  * [[https://door43.org/en/ta/vol2/translate/guidelines_authoritative|Create AuthoritativeTranslations]]
+  * [[https://door43.org/en/ta/vol2/translate/guidelines_pure|Create Pure Translations]]
+  * [[https://door43.org/en/ta/vol2/translate/guidelines_historical|Create Historical Translations]]
+  * [[https://door43.org/en/ta/vol1/translate/guidelines_natural|Create Natural Translations]]
+  * [[https://door43.org/en/ta/vol1/translate/translate_discover|Discover the Meaning of the Text]]
+  * [[https://door43.org/en/ta/vol1/translate/figs_intro|Figures of Speech]]
+  * [[https://door43.org/en/ta/vol1/translate/figs_rquestion|Rhetorical Question]]
+

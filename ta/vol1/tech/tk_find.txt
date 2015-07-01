@@ -1,7 +1,7 @@
 ===== Select an Input Method =====
 
 This module answers the question: How do I select an input method?\\
-Before you start this module have you learned about: ['tK_install']
+Before you start this module have you learned about: [[https://door43.org/en/ta/vol1/tech/tk_install|Install translationKeyboard on an Android Device]]
 
 Complete these steps to select your input language:
   - Tap **Settings**.
@@ -13,4 +13,5 @@ Complete these steps to select your input language:
 
 
 
-Next we recommend you learn about: [u'\u201ctK_install\u201d', u'\u201ctK_start\u201d', u'\u201ctK_use\u201d', u'\u201ctK_enable\u201d', u'\u201ctK_create\u201d', u'\u201ctK_update\u201d']
+Next we recommend you learn about:
+

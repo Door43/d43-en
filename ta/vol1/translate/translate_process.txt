@@ -1,7 +1,7 @@
 ===== The Translation Process =====
 
 This module answers the question: What are two things I do to translate?\\
-Before you start this module have you learned about: ['translate_manual']
+Before you start this module have you learned about: [[https://door43.org/en/ta/vol1/translate/translate_manual|Introduction to Translation Manual]]
 
 There are two things to do in translation:
   - Discover the meaning in the source language text (See: [[en:ta:translate:discover]])
@@ -11,4 +11,7 @@ Instructions for translation sometimes divide these two things into smaller step
 
 
 
-Next we recommend you learn about: ['translate_discover', 'translate_retell', 'translate_tems']
+Next we recommend you learn about:
+  * [[https://door43.org/en/ta/vol1/translate/translate_discover|Discover the Meaning of the Text]]
+  * [[https://door43.org/en/ta/vol1/translate/translate_retell|Re-telling the Meaning]]
+

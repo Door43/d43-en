@@ -1,7 +1,7 @@
 ===== Help with Translating =====
 
 This module answers the question: Where do I find help for translating?\\
-Before you start this module have you learned about: ['translate_what']
+Before you start this module have you learned about: [[https://door43.org/en/ta/vol1/translate/translate_what|What to Start Translating]]
 
 To help translators make the best translation possible, [[:en:obs:notes|Translation Notes]] and [[:en:obe:kt:home|Open Bible Encyclopedia]] have been created.
 Translation Notes are cultural, linguistic, and exegetical notes that help to describe and explain the context in which the stories from Open Bible Stories was written as well as inform the translator of translation options available to them.
@@ -11,4 +11,7 @@ Once you have consulted the Translation Notes and Important Terms, then you are 
 
 
 
-Next we recommend you learn about: ['translate_helpd43', 'translate_helpts']
+Next we recommend you learn about:
+  * [[https://door43.org/en/ta/vol1/translate/translate_helpd43|Use the Translation Notes on Door43]]
+  * [[https://door43.org/en/ta/vol1/translate/translate_helpts|Use the Translation Notes in translationStudio]]
+

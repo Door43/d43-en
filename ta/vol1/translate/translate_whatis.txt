@@ -1,7 +1,7 @@
 ===== What is Translation =====
 
 This module answers the question: What is Translation?\\
-Before you start this module have you learned about: ['translate_manual']
+Before you start this module have you learned about: [[https://door43.org/en/ta/vol1/translate/translate_manual|Introduction to Translation Manual]]
 
 For our purposes, translation is a process performed between different languages that involves a person (the translator) changing a text from one language (the source language) into a different language (the target language).
 
@@ -13,4 +13,10 @@ There are basically two kinds of translations: literal and dynamic.
 
 
 
-Next we recommend you learn about: ['translate_manual', 'translate_process', 'translate_fandm', 'translate_literal', 'translate_dynamic']
+Next we recommend you learn about:
+  * [[https://door43.org/en/ta/vol1/translate/translate_manual|Introduction to Translation Manual]]
+  * [[https://door43.org/en/ta/vol1/translate/translate_process|The Translation Process]]
+  * [[https://door43.org/en/ta/vol1/translate/translate_fandm|Form and Meaning]]
+  * [[https://door43.org/en/ta/vol1/translate/translate_literal|Literal Translations]]
+  * [[https://door43.org/en/ta/vol1/translate/translate_dynamic|Meaning-Based Translations]]
+

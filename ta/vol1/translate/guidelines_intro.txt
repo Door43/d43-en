@@ -1,7 +1,7 @@
 ===== The Qualities of a Good Translation =====
 
 This module answers the question: What are the qualities of a good translation?\\
-Before you start this module have you learned about: ['translation_guidelines']
+Before you start this module have you learned about: [[https://door43.org/en/ta/vol1/intro/translation_guidelines|Translation Guidelines]]
 
 ==== Four Main Qualities ====
 There are four main qualities of a good translation. It must be:
@@ -21,4 +21,13 @@ Communicate the same intent as the source text. As much as possible, maintain th
 
 
 
-Next we recommend you learn about: ['guidelines_clear', 'guidelines_accurate', 'guidelines_natural', 'guidelines_faithful', 'guidelines_autyhoritative ', 'guidelines_pure', 'guidelines_historical ', 'guidelines_equal', 'translate_discover']
+Next we recommend you learn about:
+  * [[https://door43.org/en/ta/vol1/translate/guidelines_clear|Create Clear Translations]]
+  * [[https://door43.org/en/ta/vol1/translate/guidelines_accurate|Create Accurate Translations]]
+  * [[https://door43.org/en/ta/vol1/translate/guidelines_natural|Create Natural Translations]]
+  * [[https://door43.org/en/ta/vol2/translate/guidelines_faithful|Create Faithful Translations]]
+  * [[https://door43.org/en/ta/vol2/translate/guidelines_pure|Create Pure Translations]]
+  * [[https://door43.org/en/ta/vol2/translate/guidelines_historical|Create Historical Translations]]
+  * [[https://door43.org/en/ta/vol1/translate/guidelines_equal|Equal Translations]]
+  * [[https://door43.org/en/ta/vol1/translate/translate_discover|Discover the Meaning of the Text]]
+

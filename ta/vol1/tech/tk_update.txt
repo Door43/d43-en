@@ -1,7 +1,7 @@
 ===== Update translationKeyboard =====
 
 This module answers the question: How do I update translationKeyboard?\\
-Before you start this module have you learned about: ['tK_intro']
+Before you start this module have you learned about: [[https://door43.org/en/ta/vol1/tech/tk_intro|translationKeyboard]]
 
 Sometimes you may need to update the keyboard.
   * Open the translationKeyboard application by tapping on the tK icon found on the Android screen.
@@ -11,4 +11,5 @@ Sometimes you may need to update the keyboard.
 
 
 
-Next we recommend you learn about: [u'\u201ctK_install\u201d', u'\u201ctK_start\u201d', u'\u201ctK_enable\u201d', u'\u201ctK_find\u201d', u'\u201ctK_create\u201d', u'\u201ctK_use\u201d']
+Next we recommend you learn about:
+

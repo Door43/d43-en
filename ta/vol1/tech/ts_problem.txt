@@ -1,7 +1,7 @@
 ===== Report a Problem =====
 
 This module answers the question: How do I report a problem?\\
-Before you start this module have you learned about: ['tS_intro']
+Before you start this module have you learned about: [[https://door43.org/en/ta/vol1/tech/ts_intro|translationStudio]]
 
 The Door43 community uses Slack to communicate. When you [[:en:slack|join our slack channels]] you can learn about the benefits and challenges of this application and share your ideas with the developers as well as other translators. Slack works well in a Browser or you may download a native client for it as well.
 You may also use this form:
@@ -9,4 +9,16 @@ You may also use this form:
 
 
 
-Next we recommend you learn about: ['tS_install', 'tS_first', 'tS_navigate', 'tS_select', 'tS_request', 'tS_create', 'tS_footnote', 'tS_resources', 'tS_share', 'tS_upload', 'tS_update', 'tS_publish']
+Next we recommend you learn about:
+  * [[https://door43.org/en/ta/vol1/tech/ts_install|Install translationStudio on an Android Device]]
+  * [[https://door43.org/en/ta/vol1/tech/ts_first|Use translationStudio for the First Time]]
+  * [[https://door43.org/en/ta/vol1/tech/ts_navigate|Navigate in translationStudio]]
+  * [[https://door43.org/en/ta/vol1/tech/ts_select|Select Source and Target Languages]]
+  * [[https://door43.org/en/ta/vol1/tech/ts_request|Request a New Language]]
+  * [[https://door43.org/en/ta/vol1/tech/ts_create|Create and Edit Text]]
+  * [[https://door43.org/en/ta/vol1/tech/ts_footnote|Add a Footnote]]
+  * [[https://door43.org/en/ta/vol1/tech/ts_share|Share Your Work]]
+  * [[https://door43.org/en/ta/vol1/tech/ts_upload|Upload Your Work]]
+  * [[https://door43.org/en/ta/vol1/tech/ts_update|Update translationStudio Projects]]
+  * [[https://door43.org/en/ta/vol1/tech/ts_publish|Publish Content to unfoldingWord]]
+

@@ -208,11 +208,11 @@ edge [arrowsize=1.4];
 "intro_levels" [fillcolor="#9999ff"]
 "intro_checking" -> "intro_levels"
 "level1" [fillcolor="#9999ff"]
-"intro_checking" -> "level1"
+"intro_levels" -> "level1"
 "level3" [fillcolor="#9999ff"]
-"intro_checking" -> "level3"
+"intro_levels" -> "level3"
 "level2" [fillcolor="#9999ff"]
-"intro_checking" -> "level2"
+"intro_levels" -> "level2"
 "vol2_intro" [fillcolor="#9999ff"]
 "church_leader_check" -> "vol2_intro"
 "level3" -> "vol2_intro"

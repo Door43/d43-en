@@ -1,7 +1,7 @@
 ===== Install unfoldingWord on an Android Device =====
 
 This module answers the question: How do I install unfoldingWord on an Android device?\\
-Before you start this module have you learned about: ['uW_intro']
+Before you start this module have you learned about: [[https://door43.org/en/ta/vol1/intro/uw_intro|The unfoldingWord Project]]
 
 The instructions for installing unfoldingWord are below. You can also watch the __[[https://door43.org/_media/en/ta/tech/installing_translationstudio_-_android_v2.mp4|Install translationStudio]]__ video to understand the process of selecting and installing an app on your device.
 **Note:** Installing requires an Internet connection.
@@ -17,4 +17,10 @@ The instructions for installing unfoldingWord are below. You can also watch the 
 
 
 
-Next we recommend you learn about: ['uW_first', 'uW_checking', 'uW_language', 'uW_select', 'uW_audio']
+Next we recommend you learn about:
+  * [[https://door43.org/en/ta/vol1/tech/uw_first|Use unfoldingWord for the First Time]]
+  * [[https://door43.org/en/ta/vol1/tech/uw_checking|About Checking Levels]]
+  * [[https://door43.org/en/ta/vol1/tech/uw_language|Language Information]]
+  * [[https://door43.org/en/ta/vol1/tech/uw_select|Select a Language]]
+  * [[https://door43.org/en/ta/vol1/tech/uw_audio|Use the Audio Feature in unfoldingWord]]
+

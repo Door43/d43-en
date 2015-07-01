@@ -1,7 +1,7 @@
 ===== Create a Keyboard in tK =====
 
 This module answers the question: How do I create a keyboard in tK?\\
-Before you start this module have you learned about: ['tK_intro']
+Before you start this module have you learned about: [[https://door43.org/en/ta/vol1/tech/tk_intro|translationKeyboard]]
 
 ==== Getting Started ====
   * Decide on the language you want to make a keyboard for
@@ -41,4 +41,5 @@ In the beginning, these boxes will be blank until they are filled the selected s
 
 
 
-Next we recommend you learn about: [u'\u201ctK_install\u201d', u'\u201ctK_start\u201d', u'\u201ctK_use\u201d', u'\u201ctK_enable\u201d', u'\u201ctK_find\u201d', u'\u201ctK_update\u201d']
+Next we recommend you learn about:
+

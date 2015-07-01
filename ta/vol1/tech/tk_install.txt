@@ -1,7 +1,7 @@
 ===== Install translationKeyboard on an Android Device =====
 
 This module answers the question: How do I install translationKeyboard on an Android device?\\
-Before you start this module have you learned about: ['tK_intro']
+Before you start this module have you learned about: [[https://door43.org/en/ta/vol1/tech/tk_intro|translationKeyboard]]
 
 Watch the {{:en:ta:tech:installing_translationkeyboard-android_v2.mp4|Installing translationKeyboard}}  One video or follow these directions:
 **Note: ** Installing requires an Internet connection.
@@ -18,4 +18,5 @@ Watch the {{:en:ta:tech:installing_translationkeyboard-android_v2.mp4|Installing
 
 
 
-Next we recommend you learn about: [u'\u201ctK_start\u201d', u'\u201ctK_use\u201d', u'\u201ctK_enable\u201d', u'\u201ctK_find\u201d', u'\u201ctK_create\u201d', u'\u201ctK_update\u201d']
+Next we recommend you learn about:
+
