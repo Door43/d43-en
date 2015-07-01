@@ -6,6 +6,6 @@ If there are more words that need changed, [[:en:ulb:subs|Add more word substitu
 
 If there are phrases that need changed, [[:en:ulb:phrase_subs|Add more phrase substitutions here]].
 
-BETA files https://github.com/unfoldingWord/ulb-en or [[https://github.com/unfoldingWord/ulb-en/archive/master.zip|ulb-en-latest.zip]]
+BETA files [[https://github.com/unfoldingWord/ulb-en|https://github.com/unfoldingWord/ulb-en]] or [[https://github.com/unfoldingWord/ulb-en/archive/master.zip|ulb-en-latest.zip]]
 
 [[:en:ulb:ep:home|Etherpad exports]] (updated nightly).
