@@ -2,16 +2,19 @@
 
 Team Lead (//draft to check//) - Mark A\\
 Manager (//check to review//) - Catherine N\\
-Reviewer - Ed Q\\
+Reviewer - Ed Q
 
 ~~NOCACHE~~
+
 ==== Links: ====
+
   * [[:en:ulb:ep:44-act.usfm|Full ULB text of Acts]]
   * [[:en:udb:ep:44-act.usfm|Full UDB text of Acts]]
   * [[:en:bible:team-info:training:notes-training|Notes Training]]
 
-
 ==== Acts Pages Status ====
 
-^  Draft  ^  Check  ^  Review  ^
-|{{pagequery>@en:bible:notes:act \{\{tag>[^}]*draft[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=100%}}  |{{pagequery>@en:bible:notes:act \{\{tag>[^}]*check[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=100%}}  |{{pagequery>@en:bible:notes:act \{\{tag>[^}]*review[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=100%}}  |
+^  Draft  ^  Check  ^  Review  |
+|{{pagequery>@en:bible:notes:act \{\{tag>[^}]*draft[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=100%}} |{{pagequery>@en:bible:notes:act \{\{tag>[^}]*check[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=100%}} |{{pagequery>@en:bible:notes:act \{\{tag>[^}]*review[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=100%}} |
+
+\\
