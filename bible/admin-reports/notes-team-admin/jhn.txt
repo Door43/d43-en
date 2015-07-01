@@ -1,4 +1,4 @@
-====== Notes: Ephesians Team Admin ======
+====== Notes: John Team Admin ======
 
 Team Lead (//draft to check//) -\\
 Manager (//check to review//) -\\
@@ -13,7 +13,7 @@ Reviewer - (//review to publish//) -
   * [[:en:bible:team-info:training:notes-training|Notes Training]]
 
 
-==== Ephesians Page Status ====
+==== John Page Status ====
 
 ^  Draft  ^  Check  ^  Review  ^
 |{{pagequery>@en:bible:notes:jhn \{\{tag>[^}]*draft[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=100%}} |{{pagequery>@en:bible:notes:jhn \{\{tag>[^}]*check[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=100%}} |{{pagequery>@en:bible:notes:jhn \{\{tag>[^}]*review[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=100%}} |
