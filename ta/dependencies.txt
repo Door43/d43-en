@@ -38,8 +38,8 @@ edge [arrowsize=1.4];
 "figs_intro" -> "figs_hypo"
 "translate_helpd43" [fillcolor="#99ff99"]
 "translate_help" -> "translate_helpd43"
-"figs_ellipsis" [fillcolor="#99ff99"]
-"figs_intro" -> "figs_ellipsis"
+"translate_manuscripts" [fillcolor="#99ff99"]
+"translate_retell" -> "translate_manuscripts"
 "translate_wforw" [fillcolor="#99ff99"]
 "translate_literal" -> "translate_wforw"
 "figs_inclusive" [fillcolor="#99ff99"]
@@ -154,6 +154,8 @@ edge [arrowsize=1.4];
 "translate_form" [fillcolor="#99ff99"]
 "translate_fandm" -> "translate_form"
 "translate_process" -> "translate_form"
+"figs_ellipsis" [fillcolor="#99ff99"]
+"figs_intro" -> "figs_ellipsis"
 "translate_terms" [fillcolor="#99ff99"]
 "translate_manual" -> "translate_terms"
 "figs_quotations" [fillcolor="#99ff99"]
