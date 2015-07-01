@@ -3,7 +3,6 @@
 ===== TFT: =====
 
 <usfm>
-\q1
 \v 4 Terrible things will happen to that sinful nation,
 \q2 to those people who are guilty of much sin.
 \q1 They are a group of very evil people,
@@ -18,7 +17,6 @@
 ===== UDB: =====
 
 <usfm>
-\q1
 \v 4 A sinful nation, a people weighted down by their sin,
 \q2 children of people who do evil things, 
 \q1 sons that are unjust.
@@ -27,6 +25,8 @@
 \q2 the holy one of Israel.
 \q2 They have turned away from him.
 \b
+
+
 \q1
 </usfm>
 
