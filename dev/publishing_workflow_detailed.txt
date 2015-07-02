@@ -1,0 +1,131 @@
+====== Publishing Workflow ======
+
+Notes: 
+  * Colors
+    * Red/Orange is computer/automated (or will be)
+    * Green is performed by uW staff
+    * Blue is performed by the submitter 
+  * Shapes
+    * Double circle signifies a check
+    * Rectangle signifies a form
+    * Arrows are actions
+  * Numbers
+    * Most numbers have no significance (e.g. server1, server2, server3 all refer to the same server) but have been used to simplify the chart
+
+<graphviz dot right>
+
+digraph ta2_dependency_map {
+
+       rankdir=BT;
+       node [style = filled];
+       
+       node [colorscheme = oranges9];
+       node [color=3 shape=doublecircle];
+       node [color=3 shape=ellipse]; 
+       node [color=1];
+       
+       node [colorscheme = blues9]
+       node [color=3 shape=doublecircle]; final_check
+       node [color=3 shape=ellipse]; submitter0 submitter1 submitter2 submitter3 submitter4
+       node [color=3 shape=rectangle]; request_to_publish resubmit_form resubmit_form2 resubmit_form3  resubmit_form4 final_check_form
+       node [color=1]; 
+       
+       node [colorscheme = greens9]
+       node [color=4 shape=doublecircle]; qa_check pre_pub_check 
+       node [color=4 shape=ellipse]; chief_quality_officer chief_content_officer chief_technology_officer
+       node [color=4 shape=rectangle]; qa_check_form pre_pub_check_form
+       node [color=2]; 
+       
+       node [colorscheme = reds9]
+       node [color=4 shape=doublecircle]; prelim_check
+       node [color=4 shape=ellipse];
+       
+       subgraph cluster_0 {
+		prelim_check server1 submitter1 dashboard1 resubmit_form door43
+		label = "check #1: prelim check";
+	}
+
+       subgraph cluster_1 {
+		qa_check server2 submitter2 dashboard2 resubmit_form2 door43_2 chief_quality_officer qa_check_form
+		label = "check #2: quality assurance check";
+	}
+
+       subgraph cluster_2 {
+		pre_pub_check server3 submitter3 dashboard3 resubmit_form3 door43_3 chief_content_officer pre_pub_check_form
+		label = "check #3: pre-publishing check";
+	}
+
+       subgraph cluster_3 {
+		publishing_engine pdf web json
+		label = "publishing engine";
+	}
+
+       subgraph cluster_4 {
+		final_check server4 submitter4 dashboard4 resubmit_form4 final_check_form chief_technology_officer
+		label = "check #4: final check";
+	}
+              
+       submitter0 -> request_to_publish [label = "completes", color=blue]
+       request_to_publish -> prelim_check
+       prelim_check -> qa_check
+       qa_check -> pre_pub_check 
+       pre_pub_check -> publishing_engine
+       publishing_engine -> final_check
+       publishing_engine -> json
+       json -> pdf
+       json -> web
+       final_check -> publishing_complete
+       
+       request_to_publish -> server1 [label = "uploaded to", color=orange3]
+       server1 -> dashboard1 [label = "always updates", color=orange3]
+       server1 -> prelim_check [label = "conducts", color=orange3]
+       prelim_check -> server1 [label = "results to", color=orange3]
+       server1 -> submitter1 [label = "if FAIL email", color=orange3]
+       submitter1 -> door43 [label = "fixes", color=blue]
+       submitter1 -> resubmit_form [label = "completes", color=blue]
+       resubmit_form -> server1 [label = "uploaded to", color=orange3]
+       server1 -> chief_quality_officer [label = "if PASS email", color=orange3]
+       
+       chief_quality_officer -> qa_check [label = "conducts", color=green4]
+       qa_check -> chief_quality_officer [label = "results to", color=green4]
+       chief_quality_officer -> qa_check_form [label = "fills out", color=green4]
+       qa_check_form -> server2 [label = "uploaded to", color=orange3]
+       server2 -> dashboard2 [label = "always updates", color=orange3]
+       server2 -> submitter2 [label = "if FAIL emails", color=orange3]
+       submitter2 -> door43_2 [label = "fixes", color=blue]
+       submitter2 -> resubmit_form2 [label = "completes", color=blue]
+       resubmit_form2 -> server2 [label = "uploaded to", color=orange3]
+       resubmit_form2 -> chief_quality_officer [label = "emailed to", color=orange3]
+       server2 -> chief_content_officer [label = "if PASS emails", color=orange3] 
+       
+       chief_content_officer -> pre_pub_check [label = "conducts", color=green4]
+       pre_pub_check -> chief_content_officer [label = "results to", color=green4]
+       chief_content_officer -> pre_pub_check_form [label = "fills out", color=green4]
+       pre_pub_check_form -> server3 [label = "uploaded to", color=orange3]
+       server3 -> dashboard3 [label = "always updates", color=orange3]
+       server3 -> submitter3 [label = "if FAIL emails", color=orange3]
+       submitter3 -> door43_3 [label = "fixes", color=blue]
+       submitter3 -> resubmit_form3 [label = "completes", color=blue]
+       resubmit_form3 -> server3 [label = "uploaded to", color=orange3]
+       resubmit_form3 -> chief_content_officer [label = "emailed to", color=orange3]
+       server3 -> publishing_engine [label = "if PASS cues", color=orange3]
+       
+       publishing_engine -> server4 [label = "when complete notifies", color=orange3]
+       server4 -> submitter4 [label = "emails", color=orange3]
+       server4 -> dashboard4 [label = "always updates", color=orange3]
+       final_check -> pdf [label = "reviews", color=blue]
+       final_check -> web [label = "reviews", color=blue]
+       submitter4 -> final_check [label = "conducts", color=blue]
+       final_check -> submitter4 [label = "results to", color=blue] [constraint = false] 
+       resubmit_form4 -> server4 [label = "uploaded to", color=orange3]
+       resubmit_form4 -> chief_technology_officer [label = "emailed to", color=orange3]
+       submitter4 -> final_check_form [label = "fills out", color=blue]
+       final_check_form -> publishing_complete [label = "if PASS then", color=black] [constraint = false]
+       final_check_form -> resubmit_form4 [label = "if FAIL complete", color=blue]
+       chief_technology_officer -> publishing_engine [label = "fixes & cues", color=green4]
+       
+       
+}
+</graphviz>
+
+~~NOCACHE~~
