@@ -1,5 +1,7 @@
 ====== unfoldingWord Admin Publishing Workflow ======
 
+Detailed flow at [[en:dev:publishing_workflow_detailed]].
+
 Notes: 
   * Red is automated (or will be)
   * Green is performed by uW staff
