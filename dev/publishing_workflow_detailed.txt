@@ -1,5 +1,7 @@
 ====== Publishing Workflow - Detailed ======
 
+Big picture at [[en:dev:uwadmin]].
+
 Notes: 
   * Colors
     * Red/Orange is computer/automated (or will be)
