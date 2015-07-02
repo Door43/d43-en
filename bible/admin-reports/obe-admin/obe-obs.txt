@@ -4,6 +4,6 @@
 
 ==== Pages tagged "ktobs" ====
 
-The pages below in the OBE namespace are tagged as "ktobs" in order to be sorted as needed.
+The pages below in the OBE namespace are tagged as "ktobs" to indicate that they are used in the OBS.
 
 {{pagequery>ns:en:obe "ktobs"; fulltext; sort=a:asc,title:asc; group; display={title}; natsort; showcount; hidemsg; hidejump; cols=2;}}
