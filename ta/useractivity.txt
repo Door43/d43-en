@@ -1,12 +1,12 @@
 ====== user activity ======
 Catherine
-{{changes>user=cnewton-t&count=50&render=pagelist(header,date,user,nocomments)&maxage=25920000}}{{changes>user=cnewton-turnip&count=50&render=pagelist(header,date,user,nocomments)&maxage=25920000}}
+{{changes>user=cnewton&count=15&render=pagelist(header,date,user,nocomments)&maxage=864000}}
 
 Vivian
-{{changes>user=vasrich-t&count=50&render=pagelist(header,date,user,nocomments)&maxage=25920000}}{{changes>user=vasrich-turnip&count=50&render=pagelist(header,date,user,nocomments)&maxage=25920000}}
+{{changes>user=vasrich&count=50&render=pagelist(header,date,user,nocomments)&maxage=25920000}}{{changes>user=vasrich&count=50&render=pagelist(header,date,user,nocomments)&maxage=25920000}}
 
 Paul
-{{changes>user=pwholloway-t&count=50&render=pagelist(header,date,user,nocomments)&maxage=25920000}}{{changes>user=pwholloway-turnip&count=50&render=pagelist(header,date,user,nocomments)&maxage=25920000}}
+{{changes>user=pwholloway&count=50&render=pagelist(header,date,user,nocomments)&maxage=25920000}}{{changes>user=pwholloway&count=50&render=pagelist(header,date,user,nocomments)&maxage=25920000}}
 
 
 {{pagequery>ns:en:ta "{{tag>" -"epady"; fulltext; sort=title:asc; display={title}; natsort; layout=table; showcount; hidemsg; hidejump;}}
