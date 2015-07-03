@@ -1,4 +1,7 @@
 ====== user activity ======
+Catherine
+{{changes>user=cnewton-t&count=50&render=pagelist(header,date,user,nocomments)&maxage=25920000}}{{changes>user=cnewton-turnip&count=50&render=pagelist(header,date,user,nocomments)&maxage=25920000}}
+
 Vivian
 {{changes>user=vasrich-t&count=50&render=pagelist(header,date,user,nocomments)&maxage=25920000}}{{changes>user=vasrich-turnip&count=50&render=pagelist(header,date,user,nocomments)&maxage=25920000}}
 
