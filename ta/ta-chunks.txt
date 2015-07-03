@@ -1,19 +1,14 @@
+====== Chunks with tA links ======
+
+[[en:ta:ta-chunks-genesis]]
+[[en:ta:ta-chunks-isaiah]]
 
 
-===== Isaiah =====
+[[en:ta:ta-chunks-mat]]
+[[en:ta:ta-chunks-mrk]]
+[[en:ta:ta-chunks-act]]
+[[en:ta:ta-chunks-rom]]
 
-{{pagequery> ns:en:bible:notes:isa "(see: [[:en:ta"; fulltext; sort=title:asc; display={title}; layout=column; showcount; hidestart; natsort; bullet=square; }}
-
-**AND**
-
- {{pagequery> ns:en:bible:notes:isa "(see: [[en:ta"; fulltext; sort=title:asc; display={title}; layout=column; showcount; hidestart; natsort; bullet=square; }}
-===== Acts =====
-
-{{pagequery> ns:en:bible:notes:act "(see: [[:en:ta"; fulltext; sort=title:asc; display={title}; layout=column; showcount; hidestart; natsort; bullet=square; }}
-
-**AND**
-
- {{pagequery> ns:en:bible:notes:act "(see: [[en:ta"; fulltext; sort=title:asc; display={title}; layout=column; showcount; hidestart; natsort; bullet=square; }}
 ===== James =====
 
 {{pagequery> ns:en:bible:notes:jam "(see: [[:en:ta"; fulltext; sort=title:asc; display={title}; layout=column; showcount; hidestart; natsort; bullet=square; }}
@@ -21,30 +16,6 @@
 **AND**
 
  {{pagequery> ns:en:bible:notes:jam "(see: [[en:ta"; fulltext; sort=title:asc; display={title}; layout=column; showcount; hidestart; natsort; bullet=square; }}
-===== Matthew =====
-
-{{pagequery> ns:en:bible:notes:mat "(see: [[:en:ta"; fulltext; sort=title:asc; display={title}; layout=column; showcount; hidestart; natsort; bullet=square; }}
-
-**AND**
-
- {{pagequery> ns:en:bible:notes:mat "(see: [[en:ta"; fulltext; sort=title:asc; display={title}; layout=column; showcount; hidestart; natsort; bullet=square; }}
-
-===== Mark =====
-
-{{pagequery> ns:en:bible:notes:mrk "(see: [[:en:ta"; fulltext; sort=title:asc; display={title}; layout=column; showcount; hidestart; natsort; bullet=square; }}
-
-**AND**
-
- {{pagequery> ns:en:bible:notes:mrk "(see: [[en:ta"; fulltext; sort=title:asc; display={title}; layout=column; showcount; hidestart; natsort; bullet=square; }}
-
-
-===== Philippians =====
-
-{{pagequery> ns:en:bible:notes:php "(see: [[:en:ta"; fulltext; sort=title:asc; display={title}; layout=column; showcount; hidestart; natsort; bullet=square; }}
-
-**AND**
-
- {{pagequery> ns:en:bible:notes:php "(see: [[en:ta"; fulltext; sort=title:asc; display={title}; layout=column; showcount; hidestart; natsort; bullet=square; }}
 
 ===== Ephesians =====
 
