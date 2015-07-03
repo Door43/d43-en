@@ -15,7 +15,7 @@
 
 **AND**
 
- {{pagequery> ns:en:bible:notes:jas "(see: [[en:ta"; fulltext; sort=title:asc; display={title}; layout=column; showcount; hidestart; natsort; bullet=square; }}
+{{pagequery> ns:en:bible:notes:jas "(see: [[en:ta"; fulltext; sort=title:asc; display={title}; layout=column; showcount; hidestart; natsort; bullet=square; }}
 
 ===== Ephesians =====
 
@@ -23,7 +23,7 @@
 
 **AND**
 
- {{pagequery> ns:en:bible:notes:eph "(see: [[en:ta"; fulltext; sort=title:asc; display={title}; layout=column; showcount; hidestart; natsort; bullet=square; }}
+{{pagequery> ns:en:bible:notes:eph "(see: [[en:ta"; fulltext; sort=title:asc; display={title}; layout=column; showcount; hidestart; natsort; bullet=square; }}
 
 ===== 1, 2 & 3 John =====
 
