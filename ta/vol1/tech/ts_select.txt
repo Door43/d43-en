@@ -1,7 +1,7 @@
 ===== Select Source and Target Languages =====
 
 This module answers the question: How do I select source and target languages?\\
-Before you start this module have you learned about: [[https://door43.org/en/ta/vol1/tech/ts_install|Install translationStudio on an Android Device]]
+Before you start this module have you learned about: [[en:ta:vol1:tech:ts_install|Install translationStudio on an Android Device]]
 
 You can select and change your source language and target language whenever you use translationStudio.
 **Note:** The first time you use the application, translationStudio opens at the **Project Settings** screen so you can select your languages. To get to this screen any other time, tap **Project Settings** in the green bar at the top of the screen.
@@ -28,4 +28,17 @@ Go back to the __[[https://door43.org/en/ta/tech/ts|translationStudio]]__ page.
 
 
 Next we recommend you learn about:
+  * [[en:ta:vol1:tech:ts_intro|translationStudio]]
+  * [[en:ta:vol1:tech:ts_first|Use translationStudio for the First Time]]
+  * [[en:ta:vol1:tech:ts_navigate|Navigate in translationStudio]]
+  * [[en:ta:vol1:tech:ts_select|Select Source and Target Languages]]
+  * [[en:ta:vol1:tech:ts_request|Request a New Language]]
+  * [[en:ta:vol1:tech:ts_create|Create and Edit Text]]
+  * [[en:ta:vol1:tech:ts_footnote|Add a Footnote]]
+  * [[en:ta:vol1:tech:ts_resources|Resources - Important Terms and Translation Notes]]
+  * [[en:ta:vol1:tech:ts_share|Share Your Work]]
+  * [[en:ta:vol1:tech:ts_upload|Upload Your Work]]
+  * [[en:ta:vol1:tech:ts_update|Update translationStudio Projects]]
+  * [[en:ta:vol1:tech:ts_publish|Publish Content to unfoldingWord]]
+  * [[en:ta:vol1:tech:ts_problem|Report a Problem]]
 

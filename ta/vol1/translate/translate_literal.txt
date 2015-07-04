@@ -2,9 +2,9 @@
 
 This module answers the question: What are literal translations?\\
 Before you start this module have you learned about:
-  * [[https://door43.org/en/ta/vol1/translate/translate_whatis|What is Translation]]
-  * [[https://door43.org/en/ta/vol1/translate/translate_process|The Translation Process]]
-  * [[https://door43.org/en/ta/vol1/translate/translate_terms|Terms to Know]]
+  * [[en:ta:vol1:translate:translate_whatis|What is Translation]]
+  * [[en:ta:vol1:translate:translate_process|The Translation Process]]
+  * [[en:ta:vol1:translate:translate_terms|Terms to Know]]
 
 Literal translations focus on the form of the text.\\
 === Other Names ===
@@ -29,6 +29,6 @@ Literal translations usually contain the following problems:
 
 
 Next we recommend you learn about:
-  * [[https://door43.org/en/ta/vol1/translate/translate_fandm|Form and Meaning]]
-  * [[https://door43.org/en/ta/vol1/translate/translate_problem|Problems with Literal Translations]]
+  * [[en:ta:vol1:translate:translate_fandm|Form and Meaning]]
+  * [[en:ta:vol1:translate:translate_problem|Problems with Literal Translations]]
 

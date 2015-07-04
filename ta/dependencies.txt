@@ -8,7 +8,6 @@ edge [arrowsize=1.4];
 "Translation" [fillcolor="#99ff99"]
 "Checking" [fillcolor="#9999ff"]
 "Technology" [fillcolor="#ffff99"]
-"Test" [fillcolor="#99ffff"]
 "translation_guidelines" [fillcolor="#ff9999"]
 "uw_intro" -> "translation_guidelines"
 "translate_manual" -> "translation_guidelines"
@@ -145,8 +144,8 @@ edge [arrowsize=1.4];
 "translation_guidelines" -> "guidelines_authoritative"
 "figs_abstractnouns" [fillcolor="#99ff99"]
 "figs_intro" -> "figs_abstractnouns"
-"figs_similie" [fillcolor="#99ff99"]
-"figs_intro" -> "figs_similie"
+"figs_simile" [fillcolor="#99ff99"]
+"figs_intro" -> "figs_simile"
 "figs_intro" [fillcolor="#99ff99"]
 "Translation" -> "figs_intro"
 "figs_yousingular" [fillcolor="#99ff99"]
@@ -268,8 +267,8 @@ edge [arrowsize=1.4];
 "tK_intro" -> "tK_update"
 "tS_create" [fillcolor="#ffff99"]
 "tS_install" -> "tS_create"
-"tS_resouces" [fillcolor="#ffff99"]
-"tS_create" -> "tS_resouces"
+"tS_resources" [fillcolor="#ffff99"]
+"tS_create" -> "tS_resources"
 "tS_install" [fillcolor="#ffff99"]
 "tS_intro" -> "tS_install"
 "tS_navigate" [fillcolor="#ffff99"]

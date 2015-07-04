@@ -1,7 +1,7 @@
 ===== How to Use the translationKeyboard in translationStudio =====
 
 This module answers the question: How do I use the translationKeyboard?\\
-Before you start this module have you learned about: [[https://door43.org/en/ta/vol1/tech/tk_install|Install translationKeyboard on an Android Device]]
+Before you start this module have you learned about: [[en:ta:vol1:tech:tk_install|Install translationKeyboard on an Android Device]]
 
   * Tap the tS icon to open the program
   * the Edit window opens
@@ -15,4 +15,10 @@ Before you start this module have you learned about: [[https://door43.org/en/ta/
 
 
 Next we recommend you learn about:
+  * [[en:ta:vol1:tech:tk_install|Install translationKeyboard on an Android Device]]
+  * [[en:ta:vol1:tech:tk_start|Setting Up the translationKeyboard APP on an Android device]]
+  * [[en:ta:vol1:tech:tk_enable|Enable translationKeyboard on an Android Device]]
+  * [[en:ta:vol1:tech:tk_find|Select an Input Method]]
+  * [[en:ta:vol1:tech:tk_create|Create a Keyboard in tK]]
+  * [[en:ta:vol1:tech:tk_update|Update translationKeyboard]]
 

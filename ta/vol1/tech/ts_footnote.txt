@@ -1,20 +1,21 @@
 ===== Add a Footnote =====
 
 This module answers the question: How do I add a footnote?\\
-Before you start this module have you learned about: [[https://door43.org/en/ta/vol1/tech/ts_create|Create and Edit Text]]
+Before you start this module have you learned about: [[en:ta:vol1:tech:ts_create|Create and Edit Text]]
 
 
 
 Next we recommend you learn about:
-  * [[https://door43.org/en/ta/vol1/tech/ts_install|Install translationStudio on an Android Device]]
-  * [[https://door43.org/en/ta/vol1/tech/ts_first|Use translationStudio for the First Time]]
-  * [[https://door43.org/en/ta/vol1/tech/ts_navigate|Navigate in translationStudio]]
-  * [[https://door43.org/en/ta/vol1/tech/ts_select|Select Source and Target Languages]]
-  * [[https://door43.org/en/ta/vol1/tech/ts_request|Request a New Language]]
-  * [[https://door43.org/en/ta/vol1/tech/ts_create|Create and Edit Text]]
-  * [[https://door43.org/en/ta/vol1/tech/ts_share|Share Your Work]]
-  * [[https://door43.org/en/ta/vol1/tech/ts_upload|Upload Your Work]]
-  * [[https://door43.org/en/ta/vol1/tech/ts_update|Update translationStudio Projects]]
-  * [[https://door43.org/en/ta/vol1/tech/ts_publish|Publish Content to unfoldingWord]]
-  * [[https://door43.org/en/ta/vol1/tech/ts_problem|Report a Problem]]
+  * [[en:ta:vol1:tech:ts_install|Install translationStudio on an Android Device]]
+  * [[en:ta:vol1:tech:ts_first|Use translationStudio for the First Time]]
+  * [[en:ta:vol1:tech:ts_navigate|Navigate in translationStudio]]
+  * [[en:ta:vol1:tech:ts_select|Select Source and Target Languages]]
+  * [[en:ta:vol1:tech:ts_request|Request a New Language]]
+  * [[en:ta:vol1:tech:ts_create|Create and Edit Text]]
+  * [[en:ta:vol1:tech:ts_resources|Resources - Important Terms and Translation Notes]]
+  * [[en:ta:vol1:tech:ts_share|Share Your Work]]
+  * [[en:ta:vol1:tech:ts_upload|Upload Your Work]]
+  * [[en:ta:vol1:tech:ts_update|Update translationStudio Projects]]
+  * [[en:ta:vol1:tech:ts_publish|Publish Content to unfoldingWord]]
+  * [[en:ta:vol1:tech:ts_problem|Report a Problem]]
 
