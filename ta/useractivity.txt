@@ -3,10 +3,13 @@ Catherine
 {{changes>user=cnewton&count=15&render=pagelist(header,date,user,nocomments)&maxage=864000}}
 
 Vivian
-{{changes>user=vasrich&count=50&render=pagelist(header,date,user,nocomments)&maxage=25920000}}{{changes>user=vasrich&count=50&render=pagelist(header,date,user,nocomments)&maxage=25920000}}
+{{changes>user=vasrich&count=50&render=pagelist(header,date,user,nocomments)&maxage=25920000
 
 Paul
-{{changes>user=pwholloway&count=50&render=pagelist(header,date,user,nocomments)&maxage=25920000}}{{changes>user=pwholloway&count=50&render=pagelist(header,date,user,nocomments)&maxage=25920000}}
+{{changes>user=pwholloway&count=50&render=pagelist(header,date,user,nocomments)&maxage=25920000}}
+
+Christian
+{{changes>user=christiancberry-me.com&count=50&render=pagelist(header,date,user,nocomments)&maxage=25920000}}
 
 
 {{pagequery>ns:en:ta "{{tag>" -"epady"; fulltext; sort=title:asc; display={title}; natsort; layout=table; showcount; hidemsg; hidejump;}}
