@@ -1,21 +1,12 @@
 ====== Chunks with tA links ======
 
-[[en:ta:ta-chunks-genesis]]\\
-[[en:ta:ta-chunks-isaiah]]
-\\
+[[:en:ta:ta-chunks-genesis|Genesis Chunks with tA links]]\\
+[[:en:ta:ta-chunks-isaiah|Isaiah Chunks with tA links]]
 
-[[en:ta:ta-chunks-mat]]\\
-[[en:ta:ta-chunks-mrk]]\\
-[[en:ta:ta-chunks-act]]\\
-[[en:ta:ta-chunks-rom]]\\
-
-===== James =====
-
-{{pagequery> ns:en:bible:notes:jas "(see: [[:en:ta"; fulltext; sort=title:asc; display={title}; layout=column; showcount; hidestart; natsort; bullet=square; }}
-
-**AND**
-
-{{pagequery> ns:en:bible:notes:jas "(see: [[en:ta"; fulltext; sort=title:asc; display={title}; layout=column; showcount; hidestart; natsort; bullet=square; }}
+[[:en:ta:ta-chunks-mat|Matthew Chunks with tA links]]\\
+[[:en:ta:ta-chunks-mrk|Mark Chunks with tA links]]\\
+[[:en:ta:ta-chunks-act|Acts Chunks with tA links]]\\
+[[:en:ta:ta-chunks-rom|Romans Chunks with tA links]]
 
 ===== Ephesians =====
 
@@ -23,32 +14,26 @@
 
 **AND**
 
-{{pagequery> ns:en:bible:notes:eph "(see: [[en:ta"; fulltext; sort=title:asc; display={title}; layout=column; showcount; hidestart; natsort; bullet=square; }}
-
+ {{pagequery> ns:en:bible:notes:eph "(see: [[en:ta"; fulltext; sort=title:asc; display={title}; layout=column; showcount; hidestart; natsort; bullet=square; }}
 ===== 1, 2 & 3 John =====
 
 {{pagequery> ns:en:bible:notes:1jn "(see: [[:en:ta"; fulltext; sort=title:asc; display={title}; layout=column; showcount; hidestart; natsort; bullet=square; }}
 
 **AND**
 
-{{pagequery> ns:en:bible:notes:1jn "(see: [[en:ta"; fulltext; sort=title:asc; display={title}; layout=column; showcount; hidestart; natsort; bullet=square; }}
-
-{{pagequery> ns:en:bible:notes:2jn "(see: [[:en:ta"; fulltext; sort=title:asc; display={title}; layout=column; showcount; hidestart; natsort; bullet=square; }}
+ {{pagequery> ns:en:bible:notes:1jn "(see: [[en:ta"; fulltext; sort=title:asc; display={title}; layout=column; showcount; hidestart; natsort; bullet=square; }}{{pagequery> ns:en:bible:notes:2jn "(see: [[:en:ta"; fulltext; sort=title:asc; display={title}; layout=column; showcount; hidestart; natsort; bullet=square; }}
 
 **AND**
 
-{{pagequery> ns:en:bible:notes:2jn "(see: [[en:ta"; fulltext; sort=title:asc; display={title}; layout=column; showcount; hidestart; natsort; bullet=square; }}
-
-{{pagequery> ns:en:bible:notes:3jn "(see: [[:en:ta"; fulltext; sort=title:asc; display={title}; layout=column; showcount; hidestart; natsort; bullet=square; }}
+ {{pagequery> ns:en:bible:notes:2jn "(see: [[en:ta"; fulltext; sort=title:asc; display={title}; layout=column; showcount; hidestart; natsort; bullet=square; }}{{pagequery> ns:en:bible:notes:3jn "(see: [[:en:ta"; fulltext; sort=title:asc; display={title}; layout=column; showcount; hidestart; natsort; bullet=square; }}
 
 **AND**
 
-{{pagequery> ns:en:bible:notes:3jn "(see: [[en:ta"; fulltext; sort=title:asc; display={title}; layout=column; showcount; hidestart; natsort; bullet=square; }}
-
+ {{pagequery> ns:en:bible:notes:3jn "(see: [[en:ta"; fulltext; sort=title:asc; display={title}; layout=column; showcount; hidestart; natsort; bullet=square; }}
 ===== Jude =====
+
 {{pagequery> ns:en:bible:notes:jud "(see: [[:en:ta"; fulltext; sort=title:asc; display={title}; layout=column; showcount; hidestart; natsort; bullet=square; }}
 
 **AND**
 
-{{pagequery> ns:en:bible:notes:jud "(see: [[en:ta"; fulltext; sort=title:asc; display={title}; layout=column; showcount; hidestart; natsort; bullet=square; }}
-
+ {{pagequery> ns:en:bible:notes:jud "(see: [[en:ta"; fulltext; sort=title:asc; display={title}; layout=column; showcount; hidestart; natsort; bullet=square; }}
