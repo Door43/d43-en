@@ -6,7 +6,7 @@
 
 ==== Location ====
 
-^  OBE  ^  Notes  |
+^  OBE  ^  Notes  ^
 |{{pagequery>@en:obe \{\{tag>[^}]*discuss[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort;showcount; layout=table;hidemsg;hidejump;fontsize=100%}} |{{pagequery>@en:bible:notes \{\{tag>[^}]*discuss[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort;showcount; layout=table;hidemsg;hidejump;fontsize=100%}} |
 
 \\
