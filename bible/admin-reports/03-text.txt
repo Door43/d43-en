@@ -1,0 +1,11 @@
+====== Notes Pages Tagged "Text" ======
+
+~~NOCACHE~~
+
+  * [[:en:bible:admin-reports:check-tags|Check Tags]]
+
+==== Bible Notes Pages: ====
+
+{{pagequery>@en:bible:notes \{\{tag>[^}]*text[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort;showcount; layout=table;hidemsg;hidejump;fontsize=100%}}
+
+\\
