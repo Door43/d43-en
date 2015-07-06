@@ -6,6 +6,6 @@
 
 ==== Bible Notes Pages: ====
 
-{{pagequery>@en:bible:notes \{\{tag>[^}]*text[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort;showcount; layout=table;hidemsg;hidejump;fontsize=100%}}
+{{pagequery>@en:bible:notes \{\{tag>[^}]*text[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort;showcount; layout=table;hidemsg;hidejump;fontsize=80%}}
 
 \\
