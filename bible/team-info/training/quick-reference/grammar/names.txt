@@ -11,7 +11,9 @@ There are other issues that deal with translating names on [[:en:ta:translate:tr
 ===== Template =====
 
 1) If there are many new names in a chunk that are not listed in the Important Terms, simply write the following at the top of the translation notes:\\
-**See: Translate Names.** \\
+
+(See: Translate Names) \\
+
 This is especially useful in genealogies and other lists of names where there is no need to write notes for each name.
 
 2) If this is the first time a person or place is named in the book and it is not an important term, write a note like this:
@@ -31,6 +33,8 @@ This is especially useful in genealogies and other lists of names where there is
   - (Optional) Give a translation alternative
   - **(Required)**  Refer translators to where they wrote it in an earlier chunk.
   * **(1) ULB text**  - **(3)**  Identify. **(5)**  See how you wrote this in #:#.
+
+
 ===== Bible Examples =====
 
 Field reference numbers are included for clarity purposes only. They are omitted in the actual note.
@@ -52,6 +56,8 @@ Isaac and Ishmael, his sons, buried him in the cave of Machpelah, in the field o
   * **(1) Ephron…Zohar**  - **(3,5)**  See how you translated these men's names in 23:8.
   * **(1) Mamre**  - **(3,5)**  See how you translated this place name in 23:17.
   * **(1) sons of Heth**  - **(2)**  “the descendants of Heth” or “the Hittites.” **(5)**  See how you translated this in 23:5.
+
+
 ~~DISCUSSION~~{{tag>review}}
 
 ~~NOCACHE~~
