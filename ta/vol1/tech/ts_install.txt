@@ -3,7 +3,7 @@
 This module answers the question: How do I install translationStudio on an Android device?\\
 Before you start this module have you learned about: [[en:ta:vol1:tech:ts_intro|translationStudio]]
 
-Watch the {{:en:ta:tech:installing_translationstudio_-_android_v2.mp4|Install translationStudio}}  video or follow these directions:
+Watch the {{:en:ta:tech:installing_translationstudio_-_android_v2.mp4|Install translationStudio}}  video or follow these directions:\\ 
 **Note:** This process requires an Internet connection.
   - Tap on the **Google Play Store**  icon on the Android device. Google Play Store opens.
   - To search for the app in the Play Store, tap on the magnifying glass at the top right of the window.
@@ -13,8 +13,6 @@ Watch the {{:en:ta:tech:installing_translationstudio_-_android_v2.mp4|Install tr
   - Tap **Install**  then tap **Accept**  to use the default settings of the program.
   - The program will download and then install.
   - The app will download and then install. Once the program is installed, tap **Open**.
-
-Go back to the [[:en:ta:tech:ts|translationStudio]] page.
 
 
 

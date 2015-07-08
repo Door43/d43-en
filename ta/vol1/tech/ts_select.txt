@@ -3,8 +3,10 @@
 This module answers the question: How do I select source and target languages?\\
 Before you start this module have you learned about: [[en:ta:vol1:tech:ts_install|Install translationStudio on an Android Device]]
 
-You can select and change your source language and target language whenever you use translationStudio.
-**Note:** The first time you use the application, translationStudio opens at the **Project Settings** screen so you can select your languages. To get to this screen any other time, tap **Project Settings** in the green bar at the top of the screen.
+You can select and change your source language and target language whenever you use translationStudio.\\
+
+**Note:** The first time you use the application, translationStudio opens at the **Project Settings** screen so you can select your languages. To get to this screen any other time, tap **Project Settings** in the green bar at the top of the screen.\\
+
 Complete these steps to select or change the target language, which is the language you are translating TO:
   - Tap **Project ****Settings**.
   - The gray bar under **Target Language**  shows the current target language. Tap the gray bar to open the list of available target languages.
@@ -23,7 +25,6 @@ Complete these steps to select or change the source language, which is the langu
   - If you are satisfied with your source language, tap **OK **  again in the upper right corner. Otherwise repeat these steps to select the correct language.
 To see a video of this process, {{:en:ta:tech:starting_up_translationstudio-obs_600x400_v6.mp4|click here}}. The language selection begins about halfway through the video.
 
-Go back to the __[[https://door43.org/en/ta/tech/ts|translationStudio]]__ page.
 
 
 
