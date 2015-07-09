@@ -15,10 +15,8 @@ Text
 
 ===== Bible References: =====
 
-{{topic>lordfhosts&nocomments}}
+{{topic>lordfhosts&nocomments}}~~DISCUSSION~~
 
-~~DISCUSSION~~
+~~NOCACHE~~
 
-~~NOCACHE~~ 
-
-{{tag>create isa01 ktlink}}
+{{tag>delete isa01 ktlink}}
