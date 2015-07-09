@@ -190,47 +190,57 @@ edge [arrowsize=1.4];
 "figs_intro" -> "figs_apostrophe"
 "language_community_check" [fillcolor="#9999ff"]
 "level2" -> "language_community_check"
+"church_leader_check" [fillcolor="#9999ff"]
+"level2" -> "church_leader_check"
+"vol2_intro" [fillcolor="#9999ff"]
+"church_leader_check" -> "vol2_intro"
+"level3" -> "vol2_intro"
 "vol2_steps" [fillcolor="#9999ff"]
 "vol2_intro" -> "vol2_steps"
-"vol2_things_to_check" [fillcolor="#9999ff"]
-"vol2_steps" -> "vol2_things_to_check"
-"intro_check" [fillcolor="#9999ff"]
-"Checking" -> "intro_check"
-"accuracy_check" [fillcolor="#9999ff"]
-"level1" -> "accuracy_check"
-"level3_questions" [fillcolor="#9999ff"]
-"level3" -> "level3_questions"
-"peer_check" [fillcolor="#9999ff"]
-"level1" -> "peer_check"
-"important_term_check" [fillcolor="#9999ff"]
-"level1" -> "important_term_check"
-"level3_approval" [fillcolor="#9999ff"]
-"level3_questions" -> "level3_approval"
-"vol2_backtranslation" [fillcolor="#9999ff"]
-"vol2_steps" -> "vol2_backtranslation"
-"self_check" [fillcolor="#9999ff"]
-"level1" -> "self_check"
-"intro_levels" [fillcolor="#9999ff"]
-"intro_checking" -> "intro_levels"
 "level1" [fillcolor="#9999ff"]
 "intro_levels" -> "level1"
 "level3" [fillcolor="#9999ff"]
 "intro_levels" -> "level3"
 "level2" [fillcolor="#9999ff"]
 "intro_levels" -> "level2"
-"vol2_intro" [fillcolor="#9999ff"]
-"church_leader_check" -> "vol2_intro"
-"level3" -> "vol2_intro"
 "intro_checking" [fillcolor="#9999ff"]
 "intro_check" -> "intro_checking"
-"contact_review_agree" [fillcolor="#9999ff"]
-"level1" -> "contact_review_agree"
-"church_leader_check" [fillcolor="#9999ff"]
-"level2" -> "church_leader_check"
-"first_draft" [fillcolor="#9999ff"]
-"level1" -> "first_draft"
+"vol2_backtranslation_guidelines" [fillcolor="#9999ff"]
+"vol2_backtranslation_written" -> "vol2_backtranslation_guidelines"
 "community_evaluation" [fillcolor="#9999ff"]
 "language_community_check" -> "community_evaluation"
+"important_term_check" [fillcolor="#9999ff"]
+"level1" -> "important_term_check"
+"intro_levels" [fillcolor="#9999ff"]
+"intro_checking" -> "intro_levels"
+"vol2_backtranslation_written" [fillcolor="#9999ff"]
+"vol2_backtranslation_kinds" -> "vol2_backtranslation_written"
+"vol2_backtranslation" [fillcolor="#9999ff"]
+"vol2_steps" -> "vol2_backtranslation"
+"first_draft" [fillcolor="#9999ff"]
+"level1" -> "first_draft"
+"accuracy_check" [fillcolor="#9999ff"]
+"level1" -> "accuracy_check"
+"vol2_backtranslation_who" [fillcolor="#9999ff"]
+"vol2_backtranslation_purpose" -> "vol2_backtranslation_who"
+"peer_check" [fillcolor="#9999ff"]
+"level1" -> "peer_check"
+"vol2_backtranslation_kinds" [fillcolor="#9999ff"]
+"vol2_backtranslation_who" -> "vol2_backtranslation_kinds"
+"contact_review_agree" [fillcolor="#9999ff"]
+"level1" -> "contact_review_agree"
+"vol2_things_to_check" [fillcolor="#9999ff"]
+"vol2_steps" -> "vol2_things_to_check"
+"intro_check" [fillcolor="#9999ff"]
+"Checking" -> "intro_check"
+"level3_questions" [fillcolor="#9999ff"]
+"level3" -> "level3_questions"
+"level3_approval" [fillcolor="#9999ff"]
+"level3_questions" -> "level3_approval"
+"self_check" [fillcolor="#9999ff"]
+"level1" -> "self_check"
+"vol2_backtranslation_purpose" [fillcolor="#9999ff"]
+"vol2_backtranslation" -> "vol2_backtranslation_purpose"
 "uW_install" [fillcolor="#ffff99"]
 "uW_intro" -> "uW_install"
 "uW_audio" [fillcolor="#ffff99"]
