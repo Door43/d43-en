@@ -1,0 +1,10 @@
+====== Translation Questions: Ezekiel Admin ======
+
+~~NOCACHE~~
+
+This is the status of the Ezekiel Translation Question pages:
+
+^  Draft  ^  Review  ^  Text  ^  Publish  ^
+|{{pagequery>@en:bible:notes:ezk:questions:comprehension \{\{tag>[^}]*draft[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; showcount; layout=table;hidemsg;hidejump;fontsize=80%}} |{{pagequery>@en:bible:notes:ezk:questions:comprehension \{\{tag>[^}]*review[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; showcount; layout=table;hidemsg;hidejump;fontsize=80%}} |{{pagequery>@en:bible:notes:ezk:questions:comprehension \{\{tag>[^}]*text[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; showcount; layout=table;hidemsg;hidejump;fontsize=80%}} |{{pagequery>@en:bible:notes:ezk:questions:comprehension \{\{tag>[^}]*publish[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; showcount; layout=table;hidemsg;hidejump;fontsize=80%}} |
+
+\\
