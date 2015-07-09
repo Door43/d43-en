@@ -4,19 +4,19 @@
 
 This is the status of the 1 John Translation Question pages:
 
-^  Draft  ^  Review  ^  Publish  ^
-|{{topic>en:bible:notes:1jn:questions:comprehension?draft&nocomments&simplelist}} |{{topic>en:bible:notes:1jn:questions:comprehension?review&nocomments&simplelist}} |{{topic>en:bible:notes:1jn:questions:comprehension?publish&nocomments&simplelist}} |
+^  Draft  ^  Review  ^  Text  ^  Publish  ^
+|{{pagequery>@en:bible:notes:1jn:questions:comprehension \{\{tag>[^}]*draft[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; showcount; layout=table;hidemsg;hidejump;fontsize=80%}} |{{pagequery>@en:bible:notes:1jn:questions:comprehension \{\{tag>[^}]*review[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; showcount; layout=table;hidemsg;hidejump;fontsize=80%}} |{{pagequery>@en:bible:notes:1jn:questions:comprehension \{\{tag>[^}]*text[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; showcount; layout=table;hidemsg;hidejump;fontsize=80%}} |{{pagequery>@en:bible:notes:1jn:questions:comprehension \{\{tag>[^}]*publish[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; showcount; layout=table;hidemsg;hidejump;fontsize=80%}} |
 
 
 This is the status of the 2 John Translation Question pages:
 
 ^  Draft  ^  Review  ^  Text  ^  Publish  ^
-|{{topic>en:bible:notes:2jn:questions:comprehension?draft&nocomments&simplelist}} |{{topic>en:bible:notes:2jn:questions:comprehension?review&nocomments&simplelist}} |{{topic>en:bible:notes:2jn:questions:comprehension?text&nocomments&simplelist}} |{{topic>en:bible:notes:2jn:questions:comprehension?publish&nocomments&simplelist}} |
+|{{pagequery>@en:bible:notes:2jn:questions:comprehension \{\{tag>[^}]*draft[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; showcount; layout=table;hidemsg;hidejump;fontsize=80%}} |{{pagequery>@en:bible:notes:2jn:questions:comprehension \{\{tag>[^}]*review[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; showcount; layout=table;hidemsg;hidejump;fontsize=80%}} |{{pagequery>@en:bible:notes:2jn:questions:comprehension \{\{tag>[^}]*text[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; showcount; layout=table;hidemsg;hidejump;fontsize=80%}} |{{pagequery>@en:bible:notes:2jn:questions:comprehension \{\{tag>[^}]*publish[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; showcount; layout=table;hidemsg;hidejump;fontsize=80%}} |
 
 
 This is the status of the 3 John Translation Question pages:
 
 ^  Draft  ^  Review  ^  Text  ^  Publish  ^
-|{{topic>en:bible:notes:3jn:questions:comprehension?draft&nocomments&simplelist}} |{{topic>en:bible:notes:3jn:questions:comprehension?review&nocomments&simplelist}} |{{topic>en:bible:notes:3jn:questions:comprehension?text&nocomments&simplelist}} |{{topic>en:bible:notes:3jn:questions:comprehension?publish&nocomments&simplelist}} |
+|{{pagequery>@en:bible:notes:3jn:questions:comprehension \{\{tag>[^}]*draft[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; showcount; layout=table;hidemsg;hidejump;fontsize=80%}} |{{pagequery>@en:bible:notes:3jn:questions:comprehension \{\{tag>[^}]*review[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; showcount; layout=table;hidemsg;hidejump;fontsize=80%}} |{{pagequery>@en:bible:notes:3jn:questions:comprehension \{\{tag>[^}]*text[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; showcount; layout=table;hidemsg;hidejump;fontsize=80%}} |{{pagequery>@en:bible:notes:3jn:questions:comprehension \{\{tag>[^}]*publish[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; showcount; layout=table;hidemsg;hidejump;fontsize=80%}} |
 
 \\
