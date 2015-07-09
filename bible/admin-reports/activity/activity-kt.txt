@@ -15,7 +15,7 @@
 
 **Drew Curley:**\\ {{changes>user=drew-curley&count=12&render=pagelist(header,user,nocomments)&maxage=864000}}\\ 
 
-**Paul Holloway:**\\ {{changes>user=pwholloway&count=12&render=pagelist(header,user,nocomments)&maxage=864000}}| 
+**Paul Holloway:**\\ {{changes>user=pwholloway&count=12&render=pagelist(header,user,nocomments)&maxage=864000}}
 
 
 **USER: (needs to register)**
