@@ -31,7 +31,7 @@
 
 These terms should be deleted, after the links and tags are removed or pointed to other pages.
 
-{{topic>en:obe?delete&tags&sort&nocomments}}
+{{pagequery>@en:obe \{\{tag>[^}]*delete[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; showcount; layout=table;hidemsg;hidejump;fontsize=90%}}
 
 ==== Notes pages tagged "ktlink" ====
 
