@@ -1,15 +1,12 @@
-====== Notes: Ephesians Admin Page ======
+====== Notes: Ephesians Review Admin Page ======
 
 ~~NOCACHE~~
 
-  * [[:en:bible:admin-reports:check-tags]]
-
+  * [[:en:bible:admin-reports:check-tags|Check Notes Tags]]
 
 ==== Ephesians Pages Status ====
 
-Team Lead (//draft to check//) - Jim F\\
-Manager (//check to review//) - Catherine N\\
-Reviewer - (//review to publish//) - Ed Q
+Team Lead (//draft to check//) - Jim F \\ Manager (//check to review//) - Catherine N \\ Reviewer - (//review to publish//) - Ed Q
 
 ^  Review  ^  Text  ^  Discuss  ^  Publish  |
 |{{pagequery>@en:bible:notes:eph \{\{tag>[^}]*review[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=100%}} |{{pagequery>@en:bible:notes:eph \{\{tag>[^}]*text[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=100%}} |{{pagequery>@en:bible:notes:eph \{\{tag>[^}]*discuss[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=100%}} |{{pagequery>@en:bible:notes:eph \{\{tag>[^}]*publish[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=100%}} |
