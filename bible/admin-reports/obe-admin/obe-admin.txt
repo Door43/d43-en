@@ -19,8 +19,8 @@
 
 {{count>create delete draft1 draft2 review discuss publish&en:obe}}
 
-^  Group 1 Draft Pages  ^  Group 2 Draft Pages  |
-|{{pagequery>ns:en:obe "{{tag>draft1"; fulltext; sort=title:asc; display={title}; natsort; showcount; hidemsg; hidejump;}} |{{pagequery>ns:en:obe "{{tag>draft2"; fulltext; sort=title:asc; display={title}; natsort; showcount; hidemsg; hidejump;}} |
+^  Draft Pages  ^  Group 2 Draft Pages  |
+|{{pagequery>ns:en:obe "{{tag>draft"; fulltext; sort=title:asc; display={title}; natsort; showcount; hidemsg; hidejump;}} |{{pagequery>ns:en:obe "{{tag>draft2"; fulltext; sort=title:asc; display={title}; natsort; showcount; hidemsg; hidejump;}} |
 
 ^  New Pages to Review  ^  Published Pages to Review  ^  Discuss Pages  |
 |{{pagequery>ns:en:obe "{{tag>review"; fulltext; sort=title:asc; display={title}; natsort; showcount; hidemsg; hidejump;}} |{{pagequery>ns:en:obe "{{tag>publish review"; fulltext; sort=title:asc; display={title}; natsort; showcount; hidemsg; hidejump;}} |{{pagequery>ns:en:obe "{{tag>discuss"; fulltext; sort=title:asc; display={title}; natsort; showcount; hidemsg; hidejump;}} |
