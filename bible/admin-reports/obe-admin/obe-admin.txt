@@ -17,10 +17,10 @@
 
 ==== Key Terms Pages Status ====
 
-{{count>create delete draft1 draft2 review discuss publish&en:obe}}
+{{count>create delete draft review discuss publish&en:obe}}
 
-^  Draft Pages  ^  Group 2 Draft Pages  |
-|{{pagequery>ns:en:obe "{{tag>draft"; fulltext; sort=title:asc; display={title}; natsort; showcount; hidemsg; hidejump;}} |{{pagequery>@en:obe \{\{tag>[^}]*draft[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; showcount; layout=table;hidemsg;hidejump;fontsize=80%}} |
+^  Draft Pages  ^
+|{{pagequery>@en:obe \{\{tag>[^}]*draft[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; showcount; layout=table;hidemsg;hidejump;fontsize=80%}} |
 
 ^  New Pages to Review  ^  Published Pages to Review  ^  Discuss Pages  |
 |{{pagequery>ns:en:obe "{{tag>review"; fulltext; sort=title:asc; display={title}; natsort; showcount; hidemsg; hidejump;}} |{{pagequery>ns:en:obe "{{tag>publish review"; fulltext; sort=title:asc; display={title}; natsort; showcount; hidemsg; hidejump;}} |{{pagequery>ns:en:obe "{{tag>discuss"; fulltext; sort=title:asc; display={title}; natsort; showcount; hidemsg; hidejump;}} |
