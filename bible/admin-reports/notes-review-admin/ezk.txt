@@ -1,0 +1,14 @@
+====== Notes: Ezekiel Review Admin Page ======
+
+~~NOCACHE~~
+
+  * [[:en:bible:admin-reports:check-tags|Check Notes Tags]]
+
+==== Ezekiel Pages Status ====
+
+Team Lead (//draft to check//) - workshop \\ Manager (//check to review//) -  \\ Reviewer - (//review to publish//) - Ed Q
+
+^  Review  ^  Text  ^  Discuss  ^  Publish  ^
+|{{pagequery>@en:bible:notes:ezk \{\{tag>[^}]*review[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; showcount; layout=table;hidemsg;hidejump;fontsize=80%}} |{{pagequery>@en:bible:notes:ezk \{\{tag>[^}]*text[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; showcount; layout=table;hidemsg;hidejump;fontsize=80%}} |{{pagequery>@en:bible:notes:ezk \{\{tag>[^}]*discuss[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; showcount; layout=table;hidemsg;hidejump;fontsize=80%}} |{{pagequery>@en:bible:notes:ezk \{\{tag>[^}]*publish[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; showcount; layout=table;hidemsg;hidejump;fontsize=80%}} |
+
+\\
