@@ -7,4 +7,8 @@ This is the status of the Ephesians Translation Question pages:
 ^  Draft  ^  Review  ^  Text  ^  Publish  ^
 |{{topic>en:bible:notes:eph:questions:comprehension?draft&nocomments&simplelist}} |{{topic>en:bible:notes:eph:questions:comprehension?review&nocomments&simplelist}} |{{topic>en:bible:notes:eph:questions:comprehension?text&nocomments&simplelist}} |{{topic>en:bible:notes:eph:questions:comprehension?publish&nocomments&simplelist}} |
 
+
+^  Draft  ^  Review  ^  Text  ^  Publish  ^
+|{{pagequery>@en:bible:notes:eph:questions:comprehension \{\{tag>[^}]*draft[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; showcount; layout=table;hidemsg;hidejump;fontsize=80%}} |{{pagequery>@en:bible:notes:eph:questions:comprehension \{\{tag>[^}]*review[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; showcount; layout=table;hidemsg;hidejump;fontsize=80%}} |{{pagequery>@en:bible:notes:eph:questions:comprehension \{\{tag>[^}]*text[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; showcount; layout=table;hidemsg;hidejump;fontsize=80%}} |{{pagequery>@en:bible:notes:eph:questions:comprehension \{\{tag>[^}]*publish[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; showcount; layout=table;hidemsg;hidejump;fontsize=80%}} |
+
 \\
