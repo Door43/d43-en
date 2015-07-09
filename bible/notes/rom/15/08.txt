@@ -30,25 +30,26 @@
 
 ===== Important Terms: =====
 
-  * [[;en:obe:other:servant|servant]]
-  * [[;en:obe:kt:circumcise|circumcision]]
-  * [[;en:obe:kt:true|truth]]
-  * [[;en:obe:kt:promise|promise]]
-  * [[;en:obe:other:gentile|gentiles]]
-  * [[;en:obe:kt:glorify|glorify]]
-  * [[;en:obe:kt:mercy|mercy]]
-  * [[;en:obe:other:praise|praise]]
-  * [[;en:obe:other:written|written]]
-  * [[;en:obe:kt:name|name]]
+  * [[:en:obe:kt:christ|Christ]]
+  * [[:en:obe:other:servant|servant]]
+  * [[:en:obe:kt:circumcise|circumcision]]
+  * [[:en:obe:kt:true|truth]]
+  * [[:en:obe:kt:promise|promise]]
+  * [[:en:obe:other:gentile|gentiles]]
+  * [[:en:obe:kt:glorify|glorify]]
+  * [[:en:obe:kt:mercy|mercy]]
+  * [[:en:obe:other:praise|praise]]
+  * [[:en:obe:other:written|written]]
+  * [[:en:obe:kt:name|name]]
 
 ===== Translation Notes: =====
 
-  * **For I say **- "I"refers to Paul.
-  * **Christ has been made a servant of ****the ****circumcision **-This means that Jesus Christ was made the servant of the Jews. (See : [[;en:ta:vol2:translate:figs_metonymy|Metonymy]])
-  * **that he might confirm the promises given to the fathers **- "he" refers to God (See: [[;en:ta:vol2:translate:figs_metonymy|Metonymy]])
-  * ** given to the fathers ** - "fathers" refers to the ancestors of the Jews. (See: [[;en:ta:translate:implicitexplicit|Explicit and Implicit]])
-  * ** as it is ** ** written ** - Where it is written can be made explicit: "as it is written in the Scriptures". (See: [[;en:ta:translate:implicitexplicit|Explicit and Implicit Information]])
-  * ** and for the Gentiles **  - This could be translated as "and Christ has been made the servant of the Gentiles". (See: [[;en:ta:translate:implicitexplicit|Explicit and Implicit Information]])
+  * **For I say** - "I"refers to Paul.
+  * **Christ has been made a servant of the circumcision** - "Jesus Christ was made the servant of the Jews". (See: [[:en:ta:translate:metonymy]])
+  * **that he might confirm the promises** - "he" refers to God (See: [[:en:ta:translate:metonymy]])
+  * **given to the fathers** - "given to the ancestors of the Jews". (See: [[:en:ta:translate:implicitexplicit]])
+  * **as it is written** - "as it is written in the Scriptures". (See: [[:en:ta:translate:implicitexplicit]])
+  * **and for the Gentiles** - "and Christ has been made the servant of the Gentiles" (See: [[:en:ta:translate:implicitexplicit]])
 
 ~~COMPLEX_TABLES~~
 
@@ -57,6 +58,6 @@
   * **[[:en:bible:notes:rom:questions:comprehension:15|Romans Chapter 15 Comprehension Questions]]**
 **[[:en:bible:notes:rom:15:05|<<]] | [[:en:bible:notes:rom:15:10|>>]]**
 
-~~DISCUSSION~~{{tag>check}}
+~~DISCUSSION~~{{tag>review}}
 
 ~~NOCACHE~~
