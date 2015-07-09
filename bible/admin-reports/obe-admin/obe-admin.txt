@@ -31,13 +31,13 @@
 
 These terms should be deleted, after the links and tags are removed or pointed to other pages.
 
-{{topic>en:obe?delete&tags&sort&nocomments}}
+{{pagequery>@en:obe \{\{tag>[^}]*delete[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; showcount; layout=table;hidemsg;hidejump;fontsize=90%}}
 
 ==== Notes pages tagged "ktlink" ====
 
 These pages need links, page creation, page update, etc.
 
-{{pagequery>@en:bible:notes \{\{tag>[^}]*ktlink[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
+{{pagequery>@en:obe \{\{tag>[^}]*ktlink[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; showcount; layout=table;hidemsg;hidejump;fontsize=90%}}
 
 ==== Pages tagged "ktlink" and "publish" ====
 
