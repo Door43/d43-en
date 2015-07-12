@@ -2,73 +2,29 @@
 
 ===== TFT: =====
 
-<usfm>
-\v 1 \add I received\add* this message \add from Yahweh\add* about Tyre \add city\add*:
-\q1 You \add sailors on\add* \f + \ft apostrophe \f* ships from Tarshish,
-\q2 weep, because \add the harbor of\add* Tyre and all the houses \add in the city\add* have been destroyed.
-\q2 The reports that you heard in Cyprus \add island\add* about Tyre \add are true\add*.
-\b
-\q1
-\v 2 You people who live along the coast \add near Tyre\add*, and merchants of Sidon \add city\add*, mourn silently.
-\q2 Your sailors went across the seas \add to many places like Tyre\add*.
-\q1
-\v 3 They sailed across deep seas
-\q2 to buy grain in Egypt
-\q1 and other crops that are grown along the Nile \add River\add*.
-\q2 Tyre became the city where people from all nations bought and sold goods.
-\b
-\q1
-</usfm>
+<usfm> \v 1 \add I received\add* this message \add from Yahweh\add* about Tyre \add city\add*: \q1 You \add sailors on\add* \f + \ft apostrophe \f* ships from Tarshish, \q2 weep, because \add the harbor of\add* Tyre and all the houses \add in the city\add* have been destroyed. \q2 The reports that you heard in Cyprus \add island\add* about Tyre \add are true\add*. \b \q1 \v 2 You people who live along the coast \add near Tyre\add*, and merchants of Sidon \add city\add*, mourn silently. \q2 Your sailors went across the seas \add to many places like Tyre\add*. \q1 \v 3 They sailed across deep seas \q2 to buy grain in Egypt \q1 and other crops that are grown along the Nile \add River\add*. \q2 Tyre became the city where people from all nations bought and sold goods. \b \q1 </usfm>
 
 ===== UDB: =====
 
-<usfm>
-\v 1 I, Isaiah, received this message from Yahweh about the city of Tyre:
-\q1 You sailors on ships from Tarshish,
-\q2 weep, because the harbor of Tyre and all the houses in the city have been destroyed.
-\q2 The reports that you heard in the Island of Cyprus about Tyre are true.
-\b
-\q1
-\v 2 You people who live along the coast near Tyre, and merchants of the city of Sidon, mourn silently.
-\q2 Your sailors went across the seas to many places like Tyre.
-\q1
-\v 3 They sailed across deep seas
-\q2 to buy grain in Egypt
-\q1 and other crops that are grown along the Nile River.
-\q2 Tyre became the city where people from all nations bought and sold goods.
-\b
+<usfm> \v 1 I, Isaiah, received this message from Yahweh about the city of Tyre: \q1 You sailors on ships from Tarshish, \q2 weep, because the harbor of Tyre and all the houses in the city have been destroyed. \q2 The reports that you heard in the Island of Cyprus about Tyre are true. \b \q1 \v 2 You people who live along the coast near Tyre, and merchants of the city of Sidon, mourn silently. \q2 Your sailors went across the seas to many places like Tyre. \q1 \v 3 They sailed across deep seas \q2 to buy grain in Egypt \q1 and other crops that are grown along the Nile River. \q2 Tyre became the city where people from all nations bought and sold goods. \b
 
-
-\q1
-</usfm>
+\q1 </usfm>
 
 ===== ULB: =====
 
-<usfm>
-\c 23
-\p
-\v 1 A declaration about Tyre: 
-\q1 Howl, you ships of Tarshish; for there is neither home nor harbor; 
-\q1 from the land of Kittim it has been revealed to them.
-\q1
-\v 2 Be astounded, you inhabitants of the coast, you merchants of Sidon,
-\q1 who travel over the sea, whose agents supply you.
-\q1
-\v 3 And on great waters 
-\q1 the grain of the Shihor region, the harvest of the Nile, was brought to Tyre; she was the marketplace of nations.
-</usfm>
+<usfm> \c 23 \p \v 1 A declaration about Tyre: \q1 Howl, you ships of Tarshish; for there is neither home nor harbor; \q1 from the land of Kittim it has been revealed to them. \q1 \v 2 Be astounded, you inhabitants of the coast, you merchants of Sidon, \q1 who travel over the sea, whose agents supply you. \q1 \v 3 And on great waters \q1 the grain of the Shihor region, the harvest of the Nile, was brought to Tyre; she was the marketplace of nations. </usfm>
 
 ===== Important Terms: =====
 
-  * [[:en:obe:other:Tyre]]
-  * [[:en:obe:other:Tarshish]]
-  * [[:en:obe:kt:reveal]]
-  * [[:en:obe:other:Sidon]]
-  * [[:en:obe:other:water]]
-  * [[:en:obe:other:grain]]
-  * [[:en:obe:kt:harvest]]
-  * [[:en:obe:other:Nileriver]]
-  * [[:en:obe:other:nation]]
+  * [[:en:obe:other:tyre|Tyre]]
+  * [[:en:obe:other:tarshish|Tarshish]]
+  * [[:en:obe:kt:reveal|revealed]]
+  * [[:en:obe:other:sidon|Sidon]]
+  * [[:en:obe:other:water|waters]]
+  * [[:en:obe:other:grain|grain]]
+  * [[:en:obe:kt:harvest|harvest]]
+  * [[:en:obe:other:nileriver|Nile]]
+  * [[:en:obe:other:nation|nations]]
 
 ===== Translation Notes: =====
 
@@ -78,7 +34,6 @@
   * **Kittum**  – "Cyprus"
   * **Be astounded**  –“ Be shocked”
   * **Shihor**  - “Land of Egypt”
-
 ===== Links: =====
 
   * **[[:en:bible:notes:isa:questions:comprehension:23|Isaiah Chapter 23 Comprehension Questions]]**
