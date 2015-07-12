@@ -4,13 +4,12 @@
 
 The OBE Terms in table below are ready to be edited by the Team.
 
-Because of the volume of terms, the team is divided into two groups so that each group can focus on a different set of terms each week.
 
-==== Terms by Group: ====
+==== Terms to Edit: ====
 
-^  Groups  ^  Terms  |
-|  __**Group 1**   __  \\ Jan Zanutto \\ Matthew Latham \\ Richard Joki |{{topic>en:obe:?draft1&nocomments&simplelist}}  |
-|  __**Group 2** __  \\ David Book \\ Paul Holloway |{{topic>en:obe:?draft2&nocomments&simplelist}}  |
+^  Draft Pages  ^
+|{{pagequery>@en:obe \{\{tag>[^}]*draft[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; showcount; layout=table;hidemsg;hidejump;fontsize=90%}} |
+
 
 {{tag>kt101}}
 
