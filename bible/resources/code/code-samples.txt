@@ -82,7 +82,7 @@ Test finding KT pages with "drewc" tag but without "ktobs" tag:
 </code>
 
 
-==== Old "page query" Text String: ====
+==== Old "pagequery" Search: ====
 
 Search ns for pages with or without text string:
 
