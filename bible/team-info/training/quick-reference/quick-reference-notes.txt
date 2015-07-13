@@ -12,6 +12,9 @@ Links to other pages:
 
 {{topic>en:bible:team-info:training:quick-reference:discourse?publish&nocomments&simplelist}}
 
+{{pagequery>@en:bible:team-info:training:quick-reference:discourse {{tag>[^}]*publish[^}]*}}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=100%}}
+
+
 ==== Grammar ====
 
 {{topic>en:bible:team-info:training:quick-reference:grammar?publish&nocomments&simplelist}}
