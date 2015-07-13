@@ -23,7 +23,6 @@ The code looks like this:
       * //60 days = 51840000//
       * //90 days = 77760000//
       * //etc.//
-
 ==== Check activity ====
 
   - Open the page with DWEdit.
