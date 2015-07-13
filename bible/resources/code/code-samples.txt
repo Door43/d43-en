@@ -81,6 +81,12 @@ Test finding KT pages with "drewc" tag but without "ktobs" tag:
 {{pagequery>@en:obe:kt \{\{tag>(?![^}]*ktobs)(?=[^}]*drewc)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=100%}}
 </code>
 
+Test text string in a namespace (escape characters as needed):
+
+<code>
+{{pagequery>@en:bible:notes 1\); fulltextregex; sort=title:asc; display={title}; natsort; showcount; layout=table;hidemsg;hidejump;fontsize=90%}}
+</code>
+
 
 ==== Old "pagequery" Search: ====
 
