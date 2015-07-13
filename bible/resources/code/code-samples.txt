@@ -77,13 +77,13 @@ Code to pull in content from a specific section:
 Find all draft tags in Romans NS:
 
 <code>
-{{pagequery>@en:bible:notes:rom \{\{tag>[^}]*draft[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=100%}}
+{{pagequery>@en:bible:notes:rom {{tag>[^}]*draft[^}]*}}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=100%}}
 </code>
 
 Find pages without certain tags:
 
 <code>
-{{pagequery>@en:bible:notes \{\{tag>(?!draft|create|delete|check|review|text|discuss|publish); fulltextregex; sort=title:asc; display={title}; natsort; layout=table; showcount; hidemsg; hidejump;}}
+{{pagequery>@en:bible:notes {{tag>(?!draft|create|delete|check|review|text|discuss|publish); fulltextregex; sort=title:asc; display={title}; natsort; layout=table; showcount; hidemsg; hidejump;}}
 </code>
 
 Find string "selector-size" without text "details.cfm:
