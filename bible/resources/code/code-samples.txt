@@ -12,6 +12,17 @@ Code to display the activity of a user:
 {{changes>user=USER&count=12&render=pagelist(header,date,user,nocomments)&maxage=25920000}}
 </code>
 
+Code to display the activity in a namespace:
+
+  * Replace "NS" with Door43 namespace
+  * Count= sets number of results
+
+<code>
+**NAMESPACE:**
+{{changes>ns=NS&count=12&render=pagelist(header,date,user,nocomments)&maxage=25920000}}
+</code>
+
+
 ==== Tags: ====
 
 Display pages with in namespace with specific tag:
@@ -32,29 +43,6 @@ Display count of all tags in a namespace:
 {{count>+&en:bible:team-info:training:quick-reference}}
 </code>
 
-==== Search Text String: ====
-
-Search ns for pages with or without text string:
-
-<code>
-{{pagequery>ns:en:bible:notes:mat "{{tag>create" -"{{tag>delete"; fulltext; sort=title:asc; display={title}; natsort; layout=table; showcount; hidemsg; hidejump;}}
-</code>
-
-Search for inserted beginning **or**  ending <nowiki>HTML <font></nowiki> code in OBE pages:
-<code>
-{{pagequery>ns:en:obe "<font" | ns:en:obe "</font>"; fulltext; sort=title:asc; display={title}; natsort; layout=table; showcount; hidemsg; hidejump;}}
-</code>
-
-Search for inserted beginning **or**  ending <nowiki>HTML <font></nowiki> code in Bible notes pages:
-<code>
-{{pagequery>ns:en:bible:notes "<font" | ns:en:bible:notes "</font>"; fulltext; sort=title:asc; display={title}; natsort; layout=table; showcount; hidemsg; hidejump;}}
-</code>
-
-Find missing text portions:
-
-<code>
-{{pagequery>ns:en:bible:notes "Important Terms" -"===== Important Terms: ====="; fulltext; sort=title:asc; display={title}; natsort; layout=table; showcount; hidemsg; hidejump;}}
-</code>
 
 ==== Edit Page: ====
 
@@ -80,22 +68,17 @@ Find all draft tags in Romans NS:
 {{pagequery>@en:bible:notes:rom {{tag>[^}]*draft[^}]*}}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=100%}}
 </code>
 
-Find pages without certain tags:
+Test finding KT pages with "drewc" tag and with "ktobs" tag:
 
 <code>
-{{pagequery>@en:bible:notes {{tag>(?!draft|create|delete|check|review|text|discuss|publish); fulltextregex; sort=title:asc; display={title}; natsort; layout=table; showcount; hidemsg; hidejump;}}
+{{pagequery>@en:obe:kt \{\{tag>(?=[^}]*drewc)(?=[^}]*ktobs)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=100%}}
 </code>
 
-Find string "selector-size" without text "details.cfm:
+
+Test finding KT pages with "drewc" tag but without "ktobs" tag:
 
 <code>
-^(?!.*details\.cfm).*selector=size.*$
-</code>
-
-Test finding KT pages with "drewc" tag but not "ktobs" tag:
-
-<code>
-
+{{pagequery>@en:obe:kt \{\{tag>(?![^}]*ktobs)(?=[^}]*drewc)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=100%}}
 </code>
 
 ==== Other: ====
@@ -110,4 +93,28 @@ item:
 
 <code>
 
+</code>
+
+===== Old "page query" Text String: =====
+
+Search ns for pages with or without text string:
+
+<code>
+{{pagequery>ns:en:bible:notes:mat "{{tag>create" -"{{tag>delete"; fulltext; sort=title:asc; display={title}; natsort; layout=table; showcount; hidemsg; hidejump;}}
+</code>
+
+Search for inserted beginning **or**  ending <nowiki>HTML <font></nowiki> code in OBE pages:
+<code>
+{{pagequery>ns:en:obe "<font" | ns:en:obe "</font>"; fulltext; sort=title:asc; display={title}; natsort; layout=table; showcount; hidemsg; hidejump;}}
+</code>
+
+Search for inserted beginning **or**  ending <nowiki>HTML <font></nowiki> code in Bible notes pages:
+<code>
+{{pagequery>ns:en:bible:notes "<font" | ns:en:bible:notes "</font>"; fulltext; sort=title:asc; display={title}; natsort; layout=table; showcount; hidemsg; hidejump;}}
+</code>
+
+Find missing text portions:
+
+<code>
+{{pagequery>ns:en:bible:notes "Important Terms" -"===== Important Terms: ====="; fulltext; sort=title:asc; display={title}; natsort; layout=table; showcount; hidemsg; hidejump;}}
 </code>
