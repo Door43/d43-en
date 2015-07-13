@@ -60,7 +60,7 @@ Code to pull in content from a specific section:
 {{section>:en:bible:notes:luk:01:01#important terms:&noheader}}
 </code>
 
-==== New-style Regex Search: ====
+==== New Regex Search: ====
 
 Find all draft tags in Romans NS:
 
