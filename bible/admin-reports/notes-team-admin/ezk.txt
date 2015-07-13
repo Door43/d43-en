@@ -12,10 +12,9 @@ Reviewer - (//review to publish//) -
   * [[:en:udb:ep:26-ezk.usfm|Full UDB text of Ezekiel]]
   * [[:en:bible:team-info:training:notes-training|Notes Training]]
 
-
 ==== Ezekiel Page Status ====
 
-^  Draft  ^  Check  ^  Review  ^
+^  Draft  ^  Check  ^  Review  |
 |{{pagequery>@en:bible:notes:ezk \{\{tag>[^}]*draft[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=100%}} |{{pagequery>@en:bible:notes:ezk \{\{tag>[^}]*check[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=100%}} |{{pagequery>@en:bible:notes:ezk \{\{tag>[^}]*review[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=100%}} |
 
 \\
