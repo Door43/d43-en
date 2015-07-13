@@ -65,26 +65,26 @@ Code to pull in content from a specific section:
 Find all draft tags in Romans NS:
 
 <code>
-{{pagequery>@en:bible:notes:rom \{\{tag>[^}]*draft[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hide jump;showcount;fontsize=90%}}
+{{pagequery>@:en:bible:notes:rom \{\{tag>[^}]*draft[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hide jump;showcount;fontsize=90%}}
 </code>
 
 Test finding KT pages with "drewc" tag and with "ktobs" tag:
 
 <code>
-{{pagequery>@en:obe:kt \{\{tag>(?=[^}]*drewc)(?=[^}]*ktobs)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;showcount;fontsize=90%}}
+{{pagequery>@:en:obe:kt \{\{tag>(?=[^}]*drewc)(?=[^}]*ktobs)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;showcount;fontsize=90%}}
 </code>
 
 
 Test finding KT pages with "drewc" tag but without "ktobs" tag:
 
 <code>
-{{pagequery>@en:obe:kt \{\{tag>(?![^}]*ktobs)(?=[^}]*drewc)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;showcount;fontsize=90%}}
+{{pagequery>@:en:obe:kt \{\{tag>(?![^}]*ktobs)(?=[^}]*drewc)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;showcount;fontsize=90%}}
 </code>
 
 Test text string in a namespace (escape characters as needed):
 
 <code>
-{{pagequery>@en:bible:notes 1\); fulltextregex; sort=title:asc; display={title}; natsort; showcount; layout=table;hidemsg;hidejump;fontsize=90%}}
+{{pagequery>@:en:bible:notes 1\); fulltextregex; sort=title:asc; display={title}; natsort; showcount; layout=table;hidemsg;hidejump;fontsize=90%}}
 </code>
 
 
