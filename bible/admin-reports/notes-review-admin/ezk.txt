@@ -6,7 +6,7 @@
 
 ==== Ezekiel Pages Status ====
 
-Team Lead (//draft to check//) - workshop \\ Manager (//check to review//) - \\ Reviewer - (//review to publish//) - Ed Q
+Team Lead (//draft to check//) - workshop \\ Manager (//check to review//) - \\ Reviewer - (//review to publish//) - Susan Q/Ed Q
 
 ^  Review  ^  Text  ^  Discuss  ^  Publish  |
 |{{pagequery>@en:bible:notes:ezk \{\{tag>[^}]*review[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; showcount; layout=table;hidemsg;hidejump;fontsize=80%}} |{{pagequery>@en:bible:notes:ezk \{\{tag>[^}]*text[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; showcount; layout=table;hidemsg;hidejump;fontsize=80%}} |{{pagequery>@en:bible:notes:ezk \{\{tag>[^}]*discuss[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; showcount; layout=table;hidemsg;hidejump;fontsize=80%}} |{{pagequery>@en:bible:notes:ezk \{\{tag>[^}]*publish[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; showcount; layout=table;hidemsg;hidejump;fontsize=80%}} |
