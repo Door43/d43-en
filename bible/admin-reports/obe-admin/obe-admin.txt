@@ -45,4 +45,9 @@ These Notes or OBE pages are published, but also have the "ktlink" tag. They nee
 
 {{topic>publish +ktlink -review -discuss&tags&sort&nocomments}}
 
+
+{{pagequery>@en \{\{tag>(?![^}]*review)(?![^}]*discuss)(?=[^}]*ktlink)(?=[^}]*publish)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=100%}}
+
+
+
 \\
