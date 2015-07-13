@@ -44,7 +44,7 @@ Text
 ~~NOCACHE~~
 
 {{tag>create BIBnn ktlink}}
-{{tag>draftN ktlink}}
+{{tag>draft ktlink}}
 </code>
 
 The draft code for a "Name" OBE/KT page is:
@@ -76,7 +76,7 @@ Text
 ~~NOCACHE~~
 
 {{tag>create BIBnn ktlink}}
-{{tag>draftN ktlink}}
+{{tag>draft ktlink}}
 </code>
 
 
@@ -104,7 +104,7 @@ Text
 ~~NOCACHE~~
 
 {{tag>create BIBnn ktlink}}
-{{tag>draftN ktlink}}
+{{tag>draft ktlink}}
 </code>
 
 The draft code for a "Name" OBE/other page is:
@@ -131,5 +131,5 @@ Text
 ~~NOCACHE~~
 
 {{tag>create BIBnn ktlink}}
-{{tag>draftN ktlink}}
+{{tag>draft ktlink}}
 </code>
