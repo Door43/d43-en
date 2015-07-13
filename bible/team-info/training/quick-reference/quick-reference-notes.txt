@@ -10,14 +10,13 @@ Links to other pages:
 
 ==== Discourse ====
 
-{{topic>en:bible:team-info:training:quick-reference:discourse?publish&nocomments&simplelist}}
-
 {{pagequery>@en:bible:team-info:training:quick-reference:discourse \{\{tag>[^}]*publish[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=100%}}
 
 
 ==== Grammar ====
 
-{{topic>en:bible:team-info:training:quick-reference:grammar?publish&nocomments&simplelist}}
+{{pagequery>@en:bible:team-info:training:quick-reference:grammar \{\{tag>[^}]*publish[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=100%}}
+
 
 ==== Figures of Speech ====
 
@@ -51,8 +50,15 @@ Links to other pages:
 
 {{topic>en:bible:team-info:training:quick-reference:standard-notes?publish&nocomments&simplelist}}
 
+{{pagequery>@en:bible:team-info:training:quick-reference:standard-notes \{\{tag>[^}]*publish[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=100%}}
+
 ==== Other ====
 
-{{topic>en:bible:team-info:training:quick-reference:other?publish&nocomments&simplelist}}{{tag>notes101}}
+{{topic>en:bible:team-info:training:quick-reference:other?publish&nocomments&simplelist}}
+
+{{pagequery>@en:bible:team-info:training:quick-reference:other \{\{tag>[^}]*publish[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=100%}}
+
+
+{{tag>notes101}}
 
 ~~NOCACHE~~
