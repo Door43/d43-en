@@ -48,13 +48,9 @@ Links to other pages:
 
 ==== Standard Notes ====
 
-{{topic>en:bible:team-info:training:quick-reference:standard-notes?publish&nocomments&simplelist}}
-
 {{pagequery>@en:bible:team-info:training:quick-reference:standard-notes \{\{tag>[^}]*publish[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=100%}}
 
 ==== Other ====
-
-{{topic>en:bible:team-info:training:quick-reference:other?publish&nocomments&simplelist}}
 
 {{pagequery>@en:bible:team-info:training:quick-reference:other \{\{tag>[^}]*publish[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=100%}}
 
