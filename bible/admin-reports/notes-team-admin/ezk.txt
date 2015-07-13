@@ -14,7 +14,7 @@ Reviewer - (//review to publish//) - Susan Q/Ed Q
 
 ==== Ezekiel Page Status ====
 
-^  Draft  ^  Check  ^  Review  |
+^  Draft  ^  Check  ^  Review  ^
 |{{pagequery>@en:bible:notes:ezk \{\{tag>[^}]*draft[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; showcount; layout=table;hidemsg;hidejump;fontsize=80%}} |{{pagequery>@en:bible:notes:ezk \{\{tag>[^}]*check[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; showcount; layout=table;hidemsg;hidejump;fontsize=80%}} |{{pagequery>@en:bible:notes:ezk \{\{tag>[^}]*review[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; showcount; layout=table;hidemsg;hidejump;fontsize=80%}} |
 
 \\
