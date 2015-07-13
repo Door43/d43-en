@@ -47,7 +47,7 @@ These Notes or OBE pages are published, but also have the "ktlink" tag. They nee
 
 (Regex test)
 
-{{pagequery>@en \{\{tag>(?![^}]*review)(?![^}]*discuss)(?=[^}]*publish)(?=[^}]*ktlink)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; showcount; layout=table;hidemsg;hidejump;fontsize=90%}}
+{{pagequery>@:en \{\{tag>(?![^}]*review)(?![^}]*discuss)(?=[^}]*publish)(?=[^}]*ktlink)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; showcount; layout=table;hidemsg;hidejump;fontsize=90%}}
 
 
 
