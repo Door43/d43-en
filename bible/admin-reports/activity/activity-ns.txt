@@ -1,0 +1,37 @@
+====== Activity in a Namespace ======
+
+~~NOCACHE~~
+
+This page can be used to check the activity in a particular namespace for any time period. 
+
+The code looks like this:
+
+<code>
+{{changes>ns=NAMESPACE&count=100&render=pagelist(header,date,user,nocomments)&maxage=51840000}}
+</code>
+
+==== Variables: ====
+
+  * "NAMESPACE" is the full path of the namespace.
+  * "count=" is the maximum number of edits you wish to see.
+  * "maxusage" to the length of time in seconds:
+      * //1 day = 86400//
+      * //7 days = 604800//
+      * //10 days = 864000//
+      * //12 days = 1036800//
+      * //30 days = 25920000//
+      * //60 days = 51840000//
+      * //90 days = 77760000//
+      * //etc.//
+
+==== Check activity ====
+
+  - Open the page with DWEdit.
+  - Change the (now invisible) code in the "Check Activity" section below.
+  - Replace the word "NAMESPACE" with the full path of the namespace.
+  - Set "count=" to the maximum number of edits.
+  - Set "maxusage" to the length of time in seconds.
+  - Click "Preview" to see activity.
+{{changes>ns=NAMESPACE&count=100&render=pagelist(header,date,user,nocomments)&maxage=518400000}}
+
+(//Please click "Cancel" when finished to restore the page to "NAMESPACE"//)
