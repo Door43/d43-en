@@ -4,12 +4,10 @@
 
 The OBE Terms in table below are ready to be edited by the Team.
 
-
 ==== Terms to Edit: ====
 
-^  Draft Pages  ^
+^  Draft Pages  |
 |{{pagequery>@en:obe \{\{tag>[^}]*draft[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; showcount; layout=table;hidemsg;hidejump;fontsize=90%}} |
-
 
 {{tag>kt101}}
 
