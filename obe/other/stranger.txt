@@ -4,9 +4,8 @@
 
 Text
 
-* bullet
-
-<font inherit/inherit;;inherit;;inherit>* bullet</font>
+  * bullet
+  * bullet
 
 (See also: other)
 
