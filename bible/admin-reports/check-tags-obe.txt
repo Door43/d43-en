@@ -8,7 +8,7 @@ This query checks if the first tag is one of the valid tags required to make the
 
 Regex
 
-{{pagequery>@:en:obe:kt \{\{tag>(?![^}]*create)(?![^}]*delete)(?![^}]*draft)(?![^}]*review)(?![^}]*text)(?![^}]*discuss)(?![^}]*publish)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;showcount;fontsize=90%}}
+{{pagequery>@:en:obe (?![^}]\{\{tag>create)(?![^}]\{\{tag>delete)(?![^}]\{\{tag>draft)(?![^}]\{\{tag>review)(?![^}]\{\{tag>text)(?![^}]\{\{tag>discuss)(?![^}]\{\{tag>publish)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;showcount;fontsize=90%}}
 
 
 ==== Check for Well-Formed OBE Tags ====
@@ -19,4 +19,4 @@ The following query checks that every page that has curly braces"{}" include the
 
 Regex
 
-{{pagequery>@:en:obe:kt \{\{tag>*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;showcount;fontsize=90%}}
+{{pagequery>@:en:obe \{\{tag>; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;showcount;fontsize=90%}}
