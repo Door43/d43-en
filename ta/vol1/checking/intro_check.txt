@@ -5,52 +5,15 @@ This module answers the question: What is the Checking Manual?\\
 
 === This manual describes how to check translated biblical content for accuracy, clarity, and naturalness. ===
 
-**//Volume One, for the translation team// **
+**//Volume One// **
+
+Volume One contains instructions for checking the translation that the translation team will use to check each other's work. If they follow these instructions, they will complete checking level one. Volume One also contains instructions for the translation team to use for checking the translation with the language community for clarity and naturalness, and for church leaders to use when they check the translation for accuracy. If they follow these instructions, they will complete checking level two. 
+
+**//Volume Two// **
+
+Volume Two contains further instructions for checking the translation that the church leaders can use to check the translation. These instructions are also for the leaders of church networks to use for checking the translation. Because many leaders of church networks do not speak the language of the translation, Volume Two also contains instructions for creating a back translation, which allows people to check a translation in a language that they do not speak.
 
 
-===== Translation Checking Manual Table of Contents =====
-
-  * [[:en:ta:check|Introduction]]
-  * [[:en:ta:check|Definition of a Checking Level]]
-  * [[:en:ta:check|How Checking Levels Work]]
-  *  [[:en:ta:check|The Checking Levels]]
-      *  [[:en:ta:check:level1|Checking Level One - Internal Check]]
-        * [[:en:ta:check:level1|Definition of Checking Level One]]
-        *  [[:en:ta:check:level1|Steps for checking under Level One (Internal)]]
-          * [[:en:ta:check:level1|Make Contact with unfoldingWord]]
-          * [[:en:ta:check:level1|Review the Statement of Faith and Translation Guidelines]]
-          * [[:en:ta:check:level1|Agree with the Statement of Faith and Translation Guidelines]]
-          * [[:en:ta:check:draft|How to Make a First Draft Translation]]
-          * [[:en:ta:check:selfcheck|Self Check]]
-          * [[:en:ta:check:peercheck|Peer Check]]
-          * [[:en:ta:check:importanttermcheck|Important Term Check]]
-          * [[:en:ta:check:accuracycheck|Accuracy Check]]
-          * [[:en:ta:check:level1|Level One Affirmation]]
-        * [[:en:ta:check:level1|Where to do Checking Level 1]]
-      *  [[:en:ta:check:level2|Checking Level Two – External Check]]
-        * [[:en:ta:check:level2|Definition of Checking Level Two]]
-        *  [[:en:ta:check:level2|The Two Ways of Level Two checking]]
-          *  [[:en:ta:check:languagecommunity|Language Community Check]]
-            * [[:en:ta:check:communityevaluation|Language Community Evaluation]]
-          *  [[:en:ta:check:churchleader|Church Leader Check]]
-            * [[:en:ta:check:churchleader|Compare with Statement of Faith and Translation Guidelines]]
-            * [[:en:ta:check:translatorqualifications|Questions About the Translator]]
-            * [[:en:ta:check:clear|Clear Translation]]
-            * [[:en:ta:check:style|Acceptable Style]]
-            * [[:en:ta:check:alphabet|Appropriate Alphabet]]
-            * [[:en:ta:check:accurate|Accurate Meaning]]
-            * [[:en:ta:check:complete|Complete Translation]]
-            * [[:en:ta:check:churchleader|Meet with Translation Team]]
-            * [[:en:ta:check:level2churchaffirmation|Level Two Church Affirmation]]
-        * [[:en:ta:check:level2|Where to do Checking Level Two]]
-      *  [[:en:ta:check:level3|Checking Level Three - Authenticated Check]]
-        * [[:en:ta:check:level3|Level Three, Track One (Three Church Networks)]]
-        *  [[:en:ta:check:level3|Level Three, Track Two (Trained Translation Checker + One Church Network)]]
-          * [[:en:ta:check:level3questions|Questions for Checking on Level Three]]
-          * [[:en:ta:check:level3approval|Level Three Approval]]
-        * [[:en:ta:check:level3|Where to do Checking Level Three]]
-  * [[:en:ta:check|Checking the Checkers]]
-  * How to Do a Back Translation
 
 
 
