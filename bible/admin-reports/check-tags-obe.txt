@@ -13,6 +13,3 @@ The following query checks that every page that has curly braces"{}" include the
 
 {{pagequery>ns:en:obe -en:obe:home -en:obe:kt:home - en:obe:other:home "{{" -"{{tag>"; fulltext; sort=title:asc; display={title}; natsort; layout=table; showcount; hidemsg; hidejump;}}
 
-regex
-
-{{pagequery>@:en:obe (?=\{\{)(?!\{\{tag>)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;showcount;fontsize=90%}}
