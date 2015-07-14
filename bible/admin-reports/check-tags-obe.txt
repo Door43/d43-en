@@ -2,9 +2,9 @@
 
 ==== Check on Bad OBE Tags ====
 
-This query checks if the first tag is one of the valid tags required to make the system work correctly: {create|delete|draft*|review|text|discuss|publish}. Pages listed here are likely being overlooked.(EQ)
+This query checks if the first tag is one of the valid tags required to make the system work correctly: {create|delete|draft|review|text|discuss|publish}. Pages listed here are likely being overlooked.(EQ)
 
-{{pagequery>ns:en:obe "{{tag>" -"{{tag>create" -"{{tag>delete" -"{{tag>draft1" -"{{tag>draft2" -"{{tag>review" -"{{tag>text" -"{{tag>discuss" -"{{tag>publish"; fulltext; sort=title:asc; display={title}; natsort; layout=table; showcount; hidemsg; hidejump;}}
+{{pagequery>ns:en:obe "{{tag>" -"{{tag>create" -"{{tag>delete" -"{{tag>draft" -"{{tag>review" -"{{tag>text" -"{{tag>discuss" -"{{tag>publish"; fulltext; sort=title:asc; display={title}; natsort; layout=table; showcount; hidemsg; hidejump;}}
 
 ==== Check for Well-Formed OBE Tags ====
 
