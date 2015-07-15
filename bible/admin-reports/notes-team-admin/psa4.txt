@@ -18,10 +18,4 @@ Reviewer - (//review to publish//) -
 ^  Draft  ^  Check  ^  Review  ^
 |{{pagequery>@:en:bible:notes:psa \{\{tag>(?=[^}]*draft)(?=[^}]*book4)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;showcount;fontsize=90%}} |{{pagequery>@:en:bible:notes:psa \{\{tag>(?=[^}]*check)(?=[^}]*book4)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;showcount;fontsize=90%}} |{{pagequery>@:en:bible:notes:psa \{\{tag>(?=[^}]*review)(?=[^}]*book4)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;showcount;fontsize=90%}} |
 
-regex - draft
-
-{{pagequery>@:en:bible:notes:psa \{\{tag>(?=[^}]*draft)(?=[^}]*book4)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;showcount;fontsize=90%}}
-
-
-
 \\
