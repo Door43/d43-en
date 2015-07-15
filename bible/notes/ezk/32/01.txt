@@ -12,7 +12,7 @@
 
 ===== ULB: =====
 
-<usfm> \c 32 \p \v 1 Then it came to pass in the twelfth month of the twelfth year, on the first of the month, the work of Yahweh came to me and said, \v 2 “Son of man, lift up a lamentation concerning Pharaoh, the king of Egypt, and say to him, ‘You were like a young lion among the nations, \q But you are like a sea monster within the seas; you burst forth with your rivers. \q And you stir up waters with your feet; you muddy their rivers! </usfm>
+<usfm> \c 32 \p \v 1 Then it came to pass in the twelfth month of the twelfth year, on the first of the month, the work of Yahweh came to me and said, \v 2 “Son of man, lift up <font inherit/inherit;;inherit;;inherit>a lamentation concerning Pharaoh, the king of Egypt, and say to him, ‘You were like a young lion among the nations, \q But you are like a sea monster within the seas; you burst forth with your rivers. \q And you stir up waters with your feet; you muddy their rivers! </usfm></font>
 
 ===== Important Terms: =====
 
@@ -29,12 +29,15 @@
 
 ===== Translation Notes: =====
 
-  * **<font 14px line-height: 15.6800003051758px;/inherit;;inherit;;inherit>Then it came to pass</font> **- "It came about" - This phrase is used here to mark the beginning of a new part of the story. If your language has a way for doing this, you could consider using it here.
-  * **<font 14px line-height: 15.6800003051758px;/inherit;;inherit;;inherit>twelfth month of the twelfth year, on the first of the month</font> **-
-  * **bold words**  - explanation
-  * **bold words**  - explanation
-  * **bold words**  - explanation
-  * **bold words**  - explanation
+  * **<font 14px line-height: 15.6800003051758px/inherit;;inherit;;inherit>Then it came to pass</font>    **- "It came about" - This phrase is used here to mark the beginning of a new part of the story. If your language has a way for doing this, you could consider using it here.
+  * **<font 14px line-height: 15.6800003051758px/inherit;;inherit;;inherit>in the twelfth month of the twelfth year, on the first of the month</font>    **- " on the first day of the twelfth month"  <font 14px line-height: 15.6800003051758px;/inherit;;inherit;;inherit>Almost twelve years after we had been taken to Babylonia</font> (UDB)
+  * <font 14px line-height: 15.6800003051758px;/inherit;;inherit;;inherit>** the <del> work CKGE_TMP_cdel word of Yahweh came to me **</font> - "Yahweh spoke to Ezekiel"
+  * **<font 14px line-height: 15.6800003051758px;/inherit;;inherit;;inherit>Son of man</font> **- addressing Ezekiel
+  * **<font 14px line-height: 15.6800003051758px;/inherit;;inherit;;inherit>lift up</font> **- "give" "bring up" "raise"
+  * **<font 14px line-height: 15.6800003051758px;/inherit;;inherit;;inherit>You were like a young lion</font> **- This portion begins a word of the Lord to the King of Egypt. "like a young lion" This simile means that the King, "you", was "implusive" or "acting without thinking" (See: Simile)
+  * **<font 14px line-height: 15.6800003051758px;/inherit;;inherit;;inherit>among the nations</font>  **- This means as one in a group of nations.
+  * **<font 14px line-height: 15.6800003051758px;/inherit;;inherit;;inherit>But you are like a sea monster within the seas; you burst forth with your rivers. And you stir up waters with your feet; you muddy their rivers!</font> ** <font 14px line-height: 15.6800003051758px;/inherit;;inherit;;inherit>-  Alternate translation</font> "But you are like a monster in the water breaking out, causing trouble and ruining their clear water" <font 14px line-height: 15.6800003051758px;/inherit;;inherit;;inherit>(See: Simile)</font>
+
 ===== Links: =====
 
   * **[[:en:bible:notes:ezk:questions:comprehension:32|Ezekiel Chapter 32 Comprehension Questions]]**
