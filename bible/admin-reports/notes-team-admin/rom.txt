@@ -14,7 +14,7 @@ Reviewer -
 
 ==== Romans Pages Status ====
 
-^  Draft  ^  Check  ^  Review  ^  Publish  |
-|{{pagequery>@en:bible:notes:rom \{\{tag>[^}]*draft[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=100%}} |{{pagequery>@en:bible:notes:rom \{\{tag>[^{]*check[^{]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=100%}} |{{pagequery>@en:bible:notes:rom \{\{tag>[^{]*review[^{]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=100%}} |{{pagequery>@en:bible:notes:rom \{\{tag>[^{]*publish[^{]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=100%}} |
+^  Draft  ^  Check  ^  Review  ^  Publish  ^
+|{{pagequery>@en:bible:notes:rom \{\{tag>[^}]*draft[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}} |{{pagequery>@en:bible:notes:rom \{\{tag>[^{]*check[^{]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}} |{{pagequery>@en:bible:notes:rom \{\{tag>[^{]*review[^{]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}} |{{pagequery>@en:bible:notes:rom \{\{tag>[^{]*publish[^{]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}} |
 
 \\
