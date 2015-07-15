@@ -38,13 +38,15 @@ The phrase “that he was reading a book” is an indirect quotation because som
 
 Some languages require special markers that indicate what evidence a speaker has for what they are saying. These can range from being a witness, to being directly told (quoted speech), to being indirectly told (reported speech), to heresay, or inference.
 
-From [[http://wals.info/languoid/lect/wals_code_lez|Lezgian]], a language spoken in Azerbaijan and Russia
+From Lezgian, a language spoken in Azerbaijan and Russia
 
-  //Qe        sobranie    že-da-**lda**.//
+<code>
+//Qe        sobranie    že-da-**lda**.//
+</code>
 
-today     meeting     be-fut-**quot**
+today meeting be-fut-**quot**
 
-**'They say** that there will be a meeting today'<font inherit/inherit;;inherit;;inherit></font>
+**'They say** that there will be a meeting today'
 
 ----
 
