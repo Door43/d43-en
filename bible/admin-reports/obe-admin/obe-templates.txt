@@ -55,13 +55,13 @@ The draft code for a "Name" OBE/KT page is:
 ===== Facts: =====
 
 Text
-    * bullet
-    * bullet
+  * bullet
+  * bullet
 
 ===== Translation Suggestions: =====
 
-    * bullet
-    * bullet
+  * bullet
+  * bullet
 
 (See: [[en:ta:translate:translatenames]])
 
@@ -90,8 +90,8 @@ The draft code for a "term" OBE/other page is:
 ===== Definition: =====
 
 Text
-    * bullet
-    * bullet
+  * bullet
+  * bullet
 
 (See also: other)
 
@@ -115,8 +115,8 @@ The draft code for a "Name" OBE/other page is:
 ===== Facts: =====
 
 Text
-    * bullet
-    * bullet
+  * bullet
+  * bullet
 
 (Translation suggestions: [[en:ta:translate:translatenames]])
 
