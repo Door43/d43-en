@@ -16,7 +16,6 @@ Reviewer - (//review to publish//) -
 ==== Psalms Book 3 Page Status ====
 
 ^  Draft  ^  Check  ^  Review  ^
-|{{pagequery>ns:en:bible:notes:psa "{{tag>draft" +"book3" -"cq"; fulltext; sort=title:asc; display={title}; natsort; layout=table; showcount; hidemsg; hidejump;}} |{{pagequery>ns:en:bible:notes:psa "{{tag>check" +"book3" -"cq"; fulltext; sort=title:asc; display={title}; natsort; layout=table; showcount; hidemsg; hidejump;}} |{{pagequery>ns:en:bible:notes:psa "{{tag>review" +"book3" -"cq"; fulltext; sort=title:asc; display={title}; natsort; layout=table; showcount; hidemsg; hidejump;}} |
+|{{pagequery>@:en:bible:notes:psa \{\{tag>(?=[^}]*draft)(?=[^}]*book3)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;showcount;fontsize=90%}} |{{pagequery>@:en:bible:notes:psa \{\{tag>(?=[^}]*check)(?=[^}]*book3)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;showcount;fontsize=90%}} |{{pagequery>@:en:bible:notes:psa \{\{tag>(?=[^}]*review)(?=[^}]*book3)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;showcount;fontsize=90%}} |
 
 \\
-
