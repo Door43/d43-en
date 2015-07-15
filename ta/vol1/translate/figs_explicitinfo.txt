@@ -6,20 +6,22 @@ Before you start this module have you learned about: [[en:ta:vol1:translate:figs
 To make implicit information explicit, translators need to be particularly sensitive when information is not stated explicitly. 
 The translator always wants to make sure the reader understands the original meaning of the message. This may mean the translation may have additional information included to make the meaning clear. 
 Read the Translation Notes for more information on how to make the implicit information explicit. 
-1) Some languages may need to add an object where the source language does not have one.
-2) Implied information may be made explicit for clarification purposes if:
-  * Only the implied information in the original message is made explicit,
-  * No new information is added
-  * It is necessary in order to communicate the main point of the message,
-  * No meaning, or a wrong meaning would be communicated without the added information
-  * It does not change the meaning so it is no longer true or accurate
-  * It is suitable to the original situation in which the message was given.
+
+  - Some languages may need to add an object where the source language does not have one.
+  - Implied information may be made explicit for clarification purposes if:
+    * Only the implied information in the original message is made explicit,
+    * No new information is added
+    * It is necessary in order to communicate the main point of the message,
+    * No meaning, or a wrong meaning would be communicated without the added information
+    * It does not change the meaning so it is no longer true or accurate
+    * It is suitable to the original situation in which the message was given.
 As always, you need to ask yourself if your translation is communicating accurately what the original message was saying. Occasionally something is intentionally unclear in the text. The translator should keep it unclear in the translation. The translation should always have the same meaning as the source text.
 
 ===== Example from the Bible =====
-John 8:10 & 11 states: ‘Jesus …asked her, “Woman where are they? Has no one condemned you?” “No one, sir,” she said.’ \\ 
-Jesus’ question is **explicit**  because it is clearly stated and understood.\\ 
-\\ 
+John 8:10 & 11 states: ‘Jesus …asked her, “Woman where are they? Has no one condemned you?” “No one, sir,” she said.’
+
+Jesus’ question is **explicit**  because it is clearly stated and understood.
+
 The woman's reply is   **implicit**. If the woman’s reply were explicit, she would have said, “No one has condemned me, sir.” Even though the words "   //…has condemned me…//” are left out, Jesus is still able to understand the woman. Her answer is understood because of the context of the conversation.
 
 

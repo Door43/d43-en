@@ -58,6 +58,8 @@ edge [arrowsize=1.4];
 "figs_intro" -> "figs_metaphor"
 "figs_sentences" [fillcolor="#99ff99"]
 "figs_intro" -> "figs_sentences"
+"figs_quotations" [fillcolor="#99ff99"]
+"figs_intro" -> "figs_quotations"
 "guidelines_equal" [fillcolor="#99ff99"]
 "guidelines_intro" -> "guidelines_equal"
 "translation_guidelines" -> "guidelines_equal"
@@ -161,8 +163,8 @@ edge [arrowsize=1.4];
 "figs_intro" -> "figs_ellipsis"
 "translate_terms" [fillcolor="#99ff99"]
 "translate_manual" -> "translate_terms"
-"figs_quotations" [fillcolor="#99ff99"]
-"figs_intro" -> "figs_quotations"
+"translate_original" [fillcolor="#99ff99"]
+"translate_process" -> "translate_original"
 "figs_genitivecase" [fillcolor="#99ff99"]
 "figs_intro" -> "figs_genitivecase"
 "figs_grammar" [fillcolor="#99ff99"]

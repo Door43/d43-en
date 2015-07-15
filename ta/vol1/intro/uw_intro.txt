@@ -52,7 +52,7 @@ What do we do?
       * [[en:ta:vol1:tech:uw_intro|unfoldingWord app]] - a mobile app where checked unfoldingWord translations are published and distributed     
       * [[en:ta:vol2:tech:dpe|Digital Publishing Engine]] - a system of pushing checked translations to the unfoldingWord website and app and creating print-ready documents of the content     
       * [[en:ta:vol2:tech:audio|Audio Recording]] - a list of recommendations for audio recording equipment, software, and recording procedures     
-      * [[en:ta:vol2:tech:video|Video Render Engine]] - an automatic video render system that takes audio recordings and merges them we video clips to create custom videos for certain projects   
+      * [[en:ta:vol2:tech:video|Video Render Engine]] - an automatic video render system that takes audio recordings and merges them with video clips to create custom videos for certain projects   
 
    * **Training** - We create resources to train mother tongue translation teams
       * [[en:ta:translate:home|Translation Manual]] - how to translate 
