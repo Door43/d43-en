@@ -1,0 +1,12 @@
+====== "Text" and "Discuss" Pages for Larry ======
+
+~~NOCACHE~~
+
+  * [[:en:bible:admin-reports:check-tags|Check Tags]]
+
+==== Location ====
+
+^  OBE-Discuss  ^  Notes-Discuss  ^ Notes-Text  ^
+|{{pagequery>@en:obe \{\{tag>[^}]*discuss[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort;showcount; layout=table;hidemsg;hidejump;fontsize=90%}} |{{pagequery>@en:bible:notes \{\{tag>[^}]*discuss[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort;showcount; layout=table;hidemsg;hidejump;fontsize=90%}} |{{pagequery>@en:bible:notes \{\{tag>[^}]*text[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort;showcount; layout=table;hidemsg;hidejump;fontsize=90%}}  |
+
+\\
