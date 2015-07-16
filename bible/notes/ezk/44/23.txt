@@ -2,30 +2,17 @@
 
 ===== TFT: =====
 
-<usfm>
-\v 23 They must teach the people the difference between things that are holy\f + \ft Or: sacred \f* and things that are not, and teach them how to know what things are acceptable to God and what things are not.
-\p
-\v 24 If there is a dispute between people, the priests are the ones who must serve as judges and decide matters according to my laws. They must obey all my laws and decrees concerning the sacred festivals, and they must keep my Sabbath days holy\f + \ft Or: set apart \f*.
-\p
-</usfm>
+<usfm> \v 23 They must teach the people the difference between things that are holy\f + \ft Or: sacred \f* and things that are not, and teach them how to know what things are acceptable to God and what things are not. \p \v 24 If there is a dispute between people, the priests are the ones who must serve as judges and decide matters according to my laws. They must obey all my laws and decrees concerning the sacred festivals, and they must keep my Sabbath days holy\f + \ft Or: set apart \f*. \p </usfm>
 
 ===== UDB: =====
 
-<usfm>
-\v 23 They must teach the people the difference between things that are holy and things that are not, and teach them how to know what things are acceptable to God and what things are not.
-\p
-\v 24 If there is a dispute between people, the priests are the ones who must serve as judges and decide matters according to my laws. They must obey all my laws and decrees concerning the sacred festivals, and they must keep my Sabbath days holy.
+<usfm> \v 23 They must teach the people the difference between things that are holy and things that are not, and teach them how to know what things are acceptable to God and what things are not. \p \v 24 If there is a dispute between people, the priests are the ones who must serve as judges and decide matters according to my laws. They must obey all my laws and decrees concerning the sacred festivals, and they must keep my Sabbath days holy.
 
-
-\p
-</usfm>
+\p </usfm>
 
 ===== ULB: =====
 
-<usfm>
-\v 23 For they will teach my people between the holy and the profane and make them know the unclean from the clean.
-\v 24 In a dispute they will stand to judge with my judgment; they will be just. And they will keep my Law and my statutes in every feast; they will sanctify my Sabbaths.
-</usfm>
+<usfm> \v 23 For they will teach my people between the holy and the profane and make them know the unclean from the clean. \v 24 In a dispute they will stand to judge with my judgment; they will be just. And they will keep my Law and my statutes in every feast; they will sanctify my Sabbaths. </usfm>
 
 ===== Important Terms: =====
 
@@ -35,7 +22,7 @@
   * profane
   * clean
   * unclean
-  * judge, judgement
+  * judge
   * just
   * Law
   * feast
@@ -44,12 +31,14 @@
 
 ===== Translation Notes: =====
 
-  * **They ****- ** This is** **reference to <font 14px line-height: 19.6000003814697px/inherit;;inherit;;inherit>the Levitical priests, the sons of Zadok (44:15)</font>
-  * <font 14px line-height: 19.6000003814697px; text-align: justify; text-indent: 17.5px; background-color: rgb(255, 255, 255);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; text-align: justify; text-indent: 17.5px; background-color: rgb(255, 255, 255);>teach my people between the holy and the profane -</font>
-  * **In a dispute **  - This means during any disagreement or argument.
-  * **<font inherit/inherit;;inherit;;inherit>they will stand to judge with my judgment</font>    ****- **  the Levitical priests, the sons of Zadok will judge the people, using God's judgement.
-  * **statutes**  - a written rule or regulation, a synonym for Law.
+  * **They ****- **  This isreference to <font 14px line-height: 19.6000003814697px/inherit;;inherit;;inherit>the Levitical priests, the sons of Zadok (44:15)</font>
+  * <font 14px line-height: 19.6000003814697px text-align: justify; text-indent: 17.5px; background-color: rgb(255, 255, 255);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; text-align: justify; text-indent: 17.5px; background-color: rgb(255, 255, 255);>teach my people between the holy and the profane -</font></li>/Lato, sans-serif;;inherit;;rgb(255, 255, 255)/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; text-align: justify; text-indent: 17.5px; background-color: rgb(255, 255, 255);>teach my people between the holy and the profane -</font></li>>
 
+ ** In a dispute  ** - This means during any disagreement or argument.
+
+</font>
+  * **<font inherit/inherit;;inherit;;inherit>they will stand to judge with my judgment</font>  ****- **  the Levitical priests, the sons of Zadok will judge the people, using God's judgement.
+  * **statutes**  - a written rule or regulation, a synonym for Law.
 ===== Links: =====
 
   * **[[:en:bible:notes:ezk:questions:comprehension:44|Ezekiel Chapter 44 Comprehension Questions]]**
