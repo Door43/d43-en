@@ -6,83 +6,80 @@
 
 === Matthew ===
 
-{{topic>:en:bible:notes?mgrmat&nocomments&simplelist}}
+{{pagequery>@:en:bible:notes:mat \{\{tag>[^}]*mgrmat[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hide jump;showcount;fontsize=90%}}
 
 === Mark ===
 
-{{topic>:en:bible:notes?mgrmrk&nocomments&simplelist}}
+{{pagequery>@:en:bible:notes:mrk \{\{tag>[^}]*mgrmrk[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hide jump;showcount;fontsize=90%}}
 
 === Acts ===
 
-{{topic>:en:bible:notes?mgract&nocomments&simplelist}}
+{{pagequery>@:en:bible:notes:act \{\{tag>[^}]*mgract[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hide jump;showcount;fontsize=90%}}
 
 === Ephesians ===
 
-{{topic>:en:bible:notes?mgreph&nocomments&simplelist}}
+{{pagequery>@:en:bible:notes:eph \{\{tag>[^}]*mgreph[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hide jump;showcount;fontsize=90%}}
 
 === Colossians ===
 
-{{topic>:en:bible:notes?mgrcol&nocomments&simplelist}}
+{{pagequery>@:en:bible:notes:col \{\{tag>[^}]*mgrcol[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hide jump;showcount;fontsize=90%}}
 
 === 1,2 Thessalonians ===
 
-{{topic>:en:bible:notes?mgr1th&nocomments&simplelist}}{{topic>:en:bible:notes?mgr2th&nocomments&simplelist}}
-
+{{pagequery>@:en:bible:notes:1th \{\{tag>[^}]*mgr1th[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hide jump;showcount;fontsize=90%}}
+{{pagequery>@:en:bible:notes:2th \{\{tag>[^}]*mgr2th[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hide jump;showcount;fontsize=90%}}
 
 ===== John H's books: =====
 
 === Genesis ===
 
-{{topic>:en:bible:notes?mgrgen&nocomments&simplelist}}
+{{pagequery>@:en:bible:notes:gen \{\{tag>[^}]*mgrgen[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hide jump;showcount;fontsize=90%}}
 
 === Isaiah ===
 
-{{topic>:en:bible:notes?mgrisa&nocomments&simplelist}}
+{{pagequery>@:en:bible:notes:isa \{\{tag>[^}]*mgrisa[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hide jump;showcount;fontsize=90%}}
 
 === Jonah ===
 
-{{topic>:en:bible:notes?mgrjon&nocomments&simplelist}}
+{{pagequery>@:en:bible:notes:jon \{\{tag>[^}]*mgrjon[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hide jump;showcount;fontsize=90%}}
 
 === Philippians ===
 
-{{topic>:en:bible:notes?mgrphp&nocomments&simplelist}}
+{{pagequery>@:en:bible:notes:php \{\{tag>[^}]*mgrphp[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hide jump;showcount;fontsize=90%}}
 
 === James ===
 
-{{topic>:en:bible:notes?mgrjas&nocomments&simplelist}}
+{{pagequery>@:en:bible:notes:jas \{\{tag>[^}]*mgrjas[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hide jump;showcount;fontsize=90%}}
 
 === 1,2,3 John ===
 
-{{topic>:en:bible:notes?mgr1jn&nocomments&simplelist}}{{topic>:en:bible:notes?mgr2jn&nocomments&simplelist}}{{topic>:en:bible:notes?mgr3jn&nocomments&simplelist}}
-
-
-
+{{pagequery>@:en:bible:notes:1jn \{\{tag>[^}]*mgr1jn[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hide jump;showcount;fontsize=90%}}
+{{pagequery>@:en:bible:notes:2jn \{\{tag>[^}]*mgr2jn[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hide jump;showcount;fontsize=90%}}
+{{pagequery>@:en:bible:notes:3jn \{\{tag>[^}]*mgr3jn[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hide jump;showcount;fontsize=90%}}
 
 ===== Unassigned: =====
 
 === Ezekiel ===
 
-{{topic>:en:bible:notes?mgrezk&nocomments&simplelist}}
+{{pagequery>@:en:bible:notes:ezk \{\{tag>[^}]*mgrezk[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hide jump;showcount;fontsize=90%}}
 
 === Exodus ===
 
-{{topic>:en:bible:notes?mgrexo&nocomments&simplelist}}
+{{pagequery>@:en:bible:notes:exo \{\{tag>[^}]*mgrexo[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hide jump;showcount;fontsize=90%}}
 
 === Lamentations ===
 
-{{topic>:en:bible:notes?mgrlam&nocomments&simplelist}}
+{{pagequery>@:en:bible:notes:lam \{\{tag>[^}]*mgrlam[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hide jump;showcount;fontsize=90%}}
 
 === Romans ===
 
-{{topic>:en:bible:notes?mgrrom&nocomments}}
+{{pagequery>@:en:bible:notes:rom \{\{tag>[^}]*mgrrom[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hide jump;showcount;fontsize=90%}}
 
 === Jude ===
 
-{{topic>:en:bible:notes?mgrjud&nocomments}}
+{{pagequery>@:en:bible:notes:jud \{\{tag>[^}]*mgrjud[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hide jump;showcount;fontsize=90%}}
 
 === Revelation ===
 
-{{topic>:en:bible:notes?mgrrev&nocomments&simplelist}}
-
-
+{{pagequery>@:en:bible:notes:rev \{\{tag>[^}]*mgrrev[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hide jump;showcount;fontsize=90%}}
 
