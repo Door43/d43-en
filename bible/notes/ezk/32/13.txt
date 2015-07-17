@@ -2,44 +2,17 @@
 
 ===== TFT: =====
 
-<usfm>
-\v 13 I will destroy all the cattle in Egypt
-\q2 that graze\f + \ft Or: eat grass \f* alongside the streams.
-\q1 As a result, the water in those streams will never again become muddy
-\q2 because of people and cattle walking in them.
-\q1
-\v 14 Then I will allow the streams in Egypt to become calm again
-\q2 and flow \add as smoothly\add* \f + \ft simile \f* as olive oil flows.
-\b
-\q1
-</usfm>
+<usfm> \v 13 I will destroy all the cattle in Egypt \q2 that graze\f + \ft Or: eat grass \f* alongside the streams. \q1 As a result, the water in those streams will never again become muddy \q2 because of people and cattle walking in them. \q1 \v 14 Then I will allow the streams in Egypt to become calm again \q2 and flow \add as smoothly\add* \f + \ft simile \f* as olive oil flows. \b \q1 </usfm>
 
 ===== UDB: =====
 
-<usfm>
-\v 13 I will destroy all the cattle in Egypt
-\q2 that graze alongside the streams.
-\q1 As a result, the water in those streams will never again become muddy
-\q2 because of people and cattle walking in them.
-\q1
-\v 14 Then I will allow the streams in Egypt to become calm again
-\q2 and flow as smoothly as olive oil flows.
-\b
+<usfm> \v 13 I will destroy all the cattle in Egypt \q2 that graze alongside the streams. \q1 As a result, the water in those streams will never again become muddy \q2 because of people and cattle walking in them. \q1 \v 14 Then I will allow the streams in Egypt to become calm again \q2 and flow as smoothly as olive oil flows. \b
 
-
-\q1
-</usfm>
+\q1 </usfm>
 
 ===== ULB: =====
 
-<usfm>
-\q
-\v 13 For I will destroy every beast from beside the great waters;
-\q And the foot of man will no longer stir the waters up, neither will the hooves of beasts stir the waters!
-\q
-\v 14 Then I will calm their waters and make their rivers run like oil.
-\q –this is the Lord Yahweh’s declaration!
-</usfm>
+<usfm> \q \v 13 For I will destroy every beast from beside the great waters; \q And the foot of man will no longer stir the waters up, neither will the hooves of beasts stir the waters! \q \v 14 Then I will calm their waters and make their rivers run like oil. \q –this is the Lord Yahweh’s declaration! </usfm>
 
 ===== Important Terms: =====
 
@@ -50,8 +23,8 @@
 
 ===== Translation Notes: =====
 
-  * **For I will destroy every beast from beside the great waters;**  - "I will kill every animal that lives (or "grazes) near the Nile River."
-  * **And the foot of man will no longer stir the waters up,****neither will the hooves of beasts stir the waters! - **"No men or animals will live near the water and stir it up."
+  * **For I will destroy every beast from beside the great waters;**  - "I will kill every animal that lives near the Nile River."
+  * **And the foot of man will no longer stir the waters up,****neither will the hooves of beasts stir the waters! - **"No men or animals will live near the water and stir it up." (See:Metonymy)
   * **Then I will calm their waters and make their rivers run like oil. -**  "Then I will let the waters of Egypt become calm and run as smoothly as oil flows." (See Simile)
   * **<font inherit/inherit;;inherit;;inherit>this is the Lord Yahweh’s declaration</font>    ** <font inherit/inherit;;inherit;;inherit>-</font>    "I, the Lord God, want you to pay attention.")
 
@@ -60,6 +33,6 @@
   * **[[:en:bible:notes:ezk:questions:comprehension:32|Ezekiel Chapter 32 Comprehension Questions]]**
 **[[:en:bible:notes:ezk:32:11|<<]] | [[:en:bible:notes:ezk:32:15|>>]]**
 
-~~DISCUSSION~~{{tag>draft}}
+~~DISCUSSION~~{{tag>check}}
 
 ~~NOCACHE~~
