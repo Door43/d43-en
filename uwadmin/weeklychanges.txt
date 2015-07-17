@@ -1,6 +1,9 @@
 ====== Weekly Changes in OBS Namespaces ======
 
 
+**[[:aaa:obs|aaa OBS]]**
+{{changes>ns=aaa:obs&maxage=604800&render=pagelist(header,date,user,nocomments)}}
+
 **[[:abp:obs|abp OBS]]**
 {{changes>ns=abp:obs&maxage=604800&render=pagelist(header,date,user,nocomments)}}
 
