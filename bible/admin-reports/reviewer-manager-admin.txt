@@ -61,7 +61,7 @@
 
 === Ezekiel ===
 
-{{pagequery>@:en:bible:notes:ezk \{\{tag>[^}]*mgrezk[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hide jump;showcount;fontsize=90%}}
+{{pagequery>@:en:bible:notes:ezk \{\{tag>[^}]*mgr[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hide jump;showcount;fontsize=90%}}
 
 === Exodus ===
 
@@ -73,7 +73,7 @@
 
 === Romans ===
 
-{{pagequery>@:en:bible:notes:rom \{\{tag>[^}]*mgrrom[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hide jump;showcount;fontsize=90%}}
+{{pagequery>@:en:bible:notes:rom \{\{tag>[^}]*mgr[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hide jump;showcount;fontsize=90%}}
 
 === Jude ===
 
