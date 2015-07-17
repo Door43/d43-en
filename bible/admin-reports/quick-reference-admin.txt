@@ -12,7 +12,7 @@
 ===== Discourse: =====
 
 ^  Draft  ^  Review  ^  Publish  ^
-|{{pagequery>@:en:bible:team-info:training:quick-reference:discourse \{\{tag>[^}]*draft[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hide jump;fontsize=90%}}  |{{pagequery>@:en:bible:team-info:training:quick-reference:discourse \{\{tag>[^}]*review[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hide jump;fontsize=90%}}  |{{pagequery>@:en:bible:team-info:training:quick-reference:discourse \{\{tag>[^}]*publish[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hide jump;fontsize=90%}}  | 
+|{{pagequery>@:en:bible:team-info:training:quick-reference:discourse \{\{tag>[^}]*draft[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;fontsize=90%}}  |{{pagequery>@:en:bible:team-info:training:quick-reference:discourse \{\{tag>[^}]*review[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hide jump;fontsize=90%}}  |{{pagequery>@:en:bible:team-info:training:quick-reference:discourse \{\{tag>[^}]*publish[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hide jump;fontsize=90%}}  | 
 
 
 ===== Figures of Speech: =====
