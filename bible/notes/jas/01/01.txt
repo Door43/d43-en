@@ -2,34 +2,19 @@
 
 ===== TFT: =====
 
-<usfm>
-\v 1 \add I\add*, James, am a servant of God and the Lord Jesus Christ. \add I am writing this letter\add* to \add all\add* the Jewish people \add who trust in Christ\add* \f + \ft Or: to all God's people \f* who are scattered throughout the world. \add I send my\add* greetings to \add you all\add*.
+<usfm> \v 1 \add I\add*, James, am a servant of God and the Lord Jesus Christ. \add I am writing this letter\add* to \add all\add* the Jewish people \add who trust in Christ\add* \f + \ft Or: to all God's people \f* who are scattered throughout the world. \add I send my\add* greetings to \add you all\add*.
 
-
-\p
-\v 2 My fellow believers, rejoice greatly, \add even\add* when you experience various kinds of difficulties\f + \ft Or: troubles \f*.
-\v 3 \add God sometimes allows you to experience difficulties in order to\add* test whether or not you will continue to trust \add him. Whenever that happens, you need to\add* realize more and more that \add if you continue to trust him\add*, you will be able to bravely\f + \ft Or: patiently \f* endure difficulties.
-</usfm>
+\p \v 2 My fellow believers, rejoice greatly, \add even\add* when you experience various kinds of difficulties\f + \ft Or: troubles \f*. \v 3 \add God sometimes allows you to experience difficulties in order to\add* test whether or not you will continue to trust \add him. Whenever that happens, you need to\add* realize more and more that \add if you continue to trust him\add*, you will be able to bravely\f + \ft Or: patiently \f* endure difficulties. </usfm>
 
 ===== UDB: =====
 
-<usfm>
-\v 1 I, James, serve God and am bound to God through the Lord Jesus Christ. I am writing this letter to the twelve Jewish tribes who trust in Christ and who are scattered throughout the world. I greet you all.
+<usfm> \v 1 I, James, serve God and am bound to God through the Lord Jesus Christ. I am writing this letter to the twelve Jewish tribes who trust in Christ and who are scattered throughout the world. I greet you all.
 
-
-\p
-\v 2 My fellow believers, consider it something to greatly rejoice over when you experience various kinds of hardships.
-\v 3 Understand that as you trust God in hardships, they help you to endure even more hardships.
-</usfm>
+\p \v 2 My fellow believers, consider it something to greatly rejoice over when you experience various kinds of hardships. \v 3 Understand that as you trust God in hardships, they help you to endure even more hardships. </usfm>
 
 ===== ULB: =====
 
-<usfm>
-\c 1
-\v 1 James, a servant of God and of the Lord Jesus Christ, to the twelve tribes of the Dispersion, greetings.
-\v 2 Consider it all joy, my brothers, when you experience various troubles,
-\v 3 knowing that the testing of your faith works endurance.
-</usfm>
+<usfm> \c 1 \v 1 James, a servant of God and of the Lord Jesus Christ, to the twelve tribes of the Dispersion, greetings. \v 2 Consider it all joy, my brothers, when you experience various troubles, \v 3 knowing that the testing of your faith works endurance. </usfm>
 
 ===== Important Terms: =====
 
@@ -37,7 +22,7 @@
   * [[:en:obe:other:servant|servant]]
   * [[:en:obe:kt:god|God]]
   * [[:en:obe:kt:lord|Lord]]
-  * [[:en:obe:kt:jesus]]
+  * [[:en:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]
   * [[:en:obe:other:12tribesofisrael|twelve tribes]]
   * [[:en:obe:kt:joy|joy]]
   * [[:en:obe:kt:brother|brothers]]
@@ -47,18 +32,18 @@
 
 ===== Translation Notes: =====
 
-  * **James, ...**  - James is the half-brother of Jesus. This could be translated as “I, James,...”.
-  * **a servant of God and of the Lord Jesus Christ** - The phrase “I am” is implied. It can be translated as “I am a servant of God and of the Lord Jesus Christ.” (See: [[:en:ta:translate:implicitexplicit]])
-  * **to the twelve tribes of the Dispersion** - James was writing to all the Jewish believers who fled to Roman cities outside of Judea, away from the persecution that arose after the stoning of Stephen.
-  * **the twelve tribes** - Seek to be consistent in writing numbers. It can be displayed as "the 12 tribes" (See: [[:en:ta:translate:translateunknowns-numbers]])
+  * **James, …**  - James is the half-brother of Jesus. This could be translated as “I, James,…”.
+  * **a servant of God and of the Lord Jesus Christ**  - The phrase “I am” is implied. It can be translated as “I am a servant of God and of the Lord Jesus Christ.” (See: [[:en:ta:translate:implicitexplicit|Explicit and Implicit Information]])
+  * **to the twelve tribes of the Dispersion**  - James was writing to all the Jewish believers who fled to Roman cities outside of Judea, away from the persecution that arose after the stoning of Stephen.
+  * **the twelve tribes**  - Seek to be consistent in writing numbers. It can be displayed as "the 12 tribes" (See: [[:en:ta:translate:translateunknowns-numbers|Numbers - Translating Unknowns]])
   * **greetings**  - A basic greeting such as "Hello" or "Good Day".
-  * **Consider it all joy, my brothers, when you experience various troubles** - "My fellow believers, think of all your different kinds of troubles as something to celebrate"
+  * **Consider it all joy, my brothers, when you experience various troubles**  - "My fellow believers, think of all your different kinds of troubles as something to celebrate"
   * **knowing that the testing of your faith works endurance**  - "because you know that God uses these troubles to make your faith stronger"
 ===== Links: =====
 
   * **[[:en:bible:notes:jas:questions:comprehension:01|James Chapter 01 Comprehension Questions]]**
 **| [[:en:bible:notes:jas:01:04|>>]]**
 
-~~DISCUSSION~~{{tag>publish jamesbrotherofjesus joy  endure}}
+~~DISCUSSION~~{{tag>publish jamesbrotherofjesus joy endure}}
 
 ~~NOCACHE~~
