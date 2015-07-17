@@ -11,24 +11,24 @@
 
 ===== Discourse: =====
 
-^  Draft  ^  Review  ^  Publish  |
+^  Draft  ^  Review  ^  Publish  ^
 |{{topic>en:bible:team-info:training:quick-reference:discourse?draft&nocomments&simplelist}} |{{topic>en:bible:team-info:training:quick-reference:discourse?review&nocomments&simplelist}} |{{topic>en:bible:team-info:training:quick-reference:discourse?publish&nocomments&simplelist}} |
 
 ===== Figures of Speech: =====
 
-^  Draft  ^  Review  ^  Publish  |
+^  Draft  ^  Review  ^  Publish  ^
 |{{topic>en:bible:team-info:training:quick-reference:figures?draft&nocomments&simplelist}} |{{topic>en:bible:team-info:training:quick-reference:figures?review&nocomments&simplelist}} |{{topic>en:bible:team-info:training:quick-reference:figures?publish&nocomments&simplelist}} |
 
 \\
 
 ===== Grammar: =====
 
-^  Draft  ^  Review  ^  Publish  |
+^  Draft  ^  Review  ^  Publish  ^
 |{{topic>en:bible:team-info:training:quick-reference:grammar?draft&nocomments&simplelist}} |{{topic>en:bible:team-info:training:quick-reference:grammar?review&nocomments&simplelist}} |{{topic>en:bible:team-info:training:quick-reference:grammar?publish&nocomments&simplelist}} |
 
 ===== Standard Notes: =====
 
-^  Draft  ^  Review  ^  Publish  |
+^  Draft  ^  Review  ^  Publish  ^
 |{{topic>en:bible:team-info:training:quick-reference:standard-notes?draft&nocomments&simplelist}} |{{topic>en:bible:team-info:training:quick-reference:standard-notes?review&nocomments&simplelist}} |{{topic>en:bible:team-info:training:quick-reference:standard-notes?publish&nocomments&simplelist}} |
 
 ~~DISCUSSION~~
