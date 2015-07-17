@@ -21,7 +21,16 @@ They are available to assign to the Key Terms teams to edit.
 {{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*mat08)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
 {{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*mat09)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
 {{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*mat10)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
-{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*mat11)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*mat12)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*mat13)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*mat14)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*mat15)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*mat16)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*mat17)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*mat18)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*mat19)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*mat20)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
+{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*mat11)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
+{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*mat12)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
+{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*mat13)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
+{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*mat14)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
+{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*mat15)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
+{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*mat16)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
+{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*mat17)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
+{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*mat18)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
+{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*mat19)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
+{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*mat20)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
 {{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*mat21)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
 {{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*mat22)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
 {{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*mat23)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
@@ -38,10 +47,54 @@ They are available to assign to the Key Terms teams to edit.
 
 ==== Acts ====
 
+{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*act01)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
+{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*act02)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
+{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*act03)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
+{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*act04)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
+{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*act05)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
+{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*act06)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
+{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*act07)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
+{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*act08)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
+{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*act09)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
+{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*act10)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
+{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*act11)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
+{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*act12)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
+{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*act13)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
+{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*act14)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
+{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*act15)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
+{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*act16)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
+{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*act17)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
+{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*act18)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
+{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*act19)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
+{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*act20)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
+{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*act21)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
+{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*act22)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
+{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*act23)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
+{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*act24)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
+{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*act25)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
+{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*act26)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
+{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*act27)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
+{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*act28)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
 
 
 ==== Romans ====
 
+{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*rom01)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
+{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*rom02)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
+{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*rom03)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
+{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*rom04)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
+{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*rom05)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
+{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*rom06)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
+{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*rom07)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
+{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*rom08)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
+{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*rom09)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
+{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*rom10)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
+{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*rom11)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
+{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*rom12)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
+{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*rom13)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
+{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*rom14)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
+{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*rom15)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
+{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*rom16)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
 
 
 ==== Ezekiel ====
@@ -52,47 +105,157 @@ They are available to assign to the Key Terms teams to edit.
 
 ==== 1 Thessalonians ====
 
+{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*1th01)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
+{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*1th02)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
+{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*1th03)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
+{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*1th04)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
+{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*1th05)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
 
 
 ==== 1 John ====
 
-
+{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*jhn01)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
+{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*jhn01)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
+{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*jhn01)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
+{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*jhn01)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
+{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*jhn01)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
 
 ==== 2 John ====
 
-
+{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*2jn01)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
 
 ==== 3 John ====
 
-
+{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*3jn01)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
 
 ==== Lamentations ====
 
+{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*lam01)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
+{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*lam02)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
+{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*lam03)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
+{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*lam04)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
+{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*lam05)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
 
 
 ==== Mark ====
 
+{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*mrk01)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
+{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*mrk02)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
+{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*mrk03)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
+{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*mrk04)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
+{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*mrk05)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
+{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*mrk06)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
+{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*mrk07)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
+{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*mrk08)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
+{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*mrk09)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
+{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*mrk10)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
+{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*mrk11)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
+{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*mrk12)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
+{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*mrk13)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
+{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*mrk14)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
+{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*mrk15)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
+{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*mrk16)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
+{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*mrk17)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
+{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*mrk18)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
+{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*mrk19)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
+{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*mrk20)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
+{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*mrk21)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
+{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*mrk22)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
+{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*mrk23)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
+{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*mrk24)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
+{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*mrk25)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
+{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*mrk26)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
+{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*mrk27)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
+{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*mrk28)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
 
 
 ==== Revelation ====
 
+{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*rev01)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
+{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*rev02)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
+{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*rev03)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
+{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*rev04)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
+{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*rev05)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
+{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*rev06)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
+{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*rev07)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
+{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*rev08)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
+{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*rev09)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
+{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*rev10)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
+{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*rev11)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
+{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*rev12)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
+{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*rev13)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
+{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*rev14)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
+{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*rev15)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
+{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*rev16)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
+{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*rev17)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
+{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*rev18)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
+{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*rev19)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
+{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*rev20)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
+{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*rev21)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
+{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*rev22)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
 
 
 ==== Jude ====
 
-
+{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*jud01)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
 
 ==== Ezra ====
 
+{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*ezr01)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
+{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*ezr02)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
+{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*ezr03)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
+{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*ezr04)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
+{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*ezr05)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
+{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*ezr06)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
+{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*ezr07)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
+{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*ezr08)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
+{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*ezr09)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
+{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*ezr10)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
 
 
 ==== Joshua ====
 
+{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*jos01)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
+{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*jos02)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
+{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*jos03)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
+{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*jos04)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
+{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*jos05)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
+{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*jos06)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
+{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*jos07)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
+{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*jos08)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
+{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*jos09)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
+{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*jos10)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
+{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*jos11)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
+{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*jos12)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
+{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*jos13)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
+{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*jos14)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
+{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*jos15)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
+{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*jos16)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
+{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*jos17)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
+{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*jos18)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
+{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*jos19)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
+{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*jos20)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
+{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*jos21)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
+{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*jos22)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
+{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*jos23)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
+{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*jos24)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
 
 
 ==== Nehemiah ====
 
+{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*neh01)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
+{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*neh02)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
+{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*neh03)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
+{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*neh04)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
+{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*neh05)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
+{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*neh06)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
+{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*neh07)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
+{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*neh08)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
+{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*neh09)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
+{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*neh10)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
+{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*neh11)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
+{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*neh12)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
+{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*neh13)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
 
 
 ==== Exodus ====
-
