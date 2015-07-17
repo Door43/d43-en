@@ -11,39 +11,13 @@ They are available to assign to the Key Terms teams to edit.
 
 ==== Matthew ====
 
-{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*mat01)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
-{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*mat02)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
-{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*mat03)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
-{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*mat04)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
-{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*mat05)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
-{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*mat06)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
-{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*mat07)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
-{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*mat08)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
-{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*mat09)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
-{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*mat10)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
-{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*mat11)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
-{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*mat12)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
-{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*mat13)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
-{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*mat14)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
-{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*mat15)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
-{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*mat16)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
-{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*mat17)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
-{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*mat18)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
-{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*mat19)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
-{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*mat20)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
-{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*mat21)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
-{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*mat22)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
-{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*mat23)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
-{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*mat24)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
-{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*mat25)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
-{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*mat26)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
-{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*mat27)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
-{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*mat28)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
+{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*mat*)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
+
 
 
 ==== Genesis ====
 
-{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*gen*)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
+{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*gen)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
 
 
 ==== Acts ====
