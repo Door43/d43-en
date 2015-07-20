@@ -4,9 +4,9 @@ This module answers the question: What is the unfoldingWord Project?\\
 Before you start this module have you learned about: [[en:ta:vol1:intro:ta_intro|Introduction to translationAcademy]]
 
 This section explains: 
-   * [[#Why]] the unfoldingWord project exists and why we do what we do 
-   * [[#How]] we go about trying to accomplish that goal
-   * [[#What]] we do to meet that goal  
+   * Why the unfoldingWord project exists and why we do what we do 
+   * How we go about trying to accomplish that goal
+   * What we do to meet that goal  
 
 ==== Why ====  
 
@@ -30,7 +30,7 @@ The unfoldingWord project exists because every people group deserves to have the
 
 How do we accomplish our goal of **unrestricted biblical content in every language**? 
 
-   * The unfoldingWord Network - By partnering with other like-minded organizations (see the {{www.unfoldingword.org|website}})
+   * The unfoldingWord Network - By partnering with other like-minded organizations (see the [[www.unfoldingword.org|website]])
    * [[en:ta:vol1:intro:statement_of_faith|Statement of Faith]] - By working with people and organizations who have the same beliefs  
    * [[en:ta:vol1:intro:translation_guidelines|Translation Guidelines]] - By using a common translation theory and practice 
    * [[en:ta:vol1:intro:open_license|Open License]] - By releasing everything we create under an open license
@@ -58,7 +58,7 @@ What do we do?
 
    * **Training** - We create resources to train mother tongue translation teams
       * [[en:ta:translate:home|Translation Manual]] - how to translate 
-      * [[:en:ta:check|Checkering Manual]] -  how to check a translation
+      * [[:en:ta:check|Checking Manual]] -  how to check a translation
       * [[:en:ta:tech|Technology Manual]] - how to use the different technology tools
 *
 
