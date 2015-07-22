@@ -76,7 +76,7 @@ They are available to assign to the Key Terms teams to edit.
 
 ==== Joel ====
 
-{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*mrk)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
+{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*jol)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
 
 ==== Nahum ====
 
@@ -89,7 +89,6 @@ They are available to assign to the Key Terms teams to edit.
 ==== Malachi ====
 
 {{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*mal)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
-
 
 ==== Revelation ====
 
