@@ -211,16 +211,22 @@ edge [arrowsize=1.4];
 "vol2_backtranslation_written" -> "vol2_backtranslation_guidelines"
 "community_evaluation" [fillcolor="#9999ff"]
 "language_community_check" -> "community_evaluation"
+"qualifications" [fillcolor="#9999ff"]
+"level1" -> "qualifications"
 "important_term_check" [fillcolor="#9999ff"]
 "level1" -> "important_term_check"
 "intro_levels" [fillcolor="#9999ff"]
 "intro_checking" -> "intro_levels"
 "vol2_backtranslation_written" [fillcolor="#9999ff"]
 "vol2_backtranslation_kinds" -> "vol2_backtranslation_written"
+"complete" [fillcolor="#9999ff"]
+"accurate" -> "complete"
 "vol2_backtranslation" [fillcolor="#9999ff"]
 "vol2_steps" -> "vol2_backtranslation"
 "first_draft" [fillcolor="#9999ff"]
 "level1" -> "first_draft"
+"accurate" [fillcolor="#9999ff"]
+"alphabet" -> "accurate"
 "accuracy_check" [fillcolor="#9999ff"]
 "level1" -> "accuracy_check"
 "vol2_backtranslation_who" [fillcolor="#9999ff"]
@@ -229,8 +235,10 @@ edge [arrowsize=1.4];
 "level1" -> "peer_check"
 "vol2_backtranslation_kinds" [fillcolor="#9999ff"]
 "vol2_backtranslation_who" -> "vol2_backtranslation_kinds"
-"contact_review_agree" [fillcolor="#9999ff"]
-"level1" -> "contact_review_agree"
+"good" [fillcolor="#9999ff"]
+"complete" -> "good"
+"clear" [fillcolor="#9999ff"]
+"level1" -> "clear"
 "vol2_things_to_check" [fillcolor="#9999ff"]
 "vol2_steps" -> "vol2_things_to_check"
 "intro_check" [fillcolor="#9999ff"]
@@ -243,6 +251,10 @@ edge [arrowsize=1.4];
 "level1" -> "self_check"
 "vol2_backtranslation_purpose" [fillcolor="#9999ff"]
 "vol2_backtranslation" -> "vol2_backtranslation_purpose"
+"alphabet" [fillcolor="#9999ff"]
+"style" -> "alphabet"
+"acceptable" [fillcolor="#9999ff"]
+"clear" -> "acceptable"
 "uW_install" [fillcolor="#ffff99"]
 "uW_intro" -> "uW_install"
 "uW_audio" [fillcolor="#ffff99"]
