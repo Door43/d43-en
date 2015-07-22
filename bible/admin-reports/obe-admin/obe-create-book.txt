@@ -29,7 +29,7 @@ They are available to assign to the Key Terms teams to edit.
 {{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*rom)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
 
 
-==== Genesis ====
+==== Isaiah ====
 
 {{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*isa)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
 
