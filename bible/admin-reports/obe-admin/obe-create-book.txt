@@ -14,26 +14,21 @@ They are available to assign to the Key Terms teams to edit.
 
 {{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*rom)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
 
-
 ==== Genesis ====
 
 {{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*gen)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
-
 
 ==== Acts ====
 
 {{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*act)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
 
-
 ==== Matthew ====
 
 {{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*mat)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
 
-
 ==== Isaiah ====
 
 {{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*isa)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
-
 
 ==== Ezekiel ====
 
@@ -43,17 +38,13 @@ They are available to assign to the Key Terms teams to edit.
 
 {{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*jhn)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
 
-
-
 ==== 1 Thessalonians ====
 
 {{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*1th)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
 
-
 ==== 1 John ====
 
 {{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*1jn)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
-
 
 ==== 2 John ====
 
@@ -63,41 +54,48 @@ They are available to assign to the Key Terms teams to edit.
 
 {{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*3jn)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
 
-==== Lamentations ====
-
-{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*lam)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
-
-
 ==== Mark ====
 
 {{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*mrk)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
+
+==== Ephesians ====
+
+{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*eph)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
+
+==== 1 Peter ====
+
+{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*1pe)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
+
+==== 2 Peter ====
+
+{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*2pe)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
+
+==== 1 Corinthians ====
+
+{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*1co)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
+
+==== Joel ====
+
+{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*mrk)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
+
+==== Nahum ====
+
+{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*nah)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
+
+==== Habakkuk ====
+
+{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*hab)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
+
+==== Malachi ====
+
+{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*mal)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
 
 
 ==== Revelation ====
 
 {{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*rev)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
 
-
 ==== Jude ====
 
 {{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*jud01)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
-
-==== Ezra ====
-
-{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*ezr)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
-
-
-==== Joshua ====
-
-{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*jos)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
-
-
-==== Nehemiah ====
-
-{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*neh)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
-
-
-==== Exodus ====
-
-{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*exo)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
 
