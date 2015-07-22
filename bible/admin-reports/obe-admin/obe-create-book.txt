@@ -9,9 +9,10 @@
 The following Key Terms are tagged as "create" and are on hold.\\
 They are available to assign to the Key Terms teams to edit.
 
-==== Matthew ====
 
-{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*mat)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
+==== Romans ====
+
+{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*rom)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
 
 
 ==== Genesis ====
@@ -24,9 +25,9 @@ They are available to assign to the Key Terms teams to edit.
 {{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*act)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
 
 
-==== Romans ====
+==== Matthew ====
 
-{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*rom)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
+{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*mat)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
 
 
 ==== Isaiah ====
@@ -37,6 +38,11 @@ They are available to assign to the Key Terms teams to edit.
 ==== Ezekiel ====
 
 {{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*ezk)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
+
+==== John ====
+
+{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*jhn)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
+
 
 
 ==== 1 Thessalonians ====
