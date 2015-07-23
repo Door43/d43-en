@@ -1,10 +1,10 @@
 //The status of development for Open Bible Stories// 
 
 
-publish date: 2014-07-25
+publish date: 2014-07-23
 
 
-version: 2.1
+version: 3.3.1
 
 
 contributors: ali;chiako;cl184;various
@@ -19,10 +19,10 @@ checking level: 1
 source text: en
 
 
-source text version: 2.0
+source text version: 3.2
 
 
-comments: Level 1 check cleared via email to Tim Jore by translation team.
+comments: 
 
 
 Progress Notes:
