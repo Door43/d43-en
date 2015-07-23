@@ -17,4 +17,4 @@ They are not available for the team to edit.
 
 ~~NOCACHE~~
 
-{{pagequery>ns:en:obe "tag>create"; fulltext; sort=cdate:asc; group; limit=100; spelldate; hidestart; display= {title} {date:created} ; layout=table; natsort; }}
+{{pagequery>ns:en:obe "tag>create"; fulltext; sort=cdate:asc; group; limit=100; spelldate; hidestart; display= {title} {date:created} ; layout=table; natsort; showcount; hidejump; }}
