@@ -406,6 +406,9 @@
 **[[:sid:obs|sid OBS]]**
 {{changes>ns=sid:obs&maxage=604800&render=pagelist(header,date,user,nocomments)}}
 
+**[[:sie:obs|sie OBS]]**
+{{changes>ns=sie:obs&maxage=604800&render=pagelist(header,date,user,nocomments)}}
+
 **[[:sk:obs|sk OBS]]**
 {{changes>ns=sk:obs&maxage=604800&render=pagelist(header,date,user,nocomments)}}
 
