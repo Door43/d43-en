@@ -20,9 +20,6 @@
 
 {{pagequery>@:en:bible:notes:eph \{\{tag>[^}]*mgreph[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hide jump;showcount;fontsize=90%}}
 
-=== Colossians ===
-
-{{pagequery>@:en:bible:notes:col \{\{tag>[^}]*mgrcol[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hide jump;showcount;fontsize=90%}}
 
 === 1,2 Thessalonians ===
 
@@ -39,29 +36,27 @@
 
 {{pagequery>@:en:bible:notes:isa \{\{tag>[^}]*mgrisa[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hide jump;showcount;fontsize=90%}}
 
-=== Jonah ===
 
-{{pagequery>@:en:bible:notes:jon \{\{tag>[^}]*mgrjon[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hide jump;showcount;fontsize=90%}}
+===== David F's: =====
 
-=== Philippians ===
 
-{{pagequery>@:en:bible:notes:php \{\{tag>[^}]*mgrphp[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hide jump;showcount;fontsize=90%}}
+=== Ezekiel ===
 
-=== James ===
+{{pagequery>@:en:bible:notes:ezk \{\{tag>[^}]*mgr[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hide jump;showcount;fontsize=90%}}
 
-{{pagequery>@:en:bible:notes:jas \{\{tag>[^}]*mgrjas[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hide jump;showcount;fontsize=90%}}
+===== Joe W's: =====
 
+{{pagequery>@:en:bible:notes:1co \{\{tag>[^}]*mgr[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hide jump;showcount;fontsize=90%}}
+
+
+===== Unassigned: =====
 === 1,2,3 John ===
 
 {{pagequery>@:en:bible:notes:1jn \{\{tag>[^}]*mgr1jn[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hide jump;showcount;fontsize=90%}}
 {{pagequery>@:en:bible:notes:2jn \{\{tag>[^}]*mgr2jn[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hide jump;showcount;fontsize=90%}}
 {{pagequery>@:en:bible:notes:3jn \{\{tag>[^}]*mgr3jn[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hide jump;showcount;fontsize=90%}}
 
-===== Unassigned: =====
 
-=== Ezekiel ===
-
-{{pagequery>@:en:bible:notes:ezk \{\{tag>[^}]*mgr[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hide jump;showcount;fontsize=90%}}
 
 === Exodus ===
 
