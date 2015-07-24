@@ -1,16 +1,17 @@
 
+
 ----
 
 **Help**
 
-  * [[:en:obs:help|Open Bible Stories Help]]
+   * [[:en:obs:help|Open Bible Stories Help]]
   * [[:en:ta:intro:handbook|translationAcademy Handbook]]
 
-**[[en:obs|Open Bible Stories]]**
+**[[:en:obs|Open Bible Stories]]**
 
 {{page>en:obs:stories}}
 
-~~NOCACHE~~
-**[[en:uwadmin:en:obs:status|Latest OBS Status]]**
+~~NOCACHE~~ **[[:en:uwadmin:en:obs:status|Latest OBS Status]]**
+
 {{page>en:uwadmin:en:obs:status}}
 
