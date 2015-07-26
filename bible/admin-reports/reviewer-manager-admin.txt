@@ -40,6 +40,9 @@
 
 {{pagequery>@:en:bible:notes:ezk \{\{tag>[^}]*mgr[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hide jump;showcount;fontsize=90%}}
 
+=== Habakkuk ===
+
+{{pagequery>@:en:bible:notes:hab \{\{tag>[^}]*mgr[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hide jump;showcount;fontsize=90%}}
 ===== Joe W's: =====
 
 {{pagequery>@:en:bible:notes:1co \{\{tag>[^}]*mgr[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hide jump;showcount;fontsize=90%}}
