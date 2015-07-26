@@ -45,8 +45,12 @@
 {{pagequery>@:en:bible:notes:hab \{\{tag>[^}]*mgr[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hide jump;showcount;fontsize=90%}}
 ===== Joe W's: =====
 
+=== 1 Corinthians ===
 {{pagequery>@:en:bible:notes:1co \{\{tag>[^}]*mgr[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hide jump;showcount;fontsize=90%}}
 
+=== Jude ===
+
+{{pagequery>@:en:bible:notes:jud \{\{tag>[^}]*mgrjud[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hide jump;showcount;fontsize=90%}}
 ===== Unassigned: =====
 
 === 1,2,3 John ===
