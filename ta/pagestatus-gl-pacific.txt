@@ -3,3 +3,5 @@
 ===== Indonesian =====
 
 {{changes>ns=id&count=50&render=pagelist(header,date,user,nocomments)&maxage=25920000}}
+
+{{changes>ns=tpi&count=50&render=pagelist(header,date,user,nocomments)&maxage=25920000}}
