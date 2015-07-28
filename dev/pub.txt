@@ -16,7 +16,7 @@ The red indicates parts of the process that are not deployed or that need work t
 digraph finite_state_machine {
 	rankdir=BT;
 	size="11,9"
-	node [shape = circle, style=filled, fillcolor="#fc0204"]; DW_GitMerge uW_Admin;
+	node [shape = circle, style=unfilled]; DW_GitMerge uW_Admin;
 	node [shape = circle, style=unfilled];
 	tS -> tS_server [ label = "Git Push" ];
 	tS_server -> DW_GitMerge [ label = "Git Hook" ];
