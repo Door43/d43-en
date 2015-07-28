@@ -12,4 +12,15 @@
 
 {{changes>ns=sw&count=50&render=pagelist(header,date,user,nocomments)&maxage=25920000}}
 
+===== Amharic =====
+
+{{changes>ns=am&count=50&render=pagelist(header,date,user,nocomments)&maxage=25920000}}
+
+===== Hausa =====
+
+{{changes>ns=ha&count=50&render=pagelist(header,date,user,nocomments)&maxage=25920000}}
+
+===== Afrikaans =====
+
+{{changes>ns=af&count=50&render=pagelist(header,date,user,nocomments)&maxage=25920000}}
 
