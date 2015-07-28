@@ -1,26 +1,2 @@
 ====== Gateway Language Activity for Asia ======
 
-===== Arabic =====
-
-{{changes>ns=ar&count=50&render=pagelist(header,date,user,nocomments)&maxage=25920000}}
-
-===== French =====
-
-{{changes>ns=fr&count=50&render=pagelist(header,date,user,nocomments)&maxage=25920000}}
-
-===== Swahili =====
-
-{{changes>ns=sw&count=50&render=pagelist(header,date,user,nocomments)&maxage=25920000}}
-
-===== Amharic =====
-
-{{changes>ns=am&count=50&render=pagelist(header,date,user,nocomments)&maxage=25920000}}
-
-===== Hausa =====
-
-{{changes>ns=ha&count=50&render=pagelist(header,date,user,nocomments)&maxage=25920000}}
-
-===== Afrikaans =====
-
-{{changes>ns=af&count=50&render=pagelist(header,date,user,nocomments)&maxage=25920000}}
-
