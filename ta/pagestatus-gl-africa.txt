@@ -1,10 +1,14 @@
 ====== Gateway Language Activity for Africa ======
 
+===== French =====
+
+{{changes>ns=fr&count=50&render=pagelist(header,date,user,nocomments)&maxage=604800}}
+
 ===== Swahili =====
 
-{{changes>ns=sw&count=50&render=pagelist(header,date,user,nocomments)&maxage=25920000}}
+{{changes>ns=sw&count=50&render=pagelist(header,date,user,nocomments)&maxage=604800}}
 
 
 ===== Arabic =====
 
-{{changes>ns=ar&count=50&render=pagelist(header,date,user,nocomments)&maxage=25920000}}
+{{changes>ns=ar&count=50&render=pagelist(header,date,user,nocomments)&maxage=604800}}
