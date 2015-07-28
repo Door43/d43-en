@@ -2,9 +2,9 @@
 
 ===== Swahili =====
 
-{{changes>ns=sw&count=50&render=pagelist(header,date,user,nocomments)&maxage=25920000}}
+{{changes>ns=sw&count=50&render=pagelist(header,date,user,nocomments)&maxage=64000}}
 
 
 ===== Arabic =====
 
-{{changes>ns=ar&count=50&render=pagelist(header,date,user,nocomments)&maxage=25920000}}
+{{changes>ns=ar&count=50&render=pagelist(header,date,user,nocomments)&maxage=64000}}
