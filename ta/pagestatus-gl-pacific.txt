@@ -7,3 +7,19 @@
 ===== Tok Pisin =====
 
 {{changes>ns=tpi&count=50&render=pagelist(header,date,user,nocomments)&maxage=25920000}}
+
+===== Solomon Islands Pidgin =====
+
+{{changes>ns=pis&count=50&render=pagelist(header,date,user,nocomments)&maxage=25920000}}
+
+===== Bislama =====
+
+{{changes>ns=bi&count=50&render=pagelist(header,date,user,nocomments)&maxage=25920000}}
+
+===== Tetum =====
+
+{{changes>ns=tet&count=50&render=pagelist(header,date,user,nocomments)&maxage=25920000}}
+
+
+
+
