@@ -1,3 +1,60 @@
 ====== Gateway Language Activity for Asia ======
 
+===== Mongolian =====
+
+{{changes>ns=mn&count=50&render=pagelist(header,date,user,nocomments)&maxage=25920000}}
+
+===== Mandarin =====
+
+{{changes>ns=zh&count=50&render=pagelist(header,date,user,nocomments)&maxage=25920000}}
+
+===== Japanese =====
+
+{{changes>ns=ja&count=50&render=pagelist(header,date,user,nocomments)&maxage=25920000}}
+
+===== Burmese =====
+
+{{changes>ns=my&count=50&render=pagelist(header,date,user,nocomments)&maxage=25920000}}
+
+===== Thai =====
+
+{{changes>ns=th&count=50&render=pagelist(header,date,user,nocomments)&maxage=25920000}}
+
+===== Laotian =====
+
+{{changes>ns=lo&count=50&render=pagelist(header,date,user,nocomments)&maxage=25920000}}
+
+===== Khmer =====
+
+{{changes>ns=km&count=50&render=pagelist(header,date,user,nocomments)&maxage=25920000}}
+
+===== Vietnamese =====
+
+{{changes>ns=vi&count=50&render=pagelist(header,date,user,nocomments)&maxage=25920000}}
+
+===== Malasian =====
+
+{{changes>ns=ms, ms-dcv&count=50&render=pagelist(header,date,user,nocomments)&maxage=25920000}}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Back to [[en:ta:pagestatus-gl]]
