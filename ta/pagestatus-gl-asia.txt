@@ -34,26 +34,15 @@
 
 ===== Malasian =====
 
-{{changes>ns=ms, ms-dcv&count=50&render=pagelist(header,date,user,nocomments)&maxage=25920000}}
+{{changes>ns=ms,ms-dcv&count=50&render=pagelist(header,date,user,nocomments)&maxage=25920000}}
 
+===== Tagalog =====
 
+{{changes>ns=tl&count=50&render=pagelist(header,date,user,nocomments)&maxage=25920000}}
 
+===== Cebuano =====
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+{{changes>ns=ceb&count=50&render=pagelist(header,date,user,nocomments)&maxage=25920000}}
 
 
 
