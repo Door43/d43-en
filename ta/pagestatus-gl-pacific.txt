@@ -4,4 +4,6 @@
 
 {{changes>ns=id&count=50&render=pagelist(header,date,user,nocomments)&maxage=25920000}}
 
+===== Tok Pisin =====
+
 {{changes>ns=tpi&count=50&render=pagelist(header,date,user,nocomments)&maxage=25920000}}
