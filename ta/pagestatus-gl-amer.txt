@@ -1,1 +1,26 @@
 ====== Gateway Language Activity for the Americas ======
+
+===== English =====
+
+{{changes>ns=en&count=50&render=pagelist(header,date,user,nocomments)&maxage=25920000}}
+
+===== Spanish =====
+
+{{changes>ns=es, es-419&count=50&render=pagelist(header,date,user,nocomments)&maxage=25920000}}
+
+===== Portuguese =====
+
+{{changes>ns=pt, pt-BR&count=50&render=pagelist(header,date,user,nocomments)&maxage=25920000}}
+
+===== Dutch =====
+
+{{changes>ns=nl&count=50&render=pagelist(header,date,user,nocomments)&maxage=25920000}}
+
+
+
+Back to [[en:ta:pagestatus-gl]]
+
+
+
+
+
