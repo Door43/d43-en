@@ -1,1 +1,37 @@
 ====== Gateway Language Activity for Eurasia ======
+
+===== Russian =====
+
+{{changes>ns=ru&count=50&render=pagelist(header,date,user,nocomments)&maxage=25920000}}
+
+
+===== Turkish =====
+
+{{changes>ns=tr&count=50&render=pagelist(header,date,user,nocomments)&maxage=25920000}}
+
+
+===== Persian =====
+
+{{changes>ns=fa&count=50&render=pagelist(header,date,user,nocomments)&maxage=25920000}}
+
+===== Pashto =====
+
+{{changes>ns=ps&count=50&render=pagelist(header,date,user,nocomments)&maxage=25920000}}
+
+===== Urdu =====
+
+{{changes>ns=ur,ur-dcv,ur-Deva&count=50&render=pagelist(header,date,user,nocomments)&maxage=25920000}}
+
+===== Dari =====
+
+{{changes>ns=prs&count=50&render=pagelist(header,date,user,nocomments)&maxage=25920000}}
+
+
+
+
+
+
+
+
+Back to [[en:ta:pagestatus-gl]]
+
