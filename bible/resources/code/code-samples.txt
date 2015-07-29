@@ -62,7 +62,7 @@ Code to pull in content from a specific section:
 
 ==== New Regex Search: ====
 
-Find all draft tags in Romans NS:
+Find all "draft" tags in Romans NS:
 
 <code>
 {{pagequery>@:en:bible:notes:rom \{\{tag>[^}]*draft[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;showcount;fontsize=90%}}
