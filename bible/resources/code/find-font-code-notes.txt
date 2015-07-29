@@ -6,11 +6,3 @@ Pages with opening or closing <nowiki>HTML <font> or </font></nowiki> tags:
 
 {{pagequery>@:en:bible:notes (?=\<font)|(?=\<\/font\>); fulltextregex; sort=title:asc; display={title}; natsort; layout=table; showcount; hidemsg; hidejump;}}
 
-open
-
-{{pagequery>@:en:bible:notes (?=\<font); fulltextregex; sort=title:asc; display={title}; natsort; layout=table; showcount; hidemsg; hidejump;}}
-
-
-close
-
-{{pagequery>@:en:bible:notes (?=\<\/font\>); fulltextregex; sort=title:asc; display={title}; natsort; layout=table; showcount; hidemsg; hidejump;}}
