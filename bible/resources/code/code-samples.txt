@@ -68,6 +68,12 @@ Find all "draft" tags in Romans NS:
 {{pagequery>@:en:bible:notes:rom \{\{tag>[^}]*draft[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;showcount;fontsize=90%}}
 </code>
 
+Find all "review" tags in two different NS:
+
+<code>
+{{pagequery>@en:bible:notes:ezk @en:bible:notes:isa \{\{tag>[^}]*review[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort;showcount; layout=table;hidemsg;hidejump;fontsize=80%}}
+</code>
+
 Find KT pages with "drewc" tag __and__ with "ktobs" tag:
 
 <code>
