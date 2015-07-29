@@ -57,5 +57,5 @@ What do we do?
 
   * **Helps** - We create resources that assist and train translators and checkers
     * translationNotes - linguistic, cultural, and exegetical helps created for translators. They exist for [[en:obs:notes|Open Bible Stories]] and for [[en:bible:notes:home|the Bible]].
-    * Comprehension Questions - questions for each chunk of text that the translators and checkers can ask to help insure that the translation is being understood correctly. Available for [[en:obs:notes:questions:home|Open Bible Stories]] and for [[en:bible:questions:home|the Bible]].
+    * Comprehension Questions - questions for each chunk of text that the translators and checkers can ask to help insure that the translation is being understood correctly. Available for [[en:obs:notes:questions:home|Open Bible Stories]] and for [[en:bible:questions:comprehension:home|the Bible]].
     * [[en:obe:home|Open Bible Encyclopedia]] - a list of important Biblical terms with a short explanation, cross references, and translation aids
