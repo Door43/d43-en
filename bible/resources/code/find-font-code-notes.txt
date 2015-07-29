@@ -4,8 +4,4 @@
 
 Pages with opening or closing <nowiki>HTML <font> or </font></nowiki> tags:
 
-{{pagequery>ns:en:bible:notes (<font|</font>); fulltext; sort=title:asc; display={title}; natsort; layout=table; showcount; hidemsg; hidejump;}}
-
-new
-
 {{pagequery>@:en:bible:notes (?=\<font)|(?=\<\/font\>); fulltextregex; sort=title:asc; display={title}; natsort; layout=table; showcount; hidemsg; hidejump;}}
