@@ -68,23 +68,29 @@ Find all draft tags in Romans NS:
 {{pagequery>@:en:bible:notes:rom \{\{tag>[^}]*draft[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;showcount;fontsize=90%}}
 </code>
 
-Test finding KT pages with "drewc" tag and with "ktobs" tag:
+Find KT pages with "drewc" tag __and__ with "ktobs" tag:
 
 <code>
 {{pagequery>@:en:obe:kt \{\{tag>(?=[^}]*drewc)(?=[^}]*ktobs)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;showcount;fontsize=90%}}
 </code>
 
 
-Test finding KT pages with "drewc" tag but without "ktobs" tag:
+Find KT pages with "drewc" tag __but not__ "ktobs" tag:
 
 <code>
 {{pagequery>@:en:obe:kt \{\{tag>(?![^}]*ktobs)(?=[^}]*drewc)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;showcount;fontsize=90%}}
 </code>
 
-Test text string in a namespace (escape characters as needed):
+Find text string in a namespace (escape characters as needed):
 
 <code>
 {{pagequery>@:en:bible:notes 1\); fulltextregex; sort=title:asc; display={title}; natsort; showcount; layout=table;hidemsg;hidejump;fontsize=90%}}
+</code>
+
+Find pages with __either__ of two text strings:
+
+<code>
+{{pagequery>@:en:bible:notes (?=\<font)|(?=\<\/font\>); fulltextregex; sort=title:asc; display={title}; natsort; layout=table; showcount; hidemsg; hidejump;}}
 </code>
 
 
