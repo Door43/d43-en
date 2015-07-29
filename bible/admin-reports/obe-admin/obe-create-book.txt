@@ -10,10 +10,6 @@ The following Key Terms are tagged as "create" and are on hold.\\
 They are available to assign to the Key Terms teams to edit.
 
 
-==== Romans ====
-
-{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*rom)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
-
 ==== Genesis ====
 
 {{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*gen)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
@@ -21,6 +17,14 @@ They are available to assign to the Key Terms teams to edit.
 ==== Acts ====
 
 {{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*act)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
+
+==== Ezekiel ====
+
+{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*ezk)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
+
+==== John ====
+
+{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*jhn)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
 
 ==== Matthew ====
 
@@ -30,13 +34,9 @@ They are available to assign to the Key Terms teams to edit.
 
 {{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*isa)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
 
-==== Ezekiel ====
+==== Ephesians ====
 
-{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*ezk)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
-
-==== John ====
-
-{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*jhn)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
+{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*eph)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
 
 ==== 1 Thessalonians ====
 
@@ -57,10 +57,6 @@ They are available to assign to the Key Terms teams to edit.
 ==== Mark ====
 
 {{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*mrk)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
-
-==== Ephesians ====
-
-{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*eph)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
 
 ==== 1 Peter ====
 
