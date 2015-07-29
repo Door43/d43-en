@@ -8,7 +8,7 @@ Pages with opening or closing <nowiki>HTML <font> or </font></nowiki> tags:
 
 open
 
-{{pagequery>@:en:bible:notes (?=\<font)\; fulltextregex; sort=title:asc; display={title}; natsort; layout=table; showcount; hidemsg; hidejump;}}
+{{pagequery>@:en:bible:notes (?=\<font); fulltextregex; sort=title:asc; display={title}; natsort; layout=table; showcount; hidemsg; hidejump;}}
 
 
 close
