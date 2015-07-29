@@ -38,3 +38,28 @@ Manage teams that will be creating resources to support Wycliffe Associates' str
       * Those pages will be tagged with “mgr” followed by the three-letter book code. For example, a comment on Matthew would be tagged as “mgrmat”. You can use the Search box to find these occurrences, or use the admin page: [[:en:bible:admin-reports:reviewer-manager-admin|Reviewer to Manager Admin Page]].
       * When you have read and responded to the comment, delete the tag from the page.
 
+
+===== Information about the ULB and UDB =====
+
+We want to make sure that everyone that works with the source text has full confidence in the content. You, the team managers, will read and hear questions about the textual variances. The reasons for the variances could be explained without loss of confidence.
+
+It would be good for all Managers to be familiar with the information on these pages.
+
+[[en:bible:team-info:training:topics:original-source]]\\ 
+[[en:bible:team-info:processes:edit-udb]]\\ 
+[[en:bible:team-info:processes:edit-ulb]]\\ 
+
+ADDITIONAL INFORMATION ---
+Jim Pohlig has suggested that the [[en:bible:team-info:training:teunewsletter]] might be good background information to read also.
+
+=== Quote from Text Team Member Responsibilities Page ===
+Please note that The purpose of the Text team is to create two source texts for Bible translation: 
+
+  * ULB (UnfoldingWord Literal Bible) - This is an update to the 1901 ASV, removing archaic language and terms, and making it more understandable for people with limited English skills, and yet retaining the accuracy and the symmetry with the original languages.
+  * UDB (UnfoldingWord Dynamic Bible) - This is an adaptation of TFT (Translation for Translators) to restore many of the idioms and theological terms, and yet keep the easy-reading nature and the shortened sentences as much as possible. 
+
+The team will strive to keep the balance of accuracy and readability of the two versions, so that translators will have both a dynamic and a literal source text. 
+
+The team should also continually remember that the texts are to be used as intermediate source texts, and not as finished English versions. Both texts will be translated into several dozen “gateway” languages, so they must be very clear and easy to understand. 
+ 
+
