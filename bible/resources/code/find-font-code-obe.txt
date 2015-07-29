@@ -4,8 +4,4 @@
 
 Pages with opening or closing <nowiki>HTML <font></nowiki> tags:
 
-{{pagequery>ns:en:obe "<font" | ns:en:obe "</font>"; fulltext; sort=title:asc; display={title}; natsort; layout=table; showcount; hidemsg; hidejump;}}
-
-new
-
 {{pagequery>@:en:obe (?=\<font)|(?=\<\/font\>); fulltextregex; sort=title:asc; display={title}; natsort; layout=table; showcount; hidemsg; hidejump;}}
