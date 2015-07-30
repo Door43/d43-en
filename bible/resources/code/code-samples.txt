@@ -74,6 +74,12 @@ Find all "review" tags in two different NS:
 {{pagequery>@en:bible:notes:ezk @en:bible:notes:isa \{\{tag>[^}]*review[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort;showcount; layout=table;hidemsg;hidejump;fontsize=80%}}
 </code>
 
+Find all "publish" tags in a NS,  but skip a particular sub-NS:
+
+<code>
+{{pagequery>@:en:bible:notes ^en:bible:notes:checking \{\{tag>[^}]*publish[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort;showcount; layout=table;hidemsg;hidejump;fontsize=80%}}
+</code>
+
 Find KT pages with "drewc" tag __and__ with "ktobs" tag:
 
 <code>
