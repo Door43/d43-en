@@ -32,7 +32,7 @@
 
 {{changes>ns=vi&count=50&render=pagelist(header,date,user,nocomments)&maxage=25920000}}
 
-===== Malasian =====
+===== Malaysian =====
 
 {{changes>ns=ms,ms-dcv&count=50&render=pagelist(header,date,user,nocomments)&maxage=25920000}}
 
