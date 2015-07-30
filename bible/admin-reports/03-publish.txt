@@ -1,0 +1,10 @@
+====== Published Notes, Terms, Questions ======
+
+~~NOCACHE~~
+
+  * [[:en:bible:admin-reports:check-tags|Check Tags]]
+
+^  Notes  ^  Terms  ^  Questions  ^
+|{{pagequery>@en:bible:notes \{\{tag>[^}]*publish[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort;showcount; layout=table;hidemsg;hidejump;fontsize=80%}}  |{{pagequery>@en:obe \{\{tag>[^}]*publish[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort;showcount; layout=table;hidemsg;hidejump;fontsize=80%}}  |{{pagequery>@en:bible:questions:comprehension \{\{tag>[^}]*publish[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort;showcount; layout=table;hidemsg;hidejump;fontsize=80%}}  |
+
+\\
