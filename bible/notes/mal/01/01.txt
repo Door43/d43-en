@@ -2,56 +2,36 @@
 
 ===== TFT: =====
 
-<usfm>
-\v 1 This is the message that Yahweh gave to \add the prophet\add* Malachi to \add give to the people of\add* Israel.
+<usfm> \v 1 This is the message that Yahweh gave to \add the prophet\add* Malachi to \add give to the people of\add* Israel.
 
-\p
-\v 2 Yahweh says, "I have always loved you \add Israelite people\add*."
-\p
-\v 3 But you reply, "In what way have you loved us?"
-\p Yahweh replies, "\add This is how I loved you\add*: \add It is true that your ancestor\add* Jacob was \f + \ft rhetorical question \f* Esau's \add younger\add* brother, and I loved Jacob, but I rejected Esau. I caused his hilly region to become desolate\f + \ft Or: a place where crops did not grow \f*. I caused the land which he possessed to become a desert where jackals, Or: wolves live."
-\p
-</usfm>
+\p \v 2 Yahweh says, "I have always loved you \add Israelite people\add*." \p \v 3 But you reply, "In what way have you loved us?" \p Yahweh replies, "\add This is how I loved you\add*: \add It is true that your ancestor\add* Jacob was \f + \ft rhetorical question \f* Esau's \add younger\add* brother, and I loved Jacob, but I rejected Esau. I caused his hilly region to become desolate\f + \ft Or: a place where crops did not grow \f*. I caused the land which he possessed to become a desert where jackals, Or: wolves live." \p </usfm>
 
 ===== UDB: =====
 
-<usfm>
-\v 1 This is a message that Yahweh gave to Malachi for the Israelites.
+<usfm> \v 1 This is a message that Yahweh gave to Malachi for the Israelites.
 
-\p
-\v 2 Yahweh says, "I have loved you."
-\p
-\v 3 But you people reply, "How have you shown us that you love us?"
-\p Yahweh replies, "Is it not true that Esau and Jacob were brothers? Yet I have a covenant with Jacob and his descendants, but I have no covenant with Esau and his descendants. I caused Esau's land to be abandoned, a place where only wild dogs live."
+\p \v 2 Yahweh says, "I have loved you." \p \v 3 But you people reply, "How have you shown us that you love us?" \p Yahweh replies, "Is it not true that Esau and Jacob were brothers? Yet I have a covenant with Jacob and his descendants, but I have no covenant with Esau and his descendants. I caused Esau's land to be abandoned, a place where only wild dogs live."
 
-
-\p
-</usfm>
+\p </usfm>
 
 ===== ULB: =====
 
-<usfm>
-\c 1
-\p
-\v 1 The declaration of the word of Yahweh to Israel by the hand of Malachi.
-\p
-\v 2 "I have loved you," says Yahweh. But you say, "How have you loved us?" "Was not Esau Jacob’s brother?" declares Yahweh. "Yet I have loved Jacob,
-\v 3 but Esau I have hated. I have made his mountains an abandoned  devastation, and I have made his inheritance a place for  the jackals of the wilderness."
-</usfm>
+<usfm> \c 1 \p \v 1 The declaration of the word of Yahweh to Israel by the hand of Malachi. \p \v 2 "I have loved you," says Yahweh. But you say, "How have you loved us?" "Was not Esau Jacob’s brother?" declares Yahweh. "Yet I have loved Jacob, \v 3 but Esau I have hated. I have made his mountains an abandoned devastation, and I have made his inheritance a place for the jackals of the wilderness." </usfm>
 
 ===== Important Terms: =====
 
-  * [[:en:obe:kt:Yahweh]]
-  * [[:en:obe:other:Israel]]
-  * [[:en:obe:other:Malachi]]
-  * [[:en:obe:kt:love]]
-  * [[:en:obe:other:Esau]]
-  * [[:en:obe:other:Jacob]]
-  * [[:en:obe:kt:inherit]]
+  * [[:en:obe:kt:yahweh|Yahweh]]
+  * [[:en:obe:other:israel|Israel, Israelites, nation of Israel]]
+  * [[:en:obe:other:malachi|Malachi]]
+  * [[:en:obe:kt:love|love]]
+  * [[:en:obe:other:esau|Esau]]
+  * [[:en:obe:other:jacob|Jacob, Israel]]
+  * [[:en:obe:kt:inherit|inherit, inheritance]]
 
 ===== Translation Notes: =====
-  * **Yahweh-** "God" 
-  * **The declaration of the word of Yahweh to Israel by the hand of Malachi.-**   " Yahweh spoke to Israel through Malachi." "By the hand of" is a figure of speech called Metonymy. (See: [[:en:ta:translate:metonymy|Metonymy]]).  The phrase “by the hand of” someone means “by” or “through” the action of that person. (See: [[en:obe:other:hand]])
+
+  * **Yahweh-**  "God"
+  * **The declaration of the word of Yahweh to Israel by the hand of Malachi.-**  " Yahweh spoke to Israel through Malachi." "By the hand of" is a figure of speech called Metonymy. (See: [[:en:ta:translate:metonymy|Metonymy]]). The phrase “by the hand of” someone means “by” or “through” the action of that person. (See: [[:en:obe:other:hand|hand]])
   * **But you say, "How have you loved us?" -**  This question indicates doubt, or questions the truth of God's words.
   * **declares Yahweh. - **"says Yahweh."
   * **"Yet I have loved Jacob, - **  Yahweh chose Jacob to bless**.**
@@ -60,7 +40,7 @@
   * **and I have made his inheritance a place for the jackals of the wilderness." - **  "and I have made his inherited lands a desert where only jackals (or 'desert animals' or 'wild dogs') can live."
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:mal:01|Malachi Chapter 01 Comprehension Questions]]**
+  * **[[:en:bible:questions:comprehension:mal:01|Malachi Chapter 01 Comprehension Questions]]**
 **| [[:en:bible:notes:mal:01:04|>>]]**
 
 ~~DISCUSSION~~{{tag>check, ktlink}}
