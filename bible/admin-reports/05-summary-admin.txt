@@ -8,15 +8,13 @@
   * [[:en:bible:admin-reports:obe-admin:obe-edit|OBE: Pages to Edit]]
   * [[:en:obe:home|Complete list of Important Terms]]
   * [[:en:bible:admin-reports:check-tags-obe|Check OBE Tags]]
-{{count>create delete draft review text discuss publish&en:obe}}
+
 
 ===== Book Overview =====
 
   * [[:en:bible:admin-reports:03-discuss|Pages Tagged "Discuss"]]
   * [[:en:bible:admin-reports:check-tags|Check Notes Tags]]
-{{count>cq draft check review text discuss publish&en:bible:notes}}
 
-//(all counts include tags for translation question pages)//
 
 ===== Ed's Books =====
 
@@ -27,7 +25,7 @@
   * [[:en:bible:admin-reports:notes-review-admin:act|Notes: Acts Review Admin]]
   * [[:en:bible:admin-reports:questions-comprehension:act|Translation Questions: Acts Admin]]
   * [[:en:bible:notes:act:home|Acts Links:]]
-{{count>cq draft check review text discuss publish&en:bible:notes:act}}
+
 
 === Genesis ===
 
@@ -36,7 +34,7 @@
   * [[:en:bible:admin-reports:notes-review-admin:gen|Notes: Genesis Review Admin]]
   * [[:en:bible:admin-reports:questions-comprehension:gen|Translation Questions: Genesis Admin]]
   * [[:en:bible:notes:gen:home|Genesis Links]]
-{{count>cq draft check review text discuss publish&en:bible:notes:gen}}
+
 
 === 1 Thessalonians ===
 
@@ -44,7 +42,7 @@
   * [[:en:bible:admin-reports:notes-review-admin:1th|Notes: 1 Thessalonians Review Admin]]
   * [[:en:bible:admin-reports:questions-comprehension:1th|Translation Questions: 1 Thessalonians Admin]]
   * [[:en:bible:notes:1th:home|1 Thessalonians]]
-{{count>cq draft check review text discuss publish&en:bible:notes:1th}}
+
 
 === Ephesians ===
 
@@ -52,7 +50,7 @@
   * [[:en:bible:admin-reports:notes-review-admin:eph|Notes: Ephesians Admin Page]]
   * [[:en:bible:admin-reports:questions-comprehension:eph|Translation Questions: Ephesians Admin]]
   * [[:en:bible:notes:eph:home|Ephesians Links:]]
-{{count>cq draft check review text discuss publish&en:bible:notes:eph}}
+
 
 
 ===== Susan's Books =====
@@ -63,7 +61,7 @@
   * [[:en:bible:admin-reports:notes-review-admin:ezk|Notes: Ezekiel Review Admin]]
   * [[:en:bible:admin-reports:questions-comprehension:ezk|Translation Questions: Ezekiel Admin]]
   * [[:en:bible:notes:ezk:home|Ezekiel]]
-{{count>cq draft check review text discuss publish&en:bible:notes:ezk}}
+
 
 === Isaiah ===
 
@@ -71,7 +69,7 @@
   * [[:en:bible:admin-reports:notes-review-admin:isa|Notes: Isaiah Review Admin]]
   * [[:en:bible:admin-reports:questions-comprehension:isa|Translation Questions: Isaiah Admin]]
   * [[:en:bible:notes:isa:home|Isaiah Links]]
-{{count>cq draft check review text discuss publish&en:bible:notes:isa}}
+
 
 
 ===== Henry's Books =====
@@ -82,7 +80,7 @@
   * [[:en:bible:admin-reports:notes-review-admin:mat|Notes: Matthew Review Admin]]
   * [[:en:bible:admin-reports:questions-comprehension:mat|Translation Questions: Matthew Admin]]
   * [[:en:bible:notes:mat:home|Matthew Links]]
-{{count>cq draft check review text discuss publish&en:bible:notes:mat}}
+
 
 === Mark ===
 
@@ -90,7 +88,7 @@
   * [[:en:bible:admin-reports:notes-review-admin:mrk|Notes: Mark Review Admin]]
   * [[:en:bible:admin-reports:questions-comprehension:mrk|Translation Questions: Mark Admin]]
   * [[:en:bible:notes:mrk:home|Mark Links]]
-{{count>cq draft check review text discuss publish&en:bible:notes:mrk}}
+
 
 
 ===== John A's Books =====
@@ -101,7 +99,7 @@
   * [[:en:bible:admin-reports:notes-review-admin:1jn|Notes: 1 John Review Admin]]
   * [[:en:bible:admin-reports:questions-comprehension:1jn|Translation Questions: 1,2,3 John Admin]]
   * [[:en:bible:notes:1jn:home|1 John]]
-{{count>cq draft check review text discuss publish&en:bible:notes:1jn}}
+
 
 
 ===== Other Books =====
@@ -112,7 +110,7 @@
   * [[:en:bible:admin-reports:notes-review-admin:1pe|Notes: 1 Peter Review Admin]]
   * [[:en:bible:admin-reports:questions-comprehension:1pe|Translation Questions: 1 Peter Admin]]
   * [[:en:bible:notes:1pe:home|1 Peter]]
-{{count>cq draft check review text discuss publish&en:bible:notes:1pe}}
+
 
 === 2 Peter ===
 
@@ -120,7 +118,7 @@
   * [[:en:bible:admin-reports:notes-review-admin:2pe|Notes: 2 Peter Review Admin]]
   * [[:en:bible:admin-reports:questions-comprehension:2pe|Translation Questions: 2 Peter Admin]]
   * [[:en:bible:notes:2pe:home|2 Peter]]
-{{count>cq draft check review text discuss publish&en:bible:notes:2pe}}
+
 
 === 2 John ===
 
@@ -128,7 +126,7 @@
   * [[:en:bible:admin-reports:notes-review-admin:2jn|Notes: 2 John Review Admin]]
   * [[:en:bible:admin-reports:questions-comprehension:1jn|Translation Questions: 1,2,3 John Admin]]
   * [[:en:bible:notes:2jn:home|2 John Links]]
-{{count>cq draft check review text discuss publish&en:bible:notes:2jn}}
+
 
 === 3 John ===
 
@@ -136,4 +134,4 @@
   * [[:en:bible:admin-reports:notes-review-admin:3jn|Notes: 3 John Review Admin]]
   * [[:en:bible:admin-reports:questions-comprehension:1jn|Translation Questions: 1,2,3 John Admin]]
   * [[:en:bible:notes:3jn:home|3 John Links]]
-{{count>cq draft check review text discuss publish&en:bible:notes:3jn}}
+
