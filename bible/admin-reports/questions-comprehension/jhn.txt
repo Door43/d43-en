@@ -1,0 +1,10 @@
+====== Translation Questions: John Admin ======
+
+~~NOCACHE~~
+
+This is the status of the John Translation Question pages:
+
+^  Draft  ^  Review  ^  Text  ^  Publish  ^
+|{{pagequery>@en:bible:questions:comprehension:jhn\{\{tag>[^}]*draft[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; showcount; layout=table;hidemsg;hidejump;fontsize=80%}} |{{pagequery>@en:bible:questions:comprehension:jhn\{\{tag>[^}]*review[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; showcount; layout=table;hidemsg;hidejump;fontsize=80%}} |{{pagequery>@en:bible:questions:comprehension:jhn\{\{tag>[^}]*text[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; showcount; layout=table;hidemsg;hidejump;fontsize=80%}} |{{pagequery>@en:bible:questions:comprehension:jhn\{\{tag>[^}]*publish[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; showcount; layout=table;hidemsg;hidejump;fontsize=80%}} |
+
+\\
