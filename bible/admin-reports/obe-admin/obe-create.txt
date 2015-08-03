@@ -1,17 +1,14 @@
 ====== OBE: Pages Tagged "Create" ======
 
-  * [[:en:bible:admin-reports:check-tags]]
+  * [[:en:bible:admin-reports:check-tags|Check Notes Tags]]
 
 ~~NOCACHE~~
 
-The following OBE Terms are tagged as "create" and are on hold.\\
-They are not available for the team to edit.
+The following OBE Terms are tagged as "create" and are on hold. \\ They are not available for the team to edit.
 
 ==== Sorted by Term ====
 
-{{count>create&en:obe}}
-{{topic>en:obe?create&nocomments&list&tags}}
-
+{{count>create&en:obe}}{{topic>en:obe?create&nocomments&list&tags}}
 
 ==== Sorted by creation date ====
 
