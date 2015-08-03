@@ -22,16 +22,16 @@
 ===== UDB: =====
 
 <usfm>
-\v 33 Shammah, from Harar town;
-\li3 Ahiam the son of Sharar, from Harar town;
+\v 33 Shammah, from Harar town,
+\li3 Ahiam the son of Sharar, from Harar town,
 \li3
-\v 34 Eliphelet, the son of Ahasbai, from Maacah town;
-\li3 Eliam, the son of Ahithophel, from Gilo town;
+\v 34 Eliphelet, the son of Ahasbai, from Maacah town,
+\li3 Eliam, the son of Ahithophel, from Gilo town,
 \li3
-\v 35 Hezro, from Carmel city;
-\li3 Paarai, from Arba city;
+\v 35 Hezro, from Carmel city,
+\li3 Paarai, from Arba city,
 \li3
-\v 36 Igal, the son of Nathan, from Zobah city;
+\v 36 Igal, the son of Nathan, from Zobah city,
 \li3 Bani, from the tribe of Gad;
 
 
@@ -42,10 +42,10 @@
 ===== ULB: =====
 
 <usfm>
-\v 33 Shammah the Hararite, Ahiam the son of Sharar the Ararite,
-\v 34 Eliphelet the son of Ahasbai, the son of the Maacathite, Eliam the son of Ahithophel the Gilonite,
+\v 33 Shammah the Hararite, Ahiam the son of Sharar the Hararite,
+\v 34 Eliphelet the son of Ahasbai the Maacathite, Eliam the son of Ahithophel the Gilonite,
 \v 35 Hezro the Carmelite, Paarai the Arbite,
-\v 36 Igal the son of Nathan of Zobah, Bani the Gadite,
+\v 36 Igal the son of Nathan from Zobah, Bani from the tribe of Gad,
 </usfm>
 
 
