@@ -8,12 +8,10 @@ Before publishing Phase 1 tN's, the reviewer should refer to the topics below.
 
   * Remove tN's that are adequately clear in the UDB.
 
+  * Remove tN's with commentary, devotional, or teaching content that does not directly help with the process of translation.
 
-==== Notes to Add ====
+  * Remove Important Words that are not found in the ULB.
 
-  * Add __brief__ tN's for important topics that are not addressed in the tN's.
-
-  * Add notes to indicate significant optional meanings for phrases, if not in the tN's.
 
 ==== Notes to Correct ====
 
@@ -21,7 +19,22 @@ Before publishing Phase 1 tN's, the reviewer should refer to the topics below.
 
   * Correct tN's that are wrong (saying a plural is singular, for ex.).
 
-  * Check for correct Important Words for the ULB, and that they are linked to the right pages.
+  * Correct Important Terms that are not correctly linked, or that point to the wrong pages.
+
+  * Correct Translation Academy (tA) links that are not formatted correctly, or that point to the wrong pages.
+
+  * Simplify wording of tN's where possible.
+
+
+==== Notes to Add ====
+
+  * Add __brief__ tN's for important issues that are not addressed in the tN's.
+
+  * Add notes to indicate significant optional meanings for phrases, if not in the tN's.
+
+  * Add links to significant Important Terms that are not already linked.
+
+  * Add links to important tA topics that are not already included.
 
 
 ==== Communication with Teams ====
@@ -32,3 +45,4 @@ Before publishing Phase 1 tN's, the reviewer should refer to the topics below.
 
   * Notify the Text Team of issues or concerns with the ULB and UDB texts.
 
+  * Discuss with the Review Team any issues that might affect the work of other reviewers, or topics where they might be able to offer guidance.
