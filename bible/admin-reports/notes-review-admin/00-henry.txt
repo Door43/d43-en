@@ -4,21 +4,12 @@
 
 ~~NOCACHE~~
 
-=== Romans ===
-
-  * [[:en:bible:admin-reports:notes-team-admin:rom|Notes: Romans Team Admin]]
-  * [[:en:bible:admin-reports:notes-review-admin:rom|Notes: Romans Review Admin]]
-  * [[:en:bible:admin-reports:questions-comprehension:rom|Translation Questions: Romans Admin]]
-  * [[:en:bible:notes:rom:home|Romans Links]]
-{{count>cq draft check review text discuss publish&en:bible:notes:rom}}
-
-=== Matthew Admin ===
+=== Matthew ===
 
   * [[:en:bible:admin-reports:notes-team-admin:mat]]
   * [[:en:bible:admin-reports:notes-review-admin:mat]]
   * [[:en:bible:admin-reports:questions-comprehension:mat]]
   * [[:en:bible:notes:mat:home]]
-{{count>cq draft review text discuss publish&en:bible:notes:mat}}
 
 
 === Mark ===
@@ -27,4 +18,35 @@
   * [[:en:bible:admin-reports:notes-review-admin:mrk]]
   * [[:en:bible:admin-reports:questions-comprehension:mrk]]
   * [[:en:bible:notes:mrk:home]]
-{{count>cq draft check review text discuss publish&en:bible:notes:mrk}}
+
+=== Joel ===
+
+  * [[:en:bible:admin-reports:notes-team-admin:jol]]
+  * [[:en:bible:admin-reports:notes-review-admin:jol]]
+  * [[:en:bible:admin-reports:questions-comprehension:mrk]]
+  * [[:en:bible:notes:jol:home]]
+
+=== Nahum ===
+
+  * [[:en:bible:admin-reports:notes-team-admin:nam]]
+  * [[:en:bible:admin-reports:notes-review-admin:nam]]
+  * [[:en:bible:admin-reports:questions-comprehension:nam]]
+  * [[:en:bible:notes:nam:home]]
+
+=== Habakkuk ===
+
+  * [[:en:bible:admin-reports:notes-team-admin:hab]]
+  * [[:en:bible:admin-reports:notes-review-admin:hab]]
+  * [[:en:bible:admin-reports:questions-comprehension:hab]]
+  * [[:en:bible:notes:hab:home]]
+
+=== Malachi ===
+
+  * [[:en:bible:admin-reports:notes-team-admin:mal]]
+  * [[:en:bible:admin-reports:notes-review-admin:mal]]
+  * [[:en:bible:admin-reports:questions-comprehension:mal]]
+  * [[:en:bible:notes:mal:home]]
+
+
+
+
