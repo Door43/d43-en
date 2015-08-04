@@ -22,10 +22,7 @@ When you click the "Edit this page" button, this editor is the default version t
 
 ==== Which Editor to Use? ====
 
-By default, Door43 pages will open to DW Edit. It will give you a bit more control over stray spaces and other issues that occasionally happen in the code. It also allows you to insert bullets or bold text by either typing in the codes for them or by using the formatting buttons. Until you learn how to use the formatting in DW Edit, you can always click the "Preview" button while editing to see what the formatted text would look like.
-
-If you have trouble using DW Edit, you may want to switch to the CKG Edit. CKG Edit is easier for some people, and it may prevent you from introducing errors in the code for the page. However, it is more difficult to insert bullets or text formatting exactly where you want it.
-
+By default, Door43 pages will open to CKG Edit. If you have trouble using CKG Edit, you may want to switch to DW Edit. DW Edit is easier for some people, and it may prevent you from introducing errors in the code for the page. However, you will need to know a bit of code in order to insert bullets or text formatting.
 
 ==== How to Switch Editors ====
 
