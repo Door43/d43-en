@@ -1,10 +1,15 @@
 ====== Phase 1 Reviewer Checklist ======
 
-Before publishing Phase 1 tN's, the reviewer should check the following:
+Before publishing Phase 1 tN's, the reviewer should refer to the topics below.
+
+==== Notes to Remove ====
 
   * Remove tN's that state information that is plainly obvious.
 
   * Remove tN's that are adequately clear in the UDB.
+
+
+==== Notes to Add ====
 
   * Correct tN's that are wrong (saying a plural is singular, for ex.).
 
@@ -12,8 +17,12 @@ Before publishing Phase 1 tN's, the reviewer should check the following:
 
   * Add notes to indicate significant optional meanings for phrases, if not in the tN's.
 
+==== Notes to Correct ====
+
   * Correct formatting of notes.
 
   * Check for correct Important Words for the ULB, and that they are linked to the right pages.
+
+==== Communication with Teams ====
 
   * 
