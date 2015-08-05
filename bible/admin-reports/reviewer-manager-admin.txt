@@ -82,17 +82,3 @@
 
 {{pagequery>@:en:bible:notes:ezk \{\{tag>[^}]*mgr[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hide jump;showcount;fontsize=90%}}
 
-
-===== Unassigned: =====
-
-=== Exodus ===
-
-{{pagequery>@:en:bible:notes:exo \{\{tag>[^}]*mgrexo[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hide jump;showcount;fontsize=90%}}
-
-=== Lamentations ===
-
-{{pagequery>@:en:bible:notes:lam \{\{tag>[^}]*mgrlam[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hide jump;showcount;fontsize=90%}}
-
-=== Revelation ===
-
-{{pagequery>@:en:bible:notes:rev \{\{tag>[^}]*mgrrev[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hide jump;showcount;fontsize=90%}}
