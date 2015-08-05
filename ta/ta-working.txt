@@ -3,6 +3,8 @@
 
 <nspages en:ta:translate -title -exclude:home -nbCol=2 -textPages="List of tA Pages about How to Translate:">
 
+<nspages en:ta:OLDtranslate -title -exclude:home -nbCol=2 -textPages="List of tA Pages about How to Translate:">
+
 <nspages en:ta:discourse -title -nbCol=2 -textPages="List of tA Pages about Discourse/Literature and Genre:">
 
 
