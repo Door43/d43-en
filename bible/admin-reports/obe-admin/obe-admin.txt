@@ -17,8 +17,6 @@
 
 ==== Key Terms Pages Status ====
 
-{{count>create delete draft review discuss publish&en:obe}}
-
 ^  Draft Pages  ^
 |{{pagequery>@en:obe \{\{tag>[^}]*draft[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; showcount; layout=table;hidemsg;hidejump;fontsize=90%}} |
 
