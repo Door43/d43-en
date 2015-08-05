@@ -8,34 +8,34 @@
 
 {{pagequery>@:en:bible:notes:mat \{\{tag>[^}]*mgrmat[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hide jump;showcount;fontsize=90%}}
 
-=== Mark ===
+== Mark ==
 
 {{pagequery>@:en:bible:notes:mrk \{\{tag>[^}]*mgrmrk[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hide jump;showcount;fontsize=90%}}
 
-=== Acts ===
+== Acts ==
 
 {{pagequery>@:en:bible:notes:act \{\{tag>[^}]*mgract[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hide jump;showcount;fontsize=90%}}
 
-=== Ephesians ===
+== Ephesians ==
 
 {{pagequery>@:en:bible:notes:eph \{\{tag>[^}]*mgreph[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hide jump;showcount;fontsize=90%}}
 
-=== 1,2 Thessalonians ===
+== 1,2 Thessalonians ==
 
 {{pagequery>@:en:bible:notes:1th \{\{tag>[^}]*mgr1th[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hide jump;showcount;fontsize=90%}}{{pagequery>@:en:bible:notes:2th \{\{tag>[^}]*mgr2th[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hide jump;showcount;fontsize=90%}}
 
 
-===== John H's books: =====
+==== John H's books: ====
 
-=== Genesis ===
+== Genesis ==
 
 {{pagequery>@:en:bible:notes:gen \{\{tag>[^}]*mgrgen[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hide jump;showcount;fontsize=90%}}
 
-=== Isaiah ===
+== Isaiah ==
 
 {{pagequery>@:en:bible:notes:isa \{\{tag>[^}]*mgrisa[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hide jump;showcount;fontsize=90%}}
 
-=== 1,2,3 John ===
+== 1,2,3 John ==
 
 {{pagequery>@:en:bible:notes:1jn \{\{tag>[^}]*mgr1jn[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hide jump;showcount;fontsize=90%}}{{pagequery>@:en:bible:notes:2jn \{\{tag>[^}]*mgr2jn[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hide jump;showcount;fontsize=90%}}{{pagequery>@:en:bible:notes:3jn \{\{tag>[^}]*mgr3jn[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hide jump;showcount;fontsize=90%}}
 
