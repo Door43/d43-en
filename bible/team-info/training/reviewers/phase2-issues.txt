@@ -9,7 +9,7 @@ This is a list of general issues that we want to deal with in Phase 2.
   * **Symbolic acts** - Do we want a standard note format for these? Sometimes only they symbolic act is mentioned. They're not just idioms, but I don't think they're simply metonymy either.
       * **will shake his fist at them** - "will threaten them"??
 
-
+  * **tA Links** - We have not been putting the same tA links on multiple notes in a chunk, but when the issue comes up a second time in a chunk, how do we indicate that a second or third note phrase has that issue? See: [[en:bible:notes:isa:10:26]] where there are three notes that involve metonymy.
 
 
 ~~DISCUSSION~~
