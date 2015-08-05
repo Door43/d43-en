@@ -211,6 +211,8 @@ edge [arrowsize=1.4];
 "vol2_backtranslation_written" -> "vol2_backtranslation_guidelines"
 "community_evaluation" [fillcolor="#9999ff"]
 "language_community_check" -> "community_evaluation"
+"other_methods" -> "community_evaluation"
+"writing_decisions" -> "community_evaluation"
 "qualifications" [fillcolor="#9999ff"]
 "level1" -> "qualifications"
 "important_term_check" [fillcolor="#9999ff"]
@@ -233,6 +235,8 @@ edge [arrowsize=1.4];
 "vol2_backtranslation_purpose" -> "vol2_backtranslation_who"
 "peer_check" [fillcolor="#9999ff"]
 "level1" -> "peer_check"
+"other_methods" [fillcolor="#9999ff"]
+"language_community_check" -> "other_methods"
 "vol2_backtranslation_kinds" [fillcolor="#9999ff"]
 "vol2_backtranslation_who" -> "vol2_backtranslation_kinds"
 "good" [fillcolor="#9999ff"]
@@ -241,6 +245,9 @@ edge [arrowsize=1.4];
 "level1" -> "clear"
 "vol2_things_to_check" [fillcolor="#9999ff"]
 "vol2_steps" -> "vol2_things_to_check"
+"writing_decisions" [fillcolor="#9999ff"]
+"language_community_check" -> "writing_decisions"
+"other_methods" -> "writing_decisions"
 "intro_check" [fillcolor="#9999ff"]
 "Checking" -> "intro_check"
 "level3_questions" [fillcolor="#9999ff"]
