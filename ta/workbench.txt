@@ -18,4 +18,4 @@ All information added to these pages are released under the Creative Commons cop
 Go [[http://door43.org/en/ta/workbench/how-to-use|here]] for instructions on how to add your work to the workbench.
 
 
-
+<nspages en:ta:vol1:translate -title -exclude:home -nbCol=2 -textPages="List of tA Topics:">
