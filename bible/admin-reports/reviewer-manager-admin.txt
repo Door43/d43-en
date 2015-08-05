@@ -24,6 +24,7 @@
 
 {{pagequery>@:en:bible:notes:1th \{\{tag>[^}]*mgr1th[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hide jump;showcount;fontsize=90%}}{{pagequery>@:en:bible:notes:2th \{\{tag>[^}]*mgr2th[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hide jump;showcount;fontsize=90%}}
 
+
 ===== John H's books: =====
 
 === Genesis ===
@@ -34,15 +35,30 @@
 
 {{pagequery>@:en:bible:notes:isa \{\{tag>[^}]*mgrisa[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hide jump;showcount;fontsize=90%}}
 
+=== 1,2,3 John ===
+
+{{pagequery>@:en:bible:notes:1jn \{\{tag>[^}]*mgr1jn[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hide jump;showcount;fontsize=90%}}{{pagequery>@:en:bible:notes:2jn \{\{tag>[^}]*mgr2jn[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hide jump;showcount;fontsize=90%}}{{pagequery>@:en:bible:notes:3jn \{\{tag>[^}]*mgr3jn[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hide jump;showcount;fontsize=90%}}
+
+
 ===== David F's: =====
 
 === Ezekiel ===
 
 {{pagequery>@:en:bible:notes:ezk \{\{tag>[^}]*mgr[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hide jump;showcount;fontsize=90%}}
 
+=== Joel ===
+
+{{pagequery>@:en:bible:notes:jol \{\{tag>[^}]*mgr[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hide jump;showcount;fontsize=90%}}
+
+=== Nahum ===
+
+{{pagequery>@:en:bible:notes:nam \{\{tag>[^}]*mgr[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hide jump;showcount;fontsize=90%}}
+
 === Habakkuk ===
 
 {{pagequery>@:en:bible:notes:hab \{\{tag>[^}]*mgr[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hide jump;showcount;fontsize=90%}}
+
+
 ===== Joe W's: =====
 
 === 1 Corinthians ===
@@ -51,11 +67,23 @@
 === Jude ===
 
 {{pagequery>@:en:bible:notes:jud \{\{tag>[^}]*mgrjud[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hide jump;showcount;fontsize=90%}}
+
+
+===== Vivian R's: =====
+
+=== 2 Peter ===
+
+{{pagequery>@:en:bible:notes:2pe \{\{tag>[^}]*mgr[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hide jump;showcount;fontsize=90%}}
+
+
+===== Adam VG's: =====
+
+=== Ezekiel ===
+
+{{pagequery>@:en:bible:notes:ezk \{\{tag>[^}]*mgr[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hide jump;showcount;fontsize=90%}}
+
+
 ===== Unassigned: =====
-
-=== 1,2,3 John ===
-
-{{pagequery>@:en:bible:notes:1jn \{\{tag>[^}]*mgr1jn[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hide jump;showcount;fontsize=90%}}{{pagequery>@:en:bible:notes:2jn \{\{tag>[^}]*mgr2jn[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hide jump;showcount;fontsize=90%}}{{pagequery>@:en:bible:notes:3jn \{\{tag>[^}]*mgr3jn[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hide jump;showcount;fontsize=90%}}
 
 === Exodus ===
 
