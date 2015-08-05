@@ -1,14 +1,12 @@
 ====== translationAcademy Topics ======
 
-<nspages en:ta:translation-guidelines -title -exclude:home -nbCol=2 -textPages="List of tA Pages about The Translation Guidelines:">
+==== NOTE: THE LINK INFORMATION FOR THE tA PAGES HAS CHANGED AS OF 2015.08.05 AT 12:00. ====
 
-<nspages en:ta:translate -title -exclude:home -nbCol=2 -textPages="List of tA Pages about How to Translate:">
 
-<nspages en:ta:discourse -title -nbCol=2 -textPages="List of tA Pages about Discourse/Literature and Genre:">
+<nspages en:ta:vol1:translate -title -exclude:home -nbCol=2 -textPages="List of tA Topics (Volume 1):">
 
-<nspages en:ta:vocabulary -title -nbCol=2 -exclude:home -textPages="List of tA Pages about English Vocabulary and Grammar:">
+<nspages en:ta:vol2:translate -title -exclude:home -nbCol=2 -textPages="List of tA Topics (Volume 2):">
 
-<nspages en:ta:figuresofspeech -title -nbCol=2 -exclude:home -textPages="List of tA Pages about Figures of Speech:">
 
 {{tag>notes301 kt201}}
 
