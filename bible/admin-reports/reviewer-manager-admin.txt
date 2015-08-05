@@ -2,9 +2,9 @@
 
 ~~NOCACHE~~
 
-===== Catherine N's books: =====
+==== Catherine N's books: ====
 
-=== Matthew ===
+== Matthew ==
 
 {{pagequery>@:en:bible:notes:mat \{\{tag>[^}]*mgrmat[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hide jump;showcount;fontsize=90%}}
 
