@@ -3,7 +3,6 @@
 ===== TFT: =====
 
 <usfm>
-\q1
 \v 28 \add The army of Assyria will enter northern Judah\add* near Aiath \add town\add*,
 \q2 they will go through Migron \add town\add*
 \q2 and store their supplies at Micmash \add town north of Jerusalem\add*.
@@ -18,7 +17,6 @@
 ===== UDB: =====
 
 <usfm>
-\q1
 \v 28 One day in the future this will be the situation: The army of Assyria has entered northern Judah near Aiath town,
 \q2 they have gone through the town of Migron
 \q2 and stored their supplies at the town of Micmash north of Jerusalem.
@@ -27,6 +25,7 @@
 \q2 and set up their tents at the town of Geba.
 \q1 People in the town of Ramah will tremble because of they are afraid.
 \q2 The people of the town of Gibeah, where King Saul was born, have all run away.
+
 
 \q1
 </usfm>
