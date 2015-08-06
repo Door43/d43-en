@@ -1,0 +1,6 @@
+====== tA Volume 1 TOC ======
+
+<nspages en:ta:vol1:intro -title -exclude:home -nbCol=2 -textPages="Introduction to translationAcademy:">
+<nspages en:ta:vol1:checking -title -exclude:home -nbCol=2 -textPages="Checking Manual:">
+<nspages en:ta:vol1:translate -title -exclude:home -nbCol=2 -textPages="Translation Manual:">
+<nspages en:ta:vol1:tech -title -exclude:home -nbCol=2 -textPages="Tech Manual:">
