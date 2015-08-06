@@ -8,11 +8,11 @@ The following pages are tagged with the "talink" code and contain a tA link that
 ==== Unfinished Topics ====
 
 ^Topic ^References/Chunk ^Page Status |
-|[[:en:ta:translate:originalmanuscripts|Original Manuscripts]] Textual Variant |Acts 8.36 |Review |
-|[[:en:ta:translate:originalmanuscripts|Original Manuscripts]] |Acts 15.33 |Review |
-|[[en:ta:translate:reflexpronoun]] |Acts 20.13 |Draft |
-|[[:en:ta:translate:translateunknowns-numbers|numbers, numeral]] |Genesis 5.3 |Draft |
-|[[:en:ta:translate:translateunknowns-numbers|numbers, numeral]] |Genesis 11.10 |Draft |
+|[[:en:ta:workbench:translate:originalmanuscripts|Original Manuscripts]] Textual Variant |Acts 8.36 |Review |
+|[[:en:ta:workbench:translate:originalmanuscripts|Original Manuscripts]] |Acts 15.33 |Review |
+|[[en:ta:workbench:translate:reflexpronoun]] |Acts 20.13 |Draft |
+|[[:en:ta:workbench:translate:translateunknowns-numbers|numbers, numeral]] |Genesis 5.3 |Draft |
+|[[:en:ta:workbench:translate:translateunknowns-numbers|numbers, numeral]] |Genesis 11.10 |Draft |
 |Biblical Time |Ezekiel 1:1 |Draft |
 
 \\
@@ -38,35 +38,35 @@ The following lists are the pages that need editing. The steps through the membe
 
 Chris needs to work on these pages:
 
-{{topic>en:ta?chris&nocomments}}
+{{topic>en:ta:workbench?chris&nocomments}}
 
 ----
 
 The following pages are tagged as "Erika" and need to be edited by **Erika**:
 
-{{topic>en:ta?erika&nocomments}}
+{{topic>en:ta:workbench?erika&nocomments}}
 
 ----
 
 After Erika has reorganized the pages these pages need to be edited by **Kara**:
 
-{{topic>en:ta?kara&nocomments}}{{topic>en:ta?bjo&nocomments}}
+{{topic>en:ta:workbench?kara&nocomments}}{{topic>en:ta?bjo&nocomments}}
 
 ----
 
 These pages need information added by **Jody**:
 
-{{topic>en:ta?jody&nocomments}}
+{{topic>en:ta:workbench?jody&nocomments}}
 
 ==== tA Pages not in etherpad ====
 
-{{topic>en:ta?-epady&nocomments}}
+{{topic>en:ta:workbench?-epady&nocomments}}
 
 ==== Edited tA Pages to Review ====
 
 The following pages are tagged as "review" and need final review and then to be published:
 
-{{topic>en:ta?review&nocomments}}
+{{topic>en:ta:workbench?review&nocomments}}
 
 ==== Followup ====
 
