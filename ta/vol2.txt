@@ -1,6 +1,5 @@
 ====== tA Volume 2 TOC ======
 
-<nspages en:ta:vol2:intro -title -exclude:home -nbCol=2 -textPages="Introduction to translationAcademy:">
 <nspages en:ta:vol2:checking -title -exclude:home -nbCol=2 -textPages="Checking Manual:">
 <nspages en:ta:vol2:translate -title -exclude:home -nbCol=2 -textPages="Translation Manual:">
 <nspages en:ta:vol2:tech -title -exclude:home -nbCol=2 -textPages="Tech Manual:">
