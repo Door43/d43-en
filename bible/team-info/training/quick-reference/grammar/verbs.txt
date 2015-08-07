@@ -9,15 +9,15 @@ Verbs either link the subject to a descriptive portion of the sentence or expres
 
 ===== Template =====
 
-The following information is either required or optional in the notes:
+The following information should be included in the notes:
 
-  - **(Required)**  Write the text that includes the verb from the ULB in bold
-  - (Optional)  Give a clarifying translation
-  - **(Required)**  Explain the additional information that might be needed to clarify the meaning of the verb
-  - **(Required)**  Suggest alternate ways to translate the verb
-  - **(Required)**  Add TA Link: (See: Verbs)
+  - **Text** - the text that includes the verb from the ULB in bold
+  - Clarifying translation - (optional)
+  - **Explanation** - the meaning of the verb unless clear in the alternate translation
+  - **Alternate translation** - if not clear in the UDB
+  - **TA link** - unless already in the notes for the chunk
 
-  * **(1) ULB text**  - **(3)** Text meaning. **(4)** Additional information that might be needed to clarify the meaning of the verb. **(5)** (See: Verbs)
+  * **(1) ULB text**  - **(3)** Explanation. **(4)** Alternate translation. **(5)** (See: Verbs)
 
 
 ===== Bible Examples =====
