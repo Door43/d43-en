@@ -9,13 +9,14 @@ Something that is hypothetical is 'assumed' or 'supposed.' A hypothetical situat
 
 ===== Template =====
 
-The following information is either required or optional in the notes:
+The following information should be included in the notes:
 
-  - **(Required)** Write the text that includes the hypothetical situation from the ULB in bold
-  - (Optional) Give a clarifying translation
-  - **(Required)**  Identify and state the purpose of the hypothetical situation
-  - (Optional) Suggest that the translator use a form from their language if it exists
-  - **(Required)**  Add TA Link: (See: Hypothetical)
+  - **Text** - the text that includes the hypothetical situation from the ULB in bold
+  - Clarifying translation - (optional)
+  - **Explanation** - Identify and state the purpose of the hypothetical situation
+  - **Alternate translation** - Suggest that the translator use a form from their language if it exists
+  - **TA link** - unless already in the notes for the chunk
+
   * **(1) ULB text**  - **(3)**  Identity and purpose of the situation. **(5)**  (See: Hypothetical)
 
 ===== Bible Examples =====
@@ -26,7 +27,8 @@ Field reference numbers are included for clarity purposes only. They are omitted
 
 If Yahweh of Hosts had not left for us a small remnant, we would have been like Sodom, we would have been like Gomorrah.
 
- * **(1) If Yahweh of Hosts** - (3) Verse 9 describes something that could have happened in the past but did not. God did leave a small remnant, and they were not like Sodom and Gomorrah. (5) (See: Hypothetical Situations)
+ * **(1) If Yahweh of Hosts** - **(3)** Verse 9 describes something that could have happened in the past but did not. God did leave a small remnant, and they were not like Sodom and Gomorrah. **(5)** (See: Hypothetical Situations)
+
 === Galatians 1:8 ===
 
 "But even if we, or an angel from heaven, should proclaim to you a gospel other than the one we proclaimed to you, he should be cursed."
@@ -37,6 +39,6 @@ If Yahweh of Hosts had not left for us a small remnant, we would have been like 
 
 I said to my master, 'Perhaps the woman will not follow me.'
 
-  * **(1) Perhaps the woman will not follow me.** - (3) This is something that could possibly happen. The servant wanted to know what he should do if it did. (4) Alternate translation: "What if the woman will not come back with me?" or "What should I do if the woman will not follow me?" (5) (See: [[en:ta:translate:hypothetical]])
+  * **(1) Perhaps the woman will not follow me.** - **(3)** This is something that could possibly happen. The servant wanted to know what he should do if it did. **(4)** Alternate translation: "What if the woman will not come back with me?" or "What should I do if the woman will not follow me?" **(5)** (See: [[en:ta:translate:hypothetical]])
 
 ~~DISCUSSION~~{{tag>publish}}
