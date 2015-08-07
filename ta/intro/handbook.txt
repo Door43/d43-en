@@ -1,9 +1,8 @@
-===== translationAcademy Handbook =====
+===== 翻译书院（translationAcademy）手册 =====
 
-  *  [[:en:ta:intro|Start Here]]
-      * [[:en:ta:intro:why|Why we do it]]
-      *  [[:en:ta:intro:how|How we do it]]
-        * [[:en:ta:intro:uw|the unfoldingWord Network]]
+  * <font inherit/inherit;;#008000;;inherit>从这里开始</font>      * <font inherit/inherit;;#008000;;inherit>事业起因</font>
+      *  [[:en:ta:intro:how|事业方式]]
+        * [[:en:ta:intro:uw|unfoldingWord Network]]
         * [[:en:ta:intro:statement-of-faith|Statement of Faith]]
         * [[:en:ta:intro:translation-guidelines|Translation Guidelines]]
         * [[:en:ta:intro:license|Open License]]
@@ -16,33 +15,34 @@
       * [[:en:ta:intro:glossary|Glossary]]
       * [[:en:ta:intro:map|Translation and Checking Roadmap]]
 
-  * [[:en:ta:translate:home|Translation Manual]]      * Translation
-        * [[:en:ta:translate:what|What is Translation]]
-        * [[:en:ta:translate:why|Why We Translate the Bible]]
-        * [[:en:ta:translate:terms|Terms to Know]]
-        * [[:en:ta:translate:process|The Translation Process]]
-        * [[:en:ta:translate:discover|Discover the Meaning of the Text]]
-        * [[:en:ta:translate:retell|Re-telling the Meaning]]
-        * [[:en:ta:translate:form|Importance of Form]]
-        * [[:en:ta:translate:same|Translate for Meaning]]
-        * [[:en:ta:translate:literal|Literal Translations]]
-        * [[:en:ta:translate:meaning|Meaning-Based Translation]]
-        *  [[:en:ta:translate:qualities|The Qualities of a Good Translation]]
-          * [[:en:ta:translate:clear|Create Clear Translations]]
-          * [[:en:ta:translate:accurate|Create Accurate Translations]]
-          * [[:en:ta:translate:natural|Create Natural Translations]]
-          * [[:en:ta:translate:equal|Equal Translations]]
-      *  [[:en:ta:translate:update|How to Update a Previous Version of Open Bible Stories]]
-        * [[https://door43.org/obs-diffs/ver_1-to-ver_3.html|Version 1 to Version 3]]
-        * [[https://door43.org/obs-diffs/ver_2-to-ver_3.html|Version 2 to Version 3]]
-        * [[https://door43.org/en/obs/change-log|Updates in Version 3]]
-      * How to translate the source text in Door43
-        * Open Bible Stories
-          * [[:en:ta:translate:stories|Translate the Open Bible Stories]]
-        * Bible
-      * How to translate the source text in translationStudio
-        * Open Bible Stories
-        * Bible
+  * [[:en:ta:translate:home|Translation Manual]] * 翻译
+
+      * [[:en:ta:translate:what|What is Translation]]
+      * [[:en:ta:translate:why|Why We Translate the Bible]]
+      * [[:en:ta:translate:terms|Terms to Know]]
+      * [[:en:ta:translate:process|The Translation Process]]
+      * [[:en:ta:translate:discover|Discover the Meaning of the Text]]
+      * [[:en:ta:translate:retell|Re-telling the Meaning]]
+      * [[:en:ta:translate:form|Importance of Form]]
+      * [[:en:ta:translate:same|Translate for Meaning]]
+      * [[:en:ta:translate:literal|Literal Translations]]
+      * [[:en:ta:translate:meaning|Meaning-Based Translation]]
+      *  [[:en:ta:translate:qualities|The Qualities of a Good Translation]]
+        * [[:en:ta:translate:clear|Create Clear Translations]]
+        * [[:en:ta:translate:accurate|Create Accurate Translations]]
+        * [[:en:ta:translate:natural|Create Natural Translations]]
+        * [[:en:ta:translate:equal|Equal Translations]]
+  *  [[:en:ta:translate:update|How to Update a Previous Version of Open Bible Stories]]
+      * [[https://door43.org/obs-diffs/ver_1-to-ver_3.html|Version 1 to Version 3]]
+      * [[https://door43.org/obs-diffs/ver_2-to-ver_3.html|Version 2 to Version 3]]
+      * [[https://door43.org/en/obs/change-log|Updates in Version 3]]
+  * How to translate the source text in Door43
+      * Open Bible Stories
+        * [[:en:ta:translate:stories|Translate the Open Bible Stories]]
+      * Bible
+  * How to translate the source text in translationStudio
+      * Open Bible Stories
+      * Bible
 
   *  [[:en:ta:check|Checking Manual]]
       * [[:en:ta:check:level1|Level 1]]
