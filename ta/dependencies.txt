@@ -8,318 +8,320 @@ edge [arrowsize=1.4];
 "Translation" [fillcolor="#99ff99"]
 "Checking" [fillcolor="#9999ff"]
 "Technology" [fillcolor="#ffff99"]
-"translation_guidelines" [fillcolor="#ff9999"]
-"uw_intro" -> "translation_guidelines"
-"translate_manual" -> "translation_guidelines"
-"gl_strategy" [fillcolor="#ff9999"]
-"uw_intro" -> "gl_strategy"
-"statement_of_faith" [fillcolor="#ff9999"]
-"uw_intro" -> "statement_of_faith"
-"open_license" [fillcolor="#ff9999"]
-"uw_intro" -> "open_license"
-"uw_intro" [fillcolor="#ff9999"]
-"ta_intro" -> "uw_intro"
-"ta_intro" [fillcolor="#ff9999"]
-"Introduction" -> "ta_intro"
-"translate_what" [fillcolor="#99ff99"]
-"translate_manual" -> "translate_what"
-"figs_personification" [fillcolor="#99ff99"]
-"figs_intro" -> "figs_personification"
-"translate_unknown" [fillcolor="#99ff99"]
-"Translation" -> "translate_unknown"
-"guidelines_natural" [fillcolor="#99ff99"]
-"guidelines_intro" -> "guidelines_natural"
-"translation_guidelines" -> "guidelines_natural"
-"guidelines_historical" [fillcolor="#99ff99"]
-"guidelines_intro" -> "guidelines_historical"
-"translation_guidelines" -> "guidelines_historical"
-"figs_order" [fillcolor="#99ff99"]
-"figs_intro" -> "figs_order"
-"figs_hypo" [fillcolor="#99ff99"]
-"figs_intro" -> "figs_hypo"
-"translate_helpd43" [fillcolor="#99ff99"]
-"translate_help" -> "translate_helpd43"
-"translate_manuscripts" [fillcolor="#99ff99"]
-"translate_retell" -> "translate_manuscripts"
-"translate_wforw" [fillcolor="#99ff99"]
-"translate_literal" -> "translate_wforw"
-"figs_inclusive" [fillcolor="#99ff99"]
-"figs_intro" -> "figs_inclusive"
-"translate_retell" [fillcolor="#99ff99"]
-"translate_process" -> "translate_retell"
-"figs_parallelism" [fillcolor="#99ff99"]
-"figs_intro" -> "figs_parallelism"
-"translate_fandm" [fillcolor="#99ff99"]
-"translate_terms" -> "translate_fandm"
-"translate_process" -> "translate_fandm"
-"figs_litotes" [fillcolor="#99ff99"]
-"figs_intro" -> "figs_litotes"
-"figs_metaphor" [fillcolor="#99ff99"]
-"figs_intro" -> "figs_metaphor"
-"figs_sentences" [fillcolor="#99ff99"]
-"figs_intro" -> "figs_sentences"
-"figs_quotations" [fillcolor="#99ff99"]
-"figs_intro" -> "figs_quotations"
-"guidelines_equal" [fillcolor="#99ff99"]
-"guidelines_intro" -> "guidelines_equal"
-"translation_guidelines" -> "guidelines_equal"
-"translate_helptS" [fillcolor="#99ff99"]
-"translate_help" -> "translate_helptS"
-"figs_events" [fillcolor="#99ff99"]
-"figs_intro" -> "figs_events"
-"figs_youformal" [fillcolor="#99ff99"]
-"figs_intro" -> "figs_youformal"
-"figs_123person" [fillcolor="#99ff99"]
-"figs_intro" -> "figs_123person"
-"figs_metonymy" [fillcolor="#99ff99"]
-"figs_intro" -> "figs_metonymy"
-"guidelines_accurate" [fillcolor="#99ff99"]
-"guidelines_intro" -> "guidelines_accurate"
-"translation_guidelines" -> "guidelines_accurate"
-"guidelines_faithful" [fillcolor="#99ff99"]
-"guidelines_intro" -> "guidelines_faithful"
-"translation_guidelines" -> "guidelines_faithful"
-"figs_hyperbole" [fillcolor="#99ff99"]
-"figs_intro" -> "figs_hyperbole"
-"translate_tform" [fillcolor="#99ff99"]
-"translate_dynamic" -> "translate_tform"
-"translate_whatis" [fillcolor="#99ff99"]
-"translate_manual" -> "translate_whatis"
-"figs_euphemism" [fillcolor="#99ff99"]
-"figs_intro" -> "figs_euphemism"
-"figs_hendiadys" [fillcolor="#99ff99"]
-"figs_intro" -> "figs_hendiadys"
-"figs_rquestion" [fillcolor="#99ff99"]
-"figs_intro" -> "figs_rquestion"
-"guidelines_pure" [fillcolor="#99ff99"]
-"guidelines_intro" -> "guidelines_pure"
-"translation_guidelines" -> "guidelines_pure"
-"figs_exclusive" [fillcolor="#99ff99"]
-"figs_intro" -> "figs_exclusive"
-"translate_manual" [fillcolor="#99ff99"]
-"ta_intro" -> "translate_manual"
-"figs_youdual" [fillcolor="#99ff99"]
-"figs_you" -> "figs_youdual"
-"figs_partsofspeech" [fillcolor="#99ff99"]
-"figs_intro" -> "figs_partsofspeech"
-"figs_explicit" [fillcolor="#99ff99"]
-"figs_intro" -> "figs_explicit"
-"figs_idiom" [fillcolor="#99ff99"]
-"figs_intro" -> "figs_idiom"
-"translate_why" [fillcolor="#99ff99"]
-"translate_manual" -> "translate_why"
-"figs_doublet" [fillcolor="#99ff99"]
-"figs_intro" -> "figs_doublet"
-"figs_verbs" [fillcolor="#99ff99"]
-"figs_intro" -> "figs_verbs"
-"translate_dynamic" [fillcolor="#99ff99"]
-"translate_whatis" -> "translate_dynamic"
-"translate_process" -> "translate_dynamic"
-"translate_literal" -> "translate_dynamic"
-"translate_fandm" -> "translate_dynamic"
-"translate_names" [fillcolor="#99ff99"]
-"translate_unknown" -> "translate_names"
-"translate_process" [fillcolor="#99ff99"]
-"translate_manual" -> "translate_process"
-"figs_singularpronouns" [fillcolor="#99ff99"]
-"figs_intro" -> "figs_singularpronouns"
-"figs_irony" [fillcolor="#99ff99"]
-"figs_intro" -> "figs_irony"
-"figs_adjectivalnoun" [fillcolor="#99ff99"]
-"figs_intro" -> "figs_adjectivalnoun"
-"figs_cohesion" [fillcolor="#99ff99"]
-"figs_intro" -> "figs_cohesion"
-"figs_activepassive" [fillcolor="#99ff99"]
-"figs_intro" -> "figs_activepassive"
-"figs_gendernotations" [fillcolor="#99ff99"]
-"figs_intro" -> "figs_gendernotations"
-"figs_parables" [fillcolor="#99ff99"]
-"figs_intro" -> "figs_parables"
-"translate_discover" [fillcolor="#99ff99"]
-"translate_process" -> "translate_discover"
-"translate_literal" [fillcolor="#99ff99"]
-"translate_whatis" -> "translate_literal"
-"translate_process" -> "translate_literal"
-"translate_terms" -> "translate_literal"
-"figs_explicitinfo" [fillcolor="#99ff99"]
-"figs_explicit" -> "figs_explicitinfo"
-"figs_you" [fillcolor="#99ff99"]
-"figs_intro" -> "figs_you"
-"guidelines_authoritative" [fillcolor="#99ff99"]
-"guidelines_intro" -> "guidelines_authoritative"
-"translation_guidelines" -> "guidelines_authoritative"
-"figs_abstractnouns" [fillcolor="#99ff99"]
-"figs_intro" -> "figs_abstractnouns"
-"figs_simile" [fillcolor="#99ff99"]
-"figs_intro" -> "figs_simile"
-"figs_intro" [fillcolor="#99ff99"]
-"Translation" -> "figs_intro"
-"figs_yousingular" [fillcolor="#99ff99"]
-"figs_you" -> "figs_yousingular"
-"translate_form" [fillcolor="#99ff99"]
-"translate_fandm" -> "translate_form"
-"translate_process" -> "translate_form"
-"figs_ellipsis" [fillcolor="#99ff99"]
-"figs_intro" -> "figs_ellipsis"
-"translate_terms" [fillcolor="#99ff99"]
-"translate_manual" -> "translate_terms"
-"translate_original" [fillcolor="#99ff99"]
-"translate_process" -> "translate_original"
-"figs_genitivecase" [fillcolor="#99ff99"]
-"figs_intro" -> "figs_genitivecase"
-"figs_grammar" [fillcolor="#99ff99"]
-"figs_intro" -> "figs_grammar"
-"guidelines_clear" [fillcolor="#99ff99"]
-"guidelines_intro" -> "guidelines_clear"
-"translation_guidelines" -> "guidelines_clear"
-"translate_levels" [fillcolor="#99ff99"]
-"translate_fandm" -> "translate_levels"
-"guidelines_intro" [fillcolor="#99ff99"]
-"translation_guidelines" -> "guidelines_intro"
-"figs_ambiguity" [fillcolor="#99ff99"]
-"figs_intro" -> "figs_ambiguity"
-"figs_synecdoche" [fillcolor="#99ff99"]
-"figs_intro" -> "figs_synecdoche"
-"figs_doublenegatives" [fillcolor="#99ff99"]
-"figs_intro" -> "figs_doublenegatives"
-"translate_help" [fillcolor="#99ff99"]
-"translate_what" -> "translate_help"
-"translate_problem" [fillcolor="#99ff99"]
-"translate_literal" -> "translate_problem"
-"figs_pluralpronouns" [fillcolor="#99ff99"]
-"figs_intro" -> "figs_pluralpronouns"
-"figs_apostrophe" [fillcolor="#99ff99"]
-"figs_intro" -> "figs_apostrophe"
-"language_community_check" [fillcolor="#9999ff"]
-"level2" -> "language_community_check"
+"acceptable" [fillcolor="#9999ff"]
+"clear" -> "acceptable"
+"accuracy_check" [fillcolor="#9999ff"]
+"level1" -> "accuracy_check"
+"accurate" [fillcolor="#9999ff"]
+"alphabet" -> "accurate"
+"alphabet" [fillcolor="#9999ff"]
+"style" -> "alphabet"
 "church_leader_check" [fillcolor="#9999ff"]
 "level2" -> "church_leader_check"
+"clear" [fillcolor="#9999ff"]
+"level1" -> "clear"
+"community_evaluation" [fillcolor="#9999ff"]
+"language_community_check" -> "community_evaluation"
+"other_methods" -> "community_evaluation"
+"writing_decisions" -> "community_evaluation"
+"complete" [fillcolor="#9999ff"]
+"accurate" -> "complete"
+"first_draft" [fillcolor="#9999ff"]
+"level1" -> "first_draft"
+"good" [fillcolor="#9999ff"]
+"complete" -> "good"
+"important_term_check" [fillcolor="#9999ff"]
+"level1" -> "important_term_check"
+"intro_check" [fillcolor="#9999ff"]
+"Checking" -> "intro_check"
+"intro_checking" [fillcolor="#9999ff"]
+"intro_check" -> "intro_checking"
+"intro_levels" [fillcolor="#9999ff"]
+"intro_checking" -> "intro_levels"
+"language_community_check" [fillcolor="#9999ff"]
+"level2" -> "language_community_check"
+"level1" [fillcolor="#9999ff"]
+"intro_levels" -> "level1"
+"level2" [fillcolor="#9999ff"]
+"intro_levels" -> "level2"
+"level3" [fillcolor="#9999ff"]
+"intro_levels" -> "level3"
+"level3_approval" [fillcolor="#9999ff"]
+"level3_questions" -> "level3_approval"
+"level3_questions" [fillcolor="#9999ff"]
+"level3" -> "level3_questions"
+"other_methods" [fillcolor="#9999ff"]
+"language_community_check" -> "other_methods"
+"peer_check" [fillcolor="#9999ff"]
+"level1" -> "peer_check"
+"qualifications" [fillcolor="#9999ff"]
+"level1" -> "qualifications"
+"self_check" [fillcolor="#9999ff"]
+"level1" -> "self_check"
+"vol2_backtranslation" [fillcolor="#9999ff"]
+"vol2_steps" -> "vol2_backtranslation"
+"vol2_backtranslation_guidelines" [fillcolor="#9999ff"]
+"vol2_backtranslation_written" -> "vol2_backtranslation_guidelines"
+"vol2_backtranslation_kinds" [fillcolor="#9999ff"]
+"vol2_backtranslation_who" -> "vol2_backtranslation_kinds"
+"vol2_backtranslation_purpose" [fillcolor="#9999ff"]
+"vol2_backtranslation" -> "vol2_backtranslation_purpose"
+"vol2_backtranslation_who" [fillcolor="#9999ff"]
+"vol2_backtranslation_purpose" -> "vol2_backtranslation_who"
+"vol2_backtranslation_written" [fillcolor="#9999ff"]
+"vol2_backtranslation_kinds" -> "vol2_backtranslation_written"
 "vol2_intro" [fillcolor="#9999ff"]
 "church_leader_check" -> "vol2_intro"
 "level3" -> "vol2_intro"
 "vol2_steps" [fillcolor="#9999ff"]
 "vol2_intro" -> "vol2_steps"
-"level1" [fillcolor="#9999ff"]
-"intro_levels" -> "level1"
-"level3" [fillcolor="#9999ff"]
-"intro_levels" -> "level3"
-"level2" [fillcolor="#9999ff"]
-"intro_levels" -> "level2"
-"intro_checking" [fillcolor="#9999ff"]
-"intro_check" -> "intro_checking"
-"vol2_backtranslation_guidelines" [fillcolor="#9999ff"]
-"vol2_backtranslation_written" -> "vol2_backtranslation_guidelines"
-"community_evaluation" [fillcolor="#9999ff"]
-"language_community_check" -> "community_evaluation"
-"other_methods" -> "community_evaluation"
-"writing_decisions" -> "community_evaluation"
-"qualifications" [fillcolor="#9999ff"]
-"level1" -> "qualifications"
-"important_term_check" [fillcolor="#9999ff"]
-"level1" -> "important_term_check"
-"intro_levels" [fillcolor="#9999ff"]
-"intro_checking" -> "intro_levels"
-"vol2_backtranslation_written" [fillcolor="#9999ff"]
-"vol2_backtranslation_kinds" -> "vol2_backtranslation_written"
-"complete" [fillcolor="#9999ff"]
-"accurate" -> "complete"
-"vol2_backtranslation" [fillcolor="#9999ff"]
-"vol2_steps" -> "vol2_backtranslation"
-"first_draft" [fillcolor="#9999ff"]
-"level1" -> "first_draft"
-"accurate" [fillcolor="#9999ff"]
-"alphabet" -> "accurate"
-"accuracy_check" [fillcolor="#9999ff"]
-"level1" -> "accuracy_check"
-"vol2_backtranslation_who" [fillcolor="#9999ff"]
-"vol2_backtranslation_purpose" -> "vol2_backtranslation_who"
-"peer_check" [fillcolor="#9999ff"]
-"level1" -> "peer_check"
-"other_methods" [fillcolor="#9999ff"]
-"language_community_check" -> "other_methods"
-"vol2_backtranslation_kinds" [fillcolor="#9999ff"]
-"vol2_backtranslation_who" -> "vol2_backtranslation_kinds"
-"good" [fillcolor="#9999ff"]
-"complete" -> "good"
-"clear" [fillcolor="#9999ff"]
-"level1" -> "clear"
 "vol2_things_to_check" [fillcolor="#9999ff"]
 "vol2_steps" -> "vol2_things_to_check"
 "writing_decisions" [fillcolor="#9999ff"]
 "language_community_check" -> "writing_decisions"
 "other_methods" -> "writing_decisions"
-"intro_check" [fillcolor="#9999ff"]
-"Checking" -> "intro_check"
-"level3_questions" [fillcolor="#9999ff"]
-"level3" -> "level3_questions"
-"level3_approval" [fillcolor="#9999ff"]
-"level3_questions" -> "level3_approval"
-"self_check" [fillcolor="#9999ff"]
-"level1" -> "self_check"
-"vol2_backtranslation_purpose" [fillcolor="#9999ff"]
-"vol2_backtranslation" -> "vol2_backtranslation_purpose"
-"alphabet" [fillcolor="#9999ff"]
-"style" -> "alphabet"
-"acceptable" [fillcolor="#9999ff"]
-"clear" -> "acceptable"
-"uW_install" [fillcolor="#ffff99"]
-"uW_intro" -> "uW_install"
-"uW_audio" [fillcolor="#ffff99"]
-"uW_intro" -> "uW_audio"
-"uW_language" [fillcolor="#ffff99"]
-"uW_intro" -> "uW_language"
-"tK_start" [fillcolor="#ffff99"]
-"tK_install" -> "tK_start"
+"gl_strategy" [fillcolor="#ff9999"]
+"uw_intro" -> "gl_strategy"
+"open_license" [fillcolor="#ff9999"]
+"uw_intro" -> "open_license"
+"statement_of_faith" [fillcolor="#ff9999"]
+"uw_intro" -> "statement_of_faith"
+"ta_intro" [fillcolor="#ff9999"]
+"Introduction" -> "ta_intro"
+"translation_guidelines" [fillcolor="#ff9999"]
+"uw_intro" -> "translation_guidelines"
+"translate_manual" -> "translation_guidelines"
+"uw_intro" [fillcolor="#ff9999"]
+"ta_intro" -> "uw_intro"
 "tK_create" [fillcolor="#ffff99"]
 "tK_intro" -> "tK_create"
-"uW_first" [fillcolor="#ffff99"]
-"uW_install" -> "uW_first"
-"tS_publish" [fillcolor="#ffff99"]
-"tS_share" -> "tS_publish"
-"uW_checking" [fillcolor="#ffff99"]
-"uW_intro" -> "uW_checking"
-"tK_intro" [fillcolor="#ffff99"]
-"Technology" -> "tK_intro"
-"tS_request" [fillcolor="#ffff99"]
-"tS_install" -> "tS_request"
-"tS_select" [fillcolor="#ffff99"]
-"tS_install" -> "tS_select"
-"tS_update" [fillcolor="#ffff99"]
-"tS_install" -> "tS_update"
-"tK_find" [fillcolor="#ffff99"]
-"tK_install" -> "tK_find"
-"tS_footnote" [fillcolor="#ffff99"]
-"tS_create" -> "tS_footnote"
-"uW_select" [fillcolor="#ffff99"]
-"uW_install" -> "uW_select"
-"tS_problem" [fillcolor="#ffff99"]
-"tS_intro" -> "tS_problem"
-"uW_intro" [fillcolor="#ffff99"]
-"Technology" -> "uW_intro"
-"tK_install" [fillcolor="#ffff99"]
-"tK_intro" -> "tK_install"
-"tK_update" [fillcolor="#ffff99"]
-"tK_intro" -> "tK_update"
-"tS_create" [fillcolor="#ffff99"]
-"tS_install" -> "tS_create"
-"tS_resources" [fillcolor="#ffff99"]
-"tS_create" -> "tS_resources"
-"tS_install" [fillcolor="#ffff99"]
-"tS_intro" -> "tS_install"
-"tS_navigate" [fillcolor="#ffff99"]
-"tS_install" -> "tS_navigate"
-"tS_first" [fillcolor="#ffff99"]
-"tS_install" -> "tS_first"
-"tS_intro" [fillcolor="#ffff99"]
-"Technology" -> "tS_intro"
-"tK_use" [fillcolor="#ffff99"]
-"tK_install" -> "tK_use"
 "tK_enable" [fillcolor="#ffff99"]
 "tK_install" -> "tK_enable"
+"tK_find" [fillcolor="#ffff99"]
+"tK_install" -> "tK_find"
+"tK_install" [fillcolor="#ffff99"]
+"tK_intro" -> "tK_install"
+"tK_intro" [fillcolor="#ffff99"]
+"Technology" -> "tK_intro"
+"tK_start" [fillcolor="#ffff99"]
+"tK_install" -> "tK_start"
+"tK_update" [fillcolor="#ffff99"]
+"tK_intro" -> "tK_update"
+"tK_use" [fillcolor="#ffff99"]
+"tK_install" -> "tK_use"
+"tS_create" [fillcolor="#ffff99"]
+"tS_install" -> "tS_create"
+"tS_first" [fillcolor="#ffff99"]
+"tS_install" -> "tS_first"
+"tS_footnote" [fillcolor="#ffff99"]
+"tS_create" -> "tS_footnote"
+"tS_install" [fillcolor="#ffff99"]
+"tS_intro" -> "tS_install"
+"tS_intro" [fillcolor="#ffff99"]
+"Technology" -> "tS_intro"
+"tS_navigate" [fillcolor="#ffff99"]
+"tS_install" -> "tS_navigate"
+"tS_problem" [fillcolor="#ffff99"]
+"tS_intro" -> "tS_problem"
+"tS_publish" [fillcolor="#ffff99"]
+"tS_share" -> "tS_publish"
+"tS_request" [fillcolor="#ffff99"]
+"tS_install" -> "tS_request"
+"tS_resources" [fillcolor="#ffff99"]
+"tS_create" -> "tS_resources"
+"tS_select" [fillcolor="#ffff99"]
+"tS_install" -> "tS_select"
 "tS_share" [fillcolor="#ffff99"]
 "tS_create" -> "tS_share"
+"tS_update" [fillcolor="#ffff99"]
+"tS_install" -> "tS_update"
 "tS_upload" [fillcolor="#ffff99"]
 "tS_share" -> "tS_upload"
+"uW_audio" [fillcolor="#ffff99"]
+"uW_intro" -> "uW_audio"
+"uW_checking" [fillcolor="#ffff99"]
+"uW_intro" -> "uW_checking"
+"uW_first" [fillcolor="#ffff99"]
+"uW_install" -> "uW_first"
+"uW_install" [fillcolor="#ffff99"]
+"uW_intro" -> "uW_install"
+"uW_intro" [fillcolor="#ffff99"]
+"Technology" -> "uW_intro"
+"uW_language" [fillcolor="#ffff99"]
+"uW_intro" -> "uW_language"
+"uW_select" [fillcolor="#ffff99"]
+"uW_install" -> "uW_select"
+"figs_123person" [fillcolor="#99ff99"]
+"figs_intro" -> "figs_123person"
+"figs_abstractnouns" [fillcolor="#99ff99"]
+"figs_intro" -> "figs_abstractnouns"
+"figs_activepassive" [fillcolor="#99ff99"]
+"figs_intro" -> "figs_activepassive"
+"figs_adjectivalnoun" [fillcolor="#99ff99"]
+"figs_intro" -> "figs_adjectivalnoun"
+"figs_ambiguity" [fillcolor="#99ff99"]
+"figs_intro" -> "figs_ambiguity"
+"figs_apostrophe" [fillcolor="#99ff99"]
+"figs_intro" -> "figs_apostrophe"
+"figs_cohesion" [fillcolor="#99ff99"]
+"figs_intro" -> "figs_cohesion"
+"figs_doublenegatives" [fillcolor="#99ff99"]
+"figs_intro" -> "figs_doublenegatives"
+"figs_doublet" [fillcolor="#99ff99"]
+"figs_intro" -> "figs_doublet"
+"figs_ellipsis" [fillcolor="#99ff99"]
+"figs_intro" -> "figs_ellipsis"
+"figs_euphemism" [fillcolor="#99ff99"]
+"figs_intro" -> "figs_euphemism"
+"figs_events" [fillcolor="#99ff99"]
+"figs_intro" -> "figs_events"
+"figs_exclusive" [fillcolor="#99ff99"]
+"figs_intro" -> "figs_exclusive"
+"figs_explicit" [fillcolor="#99ff99"]
+"figs_intro" -> "figs_explicit"
+"figs_explicitinfo" [fillcolor="#99ff99"]
+"figs_explicit" -> "figs_explicitinfo"
+"figs_gendernotations" [fillcolor="#99ff99"]
+"figs_intro" -> "figs_gendernotations"
+"figs_genitivecase" [fillcolor="#99ff99"]
+"figs_intro" -> "figs_genitivecase"
+"figs_grammar" [fillcolor="#99ff99"]
+"figs_intro" -> "figs_grammar"
+"figs_hendiadys" [fillcolor="#99ff99"]
+"figs_intro" -> "figs_hendiadys"
+"figs_hyperbole" [fillcolor="#99ff99"]
+"figs_intro" -> "figs_hyperbole"
+"figs_hypo" [fillcolor="#99ff99"]
+"figs_intro" -> "figs_hypo"
+"figs_idiom" [fillcolor="#99ff99"]
+"figs_intro" -> "figs_idiom"
+"figs_inclusive" [fillcolor="#99ff99"]
+"figs_intro" -> "figs_inclusive"
+"figs_intro" [fillcolor="#99ff99"]
+"Translation" -> "figs_intro"
+"figs_irony" [fillcolor="#99ff99"]
+"figs_intro" -> "figs_irony"
+"figs_litotes" [fillcolor="#99ff99"]
+"figs_intro" -> "figs_litotes"
+"figs_metaphor" [fillcolor="#99ff99"]
+"figs_intro" -> "figs_metaphor"
+"figs_metonymy" [fillcolor="#99ff99"]
+"figs_intro" -> "figs_metonymy"
+"figs_order" [fillcolor="#99ff99"]
+"figs_intro" -> "figs_order"
+"figs_parables" [fillcolor="#99ff99"]
+"figs_intro" -> "figs_parables"
+"figs_parallelism" [fillcolor="#99ff99"]
+"figs_intro" -> "figs_parallelism"
+"figs_partsofspeech" [fillcolor="#99ff99"]
+"figs_intro" -> "figs_partsofspeech"
+"figs_personification" [fillcolor="#99ff99"]
+"figs_intro" -> "figs_personification"
+"figs_pluralpronouns" [fillcolor="#99ff99"]
+"figs_intro" -> "figs_pluralpronouns"
+"figs_quotations" [fillcolor="#99ff99"]
+"figs_intro" -> "figs_quotations"
+"figs_rquestion" [fillcolor="#99ff99"]
+"figs_intro" -> "figs_rquestion"
+"figs_sentences" [fillcolor="#99ff99"]
+"figs_intro" -> "figs_sentences"
+"figs_simile" [fillcolor="#99ff99"]
+"figs_intro" -> "figs_simile"
+"figs_singularpronouns" [fillcolor="#99ff99"]
+"figs_intro" -> "figs_singularpronouns"
+"figs_synecdoche" [fillcolor="#99ff99"]
+"figs_intro" -> "figs_synecdoche"
+"figs_verbs" [fillcolor="#99ff99"]
+"figs_intro" -> "figs_verbs"
+"figs_you" [fillcolor="#99ff99"]
+"figs_intro" -> "figs_you"
+"figs_youdual" [fillcolor="#99ff99"]
+"figs_you" -> "figs_youdual"
+"figs_youformal" [fillcolor="#99ff99"]
+"figs_intro" -> "figs_youformal"
+"figs_yousingular" [fillcolor="#99ff99"]
+"figs_you" -> "figs_yousingular"
+"guidelines_accurate" [fillcolor="#99ff99"]
+"guidelines_intro" -> "guidelines_accurate"
+"translation_guidelines" -> "guidelines_accurate"
+"guidelines_authoritative" [fillcolor="#99ff99"]
+"guidelines_intro" -> "guidelines_authoritative"
+"translation_guidelines" -> "guidelines_authoritative"
+"guidelines_clear" [fillcolor="#99ff99"]
+"guidelines_intro" -> "guidelines_clear"
+"translation_guidelines" -> "guidelines_clear"
+"guidelines_equal" [fillcolor="#99ff99"]
+"guidelines_intro" -> "guidelines_equal"
+"translation_guidelines" -> "guidelines_equal"
+"guidelines_faithful" [fillcolor="#99ff99"]
+"guidelines_intro" -> "guidelines_faithful"
+"translation_guidelines" -> "guidelines_faithful"
+"guidelines_historical" [fillcolor="#99ff99"]
+"guidelines_intro" -> "guidelines_historical"
+"translation_guidelines" -> "guidelines_historical"
+"guidelines_intro" [fillcolor="#99ff99"]
+"translation_guidelines" -> "guidelines_intro"
+"guidelines_natural" [fillcolor="#99ff99"]
+"guidelines_intro" -> "guidelines_natural"
+"translation_guidelines" -> "guidelines_natural"
+"guidelines_pure" [fillcolor="#99ff99"]
+"guidelines_intro" -> "guidelines_pure"
+"translation_guidelines" -> "guidelines_pure"
+"translate_discover" [fillcolor="#99ff99"]
+"translate_process" -> "translate_discover"
+"translate_dynamic" [fillcolor="#99ff99"]
+"translate_whatis" -> "translate_dynamic"
+"translate_process" -> "translate_dynamic"
+"translate_literal" -> "translate_dynamic"
+"translate_fandm" -> "translate_dynamic"
+"translate_fandm" [fillcolor="#99ff99"]
+"translate_terms" -> "translate_fandm"
+"translate_process" -> "translate_fandm"
+"translate_form" [fillcolor="#99ff99"]
+"translate_fandm" -> "translate_form"
+"translate_process" -> "translate_form"
+"translate_help" [fillcolor="#99ff99"]
+"translate_what" -> "translate_help"
+"translate_helpd43" [fillcolor="#99ff99"]
+"translate_help" -> "translate_helpd43"
+"translate_helptS" [fillcolor="#99ff99"]
+"translate_help" -> "translate_helptS"
+"translate_levels" [fillcolor="#99ff99"]
+"translate_fandm" -> "translate_levels"
+"translate_literal" [fillcolor="#99ff99"]
+"translate_whatis" -> "translate_literal"
+"translate_process" -> "translate_literal"
+"translate_terms" -> "translate_literal"
+"translate_manual" [fillcolor="#99ff99"]
+"ta_intro" -> "translate_manual"
+"translate_manuscripts" [fillcolor="#99ff99"]
+"translate_retell" -> "translate_manuscripts"
+"translate_names" [fillcolor="#99ff99"]
+"translate_unknown" -> "translate_names"
+"translate_numbers" [fillcolor="#99ff99"]
+"translate_unknown" -> "translate_numbers"
+"translate_original" [fillcolor="#99ff99"]
+"translate_process" -> "translate_original"
+"translate_problem" [fillcolor="#99ff99"]
+"translate_literal" -> "translate_problem"
+"translate_process" [fillcolor="#99ff99"]
+"translate_manual" -> "translate_process"
+"translate_retell" [fillcolor="#99ff99"]
+"translate_process" -> "translate_retell"
+"translate_terms" [fillcolor="#99ff99"]
+"translate_manual" -> "translate_terms"
+"translate_tform" [fillcolor="#99ff99"]
+"translate_dynamic" -> "translate_tform"
+"translate_unknown" [fillcolor="#99ff99"]
+"Translation" -> "translate_unknown"
+"translate_wforw" [fillcolor="#99ff99"]
+"translate_literal" -> "translate_wforw"
+"translate_what" [fillcolor="#99ff99"]
+"translate_manual" -> "translate_what"
+"translate_whatis" [fillcolor="#99ff99"]
+"translate_manual" -> "translate_whatis"
+"translate_why" [fillcolor="#99ff99"]
+"translate_manual" -> "translate_why"
 }
 </graphviz>
 ~~NOCACHE~~
