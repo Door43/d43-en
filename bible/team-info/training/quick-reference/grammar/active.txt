@@ -10,15 +10,15 @@ The English language has the active and passive forms of speech.
 
 ===== Template =====
 
-The following information is either required or optional in the notes:
+The following information should be included in the notes:
 
-  - **(Required)**  Write the text that includes the passive verb from the ULB in bold
-  - (Optional)  Give a clarifying translation
-  - (Optional)  State the meaning of the passive verb
-  - **(Required)**  State a translation suggestion using an active verb
-  - **(Required)**  Add TA Link: (See: Active/Passive)
+  - **Text** - the text that includes the passive verb from the ULB in bold
+  - Clarifying translation - (optional)
+  - Explanation - (optional)
+  - **Alternate translation** - a translation suggestion using an active verb
+  - **TA link** - unless already in the notes for the chunk
 
-  * **(1) ULB text**  - **(4)** Translation suggestion using an active verb. **(5)** (See: Active/Passive)
+  * **(1) ULB text**  -  **(4)** Alternate translation. **(5)** (See: Active/Passive)
 
 
 ===== Bible Examples =====
