@@ -22,14 +22,17 @@ There are many places in the Bible where someone speaks about himself or herself
 
 ===== Template =====
 
-The following information is either required or optional in the notes:
+The following information should be included in the notes:
 
-  - **(Required)**  Write the text that includes the pronoun from the ULB in bold
-  - (Optional) Give a clarifying translation
-  - **(Required)**  State the pronoun and identify to whom or what it refers
-  - (Optional) Suggest alternate ways to translate the pronoun
-  - **(Normally Required)**  Add TA Link: (See: Forms of 'You')
-  * **(1) ULB text**  - **(3)**  State the pronoun and referent. **(5)**  (See: First, Second or Third Person)
+  - **Text** - the text that includes the pronoun from the ULB in bold
+  - Clarifying translation - (optional)
+  - **Explanation** - the pronoun and identify to whom or what it refers
+  - Alternate translation - (optional)
+  - **TA link** - unless already in the notes for the chunk
+
+  * **(1) ULB text**  - **(3)** Explanation. **(4)** Alternate translation. **(5)** (See: First, Second or Third Person)
+
+
 ===== Bible Examples =====
 
 Field reference numbers are included for clarity purposes only. They are omitted in the actual note.
