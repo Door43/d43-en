@@ -9,14 +9,16 @@ Discourse markers are like cohesion markers in that they join sentences together
 
 ===== Template =====
 
-The following information is either required or optional in the notes:
+The following information should be included in the notes:
 
-  - **(Required)** Write the text that includes the discourse marker from the ULB in bold
-  - (Optional) Give a clarifying translation
-  - **(Required)**  Explain what the marker means
-  - **(Required)**  Point the translator to how his language handles the discourse marker
-  - **(Required)**  Add TA Link: (See: Discourse)
-  * **(1) ULB text**  - **(3)**  Text meaning. **(4)**  Suggestion to use the way their language expresses this topic. **(5)**  (See: Discourse)
+  - **Text** - the phrase with the discourse marker from the ULB in bold
+  - Clarifying translation - (optional)
+  - **Explanation** - the meaning of the marker unless clear in the alternate translation
+  - **Alternate translation** - Point the translator to how his language handles the discourse marker
+  - **TA link** - unless already in the notes for the chunk
+
+  * **(1) ULB text**  - **(3)** Meaning. **(4)**  Suggestion to use the way their language expresses this topic. **(5)** (See: topic)
+
 
 ===== Bible Examples =====
 
