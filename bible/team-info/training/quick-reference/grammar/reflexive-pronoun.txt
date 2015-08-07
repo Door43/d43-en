@@ -12,14 +12,15 @@ A note is only necessary when __both the ULB and UDB are unclear about who the p
 
 ===== Template =====
 
-The following information is either required or optional in the notes:
+The following information should be included in the notes:
 
-  - **(Required)**  List the text that includes the reflexive pronoun from the ULB in bold
-  - (Optional) State a clarifying translation
-  - **(Required)**  State the reflexive pronoun and explain its purpose
-  - (Optional) Suggest alternate ways to translate the reflexive pronoun
-  - **(Required)**  Add TA Link: (See: Reflexive Pronoun)
-  * **(1) ULB text**  - **(3)**  The purpose of the reflexive pronoun. **(5)**  (See: Reflexive Pronoun)
+  - **Text** - the text that includes the reflexive pronoun from the ULB in bold
+  - Clarifying translation - (optional)
+  - **Explanation** - the reflexive pronoun and its purpose
+  - Alternate translation - (optional)
+  - **TA link** - unless already in the notes for the chunk
+
+  * **(1) ULB text**  - **(3)** Explanation.  **(5)** (See: Reflexive Pronoun)
 
 
 ===== Bible Examples =====
