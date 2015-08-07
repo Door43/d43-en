@@ -11,14 +11,16 @@ In English there are direct and non-direct (indirect) quotations.
 
 ===== Template =====
 
-The following information is either required or optional in the notes:
+The following information should be included in the notes:
 
-  - **(Required)**  Write the text that includes the speech quotation from the ULB in bold
-  - (Optional) Give a clarifying translation
-  - **(Required)** State the type of speech quotation
-  - **(Required)**  Give a translation alternative using the other type of quotation
-  - **(Required)**  Add TA Link: (See: Quotation)
-  * **(1) ULB text**  - **(3)**  Type of speech quotation. **(4)**  Translation alternative using the other type of quotation. **(5)**  (See: Quotation)
+  - **Text** - the text that includes the speech quotation from the ULB in bold
+  - Clarifying translation - (optional)
+  - **Explanation** - the type of speech quotation
+  - **Alternate translation** - a translation alternative using the other type of quotation, if not clear in the UDB
+  - **TA link** - unless already in the notes for the chunk
+
+  * **(1) ULB text**  - **(3)** Explanation. **(4)** Alternate translation. **(5)** (See: Quotation)
+
 
 ===== Bible Examples =====
 
