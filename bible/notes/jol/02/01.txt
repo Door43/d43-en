@@ -1,94 +1,41 @@
 ====== Joel 02:1-2 ======
 
-
 ===== TFT: =====
 
-<usfm>
-\v 1 Blow trumpets on Zion Hill,
-\q2 God's sacred hill \add in Jerusalem\add*!
-\q1 Tell the people of Judah that they should tremble,
-\q2 because it will soon be the time for Yahweh \add to punish us further\add*.
-\q1
-\v 2 That will be a very dark and gloomy day;
-\q2 there will be black clouds and it will be very dark.
-\q1 A huge \add swarm of locusts\add* has covered the mountains like \f + \ft simile \f* a black cloud.
-\q1 Nothing like this has ever happened before,
-\q2 and nothing like this will ever happen again.
-\q1
-</usfm>
-
+<usfm> \v 1 Blow trumpets on Zion Hill, \q2 God's sacred hill \add in Jerusalem\add*! \q1 Tell the people of Judah that they should tremble, \q2 because it will soon be the time for Yahweh \add to punish us further\add*. \q1 \v 2 That will be a very dark and gloomy day; \q2 there will be black clouds and it will be very dark. \q1 A huge \add swarm of locusts\add* has covered the mountains like \f + \ft simile \f* a black cloud. \q1 Nothing like this has ever happened before, \q2 and nothing like this will ever happen again. \q1 </usfm>
 
 ===== UDB: =====
 
-<usfm>
-\v 1 Blow trumpets on Mount Zion,
-\q2 God's sacred hill in Jerusalem!
-\q1 Tell the people of Judah that they should be afraid and tremble,
-\q2 because it will soon be the time for Yahweh to punish us further.
-\q1
-\v 2 That will be a very dark and gloomy day;
-\q2 there will be black clouds and it will be very dark.
-\q1 A huge swarm of locusts has covered the mountains like  a black cloud.
-\q1 Nothing like this has ever happened before,
-\q2 and nothing like this will ever happen again.
+<usfm> \v 1 Blow trumpets on Mount Zion, \q2 God's sacred hill in Jerusalem! \q1 Tell the people of Judah that they should be afraid and tremble, \q2 because it will soon be the time for Yahweh to punish us further. \q1 \v 2 That will be a very dark and gloomy day; \q2 there will be black clouds and it will be very dark. \q1 A huge swarm of locusts has covered the mountains like a black cloud. \q1 Nothing like this has ever happened before, \q2 and nothing like this will ever happen again.
 
-
-\q1
-</usfm>
-
+\q1 </usfm>
 
 ===== ULB: =====
 
-<usfm>
-\c 2
-\p
-\q
-\v 1 Blow the trumpet in Zion,
-\q And sound an alarm on my holy mountain!
-\q Let all the inhabitants of the land tremble in fear,
-\q For the day of Yahweh is coming;
-\q Indeed, it is near.
-\q
-\v 2 It is a day of darkness and gloom,
-\q A day of clouds and thick darkness.
-\q Like the the dawn that spreads on the mountains,
-\q A large and mighty army is approaching.
-\q There has never been an army like it,
-\q And there never will be again,
-\q Even after many generations.
-</usfm>
-
+<usfm> \c 2 \p \q \v 1 Blow the trumpet in Zion, \q And sound an alarm on my holy mountain! \q Let all the inhabitants of the land tremble in fear, \q For the day of Yahweh is coming; \q Indeed, it is near. \q \v 2 It is a day of darkness and gloom, \q A day of clouds and thick darkness. \q Like the the dawn that spreads on the mountains, \q A large and mighty army is approaching. \q There has never been an army like it, \q And there never will be again, \q Even after many generations. </usfm>
 
 ===== Important Terms: =====
 
-  * [[:en:obe:other:zion]]
-  * [[en:obe:kt:holy]]
-  * [[:en:obe:kt:yahweh]] 
-  * [[en:obe:kt:darkness]]
+  * [[:en:obe:other:zion|Zion, Mount Zion]]
+  * [[:en:obe:kt:holy|holy, holiness]]
+  * [[:en:obe:kt:yahweh|Yahweh]]
+  * [[:en:obe:kt:darkness|darkness]]
+  * mighty
+  * generations
 
 ===== Translation Notes: =====
 
-
-    * **Blow the trumpet in Zion,
-And sound an alarm on my holy mountain**  -  Here Joel is emphasizing the importance of calling Israel together in preparation for the destruction that is coming. (See: [[en:ta:translate:parallelism]])
-    * **gloom**  - This word means: "despondent or in low spirits" or "total or partial darkness." (See:[[en:ta:translate:translateunknowns]])
-    * **day of darkness and gloom.. day of clouds and thick darkness** - These two phrase are saying the same thing in different ways. This reinforces, or strengthens, the idea that Israel will experience a very bad time.  (See:[[en:ta:translate:parallelism]])
-    * **Like the the dawn that spreads on the mountains, A large and mighty army is approaching** - When the army comes, as it advances, it covers the land like the sun does as it rises in the sky. Alternate translation: "the large, mighty army comes over the mountains into the land, they cover it like the rising sun does." (See:[[en:ta:translate:simile]])
-    * **large and mighty army** - Both "large" and "mighty" mean much the same thing. Here these word are saying the army is large and the army is mighty.  Alternate translation: "a large, mighty army." or "a large army that is mighty." (See:[[en:ta:translate:hendiadys]])
-    * **army** - This refers to a swarm of locust. Locusts are grasshoppers that fly together in swarms, or large groups, and that can destroy large areas of all kinds of plants and food crops by eating them.Alternate translation: "swarm of locust"(See:[[en:ta:translate:personification]])
-   
-  
+  * **Blow the trumpet in Zion, And sound an alarm on my holy mountain**  - Here Joel is emphasizing the importance of calling Israel together in preparation for the destruction that is coming. (See: [[:en:ta:translate:parallelism|Parallelism]])
+  * **gloom**  - This word means: "despondent or in low spirits" or "total or partial darkness." (See:[[:en:ta:translate:translateunknowns|Unknowns - How to Translate]])
+  * **day of darkness and gloom.. day of clouds and thick darkness**  - These two phrase are saying the same thing in different ways. This reinforces, or strengthens, the idea that Israel will experience a very bad time. (See:[[:en:ta:translate:parallelism|Parallelism]])
+  * **Like the the dawn that spreads on the mountains, A large and mighty army is approaching**  - When the army comes, as it advances, it covers the land like the sun does as it rises in the sky. Alternate translation: "the large, mighty army comes over the mountains into the land, they cover it like the rising sun does." (See:[[:en:ta:translate:simile|Simile]])
+  * **large and mighty army**  - Both "large" and "mighty" mean much the same thing. Here these word are saying the army is large and the army is mighty. Alternate translation: "a large, mighty army." or "a large army that is mighty." (See:[[:en:ta:translate:hendiadys|Hendiadys]])
+  * **army**  - This refers to a swarm of locust. Locusts are grasshoppers that fly together in swarms, or large groups, and that can destroy large areas of all kinds of plants and food crops by eating them.Alternate translation: "swarm of locust"(See:[[:en:ta:translate:personification|Personification]])
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:jol:02|Joel Chapter 02 Comprehension Questions]]**
+  * **[[:en:bible:questions:comprehension:jol:02|Joel Chapter 02 Comprehension Questions]]**
+**[[:en:bible:notes:jol:01:18|<<]] | [[:en:bible:notes:jol:02:03|>>]]**
 
- 
-
-**[[en/bible/notes/jol/01/18|<<]] | [[en/bible/notes/jol/02/03|>>]]**
-
-~~DISCUSSION~~
-
-
-{{tag>draft}}
+~~DISCUSSION~~{{tag>check}}
 
 ~~NOCACHE~~
