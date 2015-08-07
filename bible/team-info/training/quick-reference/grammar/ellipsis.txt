@@ -9,15 +9,15 @@ Ellipsis is where words are left out of the sentence because it is not needed to
 
 ===== Template =====
 
-The following information is either required or optional in the notes:
+The following information should be included in the notes:
 
-  - **(Required)**  List the text that includes the ellipsis from the ULB in bold
-  - (Optional)  State a clarifying translation
-  - **(Required)**  State the information that has been left out
-  - **(Required)**  Suggest alternate ways to translate the ellipsis
-  - **(Required)**  Add TA Link: (See: Ellipsis)
+  - **Text** - the text that includes the ellipsis from the ULB in bold
+  - Clarifying translation - (optional)
+  - **Explanation** - the information that has been left out
+  - **Alternate translation** - if not clear in the UDB
+  - **TA link** - unless already in the notes for the chunk
 
-  * **(1) ULB text**  - **(3)** The information that has been left out. **(4)**  Alternate translation suggestion. **(5)** (See: Ellipsis)
+  * **(1) ULB text**  - **(3)** Explanation. **(4)** Alternate translation. **(5)** (See: Ellipsis)
 
 
 ===== Bible Examples =====
