@@ -9,14 +9,16 @@ Personification is giving human attributes to a non-human object (i.e. thing, id
 
 ===== Template =====
 
-The following information is either required or optional in the notes:
+The following information should be included in the notes:
 
-  - **(Required)** Write the text that includes the personification from the ULB in bold
-  - (Optional) Give a clarifying translation
-  - **(Required)**  Explain the meaning of the personification
-  - (Optional) Suggest alternate ways to translate the personification
-  - **(Required)**  Add TA Link: (See: Personification)
-  * **(1) ULB text**  - **(3)**  Text meaning. **(5)**  (See: Personification)
+  - **Text** - the text that includes the personification from the ULB in bold
+  - Clarifying translation - (optional)
+  - **Explanation** - the meaning of the personification unless clear in the alternate translation
+  - Alternate translation -  (optional)
+  - **TA link** - unless already in the notes for the chunk
+
+  * **(1) ULB text**  - **(3)** Explanation. **(5)** (See: Personification)
+
 
 ===== Bible Examples =====
 
