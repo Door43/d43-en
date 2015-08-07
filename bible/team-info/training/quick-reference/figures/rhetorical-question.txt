@@ -8,17 +8,19 @@ A rhetorical question is a question that is used for something other than gettin
 
 ===== Template =====
 
-The following information is either required or optional in the notes:
+The following information should be included in the notes:
 
-  - **(Required)**  Write the text that includes the rhetorical question from the ULB in bold
-  - (Optional) Give a clarifying translation
-  - **(Required)**  State the purpose of the rhetorical question \\ (some purposes include):
+  - **Text** - the text that includes the rhetorical question from the ULB in bold
+  - Clarifying translation - (optional)
+  - **Explanation** - the purpose of the rhetorical question unless clear in the alternate translation \\ (some purposes include):
       - to rebuke someone
       - to emphasize a point
       - to introduce a new topic
-  - **(Required)**  Suggest ways to express the meaning as a statement
-  - **(Required)**  Add TA Link: (See: Rhetorical Question)
-  * **(1) ULB text**  - **(3)**  Text meaning. **(4)**  Alternate translation suggestion. **(5)**  (See: Rhetorical Question)
+  - **Alternate translation** - the meaning as a statement if not clear in the UDB
+  - **TA link** - unless already in the notes for the chunk
+
+  * **(1) ULB text**  - **(3)** Explanation. **(4)** Alternate translation. **(5)** (See: Rhetorical Question)
+
 
 ===== Bible Examples =====
 
