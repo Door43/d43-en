@@ -10,13 +10,14 @@ There are two different forms of communication found in both written and spoken 
 
 ===== Template =====
 
-The following information is either required or optional in the notes:
+The following information should be included in the notes:
 
-  - **(Required)**  Write the phrase from the ULB in bold that has  the implicit information
-  - (Optional) Give a clarifying translation
-  - **(Required)**  Identify the content of the implicit information
-  - **(Required)**  Suggest translation alternative with the information made explicit
-  - **(Required)**  Add TA Link: (See: Implicit/Explicit)
+  - **Text** - the phrase with the implicit information from the ULB in bold
+  - Clarifying translation - (optional)
+  - **Explanation** - Identify the content of the implicit information
+  - **Alternate translation** - Suggest translation alternative with the information made explicit
+  - **TA link** - unless already in the notes for the chunk
+
   * **(1) ULB text**  - **(3)**  Implicit content. **(4)**  Translation alternative with information made explicit. **(5)**  (See: Implicit/Explicit)
 
 ===== Bible Examples =====
