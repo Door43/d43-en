@@ -9,15 +9,15 @@ Metonymy is a figure of speech in which a thing or idea is called not by its own
 
 ===== Template =====
 
-The following information is either required or optional in the notes:
+The following information should be included in the notes:
 
-  - **(Required)**  Write the text that includes the metonym from the ULB in bold
-  - (Optional)  Give a clarifying translation
-  - **(Required)**  State the meaning of the metonym
-  - **(Required)**  Suggest alternate ways to translate the metonym
-  - **(Required)**  Add TA Link: (See: Metonymy)
+  - **Text** - the text that includes the metonym from the ULB in bold
+  - Clarifying translation - (optional)
+  - **Explanation** - the meaning of the metonym unless clear in the alternate translation
+  - **Alternate translation** - if not clear in the UDB
+  - **TA link** - unless already in the notes for the chunk
 
-  * **(1) ULB text**  - **(3)** Text meaning. **(4)** Alternate translation suggestion. **(5)** (See: Metonymy)
+  * **(1) ULB text**  - **(3)** Explanation. **(4)** Alternate translation. **(5)** (See: Metonym)
 
 
 ===== Bible Examples =====
