@@ -8,15 +8,15 @@ Irony is using words to say the opposite of what is meant. Irony is typically us
 
 ===== Template =====
 
-The following information is either required or optional in the notes:
+The following information should be included in the notes:
 
-  - **(Required)**  Write the text that includes the irony from the ULB in bold
-  - (Optional)  Give a clarifying translation
-  - **(Required)**  State the meaning of the irony
-  - **(Required)**  Suggest alternate ways to translate the irony
-  - **(Required)**  Add TA Link: (See: Irony)
+  - **Text** - the text that includes the irony from the ULB in bold
+  - Clarifying translation - (optional)
+  - **Explanation** - the meaning of the irony unless clear in the alternate translation
+  - **Alternate translation** - if not clear in the UDB
+  - **TA link** - unless already in the notes for the chunk
 
-  * **(1) ULB text**  - **(3)** Text meaning. **(4)** Alternate translation suggestion. **(5)** (See: Irony)
+  * **(1) ULB text**  - **(3)** Meaning. **(5)** (See: Irony)
 
 
 ===== Bible Examples =====
@@ -27,7 +27,7 @@ Field reference numbers are included for clarity purposes only. They are omitted
 
 I say to you that even so, there will be joy in heaven over one sinner who repents, more than over ninety-nine righteous persons who do not need to repent.
 
-  * **(1) ninety-nine righteous persons who do not need to repent** -   (3) Jesus was not saying that there really are any righteous people. Rather he was talking to people who assumed that they were righteous and better than sinners. This can be translated as **(4)** “ninety nine people who think that they are righteous and do not need to repent.”  **(5)** (See: Irony)
+  * **(1) ninety-nine righteous persons who do not need to repent** -   (3) Jesus was not saying that there really are any righteous people. Rather he was talking to people who assumed that they were righteous and better than sinners. Alternate translation: **(4)** “ninety nine people who think that they are righteous and do not need to repent.”  **(5)** (See: Irony)
 
 === Luke 13:33 ===
 
