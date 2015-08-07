@@ -12,15 +12,15 @@ There are two types of Adjectival Nouns.
 
 ===== Template =====
 
-Template fields: (See: [[:en:bible:team-info:training:quick-reference:template|General Template]])
+The following information should be included in the notes:
 
-  - **(Required)**  Write the text that includes the adjectival noun from the ULB in bold
-  - (Optional)  Give a clarifying translation
-  - **(Required)**  State the meaning of the adjectival noun
-  - **(Required)**  Suggest a translation alternative using a noun form
-  - **(Required)**  Add TA Link: (See: Adjectival Noun)
+  - **Text** - the text that includes the adjectival noun from the ULB in bold
+  - Clarifying translation - (optional)
+  - **Explanation** - the meaning of the adjectival noun unless clear in the alternate translation
+  - **Alternate translation** - using a noun form if not clear in the UDB
+  - **TA link** - unless already in the notes for the chunk
 
-  * **(1) ULB text**  - **(3)** Text meaning. **(4)** Translation alternative using a noun form. **(5)** (See: Adjectival Noun)
+  * **(1) ULB text**  - **(3)** Explanation. **(4)** Alternate translation. **(5)** (See: Adjectival Noun)
 
 
 ===== Bible Examples =====
