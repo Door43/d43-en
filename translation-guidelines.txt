@@ -1,32 +1,29 @@
-====== 翻译规范 ======
+====== Translation Guidelines ======
 
-//下述翻译原则和程序声明获得[[http://unfoldingword.org|unfoldingWord]]项目成员组织和贡献者全体赞同。所有翻译活动均按此共同规范开展。//
-  - **准确**  — <font 14px line-height: 17.8181819915772px/inherit;;inherit;;inherit>翻译准确，不增减或更改源文本含义。译文应尽可能精准，以源</font>    <font 14px line-height: 17.8181819915772px;/inherit;;inherit;;inherit>语言受众理解</font> <font 14px line-height: 17.8181819915772px/inherit;;inherit;;inherit>的程度</font>    <font 14px line-height: 17.8181819915772px;/inherit;;inherit;;inherit>如实</font> <font 14px line-height: 17.8181819915772px/inherit;;inherit;;inherit>传达源文本含义。</font>    <font 14px line-height: 17.8181819915772px;/inherit;;inherit;;inherit>参见</font> [[:en:ta:translate:accurate|创建准确的译文]]，了解更多信息。
-  - **清晰**  — 使用一切必要的语言结构，在最大程度上使读者理解文意。包括重新组织文本结构，视情况增加或减少使用术语，以尽可能准确传达源文本含义。参见[[:en:ta:translate:clear|创]][[:en:ta:translate:accurate|建]][[:en:ta:translate:clear|清晰的译文]]<font 14px line-height: 17.8181819915772px/inherit;;inherit;;inherit>，了解更多信息。</font>
-  - **信实**  — 使用忠实于源圣经语言词汇的关键词。<font 14px line-height: 17.8181819915772px/inherit;;inherit;;inherit>使用同等普遍的用语翻译</font>    描述父上帝与子上帝关系的圣经词汇，并根据需要在脚注或其他补充资料来源中加以阐明。参见[[:en:ta:translate:faithful|创]][[:en:ta:translate:accurate|建]][[:en:ta:translate:faithful|信实的译文]]<font 14px line-height: 17.8181819915772px/inherit;;inherit;;inherit>，了解更多信息。</font>
-  - **权威**  — 以圣经<font 14px line-height: 17.8181819915772px/inherit;;inherit;;inherit>源</font>    <font 14px line-height: 17.8181819915772px;/inherit;;inherit font-size: 14px; line-height: 17.8181819915772px;;;inherit>语言</font>  <font 14px line-height: 17.8181819915772px;/inherit;;inherit font-size: 14px; line-height: 17.8181819915772px;;;inherit>文本</font> 作为翻译圣经内容的最高权威。亦可使用<font 14px line-height: 17.8181819915772px/inherit;;inherit;;inherit>可靠的</font>    其他语言圣经内容进行阐明或作为中间源文本。参见[[:en:ta:translate:authoritative|创建权威的译文]]<font 14px line-height: 17.8181819915772px/inherit;;inherit;;inherit>，了解更多信息。</font>
-  - **纯粹**  — 避免在译文中表现任何政治、宗派、意识形态、社会、文化或神学偏见。参见[[:en:ta:translate:pure|创建纯粹的译文]]<font 14px line-height: 17.8181819915772px/inherit;;inherit;;inherit>，了解更多信息。</font>
-  - **富表现力**  — 传达源文本的情感和态度。尽可能保持源文本的文体（包括记叙文、诗歌、劝勉辞以及预言书），以<font 14px line-height: 17.8181819915772px/inherit;;inherit;;inherit>传达</font>    <font 14px line-height: 17.8181819915772px/inherit;;inherit;;inherit>方式</font>    与目标语言类似的相应形式呈现。<font 14px line-height: 17.8181819915772px/inherit;;inherit;;inherit>参见</font>    [[:en:ta:translate:expressive|创建富表现力的译文]]<font 14px line-height: 17.8181819915772px/inherit;;inherit;;inherit>，了解更多信息。</font>
-  - **基于历史**  — 准确传达历史事件和事实，按照需要提供额外信息，向背景和文化不同于源文本受众的人传达拟定信息。[[http://youtu.be/9nLRLAgOIpw|电脑]]和[[http://youtu.be/girNfacETDE|平板电脑]]用户可观看//**翻译圣经-文化**//相关课程（时长7分钟）。参见[[:en:ta:translate:historical|创建基于历史的译文]]<font 14px line-height: 17.8181819915772px/inherit;;inherit;;inherit>，了解更多信息。</font>
-  - **自然**  — 运用能体现相关语境下<font 14px line-height: 17.8181819915772px/inherit;;inherit;;inherit>目标语言使用方式的</font>    有效语言形式。参见[[:en:ta:translate:natural|创建自然的译文]]<font 14px line-height: 17.8181819915772px/inherit;;inherit;;inherit>，了解更多信息。</font>
-  - **协作**  — 可能情况下与掌握目标语言的其他信徒合作翻译、检查并分发翻译内容，确保译文尽可能达到最优品质，提供给尽可能多的人。参见[[:en:ta:translate:collaborative|创建协作式译文]]<font 14px line-height: 17.8181819915772px/inherit;;inherit;;inherit>，了解更多信息。</font>
-  - **持续**  — 鼓励定期审阅译文，确保在需要时修改或新增译文。参见[[:en:ta:translate:ongoing|创建持续的译文]]<font 14px line-height: 17.8181819915772px/inherit;;inherit;;inherit>，了解更多信息。</font>
+//The following statement on the principles and procedures used in translation is subscribed to by all member organizations of and contributors to the [[http://unfoldingword.org|unfoldingWord]] project. All translation activities are carried out according to these common guidelines.//
+  - **Accurate**  — Translate accurately, without detracting from, changing, or adding to the meaning of the original text. Translated content should faithfully communicate as precisely as possible the meaning of the original text as it would have been understood by the original audience. See [[en:ta:translate:accurate]] for more information.
+  - **Clear**  — Use whatever language structures are necessary to achieve the highest level of comprehension. This includes rearranging the form of a text and using as many or as few terms as necessary to communicate the original meaning as accurately as possible. See [[en:ta:translate:clear]] for more information.
+  - **Faithful**  — Use key terms that are faithful to the vocabulary of the original biblical languages. Use equivalent common language terms for the biblical words that describe the relationship between God the Father and God the Son. These may be clarified, as needed, in footnotes or other supplemental resources. See [[en:ta:translate:faithful]] for more information.
+  - **Authoritative**  — Use the original language biblical texts as the highest authority for translation of biblical content. Reliable biblical content in other languages may be used for clarification and as intermediary source texts. See [[en:ta:translate:authoritative]] for more information.
+  - **Pure**  — Avoid any political, denominational, ideological, social, cultural, or theological bias in your translation. See [[en:ta:translate:pure]] for more information.
+  - **Expressive**  — Communicate the feelings and attitudes of the original text. As much as possible, maintain the literary forms in the original text, including narrative, poetry, exhortation, and prophecy, representing them with corresponding forms that communicate in a similar way in your language. See [[en:ta:translate:expressive]] for more information.
+  - **Historical**  — Communicate historical events and facts accurately, providing additional information as needed in order to accurately communicate the intended message to people who do not share the same context and culture as the original recipients of the original content. See the (7 min. long) lesson on **//Translating the Scriptures - Culture//** for the [[http://youtu.be/9nLRLAgOIpw|computer]] and the [[http://youtu.be/girNfacETDE|tablet]]. See [[en:ta:translate:historical]] for more information.
+  - **Natural**  — Use language forms that are effective and that reflect the way your language is used in corresponding contexts. See [[en:ta:translate:natural]] for more information.
+  - **Collaborative**  — Where possible, work together with other believers who speak your language to translate, check, and distribute the translated content, ensuring that it is of the highest quality and available to as many people as possible. See [[en:ta:translate:collaborative]] for more information.
+  - **Ongoing**  — Encourage the periodic review of translations to ascertain when revision or a new translation is needed. See [[en:ta:translate:ongoing]] for more information.
+====== Managing and Identifying Translation Quality ======
 
-====== 管理与确认翻译质量 ======
+The quality of a translation generally refers to the fidelity of the translation to the meaning of the original, and the degree to which the translation is understandable and effective for the speakers of the receptor language. The strategy we suggest involves checking the forms and communicative quality of the translation with the language community, and checking the fidelity of the translation with the Church in that people group.
 
-翻译质量通常指译文对源文含义的忠实度，以及译文对译入语受众的可理解及有效程度。我们建议的策略包括，检查译文形式以及译文与相关语言社群的交流质量，以及检查译文对相关族群教会的适合度。
+The specific steps involved may vary significantly, depending on the language and context of the translation project. Generally, we consider a good translation to be one that is:
 
-视乎翻译项目的语言和背景而定，具体做法可能会有显著差异。一般而言，我们认为符合以下标准者均为佳译：
+  - **Accurate**  - Faithful to the intended meaning of the original, as determined by the Church in that people group and in alignment with the Church global and historical, and consequently:
+  - **Affirmed by the Church**  - Endorsed and used by the Church.
+In addition, a good translation is reviewed by the speakers of the language community and is found to be:
 
-  - **准确**  — 经相关族群教会认定忠于源文本拟定含义，并与全球和历史教会保持一致，因而：
-  - **受教会肯定** <font 14px line-height: 17.8181819915772px/inherit;;inherit;;inherit>—</font>    经教会认可并为教会所用。
-
-此外，佳译还经过相关语言社群受众审阅，认定具备以下品质：
-
-  - **清晰** <font 14px line-height: 17.8181819915772px/inherit;;inherit;;inherit>—</font>    致力于达到让受众理解的最高水平。
-  - **准确** <font 14px line-height: 17.8181819915772px/inherit;;inherit;;inherit>—</font>    忠实于源文本的源含义。
-  - **自然** <font 14px line-height: 17.8181819915772px/inherit;;inherit;;inherit>—</font>    使用当前常用的语言形式。
-
-//另参见：[[:en:statement-of-faith|信仰宣言]]与[[:archive:checking:level1:home|检查信息]]//
+  - **Clear**  - Strives for the highest level of comprehension by hearers.
+  - **Accurate**  - Faithful to the original meaning of the source text.
+  - **Natural**  - Uses current forms of the language that is commonly spoken.
+//see also: [[:en:statement-of-faith|Statement of Faith]] and [[archive:checking:level1:home|Checking Information]]//
 
 ~~DISCUSSION:off~~
