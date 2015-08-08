@@ -1,8 +1,7 @@
 ====== user activity ======
+Yvette
 
-Vivian
-
-{{changes>user=deborah&count=50&render=pagelist(header,date,user,nocomments)&maxage=25920000}} \\
+{{changes>user=yvette&count=50&render=pagelist(header,date,user,nocomments)&maxage=25920000}} \\
 
 Paul
 
