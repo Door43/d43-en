@@ -1,10 +1,10 @@
-====== Complete list of Important Terms ======
+====== 重要词汇完整列表 ======
 
-==== "Key Terms" and "Other Terms" in OBE: ====
+==== OBE中的“关键词”和“其他词汇”: ====
 
-  * [[:en:obe:kt:home|Key Terms]]
-  * [[:en:obe:other:home|Other Terms]]
+  * [[:en:obe:kt:home|关键词]]
+  * [[:en:obe:other:home|其他词汇]]
 
-==== All terms from both lists: ====
+==== 两个列表中的全部词汇： ====
 
 {{pagequery>ns:en:obe; fulltext; sort=title:asc; display={name} -{title}; natsort; showcount; hidemsg; hidejump; layout=column}}
