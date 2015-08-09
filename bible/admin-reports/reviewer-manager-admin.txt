@@ -83,3 +83,8 @@
 
 {{pagequery>@:en:bible:notes:ezk \{\{tag>[^}]*mgr[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;showcount;fontsize=90%}}
 
+==== Paul H's: ====
+
+== Malachi ==
+
+{{pagequery>@:en:bible:notes:mal \{\{tag>[^}]*mgr[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;showcount;fontsize=90%}}
