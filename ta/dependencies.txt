@@ -8,6 +8,7 @@ edge [arrowsize=1.4];
 "Translation" [fillcolor="#99ff99"]
 "Checking" [fillcolor="#9999ff"]
 "Technology" [fillcolor="#ffff99"]
+"PROCESS" [fillcolor="#99ffff"]
 "acceptable" [fillcolor="#9999ff"]
 "clear" -> "acceptable"
 "accuracy_check" [fillcolor="#9999ff"]
@@ -99,6 +100,8 @@ edge [arrowsize=1.4];
 "translate_manual" -> "translation_guidelines"
 "uw_intro" [fillcolor="#ff9999"]
 "ta_intro" -> "uw_intro"
+"start" [fillcolor="#99ffff"]
+"A list of prerequisite modules, e.g. [intro, howdy]" -> "start"
 "tK_create" [fillcolor="#ffff99"]
 "tK_intro" -> "tK_create"
 "tK_enable" [fillcolor="#ffff99"]
