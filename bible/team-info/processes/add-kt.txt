@@ -30,7 +30,7 @@ When you see that your team has requested the addition of a term to a notes page
 
 When informed by the team leaders about the need for additional KT links or pages, do the following as applicable:
 
-  - Verify that the request is for an existing term, or fit the guidelines for a new one. If so, leave the suggested term in the Important Terms list. If not, remove it.
+  - Verify that the request is for an existing term, or fits the guidelines for a new one. If so, leave the suggested term in the Important Terms list. If not, remove it.
   - Alert the Key Terms team that KT links or pages are needed by adding the tag "ktlink" to the tags on the notes page, as in the examples below:
 
 <code>
