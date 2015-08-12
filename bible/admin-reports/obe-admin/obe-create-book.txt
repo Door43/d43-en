@@ -82,6 +82,60 @@ They are available to assign to the Key Terms teams to edit.
 
 {{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*rev)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
 
+==== Obadiah ====
 
+{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*job)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
 
+==== Daniel ====
+
+{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*job)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
+
+==== Lamentations ====
+
+{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*job)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
+
+==== Exodus ====
+
+{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*job)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
+
+==== Hebrews ====
+
+{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*job)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
+
+==== Amos ====
+
+{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*job)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
+
+==== Haggai ====
+
+{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*job)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
+
+==== Zechariah ====
+
+{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*job)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
+
+==== Zephaniah ====
+
+{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*job)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
+
+==== Psalms ====
+
+{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*job)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
+
+==== Joshua ====
+
+{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*job)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
+
+==== Judges ====
+
+{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*job)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
+
+==== Proverbs ====
+
+{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*job)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
+
+==== 1 Samuel ====
+
+{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*job)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
+ 
 
