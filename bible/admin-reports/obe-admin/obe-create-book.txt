@@ -10,6 +10,14 @@ The following Key Terms are tagged as "create" and are on hold.\\
 They are available to assign to the Key Terms teams to edit.
 
 
+==== Nahum ====
+
+{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*nah)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
+
+==== Habakkuk ====
+
+{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*hab)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
+
 ==== Genesis ====
 
 {{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*gen)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
@@ -61,14 +69,6 @@ They are available to assign to the Key Terms teams to edit.
 ==== Joel ====
 
 {{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*jol)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
-
-==== Nahum ====
-
-{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*nah)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
-
-==== Habakkuk ====
-
-{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*hab)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
 
 ==== Malachi ====
 
