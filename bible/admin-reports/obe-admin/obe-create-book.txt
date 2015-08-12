@@ -12,7 +12,7 @@ They are available to assign to the Key Terms teams to edit.
 
 ==== Nahum ====
 
-{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*nah)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
+{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*nam)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
 
 ==== Habakkuk ====
 
