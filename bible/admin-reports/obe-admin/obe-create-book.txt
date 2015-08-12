@@ -82,8 +82,6 @@ They are available to assign to the Key Terms teams to edit.
 
 {{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*rev)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
 
-==== Jude ====
 
-{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*jud01)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
 
 
