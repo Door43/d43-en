@@ -227,6 +227,8 @@
 {{changes>ns=nl:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:nnj:obs|nnj OBS]]**
 {{changes>ns=nnj:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
+**[[:nv:obs|nv OBS]]**
+{{changes>ns=nv:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:nxl:obs|nxl OBS]]**
 {{changes>ns=nxl:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:or:obs|or OBS]]**
