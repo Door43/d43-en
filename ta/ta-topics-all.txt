@@ -1,0 +1,11 @@
+===== Volume 1 =====
+<nspages en:ta:vol1:intro -title -exclude:home -nbCol=2 -textPages="List of tA Intro:">
+<nspages en:ta:vol1:translate -title -exclude:home -nbCol=2 -textPages="List of tA Translate:">
+<nspages en:ta:vol1:checking -title -exclude:home -nbCol=2 -textPages="List of tA Checking:">
+<nspages en:ta:vol1:tech -title -exclude:home -nbCol=2 -textPages="List of tA Technology:">
+
+==== Volumne 2 =====
+<nspages en:ta:vol2:intro -title -exclude:home -nbCol=2 -textPages="List of tA Intro:">
+<nspages en:ta:vol2:translate -title -exclude:home -nbCol=2 -textPages="List of tA Translate:">
+<nspages en:ta:vol2:checking -title -exclude:home -nbCol=2 -textPages="List of tA Checking:">
+<nspages en:ta:vol2:tech -title -exclude:home -nbCol=2 -textPages="List of tA Technology:">
