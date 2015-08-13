@@ -2,6 +2,8 @@
 
 This module answers the question: How do I do a level 2 check?\\
 Before you start this module have you learned about:
+  * [[en:ta:vol1:checking:intro_levels|Introduction to the Checking Levels]]
+  * [[en:ta:vol1:checking:accuracy_check|Accuracy Check]]
 
 ==== Definition of Checking Level Two ====
 The purpose of Level Two checking is to verify that representative groups from the local language community agree that the translation is a good one.
@@ -11,4 +13,8 @@ Level Two checking will be done in two ways:\\
   - **Church Leader Check**. The translation will be checked by a group of church leaders from the language community to make sure that it is accurate. For the steps to follow to do the Church Leader Check, click [[:en:ta:check:churchleader|here]].
 
 
+
+Next we recommend you learn about:
+  * [[en:ta:vol1:checking:language_community_check|Language Community Check]]
+  * [[en:ta:vol1:checking:church_leader_check|Church Leader Check]]
 

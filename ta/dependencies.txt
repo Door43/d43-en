@@ -13,6 +13,7 @@ edge [arrowsize=1.4];
 "clear" -> "acceptable"
 "accuracy_check" [fillcolor="#9999ff"]
 "level1" -> "accuracy_check"
+"important_term_check" -> "accuracy_check"
 "accurate" [fillcolor="#9999ff"]
 "alphabet" -> "accurate"
 "alphabet" [fillcolor="#9999ff"]
@@ -33,16 +34,20 @@ edge [arrowsize=1.4];
 "complete" -> "good"
 "important_term_check" [fillcolor="#9999ff"]
 "level1" -> "important_term_check"
+"peer_check" -> "important_term_check"
 "intro_check" [fillcolor="#9999ff"]
 "Checking" -> "intro_check"
 "intro_checking" [fillcolor="#9999ff"]
 "intro_check" -> "intro_checking"
+"intro_levels" [fillcolor="#9999ff"]
+"intro_checking" -> "intro_levels"
 "language_community_check" [fillcolor="#9999ff"]
 "level2" -> "language_community_check"
 "level1" [fillcolor="#9999ff"]
 "intro_levels" -> "level1"
 "level2" [fillcolor="#9999ff"]
 "intro_levels" -> "level2"
+"accuracy_check" -> "level2"
 "level3" [fillcolor="#9999ff"]
 "intro_levels" -> "level3"
 "level3_approval" [fillcolor="#9999ff"]
@@ -53,10 +58,12 @@ edge [arrowsize=1.4];
 "language_community_check" -> "other_methods"
 "peer_check" [fillcolor="#9999ff"]
 "level1" -> "peer_check"
+"self_check" -> "peer_check"
 "qualifications" [fillcolor="#9999ff"]
 "level1" -> "qualifications"
 "self_check" [fillcolor="#9999ff"]
 "level1" -> "self_check"
+"first_draft" -> "self_check"
 "toc_checkvol1" [fillcolor="#9999ff"]
 "Checking" -> "toc_checkvol1"
 "toc_checkvol2" [fillcolor="#9999ff"]
@@ -83,6 +90,7 @@ edge [arrowsize=1.4];
 "writing_decisions" [fillcolor="#9999ff"]
 "language_community_check" -> "writing_decisions"
 "other_methods" -> "writing_decisions"
+"pretranslation_training" -> "writing_decisions"
 "checking_levels" [fillcolor="#ff9999"]
 "gl_strategy" -> "checking_levels"
 "gl_strategy" [fillcolor="#ff9999"]
@@ -101,7 +109,7 @@ edge [arrowsize=1.4];
 "uw_intro" [fillcolor="#ff9999"]
 "ta_intro" -> "uw_intro"
 "start" [fillcolor="#99ffff"]
-"A list of prerequisite modules, e.g. [intro, howdy]" -> "start"
+"PROCESS" -> "start"
 "tK_create" [fillcolor="#ffff99"]
 "tK_intro" -> "tK_create"
 "tK_enable" [fillcolor="#ffff99"]
