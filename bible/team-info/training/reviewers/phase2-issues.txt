@@ -4,6 +4,9 @@ This is a list of general issues that we want to deal with in Phase 2. This list
 
   * **Doublets** - Do we really want to encourage translators to simply use one of them? How do we decide when that is acceptable or when too much information would be lost?
 
+  * **Narrative Present in Notes**. The example below shows why I do not want to use the narrative present in notes.
+    * **When you have lifted up** - “when you lift up.” This has not happened yet.
+
   * **Symbolic acts** - Do we want a standard note format for these? Sometimes only they symbolic act is mentioned. They're not just idioms, but I don't think they're simply metonymy either.
       * **will shake his fist at them** - "will threaten them"??
 
