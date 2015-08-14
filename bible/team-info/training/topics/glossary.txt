@@ -8,6 +8,7 @@ See [[https://unfoldingword.org/glossary/]] for the complete list for all of ter
   * **DSM**  - Distant Shores Media
   * **GL**  - Gateway Language
   * **OBS** - Open Bible Stories
+  * **QR** - Quick Reference
   * **TFT**  - Translation for Translators
   * **tA**  - translationAcademy
   * **tD** - translationDatabase
@@ -35,6 +36,8 @@ See [[https://unfoldingword.org/glossary/]] for the complete list for all of ter
 **literal translation** - This contrasts with a "dynamic" translation. A "literal" translation tries to remain as close as possible to the form and grammar of the original language. A literal translation should still be readable, but avoids using equivalents when possible.
 
 **namespace** - This is the term used, instead of folders, for the organization of the Door43 pages. For example the Door43 page with the URL of [[https://door43.org/en/obs|https://door43.org/en/obs]] is the namespace of //obs //  in the namespace of //en//.
+
+**Quick Reference** - The Quick Reference Guide is short explanations and examples of the format for translation notes.
 
 **translationAcademy** - This is the name of the area that the pages and modules will be developed for training the national translators.
 
