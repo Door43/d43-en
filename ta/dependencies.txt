@@ -93,6 +93,8 @@ edge [arrowsize=1.4];
 "pretranslation_training" -> "writing_decisions"
 "checking_levels" [fillcolor="#ff9999"]
 "gl_strategy" -> "checking_levels"
+"finding_answers" [fillcolor="#ff9999"]
+"Introduction" -> "finding_answers"
 "gl_strategy" [fillcolor="#ff9999"]
 "uw_intro" -> "gl_strategy"
 "open_license" [fillcolor="#ff9999"]
@@ -108,6 +110,13 @@ edge [arrowsize=1.4];
 "translate_manual" -> "translation_guidelines"
 "uw_intro" [fillcolor="#ff9999"]
 "ta_intro" -> "uw_intro"
+"getting_started" [fillcolor="#99ffff"]
+"PROCESS" -> "getting_started"
+"pretranslation_training" [fillcolor="#99ffff"]
+"translate_process" -> "pretranslation_training"
+"translate_why" -> "pretranslation_training"
+"process_manual" [fillcolor="#99ffff"]
+"start" -> "process_manual"
 "start" [fillcolor="#99ffff"]
 "PROCESS" -> "start"
 "tK_create" [fillcolor="#ffff99"]
