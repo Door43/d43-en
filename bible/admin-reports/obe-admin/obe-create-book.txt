@@ -3,8 +3,9 @@
 ~~NOCACHE~~
 
   * [[:en:bible:admin-reports:check-tags]]
+  * [[:en:bible:team-info:training:topics:common-words]]
+  * [[:en:bible:admin-reports:obe-admin:obe-reject]]
 
-{{count>create&en:obe}}
 
 The following Key Terms are tagged as "create" and are on hold.\\
 They are available to assign to the Key Terms teams to edit.
@@ -138,4 +139,3 @@ They are available to assign to the Key Terms teams to edit.
 
 {{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*1sa)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
  
-
