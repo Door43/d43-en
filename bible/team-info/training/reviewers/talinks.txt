@@ -5,7 +5,7 @@ These are drafts of the tA links that we include in pages:
 Abstract Nouns
 
 <code>
-
+[[:en:ta:vol2:translate:figs_abstractnouns]]
 </code>
 
 Active/Passive
@@ -23,7 +23,7 @@ Adjectival noun
 Apostrophe
 
 <code>
-
+[[:en:ta:vol2:translate:figs_apostrophe]]
 </code>
 
 Double negatives
@@ -35,13 +35,13 @@ Double negatives
 Doublet
 
 <code>
-
+[[:en:ta:vol2:translate:figs_doublet]]
 </code>
 
 Ellipsis
 
 <code>
-
+[[:en:ta:vol2:translate:figs_ellipsis]]
 </code>
 
 Euphemism
@@ -125,19 +125,13 @@ Metonymy
 Parallelism
 
 <code>
-
+[[:en:ta:vol2:translate:figs_parallelism]]
 </code>
 
 Personification
 
 <code>
 [[:en:ta:vol2:translate:figs_personification]]
-</code>
-
-Reflexive Pronouns
-
-<code>
-
 </code>
 
 Rhetorical question
