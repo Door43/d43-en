@@ -2,6 +2,12 @@
 
 These are drafts of the tA links that we include in pages:
 
+Abstract Nouns
+
+<code>
+
+</code>
+
 Active/Passive
 
 <code>
@@ -14,10 +20,28 @@ Adjectival noun
 [[:en:ta:vol2:translate:figs_adjectivalnoun]]
 </code>
 
+Apostrophe
+
+<code>
+
+</code>
+
 Double negatives
 
 <code>
 [[:en:ta:vol2:translate:figs_doublenegatives]]
+</code>
+
+Doublet
+
+<code>
+
+</code>
+
+Ellipsis
+
+<code>
+
 </code>
 
 Euphemism
@@ -98,10 +122,22 @@ Metonymy
 [[:en:ta:vol2:translate:figs_metonymy]]
 </code>
 
+Parallelism
+
+<code>
+
+</code>
+
 Personification
 
 <code>
 [[:en:ta:vol2:translate:figs_personification]]
+</code>
+
+Reflexive Pronouns
+
+<code>
+
 </code>
 
 Rhetorical question
