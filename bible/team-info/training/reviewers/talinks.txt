@@ -32,6 +32,12 @@ Exclusive
 [[:en:ta:vol2:translate:figs_exclusive]]
 </code>
 
+Explicit/Implicit
+
+<code>
+[[:en:ta:vol1:translate:figs_explicit]]
+</code>
+
 First, second, or third person
 
 <code>
@@ -47,85 +53,79 @@ Forms of "you"
 Hendiadys
 
 <code>
-[[:en:ta:translate:hendiadys]]
+[[:en:ta:vol2:translate:figs_hendiadys]]
 </code>
 
 How to Translate Names
 
 <code>
-[[:en:ta:translate:translatenames]]
+[[:en:ta:vol1:translate:translate_names]]
 </code>
 
 Hyperbole
 
 <code>
-[[:en:ta:translate:hyperbole]]
+[[:en:ta:vol2:translate:figs_hyperbole]]
 </code>
 
 Hypothetical Situation
 
 <code>
-[[:en:ta:translate:hypothetical]]
+[[:en:ta:vol1:translate:figs_hypo]]
 </code>
 
 Idiom
 
 <code>
-[[:en:ta:translate:idiom]]
-</code>
-
-Implicit/Explicit
-
-<code>
-[[:en:ta:translate:implicitexplicit]]
+[[:en:ta:vol1:translate:figs_idiom]]
 </code>
 
 Litotes
 
 <code>
-[[:en:ta:translate:litotes]]
+[[:en:ta:vol2:translate:figs_litotes]]
 </code>
 
 Metaphor
 
 <code>
-[[:en:ta:translate:metaphor]]
+[[:en:ta:vol1:translate:figs_metaphor]]
 </code>
 
 Metonymy
 
 <code>
-[[:en:ta:translate:metonymy]]
+[[:en:ta:vol2:translate:figs_metonymy]]
 </code>
 
 Personification
 
 <code>
-[[:en:ta:translate:personification]]
+[[:en:ta:vol2:translate:figs_personification]]
 </code>
 
 Rhetorical question
 
 <code>
-[[:en:ta:translate:rhetoricalquestion]]
+[[:en:ta:vol1:translate:figs_rquestion]]
 </code>
 
 Simile
 
 <code>
-[[:en:ta:translate:simile]]
+[[:en:ta:vol1:translate:figs_simile]]
 </code>
 
 Speech Quotations
 
 <code>
-[[:en:ta:translate:quotation]]
+[[:en:ta:vol2:translate:figs_quotations]]
 </code>
 
 Synecdoche
 
 <code>
-[[:en:ta:translate:synecdoche]]
+[[:en:ta:vol2:translate:figs_synecdoche]]
 </code>
 
 
