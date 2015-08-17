@@ -439,6 +439,9 @@
 **[[:sw:obs|sw OBS]]**
 {{changes>ns=sw:obs&maxage=604800&render=pagelist(header,date,user,nocomments)}}
 
+**[[:swg:obs|swg OBS]]**
+{{changes>ns=swg:obs&maxage=604800&render=pagelist(header,date,user,nocomments)}}
+
 **[[:ta:obs|ta OBS]]**
 {{changes>ns=ta:obs&maxage=604800&render=pagelist(header,date,user,nocomments)}}
 
