@@ -5,43 +5,43 @@ These are drafts of the tA links that we include in pages:
 Active/Passive
 
 <code>
-[[:en:ta:translate:active]]
+[[:en:ta:vol2:translate:figs_activepassive]]
 </code>
 
 Adjectival noun
 
 <code>
-[[:en:ta:translate:adjectivalnoun]]
+[[:en:ta:vol2:translate:figs_adjectivalnoun]]
 </code>
 
 Double negatives
 
 <code>
-[[:en:ta:translate:double-negatives]]
+[[:en:ta:vol2:translate:figs_doublenegatives]]
 </code>
 
 Euphemism
 
 <code>
-[[:en:ta:translate:euphemism]]
+[[:en:ta:vol2:translate:figs_euphemism]]
 </code>
 
 Exclusive
 
 <code>
-[[:en:ta:translate:exclusive]]
+[[:en:ta:vol2:translate:figs_exclusive]]
 </code>
 
 First, second, or third person
 
 <code>
-[[:en:ta:translate:123person]]
+[[:en:ta:vol1:translate:figs_123person]]
 </code>
 
 Forms of "you"
 
 <code>
-[[:en:ta:translate:formsofyou]]
+[[:en:ta:vol1:translate:figs_you]]
 </code>
 
 Hendiadys
