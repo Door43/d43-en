@@ -9,10 +9,16 @@ This is a growing list of 'standard notes' that occur frequently in John. Please
 </code>
 
 
-**text** - Translate this as you did in ___.
+**text** - Translate this as you did in c:v.
 
 <code>
-code
+  * **text** - See how you translated this in [[en:bible:notes:bob:cc:vv|c:v]].
+</code>
+
+**text** - Translate this as you did in c:v.
+
+<code>
+  * **text** - See how you translated this in [[en:bible:notes:bob:cc:vv|c:v]].
 </code>
 
 
