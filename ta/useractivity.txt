@@ -1,7 +1,7 @@
 ====== user activity ======
-Yvette
+John L
 
-{{changes>user=yvette&count=50&render=pagelist(header,date,user,nocomments)&maxage=25920000}} \\
+{{changes>user=jwluton&count=50&render=pagelist(header,date,user,nocomments)&maxage=25920000}} \\
 
 Paul
 
