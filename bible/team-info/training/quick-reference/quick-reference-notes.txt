@@ -49,9 +49,13 @@ In a simile something is compared to something else of a different kind in order
 
 **[[:en:bible:team-info:training:quick-reference:figures:synecdoche|Synecdoche]]** - Synecdoche is a figure of speech in which 1) the name of a part of something is used to refer to the whole thing, or 2) the name of a whole thing is used to refer to just one part of it.
 
-==== Standard Notes ====
+==== Standard Notes - General ====
 
 {{pagequery>@en:bible:team-info:training:quick-reference:standard-notes \{\{tag>[^}]*publish[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=100%}}
+
+==== Standard Notes - Books ====
+
+{{pagequery>@en:bible:team-info:training:standard-notes-books \{\{tag>[^}]*publish[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=100%}}
 
 ==== Other ====
 
