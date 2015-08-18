@@ -46,6 +46,9 @@
 **[[:bal:obs|bal OBS]]**
 {{changes>ns=bal:obs&maxage=604800&render=pagelist(header,date,user,nocomments)}}
 
+**[[:bcq:obs|bcq OBS]]**
+{{changes>ns=bcq:obs&maxage=604800&render=pagelist(header,date,user,nocomments)}}
+
 **[[:bhj:obs|bhj OBS]]**
 {{changes>ns=bhj:obs&maxage=604800&render=pagelist(header,date,user,nocomments)}}
 

@@ -31,6 +31,8 @@
 {{changes>ns=az:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:bal:obs|bal OBS]]**
 {{changes>ns=bal:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
+**[[:bcq:obs|bcq OBS]]**
+{{changes>ns=bcq:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:bhj:obs|bhj OBS]]**
 {{changes>ns=bhj:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:bho:obs|bho OBS]]**
