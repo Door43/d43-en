@@ -15,10 +15,14 @@ Every page has a heading. The title of the page determines the displayed name in
 
 ===== Section Header ===== is 5 equal signs, space, title, space, 5 equal signs
 </code>
+
 **The above code creates this formatting:**
-====== Page Header ====== 
-===== Section Header ===== 
+====== Page Header ======
+
+===== Section Header =====
+
 ----
+
 ==== Text Format ====
 
 <code>
@@ -26,16 +30,17 @@ DokuWiki supports **bold**, //italic//, __underlined__ and
 ''monospaced'' texts.
 Of course you can **__//''combine''//__** all these.
 </code>
-**The above code creates this formatting:**\\
+
+**The above code creates this formatting:**
 
 DokuWiki supports **bold**, //italic//, __underlined__ and ''monospaced'' texts. Of course you can **__//''combine'' //__**all these.
-
 <code>
 You can mark something as <del>deleted</del> as well.
 </code>
-**The above code creates this formatting:**\\
 
-You can mark something as <del>deleted</del>  as well.
+**The above code creates this formatting:**
+
+You can mark something as <del>deleted</del> as well.
 ==== Lists ====
 
 <code>
@@ -47,42 +52,47 @@ and Numbered lists -
   - Item 2
 </code>
 
-**The above code creates this formatting:**\\
+**The above code creates this formatting:**
 
 You can add Bullet lists -
+
   * Item 1
   * Item 2
+
 and Numbered lists -
+
   - Item 1
   - Item 2
+
 ==== Paragraphs ====
 
 Blank lines divides the text into paragraphs. If you want to **force a new line**  without a paragraph, you can use two backslashes followed by a whitespace or at the end of a line.
 
-
 You should use forced newlines only if really needed.
+
 <code>
+This is some text with some line breaks \
 
-This is some text with some line breaks \\ 
 Note that the two backslashes are only recognized at the end of a line \\
-or followed by \\ a whitespace \\this happens without the whitespace.
-
+or followed by \
+a whitespace \\this happens without the whitespace.
 </code>
-**The above code creates this formatting:**\\
+
+**The above code creates this formatting:**
 
 This is some text with some line breaks \\ Note that the two backslashes are only recognized at the end of a line \\ or followed by \\ a whitespace \\this happens without the whitespace.
 
 ==== Links ====
 
-Door43 uses links to Important Words, translationAcademy topics, other stories and Bible passages. First, go to the page to be linked and copy the address from the top right tab. 
+Door43 uses links to Important Words, translationAcademy topics, other stories and Bible passages. First, go to the page to be linked and copy the address from the top right tab.
 
 <code>
 Type in 2 brackets, followed by the link and then 2 more brackets,\\
 so that the link reads [[en:ta:tech:door43:syntax]].\\
 In this example the name of the page appears as the link.
 </code>
-**The above code creates this formatting:**\\
-Type in 2 brackets, followed by the link and then 2 more brackets, so that the link reads [[:en:ta:tech:door43:syntax|Formatting Content]].\\
+
+**The above code creates this formatting:**  \\ Type in 2 brackets, followed by the link and then 2 more brackets,  \\ so that the link reads [[:en:ta:tech:door43:syntax|Formatting Content]]. \\
 In this example the name of the page appears as the link.
 
 You can force other words to show for the link rather than the page name.
@@ -90,18 +100,19 @@ You can force other words to show for the link rather than the page name.
 <code>
 Such as [[en:ta:tech:door43:syntax|click here]].
 </code>
-**The above code creates this formatting:**\\
-Such as [[:en:ta:tech:door43:syntax|click here]].
+
+**The above code creates this formatting:**  \\ Such as [[:en:ta:tech:door43:syntax|click here]].
+
 ==== Tags ====
 
-Some pages have tags. Tags appear at the bottom of the page under a line. Most tags are to be left alone but sometimes you may need to change a tag. When you edit the tag syntax, remember that there should always be a space between each tag word.
-Tags are formatted with 2 sets of 2 curly brackets around the syntax. The syntax is "tag>" and then a word for each tag.\\ 
+Some pages have tags. Tags appear at the bottom of the page under a line. Most tags are to be left alone but sometimes you may need to change a tag. When you edit the tag syntax, remember that there should always be a space between each tag word. Tags are formatted with 2 sets of 2 curly brackets around the syntax. The syntax is "tag>" and then a word for each tag.
 
 <code>
 So a tag syntax for two tags would be {{tag>tag1 tag2}}
 </code>
 
-**The above code creates this formatting:**\\
-So a tag syntax for two tags would be {{tag>tag1 tag2}}
+**The above code creates this formatting:**  \\ So a tag syntax for two tags would be
+
+{{tag>tag1 tag2}}
 
 === END OF PAGE ===
