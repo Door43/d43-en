@@ -66,21 +66,23 @@ and Numbered lists -
 
 ==== Paragraphs ====
 
-Blank lines divides the text into paragraphs. If you want to **force a new line**  without a paragraph, you can use two backslashes followed by a whitespace or at the end of a line.
+Blank lines divides the text into paragraphs. If you want to **force a new line** without a paragraph, you can use two backslashes followed by a whitespace or at the end of a line.
 
 You should use forced newlines only if really needed.
 
 <code>
-This is some text with some line breaks \
-
+This is some text with some line breaks \\
 Note that the two backslashes are only recognized at the end of a line \\
-or followed by \
-a whitespace \\this happens without the whitespace.
+or followed by \\
+a whitespace. \\This happens without the whitespace.
 </code>
 
 **The above code creates this formatting:**
 
-This is some text with some line breaks \\ Note that the two backslashes are only recognized at the end of a line \\ or followed by \\ a whitespace \\this happens without the whitespace.
+This is some text with some line breaks\\
+Note that the two backslashes are only recognized at the end of a line\\
+or followed by\\
+a whitespace. \\This happens without the whitespace.
 
 ==== Links ====
 
