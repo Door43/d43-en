@@ -30,7 +30,7 @@ The unfoldingWord project exists because every people group deserves to have the
 
 How do we accomplish our goal of **unrestricted biblical content in every language**? 
 
-   * The unfoldingWord Network - By partnering with other like-minded organizations (see the [[www.unfoldingword.org|website]])
+   * The unfoldingWord Network - By partnering with other like-minded organizations (see the [[www.unfoldingword.org|website]] (www.unfoldingword.org) )
    * [[en:ta:vol1:intro:statement_of_faith|Statement of Faith]] - By working with people and organizations who have the same beliefs  
    * [[en:ta:vol1:intro:translation_guidelines|Translation Guidelines]] - By using a common translation theory and practice 
    * [[en:ta:vol1:intro:open_license|Open License]] - By releasing everything we create under an open license
@@ -47,7 +47,7 @@ What do we do?
       * translationQuestions - questions for each chunk of text that the translators and checkers can ask to help insure that the translation is being understood correctly. Available for [[en:obs:notes:questions:home|Open Bible Stories]] and for [[en:bible:questions:home|the Bible]].    
       * [[en:obe:home|translationWords]] - a list of important Biblical terms with a short explanation, cross references, and translation aids
 
-   * **Tools** - We create translation, checking, and distribution tools (all of these tools are explained in more detail in the [[en:ta:tech|Technology Manual]])     
+   * **Tools** - We create translation, checking, and distribution tools (all of these tools are explained in more detail in the [[en:ta:vol1:translate:translate_manual|Technology Manual]])     
       * [[en:ta:vol2:tech:door43|Door43]] - an online translation platform where people can collaborate on translation and checking, also the content management system for unfoldingWord     
       * [[en:ta:vol1:tech:ts_intro|translationStudio]] - a mobile app where translators can do offline translating    
       * [[en:ta:vol1:tech:tk_intro|translationKeyboard]] - a mobile app where users can create custom keyboards for languages not supported by their mobile device     
@@ -57,8 +57,8 @@ What do we do?
       * [[en:ta:vol2:tech:video|Video Render Engine]] - an automatic video render system that takes audio recordings and merges them with video clips to create custom videos for certain projects   
 
    * **Training** - We create resources to train mother tongue translation teams
-      * [[en:ta:translate:home|Translation Manual]] - how to translate 
-      * [[:en:ta:check|Checking Manual]] -  how to check a translation
+      * [[en:ta:vol1:translate:translate_manual|Translation Manual]] - how to translate 
+      * [[:en:ta:vol1:checking:intro_checking|Checking Manual]] -  how to check a translation
       * [[:en:ta:tech|Technology Manual]] - how to use the different technology tools
 *
 

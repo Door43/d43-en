@@ -3,13 +3,13 @@
 This module answers the question: What is translationAcademy?\\
 Welcome to translationAcademy
 
-The “translationAcademy” is intended to enable anyone, anywhere to equip themselves so that they will be able to translate Biblical content into their own language. The goal of translationAcademy is to teach how to do a high-quality, meaning-based translation (see the [[en:ta:translate:home|Translation Manual]]), how to check a translation to ensure it is clear, accurate, natural, and equal (see the [[en:ta:check|Checking Manual]]), and how to use the technology tools we have created (see the [[en:ta:tech|Technology Manual]]). 
+The “translationAcademy” is intended to enable anyone, anywhere to equip themselves so that they will be able to translate Biblical content into their own language. The goal of translationAcademy is to teach how to do a high-quality, meaning-based translation (see the [[en:ta:vol1:translate:translate_manual|Translation Manual]]), how to check a translation to ensure it is clear, accurate, natural, and equal (see the [[:en:ta:vol1:checking:intro_checking|Checking Manual]]), and how to use the technology tools we have created (see the [[en:ta:tech|Technology Manual]]). 
 
 translationAcademy is intended to be highly flexible. It can be used in a systematic, in-advance approach or it can be used for just-in-time learning (or both, as needed). It is modular in structure. These modules have been grouped as follows:
     
-  * **[[en:ta:intro|Introduction]]** - introduces the unfoldingWord project
-  * **[[:en:ta:translate:home|Translation Manual]]**- explains how to translate
-  * **[[:en:ta:check|Checker's Manual]]**- explains how to check a translation
+  * **[[en:ta:vol1:intro:uw_intro|Introduction]]** - introduces the unfoldingWord project
+  * **[[:en:ta:vol1:translate:translate_manual|Translation Manual]]**- explains how to translate
+  * **[[::en:ta:vol1:checking:intro_checking|Checker's Manual]]**- explains how to check a translation
   * **[[:en:ta:tech|Technology Manual]]**- explains how to use the different technology tools
 
 
