@@ -1,0 +1,11 @@
+====== Notes: Exodus Review Admin Page ======
+
+~~NOCACHE~~
+
+  * [[:en:bible:admin-reports:check-tags]]
+
+
+==== Exodus Pages Status ====
+
+^  Review  ^  Text  ^  Discuss  ^  Publish  ^
+|{{pagequery>@en:bible:notes:exo \{\{tag>[^}]*review[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; showcount; layout=table;hidemsg;hidejump;fontsize=90%}}  |{{pagequery>@en:bible:notes:exo \{\{tag>[^}]*text[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; showcount; layout=table;hidemsg;hidejump;fontsize=90%}}  |{{pagequery>@en:bible:notes:exo \{\{tag>[^}]*discuss[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; showcount; layout=table;hidemsg;hidejump;fontsize=90%}}  |{{pagequery>@en:bible:notes:exo \{\{tag>[^}]*publish[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; showcount; layout=table;hidemsg;hidejump;fontsize=90%}}  |
