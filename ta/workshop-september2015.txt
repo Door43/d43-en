@@ -18,11 +18,9 @@ This page contains the links to notes and resources for the TN Workshop.
 
   * [[:en:ta:workshop-september2015-tabs]] *
 
-  * [[en:ta:tech:door43:ckg|Using the WSIWYG Editor]]
-  * [[:en:ta:tech:door43:syntax|Using DoKu Wiki Code Editor]]
 ==== Exodus Working Pages ====
 
-  * [[:en:bible:notes:heb:home|Hebrews Chapters]] 
+  * [[:en:bible:notes:exo:home|Exodus Chapters]] 
   * [[:en:ulb:ep:02-exo.usfm|Exodus ULB File]] 
   * [[:en:udb:ep:02-exo.usfm|Exodus UDB File]] 
   * [[:en:bible:admin-reports:notes-team-admin:exo|Notes: Exodus Team Admin]]
@@ -36,6 +34,8 @@ This page contains the links to notes and resources for the TN Workshop.
   * [[en:bible:admin-reports:notes-review-admin:heb]]
 
 ==== Workshop Content ====
+  * [[en:ta:tech:door43:ckg|Using the WSIWYG Editor]]
+  * [[:en:ta:tech:door43:syntax|Using DoKu Wiki Code Editor]]
 
   * [[:en:bible:team-info:processes:when-notes|When to Create Translation Notes]] *
   * [[:en:bible:team-info:job-descriptions:notes-localteam-writingnotes|Writing Translation Notes]] *
