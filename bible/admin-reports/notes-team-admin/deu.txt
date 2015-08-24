@@ -13,7 +13,7 @@ Reviewer - (//review to publish//) -
   * [[:en:bible:team-info:training:notes-training|Notes Training]]
 
 
-==== Ephesians Page Status ====
+==== Deuteronomy Page Status ====
 
 ^  Draft  ^  Check  ^  Review  ^
 |{{pagequery>@en:bible:notes:deu \{\{tag>[^}]*draft[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=100%}} |{{pagequery>@en:bible:notes:deu \{\{tag>[^}]*check[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=100%}} |{{pagequery>@en:bible:notes:deu \{\{tag>[^}]*review[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=100%}} |
