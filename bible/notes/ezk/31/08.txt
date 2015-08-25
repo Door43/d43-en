@@ -17,7 +17,6 @@
 ===== UDB: =====
 
 <usfm>
-\q1
 \v 8 The cedar trees in my garden in Eden were not as great as that tree,
 \q2 and the branches of the fir trees were not as long and thick as the branches of that cedar tree.
 \q1 And the branches of the plane trees were not as long and thick, either.
@@ -26,6 +25,9 @@
 \v 9 Because I caused that tree to become very beautiful
 \q2 because of its magnificent green branches,
 \q1 all the leaders of other countries represented by those other trees in Eden envied the country represented by that tree.'
+
+
+\p
 </usfm>
 
 ===== ULB: =====
