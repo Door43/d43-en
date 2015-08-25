@@ -2,6 +2,13 @@
 
 ~~NOCACHE~~
 
+
+==== Adam VG's books: ====
+
+== Ezekiel ==
+
+{{pagequery>@:en:bible:notes:ezk \{\{tag>[^}]*mgr[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;showcount;fontsize=90%}}
+
 ==== Catherine N's books: ====
 
 == Matthew ==
@@ -24,6 +31,37 @@
 
 {{pagequery>@:en:bible:notes:1th \{\{tag>[^}]*mgr1th[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hide jump;showcount;fontsize=90%}}{{pagequery>@:en:bible:notes:2th \{\{tag>[^}]*mgr2th[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;showcount;fontsize=90%}}
 
+==== Carolyn L's books: ====
+
+== Job ==
+
+{{pagequery>@:en:bible:notes:job \{\{tag>[^}]*mgrgen[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;showcount;fontsize=90%}}
+
+==== David F's Books: ====
+
+== Ezekiel ==
+
+{{pagequery>@:en:bible:notes:ezk \{\{tag>[^}]*mgr[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;showcount;fontsize=90%}}
+
+== Joel ==
+
+{{pagequery>@:en:bible:notes:jol \{\{tag>[^}]*mgr[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;showcount;fontsize=90%}}
+
+== Amos ==
+
+{{pagequery>@:en:bible:notes:amo \{\{tag>[^}]*mgr[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;showcount;fontsize=90%}}
+
+== Nahum ==
+
+{{pagequery>@:en:bible:notes:nam \{\{tag>[^}]*mgr[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;showcount;fontsize=90%}}
+
+== Habakkuk ==
+
+{{pagequery>@:en:bible:notes:hab \{\{tag>[^}]*mgr[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;showcount;fontsize=90%}}
+
+== Zechariah==
+
+{{pagequery>@:en:bible:notes:zec \{\{tag>[^}]*mgr[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;showcount;fontsize=90%}}
 
 ==== John H's books: ====
 
@@ -35,31 +73,18 @@
 
 {{pagequery>@:en:bible:notes:isa \{\{tag>[^}]*mgrisa[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;showcount;fontsize=90%}}
 
-== 1,2,3 John ==
+==== John L's books: ====
 
-{{pagequery>@:en:bible:notes:1jn \{\{tag>[^}]*mgr1jn[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hide jump;showcount;fontsize=90%}}{{pagequery>@:en:bible:notes:2jn \{\{tag>[^}]*mgr2jn[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hide jump;showcount;fontsize=90%}}{{pagequery>@:en:bible:notes:3jn \{\{tag>[^}]*mgr3jn[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;showcount;fontsize=90%}}
+== John ==
 
+{{pagequery>@:en:bible:notes:jhn \{\{tag>[^}]*mgrgen[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;showcount;fontsize=90%}}
 
-==== David F's: ====
+== Hebrews ==
 
-== Ezekiel ==
-
-{{pagequery>@:en:bible:notes:ezk \{\{tag>[^}]*mgr[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;showcount;fontsize=90%}}
-
-== Joel ==
-
-{{pagequery>@:en:bible:notes:jol \{\{tag>[^}]*mgr[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;showcount;fontsize=90%}}
-
-== Nahum ==
-
-{{pagequery>@:en:bible:notes:nam \{\{tag>[^}]*mgr[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;showcount;fontsize=90%}}
-
-== Habakkuk ==
-
-{{pagequery>@:en:bible:notes:hab \{\{tag>[^}]*mgr[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;showcount;fontsize=90%}}
+{{pagequery>@:en:bible:notes:heb \{\{tag>[^}]*mgrgen[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;showcount;fontsize=90%}}
 
 
-==== Joe W's: ====
+==== Joe W's books: ====
 
 == 1 Corinthians ==
 
@@ -69,22 +94,33 @@
 
 {{pagequery>@:en:bible:notes:jud \{\{tag>[^}]*mgrjud[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;showcount;fontsize=90%}}
 
+==== Paul H's books: ====
 
-==== Vivian R's: ====
+== Zephaniah ==
 
-== 2 Peter ==
+{{pagequery>@:en:bible:notes:zep \{\{tag>[^}]*mgr[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;showcount;fontsize=90%}}
 
-{{pagequery>@:en:bible:notes:2pe \{\{tag>[^}]*mgr[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;showcount;fontsize=90%}}
+== Haggai ==
 
-
-==== Adam VG's: ====
-
-== Ezekiel ==
-
-{{pagequery>@:en:bible:notes:ezk \{\{tag>[^}]*mgr[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;showcount;fontsize=90%}}
-
-==== Paul H's: ====
+{{pagequery>@:en:bible:notes:hag \{\{tag>[^}]*mgr[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;showcount;fontsize=90%}}
 
 == Malachi ==
 
 {{pagequery>@:en:bible:notes:mal \{\{tag>[^}]*mgr[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;showcount;fontsize=90%}}
+
+==== Tyson S' books: ====
+
+== Joshua ==
+
+{{pagequery>@:en:bible:notes:jos \{\{tag>[^}]*mgrgen[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;showcount;fontsize=90%}}
+
+== Ezra ==
+
+{{pagequery>@:en:bible:notes:ezr \{\{tag>[^}]*mgrgen[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;showcount;fontsize=90%}}
+
+
+==== Vivian R's books: ====
+
+== 2 Peter ==
+
+{{pagequery>@:en:bible:notes:2pe \{\{tag>[^}]*mgr[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;showcount;fontsize=90%}}
