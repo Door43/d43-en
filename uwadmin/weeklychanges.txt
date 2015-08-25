@@ -214,6 +214,9 @@
 **[[:kbr:obs|kbr OBS]]**
 {{changes>ns=kbr:obs&maxage=604800&render=pagelist(header,date,user,nocomments)}}
 
+**[[:kea:obs|kea OBS]]**
+{{changes>ns=kea:obs&maxage=604800&render=pagelist(header,date,user,nocomments)}}
+
 **[[:kfb:obs|kfb OBS]]**
 {{changes>ns=kfb:obs&maxage=604800&render=pagelist(header,date,user,nocomments)}}
 
