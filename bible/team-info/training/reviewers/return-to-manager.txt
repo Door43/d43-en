@@ -5,13 +5,15 @@ When repetitive issues appear in the notes, it is more efficient for the project
 
   * KT lists out of order. The entries should match the order of the first occurrence of the item in the ULB. 
   * TNs where shorter entries precede the longer entries in which they are found, e.g., 
-    * Do not write:
+    * Write:
       * the canine bit the feline - "the house was in disorder" 
       * canine - dog 
       * feline - cat 
-    * but write:
+    * Do not write:
       * canine - dog
-      * the canine bit the feline - "the house was in disorder" * feline - cat Notes that add nothing that is not in the UDB. 
+      * feline - cat 
+      * the canine bit the feline - "the house was in disorder"
+  * Notes that add nothing that is not in the UDB. 
   * The user is supposed to refer to the UDB only if the ULB is not clear. If he still needs help, he goes to the KT. Only if he's still in the dark does he go to the TN. The UDB only needs to be repeated in the TN if it's the basis for further clarification (e.g., one of two alternative meanings, or if it's 80% clear but needs a tweak to get the rest of the way). 
   * Extra words that the managers should know we're deleting, e.g.,
     * Do not write:
