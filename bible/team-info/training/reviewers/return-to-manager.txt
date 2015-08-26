@@ -24,7 +24,6 @@ In most cases, the chunks will need to be sent back to the notes teams, but this
 
 === Notes that do not add to the UDB: ===
 
-  * Notes that add nothing that is not in the UDB. 
   * The user is supposed to refer to the UDB only if the ULB is not clear. If he still needs help, he goes to the KT. Only if he's still in the dark does he go to the TN. The UDB only needs to be repeated in the TN if it's the basis for further clarification (e.g., one of two alternative meanings, or if it's 80% clear but needs a tweak to get the rest of the way). 
 
 === Unnecessary words in the notes: ===
@@ -34,10 +33,11 @@ In most cases, the chunks will need to be sent back to the notes teams, but this
       * Australians eat spaghetti on toast for breakfast - The word "spaghetti" refers to a meal of noodles and sauce.
     * But write:
       * spaghetti - a meal of noodles and sauce
+
     * Do not write:
       * I like to consume apples and bananas - "I like to eat apples and bananas"
-   * But write:
-     * consume - "eat" 
+    * But write:
+      * consume - "eat" 
 
 
 
