@@ -20,4 +20,4 @@ The following OBE Terms are tagged as "create" and are on hold. \\ They are not 
 
 {{pagequery>ns:en:obe "tag>create"; fulltext; sort=cdate:asc; group; limit=100; spelldate; hidestart; display= {title} {date:created} ; layout=table; natsort; showcount; hidejump; }}
 
-{{pagequery>@:en:obe \{\{tag>[^}]*draft[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;showcount;fontsize=90%}}
+{{pagequery>@:en:obe \{\{tag>[^}]*create[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;showcount;fontsize=90%}}
