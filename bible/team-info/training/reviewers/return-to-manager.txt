@@ -18,11 +18,10 @@
       * Australians eat spaghetti on toast for breakfast - The word "spaghetti" refers to a meal of noodles and sauce.
     * But write:
       * spaghetti - a meal of noodles and sauce
+    * Do not write:
       * I like to consume apples and bananas - "I like to eat apples and bananas"
-
-should be
-
-    * consume - "eat" 
+   * But write:
+     * consume - "eat" 
   * To "send back" means to instantly tag as "check": if you see it right away, you tag it right away and move on.
 
 ~~DISCUSSION~~{{tag>draft}}
