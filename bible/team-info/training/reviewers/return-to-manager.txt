@@ -1,28 +1,21 @@
 ====== Return to Manager ======
 
-During the Skype session some of us had this morning, it was mentioned that a lot of things that should be caught by the managers are getting past them. I've been guilty of working on them myself and not sending them back, so I've needed to think this through as well. These things should probably be sent back to the managers, who should send them back to the teams (in order of increasing discretion called for on our parts, not necessarily of importance).
-KT lists out of order. The entries should match the order of the first occurrence of the item in the ULB.
-TNs where shorter entries precede the longer entries in which they are found, e.g.,
-* the canine bit the feline - "the house was in disorder"
-* canine - dog
-* feline - cat
-not
-* canine - dog
-* the canine bit the feline - "the house was in disorder" 
-* feline - cat
-Notes that add nothing that is not in the UDB. The user is supposed to refer to the UDB only if the ULB is not clear. If he still needs help, he goes to the KT. Only if he's still in the dark does he go to the TN. As far as I can tell, the UDB only needs to be repeated in the TN if it's the basis for further clarification (e.g., one of two alternative meanings, or if it's 80% clear but needs a tweak to get the rest of the way).
-Extra words that the managers should know we're deleting, e.g.,
+During the Skype session some of us had this morning, it was mentioned that a lot of things that should be caught by the managers are getting past them. I've been guilty of working on them myself and not sending them back, so I've needed to think this through as well. These things should probably be sent back to the managers, who should send them back to the teams (in order of increasing discretion called for on our parts, not necessarily of importance). KT lists out of order. The entries should match the order of the first occurrence of the item in the ULB. TNs where shorter entries precede the longer entries in which they are found, e.g., * the canine bit the feline - "the house was in disorder" * canine - dog * feline - cat not * canine - dog * the canine bit the feline - "the house was in disorder" * feline - cat Notes that add nothing that is not in the UDB. The user is supposed to refer to the UDB only if the ULB is not clear. If he still needs help, he goes to the KT. Only if he's still in the dark does he go to the TN. As far as I can tell, the UDB only needs to be repeated in the TN if it's the basis for further clarification (e.g., one of two alternative meanings, or if it's 80% clear but needs a tweak to get the rest of the way). Extra words that the managers should know we're deleting, e.g.,
 
 * Australians eat spaghetti on toast for breakfast - The word "spaghetti" refers to a meal of noodles and sauce.
-                                                     should be
+
+<code>
+                                                   should be
+</code>
+
 * spaghetti - a meal of noodles and sauce
 
 * I like to consume apples and bananas - "I like to eat apples and bananas"
-                                                     should be
-* consume - "eat"
-By "sent back" I mean instantly tagged "check": if you see it right away, you tag it right away and move on.
 
+<code>
+                                                   should be
+</code>
 
-~~DISCUSSION~~
+* consume - "eat" By "sent back" I mean instantly tagged "check": if you see it right away, you tag it right away and move on.
 
-{{tag>draft}}
+~~DISCUSSION~~{{tag>draft}}
