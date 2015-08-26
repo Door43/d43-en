@@ -1,9 +1,17 @@
 ====== Return to Manager ======
 
-When repetitive issues appear in the notes, it is more efficient for the project to return them to the manager for correction. The manager will then decide whether to update the notes, or to return them to the notes team. Rather than repeatedly fixing the same issues, it is preferred that the issue become a "teaching occasion" to help prevent future occurrences of known problems.
+When repetitive issues appear in the notes, it is more efficient for the project to demote the chunk status until they are corrected. To accomplish this, the reviewer will change the tag from "review" back to "check" and include a note in the discussion about the needed changes. We want recurring issues to become "teaching occasions" so the teams can learn to avoid known problems.
 
+In most cases, the chunks will need to be sent back to the notes teams, but this interaction with the teams is the responsibility of the managers. They will decide whether to correct the problem, or to change the tag to "draft" and let the teams correct the issues. 
+
+==== Common Reasons to Return to the Manager ====
+
+=== Important Terms list: ===
 
   * KT lists out of order. The entries should match the order of the first occurrence of the item in the ULB. 
+
+=== Order of longer and shorter notes: ===
+
   * TNs where shorter entries precede the longer entries in which they are found, e.g., 
     * Write:
       * the canine bit the feline - "the house was in disorder" 
@@ -13,8 +21,14 @@ When repetitive issues appear in the notes, it is more efficient for the project
       * canine - dog
       * feline - cat 
       * the canine bit the feline - "the house was in disorder"
+
+=== Notes that do not add to the UDB: ===
+
   * Notes that add nothing that is not in the UDB. 
   * The user is supposed to refer to the UDB only if the ULB is not clear. If he still needs help, he goes to the KT. Only if he's still in the dark does he go to the TN. The UDB only needs to be repeated in the TN if it's the basis for further clarification (e.g., one of two alternative meanings, or if it's 80% clear but needs a tweak to get the rest of the way). 
+
+=== Unnecessary words in the notes: ===
+
   * Extra words that the managers should know we're deleting, e.g.,
     * Do not write:
       * Australians eat spaghetti on toast for breakfast - The word "spaghetti" refers to a meal of noodles and sauce.
@@ -24,6 +38,7 @@ When repetitive issues appear in the notes, it is more efficient for the project
       * I like to consume apples and bananas - "I like to eat apples and bananas"
    * But write:
      * consume - "eat" 
-  * To "send back" means to instantly tag as "check": if you see it right away, you tag it right away and move on.
+
+
 
 ~~DISCUSSION~~{{tag>draft}}
