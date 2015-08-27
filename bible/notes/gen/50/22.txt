@@ -12,6 +12,7 @@
 ===== UDB: =====
 
 <usfm>
+\p
 \v 22 Joseph lived with his father's family in Egypt until he was 110 years old.
 \v 23 He lived long enough to see Ephraim's children and grandchildren. The children of Joseph's grandson Machir, who was Manasseh's son, were born before Joseph died, and they were recognized as being his descendants.
 </usfm>
@@ -22,7 +23,7 @@
 <usfm>
 \p
 \v 22 Joseph lived in Egypt, together with his father’s family. He lived one hundred ten years.
-\v 23 Joseph saw Ephraim’s children to the third generation. He also saw the children of Machir, the son of Manasseh. They were given special inheritance rights by Joseph.
+\v 23 Joseph saw Ephraim’s children to the third generation. He also saw the children of Machir, the son of Manasseh. They were "born on his knees." 
 </usfm>
 
 
@@ -38,7 +39,7 @@
 ===== Translation Notes: =====
 
   * **Machir** - This is the name of Joseph's grandson. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **They were given special inheritance rights by Joseph** - "Joseph gave them special inheritance rights" or "Machir set them upon Joseph's knee" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **They were "born on his knees"** - This expression meant that they received special inheritance rights. AT: "Joseph gave them special inheritance rights." (See: [[:en:ta:vol1:translate:figs_idiom]] and [[:en:ta:vol2:translate:figs_activepassive]])
 
 
 ===== Links: =====
