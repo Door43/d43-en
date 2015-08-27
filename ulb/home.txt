@@ -6,8 +6,6 @@ If there are phrases that need changed, [[:en:ulb:phrase_subs|Add more phrase su
 
 BETA files [[https://github.com/unfoldingWord/ulb-en|https://github.com/unfoldingWord/ulb-en]] or [[https://github.com/unfoldingWord/ulb-en/archive/master.zip|ulb-en-latest.zip]]
 
-[[:en:ulb:ep:home|Etherpad exports]] (updated nightly).
+Browse the **latest** and greatest here: [[:en:ulb:ep:home|Etherpad exports]] (updated nightly).
 
-Please browse [[:en:ulb:v1:home|Version 1]], it is a work in progress. This text was automatically generated from the ASV source text, with some substitutions.
-
-{{page>en:ulb:v1:home}}
+[[:en:ulb:v1:home|Version 1]] was automatically generated from the ASV source text, with some substitutions and is **outdated**.
