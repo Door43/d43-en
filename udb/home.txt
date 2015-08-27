@@ -4,8 +4,6 @@ BETA files [[https://github.com/unfoldingWord/udb-en|https://github.com/unfoldin
 
 [[:en:udb:v1:frt:000.usfm|License]]
 
-[[:en:udb:ep:home|Etherpad exports]] (updated nightly).
+Browse the **latest** and greatest here: [[:en:udb:ep:home|Etherpad exports]] (updated nightly).
 
-Please browse [[:en:udb:v1:home|Version 1]], it is a work in progress. This text is automatically generated from the source text.
-
-{{page>en:udb:v1:home}}
+[[:en:udb:v1:home|Version 1]] was automatically generated from the TFT source text, with some substitutions, and is **outdated**.
