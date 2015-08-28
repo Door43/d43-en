@@ -359,6 +359,8 @@
 {{changes>ns=ylm:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:ymq:obs|ymq OBS]]**
 {{changes>ns=ymq:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
+**[[:yo:obs|yo OBS]]**
+{{changes>ns=yo:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:zh:obs|zh OBS]]**
 {{changes>ns=zh:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:zh-tw:obs|zh-tw OBS]]**

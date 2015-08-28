@@ -257,6 +257,8 @@ edge [arrowsize=1.4];
 "figs_intro" -> "figs_pluralpronouns"
 "figs_quotations" [fillcolor="#99ff99"]
 "figs_intro" -> "figs_quotations"
+"figs_rpronouns" [fillcolor="#99ff99"]
+"figs_intro" -> "figs_rpronouns"
 "figs_rquestion" [fillcolor="#99ff99"]
 "figs_intro" -> "figs_rquestion"
 "figs_sentences" [fillcolor="#99ff99"]
