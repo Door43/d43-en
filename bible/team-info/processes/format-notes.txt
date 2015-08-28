@@ -55,7 +55,15 @@ If the UDB provides a good alternate translation for the ULB, it is normally not
 
 === Alternate Meaning(s) ===
 
-Alternate meanings refer to when there are not just multiple ways to express something, but to when there are different understandings of what the word or phrase means. In this case, prefix the meanings with "Possible meanings are" and number them with the preferred rendering as the first meaning.
+Alternate meanings refer to when there are not just multiple ways to express something, but to when there are different understandings of what the word or phrase means. In this case, prefix the meanings with "Possible meanings are" and number them with the preferred meaning first (This should be the same meaning as what is in the ULB and UDB).
+
+If the meaning is given as an explanation, do not put it in quotes.  
+
+  * **You are like a young lion ... like a monster in the seas** - Possible meanings are that 1) he was like a lion and a monster or 2) he thought he was like a lion, but he was really only a monster.
+
+  * **like a monster in the seas** - Possible meanings are that 1) he was powerful or 2) he was not doing anything important.
+
+If the meaning is given in a way that can be used as a translation, put it in quotes. 
 
   * **fell down at Jesus knees**  - Possible meanings are 1) "bowed down at Jesus feet" or 2) "lay down on the ground at Jesus feet" or 3) "knelt down before Jesus." Peter did not fall accidentally. He did this as a sign of humility and respect for Jesus.
 
