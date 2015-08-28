@@ -21,7 +21,6 @@
 ===== UDB: =====
 
 <usfm>
-\q1
 \v 12 Your enemies will cause the walls around your city to fall down
 \q2 like the first figs that fall right into your mouths when you shake the tree.
 \q1 This is how easily your city will be captured.
@@ -32,6 +31,9 @@
 \q2 to allow your enemies to enter them,
 \q2 and then the bars of those gates will be burned.
 \b
+
+
+\q1
 </usfm>
 
 

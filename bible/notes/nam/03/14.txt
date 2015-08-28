@@ -19,7 +19,6 @@
 ===== UDB: =====
 
 <usfm>
-\q1
 \v 14 Store up water now to use when your enemies surround the city!
 \q2 Repair the forts!
 \q1 Dig up clay and trample it to make it soft,
@@ -29,6 +28,9 @@
 \q2 they will kill you with their swords;
 \q2 they will kill you as locusts destroy crops.
 \q2 Go ahead and increase your population like swarms of locusts and grasshoppers.
+
+
+\q1
 </usfm>
 
 
