@@ -2,44 +2,17 @@
 
 ===== TFT: =====
 
-<usfm>
-\v 1 Our God says, "Encourage my people!
-\q2 Encourage them!
-\q1
-\v 2 Speak kindly to \add the people of\add* Jerusalem;
-\q2 tell them that their suffering is ended,
-\q1 and that I have forgiven them for the sins that they have committed;
-\q2 I \f + \ft synecdoche \f* have fully punished them for their sins."
-\q1
-</usfm>
+<usfm> \v 1 Our God says, "Encourage my people! \q2 Encourage them! \q1 \v 2 Speak kindly to \add the people of\add* Jerusalem; \q2 tell them that their suffering is ended, \q1 and that I have forgiven them for the sins that they have committed; \q2 I \f + \ft synecdoche \f* have fully punished them for their sins." \q1 </usfm>
 
 ===== UDB: =====
 
-<usfm>
-\v 1 Our God says, "Encourage my people!
-\q2 Encourage them!
-\q1
-\v 2 Speak kindly to the people of Jerusalem;
-\q2 tell them that their suffering is ended,
-\q1 and that I have forgiven them for the sins that they have committed;
-\q2 I have fully punished them for their sins."
+<usfm> \v 1 Our God says, "Encourage my people! \q2 Encourage them! \q1 \v 2 Speak kindly to the people of Jerusalem; \q2 tell them that their suffering is ended, \q1 and that I have forgiven them for the sins that they have committed; \q2 I have fully punished them for their sins."
 
-
-\q1
-</usfm>
+\q1 </usfm>
 
 ===== ULB: =====
 
-<usfm>
-\c 40
-\p
-\q1
-\v 1 "Comfort, comfort my people," says your God.
-\q1
-\v 2 Speak tenderly to Jerusalem; and proclaim to her
-\q1 that her warfare has ended, that her iniquity is pardoned, 
-\q1 that she has received double from Yahweh's hand for all her sins.
-</usfm>
+<usfm> \c 40 \p \q1 \v 1 "Comfort, comfort my people," says your God. \q1 \v 2 Speak tenderly to Jerusalem; and proclaim to her \q1 that her warfare has ended, that her iniquity is pardoned, \q1 that she has received double from Yahweh's hand for all her sins. </usfm>
 
 ===== Important Terms: =====
 
@@ -49,22 +22,19 @@
   * [[:en:obe:other:jerusalem|Jerusalem]]
   * [[:en:obe:other:proclaim|proclaim, proclamation]]
   * [[:en:obe:kt:iniquity|iniquity]]
-  * [[:en:obe:other:pardon]]
+  * [[:en:obe:other:pardon|pardon]]
   * [[:en:obe:kt:yahweh|Yahweh]]
   * [[:en:obe:other:hand|hand]]
   * [[:en:obe:kt:sin|sin, sinful, sinner, sinning]]
 
 ===== Translation Notes: =====
 
-  * **bold words**  - explanation
-  * **bold words**  - explanation
-  * **bold words**  - explanation
-  * **bold words**  - explanation
-  * **bold words**  - explanation
-  * **bold words**  - explanation
+  * **"Comfort, comfort my people," says your God **- The word "comfort" is repeated for emphasis.  God is expressing to Isaiah that he is now to bring words of comfort and encouragement to his people. "Encourage my people, encourage them!" (UDB)
+  * **proclaim to her that her warfare has ended, that her iniquity is pardoned **- The word "her" is referring to the people of Jersusalem.
+  * **that she has received double from Yahweh's hand for all her sins **- Here "she" is also referring to the the people of Jersusalem. AT "Yahweh has completely forgiven the all the sins of the people." (See: Metonymy)
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:isa:40|Isaiah Chapter 40 Comprehension Questions]]**
+  * **[[:en:bible:questions:comprehension:isa:40|Isaiah Chapter 40 Comprehension Questions]]**
 **[[:en:bible:notes:isa:39:07|<<]] | [[:en:bible:notes:isa:40:03|>>]]**
 
 ~~DISCUSSION~~{{tag>draft}}
