@@ -1,0 +1,15 @@
+====== Notes: Job Review Admin ======
+
+Team Lead - \\
+Manager - Carolyn L\\
+Reviewer - Ed Q and Henry dV\\
+
+~~NOCACHE~~
+
+  * [[:en:bible:admin-reports:check-tags]]
+
+
+==== Job Pages Status ====
+
+^  Review  ^  Text  ^  Discuss  ^  Publish  ^
+|{{pagequery>@en:bible:notes:job \{\{tag>[^}]*review[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; showcount; layout=table;hidemsg;hidejump;fontsize=80%}}  |{{pagequery>@en:bible:notes:Job \{\{tag>[^}]*text[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; showcount; layout=table;hidemsg;hidejump;fontsize=80%}}  |{{pagequery>@en:bible:notes:job \{\{tag>[^}]*discuss[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; showcount; layout=table;hidemsg;hidejump;fontsize=80%}}  |{{pagequery>@en:bible:notes:job \{\{tag>[^}]*publish[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; showcount; layout=table;hidemsg;hidejump;fontsize=80%}}  |
