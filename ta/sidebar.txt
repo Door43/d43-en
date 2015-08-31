@@ -8,28 +8,15 @@
 
 **translationAcademy**
 
-  *  [[:en:ta|tA Home]]
-      *  [[:en:ta:intro|tA Intro]]
-        * [[:en:ta:intro:why|Why]]
-        *  [[:en:ta:intro:how|How]]
-          * [[:en:ta:intro:uw|unfoldingWord Network]]
-          * [[:en:ta:intro:glstrategy|Gateway Languages Strategy]]
-        * [[:en:ta:intro:what|What]]
-      *  [[:en:ta:translate:home|Translation Manual]]
-        * [[:en:ta:translate:basics|Basics of Translation]]
-        * [[:en:ta:translate:scriptures|Bible Translation Principles]]
-      *  [[:en:ta:check|Checking Manual]]
-        * [[:en:ta:check:level1|Level 1]]
-        * [[:en:ta:check:level2|Level 2]]
-        * [[:en:ta:check:level3|Level 3]]
-      *  [[:en:ta:tech|Technology Manual]]
-        * [[:en:ta:tech:tk|translationKeyboard]]
-        * [[:en:ta:tech:ts|translationStudio]]
-        * [[:en:ta:tech:door43|Door43]]
-        * [[:en:ta:tech:audio|Audio]]
-        * [[:en:ta:tech:video|Video]]
-        * [[:en:ta:tech:uw|unfoldingWord]]
-        * [[:en:ta:tech:dpe|Digital Publishing Engine]]
+  * [[:en:ta:vol1:intro:ta_intro|tA Home]]
+  * [[:en:ta:vol1:intro:toc_intro|tA Introduction]]
+  * [[:en:ta:vol1:translate:toc_transvol1|Translation Manual - Vol 1]]
+  * [[:en:ta:vol2:translate:toc_transvol2|Translation Manual - Vol 2]]
+  * [[:en:ta:vol1:checking:toc_checkvol1|Checking Manual - Vol 1]]
+  * [[:en:ta:vol2:checking:toc_checkvol2|Checking Manual - Vol 2]]
+  * [[:en:ta:vol1:tech:toc_techvol1|Technology Manual - Vol 1]]
+  * [[:en:ta:vol2:tech:toc_techvol2|Technology Manual - Vol 2]]
+  * [[:en:ta:vol1:process:process_manual|Process Manual]]
 
 ~~NOCACHE~~
 
