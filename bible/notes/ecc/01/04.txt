@@ -38,9 +38,19 @@
 ===== ULB: =====
 
 <usfm>
-\v 4 One generation goes, and another generation comes. but the earth remains for ever.
-\v 5 The sun also arises, and the sun goes down, and hastens to its place where it arises.
-\v 6 The wind goes toward the south, and turns about to the north. It turns about continually in its course, and the wind returns again to its circuits.
+\q1
+\v 4 One generation goes, 
+\q2 and another generation comes. 
+\q1 but the earth remains forever.
+\q1
+\v 5 The sun rises 
+\q2 and the sun goes down, 
+\q1 and hurries back to the place where it rises again.
+\q1
+\v 6 The wind blows south 
+\q2 and circles around to the north, 
+\q1 always turning around along its circuits 
+\q2 and returning back again.
 </usfm>
 
 

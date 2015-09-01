@@ -19,7 +19,7 @@
 ===== UDB: =====
 
 <usfm>
-\v 1 These are the words and sayings of the son of King David and people call me 'The Teacher.'
+\v 1 These are the words and sayings of the son of King David. The people call me 'The Teacher.'
 \q1
 \v 2 The Teacher says, "Everything is not permanent;
 \q2 everything is hard for me to understand;
@@ -27,6 +27,7 @@
 \b
 \q1
 \v 3 What do people gain from all the work that they do here on the earth?"
+
 
 
 \q1
@@ -39,8 +40,12 @@
 \c 1
 \p
 \v 1 The words of the Teacher, the son of David, king in Jerusalem.
-\v 2 Vapor of vapors, says the Teacher; vapor of vapors, all is vaporous.
-\v 3 What profit has man of all his labor in which he labors under the sun?
+\v 2 The Teacher says this.
+\q1 "Like a vapor of mist,
+\q2 Like a breeze in the wind, 
+\q1 Everything vanishes.
+\q1
+\v 3 What profit has man from all his work by which he labors under the sun?
 </usfm>
 
 
