@@ -14,7 +14,7 @@ This page contains the links to notes and resources for the TN Workshop.
 
   * [[:en:bible:team-info:processes:gettingstarted|Get Started]]
   * [[:en:get-started?do=register|Register as a New User]]
-  * [[en:ta:tech:door43:navigate]] *
+  * [[en:ta:workbench:tech:door43:navigate]] *
 
   * [[:en:ta:workshop-september2015-tabs]] *
 
@@ -34,8 +34,8 @@ This page contains the links to notes and resources for the TN Workshop.
   * [[en:bible:admin-reports:notes-review-admin:heb]]
 
 ==== Workshop Content ====
-  * [[en:ta:tech:door43:ckg|Using the WSIWYG Editor]]
-  * [[:en:ta:tech:door43:syntax|Using DoKu Wiki Code Editor]]
+  * [[en:ta:workbench:tech:door43:ckg|Using the WSIWYG Editor]]
+  * [[en:ta:workbench:tech:door43:syntax|Using DoKu Wiki Code Editor]]
 
   * [[:en:bible:team-info:processes:when-notes|When to Create Translation Notes]] *
   * [[:en:bible:team-info:job-descriptions:notes-localteam-writingnotes|Writing Translation Notes]] *
@@ -44,7 +44,7 @@ This page contains the links to notes and resources for the TN Workshop.
   * [[:en:bible:team-info:training:notes-training|Notes Training]]
 
   * [[:en:ta:ta-topics|Translation Academy Topics]]
-  * [[:en:ta:figuresofspeech:home|Figures of Speech]]
+  * [[en:ta:workbench:figuresofspeech:home|Figures of Speech]]
 
   * [[:en:bible:team-info:training:topics:kt-yes-no|Is It a Key Term?]]
   * [[:en:obe:home|Complete list of Important Terms]]
