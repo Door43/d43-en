@@ -12,26 +12,26 @@ The Open Bible Stories in My Language
   *  [[:en:ta:tech:door43:find-language|Find My Language]]
       * [[:obs-setup|Request a New Language]]
       * [[http://td.unfoldingword.org/uw/languages/|Database of Language Codes]]
-  * [[:en:ta:tech:door43:obs-setup|Set up Open Bible Stories in My Language]]
+  * [[en:ta:workbench:tech:door43:obs-setup|Set up Open Bible Stories in My Language]]
 
 How to Use the Editors
 
   * [[:en:ta:tech:door43:edit|Editing a Page]]
-  * [[:en:ta:tech:door43:syntax|Formatting Content]]
+  * [[en:ta:workbench:tech:door43:syntax|Formatting Content]]
   * [[:en:ta:tech:door43:change-editors|Changing Editors]]
   *  [[:en:ta:tech:door43:ckg|Using the Graphical Editor]]
-      * [[:en:ta:tech:door43:practice|Practice Editing a Page]]
+      * [[en:ta:workbench:tech:door43:practice|Practice Editing a Page]]
 
 [[:en:ta:translate:stories|Translate The Open Bible Stories into your language.]]
 
 Extra Help
 
   * [[:en:ta:tech:door43:logon|Are you Logged On?]]
-  * [[:en:ta:tech:door43:tips-tricks|Tips & Tricks]]
+  * [[en:ta:workbench:tech:door43:tips-tricks|Tips & Tricks]]
 
 Page Changes
 
-  * [[:en:ta:tech:door43:subscribe|Watching a Page]]
+  * [[en:ta:workbench:tech:door43:subscribe|Watching a Page]]
   * [[:en:ta:tech:door43:recent-changes|Finding Recent Changes]]
   * [[:en:ta:tech:door43:old-revision|Finding Older Versions of a Page]]
   * [[:en:ta:tech:door43:revert|Reverting a Page to an Older Version]]
@@ -43,9 +43,9 @@ Search
 
 Publish
 
-  * [[:en:ta:tech:door43:publish|Publishing to unfoldingWord]]
+  * [[en:ta:workbench:tech:door43:publish|Publishing to unfoldingWord]]
 
 Technical Details
 
-  * [[:en:ta:tech:door43:technical|Door43 Technical Details]]
+  * [[en:ta:workbench:tech:door43:technical|Door43 Technical Details]]
 ~~DISCUSSION~~
