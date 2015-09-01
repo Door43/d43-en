@@ -295,6 +295,9 @@
 **[[:lua:obs|lua OBS]]**
 {{changes>ns=lua:obs&maxage=604800&render=pagelist(header,date,user,nocomments)}}
 
+**[[:luc:obs|luc OBS]]**
+{{changes>ns=luc:obs&maxage=604800&render=pagelist(header,date,user,nocomments)}}
+
 **[[:lv:obs|lv OBS]]**
 {{changes>ns=lv:obs&maxage=604800&render=pagelist(header,date,user,nocomments)}}
 

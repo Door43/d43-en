@@ -197,6 +197,8 @@
 {{changes>ns=loe:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:lua:obs|lua OBS]]**
 {{changes>ns=lua:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
+**[[:luc:obs|luc OBS]]**
+{{changes>ns=luc:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:lv:obs|lv OBS]]**
 {{changes>ns=lv:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:mas:obs|mas OBS]]**
