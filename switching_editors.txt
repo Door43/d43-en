@@ -1,6 +1,6 @@
 ====== Switching Editors ======
 
-**Text Editor** – When you click the "Edit this page" icon (the pencil), the text editor window opens. This is the standard DokuWiki editor and it provides full control over the syntax of the text. Go to the [[en:ta:tech:door43:syntax|Formatting Text]] page for some simple editing formats to use in the text editor.
+**Text Editor** – When you click the "Edit this page" icon (the pencil), the text editor window opens. This is the standard DokuWiki editor and it provides full control over the syntax of the text. Go to the [[en:ta:workbench:tech:door43:syntax|Formatting Text]] page for some simple editing formats to use in the text editor.
 
 **Visual Editor** –  If you prefer, you can switch to the graphical editor by clicking the "CKG Edit" button. The editor window closes. Click on the edit icon (the pencil) and you should see an edit window that looks like a simplified word processor. The buttons take care of formatting text and generally make it easier to use. Here is information on the toolbar icons: [[doku>toolbar|quickbuttons]].
 
