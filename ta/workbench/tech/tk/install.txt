@@ -1,0 +1,22 @@
+====== Install translationKeyboard on an Android device ======
+
+Watch the {{:en:ta:tech:installing_translationkeyboard-android_v2.mp4|Installing translationKeyboard}}  One video or follow these directions:
+
+**Note: ** Installing requires an Internet connection.
+
+   - Tap the **Google Play Store**  icon on the Android device to open Google Play Store.
+  - In the Play Store, click on the magnifying glass at the top right of the window.
+  - Tap **Search Google Play**  and type translationKeyboard (do not use spaces).
+  - Tap the magnifying glass or close the keyboard.
+  - When the Play Store has found the program, tap the **tK**  icon.
+  - Tap **Install**  on the next screen.
+  - Tap **Accept**  to accept the default settings of the program.
+  - The program will download and then install.
+  - Once the program is installed, tap **Open**  or use the Android back button to close the Google Play Store. The tK icon should appear on the Android screen.
+
+Go back to the [[:en:ta:tech:tk|translationKeyboard ]]page.
+----
+https://pad.door43.org/p/ta-tK_install
+
+{{tag>epady}}
+
