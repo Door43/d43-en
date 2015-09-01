@@ -6,11 +6,11 @@ The unfoldingWord mobile app is used to publish checked translations of the Bibl
 
 Click on the topics below to learn about common tasks in unfoldingWord:
 
-  * [[:en:ta:tech:uw:install|Install the unfoldingWord app]]
-  *  [[:en:ta:tech:uw:get-started|Use unfoldingWord for the first time]]
+  * [[en:ta:workbench:tech:uw:install|Install the unfoldingWord app]]
+  *  [[en:ta:workbench:tech:uw:get-started|Use unfoldingWord for the first time]]
       * About checking levels
       * Language information
-  * [[:en:ta:tech:uw:language|Select a language]]
+  * [[en:ta:workbench:tech:uw:language|Select a language]]
   * [[:en:ta:tech:uw:audio|Use the audio feature]]
 
 ----
