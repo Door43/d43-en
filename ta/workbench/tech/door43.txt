@@ -4,29 +4,29 @@
 
 Get Started
 
-  * [[:en:ta:tech:door43:create|Create an Account]]
+  * [[en:ta:workbench:tech:door43:create|Create an Account]]
   * [[:en:get-started|Log into Door 43]]
 
 The Open Bible Stories in My Language
 
-  *  [[:en:ta:tech:door43:find-language|Find My Language]]
+  *  [[en:ta:workbench:tech:door43:find-language|Find My Language]]
       * [[:obs-setup|Request a New Language]]
       * [[http://td.unfoldingword.org/uw/languages/|Database of Language Codes]]
   * [[en:ta:workbench:tech:door43:obs-setup|Set up Open Bible Stories in My Language]]
 
 How to Use the Editors
 
-  * [[:en:ta:tech:door43:edit|Editing a Page]]
+  * [[en:ta:workbench:tech:door43:edit|Editing a Page]]
   * [[en:ta:workbench:tech:door43:syntax|Formatting Content]]
-  * [[:en:ta:tech:door43:change-editors|Changing Editors]]
-  *  [[:en:ta:tech:door43:ckg|Using the Graphical Editor]]
+  * [[en:ta:workbench:tech:door43:change-editors|Changing Editors]]
+  *  [[en:ta:workbench:tech:door43:ckg|Using the Graphical Editor]]
       * [[en:ta:workbench:tech:door43:practice|Practice Editing a Page]]
 
 [[:en:ta:translate:stories|Translate The Open Bible Stories into your language.]]
 
 Extra Help
 
-  * [[:en:ta:tech:door43:logon|Are you Logged On?]]
+  * [[en:ta:workbench:tech:door43:logon|Are you Logged On?]]
   * [[en:ta:workbench:tech:door43:tips-tricks|Tips & Tricks]]
 
 Page Changes
@@ -38,8 +38,8 @@ Page Changes
 
 Search
 
-  * [[:en:ta:tech:door43:navigate|Navigating Door43]]
-  * [[:en:ta:tech:door43:backlinks|Finding Linked Pages]]
+  * [[en:ta:workbench:tech:door43:navigate|Navigating Door43]]
+  * [[en:ta:workbench:tech:door43:backlinks|Finding Linked Pages]]
 
 Publish
 
