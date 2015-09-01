@@ -18,26 +18,20 @@
 ===== UDB: =====
 
 <usfm>
-\v 27 122 \tc2 from Micmash
-\tr \tc1
-\v 28 223 \tc2 from Bethel and Ai
-\tr \tc1
-\v 29 52 \tc2 from Nebo
-\tr \tc1
-\v 30 156 \tc2 from Magbish
-
-
-\tr \tc1
+\v 27 122 from Michmas
+\v 28 223 from Bethel and Ai
+\v 29 Fifty-two from Nebo
+\v 30 156 from Magbish
 </usfm>
 
 
 ===== ULB: =====
 
 <usfm>
-\v 27 The men of Michmas, a hundred twenty and two.
-\v 28 The men of Beth-el and Ai, two hundred twenty and three.
-\v 29 The children of Nebo, fifty and two.
-\v 30 The children of Magbish, a hundred fifty and six.
+\v 27 The men of Michmas: 122.
+\v 28 The men of Bethel and Ai: 223.
+\v 29 The children of Nebo: fifty-two.
+\v 30 The children of Magbish: 156.
 </usfm>
 
 

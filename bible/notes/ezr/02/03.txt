@@ -18,27 +18,20 @@
 ===== UDB: =====
 
 <usfm>
-\v 3 2,172 \tc2 descendants of Parosh
-\tr \tc1
-\v 4 372 \tc2 descendants of Shephatiah
-\tr \tc1
-\v 5 775 \tc2 descendants of Arah
-\tr \tc1
-\v 6 2,812 \tc2 descendants of Pahath-Moab, from the families of Jeshua and Joab
-
-
-\tr \tc1
+\v 3 2,172 descendants of Parosh
+\v 4 372 descendants of Shephatiah
+\v 5 775 descendants of Arach
+\v 6 2,812 descendants of Pachat-Moab, from the families of Jeshua and Joab
 </usfm>
 
 
 ===== ULB: =====
 
 <usfm>
-\v 3 The children of Parosh, two thousand a hundred seventy and two.
-\v 4 The children of Shephatiah, three hundred seventy and two.
-\v 5 The children of Arah, seven hundred seventy and five.
-\v 6 The children of Pahath-moab, of the children of Jeshua and
-Joab, two thousand eight hundred and twelve.
+\v 3 The children of Parosh: 2,172.
+\v 4 The children of Shephatiah: 372.
+\v 5 The children of Arach: 775.
+\v 6 The children of Pachat-Moab, of the children of Jeshua of Joab: 2,812.
 </usfm>
 
 

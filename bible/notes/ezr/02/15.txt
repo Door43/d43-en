@@ -18,26 +18,20 @@
 ===== UDB: =====
 
 <usfm>
-\v 15 454 \tc2 descendants of Adin
-\tr \tc1
-\v 16 98 \tc2 descendants of Ater, whose other name was Hezekiah
-\tr \tc1
-\v 17 323 \tc2 descendants of Bezai
-\tr \tc1
-\v 18 112 \tc2 descendants of Jorah
-
-
-\tr \tc1
+\v 15 454 descendants of Adin
+\v 16 Nintey-eight descendants of Ater, who descended from Hezekiah
+\v 17 323 descendants of Bezai
+\v 18 One-hundred twelve descendants of Jorah
 </usfm>
 
 
 ===== ULB: =====
 
 <usfm>
-\v 15 The children of Adin, four hundred fifty and four.
-\v 16 The children of Ater, of Hezekiah, ninety and eight.
-\v 17 The children of Bezai, three hundred twenty and three.
-\v 18 The children of Jorah, a hundred and twelve.
+\v 15 The children of Adin: 454.
+\v 16 The children of Ater, of Hezekiah: ninety-eight.
+\v 17 The children of Bezai: 323.
+\v 18 The children of Jorah: one-hundred twelve.
 </usfm>
 
 

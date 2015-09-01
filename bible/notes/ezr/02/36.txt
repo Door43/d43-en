@@ -21,17 +21,13 @@
 
 <usfm>
 \v 36 Priests who returned:
-\tr \tc1 973 \tc2 descendants of Jedaiah (that is, those from the family of Jeshua)
-\tr \tc1
-\v 37 1,052 \tc2 descendants of Immer
-\tr \tc1
-\v 38 1,247 \tc2 descendants of Pashhur
-\tr \tc1
-\v 39 1,017 \tc2 descendants of Harim
-\p The ones from the tribe of Levi who returned were:
+973 descendants of Jedaiah (that is, those from the family of Jeshua)
+\v 37 1,052 descendants of Immer
+\v 38 1,247 descendants of Pashur
+\v 39 One-thousand seventeen descendants of Harim
 
 
-\tr \tc1
+\p
 </usfm>
 
 
@@ -39,10 +35,11 @@
 
 <usfm>
 \p
-\v 36 The priests: the children of Jedaiah, of the house of Jeshua, nine hundred seventy and three.
-\v 37 The children of Immer, a thousand fifty and two.
-\v 38 The children of Pashhur, a thousand two hundred forty and seven.
-\v 39 The children of Harim, a thousand and seventeen.
+\v 36 The priests: 
+The children of Jedaiah of the house of Jeshua: 973.
+\v 37 The children of Immer: 1052.
+\v 38 The children of Pashhur: 1,247.
+\v 39 The children of Harim: one thousand seventeen.
 </usfm>
 
 

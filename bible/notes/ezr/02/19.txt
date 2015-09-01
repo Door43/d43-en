@@ -20,28 +20,22 @@
 ===== UDB: =====
 
 <usfm>
-\v 19 223 \tc2 descendants of Hashum
-\tr \tc1
-\v 20 95 \tc2 descendants of Gibbar
-\b
+\v 19 223 descendants of Hashum
+\v 20 Ninty-five descendants of Gibbar
+
 \p People whose ancestors had lived in these towns in Judah:
-\tr \tc1
-\v 21 123 \tc2 from Bethlehem
-\tr \tc1
-\v 22 56 \tc2 from Netophah
-
-
-\tr \tc1
+\v 21 123 from Bethlehem
+\v 22 Fifty-six from Netophah
 </usfm>
 
 
 ===== ULB: =====
 
 <usfm>
-\v 19 The children of Hashum, two hundred twenty and three.
-\v 20 The children of Gibbar, ninety and five.
-\v 21 The children of Beth-lehem, a hundred twenty and three.
-\v 22 The men of Netophah, fifty and six.
+\v 19 The children of Hashum: 223.
+\v 20 The children of Gibbar: ninety-five.
+\v 21 The children of Bethlehem: 123.
+\v 22 The men of Netophah: fifty-six.
 </usfm>
 
 

@@ -18,26 +18,20 @@
 ===== UDB: =====
 
 <usfm>
-\v 7 1,254 \tc2 descendants of Elam
-\tr \tc1
-\v 8 945 \tc2 descendants of Zattu
-\tr \tc1
-\v 9 760 \tc2 descendants of Zaccai
-\tr \tc1
-\v 10 642 \tc2 descendants of Bani
-
-
-\tr \tc1
+\v 7 1,254 descendants of Elam
+\v 8 945 descendants of Zattu
+\v 9 760 descendants of Zaccai
+\v 10 642 descendants of Bani
 </usfm>
 
 
 ===== ULB: =====
 
 <usfm>
-\v 7 The children of Elam, a thousand two hundred fifty and four.
-\v 8 The children of Zattu, nine hundred forty and five.
-\v 9 The children of Zaccai, seven hundred and threescore.
-\v 10 The children of Bani, six hundred forty and two.
+\v 7 The children of Elam: 1,254.
+\v 8 The children of Zattu: 945.
+\v 9 The children of Zaccai: 760.
+\v 10 The children of Bani: 642.
 </usfm>
 
 

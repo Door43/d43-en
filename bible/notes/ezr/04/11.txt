@@ -20,16 +20,10 @@
 
 <usfm>
 \v 11 This is what they wrote in the letter:
-\b
-\mi To King Artaxerxes,
-\b
-\mi From the officials who serve you who live in the province west of the Euphrates River.
-\b
-\pi
-\v 12 "Your majesty, we want you to know that the Jews who came here from your territories are rebuilding this city, Jerusalem. These people are wicked and want to rebel against you. Now they are repairing the foundations of the walls and building the walls of the city.
-
-
-\pi
+To King Artaxerxes,
+From the officials who serve you who live in the province west of the Euphrates River.
+\v 12 "Your majesty, we want you to know that the Jews who came here from your territories are rebuilding this city, Jerusalem. These people are wicked and want to rebel against you. Now 
+they are repairing the foundations of the walls and building the walls of the city.
 </usfm>
 
 
@@ -37,8 +31,9 @@
 
 <usfm>
 \p
-\v 11 This is the copy of the letter that they sent to Artaxerxes the king: Your servants the men beyond the River, and so forth.
-\v 12 Be it known to the king, that the Jews that came up from you are come to us to Jerusalem; they are building the rebellious and the bad city, and have finished the walls, and repaired the foundations.
+\v 11 This is the copy of the letter that they send unto Artaxerxes the king: “Your servants, men across the river, even now:
+\v 12 Let the king know that the Jews who went away from near you have come against us in Jerusalem and in order to build a rebellious city, and they have completed the walls and 
+repaired the foundations.
 </usfm>
 
 

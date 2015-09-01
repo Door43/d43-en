@@ -20,16 +20,10 @@
 
 <usfm>
 \v 1 This is a list of the names of the leaders of the clans who came with me up to Jerusalem from Babylonia when Artaxerxes was the king of Persia:
-\b
-\li1
 \v 2 Gershom, from the clan descended from Aaron's grandson Phinehas
-\li1 Daniel, from the clan descended from Aaron's son Ithamar
-\li1 Hattush, the son of Shecaniah, from the clan descended from King David
-\li1
-\v 3 Zechariah and 150 other men from the clan descended from Parosh
-
-
-\li1
+Daniel, from the clan descended from Aaron's son Ithamar
+Hattush, from the clan descended from King David,
+\v 3 along with Schecaniah. And Zechariah and 150 other men from the clan descended from Parosh
 </usfm>
 
 
@@ -38,11 +32,12 @@
 <usfm>
 \c 8
 \p
-\v 1 Now these are the heads of their fathers’ houses, and this is the genealogy of them that went up with me from
-Babylon, in the reign of Artaxerxes the king:
-\v 2 Of the sons of Phinehas, Gershom. Of the sons of Ithamar, Daniel. Of the sons of David, Hattush.
-\v 3 Of the sons of Shecaniah, of the sons of Parosh, Zechariah; and with him were reckoned by genealogy of the males a hundred
-and fifty.
+\v 1 These are the chief patriarchs as they were registered who went up with me during the reign of Artaxerxes the king from Babylon.
+\v 2 From the descendants of Phinehas, Gershom.
+From the descendants of Ithamar: Daniel.
+From the descendants of David: Hattush.
+\v 3 From the descendants of Shecaniah—
+From the descendants of Parosh: Zechariah. And with him were registered 150 males.
 </usfm>
 
 

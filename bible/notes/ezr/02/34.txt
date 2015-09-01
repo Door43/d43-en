@@ -15,10 +15,8 @@
 ===== UDB: =====
 
 <usfm>
-\v 34 345 \tc2 from Jericho
-\tr \tc1
-\v 35 3,630 \tc2 from Senaah
-\b
+\v 34 345 from Jericho
+\v 35 3,630 from Senaah
 
 
 \p
@@ -28,8 +26,8 @@
 ===== ULB: =====
 
 <usfm>
-\v 34 The children of Jericho, three hundred forty and five.
-\v 35 The children of Senaah, three thousand and six hundred and thirty.
+\v 34 The children of Jericho: 345.
+\v 35 The children of Senaah: 3,630.
 </usfm>
 
 

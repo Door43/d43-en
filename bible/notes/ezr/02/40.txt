@@ -17,12 +17,10 @@
 ===== UDB: =====
 
 <usfm>
-\v 40 74 \tc2 descendants of Jeshua and Kadmiel, who were from the family of Hodaviah
-\tr \tc1
-\v 41 128 \tc2 singers who were descendants of Asaph
-\tr \tc1
-\v 42 139 \tc2 gatekeepers who were descendants of Shallum, Ater, Talmon, Akkub, Hatita, and Shobai
-\b
+\v 40 Those from the tribe of Levi who returned:
+Seventy-four descendants of Jeshua and Kadmiel, who were from the family of Hodaviah
+\v 41 128 singers who were descendants of Asaph
+\v 42 139 gatekeepers who were descendants of Shallum, Ater, Talmon, Akkub, Hatita, and Shobai
 
 
 \p
@@ -33,10 +31,13 @@
 
 <usfm>
 \p
-\v 40 The Levites: the children of Jeshua and Kadmiel, of the children of Hodaviah, seventy and four.
-\v 41 The singers: the children of Asaph, a hundred twenty and eight.
-\v 42 The children of the porters: the children of Shallum, the children of Ater, the children of Talmon, the children of
-Akkub, the children of Hatita, the children of Shobai, in all a hundred thirty and nine.
+\v 40 The Levites: 
+The children of Jeshua and Kadmiel of the children of Hodaviah: seventy-four.
+\v 41 The temple-singers: 
+The children of Asaph: 128.
+\v 42 The children of the gatekeepers:
+The children of Shallum, the children of Ater, the children of Talmon, the children of
+Akkub, the children of Hatita, the children of Shobai: a total of 139.
 </usfm>
 
 
