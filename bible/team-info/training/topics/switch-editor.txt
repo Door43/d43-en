@@ -10,7 +10,7 @@ We have found that both editors have some issues with different browsers. DW Edi
 
 ==== DW Edit ====
 
-DW Edit is a "plain text editor." – This is the most basic DokuWiki editor, and it provides full control over the syntax of the text. Go to the [[:en:ta:tech:door43:syntax|Formatting Text]] page for some simple editing formats to use in the text editor.
+DW Edit is a "plain text editor." – This is the most basic DokuWiki editor, and it provides full control over the syntax of the text. Go to the [[en:ta:workbench:tech:door43:syntax|Formatting Text]] page for some simple editing formats to use in the text editor.
 
 
 ==== CKG Edit ====
