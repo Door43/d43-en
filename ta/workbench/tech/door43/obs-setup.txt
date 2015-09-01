@@ -1,0 +1,10 @@
+===== How to Set up Open Bible Stories =====
+
+If you need Open Bible Stories added to a language in Door43, please go to [[:obs-setup|Open Bible Stories Setup]]. Follow the directions on the page.
+
+  * Pick a Source Language from a drop down menu.
+  * Pick a Target Language. Here is how:
+      - In the field box, start typing the name of the target language.
+      - Select language name from list.
+  * Click the 'Create OBS Now' button.
+  * A message that the stories have been created will appear in a few moments.
