@@ -1,6 +1,6 @@
 ===== Digital Publishing Engine =====
 
-The Digital Publishing Engine is a system of pushing checked translations to the [[http://unfoldingWord.org/stories|unfoldingWord website]] and [[en:ta:tech:uw|app]] and creating print-ready documents of the content. Only an unfoldingWord admin may use the digital publishing engine.
+The Digital Publishing Engine is a system of pushing checked translations to the [[http://unfoldingWord.org/stories|unfoldingWord website]] and [[uw|app]] and creating print-ready documents of the content. Only an unfoldingWord admin may use the digital publishing engine.
 
 Below are some resources to help you use the Digital Publishing Engine:
   * [[en:ta:tech:dpe:get-started|How to get started]]
