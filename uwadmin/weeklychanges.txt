@@ -115,6 +115,9 @@
 **[[:en:obs|en OBS]]**
 {{changes>ns=en:obs&maxage=604800&render=pagelist(header,date,user,nocomments)}}
 
+**[[:en-x-demo1:obs|en-x-demo1 OBS]]**
+{{changes>ns=en-x-demo1:obs&maxage=604800&render=pagelist(header,date,user,nocomments)}}
+
 **[[:es:obs|es OBS]]**
 {{changes>ns=es:obs&maxage=604800&render=pagelist(header,date,user,nocomments)}}
 
