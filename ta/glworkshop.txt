@@ -6,9 +6,9 @@ Welcome to the workshop
 
   * [[:en:get-started?do=register|Register as a New User]]
   * [[:en:obs-training:format-notes|Writing OBS Translation Notes]]
-  * [[en:ta:tech:door43:ckg|Using the CKG (Graphical) Editor]]
+  * [[en:ta:workbench:tech:door43:ckg|Using the CKG (Graphical) Editor]]
   * [[:en:switching_editors|Switching Editors]]
-  * [[en:ta:tech:door43:syntax|Formatting Content in the DW Editor]]
+  * [[en:ta:workbench:tech:door43:syntax|Formatting Content in the DW Editor]]
 
 ===== Language Links =====
 
