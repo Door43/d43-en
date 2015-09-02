@@ -22,7 +22,7 @@ Before you leave on Friday, please take this important [[https://www.surveymonke
 
   * [[:en:bible:team-info:processes:gettingstarted|Get Started]]
   * [[:en:get-started?do=register|Register as a New User]]
-  * [[en:ta:tech:door43:syntax|Formatting Content]]
+  * [[en:ta:workbench:tech:door43:syntax|Formatting Content]]
 
 ==== Working pages ====
 
@@ -45,7 +45,7 @@ Before you leave on Friday, please take this important [[https://www.surveymonke
   * [[:en:ta:ta-topics|Translation Academy Topics]]
   * [[:en:bible:team-info:training:topics:kt-yes-no|Is It a Key Term?]]
   * [[:en:obe:home]]
-  * [[:en:ta:figuresofspeech:home|Figures of Speech]]
+  * [[en:ta:workbench:figuresofspeech:home|Figures of Speech]]
   * [[:en:ulb:ep:40-mat.usfm|Matthew USFM File]]
   * [[:en:ulb:ep:42-luk.usfm|Luke USFM File]]
   * [[:en:bible:notes:luk:01:01|Luke 01:1-4]]
