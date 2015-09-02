@@ -1,0 +1,103 @@
+===== The Process to Get Started =====
+
+This module answers the question: What process should I follow to translate, check, publish, and distribute content?\\
+==== Getting Started ====
+
+   - **[[en:ta:vol1:process:process_manual|Introduction]]** - What is the Process Manual? https://pad.door43.org/p/ta-process_manual
+   - **[[en:ta:vol1:process:getting_started|Getting Started]]** - What do I need to have in place before getting started? https://pad.door43.org/p/ta-getting_started 
+   
+   
+      - **[[en:ta:vol1:process:finding_answers|Finding answers]]** - Where can I find answers to my questions? https://pad.door43.org/p/ta-finding_answers MOVE TO INTRO - VOL 1, LINK FROM HERE
+      - **[[en:ta:vol1:process:need_translated|What needs to be translated]]** - What should I translate? https://pad.door43.org/p/ta-need_translated REPEAT OF gl_strategy (intro - vol 1), LINK TO THERE
+      - **[[en:ta:vol1:process:translation_method|Translation Method]]** - Should I do a written or audio translation? https://pad.door43.org/p/ta-source_text NEEDS TO BE COVERED IN TRANSLATION MANUAL (a whole new section on audio translation??)
+      - **[[en:ta:vol1:process:final_format|Text, Audio, Video]]** - What is the desired final format for translated content? https://pad.door43.org/p/ta-final_format IRRELEVANT
+      - **[[en:ta:vol1:process:source_text|Choosing a Source Text]]** - What resources may I translate from? https://pad.door43.org/p/ta-source_text 
+      - **[[en:ta:vol1:process:hardware|Suggested hardware]]** - What recommentations are there for computers and tablets? https://pad.door43.org/p/ta-hardware
+
+
+==== Translation Platform ====
+
+   - **[[en:ta:vol1:process:platforms|Choosing a translation platforms]]** - Where should I translate? https://pad.door43.org/p/ta-platforms
+   - **[[en:ta:vol1:process:choose_platform|Setting up a translation platform]]** - How do I set up my chosen translation platform? https://pad.door43.org/p/ta-choose_platform
+      * [[en:ta:vol1:process:setup_door43|Setting up Door43]]  https://pad.door43.org/p/ta-setup_door43
+      * [[en:ta:vol1:process:setup_tsandroid|Setting up translationStudio - Android]] https://pad.door43.org/p/ta-setup_tsandroid
+      * [[en:ta:vol1:process:setup_tsdesktop|Setting up translationStudio - Desktop]]  https://pad.door43.org/p/ta-setup_tsdesktop
+      * [[en:ta:vol1:process:setup_word|Setting up for a word processor]]  https://pad.door43.org/p/ta-setup_word
+   - **[[en:ta:vol1:process:import_source_text|Importing source text]]** - How do I import a source text onto my chosen translation platform? https://pad.door43.org/p/ta-import_source_text
+      * [[en:ta:vol1:process:import_door43|Source text for Door43]]  https://pad.door43.org/p/ta-import_door43
+      * [[en:ta:vol1:process:import_tsandroid|Source text for translationStudio - Android]] https://pad.door43.org/p/ta-import_tsandroid
+      * [[en:ta:vol1:process:import_tsdesktop|Source text for translationStudio - Desktop]]  https://pad.door43.org/p/ta-import_tsdesktop
+      * [[en:ta:vol1:process:import_word|Source text for a word processor]]  https://pad.door43.org/p/ta-import_word
+   - **[[en:ta:vol1:process:before_translation|Documentation before translation begins]]** - What documents must be signed before I start translating? https://pad.door43.org/p/ta-before_translation
+      * [[en:ta:vol1:process:before_door43|Before starting on Door43]]  https://pad.door43.org/p/ta-before_door43
+      * [[en:ta:vol1:process:before_tsandroid|Before starting on translationStudio - Android]] https://pad.door43.org/p/ta-before_tsandroid
+      * [[en:ta:vol1:process:before_tsdesktop|Before starting on translationStudio - Desktop]]  https://pad.door43.org/p/ta-before_tsdesktop
+      * [[en:ta:vol1:process:before_word|Before starting on a word processor]]  https://pad.door43.org/p/ta-before_word
+   - **[[en:ta:vol1:process:using_translation_platform|Using the translation platform]]** - How do I use my translation platform? https://pad.door43.org/p/ta-using_translation
+      * [[en:ta:vol1:process:using_door43|Using on Door43]]  https://pad.door43.org/p/ta-using_door43
+      * [[en:ta:vol1:process:using_tsandroid|Using translationStudio - Android]] https://pad.door43.org/p/ta-using_tsandroid
+      * [[en:ta:vol1:process:using_tsdesktop|Using translationStudio - Desktop]]  https://pad.door43.org/p/ta-using_tsdesktop
+      * [[en:ta:vol1:process:using_word|Using a word processor]]  https://pad.door43.org/p/ta-using_word
+
+==== Translating ====
+
+   - **[[en:ta:vol1:process:pretranslation_training|Training before translation begins]]** - What should I know about translation before I start? https://pad.door43.org/p/ta-pretranslation_training
+   - **[[en:ta:vol1:process:translation_helps|Translation Helps]]** - How do I use translation helps? (Door43, tS-Android, tS-Desktop, word processor) https://pad.door43.org/p/ta-translation_helps
+   - **[[en:ta:vol1:process:written_translation|Written Translation]]** - How do I do a written translation? https://pad.door43.org/p/ta-written_translation
+      * [[en:ta:vol1:process:save_work|Saving my work]] - How do I save my work? (Door43, tS-Android, tS-Desktop, word processor) https://pad.door43.org/p/ta-save_work
+      * [[en:ta:vol1:process:share_work|Sharing my work]] - How do I share my work? (Door43, tS-Android, tS-Desktop, word processor) https://pad.door43.org/p/ta-share_work
+      * [[en:ta:vol1:process:upload_work|Uploading my work]] - How do I upload my work? (Door43, tS-Android, tS-Desktop, word processor) https://pad.door43.org/p/ta-upload_work
+   - **[[en:ta:vol1:process:audio_translation|Audio Translation]]** - How do I do an audio-only translation? https://pad.door43.org/p/ta-audio_translation
+   - **[[en:ta:vol1:process:after_translation|After translation]]** - I finished translating, now what? https://pad.door43.org/p/ta-after_translation
+
+==== Checking ====
+
+   - **[[en:ta:vol1:process:prechecking_training|Training before checking begins]]** - What training should be done before checking begins? https://pad.door43.org/p/ta-prechecking_training
+   - **[[en:ta:vol1:process:required_checking|Required checking levels]]** - What level must a resource be checked to? https://pad.door43.org/p/ta-required_checking
+   - **[[en:ta:vol1:process:process_level1|How to do a Level 1 Check]]** - How do I do a Level 1 Check?  https://pad.door43.org/p/ta-process_level1
+   - **[[en:ta:vol1:process:after_level1|After Level 1 Check]]** - I finished checking to Level 1, now what? https://pad.door43.org/p/ta-after_level1
+   - **[[en:ta:vol1:process:process_level2|How to do a Level 2 Check]]** - How do I do a Level 2 Check?  https://pad.door43.org/p/ta-process_level2
+   - **[[en:ta:vol1:process:after_level2|After Level 2 Check]]** - I finished checking to Level 2, now what?  https://pad.door43.org/p/ta-after_level2
+   - **[[en:ta:vol1:process:process_level3|How to do a Level 3 Check]]** - How do I do a Level 3 Check?  https://pad.door43.org/p/ta-process_level3
+   - **[[en:ta:vol1:process:after_level3|After a Level 3 Check]]** - I finished checking to Level 3, now what? https://pad.door43.org/p/ta-after_level3
+
+==== Publishing ====
+
+   - **[[en:ta:vol1:process:intro_publishing|Introduction to publishing]]** - What is publishing? https://pad.door43.org/p/ta-intro_publishing
+   - **[[en:ta:vol1:process:publishable_content|Publishable content]]** - What content can be published? https://pad.door43.org/p/ta-publishable_content
+   - **[[en:ta:vol1:process:publishing_prereqs|Publishing prerequisites]]** - What must be done before I start the publishing process? https://pad.door43.org/p/ta-publishing_prereqs
+   - **[[en:ta:vol1:process:start_publishing|Start publishing]]** - How do I start the publishing process? https://pad.door43.org/p/ta-start_publishing
+   - **[[en:ta:vol1:process:during_publishing|During publishing]]** - What happens after the publishing process is started? https://pad.door43.org/p/ta-during_publishing
+   - **[[en:ta:vol1:process:finish_publishing|Finish publishing]]** - How do I finish the publishing process? https://pad.door43.org/p/ta-finish_publishing
+
+==== Audio ====
+
+   - **[[en:ta:vol1:process:audio_hardware|Hardware recommendations]]** - What hardware is recommended? https://pad.door43.org/p/ta-audio_hardware
+   - **[[en:ta:vol1:process:audio_software|Software recommendations]]** - What software is recommended? https://pad.door43.org/p/ta-audio_software
+   - **[[en:ta:vol1:process:recording_device_setup|Recording device setup]]** - How to I set up my recording device? https://pad.door43.org/p/ta-recording_device_setup
+   - **[[en:ta:vol1:process:recording_location|Recording location setup]]** - How can I set up a good recording location? https://pad.door43.org/p/ta-recording_location
+   - **[[en:ta:vol1:process:recording_tips|Recording tips]]** - How can I make an excellent recording? https://pad.door43.org/p/ta-recording_tips
+   - **[[en:ta:vol1:process:after_recording|After recording]]** - I finished recording, now what? https://pad.door43.org/p/ta-after_recording
+   - **[[en:ta:vol1:process:recorded_content|Recorded content location]]** - Where do I find recorded, uploaded content? https://pad.door43.org/p/ta-recorded_content
+
+==== Video ====
+
+   - **[[en:ta:vol1:process:video_content|Video content]]** - What content can be made into video? https://pad.door43.org/p/ta-video_content
+   - **[[en:ta:vol1:process:video_prereqs|Video creation prerequisits]]** - What must be done before videos can be made? https://pad.door43.org/p/ta-video_prereqs
+   - **[[en:ta:vol1:process:video_request|Video creation request]]** - How do I request videos be made? https://pad.door43.org/p/ta-video_request
+   - **[[en:ta:vol1:process:video_content|Video content location]]** - Where do I find finished videos? https://pad.door43.org/p/ta-video_content
+
+==== Distributing ====
+
+   - **[[en:ta:vol1:process:distribute_unpublished|Sharing unpublished content]]** - How do I share unpublished content? https://pad.door43.org/p/ta-distribute_unpublished
+   - **[[en:ta:vol1:process:published_content|Find published content]]** - Where do I find published content? https://pad.door43.org/p/ta-published_content
+   - **[[en:ta:vol1:process:published_formats|Formats of published content]]** - What published formats are available? https://pad.door43.org/p/ta-published_formats
+   - **[[en:ta:vol1:process:access_online_content|Accessing online content]]** - How do I access online content? https://pad.door43.org/p/ta-access_online_content
+   - **[[en:ta:vol1:process:share_offline|Sharing offline]]** - How can I share content offline? https://pad.door43.org/p/ta-share_offline
+      * [[en:ta:vol1:process:share_uw_app|Sharing content with the unfoldingWord app]] - How can I share content with the unfoldingWord app? https://pad.door43.org/p/ta-share_uw_app
+      * [[en:ta:vol1:process:share_files|Sharing files]] - How can I share content files? https://pad.door43.org/p/ta-share_files
+      * [[en:ta:vol1:process:pod|Print-on-demand]] - How can I get paper copies of this content? https://pad.door43.org/p/ta-pod
+   - **[[en:ta:vol1:process:sharing_permissions|Sharing permissions]]** - What restrictions are there to sharing content? https://pad.door43.org/p/ta-sharing_permissions
+
+
+
