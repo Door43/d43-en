@@ -45,6 +45,11 @@ edge [arrowsize=1.4];
 "level2" -> "language_community_check"
 "level1" [fillcolor="#9999ff"]
 "intro_levels" -> "level1"
+"level1_affirm" [fillcolor="#9999ff"]
+"statement_of_faith" -> "level1_affirm"
+"translation_guidelines" -> "level1_affirm"
+"level1" -> "level1_affirm"
+"accuracy_check" -> "level1_affirm"
 "level2" [fillcolor="#9999ff"]
 "intro_levels" -> "level2"
 "accuracy_check" -> "level2"
