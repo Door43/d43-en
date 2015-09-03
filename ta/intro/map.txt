@@ -6,7 +6,7 @@ Before you start translating, be sure you agree with the [[en:ta:intro:statement
 
 Next you need to decide what [[en:ta:intro:projects|Project]] you want to translate. We strongly recommend that you start translating [[en:ta:intro:obs-project|Open Bible Stories]]. It has been designed for simple translation and will give great experience in translating before attempting a larger, more difficult project like [[en:ta:intro:bible-project|the Bible]].
 
-You will also need to decide where you will do the translation. It is recommended that translation and checking be done [[en:ta:tech:door43|online at Door43]] or [[en:ta:tech:ts|offline on translationStudio]]. If neither of these options is possible, using a word processor may work though not recommended - please contact an unfoldingWord representative before you attempt this method.
+You will also need to decide where you will do the translation. It is recommended that translation and checking be done [[en:ta:workbench:tech:door43|online at Door43]] or [[en:ta:workbench:tech:ts|offline on translationStudio]]. If neither of these options is possible, using a word processor may work though not recommended - please contact an unfoldingWord representative before you attempt this method.
 
 The Door43 community uses Slack to communicate. When you [[:en:slack|join our slack channels]] you can learn about the benefits and challenges of this application and share your ideas with the developers as well as other translators. Slack works well in a Browser or you may download a native client for it as well.
 
@@ -16,13 +16,13 @@ Be sure you consult the [[en:ta:translate:home|Translation Manual]] as you do yo
 
 ===== Checking =====
 
-After you finish translating, you will want to check your work. We recommend using the [[en:ta:check|Checking Manual]]. Before we publish anything to the unfoldingWord website or mobile app it must be checked to [[en:ta:check:level1|Level 1]] and for Bible passages it must be checked to [[en:ta:check:level2|Level 2]]. To serve as a source text for another language, a resource has to be checked to [[en:ta:check:level3|Level 3]].
+After you finish translating, you will want to check your work. We recommend using the [[en:ta:check|Checking Manual]]. Before we publish anything to the unfoldingWord website or mobile app it must be checked to [[en:ta:workbench:check:level1|Level 1]] and for Bible passages it must be checked to [[en:ta:workbench:check:level2|Level 2]]. To serve as a source text for another language, a resource has to be checked to [[en:ta:workbench:check:level3|Level 3]].
 
 ===== After Completing =====
 
 After you have completed any step in the process you are encouraged to put your work online so that others can benefit from your work and help in the checking process. 
 
-We also encourage resources to be recorded as [[en:ta:tech:audio|audio]] files and some resources can even be converted into [[en:ta:tech:video|video]]. 
+We also encourage resources to be recorded as [[en:ta:workbench:tech:audio|audio]] files and some resources can even be converted into [[en:ta:workbench:tech:video|video]]. 
 
 If you have completed one project, you may want to start translating another [[en:ta:intro:projects|project]]. 
 
