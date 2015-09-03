@@ -13,29 +13,25 @@
 
 == Matthew ==
 
-{{pagequery>@:en:bible:notes:mat \{\{tag>[^}]*mgrmat[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;showcount;fontsize=90%}}
+{{pagequery>@:en:bible:notes:mat \{\{tag>[^}]*mgr[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;showcount;fontsize=90%}}
 
 == Mark ==
 
-{{pagequery>@:en:bible:notes:mrk \{\{tag>[^}]*mgrmrk[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;showcount;fontsize=90%}}
-
-== Acts ==
-
-{{pagequery>@:en:bible:notes:act \{\{tag>[^}]*mgract[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;showcount;fontsize=90%}}
+{{pagequery>@:en:bible:notes:mrk \{\{tag>[^}]*mgr[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;showcount;fontsize=90%}}
 
 == Ephesians ==
 
-{{pagequery>@:en:bible:notes:eph \{\{tag>[^}]*mgreph[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;showcount;fontsize=90%}}
+{{pagequery>@:en:bible:notes:eph \{\{tag>[^}]*mgr[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;showcount;fontsize=90%}}
 
-== 1,2 Thessalonians ==
+== 1 Peter ==
 
-{{pagequery>@:en:bible:notes:1th \{\{tag>[^}]*mgr1th[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hide jump;showcount;fontsize=90%}}{{pagequery>@:en:bible:notes:2th \{\{tag>[^}]*mgr2th[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;showcount;fontsize=90%}}
+{{pagequery>@:en:bible:notes:1pe \{\{tag>[^}]*mgr[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hide jump;showcount;fontsize=90%}}
 
 ==== Carolyn L's books: ====
 
 == Job ==
 
-{{pagequery>@:en:bible:notes:job \{\{tag>[^}]*mgrgen[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;showcount;fontsize=90%}}
+{{pagequery>@:en:bible:notes:job \{\{tag>[^}]*mgr[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;showcount;fontsize=90%}}
 
 ==== David F's Books: ====
 
@@ -51,37 +47,35 @@
 
 {{pagequery>@:en:bible:notes:amo \{\{tag>[^}]*mgr[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;showcount;fontsize=90%}}
 
-== Nahum ==
-
-{{pagequery>@:en:bible:notes:nam \{\{tag>[^}]*mgr[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;showcount;fontsize=90%}}
-
-== Habakkuk ==
-
-{{pagequery>@:en:bible:notes:hab \{\{tag>[^}]*mgr[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;showcount;fontsize=90%}}
-
 == Zechariah==
 
 {{pagequery>@:en:bible:notes:zec \{\{tag>[^}]*mgr[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;showcount;fontsize=90%}}
 
+== 2 Corinthians ==
+
+{{pagequery>@:en:bible:notes:2co \{\{tag>[^}]*mgr[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;showcount;fontsize=90%}}
+
+== 1 Samuel ==
+
+{{pagequery>@:en:bible:notes:1sa \{\{tag>[^}]*mgr[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;showcount;fontsize=90%}}
+
+
 ==== John H's books: ====
-
-== Genesis ==
-
-{{pagequery>@:en:bible:notes:gen \{\{tag>[^}]*mgrgen[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;showcount;fontsize=90%}}
 
 == Isaiah ==
 
-{{pagequery>@:en:bible:notes:isa \{\{tag>[^}]*mgrisa[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;showcount;fontsize=90%}}
+{{pagequery>@:en:bible:notes:isa \{\{tag>[^}]*mgr[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;showcount;fontsize=90%}}
+
+== Exodus ==
+
+{{pagequery>@:en:bible:notes:exo \{\{tag>[^}]*mgr[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;showcount;fontsize=90%}}
+
 
 ==== John L's books: ====
 
-== John ==
-
-{{pagequery>@:en:bible:notes:jhn \{\{tag>[^}]*mgrgen[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;showcount;fontsize=90%}}
-
 == Hebrews ==
 
-{{pagequery>@:en:bible:notes:heb \{\{tag>[^}]*mgrgen[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;showcount;fontsize=90%}}
+{{pagequery>@:en:bible:notes:heb \{\{tag>[^}]*mgr[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;showcount;fontsize=90%}}
 
 
 ==== Joe W's books: ====
@@ -90,9 +84,6 @@
 
 {{pagequery>@:en:bible:notes:1co \{\{tag>[^}]*mgr[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;showcount;fontsize=90%}}
 
-== Jude ==
-
-{{pagequery>@:en:bible:notes:jud \{\{tag>[^}]*mgrjud[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;showcount;fontsize=90%}}
 
 ==== Paul H's books: ====
 
@@ -112,11 +103,11 @@
 
 == Joshua ==
 
-{{pagequery>@:en:bible:notes:jos \{\{tag>[^}]*mgrgen[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;showcount;fontsize=90%}}
+{{pagequery>@:en:bible:notes:jos \{\{tag>[^}]*mgr[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;showcount;fontsize=90%}}
 
 == Ezra ==
 
-{{pagequery>@:en:bible:notes:ezr \{\{tag>[^}]*mgrgen[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;showcount;fontsize=90%}}
+{{pagequery>@:en:bible:notes:ezr \{\{tag>[^}]*mgr[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;showcount;fontsize=90%}}
 
 
 ==== Vivian R's books: ====
@@ -124,3 +115,4 @@
 == 2 Peter ==
 
 {{pagequery>@:en:bible:notes:2pe \{\{tag>[^}]*mgr[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;showcount;fontsize=90%}}
+
