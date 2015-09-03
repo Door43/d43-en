@@ -14,21 +14,19 @@
 ===== UDB: =====
 
 <usfm>
+\p
 \v 13 I, Yahweh the Lord, am telling you mountains this: It is true that people have said they could not grow many crops on you, and so they died from hunger.
 \v 14 But that will no longer happen.
-\v 15 No longer will the other people-groups ridicule you mountains. No longer will they laugh at you; no longer will their armies conquer you. I, the Lord Yahweh, am telling you this myself.'"
-
-
-\p
+\v 15 No longer will the other people-groups ridicule you mountains. No longer will they laugh at you; no longer will you mountains make your nation suffer defeat. I, the Lord Yahweh, am telling you this myself.'"
 </usfm>
 
 
 ===== ULB: =====
 
 <usfm>
-\v 13 The Lord Yahweh says this: Because they are saying to you, “You devour men, and your nation has become bereaved of children,”
-\v 14 therefore you will not consume people any longer, and you will no longer bereave your nation. This is the Lord Yahweh’s declaration.
-\v 15 Nor will I allow you to hear the insults of the nations any longer; you will no longer have to bear the shame of the peoples or cause your nation to stagger and fall.' This is the Lord Yahweh’s declaration.”
+\v 13 The Lord Yahweh says this: Because they are saying to you, “You devour people, and your nation's children have died,”
+\v 14 therefore you will not consume people any longer, and you will no longer make your nation mourn their deaths. This is the Lord Yahweh’s declaration.
+\v 15 Nor will I allow you to hear the insults of the nations any longer; you will no longer have to bear the shame of the peoples or cause your nation to fall.' This is the Lord Yahweh’s declaration.”
 </usfm>
 
 
@@ -45,18 +43,19 @@
 This continues Yahweh's message to the mountains of Israel.
 
   * **they are saying to you** - "other nations are saying to you mountains"
-  * **You devour men** - "You cause many people to die"
-  * **your nation has become bereaved of children** - "and you cause your people to have no children" or "you cause your nation's children to die." It is implied that the mountains do this by not growing good crops. This can be made explicit as in the UDB. See ([[:en:ta:vol1:translate:figs_explicit]])
+  * **You devour people** - "You cause many people to die"
+  * **your nation's children have died** - "you cause your people's children to die." It is implied that the mountains do this by not growing good crops. This can be made explicit as in the UDB. See ([[:en:ta:vol1:translate:figs_explicit]])
   * **This is the Lord Yahweh's declaration** - See how you translated this in [[:en:bible:notes:ezk:05:11|5:11]].
   * **Nor will I allow you to hear the insults of the nations any longer** - AT: "I will no longer allow the other nations to insult you."
   * **you will no longer have to bear the shame of the peoples** - "the peoples will no longer cause you to feel ashamed"
-  * **or cause your nation to stagger and fall** - "and you will not make your people stumble anymore"
-  * **stagger** - the way people walk when they are so tired that they are about to fall
+  * **or cause your nation to fall** - "and you mountains make your nation suffer defeat" (UDB)
+
+
 ===== Links: =====
 
   * **[[en:bible:questions:comprehension:ezk:36|Ezekiel Chapter 36 Comprehension Questions]]**
 **[[:en:bible:notes:ezk:36:10|<<]] | [[:en:bible:notes:ezk:36:16|>>]]**
 
-~~DISCUSSION~~{{tag>text}}
+~~DISCUSSION~~{{tag>publish}}
 
 ~~NOCACHE~~
