@@ -11,7 +11,7 @@ As part of the translation process, it is necessary that several people check th
 
 ==== Definition of a Checking Level ====
 
-There are three checking levels: [[:en:ta:check:level1|Checking Level One]], [[:en:ta:check:level2|Checking Level Two]], and [[:en:ta:check:level3|Checking Level Three]]. Any translation that has not yet been checked to Level One is considered to have not been checked and is assigned no checking status.
+There are three checking levels: [[en:ta:workbench:check:level1|Checking Level One]], [[en:ta:workbench:check:level2|Checking Level Two]], and [[en:ta:workbench:check:level3|Checking Level Three]]. Any translation that has not yet been checked to Level One is considered to have not been checked and is assigned no checking status.
 
 The purpose of having several Checking Levels is to make translated materials quickly available to the church, while also allowing the content to continue to be checked and corroborated in an open environment. At all times, the degree to which its accuracy has been checked will be clearly indicated. We believe this will result in a faster checking process, allow broad church participation and ownership, and produce better translations.
 
@@ -30,17 +30,17 @@ The strategy for quality assurance of unfoldingWord content, including Open Bibl
 
 The three-level checking scale we use is dependent on the unfoldingWord [[:en:statement-of-faith|Statement of Faith]] and [[:en:translation-guidelines|Translation Guidelines]]. All translated content is compared against the theology of the Statement of Faith and against the procedures and methodologies of the Translation Guidelines. With these documents forming the foundation, these are the three levels of checking used in the unfoldingWord project:
 
-[[:en:ta:check:level1|Checking Level One - Internal Check]]
+[[en:ta:workbench:check:level1|Checking Level One - Internal Check]]
 
-[[:en:ta:check:level2|Checking Level Two - External Check]]
+[[en:ta:workbench:check:level2|Checking Level Two - External Check]]
 
-[[:en:ta:check:level3|Checking Level Three - Authenticated Check]]
+[[en:ta:workbench:check:level3|Checking Level Three - Authenticated Check]]
 
 ==== Checking the Checkers ====
 
 The process and checking framework described in this document depends on an ongoing process of checking and revising content, as determined by the Church that uses the content. Feedback loops are encouraged (and modeled in translation software, where feasible) with a view to maximizing input from the greatest number of users of the content. The translations of the content are made available on the [[http://door43.org|Door43]] translation platform, which is designed to make it easy for users to collaboratively create content that increases in quality over time.
 
-[[:en:ta:check:toc|Translation Checking Manual Full Table of Contents]]
+[[en:ta:workbench:check:toc|Translation Checking Manual Full Table of Contents]]
 
 //Continue to [[:en:ta:before:update|How to Update a Previous Version]]//
 ----
