@@ -2,50 +2,27 @@
 
 ===== TFT: =====
 
-<usfm>
-\v 1 Yahweh gave me \add another\add* message. He said,
-\v 2 "This is what I, the Almighty Commander of the armies of angels, say: I love \add the people of\add* Jerusalem; I love them very much, and I am very angry with their enemies.
-\p
-\v 3 So this is what I say: \add Some day\add* I will return to Zion \add hill\add* and I will live there. At that time, Jerusalem will be called the city \add where people\add* are faithful to\f + \ft Or: faithfully obey \f* me, and people will say that \add Zion hill\add* is holy because it is where the Almighty Commander of the armies of angels dwells."
-\p
-</usfm>
+<usfm> \v 1 Yahweh gave me \add another\add* message. He said, \v 2 "This is what I, the Almighty Commander of the armies of angels, say: I love \add the people of\add* Jerusalem; I love them very much, and I am very angry with their enemies. \p \v 3 So this is what I say: \add Some day\add* I will return to Zion \add hill\add* and I will live there. At that time, Jerusalem will be called the city \add where people\add* are faithful to\f + \ft Or: faithfully obey \f* me, and people will say that \add Zion hill\add* is holy because it is where the Almighty Commander of the armies of angels dwells." \p </usfm>
 
 ===== UDB: =====
 
-<usfm>
-\v 1 Yahweh gave me another message. He said,
-\v 2 "This is what I, Yahweh the Commander of the angel armies, say: I love the people of Jerusalem; I love them very much, and I am very angry with their enemies.
-\p
-\v 3 So this is what I say: Some day I will return to Mount Zion and I will live there. At that time, Jerusalem will be called the city where people are faithful to me, and people will say that Mount Zion is holy because it is where the Yahweh, the Commander of the angel armies, dwells."
+<usfm> \v 1 Yahweh gave me another message. He said, \v 2 "This is what I, Yahweh the Commander of the angel armies, say: I love the people of Jerusalem; I love them very much, and I am very angry with their enemies. \p \v 3 So this is what I say: Some day I will return to Mount Zion and I will live there. At that time, Jerusalem will be called the city where people are faithful to me, and people will say that Mount Zion is holy because it is where the Yahweh, the Commander of the angel armies, dwells."
 
-
-\p
-</usfm>
+\p </usfm>
 
 ===== ULB: =====
 
-<usfm>
-\c 8
-\p
-\v 1 The word of Yahweh of hosts came to me and said,
-\v 2 "Yahweh of hosts says this:
-\q 'I am passionate towards Zion with great zeal, and I am passionate towards her with great fury!'
-\q
-\v 3 Yahweh of hosts says this: 
-\q 'I have returned to Zion and will live in the midst of Jerusalem, 
-\q for Jerusalem will be called the 
-City of Truth and the Mountain of Yahweh of Hosts, the holy mountain!'"
-</usfm>
+<usfm> \c 8 \p \v 1 The word of Yahweh of hosts came to me and said, \v 2 "Yahweh of hosts says this: \q 'I am passionate towards Zion with great zeal, and I am passionate towards her with great fury!' \q \v 3 Yahweh of hosts says this: \q 'I have returned to Zion and will live in the midst of Jerusalem, \q for Jerusalem will be called the City of Truth and the Mountain of Yahweh of Hosts, the holy mountain!'" </usfm>
 
 ===== Important Terms: =====
 
-  * word of [[:en:obe:kt:yahwehofhosts]]
-  * [[:en:obe:other:zion]]
+  * word of [[:en:obe:kt:yahwehofhosts|Yahweh of Hosts, God of Hosts]]
+  * [[:en:obe:other:zion|Zion, Mount Zion]]
   * zeal
-  * [[:en:obe:other:jerusalem]]
+  * [[:en:obe:other:jerusalem|Jerusalem]]
   * call(ed)
-  * [[:en:obe:kt:true]]
-  * [[:en:obe:kt:holy]]
+  * [[:en:obe:kt:true|true, truth]]
+  * [[:en:obe:kt:holy|holy, holiness]]
 
 ===== Translation Notes: =====
 
@@ -62,6 +39,6 @@ City of Truth and the Mountain of Yahweh of Hosts, the holy mountain!'"
   * **[[:en:bible:questions:comprehension:zec:08|Zechariah Chapter 08 Comprehension Questions]]**
 **[[:en:bible:notes:zec:07:13|<<]] | [[:en:bible:notes:zec:08:04|>>]]**
 
-~~DISCUSSION~~{{tag>check}}
+~~DISCUSSION~~{{tag>draft}}
 
 ~~NOCACHE~~
