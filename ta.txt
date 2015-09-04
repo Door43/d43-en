@@ -2,11 +2,15 @@
 
 The “translationAcademy” is intended to enable anyone, anywhere to learn the basics of how to translate the Bible into their own language, or help someone who wants to do so. It is intended to be highly flexible, can be in-advance or just-in-time (or both, as needed), modular, and highly visual, in web and offline mobile video formats.
 
-If you are new to the project, we strongly encourage you to work through the **[[:en:ta:intro:handbook|translationAcademy Handbook]]** which will give you a good [[:en:ta:intro|Introduction]] to the project as well as an overview of the three manuals contained in translationAcademy:
+===== Overview of translationAcademy =====
 
-  * **[[:en:ta:translate:home|Translation Manual]]**- explains how to translate
-  * **[[:en:ta:check|Checker's Manual]]**- explains how to check a translation
-  * **[[:en:ta:tech|Technology Manual]]**- explains how to use the different technology tools
+translationAcademy has been created with four manuals to help answer questions pertaining to translation, checking, publishing, and technical problems.
+
+  * [[:en:ta:vol1:translate:toc_transvol1|Translation Manual]] - Teaches translation theory and answers many practical translation questions.
+  * [[:en:ta:vol1:checking:toc_checkvol1|Checking Manual]] - Teaches checking theory and answers many practical checking questions.
+  * [[:en:ta:vol1:tech:toc_techvol1|Technology Manual]] - Contains tutorials on how to use the various technology tools that we have created.
+  * [[:en:ta:vol1:process:process_manual|Process Manual]] - Provides a step-by-step guide through the setup, translation, checking, publishing, and distribution phases.
+
 
 ==== translationAcademy Workbench ====
 
@@ -18,7 +22,3 @@ Ready to begin?
   * Go to the [[:en:ta:workbench:how-to-use|How to Add My Information]] page to learn how to add your information.
 
 If you are new to translationAcademy, you may also want to take a look at the Translation Manual to learn the basics of translation, checking, and beyond! (See below.)
-
-=====   =====
-
-{{page>en:ta:intro:handbook}}
