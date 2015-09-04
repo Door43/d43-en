@@ -1,21 +1,31 @@
 ===== Open Bible Stories - Help =====
 
-If you need help with Open Bible Stories you can
+If you need help with Open Bible Stories you can:
 
-  * Read the [[#the-translationacademy-handbook|translationAcademy Handbook]] below
-  * [[#get-connected|Get connected]] to the Door43 community below
+  * Search [[#translationAcademy|translationAcademy]] for the answer
+  * [[#get-connected|Get connected]] to the Door43 community
+  * [[#email|Email]] the Helpdesk
 
-===== The translationAcademy Handbook =====
+===== translationAcademy =====
 
-{{page>en:ta:intro:handbook}}
+[[en:ta|translationAcademy]] has been created with four manuals to help answer questions pertaining to translation, checking, publishing, and technical problems.
+
+  * [[:en:ta:vol1:translate:toc_transvol1|Translation Manual]] - Teaches translation theory and answers many practical translation questions.
+  * [[:en:ta:vol1:checking:toc_checkvol1|Checking Manual]] - Teaches checking theory and answers many practical checking questions.
+  * [[:en:ta:vol1:tech:toc_techvol1|Technology Manual]] - Contains tutorials on how to use the various technology tools that we have created.
+  * [[:en:ta:vol1:process:process_manual|Process Manual]] - Provides a step-by-step guide through the setup, translation, checking, publishing, and distribution phases.
+
 
 ===== Get Connected =====
 
 The Door43 community uses Slack to communicate. When you [[:en:slack|join our slack channels]] you can learn about the benefits and challenges of this application and share your ideas with the developers as well as other translators. Slack works well in a Browser or you may download a native client for it as well.
+
+===== Email =====
+
+You may also email your questions to help@door43.org.
 
 ===== Downloads =====
 
 You can also download the zip files of the images in [[https://api.unfoldingword.org/obs/jpg/1/en/obs-images-360px.zip|standard definition ]]or [[https://api.unfoldingword.org/obs/jpg/1/en/obs-images-2160px.zip|high definition]].
 
 If you would like to download the text, images, or video clips, click [[:en:obs:resources|here]].
-
