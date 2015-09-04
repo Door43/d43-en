@@ -24,7 +24,6 @@
 ===== UDB: =====
 
 <usfm>
-\p
 \v 12 But Yahweh says,
 \q1 "In spite of these disasters that you have experienced,
 \q2 you can return to me with all your inner being.
@@ -40,6 +39,9 @@
 \q1 He does not quickly become angry;
 \q2 instead, he greatly and faithfully loves you,
 \q2 and he does not like to punish us.
+
+
+\q1
 </usfm>
 
 ===== ULB: =====
