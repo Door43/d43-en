@@ -14,15 +14,15 @@ Go to the [[en:get-started?do=register|Register as a New User]] page and sign up
 
 The Door43 community uses Slack to communicate. When you [[:en:slack|join our slack channels]] you can learn about the benefits and challenges of this application and share your ideas with the developers as well as other translators. Slack works well in a Browser or you may download a native client for it as well.
 
-==== Set up Open Bible Stories ====
+===== Set up Open Bible Stories =====
 
 Navigate to your language. If you don't know your IETF language tag, you may search for your language on [[:]] page. If Open Bible Stories does not appear on your language, then [[:obs-setup|set up Open Bible Stories]] for your language and begin translating.
 
-==== Learn How to Translate, Check, Publish, and Use Our Tools ====
+===== Learn How to Translate, Check, Publish, and Use Our Tools =====
 
 To learn how to translate, check, publish, and use our tools, check out [[en:ta|translationAcademy]]. 
 
-==== Further questions ====
+===== Further questions =====
 
 If you have questions, you can post them on the Helpdesk channel in Slack (see above) or email help@door43.org.
 
