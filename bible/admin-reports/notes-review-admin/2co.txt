@@ -1,0 +1,15 @@
+====== Notes: 2 Corinthians Review Admin ======
+
+Team Lead - \\
+Manager - David F\\
+Reviewer - \\
+
+~~NOCACHE~~
+
+  * [[:en:bible:admin-reports:check-tags]]
+
+
+==== 1 Corinthians Pages Status ====
+
+^  Review  ^  Text  ^  Discuss  ^  Publish  ^
+|{{pagequery>@en:bible:notes:2co \{\{tag>[^}]*review[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; showcount; layout=table;hidemsg;hidejump;fontsize=80%}}  |{{pagequery>@en:bible:notes:2co \{\{tag>[^}]*text[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; showcount; layout=table;hidemsg;hidejump;fontsize=80%}}  |{{pagequery>@en:bible:notes:2co \{\{tag>[^}]*discuss[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; showcount; layout=table;hidemsg;hidejump;fontsize=80%}}  |{{pagequery>@en:bible:notes:2co \{\{tag>[^}]*publish[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; showcount; layout=table;hidemsg;hidejump;fontsize=80%}}  |
