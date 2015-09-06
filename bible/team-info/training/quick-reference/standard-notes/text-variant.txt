@@ -8,7 +8,7 @@ This describes how to write a note to call the translator's attention to a footn
 
 When the ULB or UDB contains a footnote that explains what portions of the text are omitted, the following Transation Note should state the following:
 
-  * **verse [number]**  - This verse was omitted because some of the older, more reliable, ancient texts did not include the verse. (See: [[:en:ta:translate:originalmanuscripts|Original Manuscripts]])
+  * **verse [number]**  - This verse was omitted because some of the older, more reliable, ancient texts did not include the verse. (See: [[:en:ta:vol1:translate:translate_textvariants]])
 Other cases as they become known will need to be added
 
   * **verse [number]** - Some early texts have these verses and others do not.
