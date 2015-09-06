@@ -11,6 +11,10 @@
 
 ==== Catherine N's books: ====
 
+== Proverbs ==
+
+{{pagequery>@:en:bible:notes:pro \{\{tag>[^}]*mgr[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hide jump;showcount;fontsize=90%}}
+
 == Matthew ==
 
 {{pagequery>@:en:bible:notes:mat \{\{tag>[^}]*mgr[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;showcount;fontsize=90%}}
