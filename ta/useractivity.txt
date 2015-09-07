@@ -1,5 +1,8 @@
 ====== user activity ======
-SherieMatthew
+
+{{changes>ns=en:obe&count=50&maxage=604800&render=pagelist(header,date,user,nocomments)}}
+
+Matthew
 {{changes>user=mslgtwam&count=50&render=pagelist(header,date,user,nocomments)&maxage=25920000}} \\
 
 Changes this week
