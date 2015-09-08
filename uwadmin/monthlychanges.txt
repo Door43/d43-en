@@ -355,6 +355,8 @@
 {{changes>ns=wo:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:xmf:obs|xmf OBS]]**
 {{changes>ns=xmf:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
+**[[:xuj:obs|xuj OBS]]**
+{{changes>ns=xuj:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:yal:obs|yal OBS]]**
 {{changes>ns=yal:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:yam:obs|yam OBS]]**
