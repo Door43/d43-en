@@ -13,7 +13,7 @@ The following information should be included in the notes:
 
   - **Text** - the text that includes the ellipsis from the ULB in bold
   - Clarifying translation - (optional)
-  - **Explanation** - the information that has been left out
+  - Explanation - the information that has been left out (optional)
   - **Alternate translation** - if not clear in the UDB
   - **TA link** - unless already in the notes for the chunk
 
