@@ -109,6 +109,8 @@
 {{changes>ns=gaj-x-ymnk:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:gaz:obs|gaz OBS]]**
 {{changes>ns=gaz:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
+**[[:gbj:obs|gbj OBS]]**
+{{changes>ns=gbj:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:gof:obs|gof OBS]]**
 {{changes>ns=gof:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:gu:obs|gu OBS]]**
