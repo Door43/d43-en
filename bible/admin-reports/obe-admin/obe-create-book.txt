@@ -11,26 +11,17 @@
 The following Key Terms are tagged as "create" and are on hold.\\
 They are available to assign to the Key Terms teams to edit.
 
+==== Exodus ====
 
-==== Nahum ====
+{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*exo)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
 
-{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*nam)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
+==== Hebrews ====
 
-==== Habakkuk ====
-
-{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*hab)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
-
-==== Genesis ====
-
-{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*gen)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
+{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*heb)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
 
 ==== Ezekiel ====
 
 {{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*ezk)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
-
-==== John ====
-
-{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*jhn)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
 
 ==== Matthew ====
 
@@ -44,10 +35,6 @@ They are available to assign to the Key Terms teams to edit.
 
 {{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*eph)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
 
-==== 1 Thessalonians ====
-
-{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*1th)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
-
 ==== Mark ====
 
 {{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*mrk)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
@@ -55,10 +42,6 @@ They are available to assign to the Key Terms teams to edit.
 ==== 1 Peter ====
 
 {{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*1pe)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
-
-==== 2 Peter ====
-
-{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*2pe)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
 
 ==== 1 Corinthians ====
 
@@ -95,14 +78,6 @@ They are available to assign to the Key Terms teams to edit.
 ==== Lamentations ====
 
 {{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*lam)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
-
-==== Exodus ====
-
-{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*exo)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
-
-==== Hebrews ====
-
-{{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*heb)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
 
 ==== Amos ====
 
