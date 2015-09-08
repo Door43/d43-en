@@ -71,6 +71,8 @@ edge [arrowsize=1.4];
 "first_draft" -> "self_check"
 "toc_checkvol1" [fillcolor="#9999ff"]
 "Checking" -> "toc_checkvol1"
+"toc_checkvol1_2" [fillcolor="#9999ff"]
+"Checking" -> "toc_checkvol1_2"
 "toc_checkvol2" [fillcolor="#9999ff"]
 "Checking" -> "toc_checkvol2"
 "vol2_backtranslation" [fillcolor="#9999ff"]
@@ -115,6 +117,9 @@ edge [arrowsize=1.4];
 "translate_manual" -> "translation_guidelines"
 "uw_intro" [fillcolor="#ff9999"]
 "ta_intro" -> "uw_intro"
+"door43_translation" [fillcolor="#99ffff"]
+"pretranslation_training" -> "door43_translation"
+"setup_door43" -> "door43_translation"
 "getting_started" [fillcolor="#99ffff"]
 "process_manual" -> "getting_started"
 "platforms" [fillcolor="#99ffff"]
@@ -126,8 +131,20 @@ edge [arrowsize=1.4];
 "start" -> "process_manual"
 "setup_door43" [fillcolor="#99ffff"]
 "platforms" -> "setup_door43"
+"setup_tsandroid" [fillcolor="#99ffff"]
+"PROCESS" -> "setup_tsandroid"
+"setup_word" [fillcolor="#99ffff"]
+"PROCESS" -> "setup_word"
 "start" [fillcolor="#99ffff"]
 "PROCESS" -> "start"
+"toc_process" [fillcolor="#99ffff"]
+"PROCESS" -> "toc_process"
+"tsandroid_translation" [fillcolor="#99ffff"]
+"pretranslation_training" -> "tsandroid_translation"
+"setup_tsandroid" -> "tsandroid_translation"
+"word_translation" [fillcolor="#99ffff"]
+"pretranslation_training" -> "word_translation"
+"setup_word" -> "word_translation"
 "tK_create" [fillcolor="#ffff99"]
 "tK_intro" -> "tK_create"
 "tK_enable" [fillcolor="#ffff99"]
@@ -174,6 +191,8 @@ edge [arrowsize=1.4];
 "tS_share" -> "tS_upload"
 "toc_techvol1" [fillcolor="#ffff99"]
 "Technology" -> "toc_techvol1"
+"toc_techvol1_2" [fillcolor="#ffff99"]
+"Technology" -> "toc_techvol1_2"
 "toc_techvol2" [fillcolor="#ffff99"]
 "Technology" -> "toc_techvol2"
 "uW_audio" [fillcolor="#ffff99"]
@@ -312,6 +331,8 @@ edge [arrowsize=1.4];
 "translation_guidelines" -> "guidelines_pure"
 "toc_transvol1" [fillcolor="#99ff99"]
 "Translation" -> "toc_transvol1"
+"toc_transvol1_2" [fillcolor="#99ff99"]
+"Translation" -> "toc_transvol1_2"
 "toc_transvol2" [fillcolor="#99ff99"]
 "Translation" -> "toc_transvol2"
 "translate_discover" [fillcolor="#99ff99"]
