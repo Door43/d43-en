@@ -13,9 +13,11 @@
 ===== UDB: =====
 
 <usfm>
+\p
 \v 66 While Peter was outside in the courtyard of the high priest's house, one of the girls who worked for the high priest came near him.
 \v 67 When she saw Peter warming himself beside the fire, she looked at him closely. Then she said, "You also were with Jesus, that man from Nazareth!"
 \v 68 But he denied it by saying, "I do not know what you are talking about! I understand nothing of it!" Then he went away from there to the gate of the courtyard.
+\f + \ft Some manuscripts add, "and the rooster crowed," but the best manuscripts do not have this phrase. \f*
 </usfm>
 
 
