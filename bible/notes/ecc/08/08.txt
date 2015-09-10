@@ -16,8 +16,8 @@
 ===== UDB: =====
 
 <usfm>
-\v 8 We cannot control the wind,
-\q2 and we cannot control when we will die.
+\v 8 We cannot control our breathing,
+\q2 and we cannot control when we will stop breathing and die.
 \q1 Soldiers are not permitted to go home during a battle,
 \q2 and evil people will not be saved by doing what is evil.
 \p
@@ -28,9 +28,13 @@
 ===== ULB: =====
 
 <usfm>
-\v 8 There is no man that has power over the spirit to retain the spirit; neither has he power over the day of his death. No one is release from service in a time of war, neither will wickedness rescue those who are its slaves.
-\v 9 All this have I seen, and applied my heart to every work that is done under the sun:
-there is a time when one man has power over another to his hurt.
+\q1 
+\v 8 No man has power over the breath of life to stop breathing, 
+\q2 and no man has power over the day of his death. 
+\q1 No one is discharged from the army during a battle, 
+\q2 and wickedness will not rescue those who are its slaves.
+\v 9 All this have I seen and applied my heart to every work that is done under the sun.
+There is a time when a man has power over others for evil.
 </usfm>
 
 
