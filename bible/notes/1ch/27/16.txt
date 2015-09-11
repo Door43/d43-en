@@ -21,16 +21,16 @@
 ===== UDB: =====
 
 <usfm>
-\v 16 This is a list of the administrators of the twelve tribes  of Israel:
+\v 16 This is a list of the administrators of the twelve tribes of Israel:
 \b
-\li1 Eliezer, the son of Zicri, was the administrator of the tribe of Reuben.
-\li1 Shephatiah, the son of Maacah, was the administrator of the tribe of Simeon.
+\li1 Eliezer, son of Zicri, was the administrator of the tribe of Reuben.
+\li1 Shephatiah, son of Maacah, was the administrator of the tribe of Simeon.
 \li1
-\v 17 Hashabiah, the son of Kemuel, was the administrator of the tribe of Levi.
+\v 17 Hashabiah, theson of Kemuel, was the administrator of the tribe of Levi.
 \li1 Zadok was the administrator of the tribe of Aaron.
 \li1
 \v 18 Elihu, David's older brother, was the administrator of the tribe of Judah.
-\li1 Omri, the son of Michael, was the administrator of the tribe of Issachar.
+\li1 Omri, son of Michael, was the administrator of the tribe of Issachar.
 
 
 \li1
@@ -41,10 +41,14 @@
 
 <usfm>
 \p
-\v 16 Furthermore over the tribes of Israel: of the Reubenites was Eliezer the son of Zichri was the leader, of the Simeonites,
-Shephatiah the son of Maacah,
-\v 17 Hashabiah the son of Kemuel led the Levites:  Zad led the sons of Aaron.k,
-\v 18 Elihu, one of David's brothers ledJudah; for  of Issachar, Omri the son of Michael,
+\v 16 These were the leaders of the tribes of Israel: 
+\q For the tribe of Reuben, Eliezer son of Zichri was the leader. 
+\q For the tribe of Simeon, Shephatiah son of Maacah was the leader.
+\q
+\v 17 For the tribe of Levi, Hashabiah son of Kemuel was the leader, and Zad led Aaron's descendants.
+\q
+\v 18 For the tribe of Judah, Elihu, one of David's brothers, was the leader. 
+\q For the tribe of Issachar, Omri son of Michael was the leader.
 </usfm>
 
 

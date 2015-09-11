@@ -21,16 +21,16 @@
 ===== UDB: =====
 
 <usfm>
-\v 19 Ishmaiah, the son of Obadiah, was the administrator of the tribe of Zebulun.
-\li1 Jerimoth, the son of Azriel, was the administrator of the tribe of Naphtali.
+\v 19 Ishmaiah, son of Obadiah, was the administrator of the tribe of Zebulun.
+\li1 Jerimoth, son of Azriel, was the administrator of the tribe of Naphtali.
 \li1
-\v 20 Hoshea, the son of Azaziah, was the administrator of the tribe of Ephraim.
-\li1 Joel, the son of Pedaiah, was the administrator of the tribe of the western half of the tribe of Manasseh.
+\v 20 Hoshea, son of Azaziah, was the administrator of the tribe of Ephraim.
+\li1 Joel, son of Pedaiah, was the administrator of the tribe of the western half of the tribe of Manasseh.
 \li1
-\v 21 Iddo, the son of Zechariah, was the administrator of the eastern half of the tribe of Manasseh, in the Gilead region.
-\li1 Jaasiel, the son of Abner, was the administrator of the tribe of Benjamin.
+\v 21 Iddo, son of Zechariah, was the administrator of the eastern half of the tribe of Manasseh, in the Gilead region.
+\li1 Jaasiel, son of Abner, was the administrator of the tribe of Benjamin.
 \li1
-\v 22 Azarel, the son of Jeroham, was the administrator of the tribe of Dan.
+\v 22 Azarel, son of Jeroham, was the administrator of the tribe of Dan.
 
 
 \p
@@ -40,10 +40,19 @@
 ===== ULB: =====
 
 <usfm>
-\v 19 of Zebulun, Ishmaiah the son of Obadiah: of Naphtali, Jeremoth the son of Azriel,
-\v 20 of the people of Ephraim, Hoshea the son of Azaziah: of the half-tribe of Manasseh, Joel the son of Pedaiah,
-\v 21 of the half-tribe of Manasseh in Gilead, Iddo the son of Zechariah: of Benjamin, Jaasiel the son of Abner,
-\v 22 of Dan, Azarel the son of Jeroham. These were the leaders of the tribes of Israel.
+\q
+\v 19 For the tribe of Zebulun, Ishmaiah son of Obadiah was the leader.
+\q of Naphtali, Jeremoth son of Azriel was the leader.
+\q
+\v 20 For the tribe of Ephraim, Hoshea son of Azaziah was the leader. 
+\q For the half-tribe of Manasseh, Joel son of Pedaiah was the leader.
+\q
+\v 21 For the half-tribe of Manasseh in Gilead, Iddo son of Zechariah was the leader. 
+\q For the tribe of Benjamin, Jaasiel son of Abner was the leader.
+\q
+\v 22 For the tribe of Dan, Azarel son of Jeroham was the leader. 
+\m
+These were the leaders of the tribes of Israel.
 </usfm>
 
 
