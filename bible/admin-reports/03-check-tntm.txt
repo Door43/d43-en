@@ -6,11 +6,11 @@
 ==== Catherine, David, John H, John L and Tyson  ====
 
 ^ Catherine  ^ David  ^  John H  ^  John L  ^  Tyson  ^
-| Matthew\\ Mark\\ Ephesians\\ 1 Thessalonians\\ 1 Peter  | 2 Corinthians\\ Joel\\ Obadiah\\ Nahum\\ Habakkuk\\ Zechariah\\ (Ezekiel)  | Isaiah  |  Hebrews  |  Joshua |
+| Matthew\\ Mark\\ Ephesians\\ Proverbs\\ 1 Peter  | 2 Corinthians\\ Joel\\ Obadiah\\ Zechariah\\ (Ezekiel)  | Isaiah\\ Exodus  |  Hebrews  |  Joshua\\ Ezra |
 |{{pagequery>@en:bible:notes:mat  @en:bible:notes:mrk @en:bible:notes:eph @en:bible:notes:1th @en:bible:notes:1pe  \{\{tag>[^}]*check[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort;showcount; layout=table;hidemsg;hidejump;fontsize=80%}}  |{{pagequery>@en:bible:notes:2co @en:bible:notes:jol @en:bible:notes:nam @en:bible:notes:hab @en:bible:notes:oba \{\{tag>[^}]*check[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort;showcount; @en:bible:notes:jol layout=table;hidemsg;hidejump;fontsize=80%}}  |{{pagequery>@en:bible:notes:isa \{\{tag>[^}]*check[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort;showcount; layout=table;hidemsg;hidejump;fontsize=80%}}  |{{pagequery>@en:bible:notes:heb \{\{tag>[^}]*check[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort;showcount; layout=table;hidemsg;hidejump;fontsize=80%}} | {{pagequery>@en:bible:notes:jos \{\{tag>[^}]*check[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort;showcount; layout=table;hidemsg;hidejump;fontsize=80%}} | 
 
 ==== Adam, Carolyn, Joe, Paul and Vivian ==== 
 ^ Adam  ^ Carolyn ^ Joe ^ Paul ^ Vivian ^
-| Ezekiel | Job  | 1 Corinthians\\ Jude  | Malachi\\ Haggai\\ Zephaniah | 2 Peter |
+| Ezekiel | Job  | 1 Corinthians | Malachi\\ Haggai\\ Zephaniah | |
 |{{pagequery>@en:bible:notes:ezk \{\{tag>[^}]*check[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort;showcount; layout=table;hidemsg;hidejump;fontsize=80%}}  |{{pagequery>@en:bible:notes:job \{\{tag>[^}]*check[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort;showcount; layout=table;hidemsg;hidejump;fontsize=80%}}  |{{pagequery>@en:bible:notes:1co \{\{tag>[^}]*check[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort;showcount; @en:bible:notes:jol layout=table;hidemsg;hidejump;fontsize=80%}}  |{{pagequery>@en:bible:notes:mal @en:bible:notes:hag @en:bible:notes:zep \{\{tag>[^}]*check[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort;showcount; layout=table;hidemsg;hidejump;fontsize=80%  |{{pagequery>@en:bible:notes:2pe \{\{tag>[^}]*check[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort;showcount; layout=table;hidemsg;hidejump;fontsize=80%}} | 
 \\
