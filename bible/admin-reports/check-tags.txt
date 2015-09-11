@@ -2,10 +2,9 @@
 
 ==== Check on Bad Notes Tags ====
 
-This query checks if the first tag is one of the valid tags required to make the system work correctly: {create|delete|draft|check|review|text|discuss|publish|edq|henry}. Pages listed here are likely being overlooked.(EQ)
+This query checks if the first tag is one of the valid tags required to make the system work correctly: {create|delete|draft|check|review|text|discuss|inspect|publish}. Pages listed here are likely being overlooked.(EQ)
 
-//Note temporary addition of "henry" and "edq" tags.//
 
-{{pagequery>@en:bible:notes \{\{tag>(?!draft|create|delete|check|review|text|discuss|publish|edq|henry); fulltextregex; sort=title:asc; display={title}; natsort; layout=table; showcount; hidemsg; hidejump;fontsize=90%}}
+{{pagequery>@en:bible:notes \{\{tag>(?!draft|create|delete|check|review|text|discuss|inspect|publish); fulltextregex; sort=title:asc; display={title}; natsort; layout=table; showcount; hidemsg; hidejump;fontsize=90%}}
 
 ~~NOCACHE~~
