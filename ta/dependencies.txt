@@ -8,7 +8,7 @@ edge [arrowsize=1.4];
 "Translation" [fillcolor="#99ff99"]
 "Checking" [fillcolor="#9999ff"]
 "Technology" [fillcolor="#ffff99"]
-"PROCESS" [fillcolor="#99ffff"]
+"PROCESS MANUAL" [fillcolor="#99ffff"]
 "acceptable" [fillcolor="#9999ff"]
 "clear" -> "acceptable"
 "accuracy_check" [fillcolor="#9999ff"]
@@ -124,21 +124,25 @@ edge [arrowsize=1.4];
 "process_manual" -> "getting_started"
 "platforms" [fillcolor="#99ffff"]
 "getting_started" -> "platforms"
+"prechecking_training" [fillcolor="#99ffff"]
+"PROCESS MANUAL" -> "prechecking_training"
 "pretranslation_training" [fillcolor="#99ffff"]
 "translate_process" -> "pretranslation_training"
 "translate_why" -> "pretranslation_training"
 "process_manual" [fillcolor="#99ffff"]
 "start" -> "process_manual"
+"required_checking" [fillcolor="#99ffff"]
+"PROCESS MANUAL" -> "required_checking"
 "setup_door43" [fillcolor="#99ffff"]
 "platforms" -> "setup_door43"
 "setup_tsandroid" [fillcolor="#99ffff"]
-"PROCESS" -> "setup_tsandroid"
+"PROCESS MANUAL" -> "setup_tsandroid"
 "setup_word" [fillcolor="#99ffff"]
-"PROCESS" -> "setup_word"
+"PROCESS MANUAL" -> "setup_word"
 "start" [fillcolor="#99ffff"]
-"PROCESS" -> "start"
+"PROCESS MANUAL" -> "start"
 "toc_process" [fillcolor="#99ffff"]
-"PROCESS" -> "toc_process"
+"PROCESS MANUAL" -> "toc_process"
 "tsandroid_translation" [fillcolor="#99ffff"]
 "pretranslation_training" -> "tsandroid_translation"
 "setup_tsandroid" -> "tsandroid_translation"
