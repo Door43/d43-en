@@ -21,7 +21,7 @@
 
 <usfm>
 \v 18 Some men are very lazy and do not repair the rafters,
-\q2 with the result that the rafters sag and collapse;
+\q2 with the result that the rafters sag and collapse,
 \q1 and if they do not repair the roof,
 \q2 water will leak into the house when it rains.
 \b
@@ -38,8 +38,13 @@
 ===== ULB: =====
 
 <usfm>
-\v 18 By slothfulness the roof sinks in; and through idleness of the hands the house leaks.
-\v 19 A feast is made for laughter, and wine makes glad the life; and money answers all things.
+\q1 
+\v 18 Because of laziness the roof sinks in, 
+\q2 and because of idle hands the house leaks.
+\q1 
+\v 19 A feast is made for laughter, 
+\q2 and wine makes a man glad about life, 
+\q3 and money answers all things.
 </usfm>
 
 
