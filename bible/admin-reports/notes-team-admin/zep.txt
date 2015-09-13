@@ -2,7 +2,7 @@
 
 Team Lead (//draft to check//) - Hank B\\
 Manager (//check to review//) - Paul H\\
-Reviewer - (//review to publish//) -
+Reviewer - (//review to publish//) - Nick A
 
 ~~NOCACHE~~
 
@@ -13,7 +13,7 @@ Reviewer - (//review to publish//) -
   * [[:en:bible:team-info:training:notes-training|Notes Training]]
 
 
-==== Ephesians Page Status ====
+==== Zephaniah Page Status ====
 
 ^  Draft  ^  Check  ^  Review  ^
 |{{pagequery>@en:bible:notes:zep \{\{tag>[^}]*draft[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; showcount;
