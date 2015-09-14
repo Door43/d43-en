@@ -2,60 +2,21 @@
 
 ===== TFT: =====
 
-<usfm>
-\v 1 \add You people of\add* \f + \ft apostrophe \f* Lebanon should open your gates,
-\q2 \add because you will not be able to stop\add* fire from burning your cedar \add trees\add*!
-\q1
-\v 2 Your cypress\f + \ft Or: pine \f* trees \f + \ft apostrophe \f* should also wail
-\q2 because the cedar trees have been cut down.
-\q2 Those glorious\f + \ft Or: great \f* trees have been destroyed.
-\q1 The oak trees in the Bashan \add region\add* should also wail,
-\q2 because the other trees in the forest have been cut down.
-\q1
-\v 3 And listen to the shepherds crying
-\q2 because the fertile pastures have been ruined.
-\q1 Listen to the lions roar;
-\q2 they roar because the delightful forest \add where they live\add* near the Jordan \add River\add* has been ruined.
+<usfm> \v 1 \add You people of\add* \f + \ft apostrophe \f* Lebanon should open your gates, \q2 \add because you will not be able to stop\add* fire from burning your cedar \add trees\add*! \q1 \v 2 Your cypress\f + \ft Or: pine \f* trees \f + \ft apostrophe \f* should also wail \q2 because the cedar trees have been cut down. \q2 Those glorious\f + \ft Or: great \f* trees have been destroyed. \q1 The oak trees in the Bashan \add region\add* should also wail, \q2 because the other trees in the forest have been cut down. \q1 \v 3 And listen to the shepherds crying \q2 because the fertile pastures have been ruined. \q1 Listen to the lions roar; \q2 they roar because the delightful forest \add where they live\add* near the Jordan \add River\add* has been ruined.
 
-\p
-</usfm>
+\p </usfm>
 
 ===== UDB: =====
 
-<usfm>
-\v 1 You people of Lebanon must open your gates and allow the fire to burn your cedar trees!
-\v 2 Your cypress trees must be like people who are wailing 
-because enemies have cut down the cedar.
-Those glorious trees are all gone.
- The oak trees in the Bashan region should also be like people who are wailing,
-because enemies have cut down the other trees in the dense forest, too.
-\v 3 And listen to the shepherds crying
-because the fertile pastures have been ruined.
-Listen to the lions roar;
-they roar because the thick forest where they live near the Jordan River has been ruined.
+<usfm> \v 1 You people of Lebanon must open your gates and allow the fire to burn your cedar trees! \v 2 Your cypress trees must be like people who are wailing because enemies have cut down the cedar. Those glorious trees are all gone. The oak trees in the Bashan region should also be like people who are wailing, because enemies have cut down the other trees in the dense forest, too. \v 3 And listen to the shepherds crying because the fertile pastures have been ruined. Listen to the lions roar; they roar because the thick forest where they live near the Jordan River has been ruined.
 
-
-
-\p
-</usfm>
+\p </usfm>
 
 ===== ULB: =====
 
-<usfm>
-\c 11
-\p
-\q
-\v 1 Open your doors, Lebanon, that fire may devour your cedars!
-\q 
-\v 2 Lament, cypress trees, for the cedar has fallen! What was majestic has been devastated! 
-\q Lament, you oaks of Bashan, for the strong forest has gone down.
-\q
-\v 3 The voice of the shepherds howls, for their glory has been destroyed! 
-\q The voice of the young lions roars, for the
-pride of the Jordan River has been devastated!
+<usfm> \c 11 \p \q \v 1 Open your doors, Lebanon, that fire may devour your cedars! \q \v 2 Lament, cypress trees, for the cedar has fallen! What was majestic has been devastated! \q Lament, you oaks of Bashan, for the strong forest has gone down. \q \v 3 The voice of the shepherds howls, for their glory has been destroyed! \q The voice of the young lions roars, for the pride of the Jordan River has been devastated!
 
-Para 1
-</usfm>
+Para 1 </usfm>
 
 ===== Important Terms: =====
 
@@ -76,14 +37,15 @@ Para 1
 
 ===== Translation Notes: =====
 
-  * **Open your doors, Lebanon**  - See (Apostrophe) "People of Lebanon, you will be forced to open your gates,"
-  * **that fire may devour your cedars!**  - AT: "so the fire will fully burn your cedar trees!"
-  * **Lament, cypress trees, for the cedar has fallen! **- See (Personification). "Mourn for the forlorn cypress trees, for the majestic cedars have fallen!" or "The cypress trees look forlorn standing alone without the cedar trees."
+  * **Open your doors, Lebanon**  - See (Apostrophe) "People of Lebanon, you will be forced to open your gates," <font inherit/inherit;;rgb(255, 0, 0);;inherit>I don't see any apostrophe so don't know why it says "see (apostrophe). Apostrophe is a punctuation mark. (')</font>
+  * **that fire may devour your cedars!**  - AT: "so the fire will fully burn your cedar trees!" <font inherit/inherit;;rgb(255, 0, 0);;inherit>or "so the fire will burn your cedar trees to the ground!"</font>
+  * **Lament, cypress trees, for the cedar has fallen! **- See (Personification). "Mourn for the forlorn cypress trees, for the majestic cedars have fallen!" or "The cypress trees look forlorn standing alone without the cedar trees." <font inherit/inherit;;rgb(255, 0, 0);;inherit>or "Wail for the lonely cypress trees for the majestic cedars have fallen!"</font>
   * **Lament, you oaks of Bashan, for the strong forest has gone down.**  - See (Personification). AT: "Wail for the oak trees of Bashan, for the thick forest has been cut down."
   * **The voice of the shepherds howls,**  - AT: "The shepherds cry out loudly,"
-  * **for their glory has been destroyed! **- See (Idiom).  AT: "for their rich pastures have been destroyed."
+  * **for their glory has been destroyed! **- See (Idiom). AT: "for their rich pastures have been destroyed."
   * **The voice of the young lions roars, **- "The confused lions roar"
-  * **for the pride of the Jordan River**  - AT: " because their habitat has been destroyed."  Lush trees and shrubbery grew near the Jordan River.
+  * **for the pride of the Jordan River**  - AT: " because their habitat has been destroyed." Lush trees and shrubbery grew near the Jordan River. <font inherit/inherit;;rgb(255, 0, 0);;inherit>or "because where they lived by the Jordan River has been destroyed."</font>
+
 ===== Links: =====
 
   * **[[:en:bible:questions:comprehension:zec:11|Zechariah Chapter 11 Comprehension Questions]]**
