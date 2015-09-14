@@ -12,7 +12,7 @@ version: 4.1
 contributors: 
 
 
-checking entity: translation team
+checking entity: 
 
 
 checking level: 3
