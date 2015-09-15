@@ -15,8 +15,6 @@
 ===== UDB: =====
 
 <usfm>
-
-\q
 \v 7 You created humans a little lower than the angels, 
 \q Yet you have greatly honored them, as people honor kings.
 \q
@@ -28,6 +26,7 @@
 ===== ULB: =====
 
 <usfm>
+\q
 \v 7 You made man a little lower than the angels;
 \q you crowned him with glory and honor.
 
