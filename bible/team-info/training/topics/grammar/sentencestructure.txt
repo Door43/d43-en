@@ -60,7 +60,7 @@ A language may have a preferred order for its clauses and other phrases. For exa
 
   - //She went to the garden to pick some tomatoes.//
   - //In order to pick some tomatoes, she went to the garden.//
-A language may have a preferred word order for its subject, verb, and object or complement. (See: [[en:ta:translate:wordorder|Word Order]]) For example, English and French normally put the object after the verb. But if the object is a pronoun, French puts it before the verb.
+A language may have a preferred word order for its subject, verb, and object or complement. (See: [[en:ta:vol1:translate:figs_order|Word Order]]) For example, English and French normally put the object after the verb. But if the object is a pronoun, French puts it before the verb.
 
   * English: //The man sees __the house__.//
   * French: //L'homme voit __la maison__. //  (The man sees the house.)
