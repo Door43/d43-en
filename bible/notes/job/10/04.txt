@@ -1,90 +1,42 @@
 ====== Job 10:4-7 ======
 
-
 ===== TFT: =====
 
-<usfm>
-\v 4 Do you understand things the way that we humans do?
-\q1
-\v 5 Do you live for only a few years, like we do?\f + \ft Or: You certainly do not live for only a few years, like we do. \f* \f + \ft rhetorical question \f*
-\q1
-\v 6 So, why do you \f + \ft rhetorical question \f* continue to search for my faults
-\q2 and to hunt for my sins?
-\q1
-\v 7 You know that I am not guilty,
-\q2 and that no one can rescue me from your power \f + \ft metonymy \f*.
-\b
-\q1
-</usfm>
-
+<usfm> \v 4 Do you understand things the way that we humans do? \q1 \v 5 Do you live for only a few years, like we do?\f + \ft Or: You certainly do not live for only a few years, like we do. \f* \f + \ft rhetorical question \f* \q1 \v 6 So, why do you \f + \ft rhetorical question \f* continue to search for my faults \q2 and to hunt for my sins? \q1 \v 7 You know that I am not guilty, \q2 and that no one can rescue me from your power \f + \ft metonymy \f*. \b \q1 </usfm>
 
 ===== UDB: =====
 
-<usfm>
-\v 4 Do you understand things the way that we humans do?
-\q1
-\v 5 Do you live for only a few years, like [as] we do?
-\q1
-\v 6 So why do you continue to search for my faults
-\q2 and to hunt for my sins?
-\q1
-\v 7 You know that I am not guilty,
-\q2 and that no one can rescue me from your power.
-\b
+<usfm> \v 4 Do you understand things the way that we humans do? \q1 \v 5 Do you live for only a few years, like [as] we do? \q1 \v 6 So why do you continue to search for my faults \q2 and to hunt for my sins? \q1 \v 7 You know that I am not guilty, \q2 and that no one can rescue me from your power. \b
 
-
-\q1
-</usfm>
-
+\q1 </usfm>
 
 ===== ULB: =====
 
-<usfm>
-\q
-\v 4 Do you have eyes of flesh?
-\q Do you see like a man sees?
-\q
-\v 5 Are your days like the days of mankind
-\q or your years like the years of people,
-\q
-\v 6 that you inquire after my iniquity
-\q and search after my sin,
-\q
-\v 7 although you know I am not guilty
-\q and there is no one who can rescue me from of your hand?
-\b
-</usfm>
-
+<usfm> \q \v 4 Do you have eyes of flesh? \q Do you see like a man sees? \q \v 5 Are your days like the days of mankind \q or your years like the years of people, \q \v 6 that you inquire after my iniquity \q and search after my sin, \q \v 7 although you know I am not guilty \q and there is no one who can rescue me from of your hand? \b </usfm>
 
 ===== Important Terms: =====
 
-  * [[:en:obe:kt:flesh]]
-  * [[:en:obe:kt:iniquity]]
-  * [[:en:obe:kt:sin]]
-  * [[en:obe:kt:guilt]]
-  * [[:en:obe:kt:deliverer]]
-  * [[en:obe:other:hand]]
- 
+  * [[:en:obe:kt:flesh|flesh]]
+  * [[:en:obe:kt:iniquity|iniquity]]
+  * [[:en:obe:kt:sin|sin, sinful, sinner, sinning]]
+  * [[:en:obe:kt:guilt|guilt, guilty]]
+  * [[:en:obe:kt:deliverer|deliver, deliverer]]
+  * [[:en:obe:other:hand|hand]]
+
 ===== Translation Notes: =====
 
   * **eyes of flesh**  - human eyes
-  * **bold words**  - explanation
-  * **bold words**  - explanation
-  * **bold words**  - explanation
-  * **bold words**  - explanation
-  * **bold words**  - explanation
-
+  * **<font 14px line-height: 19px;/inherit;;inherit;;inherit>Do you have eyes of flesh?</font> **- explanation (See: Rhetorical Question)
+  * **<font 14px line-height: 19px;/inherit;;inherit;;inherit>Do you see like a man sees?</font> **- explanation <font 14px line-height: 19px;/inherit;;inherit;;inherit>(S</font> <font 14px line-height: 19px;/inherit;;inherit;;inherit>ee: Rhetorical Question)</font>
+  * <font 14px line-height: 19px;/inherit;;inherit;;inherit>** Are your days like the days of mankind ... no one who can rescue me from of your hand? **</font> - explanation <font 14px line-height: 19px;/inherit;;inherit;;inherit>(S</font> <font 14px line-height: 19px;/inherit;;inherit;;inherit>ee: Rhetorical Question)</font>
+  * **<font 14px line-height: 19px;/inherit;;inherit;;inherit>like the days of mankind</font> **- AT: "like the days of a mortal"
+  * **<font 14px line-height: 19px;/inherit;;inherit;;inherit>the years of people</font> **- AT: "the years of a man"
+  * **inquire after**  - AT: "seek out"
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:job:10|Job Chapter 10 Comprehension Questions]]**
+  * **[[:en:bible:questions:comprehension:job:10|Job Chapter 10 Comprehension Questions]]**
+**[[:en:bible:notes:job:10:01|<<]] | [[:en:bible:notes:job:10:08|>>]]**
 
- 
-
-**[[en/bible/notes/job/10/01|<<]] | [[en/bible/notes/job/10/08|>>]]**
-
-~~DISCUSSION~~
-
-
-{{tag>draft}}
+~~DISCUSSION~~{{tag>draft}}
 
 ~~NOCACHE~~
