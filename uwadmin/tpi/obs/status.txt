@@ -3,7 +3,7 @@
 //The status of development for Open Bible Stories// 
 
 
-publish date: 2015-09-15
+publish date: 2015-09-16
 
 
 version: 4.1
@@ -24,7 +24,7 @@ source text: en
 source text version: 3.2.2
 
 
-comments: 
+comments: Fixed front matter
 
 
 Progress Notes: Initial setup 2014-09-21
