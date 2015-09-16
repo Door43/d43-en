@@ -47,7 +47,7 @@ What do we do?
       * translationQuestions - questions for each chunk of text that the translators and checkers can ask to help insure that the translation is being understood correctly. Available for [[en:obs:notes:questions:home|Open Bible Stories]] and for [[en:bible:questions:home|the Bible]].    
       * [[en:obe:home|translationWords]] - a list of important Biblical terms with a short explanation, cross references, and translation aids
 
-   * **Tools** - We create translation, checking, and distribution tools (all of these tools are explained in more detail in the [[en:ta:vol1:translate:translate_manual|Technology Manual]])     
+   * **Tools** - We create translation, checking, and distribution tools (all of these tools are explained in more detail in the [[en:ta:vol1:tech:toc_techvol1|Technology Manual]])     
       * [[en:ta:vol2:tech:door43|Door43]] - an online translation platform where people can collaborate on translation and checking, also the content management system for unfoldingWord     
       * [[en:ta:vol1:tech:ts_intro|translationStudio]] - a mobile app where translators can do offline translating    
       * [[en:ta:vol1:tech:tk_intro|translationKeyboard]] - a mobile app where users can create custom keyboards for languages not supported by their mobile device     

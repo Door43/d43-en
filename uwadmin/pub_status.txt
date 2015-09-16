@@ -31,3 +31,7 @@
 ===== fa =====
 ^Language   ^Publish Date   ^Version    ^Checking Level ^
 |  [[:en:uwadmin:fa:obs:status|فارسی]]  |  2015-08-26  |  4.1  |  {{https://api.unfoldingword.org/obs/jpg/1/checkinglevels/uW-Level1-32px.png}}  |
+
+===== tpi =====
+^Language   ^Publish Date   ^Version    ^Checking Level ^
+|  [[:en:uwadmin:tpi:obs:status|Tok Pisin]]  |  2015-09-15  |  4.1  |  {{https://api.unfoldingword.org/obs/jpg/1/checkinglevels/uW-Level2-32px.png}}  |

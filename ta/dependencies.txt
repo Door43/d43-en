@@ -59,6 +59,12 @@ edge [arrowsize=1.4];
 "level3_questions" -> "level3_approval"
 "level3_questions" [fillcolor="#9999ff"]
 "level3" -> "level3_questions"
+"obs_tQ" [fillcolor="#9999ff"]
+"intro_check" -> "obs_tQ"
+"intro_levels" -> "obs_tQ"
+"obs_update" [fillcolor="#9999ff"]
+"intro_check" -> "obs_update"
+"intro_levels" -> "obs_update"
 "other_methods" [fillcolor="#9999ff"]
 "language_community_check" -> "other_methods"
 "peer_check" [fillcolor="#9999ff"]
@@ -122,6 +128,8 @@ edge [arrowsize=1.4];
 "setup_door43" -> "door43_translation"
 "getting_started" [fillcolor="#99ffff"]
 "process_manual" -> "getting_started"
+"intro_publishing" [fillcolor="#99ffff"]
+"PROCESS MANUAL" -> "intro_publishing"
 "platforms" [fillcolor="#99ffff"]
 "getting_started" -> "platforms"
 "prechecking_training" [fillcolor="#99ffff"]
@@ -131,6 +139,10 @@ edge [arrowsize=1.4];
 "translate_why" -> "pretranslation_training"
 "process_manual" [fillcolor="#99ffff"]
 "start" -> "process_manual"
+"publishing_prereqs" [fillcolor="#99ffff"]
+"PROCESS MANUAL" -> "publishing_prereqs"
+"publishing_process" [fillcolor="#99ffff"]
+"PROCESS MANUAL" -> "publishing_process"
 "required_checking" [fillcolor="#99ffff"]
 "PROCESS MANUAL" -> "required_checking"
 "setup_door43" [fillcolor="#99ffff"]
@@ -149,6 +161,14 @@ edge [arrowsize=1.4];
 "word_translation" [fillcolor="#99ffff"]
 "pretranslation_training" -> "word_translation"
 "setup_word" -> "word_translation"
+"d43_intro" [fillcolor="#ffff99"]
+"Technology" -> "d43_intro"
+"d43_translateOBS" [fillcolor="#ffff99"]
+"d43_intro" -> "d43_translateOBS"
+"software" [fillcolor="#ffff99"]
+"tech_intro" -> "software"
+"software" [fillcolor="#ffff99"]
+"tech_intro" -> "software"
 "tK_create" [fillcolor="#ffff99"]
 "tK_intro" -> "tK_create"
 "tK_enable" [fillcolor="#ffff99"]
@@ -227,6 +247,8 @@ edge [arrowsize=1.4];
 "figs_intro" -> "figs_apostrophe"
 "figs_cohesion" [fillcolor="#99ff99"]
 "figs_intro" -> "figs_cohesion"
+"figs_deictics" [fillcolor="#99ff99"]
+"figs_intro" -> "figs_deictics"
 "figs_doublenegatives" [fillcolor="#99ff99"]
 "figs_intro" -> "figs_doublenegatives"
 "figs_doublet" [fillcolor="#99ff99"]
@@ -316,9 +338,15 @@ edge [arrowsize=1.4];
 "guidelines_clear" [fillcolor="#99ff99"]
 "guidelines_intro" -> "guidelines_clear"
 "translation_guidelines" -> "guidelines_clear"
+"guidelines_collaborative" [fillcolor="#99ff99"]
+"guidelines_intro" -> "guidelines_collaborative"
+"translation_guidelines" -> "guidelines_collaborative"
 "guidelines_equal" [fillcolor="#99ff99"]
 "guidelines_intro" -> "guidelines_equal"
 "translation_guidelines" -> "guidelines_equal"
+"guidelines_expressive" [fillcolor="#99ff99"]
+"guidelines_intro" -> "guidelines_expressive"
+"translation_guidelines" -> "guidelines_expressive"
 "guidelines_faithful" [fillcolor="#99ff99"]
 "guidelines_intro" -> "guidelines_faithful"
 "translation_guidelines" -> "guidelines_faithful"
@@ -330,6 +358,9 @@ edge [arrowsize=1.4];
 "guidelines_natural" [fillcolor="#99ff99"]
 "guidelines_intro" -> "guidelines_natural"
 "translation_guidelines" -> "guidelines_natural"
+"guidelines_ongoing" [fillcolor="#99ff99"]
+"guidelines_intro" -> "guidelines_ongoing"
+"translation_guidelines" -> "guidelines_ongoing"
 "guidelines_pure" [fillcolor="#99ff99"]
 "guidelines_intro" -> "guidelines_pure"
 "translation_guidelines" -> "guidelines_pure"
@@ -388,6 +419,8 @@ edge [arrowsize=1.4];
 "translate_dynamic" -> "translate_tform"
 "translate_unknown" [fillcolor="#99ff99"]
 "Translation" -> "translate_unknown"
+"translate_unknowns" [fillcolor="#99ff99"]
+"translate_unknown" -> "translate_unknowns"
 "translate_wforw" [fillcolor="#99ff99"]
 "translate_literal" -> "translate_wforw"
 "translate_what" [fillcolor="#99ff99"]

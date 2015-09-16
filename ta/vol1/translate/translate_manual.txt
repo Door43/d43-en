@@ -1,100 +1,26 @@
-====== Translation Manual ======
+===== Introduction to Translation Manual =====
 
-This manual teaches translation theory and how to make a good translation.\\
- 
-Core topics
+This module answers the question: What is the Translation Manual?\\
+Before you start this module have you learned about: [[en:ta:vol1:intro:ta_intro|Introduction to translationAcademy]]
 
-  * Basics of Translation
-    * [[en:ta:translate:basics]]
-    * [[en:ta:vol1:translate:guidelines_clear]]
-    * [[en:ta:vol1:translate:guidelines_accurate]]
-    * [[en:ta:translate:natural]]
-    * [[en:ta:vol1:translate:guidelines_equal]]
-    * [[en:ta:translate:scriptures]]
-    * [[en:ta:translate:translatenames]]
-    * [[en:ta:translate:translateunknowns]]
-  * [[en:ta:translate:figuresofspeech|Figures of Speech]]
-    * [[en:ta:translate:metaphor]]
-    * [[en:ta:translate:simile]]
-    * [[en:ta:translate:rhetoricalquestion]]
-    * [[en:ta:translate:idiom]]
-    * [[en:ta:translate:irony]]
-  * Vocabulary
-    * [[en:ta:vol1:translate:figs_123person]]
-    * [[en:ta:translate:wordorder]]
-    * [[en:ta:vol1:translate:figs_you]]
-    * [[en:ta:vol1:translate:figs_youdual]]
-    * [[en:ta:vol1:translate:figs_yousingular]]
-  * Other Modules
-    * [[en:ta:translate:implicitexplicit]]
-    * [[en:ta:translate:hypothetical]]
-    * [[en:ta:vol1:translate:figs_events]]
-    * [[en:ta:translate:parable]]
+This manual teaches translation theory and how to make a good translation.
 
-Not Core topics\\
-  * Translating According to the Translation Guidelines
-    * [[en:ta:translate:authoritative]]
-    * [[en:ta:translate:collaborative]]
-    * [[en:ta:translate:expressive]]
-    * [[en:ta:translate:faithful]]
-    * [[en:ta:translate:historical]]
-    * [[en:ta:translate:ongoing]]
-    * [[en:ta:translate:pure]]
-  * [[en:ta:translate:figuresofspeech|Figures of Speech]]
-    * [[en:ta:vol2:translate:figs_apostrophe]]
-    * [[en:ta:vol2:translate:figs_doublet]]
-    * [[en:ta:vol2:translate:figs_euphemism]]
-    * [[en:ta:vol2:translate:figs_hendiadys]]
-    * [[en:ta:vol2:translate:figs_hyperbole]]
-    * [[en:ta:translate:litotes]]
-    * [[en:ta:translate:metonymy]]
-    * [[en:ta:translate:parallelism]]
-    * [[en:ta:translate:personification]]
-    * [[en:ta:translate:synecdoche]]
-  * Vocabulary
-    * [[en:ta:vol2:translate:figs_abstractnouns]]
-    * [[en:ta:vol2:translate:figs_activepassive]]
-    * [[en:ta:vol2:translate:figs_adjectivalnoun]]
-    * [[en:ta:vol2:translate:figs_ambiguity]]
-    * [[en:ta:vol2:translate:figs_cohesion]]
-    * [[en:ta:vol2:translate:figs_doublenegatives]]
-    * [[en:ta:vol2:translate:figs_ellipsis]]
-    * [[en:ta:vol2:translate:figs_exclusive]]
-    * [[en:ta:vol2:translate:figs_gendernotations]]
-    * [[en:ta:vol2:translate:figs_genitivecase]]
-    * [[en:ta:vol2:translate:figs_grammar]]
-    * [[en:ta:translate:inclusive]]
-    * [[en:ta:translate:parts-of-speech]]
-    * [[en:ta:translate:pluralpronouns]]
-    * [[en:ta:translate:quotation]]
-    * [[en:ta:translate:sentencestructure]]
-    * [[en:ta:translate:singularpronoun]]
-    * [[en:ta:vol2:translate:figs_youformal]]
-    * [[en:ta:translate:verbs]]
-  * Other Modules
-    * [[en:ta:translate:update]]
-    * [[en:ta:translate:writingstyles]]
-    * [[en:ta:translate:translateunknowns-numbers]]
-  * Drafts
-    * [[en:ta:translate:merism]]
-    * [[en:ta:translate:originalmanuscripts]]
+==== Translating the Text ====
+As you translate, be sure that you:
+  * pray that God would help you make an easily-understandable, Scripturally-accurate translation
+  * translate everything that is in the source language
+  * don't add anything that that is not necessary for comprehension
+  * always do your translation according to the [[en:ta:vol1:intro:translation_guidelines]]
+  * always do your translation according to the [[:en:ta:vol1:intro:statement_of_faith]]
+  * use the translation notes and the explanations of important words to help you make a better translation.  
+  
+  
 
-[[en:ta:translate:allpages|See All Modules]]
 
-===== Translate Home Page =====
 
-This is a working page will help organize the categories - topics of lessons for the translator.
+Next we recommend you learn about:
+  * [[en:ta:vol1:intro:translation_guidelines|Translation Guidelines]]
+  * [[en:ta:vol1:tech:ts_create|Create and Edit Text]]
+  * [[en:ta:vol1:translate:translate_why|Why We Translate the Bible]]
+  * [[en:ta:vol1:translate:translate_whatis|What is Translation]]
 
-====Translating the Scripture - Culture====
-Click [[http://youtu.be/9nLRLAgOIpw|here]] to watch the video for the computer.
-Click [[http://youtu.be/girNfacETDE|here]] to watch the video for the tablet.
-
-====Word for Word Substitution====
-
-Click [[http://youtu.be/ZUCo2AZlj4A|here]] to watch the video for the computer.
-Click [[http://youtu.be/_HLy-SkQxzo|here]] to watch the video for the tablet.
-
-----
-https://pad.door43.org/p/ta-translate_manual section 1
-
-{{en:translate:publish epady}}
