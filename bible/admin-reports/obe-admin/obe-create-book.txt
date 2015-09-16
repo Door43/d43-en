@@ -11,6 +11,9 @@ The following Key Terms are tagged as "create" and are on hold. \\ They are avai
 
 ==== Exodus ====
 
+** PAGE NOT CURRENTLY UPDATED! DO NOT USE! **
+
+
 {{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*exo)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
 
 ==== Hebrews ====
