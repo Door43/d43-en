@@ -2,14 +2,12 @@
 
 ~~NOCACHE~~
 
-  * [[:en:bible:admin-reports:obe-admin:obe-create]]
-  * [[:en:bible:team-info:training:topics:common-words]]
-  * [[:en:bible:admin-reports:obe-admin:obe-reject]]
-  * [[:en:bible:admin-reports:check-tags]]
+  * [[:en:bible:admin-reports:obe-admin:obe-create|OBE: Pages Tagged "Create"]]
+  * [[:en:bible:team-info:training:topics:common-words|Common Words]]
+  * [[:en:bible:admin-reports:obe-admin:obe-reject|OBE: Rejected Terms]]
+  * [[:en:bible:admin-reports:check-tags|Check Notes Tags]]
 
-
-The following Key Terms are tagged as "create" and are on hold.\\
-They are available to assign to the Key Terms teams to edit.
+The following Key Terms are tagged as "create" and are on hold. \\ They are available to assign to the Key Terms teams to edit.
 
 ==== Exodus ====
 
@@ -114,4 +112,3 @@ They are available to assign to the Key Terms teams to edit.
 ==== 1 Samuel ====
 
 {{pagequery>@en:obe \{\{tag>(?=[^}]*create)(?=[^}]*1sa)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=90%}}
- 
