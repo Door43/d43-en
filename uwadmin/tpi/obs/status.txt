@@ -24,7 +24,7 @@ source text: en
 source text version: 3.2.2
 
 
-comments: Fixed front matter
+comments: 
 
 
-Progress Notes: Initial setup 2014-09-21
+Progress Notes: Initial setup 2014-09-21. Fixed front matter 2015-09-26.
