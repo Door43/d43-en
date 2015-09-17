@@ -130,6 +130,8 @@ edge [arrowsize=1.4];
 "process_manual" -> "getting_started"
 "intro_publishing" [fillcolor="#99ffff"]
 "PROCESS MANUAL" -> "intro_publishing"
+"intro_share" [fillcolor="#99ffff"]
+"PROCESS MANUAL" -> "intro_share"
 "platforms" [fillcolor="#99ffff"]
 "getting_started" -> "platforms"
 "prechecking_training" [fillcolor="#99ffff"]
@@ -151,10 +153,16 @@ edge [arrowsize=1.4];
 "PROCESS MANUAL" -> "setup_tsandroid"
 "setup_word" [fillcolor="#99ffff"]
 "PROCESS MANUAL" -> "setup_word"
-"start" [fillcolor="#99ffff"]
-"PROCESS MANUAL" -> "start"
-"toc_process" [fillcolor="#99ffff"]
-"PROCESS MANUAL" -> "toc_process"
+"share_published" [fillcolor="#99ffff"]
+"PROCESS MANUAL" -> "share_published"
+"share_unpublished" [fillcolor="#99ffff"]
+"PROCESS MANUAL" -> "share_unpublished"
+"toc_processvol1" [fillcolor="#99ffff"]
+"PROCESS MANUAL" -> "toc_processvol1"
+"toc_processvol1_2" [fillcolor="#99ffff"]
+"PROCESS MANUAL" -> "toc_processvol1_2"
+"toc_processvol2" [fillcolor="#99ffff"]
+"PROCESS MANUAL" -> "toc_processvol2"
 "tsandroid_translation" [fillcolor="#99ffff"]
 "pretranslation_training" -> "tsandroid_translation"
 "setup_tsandroid" -> "tsandroid_translation"
@@ -419,8 +427,6 @@ edge [arrowsize=1.4];
 "translate_dynamic" -> "translate_tform"
 "translate_unknown" [fillcolor="#99ff99"]
 "Translation" -> "translate_unknown"
-"translate_unknowns" [fillcolor="#99ff99"]
-"translate_unknown" -> "translate_unknowns"
 "translate_wforw" [fillcolor="#99ff99"]
 "translate_literal" -> "translate_wforw"
 "translate_what" [fillcolor="#99ff99"]
