@@ -1,0 +1,8 @@
+====== Find Font Code in GL Notes ======
+
+~~NOCACHE~~
+
+Pages with opening or closing <nowiki>HTML <font> or </font></nowiki> tags:
+
+{{pagequery>@:es-419:obs (?=\<font)|(?=\<\/font\>); fulltextregex; sort=title:asc; display={title}; natsort; layout=table; showcount; hidemsg; hidejump;}}
+
