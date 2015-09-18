@@ -35,3 +35,7 @@
 ===== tpi =====
 ^Language   ^Publish Date   ^Version    ^Checking Level ^
 |  [[:en:uwadmin:tpi:obs:status|Tok Pisin]]  |  2015-09-16  |  4.1  |  {{https://api.unfoldingword.org/obs/jpg/1/checkinglevels/uW-Level2-32px.png}}  |
+
+===== sgj =====
+^Language   ^Publish Date   ^Version    ^Checking Level ^
+|  [[:en:uwadmin:sgj:obs:status|Surgujia]]  |  2015-09-17  |  4.1  |  {{https://api.unfoldingword.org/obs/jpg/1/checkinglevels/uW-Level1-32px.png}}  |
