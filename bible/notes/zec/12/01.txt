@@ -2,57 +2,45 @@
 
 ===== TFT: =====
 
-<usfm>
-\v 1 This is a message from Yahweh concerning Israel. Yahweh is the one who stretched out the sky, who created the earth, and who gave life to humans\f + \ft Or: caused humans to be alive \f*. This is what he says:
-\v 2 "I will soon cause Jerusalem to be like \f + \ft metaphor \f* a cup full \add of very strong alcoholic drink\add*, and the people of other nations who drink it will stagger around. And they will come and attack Jerusalem and \add the other towns in\add* Judah.
-\v 3 At that time, \add the armies of\add* all the nations will gather to attack Jerusalem, but I will cause the leaders of Judah to be like \f + \ft simile \f* a very heavy rock, and all who try to lift it will be badly injured.
-</usfm>
+<usfm> \v 1 This is a message from Yahweh concerning Israel. Yahweh is the one who stretched out the sky, who created the earth, and who gave life to humans\f + \ft Or: caused humans to be alive \f*. This is what he says: \v 2 "I will soon cause Jerusalem to be like \f + \ft metaphor \f* a cup full \add of very strong alcoholic drink\add*, and the people of other nations who drink it will stagger around. And they will come and attack Jerusalem and \add the other towns in\add* Judah. \v 3 At that time, \add the armies of\add* all the nations will gather to attack Jerusalem, but I will cause the leaders of Judah to be like \f + \ft simile \f* a very heavy rock, and all who try to lift it will be badly injured. </usfm>
 
 ===== UDB: =====
 
-<usfm>
-\v 1 This is a message from Yahweh concerning Israel. Yahweh—the one who stretched out the sky, who created the earth, and who gave life to humans. This is what he says:
-\v 2 "I will soon cause Jerusalem to be like a cup full of very strong alcoholic drink, and the people of other nations who drink it will stagger around. The people of Judah will drink it, too, for they will help the enemy besiege Jerusalem.
-\v 3 At that time, the armies of all the nations will gather to attack Jerusalem, but I will cause Jerusalem to be like a very heavy rock, and all who try to lift it will be badly injured. This will be when the armies of all the world's nations attack Jerusalem.
-</usfm>
+<usfm> \v 1 This is a message from Yahweh concerning Israel. Yahweh—the one who stretched out the sky, who created the earth, and who gave life to humans. This is what he says: \v 2 "I will soon cause Jerusalem to be like a cup full of very strong alcoholic drink, and the people of other nations who drink it will stagger around. The people of Judah will drink it, too, for they will help the enemy besiege Jerusalem. \v 3 At that time, the armies of all the nations will gather to attack Jerusalem, but I will cause Jerusalem to be like a very heavy rock, and all who try to lift it will be badly injured. This will be when the armies of all the world's nations attack Jerusalem. </usfm>
 
 ===== ULB: =====
 
-<usfm>
-\c 12
-\p
-\v 1 An utterance of the word of Yahweh concerning Israel—this is the declaration of Yahweh,
-\p who stretched out the skies and laid the foundation of the earth, who fashions the spirit of mankind within him:
-\v 2 "Behold! I am about to make Jerusalem a cup of reeling to all the people surrounding her, and it will also be against Judah during the siege against Jerusalem.
-\v 3 It will come about on that day that I will make Jerusalem a burdensome stone against all the people. Anyone trying to lift it will hurt themselves very much, and all the nations of the earth will gather against her.
-</usfm>
+<usfm> \c 12 \p \v 1 An utterance of the word of Yahweh concerning Israel—this is the declaration of Yahweh, \p who stretched out the skies and laid the foundation of the earth, who fashions the spirit of mankind within him: \v 2 "Behold! I am about to make Jerusalem a cup of reeling to all the people surrounding her, and it will also be against Judah during the siege against Jerusalem. \v 3 It will come about on that day that I will make Jerusalem a burdensome stone against all the people. Anyone trying to lift it will hurt themselves very much, and all the nations of the earth will gather against her. </usfm>
 
 ===== Important Terms: =====
 
   * word of God, word of Yahweh
-  * declaration
-  * Israel
   * [[:en:obe:other:declare|declare, declaration]]
+  * foundation
+  * earth
   * spirit
   * Jerusalem
   * Judah
-  *
+  * siege
+  * burden(some)
+  * stone
+  * people
+  * nation
 
 ===== Translation Notes: =====
 
-  * **An utterance**  - This refers to something that is spoken or said.
-  * **declaration of Yahweh** - (See: [[:en:bible:team-info:training:quick-reference:standard-notes:declarationofyahweh]]) 
-  * **fashions the spirit of mankind within him**  - "creates the human spirit".
-  * **Behold**  - The word “behold” here alerts us to pay attention to the surprising information that follows.
-  * **seige**  - This happens when a city is surrounded by attackers (or enemies or soldiers) who want to take control of it.
-  * **burdensome stone**  - "very heavy stone".
-  
-
+  * **the one who stretched out the sky,**  - "the one who created the sky"
+  * **laid the foundation of the earth,**  - "put all the pieces of the earth in place,"
+  * **fashions the spirit of mankind within him**  - AT: "creates the human spirit".
+  * **Behold**  - "Pay attention"
+  * **burdensome stone against all the people.**
+ - AT: "an unmovable obstacle."
+  * **Anyone trying to lift it will hurt themselves very much,**  - "Anyone that tries to move it will hurt themselves very much,
 ===== Links: =====
 
   * **[[:en:bible:questions:comprehension:zec:12|Zechariah Chapter 12 Comprehension Questions]]**
 **[[:en:bible:notes:zec:11:17|<<]] | [[:en:bible:notes:zec:12:04|>>]]**
 
-~~DISCUSSION~~{{tag>draft}}
+~~DISCUSSION~~{{tag>check}}
 
 ~~NOCACHE~~
