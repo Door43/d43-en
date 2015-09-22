@@ -6,12 +6,15 @@ This describes how to write a note to call the translator's attention to a footn
 
 ===== Standard Note =====
 
-When the ULB or UDB contains a footnote that explains what portions of the text are omitted, the following Transation Note should state the following:
+When the ULB or UDB contains a footnote that explains what portions of the text are omitted, we can add a translation note like the following.
 
-  * **verse [number]**  - This verse was omitted because some of the older, more reliable, ancient texts did not include the verse. (See: [[:en:ta:vol1:translate:translate_textvariants]])
-Other cases as they become known will need to be added
+  * **verse [number]**  - This verse was omitted because some of the older, more reliable, ancient texts did not include it. Whether you include the verse or omit it, you may need to add a footnote with this information. (See: [[:en:ta:vol1:translate:translate_textvariants]])
 
   * **verse [number]** - Some early texts have these verses and others do not.
+
+When we know that some versions use different verse numbering, we can add a translation note like the following. 
+
+  * **verse [number]** - Some versions place verse x in chapter x. You should number the verses according to the main version that your language group uses. 
  
 ===== Bible Examples =====
 
