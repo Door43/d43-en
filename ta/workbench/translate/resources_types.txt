@@ -36,11 +36,65 @@ In this example, the words "the path" or the words "the road" can replace the wo
 In this example, the words "do the same thing" can replace the words "do likewise" in the ULB. You, as the translator decides what is the natural for your language.
   * **do likewise**  - "do the same thing." 
 
-=== Alternate Translations ===
+=== Alternate Translation(s) ===
 
-=== Clarifying Translations ===
+Insert "AT:" before alternate translations that suggest changes to the form or content of the ULB because of the limitations of some languages. Examples include added implicit information, changing passive voice to active, and stating rhetorical questions as statements. The "AT:" indicates that this alternate translation should only be used when the ULB form or content will not fit into a language. 
 
-=== Alternate Meanings ===
+  * **see the salvation of God**  - AT: "learn about how God saves people from sin."
+  * **Follow me**  - AT: “Be my disciple” or “Come, follow me as your teacher.”
+
+=== Clarifying Translation in the UDB ===
+
+If the UDB provides a good alternate translation for the ULB, it is normally not necessary to include a note. However, on occasion it may be helpful to include text from the UDB as well as a clarifying translation. In that case, append "(UDB)" after the text from the UDB as below:
+
+  * **implored him**  - "begged him" or "pleaded with him" (UDB)
+  * **he fell on his face**  - "he bowed down to the ground" (UDB) or "he knelt and touched the ground with his face"
+
+=== Alternate Meaning(s) ===
+
+Alternate meanings refer to when there are not just multiple ways to express something, but to when there are different understandings of what the word or phrase means. In this case, prefix the meanings with "Possible meanings are" and number them with the preferred meaning first (This should be the same meaning as what is in the ULB and UDB).
+
+If the meaning is given as an explanation, do not put it in quotes.  
+
+  * **You are like a young lion ... like a monster in the seas** - Possible meanings are that 1) he was like a lion and a monster or 2) he thought he was like a lion, but he was really only a monster.
+
+  * **like a monster in the seas** - Possible meanings are that 1) he was powerful or 2) he was not doing anything important.
+
+If the meaning is given in a way that can be used as a translation, put it in quotes. 
+
+  * **fell down at Jesus knees**  - Possible meanings are 1) "bowed down at Jesus feet" or 2) "lay down on the ground at Jesus feet" or 3) "knelt down before Jesus." Peter did not fall accidentally. He did this as a sign of humility and respect for Jesus.
+
+=== Identify Figures of Speech ===
+
+When writing a note to identify and explain a figure of speech, use sentence form and put the meaning in quotes.
+
+  * **Make ready the way of the Lord**  - This phrase compares people preparing themselves for the arrival of the Lord to people who are repairing a road for someone to use it. AT: "Repent and be ready for when the Lord comes." (See: [[en:ta:vol1:translate:figs_metaphor|Metaphor]])
+  * **You offspring of poisonous snakes**  - Jesus uses this expression to emphasize how dangerous the Pharisees are. Poisonous snakes are dangerous and represent evil. AT: "You evil poisonous snakes!" or "You are evil like poisonous snakes." (See: [[en:ta:vol1:translate:figs_metaphor|Metaphor]])
+
+If there is a Translation Academy page that deals with a figure of speech, you can include it in the note. You can see the list of topics at: [[en:ta:ta-topics]]
+
+  * Refer to tA topics by writing, for example, "(See: Metonymy)" or "(See: Exclusive)" at the end of the note. You can see these at [[:en:ta:ta-topics|Topics]].
+
+=== Indirect to Direct Quote ===
+
+When adding the option for a direct quote, preface the alternate with "It can be translated as a direct quote:" followed by the new phrase.
+
+  * **to tell no one**  - This can be translated as a direct quote: "Do not tell anyone." The implied information is "that you have been healed." (See: [[en:ta:vol2:translate:figs_quotations|Speech Quotations]], [[en:ta:vol1:translate:figs_explicit|Explicit and Implicit Information]])
+
+=== Explanation of Source Language ===
+
+In general, we want to downplay the original languages since most of the users of the notes will not have had any training in them. This does not mean we avoid the content. Rather, it means that we should look for simple ways to express that content. When possible, use plain-language explanations in English.
+
+  * **sinful man**  - The word here for "man" means "adult male" and not the more general "human being."
+  * **Master**  - The word that is translated here as “Master” is a not the normal word for “Master.” This one refers to someone who has authority, and not to someone who owns someone else. AT: "Boss" or "Foreman" or use a word that is commonly used to address a person in authority, such as “Sir.”
+
+=== Multiple Notes on Long Phrase ===
+
+Sometimes we need notes for a phrase and separate notes for portions of that phrase. In that case, we list the larger phrase first, and its parts afterward, unless there is a compelling reason to reverse them.
+
+  * **you say, 'Behold, he is a gluttonous man**  - This can be translated as an indirect quote: "you say that he is a gluttonous man" or "you accuse him of being a gluttonous man."
+  * **he is a gluttonous man**  - "he is a greedy eater" or "he habitually eats too much food"
+
 
 
 
