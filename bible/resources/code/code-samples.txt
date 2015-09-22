@@ -131,6 +131,14 @@ Find missing text portions:
 </code>
 
 
+==== Anchors: ====
+
+Anchor on current page:
+
+<code>
+[[namespace:page_name#anchor_name]]
+</code>
+
 ==== Other: ====
 
 item:
