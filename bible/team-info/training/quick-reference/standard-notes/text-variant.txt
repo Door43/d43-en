@@ -8,7 +8,7 @@ This describes how to write a note to call the translator's attention to a footn
 
 When the ULB or UDB contains a footnote that explains that portions of the text are omitted, we will add a translation note like the following. (Write the actual verse number in the square brackets).
 
-  * **verse [number]**  - This verse was not included because some of the older, more reliable, ancient texts did not include it. Whether you include the verse or omit it, you may need to add a footnote with this information. (See: [[:en:ta:vol1:translate:translate_textvariants]])
+  * **verse [number]**  - This verse was not included because some of the older, more reliable, ancient texts did not include it. Whether you include the verse or not, you may need to add a footnote with this information. (See: [[:en:ta:vol1:translate:translate_textvariants]])
 
 When we know that some versions use different verse numbering, we can add a translation note like the following. 
 
