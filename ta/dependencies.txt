@@ -173,6 +173,9 @@ edge [arrowsize=1.4];
 "Technology" -> "d43_intro"
 "d43_translateOBS" [fillcolor="#ffff99"]
 "d43_intro" -> "d43_translateOBS"
+"resources_d43" [fillcolor="#ffff99"]
+"d43_intro" -> "resources_d43"
+"resources_intro" -> "resources_d43"
 "software" [fillcolor="#ffff99"]
 "tech_intro" -> "software"
 "software" [fillcolor="#ffff99"]
@@ -213,6 +216,7 @@ edge [arrowsize=1.4];
 "tS_install" -> "tS_request"
 "tS_resources" [fillcolor="#ffff99"]
 "tS_create" -> "tS_resources"
+"resources_intro" -> "tS_resources"
 "tS_select" [fillcolor="#ffff99"]
 "tS_install" -> "tS_select"
 "tS_share" [fillcolor="#ffff99"]
@@ -372,6 +376,12 @@ edge [arrowsize=1.4];
 "guidelines_pure" [fillcolor="#99ff99"]
 "guidelines_intro" -> "guidelines_pure"
 "translation_guidelines" -> "guidelines_pure"
+"resources_intro" [fillcolor="#99ff99"]
+"translate_manual" -> "resources_intro"
+"resources_links" [fillcolor="#99ff99"]
+"resources_intro" -> "resources_links"
+"resources_types" [fillcolor="#99ff99"]
+"resources_intro" -> "resources_types"
 "toc_transvol1" [fillcolor="#99ff99"]
 "Translation" -> "toc_transvol1"
 "toc_transvol1_2" [fillcolor="#99ff99"]

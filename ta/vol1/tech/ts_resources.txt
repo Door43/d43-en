@@ -1,18 +1,22 @@
-===== Resources - Important Terms and Translation Notes =====
+===== Find the Resources in translationStudio =====
 
-This module answers the question: How do I find resources - important terms and translation notes?\\
-Before you start this module have you learned about: [[en:ta:vol1:tech:ts_create|Create and Edit Text]]
+This module answers the question: How do I find Resources in translationStudio?\\
+Before you start this module have you learned about:
+  * [[en:ta:vol1:tech:ts_create|Create and Edit Text]]
+  * [[en:ta:vol1:translate:resources_intro|Introduction to Resources]]
 
-View this {{:en:ta:tech:translating_in_ts_-_obs_v2.mp4|Resources Video}}  to learn how to:
+==== translationStudio v2.3 ====
 
-   * Start work
-   * Navigate in the work area
-   * Learn where to enter your translation text
-   * Open the Resources tool
-   * Find important terms
-   * Find translation notes
+When editing - click on the word 'Resources' on the top bar.\\
+Tap the word 'Notes' for the translationNotes.\\
+Tap the word 'Words' for the translationWords. \\
 
-Go back to the __[[en:ta:vol1:tech:ts_intro|translationStudio]]__ page.
+==== translationStudio v3 ====
+Click on the icon to view the panel.\\
+Choose the heading of 'Terms' for links to the information about translationWords.\\
+Choose the heading of 'Notes' for the translationNotes.\\
+
+
 
 
 
