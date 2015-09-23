@@ -4,16 +4,17 @@ The Notes and KT pages contain status tags at the bottom. These tags should be c
 
 The main tags and their meaning are:
 
-  * **create** - this tag means KT page has been created, but not yet assigned to the KT team to edit
-  * **talink**  - this alerts the Translation Academy team that a new topic needs to be created
-  * **ktlink ** - this alerts the Key Terms team that a new Important Word needs to be created or an existing word/phrase was added to the list
-  * **delete** - this means that a KT has been marked by the KT team for removal of the page and all links and tags
-  * **draft**  - this indicates that a page needs to have draft content created by the appropriate team
-  * **check** - this indicates that the page is ready for the Translation Notes Teams Manager to check
-  * **review**  - this indicates that the page is ready for the Translation Specialist to review
-  * **text**  - this indicates that the Reviewer is waiting for a response from the text team about changes
-  * **discuss**  - this indicates that the Reviewer would like to discuss this page with another Reviewer before publishing
-  * **publish**  - this indicates that the page is finished and ready to release in the app
+  * **create** - This tag means KT page has been created, but not yet assigned to the KT team to edit.
+  * **talink**  - This alerts the Translation Academy team that a new topic needs to be created.
+  * **ktlink ** - This alerts the Key Terms team that a new Important Word needs to be created or an existing word/phrase was added to the list.
+  * **delete** - This means that a KT has been marked by the KT team for removal of the page and all links and tags.
+  * **draft**  - This indicates that a page needs to have draft content created by the appropriate team.
+  * **check** - This indicates that the page is ready for the Translation Notes Teams Manager to check.
+  * **review**  - This indicates that the page is ready for the Translation Specialist to review.
+  * **text**  - This indicates that the Reviewer is waiting for a response from the text team about changes.
+  * **inspect** - This indicates that the Reviewer is ready for the mentor to check the page.
+  * **discuss**  - This indicates that the Reviewer would like to discuss this page with another Reviewer before publishing.
+  * **publish**  - This indicates that the page is finished and ready to release in the app.
 {{tag>notes401 kt301}}
 
 ~~NOCACHE~~
