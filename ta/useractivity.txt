@@ -4,7 +4,7 @@ Suzanne to John Luton
 
 
 ^ Suzanne to John L ^
-|{{pagequery>@en:bible:notes:xxx \{\{tag>[^}]*luton[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort;showcount; layout=table;hidemsg;hidejump;fontsize=70%}}  | 
+|{{pagequery>@en:bible:notes:exo \{\{tag>[^}]*luton[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort;showcount; layout=table;hidemsg;hidejump;fontsize=100%}}  | 
 
 
 
