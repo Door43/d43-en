@@ -1,4 +1,4 @@
-====== tA Links ======
+====== tA Link Code ======
 
 These are tA links that we include in pages:
 
@@ -168,6 +168,12 @@ Synecdoche
 
 <code>
 [[:en:ta:vol2:translate:figs_synecdoche]]
+</code>
+
+Textual Variants
+
+<code>
+[[:en:ta:vol1:translate:translate_textvariants]]
 </code>
 
 
