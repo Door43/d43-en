@@ -1,12 +1,18 @@
 ====== user activity ======
 
-{{changes>ns=en:obe&count=50&maxage=604800&render=pagelist(header,date,user,nocomments)}}
+Suzanne to John Luton
 
-Matthew
-{{changes>user=mslgtwam&count=50&render=pagelist(header,date,user,nocomments)&maxage=25920000}} \\
+
+^ Suzanne to John L ^
+|{{pagequery>@en:bible:notes:xxx \{\{tag>[^}]*luton[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort;showcount; layout=table;hidemsg;hidejump;fontsize=70%}}  | 
+
+
+
+
+{{changes>ns=en:obe&count=50&maxage=604800&render=pagelist(header,date,user,nocomments)}}
 
 Changes this week
 
 **Translation Academy Namespace**
 
- {{changes>ns=en:ta&count=50&maxage=604800&render=pagelist(header,date,user,nocomments)}}
+ {{changes>ns=en:ta:workbench&count=50&maxage=604800&render=pagelist(header,date,user,nocomments)}}
