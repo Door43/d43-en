@@ -15,22 +15,31 @@ The "status" tags show the condition of a page. They cause the chunks to appear 
   * **inspect** - request for trainer to check work of new reviewer
   * **publish** - finished and ready to be loaded into the apps
 
+The order of the tags is optional, but it if the "review" or "publish" tags exist, it is preferred that they be the initial tags.
+
 
 ==== "Text" tag ====
 
 The "text" tag indicates a problem in the ULB or UDB text. It can also be used in combination with other status tags, depending on how the text issue affects the editing process. This is the way the review team lead (RTL) will respond to tag combinations:
 
-  * **text** - The notes are done, but the chunk is not published due to a ULB text issue. RTL will fix the text, check the notes, and publish. 
-  * **publish + text** - there is a minor UDB issue, but notes are done. RTL will fix UDB and leave published.
-  * **review + text** - there is a text issue that is putting review on hold. RTL will fix text and leave as “review” so notes can be finished.
+  * **text** - The "text" tag alone indicates that the notes are done, but the chunk is not published due to a ULB text issue. RTL will fix the text, check the notes, and publish. 
+  * **publish + text** - There is a minor UDB issue, but notes are done. RTL will fix UDB and leave published.
+  * **review + text** - There is a text issue that is putting review on hold. RTL will fix text and leave as “review” so notes can be finished.
   * **text + discuss** - There is a text issue and also a larger problem in the notes. RTL will fix the text, and then tackle the other issue. TRL will publish when done.
 
 
 ==== "Discuss" tag ====
 
+The "discuss" tag indicates that the reviewer wants to escalate an issue on a notes page to the review team lead (RTL), or to revisit something on a published page. These are the typical "discuss" tag combinations:
 
-
-
+  * **discuss** - This tag alone indicates that the reviewer wants to escalate a page to the RTL for one of the following issues:
+    * a complicated issue
+    * an unusual issue for which there is no guideline or pattern
+    * a time-consuming issue that is slowing down the reviewer
+  * **discuss + text** - The reviewer has finished the notes, but there is a text problem and an other issue that the reviewer wants the RTL to handle. After fixing those problems, the RTL will publish the page.
+  * **review + discuss** - There is a difficult issue that is preventing the completion of the notes. The RTL will deal with the discuss issue and return the page to the reviewer for completion.
+  * **review + discuss + text** - There are text and other issues that prevent the completion of the notes. The RTL will deal with the issues and return the page to the reviewer for completion.
+  * **publish + discuss** - This indicates that a notes or KT page is published, but there is a non-critical issue that should be addressed or revisited by the RTL or KT team lead.
 
 
 
