@@ -1,26 +1,33 @@
 ====== Tag Combinations ======
 
-The status tags are what cause the chunks to appear in the workflow of the correct person. These "status" tags are:
+This is an overview of the use of tags by reviewers.
 
-  * create
-  * draft
-  * check
-  * review
-  * text
-  * discuss
-  * inspect
-  * publish
+==== Status tags ====
+
+The "status" tags show the condition of a page. They cause the chunks to appear in the workflow of the correct person. The status tags are:
+
+  * **create** - KT page with placeholder text not yet assigned to team to draft
+  * **draft** - ready for initial content
+  * **check** - ready for manager to check initial content
+  * **review** - ready for reviewer to edit
+  * **text** - problem to correct in ULB or UDB text
+  * **discuss** - escalate issue that is complex, time-consuming, etc.
+  * **inspect** - request for trainer to check work of new reviewer
+  * **publish** - finished and ready to be loaded into the apps
 
 
 ==== "Text" tag ====
 
-“publish text” - there is a minor UDB issue, but notes are done. I will fix UDB and leave published.
-“review text” - there is a text issue that is putting review on hold. I will fix text and leave as “review” so notes can be finished.
-“text” - The notes are done, but the chunk is not published due to a ULB text issue. I will fix the text, check the notes, and publish. 
-“text discuss” - There is both a text issue and a larger problem in the notes. I will fix the text, and then tackle the other issue. I will publish when done.
+The "text" tag indicates a problem in the ULB or UDB text. It can also be used in combination with other status tags, depending on how the text issue affects the editing process. This is the way the review team lead (RTL) will respond to tag combinations:
+
+  * **text** - The notes are done, but the chunk is not published due to a ULB text issue. RTL will fix the text, check the notes, and publish. 
+  * **publish + text** - there is a minor UDB issue, but notes are done. RTL will fix UDB and leave published.
+  * **review + text** - there is a text issue that is putting review on hold. RTL will fix text and leave as “review” so notes can be finished.
+  * **text + discuss** - There is a text issue and also a larger problem in the notes. RTL will fix the text, and then tackle the other issue. TRL will publish when done.
 
 
 ==== "Discuss" tag ====
+
 
 
 
