@@ -166,6 +166,8 @@ edge [arrowsize=1.4];
 "tsandroid_translation" [fillcolor="#99ffff"]
 "pretranslation_training" -> "tsandroid_translation"
 "setup_tsandroid" -> "tsandroid_translation"
+"upload_merge" [fillcolor="#99ffff"]
+"PROCESS MANUAL" -> "upload_merge"
 "word_translation" [fillcolor="#99ffff"]
 "pretranslation_training" -> "word_translation"
 "setup_word" -> "word_translation"
