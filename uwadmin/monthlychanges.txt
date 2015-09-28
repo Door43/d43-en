@@ -305,6 +305,8 @@
 {{changes>ns=pgg:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:pht:obs|pht OBS]]**
 {{changes>ns=pht:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
+**[[:pkr:obs|pkr OBS]]**
+{{changes>ns=pkr:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:pl:obs|pl OBS]]**
 {{changes>ns=pl:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:playground:obs|playground OBS]]**
