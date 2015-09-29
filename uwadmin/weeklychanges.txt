@@ -361,6 +361,9 @@
 **[[:mcf:obs|mcf OBS]]**
 {{changes>ns=mcf:obs&maxage=604800&render=pagelist(header,date,user,nocomments)}}
 
+**[[:mdy:obs|mdy OBS]]**
+{{changes>ns=mdy:obs&maxage=604800&render=pagelist(header,date,user,nocomments)}}
+
 **[[:mer:obs|mer OBS]]**
 {{changes>ns=mer:obs&maxage=604800&render=pagelist(header,date,user,nocomments)}}
 
