@@ -45,9 +45,6 @@ There are many situations when it is helpful to write a translation notes. This 
 
 ==== Alternate Verses or Versification ====
 
-The IT team will make the right verse show in the GW language, but there is a chance that the MTT might have another version that uses different numbering, or includes different text. We should add a very brief note. Something like:
-
-  * Some versions place verse x in chapter x. You should number the verses according to the main version that your language group uses.
-  * Verse x is not included in the best manuscripts, but some modern version do include it. If you choose not to include the verse, you may need to add a footnote to explain why it is not present.
+The IT team will make the right verse show in the GW language, but there is a chance that the MTT might have another version that uses different numbering, or includes different text. We should add a very brief note. See [[en:bible:team-info:training:quick-reference:standard-notes:text-variant]] for notes.
 
 ~~DISCUSSION~~
