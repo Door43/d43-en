@@ -48,10 +48,11 @@ Matthew 1:9
 ==== 2. Give information that will help the translator understand a difference between the ULB and UDB. ====
 This will help the translators understand that both mean the same thing.
 
-Matthew 1:1-3
+Matthew 1:1-3 \\ 
+ULB: The book of the genealogy of Jesus Christ, the son of David, the son of Abraham.\\ 
+UDB: This is the record of the ancestors of Jesus Christ, the descendant of King David and of Abraham.
 
-**the son of David, the son of Abraham** - AT: “a descendant of David, who was a descendant of Abraham.” There were many generations between Abraham and his descendant David, and between David and his descendant Jesus.
-
+  * **the son of David, the son of Abraham** - AT: “a descendant of David, who was a descendant of Abraham.” There were many generations between Abraham and his descendant David, and between David and his descendant Jesus.
 ==== 3. Suggest different ways of saying something and suggest consistency. ====
 
 Matthew 1:1-3
