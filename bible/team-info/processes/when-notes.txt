@@ -45,6 +45,6 @@ There are many situations when it is helpful to write a translation notes. This 
 
 ==== Alternate Verses or Versification ====
 
-The IT team will make the right verse show in the GW language, but there is a chance that the MTT might have another version that uses different numbering, or includes different text. We should add a very brief note. See [[en:bible:team-info:training:quick-reference:standard-notes:text-variant]] for sample notes.
+There is a chance that the MTT might have a version that has different verse numbering or includes different text than the UDB and ULB. If we know that this could happen, we should add a brief note. See [[en:bible:team-info:training:quick-reference:standard-notes:text-variant]] for sample notes.
 
 ~~DISCUSSION~~ {{tag>discuss}}
