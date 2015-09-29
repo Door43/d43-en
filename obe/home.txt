@@ -5,7 +5,8 @@
   * [[:en:obe:kt:home|Key Terms]]
   * [[:en:obe:other:home|Other Terms]]
   * [[:en:bible:admin-reports:obe-admin:obe-reject]]
-  * [[:en:bible:team-info:training:topics:kt-yes-no|Is It a Key Term?]]
-==== All terms from both lists: ====
+  * [[common terms]]
+  * [[:en:bible:team-info:training:topics:kt-yes-no]]
+==== All translation words OBE: ====
 
 {{pagequery>ns:en:obe; fulltext; sort=title:asc; display={name} -{title}; natsort; showcount; hidemsg; hidejump; layout=column}}
