@@ -239,6 +239,8 @@
 {{changes>ns=lv:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:mas:obs|mas OBS]]**
 {{changes>ns=mas:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
+**[[:mbt:obs|mbt OBS]]**
+{{changes>ns=mbt:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:mcf:obs|mcf OBS]]**
 {{changes>ns=mcf:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:mdy:obs|mdy OBS]]**
