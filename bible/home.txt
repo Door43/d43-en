@@ -58,7 +58,7 @@ See the [[:en:library|Open Christian Library]] for more copies of open license B
 
 Black = In Process
 
-Red = Not yet in process
+<span style="color: #900">Red</span> = Not yet in process
 
 Blue = Finished
 
