@@ -7,8 +7,8 @@
 
 ==== Does a word need to be in either of these lists? ====
   * [[:en:bible:team-info:training:topics:kt-yes-no]]
-  * [[common terms]]
-  * [[:en:bible:admin-reports:obe-admin:obe-reject]]
+  * [[en:bible:team-info:training:topics:common-words]] - If it's on this list, probably not.
+  * [[:en:bible:admin-reports:obe-admin:obe-reject]] - If it's on this list, no.
 ==== All translation words OBE: ====
 
 {{pagequery>ns:en:obe; fulltext; sort=title:asc; display={name} -{title}; natsort; showcount; hidemsg; hidejump; layout=column}}
