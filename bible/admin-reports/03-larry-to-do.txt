@@ -9,4 +9,8 @@
 ^  Discuss - tW  ^  Discuss - tN  ^  Text - Bible, tQ  ^  Review - tQ  ^
 |{{pagequery>@en:obe \{\{tag>[^}]*discuss[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort;showcount; layout=table;hidemsg;hidejump;fontsize=70%}} |{{pagequery>@en:bible:notes \{\{tag>[^}]*discuss[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort;showcount; layout=table;hidemsg;hidejump;fontsize=70%}} |{{pagequery>@en:bible:notes @en:bible:questions \{\{tag>[^}]*text[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort;showcount; layout=table;hidemsg;hidejump;fontsize=70%}}  |{{pagequery>@en:bible:questions:comprehension \{\{tag>[^}]*review[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort;showcount; layout=table;hidemsg;hidejump;fontsize=70%}}  |
 
+==== All "discuss" pages ====
+
+{{pagequery>@en \{\{tag>[^}]*discuss[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort;showcount; layout=table;hidemsg;hidejump;fontsize=70%}}
+
 \\
