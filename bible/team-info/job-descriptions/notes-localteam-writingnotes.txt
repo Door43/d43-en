@@ -19,10 +19,10 @@
   - Read the UDB.
       - Do __not__  write a note, if it is easy to understand the word or phrase from the UDB.
       - Write a note if the UDB uses different phrases than the ULB or if the information is presented in a different order that might be hard for someone who does not know English very well to figure out which parts of the UDB mean the same as the ULB.
-  - If the meaning of a word is unclear, see if there is a key term page for that word. You can view the full list of key terms [[:en:obe:home|here]].
-      - If there is, and if the page clarifies the meaning of the word, then do __not__  write a note.
-      - If the key term has different senses, write a note telling which sense is intended on that chunk.
-      - If a word is not clear and it is not a key term, write a translation suggestion using a simpler word or phrase. If you can’t write a translation suggestion, explain what the word means.
+  - If the meaning of a word is unclear, see if there is a page explaining that word. You can view the full list of important terms [[:en:obe:home|here]].
+      - If there is a page, and if the page clarifies the meaning of the word, then do __not__  write a note.
+      - If the term has different senses, write a note telling which sense is intended on that chunk.
+      - If a word is not clear and it does not have (or need) a page, write a translation suggestion using a simpler word or phrase. If you can’t write a translation suggestion, explain what the word means.
 
 ==== Important Terms ====
 
