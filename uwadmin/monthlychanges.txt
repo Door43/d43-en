@@ -35,6 +35,8 @@
 {{changes>ns=as:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:asn:obs|asn OBS]]**
 {{changes>ns=asn:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
+**[[:atd:obs|atd OBS]]**
+{{changes>ns=atd:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:awa:obs|awa OBS]]**
 {{changes>ns=awa:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:az:obs|az OBS]]**

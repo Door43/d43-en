@@ -52,6 +52,9 @@
 **[[:asn:obs|asn OBS]]**
 {{changes>ns=asn:obs&maxage=604800&render=pagelist(header,date,user,nocomments)}}
 
+**[[:atd:obs|atd OBS]]**
+{{changes>ns=atd:obs&maxage=604800&render=pagelist(header,date,user,nocomments)}}
+
 **[[:awa:obs|awa OBS]]**
 {{changes>ns=awa:obs&maxage=604800&render=pagelist(header,date,user,nocomments)}}
 
