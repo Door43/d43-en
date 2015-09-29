@@ -9,15 +9,9 @@ We have decided to use "American-style" punctuation. For this project, that mean
   * Add double-quotation marks for direct speech, and single-quotation marks for quotations within quotations.
   * When referring to a term in a note, add double-quotes around the term to set it off from the other text (Ex. The meaning of "grace" is…).
   * When writing a string of translation alternatives separated by "or" do not use commas between the phrases. (Ex. That is, "one time" or "the next" or "all at once.")
-  * Do **not **  use a comma when introducing a note with "This can be translated as …"
-  *
-
-Our current usage in both ULB and UDB is to employ the colon judiciously, NOT in the overly-enthusiastic ASV manner. In general, we are using the colon in situations like this:
-
-"I heard them singing the song of Moses and the Lamb: 'Great and marvelous are your works...'"
-
-About semicolons: we do use them to effect a separation between ** independent clauses ** that are too closely linked in logic to separate by a period. E.g., "David and Jonathan were firm friends; they were always visiting each other."
-
+  * Our current usage in both ULB and UDB is to employ the colon judiciously, NOT in the overly-enthusiastic ASV manner. In general, we are using the colon in situations like this:
+    * "I heard them singing the song of Moses and the Lamb: 'Great and marvelous are your works...'"
+  * About semicolons: we do use them to effect a separation between ** independent clauses ** that are too closely linked in logic to separate by a period. E.g., "David and Jonathan were firm friends; they were always visiting each other."
   * Colons are used in the translation notes and the key terms pages, both in sentences and in cross-references.
       * (See also**:**  Sarah, Isaac)
       * **Jerusalem surrounded by armies**  - This can be expressed with an active verb**:**  “armies surrounding Jerusalem.” (See**:**  Active or Passive)
