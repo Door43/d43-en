@@ -3,25 +3,25 @@
 ==== Books in Process - Resources ====
 
 ^Old Testament ^Old Testament ^Old Testament ^New Testament |
-|**[[Exodus]]**  |**[[2 Kings]]**  |  |**[[Matthew]]**  |
-|**[[Joshua]]**  |**[[Nehemiah]]**  |**[[Zephaniah]]**  |**[[Mark]]**  |
-|**[[1 Samuel]]**  |**[[Proverbs]]**  |**[[Haggai]]**  |**[[1 Corinthians]]**  |
-|**[[2 Samuel]]**  |**[[Isaiah]]**  |**[[Zechariah]]**  |**[[2 Corinthians]]**  |
-|**[[1 Kings]]**  |**[[Ezekiel]]**  |**[[Malachi]]**  |**[[Hebrews]]**  |
+|**[[:en:bible:exodus|Exodus]]**  |**[[:en:bible:2-kings|2 Kings]]**  |  |**[[:en:bible:matthew|Matthew]]**  |
+|**[[:en:bible:joshua|Joshua]]**  |**[[:en:bible:nehemiah|Nehemiah]]**  |**[[:en:bible:zephaniah|Zephaniah]]**  |**[[:en:bible:mark|Mark]]**  |
+|**[[:en:bible:1-samuel|1 Samuel]]**  |**[[:en:bible:proverbs|Proverbs]]**  |**[[:en:bible:haggai|Haggai]]**  |**[[:en:bible:1-corinthians|1 Corinthians]]**  |
+|**[[:en:bible:2-samuel|2 Samuel]]**  |**[[:en:bible:isaiah|Isaiah]]**  |**[[:en:bible:zechariah|Zechariah]]**  |**[[:en:bible:2-corinthians|2 Corinthians]]**  |
+|**[[:en:bible:1-kings|1 Kings]]**  |**[[:en:bible:ezekiel|Ezekiel]]**  |**[[:en:bible:malachi|Malachi]]**  |**[[:en:bible:hebrews|Hebrews]]**  |
 
 ==== Books with Completed Resources (mmyy) ====
 
-|[[Genesis]] 8/15 |  |  |[[Nahum]] 8/15 |[[Romans]] 07/15 |[[Titus]] 11/14 |
-|  |  |  |[[Habakkuk]] 8/15 |  |[[Philemon]] 06/15 |
-|  |  |  |  |[[Ephesians]] 09/15 |  |
-|  |  |  |  |[[Galatians]] 04/15 |[[James]] 07/15 |
-|  |  |  |  |  |[[1 Peter]] 9/15 |
-|  |  |  |  |[[Philippians]] 06/15 |[[2 Peter]] 8/15 |
-|  |  |[[Joel]] 9/15 |  |[[Colossians]] 06/15 |[[1 John]] 08/15 |
-|[[Ruth]] 11/14 |  |  |  |[[1 Thessalonians]] 8/15 |[[2 John]] 08/15 |
-|  |  |  |[[Luke]] 01/15 |[[2 Thessalonians]] 05/15 |[[3 John]] 08/15 |
-|  |  |[[Jonah]] 06/15 |[[John]] 8/15 |[[1 Timothy]] 03/15 |[[Jude]] 8/15 |
-|  |  |  |[[Acts]] 8/15 |[[2 Timothy]] 03/15 |  |
+|[[:en:bible:genesis|Genesis]] 8/15 |  |  |[[:en:bible:nahum|Nahum]] 8/15 |[[:en:bible:romans|Romans]] 07/15 |[[:en:bible:titus|Titus]] 11/14 |
+|  |  |  |[[:en:bible:habakkuk|Habakkuk]] 8/15 |  |[[:en:bible:philemon|Philemon]] 06/15 |
+|  |  |  |  |[[:en:bible:ephesians|Ephesians]] 09/15 |  |
+|  |  |  |  |[[:en:bible:galatians|Galatians]] 04/15 |[[:en:bible:james|James]] 07/15 |
+|  |  |  |  |  |[[:en:bible:1-peter|1 Peter]] 9/15 |
+|  |  |  |  |[[:en:bible:philippians|Philippians]] 06/15 |[[:en:bible:2-peter|2 Peter]] 8/15 |
+|  |  |[[:en:bible:joel|Joel]] 9/15 |  |[[:en:bible:colossians|Colossians]] 06/15 |[[:en:bible:1-john|1 John]] 08/15 |
+|[[:en:bible:ruth|Ruth]] 11/14 |  |  |  |[[:en:bible:1-thessalonians|1 Thessalonians]] 8/15 |[[:en:bible:2-john|2 John]] 08/15 |
+|  |  |  |[[:en:bible:luke|Luke]] 01/15 |[[:en:bible:2-thessalonians|2 Thessalonians]] 05/15 |[[:en:bible:3-john|3 John]] 08/15 |
+|  |  |[[:en:bible:jonah|Jonah]] 06/15 |[[:en:bible:john|John]] 8/15 |[[:en:bible:1-timothy|1 Timothy]] 03/15 |[[:en:bible:jude|Jude]] 8/15 |
+|  |  |  |[[:en:bible:acts|Acts]] 8/15 |[[:en:bible:2-timothy|2 Timothy]] 03/15 |  |
 
 ==== Books that Need Translation Notes ====
 
@@ -50,10 +50,10 @@ EtherPad Files:
 
 Source text showing chunks:
 
-  * [[unfoldingWord Literal Bible]]
-  * [[unfoldingWord Dynamic Bible]]
+  * [[:en:bible:unfoldingword-literal-bible|unfoldingWord Literal Bible]]
+  * [[:en:bible:unfoldingword-dynamic-bible|unfoldingWord Dynamic Bible]]
 
-See the [[Open Christian Library]] for more copies of open license Bibles such as the Translation for Translators, Plain English Translation and the Plain Indonesian Translation.
+See the [[:en:bible:open-christian-library|Open Christian Library]] for more copies of open license Bibles such as the Translation for Translators, Plain English Translation and the Plain Indonesian Translation.
 
 ===== Books In Process - Source Text Editing =====
 
@@ -63,10 +63,10 @@ See the [[Open Christian Library]] for more copies of open license Bibles such a
 
 **Blue **  = Finished
 
-|** Genesis  **  |2 Kings |Isaiah |Nahum |Romans |Titus |
-|** Exodus  **  |1 Chronicles |Jeremiah |Habakkuk |1 Corinthians |Philemon |
-|** Leviticus  **  |2 Chronicles |Lamentations |Zephaniah |2 Corinthians |Hebrews |
-|**Numbers **  |Ezra |Ezekiel |Haggai |Galatians |James |
+|**Genesis **   |2 Kings |Isaiah |Nahum |Romans |Titus |
+|**Exodus **   |1 Chronicles |Jeremiah |Habakkuk |1 Corinthians |Philemon |
+|**Leviticus **   |2 Chronicles |Lamentations |Zephaniah |2 Corinthians |Hebrews |
+|**Numbers **   |Ezra |Ezekiel |Haggai |Galatians |James |
 |Deuteronomy |Nehemiah |Daniel |Zechariah |Ephesians |1 Peter |
 |Joshua |Esther |Hosea |Malachi |Philippians |2 Peter |
 |Judges |Job |Joel |Matthew |Colossians |1 John |
