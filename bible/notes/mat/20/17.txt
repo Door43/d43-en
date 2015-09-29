@@ -29,8 +29,7 @@
 <usfm>
 \p
 \v 17 As Jesus was going up to Jerusalem, he took the twelve disciples apart, and on the way he said to them,
-\v 18 "See, we are going up to Jerusalem, and the Son of Man will be delivered to the chief priests and scribes. They will 
-condemn him to death
+\v 18 "See, we are going up to Jerusalem, and the Son of Man will be delivered to the chief priests and scribes. They will condemn him to death
 \v 19 and will deliver him to the Gentiles for them to mock him, flog him, and crucify him. But on the third day he will be raised up."
 </usfm>
 
@@ -49,24 +48,26 @@ condemn him to death
   * [[:en:obe:other:mock]]
   * [[:en:obe:kt:crucify]]
   * [[:en:obe:kt:raise]]
+
 ===== Translation Notes: =====
 
 Jesus continue to teach his disciples as they travel to Jerusalem.
 
-  * **See, we are going up to Jerusalem** - This is speaking about all twelve disciples and Jesus going up together towards Jerusalem.
-  * **the Son of Man will be delivered to the chief priests and scribes**  - This can be made active by saying "The chief priests and scribes will take the Son of Man." (See: Active or Passive)
-  * **the Son of Man**  - Jesus is talking about himself in the third person. (See: First, Second and Third Person)
-  * **They will condemn him to death**  - This is referring to the chief priests and scribes accusing Jesus of a crime for which he will die.
-  * **for them to mock**  - "for the Gentile people to mock"
-  * **Gentiles**  - In this case it is used to refer to the Roman officials.
-  * **scourge**  - "flog" or "whip"
-  * **on the third day**  - This refers to the third day after Jesus' death. However, the disciples did not yet understand this, so it is best not to add this explanation when translating this verse.
-  * **he will be raised up**  - This can be made active by saying "God will raise Jesus from the dead." (See: Active or Passive)
+  * **See, we are going up to Jerusalem** - This is about all twelve disciples and Jesus going up together towards Jerusalem. (See: [[en:ta:vol2:translate:figs_inclusive]])
+  * **the Son of Man will be delivered to the chief priests and scribes** - This can be made active by saying "someone will deliver the Son of Man to the chief priests and scribes" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **the Son of Man** - Jesus is talking about himself in the third person. (See: [[en:ta:vol1:translate:figs_123person]])
+  * **They will condemn him to death** - The word "they" refers  to the chief priests and scribes.
+  * **for them to mock** - "for the Gentile people to mock"
+  * **Gentiles** - The Roman officials
+  * **scourge** - "flog" or "whip"
+  * **on the third day** - This refers to the third day after Jesus' death. 
+  * **he will be raised up**  - This can be made active by saying "God will raise Jesus from the dead." (See: [[:en:ta:vol2:translate:figs_activepassive]])
+
 ===== Links: =====
 
   * **[[en:bible:questions:comprehension:mat:20|Matthew Chapter 20 Comprehension Questions]]**
 **[[:en:bible:notes:mat:20:15|<<]] | [[:en:bible:notes:mat:20:20|>>]]**
 
-~~DISCUSSION~~{{tag>check jerusalem mock raise}}
+~~DISCUSSION~~{{tag>review jerusalem mock raise}}
 
 ~~NOCACHE~~
