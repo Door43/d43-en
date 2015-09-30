@@ -175,11 +175,11 @@ edge [arrowsize=1.4];
 "Technology" -> "d43_intro"
 "d43_translateOBS" [fillcolor="#ffff99"]
 "d43_intro" -> "d43_translateOBS"
+"hardware" [fillcolor="#ffff99"]
+"tech_intro" -> "hardware"
 "resources_d43" [fillcolor="#ffff99"]
 "d43_intro" -> "resources_d43"
 "resources_intro" -> "resources_d43"
-"software" [fillcolor="#ffff99"]
-"tech_intro" -> "software"
 "software" [fillcolor="#ffff99"]
 "tech_intro" -> "software"
 "tK_create" [fillcolor="#ffff99"]
@@ -384,8 +384,6 @@ edge [arrowsize=1.4];
 "resources_intro" -> "resources_links"
 "resources_types" [fillcolor="#99ff99"]
 "resources_intro" -> "resources_types"
-"toc_transvol1" [fillcolor="#99ff99"]
-"Translation" -> "toc_transvol1"
 "toc_transvol1_2" [fillcolor="#99ff99"]
 "Translation" -> "toc_transvol1_2"
 "toc_transvol2" [fillcolor="#99ff99"]

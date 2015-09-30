@@ -6,29 +6,34 @@ Before you start this module have you learned about:
   * [[en:ta:vol1:checking:intro_levels|Introduction to the Checking Levels]]
 
 ===== How to Update a Previous Version of Open Bible Stories =====
-In an effort to ensure the highest quality resource possible with the highest level of accuracy to the Bible, several revisions have been made to Open Bible Stories through the years. Sometimes translations have been made off of a previous version. It is our desire that every translation be updated to the latest, best version of Open Bible Stories.
+In an effort to ensure the highest quality resource possible with the highest level of accuracy to the Bible, several revisions have been made to Open Bible Stories through the years. Sometimes translations have been made using a previous version. It is our desire that every translation be updated to the latest, best version of Open Bible Stories.
+
 ==== Definition of a Version of Open Bible Stories ====
-A version of Open Bible Stories refers to a variation in the text itself that differs from an earlier form of the same text.\\
+A version of Open Bible Stories refers to a variation in the text itself that differs from an earlier form of the same story.\\
 
 Versions are indicated by two or three numbers separated by periods (e.g. 2.0 or 3.1.2).\\
 
-The purpose of using versions is to easily and consistently be able to differentiate between and communicate about variations and modifications Open Bible Stories has gone through.
+The purpose of using version numbers is to be able to identify and communicate about the changes that have been made to Open Bible Stories.
+
 ==== How Version Numbering Happens ====
-Open Bible Stories was written in English and remains the "gold standard" of Open Bible Stories. After Open Bible Stories was originally written, let's say it was version 1.0. Each major change after that bumped the translation up 0.1. So after the first major change after it was written, Open Bible Stories went from version 1.0 to version 1.1. For each minor change, a version is increased by 0.0.1. So let's say after the major change a minor change was then made, the version would increase from 1.1 to 1.1.1. Either after an especially large change or after a series of major changes, the version number is bumped up to the next level and "resets". For instance, after version 1.1.1 if there was an especially large change, the next release would be 2.0.\\
+Open Bible Stories was written in English and this remains the original, standard version of Open Bible Stories against which all others are measured for accuracy. After Open Bible Stories was originally written, it was called version 1.0. With each major change after that we added 0.1 to the version number. So after the first major change after it was written, Open Bible Stories went from version 1.0 to version 1.1. For each minor change, a version is increased by 0.0.1. So after the first major change when there was a minor change made, the version went from 1.1 to 1.1.1. Either after an especially large change or after a series of major changes, the version number went to the next level and was "reset" with the next whole number. For instance, after version 1.1.1, if there was an especially large change, the next release would be 2.0.\\
 
 In general, major changes constitute changes that have theological implications, restructuring of image and story order, or the changing of images. Minor changes include fixing typos and simple rewording that will not largely affect translations (e.g. changing "unleavened bread" to "bread that is made without yeast").\\
 
+==== Version Numbering for Translations ====
 Version Numbering for translations takes the version number of the source language and adds 0.1. So if somebody translates from English version 2.1.1, the translation would be version 2.2.1.
-==== Identify which Version of Open Bible Stories ====
-Many translations have the version number listed. You can find the version number in the side bar for whatever language you happen to be on in Door43.\\
 
-Some translations, especially those done offline, do not have the version number. To figure out which version a particular translation is:
-  * Check story #45. If it ends with Philip looking at the chariot then it is translated from version 1.0. If it ends with the Ethiopian Official smiling go to the next step.
-  * Check 06-02. If the phrase "to the land where Abraham's relatives lived" is not included then it is translated from version 2.0. If it is included it is translated from at least version 3.0. (Also check 09-06, if "in order to save him from being killed" is not included it is translated from version 2.0. If it is included it is translated from at least version 3.0.)
-  * If you are still not sure, we have created a complete set of all the changes between [[https://door43.org/obs-diffs/ver_1-to-ver_3.html|Version 1]] or [[https://door43.org/obs-diffs/ver_2-to-ver_3.html|Version 2]] and the current. Compare your translation to determine which version your translation was made off of. Note: All text highlighted in green has been added, highlighted in yellow has been changed, and highlighted in red has been deleted. Only frames that have changed are included.
+==== Identify which Version of Open Bible Stories ====
+Many translations have the version number listed. You can find the version number in the side bar for whatever language you happen to be looking at in Door43.\\
+
+Some translations, especially those done offline, do not have the version number. To figure out which version a particular translation was translated from, do the following:
+  * Check story #45. If it ends with Philip looking at the chariot, then it is translated from version 1.0. If it ends with the Ethiopian Official smiling, go to the next step.
+  * Check frame 06-02. If the phrase "to the land where Abraham's relatives lived" is not included, then it is translated from version 2.0. If it is included, it is translated from at least version 3.0. (Also check frame 09-06. If "in order to save him from being killed" is not included, it is translated from version 2.0. If it is included, it is translated from at least version 3.0.)
+  * If you are still not sure, we have created a complete set of all the changes between [[https://door43.org/obs-diffs/ver_1-to-ver_3.html|Version 1]] or [[https://door43.org/obs-diffs/ver_2-to-ver_3.html|Version 2]] and the current version. Compare your translation to this list of changes to determine which version your translation was made from. Note: All text highlighted in green has been added, text highlighted in yellow has been changed, and text highlighted in red has been deleted. Only frames that have changed are included in these lists.
   * To make sure you have all the latest changes, look at the [[:en:obs:change-log|change log]] and make sure these changes have been made in your language.
+  
 ==== Update to the Latest Version of Open Bible Stories ====
-Once you have identified which version of Open Bible Stories your language is, you will need to update your language to the latest version. To help simplify the update process, we have generated change logs of all the changes that happened between [[https://door43.org/obs-diffs/ver_1-to-ver_3.html|version 1 and the latest]] and [[https://door43.org/obs-diffs/ver_2-to-ver_3.html|version 2 and the latest]]. Simply go through these changes and update the text according to those documents.
+Once you have identified which version of Open Bible Stories the translation in your language used, you will need to update the translation in your language to the latest version. To help simplify the update process, we have generated change logs of all of the changes that happened between [[https://door43.org/obs-diffs/ver_1-to-ver_3.html|version 1 and the latest]] and [[https://door43.org/obs-diffs/ver_2-to-ver_3.html|version 2 and the latest]]. Simply go through these changes and update the text in your language according to those documents, and your translation of Open Bible Stories will be up to date.
 
 
 
