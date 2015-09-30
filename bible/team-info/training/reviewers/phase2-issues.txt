@@ -26,7 +26,9 @@ This is a list of general issues that we want to deal with in Phase 2. This list
 
   * **Negation in text** - When we write notes, we may need to include the negation. See my 8-27-15 discussion note in [[en:bible:notes:ezk:34:07]]. (SQ) 
 
-  * **OT Quotes** - Should we suggest footnotes that translators could write to tell where quotes came from (particularly when it says "as it is written [±by the prophet]")?
+  * **OT Quotes** - Should we suggest footnotes that translators could write to tell where quotes came from (particularly when it says "as it is written [±by the prophet]")? (SQ)
+
+  * **Parentheses at end of notes** -  When we have (UDB) and a link like (See: metaphor), should there be any punctuation between the two? Should "UDB" come after "See:"? (SQ)
 
   * **Punctuation in TNs** - Reconsider use of question marks in notes. It seems odd without them when the whole question is written out in bold and in the translation suggestion. (SQ)
     * **In your greatness, who are you like** - “Who is as great as you are.”  Yahweh uses this question to ... 
