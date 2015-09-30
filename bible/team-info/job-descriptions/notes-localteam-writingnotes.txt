@@ -56,27 +56,28 @@ ULB //at the time of the deportation to Babylon.//
   * Translators may not know the word "deportation." Since the verb "deport" is not used in the UDB, and since the UDB includes phrases that are not in the ULB ("Babylonian army" and "captives") it may be help the translators to have a note explaining what the deportation was.
 
   * **at the time of the deportation to Babylon** - “when they were forced to move to Babylon” or “when the Babylonians made the them leave Judah and go live in Babylon.”  If your language needs to specify who went to Babylon, you could say “the Israelites” or “the Israelites who lived in Judah.”
-==== 2. Give information that will help the translator understand a difference between the ULB and UDB. ====
+
+==== 2. Give implicit information ====
+
+Isaiah 1:9 
+UDB: //we would have all been destroyed,
+like the cities of Sodom and Gomorrah were destroyed.// \\ 
+ULB: //we would have been like Sodom, we would have been like Gomorrah.//
+
+  * The translator might think that either the UDB or ULB is wrong because the UDB has the extra phrases "we would have all been destroyed" and "were destroyed." This note explains why it is acceptable for those phrases to be there.
+
+  * **we would have been like Sodom, we would have been like Gomorrah** - How Judah would have been like Sodom and Gomorrah can be made explicit: “we would have all been destroyed, like the cities of Sodom and Gomorrah were destroyed.” (UDB) (See: Explicit and Implicit Information)
 
 Joshua 1:15 \\ 
 UDB: //the land that Moses, Yahweh's servant, gave you here on the east side of the Jordan River.// \\ 
 ULB: //the land that Moses the servant of Yahweh gave you beyond the Jordan, where the sun rises.// \\ 
 
+  * Translators might wonder why the ULB has "beyond" but the  UDB has "here" and "east." The note below can help the translators understand the implicit information that "beyond the Jordan" means "east of the Jordan" and that the Israelites were still east of the Jordan.
 
-  * Translators might wonder why the ULB has "beyond" but the  UDB has "here" and "east." It could sound like they are two different sides of the Jordan River. The note below can help the translators understand that the ULB and UDB mean the same thing.
+  * **beyond the Jordan** - This refers to the east side of the Jordan River. Later most of the Israelites would live west of the Jordan, so they called the east side “beyond the Jordan.” But at this time they were all still on the east side. AT: “east of the Jordan River” or "here on the east side of the Jordan River"  (See: implicit/explicit)
 
-  * **beyond the Jordan** - This refers to the east side of the Jordan River. Later most of the Israelites would live west of the Jordan, so they called the east side “beyond the Jordan.” But at this time they were all still on the east side. AT: “east of the Jordan River”
-==== 3. Suggest different ways of saying something and suggest consistency. ====
 
-Matthew 1:2a\\ 
-UDB: //Abraham was the father of Isaac. // \\ 
-ULB: //Abraham was the father of Isaac, //
-
-  * The UDB and the ULB have the same wording. In some languages it might be clearer to word a genealogy in terms of sons rather than fathers.
-
-  * **Abraham was the father of Isaac** - AT: “Abraham became the father of Isaac” or “Abraham had a son Isaac” or “Abraham had a son named Isaac.” It may be clearer for your readers if you choose one way of saying this and use it throughout the rest of the list.
-
-==== 5. Identify a figure of speech and tell what it means. ====
+==== 3. Identify a figure of speech and tell what it means. ====
 If you add a translation suggestion, it should be able to replace the phrase that you discuss. Direct the translators to the translationAcademy page that tells about that kind of figure of speech. (You can just write it as it is written below. The reviewer will add the code for the link.)
 
 Acts 5:10a \\ 
@@ -103,11 +104,27 @@ ULB //Do you speak Greek? Are you not then the Egyptian, who previously led a re
 
   * **Do you speak Greek? Are you not then the Egyptian, who previously led a rebellion and took the four thousand terrorists into the wilderness?"** - The chief captain uses these questions to express his surprise. Paul is not who he thought he was. (See: rhetorical questions)
 
+==== 4. Identify what a pronoun refers to ====
+
+
+==== 5. Give a translation suggestion for a phrase with a verbal noun ====
+
+
 ==== 6. Identify a cultural issue that might help the translation.  ====
 
 Matthew 1:18
 
 **Mary was engaged to marry Joseph** - “was promised to marry” (UDB) or “was committed to marry.” Parents normally arranged marriages of their children.
+
+==== 7. Suggest different ways of saying something and suggest consistency. ====
+
+Matthew 1:2a\\ 
+UDB: //Abraham was the father of Isaac. // \\ 
+ULB: //Abraham was the father of Isaac, //
+
+  * The UDB and the ULB have the same wording. In some languages it might be clearer to word a genealogy in terms of sons rather than fathers.
+
+  * **Abraham was the father of Isaac** - AT: “Abraham became the father of Isaac” or “Abraham had a son Isaac” or “Abraham had a son named Isaac.” It may be clearer for your readers if you choose one way of saying this and use it throughout the rest of the list.
 
 ==== 7. Tell how the current chunk is a continuation of a previous chunk.  ====
 
