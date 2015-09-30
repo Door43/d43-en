@@ -1,25 +1,25 @@
 //The status of development for Open Bible Stories// 
 
 
-publish date: 
+publish date: 2015-09-30
 
 
-version: 
+version: 4.1
 
 
-contributors: 
+contributors: jesse test
 
 
 checking entity: translation team
 
 
-checking level: 
+checking level: 1
 
 
-source text: en
+source text: en-x-demo1
 
 
-source text version: 3.1.1
+source text version: 4.1
 
 
 comments: 
