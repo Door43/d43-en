@@ -22,8 +22,7 @@
 
 <usfm>
 \p
-\v 12 Then Jesus entered the temple of God. He cast out all those who bought and sold in the temple. He also turned over the
-tables of the money changers and the seats  of those who sold pigeons.
+\v 12 Then Jesus entered the temple of God. He cast out all those who bought and sold in the temple. He also turned over the tables of the money changers and the seats  of those who sold pigeons.
 \v 13 He said to them, "It is written, 'My house will be called a house of prayer,' but you make it a den of robbers."
 \v 14 Then the blind and the lame came to him in the temple, and he healed them.
 </usfm>
@@ -33,6 +32,7 @@ tables of the money changers and the seats  of those who sold pigeons.
   * [[:en:obe:kt:jesus]]
   * [[:en:obe:kt:temple]]
   * [[:en:obe:kt:god]]
+  * [[:en:obe:other:castout]]
   * [[:en:obe:other:dove]]
   * [[:en:obe:other:pray]]
   * [[:en:obe:other:heal]]
@@ -41,21 +41,19 @@ tables of the money changers and the seats  of those who sold pigeons.
 
 This begins the account of Jesus entering into the temple.
 
-  * **He cast out**  - "He chased out" (UDB)
-  * **H****e also turned over the tables**  - "Jesus turned over the tables"
-  * **money-changers **- "those who were changing Roman coins for temple tax money" (UDB) usually at an unfair exchange rate.
-  * **He said to them **- "Jesus said to those who were changing money and buying and selling things"
-  * **It is written **- "A prophet wrote in the scriptures that had God said" or "God through an Old Testament prophet wrote," (UDB) (See: Active/Passive)
-  * **My house**  - Jesus is referring to the temple as his house.
-  * **house of prayer **- "a place where people pray"
-  * **den of robbers **- "a place where robbers hide out." This is a metaphor. It can be translated with a simile as "like a den of robbers." (See: Metaphor)
-  * **blind**  - People who could not see.
-  * **the lame **- Those who could not walk or had legs that were badly hurt.
+  * **money-changers** - "those who were changing Roman coins for temple tax money" (UDB) usually at an unfair exchange rate.
+  * **He said to them** - "Jesus said to those who were changing money and buying and selling things"
+  * **It is written** - "A prophet wrote in the scriptures that had God said" or "God through an Old Testament prophet wrote," (UDB) (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **My house** - Jesus is referring to the temple as his house.
+  * **house of prayer** - "a place where people pray"
+  * **den of robbers** - "a place where robbers hide out." This is a metaphor. It can be translated with a simile as "like a den of robbers." (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **the lame** - Those who could not walk or had legs that were badly hurt.
+
 ===== Links: =====
 
   * **[[en:bible:questions:comprehension:mat:21|Matthew Chapter 21 Comprehension Questions]]**
 **[[:en:bible:notes:mat:21:09|<<]] | [[:en:bible:notes:mat:21:15|>>]]**
 
-~~DISCUSSION~~{{tag>check dove  }}
+~~DISCUSSION~~{{tag>review dove  }}
 
 ~~NOCACHE~~
