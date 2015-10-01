@@ -11,6 +11,6 @@
 
 ==== All "discuss" pages ====
 
-{{pagequery>@:en \{\{tag>[^}]*discuss[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort;showcount; layout=table;hidemsg;hidejump;fontsize=70%}}
+{{pagequery>@:en \{\{tag>[^}]*discuss[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort;showcount; layout=table;hidemsg;hidejump;fontsize=90%}}
 
 \\
