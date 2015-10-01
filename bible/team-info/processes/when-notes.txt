@@ -12,7 +12,7 @@ There are many situations when it is helpful to write a translation note. This p
       * which meaning is intended for a word that has multiple meanings
 
   * Translators may need certain information because of the grammar of their language.
-      * whether 'you' is singular, dual, or plural
+      * who "you" refers to so they can decide what form of 'you' to use (such as singular, dual, or plural)
       * whether 'we' includes the audience or not
       * who the actor is in a passive clause
 
