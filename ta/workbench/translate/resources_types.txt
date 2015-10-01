@@ -28,8 +28,8 @@ Simple explanations about words or phrases are in sentence format. For example:\
 ==== Suggested Translations ====
 There are several types of suggested translations.
 
-=== Direct Replacements ===
-Synonyms or equivalent phrases are written in double-quotes. These can replace the text in the ULB. \\
+=== Synonyms and Equivalent Phrases ===
+Synonyms and equivalent phrases are written in double-quotes. These mean the same as the text in the ULB. \\
 
 In this example, the words "the path" or the words "the road" can replace the words "the way" in the ULB. You decide if it is natural to say path or road in your language.
   * **the way**  - "the path" or "the road"
