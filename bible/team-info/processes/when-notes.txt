@@ -43,8 +43,5 @@ There are many situations when it is helpful to write a translation notes. This 
   * If a KT page offers several meanings, it may be necessary to write a note to clarify which meaning is relevant to the current chunk.
 
 
-==== Alternate Verses or Versification ====
 
-There is a chance that the MTT might have a version that has different verse numbering or includes different text than the UDB and ULB. If we know that this could happen, we should add a brief note. See [[en:bible:team-info:training:quick-reference:standard-notes:text-variant]] for sample notes.
-
-~~DISCUSSION~~ {{tag>discuss}}
+~~DISCUSSION~~
