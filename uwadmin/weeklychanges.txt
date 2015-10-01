@@ -448,6 +448,9 @@
 **[[:nxl:obs|nxl OBS]]**
 {{changes>ns=nxl:obs&maxage=604800&render=pagelist(header,date,user,nocomments)}}
 
+**[[:om:obs|om OBS]]**
+{{changes>ns=om:obs&maxage=604800&render=pagelist(header,date,user,nocomments)}}
+
 **[[:or:obs|or OBS]]**
 {{changes>ns=or:obs&maxage=604800&render=pagelist(header,date,user,nocomments)}}
 
