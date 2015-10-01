@@ -40,7 +40,7 @@
 ==== Basic Notes Formatting ====
 
   - Write the word or phrase from the ULB in bold. Do __not__  put quotes around it.
-  - If you write a translation suggestion, put the suggestion in double quotes. The translation suggestions should be able to replace the bolded phrase and fit in the ULB text.
+  - If you write a translation suggestion, put the suggestion in double quotes. All translation suggestions should be able to replace the bolded phrase and fit in the ULB text.
   - If you give an explanation, use a full sentence with an initial capital letter and ordinary punctuation.
   - If you use a direct quote from the UDB as a suggestion put the suggestion in quotes followed by (UDB).
 
