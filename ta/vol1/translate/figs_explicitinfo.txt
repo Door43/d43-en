@@ -3,12 +3,12 @@
 This module answers the question: How do I make implicit information explicit?\\
 Before you start this module have you learned about: [[en:ta:vol1:translate:figs_explicit|Explicit and Implicit]]
 
-When a writer writes a message, he includes the information that his audience needs to know, and leaves out the information that he knows that they already know. When we translate a message, such as the Bible, for a new audience, they may not know some of that information that the original writer did not say. That is the implicit information. So in the places where the target audience needs to know the implicit information in order to understand the text, and they do not know it, you must put it in the translation, either in the text or in a footnote.
+When a writer writes a message, he includes the information that his audience needs to know, and leaves out the information that he knows that they already know. When we translate a message, such as the Bible, for a new audience, they may not know some of that information that the original writer did not say. That is the implicit information. Because the author is counting on the audience knowing this implicit information, this information is also part of the message, even though it is not stated. So in the places where the target audience needs to know the implicit information in order to understand the text, and they do not know it, you must put it in the translation, either in the text or in a footnote.
 
 But translators need to be particularly sensitive when thinking about adding such information to the translation that is not stated explicitly in the source text because: 
-  * Sometimes there will be things that are intentionally unclear in the text. In those cases, the translator must keep it unclear also in the translation. 
+  * Sometimes there will be things that are intentionally unclear in the text. In those cases, the translator should try to keep it unclear also in the translation, if it is possible to keep it unclear in the same way. 
   * It is not necessary to include all implicit information for the target audience to understand the text. There is a lot of information that the original audience knew about the things that are in the Bible. Only include the information that the target audience needs to know so that the message is clear, nothing more.
-The translator's goal should be to make sure that the reader understands the original meaning of the message. The translation should always have the same meaning as the source text, not more meaning, not less meaning, and not different meaning.
+The translator's goal should be to make sure that the reader understands the original meaning of the message. The translation should always have the same meaning as the source text had for its original audience, not more meaning, not less meaning, and not different meaning.
 
 Implicit information may be made explicit in order to make the translation clear if:
   * Only the implicit information that the original audience would have known is made explicit,

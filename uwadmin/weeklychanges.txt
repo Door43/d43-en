@@ -406,6 +406,9 @@
 **[[:ms:obs|ms OBS]]**
 {{changes>ns=ms:obs&maxage=604800&render=pagelist(header,date,user,nocomments)}}
 
+**[[:msm:obs|msm OBS]]**
+{{changes>ns=msm:obs&maxage=604800&render=pagelist(header,date,user,nocomments)}}
+
 **[[:mur:obs|mur OBS]]**
 {{changes>ns=mur:obs&maxage=604800&render=pagelist(header,date,user,nocomments)}}
 
