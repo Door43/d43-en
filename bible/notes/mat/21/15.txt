@@ -29,10 +29,8 @@
 ===== ULB: =====
 
 <usfm>
-\v 15 But when the chief priests and the scribes saw the marvelous things that he did, and when they heard the children shouting in the
-temple and saying, "Hosanna to the son of David," they were moved with resentment.
-\v 16 They said to him, "Do you hear what these people are saying?" Jesus said to them, "Yes! But have you never read, "Out of the
-mouths of babes and nursing infants you have perfected praise?"
+\v 15 But when the chief priests and the scribes saw the marvelous things that he did, and when they heard the children shouting in the temple and saying, "Hosanna to the son of David," they were moved with resentment.
+\v 16 They said to him, "Do you hear what these people are saying?" Jesus said to them, "Yes! But have you never read, "Out of the mouths of babes and nursing infants you have perfected praise?"
 \v 17 Then Jesus left them and went out of the city to Bethany and slept there.
 </usfm>
 
@@ -40,27 +38,30 @@ mouths of babes and nursing infants you have perfected praise?"
 
   * [[:en:obe:other:chiefpriests]]
   * [[:en:obe:other:scribe]]
-  * [[:en:obe:other:david]]
   * [[:en:obe:kt:temple]]
+  * [[:en:obe:other:david]]
+  * [[:en:obe:kt:jesus]]
   * [[:en:obe:other:praise]]
   * [[:en:obe:other:bethany]]
+
 ===== Translation Notes: =====
 
 This continues the account of Jesus in the temple.
 
-  * **Hosanna**  - See how you translated this in [[en/bible/notes/mat/21/09|21:09]]
-  * **Son of David**  - See how you translated this in [[en/bible/notes/mat/21/09|21:09]]
-  * **they were moved with resentment** - The chief priests and scribes were moved with resentment. "Those sayings caused them to have resentment" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **Hosanna** - See how you translated this in [[en/bible/notes/mat/21/09|21:09]]
+  * **Son of David** - See how you translated this in [[en/bible/notes/mat/21/09|21:09]]
+  * **they were moved with resentment** - "resentment moved the chief priests and scribes". (See: [[:en:ta:vol2:translate:figs_activepassive]])
   * **resentment** - "indignation" or "angry dislike"
-  * **Do you hear what these people are saying?** - especially the children, may have included adults. (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **Have you never read** - (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **Do you hear what these people are saying?** - "How can you tolerate this? Do you hear what these children are shouting?” (UDB) (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **Have you never read** - "Yes, I hear them, but if you remembered what you have read in the Scriptures" (See: [[:en:ta:vol1:translate:figs_rquestion]])
   * **you have perfected praise** - The word "you" refers to God. "God has caused great and proper praise."
   * **Jesus left them** - "Jesus left the chief priests and scribes"
+
 ===== Links: =====
 
   * **[[en:bible:questions:comprehension:mat:21|Matthew Chapter 21 Comprehension Questions]]**
 **[[:en:bible:notes:mat:21:12|<<]] | [[:en:bible:notes:mat:21:18|>>]]**
 
-~~DISCUSSION~~{{tag>check bethany}}
+~~DISCUSSION~~{{tag>review bethany}}
 
 ~~NOCACHE~~
