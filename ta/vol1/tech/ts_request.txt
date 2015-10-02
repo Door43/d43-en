@@ -1,24 +1,33 @@
 ===== Find my Language =====
 
 This module answers the question: What do I do when I cannot find my language?\\
-Before you start this module have you learned about: [[:en:ta:vol1:tech:ts_install|Install translationStudio on an Android Device]]
+Before you start this module have you learned about: [[en:ta:vol1:tech:ts_install|Install translationStudio on an Android Device]]
 
-If you are a translator in the field, please contact your superior to request a new target language in translationStudio.
+If you are a translator in the field, please contact your superior to request a new target language in translationStudio. If your superior says you can request the language, create a Bug Report and provide the name of your superior, along with the name of the target language to be added.  Even after requesting a new language, certain approvals are required before it will be added to translationStudio.
 
-Go back to the [[:en:ta:vol1:tech:ts_intro|translationStudio ]]page//. //
+You can use the **Report Bug** link to request a new language:
+
+   * In the green bar at the top of the screen, tap on the three dots on the right.
+   * In the list of options, tap **Report Bug**.
+   * The **Bug Report **  screen opens. Type the name of the language you would like added to translationStudio.
+   * Tap **Upload**  to send your request.
+
+Go back to the [[en:ta:vol1:tech:ts_intro|translationStudio ]]page//. //
+
+
 
 Next we recommend you learn about:
+  * [[en:ta:vol1:tech:ts_intro|translationStudio]]
+  * [[en:ta:vol1:tech:ts_first|Use translationStudio for the First Time]]
+  * [[en:ta:vol1:tech:ts_navigate|Navigate in translationStudio]]
+  * [[en:ta:vol1:tech:ts_select|Select Source and Target Languages]]
+  * [[en:ta:vol1:tech:ts_select|Select Source and Target Languages]]
+  * [[en:ta:vol1:tech:ts_create|Create and Edit Text]]
+  * [[en:ta:vol1:tech:ts_footnote|Add a Footnote]]
+  * [[en:ta:vol1:tech:ts_resources|Find the Resources in translationStudio]]
+  * [[en:ta:vol1:tech:ts_share|Share Your Work]]
+  * [[en:ta:vol1:tech:ts_upload|Upload Your Work]]
+  * [[en:ta:vol1:tech:ts_update|Update translationStudio Projects]]
+  * [[en:ta:vol1:tech:ts_publish|Publish Content to unfoldingWord]]
+  * [[en:ta:vol1:tech:ts_problem|Report a Problem]]
 
-  * [[:en:ta:vol1:tech:ts_intro|translationStudio]]
-  * [[:en:ta:vol1:tech:ts_first|Use translationStudio for the First Time]]
-  * [[:en:ta:vol1:tech:ts_navigate|Navigate in translationStudio]]
-  * [[:en:ta:vol1:tech:ts_select|Select Source and Target Languages]]
-  * [[:en:ta:vol1:tech:ts_select|Select Source and Target Languages]]
-  * [[:en:ta:vol1:tech:ts_create|Create and Edit Text]]
-  * [[:en:ta:vol1:tech:ts_footnote|Add a Footnote]]
-  * [[:en:ta:vol1:tech:ts_resources|Find the Resources in translationStudio]]
-  * [[:en:ta:vol1:tech:ts_share|Share Your Work]]
-  * [[:en:ta:vol1:tech:ts_upload|Upload Your Work]]
-  * [[:en:ta:vol1:tech:ts_update|Update translationStudio Projects]]
-  * [[:en:ta:vol1:tech:ts_publish|Publish Content to unfoldingWord]]
-  * [[:en:ta:vol1:tech:ts_problem|Report a Problem]]
