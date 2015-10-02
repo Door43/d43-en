@@ -125,6 +125,8 @@
 {{changes>ns=gaj-x-urona:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:gaj-x-ymnk:obs|gaj-x-ymnk OBS]]**
 {{changes>ns=gaj-x-ymnk:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
+**[[:gax:obs|gax OBS]]**
+{{changes>ns=gax:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:gaz:obs|gaz OBS]]**
 {{changes>ns=gaz:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:gbj:obs|gbj OBS]]**
