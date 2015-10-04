@@ -120,9 +120,5 @@
 {{pagequery>@:en:bible:notes:2sa \{\{tag>[^}]*mgr[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=column; hidemsg;hidejump;showcount;fontsize=90%}}
 
 
-==== Vivian R's books: ====
 
-== 2 Peter ==
-
-{{pagequery>@:en:bible:notes:2pe \{\{tag>[^}]*mgr[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=column; hidemsg;hidejump;showcount;fontsize=90%}}
 
