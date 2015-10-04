@@ -388,6 +388,9 @@
 **[[:mgh:obs|mgh OBS]]**
 {{changes>ns=mgh:obs&maxage=604800&render=pagelist(header,date,user,nocomments)}}
 
+**[[:mgt:obs|mgt OBS]]**
+{{changes>ns=mgt:obs&maxage=604800&render=pagelist(header,date,user,nocomments)}}
+
 **[[:mjv:obs|mjv OBS]]**
 {{changes>ns=mjv:obs&maxage=604800&render=pagelist(header,date,user,nocomments)}}
 
