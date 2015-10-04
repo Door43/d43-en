@@ -1,0 +1,20 @@
+====== Notes: Psalms 73-89 (Book 3) Review Admin ======
+
+Team Lead (//draft to check//) - November Notes Workshop\\
+Manager (//check to review//) -\\
+Reviewer - (//review to publish//) -
+
+~~NOCACHE~~
+
+=== Links: ===
+
+  * [[:en:ulb:ep:19-psa.usfm|Full ULB text of Psalms]]
+  * [[:en:udb:ep:19-psa.usfm|Full UDB text of Psalms]]
+
+
+==== Psalms Book 3 Page Status ====
+
+^ Review ^ Text ^ Discuss ^ Publish^
+|{{pagequery>@:en:bible:notes:psa \{\{tag>(?=[^}]*review)(?=[^}]*book3)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;showcount;fontsize=90%}} |{{pagequery>@:en:bible:notes:psa \{\{tag>(?=[^}]*text)(?=[^}]*book3)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;showcount;fontsize=90%}} |{{pagequery>@:en:bible:notes:psa \{\{tag>(?=[^}]*discuss)(?=[^}]*book3)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;showcount;fontsize=90%}} |{{pagequery>@:en:bible:notes:psa \{\{tag>(?=[^}]*publish)(?=[^}]*book3)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;showcount;fontsize=90%}} |
+
+\\
