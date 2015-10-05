@@ -1,4 +1,4 @@
-====== Song of Solomon 01:1-3 ======
+====== Song of Solomon 01:1-5 ======
 
 
 ===== TFT: =====
@@ -22,9 +22,11 @@
 ===== UDB: =====
 
 <usfm>
+\c 1
+\p
 \v 1 This is King Solomon's most beautiful song.
 \b
-
+\s1
 \q1
 \v 2 [The young woman speaking to her lover] Kiss me on my lips,
 \q2 because your love for me is more delightful than wine.
@@ -33,9 +35,15 @@
 \q2 And your honor is very great and is spreading,
 \q2 like the fragrance of the special oil that you have put on your skin.
 \q1 That is why the other young women are attracted to you.
-
-
 \q1
+\v 4 Take me quickly;
+\q2 take me to your home.
+\q1  [The woman speaking to herself] He is like a king to me;
+\q2 he has brought me into his bedroom.
+
+\q1 [The woman speaking to her lover] I am very happy  about you;
+\q2 my love for you is better than wine.
+\q2 It is not surprising that the other young women adore you.
 </usfm>
 
 
@@ -52,6 +60,12 @@
 \v 3 Your anointing oils have a delightful fragrance;
 \q your name is like flowing perfume,
 \q so the young women love you.
+\q
+\v 4 Take me with you, and we will run.
+\q  [The woman speaking to herself] The king has brought me into his rooms.
+\q [The woman speaking to her lover] I am glad; I rejoice about you;
+\q let me celebrate your love; it is better than wine.
+\q It is natural for the other women to adore you.
 </usfm>
 
 
