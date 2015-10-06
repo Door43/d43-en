@@ -19,6 +19,16 @@
 
 {{pagequery>@:en:bible:notes:mat \{\{tag>[^}]*mgr[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=column; hidemsg;hidejump;showcount;fontsize=90%}}
 
+== Deuteronomy ==
+
+{{pagequery>@:en:bible:notes:deu \{\{tag>[^}]*mgr[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=column; hidemsg;hidejump;showcount;fontsize=90%}}
+
+== Esther ==
+
+{{pagequery>@:en:bible:notes:est \{\{tag>[^}]*mgr[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=column; hidemsg;hidejump;showcount;fontsize=90%}}
+
+
+
 ==== Carolyn L's books: ====
 
 == Nehemiah ==
