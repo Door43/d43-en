@@ -35,10 +35,6 @@
 
 {{pagequery>@:en:bible:notes:neh \{\{tag>[^}]*mgr[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=column; hidemsg;hidejump;showcount;fontsize=90%}}
 
-== Job ==
-
-{{pagequery>@:en:bible:notes:job \{\{tag>[^}]*mgr[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=column; hidemsg;hidejump;showcount;fontsize=90%}}
-
 ==== David F's Books: ====
 
 == Ezekiel ==
