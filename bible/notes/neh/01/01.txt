@@ -2,47 +2,37 @@
 
 ===== TFT: =====
 
-<usfm>
-\v 1 \add I am\add* Nehemiah, the son of Hacaliah. \add I am writing\add* this account \add of what I did when I returned to Jerusalem\add*. During the twentieth year \add after King Artaxerxes began to rule the Persian Empire\add*, near the end of that year, I was in Susa, the capital \add of Persia\add*.
-\p
-\v 2 My brother Hanani came to visit me. He and some other men had just returned from Judah. I queried them about the Jews who were living there, whose \add parents\add* had been exiled\f + \ft Or: taken forcefully \f* \add to Babylonia many years previously\add*. I also asked them about \add what was happening in\add* Jerusalem.
-\p
-</usfm>
+<usfm> \v 1 \add I am\add* Nehemiah, the son of Hacaliah. \add I am writing\add* this account \add of what I did when I returned to Jerusalem\add*. During the twentieth year \add after King Artaxerxes began to rule the Persian Empire\add*, near the end of that year, I was in Susa, the capital \add of Persia\add*. \p \v 2 My brother Hanani came to visit me. He and some other men had just returned from Judah. I queried them about the Jews who were living there, whose \add parents\add* had been exiled\f + \ft Or: taken forcefully \f* \add to Babylonia many years previously\add*. I also asked them about \add what was happening in\add* Jerusalem. \p </usfm>
 
 ===== UDB: =====
 
-<usfm>
-\v 1 I am Nehemiah son of Hacaliah. I am writing this account of what I did when I returned to Jerusalem. During the twentieth year after King Artaxerxes began to rule the Persian Empire, in the month of Kislev. I was in Susa, the capital of Persia.
-\p
-\v 2 My brother Hanani came to see me. He and some other men were from Judah. I asked them questions about the small number of Jews who had escaped from the Babylonian exile, and about the city of Jerusalem.
+<usfm> \v 1 I am Nehemiah son of Hacaliah. I am writing this account of what I did when I returned to Jerusalem. During the twentieth year after King Artaxerxes began to rule the Persian Empire, in the month of Kislev. I was in Susa, the capital of Persia. \p \v 2 My brother Hanani came to see me. He and some other men were from Judah. I asked them questions about the small number of Jews who had escaped from the Babylonian exile, and about the city of Jerusalem.
 
-
-\p
-</usfm>
+\p </usfm>
 
 ===== ULB: =====
 
-<usfm>
-\c 1
-\p
-\v 1 The words of Nehemiah the son of Hacaliah:
-\p Now it happened in the month Kislev, in the twentieth year, as I was in fortress city of Susa,
-\v 2 that one of my brothers, Hanani, came with some people from Judah, and I asked them about the Jews who had escaped, the remnant of the Jews who were there, and about Jerusalem.
-</usfm>
+<usfm> \c 1 \p \v 1 The words of Nehemiah the son of Hacaliah: \p Now it happened in the month Kislev, in the twentieth year, as I was in fortress city of Susa, \v 2 that one of my brothers, Hanani, came with some people from Judah, and I asked them about the Jews who had escaped, the remnant of the Jews who were there, and about Jerusalem. </usfm>
 
 ===== Important Terms: =====
 
-  * [[:en:obe:kt:word]]
-  * [[:en:obe:other:nehemiah]]
-  * [[:en:obe:kt:son]]
-  * [[en:obe:other:kingdomofjudah]]
-  * [[:en:obe:other:jew]]
-  * [[:en:obe:kt:remnant]]
-  * [[:en:obe:other:jerusalem]]
+  * [[:en:obe:kt:word|word]]
+  * [[:en:obe:other:nehemiah|Nehemiah]]
+  * [[:en:obe:kt:son|son]]
+  * brother
+  * [[:en:obe:other:kingdomofjudah|kingdom of Judah, Judah]]
+  * [[:en:obe:other:jew|Jew, Jewish]]
+  * [[:en:obe:kt:remnant|remnant]]
+  * [[:en:obe:other:jerusalem|Jerusalem]]
+
 ===== Translation Notes: =====
 
-  * **Susa **- a royal city of Persian kings, located in the country of Elam, far away from Judah
-  * **who had escaped**  - who had returned from the captivity
+  * **Hacaliah - ** This is a proper name of a person. (See: Translate Names).
+  * **Kislev - ** This is the Jewish name for the nineth month of their calendar year.
+  * **fortress city of Susa **- This was a royal city of Persian kings, located in the country of Elam, far away from Judah. It was a large city with walls.
+  * **one of my brothers**
+ - AT: "one of my fellow Jews."
+  * **the Jews who had escaped**  - AT: "The Jews who had returned to Jerusalem from the captivity."
   * **the remnant of the Jews who were there **- AT: "who had survived the captivity"
   * **bold words**  - explanation
   * **bold words**  - explanation
