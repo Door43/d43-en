@@ -4,7 +4,6 @@
 ===== TFT: =====
 
 <usfm>
-\q1
 \v 15 You whom I love, you are beautiful;
 \q2 you are very beautiful!
 \q1 Your eyes are \add as delightful\f + \ft Or: charming \f* as\add* doves.
@@ -16,10 +15,11 @@
 ===== UDB: =====
 
 <usfm>
-\q1
 \v 15 [Her lover speaking to her] You whom I love, you are beautiful;
 \q2 you are very beautiful!
 \q1 Your eyes are as delightful as doves.
+
+
 
 \q1
 </usfm>
@@ -28,7 +28,7 @@
 ===== ULB: =====
 
 <usfm>
-\q
+q
 \v 15 [Her lover speaking to her] See, you are beautiful, my love;
 \q see, you are beautiful;
 \q your eyes are like doves.
