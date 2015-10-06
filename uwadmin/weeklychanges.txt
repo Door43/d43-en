@@ -661,6 +661,9 @@
 **[[:xmf:obs|xmf OBS]]**
 {{changes>ns=xmf:obs&maxage=604800&render=pagelist(header,date,user,nocomments)}}
 
+**[[:xmm:obs|xmm OBS]]**
+{{changes>ns=xmm:obs&maxage=604800&render=pagelist(header,date,user,nocomments)}}
+
 **[[:xua:obs|xua OBS]]**
 {{changes>ns=xua:obs&maxage=604800&render=pagelist(header,date,user,nocomments)}}
 
