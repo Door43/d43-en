@@ -22,14 +22,13 @@ Manage teams that will be creating resources to support Wycliffe Associates' str
       * Add tA links when missing. Go [[en:bible:team-info:processes:add-ta|here]] for instructions on adding a tA link.
       * Suggest to the tA team the need of a new topic, by adding the "talink" tag and putting an explanation of the need in the Notes Discussion section.
   - Respond to the team's work on Important Terms in the following ways:
-      * For existing Important Term pages - create links as needed by referring to the [[:en:obe:home|Complete list of Important Terms]], taking care to link them correctly.
-      * Suggested new Important Term - Add the “ktlink” tag to the Notes page that need new terms created and place a note in the Notes Discussion section to explain the need.
-      * Modification to an Important Term - add a note to the Discussion section of the Term page to explain the need and add the "ktlink" tag.
+      * For existing Important Term pages - Create links as needed by referring to the [[:en:obe:home|Complete list of Important Terms]], taking care to link them correctly.
+      * Suggested new Important Term - Place a note explaining the need for a page in the Notes Discussion section, and label the thread "**Key Term.**" Add the “ktlink” tag to the Notes page.
+      * Modification to an Important Term - Add a note to the Discussion section of the Term page to explain the need and add the "ktlink" tag.
   - Communicate with the Notes Team Leader regarding the quality of notes and current Best Practices.
   - Communicate with the Reviewer about any questions/requests from the Team.
-  - List only typos or misspellings in the ULB or UDB text on the "typo" page: [[https://pad.door43.org/p/en-typos|https://pad.door43.org/p/en-typos]].
+  - List typos or misspellings in the ULB or UDB in the discussion section of the Notes page.
   - Change the 'check' tag to 'review.'
-
 ===== Learning to Improve Notes =====
 
   * Learn from and share with other Managers.
