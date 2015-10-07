@@ -65,10 +65,13 @@ The Text Team is very busy, so please only contact them directly when absolutely
 
 When there is a simple issue of an incorrectly-linked term, please correct the issue if possible.
 
-For requests for new terms, add the “ktlink” tag to the Notes page that needs new terms created and place a note in the Notes Discussion section to explain the need. Label the note in bold as **Key Term**.
+For requests for new terms, place a note in the Discussion section of the notes page that needs the term and explain the need. Label the note as "**Key Term**" and add the “ktlink” tag to the notes page.
 
-For urgent or complicated issues, email the KT Team. For comments about existing terms, however, it is generally easier to simply add a discussion comment on the term page, add the "discuss" tag, and label the note in bold as **Lizz**. (Do not remove the "publish" tag.)
+For urgent or complicated issues, email the KT Team. For comments about existing terms, however, it is generally easier to simply add a discussion comment on the term page, add the "**discuss**" tag, and label the note in bold as "**discuss**". (Do not remove the "publish" tag.)
 
+===== Communicating with translationAcademy Team =====
+
+For requests for new tA topic pages, place a note in the Notes Discussion section to explain the need. Label the note "**tA Topic**" and add the “talink” tag to the notes page. 
 
 ===== Communicating with the Review Team =====
 
