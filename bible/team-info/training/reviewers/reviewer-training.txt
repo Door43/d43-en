@@ -55,10 +55,14 @@ If an issue is very significant or time-sensitive, you can email or Skype the Ma
 
 ===== Communicating with Text Team =====
 
-The Text Team is very busy, so please only contact them directly when absolutely necessary. Instead, use one of the two communication methods that we have devised.
+For requests for changes to the ULB or UDB, write a note in the discussion section of the notes page that needs the change, label the note as "**Text**" and add the "text" tag to the page. When writing the note, tell whether you are talking about the ULB or UDB. Here some formats that are clear.
 
-  - **Typo Page in Etherpad** - Every book has a page to list typos. For example, the page for Matthew is: https://pad.door43.org/p/en-typos-mat. To go to the page for any other book, simply replace "mat" in the URL with the three-letter code for any book. State clearly the chapter, verse, and version (ULB or UDB) where the error occurs, and give enough context so it can be easily found. 
-  - **Book Communication Page** - Every book has a page for text issues. For example, the page for Matthew is: https://pad.door43.org/p/en-ulb-mat. To go to the page for any other book, simply replace "mat" in the URL with the three-letter code for any book. State clearly the chapter, verse, and version (ULB or UDB), placing your note in the proper section according to chapter order. Then clearly and concisely explain the issue, and offer a possible solution if you have one.
+**Text** \\ 
+22:9 ULB **For every case of dishonest __appropriation__,** \\ 
+Maybe we could have an easier word.
+
+**Text** \\ 
+V8 ULB  "candlestick"  Please consider changing it to "lampstand".
 
 
 ===== Communicating with KT Team =====
