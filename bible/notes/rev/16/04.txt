@@ -2,43 +2,21 @@
 
 ===== TFT: =====
 
-<usfm>
-\v 4 The third angel poured out on the rivers and water springs\add the wine\f + \ft Or: liquid \f*\add* \f + \ft metonymy \f* \add that was in\add* his bowl. \add As a result, the water in the rivers and springs\add* turned into blood.
-\v 5 I heard the angel \add who has authority over\add* the waters say \add to God\add*,  "\add O God\add*, you exist and have always existed. You are the holy one. You judge people justly.
-\v 6 \add The rebellious people\add* murdered your holy people and prophets. So you are just in punishing them by giving them blood to drink. This is what they deserve!"
-\v 7 Then I heard \add an angel\add* respond \add from\add* the altar \f + \ft personification \f*, "Yes, Lord God, you who are almighty, you punish \add people\add* rightly and justly!"
-</usfm>
+<usfm> \v 4 The third angel poured out on the rivers and water springs\add the wine\f + \ft Or: liquid \f*\add* \f + \ft metonymy \f* \add that was in\add* his bowl. \add As a result, the water in the rivers and springs\add* turned into blood. \v 5 I heard the angel \add who has authority over\add* the waters say \add to God\add*, "\add O God\add*, you exist and have always existed. You are the holy one. You judge people justly. \v 6 \add The rebellious people\add* murdered your holy people and prophets. So you are just in punishing them by giving them blood to drink. This is what they deserve!" \v 7 Then I heard \add an angel\add* respond \add from\add* the altar \f + \ft personification \f*, "Yes, Lord God, you who are almighty, you punish \add people\add* rightly and justly!" </usfm>
 
 ===== UDB: =====
 
-<usfm>
-\v 4 Then the third angel poured out on the rivers and water springs the wine that was in his bowl. As a result, the water in the rivers and springs turned into blood.
-\v 5 I heard the angel who has power over the waters say to God, "O God, you exist and have always existed. You are the holy one. You judge people justly.
-\v 6 The people who rebelled against you murdered your holy people and the prophets. So you are just in punishing them by giving them blood to drink. This is what they deserve."
-\v 7 Then I heard someone at the altar answer, "Yes, Lord God, you who are almighty, you punish people rightly and justly."
-</usfm>
+<usfm> \v 4 Then the third angel poured out on the rivers and water springs the wine that was in his bowl. As a result, the water in the rivers and springs turned into blood. \v 5 I heard the angel who has power over the waters say to God, "O God, you exist and have always existed. You are the holy one. You judge people justly. \v 6 The people who rebelled against you murdered your holy people and the prophets. So you are just in punishing them by giving them blood to drink. This is what they deserve." \v 7 Then I heard someone at the altar answer, "Yes, Lord God, you who are almighty, you punish people rightly and justly." </usfm>
 
 ===== ULB: =====
 
-<usfm>
-\p
-\v 4 The third angel poured out his bowl into the rivers and the springs of water; they became blood.
-\v 5 I heard the angel of the waters say, 
-\q "You are just—the one who is and who was, the Holy One—
-\q2 because you have brought these judgments.
-\q 
-\v 6 Because they poured out the blood of your saints and prophets, 
-\q2 you have given them blood to drink;
-\q it is what they deserve."
-\m
-\v 7 I heard the altar reply, 
-\q "Yes, Lord God, who rules over all,
-\q2 your judgments are true and just."
-</usfm>
+<usfm> \p \v 4 The third angel poured out his bowl into the rivers and the springs of water; they became blood. \v 5 I heard the angel of the waters say, \q "You are just—the one who is and who was, the Holy One— \q2 because you have brought these judgments. \q \v 6 Because they poured out the blood of your saints and prophets, \q2 you have given them blood to drink; \q it is what they deserve." \m \v 7 I heard the altar reply, \q "Yes, Lord God, who rules over all, \q2 your judgments are true and just." </usfm>
 
 ===== Important Terms: =====
 
+  * angel
   * [[:en:obe:other:water|water, waters]]
+  * blood
   * justice
   * [[:en:obe:kt:holyone|Holy One]]
   * [[:en:obe:kt:judge|judge, judgment]]
@@ -46,24 +24,25 @@
   * [[:en:obe:kt:prophet|prophet, prophecy, prophesy, seer]]
   * altar
   * [[:en:obe:kt:lord|lord, master, sir]]
-  * [[:en:obe:kt:almighty|Almighty]]
   * [[:en:obe:kt:true|true, truth]]
 
 ===== Translation Notes: =====
 
-  * **they became blood**  -  Here "they" refers to the rivers and the springs of water.
+  * **The third angel**  - "angel number three"
+  * **rivers and the springs of water**  - This refers to all bodies of fresh water, not just rivers and springs (See: Synecdoche).
+  * **they became blood**  - Here "they" refers to the rivers and the springs of water.
   * **I heard the angel**  - Here the word "I" refers to John.
   * **angel of the waters**  - This refers to the angel just mentioned and indicates he was in charge of the rivers and the springs of water.
   * **You are just**  - "You" refers to God.
   * **they poured out the blood**  - "They" refers to evil people.
-  * **poured out the blood of your saints****and prophets **- "they shed the blood of your saints and prophets." This means they killed the saints and prophets. AT: "They murdered the saints and prophets." (See: Metaphor)
+  * **poured out the blood of your saints ****and prophets **- "they shed the blood of your saints and prophets." This means they killed the saints and prophets. AT: "They murdered the saints and prophets." (See: Metaphor)
   * **blood to drink**  - This refers to the water which turned to blood in verse 4, and not to the blood of the saints and prophets.
-  * **I heard the altar reply**  - Here "altar" refers to the souls of the murdered saints and prophets which were under the altar. Refer to 6:9. (See: metonymy)
+  * **I heard the altar reply**  - Here "altar" refers to the souls of the murdered saints and prophets which were under the altar. Refer to 6:9. AT: "I heard a voice from the altar reply" (See: metonymy)
 ===== Links: =====
 
   * **[[:en:bible:questions:comprehension:rev:16|Revelation Chapter 16 Comprehension Questions]]**
 **[[:en:bible:notes:rev:16:03|<<]] | [[:en:bible:notes:rev:16:08|>>]]**
 
-~~DISCUSSION~~{{tag>draft}}
+~~DISCUSSION~~{{tag>check}}
 
 ~~NOCACHE~~
