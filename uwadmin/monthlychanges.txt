@@ -3,6 +3,8 @@
 
 **[[:aaa:obs|aaa OBS]]**
 {{changes>ns=aaa:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
+**[[:aac:obs|aac OBS]]**
+{{changes>ns=aac:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:aad:obs|aad OBS]]**
 {{changes>ns=aad:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:abp:obs|abp OBS]]**
