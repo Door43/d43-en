@@ -19,6 +19,8 @@
 {{changes>ns=af:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:aii:obs|aii OBS]]**
 {{changes>ns=aii:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
+**[[:aiw:obs|aiw OBS]]**
+{{changes>ns=aiw:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:am:obs|am OBS]]**
 {{changes>ns=am:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:an:obs|an OBS]]**
