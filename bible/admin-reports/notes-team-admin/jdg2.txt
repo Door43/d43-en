@@ -1,0 +1,20 @@
+====== Notes: Judges Team 2 Admin ======
+
+Team Lead (//draft to check//) -\\
+Manager (//check to review//) -\\
+Reviewer - (//review to publish//) -
+
+~~NOCACHE~~
+
+=== Links: ===
+
+  * [[:en:ulb:ep:07-jdg.usfm|Full ULB text of Judges]]
+  * [[:en:udb:ep:07-jdg.usfm|Full UDB text of Judges]]
+
+
+==== Judges Page Status ====
+
+^  Draft  ^  Check  ^  Review  ^
+|{{pagequery>@en:bible:notes:jdg:13 @en:bible:notes:jdg:14 @en:bible:notes:jdg:15 @en:bible:notes:jdg:16 @en:bible:notes:jdg:17 @en:bible:notes:jdg:18 @en:bible:notes:jdg:19 @en:bible:notes:jdg:20 @en:bible:notes:jdg:21 \{\{tag>[^}]*draft[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; showcount; layout=table;hidemsg;hidejump;bullet=square;fontsize=100%}} |{{pagequery>@en:bible:notes:jdg:13 @en:bible:notes:jdg:14 @en:bible:notes:jdg:15 @en:bible:notes:jdg:16 @en:bible:notes:jdg:17 @en:bible:notes:jdg:18 @en:bible:notes:jdg:19 @en:bible:notes:jdg:20 @en:bible:notes:jdg:21 \{\{tag>[^}]*check[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; showcount; layout=table;hidemsg;hidejump;bullet=square;fontsize=100%}} |{{pagequery>@en:bible:notes:jdg:13 @en:bible:notes:jdg:14 @en:bible:notes:jdg:15 @en:bible:notes:jdg:16 @en:bible:notes:jdg:17 @en:bible:notes:jdg:18 @en:bible:notes:jdg:19 @en:bible:notes:jdg:20 @en:bible:notes:jdg:21 \{\{tag>[^}]*review[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; showcount; layout=table;hidemsg;hidejump;bullet=square;fontsize=100%}} |
+
+\\
