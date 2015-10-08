@@ -10,12 +10,11 @@ Reviewer - (//review to publish//) -
 
   * [[:en:ulb:ep:07-jdg.usfm|Full ULB text of Judges]]
   * [[:en:udb:ep:07-jdg.usfm|Full UDB text of Judges]]
-  * [[:en:bible:team-info:training:notes-training|Notes Training]]
 
 
 ==== Judges Page Status ====
 
 ^  Draft  ^  Check  ^  Review  ^
-|{{pagequery>@en:bible:notes:jdg:01 @en:bible:notes:jdg:02 @en:bible:notes:jdg:03 @en:bible:notes:jdg:04 @en:bible:notes:jdg:05 @en:bible:notes:jdg:06 @en:bible:notes:jdg:07 @en:bible:notes:jdg:08 @en:bible:notes:jdg:09 @en:bible:notes:jdg:10 @en:bible:notes:jdg:11 @en:bible:notes:jdg:12\{\{tag>[^}]*draft[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; showcount; layout=table;hidemsg;hidejump;bullet=square;fontsize=100%}} |{{pagequery>@en:bible:notes:jdg:01 @en:bible:notes:jdg:02 @en:bible:notes:jdg:03 @en:bible:notes:jdg:04 @en:bible:notes:jdg:05 @en:bible:notes:jdg:06 @en:bible:notes:jdg:07 @en:bible:notes:jdg:08 @en:bible:notes:jdg:09 @en:bible:notes:jdg:10 @en:bible:notes:jdg:11 @en:bible:notes:jdg:12 \{\{tag>[^}]*check[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; showcount; layout=table;hidemsg;hidejump;bullet=square;fontsize=100%}} |{{pagequery>@en:bible:notes:jdg:01 @en:bible:notes:jdg:02 @en:bible:notes:jdg:03 @en:bible:notes:jdg:04 @en:bible:notes:jdg:05 @en:bible:notes:jdg:06 @en:bible:notes:jdg:07 @en:bible:notes:jdg:08 @en:bible:notes:jdg:09 @en:bible:notes:jdg:10 @en:bible:notes:jdg:11 @en:bible:notes:jdg:12 \{\{tag>[^}]*review[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; showcount; layout=table;hidemsg;hidejump;bullet=square;fontsize=100%}} |
+|{{pagequery>@en:bible:notes:jdg \{\{tag>[^}]*draft[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; showcount; layout=table;hidemsg;hidejump;bullet=square;fontsize=100%}} |{{pagequery>@en:bible:notes:jdg \{\{tag>[^}]*check[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; showcount; layout=table;hidemsg;hidejump;bullet=square;fontsize=100%}} |{{pagequery>@en:bible:notes:jdg \{\{tag>[^}]*review[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; showcount; layout=table;hidemsg;hidejump;bullet=square;fontsize=100%}} |
 
 \\
