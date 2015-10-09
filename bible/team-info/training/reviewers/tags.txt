@@ -14,7 +14,8 @@ The "status" tags show the condition of a page. They cause the chunks to appear 
   * **discuss** - escalate issue that is complex, time-consuming, etc.
   * **inspect** - request for trainer to check work of new reviewer or to read a reply in the discussion section
   * **publish** - finished and ready to be loaded into the apps
-  *  **mgr** - new message or reply to manager in the discussion section
+  * **mgr** - new message or reply to manager in the discussion section
+  * **ktlink** - altert KT team lead that there is a request for a new KT page
 
 If the trainer has a message or reply to a reviewer, the trainer will tag the page with the reviewer’s name. Once the reviewer has read the thread, he can delete the tag with his name.
 
