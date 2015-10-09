@@ -26,7 +26,7 @@ The "text" tag indicates a problem in the ULB or UDB text. It can also be used i
   * **text** - The "text" tag alone indicates that the notes are done, but the chunk is not published due to a ULB text issue. RTL will fix the text, check the notes, and publish. 
   * **publish + text** - There is a minor UDB issue, but notes are done. RTL will fix UDB and leave published.
   * **review + text** - There is a text issue that is putting review on hold. RTL will fix text and leave as “review” so notes can be finished.
-  * **text + discuss** - There is a text issue and also a larger problem in the notes. RTL will fix the text, and then tackle the other issue. TRL will publish when done.
+  * **text + discuss** - There is a text issue and also a larger problem in the notes. RTL will fix the text, and then tackle the other issue. RTL will publish when done.
 
 
 ==== "Discuss" tag ====
