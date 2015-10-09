@@ -16,8 +16,9 @@ The "status" tags show the condition of a page. They cause the chunks to appear 
   * **publish** - finished and ready to be loaded into the apps
   *  **mgr** - new message or reply to manager in the discussion section
 
-The order of the tags is optional, but it if the "review" or "publish" tags exist, it is preferred that they be the initial tags.
+If the trainer has a message or reply to a reviewer, the trainer will tag the page with the reviewer’s name. Once the reviewer has read the thread, he can delete the tag with his name.
 
+The order of the tags is optional, but it if the "review" or "publish" tags exist, it is preferred that they be the initial tags.
 ==== "Text" tag ====
 
 The "text" tag indicates a problem in the ULB or UDB text. It can also be used in combination with other status tags, depending on how the text issue affects the editing process. This is the way the review team lead (RTL) will respond to tag combinations:
