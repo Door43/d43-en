@@ -72,11 +72,11 @@ When there is a simple issue of an incorrectly-linked term, please correct the i
 
   * **To request a new term:**
     -  Place a note in the discussion section of the notes page that needs the term and explain the need. Label the note as "**key term**".
-    -  Add the “ktlink” tag to the notes page.
+    -  Add the “**ktlink**” tag to the notes page.
 
   * **To request changes to existing terms:** 
     - Add a discussion comment on the term page. Label the comment as "**discuss**".
-    - Add a "discuss" tag. (Do not remove the "publish" tag.) 
+    - Add a "**discuss**" tag. (Do not remove the "**publish**" tag.) 
 ===== Communicating with translationAcademy Team =====
 
 For requests for new tA topic pages, place a note in the Notes Discussion section to explain the need. Label the note "**tA Topic**" and add the “talink” tag to the notes page. 
