@@ -6,7 +6,7 @@ This is an overview of the use of tags by reviewers.
 
 The "status" tags show the condition of a page. They cause the chunks to appear in the workflow of the correct person. The status tags are:
 
-  * **create** - KT page with placeholder text not yet assigned to team to draft
+  * **create** - Key Term (KT) page with placeholder text not yet assigned to team to draft
   * **draft** - ready for initial content
   * **check** - ready for manager to check initial content
   * **review** - ready for reviewer to edit
