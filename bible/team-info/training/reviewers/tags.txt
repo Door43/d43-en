@@ -12,11 +12,11 @@ The "status" tags show the condition of a page. They cause the chunks to appear 
   * **review** - ready for reviewer to edit
   * **text** - problem to correct in ULB or UDB text
   * **discuss** - escalate issue that is complex, time-consuming, etc.
-  * **inspect** - request for trainer to check work of new reviewer
+  * **inspect** - request for trainer to check work of new reviewer or to read a reply in the discussion section
   * **publish** - finished and ready to be loaded into the apps
+  *  **mgr** - new message or reply to manager in the discussion section
 
 The order of the tags is optional, but it if the "review" or "publish" tags exist, it is preferred that they be the initial tags.
-
 
 ==== "Text" tag ====
 
