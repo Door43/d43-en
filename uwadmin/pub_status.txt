@@ -32,10 +32,10 @@
 ^Language   ^Publish Date   ^Version    ^Checking Level ^
 |  [[:en:uwadmin:fa:obs:status|فارسی]]  |  2015-08-26  |  4.1  |  {{https://api.unfoldingword.org/obs/jpg/1/checkinglevels/uW-Level1-32px.png}}  |
 
-===== tpi =====
-^Language   ^Publish Date   ^Version    ^Checking Level ^
-|  [[:en:uwadmin:tpi:obs:status|Tok Pisin]]  |  2015-09-16  |  4.1  |  {{https://api.unfoldingword.org/obs/jpg/1/checkinglevels/uW-Level2-32px.png}}  |
-
 ===== sgj =====
 ^Language   ^Publish Date   ^Version    ^Checking Level ^
 |  [[:en:uwadmin:sgj:obs:status|Surgujia]]  |  2015-09-24  |  4.2  |  {{https://api.unfoldingword.org/obs/jpg/1/checkinglevels/uW-Level1-32px.png}}  |
+
+===== tpi =====
+^Language   ^Publish Date   ^Version    ^Checking Level ^
+|  [[:en:uwadmin:tpi:obs:status|Tok Pisin]]  |  2015-10-09  |  4.2  |  {{https://api.unfoldingword.org/obs/jpg/1/checkinglevels/uW-Level3-32px.png}}  |

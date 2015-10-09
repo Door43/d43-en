@@ -1,42 +1,21 @@
 ===== Publish Content to unfoldingWord =====
 
 This module answers the question: How do I publish content to unforldingWord?\\
-Before you start this module have you learned about: [[:en:ta:vol1:tech:ts_share|Share Your Work]]
+Before you start this module have you learned about: [[en:ta:vol1:tech:ts_share|Share Your Work]]
 
-Publish your work when you complete the MAST process or an equivalent level of checking.  There are several levels in this process. Each level submits your work for another level of checking. You can still edit work after a Level 1 Publish. When the text is published at level 1 you can create a printed copy or share to another tablet.
 
-To publish your work:
-
-1. Touch the **Pub****lish ** button. Note: this is a Level 1 Publish.
-
-2. Review each chunk or frame.
-
-3. Touch the **Do****ne ** button.  This completes Level 1 Publish. You can still change your work before you publish your work for checking.
-
-4.When you are ready to publish for checking select the  ** Req **  ** uest a Publication  ** button.
-
-5. Provide your name and email address.
-
-6. Select what you translated from the dropdown list.
-
-7. Select the source language and text.
-
-8. Select the requested checking level.
-
-9. Touch the  ** submit button. **
 
 Next we recommend you learn about:
+  * [[en:ta:vol1:tech:ts_install|Install translationStudio on an Android Device]]
+  * [[en:ta:vol1:tech:ts_first|Use translationStudio for the First Time]]
+  * [[en:ta:vol1:tech:ts_navigate|Navigate in translationStudio]]
+  * [[en:ta:vol1:tech:ts_select|Select Source and Target Languages]]
+  * [[en:ta:vol1:tech:ts_request|Find my Language]]
+  * [[en:ta:vol1:tech:ts_create|Create and Edit Text]]
+  * [[en:ta:vol1:tech:ts_footnote|Add a Footnote]]
+  * [[en:ta:vol1:tech:ts_resources|Find the Resources in translationStudio]]
+  * [[en:ta:vol1:tech:ts_share|Share Your Work]]
+  * [[en:ta:vol1:tech:ts_upload|Upload Your Work]]
+  * [[en:ta:vol1:tech:ts_update|Update translationStudio Projects]]
+  * [[en:ta:vol1:tech:ts_problem|Report a Problem]]
 
-  * [[:en:ta:vol1:tech:ts_install|Install translationStudio on an Android Device]]
-  * [[:en:ta:vol1:tech:ts_first|Use translationStudio for the First Time]]
-  * [[:en:ta:vol1:tech:ts_navigate|Navigate in translationStudio]]
-  * [[:en:ta:vol1:tech:ts_select|Select Source and Target Languages]]
-  * [[:en:ta:vol1:tech:ts_request|Find my Language]]
-  * [[:en:ta:vol1:tech:ts_create|Create and Edit Text]]
-  * [[:en:ta:vol1:tech:ts_footnote|Add a Footnote]]
-  * [[:en:ta:vol1:tech:ts_resources|Find the Resources in translationStudio]]
-  * [[:en:ta:vol1:tech:ts_share|Share Your Work]]
-  * [[:en:ta:vol1:tech:ts_upload|Upload Your Work]]
-  * [[:en:ta:vol1:tech:ts_update|Update translationStudio Projects]]
-  * [[:en:ta:vol1:tech:ts_problem|Report a Problem]]
-~~COMPLEX_TABLES~~
