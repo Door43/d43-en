@@ -14,6 +14,7 @@ In most cases, the chunks will need to be sent back to the notes teams, but this
 
       * Write:
         * **Mares eat oats and does eat oats** - "Female horses and female deer eat oats"
+        * 
      *  Do not write:
         * **Mares eat oats and does eat oats** - “Female horses and female deer”
 
@@ -61,4 +62,4 @@ Occasionally it is better to put the shorter note first, but usually it works be
   * It is not particularly helpful to the MTT to know the name of a figure.  An explanation or translation suggestion must clarify what the figure means. It is also helpful to include an explanation of why the figure is used,  unless it would clearly be obvious to an audience in any language and culture. 
 
 
-~~DISCUSSION~~{{tag>discuss}}
+~~DISCUSSION~~{{tag>publish discuss}}
