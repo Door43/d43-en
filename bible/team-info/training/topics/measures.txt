@@ -20,11 +20,13 @@ The UDB (dynamic) version will convert these in most cases to the metric equival
 
 ==== Term in Our Notes ====
 
-All biblical weights, distances and measures will be listed as key terms, and explained on those pages. Therefore, it is not necessary to explain them in each occurrence in the Bible text. However, if they have a special significance in a passage, it may be necessary to add a note to explain that. 
+We have Important Term page for the major categories of Biblical units. However, if we link them in the Important Terms section, the general title will appear rather than the title of the individual unit (cubit, denarius, etc.). Therefore, we suggest that the unit be included in a note, followed by the link to the appropriate term page.
 
-When we refer to a biblical term from the ULB, we will use the biblical terms when discussing it in the notes. However, it may be helpful on a case-by-case basis to add translation alternatives that use the metric equivalents in the notes. 
+See how to write these notes in [[en:bible:team-info:training:quick-reference:standard-notes:biblical-units]].
+
+If measure has a special significance in a passage a note be also be needed to explain it.
 
 
 
-{{tag>notes301 kt201 udb201 ulb201}}
+{{tag>notes301 kt201 udb201 ulb201 discuss}}
 ~~NOCACHE~~
