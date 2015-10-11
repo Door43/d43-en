@@ -38,13 +38,6 @@
 [[:en:ta:admin:ta-chunks-rev]]\\
 
 
-===== Ephesians =====
-
-{{pagequery> ns:en:bible:notes:eph "(see: [[:en:ta"; fulltext; sort=title:asc; display={title}; layout=column; showcount; hidestart; natsort; bullet=square; }}
-
-**AND**
-
- {{pagequery> ns:en:bible:notes:eph "(see: [[en:ta"; fulltext; sort=title:asc; display={title}; layout=column; showcount; hidestart; natsort; bullet=square; }}
 ===== 1, 2 & 3 John =====
 
 {{pagequery> ns:en:bible:notes:1jn "(see: [[:en:ta"; fulltext; sort=title:asc; display={title}; layout=column; showcount; hidestart; natsort; bullet=square; }}
