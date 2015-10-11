@@ -1,7 +1,9 @@
-===== Ephesians =====
+===== Ephesians tA Links =====
 
 {{pagequery> ns:en:bible:notes:eph "(see: [[:en:ta"; fulltext; sort=title:asc; display={title}; layout=column; showcount; hidestart; natsort; bullet=square; }}
 
 **AND**
 
  {{pagequery> ns:en:bible:notes:eph "(see: [[en:ta"; fulltext; sort=title:asc; display={title}; layout=column; showcount; hidestart; natsort; bullet=square; }}
+
+Return to [[en:ta:ta-chunks]]
