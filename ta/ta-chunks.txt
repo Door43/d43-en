@@ -1,62 +1,50 @@
 ====== Chunks with tA links ======
 
+
+[[:en:ta:admin:ta-chunks-exo]]\\
+[[:en:ta:admin:ta-chunks-jos]]\\
+
+[[:en:ta:admin:ta-chunks-isa]]\\
+[[:en:ta:admin:ta-chunks-ezk]]\\
+
+[[:en:ta:admin:ta-chunks-jol]]\\
+[[:en:ta:admin:ta-chunks-amo]]\\
+[[:en:ta:admin:ta-chunks-oba]]\\
+
+[[:en:ta:admin:ta-chunks-mic]]\\
+
 [[:en:ta:ta-chunks-daniel|Daniel Chunks with tA links]]\\
 [[:en:ta:ta-chunks-isaiah|Isaiah Chunks with tA links]]
+
 
 [[:en:ta:ta-chunks-mat|Matthew Chunks with tA links]]\\
 [[:en:ta:ta-chunks-mrk|Mark Chunks with tA links]]\\
 
 
+[[:en:ta:admin:ta-chunks-mat]]\\
+[[:en:ta:admin:ta-chunks-mrk]]\\
+[[:en:ta:admin:ta-chunks-act]]\\
+[[:en:ta:admin:ta-chunks-1_2co]]\\
+[[:en:ta:admin:ta-chunks-1_2th]]\\
+[[:en:ta:admin:ta-chunks-1_2pe]]\\
+[[:en:ta:admin:ta-chunks-rev]]\\
 
-
-===== Completed Books tA Links =====
+===== Completed Books with tA Links Data Collected =====
 
 [[:en:ta:admin:ta-chunks-gen]]\\
-[[:en:ta:admin:ta-chunks-exo]]\\
-[[:en:ta:admin:ta-chunks-jos]]\\
 [[:en:ta:admin:ta-chunks-rut]]\\
-[[:en:ta:admin:ta-chunks-isa]]\\
-[[:en:ta:admin:ta-chunks-ezk]]\\
-[[:en:ta:admin:ta-chunks-rut]]\\
-[[:en:ta:admin:ta-chunks-jol]]\\
-[[:en:ta:admin:ta-chunks-amo]]\\
-[[:en:ta:admin:ta-chunks-oba]]\\
 [[:en:ta:admin:ta-chunks-jon]]\\
-[[:en:ta:admin:ta-chunks-mic]]\\
+
 
 [[:en:ta:admin:ta-chunks-luk]]\\
-[[:en:ta:admin:ta-chunks-act]]\\
-[[:en:ta:admin:ta-chunks-1_2th]]
 [[:en:ta:admin:ta-chunks-1_2ti]]\\
 [[:en:ta:admin:ta-chunks-gal]]\\
-[[:en:ta:admin:ta-chunks-phi]]\\
+[[:en:ta:admin:ta-chunks-php]]\\
 [[:en:ta:admin:ta-chunks-col]]\\
 [[:en:ta:admin:ta-chunks-tit]]\\
 [[:en:ta:admin:ta-chunks-jam]]\\
 [[:en:ta:admin:ta-chunks-phm]]\\
-[[:en:ta:admin:ta-chunks-1_2_3jo]]\\
-[[:en:ta:admin:ta-chunks-rev]]\\
+[[:en:ta:admin:ta-chunks-1_2_3jn]]\\
 
 
-===== 1, 2 & 3 John =====
 
-{{pagequery> ns:en:bible:notes:1jn "(see: [[:en:ta"; fulltext; sort=title:asc; display={title}; layout=column; showcount; hidestart; natsort; bullet=square; }}
-
-**AND**
-
- {{pagequery> ns:en:bible:notes:1jn "(see: [[en:ta"; fulltext; sort=title:asc; display={title}; layout=column; showcount; hidestart; natsort; bullet=square; }}{{pagequery> ns:en:bible:notes:2jn "(see: [[:en:ta"; fulltext; sort=title:asc; display={title}; layout=column; showcount; hidestart; natsort; bullet=square; }}
-
-**AND**
-
- {{pagequery> ns:en:bible:notes:2jn "(see: [[en:ta"; fulltext; sort=title:asc; display={title}; layout=column; showcount; hidestart; natsort; bullet=square; }}{{pagequery> ns:en:bible:notes:3jn "(see: [[:en:ta"; fulltext; sort=title:asc; display={title}; layout=column; showcount; hidestart; natsort; bullet=square; }}
-
-**AND**
-
- {{pagequery> ns:en:bible:notes:3jn "(see: [[en:ta"; fulltext; sort=title:asc; display={title}; layout=column; showcount; hidestart; natsort; bullet=square; }}
-===== Jude =====
-
-{{pagequery> ns:en:bible:notes:jud "(see: [[:en:ta"; fulltext; sort=title:asc; display={title}; layout=column; showcount; hidestart; natsort; bullet=square; }}
-
-**AND**
-
- {{pagequery> ns:en:bible:notes:jud "(see: [[en:ta"; fulltext; sort=title:asc; display={title}; layout=column; showcount; hidestart; natsort; bullet=square; }}
