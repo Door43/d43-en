@@ -3,16 +3,19 @@
 This module answers the question: What do I do when I cannot find my language?\\
 Before you start this module have you learned about: [[:en:ta:vol1:tech:ts_install|Install translationStudio on an Android Device]]
 
-If you do not see your languages in the list of target languages, you can request that your language be added. The best way to submit a request is to send an email to [[help@door43.org|help@door43.org]]. Another method is to submit a Bug Report. In either case, please provide as much information as you can about the language, such as the local name of the language, and any other names it is known by. Also provide the location(s) where it is used.
+There is a process that must take place before a new language can be added to translationStudio. Some users have attempted to work in an established language and then save their work to the new language as a work-around to get their new language started.  In such an instance, however, you must select from the languages provided by translationStudio to submit the Request to Publish form. Therefore, please make sure you have requested the language before continuing with a translation or MAST activity.
 
-Note that even after requesting a new language, certain approvals are required before it will be added to translationStudio.
+To request a new language in translationStudio, please send an email to [[Help@door43.org|Help@door43.org]]. We will respond with an immediate email and then route your request to the appropriate person. To expedite your request, provide the region, the name of the language, the English name of the language, and the different names used in the area to describe the language. This will help researchers to more quickly find the necessary information about the new language and assign it a standard IETF code.
+
+**Note ** that the languages already available in translationStudio appear on the Data Sources site under **Additional Languages**.
+
+Even after requesting a new language, certain approvals are required before it will be added to translationStudio.
 
 You can use the **Report Bug** link to request a new language:
 
    * In the green bar at the top of the screen, tap on the three dots on the right.
   * In the list of options, tap **Report Bug**.
-  * The **Bug Report **  screen opens. Type the name of the language you would like added to translationStudio and other information as mentioned above.
-  * Include your contact information so we can contact you about the language.
+  * The **Bug Report **  screen opens. Type the name of the language you would like added to translationStudio.
   * Tap **Upload**  to send your request.
 
 Go back to the [[:en:ta:vol1:tech:ts_intro|translationStudio ]]page//. //
