@@ -1,7 +1,0 @@
-===== Matthew Chunks with tA links =====
-
-{{pagequery> ns:en:bible:notes:mat "(see: [[:en:ta"; fulltext; sort=title:asc; display={title}; layout=column; showcount; hidestart; natsort; bullet=square; }}
-
-**AND**
-
- {{pagequery> ns:en:bible:notes:mat "(see: [[en:ta"; fulltext; sort=title:asc; display={title}; layout=column; showcount; hidestart; natsort; bullet=square; }}
