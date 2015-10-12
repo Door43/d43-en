@@ -36,15 +36,18 @@ This section details who falls into which roles for each of our technical projec
 
 ====== translationStudio ======
 
-^  Core Team  ^^^
-^  Accountability  ^  Responsibility  ^  Authority  ^
-|  Leo  |  Joel, Hanna  |  Jesse, Tim  |
+==== Team Members ====
 
-^  Extended Team  ^^^
-^  Core Team  ^  Consultants  ^  Users  ^
-|  Leo  |  Rich, Larry, Christine  |  ???  |
+  * **Accountability**: Jesse
+  * **Responsibility**: Joel, Thomas H.
+  * **Authority**: //Jesse//
 
+  * **Consultants**: Rich, Larry, Christine, Tim J.
 
+==== Project Information ====
+
+  * Github Issues: https://github.com/unfoldingWord-dev/ts-android/issues
+  * Github Milestones: https://github.com/unfoldingWord-dev/ts-android/milestones
 ====== translationStudio Desktop ======
 
 ^  Core Team  ^^^
