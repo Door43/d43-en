@@ -11,7 +11,8 @@ We need your expertise!  If you have several hours a week to volunteer and you k
   * HTML/CSS
   * Objective-C (iOS)
 
-If you are interested, please [[en:slack|join our Slack channels!]] Ping @Jesse Griffin there if you are interested in developing with us.
+If you are interested, please [[en:slack|join our Slack channels!]] Ping @jag3773 there if you are interested in developing with us.
+
 ===== Projects =====
 
 We have too many projects to list and most are in active development, here is a sampling:
@@ -21,13 +22,30 @@ We have too many projects to list and most are in active development, here is a 
   * Publishing apps
   * Wiki style collaboration software
 
-You should also browse our code repositories on Github, see [[https://github.com/Door43|Door43 Github account]], [[https://github.com/Door43/tools|Door43 tools repo]], [[https://github.com/Door43/translationdb-tools|translationDB tools repo]], [[https://github.com/Door43/translationStudio2|translationStudio v2]], [[https://github.com/Door43/translationKeyboard|translationKeyboard]], and unfoldingWord [[https://github.com/unfoldingWord/uW-android|android]] / [[https://github.com/unfoldingWord/uW-ios|ios]] mobile app.
+More information on [[en:dev:teams|]]
+
 
 ===== API Information =====
 
   * **[[:en:dev:api:unfoldingword|unfoldingWord API]]** — //how to access unfoldingWord content via API.//
   * **[[:en:dev:api:translationstudio|translationStudio API]]** — //how to access translationStudio content via API.//
   * **[[:en:dev:api:translationkeyboard|translationKeyboard API]]** — //how to access translationKeyboard keyboards content via API.//
+
+
+===== General Dev Guidelines =====
+
+This is not an exhaustive list but just a few pointers to keep us on the same page.
+
+  * We use Git for managing code (data, too) and usually Github. This makes everyone's life easier. If you need help here, see Github's helpful sites: [[https://help.github.com/|https://help.github.com/]] and [[https://help.github.com/articles/set-up-git|https://help.github.com/articles/set-up-git]]. See also the Git manual: [[http://git-scm.com/documentation|http://git-scm.com/documentation]].
+  * Help on branching: http://pcottle.github.io/learnGitBranching/
+  * When using Git, commit often, see [[http://blog.crealytics.com/2010/07/09/5-reasons-keeping-git-commits-small-admin/|http://blog.crealytics.com/2010/07/09/5-reasons-keeping-git-commits-small-admin/]].
+  * Use existing code whenever possible. If someone has already done what you are trying to do, or even something slightly similar, see if you can use that first (of course check the license).
+  * We tend to license our code with a BSD/MIT style license, when possible.  Feel free to copy [[https://github.com/Door43/tools/blob/master/LICENSE|https://github.com/Door43/tools/blob/master/LICENSE]] into new projects.
+  * In terms of license assignment and identification, use something very similar to what you see at the top of [[https://github.com/Door43/tools/blob/master/uwb/t4t2dw.py|https://github.com/Door43/tools/blob/master/uwb/t4t2dw.py]].
+  * Access to our servers is allowed only via SSH public key authentication to non-root accounts.  If you are on Windows, you'll need PuTTY.  If you are creating a new key, use these options, ''ssh-keygen -t rsa -b 4096''.
+
+
+//Information below here may be outdated, YMMV//
 
 
 ===== Open Bible Stories =====
@@ -47,15 +65,3 @@ You should also browse our code repositories on Github, see [[https://github.com
 
     * **[[:en:dev:obs-video-render|Open Bible Stories video render system]]** – //currently in development by [[http://missionaldigerati.org|Missional Digerati]].//
     * **[[:en:dev:map-creator|Map Creator (for Open Bible Maps)]]** — //What if you had no concept of where Israel is, or Rome, or Egypt, or Galilee, or any of the other places mentioned in the Bible? Imagine how difficult it would be to accurately understand the Bible and the history of Israel. **Open Bible Maps**  makes it possible to rapidly translate high-quality maps of the Bible in any language.//
-
-===== General Dev Guidelines =====
-
-This is not an exhaustive list but just a few pointers to keep us on the same page.
-
-  * We use Git for managing code (data, too) and usually Github. This makes everyone's life easier. If you need help here, see Github's helpful sites: [[https://help.github.com/|https://help.github.com/]] and [[https://help.github.com/articles/set-up-git|https://help.github.com/articles/set-up-git]]. See also the Git manual: [[http://git-scm.com/documentation|http://git-scm.com/documentation]].
-  * Help on branching: http://pcottle.github.io/learnGitBranching/
-  * When using Git, commit often, see [[http://blog.crealytics.com/2010/07/09/5-reasons-keeping-git-commits-small-admin/|http://blog.crealytics.com/2010/07/09/5-reasons-keeping-git-commits-small-admin/]].
-  * Use existing code whenever possible. If someone has already done what you are trying to do, or even something slightly similar, see if you can use that first (of course check the license).
-  * We tend to license our code with a BSD/MIT style license, when possible.  Feel free to copy [[https://github.com/Door43/tools/blob/master/LICENSE|https://github.com/Door43/tools/blob/master/LICENSE]] into new projects.
-  * In terms of license assignment and identification, use something very similar to what you see at the top of [[https://github.com/Door43/tools/blob/master/uwb/t4t2dw.py|https://github.com/Door43/tools/blob/master/uwb/t4t2dw.py]].
-  * Access to our servers is allowed only via SSH public key authentication to non-root accounts.  If you are on Windows, you'll need PuTTY.  If you are creating a new key, use these options, ''ssh-keygen -t rsa -b 4096''.
