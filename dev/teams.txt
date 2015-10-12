@@ -29,6 +29,7 @@ Extended Team Roles:
 
 An individual from the Core Team is designated to ensure communication is flowing between the Extended Team and Core Team. The Users role in Extended Team can be quite large, so an effective strategy for communication between them and the Core Team is essential.  The Consultants will often have direct involvement with the Core Team, occasionally becoming honorary members of the Core Team.
 
+//Core Team roles from Scaling Up, by Verne Harnish//
 
 ====== uW Technical Projects ======
 
@@ -38,9 +39,9 @@ This section details who falls into which roles for each of our technical projec
 
 ==== Team Members ====
 
-  * **Accountability**: Jesse
+  * **Accountability**: //Jesse//
   * **Responsibility**: Joel, Thomas H.
-  * **Authority**: //Jesse//
+  * **Authority**: Jesse
 
   * **Consultants**: Rich, Larry, Christine, Tim J.
 
@@ -48,76 +49,132 @@ This section details who falls into which roles for each of our technical projec
 
   * Github Issues: https://github.com/unfoldingWord-dev/ts-android/issues
   * Github Milestones: https://github.com/unfoldingWord-dev/ts-android/milestones
+
+
 ====== translationStudio Desktop ======
 
-^  Core Team  ^^^
-^  Accountability  ^  Responsibility  ^  Authority  ^
-|  Leo  |  Del, Joel  |  Jesse, Tim  |
+==== Team Members ====
 
-^  Extended Team  ^^^
-^  Core Team  ^  Consultants  ^  Users  ^
-|  Leo  |  Rich, Larry, Christine  |  ???  |
+  * **Accountability**: //Joel//
+  * **Responsibility**: Joel, others
+  * **Authority**: Jesse
+
+  * **Consultants**: Rich, Larry, Christine, Tim J.
+
+==== Project Information ====
+
+  * Github Issues: https://github.com/unfoldingWord-dev/ts-desktop/issues
+  * Github Milestones: https://github.com/unfoldingWord-dev/ts-desktop/milestones
+
 
 ====== translationKeyboard ======
 
-^  Core Team  ^^^
-^  Accountability  ^  Responsibility  ^  Authority  ^
-|  Leo  |  Bryn  |  Jesse, Tim  |
+==== Team Members ====
 
-^  Extended Team  ^^^
-^  Core Team  ^  Consultants  ^  Users  ^
-|  Leo  |  Rich  |  ???  |
+  * **Accountability**: //Jesse//
+  * **Responsibility**: Acts Media
+  * **Authority**: //Jesse//
+
+  * **Consultants**: Rich, Brad
+
+==== Project Information ====
+
+  * Github Issues: https://github.com/unfoldingWord-dev/translationkeyboard/issues and https://github.com/unfoldingWord-dev/translationkeyboardweb/issues
+  * Github Milestones: https://github.com/unfoldingWord-dev/translationkeyboard/milestones and https://github.com/unfoldingWord-dev/translationkeyboardweb/milestones
+
 
 ====== unfoldingWord Mobile App ======
 
-^  Core Team  ^^^
-^  Accountability  ^  Responsibility  ^  Authority  ^
-|  Leo  |  Bryn  |  Jesse, Tim  |
+==== Team Members ====
 
-^  Extended Team  ^^^
-^  Core Team  ^  Consultants  ^  Users  ^
-|  Leo  |  Rich  |  ???  |
+  * **Accountability**: //Jesse//
+  * **Responsibility**: Acts Media
+  * **Authority**: //Jesse//
+
+  * **Consultants**: Brad, Tim J.
+
+==== Project Information ====
+
+  * Github Issues: https://github.com/unfoldingWord-dev/uw-android/issues and https://github.com/unfoldingWord-dev/uw-ios/issues
+  * Github Milestones: https://github.com/unfoldingWord-dev/uw-android/milestones and https://github.com/unfoldingWord-dev/uw-ios/milestones
+
 
 ====== Door43 ======
 
-^  Core Team  ^^^
-^  Accountability  ^  Responsibility  ^  Authority  ^
-|  Leo  |  Phil, Yvonne, Rich  |  Jesse, Tim  |
+==== Team Members ====
 
-^  Extended Team  ^^^
-^  Core Team  ^  Consultants  ^  Users  ^
-|  Leo  |  Rich   |  Larry, Christine  |
+  * **Accountability**: //Jesse//
+  * **Responsibility**: Rich, Phil, Craig, Johnathan, David, Caleb, others
+  * **Authority**: Ben J.
+
+  * **Consultants**: Larry, Christine
+
+==== Project Information ====
+
+  * Github Issues: https://github.com/unfoldingWord-dev/door43/issues
+  * Github Milestones: https://github.com/unfoldingWord-dev/door43/milestones
+
 
 ====== unfoldingWord Web ======
 
-^  Core Team  ^^^
-^  Accountability  ^  Responsibility  ^  Authority  ^
-|  Leo  |  Phil  |  Jesse, Tim  |
+==== Team Members ====
 
-^  Extended Team  ^^^
-^  Core Team  ^  Consultants  ^  Users  ^
-|  Leo  |  Rich  |  ???  |
+  * **Accountability**: Jesse
+  * **Responsibility**: Johnathan, Phil
+  * **Authority**: //Tim J.//
+
+  * **Consultants**: Brad, Ben
+
+==== Project Information ====
+
+  * Github Issues: https://github.com/unfoldingWord/unfoldingword.github.io/issues
+  * Github Milestones: https://github.com/unfoldingWord/unfoldingword.github.io/milestones
+
 
 ====== translationDatabase ======
 
-^  Core Team  ^^^
-^  Accountability  ^  Responsibility  ^  Authority  ^
-|  Leo  |  Patrick, Steven  |  Jesse, Tim  |
+==== Team Members ====
 
-^  Extended Team  ^^^
-^  Core Team  ^  Consultants  ^  Users  ^
-|  Leo  |  Rich, Tim  |  ???  |
+  * **Accountability**: //Jesse//
+  * **Responsibility**: Eldarion, Vicki
+  * **Authority**: Ben
+
+  * **Consultants**: Rich, Jesse
+
+==== Project Information ====
+
+  * Github Issues: https://github.com/unfoldingWord-dev/translationdatabaseweb/issues
+  * Github Milestones: https://github.com/unfoldingWord-dev/translationdatabaseweb/milestones
+
 
 ====== Typesetting/Publishing ======
 
-^  Core Team  ^^^
-^  Accountability  ^  Responsibility  ^  Authority  ^
-|  Leo  |  David B., Jean   |  Jesse, Tim  |
+==== Team Members ====
 
-^  Extended Team  ^^^
-^  Core Team  ^  Consultants  ^  Users  ^
-|  Leo  |  Rich, Daniel Lins  |  ???  |
+  * **Accountability**: //Jesse//
+  * **Responsibility**: Rich, Caleb
+  * **Authority**: //Jesse//
+
+  * **Consultants**: Daniel L. & POD team
+
+==== Project Information ====
+
+  * Github Issues: https://github.com/unfoldingWord-dev/Door43/labels/tools
+  * Github Milestones: https://github.com/unfoldingWord-dev/tools/milestones
 
 
+====== Server Infrastructure ======
 
-//Core Team roles from Scaling Up, by Verne Harnish//
+==== Team Members ====
+
+  * **Accountability**: //Jesse//
+  * **Responsibility**: Ken, Jesse
+  * **Authority**: //Jesse//
+
+  * **Consultants**: 
+
+==== Project Information ====
+
+  * Github Issues: https://github.com/unfoldingWord-dev/sysadmin/issues
+  * Github Milestones: https://github.com/unfoldingWord-dev/sysadmin/milestones
+
