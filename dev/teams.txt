@@ -2,11 +2,6 @@
 
 The unfoldingWord technical initiatives are broken down into various projects.  Each of these projects is run by a Core Team of people who have specific roles within that project.  Every Core Team is also a part of an Extended Team that primarily provides feedback to the Core Team.
 
-Graphically, the teams look like this:
-
-{{:en:dev:uw_technical_project_organization.svg|}}
-
-
 ===== Core Team =====
 
 The Core Team is the essential working unit, the group that drives progress on the project.  It is essential that this unit's communication cycle is measured in hours or days at worst.
@@ -28,6 +23,11 @@ Extended Team Roles:
 | Person from Core Team acting as accountability role for the Extended Team | Group of specialists that provides feedback to the Core Team | Group of users providing feedback |
 
 An individual from the Core Team is designated to ensure communication is flowing between the Extended Team and Core Team. The Users role in Extended Team can be quite large, so an effective strategy for communication between them and the Core Team is essential.  The Consultants will often have direct involvement with the Core Team, occasionally becoming honorary members of the Core Team.
+
+Graphically, the teams look like this:
+
+{{:en:dev:uw_technical_project_organization.svg|}}
+
 
 //Core Team roles from Scaling Up, by Verne Harnish//
 
