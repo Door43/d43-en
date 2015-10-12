@@ -1,7 +1,0 @@
-===== Mark Chunks with tA links =====
-
-{{pagequery> ns:en:bible:notes:mrk "(see: [[:en:ta"; fulltext; sort=title:asc; display={title}; layout=column; showcount; hidestart; natsort; }}
-
-**AND**
-
- {{pagequery> ns:en:bible:notes:mrk "(see: [[en:ta"; fulltext; sort=title:asc; display={title}; layout=column; showcount; hidestart; natsort;  }}
