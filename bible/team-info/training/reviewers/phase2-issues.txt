@@ -2,57 +2,48 @@
 
 This is a list of general issues that we want to deal with in Phase 2. This list might get long. Let's list the issues in alphabetical order and put our name or initials afterward in parentheses.
 
-  * **Alternate Versification** - (Missing/added verses and different verse numbering) Will the Gateway translations match the text and verse numbering of the most commonly used Bibles in each Gateway language? Will we need the tA page [[en:ta:vol1:translate:translate_textvariants|Text Variant tA]] and  notes dealing with this? See [[en:bible:team-info:training:quick-reference:standard-notes:text-variant|Text Variant Notes]] and the discussion in [[en:bible:team-info:processes:when-notes]].  (SQ) 
+  * **Alternate Versification**  - (Missing/added verses and different verse numbering) Will the Gateway translations match the text and verse numbering of the most commonly used Bibles in each Gateway language? Will we need the tA page [[:en:ta:vol1:translate:translate_textvariants|Text Variant tA]] and notes dealing with this? See [[:en:bible:team-info:training:quick-reference:standard-notes:text-variant|Text Variant Notes]] and the discussion in [[:en:bible:team-info:processes:when-notes|When to Create Translation Notes]]. (SQ)
+  * **Authority/Responsibility**  - Sometimes a person in authority is responsible for doing something, even though he himself does not do it. In Ex 26:1 God uses 2s when he commands Moses to make the curtains, but it is really the craftsmen who are to do it. In other places a king is said to have done something, when it was really his army that did it. Should we have a note and/or tA page for this? (SQ)
+  * **Biblical Dating**  - Maybe have a tA or KT page about Biblical dates explaining how years and months were counted, and maybe explaining how "in the twelfth year of X" is the same as "11 years after X." (SQ)
+  * **Chiasmus**  - Should we have a tA page and notes for this? In Joel 2:30,31 it looks like MTTs will gather from the UDB that they can change the order of “heaven and earth” but they won't know why. (SQ)
+  * **Connecting Statements**  - Make sure that the wording is consistent in each book. (In the Ezekiel notes, there is variation between "the Spirit", "Yahweh" and "God.") (SQ)
+      * Change this note from bullet to connecting statement. "The records in Genesis 5:6-27 have the same format. Translate them according to the notes for verse 6-8. (See: How to Translate Names)"
 
-  * **Authority/Responsibility** - Sometimes a person in authority is responsible for doing something, even though he himself does not do it. In Ex 26:1 God uses 2s when he commands Moses to make the curtains, but it is really the craftsmen who are to do it.  In other places a king is said to have done something, when it was really his army that did it. Should we have a note and/or tA page for this? (SQ) 
+  * **Cultural models** that appear repeatedly in the Scriptures - e.g.
+      * A nation's land depicted as a woman and its main god as her husband; the land's fertility is attributed to the god, abandonment of the god is seen as adultery (see Hosea and many passages in the other prophets also)
+      * The wind is used as the archetype of transcience and futility, and weighty objects are used as the archetypes of permanence and worth
+      * Covenants and their typical elements (stipulations, ceremonial meals, sacrifices and splitting apart of animals, witnesses, writing down of covenants, annual renewal ceremonies, penalties for violation)
+      * Territoriality of the gods and the wars of gods as a reflection of wars between nations
+      * The use of boundaries and boundary markers as models for the limits put on human behavior
+      * The use of the wilderness as a model for social and spiritual isolation
+      * The Image of Limited Good in the Scriptures
+      * models of pollution, remedies for pollution
+      * models for honor, models for shame
+  * **Doublets**  - Do we really want to encourage translators to simply use one of them? How do we decide when that is acceptable or when too much information would be lost? (SQ)
+  * **Emphasizes**  - It seems like this word is being overused. Check to see if it's really needed in each note that has it. Sometimes "means" or "shows" would be better. Also I think we need to be careful to distinguish __emphasis__  and __implication__. (SQ)
+  * **Hyperbole**  - Learn more about this and the translation issues it presents. When is it necessary to strip away the hyperbole? How else can the emphasis or emotive force be kept? Are there times when it would be totally inappropriate to strip away the hyperbole? (SQ)
+  * **Idioms involving prepositions**  - Sometimes I have added the object to notes, thinking that it would make it easier for some Gateway translators to translate the note. In some languages the appositions are bound to the object. Should we do this throughout, or is it not necessary? (SQ)
+      * **make your face shine on __your sanctuary__**
+ - AT: “act kindly toward __your sanctuary__” (UDB) or “act with favor toward __your sanctuary__” (See: Idiom)
 
-  * **Biblical Dating** - Maybe have a tA or KT page about Biblical dates explaining how years and months were counted, and maybe explaining how "in the twelfth year of X" is the same as "11 years after X."  (SQ)
-
-  * **Chiasmus** - Should we have a tA page and notes for this? In Joel 2:30,31 it looks like MTTs will gather from the UDB that they can change the order of “heaven and earth” but they won't know why.  (SQ)
-
-  * **Connecting Statements** - Make sure that the wording is consistent in each book. (In the Ezekiel notes, there is variation between "the Spirit", "Yahweh" and "God.") (SQ)
-    * Change this note from bullet to connecting statement. "The records in Genesis 5:6-27 have the same format. Translate them according to the notes for verse 6-8. (See: How to Translate Names)"
-
-  * **Doublets** - Do we really want to encourage translators to simply use one of them? How do we decide when that is acceptable or when too much information would be lost? (SQ)
-
-  * **Emphasizes** - It seems like this word is being overused. Check to see if it's really needed in each note that has it. Sometimes "means" or "shows" would be better. Also I think we need to be careful to distinguish __emphasis__ and __implication__. (SQ)
-
-  * **Hyperbole** - Learn more about this and the translation issues it presents. When is it necessary to strip away the hyperbole? How else can the emphasis or emotive force be kept? Are there times when it would be totally inappropriate to strip away the hyperbole? (SQ)
-
-  * **Idioms involving prepositions** - Sometimes I have added the object to notes, thinking that it would make it easier for some Gateway translators to translate the note. In some languages the appositions are bound to the object. Should we do this throughout, or is it not necessary?  (SQ) 
-    * **make your face shine on __your sanctuary__** - AT: “act kindly toward __your sanctuary__” (UDB) or “act with favor toward __your sanctuary__” (See: Idiom)
-
-  * **Important Terms** - Change "There are no important terms for these verses" to "There are no new important terms for these verses." Sometimes there are important terms in the ULB, but they are not listed on every chunk because they are used so much in that chapter or book. (SQ)
-
-  * **Metaphors** - I don't think that "This compares X to Y" is usually right. (SQ)
-
-  * **Narrative Present in Notes** - The example below shows why I do not want to use the narrative present in notes. (SQ)
-    * **When you have lifted up** - “when you lift up.” This __has not__ happened yet. \\  (This had not happened at the time Jesus was saying it, but it did happen since then. So  that no one would mistake us for saying that it has not happened yet in our time, we changed the comment to "This __had not__ happened yet," even though the rest of the comments use the narrative present.)
-
-  * **Negation in text** - When we write notes, we may need to include the negation. See my 8-27-15 discussion note in [[en:bible:notes:ezk:34:07]]. (SQ) 
-
-  * **OT Quotes** - Should we suggest footnotes that translators could write to tell where quotes came from (particularly when it says "as it is written [±by the prophet]")? (SQ)
-
-  * **Parentheses at end of notes** -  When we have (UDB) and a link like (See: metaphor), should there be any punctuation between the two? Should "UDB" come after "See:"? (SQ)
-
-  * **Punctuation in TNs** - Reconsider use of question marks in notes. It seems odd without them when the whole question is written out in bold and in the translation suggestion. (SQ)
-    * **In your greatness, who are you like** - “Who is as great as you are.”  Yahweh uses this question to ... 
-
-  * **Rhetorical Questions** - Will we need to write notes for rhetorical questions that are used to draw someone's attention to something right there? Ex 4:2 Yahweh said to him, "What is that in your hand?" Moses said, "A staff." Yahweh said, "Throw it on the ground." (SQ)
-
-  * **See how you translated this** - Determine when to use these notes and when not to. See discussion on [[en:bible:notes:ezk:37:26]]. (SQ)
-
-  * **Standard Notes** - We may want to fix the standard notes for "now." Bram came up with a good one in Dan 9:17.
-
-  * **Symbolic acts** - Do we want a standard note format for these? Sometimes only the symbolic act is mentioned. They're not just idioms, but I don't think they're simply metonymy either. (SQ)
-      * **will shake his fist at them** - "will threaten them"??
-
-  * **tA Links** - We have not been putting the same tA links on multiple notes in a chunk, but when the issue comes up a second time in a chunk, how do we indicate that a second or third note phrase has that issue? See: [[en:bible:notes:isa:10:26]] where there are three notes that involve metonymy. (SQ)
-
-  * **Tense in prophecy** - What do we do when English versions translate it with the past tense, but it refers to things in the future? (SQ)
-
-  * **Yahweh** - The ULB uses "Yahweh." Some believers find that startling, perhaps even offensive. Would we want to avoid using God's name in the connecting statements? (SQ)
-
+  * **Important Terms**  - Change "There are no important terms for these verses" to "There are no new important terms for these verses." Sometimes there are important terms in the ULB, but they are not listed on every chunk because they are used so much in that chapter or book. (SQ)
+  * **Metaphors**  - I don't think that "This compares X to Y" is usually right. (SQ)
+  * **Narrative Present in Notes**  - The example below shows why I do not want to use the narrative present in notes. (SQ)
+      * **When you have lifted up**  - “when you lift up.” This __has not__  happened yet. \\ (This had not happened at the time Jesus was saying it, but it did happen since then. So that no one would mistake us for saying that it has not happened yet in our time, we changed the comment to "This __had not__  happened yet," even though the rest of the comments use the narrative present.)
+  * **Negation in text**  - When we write notes, we may need to include the negation. See my 8-27-15 discussion note in [[:en:bible:notes:ezk:34:07|Ezekiel 34:7-8]]. (SQ)
+  * **OT Quotes**  - Should we suggest footnotes that translators could write to tell where quotes came from (particularly when it says "as it is written [±by the prophet]")? (SQ)
+  * **Parentheses at end of notes**  - When we have (UDB) and a link like (See: metaphor), should there be any punctuation between the two? Should "UDB" come after "See:"? (SQ)
+  * **Punctuation in TNs**  - Reconsider use of question marks in notes. It seems odd without them when the whole question is written out in bold and in the translation suggestion. (SQ)
+      * **In your greatness, who are you like**  - “Who is as great as you are.” Yahweh uses this question to …
+  * **Rhetorical Questions**  - Will we need to write notes for rhetorical questions that are used to draw someone's attention to something right there? Ex 4:2 Yahweh said to him, "What is that in your hand?" Moses said, "A staff." Yahweh said, "Throw it on the ground." (SQ)
+  * **See how you translated this**  - Determine when to use these notes and when not to. See discussion on [[:en:bible:notes:ezk:37:26|Ezekiel 37:26-28]]. (SQ)
+  * **Standard Notes**  - We may want to fix the standard notes for "now." Bram came up with a good one in Dan 9:17.
+  * **Symbolic acts**  - Do we want a standard note format for these? Sometimes only the symbolic act is mentioned. They're not just idioms, but I don't think they're simply metonymy either. (SQ)
+      * **will shake his fist at them**  - "will threaten them"??
+  * **Symbols **- e.g.,
+      * symbols of destruction and abandonment: jackals, owls, ostriches, thornbushes, etc.
+      * symbols of prosperity: milk and honey, flocks and herds in pastures, every person under his own fig tree and with his own grapevines
+  * **tA Links**  - We have not been putting the same tA links on multiple notes in a chunk, but when the issue comes up a second time in a chunk, how do we indicate that a second or third note phrase has that issue? See: [[:en:bible:notes:isa:10:26|Isaiah 10:26-27]] where there are three notes that involve metonymy. (SQ)
+  * **Tense in prophecy**  - What do we do when English versions translate it with the past tense, but it refers to things in the future? (SQ)
+  * **Yahweh**  - The ULB uses "Yahweh." Some believers find that startling, perhaps even offensive. Would we want to avoid using God's name in the connecting statements? (SQ)
 ~~DISCUSSION~~
-
-\\
