@@ -13,8 +13,7 @@
 [[:en:ta:admin:ta-chunks-mic|Micah tA Links]]
 
 [[:en:ta:admin:ta-chunks-mat|Matthew tA Links]]\\
-[[:en:ta:admin:ta-chunks-mrk|Mark tA Links]]\\
-[[:en:ta:admin:ta-chunks-act|Acts tA Links]]\\
+
 [[:en:ta:admin:ta-chunks-eph|Ephesians tA Links]]\\
 [[:en:ta:admin:ta-chunks-1_2co|1 & 2 Corinthians tA Links]]\\
 [[:en:ta:admin:ta-chunks-heb|Hebrews tA Links]]\\
@@ -25,15 +24,20 @@
 
 [[:en:ta:admin:ta-chunks-gen|Genesis tA Links]]\\
 [[:en:ta:admin:ta-chunks-rut|Ruth tA Links]]\\
-[[:en:ta:admin:ta-chunks-jon|Jonah tA Links]]
+[[:en:ta:admin:ta-chunks-jon|Jonah tA Links]]\\
 
+
+[[:en:ta:admin:ta-chunks-mrk|Mark tA Links]]\\
 [[:en:ta:admin:ta-chunks-luk|Luke tA Links]]\\
-[[:en:ta:admin:ta-chunks-1_2ti|1 & 2 Timothy tA Links]]\\
+[[:en:ta:admin:ta-chunks-act|Acts tA Links]]\\
+[[:en:ta:admin:ta-chunks-rom|Romans tA Links]]\\
+
 [[:en:ta:admin:ta-chunks-gal|Galatians tA Links]]\\
 
 [[:en:ta:admin:ta-chunks-php|Philippians tA Links]]\\
 [[:en:ta:admin:ta-chunks-col|Colossians tA Links]]\\
 [[:en:ta:admin:ta-chunks-1_2th|1 & 2 Thessalonians tA Links]]\\
+[[:en:ta:admin:ta-chunks-1_2ti|1 & 2 Timothy tA Links]]\\
 [[:en:ta:admin:ta-chunks-tit|Titus tA Links]]\\
 [[:en:ta:admin:ta-chunks-phm|Philemon tA Links]]\\
 
