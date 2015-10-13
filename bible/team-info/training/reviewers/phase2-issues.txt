@@ -5,7 +5,17 @@ This is a list of general issues that we want to deal with in Phase 2. This list
   * **Alternate Versification**  - (Missing/added verses and different verse numbering) Will the Gateway translations match the text and verse numbering of the most commonly used Bibles in each Gateway language? Will we need the tA page [[:en:ta:vol1:translate:translate_textvariants|Text Variant tA]] and notes dealing with this? See [[:en:bible:team-info:training:quick-reference:standard-notes:text-variant|Text Variant Notes]] and the discussion in [[:en:bible:team-info:processes:when-notes|When to Create Translation Notes]]. (SQ)
   * **Authority/Responsibility**  - Sometimes a person in authority is responsible for doing something, even though he himself does not do it. In Ex 26:1 God uses 2s when he commands Moses to make the curtains, but it is really the craftsmen who are to do it. In other places a king is said to have done something, when it was really his army that did it. Should we have a note and/or tA page for this? (SQ)
   * **Biblical Dating**  - Maybe have a tA or KT page about Biblical dates explaining how years and months were counted, and maybe explaining how "in the twelfth year of X" is the same as "11 years after X." (SQ)
+  * **Biblical Language**  - There are many expressions, both in Hebrew and Greek, that are helpful for the MTT to understand in a global way. Many of these expressions trade in themes that are present especially in Biblical Hebrew. They should be treated globally in Phase Two, I would propose. Here are some examples:
+      * **Being in the presence of another person**  ("walk before me," "do evil in the sight of Yahweh")
+      * **Separation in verbs of destruction**  ("be cut off from the earth," "be cut off from one's people," "be destroyed from the earth," "be destroyed from before someone," "be destroyed from remaining within the borders of a land," "be destroyed from his place"
+      *
   * **Chiasmus**  - Should we have a tA page and notes for this? In Joel 2:30,31 it looks like MTTs will gather from the UDB that they can change the order of “heaven and earth” but they won't know why. (SQ)
+  * **Conceptual metaphors**  - In Bibilical Hebrew, it is common to think about some kinds of ideas in terms of other kinds of ideas, e.g.,
+      * Receiving or welcoming someone// in terms of//  raising his face
+      * Conduct or behavior //in terms of// a way, path, or road, //or in terms of// walking or traveling
+      * Living uprightly //in terms of // walking; living wickedly //in terms of // stumbling or falling
+      * The land// in terms of // the people's mother
+      * and many more.
   * **Connecting Statements**  - Make sure that the wording is consistent in each book. (In the Ezekiel notes, there is variation between "the Spirit", "Yahweh" and "God.") (SQ)
       * Change this note from bullet to connecting statement. "The records in Genesis 5:6-27 have the same format. Translate them according to the notes for verse 6-8. (See: How to Translate Names)"
 
@@ -37,6 +47,7 @@ This is a list of general issues that we want to deal with in Phase 2. This list
       * **In your greatness, who are you like**  - “Who is as great as you are.” Yahweh uses this question to …
   * **Rhetorical Questions**  - Will we need to write notes for rhetorical questions that are used to draw someone's attention to something right there? Ex 4:2 Yahweh said to him, "What is that in your hand?" Moses said, "A staff." Yahweh said, "Throw it on the ground." (SQ)
   * **See how you translated this**  - Determine when to use these notes and when not to. See discussion on [[:en:bible:notes:ezk:37:26|Ezekiel 37:26-28]]. (SQ)
+  * **Semantic domains that overlap**  - e.g., BLOOMING/BUDDING/GROWTH and JOY, LIGHTand BLOOMING, OPENNESS and BLOOMING, OPENNESS and JOY, LIGHT and KNOWLEDGE. Overlapping semantic domains often motivate doublets in the OT.
   * **Standard Notes**  - We may want to fix the standard notes for "now." Bram came up with a good one in Dan 9:17.
   * **Symbolic acts**  - Do we want a standard note format for these? Sometimes only the symbolic act is mentioned. They're not just idioms, but I don't think they're simply metonymy either. (SQ)
       * **will shake his fist at them**  - "will threaten them"??
