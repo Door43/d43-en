@@ -18,7 +18,6 @@
 
 <usfm>
 \v 1 O God, I need you very much, like a deer needs to drink water from a cool stream.
-\q2 .
 \q1
 \v 2 I desire to be with you, the all-powerful God.
 \q2 I say to myself, "When will I be able to go back to the temple in Israel
@@ -32,9 +31,10 @@
 ===== ULB: =====
 
 <usfm>
+\ms Book Two
 \c 42
- 
 \d For the Chief Musician. Maschil of the sons of Korah.
+\b
 \q
 \v 1 As the hart pants after streams of water,
 \q so my soul pants after you, God.
