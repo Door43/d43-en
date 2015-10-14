@@ -7,7 +7,7 @@ Suzanne to John Luton
 |{{pagequery>@en:bible:notes:exo \{\{tag>[^}]*luton[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort;showcount; layout=table;hidemsg;hidejump;fontsize=100%}}  | 
 
 Activity - Check
-{{changes>user=pwholloway&count=50&render=pagelist(header,date,user,nocomments)&maxage=25920000}} 
+{{changes>user=katalakay&count=50&render=pagelist(header,date,user,nocomments)&maxage=25920000}} 
 
 Changes this week
 
