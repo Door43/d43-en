@@ -3,6 +3,7 @@
   * [[:en:ulb:ep:07-jdg.usfm|Full ULB text of Judges]]
   * [[:en:udb:ep:07-jdg.usfm|Full UDB text of Judges]]
   * [[:en:bible:admin-reports:notes-team-admin:jdg1|Notes: Judges Team 1 Admin]]
+  * [[:en:bible:team-info:training:notes-training|Notes Training]]
   * [[en:bible:team-info:training:standard-book-notes:jdg]]
 
 
@@ -29,4 +30,3 @@
 <nspages en:bible:notes:jdg:11 -title -naturalOrder -exclude:home -textPages="Judges 11" -nbCol=2> 
 
 <nspages en:bible:notes:jdg:12 -title -naturalOrder -exclude:home -textPages="Judges 12" -nbCol=2> 
-
