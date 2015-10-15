@@ -1,9 +1,0 @@
-====== # of Notes Chunks in Status: ======
-
-
-^  Draft  ^  Check  ^  Review  ^  Publish  ^
-|{{pagequery>@en:bible:notes  \{\{tag>[^}]*draft[^}]*\}\}; showcount; fulltextregex; sort=title:asc; display={title};  natsort; layout=table;hidemsg;hidejump;fontsize=60%}} |{{pagequery>@en:bible:notes  \{\{tag>[^}]*check[^}]*\}\}; showcount; fulltextregex; sort=title:asc; display={title};  natsort; layout=table;hidemsg;hidejump;fontsize=60%}} | {{pagequery>@en:bible:notes ^en:bible:notes:checking \{\{tag>[^}]*review[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort;showcount; layout=table;hidemsg;hidejump;fontsize=60%}}  | {{pagequery>@en:bible:notes ^en:bible:notes:checking \{\{tag>[^}]*publish[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort;showcount; layout=table;hidemsg;hidejump;fontsize=60%}}  |
-\\
-~~NOCACHE~~
-
-  * [[:en:bible:admin-reports:check-tags|Check Tags]]
