@@ -1,0 +1,10 @@
+====== "Check" Materials ======
+
+~~NOCACHE~~
+
+  * [[en:bible:admin-reports:check-notes-tags|Check Tags]]
+
+^  Notes  ^
+|{{pagequery>@en:bible:notes \{\{tag>[^}]*check[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort;showcount; layout=table;hidemsg;hidejump;fontsize=60%}}  |
+
+\\
