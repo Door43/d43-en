@@ -1,0 +1,15 @@
+====== Notes: Obadiah Review Admin ======
+
+
+Manager - \\
+Reviewer - \\
+
+~~NOCACHE~~
+
+  * [[en:bible:admin-reports:check-tags-notes]]
+
+
+==== Obadiah Pages Status ====
+
+^  Review  ^  Text  ^  Discuss  ^  Publish  ^
+|{{pagequery>@en:bible:notes:oba \{\{tag>[^}]*review[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; showcount; layout=table;hidemsg;hidejump;fontsize=80%}}  |{{pagequery>@en:bible:notes:oba \{\{tag>[^}]*text[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; showcount; layout=table;hidemsg;hidejump;fontsize=80%}}  |{{pagequery>@en:bible:notes:oba \{\{tag>[^}]*discuss[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; showcount; layout=table;hidemsg;hidejump;fontsize=80%}}  |{{pagequery>@en:bible:notes:oba \{\{tag>[^}]*publish[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; showcount; layout=table;hidemsg;hidejump;fontsize=80%}}  |

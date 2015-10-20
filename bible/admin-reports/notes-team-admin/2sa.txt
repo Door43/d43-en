@@ -16,6 +16,6 @@ Reviewer - (//review to publish//) -
 ==== 2 Samuel Page Status ====
 
 ^  Draft  ^  Check  ^  Review  ^
-|{{pagequery>@en:bible:notes:2sa \{\{tag>[^}]*draft[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=100%}} |{{pagequery>@en:bible:notes:2sa \{\{tag>[^}]*check[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=100%}} |{{pagequery>@en:bible:notes:2sa \{\{tag>[^}]*review[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=100%}} |
+|{{pagequery>@en:bible:notes:2sa \{\{tag>[^}]*draft[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; showcount; layout=table;hidemsg;hidejump;bullet=square;fontsize=100%}} |{{pagequery>@en:bible:notes:2sa \{\{tag>[^}]*check[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; showcount; layout=table;hidemsg;hidejump;bullet=square;fontsize=100%}} |{{pagequery>@en:bible:notes:2sa \{\{tag>[^}]*review[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; showcount; layout=table;hidemsg;hidejump;bullet=square;fontsize=100%}} |
 
 \\

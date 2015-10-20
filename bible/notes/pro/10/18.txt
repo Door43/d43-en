@@ -18,13 +18,11 @@
 ===== UDB: =====
 
 <usfm>
-\v 18 Those who will not admit that they hate others are liars,
-\q2 and those who slander others are foolish.
-\b
+\v 18 Those who hide their hatred of others, must lie to cover it up. 
+\q2 and those who repeat slander are foolish.
 \q1
-\v 19 When people talk a lot, that will lead them to sin a lot by what they say;
-\q2 if you are wise, you will refuse to say very much.
-\b
+\v 19 When people talk a lot, sin is sure to follow;
+\q2 if you are wise, you will always be careful about what you say.
 
 
 \q1
@@ -35,26 +33,28 @@
 
 <usfm>
 \q
-\v 18 He that hides hatred is of lying lips;
-\q And he that utters a slander is a fool.
+\v 18 Whoever conceals hatred has lying lips
+\q and whoever spreads slander is a fool.
 \q
-\v 19 In the multitude of words there lacks not transgression;
-\q But he that refrains his lips does wisely.
+\v 19 When there are many words, transgression is not lacking,
+\q but he who is careful in what he says, is wise.
 </usfm>
 
 
 ===== Important Terms: =====
 
   * [[en:obe:other:slander]]
-  * [[:En:obe:kt:foolish]] 
-  * [[:En:obe:kt:word]] 
-  * [[en:obe:kt:transgression]]
+  * [[en:obe:kt:foolish]]
+  * [[en:obe:kt:word]]
+  * [[:en:obe:kt:transgression]]
+  * [[en:obe:kt:wise]]
+
 
 ===== Translation Notes: =====
 
-
-    * **of lying lips**  - a person who tells lies (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  
+    * **has lying lips**  - tells lies (See: [[:en:ta:vol2:translate:figs_metonymy]])
+    * **transgression is not lacking**  - there is much sin (See: [[:en:ta:vol2:translate:figs_litotes]]) 
+ 
 ===== Links: =====
 
   * **[[en:bible:questions:comprehension:pro:10|Proverbs Chapter 10 Comprehension Questions]]**
@@ -66,6 +66,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>draft}}
+{{tag>check}}
 
 ~~NOCACHE~~

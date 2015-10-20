@@ -1,0 +1,66 @@
+===== Table of Contents - Process Manual =====
+
+This module answers the question: What is in the process manual?\\
+====== PROCESS MANUAL ======
+
+===== Volume 1 =====
+
+==== 1. Getting Started ====
+
+   - **[[en:ta:vol1:process:process_manual|Introduction]]** - What is the Process Manual?
+   - **[[en:ta:vol1:process:getting_started|Getting Started]]** - What do I need to have in place before getting started? 
+
+
+==== 2. Setting Up A Translation Platform ====
+
+  * **[[en:ta:vol1:process:platforms|Choosing a translation platforms]]** - Where should I translate? 
+    * [[en:ta:vol1:process:setup_door43|Setting up Door43]]  
+    * [[en:ta:vol1:process:setup_tsandroid|Setting up translationStudio - Android]] 
+    * [[en:ta:vol1:process:setup_word|Setting up for a Word Processor]]  
+
+==== 3. Translating ====
+
+  * **[[en:ta:vol1:process:pretranslation_training|Training before translation begins]]** - What should I know about translation before I start? 
+    * [[en:ta:vol1:process:door43_translation|Translating Using Door43]]  
+    * [[en:ta:vol1:process:tsandroid_translation|Translating Using translationStudio]]  
+    * [[en:ta:vol1:process:word_translation|Translating Using a Word Processor]]  https://pad.door43.org/p/word_translation
+
+==== 4. Checking ====
+
+   - **[[en:ta:vol1:process:prechecking_training|Training before checking begins]]** - What training should be done before checking begins? https://pad.door43.org/p/ta-prechecking_training
+   - **[[en:ta:vol1:process:required_checking|How to Check]]** - How do I check a translation? https://pad.door43.org/p/ta-required_checking
+
+==== 5. Publishing ====
+
+   - **[[en:ta:vol1:process:intro_publishing|Introduction to publishing]]** - What is publishing? https://pad.door43.org/p/ta-intro_publishing
+   - **[[en:ta:vol1:process:publishing_prereqs|Publishing prerequisites]]** - What must be done before I start the publishing process? https://pad.door43.org/p/ta-publishing_prereqs
+   - **[[en:ta:vol1:process:publishing_process|How to Publish]]** - How do I publish my content? https://pad.door43.org/p/ta-publishing_process
+
+==== 6. Distributing ====
+
+   - **[[en:ta:vol1:process:intro_share|Introduction to Distribution]]** - How can I distribute content? https://pad.door43.org/p/ta-intro_share
+   - **[[en:ta:vol1:process:share_unpublished|Sharing Unpublished Content]]** - How can I share unpublished content? https://pad.door43.org/p/ta-share_unpublished
+   - **[[en:ta:vol1:process:share_published|Sharing Published content]]** - How can I share published content? https://pad.door43.org/p/ta-share_published
+
+
+===== Volume 2 =====
+
+===== Audio =====
+
+   - **[[en:ta:vol2:process:audio_hardware|Hardware recommendations]]** - What hardware is recommended? https://pad.door43.org/p/ta-audio_hardware
+   - **[[en:ta:vol2:process:audio_software|Software recommendations]]** - What software is recommended? https://pad.door43.org/p/ta-audio_software
+   - **[[en:ta:vol2:process:recording_device_setup|Recording device setup]]** - How to I set up my recording device? https://pad.door43.org/p/ta-recording_device_setup
+   - **[[en:ta:vol2:process:recording_location|Recording location setup]]** - How can I set up a good recording location? https://pad.door43.org/p/ta-recording_location
+   - **[[en:ta:vol2:process:recording_tips|Recording tips]]** - How can I make an excellent recording? https://pad.door43.org/p/ta-recording_tips
+   - **[[en:ta:vol2:process:after_recording|After recording]]** - I finished recording, now what? https://pad.door43.org/p/ta-after_recording
+   - **[[en:ta:vol2:process:recorded_content|Recorded content location]]** - Where do I find recorded, uploaded content? https://pad.door43.org/p/ta-recorded_content
+
+===== Video =====
+
+   - **[[en:ta:vol2:process:video_content|Video content]]** - What content can be made into video? https://pad.door43.org/p/ta-video_content
+   - **[[en:ta:vol2:process:video_prereqs|Video creation prerequisits]]** - What must be done before videos can be made? https://pad.door43.org/p/ta-video_prereqs
+   - **[[en:ta:vol2:process:video_request|Video creation request]]** - How do I request videos be made? https://pad.door43.org/p/ta-video_request
+   - **[[en:ta:vol2:process:video_content|Video content location]]** - Where do I find finished videos? https://pad.door43.org/p/ta-video_content
+
+
+

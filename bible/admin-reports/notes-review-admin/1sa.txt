@@ -1,0 +1,15 @@
+====== Notes: 1 Samuel Review Admin ======
+
+Manager - Tyson\\
+Reviewer - \\
+
+~~NOCACHE~~
+
+  * [[:en:bible:admin-reports:check-tags-notes|Check Notes Tags]]
+
+==== 1 Kings Pages Status ====
+
+^  Review  ^  Text  ^  Discuss  ^  Publish  |
+|{{pagequery>@en:bible:notes:1sa \{\{tag>[^}]*review[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; showcount; layout=table;hidemsg;hidejump;fontsize=80%}} |{{pagequery>@en:bible:notes:1sa \{\{tag>[^}]*text[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; showcount; layout=table;hidemsg;hidejump;fontsize=80%}} |{{pagequery>@en:bible:notes:1sa \{\{tag>[^}]*discuss[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; showcount; layout=table;hidemsg;hidejump;fontsize=80%}} |{{pagequery>@en:bible:notes:1sa \{\{tag>[^}]*publish[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; showcount; layout=table;hidemsg;hidejump;fontsize=80%}} |
+
+\\

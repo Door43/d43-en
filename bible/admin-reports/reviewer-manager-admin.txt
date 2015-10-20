@@ -101,11 +101,11 @@
 
 == Zephaniah ==
 
-{{pagequery>@:en:bible:notes:zep \{\{tag>[^}]*mgr[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=column; hidemsg;hidejump;showcount;fontsize=90%}}
-
 == Haggai ==
 
-{{pagequery>@:en:bible:notes:hag \{\{tag>[^}]*mgr[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=column; hidemsg;hidejump;showcount;fontsize=90%}}
+{{pagequery>@:en:bible:notes:zep \{\{tag>[^}]*mgr[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=column; hidemsg;hidejump;showcount;fontsize=90%}}
+
+
 
 ==== Tyson S' books: ====
 
@@ -117,14 +117,14 @@
 
 {{pagequery>@:en:bible:notes:ezr \{\{tag>[^}]*mgr[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=column; hidemsg;hidejump;showcount;fontsize=90%}}
 
-== Matthew ==
 
-{{pagequery>@:en:bible:notes:mat \{\{tag>[^}]*mgr[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=column; hidemsg;hidejump;showcount;fontsize=90%}}
+== 1 Samuel ==
+
+{{pagequery>@:en:bible:notes:1sa \{\{tag>[^}]*mgr[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=column; hidemsg;hidejump;showcount;fontsize=90%}}
 
 == 2 Samuel ==
 
 {{pagequery>@:en:bible:notes:2sa \{\{tag>[^}]*mgr[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=column; hidemsg;hidejump;showcount;fontsize=90%}}
-
 
 
 

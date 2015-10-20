@@ -1,0 +1,28 @@
+===== Merging an Upload Into Door43 =====
+
+This module answers the question: How can I merge my uploaded content into Door43?\\
+==== Uploading Content Onto Door43 ====
+
+Content can be uploaded from:
+
+  * **Word Processor** - click here to learn how to [[en:ta:vol1:process:word_translation|Upload Your Work]]
+    * //Note: Content uploaded using the above process will automatically merge onto Door43.//
+  * **translationStudio** - click here to learn how to [[en:ta:vol1:tech:ts_upload|Upload Your Work]]
+    * //Note: If there is no content for a given resource in given language, then the uploaded content will automatically be merged onto Door43. If there is any conflict, the content must be manually merged.//
+
+
+==== Merging Uploaded Work Onto Door43 ====
+
+To merge content uploaded by translationStudio:
+
+  - Login to Door43.
+  - Go to the page needing to be merged.
+  - On the right-hand side above the icon of the "Edit" pencil will appear an icon of two lines merging into one arrow which is labeled "Apply Updates". Click on "Apply Updates". 
+  - Then you may go through and "Dismiss" or "Apply" changes on Door43. If you choose "Apply" it will overwrite what was on Door43 with what was uploaded, "Dismiss" discards what was uploaded and keeps what was on Door43. 
+
+
+
+
+
+Next we recommend you learn about: [[en:ta:vol1:process:publishing_process|How to Publish]]
+

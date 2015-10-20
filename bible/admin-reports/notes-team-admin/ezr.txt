@@ -16,6 +16,6 @@ Reviewer - (//review to publish//) -
 ==== Ezra Page Status ====
 
 ^  Draft  ^  Check  ^  Review  ^
-|{{pagequery>@en:bible:notes:ezr \{\{tag>[^}]*draft[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=100%}} |{{pagequery>@en:bible:notes:ezr \{\{tag>[^}]*check[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=100%}} |{{pagequery>@en:bible:notes:ezr \{\{tag>[^}]*review[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=100%}} |
+|{{pagequery>@en:bible:notes:ezr \{\{tag>[^}]*draft[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; showcount; layout=table;hidemsg;hidejump;bullet=square;fontsize=100%}} |{{pagequery>@en:bible:notes:ezr \{\{tag>[^}]*check[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; showcount; layout=table;hidemsg;hidejump;bullet=square;fontsize=100%}} |{{pagequery>@en:bible:notes:ezr \{\{tag>[^}]*review[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; showcount; layout=table;hidemsg;hidejump;bullet=square;fontsize=100%}} |
 
 \\

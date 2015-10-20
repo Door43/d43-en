@@ -36,7 +36,7 @@
 ===== ULB: =====
 
 <usfm>
-\v 16 Then the twenty-four elders who were sitting on thrones in the presence of God, they laid themselves down on the ground, with their faces down, and they worshiped God.
+\v 16 Then the twenty-four elders who were sitting on thrones in the presence of God laid themselves down on the ground, with their faces down, and they worshiped God.
 \v 17 They said,
 \q "We give thanks to you, Lord God, the ruler over all, the one who is and who was, 
 \q because you have taken your great power and have begun to reign.
@@ -47,25 +47,22 @@
 
   * [[:en:obe:other:elder|elder]]
   * [[:en:obe:other:throne|throne]]
-  * God
-  * faces
-  * worshiped
+  * [[:en:obe:kt:God]]
+  * [[:en:obe:kt:worship]]
   * [[:en:obe:kt:lordgod|Lord]]
   * [[:en:obe:kt:almighty|Almighty]]
-  * ruler
-  * power
-  * reign
-
+  * [[:en:obe:other:ruler]]
+  * [[:en:obe:kt:power]]
+  * [[:en:obe:other:reign]]
 ===== Translation Notes: =====
 
-  * **Twenty-four elders**  - "24 elders" (See :Translate Numbers)
-  * **with their faces down **- the front side of the whole body is being referred to as their "face" (see:Synecdoche)
-
+  * **Twenty-four elders**  - "24 elders" (See: [[:en:ta:vol2:translate:translate_numbers]])
+  * **with their faces down **- the front side of the whole body is being referred to as their "face" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
 ===== Links: =====
 
   * **[[:en:bible:questions:comprehension:rev:11|Revelation Chapter 11 Comprehension Questions]]**
 **[[:en:bible:notes:rev:11:15|<<]] | [[:en:bible:notes:rev:11:18|>>]]**
 
-~~DISCUSSION~~{{tag>inspect ktlink}}
+~~DISCUSSION~~{{tag>publish}}
 
 ~~NOCACHE~~
