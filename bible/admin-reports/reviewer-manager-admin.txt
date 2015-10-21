@@ -126,5 +126,17 @@
 
 {{pagequery>@:en:bible:notes:2sa \{\{tag>[^}]*mgr[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=column; hidemsg;hidejump;showcount;fontsize=90%}}
 
+==== Aaron F' books: ====
+
+== 1 Kings ==
+
+{{pagequery>@:en:bible:notes:1ki \{\{tag>[^}]*mgr[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=column; hidemsg;hidejump;showcount;fontsize=90%}}
+
+== Ecclesiastes ==
+
+{{pagequery>@:en:bible:notes:ecc \{\{tag>[^}]*mgr[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=column; hidemsg;hidejump;showcount;fontsize=90%}}
+
+
+
 
 
