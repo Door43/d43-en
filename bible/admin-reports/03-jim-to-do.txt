@@ -7,6 +7,6 @@
 ==== Location ====
 
 ^  Text issues for Jim  ^  Corrected text for Larry  ^  Discuss issues  ^
-|{{pagequery>@en:bible:notes \{\{tag>[^}]*text[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort;showcount; layout=table;hidemsg;hidejump;fontsize=70%}} |{{pagequery>@en:bible:notes \{\{tag>[^}]*tf[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort;showcount; layout=table;hidemsg;hidejump;fontsize=70%}}  | Bible notes: {{pagequery>@en:bible:notes \{\{tag>[^}]*discuss[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort;showcount; layout=table;hidemsg;hidejump;fontsize=70%}} Important terms: {{pagequery>@en:obe \{\{tag>[^}]*discuss[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort;showcount; layout=table;hidemsg;hidejump;fontsize=70%}} |
+|{{pagequery>@en:bible:notes \{\{tag>[^}]*text[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort;showcount; layout=table;hidemsg;hidejump;fontsize=70%}} |{{pagequery>@en:bible:notes \{\{tag>[^}]*fix[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort;showcount; layout=table;hidemsg;hidejump;fontsize=70%}}  | Bible notes: {{pagequery>@en:bible:notes \{\{tag>[^}]*discuss[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort;showcount; layout=table;hidemsg;hidejump;fontsize=70%}} Important terms: {{pagequery>@en:obe \{\{tag>[^}]*discuss[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort;showcount; layout=table;hidemsg;hidejump;fontsize=70%}} |
 
 \\
