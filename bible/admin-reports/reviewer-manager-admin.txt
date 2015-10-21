@@ -99,11 +99,9 @@
 
 ==== Paul H's books: ====
 
-== Zephaniah ==
+== 1 Samuel (1-10) ==
 
-== Haggai ==
-
-{{pagequery>@:en:bible:notes:zep \{\{tag>[^}]*mgr[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=column; hidemsg;hidejump;showcount;fontsize=90%}}
+{{pagequery>@:en:bible:notes:1sa:01 @:en:bible:notes:1sa:02 @:en:bible:notes:1sa:03 @:en:bible:notes:1sa:04 @:en:bible:notes:1sa:05 @:en:bible:notes:1sa:06 @:en:bible:notes:1sa:07 @:en:bible:notes:1sa:08 @:en:bible:notes:1sa:09 @:en:bible:notes:1sa:10 \{\{tag>[^}]*mgr[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=column; hidemsg;hidejump;showcount;fontsize=90%}}
 
 
 
