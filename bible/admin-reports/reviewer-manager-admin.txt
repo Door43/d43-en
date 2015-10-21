@@ -3,11 +3,26 @@
 ~~NOCACHE~~
 
 
+
+==== Aaron F' books: ====
+
+== 1 Kings ==
+
+{{pagequery>@:en:bible:notes:1ki \{\{tag>[^}]*mgr[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=column; hidemsg;hidejump;showcount;fontsize=90%}}
+
+== Ecclesiastes ==
+
+{{pagequery>@:en:bible:notes:ecc \{\{tag>[^}]*mgr[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=column; hidemsg;hidejump;showcount;fontsize=90%}}
+
 ==== Adam VG's books: ====
 
 == Ezekiel ==
 
 {{pagequery>@:en:bible:notes:ezk \{\{tag>[^}]*mgr[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=column; hidemsg;hidejump;showcount;fontsize=90%}}
+
+== Obadiah ==
+
+{{pagequery>@:en:bible:notes:oba \{\{tag>[^}]*mgr[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=column; hidemsg;hidejump;showcount;fontsize=90%}}
 
 ==== Catherine N's books: ====
 
@@ -15,9 +30,9 @@
 
 {{pagequery>@:en:bible:notes:pro \{\{tag>[^}]*mgr[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=column; hidemsg;hide jump;showcount;fontsize=90%}}
 
-== Matthew ==
+== Hosea ==
 
-{{pagequery>@:en:bible:notes:mat \{\{tag>[^}]*mgr[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=column; hidemsg;hidejump;showcount;fontsize=90%}}
+{{pagequery>@:en:bible:notes:hos \{\{tag>[^}]*mgr[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=column; hidemsg;hidejump;showcount;fontsize=90%}}
 
 == Deuteronomy ==
 
@@ -49,9 +64,13 @@
 
 {{pagequery>@:en:bible:notes:2co \{\{tag>[^}]*mgr[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=column; hidemsg;hidejump;showcount;fontsize=90%}}
 
-== Lamentations ==
+== Amos ==
 
-{{pagequery>@:en:bible:notes:lam \{\{tag>[^}]*mgr[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=column; hidemsg;hidejump;showcount;fontsize=90%}}
+{{pagequery>@:en:bible:notes:amo \{\{tag>[^}]*mgr[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=column; hidemsg;hidejump;showcount;fontsize=90%}}
+
+== Judges ==
+
+{{pagequery>@:en:bible:notes:jdg \{\{tag>[^}]*mgr[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=column; hidemsg;hidejump;showcount;fontsize=90%}}
 
 
 ==== John H's books: ====
@@ -72,15 +91,15 @@
 
 {{pagequery>@:en:bible:notes:mic \{\{tag>[^}]*mgr[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=column; hidemsg;hidejump;showcount;fontsize=90%}}
 
+== Deuteronomy ==
+
+{{pagequery>@:en:bible:notes:deu \{\{tag>[^}]*mgr[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=column; hidemsg;hidejump;showcount;fontsize=90%}}
+
 ==== John L's books: ====
 
 == Hebrews ==
 
 {{pagequery>@:en:bible:notes:heb \{\{tag>[^}]*mgr[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=column; hidemsg;hidejump;showcount;fontsize=90%}}
-
-== 1 Kings ==
-
-{{pagequery>@:en:bible:notes:1ki \{\{tag>[^}]*mgr[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=column; hidemsg;hidejump;showcount;fontsize=90%}}
 
 == 2 Kings ==
 
@@ -124,15 +143,6 @@
 
 {{pagequery>@:en:bible:notes:2sa \{\{tag>[^}]*mgr[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=column; hidemsg;hidejump;showcount;fontsize=90%}}
 
-==== Aaron F' books: ====
-
-== 1 Kings ==
-
-{{pagequery>@:en:bible:notes:1ki \{\{tag>[^}]*mgr[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=column; hidemsg;hidejump;showcount;fontsize=90%}}
-
-== Ecclesiastes ==
-
-{{pagequery>@:en:bible:notes:ecc \{\{tag>[^}]*mgr[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=column; hidemsg;hidejump;showcount;fontsize=90%}}
 
 
 
