@@ -11,6 +11,7 @@ The "status" tags show the condition of a page. They cause the chunks to appear 
   * **check** - ready for manager to check initial content
   * **review** - ready for reviewer to edit
   * **text** - problem to correct in ULB or UDB text
+  * **fixed** - ready to check notes after text correction
   * **discuss** - escalate issue that is complex, time-consuming, etc.
   * **inspect** - request for trainer to check work of new reviewer or to read a reply in the discussion section
   * **publish** - finished and ready to be loaded into the apps
