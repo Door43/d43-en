@@ -18,7 +18,7 @@
 
 == Ezekiel ==
 
-{{pagequery>@:en:bible:notes:ezk \{\{tag>[^}]*mgr[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=column; hidemsg;hidejump;showcount;fontsize=90%}}
+{{pagequery>@:en:bible:notes:ezk:25 @en:bible:notes:ezk:26 @en:bible:notes:ezk:27 @en:bible:notes:ezk:28 @en:bible:notes:ezk:29 @en:bible:notes:ezk:30 @en:bible:notes:ezk:31 @en:bible:notes:ezk:32 @en:bible:notes:ezk:33 @en:bible:notes:ezk:34 @en:bible:notes:ezk:35 @en:bible:notes:ezk:36 @en:bible:notes:ezk:37 @en:bible:notes:ezk:38 @en:bible:notes:ezk:39 @en:bible:notes:ezk:40 @en:bible:notes:ezk:41 @en:bible:notes:ezk:42 @en:bible:notes:ezk:43 @en:bible:notes:ezk:44 @en:bible:notes:ezk:45 @en:bible:notes:ezk:46 @en:bible:notes:ezk:47 @en:bible:notes:ezk:48 \{\{tag>[^}]*mgr[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=column; hidemsg;hidejump;showcount;fontsize=90%}}
 
 == Obadiah ==
 
@@ -54,7 +54,7 @@
 
 == Ezekiel ==
 
-{{pagequery>@:en:bible:notes:ezk \{\{tag>[^}]*mgr[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=column; hidemsg;hidejump;showcount;fontsize=90%}}
+{{pagequery>@:en:bible:notes:ezk:01 @en:bible:notes:ezk:02 @en:bible:notes:ezk:03 @en:bible:notes:ezk:04 @en:bible:notes:ezk:05 @en:bible:notes:ezk:06 @en:bible:notes:ezk:07 @en:bible:notes:ezk:08 @en:bible:notes:ezk:09 @en:bible:notes:ezk:10 @en:bible:notes:ezk:11 @en:bible:notes:ezk:12 @en:bible:notes:ezk:13 @en:bible:notes:ezk:14 @en:bible:notes:ezk:15 @en:bible:notes:ezk:16 @en:bible:notes:ezk:17 @en:bible:notes:ezk:18 @en:bible:notes:ezk:19 @en:bible:notes:ezk:20 @en:bible:notes:ezk:21 @en:bible:notes:ezk:22 @en:bible:notes:ezk:23 @en:bible:notes:ezk:24\{\{tag>[^}]*mgr[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=column; hidemsg;hidejump;showcount;fontsize=90%}}
 
 == Zechariah==
 
