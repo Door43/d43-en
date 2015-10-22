@@ -325,6 +325,9 @@
 **[[:kpb:obs|kpb OBS]]**
 {{changes>ns=kpb:obs&maxage=604800&render=pagelist(header,date,user,nocomments)}}
 
+**[[:ksz:obs|ksz OBS]]**
+{{changes>ns=ksz:obs&maxage=604800&render=pagelist(header,date,user,nocomments)}}
+
 **[[:ktu:obs|ktu OBS]]**
 {{changes>ns=ktu:obs&maxage=604800&render=pagelist(header,date,user,nocomments)}}
 

@@ -217,6 +217,8 @@
 {{changes>ns=ko:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:kpb:obs|kpb OBS]]**
 {{changes>ns=kpb:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
+**[[:ksz:obs|ksz OBS]]**
+{{changes>ns=ksz:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:ktu:obs|ktu OBS]]**
 {{changes>ns=ktu:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:kxc:obs|kxc OBS]]**
