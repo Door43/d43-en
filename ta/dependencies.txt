@@ -384,6 +384,8 @@ edge [arrowsize=1.4];
 "resources_intro" -> "resources_links"
 "resources_types" [fillcolor="#99ff99"]
 "resources_intro" -> "resources_types"
+"toc_transvol1" [fillcolor="#99ff99"]
+"Translation" -> "toc_transvol1"
 "toc_transvol1_2" [fillcolor="#99ff99"]
 "Translation" -> "toc_transvol1_2"
 "toc_transvol2" [fillcolor="#99ff99"]
