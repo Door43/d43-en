@@ -1,20 +1,27 @@
 ===== Table of Contents - Checking Manual Volume 1 =====
 
 This module answers the question: What is in the Volume 1 Checking Manual?\\
+==== Checking Manual Volume 1 ====
+
+=== Introduction to Checking ===
   - [[en:ta:vol1:checking:intro_check]]
   - [[en:ta:vol1:checking:intro_checking]]
   - [[en:ta:vol1:checking:intro_levels]]
+
+=== Level 1 ===
   - [[en:ta:vol1:checking:level1]]
-    - [[en:ta:vol1:translate:first_draft]]
     - [[en:ta:vol1:checking:self_check]]
     - [[en:ta:vol1:checking:peer_check]] 
     - [[en:ta:vol1:checking:important_term_check]]
     - [[en:ta:vol1:checking:accuracy_check]]
+    - [[en:ta:vol1:checking:level1_affirm]]
+
+=== Level 2 ===
   - [[en:ta:vol1:checking:level2]]
     - [[en:ta:vol1:checking:language_community_check]]
       - [[en:ta:vol1:checking:other_methods]] 
-    - [[en:ta:vol1:checking:community_evaluation]]
-    -  [[en:ta:vol1:checking:church_leader_check]] 
+      - [[en:ta:vol1:checking:community_evaluation]]
+    - [[en:ta:vol1:checking:church_leader_check]] 
        - [[en:ta:vol1:checking:qualifications]] 
        - [[en:ta:vol1:checking:clear]] 
        - [[en:ta:vol1:checking:acceptable]]
@@ -22,6 +29,8 @@ This module answers the question: What is in the Volume 1 Checking Manual?\\
        - [[en:ta:vol1:checking:accurate]]
        - [[en:ta:vol1:checking:complete]] 
        - [[en:ta:vol1:checking:good]]
+
+=== Level 3 ===
   - [[en:ta:vol1:checking:level3]]
     - [[en:ta:vol1:checking:level3_questions]]
     - [[en:ta:vol1:checking:level3_approval]]

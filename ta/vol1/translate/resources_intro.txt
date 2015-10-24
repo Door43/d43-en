@@ -3,19 +3,19 @@
 This module answers the question: What are Resources?\\
 Before you start this module have you learned about: [[en:ta:vol1:translate:translate_manual|Introduction to Translation Manual]]
 
-====== Introduction to Resources ======
+==== Introduction to Resources ====
 UnfoldingWord has designed several resources to help you as you translate the Bible or Open Bible Stories. All of these Resources are available for all projects in Door43, and most are available in translationStudio. \\
 
 The resources are:
-    Open Bible Stories
-    The Unlocked Literal Bible (ULB)
-    The Unlocked Dynamic Bible (UDB)
-    translationWords
-    translationNotes
-    translationQuestions
-    translationAcademy
+  * Open Bible Stories
+  * The Unlocked Literal Bible (ULB)
+  * The Unlocked Dynamic Bible (UDB)
+  * translationWords
+  * translationNotes
+  * translationQuestions
+  * translationAcademy
     
-==== Things to Know ====
+=== Things to Know ===
 Open Bible Stories is a collection of 50 stories from the Bible with pictures that give a very brief overview of its message.\\
 Open Bible Stories has its own set of translationWords, translationNotes, and translationQuestions.
 The ULB puts the form of the original languages of the Bible into modern English to show the structure and style of the original.\\

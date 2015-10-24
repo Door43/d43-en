@@ -1,12 +1,21 @@
 ===== Table of Contents - Translation Manual Volume 2 =====
 
 This module answers the question: What is in Volume 2 of the translation manual?\\
-Qualities of Good Translations
+==== Translation Manual Volume 2 ====
+
+=== Further Defining a Good Translation ===
   - [[en:ta:vol2:translate:guidelines_faithful]]
   - [[en:ta:vol2:translate:guidelines_authoritative]]
   - [[en:ta:vol2:translate:guidelines_historical]]
   - [[en:ta:vol2:translate:guidelines_pure]]
-  - [[en:ta:vol1:translate:figs_intro]] 
+  - [[en:ta:vol2:translate:guidelines_equal]]
+  - [[en:ta:vol2:translate:guidelines_collaborative]]
+  - [[en:ta:vol2:translate:guidelines_expressive]]
+  - [[en:ta:vol2:translate:guidelines_ongoing]]
+
+=== Just-in-Time Learning Part 2 ===
+
+== Figures of Speech ==
     - [[en:ta:vol2:translate:figs_apostrophe]]
     - [[en:ta:vol2:translate:figs_doublet]]
     - [[en:ta:vol2:translate:figs_euphemism]]
@@ -18,26 +27,33 @@ Qualities of Good Translations
     - [[en:ta:vol2:translate:figs_personification]]
     - [[en:ta:vol2:translate:figs_synecdoche]]
     - [[en:ta:vol2:translate:figs_merism]]
-  - [[en:ta:vol2:translate:figs_ambiguity]]
-  - [[en:ta:vol2:translate:figs_cohesion]]
-  - [[en:ta:vol2:translate:figs_doublenegatives]]
-  - [[en:ta:vol2:translate:figs_ellipsis]]
-  - [[en:ta:vol2:translate:figs_gendernotations]]
-  - [[en:ta:vol2:translate:figs_genitivecase]]
-  - [[en:ta:vol2:translate:figs_grammar]]
-    - [[en:ta:vol2:translate:figs_activepassive]]
-    - [[en:ta:vol2:translate:figs_exclusive]]
-    - [[en:ta:vol2:translate:figs_inclusive]]
-    - [[en:ta:vol2:translate:figs_youformal]]
-  - [[en:ta:vol2:translate:figs_partsofspeech]]
-    - [[en:ta:vol2:translate:figs_pluralpronouns]]
-    - [[en:ta:vol2:translate:figs_singularpronouns]]
-    - [[en:ta:vol2:translate:figs_quotations]]
-    - [[en:ta:vol2:translate:figs_verbs]]
-    - [[en:ta:vol2:translate:figs_abstractnouns]]
-    - [[en:ta:vol2:translate:figs_adjectivalnoun]]
-  - [[en:ta:vol2:translate:figs_sentences]]
-  - [[en:ta:vol2:translate:translate_numbers]]
+
+== Vocabulary ==
+    - [[en:ta:vol2:translate:figs_ambiguity]]
+    - [[en:ta:vol2:translate:figs_cohesion]]
+    - [[en:ta:vol2:translate:figs_deictics]]
+    - [[en:ta:vol2:translate:figs_doublenegatives]]
+    - [[en:ta:vol2:translate:figs_ellipsis]]
+    - [[en:ta:vol2:translate:figs_gendernotations]]
+    - [[en:ta:vol2:translate:figs_genitivecase]]
+    - [[en:ta:vol2:translate:figs_grammar]]
+      - [[en:ta:vol2:translate:figs_activepassive]]
+      - [[en:ta:vol2:translate:figs_exclusive]]
+      - [[en:ta:vol2:translate:figs_inclusive]]
+      - [[en:ta:vol2:translate:figs_youformal]]
+    - [[en:ta:vol2:translate:figs_partsofspeech]]
+      - [[en:ta:vol2:translate:figs_pluralpronouns]]
+      - [[en:ta:vol2:translate:figs_singularpronouns]]
+      - [[en:ta:vol2:translate:figs_quotations]]
+      - [[en:ta:vol2:translate:figs_verbs]]
+      - [[en:ta:vol2:translate:figs_abstractnouns]]
+      - [[en:ta:vol2:translate:figs_adjectivalnoun]]
+      - [[en:ta:vol2:translate:figs_rpronouns]]
+    - [[en:ta:vol2:translate:figs_sentences]]
+
+== Other Modules ==
+    - [[en:ta:vol2:translate:translate_numbers]]
+    - [[en:ta:vol2:translate:writing_background]]
 
 
 

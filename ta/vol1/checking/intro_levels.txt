@@ -10,7 +10,7 @@ Here are some important tips to remember when working with Checking Levels:
    * Only translations that have reached Checking Level One (Checking Level Two for Bible translations) or higher will be made available on the [[https://unfoldingword.org/stories|unfoldingWord website]] (https://unfoldingword.org/stories) and the unfoldingWord mobile app.
    * Only translations that have reached Checking Level Three will be approved as source texts for other translations.
    * When a Checking Level has been completed and all appropriate edits have been made to door43, the checkers will inform unfoldingWord of the details of the check. unfoldingWord will harvest a copy of what is on door43, digitally publish a static copy of it on the [[https://unfoldingword.org/stories|unfoldingWord website]] (https://unfoldingword.org/stories) and make it available on the unfoldingWord mobile app. A print-ready PDF will also be produced and made available for download. The checked version on door43 will remain fluid, allowing for future checking and editing.
-   * For Open Bible Stories projects: Only Open Bible Stories translations that have been made from version 3.0 or higher of the English source text are eligible to be checked to Level One (or higher). Translations made from versions before 3.0 [[en:ta:vol1:translate:translate_source_version|must be updated]] before proceeding with Checking Levels.
+   * For Open Bible Stories projects: Only Open Bible Stories translations that have been made from version 3.0 or higher of the English source text are eligible to be checked to Level One (or higher). Translations made from versions before 3.0 [[:en:ta:vol1:check:obs_update|must be updated]] before proceeding with Checking Levels.
 
 ==== The Checking Levels ====
 
@@ -37,5 +37,4 @@ The process and checking framework described in this document depends on an ongo
 
 Next we recommend you learn about:
   * [[en:ta:vol1:checking:level1|Level One Check]]
-  * [[en:ta:vol1:translate:obs_update|Versions of Open Bible Stories]]
 

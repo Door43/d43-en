@@ -62,9 +62,6 @@ edge [arrowsize=1.4];
 "obs_tQ" [fillcolor="#9999ff"]
 "intro_check" -> "obs_tQ"
 "intro_levels" -> "obs_tQ"
-"obs_update" [fillcolor="#9999ff"]
-"intro_check" -> "obs_update"
-"intro_levels" -> "obs_update"
 "other_methods" [fillcolor="#9999ff"]
 "language_community_check" -> "other_methods"
 "peer_check" [fillcolor="#9999ff"]
@@ -378,9 +375,6 @@ edge [arrowsize=1.4];
 "guidelines_pure" [fillcolor="#99ff99"]
 "guidelines_intro" -> "guidelines_pure"
 "translation_guidelines" -> "guidelines_pure"
-"obs_update" [fillcolor="#99ff99"]
-"intro_check" -> "obs_update"
-"intro_levels" -> "obs_update"
 "resources_intro" [fillcolor="#99ff99"]
 "translate_manual" -> "resources_intro"
 "resources_links" [fillcolor="#99ff99"]

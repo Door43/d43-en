@@ -3,49 +3,24 @@
 This module answers the question: What are the steps I should follow to check someone else's translation?\\
 Before you start this module have you learned about: [[en:ta:vol2:checking:vol2_intro|Introduction to Translation Checking]]
 
-Steps in Checking a Translation
- - Find out ahead of time which set of stories or which Bible passage you will be checking.
-   - a. Read the passage in several versions in any languages you understand, including the original languages, if possible.
-   - b. Make note of any parts that you think might be difficult to translate.
-   - c. Research these passages in translation helps and commentaries.
-*
- - If you do not speak the target language, you will need to work from a back translation in a language that you do understand. This can be
-*written separately from the translation, or it can be written as an interlinear, that is, with a line of back translation written under each line
-*of the translation. It is easier to compare the translation to the back translation when they are written as an interlinear.
-*a. If possible, review the back translation in written form before meeting with the translator or translation team face-to-face. This will give
-*you time to think about the passage and to do further research on questions that arise because of what the back translation says. As you work through the
-*back translation, make notes of questions that you want to ask the translator, either for clarification or to help the translator think about possible
-*problems with the translation. Also ask the translator for a copy of the translation (if it is not interlinear), so that you can compare the translation with the
-*back translation and make note of the connectors that the target language uses and other features that might not be visible in the back translation. Looking
-*at the translation can also help to identify places where the back translation might not accurately represent the translation, for example, where the same
-*words are used in the translation but they are different in the back translation. In this case, it is good to ask the translator why the back
-*translation is different, and if it needs to be corrected. 
-    b. If you cannot review the back translation before meeting with the translator, then work through it with the translator, discussing questions
-*and problems as you work together. Often, as the back translation is compared to the translation, the translator will also discover problems with the
-*translation.
-    c. If there is no written back translation, then have someone who knows the target language and also a language that you understand make an oral
-*back translation for you. This should be a person who was not involved in making the translation. As you listen to the oral back translation, make notes
-*of words or phrases that seem to communicate the wrong meaning or that present other problems. The person should translate the passage in short segments, pausing
-*in between each segment so that you can ask your questions after you hear each segment. 
-3. If you do speak the target language, then you can read it or hear it and ask your questions more directly about the translation. 
-4. Some questions will need to be set aside for later, after the checking session. Be sure to plan a time to meet again to discuss the answers to these questions. These will be:
-*a. Questions that you or someone else will need to research, usually something about the biblical text that you will need to find out, such
-*as more exact meanings of biblical words, or the relationship between biblical people or places.
-    b. Questions to ask other speakers of the target language. These would be to make sure that certain phrases are communicating correctly, or to
-*research the cultural background of certain terms in the target language. These are questions that the translation team may need to ask of people when they
-*return to their community.
-5. Make sure that the translation team is keeping a list of the Important Terms from the Bible passages that they are translating, along with
-*the term in the target language that they have decided to use for each Important Term. You and the translation team will probably need to add to this
-*list and modify the terms from the target language as you progress through the translation of the Bible. Whenever there is an Important Term in the Bible,
-*make sure that the translation uses the term or phrase that has been chosen for that Important Term, and also make sure that it makes sense each time. If it
-*does not make sense, then you will need to discuss why it makes sense in some places but not in others. Then you may need to modify or change the chosen term,
-*or decide to use more than one term in the target language to fit different ways that the Important Term is used.[1]
+==== Steps in Checking a Translation ====
+  - Find out ahead of time which set of stories or which Bible passage you will be checking.
+    - Read the passage in several versions in any languages you understand, including the original languages, if possible.
+    - Make note of any parts that you think might be difficult to translate.
+    - Research these passages in translation helps and commentaries.
+  - If you do not speak the target language, you will need to work from a back translation in a language that you do understand. This can be written separately from the translation, or it can be written as an interlinear, that is, with a line of back translation written under each line of the translation. It is easier to compare the translation to the back translation when they are written as an interlinear.
+    - If possible, review the back translation in written form before meeting with the translator or translation team face-to-face. This will give you time to think about the passage and to do further research on questions that arise because of what the back translation says. As you work through the back translation, make notes of questions that you want to ask the translator, either for clarification or to help the translator think about possible problems with the translation. Also ask the translator for a copy of the translation (if it is not interlinear), so that you can compare the translation with the back translation and make note of the connectors that the target language uses and other features that might not be visible in the back translation. Looking at the translation can also help to identify places where the back translation might not accurately represent the translation, for example, where the same words are used in the translation but they are different in the back translation. In this case, it is good to ask the translator why the back translation is different, and if it needs to be corrected. 
+    - If you cannot review the back translation before meeting with the translator, then work through it with the translator, discussing questions and problems as you work together. Often, as the back translation is compared to the translation, the translator will also discover problems with the translation.
+    - If there is no written back translation, then have someone who knows the target language and also a language that you understand make an oral back translation for you. This should be a person who was not involved in making the translation. As you listen to the oral back translation, make notes of words or phrases that seem to communicate the wrong meaning or that present other problems. The person should translate the passage in short segments, pausing in between each segment so that you can ask your questions after you hear each segment. 
+  - If you do speak the target language, then you can read it or hear it and ask your questions more directly about the translation. 
+  - Some questions will need to be set aside for later, after the checking session. Be sure to plan a time to meet again to discuss the answers to these questions. These will be:
+    - Questions that you or someone else will need to research, usually something about the biblical text that you will need to find out, such as more exact meanings of biblical words, or the relationship between biblical people or places.
+    - Questions to ask other speakers of the target language. These would be to make sure that certain phrases are communicating correctly, or to research the cultural background of certain terms in the target language. These are questions that the translation team may need to ask of people when they return to their community.
+  - Make sure that the translation team is keeping a list of the Important Terms from the Bible passages that they are translating, along with the term in the target language that they have decided to use for each Important Term. You and the translation team will probably need to add to this list and modify the terms from the target language as you progress through the translation of the Bible. Whenever there is an Important Term in the Bible, make sure that the translation uses the term or phrase that has been chosen for that Important Term, and also make sure that it makes sense each time. If it does not make sense, then you will need to discuss why it makes sense in some places but not in others. Then you may need to modify or change the chosen term, or decide to use more than one term in the target language to fit different ways that the Important Term is used.[1]
 
 
 
-[1] [We should automate this task as much as possible, providing a pre-populated list from the Important Terms list with a space to fill in the chosen term(s) from
-the target language. Some links to Bible passages where the Important Term is used would be helpful, but we don’t want it to get huge if there are dozens of
-passages. Maybe relying on the links in the Important Terms pages would be enough.]
+[1] [We should automate this task as much as possible, providing a pre-populated list from the Important Terms list with a space to fill in the chosen term(s) from the target language. Some links to Bible passages where the Important Term is used would be helpful, but we don’t want it to get huge if there are dozens of passages. Maybe relying on the links in the Important Terms pages would be enough.]
 
 
 
