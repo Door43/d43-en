@@ -2,28 +2,15 @@
 
 ===== TFT: =====
 
-<usfm>
-\v 41 \add A record of\add* all the other things that Solomon did, and all the wise things that he \add said\f + \ft Or: wrote \f*\add*, was written in the Book Telling what Solomon Did.
-\v 42 He was the king in Jerusalem who ruled over all of Israel for forty years.
-\v 43 Then Solomon died \f + \ft euphemism \f*, and was buried in the \add part of Jerusalem called\add* 'the City of David.' And his son Rehoboam became the king.
-</usfm>
+<usfm> \v 41 \add A record of\add* all the other things that Solomon did, and all the wise things that he \add said\f + \ft Or: wrote \f*\add*, was written in the Book Telling what Solomon Did. \v 42 He was the king in Jerusalem who ruled over all of Israel for forty years. \v 43 Then Solomon died \f + \ft euphemism \f*, and was buried in the \add part of Jerusalem called\add* 'the City of David.' And his son Rehoboam became the king. </usfm>
 
 ===== UDB: =====
 
-<usfm>
-\v 41 A record of all the other things that Solomon did, and all the wise things that he said, was written in the Book of the Acts of Solomon.
-\v 42 He was king in Jerusalem and ruled over all of Israel for forty years.
-\v 43 Then Solomon died and was buried in the part of Jerusalem called the City of David. Then his son Rehoboam became the king.
-</usfm>
+<usfm> \v 41 A record of all the other things that Solomon did, and all the wise things that he said, was written in the Book of the Acts of Solomon. \v 42 He was king in Jerusalem and ruled over all of Israel for forty years. \v 43 Then Solomon died and was buried in the part of Jerusalem called the City of David. Then his son Rehoboam became the king. </usfm>
 
 ===== ULB: =====
 
-<usfm>
-\p
-\v 41 As for the other matters concerning Solomon, all that he did and his wisdom, are they not written in The Book of the Events of Solomon?
-\v 42 Solomon reigned in Jerusalem over all Israel for forty years.
-\v 43 He slept with his ancestors, and he was buried in the city of David his father; Rehoboam, his son, became king in his place.
-</usfm>
+<usfm> \p \v 41 As for the other matters concerning Solomon, all that he did and his wisdom, are they not written in The Book of the Events of Solomon? \v 42 Solomon reigned in Jerusalem over all Israel for forty years. \v 43 He slept with his ancestors, and he was buried in the city of David his father; Rehoboam, his son, became king in his place. </usfm>
 
 ===== Important Terms: =====
 
@@ -31,14 +18,16 @@
   * [[:en:obe:kt:wise|wise, wisdom]]
   * [[:en:obe:other:written|written]]
   * [[:en:obe:other:jerusalem|Jerusalem]]
+  * [[:en:obe:other:israel|Israel]]
   * [[:en:obe:kt:sleep|sleep, asleep, fall asleep]]
   * [[:en:obe:other:cityofdavid|City of David]]
+  * [[:en:obe:other:israel|father]]
   * [[:en:obe:other:rehoboam|Rehoboam]]
-  * [[:en:obe:kt:son|son]]
 
 ===== Translation Notes: =====
 
-  * **he slept with his ancestors- ** This is a polite way to say he died. (see: [[:en:ta:vol1:translate:figs_idiom|Idiom]])
+  * **The Book of the Events of Solomon **- This refers to a book other than 1 Kgs.
+  * **he slept with his ancestors- **  This is a polite way to say he died. (see: [[:en:ta:vol1:translate:figs_idiom|Idiom]])
   * **bold words**  - explanation
   * **bold words**  - explanation
   * **bold words**  - explanation
