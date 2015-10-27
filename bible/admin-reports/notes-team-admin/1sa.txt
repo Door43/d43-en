@@ -12,10 +12,9 @@ Reviewer - (//review to publish//) -
   * [[:en:udb:ep:09-1sa.usfm|Full UDB text of 1 Samuel]]
   * [[:en:bible:team-info:training:notes-training|Notes Training]]
 
-
 ==== 1 Samuel Page Status ====
 
-^  Draft  ^  Check  ^  Review  ^
+^  Draft  ^  Check  ^  Review  |
 |{{pagequery>@en:bible:notes:1sa \{\{tag>[^}]*draft[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; showcount; layout=table;hidemsg;hidejump;bullet=square;fontsize=100%}} |{{pagequery>@en:bible:notes:1sa \{\{tag>[^}]*check[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; showcount; layout=table;hidemsg;hidejump;bullet=square;fontsize=100%}} |{{pagequery>@en:bible:notes:1sa \{\{tag>[^}]*review[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; showcount; layout=table;hidemsg;hidejump;bullet=square;fontsize=100%}} |
 
 \\
