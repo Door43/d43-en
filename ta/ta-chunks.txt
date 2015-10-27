@@ -13,10 +13,7 @@
 [[:en:ta:admin:ta-chunks-mic|Micah tA Links]]
 
 [[:en:ta:admin:ta-chunks-mat|Matthew tA Links]]\\
-[[en:ta:admin:ta-chunks-jhn]]\\
 [[:en:ta:admin:ta-chunks-1_2co|1 & 2 Corinthians tA Links]]\\
-[[:en:ta:admin:ta-chunks-heb|Hebrews tA Links]]\\
-[[:en:ta:admin:ta-chunks-1_2pe|1 & 2 Peter tA Links]]\\
 [[:en:ta:admin:ta-chunks-rev|Revelations tA Links]]
 
 ===== Completed Books with tA Links Data Collected =====
@@ -28,6 +25,7 @@
 
 [[:en:ta:admin:ta-chunks-mrk|Mark tA Links]]\\
 [[:en:ta:admin:ta-chunks-luk|Luke tA Links]]\\
+[[en:ta:admin:ta-chunks-jhn]]\\
 [[:en:ta:admin:ta-chunks-act|Acts tA Links]]\\
 [[:en:ta:admin:ta-chunks-rom|Romans tA Links]]\\
 
@@ -39,7 +37,8 @@
 [[:en:ta:admin:ta-chunks-1_2ti|1 & 2 Timothy tA Links]]\\
 [[:en:ta:admin:ta-chunks-tit|Titus tA Links]]\\
 [[:en:ta:admin:ta-chunks-phm|Philemon tA Links]]\\
-
+[[:en:ta:admin:ta-chunks-heb|Hebrews tA Links]]\\
+[[:en:ta:admin:ta-chunks-1_2pe|1 & 2 Peter tA Links]]\\
 [[:en:ta:admin:ta-chunks-jas|James tA Links]]\\
 [[:en:ta:admin:ta-chunks-1_2_3jn|1, 2 & 3 John]]\\
 [[:en:ta:admin:ta-chunks-jud|Jude]]
