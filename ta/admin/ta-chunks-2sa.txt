@@ -1,0 +1,9 @@
+===== 2 Samuel tA Links =====
+
+{{pagequery> ns:en:bible:notes:2sa "(see: [[:en:ta"; fulltext; sort=title:asc; display={title}; layout=column; showcount; hidestart; natsort; bullet=square; }}
+
+**AND**
+
+ {{pagequery> ns:en:bible:notes:2sa "(see: [[en:ta"; fulltext; sort=title:asc; display={title}; layout=column; showcount; hidestart; natsort; bullet=square; }}
+
+Return to [[en:ta:ta-chunks]]
