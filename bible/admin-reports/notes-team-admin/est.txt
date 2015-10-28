@@ -1,8 +1,8 @@
 ====== Notes: Esther Team Admin ======
 
-Team Lead (//draft to check//) - Mary H\\
-Manager (//check to review//) - \\
-Reviewer - (//review to publish//) -
+Team Lead (//draft to check//) - Kris Rinne\\
+Manager (//check to review//) - Catherine Newton\\
+Reviewer - (//review to publish//) - Tom Nickell
 
 ~~NOCACHE~~
 
@@ -16,6 +16,6 @@ Reviewer - (//review to publish//) -
 ==== Esther Page Status ====
 
 ^  Draft  ^  Check  ^  Review  ^
-|{{pagequery>@en:bible:notes:est \{\{tag>[^}]*draft[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=100%}} |{{pagequery>@en:bible:notes:est \{\{tag>[^}]*check[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=100%}} |{{pagequery>@en:bible:notes:est \{\{tag>[^}]*review[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=100%}} |
+|{{pagequery>@en:bible:notes:est \{\{tag>[^}]*draft[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; showcount; layout=table;hidemsg;hidejump;bullet=square;fontsize=100%}} |{{pagequery>@en:bible:notes:est \{\{tag>[^}]*check[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; showcount; layout=table;hidemsg;hidejump;bullet=square;fontsize=100%}} |{{pagequery>@en:bible:notes:est \{\{tag>[^}]*review[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; showcount; layout=table;hidemsg;hidejump;bullet=square;fontsize=100%}} |
 
 \\
