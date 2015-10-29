@@ -649,6 +649,9 @@
 **[[:ttt-x-txizi:obs|ttt-x-txizi OBS]]**
 {{changes>ns=ttt-x-txizi:obs&maxage=604800&render=pagelist(header,date,user,nocomments)}}
 
+**[[:tw:obs|tw OBS]]**
+{{changes>ns=tw:obs&maxage=604800&render=pagelist(header,date,user,nocomments)}}
+
 **[[:udg:obs|udg OBS]]**
 {{changes>ns=udg:obs&maxage=604800&render=pagelist(header,date,user,nocomments)}}
 
