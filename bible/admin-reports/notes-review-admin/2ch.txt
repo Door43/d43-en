@@ -1,0 +1,15 @@
+====== Notes: 2 Chronicles Review Admin ======
+
+
+Manager -\\
+Reviewer - \\
+
+~~NOCACHE~~
+
+  * [[en:bible:admin-reports:check-tags-notes]]
+
+
+==== 2 Chronicles Pages Status ====
+
+^  Review  ^  Text  ^  Fixed  ^  Discuss  ^  Publish  ^
+|{{pagequery>@en:bible:notes:2ch \{\{tag>[^}]*review[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; showcount; layout=table;hidemsg;hidejump;fontsize=80%}}  |{{pagequery>@en:bible:notes:2ch \{\{tag>[^}]*text[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; showcount; layout=table;hidemsg;hidejump;fontsize=80%}}  |{{pagequery>@en:bible:notes:2ch \{\{tag>[^}]*fixed[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; showcount; layout=table;hidemsg;hidejump;fontsize=80%}}  |{{pagequery>@en:bible:notes:2ch \{\{tag>[^}]*discuss[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; showcount; layout=table;hidemsg;hidejump;fontsize=80%}}  |{{pagequery>@en:bible:notes:2ch \{\{tag>[^}]*publish[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; showcount; layout=table;hidemsg;hidejump;fontsize=80%}}  |
