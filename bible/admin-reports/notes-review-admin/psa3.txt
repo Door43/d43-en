@@ -14,7 +14,7 @@ Reviewer - (//review to publish//) -
 
 ==== Psalms Book 3 Page Status ====
 
-^ Review ^ Text ^ Discuss ^ Publish^
-|{{pagequery>@:en:bible:notes:psa \{\{tag>(?=[^}]*review)(?=[^}]*book3)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;showcount;fontsize=90%}} |{{pagequery>@:en:bible:notes:psa \{\{tag>(?=[^}]*text)(?=[^}]*book3)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;showcount;fontsize=90%}} |{{pagequery>@:en:bible:notes:psa \{\{tag>(?=[^}]*discuss)(?=[^}]*book3)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;showcount;fontsize=90%}} |{{pagequery>@:en:bible:notes:psa \{\{tag>(?=[^}]*publish)(?=[^}]*book3)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;showcount;fontsize=90%}} |
+^  Review  ^  Text  ^  Fixed  ^  Discuss  ^  Publish  ^
+|{{pagequery>@:en:bible:notes:psa \{\{tag>(?=[^}]*review)(?=[^}]*book3)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;showcount;fontsize=90%}} |{{pagequery>@:en:bible:notes:psa \{\{tag>(?=[^}]*text)(?=[^}]*book3)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;showcount;fontsize=90%}} |{{pagequery>@:en:bible:notes:psa \{\{tag>(?=[^}]*fixed)(?=[^}]*book3)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;showcount;fontsize=90%}} |{{pagequery>@:en:bible:notes:psa \{\{tag>(?=[^}]*discuss)(?=[^}]*book3)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;showcount;fontsize=90%}} |{{pagequery>@:en:bible:notes:psa \{\{tag>(?=[^}]*publish)(?=[^}]*book3)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;showcount;fontsize=90%}} |
 
 \\
