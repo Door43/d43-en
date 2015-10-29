@@ -135,7 +135,7 @@ edge [arrowsize=1.4];
 "translate_process" -> "pretranslation_training"
 "translate_why" -> "pretranslation_training"
 "process_manual" [fillcolor="#99ffff"]
-"start" -> "process_manual"
+"PROCESS MANUAL" -> "process_manual"
 "publishing_prereqs" [fillcolor="#99ffff"]
 "PROCESS MANUAL" -> "publishing_prereqs"
 "publishing_process" [fillcolor="#99ffff"]
@@ -201,8 +201,6 @@ edge [arrowsize=1.4];
 "tS_create" -> "tS_footnote"
 "tS_install" [fillcolor="#ffff99"]
 "tS_intro" -> "tS_install"
-"tS_intro" [fillcolor="#ffff99"]
-"Technology" -> "tS_intro"
 "tS_navigate" [fillcolor="#ffff99"]
 "tS_install" -> "tS_navigate"
 "tS_problem" [fillcolor="#ffff99"]
@@ -228,6 +226,8 @@ edge [arrowsize=1.4];
 "Technology" -> "toc_techvol1_2"
 "toc_techvol2" [fillcolor="#ffff99"]
 "Technology" -> "toc_techvol2"
+"ts_intro" [fillcolor="#ffff99"]
+"Technology" -> "ts_intro"
 "uW_audio" [fillcolor="#ffff99"]
 "uW_intro" -> "uW_audio"
 "uW_checking" [fillcolor="#ffff99"]
@@ -259,7 +259,7 @@ edge [arrowsize=1.4];
 "figs_deictics" [fillcolor="#99ff99"]
 "figs_intro" -> "figs_deictics"
 "figs_doublenegatives" [fillcolor="#99ff99"]
-"figs_intro" -> "figs_doublenegatives"
+"figs_partsofspeech" -> "figs_doublenegatives"
 "figs_doublet" [fillcolor="#99ff99"]
 "figs_intro" -> "figs_doublet"
 "figs_ellipsis" [fillcolor="#99ff99"]
