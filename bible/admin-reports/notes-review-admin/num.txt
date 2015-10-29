@@ -1,0 +1,15 @@
+====== Notes: Numbers Review Admin ======
+
+
+Manager -\\
+Reviewer - \\
+
+~~NOCACHE~~
+
+  * [[en:bible:admin-reports:check-tags-notes]]
+
+
+==== Numbers Pages Status ====
+
+^  Review  ^  Text  ^  Fixed  ^  Discuss  ^  Publish  ^
+|{{pagequery>@en:bible:notes:num \{\{tag>[^}]*review[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; showcount; layout=table;hidemsg;hidejump;fontsize=80%}}  |{{pagequery>@en:bible:notes:num \{\{tag>[^}]*text[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; showcount; layout=table;hidemsg;hidejump;fontsize=80%}}  |{{pagequery>@en:bible:notes:num \{\{tag>[^}]*fixed[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; showcount; layout=table;hidemsg;hidejump;fontsize=80%}}  |{{pagequery>@en:bible:notes:num \{\{tag>[^}]*discuss[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; showcount; layout=table;hidemsg;hidejump;fontsize=80%}}  |{{pagequery>@en:bible:notes:num \{\{tag>[^}]*publish[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; showcount; layout=table;hidemsg;hidejump;fontsize=80%}}  |
