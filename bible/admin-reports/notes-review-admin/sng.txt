@@ -1,0 +1,15 @@
+====== Notes: Song of Solomon Review Admin ======
+
+
+Manager -\\
+Reviewer - \\
+
+~~NOCACHE~~
+
+  * [[en:bible:admin-reports:check-tags-notes]]
+
+
+==== Song of Solomon Pages Status ====
+
+^  Review  ^  Text  ^  Fixed  ^  Discuss  ^  Publish  ^
+|{{pagequery>@en:bible:notes:sng \{\{tag>[^}]*review[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; showcount; layout=table;hidemsg;hidejump;fontsize=80%}}  |{{pagequery>@en:bible:notes:sng \{\{tag>[^}]*text[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; showcount; layout=table;hidemsg;hidejump;fontsize=80%}}  |{{pagequery>@en:bible:notes:sng \{\{tag>[^}]*fixed[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; showcount; layout=table;hidemsg;hidejump;fontsize=80%}}  |{{pagequery>@en:bible:notes:sng \{\{tag>[^}]*discuss[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; showcount; layout=table;hidemsg;hidejump;fontsize=80%}}  |{{pagequery>@en:bible:notes:sng \{\{tag>[^}]*publish[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; showcount; layout=table;hidemsg;hidejump;fontsize=80%}}  |
