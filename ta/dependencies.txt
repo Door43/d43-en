@@ -243,7 +243,7 @@ edge [arrowsize=1.4];
 "uW_select" [fillcolor="#ffff99"]
 "uW_install" -> "uW_select"
 "figs_123person" [fillcolor="#99ff99"]
-"figs_intro" -> "figs_123person"
+"figs_partsofspeech" -> "figs_123person"
 "figs_abstractnouns" [fillcolor="#99ff99"]
 "figs_intro" -> "figs_abstractnouns"
 "figs_activepassive" [fillcolor="#99ff99"]
@@ -271,7 +271,7 @@ edge [arrowsize=1.4];
 "figs_exclusive" [fillcolor="#99ff99"]
 "figs_intro" -> "figs_exclusive"
 "figs_explicit" [fillcolor="#99ff99"]
-"figs_intro" -> "figs_explicit"
+"Translation" -> "figs_explicit"
 "figs_explicitinfo" [fillcolor="#99ff99"]
 "figs_explicit" -> "figs_explicitinfo"
 "figs_gendernotations" [fillcolor="#99ff99"]
@@ -279,7 +279,7 @@ edge [arrowsize=1.4];
 "figs_genitivecase" [fillcolor="#99ff99"]
 "figs_intro" -> "figs_genitivecase"
 "figs_grammar" [fillcolor="#99ff99"]
-"figs_intro" -> "figs_grammar"
+"Translation" -> "figs_grammar"
 "figs_hendiadys" [fillcolor="#99ff99"]
 "figs_intro" -> "figs_hendiadys"
 "figs_hyperbole" [fillcolor="#99ff99"]
@@ -309,7 +309,7 @@ edge [arrowsize=1.4];
 "figs_parallelism" [fillcolor="#99ff99"]
 "figs_intro" -> "figs_parallelism"
 "figs_partsofspeech" [fillcolor="#99ff99"]
-"figs_intro" -> "figs_partsofspeech"
+"Translation" -> "figs_partsofspeech"
 "figs_personification" [fillcolor="#99ff99"]
 "figs_intro" -> "figs_personification"
 "figs_pluralpronouns" [fillcolor="#99ff99"]

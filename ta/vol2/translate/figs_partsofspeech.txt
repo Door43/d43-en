@@ -1,9 +1,10 @@
 ===== English Parts of Speech =====
 
 This module answers the question: What are English parts of speech?\\
-Before you start this module have you learned about: [[en:ta:vol1:translate:figs_intro|Figures of Speech]]
+\\
+**This is not an exhaustive list but it is about the basics.**
+\\
 
-**(not an exhaustive list but covers the basics)**
 The **VERB** is either an action or a state-of-being word such as is, are, was. The portion of the sentence which contains the verb is called the predicate. More detailed information can be found on [[:en:ta:vol2:translate:figs_verbs]].\\ 
 \\ 
 **NOUNS** are words that represent a person, place, thing or idea. Proper Nouns are capitalized and refer to a specific entity (e.g. Peter, Calvary Baptist); common nouns are generic (e.g. disciples, church). Nouns have various roles in a sentence, including: subject, appositive (which renames a subject), nominatives, and objects. Also see: [[:en:ta:vol2:translate:figs_abstractnouns]] or [[:en:ta:vol2:translate:figs_adjectivalnoun]]\\ 
@@ -40,13 +41,18 @@ Next we recommend you learn about:
   * [[en:ta:vol2:translate:figs_exclusive|Exclusive]]
   * [[en:ta:vol2:translate:figs_123person|First, Second or Third Person]]
   * [[en:ta:vol1:translate:figs_you|Forms of You]]
+  * [[en:ta:vol1:translate:figs_youdual|Forms of 'You' - Dual/Plural]]
+  * [[en:ta:vol1:translate:figs_yousingular|Forms of 'You' - Singular]]
+  * [[en:ta:vol2:translate:figs_youformal|Forms of 'You' - Formal/Informal]]
   * [[en:ta:vol2:translate:figs_gendernotations|Gender Notations]]
   * [[en:ta:vol2:translate:figs_genitivecase|Genitive Case]]
   * [[en:ta:vol2:translate:figs_grammar|Important Information about English Grammar]]
   * [[en:ta:vol2:translate:figs_inclusive|Inclusive]]
   * [[en:ta:vol2:translate:figs_pluralpronouns|English Plural Pronouns]]
   * [[en:ta:vol2:translate:figs_quotations|Speech Quotations]]
+  * [[en:ta:vol2:translate:figs_rpronouns|Reflexive Pronouns]]
   * [[en:ta:vol2:translate:figs_sentences|Sentences]]
   * [[en:ta:vol2:translate:figs_singularpronouns|English Singular Pronouns]]
+  * [[en:ta:vol1:translate:figs_order|Word Order]]
   * [[en:ta:vol2:translate:figs_verbs|Verbs]]
 
