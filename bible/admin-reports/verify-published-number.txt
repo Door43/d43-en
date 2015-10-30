@@ -2,7 +2,7 @@
 
 The right column below should be one greater than the left column if all chunks are properly published.
 
-Change book code to test any published book.
+Change book code in both columns to test any published book.
 
 ^  All published chunks  ^  All chunks + index  ^
-|{{pagequery>@en:bible:notes:nam \{\{tag>[^}]*publish[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; showcount; layout=table;hidemsg;hidejump;fontsize=80%}}  |{{pagequery>@en:bible:notes:jol *; fulltextregex; sort=title:asc; display={title}; natsort; showcount; layout=table;hidemsg;hidejump;fontsize=80%}}  |
+|{{pagequery>@en:bible:notes:nam \{\{tag>[^}]*publish[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; showcount; layout=table;hidemsg;hidejump;fontsize=80%}}  |{{pagequery>@en:bible:notes:nam *; fulltextregex; sort=title:asc; display={title}; natsort; showcount; layout=table;hidemsg;hidejump;fontsize=80%}}  |
