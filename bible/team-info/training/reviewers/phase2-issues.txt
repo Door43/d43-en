@@ -41,6 +41,7 @@ This is a list of general issues that we want to deal with in Phase 2. This list
 
   * **Important Terms**  - Change "There are no important terms for these verses" to "There are no new important terms for these verses." Sometimes there are important terms in the ULB, but they are not listed on every chunk because they are used so much in that chapter or book. (SQ)
   * **Metaphors**  - I don't think that "This compares X to Y" is usually right. (SQ)
+  * **Names** - It looks like there are different ways two-part names are dealt with in the ULB and UDB: some divided, some not divided. Is there a pattern? See Harry's thread regarding Adoni Bezek on [[en:bible:notes:jdg:01:04]].
   * **Narrative Present in Notes**  - The example below shows why I do not want to use the narrative present in notes. (SQ)
       * **When you have lifted up**  - “when you lift up.” This __has not__  happened yet. \\ (This had not happened at the time Jesus was saying it, but it did happen since then. So that no one would mistake us for saying that it has not happened yet in our time, we changed the comment to "This __had not__  happened yet," even though the rest of the comments use the narrative present.)
   * **Negation in text**  - When we write notes, we may need to include the negation. See my 8-27-15 discussion note in [[:en:bible:notes:ezk:34:07|Ezekiel 34:7-8]]. (SQ)
