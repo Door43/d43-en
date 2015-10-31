@@ -245,39 +245,39 @@ edge [arrowsize=1.4];
 "figs_123person" [fillcolor="#99ff99"]
 "figs_partsofspeech" -> "figs_123person"
 "figs_abstractnouns" [fillcolor="#99ff99"]
-"figs_intro" -> "figs_abstractnouns"
+"figs_partsofspeech" -> "figs_abstractnouns"
 "figs_activepassive" [fillcolor="#99ff99"]
-"figs_intro" -> "figs_activepassive"
+"figs_grammar" -> "figs_activepassive"
 "figs_adjectivalnoun" [fillcolor="#99ff99"]
-"figs_intro" -> "figs_adjectivalnoun"
+"figs_partsofspeech" -> "figs_adjectivalnoun"
 "figs_ambiguity" [fillcolor="#99ff99"]
-"figs_intro" -> "figs_ambiguity"
+"Translation" -> "figs_ambiguity"
 "figs_apostrophe" [fillcolor="#99ff99"]
 "figs_intro" -> "figs_apostrophe"
 "figs_cohesion" [fillcolor="#99ff99"]
-"figs_intro" -> "figs_cohesion"
+"Translation" -> "figs_cohesion"
 "figs_deictics" [fillcolor="#99ff99"]
-"figs_intro" -> "figs_deictics"
+"Translation" -> "figs_deictics"
 "figs_doublenegatives" [fillcolor="#99ff99"]
-"figs_partsofspeech" -> "figs_doublenegatives"
+"Translation" -> "figs_doublenegatives"
 "figs_doublet" [fillcolor="#99ff99"]
 "figs_intro" -> "figs_doublet"
 "figs_ellipsis" [fillcolor="#99ff99"]
-"figs_intro" -> "figs_ellipsis"
+"Translation" -> "figs_ellipsis"
 "figs_euphemism" [fillcolor="#99ff99"]
 "figs_intro" -> "figs_euphemism"
 "figs_events" [fillcolor="#99ff99"]
 "figs_intro" -> "figs_events"
 "figs_exclusive" [fillcolor="#99ff99"]
-"figs_intro" -> "figs_exclusive"
+"figs_grammar" -> "figs_exclusive"
 "figs_explicit" [fillcolor="#99ff99"]
 "Translation" -> "figs_explicit"
 "figs_explicitinfo" [fillcolor="#99ff99"]
 "figs_explicit" -> "figs_explicitinfo"
 "figs_gendernotations" [fillcolor="#99ff99"]
-"figs_intro" -> "figs_gendernotations"
+"Translation" -> "figs_gendernotations"
 "figs_genitivecase" [fillcolor="#99ff99"]
-"figs_intro" -> "figs_genitivecase"
+"Translation" -> "figs_genitivecase"
 "figs_grammar" [fillcolor="#99ff99"]
 "Translation" -> "figs_grammar"
 "figs_hendiadys" [fillcolor="#99ff99"]
@@ -289,7 +289,7 @@ edge [arrowsize=1.4];
 "figs_idiom" [fillcolor="#99ff99"]
 "figs_intro" -> "figs_idiom"
 "figs_inclusive" [fillcolor="#99ff99"]
-"figs_intro" -> "figs_inclusive"
+"figs_grammar" -> "figs_inclusive"
 "figs_intro" [fillcolor="#99ff99"]
 "Translation" -> "figs_intro"
 "figs_irony" [fillcolor="#99ff99"]
@@ -303,7 +303,7 @@ edge [arrowsize=1.4];
 "figs_metonymy" [fillcolor="#99ff99"]
 "figs_intro" -> "figs_metonymy"
 "figs_order" [fillcolor="#99ff99"]
-"figs_intro" -> "figs_order"
+"figs_grammar" -> "figs_order"
 "figs_parables" [fillcolor="#99ff99"]
 "figs_intro" -> "figs_parables"
 "figs_parallelism" [fillcolor="#99ff99"]
@@ -313,31 +313,31 @@ edge [arrowsize=1.4];
 "figs_personification" [fillcolor="#99ff99"]
 "figs_intro" -> "figs_personification"
 "figs_pluralpronouns" [fillcolor="#99ff99"]
-"figs_intro" -> "figs_pluralpronouns"
+"figs_partsofspeech" -> "figs_pluralpronouns"
 "figs_quotations" [fillcolor="#99ff99"]
-"figs_intro" -> "figs_quotations"
+"figs_partsofspeech" -> "figs_quotations"
 "figs_rpronouns" [fillcolor="#99ff99"]
-"figs_intro" -> "figs_rpronouns"
+"figs_partsofspeech" -> "figs_rpronouns"
 "figs_rquestion" [fillcolor="#99ff99"]
 "figs_intro" -> "figs_rquestion"
 "figs_sentences" [fillcolor="#99ff99"]
-"figs_intro" -> "figs_sentences"
+"figs_partsofspeech" -> "figs_sentences"
 "figs_simile" [fillcolor="#99ff99"]
 "figs_intro" -> "figs_simile"
 "figs_singularpronouns" [fillcolor="#99ff99"]
-"figs_intro" -> "figs_singularpronouns"
+"figs_partsofspeech" -> "figs_singularpronouns"
 "figs_synecdoche" [fillcolor="#99ff99"]
 "figs_intro" -> "figs_synecdoche"
 "figs_verbs" [fillcolor="#99ff99"]
-"figs_intro" -> "figs_verbs"
+"figs_partsofspeech" -> "figs_verbs"
 "figs_you" [fillcolor="#99ff99"]
-"figs_intro" -> "figs_you"
+"figs_partsofspeech" -> "figs_you"
 "figs_youdual" [fillcolor="#99ff99"]
-"figs_you" -> "figs_youdual"
+"figs_partsofspeech" -> "figs_youdual"
 "figs_youformal" [fillcolor="#99ff99"]
-"figs_intro" -> "figs_youformal"
+"figs_partsofspeech" -> "figs_youformal"
 "figs_yousingular" [fillcolor="#99ff99"]
-"figs_you" -> "figs_yousingular"
+"figs_partsofspeech" -> "figs_yousingular"
 "first_draft" [fillcolor="#99ff99"]
 "level1" -> "first_draft"
 "guidelines_accurate" [fillcolor="#99ff99"]
