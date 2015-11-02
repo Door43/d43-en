@@ -86,10 +86,6 @@
 
 ==== John L's books: ====
 
-== Hebrews ==
-
-{{pagequery>@:en:bible:notes:heb \{\{tag>[^}]*mgr[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=column; hidemsg;hidejump;showcount;fontsize=90%}}
-
 == 2 Kings ==
 
 {{pagequery>@:en:bible:notes:2ki \{\{tag>[^}]*mgr[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=column; hidemsg;hidejump;showcount;fontsize=90%}}
@@ -97,6 +93,14 @@
 == Daniel ==
 
 {{pagequery>@:en:bible:notes:dan \{\{tag>[^}]*mgr[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=column; hidemsg;hidejump;showcount;fontsize=90%}}
+
+== 1 Chronicles ==
+
+{{pagequery>@:en:bible:notes:1ch \{\{tag>[^}]*mgr[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=column; hidemsg;hidejump;showcount;fontsize=90%}}
+
+== Job ==
+
+{{pagequery>@:en:bible:notes:job \{\{tag>[^}]*mgr[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=column; hidemsg;hidejump;showcount;fontsize=90%}}
 
 ==== Joe W's books: ====
 
