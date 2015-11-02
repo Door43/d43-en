@@ -72,13 +72,9 @@
 
 {{pagequery>@:en:bible:notes:isa \{\{tag>[^}]*mgr[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=column; hidemsg;hidejump;showcount;fontsize=90%}}
 
-== Exodus ==
+== Leviticus ==
 
-{{pagequery>@:en:bible:notes:exo \{\{tag>[^}]*mgr[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=column; hidemsg;hidejump;showcount;fontsize=90%}}
-
-== Revelation ==
-
-{{pagequery>@:en:bible:notes:rev \{tag>[^}]*mgr[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=column; hidemsg;hidejump;showcount;fontsize=90%}}
+{{pagequery>@:en:bible:notes:lev \{\{tag>[^}]*mgr[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=column; hidemsg;hidejump;showcount;fontsize=90%}}
 
 == Micah ==
 
