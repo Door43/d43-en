@@ -60,9 +60,6 @@
 
 {{pagequery>@:en:bible:notes:2co \{\{tag>[^}]*mgr[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=column; hidemsg;hidejump;showcount;fontsize=90%}}
 
-== Amos ==
-
-{{pagequery>@:en:bible:notes:amo \{\{tag>[^}]*mgr[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=column; hidemsg;hidejump;showcount;fontsize=90%}}
 
 == Judges ==
 
