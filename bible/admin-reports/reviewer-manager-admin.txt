@@ -107,6 +107,13 @@
 
 {{pagequery>@en:bible:notes:1co \{\{tag>[^}]*mgr[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=column; hidemsg;hidejump;showcount;fontsize=90%}}
 
+==== Leonard's books: ====
+
+== Joshua 13-22 ==
+
+{{pagequery>@en:bible:notes:jos:13 @en:bible:notes:jos:14 @en:bible:notes:jos:15 @en:bible:notes:jos:16 @en:bible:notes:jos:17 @en:bible:notes:jos:18 @en:bible:notes:jos:19 @en:bible:notes:jos:20 @en:bible:notes:jos:21 @en:bible:notes:jos:22 \{\{tag>[^}]*mgr[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=column; hidemsg;hidejump;showcount;fontsize=90%}}
+
+
 
 ==== Paul H's books: ====
 
