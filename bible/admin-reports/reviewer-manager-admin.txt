@@ -14,6 +14,9 @@
 
 {{pagequery>@:en:bible:notes:ecc \{\{tag>[^}]*mgr[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=column; hidemsg;hidejump;showcount;fontsize=90%}}
 
+== Lamentations ==
+
+{{pagequery>@:en:bible:notes:lam \{\{tag>[^}]*mgr[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=column; hidemsg;hidejump;showcount;fontsize=90%}}
 ==== Adam VG's books: ====
 
 == Obadiah ==
