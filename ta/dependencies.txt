@@ -118,6 +118,8 @@ edge [arrowsize=1.4];
 "translate_manual" -> "translation_guidelines"
 "uw_intro" [fillcolor="#ff9999"]
 "ta_intro" -> "uw_intro"
+"audio_software" [fillcolor="#99ffff"]
+"PROCESS MANUAL" -> "audio_software"
 "door43_translation" [fillcolor="#99ffff"]
 "pretranslation_training" -> "door43_translation"
 "setup_door43" -> "door43_translation"
