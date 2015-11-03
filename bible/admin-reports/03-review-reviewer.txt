@@ -25,7 +25,7 @@ Table 1: [[en:bible:admin-reports:03-review-reviewer#Table 1|Ed Q; Henry W; Henr
 Table 1: [[en:bible:admin-reports:03-review-reviewer#Table 1|Ed Q; Henry W; Henry dV; Tom N]] \\ Table 2: [[en:bible:admin-reports:03-review-reviewer#Table 2|Nick A; John A; Carol B; Harry H]]
 
 ^  Bram vdH  ^  Kim P  ^  (new)  ^  Susan Q  ^
-|  Pro (1-9, 13-31)*  |  Dan  |  -  |  (Inspect)  |
+|  Pro  |  Dan  |  -  |  (Inspect)  |
 |  Feedback: \\ \\ {{pagequery>@en:bible:notes \{\{tag>[^}]*bram[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort;showcount; layout=table;hidemsg;hidejump;fontsize=70%}} To do: \\ {{pagequery>@en:bible:notes:pro \{\{tag>[^}]*review[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort;showcount; layout=table;hidemsg;hidejump;fontsize=70%}}  |  Feedback: \\ \\ {{pagequery>@en:bible:notes \{\{tag>[^}]*kim[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort;showcount; layout=table;hidemsg;hidejump;fontsize=70%}} To do: \\ {{pagequery>@en:bible:notes:dan \{\{tag>[^}]*review[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort;showcount; layout=table;hidemsg;hidejump;fontsize=70%}}  |  Feedback: \\ \\ {{pagequery>@en:bible:notes \{\{tag>[^}]*tomw[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort;showcount; layout=table;hidemsg;hidejump;fontsize=70%}} To do: \\ {{pagequery>@en:bible:notes:xxx \{\{tag>[^}]*review[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort;showcount; layout=table;hidemsg;hidejump;fontsize=70%}}  |  {{pagequery>@en:bible:notes \{\{tag>[^}]*inspect[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort;showcount; layout=table;hidemsg;hidejump;fontsize=70%}}  |
 
 
