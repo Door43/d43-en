@@ -1,8 +1,6 @@
 ====== Monthly Changes in OBS Namespaces ======
 
 
-**[[:aa:obs|aa OBS]]**
-{{changes>ns=aa:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:aaa:obs|aaa OBS]]**
 {{changes>ns=aaa:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:aac:obs|aac OBS]]**
@@ -85,6 +83,8 @@
 {{changes>ns=bzs:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:ceb:obs|ceb OBS]]**
 {{changes>ns=ceb:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
+**[[:cmn:obs|cmn OBS]]**
+{{changes>ns=cmn:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:cnh:obs|cnh OBS]]**
 {{changes>ns=cnh:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:de:obs|de OBS]]**

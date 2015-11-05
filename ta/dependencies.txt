@@ -18,6 +18,8 @@ edge [arrowsize=1.4];
 "alphabet" -> "accurate"
 "alphabet" [fillcolor="#9999ff"]
 "acceptable" -> "alphabet"
+"authority_process" [fillcolor="#9999ff"]
+"goal_checking" -> "authority_process"
 "church_leader_check" [fillcolor="#9999ff"]
 "level2" -> "church_leader_check"
 "clear" [fillcolor="#9999ff"]
@@ -30,6 +32,8 @@ edge [arrowsize=1.4];
 "accurate" -> "complete"
 "first_draft" [fillcolor="#9999ff"]
 "level1" -> "first_draft"
+"goal_check" [fillcolor="#9999ff"]
+"intro_levels" -> "goal_check"
 "good" [fillcolor="#9999ff"]
 "complete" -> "good"
 "important_term_check" [fillcolor="#9999ff"]
