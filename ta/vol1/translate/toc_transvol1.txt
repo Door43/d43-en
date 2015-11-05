@@ -11,10 +11,10 @@ This module answers the question: What is in Volume 1 of the translation manual?
 
 === Defining a Good Translation === 
   - [[en:ta:vol1:translate:guidelines_intro]]
-    - [[en:ta:vol1:translate:guidelines_accurate]]
     - [[en:ta:vol1:translate:guidelines_clear]] 
     - [[en:ta:vol1:translate:guidelines_natural]]
-    - [[en:ta:vol1:translate:guidelines_church-approved]]
+    - [[en:ta:vol1:translate:guidelines_accurate]]
+    - [[en:ta:vol1:translate:guidelines_church_approved]]
 
 === Meaning-Based Translation ===
   - [[en:ta:vol1:translate:translate_process]]

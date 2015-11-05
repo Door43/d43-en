@@ -348,6 +348,8 @@ edge [arrowsize=1.4];
 "guidelines_authoritative" [fillcolor="#99ff99"]
 "guidelines_intro" -> "guidelines_authoritative"
 "translation_guidelines" -> "guidelines_authoritative"
+"guidelines_church_approved" [fillcolor="#99ff99"]
+"translation_guidelines" -> "guidelines_church_approved"
 "guidelines_clear" [fillcolor="#99ff99"]
 "guidelines_intro" -> "guidelines_clear"
 "translation_guidelines" -> "guidelines_clear"
