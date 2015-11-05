@@ -16,7 +16,6 @@
 ===== UDB: =====
 
 <usfm>
-\q1
 \v 5 When thieves break into someone's house during the night,
 \q2 they certainly steal only the things that they want.
 \q1 And people who pick grapes always leave a few grapes on the vines.
@@ -24,6 +23,9 @@
 \q1
 \v 6 Everything that is valuable will be taken away.
 \q2 Your enemies will find and take away even the valuable things that you have hidden.
+
+
+\q1
 </usfm>
 
 ===== ULB: =====
