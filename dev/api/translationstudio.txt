@@ -1,6 +1,10 @@
 ====== translationStudio v2 API ======
 
-<font 14px line-height: 19.6000003814697px/inherit;;inherit;;inherit>In the following examples each catalog reference (i.e. the</font>    url<font 14px line-height: 19.6000003814697px/inherit;;inherit;;inherit>) could be generated dynamically in order to slim down the</font>    api<font 14px line-height: 19.6000003814697px/inherit;;inherit;;inherit>size</font>    <font 14px line-height: 19.6000003814697px/inherit;;inherit;;inherit>.</font>
+
+**Deprecated, please see https://api.unfoldingword.org/README.html**
+
+
+In the following examples each catalog reference (i.e. the    url) could be generated dynamically in order to slim down the    apisize    .
 
 ===== Target Languages Catalog =====
 
@@ -160,7 +164,7 @@ content:
 
 ===== Audio =====
 
-It has not been determined if a new api will be developed for audio files. This is partly due to the fact that audio has not been incorporated into the app yet. <font 14px line-height: 19.6000003814697px/inherit;;inherit;;inherit>Please refer to the</font>    [[https://door43.org/en/dev/api/unfoldingword|unfoldingWord API]] <font 14px line-height: 19.6000003814697px/inherit;;inherit;;inherit>instead.</font>
+It has not been determined if a new api will be developed for audio files. This is partly due to the fact that audio has not been incorporated into the app yet. Please refer to the    [[https://door43.org/en/dev/api/unfoldingword|unfoldingWord API]] instead.
 
 ===== Images =====
 
