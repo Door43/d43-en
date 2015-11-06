@@ -1,5 +1,8 @@
 ====== unfoldingWord API Version 2 ======
 
+**Deprecated, please see https://api.unfoldingword.org/README.html**
+
+
 Official specification for unfoldingWord API, version 2:
 
 Language information may be pulled from http://td.unfoldingword.org/exports/langnames.json.
