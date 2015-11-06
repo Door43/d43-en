@@ -1,5 +1,10 @@
 ====== translationKeyboard API ======
 
+
+**Deprecated, please see https://api.unfoldingword.org/README.html**
+
+
+
 Official specification for translationKeyboard API, version 1:
 
 Language information may be pulled from http://td.unfoldingword.org/exports/langnames.json.
