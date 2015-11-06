@@ -18,6 +18,12 @@ edge [arrowsize=1.4];
 "alphabet" -> "accurate"
 "alphabet" [fillcolor="#9999ff"]
 "acceptable" -> "alphabet"
+"authority_level1" [fillcolor="#9999ff"]
+"authority_process" -> "authority_level1"
+"authority_level2" [fillcolor="#9999ff"]
+"authority_level1" -> "authority_level2"
+"authority_level3" [fillcolor="#9999ff"]
+"authority_level2" -> "authority_level3"
 "authority_process" [fillcolor="#9999ff"]
 "goal_checking" -> "authority_process"
 "church_leader_check" [fillcolor="#9999ff"]
