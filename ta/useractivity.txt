@@ -1,13 +1,9 @@
 ====== user activity ======
 
-Suzanne to John Luton
 
-
-^ Suzanne to John L ^
-|{{pagequery>@en:bible:notes:exo \{\{tag>[^}]*luton[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort;showcount; layout=table;hidemsg;hidejump;fontsize=100%}}  | 
 
 Activity - Check
-{{changes>user=katalakay&count=50&render=pagelist(header,date,user,nocomments)&maxage=25920000}} 
+{{changes>user=revelator&count=50&render=pagelist(header,date,user,nocomments)&maxage=25920000}} 
 
 Changes this week
 
