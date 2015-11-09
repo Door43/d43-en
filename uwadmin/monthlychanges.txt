@@ -453,6 +453,8 @@
 {{changes>ns=wja:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:wo:obs|wo OBS]]**
 {{changes>ns=wo:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
+**[[:wti:obs|wti OBS]]**
+{{changes>ns=wti:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:xmf:obs|xmf OBS]]**
 {{changes>ns=xmf:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:xmm:obs|xmm OBS]]**

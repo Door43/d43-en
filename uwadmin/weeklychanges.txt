@@ -679,6 +679,9 @@
 **[[:wo:obs|wo OBS]]**
 {{changes>ns=wo:obs&maxage=604800&render=pagelist(header,date,user,nocomments)}}
 
+**[[:wti:obs|wti OBS]]**
+{{changes>ns=wti:obs&maxage=604800&render=pagelist(header,date,user,nocomments)}}
+
 **[[:xmf:obs|xmf OBS]]**
 {{changes>ns=xmf:obs&maxage=604800&render=pagelist(header,date,user,nocomments)}}
 
