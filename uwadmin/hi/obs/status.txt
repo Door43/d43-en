@@ -1,28 +1,28 @@
 //The status of development for Open Bible Stories// 
 
 
-publish date: 
+publish date: 2015-11-10
 
 
-version: ??
+version: 4.1
 
 
-contributors: 
+contributors: BRIDGE CONNECTIVITY SOLUTIONS TRANSLATORS
 
 
 checking entity: translation team
 
 
-checking level: ??
+checking level: 3
 
 
 source text: en
 
 
-source text version: ??
+source text version: 3.2.1
 
 
 comments: 
 
 
-Progress Notes: 
+Progress Notes: Initial setup 2014-09-21
