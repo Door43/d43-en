@@ -69,6 +69,8 @@ edge [arrowsize=1.4];
 "level3_questions" -> "level3_approval"
 "level3_questions" [fillcolor="#9999ff"]
 "level3" -> "level3_questions"
+"natural" [fillcolor="#9999ff"]
+"alphabet" -> "natural"
 "obs_tQ" [fillcolor="#9999ff"]
 "intro_check" -> "obs_tQ"
 "intro_levels" -> "obs_tQ"
@@ -389,6 +391,8 @@ edge [arrowsize=1.4];
 "guidelines_pure" [fillcolor="#99ff99"]
 "guidelines_intro" -> "guidelines_pure"
 "translation_guidelines" -> "guidelines_pure"
+"qualifications" [fillcolor="#99ff99"]
+"level1" -> "qualifications"
 "resources_intro" [fillcolor="#99ff99"]
 "translate_manual" -> "resources_intro"
 "resources_links" [fillcolor="#99ff99"]
