@@ -2,58 +2,24 @@
 
 ===== TFT: =====
 
-<usfm>
-\v 1 Why do the \add leaders of\add* nations rage \add against God\add*?\f + \ft Or: It is foolish for the nations to be angry \add with God\add*. \f* \f + \ft rhetorical question \f*
-\q2 Why do people plan to rebel \add against God\add* even though it is in vain?\f + \ft Or: It is useless for people to plan to rebel \add against God\add*! \f* \f + \ft rhetorical question \f*
-\q1
-\v 2 The kings of the nations on earth prepared to revolt;
-\q2 the rulers plotted together \add to fight\add* against Yahweh and against his Messiah\f + \ft Or: chosen king \f*.
-\q1
-\v 3 They shouted, "We should free ourselves from their control \f + \ft metaphor \f*;
-\q2 we should not let them rule over us any longer!"
-\b
-\q1
-</usfm>
+<usfm> \v 1 Why do the \add leaders of\add* nations rage \add against God\add*?\f + \ft Or: It is foolish for the nations to be angry \add with God\add*. \f* \f + \ft rhetorical question \f* \q2 Why do people plan to rebel \add against God\add* even though it is in vain?\f + \ft Or: It is useless for people to plan to rebel \add against God\add*! \f* \f + \ft rhetorical question \f* \q1 \v 2 The kings of the nations on earth prepared to revolt; \q2 the rulers plotted together \add to fight\add* against Yahweh and against his Messiah\f + \ft Or: chosen king \f*. \q1 \v 3 They shouted, "We should free ourselves from their control \f + \ft metaphor \f*; \q2 we should not let them rule over us any longer!" \b \q1 </usfm>
 
 ===== UDB: =====
 
-<usfm>
-\v 1 Why do the leaders of nations rage against Yahweh?
-\q2 Why do people plan to rebel against him, even though it is in vain?
-\q1
-\v 2 The kings of the nations on earth prepare to revolt;
-\q2 the rulers plot together to fight against Yahweh and against his anointed one.
-\q1
-\v 3 They shout, "We should free ourselves from their control;
-\q2 we should not let them rule over us any longer!"
-\b
+<usfm> \v 1 Why do the leaders of nations rage against Yahweh? \q2 Why do people plan to rebel against him, even though it is in vain? \q1 \v 2 The kings of the nations on earth prepare to revolt; \q2 the rulers plot together to fight against Yahweh and against his anointed one. \q1 \v 3 They shout, "We should free ourselves from their control; \q2 we should not let them rule over us any longer!" \b
 
-
-\q1
-</usfm>
+\q1 </usfm>
 
 ===== ULB: =====
 
-<usfm>
-\c 2
-\p
-\q
-\v 1 Why are the nations in rebellion,
-\q and the peoples conspire in vain ?
-\q
-\v 2 The kings of the earth take their stand together
-\q and the rulers conspire together
-\q against Yahweh and against his Messiah, saying,
-\q
-\v 3 "Let us tear off the shackles they put on us
-\q and throw off their chains."
-</usfm>
+<usfm> \c 2 \p \q \v 1 Why are the nations in rebellion, \q and the peoples conspire in vain ? \q \v 2 The kings of the earth take their stand together \q and the rulers conspire together \q against Yahweh and against his Messiah, saying, \q \v 3 "Let us tear off the shackles they put on us \q and throw off their chains." </usfm>
 
 ===== Important Terms: =====
 
   * [[:en:obe:other:nation]]
   * [[:en:obe:other:rebel]]
   * [[:en:obe:other:peoplegroup]]
+  * [[:en:obe:other:conspire]]
   * [[:en:obe:other:vain]]
   * [[:en:obe:other:king]]
   * [[:en:obe:other:earth]]
@@ -63,15 +29,15 @@
 
 ===== Translation Notes: =====
 
-  * **Why are the nations in rebellion, and why do the peoples conspire in vain?** - AT: "The nations are rebelling and plotting against God in vain. " AT: "Why do the leaders of nations rage against Yahweh? Why do people rebel against him, even though it is in vain?" (UDB) (See: [[:en:ta:vol1:translate:figs_rquestion]] and [[:en:ta:vol2:translate:figs_parallelism]]) 
-  * **The kings of the earth take their stand together ... rulers conspire together** - These clauses have similar meanings. (See: [[:en:ta:vol2:translate:figs_parallelism]])
-  * **take their stand together** - AT: "unite" (See: [[:en:ta:vol1:translate:figs_idiom]])
-  * **Let us tear off the shackles ... throw off their chains** - AT: "We should free ourselves from their control; we should not let them rule over us any longer!" (UDB) (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **Why are the nations in rebellion, and the peoples conspire in vain? **- AT: "The nations are rebelling and conspiring against God in vain. " (See: Rhetorical Question) (See: Parallelism) "It is use Why do the leaders of nations rages against Yahwey? Why do people rebel against him, even though it is in vain?" (UDB)
+  * **The kings of the earth take their stand together and the rulers conspire together**  - (See: Parallelism)
+  * **take their stand**  - AT: "unite" (See: Idiom)
+  * **Let us tear off the shackles they put on us and throw off their chains. **- They shout, "We should free ourselves from their control; we should not let them rule over us any longer!" (UDB) (See: Metaphor)
 ===== Links: =====
 
   * **[[:en:bible:questions:comprehension:psa:002|Psalms Chapter 002 Comprehension Questions]]**
 **[[:en:bible:notes:psa:001:006|<<]] | [[:en:bible:notes:psa:002:004|>>]]**
 
-~~DISCUSSION~~{{tag>review book1}}
+~~DISCUSSION~~{{tag>check book1}}
 
 ~~NOCACHE~~
