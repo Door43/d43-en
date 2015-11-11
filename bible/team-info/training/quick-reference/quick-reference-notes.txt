@@ -53,17 +53,18 @@ In a simile something is compared to something else of a different kind in order
 
 {{pagequery>@en:bible:team-info:training:quick-reference:standard-notes \{\{tag>[^}]*publish[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=100%}}
 
-==== Standard Notes - Books ====
-
-{{pagequery>@:en:bible:team-info:training:standard-book-notes \{\{tag>[^}]*publish[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=100%}}
-
-
 ==== Standard Connecting Notes ====
 
 {{pagequery>@:en:bible:team-info:training:quick-reference:standard-connecting-notes \{\{tag>[^}]*publish[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=100%}}
 ==== Other ====
 
 {{pagequery>@en:bible:team-info:training:quick-reference:other \{\{tag>[^}]*publish[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=100%}}
+
+==== Standard Notes - Books ====
+
+{{pagequery>@:en:bible:team-info:training:standard-book-notes \{\{tag>[^}]*publish[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=100%}}
+
+
 
 {{tag>notes101}}
 
