@@ -1,0 +1,38 @@
+====== Commands ======
+
+
+===== Description =====
+
+Command forms are used for various purposes. Translators will need to know whether a particular command is an order given by someone in authority, advice, an expression of permission, an invitation, or a request.
+
+(Translation Academy: [[:en:ta:vol2:translate:figs_verbs]])
+
+===== Template =====
+
+The following information should be included in the notes:
+
+  - **Text** - the text that includes the command from the ULB in bold
+  - Clarifying translation - (optional)
+  - **Explanation** - Include the purpose of the command.
+  - **Alternate translation** - if not clear in the UDB
+  - TA link - (We don't have a tA page dealing with commands)
+
+  * **(1) ULB text**  - **(3)** Explanation. **(4)** Alternate translation.
+
+
+===== Bible Examples =====
+
+Field reference numbers are included for clarity purposes only. They are omitted in the actual note.
+
+=== Psalm 51 ===
+
+Have mercy on me, God, because of your covenant faithfulness;
+
+  * **Have mercy on me**  -  **(2)** "Be kind to me." **(3)** This is a request.  **(4)** AT: "Please have mercy on me" or "I beg you to have mercy on me." **(5)** (See: Verbs)
+
+
+~~DISCUSSION~~
+
+{{tag>draft}}
+
+\\ 
