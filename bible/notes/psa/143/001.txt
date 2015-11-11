@@ -2,49 +2,17 @@
 
 ===== TFT: =====
 
-<usfm>
-\v 1 Yahweh, hear me while I pray to you!
-\q2 Because you are righteous
-\q2 and because you faithfully do what you have promised,
-\q2 listen to what I am pleading that you \add do for me\add*.
-\q1
-\v 2 I am one who serves you;
-\q1 do not judge me,
-\q2 because you do not consider anyone to be completely innocent\f + \ft Or: never have done anything that is wrong \f*.
-\b
-\q1
-</usfm>
+<usfm> \v 1 Yahweh, hear me while I pray to you! \q2 Because you are righteous \q2 and because you faithfully do what you have promised, \q2 listen to what I am pleading that you \add do for me\add*. \q1 \v 2 I am one who serves you; \q1 do not judge me, \q2 because you do not consider anyone to be completely innocent\f + \ft Or: never have done anything that is wrong \f*. \b \q1 </usfm>
 
 ===== UDB: =====
 
-<usfm>
-\v 1 Yahweh, hear me while I pray to you!
-\q2 Because you are righteous
-\q2 and because you faithfully do what you have promised,
-\q2 listen to what I am pleading for you to do for me.
-\q1
-\v 2 I am one who worships you;
-\q1 do not judge me
-\q2 because you do not consider anyone to be completely innocent.
-\b
+<usfm> \v 1 Yahweh, hear me while I pray to you! \q2 Because you are righteous \q2 and because you faithfully do what you have promised, \q2 listen to what I am pleading for you to do for me. \q1 \v 2 I am one who worships you; \q1 do not judge me \q2 because you do not consider anyone to be completely innocent. \b
 
-
-\q1
-</usfm>
+\q1 </usfm>
 
 ===== ULB: =====
 
-<usfm>
-\c 143
-\d A psalm of David.
-\p
-\q
-\v 1 Hear my prayer, Yahweh; listen to my pleas.
-\q Because of your faithfulness and righteousness, answer me!
-\q
-\v 2 Do not enter into judgment with your servant,
-\q for in your sight no one is righteous.
-</usfm>
+<usfm> \c 143 \d A psalm of David. \p \q \v 1 Hear my prayer, Yahweh; listen to my pleas. \q Because of your faithfulness and righteousness, answer me! \q \v 2 Do not enter into judgment with your servant, \q for in your sight no one is righteous. </usfm>
 
 ===== Important Terms: =====
 
@@ -52,7 +20,7 @@
   * [[:en:obe:other:david|David]]
   * [[:en:obe:other:pray|pray, prayer]]
   * [[:en:obe:kt:yahweh|Yahweh]]
-  * pleas
+  * pleas, plead
   * [[:en:obe:kt:faithful|faithful, faithfulness]]
   * [[:en:obe:kt:righteous|righteous, righteousness]]
   * [[:en:obe:kt:judge|judge, judgment]]
