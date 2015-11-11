@@ -2,47 +2,17 @@
 
 ===== TFT: =====
 
-<usfm>
-\v 1 Those whom God has forgiven for rebelling against him,
-\q2 whose stains of sin have been wiped away,
-\q2 are truly blessed \add by God\add*!
-\q1
-\v 2 Those whose record of their sins Yahweh has erased,
-\q2 those who no longer do deceitful things,
-\q2 are truly blessed \add by God\add*!
-\b
-\q1
-</usfm>
+<usfm> \v 1 Those whom God has forgiven for rebelling against him, \q2 whose stains of sin have been wiped away, \q2 are truly blessed \add by God\add*! \q1 \v 2 Those whose record of their sins Yahweh has erased, \q2 those who no longer do deceitful things, \q2 are truly blessed \add by God\add*! \b \q1 </usfm>
 
 ===== UDB: =====
 
-<usfm>
-\v 1 Those whom God has forgiven for rebelling against him
-\q2 and those whose sin God does not look at,
-\q2 these are the ones whom he has truly blessed!
-\q1
-\v 2 Those whose record of sins Yahweh has erased
-\q2 and those who no longer do deceitful things,
-\q2 these are the ones whom he has truly blessed!
-\b
+<usfm> \v 1 Those whom God has forgiven for rebelling against him \q2 and those whose sin God does not look at, \q2 these are the ones whom he has truly blessed! \q1 \v 2 Those whose record of sins Yahweh has erased \q2 and those who no longer do deceitful things, \q2 these are the ones whom he has truly blessed! \b
 
-
-\q1
-</usfm>
+\q1 </usfm>
 
 ===== ULB: =====
 
-<usfm>
-\c 32
-\d A psalm of David. A maschil.
-\b
-\q
-\v 1 Blessed is the one whose transgression is forgiven,
-\q whose sin is covered.
-\q
-\v 2 Blessed is the man to whom Yahweh reckons no guilt
-\q and in whose spirit there is no deceit.
-</usfm>
+<usfm> \c 32 \d A psalm of David. A maschil. \b \q \v 1 Blessed is the one whose transgression is forgiven, \q whose sin is covered. \q \v 2 Blessed is the man to whom Yahweh reckons no guilt \q and in whose spirit there is no deceit. </usfm>
 
 ===== Important Terms: =====
 
@@ -58,10 +28,10 @@
 
 ===== Translation Notes: =====
 
+  * ** A psalm of David. ** - AT: "A Psalm that David wrote."
   * **maschil**  - See how you translated this in [[:en:bible:notes:psa:032:001|Psalms 032:1-2]].
   * **Blessed is the one whose transgression is forgiven, whose sin is covered**  - AT: "God blesses those he forgives and covers their sin." (active/passive)
   * **Blessed is the man to whom Yahweh reckons no guilt and in whose spirit there is no deceit****.**  - AT: "God blesses those He finds not guilty and who are not deceitful." (active/passive)
-
 ===== Links: =====
 
   * **[[:en:bible:questions:comprehension:psa:032|Psalms Chapter 032 Comprehension Questions]]**
