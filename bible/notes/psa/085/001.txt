@@ -1,86 +1,51 @@
 ====== Psalms 085:1-2 ======
 
-
 ===== TFT: =====
 
-<usfm>
-\v 1 Yahweh, you have acted kindly toward \add us people who live in\add* this land;
-\q1 you have enabled us Israelite people to become prosperous again.
-\q1
-\v 2 You forgave us, your people, for the sins that we had committed;
-\q2 you pardoned us for all our sins \f + \ft doublet \f*.
-\qr (Think about that!)
-\q1
-</usfm>
-
+<usfm> \v 1 Yahweh, you have acted kindly toward \add us people who live in\add* this land; \q1 you have enabled us Israelite people to become prosperous again. \q1 \v 2 You forgave us, your people, for the sins that we had committed; \q2 you pardoned us for all our sins \f + \ft doublet \f*. \qr (Think about that!) \q1 </usfm>
 
 ===== UDB: =====
 
-<usfm>
-\v 1 Yahweh, you have acted kindly toward us people who live in this land;
-\q1 you have enabled us Israelite people to become prosperous again.
-\q1
-\v 2 You forgave us, your people, for the sins that we had committed;
-\q2 you pardoned us for all our sins.
+<usfm> \v 1 Yahweh, you have acted kindly toward us people who live in this land; \q1 you have enabled us Israelite people to become prosperous again. \q1 \v 2 You forgave us, your people, for the sins that we had committed; \q2 you pardoned us for all our sins.
 
-
-
-\q1
-</usfm>
-
+\q1 </usfm>
 
 ===== ULB: =====
 
-<usfm>
-\c 85
-\d For the chief musician. A psalm of the sons of Korah.
-\b
-\q
-\v 1 Yahweh, you have showed favor to your land;
-\q you have restored the well-being of Jacob.
-\q
-\v 2 You have forgiven the sin of your people;
-\q you have covered all their sin. 
-\qs Selah\qs*
-</usfm>
-
+<usfm> \c 85 \d For the chief musician. A psalm of the sons of Korah. \b \q \v 1 Yahweh, you have showed favor to your land; \q you have restored the well-being of Jacob. \q \v 2 You have forgiven the sin of your people; \q you have covered all their sin. \qs Selah\qs* </usfm>
 
 ===== Important Terms: =====
 
-  * [[:en:obe:other:psalm]]
-  * [[:en:obe:kt:son]]
-  * [[:en:obe:other:korah]]
-  * [[:en:obe:kt:yahweh]]
-  * [[:en:obe:kt:favor]]
-  * [[:en:obe:kt:restore]]
-  * [[:en:obe:other:jacob]]
-  * [[:en:obe:kt:forgive]]
-  * [[:en:obe:kt:sin]]
-  * [[:en:obe:other:peoplegroup]]
-  * [[:en:obe:other:selah]]
- 
+  * [[:en:obe:other:psalm|psalm]]
+  * [[:en:obe:kt:son|son]]
+  * [[:en:obe:other:korah|korah]]
+  * [[:en:obe:kt:yahweh|Yahweh]]
+  * [[:en:obe:kt:favor|favor, favorable, favoritism]]
+  * [[:en:obe:kt:restore|restore, restoration]]
+  * well-being
+  * [[:en:obe:other:jacob|Jacob, Israel]]
+  * [[:en:obe:kt:forgive|forgive, forgiveness]]
+  * [[:en:obe:kt:sin|sin, sinful, sinner, sinning]]
+  * [[:en:obe:other:peoplegroup|people group, people]]
+  * [[:en:obe:other:selah|selah]]
 
 ===== Translation Notes: =====
 
+  * **Yahweh**  - "God" or "Yahweh"
+  * **You have shown favor to your land.**  - Here, "land" refers to the nation and people of Israel. (See: "Explicit and Implicit Information" and See: "Personification")
+  * **You have restored the well-being**
+ - You, our God, have brought prosperity back"
+  * **Jacob**  - "Israel" or "the Israeli people" (See: "Metonymy")
+  * **the sin of your people**  - This refers to "wrong actions, words, or thoughts" of the people of Israel.
+  *
 
-    * **bold words**  - explanation
-    * **bold words**  - explanation
-    * **bold words**  - explanation
-    * **bold words**  - explanation
-    * **bold words**  - explanation
-    * **bold words**  - explanation
-  
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:psa:085|Psalms Chapter 085 Comprehension Questions]]**
+  * **[[:en:bible:questions:comprehension:psa:085|Psalms Chapter 085 Comprehension Questions]]**
+**[[:en:bible:notes:psa:084:011|<<]] | [[:en:bible:notes:psa:085:003|>>]]**
 
- 
+~~DISCUSSION~~{{tag>draft book3}}
 
-**[[en/bible/notes/psa/084/011|<<]] | [[en/bible/notes/psa/085/003|>>]]**
-
-~~DISCUSSION~~
-
-
-{{tag>draft book3}}
+The word "well-being" should be added to the Important Terms List.
 
 ~~NOCACHE~~
