@@ -1,7 +1,8 @@
 ===== Publish Content to unfoldingWord =====
 
 This module answers the question: How do I publish content to unfoldingWord?\\
-Before you start this module have you learned about: [[en:ta:vol1:tech:ts_share|Share Your Work]]
+Before you start this module have you learned about:
+  * [[en:ta:vol1:tech:ts_share|Share Your Work]]
 
 When you publish your work there are several steps to the process. The process begins in translationStudio when you select the **Publish** button. The process continues in Door43 when you submit the Request to Publish form for your updated text. 
 The Request to Publish form includes several pieces of data such as your contact information, the requested checking level, translation contributors, etc. The person who reviews the request will verify that each contributor provided a legal signature.\\

@@ -1,7 +1,8 @@
 ===== Navigate in translationStudio =====
 
 This module answers the question: How do I navigate in translationStudio?\\
-Before you start this module have you learned about: [[en:ta:vol1:tech:ts_install|Install translationStudio on an Android Device]]
+Before you start this module have you learned about:
+  * [[en:ta:vol1:tech:ts_install|Install translationStudio on an Android Device]]
 
 The first time you use translationStudio, the app will prompt you to set your languages and then return you to the **Edit Screen**. Otherwise you will begin at the **Edit Screen**.\\
 

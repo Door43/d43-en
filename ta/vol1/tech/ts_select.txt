@@ -1,7 +1,8 @@
 ===== Select Source and Target Languages =====
 
 This module answers the question: How do I select source and target languages?\\
-Before you start this module have you learned about: [[en:ta:vol1:tech:ts_install|Install translationStudio on an Android Device]]
+Before you start this module have you learned about:
+  * [[en:ta:vol1:tech:ts_install|Install translationStudio on an Android Device]]
 
 You can select and change your source language and target language whenever you use translationStudio.\\
 

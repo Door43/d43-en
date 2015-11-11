@@ -8,7 +8,7 @@ edge [arrowsize=1.4];
 "Translation" [fillcolor="#99ff99"]
 "Checking" [fillcolor="#9999ff"]
 "Technology" [fillcolor="#ffff99"]
-"PROCESS MANUAL" [fillcolor="#99ffff"]
+"Process" [fillcolor="#99ffff"]
 "acceptable" [fillcolor="#9999ff"]
 "clear" -> "acceptable"
 "accuracy_check" [fillcolor="#9999ff"]
@@ -131,52 +131,52 @@ edge [arrowsize=1.4];
 "uw_intro" [fillcolor="#ff9999"]
 "ta_intro" -> "uw_intro"
 "audio_software" [fillcolor="#99ffff"]
-"PROCESS MANUAL" -> "audio_software"
+"Process" -> "audio_software"
 "door43_translation" [fillcolor="#99ffff"]
 "pretranslation_training" -> "door43_translation"
 "setup_door43" -> "door43_translation"
 "getting_started" [fillcolor="#99ffff"]
 "process_manual" -> "getting_started"
 "intro_publishing" [fillcolor="#99ffff"]
-"PROCESS MANUAL" -> "intro_publishing"
+"Process" -> "intro_publishing"
 "intro_share" [fillcolor="#99ffff"]
-"PROCESS MANUAL" -> "intro_share"
+"Process" -> "intro_share"
 "platforms" [fillcolor="#99ffff"]
 "getting_started" -> "platforms"
 "prechecking_training" [fillcolor="#99ffff"]
-"PROCESS MANUAL" -> "prechecking_training"
+"Process" -> "prechecking_training"
 "pretranslation_training" [fillcolor="#99ffff"]
 "translate_process" -> "pretranslation_training"
 "translate_why" -> "pretranslation_training"
 "process_manual" [fillcolor="#99ffff"]
-"PROCESS MANUAL" -> "process_manual"
+"Process" -> "process_manual"
 "publishing_prereqs" [fillcolor="#99ffff"]
-"PROCESS MANUAL" -> "publishing_prereqs"
+"Process" -> "publishing_prereqs"
 "publishing_process" [fillcolor="#99ffff"]
-"PROCESS MANUAL" -> "publishing_process"
+"Process" -> "publishing_process"
 "required_checking" [fillcolor="#99ffff"]
-"PROCESS MANUAL" -> "required_checking"
+"Process" -> "required_checking"
 "setup_door43" [fillcolor="#99ffff"]
 "platforms" -> "setup_door43"
 "setup_tsandroid" [fillcolor="#99ffff"]
-"PROCESS MANUAL" -> "setup_tsandroid"
+"Process" -> "setup_tsandroid"
 "setup_word" [fillcolor="#99ffff"]
-"PROCESS MANUAL" -> "setup_word"
+"Process" -> "setup_word"
 "share_published" [fillcolor="#99ffff"]
-"PROCESS MANUAL" -> "share_published"
+"Process" -> "share_published"
 "share_unpublished" [fillcolor="#99ffff"]
-"PROCESS MANUAL" -> "share_unpublished"
+"Process" -> "share_unpublished"
 "toc_processvol1" [fillcolor="#99ffff"]
-"PROCESS MANUAL" -> "toc_processvol1"
+"Process" -> "toc_processvol1"
 "toc_processvol1_2" [fillcolor="#99ffff"]
-"PROCESS MANUAL" -> "toc_processvol1_2"
+"Process" -> "toc_processvol1_2"
 "toc_processvol2" [fillcolor="#99ffff"]
-"PROCESS MANUAL" -> "toc_processvol2"
+"Process" -> "toc_processvol2"
 "tsandroid_translation" [fillcolor="#99ffff"]
 "pretranslation_training" -> "tsandroid_translation"
 "setup_tsandroid" -> "tsandroid_translation"
 "upload_merge" [fillcolor="#99ffff"]
-"PROCESS MANUAL" -> "upload_merge"
+"Process" -> "upload_merge"
 "word_translation" [fillcolor="#99ffff"]
 "pretranslation_training" -> "word_translation"
 "setup_word" -> "word_translation"

@@ -1,7 +1,8 @@
 ===== How to Use the translationKeyboard in translationStudio =====
 
 This module answers the question: How do I use the translationKeyboard?\\
-Before you start this module have you learned about: [[en:ta:vol1:tech:tk_install|Install translationKeyboard on an Android Device]]
+Before you start this module have you learned about:
+  * [[en:ta:vol1:tech:tk_install|Install translationKeyboard on an Android Device]]
 
    * Tap the tS icon to open the program
    * the Edit window opens

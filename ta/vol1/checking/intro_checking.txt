@@ -1,7 +1,8 @@
 ===== Introduction to Translation Checking =====
 
 This module answers the question: Why do we do translation checking?\\
-Before you start this module have you learned about: [[en:ta:vol1:checking:intro_check|Introduction to the Checking Manual]]
+Before you start this module have you learned about:
+  * [[en:ta:vol1:checking:intro_check|Introduction to the Checking Manual]]
 
 ===== Translation Checking =====
 
@@ -29,5 +30,6 @@ The purpose of having several Checking Levels is to make translated materials qu
 
 
 
-Next we recommend you learn about: [[en:ta:vol1:checking:intro_levels|Introduction to the Checking Levels]]
+Next we recommend you learn about:
+  * [[en:ta:vol1:checking:intro_levels|Introduction to the Checking Levels]]
 

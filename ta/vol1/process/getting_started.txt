@@ -1,7 +1,8 @@
 ===== Getting Started =====
 
 This module answers the question: What do I need to have in place before getting started?\\
-Before you start this module have you learned about: [[en:ta:vol1:process:process_manual|Introduction to the Process Manual]]
+Before you start this module have you learned about:
+  * [[en:ta:vol1:process:process_manual|Introduction to the Process Manual]]
 
 Before getting started, you must be able to:
 
@@ -18,5 +19,6 @@ You should be able to:
 
 
 
-Next we recommend you learn about: [[en:ta:vol1:process:platforms|Selecting a Platform]]
+Next we recommend you learn about:
+  * [[en:ta:vol1:process:platforms|Selecting a Platform]]
 

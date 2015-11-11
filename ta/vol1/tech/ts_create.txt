@@ -1,7 +1,8 @@
 ===== Create and Edit Text =====
 
 This module answers the question: How do I create and edit text?\\
-Before you start this module have you learned about: [[en:ta:vol1:tech:ts_install|Install translationStudio on an Android Device]]
+Before you start this module have you learned about:
+  * [[en:ta:vol1:tech:ts_install|Install translationStudio on an Android Device]]
 
 This page tells how to create and edit text in translationStudio. The video {{:en:ta:tech:translating_in_ts_-_obs_v2.mp4|Translating in translationStudio}}  shows how to navigate to the scripture you want to translate and begin working. Or see Navigate in translationStudio.
 
