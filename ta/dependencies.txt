@@ -393,6 +393,9 @@ edge [arrowsize=1.4];
 "translation_guidelines" -> "guidelines_pure"
 "qualifications" [fillcolor="#99ff99"]
 "level1" -> "qualifications"
+"qualifications" [fillcolor="#99ff99"]
+"translate_whatis" -> "qualifications"
+"translate_why" -> "qualifications"
 "resources_intro" [fillcolor="#99ff99"]
 "translate_manual" -> "resources_intro"
 "resources_links" [fillcolor="#99ff99"]

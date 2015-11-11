@@ -55,3 +55,11 @@
 ===== pa =====
 ^Language   ^Publish Date   ^Version    ^Checking Level ^
 |  [[:en:uwadmin:pa:obs:status|ਪੰਜਾਬੀ, پنجابی‎]]  |  2015-11-05  |  4.2  |  {{https://api.unfoldingword.org/obs/jpg/1/checkinglevels/uW-Level1-32px.png}}  |
+
+===== hi =====
+^Language   ^Publish Date   ^Version    ^Checking Level ^
+|  [[:en:uwadmin:hi:obs:status|हिन्दी, हिंदी]]  |  2015-11-10  |  4.1  |  {{https://api.unfoldingword.org/obs/jpg/1/checkinglevels/uW-Level3-32px.png}}  |
+
+===== gu =====
+^Language   ^Publish Date   ^Version    ^Checking Level ^
+|  [[:en:uwadmin:gu:obs:status|ગુજરાતી]]  |  2015-11-10  |  3.2.1  |  {{https://api.unfoldingword.org/obs/jpg/1/checkinglevels/uW-Level1-32px.png}}  |
