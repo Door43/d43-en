@@ -1,82 +1,43 @@
 ====== Psalms 088:1-2 ======
 
-
 ===== TFT: =====
 
-<usfm>
-\v 1 Yahweh God, you who rescues me, all during each day I call out \add to you\add* to help me,
-\q1 and I cry out to you during each night also.
-\q1
-\v 2 Listen [IDI] to my prayer \f + \ft doublet \f*,
-\q2 while I cry out to you \add for help\add*!
-\b
-\q1
-</usfm>
-
+<usfm> \v 1 Yahweh God, you who rescues me, all during each day I call out \add to you\add* to help me, \q1 and I cry out to you during each night also. \q1 \v 2 Listen [IDI] to my prayer \f + \ft doublet \f*, \q2 while I cry out to you \add for help\add*! \b \q1 </usfm>
 
 ===== UDB: =====
 
-<usfm>
-\v 1 Yahweh God, you who rescue me, all during each day I call out to you to help me,
-\q1 and I cry out to you during each night also.
-\q1
-\v 2 Listen to my prayer
-\q2 while I cry out to you for help!
-\b
+<usfm> \v 1 Yahweh God, you who rescue me, all during each day I call out to you to help me, \q1 and I cry out to you during each night also. \q1 \v 2 Listen to my prayer \q2 while I cry out to you for help! \b
 
-
-\q1
-</usfm>
-
+\q1 </usfm>
 
 ===== ULB: =====
 
-<usfm>
-\c 88
-\d A song, a psalm of the sons of Korah; for the chief musician; set to the Mahalath Leannoth style. A maschil of Heman the Ezrahite.
-\b
-\q
-\v 1 Yahweh, God of my salvation,
-\q I cry out day and night before you.
-\q
-\v 2 Listen to my prayer;
-\q pay attention to my cry.
-</usfm>
-
+<usfm> \c 88 \d A song, a psalm of the sons of Korah; for the chief musician; set to the Mahalath Leannoth style. A song of Heman the Ezrahite. \b \q \v 1 Yahweh, God of my salvation, \q I cry out day and night before you. \q \v 2 Listen to my prayer; \q pay attention to my cry. </usfm>
 
 ===== Important Terms: =====
 
-  * [[:en:obe:other:psalm]]
-  * [[:en:obe:kt:son]]
-  * [[:en:obe:other:korah]]
-  * [[:en:obe:kt:yahweh]]
-  * [[:en:obe:kt:god]]
-  * [[:en:obe:kt:salvation]]
-  * [[:en:obe:other:pray]]
- 
+  * [[:en:obe:other:psalm|psalm]]
+  * [[:en:obe:kt:son|son]]
+  * [[:en:obe:other:korah|korah]]
+  * [[:en:obe:kt:yahweh|Yahweh]]
+  * [[:en:obe:kt:god|God]]
+  * [[:en:obe:kt:salvation|salvation]]
+  * [[:en:obe:other:pray|pray, prayer]]
 
 ===== Translation Notes: =====
 
-See: [[en:ta:workbench:translate:poetry]] and [[:en:ta:vol2:translate:figs_parallelism]]
+See: [[:en:ta:workbench:translate:poetry|Translating Poetry]] and [[:en:ta:vol2:translate:figs_parallelism|Parallelism]]
 
-    * **bold words**  - explanation
-    * **bold words**  - explanation
-    * **bold words**  - explanation
-    * **bold words**  - explanation
-    * **bold words**  - explanation
-    * **bold words**  - explanation
-  
+  * **a psalm of the sons of Korah; for the chief musician; ** AT: "This is a song composed by the sons of Korah for the chief musician."
+  * **set to the Mahalath Leannoth style **- This music is composed for musical instruments of Mahalath Leannoth."
+  * **Heman the Ezrahite **- This is a singer who possibly is a descendent of Ezra.
+  * ** Listen to my prayer; pay attention to my cry. ** - Please hear and answer my prayer. (See: Parallelism.)
+
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:psa:088|Psalms Chapter 088 Comprehension Questions]]**
+  * **[[:en:bible:questions:comprehension:psa:088|Psalms Chapter 088 Comprehension Questions]]**
+**[[:en:bible:notes:psa:087:007|<<]] | [[:en:bible:notes:psa:088:003|>>]]**
 
- 
-
-**[[en/bible/notes/psa/087/007|<<]] | [[en/bible/notes/psa/088/003|>>]]**
-
-~~DISCUSSION~~
-
-
-{{tag>draft book3}}
+~~DISCUSSION~~{{tag>draft book3}}
 
 ~~NOCACHE~~
