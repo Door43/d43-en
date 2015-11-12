@@ -1,78 +1,46 @@
 ====== Psalms 027:1 ======
 
-
 ===== TFT: =====
 
-<usfm>
-\v 1 Yahweh is the one who gives light \add to my soul\f + \ft Or: spirit \f*\add* and the one who saves me,
-\q2 so I do not \f + \ft rhetorical question \f* need to be afraid of anyone.
-\q1 Yahweh is the one to whom I go for refuge,
-\q2 so I will never be afraid.
-\q1
-</usfm>
-
+<usfm> \v 1 Yahweh is the one who gives light \add to my soul\f + \ft Or: spirit \f*\add* and the one who saves me, \q2 so I do not \f + \ft rhetorical question \f* need to be afraid of anyone. \q1 Yahweh is the one to whom I go for refuge, \q2 so I will never be afraid. \q1 </usfm>
 
 ===== UDB: =====
 
-<usfm>
-\v 1 Yahweh is the one who gives light to my soul and the one who saves me,
-\q2 so I do not  need to be afraid of anyone.
-\q1 Yahweh is the one to whom I go for refuge,
-\q2 so I will never be afraid.
+<usfm> \v 1 Yahweh is the one who gives light to my soul and the one who saves me, \q2 so I do not need to be afraid of anyone. \q1 Yahweh is the one to whom I go for refuge, \q2 so I will never be afraid.
 
-
-\q1
-</usfm>
-
+\q1 </usfm>
 
 ===== ULB: =====
 
-<usfm>
-\c 27
-\d A psalm of David.
-\b
-\q
-\v 1 Yahweh is my light and my salvation;
-\q whom should I fear?
-\q Yahweh is my life's refuge;
-\q whom should I dread?
-</usfm>
-
+<usfm> \c 27 \d A psalm of David. \b \q \v 1 Yahweh is my light and my salvation; \q whom should I fear? \q Yahweh is my life's refuge; \q whom should I dread? </usfm>
 
 ===== Important Terms: =====
 
-  * [[:en:obe:other:psalm]]
-  * [[:en:obe:other:david]]
-  * [[:en:obe:kt:yahweh]]
-  * [[:en:obe:kt:light]]
-  * [[:en:obe:kt:salvation]]
-  * [[:en:obe:kt:fear]]
-  * [[:en:obe:kt:life]]
-  * [[:en:obe:kt:refuge]]
- 
+  * [[:en:obe:other:psalm|psalm]]
+  * [[:en:obe:other:david|David]]
+  * [[:en:obe:kt:yahweh|Yahweh]]
+  * [[:en:obe:kt:light|light]]
+  * [[:en:obe:kt:salvation|salvation]]
+  * [[:en:obe:kt:fear|fear, afraid, fear of God, fear of Yahweh]]
+  * [[:en:obe:kt:life|life, live, living, alive]]
+  * [[:en:obe:kt:refuge|refuge]]
 
 ===== Translation Notes: =====
 
-See: [[en:ta:workbench:translate:poetry]] and [[:en:ta:vol2:translate:figs_parallelism]]
+See: [[:en:ta:workbench:translate:poetry|Translating Poetry]] and [[:en:ta:vol2:translate:figs_parallelism|Parallelism]]
 
-    * **bold words**  - explanation
-    * **bold words**  - explanation
-    * **bold words**  - explanation
-    * **bold words**  - explanation
-    * **bold words**  - explanation
-    * **bold words**  - explanation
-  
+  * **whom should I fear**
+ - AT: "what person" should I fear
+  * **bold words**  - explanation
+  * **bold words**  - explanation
+  * **bold words**  - explanation
+  * **bold words**  - explanation
+  * **bold words**  - explanation
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:psa:027|Psalms Chapter 027 Comprehension Questions]]**
+  * **[[:en:bible:questions:comprehension:psa:027|Psalms Chapter 027 Comprehension Questions]]**
+**[[:en:bible:notes:psa:026:011|<<]] | [[:en:bible:notes:psa:027:002|>>]]**
 
- 
-
-**[[en/bible/notes/psa/026/011|<<]] | [[en/bible/notes/psa/027/002|>>]]**
-
-~~DISCUSSION~~
-
-
-{{tag>draft book1}}
+~~DISCUSSION~~{{tag>draft book1}}
 
 ~~NOCACHE~~
