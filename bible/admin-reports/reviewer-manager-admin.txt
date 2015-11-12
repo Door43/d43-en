@@ -144,8 +144,7 @@
 
 == Book 3: Psalms 73-89 ==
 
-{{pagequery>@:en:bible:notes:psa:73 \{\{tag>[^}]*mgr[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=column; hidemsg;hidejump;showcount;fontsize=90%}}
-
+{{pagequery>@:en:bible:notes:psa:73 @:en:bible:notes:psa:74 @:en:bible:notes:psa:75 @:en:bible:notes:psa:76 @:en:bible:notes:psa:77 @:en:bible:notes:psa:78 @:en:bible:notes:psa:79 @:en:bible:notes:psa:80 @:en:bible:notes:psa:81 @:en:bible:notes:psa:82 @:en:bible:notes:psa:83 @:en:bible:notes:psa:84 @:en:bible:notes:psa:85 @:en:bible:notes:psa:86 @:en:bible:notes:psa:87 @:en:bible:notes:psa:88 @:en:bible:notes:psa:89 \{\{tag>[^}]*mgr[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=column; hidemsg;hidejump;showcount;fontsize=90%}}
 
 
 
