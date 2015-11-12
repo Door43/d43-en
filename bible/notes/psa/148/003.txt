@@ -2,38 +2,17 @@
 
 ===== TFT: =====
 
-<usfm>
-\v 3 Sun and moon, you also praise him!
-\q2 You shining stars, you praise him!
-\q1
-\v 4 You highest heavens, praise him!
-\q2 And you waters that are high above the sky, praise him!
-\q1
-</usfm>
+<usfm> \v 3 Sun and moon, you also praise him! \q2 You shining stars, you praise him! \q1 \v 4 You highest heavens, praise him! \q2 And you waters that are high above the sky, praise him! \q1 </usfm>
 
 ===== UDB: =====
 
-<usfm>
-\v 3 Sun and moon, you also praise him!
-\q2 You shining stars, you praise him!
-\q1
-\v 4 You highest heavens, praise him!
-\q2 You waters that are high above the sky, praise him!
+<usfm> \v 3 Sun and moon, you also praise him! \q2 You shining stars, you praise him! \q1 \v 4 You highest heavens, praise him! \q2 You waters that are high above the sky, praise him!
 
-
-\q1
-</usfm>
+\q1 </usfm>
 
 ===== ULB: =====
 
-<usfm>
-\q
-\v 3 Praise him, sun and moon;
-\q praise him, all you shining stars.
-\q
-\v 4 Praise him, highest heaven
-\q and you waters that are above the sky.
-</usfm>
+<usfm> \q \v 3 Praise him, sun and moon; \q praise him, all you shining stars. \q \v 4 Praise him, highest heaven \q and you waters that are above the sky. </usfm>
 
 ===== Important Terms: =====
 
@@ -42,9 +21,9 @@
 
 ===== Translation Notes: =====
 
-  * **praise him, sun and moon**- (See: [[:en:ta:vol2:translate:figs_personification]])
-  * with **shining stars**- (See: [[:en:ta:vol2:translate:figs_parallelism]])
-
+  * **praise him, sun and moon**- (See: [[:en:ta:vol2:translate:figs_personification|Personification]])
+  * **praise him, all you ****shining stars**- (See: [[:en:ta:vol2:translate:figs_parallelism|Parallelism, Personification) ]]
+  * **praise him, highest heaven and you waters **- (See Personification)
 ===== Links: =====
 
   * **[[:en:bible:questions:comprehension:psa:148|Psalms Chapter 148 Comprehension Questions]]**
