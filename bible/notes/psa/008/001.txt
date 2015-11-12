@@ -32,7 +32,7 @@
 ===== Translation Notes: =====
 
 <code>
-See: talink Translating Poetry and [[:en:ta:vol2:translate:figs_parallelism]]
+
 </code>
 
 <code>
@@ -44,6 +44,15 @@ See: talink Translating Poetry and [[:en:ta:vol2:translate:figs_parallelism]]
 AT: “This is a psalm of David"  or “This is a psalm that David wrote.”
 </code>
 
+<code>
+**bold words**
+  - explanation
+</code>
+
+  * **bold words**  - explanation
+  * **bold words**  - explanation
+  * **bold words**  - explanation
+  * **bold words**  - explanation
 ===== Links: =====
 
   * **[[:en:bible:questions:comprehension:psa:008|Psalms Chapter 008 Comprehension Questions]]**
