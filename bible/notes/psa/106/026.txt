@@ -2,52 +2,30 @@
 
 ===== TFT: =====
 
-<usfm>
-\v 26 So he solemnly \f + \ft metonymy \f* told them
-\q2 that he would cause them to die there in the desert,
-\q2
-\v 27 and that he would scatter their descendants among the \add people of\add* other nations\f + \ft Or: people \f*-groups \add who did not believe in him\add*,
-\q2 and that he would allow them to die in those lands.
-\b
-\q1
-</usfm>
+<usfm> \v 26 So he solemnly \f + \ft metonymy \f* told them \q2 that he would cause them to die there in the desert, \q2 \v 27 and that he would scatter their descendants among the \add people of\add* other nations\f + \ft Or: people \f*-groups \add who did not believe in him\add*, \q2 and that he would allow them to die in those lands. \b \q1 </usfm>
 
 ===== UDB: =====
 
-<usfm>
-\v 26 So he solemnly told them
-\q2 that he would cause them to die there in the wilderness,
-\q2
-\v 27 that he would scatter their descendants among the people of other nations and groups who did not believe in him,
-\q2 and that he would allow them to die in those lands.
-\b
+<usfm> \v 26 So he solemnly told them \q2 that he would cause them to die there in the wilderness, \q2 \v 27 that he would scatter their descendants among the people of other nations and groups who did not believe in him, \q2 and that he would allow them to die in those lands. \b
 
-
-\q1
-</usfm>
+\q1 </usfm>
 
 ===== ULB: =====
 
-<usfm>
-\q
-\v 26 Therefore he swore to them
-\q that he would let them die in the desert,
-\q
-\v 27 scatter their descendants among the nations,
-\q and scatter them in foreign lands.
-</usfm>
+<usfm> \q \v 26 Therefore he swore to them \q that he would let them die in the desert, \q \v 27 scatter their descendants among the nations, \q and scatter them in foreign lands. </usfm>
 
 ===== Important Terms: =====
 
-  * [[en:obe:other:oath]]
-  * [[en:obe:kt:death]]
-  * [[en:obe:other:desert]]
-  * [[en:obe:other:descendant]]
-  * [[en:obe:other:nation]]
-  * [[en:obe:other:foreigner]]
+  * [[:en:obe:other:oath|oath, swear]]
+  * [[:en:obe:kt:death|death, die, dead]]
+  * [[:en:obe:other:desert|desert, wilderness]]
+  * [[:en:obe:other:descendant|descendant]]
+  * [[:en:obe:other:nation|nation]]
+  * [[:en:obe:other:foreigner|foreigner, foreign]]
 
 ===== Translation Notes: =====
 
+  * **he swore to them**  - AT: "God swore to the Israelites" (See: Ambiguity)
   * **scatter their**  - AT: "He would scatter their" (See: Implicit/Explicit)
   * **scatter**  - separate and cause to go in different directions
   * **scatter them in foreign lands.**  - (See: Doublet)
