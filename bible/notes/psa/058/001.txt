@@ -12,7 +12,8 @@
 
 ===== ULB: =====
 
-<usfm> \c 58 \d For the chief musician; set to Al Tashheth. A psalm of David. A michtam. \b \q \v 1 Do you indeed in silence speak righteousness? \q Do you judge uprightly, you sons of men? \q \v 2 No, you work wickedness in your heart; \q **you weigh out the violence of your hands to the earth. **</usfm>
+<usfm> \c 58 \d For the chief musician; set to Al Tashheth. A psalm of David. A michtam. \b \q \v 1 Do you indeed in silence speak righteousness? \q Do you judge uprightly, you sons of men? \q \v 2 No, you work wickedness in your heart; \q you weigh out the violence of your hands to the earth. </usfm>
+
 ===== Important Terms: =====
 
   * [[:en:obe:other:psalm|psalm]]
@@ -26,6 +27,10 @@
 
 ===== Translation Notes: =====
 
+David wrote this song for the chief musician.
+
+  * **Al Tashheth** - See how you translated this in 57:1.
+  * **michtam** - See how you translated this in 16:1.
   * **Do you indeed in silence speak righteousness **  - The psalmist, David, is using this question to rebuke the mighty men who are judges. AT: " When you mighty men speak, you never say what is right." (See: Rhetorical Question)
   * **Do you judge uprightly, you sons of men **  - The psalmist, David, is using this question to emphasize that the mighty men judge unjustly. AT: "you never justly decide things about people." (See: Rhetorical Question)
   * **you work wickedness in your heart **- AT: "Your plans are to do what is wrong." (See Metonymy)
@@ -35,6 +40,6 @@
   * **[[:en:bible:questions:comprehension:psa:058|Psalms Chapter 058 Comprehension Questions]]**
 **[[:en:bible:notes:psa:057:009|<<]] | [[:en:bible:notes:psa:058:003|>>]]**
 
-~~DISCUSSION~~{{tag>draft book2}}
+~~DISCUSSION~~{{tag>check book2}}
 
 ~~NOCACHE~~
