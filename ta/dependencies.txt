@@ -80,7 +80,7 @@ edge [arrowsize=1.4];
 "level1" -> "peer_check"
 "self_check" -> "peer_check"
 "qualifications" [fillcolor="#9999ff"]
-"level1" -> "qualifications"
+"Checking" -> "qualifications"
 "self_check" [fillcolor="#9999ff"]
 "level1" -> "self_check"
 "first_draft" -> "self_check"
@@ -215,8 +215,6 @@ edge [arrowsize=1.4];
 "tS_create" -> "tS_footnote"
 "tS_install" [fillcolor="#ffff99"]
 "tS_intro" -> "tS_install"
-"tS_navigate" [fillcolor="#ffff99"]
-"tS_install" -> "tS_navigate"
 "tS_problem" [fillcolor="#ffff99"]
 "tS_intro" -> "tS_problem"
 "tS_publish" [fillcolor="#ffff99"]
@@ -256,6 +254,9 @@ edge [arrowsize=1.4];
 "uW_intro" -> "uW_language"
 "uW_select" [fillcolor="#ffff99"]
 "uW_install" -> "uW_select"
+"choose_team" [fillcolor="#99ff99"]
+"translate_whatis" -> "choose_team"
+"translate_why" -> "choose_team"
 "figs_123person" [fillcolor="#99ff99"]
 "figs_partsofspeech" -> "figs_123person"
 "figs_abstractnouns" [fillcolor="#99ff99"]
@@ -392,10 +393,7 @@ edge [arrowsize=1.4];
 "guidelines_intro" -> "guidelines_pure"
 "translation_guidelines" -> "guidelines_pure"
 "qualifications" [fillcolor="#99ff99"]
-"level1" -> "qualifications"
-"qualifications" [fillcolor="#99ff99"]
-"translate_whatis" -> "qualifications"
-"translate_why" -> "qualifications"
+"Translation" -> "qualifications"
 "resources_intro" [fillcolor="#99ff99"]
 "translate_manual" -> "resources_intro"
 "resources_links" [fillcolor="#99ff99"]
@@ -449,6 +447,12 @@ edge [arrowsize=1.4];
 "translate_manual" -> "translate_process"
 "translate_retell" [fillcolor="#99ff99"]
 "translate_process" -> "translate_retell"
+"translate_source_licensing" [fillcolor="#99ff99"]
+"Translation" -> "translate_source_licensing"
+"translate_source_text" [fillcolor="#99ff99"]
+"Translation" -> "translate_source_text"
+"translate_source_version" [fillcolor="#99ff99"]
+"Translation" -> "translate_source_version"
 "translate_terms" [fillcolor="#99ff99"]
 "translate_manual" -> "translate_terms"
 "translate_textvariants" [fillcolor="#99ff99"]
