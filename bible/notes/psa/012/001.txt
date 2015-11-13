@@ -1,68 +1,42 @@
 ====== Psalms 012:1 ======
 
-
 ===== TFT: =====
 
-<usfm>
-\v 1 Yahweh, help us!
-\q2 \add It seems that\add* people who are loyal to you have all vanished.
-\q1
-</usfm>
-
+<usfm> \v 1 Yahweh, help us! \q2 \add It seems that\add* people who are loyal to you have all vanished. \q1 </usfm>
 
 ===== UDB: =====
 
-<usfm>
-\v 1 Yahweh, help us! It seems like people who honor you are no more,
-\q2 that those who are loyal to you have all vanished.
+<usfm> \v 1 Yahweh, help us! It seems like people who honor you are no more, \q2 that those who are loyal to you have all vanished.
 
-
-\q1
-</usfm>
-
+\q1 </usfm>
 
 ===== ULB: =====
 
-<usfm>
-\c 12
-\d For the chief musician; set to the Sheminith. A psalm of David.
-\b
-\q
-\v 1 Help, Yahweh, for the godly have disappeared;
-\q the faithful have vanished.
-</usfm>
-
+<usfm> \c 12 \d For the chief musician; set to the Sheminith. A psalm of David. \b \q \v 1 Help, Yahweh, for the godly have disappeared; \q the faithful have vanished. </usfm>
 
 ===== Important Terms: =====
 
-  * [[:en:obe:other:psalm]]
-  * [[:en:obe:other:david]]
-  * [[:en:obe:kt:yahweh]]
-  * [[:en:obe:kt:godly]]
-  * [[:en:obe:kt:faithful]]
- 
+  * [[:en:obe:other:psalm|psalm]]
+  * [[:en:obe:other:david|David]]
+  * [[:en:obe:kt:yahweh|Yahweh]]
+  * [[:en:obe:kt:godly|godly, godliness]]
+  * [[:en:obe:kt:faithful|faithful, faithfulness]]
 
 ===== Translation Notes: =====
 
+See: talink Translating Poetry and [[:en:ta:vol2:translate:figs_parallelism]]
 
-    * **bold words**  - explanation
-    * **bold words**  - explanation
-    * **bold words**  - explanation
-    * **bold words**  - explanation
-    * **bold words**  - explanation
-    * **bold words**  - explanation
-  
+  * **Apsalm of David**
+ - This can also be written as a sentence. AT: “This is a psalm of David" or “This is a psalm that David wrote”
+  * **bold words**  - explanation
+  * **bold words**  - explanation
+  * **bold words**  - explanation
+  * **bold words**  - explanation
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:psa:012|Psalms Chapter 012 Comprehension Questions]]**
+  * **[[:en:bible:questions:comprehension:psa:012|Psalms Chapter 012 Comprehension Questions]]**
+**[[:en:bible:notes:psa:011:005|<<]] | [[:en:bible:notes:psa:012:002|>>]]**
 
- 
-
-**[[en/bible/notes/psa/011/005|<<]] | [[en/bible/notes/psa/012/002|>>]]**
-
-~~DISCUSSION~~
-
-
-{{tag>draft book1}}
+~~DISCUSSION~~{{tag>draft book1}}
 
 ~~NOCACHE~~
