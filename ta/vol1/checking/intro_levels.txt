@@ -8,30 +8,24 @@ Before you start this module have you learned about:
 
 Here are some important tips to remember when working with Checking Levels:
 
-   * Only translations that have reached Checking Level One or higher will be made available on the [[https://unfoldingword.org/stories|unfoldingWord website]] (https://unfoldingword.org/stories) and the unfoldingWord mobile app.
-   * Only translations that have reached Checking Level Three will be approved as source texts for other translations.
-   * When a Checking Level has been completed and all appropriate edits have been made to the translation on door43, the checkers will inform unfoldingWord of the details of the check, including who did the checking and their title or qualifications as a translation checker. unfoldingWord will then harvest a copy of what is on door43, digitally publish a static copy of it on the [[https://unfoldingword.org|unfoldingWord website]] (https://unfoldingword.org) and make it available on the unfoldingWord mobile app. A print-ready PDF will also be produced and made available for download. It will continue to be possible to change the checked version on door43, allowing for future checking and editing.
-   * For Open Bible Stories projects: Only Open Bible Stories translations that have been made from version 3.0 or higher of the English source text are eligible to be checked to Level One (or higher). Translations made from versions before 3.0 [[:en:ta:vol1:check:obs_update|must be updated]] before proceeding with Checking Levels.
+  * Only translations that have reached Checking Level One or higher will be made available on the [[https://unfoldingword.org/stories|unfoldingWord website]] (https://unfoldingword.org/stories) and the unfoldingWord mobile app.
+  * Only translations that have reached Checking Level Three will be approved as source texts for other translations.
+  * When a Checking Level has been completed and all appropriate edits have been made to the translation on door43, the checkers will inform unfoldingWord of the details of the check, including who did the checking and their title or qualifications as a translation checker. unfoldingWord will then harvest a copy of what is on door43, digitally publish a static copy of it on the [[https://unfoldingword.org|unfoldingWord website]] (https://unfoldingword.org) and make it available on the unfoldingWord mobile app. A print-ready PDF will also be produced and made available for download. It will continue to be possible to change the checked version on door43, allowing for future checking and editing.
+  * For Open Bible Stories projects: Only Open Bible Stories translations that have been made from version 3.0 or higher of the English source text are eligible to be checked to Level One (or higher). Translations made from versions before 3.0 [[:en:ta:vol1:check:obs_update|must be updated]] before proceeding with Checking Levels.
 
 ==== The Checking Levels ====
 
-The strategy for quality assurance of unfoldingWord content, including Open Bible Stories, is described briefly here and in detail in the document [[http://distantshores.org/resources/whitepapers/quality-assurance|“Quality Assurance of Open-License Biblical Content”]] (http://distantshores.org/resources/whitepapers/quality-assurance).
+The strategy for quality assurance of unfoldingWord content, including Open Bible Stories, is described briefly here and in detail at https://unfoldingword.org/quality/ .
 
 The three-level checking scale we use is dependent on the unfoldingWord [[:en:ta:vol1:intro:statement_of_faith]] and [[:en:ta:vol1:intro:translation_guidelines]]. All translated content is compared against the theology of the Statement of Faith and against the procedures and methodologies of the Translation Guidelines. With these documents forming the foundation, these are the three levels of checking used in the unfoldingWord project:
 
-[[:en:ta:vol1:checking:level1|Checking Level One - Affirmation by Translation Team]]
-
-[[:en:ta:vol1:checking:level2|Checking Level Two - Affirmation by Community]]
-
-[[:en:ta:vol1:checking:level3|Checking Level Three - Affirmation by Church Leadership]]
+  * [[:en:ta:vol1:checking:level1|Checking Level One - Affirmation by Translation Team]]
+  * [[:en:ta:vol1:checking:level2|Checking Level Two - Affirmation by Community]]
+  * [[:en:ta:vol1:checking:level3|Checking Level Three - Affirmation by Church Leadership]]
 
 ==== Checking the Checkers ====
 
-The process and checking framework described in this document depends on an ongoing process of checking and revising content, as determined by the Church that uses the content. Feedback loops are encouraged (and modeled in translation software, where feasible) with a view to maximizing input from the greatest number of users of the content. The translations of the content are made available on the [[http://door43.org|Door43]] (http://door43.org) translation platform, which is designed to make it easy for users to collaboratively create content that increases in quality over time.
-
-[[en:ta:vol1:translate:toc_transvol1|Translation Checking Manual Table of Contents Vol 1]]\\
-
-[[en:ta:vol2:translate:toc_transvol2|Translation Checking Manual Table of Contents Vol 2]]
+The process and checking framework described in this document depends on an ongoing process of checking and revising content, as determined by the Church that uses the content. Feedback loops are encouraged (and modeled in translation software, where feasible) with a view to maximizing input from the greatest number of users of the content. The translations of the content are made available on the ([[http://door43.org]]) translation platform, which is designed to make it easy for users to collaboratively create content that increases in quality over time.
 
 
 

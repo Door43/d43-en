@@ -52,26 +52,18 @@ This module answers the question: What is in Volume 1 of the translation manual?
     - [[en:ta:vol1:translate:resources_links]]
 
 === Just-in-Time Learning Part 1 ===
-
-== Translating Unknowns ==
   - [[en:ta:vol1:translate:translate_unknown]]
     - [[en:ta:vol1:translate:translate_names]]
-
-== Figures of Speech ==
   - [[en:ta:vol1:translate:figs_intro]]
     - [[en:ta:vol1:translate:figs_metaphor]]
     - [[en:ta:vol1:translate:figs_simile]]
     - [[en:ta:vol1:translate:figs_rquestion]]
     - [[en:ta:vol1:translate:figs_idiom]]
     - [[en:ta:vol1:translate:figs_irony]]
-
-== Grammar ==
   - [[en:ta:vol1:translate:figs_order]]
   - [[en:ta:vol1:translate:figs_you]]
     - [[en:ta:vol1:translate:figs_youdual]]
     - [[en:ta:vol1:translate:figs_yousingular]]
-
-== Other Modules ==
   - [[en:ta:vol1:translate:figs_explicit]]
     - [[en:ta:vol1:translate:figs_explicitinfo]]
   - [[en:ta:vol1:translate:figs_hypo]]

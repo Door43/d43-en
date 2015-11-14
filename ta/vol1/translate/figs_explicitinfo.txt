@@ -4,11 +4,14 @@ This module answers the question: How do I make implicit information explicit?\\
 Before you start this module have you learned about:
   * [[en:ta:vol1:translate:figs_explicit|Explicit and Implicit]]
 
+==== Explanation ====
+
 When a writer writes a message, he includes the information that his audience needs to know, and leaves out the information that he knows that they already know. When we translate a message, such as the Bible, for a new audience, they may not know some of that information that the original writer did not say. That is the implicit information. Because the author is counting on the audience knowing this implicit information, this information is also part of the message, even though it is not stated. So in the places where the target audience needs to know the implicit information in order to understand the text, and they do not know it, you must put it in the translation, either in the text or in a footnote.
 
 But translators need to be particularly sensitive when thinking about adding such information to the translation that is not stated explicitly in the source text because: 
   * Sometimes there will be things that are intentionally unclear in the text. In those cases, the translator should try to keep it unclear also in the translation, if it is possible to keep it unclear in the same way. 
   * It is not necessary to include all implicit information for the target audience to understand the text. There is a lot of information that the original audience knew about the things that are in the Bible. Only include the information that the target audience needs to know so that the message is clear, nothing more.
+
 The translator's goal should be to make sure that the reader understands the original meaning of the message. The translation should always have the same meaning as the source text had for its original audience, not more meaning, not less meaning, and not different meaning.
 
 Implicit information may be made explicit in order to make the translation clear if:
@@ -18,27 +21,28 @@ Implicit information may be made explicit in order to make the translation clear
   * No new information is added that is not part of the original message (do not add something just because you read it in a commentary),
   * the added information does not change the meaning, making it no longer true or accurate,
   * the added information is suitable to the original situation in which the message was given.
+
 As always, you need to ask yourself if your translation is communicating accurately and clearly what the original message was saying.
 
-===== Examples from the Bible =====
+==== Examples from the Bible ====
 
-**Ruth 2:14** //She ate all that she wanted and had some left over.//
+>//She ate all that she wanted and had some left over.// -Ruth 2:14
 
 Some languages may need to add an object where English (or whatever source language is being used) doesn't have one. Here, the implied object is "roasted grain" or simply "food." If the target language requires an object for these verbs, you could translate,  //She ate all __the roasted grain__ that she wanted and had some __food__ left over.//
 
-**Genesis 11:5 ** //So Yahweh came down to see the city and the tower which the descendants of Adam had built.//
+>//So Yahweh came down to see the city and the tower which the descendants of Adam had built.// -Genesis 11:5
  
 The phrase "came down" refers to **where** he came from. The place he came from was understood by the original readers. But if this sentence is unclear for the target audience, you may name the place to make the information explicit as in: //So Yahweh came down __from heaven__ to see the city and the tower which the descendants of Adam had built.//
 
-**Genesis 14:3** //These latter five kings joined together in the valley of Siddim (also called the Salt Sea).//
+>//These latter five kings joined together in the valley of Siddim (also called the Salt Sea).// -Genesis 14:3
  
 The information that the armies of the five kings were with these five kings was understood by the original readers. But if this information is not understood by the target audience, the information that their armies were with them can be made explicit: “These latter five kings __and their armies__ joined together....” 
 
-**Genesis 4:18** //To Enoch was born Irad. Irad became the father of Mehujael.//
+>//To Enoch was born Irad. Irad became the father of Mehujael.// -Genesis 4:18
  
 It is stated explicitly that Enoch had a child named Irad and that Irad had a child named Mehujael. The implied information is that Irad grew up to be a man and married a woman and through her, had a son. If the verse is confusing without this information for the target audience, you may add as much information as is necessary, such as, "Enoch grew up and married and became the father of a son whom he named Irad. When Irad grew up he became the father of a son whom he named Mehujael." 
  
-===== Examples from English =====
+==== Examples from English ====
 
   * David asks Susan: “Where is Joe?” David’s question is explicit because it is clearly stated and easily understood by Susan.
   * Susan answers, “At work.” Susan’s response leaves out who she is talking about - this information is implicit. But David understands that information and that her message is, in fact, “Joe is at work.”

@@ -4,9 +4,9 @@ This module answers the question: Why do we do translation checking?\\
 Before you start this module have you learned about:
   * [[en:ta:vol1:checking:intro_check|Introduction to the Checking Manual]]
 
-===== Translation Checking =====
+==== Translation Checking ====
 
-==== Introduction ====
+=== Introduction ===
 
 As part of the translation process, it is necessary that several people check the translation to make sure that it is clearly communicating the message that it should communicate. A beginning translator who was told to check his translation once said, “But I speak my native language perfectly. The translation is for that language. What more is needed?” What he said was true, but there are two more things to keep in mind. 
 
@@ -20,7 +20,7 @@ This is a guide to the process of checking, in the form of a scale with three le
 
 This checking scale helps to show the extent to which the accuracy and clarity of a translation have been verified. These checking levels have been developed by the [[https://unfoldingword.org|unfoldingWord network]] (https://unfoldingword.org), the same group that manages Door43 with the help of many volunteers, and they are used to indicate the checking level of all biblical content on Door43.
 
-==== The Checking Levels ====
+=== The Checking Levels ===
 
 There are three checking levels: [[:en:ta:vol1:checking:level1]], [[:en:ta:vol1:checking:level2]], and [[:en:ta:vol1:checking:level3]]. Any translation that has not yet been checked to Level One is considered to have not been checked and is assigned no checking status.
 

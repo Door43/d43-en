@@ -4,22 +4,32 @@ This module answers the question: What do I start translating?\\
 Before you start this module have you learned about:
   * [[en:ta:vol1:translate:translate_manual|Introduction to Translation Manual]]
 
-==== What To Start Translating ====
+==== What Should I Start Translating? ====
 
-We recommend that you begin by translating Open Bible Stories. You can work your way through the Stories in whatever order that you want, but we have found [[:en:obs:31|Story #31]] (https://door43.org/en/obs/31) is a good first story to translate since it is short and easy to understand.
+We recommend that you begin by translating Open Bible Stories. There are many good reasons to start by translating Open Bible Stories:
+  * Open Bible Stories was designed to be easily translated
+    * It is largely narrative
+    * Many difficult phrases and words have been substituted with words that are easier to translate
+    * It has many pictures to help the translator understand the text
+  * Open Bible Stories a much shorter project than the Bible or even the New Testament which can be quickly completed
+  * Since it is not Scripture, Open Bible Stories removes the fear that many translators have of translating the Word of God
+  * Translating Open Bible Stories first gives the translators some much needed experience in translation
+    * Experience in how to translate
+    * Experience in creating a translation and checking team
+    * Experience in doing the translation and checking process
+    * Experience in resolving translation conflicts
+    * Expereince in getting church and community buy-in
+    * Experience in publishing and distributing content
+  * Open Bible Stories is a great missiological tool to teach the church, evangelize the lost, and train the translators on what the Bible is all about
 
-==== Translate from the Source Language ====
+You can work your way through the Stories in whatever order that you want, but we have found [[:en:obs:31|Story #31]] is a good first story to translate since it is short and easy to understand.
 
-Note: 
-
-   * "Source Language" refers to the language from which the translation is being done.
-   * "Target Language" refers to the language into which the translation is being done.
-
-After you find your target language and make sure that it is [[https://door43.org/obs-setup|set up]] (https://door43.org/obs-setup) on Door43, you can then choose the source language from a list of approved source languages. After that has been set up, the page for the target language translation will have the text of Open Bible Stories on it from the source language. The translator can then translate from the source language into the target language on that same page, and then delete the source language when translation is completed. 
+After completing Open Bible Stories, we encourage the translation team to start translating the Bible. We highly recommend starting with books that are largely narrative (like the Gospel of Mark) and saving the more didactic, theologically "heavy" books (like Romans) until later. 
 
 
 
 Next we recommend you learn about:
   * [[en:ta:vol1:translate:translate_help|Help with Translating]]
   * [[en:ta:vol1:translate:translate_whatis|What is Translation]]
+  * [[en:ta:vol1:process:platforms|Selecting a Platform]]
 

@@ -36,12 +36,12 @@ edge [arrowsize=1.4];
 "writing_decisions" -> "community_evaluation"
 "complete" [fillcolor="#9999ff"]
 "accurate" -> "complete"
-"first_draft" [fillcolor="#9999ff"]
-"level1" -> "first_draft"
-"goal_check" [fillcolor="#9999ff"]
-"intro_levels" -> "goal_check"
+"goal_checking" [fillcolor="#9999ff"]
+"intro_levels" -> "goal_checking"
 "good" [fillcolor="#9999ff"]
 "complete" -> "good"
+"headings" [fillcolor="#9999ff"]
+"acceptable" -> "headings"
 "important_term_check" [fillcolor="#9999ff"]
 "level1" -> "important_term_check"
 "peer_check" -> "important_term_check"
@@ -71,16 +71,16 @@ edge [arrowsize=1.4];
 "level3" -> "level3_questions"
 "natural" [fillcolor="#9999ff"]
 "alphabet" -> "natural"
-"obs_tQ" [fillcolor="#9999ff"]
-"intro_check" -> "obs_tQ"
-"intro_levels" -> "obs_tQ"
+"obs_tq" [fillcolor="#9999ff"]
+"intro_check" -> "obs_tq"
+"intro_levels" -> "obs_tq"
 "other_methods" [fillcolor="#9999ff"]
 "language_community_check" -> "other_methods"
 "peer_check" [fillcolor="#9999ff"]
 "level1" -> "peer_check"
 "self_check" -> "peer_check"
-"qualifications" [fillcolor="#9999ff"]
-"Checking" -> "qualifications"
+"self_assessment" [fillcolor="#9999ff"]
+"Checking" -> "self_assessment"
 "self_check" [fillcolor="#9999ff"]
 "level1" -> "self_check"
 "first_draft" -> "self_check"
@@ -109,10 +109,6 @@ edge [arrowsize=1.4];
 "vol2_intro" -> "vol2_steps"
 "vol2_things_to_check" [fillcolor="#9999ff"]
 "vol2_steps" -> "vol2_things_to_check"
-"writing_decisions" [fillcolor="#9999ff"]
-"language_community_check" -> "writing_decisions"
-"other_methods" -> "writing_decisions"
-"pretranslation_training" -> "writing_decisions"
 "finding_answers" [fillcolor="#ff9999"]
 "Introduction" -> "finding_answers"
 "gl_strategy" [fillcolor="#ff9999"]
@@ -406,6 +402,8 @@ edge [arrowsize=1.4];
 "Translation" -> "toc_transvol1_2"
 "toc_transvol2" [fillcolor="#99ff99"]
 "Translation" -> "toc_transvol2"
+"translate_alphabet" [fillcolor="#99ff99"]
+"translate_source_text" -> "translate_alphabet"
 "translate_discover" [fillcolor="#99ff99"]
 "translate_process" -> "translate_discover"
 "translate_dynamic" [fillcolor="#99ff99"]

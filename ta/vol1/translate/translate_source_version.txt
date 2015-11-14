@@ -2,11 +2,13 @@
 
 This module answers the question: How can version numbers help me select a source text?\\
 ==== Importance of Version Numbers ==== 
+
 Especially in an open project like unfoldingWord, it is important to keep track of published versions. It is important because translations (and source texts) can change frequently. Being able to identify each version helps bring clarity about which iteration is being talked about. Version numbers are also important because all translations should be based off of the latest source text. If the source text changes, the translation should be updated to match the latest version. 
 
 Before starting a translation project, please ensure that you have the latest version of the source text.
 
 ==== How Versioning Works ====
+
 Version numbers are only given when a work is published, not when they are edited (in Door43 or translationStudio). Edit revision is kept in Door43, but this is different than a work being given a version number.
 
 Prior to August 1, 2015, the versioning system used by unfoldingWord was very complex. Each major revision would increase the version number by 0.1 (e.g. ver 1 became ver 1.1) while each minor revision would change it by 0.0.1 (e.g. ver 1 became ver 1.0.1). When translations were created based off of a version number, it became widely complex to keep track of what translation was based off of which version. 
@@ -16,6 +18,7 @@ On August 1, 2015, a new versioning system was adopted. Each source text was giv
 //Note: For Open Bible Stories, all translations ver 3.x and before are the old system, ver 4 and above are the new system.//
 
 ==== Where to Find the Latest Version ====
+
 https://unfoldingword.org always has the latest published version of each resource. 
 
 //Note: translationStudio and the unfoldingWord app do not always have the latest versions since updating content does not happen automatically.//
@@ -23,6 +26,7 @@ https://unfoldingword.org always has the latest published version of each resour
 ==== How to Update a Previous Version of Open Bible Stories ====
 
 === Identify which Version of Open Bible Stories ===
+
 Many translations have the version number listed. If the version number is not available, figuring out which version a translation was based off of is important. 
 
 To figure out which version a particular translation was translated from, do the following:
@@ -32,6 +36,7 @@ To figure out which version a particular translation was translated from, do the
   * To make sure you have all the latest changes, look at the [[:en:obs:change-log|change log]] and make sure these changes have been made in your language.
   
 === Update to the Latest Version of Open Bible Stories ===
+
 Once you have identified which version of Open Bible Stories the translation in your language used, you will need to update the translation in your language to the latest version. To help simplify the update process, we have generated change logs of all of the changes that happened between [[https://door43.org/obs-diffs/ver_1-to-ver_3.html|version 1.x and the latest]] and [[https://door43.org/obs-diffs/ver_2-to-ver_3.html|version 2.x and the latest]]. Simply go through these changes and update the text in your language according to those documents, and your translation of Open Bible Stories will be up to date.
 
 

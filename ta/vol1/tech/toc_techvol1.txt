@@ -1,6 +1,9 @@
 ===== Table of Contents - Technology Manual Volume 1 =====
 
 This module answers the question: What is in volume 1 of the technology manual?\\
+==== Technology Manual Volume 1 ====
+
+=== translationStudio ===
   - [[en:ta:vol1:tech:tS_intro]]
      - [[en:ta:vol1:tech:tS_install]]
      - [[en:ta:vol1:tech:tS_first]]
@@ -15,6 +18,8 @@ This module answers the question: What is in volume 1 of the technology manual?\
      - [[en:ta:vol1:tech:tS_update]]
      - [[en:ta:vol1:tech:tS_publish]]
      - [[en:ta:vol1:tech:tS_problem]]
+
+=== translationKeyboard ===
   - [[en:ta:vol1:tech:tK_intro]] 
      - [[en:ta:vol1:tech:tK_install]]
      - [[en:ta:vol1:tech:tK_start]]
@@ -23,6 +28,8 @@ This module answers the question: What is in volume 1 of the technology manual?\
      - [[en:ta:vol1:tech:tK_find]]
      - [[en:ta:vol1:tech:tK_create]]
      - [[en:ta:vol1:tech:tK_update]]
+
+=== unfoldingWord Mobile App ===
   - [[en:ta:vol1:tech:uW_intro]]
      - [[en:ta:vol1:tech:uW_install]]
      - [[en:ta:vol1:tech:uW_first]]

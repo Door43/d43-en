@@ -1,32 +1,52 @@
 ===== Translate Unknowns =====
 
 This module answers the question: How do I translate words that I do not know?\\
+==== How to Translate Unknowns ====
+
 There are times that the source language will use words and ideas that are not familiar. If you do not know what the source word means, the Translation Notes and Important Terms pages will help you understand its meaning. Sometimes, however, a word in the source text is an object, animal, practice, or other thing that is not known to the people who speak the target language. The following information will help with translating these unknown things or concepts.
-===== Historical facts =====
+
+==== Historical facts ====
+
 It is very important to remember that if the term expresses a historical fact, then that fact must be kept in a translation. For example, in Mark 11:13, Jesus cursed a fig tree. To substitute any other kind of tree would be untrue to a historical fact. To translate this, follow one of the following options:
   * Use a general descriptive phrase, such as "a fruit tree."
   * Use a descriptive phrase with a borrowed word, such as "a tree that bears fruit called 'figs.'"
   * Use a borrowed word for the name of the tree: "a fig tree."
+
 For the last two choices, a footnote would be necessary to explain what "fig" means.
-Another example is In John 12:14-15 where it says that Jesus rode into Jerusalem on a donkey's colt, which fulfilled a prophecy in the the Old Testament.    Since it says that Jesus was sitting on a donkey's colt, which is a young donkey, the translation should not say that he sat on an ox, for example. If the word for "donkey" does not exist in the target language, a borrowed word could be used and explained in the text or in a footnote. For example, the text could say, “riding on the young of a kind of work animal called a ‘donkey.'”
+
+Another example is In John 12:14-15 where it says that Jesus rode into Jerusalem on a donkey's colt, which fulfilled a prophecy in the the Old Testament. Since it says that Jesus was sitting on a donkey's colt, which is a young donkey, the translation should not say that he sat on an ox, for example. If the word for "donkey" does not exist in the target language, a borrowed word could be used and explained in the text or in a footnote. For example, the text could say, “riding on the young of a kind of work animal called a ‘donkey.'”
+
 This is different from the use of an animal as part of a teaching or illustration. In that case, it is not a matter of historical fact. See the example of "wolf" below.
-==== Food and other objects ====
+
+=== Food and other objects ===
+
   * plow (vs hand planting)
       * See the example of translating '[[:en:bible:notes:luk:09:61|plow]]' in Luke 9:62.
   * grapes, vineyard
   * wheat
   * bread
   * numbers, numerals
-==== Animals ====
+
+=== Animals ===
+
 An example of the use of an animal in the Bible as an illustration is in John 10:12 where the word "wolf" is used as a way to describe a person who is harmful to God's people. There are many things to describe about a wolf but what is important in this verse is that it is a fierce and dangerous animal that frightens and harms the sheep.
+
 If a wolf is an unknown animal in your culture, you could substitute an animal that looks similar and that has similar characteristics. For example, large wild dogs are similar to wolves. They attack and eat other animals, such as lambs. So “wolves” could be translated with a generic term like “wild dogs” or “fierce dogs” or with the name of a specific animal like a dog that your people know of, such as “coyotes” or “jackals.” You could also use a general descriptive phrase such as, "a dangerous wild animal" that focuses on the characteristics that are being highlighted in the text.
+
 Also see the Translation Note at Luke 10:3 for other translation suggestions for [[:en:bible:notes:luk:10:03|"wolf."]]
-==== Cultural practices ====
+
+=== Cultural practices ===
+
 There might be many differences between the biblical culture and the target language culture. Sometimes a cultural substitute can be used. But be careful not to change any historical facts (see explanation above).
+
 The unknown biblical practice could be explained in a footnote or Bible teaching. The explanations could include a known cultural practice that has the same meaning as the one described in the Bible text. For example, in Jewish culture, grief and repentance for sin were shown by wearing a rough type of cloth (sackcloth) and putting ashes on the head. Wailing was another sign of grief. In other cultures grief may be shown in different ways. But if this practice was something that actually happened it needs to be recorded as such, with an explanation that tells what it means, perhaps using a practice from the target culture that has the same meaning.
+
 For example, in certain cultures when men greeted other men who were family or friends, they would kiss them on one cheek or both cheeks. This can be translated as “to greet him with a kiss” or “to greet him by kissing him.” If this is not done in your culture, you could explain it with a footnote. If your readers would find it embarrassing or inappropriate to say that a man would kiss another man, you could translate it in a more general way such as, “to give him a friendly greeting.”
+
 See the example of [[:en:bible:notes:luk:22:47|'greet with a kiss']] in Luke 22:47.
-===== Translation Suggestions =====
+
+==== Translation Suggestions ====
+
 Here are suggestions to keep in mind when translating a term that is not familiar in your language:
   * Use a descriptive phrase. You will most likely need to use a phrase to explain the meaning of the unknown word. It is important only to describe the part of the meaning which is being used in the particular verse being translated.
   * Substitute something similar. At times the exact word may be unknown to the people of the target language but there might be something similar that could be used in its place. Only do this if the term does not express a historical fact.
