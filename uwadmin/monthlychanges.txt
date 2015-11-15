@@ -237,6 +237,8 @@
 {{changes>ns=lae:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:lgg:obs|lgg OBS]]**
 {{changes>ns=lgg:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
+**[[:lih:obs|lih OBS]]**
+{{changes>ns=lih:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:lki:obs|lki OBS]]**
 {{changes>ns=lki:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:lmn:obs|lmn OBS]]**

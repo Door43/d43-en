@@ -355,6 +355,9 @@
 **[[:lgg:obs|lgg OBS]]**
 {{changes>ns=lgg:obs&maxage=604800&render=pagelist(header,date,user,nocomments)}}
 
+**[[:lih:obs|lih OBS]]**
+{{changes>ns=lih:obs&maxage=604800&render=pagelist(header,date,user,nocomments)}}
+
 **[[:lki:obs|lki OBS]]**
 {{changes>ns=lki:obs&maxage=604800&render=pagelist(header,date,user,nocomments)}}
 
