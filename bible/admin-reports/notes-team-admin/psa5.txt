@@ -12,10 +12,9 @@ Reviewer - (//review to publish//) -
   * [[:en:udb:ep:19-psa.usfm|Full UDB text of Psalms]]
   * [[:en:bible:team-info:training:notes-training|Notes Training]]
 
-
 ==== Psalms Book 5 Page Status ====
 
-^  Draft  ^  Check  ^  Review  ^
+^  Draft  ^  Check  ^  Review  |
 |{{pagequery>@:en:bible:notes:psa \{\{tag>(?=[^}]*draft)(?=[^}]*book5)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;showcount;fontsize=90%}} |{{pagequery>@:en:bible:notes:psa \{\{tag>(?=[^}]*check)(?=[^}]*book5)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;showcount;fontsize=90%}} |{{pagequery>@:en:bible:notes:psa \{\{tag>(?=[^}]*review)(?=[^}]*book5)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;showcount;fontsize=90%}} |
 
 \\
