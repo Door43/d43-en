@@ -1,0 +1,20 @@
+====== Notes: Psalms 119  Team Admin ======
+
+Team Lead (//draft to check//) - Becky Hancock\\
+Manager (//check to review//) -\\
+Reviewer - (//review to publish//) -
+
+~~NOCACHE~~
+
+=== Links: ===
+
+  * [[:en:ulb:ep:19-psa.usfm|Full ULB text of Psalms]]
+  * [[:en:udb:ep:19-psa.usfm|Full UDB text of Psalms]]
+  * [[:en:bible:team-info:training:notes-training|Notes Training]]
+
+==== Psalms Book 5 Page Status ====
+
+^  Draft  ^  Check  ^  Review  |
+|{{pagequery>@:en:bible:notes:psa:119 \{\{tag>(?=[^}]*draft)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;showcount;fontsize=90%}} |{{pagequery>@:en:bible:notes:psa:119 \{\{tag>(?=[^}]*check)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;showcount;fontsize=90%}} |{{pagequery>@:en:bible:notes:psa:119 \{\{tag>(?=[^}]*review)(?=[^}]*book5)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;showcount;fontsize=90%}} |
+
+\\
