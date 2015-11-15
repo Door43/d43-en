@@ -80,7 +80,7 @@ edge [arrowsize=1.4];
 "level1" -> "peer_check"
 "self_check" -> "peer_check"
 "self_assessment" [fillcolor="#9999ff"]
-"Checking" -> "self_assessment"
+"complete" -> "self_assessment"
 "self_check" [fillcolor="#9999ff"]
 "level1" -> "self_check"
 "first_draft" -> "self_check"

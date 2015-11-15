@@ -214,6 +214,9 @@
 **[[:gof:obs|gof OBS]]**
 {{changes>ns=gof:obs&maxage=604800&render=pagelist(header,date,user,nocomments)}}
 
+**[[:gsg:obs|gsg OBS]]**
+{{changes>ns=gsg:obs&maxage=604800&render=pagelist(header,date,user,nocomments)}}
+
 **[[:gu:obs|gu OBS]]**
 {{changes>ns=gu:obs&maxage=604800&render=pagelist(header,date,user,nocomments)}}
 
