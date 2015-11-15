@@ -18,3 +18,7 @@ Reviewer - (//review to publish//) -
 |{{pagequery>@:en:bible:notes:psa:119 \{\{tag>(?=[^}]*draft)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;showcount;fontsize=90%}} |{{pagequery>@:en:bible:notes:psa:119 \{\{tag>(?=[^}]*check)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;showcount;fontsize=90%}} |{{pagequery>@:en:bible:notes:psa:119 \{\{tag>(?=[^}]*review)(?=[^}]*book5)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;showcount;fontsize=90%}} |
 
 \\
+^  Text  ^  Fixed  ^  Discuss  ^  Publish  ^
+|{{pagequery>@:en:bible:notes:psa:119 \{\{tag>(?=[^}]*text)(?=[^}]*book5)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;showcount;fontsize=90%}} |{{pagequery>@:en:bible:notes:psa:119 \{\{tag>(?=[^}]*fixed)(?=[^}]*book5)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;showcount;fontsize=90%}} |{{pagequery>@:en:bible:notes:psA:119 \{\{tag>(?=[^}]*discuss)(?=[^}]*book5)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;showcount;fontsize=90%}} |{{pagequery>@:en:bible:notes:psa:119 \{\{tag>(?=[^}]*publish)(?=[^}]*book5)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;showcount;fontsize=90%}} |
+
+\\
