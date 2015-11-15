@@ -601,6 +601,9 @@
 **[[:taz:obs|taz OBS]]**
 {{changes>ns=taz:obs&maxage=604800&render=pagelist(header,date,user,nocomments)}}
 
+**[[:tbf:obs|tbf OBS]]**
+{{changes>ns=tbf:obs&maxage=604800&render=pagelist(header,date,user,nocomments)}}
+
 **[[:tcy:obs|tcy OBS]]**
 {{changes>ns=tcy:obs&maxage=604800&render=pagelist(header,date,user,nocomments)}}
 
