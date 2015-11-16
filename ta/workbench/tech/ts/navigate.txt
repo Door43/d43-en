@@ -19,14 +19,28 @@ From the edit screen:
   - Follow the directions above.
 
 
+----
+
 **VERSION 3** Navigate in tS\\
-  - Above the left side of the **Edit Screen**  select from **Projects**, **Chapters**  or **Frames**  to navigate between books, chapters, or specific sections of text.
-      - Select **Projects**  to navigate between Open Bible Stories, The Old Testament, or the New Testament.
-      - Select **Chapters **  to navigate between stories if you are in Open Bible Stories, or between books of the Bible if you are in the Old or New Testament.
-      - Select **Frames **  to navigate between story paragraphs if you are in Open Bible Stories or verses in the Bible.
-  - When you locate the frame where you want to work, you can swipe back and forth to move between frames of text.
+The navigation and menu icons are on the left side of the screen. The top three icons are the working views, the slider moves through the story, the menu is the three dots.
+ 
+==== Working Icons ====
+The **Chapter or Story** icon is the top left and looks like full sheets of paper. Swipe up to read the entire chapter or story. Swipe to the side for a blank page to type in the target language translation of the text.\\
 
+The **Chunk** icon is the middle icon on the left and looks like a solid line square over a dotted line square. Swipe down or up to move from chunk to chunk (a small section of the story or chapter). Swipe  to the side for a blank page to type in the target language translation of the text.\\
 
+The **Check** icon is the bottom icon on the left and looks like a clipboard with a check mark. In this view the source text is on the left, the translation work is on the right. Swipe to the side to show the resources for that chunk. (See: [[en:ta:workbench:tech:ts:resources]]) Swipe up or down to move from chunk to chunk.
+
+==== Slider ====
+The **Slider** icon is a quick way to move through a story or book of the Bible.  Tap-and-hold the dot and swipe towards the bottom or the top of the slider. 
+
+==== Three Dots Menu ====
+Tap on the **three dots** to open the working menu. 
+  * My Translations [[en:ta:vol1:tech:ts_open]]
+  * Publish [[en:ta:vol1:tech:ts_publish]]
+  * Backup [[en:ta:vol1:tech:ts_share]]
+  * Feedback
+  * Settings
 
 ----
 **VERSION 2**\\
