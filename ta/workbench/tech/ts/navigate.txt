@@ -1,5 +1,35 @@
 ===== Navigate in translationStudio =====
+**VERSION 3** Open a Translation\\
+The first time you use translationStudio, the app will prompt to set the target language and then return to the **"My Translation Projects" Menu**. Otherwise you will begin at the **My Translation Projects Menu**.
 
+==== Complete these steps to open a Translation Project ====
+
+From the "My Translation Projects" Menu:
+  - Tap on the + in the blue circle icon located at the top right of the screen.
+  - Choose the target language 
+    - Tap on the language 
+    - Scroll to find the language
+  - Tap on to choose either the Bible:NT, Bible:OT, or Open Bible Stories
+    - Tap on a book of the Bible or Open Bible Stories opens on story 1
+  - Tap on a Source Language to choose one or more languages (See: [[en:ta:vol1:tech:ts_select]] for more information)
+
+From the edit screen:
+  - Tap on 3 dots located at bottom left of the screen.
+  - Choose 'My Translations' from the menu.
+  - Follow the directions above.
+
+
+**VERSION 3** Navigate in tS\\
+  - Above the left side of the **Edit Screen**  select from **Projects**, **Chapters**  or **Frames**  to navigate between books, chapters, or specific sections of text.
+      - Select **Projects**  to navigate between Open Bible Stories, The Old Testament, or the New Testament.
+      - Select **Chapters **  to navigate between stories if you are in Open Bible Stories, or between books of the Bible if you are in the Old or New Testament.
+      - Select **Frames **  to navigate between story paragraphs if you are in Open Bible Stories or verses in the Bible.
+  - When you locate the frame where you want to work, you can swipe back and forth to move between frames of text.
+
+
+
+----
+**VERSION 2**\\
 The first time you use translationStudio, the app will prompt you to set your languages and then return you to the **Edit Screen**. Otherwise you will begin at the **Edit Screen**.
 
 The video {{:en:ta:tech:translating_in_ts_-_obs_v2.mp4|Translating in translationStudio}}  shows how to navigate in the app.  You can watch the video or complete these steps to find the text you wish to translate:
@@ -16,5 +46,6 @@ Go back to the __[[https://door43.org/en/ta/tech/ts|translationStudio]]__ page.
 
 ----
 
-https://pad.door43.org/p/ta-tS_navigate
+https://pad.door43.org/p/ta-tS_navigate\\
+https://pad.door43.org/p/ta-ts_open
 {{tag>epady}}
