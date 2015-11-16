@@ -1,83 +1,44 @@
 ====== Psalms 017:1-2 ======
 
-
 ===== TFT: =====
 
-<usfm>
-\v 1 Yahweh, listen to me while I plead with you to act justly toward me.
-\q2 Hear me while I call out to you to help me.
-\q1 Pay attention to what I say while I pray
-\q2 because I am speaking \f + \ft metonymy \f* honestly\f + \ft Or: truthfully \f*.
-\q1
-\v 2 You are the one who is able to declare that I am innocent\f + \ft Or: have not done anything that was wrong \f*
-\q2 because you see\f + \ft Or: know \f* that I am telling the truth.
-\b
-\q1
-</usfm>
-
+<usfm> \v 1 Yahweh, listen to me while I plead with you to act justly toward me. \q2 Hear me while I call out to you to help me. \q1 Pay attention to what I say while I pray \q2 because I am speaking \f + \ft metonymy \f* honestly\f + \ft Or: truthfully \f*. \q1 \v 2 You are the one who is able to declare that I am innocent\f + \ft Or: have not done anything that was wrong \f* \q2 because you see\f + \ft Or: know \f* that I am telling the truth. \b \q1 </usfm>
 
 ===== UDB: =====
 
-<usfm>
-\v 1 Yahweh, listen to me while I plead with you to act justly toward me.
-\q2 Hear me while I call out to you to help me.
-\q1 Pay attention to what I say while I pray
-\q2 because I am speaking honestly.
-\q1
-\v 2 You are the one who is able to declare that I am innocent;
-\q2 please agree to do what is right for me.
-\b
+<usfm> \v 1 Yahweh, listen to me while I plead with you to act justly toward me. \q2 Hear me while I call out to you to help me. \q1 Pay attention to what I say while I pray \q2 because I am speaking honestly. \q1 \v 2 You are the one who is able to declare that I am innocent; \q2 please agree to do what is right for me. \b
 
-
-\q1
-</usfm>
-
+\q1 </usfm>
 
 ===== ULB: =====
 
-<usfm>
-\c 17
-\d A prayer of David.
-\b
-\q
-\v 1 Listen to my plea for justice, Yahweh; pay attention to my cry!
-\q Give ear to my prayer from lips without deceit.
-\q
-\v 2 Let my vindication come from your presence; let your eyes see what is right!
-</usfm>
-
+<usfm> \c 17 \d A prayer of David. \b \q \v 1 Listen to my plea for justice, Yahweh; pay attention to my cry! \q Give ear to my prayer from lips without deceit. \q \v 2 Let my vindication come from your presence; let your eyes see what is right! </usfm>
 
 ===== Important Terms: =====
 
-  * [[:en:obe:other:pray]]
-  * [[:en:obe:other:david]]
-  * [[:en:obe:kt:justice]]
-  * [[:en:obe:kt:yahweh]]
-  * [[:en:obe:kt:deceive]]
- 
+  * [[:en:obe:other:pray|pray, prayer]]
+  * [[:en:obe:other:david|David]]
+  * [[:en:obe:kt:justice|just, justice, justly]]
+  * [[:en:obe:kt:yahweh|Yahweh]]
+  * [[:en:obe:kt:deceive|deceive, deceived, deceiver, deception, deceptive, deceitful]]
 
 ===== Translation Notes: =====
 
-See: [[en:ta:workbench:translate:poetry]] and [[:en:ta:vol2:translate:figs_parallelism]] 
+See: [[:en:ta:workbench:translate:poetry|Translating Poetry]] and [[:en:ta:vol2:translate:figs_parallelism|Parallelism]]
 
-    * ******Give ear to my prayer from lips without deceit.******  -  Listen to my prayer which does not come from lying lips.
-    * **Let my vindication come from your presence; let your eyes see what is right!**  - Let my judgment come from Your presence; Let Your eyes look with equity!
-    * **bold words**  - explanation
-    * **bold words**  - explanation
-    * **bold words**  - explanation
-    * **bold words**  - explanation
-  
+  * **Give ear to my prayer from lips without deceit.**  - "Listen to my prayer which does not come from lying lips."
+  * **Let my vindication come from your presence; **
+ - "Let my judgment come from Your presence;"
+  * **let your eyes see what is right!**
+ -" you know what is true and just!"(See: Metonymy)
+  * **bold words**  - explanation
+  * **bold words**  - explanation
+  * **bold words**  - explanation
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:psa:017|Psalms Chapter 017 Comprehension Questions]]**
+  * **[[:en:bible:questions:comprehension:psa:017|Psalms Chapter 017 Comprehension Questions]]**
+**[[:en:bible:notes:psa:016:011|<<]] | [[:en:bible:notes:psa:017:003|>>]]**
 
- 
-
-**[[en/bible/notes/psa/016/011|<<]] | [[en/bible/notes/psa/017/003|>>]]**
-
-~~DISCUSSION~~
-
-
-{{tag>draft book1}}
+~~DISCUSSION~~{{tag>draft book1}}
 
 ~~NOCACHE~~
