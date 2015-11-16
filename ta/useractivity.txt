@@ -3,7 +3,10 @@
 
 
 Activity - Check
-{{changes>user=katalakay&count=300&render=pagelist(header,date,user,nocomments)&maxage=25920000}} 
+
+====== Mark ======
+
+{{changes>en:bible:notes:mrk&user=katalakay&count=1000&render=pagelist(header,date,user,nocomments)&maxage=25920000}} 
 
 Changes this week
 
