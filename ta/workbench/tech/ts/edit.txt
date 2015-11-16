@@ -1,4 +1,34 @@
 ===== Create and Edit Text =====
+**VERSION 3**\\
+==== Create Translation Text ====
+
+To create a new chapter in your language, navigate to the desired chapter, read the source text, swipe to the side for a blank page and tap on the **Begin Translating** icon. The icon will disappear, tap on the blank paper, keyboard will open and you can begin working. When you are finished working, you can navigate to a different chapter or exit the app.
+
+==== Save Translation Text ====
+
+Every five minutes, your work is saved automatically in your device memory. Your work is not saved on unfoldingWord until you upload your work. (See: [[en:ta:vol1:tech:ts_upload]])
+
+==== Edit Translation Text ====
+
+When you use translationStudio, you have the ability to create and change text. Use the **chunk** or **resources** views to edit existing work that you or another translator created. Your work will be saved automatically every five minutes.
+
+When you are finished working, you can navigate to a different chapter or exit the app.
+
+==== Delete Translation Text ====
+
+If you accidentally delete a large amount of work, contact [[helpdesk@door43.org]].
+
+----
+
+Go back to the __[[https://door43.org/en/ta/tech/ts|translationStudio]]__ page.
+
+----
+
+----
+
+**VERSION 2**\\
+
+===== Create and Edit Text =====
 
 This page tells how to create and edit text in translationStudio. The video {{:en:ta:tech:translating_in_ts_-_obs_v2.mp4|Translating in translationStudio}}  shows how to navigate to the scripture you want to translate and begin working. Or see Navigate in translationStudio.
 
