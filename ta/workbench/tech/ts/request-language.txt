@@ -1,3 +1,16 @@
+**VERSION 3**\\
+
+Use **Feedback** in the 3-dot menu to request a new language:
+
+  - In the translation project editing window, tap on the three dots on the left.
+  - In the list of options, tap **Feedback**.
+  - The **Feedback** screen opens. Type the name of the language you would like added to translationStudio.
+  - Tap **Confirm** to send your request.
+
+
+----
+
+**VERSION 2**
 ===== Find My Language =====
 
 You can use the **Report Bug** link to request a new language:
