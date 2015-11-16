@@ -53,6 +53,8 @@
 {{changes>ns=bcq:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:bgw:obs|bgw OBS]]**
 {{changes>ns=bgw:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
+**[[:bhd:obs|bhd OBS]]**
+{{changes>ns=bhd:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:bhj:obs|bhj OBS]]**
 {{changes>ns=bhj:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:bho:obs|bho OBS]]**

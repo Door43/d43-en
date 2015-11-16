@@ -4,24 +4,22 @@ This module answers the question: How do I install translationStudio on an Andro
 Before you start this module have you learned about:
   * [[en:ta:vol1:tech:ts_intro|translationStudio]]
 
-Watch the {{:en:ta:tech:installing_translationstudio_-_android_v2.mp4|Install translationStudio}}  video or follow these directions:\\ 
-
 **Note:** This process requires an Internet connection.
+  - Tap on the **Google Play Store**  icon on the Android device. Google Play Store opens.
+  - To search for the app in the Play Store, tap on the magnifying glass at the top right of the window.
+  - Tap on the words **Search Google Play**  and type in translationStudio (do not use spaces).
+  - Tap the magnifying glass or close the keyboard.
+  - When the Play Store has found the program, tap the **tS**  icon.
+  - Tap **Install**  then tap **Accept**  to use the default settings of the program.
+  - The program will download and then install.
+  - The app will download and then install. Once the program is installed, tap **Open**.
 
-   * Tap on the **Google Play Store**  icon on the Android device. Google Play Store opens.
-   * To search for the app in the Play Store, tap on the magnifying glass at the top right of the window.
-   * Tap on the words **Search Google Play**  and type in translationStudio (do not use spaces).
-   * Tap the magnifying glass or close the keyboard.
-   * When the Play Store has found the program, tap the **tS**  icon.
-   * Tap **Install**  then tap **Accept**  to use the default settings of the program.
-   * The program will download and then install.
-   * The app will download and then install. Once the program is installed, tap **Open**.
 
 
 
 Next we recommend you learn about:
   * [[en:ta:vol1:tech:ts_first|Use translationStudio for the First Time]]
-  * [[en:ta:volarchive:tech:ts_navigate|Navigate in translationStudio]]
+  * [[en:ta:vol1:tech:ts_navigate|Navigate in translationStudio]]
   * [[en:ta:vol1:tech:ts_select|Select Source and Target Languages]]
   * [[en:ta:vol1:tech:ts_select|Select Source and Target Languages]]
   * [[en:ta:vol1:tech:ts_request|Find my Language]]

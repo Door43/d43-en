@@ -79,6 +79,9 @@
 **[[:bgw:obs|bgw OBS]]**
 {{changes>ns=bgw:obs&maxage=604800&render=pagelist(header,date,user,nocomments)}}
 
+**[[:bhd:obs|bhd OBS]]**
+{{changes>ns=bhd:obs&maxage=604800&render=pagelist(header,date,user,nocomments)}}
+
 **[[:bhj:obs|bhj OBS]]**
 {{changes>ns=bhj:obs&maxage=604800&render=pagelist(header,date,user,nocomments)}}
 

@@ -211,6 +211,8 @@ edge [arrowsize=1.4];
 "tS_create" -> "tS_footnote"
 "tS_install" [fillcolor="#ffff99"]
 "tS_intro" -> "tS_install"
+"tS_navigate" [fillcolor="#ffff99"]
+"tS_install" -> "tS_navigate"
 "tS_problem" [fillcolor="#ffff99"]
 "tS_intro" -> "tS_problem"
 "tS_publish" [fillcolor="#ffff99"]
