@@ -1,5 +1,9 @@
 ===== translationStudio =====
+**VERSION 3**
+The translationStudio mobile app is a mobile app where translators can do offline translating. It can be downloaded for [[https://play.google.com/store/apps/details?id=com.translationstudio.androidapp&hl=en|Android]] or [[https://itunes.apple.com/us/app/translation-studio/id925570675?mt=8|iOS]] devices. It contains the content that needs to be translated as well as [[:en:ta:intro:helps|translation helps]]. Information can be shared directly from device to device and finished content can be uploaded to [[door43|Door43]] and digitally published.
 
+----
+**VERSION 2**
 The translationStudio mobile app is a mobile app where translators can do offline translating. It can be downloaded for [[https://play.google.com/store/apps/details?id=com.translationstudio.androidapp&hl=en|Android]] or [[https://itunes.apple.com/us/app/translation-studio/id925570675?mt=8|iOS]] devices. It contains the content that needs to be translated as well as [[:en:ta:intro:helps|translation helps]]. Information can be shared directly from device to device and finished content can be uploaded to [[door43|Door43]] and digitally published.
 
 Click on the topics below to learn about common tasks in translationStudio:
