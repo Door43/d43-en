@@ -2,40 +2,17 @@
 
 ===== TFT: =====
 
-<usfm>
-\v 5 Yahweh, you are the one whom I have chosen,
-\q2 and you give me great blessings.
-\q1 You protect me and control what happens to me.
-\q1
-\v 6 Yahweh has given me a wonderful place in which to live;
-\q2 I am delighted with all the things that he has given me \f + \ft metaphor \f*.
-\b
-\q1
-</usfm>
+<usfm> \v 5 Yahweh, you are the one whom I have chosen, \q2 and you give me great blessings. \q1 You protect me and control what happens to me. \q1 \v 6 Yahweh has given me a wonderful place in which to live; \q2 I am delighted with all the things that he has given me \f + \ft metaphor \f*. \b \q1 </usfm>
 
 ===== UDB: =====
 
-<usfm>
-\v 5 Yahweh, you are the one whom I have chosen,
-\q and you give me great blessings.
-\q1 You protect me and control what happens to me.
-\q1
-\v 6 Yahweh has given me a wonderful place in which to live;
-\q I am delighted with all the things that he has given me.
-\b
+<usfm> \v 5 Yahweh, you are the one whom I have chosen, \q and you give me great blessings. \q1 You protect me and control what happens to me. \q1 \v 6 Yahweh has given me a wonderful place in which to live; \q I am delighted with all the things that he has given me. \b
 
-
-\q1
-</usfm>
+\q1 </usfm>
 
 ===== ULB: =====
 
-<usfm>
-\q
-\v 5 Yahweh, you are my chosen portion and my cup. You hold onto my destiny.
-\q
-\v 6  in pleasant places; surely a pleasing inheritance is mine.
-</usfm>
+<usfm> \q \v 5 Yahweh, you are my chosen portion and my cup. You hold onto my destiny. \q \v 6 in pleasant places; surely a pleasing inheritance is mine. </usfm>
 
 ===== Important Terms: =====
 
@@ -44,15 +21,16 @@
 
 ===== Translation Notes: =====
 
- *  **Measuring lines have been laid for me** -AT: The boundary of the land you have give me is very good
-  * **You hold on to my destiny.**- AT: "You deternine my future."
+* **Measuring lines have been laid for me**  -AT: The boundary of the land you have give me is very good
 
+  * **You **- Refers to God. David is speaking to God.
+  * **my, mine **- David is speaking of himself.
+  * **You hold on to my destiny.**- AT: "You deternine my future."
 ===== Links: =====
 
   * **[[:en:bible:questions:comprehension:psa:016|Psalms Chapter 016 Comprehension Questions]]**
-
 **[[:en:bible:notes:psa:016:004|<<]] | [[:en:bible:notes:psa:016:007|>>]]**
 
-~~DISCUSSION~~{{tag>draft book1}}
+~~DISCUSSION~~{{tag>check book1}}
 
 ~~NOCACHE~~
