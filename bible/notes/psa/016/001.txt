@@ -2,66 +2,40 @@
 
 ===== TFT: =====
 
-<usfm>
-\v 1 God, protect me
-\q2 because I go to you to keep me safe!
-\b
-\q1
-\v 2 I said to Yahweh, "You are my Lord;
-\q2 all the good things that I have come from you."
-\q1
-\v 3 Your people who live in this land are wonderful;
-\q2 I delight to be with them.
-\q1
-</usfm>
+<usfm> \v 1 God, protect me \q2 because I go to you to keep me safe! \b \q1 \v 2 I said to Yahweh, "You are my Lord; \q2 all the good things that I have come from you." \q1 \v 3 Your people who live in this land are wonderful; \q2 I delight to be with them. \q1 </usfm>
 
 ===== UDB: =====
 
-<usfm>
-\v 1 God, protect me
-\q because I go to you to keep me safe!
-\b
-\q1
-\v 2 I said to Yahweh, "You are my Lord;
-\q all the good things that I have come from you."
-\q1
-\v 3 People who try to be holy who live in this land are wonderful;
-\q I delight to be with them.
+<usfm> \v 1 God, protect me \q because I go to you to keep me safe! \b \q1 \v 2 I said to Yahweh, "You are my Lord; \q all the good things that I have come from you." \q1 \v 3 People who try to be holy who live in this land are wonderful; \q I delight to be with them.
 
-
-\q1
-</usfm>
+\q1 </usfm>
 
 ===== ULB: =====
 
-<usfm>
-\c 16
-\d A michtam of David.
-\b
-\q
-\v 1 Protect me, God, for I take refuge in you.
-\q
-\v 2 I say to Yahweh, "You are my Lord; my goodness is nothing apart from you.
-\q
-\v 3 As for the saints who are on the earth, they are noble people; all my delight is in them.
-</usfm>
+<usfm> \c 16 \d A michtam of David. \b \q \v 1 Protect me, God, for I take refuge in you. \q \v 2 I say to Yahweh, "You are my Lord; my goodness is nothing apart from you. \q \v 3 As for the saints who are on the earth, they are noble people; all my delight is in them. </usfm>
 
 ===== Important Terms: =====
 
   * [[:en:obe:other:david|David]]
   * [[:en:obe:kt:god|God]]
-  * [[en:obe:kt:refuge]]
+  * [[:en:obe:kt:refuge|refuge]]
   * [[:en:obe:kt:yahweh|Yahweh]]
   * [[:en:obe:kt:lord|lord, master, sir]]
-  * [[:en:obe:kt:saint|saints]]
+  * goodness
+  * [[:en:obe:kt:saint|saint]]s
+  * earth
+  * noble
+  * people
 
 ===== Translation Notes: =====
 
 See: [[:en:ta:workbench:translate:poetry|Translating Poetry]] and [[:en:ta:vol2:translate:figs_parallelism|Parallelism]]
 
-  * **michtam** - See how you translated this in [[en:bible:notes:psa:016:001|16:1]].
+  * **michtam**  - See how you translated this in [[:en:bible:notes:psa:016:001|16:1]].
+  * **me, I **- David is speaking to God.
   * **protect me,**  - AT: "keep me safe,"
   * **refuge**  - AT: "seek protection."
+  * **you **- Refers to God.
   * **As for the saints **- AT: "For the believers"
 **LINKS:**
 
@@ -69,6 +43,6 @@ See: [[:en:ta:workbench:translate:poetry|Translating Poetry]] and [[:en:ta:vol2:
 
 **[[:en:bible:notes:psa:015:004|<<]] | [[:en:bible:notes:psa:016:004|>>]]**
 
-~~DISCUSSION~~{{tag>draft book1}}
+~~DISCUSSION~~{{tag>check book1}}
 
 ~~NOCACHE~~
