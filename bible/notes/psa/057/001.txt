@@ -2,40 +2,17 @@
 
 ===== TFT: =====
 
-<usfm>
-\v 1 God, act mercifully toward me!
-\q1 Act mercifully toward me because I come to you to protect me.
-\q2 I request you to protect me \add like little birds are protected under their mother's\add* wings \f + \ft metaphor \f*,
-\q2 until the storm\f + \ft Or: danger \f* is ended.
-\b
-\q1
-</usfm>
+<usfm> \v 1 God, act mercifully toward me! \q1 Act mercifully toward me because I come to you to protect me. \q2 I request you to protect me \add like little birds are protected under their mother's\add* wings \f + \ft metaphor \f*, \q2 until the storm\f + \ft Or: danger \f* is ended. \b \q1 </usfm>
 
 ===== UDB: =====
 
-<usfm>
-\v 1 God, act mercifully toward me!
-\q1 Act mercifully toward me because I am coming to you to protect me.
-\q2 I request you to protect me as little birds are protected under their mother's wings
-\q2 until the storm is ended.
-\b
+<usfm> \v 1 God, act mercifully toward me! \q1 Act mercifully toward me because I am coming to you to protect me. \q2 I request you to protect me as little birds are protected under their mother's wings \q2 until the storm is ended. \b
 
-
-\q1
-</usfm>
+\q1 </usfm>
 
 ===== ULB: =====
 
-<usfm>
-\c 57
-\d For the chief musician; set to Al Tashheth. A Psalm
-of David. A michtam; when he fled from Saul, in the cave.
-\b
-\q
-\v 1 Be merciful to me, God, be merciful to me,
-\q for my soul takes refuge in you
-\q until these troubles are over.
-</usfm>
+<usfm> \c 57 \d For the chief musician; set to Al Tashheth. A Psalm of David. A michtam; when he fled from Saul, in the cave. \b \q \v 1 Be merciful to me, God, be merciful to me, \q for my soul takes refuge in you \q until these troubles are over. </usfm>
 
 ===== Important Terms: =====
 
@@ -54,10 +31,11 @@ See: talink Translating Poetry and [[:en:ta:vol2:translate:figs_parallelism|Para
 
   * **set to Al Tashheth **  - This may refer to a style of music.
   * **Al Tashheth**  - See how you translated this in [[:en:bible:notes:psa:057:001|57:1]]
-  * **A psalm of David**  - This can also be written as a sentence. AT: “This is a psalm of David or “This is a psalm that David wrote.
+  * **A psalm of David**  - AT: “This is a psalm of David or “This is a psalm that David wrote.
   * **michtam **  - See how you translated this in [[:en:bible:notes:psa:016:001|16:1]].
-  * **when he fled from Saul, in the cave**  - AT: "David sang this song after he  hid in the cave from Saul." (See: Implicit information)
-  * **bold words**  - explanation
+  * **when he fled from Saul, in the cave**  - AT: "David sang this song after he hid in the cave hiding from Saul." (See: Implicit information)
+  * **me, my**  - Davis is speaking to God.
+  * **you **- Refers to God.
 ===== Links: =====
 
   * **[[:en:bible:questions:comprehension:psa:057|Psalms Chapter 057 Comprehension Questions]]**
