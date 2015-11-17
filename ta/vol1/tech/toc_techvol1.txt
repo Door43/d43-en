@@ -2,6 +2,7 @@
 
 This module answers the question: What is in volume 1 of the technology manual?\\
 ==== Technology Manual Volume 1 ====
+  - [[en:ta:vol1:tech:tech_manual]]
 
 === translationStudio ===
   - [[en:ta:vol1:tech:tS_intro]]
@@ -11,7 +12,7 @@ This module answers the question: What is in volume 1 of the technology manual?\
      - [[en:ta:vol1:tech:tS_select]]
      - [[en:ta:vol1:tech:tS_request]]
      - [[en:ta:vol1:tech:tS_create]]
-        - [[en:ta:vol1:tech:tS_footnote]]
+     - [[en:ta:vol1:tech:translate_helptS]]
      - [[en:ta:vol1:tech:tS_resources]]
      - [[en:ta:vol1:tech:tS_share]]
      - [[en:ta:vol1:tech:tS_upload]]
@@ -33,8 +34,8 @@ This module answers the question: What is in volume 1 of the technology manual?\
   - [[en:ta:vol1:tech:uW_intro]]
      - [[en:ta:vol1:tech:uW_install]]
      - [[en:ta:vol1:tech:uW_first]]
-       - [[en:ta:vol1:tech:uW_checking]]
-       - [[en:ta:vol1:tech:uW_language]]
+     - [[en:ta:vol1:tech:uW_checking]]
+     - [[en:ta:vol1:tech:uW_language]]
      - [[en:ta:vol1:tech:uW_select]]
      - [[en:ta:vol1:tech:uW_audio]]
 

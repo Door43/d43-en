@@ -1,6 +1,8 @@
 ===== translationStudio =====
 
 This module answers the question: What is the translationStudio App?\\
+==== Intro to the translationStudio App ====
+
 The translationStudio mobile app is a mobile app where translators can do offline translating. It can be downloaded for [[https://play.google.com/store/apps/details?id=com.translationstudio.androidapp&hl=en|Android]] (https://play.google.com/store/apps/details?id=com.translationstudio.androidapp&hl=en) devices. It contains the content that needs to be translated as well as [[:en:ta:vol1:translate:translate_help|translation helps]]. Information can be shared directly from device to device and finished content can be uploaded to Door43 and digitally published.
 
 
@@ -8,15 +10,18 @@ The translationStudio mobile app is a mobile app where translators can do offlin
 Next we recommend you learn about:
   * [[en:ta:vol1:tech:ts_install|Install translationStudio on an Android Device]]
   * [[en:ta:vol1:tech:ts_first|Use translationStudio for the First Time]]
-  * [[en:ta:vol1:tech:ts_navigate|Navigate in translationStudio]]
   * [[en:ta:vol1:tech:ts_select|Select Source and Target Languages]]
+  * [[en:ta:vol1:tech:ts_open|Opening a Translation Project]]
+  * [[en:ta:vol1:tech:ts_navigate|Navigate in translationStudio]]
   * [[en:ta:vol1:tech:ts_request|Find my Language]]
+  * [[en:ta:vol1:tech:ts_translate|Translating in translationStudio]]
   * [[en:ta:vol1:tech:ts_create|Create and Edit Text]]
-  * [[en:ta:vol1:tech:ts_footnote|Add a Footnote]]
   * [[en:ta:vol1:tech:ts_resources|Find the Resources in translationStudio]]
-  * [[en:ta:vol1:tech:ts_share|Share Your Work]]
+  * [[en:ta:vol1:tech:ts_useresources|How to Use the Resources in translationStudio]]
+  * [[en:ta:vol1:tech:ts_share|Backup and Share Your Work]]
   * [[en:ta:vol1:tech:ts_upload|Upload Your Work]]
   * [[en:ta:vol1:tech:ts_update|Update translationStudio Projects]]
   * [[en:ta:vol1:tech:ts_publish|Publish Content to unfoldingWord]]
+  * [[en:ta:vol1:tech:translate_helpts|Finding Help for translationStudio]]
   * [[en:ta:vol1:tech:ts_problem|Report a Problem]]
 

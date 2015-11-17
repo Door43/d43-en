@@ -4,15 +4,18 @@ This module answers the question: What do I do when I cannot find my language?\\
 Before you start this module have you learned about:
   * [[en:ta:vol1:tech:ts_install|Install translationStudio on an Android Device]]
 
-If you do not see your languages in the list of target languages, you can request that your language be added. The best way to submit a request is to send an email to help@door43.org. Another method is to submit a Bug Report. In either case, please provide as much information as you can about the language, such as the local name of the language, and any other names it is known by. Also provide the location(s) where it is used. 
+==== 
+
+If you do not see your languages in the list of target languages, first try alternate spellings, dialect names, and any variant names for your language. If you still can't find it, you can request that your language be added. The best way to submit a request is to send an email to help@door43.org. Another method is to submit a Bug Report. In either case, please provide as much information as you can about the language, such as the local name of the language, any other names it is known by, approximate number of speakers, where it is spoken, what languages are similar to it, any published works in that language, etc.
+
 Note that even after requesting a new language, certain approvals are required before it will be added to translationStudio. 
 
-To use the **Report Bug** link to request a new language:
+Use **Feedback** in the 3-dot menu to request a new language:
+  - In the translation project editing window, tap on the three dots on the left.
+  - In the list of options, tap **Feedback**.
+  - The **Feedback** screen opens. Type the name of the language you would like added to translationStudio.
+  - Tap **Confirm** to send your request.
 
-   * In the green bar at the top of the screen, tap on the three dots on the right.
-   * In the list of options, tap **Report Bug**.
-   * The **Bug Report **  screen opens. Type the name of the language you would like added to translationStudio, other names used to refer to it and the region.  Also include your contact information.
-   * Tap **Upload**  to send your request.
 
 Go back to the [[en:ta:vol1:tech:ts_intro|translationStudio ]]page//. //
 
@@ -20,16 +23,19 @@ Go back to the [[en:ta:vol1:tech:ts_intro|translationStudio ]]page//. //
 
 Next we recommend you learn about:
   * [[en:ta:vol1:tech:ts_intro|translationStudio]]
+  * [[en:ta:vol1:tech:ts_install|Install translationStudio on an Android Device]]
   * [[en:ta:vol1:tech:ts_first|Use translationStudio for the First Time]]
+  * [[en:ta:vol1:tech:ts_select|Select Source and Target Languages]]
+  * [[en:ta:vol1:tech:ts_open|Opening a Translation Project]]
   * [[en:ta:vol1:tech:ts_navigate|Navigate in translationStudio]]
-  * [[en:ta:vol1:tech:ts_select|Select Source and Target Languages]]
-  * [[en:ta:vol1:tech:ts_select|Select Source and Target Languages]]
+  * [[en:ta:vol1:tech:ts_translate|Translating in translationStudio]]
   * [[en:ta:vol1:tech:ts_create|Create and Edit Text]]
-  * [[en:ta:vol1:tech:ts_footnote|Add a Footnote]]
   * [[en:ta:vol1:tech:ts_resources|Find the Resources in translationStudio]]
-  * [[en:ta:vol1:tech:ts_share|Share Your Work]]
+  * [[en:ta:vol1:tech:ts_useresources|How to Use the Resources in translationStudio]]
+  * [[en:ta:vol1:tech:ts_share|Backup and Share Your Work]]
   * [[en:ta:vol1:tech:ts_upload|Upload Your Work]]
   * [[en:ta:vol1:tech:ts_update|Update translationStudio Projects]]
   * [[en:ta:vol1:tech:ts_publish|Publish Content to unfoldingWord]]
+  * [[en:ta:vol1:tech:translate_helpts|Finding Help for translationStudio]]
   * [[en:ta:vol1:tech:ts_problem|Report a Problem]]
 

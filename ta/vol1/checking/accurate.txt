@@ -3,6 +3,7 @@
 This module answers the question: Is the translation accurate?\\
 Before you start this module have you learned about:
   * [[en:ta:vol2:checking:alphabet|Appropriate Alphabet]]
+  * [[en:ta:vol1:checking:church_leader_check|Church Leader Check]]
 
 ==== An Accurate Translation ====
 
@@ -14,5 +15,8 @@ For instructions on how to do this, go to [[:en:ta:vol1:check:accuracy_check]], 
 
 
 
-Next we recommend you learn about: [[en:ta:vol1:checking:complete|Complete Translation]]
+Next we recommend you learn about:
+  * [[en:ta:vol1:checking:complete|Complete Translation]]
+  * [[en:ta:vol1:checking:accuracy_check|Accuracy Check]]
+  * [[en:ta:vol1:translate:guidelines_accurate|Create Accurate Translations]]
 

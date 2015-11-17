@@ -1,6 +1,9 @@
 ===== Publishing Prerequisites =====
 
 This module answers the question: What must be done before publishing?\\
+Before you start this module have you learned about:
+  * [[en:ta:vol1:process:intro_publishing|Introduction to Publishing]]
+
 ==== Before Publishing ====
 
 Before a resource can be published, the following prerequisites must all be met:
@@ -16,4 +19,7 @@ When all these are completed, you are ready to start the [[en:ta:vol1:process:pu
 
 
 
+
+Next we recommend you learn about:
+  * [[en:ta:vol1:process:publishing_process|How to Publish]]
 

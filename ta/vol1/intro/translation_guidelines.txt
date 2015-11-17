@@ -3,7 +3,7 @@
 This module answers the question: By what principles do we translate?\\
 Before you start this module have you learned about:
   * [[en:ta:vol1:intro:uw_intro|The unfoldingWord Project]]
-  * [[en:ta:vol1:translate:translate_manual|Introduction to Translation Manual]]
+  * [[en:ta:vol1:intro:statement_of_faith|Statement of Faith]]
 
 //The official version of this document is found at [[https://unfoldingword.org/guidelines|unfoldingword.org/guidelines]].//
 
@@ -18,14 +18,14 @@ Before you start this module have you learned about:
   - **Clear**  — Use whatever language structures are necessary to achieve the highest level of comprehension. This includes rearranging the form of a text and using as many or as few terms as necessary to communicate the original meaning as accurately as possible. See [[en:ta:vol1:translate:guidelines_clear]] for more information.   
   - **Natural**  — Use language forms that are effective and that reflect the way your language is used in corresponding contexts. See [[en:ta:vol1:translate:guidelines_natural]] for more information.
   - **Equal** — Communicate the same intent as the source text, including expressions of feeling and attitudes. As much as possible, maintain the different kinds of literature in the original text, including narrative, poetry, exhortation, and prophecy, representing them with corresponding forms that communicate in a similar way in your language. See [[en:ta:vol2:translate:guidelines_equal]] for more information.
-    
+
 ==== Identifying and Managing Translation Quality ====
 
 The quality of a translation generally refers to the fidelity of the translation to the meaning of the original, and the degree to which the translation is understandable and effective for the speakers of the receptor language. The strategy we suggest involves checking the forms and communicative quality of the translation with the language community, and checking the fidelity of the translation with the Church in that people group.  \\
 
 The specific steps involved may vary significantly, depending on the language and context of the translation project. Generally, we consider a good translation to be one that has been reviewed by the speakers of the language community and also by the leadership of the church in the language group so that it is: \\
   - **Accurate, Clear, Natural, and Equal** — Faithful to the intended meaning of the original, as determined by the Church in that people group and in alignment with the Church global and historical, and consequently:
-  - **Affirmed by the Church**  - Endorsed and used by the Church.
+  - **Affirmed by the Church**  - Endorsed and used by the Church. See [[en:ta:vol1:translate:guidelines_church_approved]] for more information.
 
 We also recommend that the translation work be:
  
@@ -42,4 +42,5 @@ We also recommend that the translation work be:
 
 Next we recommend you learn about:
   * [[en:ta:vol1:intro:open_license|Open License]]
+  * [[en:ta:vol1:translate:translate_manual|Introduction to Translation Manual]]
 

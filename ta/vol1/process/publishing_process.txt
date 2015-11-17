@@ -1,6 +1,10 @@
 ===== How to Publish =====
 
 This module answers the question: How do I publish my content?\\
+Before you start this module have you learned about:
+  * [[en:ta:vol1:process:intro_publishing|Introduction to Publishing]]
+  * [[en:ta:vol1:process:publishing_prereqs|Publishing Prerequisites]]
+
 ==== Starting the Publishing Process ====
 
 Before you start the Publishing Process, please be sure that you have met all the [[en:ta:vol1:process:publishing_prereqs|Publishing Prerequisites]]. 
@@ -27,4 +31,7 @@ When the publishing process is complete, the content will be published to the un
 The requester will be emailed and informed that the publishing process has been completed and they will be requested to look over the published content to ensure that everything "looks right." 
 
 
+
+Next we recommend you learn about:
+  * [[en:ta:vol1:process:intro_share|Introduction to Distribution]]
 

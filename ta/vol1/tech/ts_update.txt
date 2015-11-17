@@ -4,32 +4,36 @@ This module answers the question: How do I update translationStudio projects?\\
 Before you start this module have you learned about:
   * [[en:ta:vol1:tech:ts_install|Install translationStudio on an Android Device]]
 
-To update project information on your device, complete the steps below. If you are looking for a way to update the translationStudio app, this process is now automated each time you open the app.
+To update project information on your device, complete the steps below. The translationStudio program is updated each time you open the app.\\
 
-**Note: ** This process requires an Internet connection.
+**Note:** This process requires an Internet connection.\\
 
 To update translationStudio projects:
+  - In the **Your Translation Projects** section, tap the three dots on the left.
+  - In the list of options, tap **Update Library**.
+  - This process uses the Internet connection. Tap 'Yes' to continue. Tap 'No' to exit.
+  - Tap on the Open Bible Stories or a Bible book.
+  - Tap on a language. Another window opens - choose to download or not.
+  - When all the desired languages are downloaded, tap the back arrow at the top left of the window to return to the **Translation Projects** section.
 
-   * In the green bar at the top of the screen, tap the three dots on the right.
-   * In the list of options, tap **Update**.
-   * Select **Update Projects **  to download available updates from the server.
-   * Select **Transfer from device **  to transfer projects from a nearby device.
-   * Select **Import from storage**  to import project data from the SD card in the device.
-
-Go back to the __[[en:ta:vol1:tech:ts_intro|translationStudio]]__ page//. //
 
 
 
 Next we recommend you learn about:
-  * [[en:ta:vol1:tech:ts_create|Create and Edit Text]]
+  * [[en:ta:vol1:tech:ts_intro|translationStudio]]
+  * [[en:ta:vol1:tech:ts_install|Install translationStudio on an Android Device]]
   * [[en:ta:vol1:tech:ts_first|Use translationStudio for the First Time]]
-  * [[en:ta:vol1:tech:ts_navigate|Navigate in translationStudio]]
   * [[en:ta:vol1:tech:ts_select|Select Source and Target Languages]]
+  * [[en:ta:vol1:tech:ts_open|Opening a Translation Project]]
+  * [[en:ta:vol1:tech:ts_navigate|Navigate in translationStudio]]
   * [[en:ta:vol1:tech:ts_request|Find my Language]]
-  * [[en:ta:vol1:tech:ts_footnote|Add a Footnote]]
+  * [[en:ta:vol1:tech:ts_translate|Translating in translationStudio]]
+  * [[en:ta:vol1:tech:ts_create|Create and Edit Text]]
   * [[en:ta:vol1:tech:ts_resources|Find the Resources in translationStudio]]
-  * [[en:ta:vol1:tech:ts_share|Share Your Work]]
+  * [[en:ta:vol1:tech:ts_useresources|How to Use the Resources in translationStudio]]
+  * [[en:ta:vol1:tech:ts_share|Backup and Share Your Work]]
   * [[en:ta:vol1:tech:ts_upload|Upload Your Work]]
   * [[en:ta:vol1:tech:ts_publish|Publish Content to unfoldingWord]]
+  * [[en:ta:vol1:tech:translate_helpts|Finding Help for translationStudio]]
   * [[en:ta:vol1:tech:ts_problem|Report a Problem]]
 

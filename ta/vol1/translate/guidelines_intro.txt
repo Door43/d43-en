@@ -3,6 +3,8 @@
 This module answers the question: What are the qualities of a good translation?\\
 Before you start this module have you learned about:
   * [[en:ta:vol1:intro:translation_guidelines|Translation Guidelines]]
+  * [[en:ta:vol1:translate:translate_manual|Introduction to Translation Manual]]
+  * [[en:ta:vol1:translate:translate_whatis|What is Translation]]
 
 ==== Four Main Qualities ====
 
@@ -31,16 +33,24 @@ Translate accurately, without detracting from, changing, or adding to the meanin
 
 If a translation is clear, natural, and accurate but the church does not approve of it or accept it, then it does not achieve the final goal of edifying the church. It is important that the church be involved in the translation, checking, and distribution of the translation. Learn how to make [[en:ta:vol1:translate:guidelines_church_approved|Church-Approved Translations]].
 
+==== Eight Other Qualities ====
+
+In addition to being clear, natural, accurate, and church-approved, great translations should also be:
+  * [[en:ta:vol2:translate:guidelines_faithful|Faithful]]
+  * [[en:ta:vol2:translate:guidelines_authoritative|Authoritative]]
+  * [[en:ta:vol2:translate:guidelines_historical|Historical]]
+  * [[en:ta:vol2:translate:guidelines_pure|Pure]]
+  * [[en:ta:vol2:translate:guidelines_equal|Equal]]
+  * [[en:ta:vol2:translate:guidelines_expressive|Expressive]]
+  * [[en:ta:vol2:translate:guidelines_collaborative|Collaborative]]
+  * [[en:ta:vol2:translate:guidelines_ongoing|Ongoing]]
+
 
 
 Next we recommend you learn about:
   * [[en:ta:vol1:translate:guidelines_clear|Create Clear Translations]]
   * [[en:ta:vol1:translate:guidelines_natural|Create Natural Translations]]
   * [[en:ta:vol1:translate:guidelines_accurate|Create Accurate Translations]]
-  * [[en:ta:vol2:translate:guidelines_faithful|Create Faithful Translations]]
-  * [[en:ta:vol2:translate:guidelines_authoritative|Create AuthoritativeTranslations]]
-  * [[en:ta:vol2:translate:guidelines_pure|Create Pure Translations]]
-  * [[en:ta:vol2:translate:guidelines_historical|Create Historical Translations]]
-  * [[en:ta:vol2:translate:guidelines_equal|Equal Translations]]
-  * [[en:ta:vol1:translate:translate_discover|Discover the Meaning of the Text]]
+  * [[en:ta:vol1:translate:guidelines_church_approved|Create Church-Approved Translations]]
+  * [[en:ta:vol1:translate:translate_process|The Translation Process]]
 

@@ -38,16 +38,14 @@ This module answers the question: What is in Volume 1 of the translation manual?
     - [[en:ta:vol1:translate:translate_original]]
     - [[en:ta:vol1:translate:translate_manuscripts]]
     - [[en:ta:vol1:translate:translate_textvariants]]
-  - [[en:ta:vol1:translate:writing_decisions]]
   - [[en:ta:vol1:translate:translate_alphabet]]
+  - [[en:ta:vol1:translate:writing_decisions]]
 
 === How to Start Translating === 
   - [[en:ta:vol1:translate:translate_what]]
   - [[en:ta:vol1:translate:first_draft]]
-  - [[en:ta:vol1:translate:translate_help]]
-    - [[en:ta:vol1:translate:translate_helpd43]]
-    - [[en:ta:vol1:translate:translate_helptS]]
   - [[en:ta:vol1:translate:resources_intro]]
+  - [[en:ta:vol1:translate:translate_help]]
     - [[en:ta:vol1:translate:resources_types]]
     - [[en:ta:vol1:translate:resources_links]]
 

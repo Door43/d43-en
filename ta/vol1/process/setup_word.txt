@@ -1,19 +1,25 @@
 ===== Setting Up a Word Processor =====
 
 This module answers the question: How do I set up a Word Processor?\\
-=== Obtaining the Source Text for Open Bible Stories ===
+Before you start this module have you learned about:
+  * [[en:ta:vol1:process:platforms|Selecting a Platform]]
+
+==== Obtaining the Source Text for Open Bible Stories ====
 
   - Go to [[:obs-template|Get Open Bible Stories Word Template]]
   - Select your source language (the language from which you will translate) and click "Save". (Note: If you click the "Add all images in the file", the download size will increase greatly.) **The template will download as a docx file.**
   - Open this template in your word processor of choice. 
 
-=== Obtaining Translation Helps for Open Bible Stories ===
+==== Obtaining Translation Helps for Open Bible Stories ====
 
   * The download for Open Bible Stories translation helps is not currently automated. Please contact [[en:ta:vol1:intro:finding_answers|Helpdesk]] for assistance
 
-=== Obtaining the Source Text & Helps for the Bible ===
+==== Obtaining the Source Text & Helps for the Bible ====
 
   * This process is not presently automated. Please contact the [[en:ta:vol1:intro:finding_answers|Helpdesk]] for further assistance.
 
 
+
+Next we recommend you learn about:
+  * [[en:ta:vol1:process:word_translation|Translating in a Word Processor]]
 

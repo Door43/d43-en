@@ -1,6 +1,10 @@
 ===== Source Texts and Version Numbers =====
 
 This module answers the question: How can version numbers help me select a source text?\\
+Before you start this module have you learned about:
+  * [[en:ta:vol1:translate:translate_source_text|Choosing a Source Text]]
+  * [[en:ta:vol1:translate:translate_source_licensing|Copyrights, Licensing, and Source Texts]]
+
 ==== Importance of Version Numbers ==== 
 
 Especially in an open project like unfoldingWord, it is important to keep track of published versions. It is important because translations (and source texts) can change frequently. Being able to identify each version helps bring clarity about which iteration is being talked about. Version numbers are also important because all translations should be based off of the latest source text. If the source text changes, the translation should be updated to match the latest version. 
@@ -41,4 +45,7 @@ Once you have identified which version of Open Bible Stories the translation in 
 
 
 
+
+Next we recommend you learn about:
+  * [[en:ta:vol1:translate:translate_original|The Original and Source Languages]]
 

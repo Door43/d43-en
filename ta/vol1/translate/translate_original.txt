@@ -3,6 +3,7 @@
 This module answers the question: What is the difference between the original language and the source language?\\
 Before you start this module have you learned about:
   * [[en:ta:vol1:translate:translate_process|The Translation Process]]
+  * [[en:ta:vol1:translate:translate_source_text|Choosing a Source Text]]
 
 ==== Original Language is the most Accurate ====
 
@@ -24,6 +25,7 @@ The only way to make sure the translation is as accurate as possible is to compa
 
 
 Next we recommend you learn about:
+  * [[en:ta:vol1:translate:translate_manuscripts|Original Manuscripts]]
   * [[en:ta:vol1:translate:translate_terms|Terms to Know]]
   * [[en:ta:vol1:translate:translate_discover|Discover the Meaning of the Text]]
   * [[en:ta:vol1:translate:translate_literal|Literal Translations]]

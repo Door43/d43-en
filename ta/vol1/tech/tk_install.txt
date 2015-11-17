@@ -4,6 +4,8 @@ This module answers the question: How do I install translationKeyboard on an And
 Before you start this module have you learned about:
   * [[en:ta:vol1:tech:tk_intro|translationKeyboard]]
 
+==== How can I install tK ====
+
 Watch the {{:en:ta:tech:installing_translationkeyboard-android_v2.mp4|Installing translationKeyboard}}  One video or follow these directions:
 
 **Note: ** Installing requires an Internet connection.

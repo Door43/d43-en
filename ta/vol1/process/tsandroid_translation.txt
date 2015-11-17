@@ -5,26 +5,26 @@ Before you start this module have you learned about:
   * [[en:ta:vol1:process:pretranslation_training|Training Before Translation Begins]]
   * [[en:ta:vol1:process:setup_tsandroid|Setting Up translationStudio]]
 
-=== Using Translation Helps ===
+==== Using Translation Helps ====
 
   - Once the source text is [[en:ta:vol1:process:setup_tsandroid|setup]] on translationStudio, then you are ready to start translating. 
     * It is strongly recommended that you consult the translation notes and key terms while doing your translation
-  - For the best way to use translation notes in translationStudio, please read [[en:ta:vol1:translate:translate_helpdts]]
+  - For the best way to use translation notes in translationStudio, please read [[en:ta:vol2:tech:translate_helpdts]]
 
-=== Editing a page ===
+==== Editing a page ====
 
   * To learn how to create or edit a page click [[en:ta:vol1:tech:ts_create|here]]
   * If your language has letters that do not appear on your device's keyboard, you may need to install and use [[en:ta:vol1:tech:tk_intro|translationKeyboard]]. (See also https://unfoldingword.org/translationkeyboard/ )
 
-=== Saving My Work ===
+==== Saving My Work ====
 
   * To learn how to save your work click [[en:ta:vol1:tech:ts_create|here]]
 
-=== Sharing Your Work === 
+==== Sharing Your Work ====
 
   * To learn how to share your work click [[en:ta:vol1:tech:ts_share|here]]
 
-=== After Translating on translationStudio ===
+==== After Translating on translationStudio ====
 
   - We strongly recommend that your translation be [[en:ta:vol1:process:prechecking_training|checked]].
   - Once the checking is complete (to any level), you may [[en:ta:vol1:tech:ts_upload|upload]] your work.
@@ -33,4 +33,7 @@ Before you start this module have you learned about:
 
 
 Next we recommend you learn about:
+  * [[en:ta:vol1:process:upload_merge|Merging an Upload Into Door43]]
+  * [[en:ta:vol1:process:prechecking_training|Training Before Checking Begins]]
+  * [[en:ta:vol1:process:required_checking|How to Check]]
 

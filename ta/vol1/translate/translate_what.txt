@@ -3,6 +3,8 @@
 This module answers the question: What do I start translating?\\
 Before you start this module have you learned about:
   * [[en:ta:vol1:translate:translate_manual|Introduction to Translation Manual]]
+  * [[en:ta:vol1:translate:translate_process|The Translation Process]]
+  * [[en:ta:vol1:translate:choose_team|Choosing a Translation Team]]
 
 ==== What Should I Start Translating? ====
 
@@ -29,6 +31,7 @@ After completing Open Bible Stories, we encourage the translation team to start 
 
 
 Next we recommend you learn about:
+  * [[en:ta:vol1:translate:first_draft|Make a First Draft]]
   * [[en:ta:vol1:translate:translate_help|Help with Translating]]
   * [[en:ta:vol1:translate:translate_whatis|What is Translation]]
   * [[en:ta:vol1:process:platforms|Selecting a Platform]]

@@ -1,6 +1,9 @@
 ===== Setting Up translationStudio =====
 
 This module answers the question: How do I set up translationStudio?\\
+Before you start this module have you learned about:
+  * [[en:ta:vol1:process:platforms|Selecting a Platform]]
+
 === Set up the app ===
 
   - First you will need to [[en:ta:vol1:tech:ts_install|install translationStudio]] on an Android device. (See also https://unfoldingword.org/translationstudio/ ))
@@ -10,8 +13,10 @@ This module answers the question: How do I set up translationStudio?\\
 
   - [[en:ta:vol1:tech:ts_select|Select Source & Target Languages]]. Go [[en:ta:vol1:tech:ts_request|here]] if you cannot find your language.
 
-
 //For more information on how to use translationStudio see the [[en:ta:vol1:tech:toc_techvol1|Technology Manual section on translationStudio]]//.
 
 
+
+Next we recommend you learn about:
+  * [[en:ta:vol1:process:tsandroid_translation|Translating in translationStudio]]
 

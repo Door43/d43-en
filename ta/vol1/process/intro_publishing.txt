@@ -1,7 +1,10 @@
 ===== Introduction to Publishing =====
 
 This module answers the question: What is publishing?\\
-==== Overview ====
+Before you start this module have you learned about:
+  * [[en:ta:vol1:process:prechecking_training|Training Before Checking Begins]]
+
+==== Publishing Overview ====
 
 There are two translation platforms that we use - translationStudio and Door43. Once translations have been completed, we encourage these translations to be checked. Once a translation has been checked to at least Level 1, it becomes eligible to be published. Published content is placed on a platform where it remains static. While the content on Door43 can change frequently, the published content is static and assurance of quality remains high. 
 
@@ -31,4 +34,8 @@ Published content can be found at https://unfoldingword.org/stories/ and on the 
 In Door43, a brief statement will appear in resources that may be eligible for publishing which states the status of publishing in that namespace. For instance, at the time of writing the [[en:obs|Open Bible Stories in English]] says "This resource is published on unfoldingWord as checking level 3 and version 4. See it at https://unfoldingword.org/stories."
 
 
+
+Next we recommend you learn about:
+  * [[en:ta:vol1:process:publishing_prereqs|Publishing Prerequisites]]
+  * [[en:ta:vol1:process:publishing_process|How to Publish]]
 

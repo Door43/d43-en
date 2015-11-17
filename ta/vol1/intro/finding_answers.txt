@@ -1,9 +1,14 @@
 ===== Finding Answers =====
 
 This module answers the question: Where can I find answers to my questions?\\
+Before you start this module have you learned about:
+  * [[en:ta:vol1:intro:ta_intro|Introduction to translationAcademy]]
+
+==== How to Get Answers ====
+
 There are several resources available for finding answers to questions: 
 
-  * **[[:en:ta|translationAcademy]]** - This training manual has much information including:
+  * **[[en:ta|translationAcademy]]** - This training manual has much information including:
     * **[[:en:ta:vol1:translate:toc_transvol1_2|Translation Manual]]** - explains the basics of translation theory and practical translation helps
     * **[[:en:ta:vol1:checking:toc_checkvol1_2|Checking Manual]]** - explains the basics of checking theory and best practices
     * **[[:en:ta:vol1:tech:toc_techvol1_2|Technology Manual]]** - explains how to use the different technology tools
@@ -12,4 +17,7 @@ There are several resources available for finding answers to questions:
   * **Helpdesk** - email help@door43.org with your questions
 
 
+
+Next we recommend you learn about:
+  * [[en:ta:vol1:translate:translate_manual|Introduction to Translation Manual]]
 

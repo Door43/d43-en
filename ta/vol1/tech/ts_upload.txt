@@ -2,36 +2,27 @@
 
 This module answers the question: How do I upload my work?\\
 Before you start this module have you learned about:
-  * [[en:ta:vol1:tech:ts_share|Share Your Work]]
+  * [[en:ta:vol1:tech:ts_share|Backup and Share Your Work]]
 
-When you work in translationStudio, your text is saved every five seconds to your device. Your work is not saved to Door 43 until you upload it.
-
-To upload your work:
-
-   * In the green bar at the top of the screen, tap on the three dots on the right.
-   * In the list of options, tap **Upload**.
-   * The **Translation Upload**  screen opens. It shows the details of the project you will upload.
-   * If you have completed the translation of this project, tap the slide bar on the right. Otherwise continue to step 5.
-      * The slide bar should turn blue and the text should say, "We will now perform a few checks to ensure your translation is ready."
-      * Tap **Continue ** at the bottom of the screen to run the checks on your translation.
-      * If there is a problem, you will see an exclamation mark withe in a circle.  Tap the exclamation mark.  You will need to address each issue before you can continue with your upload.  Tap **Cancel ** to go back and correct your work.
-   * If you are ready to transmit your work, tap **Continue**  to perform the upload.
-
-Go back to the __[[en:ta:vol1:tech:ts_intro|translationStudio]]__ page.
+When you work in translationStudio, your text is saved every five minutes to your device. Your work is not saved to Door 43 until you publish it. See [[en:ta:vol1:tech:ts_publish]] for more information.
 
 
 
 Next we recommend you learn about:
+  * [[en:ta:vol1:tech:ts_intro|translationStudio]]
   * [[en:ta:vol1:tech:ts_install|Install translationStudio on an Android Device]]
   * [[en:ta:vol1:tech:ts_first|Use translationStudio for the First Time]]
-  * [[en:ta:vol1:tech:ts_navigate|Navigate in translationStudio]]
   * [[en:ta:vol1:tech:ts_select|Select Source and Target Languages]]
+  * [[en:ta:vol1:tech:ts_open|Opening a Translation Project]]
+  * [[en:ta:vol1:tech:ts_navigate|Navigate in translationStudio]]
   * [[en:ta:vol1:tech:ts_request|Find my Language]]
+  * [[en:ta:vol1:tech:ts_translate|Translating in translationStudio]]
   * [[en:ta:vol1:tech:ts_create|Create and Edit Text]]
-  * [[en:ta:vol1:tech:ts_footnote|Add a Footnote]]
   * [[en:ta:vol1:tech:ts_resources|Find the Resources in translationStudio]]
-  * [[en:ta:vol1:tech:ts_share|Share Your Work]]
+  * [[en:ta:vol1:tech:ts_useresources|How to Use the Resources in translationStudio]]
+  * [[en:ta:vol1:tech:ts_share|Backup and Share Your Work]]
   * [[en:ta:vol1:tech:ts_update|Update translationStudio Projects]]
   * [[en:ta:vol1:tech:ts_publish|Publish Content to unfoldingWord]]
+  * [[en:ta:vol1:tech:translate_helpts|Finding Help for translationStudio]]
   * [[en:ta:vol1:tech:ts_problem|Report a Problem]]
 

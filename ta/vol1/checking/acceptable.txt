@@ -3,6 +3,8 @@
 This module answers the question: Did the translation team use an acceptabe style?\\
 Before you start this module have you learned about:
   * [[en:ta:vol1:checking:clear|Clear Translation]]
+  * [[en:ta:vol1:checking:natural|Natural Translation]]
+  * [[en:ta:vol1:checking:church_leader_check|Church Leader Check]]
 
 ==== Translation in an Acceptable Style ====
 
@@ -17,5 +19,7 @@ If there is a place where the translation uses language in the wrong style, make
 
 
 
-Next we recommend you learn about: [[en:ta:vol2:checking:alphabet|Appropriate Alphabet]]
+Next we recommend you learn about:
+  * [[en:ta:vol2:checking:alphabet|Appropriate Alphabet]]
+  * [[en:ta:vol1:checking:complete|Complete Translation]]
 

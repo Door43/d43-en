@@ -4,6 +4,8 @@ This module answers the question: What is the importance of form?\\
 Before you start this module have you learned about:
   * [[en:ta:vol1:translate:translate_fandm|Form and Meaning]]
   * [[en:ta:vol1:translate:translate_process|The Translation Process]]
+  * [[en:ta:vol1:translate:translate_discover|Discover the Meaning of the Text]]
+  * [[en:ta:vol1:translate:translate_retell|Re-telling the Meaning]]
 
 ==== Why Form is Important ====
 
@@ -11,9 +13,9 @@ The meaning of a text is the most crucial element. However, the form of the text
 
 For example, look at the differences in form between these translations of Psalm 9:1-2:
 
->I will give thanks to the Lord with all my heart. I will tell of all the great things You have done. I will be glad and full of joy because of You. I will sing praise to Your name, O Most High.\\ (New Life Version)
+>//I will give thanks to the Lord with all my heart. I will tell of all the great things You have done. I will be glad and full of joy because of You. I will sing praise to Your name, O Most High.// \\ (New Life Version)
 
->I will give thanks to the LORD with my whole heart;\\ I will tell of all your wonderful deeds.\\ I will be glad and exult in you;\\ I will sing praise to your name, O Most High.\\ (New Revised Standard Version)
+>//I will give thanks to the LORD with my whole heart;\\ I will tell of all your wonderful deeds.\\ I will be glad and exult in you;\\ I will sing praise to your name, O Most High. //\\ (New Revised Standard Version)
 
 The first version puts the text into a form that is no different than the form it uses for telling stories. Each line of the Psalm is stated as a separate sentence.
 
@@ -23,7 +25,7 @@ A reader of the second version will know that this Psalm is a poem or a song bec
 
 Look also at the form of 2 Samuel 18:33b:
 
->"O my son Absalom! My son, my son Absalom! If only I had died instead of you–O Absalom, my son, my son!"\\ (New International Version)
+>//"O my son Absalom! My son, my son Absalom! If only I had died instead of you–O Absalom, my son, my son!"// \\ (New International Version)
 
 Someone might say that the meaning contained in this part of the verse is, "I wish that I had died instead of my son Absalom." This does summarize the meaning contained in the words. But the form communicates much more than just that content. The repetition of "my son" so many times, the repetition of the name "Absalom," the expression "O," the wish form "If only…" all communicate a strong emotion of deep anguish on the part of a father who has lost a son. As a translator, you need to translate not just the meaning of the words, but also the meaning of the form. For 2 Samuel 18:33b, it is important that you use a form that communicates the same emotion as contained in the original language.
 
@@ -43,9 +45,7 @@ The meaning of forms is determined by culture. The same form might have differen
 
 
 Next we recommend you learn about:
-  * [[en:ta:vol1:translate:translate_discover|Discover the Meaning of the Text]]
-  * [[en:ta:vol1:translate:translate_retell|Re-telling the Meaning]]
-  * [[en:ta:vol1:translate:translate_process|The Translation Process]]
-  * [[en:ta:vol1:translate:translate_wforw|Word for Word Substitution]]
+  * [[en:ta:vol1:translate:translate_literal|Literal Translations]]
+  * [[en:ta:vol1:translate:translate_dynamic|Meaning-Based Translations]]
   * [[en:ta:vol1:translate:translate_levels|Levels of Meaning]]
 

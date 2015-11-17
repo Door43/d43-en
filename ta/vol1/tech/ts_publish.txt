@@ -2,9 +2,10 @@
 
 This module answers the question: How do I publish content to unfoldingWord?\\
 Before you start this module have you learned about:
-  * [[en:ta:vol1:tech:ts_share|Share Your Work]]
+  * [[en:ta:vol1:tech:ts_share|Backup and Share Your Work]]
 
-When you publish your work there are several steps to the process. The process begins in translationStudio when you select the **Publish** button. The process continues in Door43 when you submit the Request to Publish form for your updated text. 
+When you publish your work there are several steps to the process. The process begins in translationStudio when you select **Publish** from the 3 dot icon menu. The process continues in Door43 when you submit the Request to Publish form for your updated text. 
+
 The Request to Publish form includes several pieces of data such as your contact information, the requested checking level, translation contributors, etc. The person who reviews the request will verify that each contributor provided a legal signature.\\
 
 Complete the following steps to publish your work:
@@ -36,31 +37,35 @@ Complete the following steps to publish your work:
   - Select **File** to upload any signature documents or other files necessary to submit this text.
   - Select **Submit** to complete your request for publication. This clears the form and returns a confirmation message.
 
-=====Questions Regarding the Request to Publish Form and Process=====
+==== Questions Regarding the Request to Publish Form and Process ====
 
-====What Happens After Text is Approved?====
+=== What Happens After Text is Approved? ===
 When the Request to Publish is approved, the text is available on Door 43 where others can view it.
 
-====Can Text Be Changed After Level 3 Checking?====
+=== Can Text Be Changed After Level 3 Checking? ===
 Approved text can always be modified in translationStudio even after all checking levels are completed, HOWEVER if you or another user were to submit a Request to Publish for text that has already completed Level 3 checking, there would be questions regarding the reason for overwriting the previously published and checked materials. The approver will look to see who contributed to the change and may contact the requestor and others involved with the translation of the text in question to ensure the changes are valid.
 
-====Must All Contributors Be Named?====
+=== Must All Contributors Be Named? ===
 Due to copyright laws (and these exist no matter what country you are in and no matter what people tell you about laws in that country), you must list every contributor on the Request to Publish form and provide a legal signature for each person. In certain cases we understand they cannot be named, however you can provide the established pseudonym for that person.\\
 
 
 
 
 Next we recommend you learn about:
+  * [[en:ta:vol1:tech:ts_intro|translationStudio]]
   * [[en:ta:vol1:tech:ts_install|Install translationStudio on an Android Device]]
   * [[en:ta:vol1:tech:ts_first|Use translationStudio for the First Time]]
-  * [[en:ta:vol1:tech:ts_navigate|Navigate in translationStudio]]
   * [[en:ta:vol1:tech:ts_select|Select Source and Target Languages]]
+  * [[en:ta:vol1:tech:ts_open|Opening a Translation Project]]
+  * [[en:ta:vol1:tech:ts_navigate|Navigate in translationStudio]]
   * [[en:ta:vol1:tech:ts_request|Find my Language]]
+  * [[en:ta:vol1:tech:ts_translate|Translating in translationStudio]]
   * [[en:ta:vol1:tech:ts_create|Create and Edit Text]]
-  * [[en:ta:vol1:tech:ts_footnote|Add a Footnote]]
   * [[en:ta:vol1:tech:ts_resources|Find the Resources in translationStudio]]
-  * [[en:ta:vol1:tech:ts_share|Share Your Work]]
+  * [[en:ta:vol1:tech:ts_useresources|How to Use the Resources in translationStudio]]
+  * [[en:ta:vol1:tech:ts_share|Backup and Share Your Work]]
   * [[en:ta:vol1:tech:ts_upload|Upload Your Work]]
   * [[en:ta:vol1:tech:ts_update|Update translationStudio Projects]]
+  * [[en:ta:vol1:tech:translate_helpts|Finding Help for translationStudio]]
   * [[en:ta:vol1:tech:ts_problem|Report a Problem]]
 

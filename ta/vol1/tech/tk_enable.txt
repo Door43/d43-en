@@ -4,6 +4,8 @@ This module answers the question: How do I enable translationKeyboard on an Andr
 Before you start this module have you learned about:
   * [[en:ta:vol1:tech:tk_install|Install translationKeyboard on an Android Device]]
 
+==== Enabling tK ====
+
    * Open translationKeyboard and tap the **Enable keyboard **  button at the top of the screen. This will open the Settings window on your device.
    * Select the checkbox in front of translationKeyboard and tap **OK **  to accept the notifications about this app.
    * Tap the **Home **  icon at the bottom of the screen to exit the Settings window.

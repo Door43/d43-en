@@ -6,45 +6,40 @@ Before you start this module have you learned about:
 
 You can select and change your source language and target language whenever you use translationStudio.\\
 
-**Note:** The first time you use the application, translationStudio opens at the **Project Settings** screen so you can select your languages. To get to this screen any other time, tap **Project Settings** in the green bar at the top of the screen.\\
+**Note:** The first time you use the application, translationStudio opens at the **Translation Projects** screen so you can select the target language. \\
 
 Complete these steps to select or change the target language, which is the language you are translating TO:
+  - Tap the three dots icon.
+  - Choose **My Translations**
+  - Tap the blue circle with a + sign.
+  - Swipe up to find the target language or tap the look-up icon. The search field opens and the keyboard appears. Type the first few letters of your language to navigate to that portion of the list.
+  - Tap on your language. If you wish to hide the keyboard, tap the triangle in the black bar below the list.
+  - Choose a project to start translating.
 
-   * Tap **Project ****Settings**.
-   * The gray bar under **Target Language**  shows the current target language. Tap the gray bar to open the list of available target languages.
-   * Tap above the list to open the keyboard.
-   * Type the first few letters of your language to navigate to that portion of the list.
-   * Tap on your language. If you wish to hide the keyboard, tap the triangle in the black bar below the list.
-   * When you have selected your language, tap **OK **  in the upper right corner.
-   * If you are satisfied with your target language, tap **OK **  again in the upper right corner. Otherwise repeat these steps to select the correct language.
 
 Complete these steps to select or change the source language, which is the language you are translating FROM:
-
-   * Tap **Project ****Settings**.
-   * The gray bar under **Source Language**  shows the current source language (English is the default language). Tap the gray bar to open the list of available source languages.
-   * Tap above the list to open the keyboard.
-   * Type the first few letters of your language to navigate to that portion of the list.
-   * Tap on the desired source language. To hide the keyboard, tap the triangle in the black bar below the list.
-   * When you have selected your language, tap **OK **  in the upper right corner.
-   * If you are satisfied with your source language, tap **OK **  again in the upper right corner. Otherwise repeat these steps to select the correct language.
-
-To see a video of this process, {{:en:ta:tech:starting_up_translationstudio-obs_600x400_v6.mp4|click here}}. The language selection begins about halfway through the video.
-
+In the translation project:
+  - Tap the square icon with the + and - sign found at the top right of the source text window.
+  - Tap the empty square box next to the desired source language.
+  - Tap on "Confirm" at the bottom of the window to save the selection. Or, tap on "Cancel" to close and not save the selected language.
 
 
 
 Next we recommend you learn about:
   * [[en:ta:vol1:tech:ts_intro|translationStudio]]
+  * [[en:ta:vol1:tech:ts_install|Install translationStudio on an Android Device]]
   * [[en:ta:vol1:tech:ts_first|Use translationStudio for the First Time]]
+  * [[en:ta:vol1:tech:ts_open|Opening a Translation Project]]
   * [[en:ta:vol1:tech:ts_navigate|Navigate in translationStudio]]
-  * [[en:ta:vol1:tech:ts_select|Select Source and Target Languages]]
   * [[en:ta:vol1:tech:ts_request|Find my Language]]
+  * [[en:ta:vol1:tech:ts_translate|Translating in translationStudio]]
   * [[en:ta:vol1:tech:ts_create|Create and Edit Text]]
-  * [[en:ta:vol1:tech:ts_footnote|Add a Footnote]]
   * [[en:ta:vol1:tech:ts_resources|Find the Resources in translationStudio]]
-  * [[en:ta:vol1:tech:ts_share|Share Your Work]]
+  * [[en:ta:vol1:tech:ts_useresources|How to Use the Resources in translationStudio]]
+  * [[en:ta:vol1:tech:ts_share|Backup and Share Your Work]]
   * [[en:ta:vol1:tech:ts_upload|Upload Your Work]]
   * [[en:ta:vol1:tech:ts_update|Update translationStudio Projects]]
   * [[en:ta:vol1:tech:ts_publish|Publish Content to unfoldingWord]]
+  * [[en:ta:vol1:tech:translate_helpts|Finding Help for translationStudio]]
   * [[en:ta:vol1:tech:ts_problem|Report a Problem]]
 

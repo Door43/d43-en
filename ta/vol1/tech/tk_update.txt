@@ -4,6 +4,8 @@ This module answers the question: How do I update translationKeyboard?\\
 Before you start this module have you learned about:
   * [[en:ta:vol1:tech:tk_intro|translationKeyboard]]
 
+==== Updating tK ====
+
 Sometimes you may need to update the keyboard.
 
    * Open the translationKeyboard application by tapping on the tK icon found on the Android screen.
