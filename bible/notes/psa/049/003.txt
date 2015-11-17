@@ -2,49 +2,17 @@
 
 ===== TFT: =====
 
-<usfm>
-\v 3 because what I am thinking is very sensible,
-\q2 and what I say will enable you to become wise.
-\q1
-\v 4 I think about \f + \ft metonymy \f* proverbs\f + \ft Or: wise sayings \f*,
-\q2 and while I play my harp, I explain what they mean.
-\b
-\q1
-\v 5 I am not \f + \ft rhetorical question \f* afraid when I am in trouble\f + \ft Or: danger \f*,
-\q2 when I am surrounded by my enemies,
-\q1
-</usfm>
+<usfm> \v 3 because what I am thinking is very sensible, \q2 and what I say will enable you to become wise. \q1 \v 4 I think about \f + \ft metonymy \f* proverbs\f + \ft Or: wise sayings \f*, \q2 and while I play my harp, I explain what they mean. \b \q1 \v 5 I am not \f + \ft rhetorical question \f* afraid when I am in trouble\f + \ft Or: danger \f*, \q2 when I am surrounded by my enemies, \q1 </usfm>
 
 ===== UDB: =====
 
-<usfm>
-\v 3 For what I am thinking is very sensible,
-\q2 and what I say will enable you to become wise.
-\q1
-\v 4 I think about wise words to tell you,
-\q2 and while I play my harp, I explain what they mean.
-\b
-\q1
-\v 5 I do not worry when I am in trouble,
-\q2 when I am surrounded by my enemies.
+<usfm> \v 3 For what I am thinking is very sensible, \q2 and what I say will enable you to become wise. \q1 \v 4 I think about wise words to tell you, \q2 and while I play my harp, I explain what they mean. \b \q1 \v 5 I do not worry when I am in trouble, \q2 when I am surrounded by my enemies.
 
-
-\q1
-</usfm>
+\q1 </usfm>
 
 ===== ULB: =====
 
-<usfm>
-\q
-\v 3 My mouth will speak wisdom
-\q and the meditation of my heart will be of understanding.
-\q
-\v 4 I will incline my ear to a parable;
-\q I will begin my parable with the harp.
-\q
-\v 5 Why should I fear the days of evil,
-\q when iniquity surrounds me at my heels?
-</usfm>
+<usfm> \q \v 3 My mouth will speak wisdom \q and the meditation of my heart will be of understanding. \q \v 4 I will incline my ear to a parable; \q I will begin my parable with the harp. \q \v 5 Why should I fear the days of evil, \q when iniquity surrounds me at my heels? </usfm>
 
 ===== Important Terms: =====
 
@@ -54,13 +22,13 @@
   * [[:en:obe:other:parable|parable]]
   * [[:en:obe:other:harp|harp]]
   * [[:en:obe:kt:fear|fear, afraid, fear of God, fear of Yahweh]]
-  * [[:en:obe:other:harp|harp]]
+  * evil
   * [[:en:obe:kt:iniquity|iniquity]]
 
 ===== Translation Notes: =====
 
   * **My mouth will speak wisdom -**  AT: "I will say wise things" or "The words from my mouth will help you to be wise." (See: Synecdoche)
-  * **I will incline my ear to a parable; **- The psalmist will bend his ear to listen and hear what God wants to tell.
+  * **I will incline my ear to a parable; **- The psalmist will "bend his ear" (idiom) to listen and hear what God wants to tell.
   * **iniquity surrounds me at my heels? **  - "iniquity surrounds me" (See: Metonymy) (See: Personification) Iniquity refers to evil.
   * **Why should I fear the days of evil, when iniquity surrounds me at my heels? **  - AT: "I am not afraid of trouble, when iniquity surrounds me?" (See: Rhetorical Question)
 ===== Links: =====
@@ -68,6 +36,6 @@
   * **[[:en:bible:questions:comprehension:psa:049|Psalms Chapter 049 Comprehension Questions]]**
 **[[:en:bible:notes:psa:049:001|<<]] | [[:en:bible:notes:psa:049:006|>>]]**
 
-~~DISCUSSION~~{{tag>draft book2}}
+~~DISCUSSION~~{{tag>check book2}}
 
 ~~NOCACHE~~
