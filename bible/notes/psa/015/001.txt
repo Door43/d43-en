@@ -2,42 +2,17 @@
 
 ===== TFT: =====
 
-<usfm>
-\v 1 Yahweh, who are allowed to enter your Sacred Tent?
-\q2 Who are allowed to live on your sacred mountain?
-\b
-\q1
-\v 2 Only those who always do what is right and do not sin may do that.
-\q2 They always say what is true
-\q2
-</usfm>
+<usfm> \v 1 Yahweh, who are allowed to enter your Sacred Tent? \q2 Who are allowed to live on your sacred mountain? \b \q1 \v 2 Only those who always do what is right and do not sin may do that. \q2 They always say what is true \q2 </usfm>
 
 ===== UDB: =====
 
-<usfm>
-\v 1 Yahweh, who are allowed to enter your sacred tent?
-\q2 Who are allowed to live on your sacred mountain?
-\q1
-\v 2 Only those who always do what is right and do not sin may do that,
-\q2 those who always speak the truth.
+<usfm> \v 1 Yahweh, who are allowed to enter your sacred tent? \q2 Who are allowed to live on your sacred mountain? \q1 \v 2 Only those who always do what is right and do not sin may do that, \q2 those who always speak the truth.
 
-
-\q2
-</usfm>
+\q2 </usfm>
 
 ===== ULB: =====
 
-<usfm>
-\c 15
-\d A psalm of David.
-\b
-\q
-\v 1 Yahweh, who may stay in your tabernacle?
-\q Who may live on your holy hill?
-\q
-\v 2 He walks blamelessly and does what is right,
-\q and speaks truth from his heart.
-</usfm>
+<usfm> \c 15 \d A psalm of David. \b \q \v 1 Yahweh, who may stay in your tabernacle? \q Who may live on your holy hill? \q \v 2 He walks blamelessly and does what is right, \q and speaks truth from his heart. </usfm>
 
 ===== Important Terms: =====
 
@@ -46,13 +21,15 @@
   * [[:en:obe:kt:tabernacle|tabernacle]]
   * [[:en:obe:kt:life|life, live, living, alive]]
   * [[:en:obe:kt:holy|holy, holiness]]
+  * blamelessly, blameless
   * [[:en:obe:kt:true|true, truth]]
   * [[:en:obe:other:heart|heart]]
 
 ===== Translation Notes: =====
 
-See: [[en:ta:workbench:translate:poetry]] and [[:en:ta:vol2:translate:figs_parallelism]] 
+See: [[:en:ta:workbench:translate:poetry|Translating Poetry]] and [[:en:ta:vol2:translate:figs_parallelism|Parallelism]]
 
+  * **your **- Refers to God's property.
   * **who may live on your holy hill**  - ALT: "who may live in your holy place"
   * **he who walks blamelessly**  - ALT:" the man who does what is right and and speaks the truth"
 ===== Links: =====
@@ -60,6 +37,6 @@ See: [[en:ta:workbench:translate:poetry]] and [[:en:ta:vol2:translate:figs_paral
   * **[[:en:bible:questions:comprehension:psa:015|Psalms Chapter 015 Comprehension Questions]]**
 **[[:en:bible:notes:psa:014:007|<<]] | [[:en:bible:notes:psa:015:003|>>]]**
 
-~~DISCUSSION~~{{tag>draft book1}}
+~~DISCUSSION~~{{tag>check book1}}
 
 ~~NOCACHE~~
