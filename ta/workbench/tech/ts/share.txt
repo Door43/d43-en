@@ -1,5 +1,31 @@
 ===== Share Your Work =====
 
+**VERSION 3**\\
+You can share your work for another program, send it to another device, or put it on an SD card. When your work is on a storage card, you can put it on a computer or device that has the translationStudio app.
+
+**Note: ** You can only move or share the changes that have been made on the device you are using to perform this function. In these instructions, "your work" means any changes made on this device.
+
+To share, move, or store your work, complete these steps:
+
+  - Tap the three dots on the bottom left of the editing window.
+  - Tap **Backup** on the list.
+  - At the **Backup** screen, select what you want to do.
+   - Tap **Backup to SD Card** to move your work onto the SD card inserted into your device. This function will not work if no SD card is inserted into the device.
+   - Tap **Send to another app** to export your work.
+     - Tap **Android Beam**  to send your work to a nearby device that has translationStudio installed on it. The app will attempt to locate the device. 
+     - Tap **Bluetooth** to send your work to a nearby device. If it continues searching for more than a minute, exit the screen and verify that the devices are paired through Bluetooth.
+     - Tap **Drive** to send your work to a Google Drive that has been created before. This requires an Internet connection.
+     - Tap **Gmail** to send your work to an email account. This requires an Internet connection.
+     - Tap ** Slack** to send your work to the Door43 Slack account.
+  - When you are finished, tap outside the Backup Screen to return to the translation screen.
+
+
+
+
+
+
+----
+**VERSION 2**\\
 You can share your work on DokuWiki, send it to another device, or put it on an SD card. When your work is on a storage card, you can put it on a computer or device that has the translationStudio app.
 
 **Note: ** You can only move or share the changes that have been made on the device you are using to perform this function. In these instructions, "your work" means any changes made on this device.
