@@ -2,61 +2,37 @@
 
 ===== TFT: =====
 
-<usfm>
-\v 9 with the result that he will live forever
-\q2 and never \add die and\add* be buried!
-\b
-\q1
-\v 10 We see that foolish and stupid people die,
-\q1 but we see that wise people also die;
-\q2 they all leave their wealth, and others inherit it.
-\q1
-</usfm>
+<usfm> \v 9 with the result that he will live forever \q2 and never \add die and\add* be buried! \b \q1 \v 10 We see that foolish and stupid people die, \q1 but we see that wise people also die; \q2 they all leave their wealth, and others inherit it. \q1 </usfm>
 
 ===== UDB: =====
 
-<usfm>
-\v 9 so that he will live forever
-\q2 and never die and be buried!
-\b
-\q1
-\v 10 We see that foolish and stupid people die,
-\q1 but we see that wise people also die;
-\q2 they all leave their wealth, and others inherit it.
+<usfm> \v 9 so that he will live forever \q2 and never die and be buried! \b \q1 \v 10 We see that foolish and stupid people die, \q1 but we see that wise people also die; \q2 they all leave their wealth, and others inherit it.
 
-
-\q1
-</usfm>
+\q1 </usfm>
 
 ===== ULB: =====
 
-<usfm>
-\q
-\v 9 No one can live forever
-\q so that his body should not decay.
-\q
-\v 10 For he will see decay. Wise men die;
-\q the fool and the brute alike perish
-\q and leave their wealth to others.
-</usfm>
+<usfm> \q \v 9 No one can live forever \q so that his body should not decay. \q \v 10 For he will see decay. Wise men die; \q the fool and the brute alike perish \q and leave their wealth to others. </usfm>
 
 ===== Important Terms: =====
 
+  * live, life
   * [[:en:obe:kt:forever|forever]]
   * [[:en:obe:kt:body|body]]
+  * wise, wisdom
   * [[:en:obe:kt:death|death, die, dead]]
   * [[:en:obe:kt:foolish|fool, foolish, folly]]
   * [[:en:obe:kt:perish|perish, perishing, perishable]]
 
 ===== Translation Notes: =====
 
-  * **decay - ** To decay means to waste away and be buried.
+  * **decay - **  To decay means to waste away and be buried.
   * **Wise men die; the fool and the brute alike perish **- AT: "All men, both the wise and the foolish ones, perish" (See: Parallelism)
 ===== Links: =====
 
   * **[[:en:bible:questions:comprehension:psa:049|Psalms Chapter 049 Comprehension Questions]]**
 **[[:en:bible:notes:psa:049:006|<<]] | [[:en:bible:notes:psa:049:011|>>]]**
 
-~~DISCUSSION~~{{tag>draft book2}}
+~~DISCUSSION~~{{tag>check book2}}
 
 ~~NOCACHE~~
