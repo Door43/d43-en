@@ -1,5 +1,22 @@
 ====== Update translationStudio Projects ======
+**VERSION 3**\\
 
+To update project information on your device, complete the steps below. The translationStudio program is updated each time you open the app.
+
+**Note:** This process requires an Internet connection.
+
+To update translationStudio projects:
+
+  - In the **Your Translation Projects** section, tap the three dots on the left.
+  - In the list of options, tap **Update Library**.
+  - This process uses the Internet connection. Tap 'Yes' to continue. Tap 'No' to exit.
+  - Tap on the Open Bible Stories or a Bible book.
+  - Tap on a language. Another window opens - choose to download or not.
+  - When all the desired languages are downloaded, tap the back arrow at the top left of the window to return to the **Translation Projects** section.
+
+
+----
+**VERSION 2**\\
 To update project information on your device, complete the steps below. If you are looking for a way to update the translationStudio app, this process is now automated each time you open the app.
 
 **Note: ** This process requires an Internet connection.
