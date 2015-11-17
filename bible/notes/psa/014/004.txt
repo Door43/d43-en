@@ -2,32 +2,17 @@
 
 ===== TFT: =====
 
-<usfm>
-\v 4 Will those evil people never learn \add what God will do to punish them\add* \f + \ft rhetorical question \f*?
-\q1 They act violently toward Yahweh's people while eating the food that he provides),
-\q2 and they never pray to Yahweh.
-\q1
-</usfm>
+<usfm> \v 4 Will those evil people never learn \add what God will do to punish them\add* \f + \ft rhetorical question \f*? \q1 They act violently toward Yahweh's people while eating the food that he provides), \q2 and they never pray to Yahweh. \q1 </usfm>
 
 ===== UDB: =====
 
-<usfm>
-\v 4 Will those evil people never learn what God will do to punish them?
-\q1 They act violently toward Yahweh's people and want to consume them like one who eats food consumes it,
-\q2 and they never pray to Yahweh.
+<usfm> \v 4 Will those evil people never learn what God will do to punish them? \q1 They act violently toward Yahweh's people and want to consume them like one who eats food consumes it, \q2 and they never pray to Yahweh.
 
-
-\q1
-</usfm>
+\q1 </usfm>
 
 ===== ULB: =====
 
-<usfm>
-\q
-\v 4 Do the not know anything, those who commit iniquity,
-\q those who eat up my people as they eat bread,
-\q but who do not call on Yahweh?
-</usfm>
+<usfm> \q \v 4 Do the not know anything, those who commit iniquity, \q those who eat up my people as they eat bread, \q but who do not call on Yahweh? </usfm>
 
 ===== Important Terms: =====
 
@@ -38,13 +23,15 @@
 
 ===== Translation Notes: =====
 
-  * **those who commit iniquity** - AT: "those who behave in evil ways"
-  * **those who eat up my people** - AT: "those who act violently against my people." They are not actually eating the people. (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **they, those **- Refers to the saons of mankind.
+  * **those who commit iniquity**  - AT: "those who behave in evil ways"
+  * **my **- Refers to people of Israel, David's people.
+  * **those who eat up my people**  - AT: "those who act violently against my people." They are not actually eating the people. (See: [[:en:ta:vol1:translate:figs_idiom|Idiom]])
 ===== Links: =====
 
   * **[[:en:bible:questions:comprehension:psa:014|Psalms Chapter 014 Comprehension Questions]]**
 **[[:en:bible:notes:psa:014:002|<<]] | [[:en:bible:notes:psa:014:005|>>]]**
 
-~~DISCUSSION~~{{tag>draft book1}}
+~~DISCUSSION~~{{tag>check book1}}
 
 ~~NOCACHE~~
