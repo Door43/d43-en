@@ -42,27 +42,62 @@ See how you translated this in [[:en:bible:notes:1sa:04:14|4:14]].
 </code>
 
 
-==== Examples where the verse begins a chunk: ====
+==== Examples where the verse does not begin a chunk: ====
 
-Isaiah 52:13
+The "vv" number must be adjusted to the beginning verse of the chunk.
 
-<code>
-See how you translated this in [[:en:bible:notes:isa:52:13|52:13]].
-</code>
-
-Isaiah 3:4
+Isaiah 14:30
 
 <code>
-See how you translated this in [[:en:bible:notes:isa:03:04|3:4]].
+See how you translated this in [[:en:bible:notes:isa:14:28|14:30]].
 </code>
 
-1 Samuel 4:14
+Isaiah 3:3
 
 <code>
-See how you translated this in [[:en:bible:notes:1sa:04:14|4:14]].
+See how you translated this in [[:en:bible:notes:isa:03:01|3:3]].
+</code>
+
+1 Samuel 6:4
+
+<code>
+See how you translated this in [[:en:bible:notes:1sa:06:03|4:4]].
 </code>
 
 
+==== Examples in Psalms: ====
+
+The chapter and verse numbers to the left of the vertical bar (|) __must__ be 3-digits for every Psalm, whether the Psalm and verse are more than 100 or not.
+
+Psalm 3:5
+
+<code>
+See how you translated this in [[:en:bible:notes:isa:003:005|3:5]].
+</code>
+
+Psalm 3:6
+
+<code>
+See how you translated this in [[:en:bible:notes:isa:003:005|3:6]].
+</code>
+
+Psalm 119:9
+
+<code>
+See how you translated this in [[:en:bible:notes:psa:119:009|119:9]].
+</code>
+
+Psalm 119:13
+
+<code>
+See how you translated this in [[:en:bible:notes:psa:119:13|119:14]].
+</code>
+
+Psalm 119:105
+
+<code>
+See how you translated this in [[:en:bible:notes:psa:119:105|119:105]].
+</code>
 
 
 ~~DISCUSSION~~
