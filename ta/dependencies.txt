@@ -167,6 +167,9 @@ edge [arrowsize=1.4];
 "prechecking_training" -> "required_checking"
 "setup_door43" [fillcolor="#99ffff"]
 "platforms" -> "setup_door43"
+"setup_team" [fillcolor="#99ffff"]
+"translate_process" -> "setup_team"
+"getting_started" -> "setup_team"
 "setup_tsandroid" [fillcolor="#99ffff"]
 "platforms" -> "setup_tsandroid"
 "setup_word" [fillcolor="#99ffff"]
@@ -263,22 +266,23 @@ edge [arrowsize=1.4];
 "Technology" -> "ts_intro"
 "ts_open" [fillcolor="#ffff99"]
 "tS_install" -> "ts_open"
+"uW_app" [fillcolor="#ffff99"]
+"Technology" -> "uW_app"
 "uW_audio" [fillcolor="#ffff99"]
-"uW_intro" -> "uW_audio"
+"uW_app" -> "uW_audio"
 "uW_checking" [fillcolor="#ffff99"]
-"uW_intro" -> "uW_checking"
+"uW_app" -> "uW_checking"
 "uW_first" [fillcolor="#ffff99"]
+"uW_app" -> "uW_first"
 "uW_install" -> "uW_first"
 "uW_install" [fillcolor="#ffff99"]
-"uW_intro" -> "uW_install"
-"uW_intro" [fillcolor="#ffff99"]
-"Technology" -> "uW_intro"
+"uW_app" -> "uW_install"
 "uW_language" [fillcolor="#ffff99"]
-"uW_intro" -> "uW_language"
+"uW_app" -> "uW_language"
 "uW_select" [fillcolor="#ffff99"]
-"uW_install" -> "uW_select"
+"uW_app" -> "uW_select"
 "uW_update_content" [fillcolor="#ffff99"]
-"uW_intro" -> "uW_update_content"
+"uW_app" -> "uW_update_content"
 "choose_team" [fillcolor="#99ff99"]
 "guidelines_intro" -> "choose_team"
 "translate_whatis" -> "choose_team"

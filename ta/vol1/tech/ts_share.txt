@@ -4,6 +4,8 @@ This module answers the question: How do I backup and share my work?\\
 Before you start this module have you learned about:
   * [[en:ta:vol1:tech:ts_create|Create and Edit Text]]
 
+==== Backup & Share ====
+
 You can share your work for another program, send it to another device, or put it on an SD card. When your work is on a storage card, you can put it on a computer or device that has the translationStudio app.\\
 
 **Note: ** You can only move or share the changes that have been made on the device you are using to perform this function. In these instructions, "your work" means any changes made on this device.\\

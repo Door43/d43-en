@@ -13,7 +13,7 @@ Before you start this module have you learned about:
 
 ==== Changing a page ====
 
-  * It is recommended that you keep a copy of the source text so that the translation can be compared against the orginal. This can be done in one of two ways: 
+  * It is recommended that you keep a copy of the source text so that the translation can be compared against the original. This can be done in one of two ways: 
     * Put the translation above (or below) the source language but not deleting the source text. (Note: The source text will have to be deleted before uploading.)
     * Make an extra copy of the source text, then delete the source text from the one copy after the translation has been made. When reference to the source text needs to be made, the other copy with the source text can be referenced. 
 
@@ -29,7 +29,7 @@ Before you start this module have you learned about:
 
   - We strongly recommend that your translation be [[en:ta:vol1:process:prechecking_training|checked]].
   - Once the checking is complete (to any level), you may upload your work. 
-    - This feature is presently automated for Open Bible Storeis. Please follow the instructions on the [[:obs-upload|Open Bible Stories Upload]] page. 
+    - This feature is presently automated for Open Bible Stories. Please follow the instructions on the [[:obs-upload|Open Bible Stories Upload]] page. 
     - Please contact the [[en:ta:vol1:intro:finding_answers|Helpdesk]] for help with uploading other projects.
   - Once uploaded, you will need to [[en:ta:vol1:process:upload_merge|merge]] your work into Door43.
 

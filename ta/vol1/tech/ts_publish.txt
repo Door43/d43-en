@@ -4,11 +4,15 @@ This module answers the question: How do I publish content to unfoldingWord?\\
 Before you start this module have you learned about:
   * [[en:ta:vol1:tech:ts_share|Backup and Share Your Work]]
 
+==== Publishing ====
+
 When you publish your work there are several steps to the process. The process begins in translationStudio when you select **Publish** from the 3 dot icon menu. The process continues in Door43 when you submit the Request to Publish form for your updated text. 
 
-The Request to Publish form includes several pieces of data such as your contact information, the requested checking level, translation contributors, etc. The person who reviews the request will verify that each contributor provided a legal signature.\\
+The Request to Publish form includes several pieces of data such as your contact information, the requested checking level, translation contributors, etc. The person who reviews the request will verify that each contributor provided a legal signature.
 
 Complete the following steps to publish your work:
+
+=== Step 1: Upload your work ===
 
   - In translationStudio, select the … icon to access the options menu.
   - Select the **Publish**  icon.
@@ -17,19 +21,27 @@ Complete the following steps to publish your work:
     - Select **Review**. If there is a green checkmark next to your updated text, select the **Next Step** button.
     - Select **Upload**. This will open an **uploading** popup.
     - When the **Success** popup opens, select **OK**.
+
+=== Step 2: Merge your work onto Door43 ===
+
   - Open Door43 and navigate to your text.
-  - To continue and integrate your changes, select the red **1** icon.
+  - To continue and integrate your changes, select the **red number icon**.
   - Review your changes. You should be able to view every text chunk side by side with the previous version.
   - Scroll all the way down until you see the buttons: **Dismiss**, **Edit & Apply** and **Apply**.
     - To cancel the publishing process, select **Dismiss**.
     - To make further changes, select **Edit & Apply**. You can then make your changes and apply them to continue with the Publish process.
     - To continue without making changes, select **Apply**.
+
+At this point your work will be accessible on Door43 and may be downloaded and shared. If ready, we strongly encourage that your work be published.
+
+=== Step 3: Request to Publish ===
+
   - Return to the top of the page. Above the title of your text, click on the **Request to Publish** link to open the form.
   - Complete all fields on the form. If you leave a field blank it will delay the approval process.
     - Provide your name in the **Requestor** field.
-    - Provide your email address in the **Email**   field. Please respond to any emails regarding this publication request in a timely manner to prevent delays in the approval process.
+    - Provide your email address in the **Email** field. Please respond to any emails regarding this publication request in a timely manner to prevent delays in the approval process.
     - Indicate the **Resource Type** from the dropdown box.
-    - Select the translation language from the dropdown box. If your language is not listed, send an email to Help@Door43.org. Also see [ts_request|Find My Language].
+    - Select the translation language from the dropdown box. If your language is not listed, send an email to [[help@door43.org]]. Also see [[en:ta:vol1:tech:ts_request|Find My Language]].
     - Select the translation source from the **Source Text**  dropdown box.
     - Type the version of the source you used in the **Source Version** field.
     - Select the checking level for your text from the **Requested checking level** dropdown box.
@@ -40,18 +52,22 @@ Complete the following steps to publish your work:
 ==== Questions Regarding the Request to Publish Form and Process ====
 
 === What Happens After Text is Approved? ===
-When the Request to Publish is approved, the text is available on Door 43 where others can view it.
+
+When the Request to Publish is approved, the text is made available on unfoldingword.org for online viewing, as a downloadable, print-ready PDF, and it appear in the unfoldingWord app.
 
 === Can Text Be Changed After Level 3 Checking? ===
+
 Approved text can always be modified in translationStudio even after all checking levels are completed, HOWEVER if you or another user were to submit a Request to Publish for text that has already completed Level 3 checking, there would be questions regarding the reason for overwriting the previously published and checked materials. The approver will look to see who contributed to the change and may contact the requestor and others involved with the translation of the text in question to ensure the changes are valid.
 
 === Must All Contributors Be Named? ===
-Due to copyright laws (and these exist no matter what country you are in and no matter what people tell you about laws in that country), you must list every contributor on the Request to Publish form and provide a legal signature for each person. In certain cases we understand they cannot be named, however you can provide the established pseudonym for that person.\\
+
+Due to copyright laws (and these exist no matter what country you are in and no matter what people tell you about laws in that country), you must list __every__ contributor on the Request to Publish form and provide a legal signature for each person. In certain cases we understand they cannot be named, however you can provide the established pseudonym for that person.\\
 
 
 
 
 Next we recommend you learn about:
+  * [[en:ta:vol1:process:publishing_process|How to Publish]]
   * [[en:ta:vol1:tech:ts_intro|translationStudio]]
   * [[en:ta:vol1:tech:ts_install|Install translationStudio on an Android Device]]
   * [[en:ta:vol1:tech:ts_first|Use translationStudio for the First Time]]

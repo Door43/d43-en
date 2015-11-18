@@ -4,7 +4,7 @@ This module answers the question: What do I do when I cannot find my language?\\
 Before you start this module have you learned about:
   * [[en:ta:vol1:tech:ts_install|Install translationStudio on an Android Device]]
 
-==== 
+==== Finding my Language ====
 
 If you do not see your languages in the list of target languages, first try alternate spellings, dialect names, and any variant names for your language. If you still can't find it, you can request that your language be added. The best way to submit a request is to send an email to help@door43.org. Another method is to submit a Bug Report. In either case, please provide as much information as you can about the language, such as the local name of the language, any other names it is known by, approximate number of speakers, where it is spoken, what languages are similar to it, any published works in that language, etc.
 

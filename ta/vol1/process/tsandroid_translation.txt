@@ -9,7 +9,7 @@ Before you start this module have you learned about:
 
   - Once the source text is [[en:ta:vol1:process:setup_tsandroid|setup]] on translationStudio, then you are ready to start translating. 
     * It is strongly recommended that you consult the translation notes and key terms while doing your translation
-  - For the best way to use translation notes in translationStudio, please read [[en:ta:vol2:tech:translate_helpdts]]
+  - For the best way to use translation notes in translationStudio, please read [[en:ta:vol1:tech:ts_resources]]
 
 ==== Editing a page ====
 
