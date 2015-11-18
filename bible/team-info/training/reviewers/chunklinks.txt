@@ -1,12 +1,26 @@
 ====== Verse Link Code ======
 
-These are tA links that we include in pages:
+This page will guide you to creating links to verses in the Bible notes.
 
-Abstract Nouns
+The generic code is as follows:
 
 <code>
-[[:en:ta:vol2:translate:figs_abstractnouns]]
+See how you translated this in [[:en:bible:notes:bok:ch:vv|c:v]].
 </code>
+
+In the above example, the symbols to the left of the vertical bar (|) represent the URL of the target chunk. It must be entered exactly, including leading zeros:
+  * bok = the three-letter code for the book
+  * ch = the two-digit chapter number (except in Psalms, where it must be three digits)
+  * vv = the two-digit verse number
+
+The symbols to the right of the vertical bar (|) represent what appears in the visible green text in the note. I does not need leading zeros:
+  * c = the chapter number
+  * v = the verse number
+
+
+
+
+
 
 
 ~~DISCUSSION~~
