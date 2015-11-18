@@ -2,6 +2,8 @@
 
 This page will guide you to creating links to verses in the Bible notes.
 
+==== Template: ====
+
 The generic code is as follows:
 
 <code>
@@ -17,8 +19,48 @@ The symbols to the right of the vertical bar (|) represent what appears in the v
   * c = the chapter number
   * v = the verse number
 
+**Note** The "vv" and "v" numbers will only match when the target verse is the first verse in the chunk (and therefore the URL of the chunk). If the verse is not the first verse of the chunk, the "vv" number __must be adjusted__ to the first verse of the chunk!
+
+==== Examples where the verse begins a chunk: ====
+
+Isaiah 52:13
+
+<code>
+See how you translated this in [[:en:bible:notes:isa:52:13|52:13]].
+</code>
+
+Isaiah 3:4
+
+<code>
+See how you translated this in [[:en:bible:notes:isa:03:04|3:4]].
+</code>
+
+1 Samuel 4:14
+
+<code>
+See how you translated this in [[:en:bible:notes:1sa:04:14|4:14]].
+</code>
 
 
+==== Examples where the verse begins a chunk: ====
+
+Isaiah 52:13
+
+<code>
+See how you translated this in [[:en:bible:notes:isa:52:13|52:13]].
+</code>
+
+Isaiah 3:4
+
+<code>
+See how you translated this in [[:en:bible:notes:isa:03:04|3:4]].
+</code>
+
+1 Samuel 4:14
+
+<code>
+See how you translated this in [[:en:bible:notes:1sa:04:14|4:14]].
+</code>
 
 
 
