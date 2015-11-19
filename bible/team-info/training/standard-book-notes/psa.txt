@@ -7,7 +7,7 @@ When a standard note includes brackets (see examples below), replace the bracket
 **Put this note on the first chunk of each psalm.** (Please add a talink tag on the chunk. The tA team will put in the link to "Translating Poetry" once that page is completed.) \\ 
 See: [[en:ta:workbench:translate:poetry]] and [[:en:ta:vol2:translate:figs_parallelism]]\\ 
 <code>
-See: talink Translating Poetry and [[:en:ta:vol2:translate:figs_parallelism]]
+See: [[en:ta:workbench:translate:poetry]] and [[:en:ta:vol2:translate:figs_parallelism]]
 </code>
 
 **A psalm of [composer]** - This can also be written as a sentence. AT: "This is a psalm of [composer] or "This is a psalm that [composer] wrote"
