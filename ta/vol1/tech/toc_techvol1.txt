@@ -4,7 +4,7 @@ This module answers the question: What is in volume 1 of the technology manual?\
 ==== Technology Manual Volume 1 ====
   - [[en:ta:vol1:tech:tech_manual]]
 
-=== translationStudio ===
+=== translationStudio Mobile App ===
   - [[en:ta:vol1:tech:tS_intro]]
      - [[en:ta:vol1:tech:tS_install]]
      - [[en:ta:vol1:tech:tS_first]]
@@ -23,7 +23,7 @@ This module answers the question: What is in volume 1 of the technology manual?\
      - [[en:ta:vol1:tech:translate_helptS]]
      - [[en:ta:vol1:tech:tS_problem]]
 
-=== translationKeyboard ===
+=== translationKeyboard Mobile App ===
   - [[en:ta:vol1:tech:tK_intro]] 
      - [[en:ta:vol1:tech:tK_install]]
      - [[en:ta:vol1:tech:tK_start]]

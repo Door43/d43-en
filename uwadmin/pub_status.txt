@@ -63,3 +63,7 @@
 ===== gu =====
 ^Language   ^Publish Date   ^Version    ^Checking Level ^
 |  [[:en:uwadmin:gu:obs:status|ગુજરાતી]]  |  2015-11-10  |  3.2.1  |  {{https://api.unfoldingword.org/obs/jpg/1/checkinglevels/uW-Level1-32px.png}}  |
+
+===== ur =====
+^Language   ^Publish Date   ^Version    ^Checking Level ^
+|  [[:en:uwadmin:ur:obs:status|اردو]]  |  2015-11-19  |  4.1  |  {{https://api.unfoldingword.org/obs/jpg/1/checkinglevels/uW-Level3-32px.png}}  |

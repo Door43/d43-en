@@ -52,12 +52,12 @@ What do we do?
     * **Door43** - an online translation platform where people can collaborate on translation and checking, also the content management system for unfoldingWord
     * **[[en:ta:vol1:tech:ts_intro|translationStudio]]** - a mobile app where translators can do offline translating    
     * **[[en:ta:vol1:tech:tk_intro|translationKeyboard]]** - a mobile app where users can create custom keyboards for languages not supported by their mobile device     
-    * **[[en:ta:vol1:tech:uw_intro|unfoldingWord app]]** - a mobile app where checked unfoldingWord translations are published and distributed     
+    * **[[en:ta:vol1:tech:uw_app|unfoldingWord app]]** - a mobile app where checked unfoldingWord translations are published and distributed     
     * **Digital Publishing Engine** - a system of pushing checked translations to the unfoldingWord website and app and creating print-ready documents of the content     
     * **Audio Recording** - a list of recommendations for audio recording equipment, software, and recording procedures     
     * **Video Render Engine** - an automatic video render system that takes audio recordings and merges them with video clips to create custom videos for certain projects   
 
-  * **Training** - We create resources to train mother tongue translation teams (the training course is called [[en:ta|translationAcademy]])
+  * **Training** - We create resources to train mother tongue translation teams (the training course is called [[https://unfoldingword.org/academy|translationAcademy]])
     * [[en:ta:vol1:translate:toc_transvol1_2|Translation Manual]] - how to translate 
     * [[:en:ta:vol1:checking:toc_checkvol1_2|Checking Manual]] -  how to check a translation
     * [[:en:ta:vol1:tech:toc_techvol1_2|Technology Manual]] - how to use the different technology tools
