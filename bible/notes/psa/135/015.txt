@@ -3,10 +3,6 @@
 ===== TFT: =====
 
 <usfm>
-\v 14 Yahweh declares that we his people are innocent\f + \ft Or: have not done things that are wrong \f*,
-\q2 and he acts mercifully toward us.
-\b
-\q1
 \v 15 But the idols that the \add other\add* people-groups \add worship\add* are only \add statues made of\add* silver and gold,
 \q2 things that humans have made.
 \q1
@@ -25,7 +21,6 @@
 ===== UDB: =====
 
 <usfm>
-\q1
 \v 15 But the idols that the other people groups worship are only statues made of silver and gold,
 \q2 things that humans have made.
 \q1
@@ -38,6 +33,9 @@
 \v 18 The people who make those idols are as powerless as those idols,
 \q2 and those who trust in those idols can accomplish no more than their idols can!
 \b
+
+
+\q1
 </usfm>
 
 ===== ULB: =====
