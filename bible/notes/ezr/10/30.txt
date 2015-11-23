@@ -24,10 +24,10 @@
 ===== ULB: =====
 
 <usfm>
-\v 30 Among the descendants of Pahath Moab: Adna, Chelal, Benaiah, Maaseiah, Mattaniah, Bezalel, Binnui, and Manasseh.
+\v 30 Among the descendants of </usfm>Pahath Moab: Adna, Chelal, Benaiah, Maaseiah, Mattaniah, Bezalel, Binnui, and Manasseh.
 \v 31 Among the descendants of Harim: Eliezer, Isshijah, Malchijah, Shemaiah, Shimeon,
 \v 32 Benjamin, Malluch, and Shemariah.
-</usfm>
+
 
 
 ===== Important Terms: =====
@@ -37,6 +37,17 @@
 ===== Translation Notes: =====
 
 The names of descendants continues. (See: [[en:ta:vol1:translate:translate_names]])
+
+  * **Pahath Moab**  - Translate the same way you did in [[en:bible:notes:ezr:08:04]].
+  * **Benaiah, Shemaiah**  - Translate the same way you did in [[en:bible:notes:ezr:10:23]].
+  * **Maaseiah**  - Translate the same way you did in [[en:bible:notes:ezr:10:18]].
+  * **Mattaniah**  - Translate the same way you did in [[en:bible:notes:ezr:10:26]].
+  * **Binnui**  - Translate the same way you did in [[en:bible:notes:ezr:08:33]].
+  * **Harim**  - Translate the same way you did in [[en:bible:notes:ezr:02:31]].
+  * **Eliezer**  - Translate the same way you did in [[en:bible:notes:ezr:08:15]].
+  * **Malchijah**  - Translate the same way you did in [[en:bible:notes:ezr:10:23]].
+  * **Malluch**  - Translate the same way you did in [[en:bible:notes:ezr:10:26]].
+
   
 ===== Links: =====
 
@@ -49,6 +60,6 @@ The names of descendants continues. (See: [[en:ta:vol1:translate:translate_names
 ~~DISCUSSION~~
 
 
-{{tag>draft}}
+{{tag>check}}
 
 ~~NOCACHE~~
