@@ -379,6 +379,9 @@
 **[[:loe:obs|loe OBS]]**
 {{changes>ns=loe:obs&maxage=604800&render=pagelist(header,date,user,nocomments)}}
 
+**[[:lpx:obs|lpx OBS]]**
+{{changes>ns=lpx:obs&maxage=604800&render=pagelist(header,date,user,nocomments)}}
+
 **[[:lua:obs|lua OBS]]**
 {{changes>ns=lua:obs&maxage=604800&render=pagelist(header,date,user,nocomments)}}
 
