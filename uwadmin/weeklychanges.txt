@@ -139,6 +139,9 @@
 **[[:dgo:obs|dgo OBS]]**
 {{changes>ns=dgo:obs&maxage=604800&render=pagelist(header,date,user,nocomments)}}
 
+**[[:dik:obs|dik OBS]]**
+{{changes>ns=dik:obs&maxage=604800&render=pagelist(header,date,user,nocomments)}}
+
 **[[:dks:obs|dks OBS]]**
 {{changes>ns=dks:obs&maxage=604800&render=pagelist(header,date,user,nocomments)}}
 
