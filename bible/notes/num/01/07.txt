@@ -1,43 +1,26 @@
 ====== Numbers 01:7-9 ======
 
-
 ===== TFT: =====
 
 <usfm>
 
 </usfm>
 
-
 ===== UDB: =====
 
-<usfm>
-\v 7-9 Shelumiel son of Zurishaddai, from the tribe of Simeon.
-\li1 Nahshon son of Amminadab, from the tribe of Judah.
-\li1 Nethanel son of Zuar, from the tribe of Issachar.
+<usfm> \v 7-9 Shelumiel son of Zurishaddai, from the tribe of Simeon. \li1 Nahshon son of Amminadab, from the tribe of Judah. \li1 Nethanel son of Zuar, from the tribe of Issachar.
 
-
-\li1
-</usfm>
-
+\li1 </usfm>
 
 ===== ULB: =====
 
-<usfm>
-\v 7 From the tribe of Judah, Nahshon son of Amminadab.
-q1
-\v 8 From the tribe of Issachar, Nethanel son of Zuar.
-q1
-\v 9 From the tribe of Zebulun, Eliab son of Helon.
-q1
-</usfm>
-
+<usfm> \v 7 From the tribe of Judah, Nahshon son of Amminadab. q1 \v 8 From the tribe of Issachar, Nethanel son of Zuar. q1 \v 9 From the tribe of Zebulun, Eliab son of Helon. q1 </usfm>
 
 ===== Important Terms: =====
 
-  * [[:en:obe:other:judah]]
-  * [[:en:obe:other:issachar]]
-  * [[:en:obe:other:zebulun]]
- 
+  * [[:en:obe:other:judah|Judah]]
+  * [[:en:obe:other:issachar|Issachar]]
+  * [[:en:obe:other:zebulun|Zebulun]]
 
 ===== Translation Notes: =====
 
@@ -45,15 +28,9 @@ q1
 
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:num:01|Numbers Chapter 01 Comprehension Questions]]**
+  * **[[:en:bible:questions:comprehension:num:01|Numbers Chapter 01 Comprehension Questions]]**
+**[[:en:bible:notes:num:01:04|<<]] | [[:en:bible:notes:num:01:10|>>]]**
 
- 
-
-**[[en/bible/notes/num/01/04|<<]] | [[en/bible/notes/num/01/10|>>]]**
-
-~~DISCUSSION~~
-
-
-{{tag>draft}}
+~~DISCUSSION~~{{tag>check}}
 
 ~~NOCACHE~~
