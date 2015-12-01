@@ -2,10 +2,12 @@
 
 ===== Definition: =====
 
-Text
+The term "month" refers to a period of time lasting about four weeks. The length of each month will depend on which system is used: the solar (sun) calendar or the lunar (moon) calendar.
 
-  * bullet
-  * bullet
+  * In the modern-day solar calendar, the number of months in a year is based on how long it takes the earth to go around the sun. There are 12 months per year in this system, with the length of each month ranging from 28 to 31 days.
+  * In the lunar calendar (which was also used in Bible times), the length of each month is based on the amount of time it takes for the moon to go around the earth, about 28 days.
+  * The "new moon," or beginning phase of the moon with its sliver of light, marked the beginning of each month in the lunar calendar.
+
 
 (See also: [[:en:obe:other:biblicaltime|biblical time]])
 
@@ -15,4 +17,4 @@ Text
 
 ~~NOCACHE~~
 
-{{tag>discuss ktlink}}
+{{tag>publish ktlink}}
