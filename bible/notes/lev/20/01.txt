@@ -31,18 +31,18 @@
 
   * [[en:obe:kt:yahweh]]
   * [[en:obe:other:moses]]
-  * people
-  * Israel
-  * foreign 
-  * live
-  * children
+  * [[en:obe:other:peoplegroup]]
+  * [[en:obe:other:israel]]
+  * [[en:obe:other:foreigner]] 
+  * [[en:obe:kt:life]]
+  * [[en:obe:kt:children]]
   * [[en:obe:other:molech]]
-  * death
-  * stone
+  * [[en:obe:kt:death]]
+  * [[en:obe:other:stone]]
 
 ===== Translation Notes: =====
 
-  * **gives any of his children to Molech**  - AT: "kills any of his childern for Molech"
+  * **gives any of his children to Molech**  - AT: "kills any of his children for Molech"
   * **must certainly be put to death**  - AT: "the people must certainly kill him" (See: [[:en:ta:vol2:translate:figs_activepassive|Active or Passive]])
 
 ===== Links: =====
@@ -56,6 +56,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>draft}}
+{{tag>check}}
 
 ~~NOCACHE~~
