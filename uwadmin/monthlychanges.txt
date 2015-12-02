@@ -45,6 +45,8 @@
 {{changes>ns=awa:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:az:obs|az OBS]]**
 {{changes>ns=az:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
+**[[:azj:obs|azj OBS]]**
+{{changes>ns=azj:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:bag:obs|bag OBS]]**
 {{changes>ns=bag:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:bal:obs|bal OBS]]**
