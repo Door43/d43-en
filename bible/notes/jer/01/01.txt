@@ -2,34 +2,19 @@
 
 ===== TFT: =====
 
-<usfm>
-\v 1 I, Jeremiah, the son of Hilkiah, \add am writing\add* these messages. I am a priest, from Anathoth \add town\add* in the area where the tribe of Benjamin \add lives\add*.
-\v 2 Yahweh started to give me these messages when Josiah had been ruling Judah for almost thirteen years.
-\v 3 Yahweh continued to give me more messages when Josiah's son Jehoiakim was the king, and he continued to do that until Zedekiah had been the king of Judah for almost eleven years. It was in August of that year that the people of Jerusalem were exiled\f + \ft Or: taken as prisoners \f* \add to Babylonia\add*.
+<usfm> \v 1 I, Jeremiah, the son of Hilkiah, \add am writing\add* these messages. I am a priest, from Anathoth \add town\add* in the area where the tribe of Benjamin \add lives\add*. \v 2 Yahweh started to give me these messages when Josiah had been ruling Judah for almost thirteen years. \v 3 Yahweh continued to give me more messages when Josiah's son Jehoiakim was the king, and he continued to do that until Zedekiah had been the king of Judah for almost eleven years. It was in August of that year that the people of Jerusalem were exiled\f + \ft Or: taken as prisoners \f* \add to Babylonia\add*.
 
-\p
-</usfm>
+\p </usfm>
 
 ===== UDB: =====
 
-<usfm>
-\v 1 This is the message of Jeremiah son of Hilkiah, who wrote this. He is a priest, from the town of Anathoth in the area where the tribe of Benjamin lives.
-\v 2 Yahweh started to give him these messages when Josiah had been ruling Judah for almost thirteen years.
-\v 3 Yahweh continued to give him messages when Josiah's son Jehoiakim was the king, and he continued to do that until Zedekiah had been the king of Judah for almost eleven years. It was in August of that year that the people of Jerusalem were exiled to Babylonia.
+<usfm> \v 1 This is the message of Jeremiah son of Hilkiah, who wrote this. He is a priest, from the town of Anathoth in the area where the tribe of Benjamin lives. \v 2 Yahweh started to give him these messages when Josiah had been ruling Judah for almost thirteen years. \v 3 Yahweh continued to give him messages when Josiah's son Jehoiakim was the king, and he continued to do that until Zedekiah had been the king of Judah for almost eleven years. It was in August of that year that the people of Jerusalem were exiled to Babylonia.
 
-
-\p
-</usfm>
+\p </usfm>
 
 ===== ULB: =====
 
-<usfm>
-\c 1
-\p
-\v 1 This is the word of Jeremiah, son of Hilkiah; he was one of the priests at Anathoth in the land of Benjamin.
-\v 2 The word of Yahweh came to him in the days of Josiah son of Amon, king of Judah, in the thirteenth year of his reign.
-\v 3 It also came in the days of Jehoiakim son of Josiah, king of Judah, until the fifth month of the eleventh year of Zedekiah son of Josiah, king of Judah, when the people of Jerusalem were taken away as prisoners.
-</usfm>
+<usfm> \c 1 \p \v 1 This is the word of Jeremiah, son of Hilkiah; he was one of the priests at Anathoth in the land of Benjamin. \v 2 The word of Yahweh came to him in the days of Josiah son of Amon, king of Judah, in the thirteenth year of his reign. \v 3 It also came in the days of Jehoiachim son of Josiah, king of Judah, until the fifth month of the eleventh year of Zedekiah son of Josiah, king of Judah, when the people of Jerusalem were taken away as prisoners. </usfm>
 
 ===== Important Terms: =====
 
@@ -50,18 +35,17 @@
 
 ===== Translation Notes: =====
 
-  * **Hilkiah ... Amon** - men's names (See: [[en:ta:vol1:translate:translate_names]])
-  * **Anathoth**  - name of a town (See: [[en:ta:vol1:translate:translate_names]])
-  * **came to him **- "came to Jeremiah"
-  * **his reign**  - "Josiah's reign"
-  * **It also came**  - "The word of Yahweh also came"
-  * **of Zedekiah** - "of the reign of Zedekiah" (See: [[:en:ta:vol1:translate:figs_explicit]])
-
+  * **Hilkiah ** - a Hebrew priest at the time of King Josiah
+  * **Anathoth**  - a Levitical city within the land given to the tribe of Benjamin
+  * **bold words**  - explanation
+  * **bold words**  - explanation
+  * **bold words**  - explanation
+  * **bold words**  - explanation
 ===== Links: =====
 
   * **[[:en:bible:questions:comprehension:jer:01|Jeremiah Chapter 01 Comprehension Questions]]**
 **| [[:en:bible:notes:jer:01:04|>>]]**
 
-~~DISCUSSION~~{{tag>publish mgr}}
+~~DISCUSSION~~{{tag>draft}}
 
 ~~NOCACHE~~
