@@ -2,33 +2,17 @@
 
 ===== TFT: =====
 
-<usfm>
-\v 10 The king of Israel and the king of Judah were wearing their royal robes\f + \ft Or: robes that showed that they were kings \f*. They were sitting on thrones at the place where people threshed grain, near the gate of Samaria \add city\add*. All of Ahab's prophets were standing in front of the kings, prophesying\f + \ft Or: predicting what was going to happen \f*.
-\v 11 One of them, whose name was Zedekiah, the son of Kenaanah, had made from iron something \add that resembled\add* horns of a bull. Then he proclaimed \add to Ahab\add*, "This is what Yahweh says: 'With horns like these your \add army\add* will keep attacking the Syrians like \add a bull attacks another animal\add* \f + \ft metaphor \f*, until you completely destroy them!'~"
-\p
-\v 12 All the \add other\add* prophets \add of Ahab\add* agreed. They said, "Yes! If you go up to attack Ramoth \add city\add* in the Gilead \add region\add*, you will be successful, because Yahweh will enable you to defeat them!"
-\p
-</usfm>
+<usfm> \v 10 The king of Israel and the king of Judah were wearing their royal robes\f + \ft Or: robes that showed that they were kings \f*. They were sitting on thrones at the place where people threshed grain, near the gate of Samaria \add city\add*. All of Ahab's prophets were standing in front of the kings, prophesying\f + \ft Or: predicting what was going to happen \f*. \v 11 One of them, whose name was Zedekiah, the son of Kenaanah, had made from iron something \add that resembled\add* horns of a bull. Then he proclaimed \add to Ahab\add*, "This is what Yahweh says: 'With horns like these your \add army\add* will keep attacking the Syrians like \add a bull attacks another animal\add* \f + \ft metaphor \f*, until you completely destroy them!'~" \p \v 12 All the \add other\add* prophets \add of Ahab\add* agreed. They said, "Yes! If you go up to attack Ramoth \add city\add* in the Gilead \add region\add*, you will be successful, because Yahweh will enable you to defeat them!" \p </usfm>
 
 ===== UDB: =====
 
-<usfm>
-\v 10 The king of Israel and the king of Judah were wearing their royal robes.
-\v 11 One of them, whose name was Zedekiah son of Kenaanah, had made from iron something that resembled horns of a bull. Then he proclaimed to Ahab, "This is what Yahweh says, 'With horns like these your army will keep attacking the Arameans  like a bull attacks another animal, until you completely destroy them!' "
-\p
-\v 12 All the other prophets of Ahab agreed. They said, "Yes! If you go up to attack Ramoth in Gilead, you will be successful, because Yahweh will enable you to defeat them!"
+<usfm> \v 10 The king of Israel and the king of Judah were wearing their royal robes. \v 11 One of them, whose name was Zedekiah son of Kenaanah, had made from iron something that resembled horns of a bull. Then he proclaimed to Ahab, "This is what Yahweh says, 'With horns like these your army will keep attacking the Arameans like a bull attacks another animal, until you completely destroy them!' " \p \v 12 All the other prophets of Ahab agreed. They said, "Yes! If you go up to attack Ramoth in Gilead, you will be successful, because Yahweh will enable you to defeat them!"
 
-
-\p
-</usfm>
+\p </usfm>
 
 ===== ULB: =====
 
-<usfm>
-\v 10 Now Ahab the king of Israel and Jehoshaphat the king of Judah were sitting each on a throne, clothed in their robes, in an open place at the entrance of the gate of Samaria, and all the prophets were prophesying before them.
-\v 11 Zedekiah the son of Kenaanah made himself horns of iron and said, "Yahweh says this: 'With these you will push the Arameans until they are consumed.'"
-\v 12 And all the prophets prophesied the same, saying, "Attack Ramoth Gilead and win, for Yahweh has given it into the hand of the king."
-</usfm>
+<usfm> \v 10 Now Ahab the king of Israel and Jehoshaphat the king of Judah were sitting each on a throne, clothed in their robes, in an open place at the entrance of the gate of Samaria, and all the prophets were prophesying before them. \v 11 Zedekiah the son of Kenaanah made himself horns of iron and said, "Yahweh says this: 'With these you will push the Arameans until they are consumed.'" \v 12 And all the prophets prophesied the same, saying, "Attack Ramoth Gilead and win, for Yahweh has given it into the hand of the king." </usfm>
 
 ===== Important Terms: =====
 
@@ -40,23 +24,26 @@
   * [[:en:obe:other:samaria|Samaria, Samaritan]]
   * [[:en:obe:other:zedekiah|Zedekiah]]
   * [[:en:obe:other:consume|consume]]
-  * Gilead
-  * hand
+  * [[:en:obe:other:gilead|Gilead]]
+  * [[:en:obe:other:hand|hand]]
 
 ===== Translation Notes: =====
 
-  * **before them** - (See: Biblical Imagery #31 & #37) "to serve them"
-  * **before them** - "them" refers to Ahab and Jehoshaphat. AT: "in front of them"
-  * **made himself horns** - "himself" refers to Zedekiah. AT: "made horns for himself" or "made horns to use to demonstrate an idea" (See: [[en:ta:vol2:translate:figs_rpronouns]])
-  
-  * **horns of iron** - (See: Biblical Imagery #1) "symbol of strength" 
-  * **horns of iron** - The horns symbolize strength like that of a bull.  (See: [[en:ta:vol2:translate:figs_metonymy]] and [[en:ta:vol1:translate:figs_metaphor]])
-  * **with these** - "these" refers to the horns of iron. It is implicit that these specific horns would not be used in battle, but that the armies would fight with power against the Arameans. (See: [[en:ta:vol1:translate:figs_explicit]]) 
+  * **before them**  - (See: Biblical Imagery #31 & #37) "to serve them"
+  * **before them**  - "them" refers to Ahab and Jehoshaphat. AT: "in front of them"
+  * **made himself horns**  - "himself" refers to Zedekiah. AT: "made horns for himself" or "made horns to use to demonstrate an idea" (See: [[:en:ta:vol2:translate:figs_rpronouns|Reflexive Pronouns]])
+  * **horns of iron**
+ - (See: Biblical Imagery #1) "symbol of strength"
+  * **horns of iron**
+ - The horns symbolize strength like that of a bull. (See: [[:en:ta:vol2:translate:figs_metonymy|Metonymy]] and [[:en:ta:vol1:translate:figs_metaphor|Metaphor]])
+  * **with these**
+ - "these" refers to the horns of iron. It is implicit that these specific horns would not be used in battle, but that the armies would fight with power against the Arameans. (See: [[:en:ta:vol1:translate:figs_explicit|Explicit and Implicit]])
+
 ===== Links: =====
 
   * **[[:en:bible:questions:comprehension:1ki:22|1 Kings Chapter 22 Comprehension Questions]]**
 **[[:en:bible:notes:1ki:22:07|<<]] | [[:en:bible:notes:1ki:22:13|>>]]**
 
-~~DISCUSSION~~{{tag>draft}}
+~~DISCUSSION~~{{tag>check}}
 
 ~~NOCACHE~~
