@@ -18,4 +18,4 @@ The following OBE Terms are tagged as "create" and are on hold. \\ They are not 
 
 ~~NOCACHE~~
 
-{{pagequery>@:en:obe:other \{\{tag>[^}]*create[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;showcount;fontsize=90%}}
+{{pagequery>@:en:obe \{\{tag>[^}]*create[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;showcount;fontsize=90%}}
