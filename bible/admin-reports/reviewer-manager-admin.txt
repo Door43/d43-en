@@ -67,10 +67,6 @@
 
 ==== John H's books: ====
 
-== Isaiah ==
-
-{{pagequery>@:en:bible:notes:isa \{\{tag>[^}]*mgr[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=column; hidemsg;hidejump;showcount;fontsize=90%}}
-
 == Leviticus ==
 
 {{pagequery>@:en:bible:notes:lev \{\{tag>[^}]*mgr[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=column; hidemsg;hidejump;showcount;fontsize=90%}}
