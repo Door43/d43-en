@@ -35,13 +35,11 @@
 
 {{pagequery>@:en:bible:notes:pro \{\{tag>[^}]*mgr[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=column; hidemsg;hide jump;showcount;fontsize=90%}}
 
-== Hosea ==
+== Psalms Book 4 ==
 
-{{pagequery>@:en:bible:notes:hos \{\{tag>[^}]*mgr[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=column; hidemsg;hidejump;showcount;fontsize=90%}}
+{{pagequery>@en:bible:notes:pro @en:bible:notes:psa:90 @en:bible:notes:psa:091 @en:bible:notes:psa:092 @en:bible:notes:psa:093 @en:bible:notes:psa:094 @en:bible:notes:psa:095 @en:bible:notes:psa:096 @en:bible:notes:psa:097 @en:bible:notes:psa:098 @en:bible:notes:psa:099 @en:bible:notes:psa:100 @en:bible:notes:psa:101 @en:bible:notes:psa:102 @en:bible:notes:psa:103 \{\{tag>[^}]*mgr[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=column; hidemsg;hidejump;showcount;fontsize=90%}}
 
-== Esther ==
 
-{{pagequery>@:en:bible:notes:est \{\{tag>[^}]*mgr[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=column; hidemsg;hidejump;showcount;fontsize=90%}}
 
 
 
