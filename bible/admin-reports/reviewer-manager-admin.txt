@@ -99,11 +99,7 @@
 {{pagequery>@en:bible:notes:psa:01 @en:bible:notes:psa:02 @en:bible:notes:psa:03 @en:bible:notes:psa:04 @en:bible:notes:psa:05 @en:bible:notes:psa:06 @en:bible:notes:psa:07 @en:bible:notes:psa:08 @en:bible:notes:psa:09 @en:bible:notes:psa:10 @en:bible:notes:psa:11 @en:bible:notes:psa:12 @en:bible:notes:psa:13 @en:bible:notes:psa:14 @en:bible:notes:psa:15 @en:bible:notes:psa:16 @en:bible:notes:psa:17 @en:bible:notes:psa:18 @en:bible:notes:psa:19 @en:bible:notes:psa:20 @en:bible:notes:psa:21 @en:bible:notes:psa:22 @en:bible:notes:psa:23 @en:bible:notes:psa:24 @en:bible:notes:psa:26 @en:bible:notes:psa:27 @en:bible:notes:psa:28 @en:bible:notes:psa:29 @en:bible:notes:psa:30 @en:bible:notes:psa:31 @en:bible:notes:psa:32 @en:bible:notes:psa:33 @en:bible:notes:psa:34 @en:bible:notes:psa:35 @en:bible:notes:psa:36 @en:bible:notes:psa:37 @en:bible:notes:psa:38 @en:bible:notes:psa:39 @en:bible:notes:psa:40 @en:bible:notes:psa:41 \{\{tag>[^}]*mgr[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=column; hidemsg;hidejump;showcount;fontsize=90%}}
 
 
-==== Leonard's books: ====
 
-== Joshua 13-22 ==
-
-{{pagequery>@en:bible:notes:jos:13 @en:bible:notes:jos:14 @en:bible:notes:jos:15 @en:bible:notes:jos:16 @en:bible:notes:jos:17 @en:bible:notes:jos:18 @en:bible:notes:jos:19 @en:bible:notes:jos:20 @en:bible:notes:jos:21 @en:bible:notes:jos:22 \{\{tag>[^}]*mgr[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=column; hidemsg;hidejump;showcount;fontsize=90%}}
 
 
 
