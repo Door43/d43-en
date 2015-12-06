@@ -2,32 +2,19 @@
 
 ===== TFT: =====
 
-<usfm>
-\v 51 Before King Jehoshaphat died, when he had been ruling in Judah for seventeen years, Ahab's son Ahaziah began to rule in Israel. Ahaziah ruled in Samaria for two years.
-\v 52 He did many things that Yahweh said were evil, doing the \add evil\add* things that his father and mother had done and the evil things that Jeroboam had done—the king who had induced all the Israelite people to sin \add by worshiping idols\add*.
-\v 53 Ahaziah bowed in front of Baal's idol and worshiped it. That caused Yahweh, the God who was the true God of the Israelite people, to become very angry, just as Ahaziah's father had caused Yahweh to become angry.
-</usfm>
+<usfm> \v 51 Before King Jehoshaphat died, when he had been ruling in Judah for seventeen years, Ahab's son Ahaziah began to rule in Israel. Ahaziah ruled in Samaria for two years. \v 52 He did many things that Yahweh said were evil, doing the \add evil\add* things that his father and mother had done and the evil things that Jeroboam had done—the king who had induced all the Israelite people to sin \add by worshiping idols\add*. \v 53 Ahaziah bowed in front of Baal's idol and worshiped it. That caused Yahweh, the God who was the true God of the Israelite people, to become very angry, just as Ahaziah's father had caused Yahweh to become angry. </usfm>
 
 ===== UDB: =====
 
-<usfm>
-\v 51 Before King Jehoshaphat died, when he had been ruling in Judah for seventeen years, Ahab's son Ahaziah began to rule in Israel. Ahaziah ruled in Samaria for two years.
-\v 52 He did many things that Yahweh said were evil, doing the evil things that his father and mother had done and the evil things that Jeroboam had done—the king who had induced all the Israelite people to sin by worshiping idols.
-\v 53 Ahaziah bowed in front of Baal's idol and worshiped it. That caused Yahweh, the God who is the true God of the Israelite people as well as all the world, to become very angry, just as Ahaziah's father had caused Yahweh to become angry.
-</usfm>
+<usfm> \v 51 Before King Jehoshaphat died, when he had been ruling in Judah for seventeen years, Ahab's son Ahaziah began to rule in Israel. Ahaziah ruled in Samaria for two years. \v 52 He did many things that Yahweh said were evil, doing the evil things that his father and mother had done and the evil things that Jeroboam had done—the king who had induced all the Israelite people to sin by worshiping idols. \v 53 Ahaziah bowed in front of Baal's idol and worshiped it. That caused Yahweh, the God who is the true God of the Israelite people as well as all the world, to become very angry, just as Ahaziah's father had caused Yahweh to become angry. </usfm>
 
 ===== ULB: =====
 
-<usfm>
-\p
-\v 51 Ahaziah the son of Ahab began to reign over Israel in Samaria in the seventeenth year of Jehoshaphat king of Judah, and he reigned two years over Israel.
-\v 52 He did what was evil in the sight of Yahweh and walked in the way of his father, in the way of his mother, and in the way of Jeroboam the son of Nebat, by which he led Israel to sin.
-\v 53 He served Baal and worshiped him so as to provoke Yahweh to anger, the God of Israel, just as his father had done in every way.
-</usfm>
+<usfm> \p \v 51 Ahaziah the son of Ahab began to reign over Israel in Samaria in the seventeenth year of Jehoshaphat king of Judah, and he reigned two years over Israel. \v 52 He did what was evil in the sight of Yahweh and walked in the way of his father, in the way of his mother, and in the way of Jeroboam the son of Nebat, by which he led Israel to sin. \v 53 He served Baal and worshiped him so as to provoke Yahweh to anger, the God of Israel, just as his father had done in every way. </usfm>
 
 ===== Important Terms: =====
 
-  * reign, reighned
+  * [[:en:obe:other:reign|reign]]
   * [[:en:obe:other:samaria|Samaria, Samaritan]]
   * [[:en:obe:kt:evil|evil, wicked, wickedness]]
   * [[:en:obe:kt:walk|walk]]
@@ -37,18 +24,19 @@
   * [[:en:obe:other:baal|Baal]]
   * [[:en:obe:kt:worship|worship]]
   * [[:en:obe:other:angry|angry, anger]]
-  * God of Isreal
+  * [[:en:obe:other:kingdomofisrael|kingdom of Isreal]]
 
 ===== Translation Notes: =====
 
-  * **seventeenth year** - (See: Translate Numbers) "17th year"
-  * **two years** - "2 years" (See: [[en:ta:vol2:translate:translate_numbers]]) 
-  * **Nebat** - (See: [[en:ta:vol1:translate:translate_names]])
+  * **seventeenth year**  - "17th year." (See: Translate Numbers)
+  * **two years**  - "2 years" (See: [[:en:ta:vol2:translate:translate_numbers|Translate Numbers]])
+  * **walked in the way**  - AT: "Followed his example." (See: [[:en:ta:vol2:translate:figs_metonymy|Metonymy]])
+  * **Nebat**  - (See: [[:en:ta:vol1:translate:translate_names|Translate Names]])
 ===== Links: =====
 
   * **[[:en:bible:questions:comprehension:1ki:22|1 Kings Chapter 22 Comprehension Questions]]**
 **[[:en:bible:notes:1ki:22:48|<<]] | **
 
-~~DISCUSSION~~{{tag>draft}}
+~~DISCUSSION~~{{tag>check}}
 
 ~~NOCACHE~~
