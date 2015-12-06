@@ -2,31 +2,17 @@
 
 ===== TFT: =====
 
-<usfm>
-\v 1 One day Hiram, the king of Tyre \add city\add*, sent some messengers to David \add to talk about making an agreement between their countries\add*. Then Hiram sent cedar logs, bricklayers, and carpenters to build a palace for David.
-\v 2 \add When that happened\add*, David knew that Yahweh had truly caused him to be the king of Israel, and that he had caused his kingdom to be greatly respected. Yahweh did this because \add he loved\add* his Israelite people.
-\p
-</usfm>
+<usfm> \v 1 One day Hiram, the king of Tyre \add city\add*, sent some messengers to David \add to talk about making an agreement between their countries\add*. Then Hiram sent cedar logs, bricklayers, and carpenters to build a palace for David. \v 2 \add When that happened\add*, David knew that Yahweh had truly caused him to be the king of Israel, and that he had caused his kingdom to be greatly respected. Yahweh did this because \add he loved\add* his Israelite people. \p </usfm>
 
 ===== UDB: =====
 
-<usfm>
-\v 1 One day Hiram, the king of the city of Tyre, sent some messengers to David to talk about making an agreement between their countries. Then Hiram sent cedar logs, bricklayers, and carpenters to build a palace for David.
-\v 2 When that happened, David knew that Yahweh had truly caused him to be the king of Israel, and that he had caused his kingdom to be greatly respected. Yahweh did this because he loved his Israelite people.
+<usfm> \v 1 One day Hiram, the king of the city of Tyre, sent some messengers to David to talk about making an agreement between their countries. Then Hiram sent cedar logs, bricklayers, and carpenters to build a palace for David. \v 2 When that happened, David knew that Yahweh had truly caused him to be the king of Israel, and that he had caused his kingdom to be greatly respected. Yahweh did this because he loved his Israelite people.
 
-
-\p
-</usfm>
+\p </usfm>
 
 ===== ULB: =====
 
-<usfm>
-\c 14
-\p
-\v 1 Then Hiram king of Tyre sent messengers to David, and cedar trees, carpenters , and masons. They built a house for him. 
-\v 2 David knew that Yahweh had established him as king over Israel, 
-and that his kingdom was exalted on high for the sake of his people Israel.
-</usfm>
+<usfm> \c 14 \p \v 1 Then Hiram king of Tyre sent messengers to David, and cedar trees, carpenters , and masons. They built a house for him. \v 2 David knew that Yahweh had established him as king over Israel, and that his kingdom was exalted on high for the sake of his people Israel. </usfm>
 
 ===== Important Terms: =====
 
@@ -34,16 +20,21 @@ and that his kingdom was exalted on high for the sake of his people Israel.
   * [[:en:obe:other:tyre|Tyre]]
   * [[:en:obe:other:messenger|messenger]]
   * [[:en:obe:other:david|David]]
+  * [[:en:obe:other:cedar|cedar]]
   *
-[[en:obe:other:cedar]]
-  * house
+[[en:obe:other:house]]
   * [[:en:obe:kt:yahweh|Yahweh]]
-  * people
   * [[:en:obe:other:israel|Israel, Israelites, nation of Israel]]
+  *
+[[en:obe:other:kingdom]]
+  *
+[[en:obe:other:peoplegroup]]
 
 ===== Translation Notes: =====
 
   * **Hiram**  -
+  * **carpenters**  -
+  * **masons**  -
   * They,him - They refers to workers from Tyre. Him refers to KIng David.
   * Tyre - This is the name of a city.
   * Hiram - This is the name of a man. (See: translate name)
@@ -53,6 +44,6 @@ and that his kingdom was exalted on high for the sake of his people Israel.
   * **[[:en:bible:questions:comprehension:1ch:14|1 Chronicles Chapter 14 Comprehension Questions]]**
 **[[:en:bible:notes:1ch:13:12|<<]] | [[:en:bible:notes:1ch:14:03|>>]]**
 
-~~DISCUSSION~~{{tag>Check}}
+~~DISCUSSION~~{{tag>draft}}
 
 ~~NOCACHE~~
