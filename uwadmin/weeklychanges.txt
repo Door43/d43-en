@@ -64,6 +64,9 @@
 **[[:awa:obs|awa OBS]]**
 {{changes>ns=awa:obs&maxage=604800&render=pagelist(header,date,user,nocomments)}}
 
+**[[:awu:obs|awu OBS]]**
+{{changes>ns=awu:obs&maxage=604800&render=pagelist(header,date,user,nocomments)}}
+
 **[[:az:obs|az OBS]]**
 {{changes>ns=az:obs&maxage=604800&render=pagelist(header,date,user,nocomments)}}
 
