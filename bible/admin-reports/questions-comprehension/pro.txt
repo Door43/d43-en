@@ -1,0 +1,10 @@
+====== Translation Questions: Proverbs Admin ======
+
+~~NOCACHE~~
+
+This is the status of the Proverbs Translation Question pages:
+
+^  Draft  ^  Review  ^  Text  ^  Publish  ^
+|{{pagequery>@en:bible:questions:comprehension:pro \{\{tag>[^}]*draft[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; showcount; layout=table;hidemsg;hidejump;fontsize=80%}} |{{pagequery>@en:bible:questions:comprehension:pro \{\{tag>[^}]*review[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; showcount; layout=table;hidemsg;hidejump;fontsize=80%}} |{{pagequery>@en:bible:questions:comprehension:pro \{\{tag>[^}]*text[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; showcount; layout=table;hidemsg;hidejump;fontsize=80%}} |{{pagequery>@en:bible:questions:comprehension:pro \{\{tag>[^}]*publish[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; showcount; layout=table;hidemsg;hidejump;fontsize=80%}} |
+
+\\
