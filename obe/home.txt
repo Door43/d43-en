@@ -9,6 +9,7 @@
   * [[:en:bible:team-info:training:topics:kt-yes-no]]
   * [[en:bible:team-info:training:topics:common-words]] - If it's on this list, most likely not.
   * [[:en:bible:admin-reports:obe-admin:obe-reject]] - If it's on this list, no.
+
 ==== All Terms in the OBE: ====
 
 {{pagequery>ns:en:obe; fulltext; sort=title:asc; display={name} -{title}; natsort; showcount; hidemsg; hidejump; layout=column}}
