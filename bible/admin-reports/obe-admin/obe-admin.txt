@@ -19,8 +19,8 @@
 
 ==== Key Terms Pages Status ====
 
-^  Draft "KT" Pages  ^  Draft "Other" Pages  ^
-|{{pagequery>@en:obe:kt \{\{tag>[^}]*draft[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; showcount; layout=table;hidemsg;hidejump;fontsize=90%}} |{{pagequery>@en:obe:other \{\{tag>[^}]*draft[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; showcount; layout=table;hidemsg;hidejump;fontsize=90%}} |
+^  All "Create" Pages  ^  Draft "KT" Pages  ^  Draft "Other" Pages  ^
+|{{pagequery>@en:obe \{\{tag>[^}]*create[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; showcount; layout=table;hidemsg;hidejump;fontsize=90%}} |{{pagequery>@en:obe:kt \{\{tag>[^}]*draft[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; showcount; layout=table;hidemsg;hidejump;fontsize=90%}} |{{pagequery>@en:obe:other \{\{tag>[^}]*draft[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; showcount; layout=table;hidemsg;hidejump;fontsize=90%}} |
 
 
 ^  New Pages to Review  ^  Published Pages to Review  ^  Discuss Pages  ^
