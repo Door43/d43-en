@@ -1,0 +1,10 @@
+====== Translation Questions: Ezra Admin ======
+
+~~NOCACHE~~
+
+This is the status of the Ezra Translation Question pages:
+
+^  Draft  ^  Review  ^  Text  ^  Publish  ^
+|{{pagequery>@en:bible:questions:comprehension:ezr \{\{tag>[^}]*draft[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; showcount; layout=table;hidemsg;hidejump;fontsize=80%}} |{{pagequery>@en:bible:questions:comprehension:ezr \{\{tag>[^}]*review[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; showcount; layout=table;hidemsg;hidejump;fontsize=80%}} |{{pagequery>@en:bible:questions:comprehension:ezr \{\{tag>[^}]*text[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; showcount; layout=table;hidemsg;hidejump;fontsize=80%}} |{{pagequery>@en:bible:questions:comprehension:ezr \{\{tag>[^}]*publish[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; showcount; layout=table;hidemsg;hidejump;fontsize=80%}} |
+
+\\
