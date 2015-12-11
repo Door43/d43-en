@@ -2,35 +2,17 @@
 
 ===== TFT: =====
 
-<usfm>
-\v 24 They are very strong, like lionesses that are ready to attack \add other animals\add*;
-\q2 they stand firm like lions.
-\q1 The lions refuse to rest until they have \add killed and\add* eaten their prey,
-\q2 and drunk the blood of the animals they slaughtered."
-\p
-</usfm>
+<usfm> \v 24 They are very strong, like lionesses that are ready to attack \add other animals\add*; \q2 they stand firm like lions. \q1 The lions refuse to rest until they have \add killed and\add* eaten their prey, \q2 and drunk the blood of the animals they slaughtered." \p </usfm>
 
 ===== UDB: =====
 
-<usfm>
-\v 24 They are very strong, like lionesses that are ready to attack other animals.
-\q2 They stand firm like lions.
-\q1 The lions refuse to rest until they have killed and eaten their prey
-\q2 and drunk the blood of the animals they slaughtered."
+<usfm> \v 24 They are very strong, like lionesses that are ready to attack other animals. \q2 They stand firm like lions. \q1 The lions refuse to rest until they have killed and eaten their prey \q2 and drunk the blood of the animals they slaughtered."
 
-
-\p
-</usfm>
+\p </usfm>
 
 ===== ULB: =====
 
-<usfm>
-\q
-\v 24 Look, the people rise like a lioness,
-\q2 as a lion emerges and attacks.
-\q2 He does not lie down until he eats his victim
-\q2 and drinks the blood of what he has killed."
-</usfm>
+<usfm> \q \v 24 Look, the people rise like a lioness, \q2 as a lion emerges and attacks. \q2 He does not lie down until he eats his victim \q2 and drinks the blood of what he has killed." </usfm>
 
 ===== Important Terms: =====
 
@@ -39,11 +21,12 @@
 
 ===== Translation Notes: =====
 
+  * **the people rise like a lioness**  - The people are very strong, so they are being compared to a lion.  AT: "the people are as strong as a lion"  (See: Similie)
 ===== Links: =====
 
   * **[[:en:bible:questions:comprehension:num:23|Numbers Chapter 23 Comprehension Questions]]**
 **[[:en:bible:notes:num:23:23|<<]] | [[:en:bible:notes:num:23:25|>>]]**
 
-~~DISCUSSION~~{{tag>draft}}
+~~DISCUSSION~~{{tag>check}}
 
 ~~NOCACHE~~
