@@ -2,63 +2,33 @@
 
 ===== TFT: =====
 
-<usfm>
-\v 19 God is not a human being.
-\q2 Humans lie, but God never lies.
-\q1 He never changes his mind\f + \ft Or: thoughts \f*, as humans do.
-\q1 Whatever he has said that he will do, he does.
-\q1 Whatever he has promised to do, he has \f + \ft rhetorical question \f* done it.
-\q1
-\v 20 He commanded me \add to request him\add* to bless \add the Israelites\add*,
-\q2 So he has blessed them, and I cannot change that.
-\b
-\q1
-</usfm>
+<usfm> \v 19 God is not a human being. \q2 Humans lie, but God never lies. \q1 He never changes his mind\f + \ft Or: thoughts \f*, as humans do. \q1 Whatever he has said that he will do, he does. \q1 Whatever he has promised to do, he has \f + \ft rhetorical question \f* done it. \q1 \v 20 He commanded me \add to request him\add* to bless \add the Israelites\add*, \q2 So he has blessed them, and I cannot change that. \b \q1 </usfm>
 
 ===== UDB: =====
 
-<usfm>
-\v 19 God is not a human being.
-\q2 Humans lie, but God never lies.
-\q1 He never changes his mind, as humans do.
-\q2 Whatever he has said that he will do, he does.
-\q2 Whatever he has promised to do, he has done it.
-\q1
-\v 20 He commanded me to request him to bless the Israelites,
-\q2 So he has blessed them, and I cannot change that.
-\b
-\q1
-</usfm>
+<usfm> \v 19 God is not a human being. \q2 Humans lie, but God never lies. \q1 He never changes his mind, as humans do. \q2 Whatever he has said that he will do, he does. \q2 Whatever he has promised to do, he has done it. \q1 \v 20 He commanded me to request him to bless the Israelites, \q2 So he has blessed them, and I cannot change that. \b \q1 </usfm>
 
 ===== ULB: =====
 
-<usfm>
-\q
-\v 19 God is not a man, that he should lie,
-\q2 Or a human being, that he should change his mind.
-\q Has he promised anything without doing it?
-\q2 Has he said he would do something without carrying it out?
-\q
-\v 20 Look, I have been commanded to bless.
-\q2 God has given a blessing, and I cannot reverse it.
-\q
-</usfm>
+<usfm> \q \v 19 God is not a man, that he should lie, \q2 Or a human being, that he should change his mind. \q Has he promised anything without doing it? \q2 Has he said he would do something without carrying it out? \q \v 20 Look, I have been commanded to bless. \q2 God has given a blessing, and I cannot reverse it. \q </usfm>
 
 ===== Important Terms: =====
 
+  * God
   * lie
   * [[:en:obe:other:mind|mind]]
   * [[:en:obe:kt:promise|promise]]
   * [[:en:obe:other:command|command, to command, commandment]]
-  * bless
 
 ===== Translation Notes: =====
 
+  * **Has he promised anything without doing it**  - AT: Whatever God promises to do, he does.  (See: Rhetorical Questions)
+  * **Has he said he would do something without carrying it out **- AT:  Whatever God says he will do, he does.  (See: Rhetorical Questions)
 ===== Links: =====
 
   * **[[:en:bible:questions:comprehension:num:23|Numbers Chapter 23 Comprehension Questions]]**
 **[[:en:bible:notes:num:23:16|<<]] | [[:en:bible:notes:num:23:21|>>]]**
 
-~~DISCUSSION~~{{tag>draft}}
+~~DISCUSSION~~{{tag>check}}
 
 ~~NOCACHE~~
