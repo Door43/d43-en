@@ -12,4 +12,5 @@
 
 ==== All Terms in the OBE: ====
 
-{{pagequery>ns:en:obe; fulltext; sort=title:asc; display={name} -{title}; natsort; showcount; hidemsg; hidejump; layout=column}}
+<nspages en:obe -r -title -exclude:home -textPages="">
+
