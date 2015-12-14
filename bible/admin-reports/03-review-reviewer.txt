@@ -4,6 +4,16 @@
 
   * [[en:bible:admin-reports:check-tags-notes|Check Tags]]
 
+===== Technical Problems: =====
+
+The page query function that makes all the admin and assignment pages is broken. IT is working on it, but there is no ETA for a fix. Meantime, you can look at you list of books below, and if you remember roughly were you left off, navigate to that chunk and look at the status of the tag at the bottom of the page. 
+
+To manually navigate to a chunks, paste the code below into your browser and change the "BBB" to the three-letter code for the book you want to see.
+
+<code>
+https://door43.org/en/bible/notes/BBB/home
+<\code>
+
 
 === Table 1 ===
 Table 2: [[en:bible:admin-reports:03-review-reviewer#Table 2|John A; Carol B; Harry H; Bram vdH; Kim P]] \\ Table 3: [[en:bible:admin-reports:03-review-reviewer#Table 3|Aaron F; John L; Susan Q; Jim P; Larry S]]
