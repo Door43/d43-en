@@ -37,15 +37,17 @@
   * [[:En:obe:other:consecrate]]
   * [[:En:obe:other:ephraim]]
   * [[:En:obe:other:manasseh]]
-  * [[:En:obe;kt:yahweh]]
-  * [[:En:obe;other:jerusalem]]
-  * [[:En:obe;kt:passover]]
-  * [[:En:obe;kt:assembly]]
+  * [[:En:obe:kt:houseofgod]]
+  * [[:en:obe:kt:passover]]
+  * [[:En:obe:other:jerusalem]]
+  * [[:En:obe:kt:assembly]]
+  * [[:en:obe:other:peoplegroup]]
  
 
 ===== Translation Notes: =====
 
-
+  * **second month** - (See: [[:en:obe:other:biblicaltimemonth]])
+  * **the priests had not consecrated themselves in sufficient number** - AT: "there were not enough consecrated priests"
  
   
 ===== Links: =====
@@ -59,6 +61,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>check}}
+{{tag>review}}
 
 ~~NOCACHE~~
