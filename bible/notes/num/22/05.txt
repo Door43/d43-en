@@ -2,30 +2,17 @@
 
 ===== TFT: =====
 
-<usfm>
-\v 5 He sent messengers to \add a prophet named\add* Balaam, who was living in his own area, in Pethor \add town\add*, near the \add Euphrates\add* River. He sent this message to request that Balaam would come \add to help him\add*:
-\pi "A huge group of people has arrived here from Egypt. \add It looks like\add* they are covering the entire land! And they have begun to live close to us.
-\v 6 Because they are very powerful\f + \ft Or: numerous \f*, \add we are afraid of them\add*. So please come and curse them for me. Then my army may be able to defeat them and expel them from the land \add where they are now living\add*. I know that good things will happen to the people whom you bless, and disasters will happen to the people whom you curse."
-\p
-</usfm>
+<usfm> \v 5 He sent messengers to \add a prophet named\add* Balaam, who was living in his own area, in Pethor \add town\add*, near the \add Euphrates\add* River. He sent this message to request that Balaam would come \add to help him\add*: \pi "A huge group of people has arrived here from Egypt. \add It looks like\add* they are covering the entire land! And they have begun to live close to us. \v 6 Because they are very powerful\f + \ft Or: numerous \f*, \add we are afraid of them\add*. So please come and curse them for me. Then my army may be able to defeat them and expel them from the land \add where they are now living\add*. I know that good things will happen to the people whom you bless, and disasters will happen to the people whom you curse." \p </usfm>
 
 ===== UDB: =====
 
-<usfm>
-\v 5 He sent messengers to a prophet named Balaam, who was living in his own area, in Pethor, near the Euphrates River. He sent this message to request that Balaam would come to help him,
-\pi "A huge group of people has arrived here from Egypt. It looks like they are covering the entire land! And they have begun to live close to us.
-\v 6 Because they are very powerful, we are afraid of them. So please come and curse them for me. Then my army may be able to defeat them and expel them from the land where they are now living. I know that good things will happen to the people whom you bless, and disasters will happen to the people whom you curse."
+<usfm> \v 5 He sent messengers to a prophet named Balaam, who was living in his own area, in Pethor, near the Euphrates River. He sent this message to request that Balaam would come to help him, \pi "A huge group of people has arrived here from Egypt. It looks like they are covering the entire land! And they have begun to live close to us. \v 6 Because they are very powerful, we are afraid of them. So please come and curse them for me. Then my army may be able to defeat them and expel them from the land where they are now living. I know that good things will happen to the people whom you bless, and disasters will happen to the people whom you curse."
 
-
-\p
-</usfm>
+\p </usfm>
 
 ===== ULB: =====
 
-<usfm>
-\v 5 He sent messengers to Balaam son of Beor, at Pethor which is by the Euphrates River, in the land of his nation and his people.   He called him and said, "Look, a nation has come here from Egypt. They cover the face of the earth and they are right now next to me.
-\v 6 So please come now and curse this nation for me,because they are too strong for me. Perhaps then I can manage to attack them and drive them out of the land.  I know that whomever you bless will be blessed, and whomever you curse will be cursed."
-</usfm>
+<usfm> \v 5 He sent messengers to Balaam son of Beor, at Pethor which is by the Euphrates River, in the land of his nation and his people. He called him and said, "Look, a nation has come here from Egypt. They cover the face of the earth and they are right now next to me. \v 6 So please come now and curse this nation for me,because they are too strong for me. Perhaps then I can manage to attack them and drive them out of the land. I know that whomever you bless will be blessed, and whomever you curse will be cursed." </usfm>
 
 ===== Important Terms: =====
 
@@ -34,8 +21,11 @@
   * [[:en:obe:other:balaam|Balaam]]
   * [[:en:obe:other:euphrates|Euphrates]]
   * [[:en:obe:other:nation|nation]]
+  * [[:en:obe:kt:call|
+call, calling
+
+ ]]
   * [[:en:obe:other:egypt|Egypt, Egyptian ]]
-  * [[:en:obe:kt:call|call, calling]]
   * [[:en:obe:kt:face|face]]
   * Earth
   * [[:en:obe:kt:curse|curse, cursed]]
