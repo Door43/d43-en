@@ -20,11 +20,11 @@
 ==== Key Terms Pages Status ====
 
 ^  All "Create" Pages  ^  Draft "KT" Pages  ^  Draft "Other" Pages  ^
-|{{door43pages @en:obe -r -q="\{\{tag>[^}]*create[^}]*\}\}" -exclude:home -simpleLineBreak -title}} |{{door43pages @en:obe:kt -r -q="\{\{tag>[^}]*draft[^}]*\}\}" -exclude:home -simpleLineBreak -title}} |{{door43pages @en:obe:other -r -q="\{\{tag>[^}]*draft[^}]*\}\}" -exclude:home -simpleLineBreak -title}} |
+|{{door43pages @en:obe -r -q="\{\{tag>[^}]*create[^}]*\}\}" -exclude:home -simpleLineBreak -title -fontsize="90%"}} |{{door43pages @en:obe:kt -r -q="\{\{tag>[^}]*draft[^}]*\}\}" -exclude:home -simpleLineBreak -title -fontsize="90%"}} |{{door43pages @en:obe:other -r -q="\{\{tag>[^}]*draft[^}]*\}\}" -exclude:home -simpleLineBreak -title -fontsize="90%"}} |
 
 
 ^  New Pages to Review  ^  Published Pages to Review  ^  Discuss Pages  ^
-|{{door43pages @en:obe -r -q="\{\{tag>(?![^}]*publish)(?![^}]*discuss)(?=[^}]*review)[^}]*\}\}" -exclude:home -simpleLineBreak -title}} |{{door43pages @en:obe -r -q="\{\{tag>(?=[^}]*review)(?=[^}]*publish)[^}]*\}\}" -exclude:home -simpleLineBreak -title}} |{{door43pages @en:obe -r -q="\{\{tag>(?=[^}]*discuss)[^}]*\}\}" -exclude:home -simpleLineBreak -title}} |
+|{{door43pages @en:obe -r -q="\{\{tag>(?![^}]*publish)(?![^}]*discuss)(?=[^}]*review)[^}]*\}\}" -exclude:home -simpleLineBreak -title -fontsize="90%"}} |{{door43pages @en:obe -r -q="\{\{tag>(?=[^}]*review)(?=[^}]*publish)[^}]*\}\}" -exclude:home -simpleLineBreak -title -fontsize="90%"}} |{{door43pages @en:obe -r -q="\{\{tag>(?=[^}]*discuss)[^}]*\}\}" -exclude:home -simpleLineBreak -title -fontsize="90%"}} |
 
 
 ==== Terms tagged "delete" ====
@@ -37,13 +37,13 @@ These terms should be deleted, after the links and tags are removed or pointed t
 
 These pages need links, page creation, page update, etc.
 
-{{door43pages @en:bible:notes -r -q="\{\{tag>[^}]*ktlink[^}]*\}\}" -exclude:home -simpleLineBreak -title}}
+{{door43pages @en:bible:notes -r -q="\{\{tag>[^}]*ktlink[^}]*\}\}" -exclude:home -simpleLineBreak -title -fontsize="90%"}}
 
 ==== Pages tagged "ktlink" and "publish" ====
 
 These Notes or OBE pages are published, but also have the "ktlink" tag (but not "review" or "discuss"). They need immediate attention to correct issues with the terms. This can be as simple as cross-links on an OBE page, or as complex as a reviewer requesting significant changes to a term.
 
-{{door43pages @en -r -q="\{\{tag>(?![^}]*review)(?![^}]*discuss)(?=[^}]*publish)(?=[^}]*ktlink)[^}]*\}\}" -exclude:home -simpleLineBreak -title}}
+{{door43pages @en -r -q="\{\{tag>(?![^}]*review)(?![^}]*discuss)(?=[^}]*publish)(?=[^}]*ktlink)[^}]*\}\}" -exclude:home -simpleLineBreak -title -fontsize="90%"}}
 
 
 \\
