@@ -22,7 +22,7 @@ Code to display the activity in a namespace:
 {{changes>ns=NS&count=12&render=pagelist(header,date,user,nocomments)&maxage=25920000}}
 </code>
 
-==== New nspages Search: ====
+==== New nspages Search (//not all tested//): ====
 
 Find all "draft" tags in Romans NS:
 
