@@ -4,7 +4,7 @@
 
   * [[en:bible:admin-reports:check-tags-notes|Check Tags]]
 
-^  Notes  ^  Terms  ^  Questions  ^
-|{{pagequery>@en:bible:notes ^en:bible:notes:checking \{\{tag>[^}]*discuss[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort;showcount; layout=table;hidemsg;hidejump;fontsize=60%}}  |{{pagequery>@en:obe \{\{tag>[^}]*discuss[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort;showcount; layout=table;hidemsg;hidejump;fontsize=60%}}  |{{pagequery>@en:bible:questions:comprehension \{\{tag>[^}]*discuss[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort;showcount; layout=table;hidemsg;hidejump;fontsize=60%}}  |
+^  Notes  ^  Terms  ^  Questions  |
+|{{door43pages @en:bible:notes -r -q="\{\{tag>[^}]*discuss[^}]*\}\}" -exclude:home -simpleLineBreak -title}} |{{door43pages @en:obe -r -q="\{\{tag>[^}]*discuss[^}]*\}\}" -exclude:home -simpleLineBreak -title}} |{{door43pages @en:bible:questions:comprehension -r -q="\{\{tag>[^}]*discuss[^}]*\}\}" -exclude:home -simpleLineBreak -title}} |
 
 \\
