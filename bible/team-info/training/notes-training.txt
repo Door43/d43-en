@@ -6,25 +6,25 @@ When you joined a team that is developing the Bible Translation Notes, you recei
 
 This section links to resources that will help you get started in the project.
 
-{{topic>notes101 &nocomments}}
+{{door43pages @en:bible:team-info -r -q="\{\{tag>[^}]*notes101[^}]*\}\}" -exclude:home -simpleLineBreak -title}}
 
 ===== Notes 201 =====
 
 This section is a list of the assignment pages for the notes teams.
 
-{{topic>notes201 &nocomments}}
+{{door43pages @en:bible:team-info -r -q="\{\{tag>[^}]*notes201[^}]*\}\}" -exclude:home -simpleLineBreak -title}}
 
 ===== Notes 301 =====
 
 This section has links to additional resources for your "continuing education" in how to create better notes.
 
-{{topic>notes301 &nocomments}}
+{{door43pages @en:bible:team-info -r -q="\{\{tag>[^}]*notes301[^}]*\}\}" -exclude:home -simpleLineBreak -title}}
 
 ===== Notes 401 =====
 
 This section has links to additional resources that are mainly for the team leaders, or other people assigned with doing some of the advanced review or editing of the notes.
 
-{{topic>notes401 &nocomments}}
+{{door43pages @en:bible:team-info -r -q="\{\{tag>[^}]*notes401[^}]*\}\}" -exclude:home -simpleLineBreak -title}}
 
 Additional topics will be added as they are needed and developed. Please check back here from time to time.
 
