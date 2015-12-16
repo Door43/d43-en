@@ -35,7 +35,7 @@ Find all "draft" tags in Romans NS:
 Find all "review" tags in two different NS:
 
 <code>
-{{door43pages @en:bible:notes:ezk @en:bible:notes:isa -r -q="\{\{tag>[^}]*review[^}]*\}\}" -exclude:home -simpleLineBreak -title -fontsize="90%"}}
+{{door43pages @:en:bible:notes:ezk @en:bible:notes:isa -r -q="\{\{tag>[^}]*review[^}]*\}\}" -exclude:home -simpleLineBreak -title -fontsize="90%"}}
 </code>
 
 Find all "publish" tags in "bible" NS,  but skip "checking" sub-NS (//not tested//):
@@ -61,7 +61,7 @@ Find KT pages with "drewc" tag __but not__ "ktobs" tag:
 Find pages with __either__ "check" or "review" tags in 2Co:
 
 <code>
-{{door43pages @en:bible:notes:2co -r -q="(\{\{tag>[^}]*check[^}]*\}\})|(\{\{tag>[^}]*review[^}]*\}\})" -exclude:home -simpleLineBreak -title -fontsize="90%"}}
+{{door43pages @:en:bible:notes:2co -r -q="(\{\{tag>[^}]*check[^}]*\}\})|(\{\{tag>[^}]*review[^}]*\}\})" -exclude:home -simpleLineBreak -title -fontsize="90%"}}
 </code>
 
 Find text string in a namespace (escape characters as needed):
