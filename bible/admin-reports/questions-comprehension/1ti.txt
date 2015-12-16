@@ -6,13 +6,14 @@ This is the status of the 1 Timothy Translation Question pages:
 
 
 ^  Draft  ^  Review  ^  Text  ^  Publish  ^
-|{{pagequery>@en:bible:questions:comprehension:1ti \{\{tag>[^}]*draft[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; showcount; layout=table;hidemsg;hidejump;fontsize=80%}} |{{pagequery>@en:bible:questions:comprehension:1ti \{\{tag>[^}]*review[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; showcount; layout=table;hidemsg;hidejump;fontsize=80%}} |{{pagequery>@en:bible:questions:comprehension:1ti \{\{tag>[^}]*text[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; showcount; layout=table;hidemsg;hidejump;fontsize=80%}} |{{pagequery>@en:bible:questions:comprehension:1ti \{\{tag>[^}]*publish[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; showcount; layout=table;hidemsg;hidejump;fontsize=80%}} |
+|{{door43pages @en:bible:questions:comprehension:1ti -r -q="\{\{tag>[^}]*draft[^}]*\}\}" -exclude:home -simpleLineBreak -title}} |{{door43pages @en:bible:questions:comprehension:1ti -r -q="\{\{tag>[^}]*review[^}]*\}\}" -exclude:home -simpleLineBreak -title}} |{{door43pages @en:bible:questions:comprehension:1ti -r -q="\{\{tag>[^}]*text[^}]*\}\}" -exclude:home -simpleLineBreak -title}} |{{door43pages @en:bible:questions:comprehension:1ti -r -q="\{\{tag>[^}]*publish[^}]*\}\}" -exclude:home -simpleLineBreak -title}} |
+
 
 
 This is the status of the 2 Timothy Translation Question pages:
 
 
 ^  Draft  ^  Review  ^  Text  ^  Publish  ^
-|{{pagequery>@en:bible:questions:comprehension:2ti \{\{tag>[^}]*draft[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; showcount; layout=table;hidemsg;hidejump;fontsize=80%}} |{{pagequery>@en:bible:questions:comprehension:2ti \{\{tag>[^}]*review[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; showcount; layout=table;hidemsg;hidejump;fontsize=80%}} |{{pagequery>@en:bible:questions:comprehension:2ti \{\{tag>[^}]*text[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; showcount; layout=table;hidemsg;hidejump;fontsize=80%}} |{{pagequery>@en:bible:questions:comprehension:2ti \{\{tag>[^}]*publish[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; showcount; layout=table;hidemsg;hidejump;fontsize=80%}} |
+|{{door43pages @en:bible:questions:comprehension:2ti -r -q="\{\{tag>[^}]*draft[^}]*\}\}" -exclude:home -simpleLineBreak -title}} |{{door43pages @en:bible:questions:comprehension:2ti -r -q="\{\{tag>[^}]*review[^}]*\}\}" -exclude:home -simpleLineBreak -title}} |{{door43pages @en:bible:questions:comprehension:2ti -r -q="\{\{tag>[^}]*text[^}]*\}\}" -exclude:home -simpleLineBreak -title}} |{{door43pages @en:bible:questions:comprehension:2ti -r -q="\{\{tag>[^}]*publish[^}]*\}\}" -exclude:home -simpleLineBreak -title}} |
 
 \\
