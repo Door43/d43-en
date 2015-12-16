@@ -8,141 +8,135 @@
 
 == 1 Kings ==
 
-{{pagequery>@:en:bible:notes:1ki \{\{tag>[^}]*mgr[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=column; hidemsg;hidejump;showcount;fontsize=90%}}
+{{door43pages @:en:bible:notes:1ki -r -q="\{\{tag>[^}]*mgr[^}]*\}\}" -exclude:home -simpleLineBreak -title -fontsize="90%"}}
 
 == Ecclesiastes ==
 
-{{pagequery>@:en:bible:notes:ecc \{\{tag>[^}]*mgr[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=column; hidemsg;hidejump;showcount;fontsize=90%}}
+{{door43pages @:en:bible:notes:ecc -r -q="\{\{tag>[^}]*mgr[^}]*\}\}" -exclude:home -simpleLineBreak -title -fontsize="90%"}}
 
 == Lamentations ==
 
-{{pagequery>@:en:bible:notes:lam \{\{tag>[^}]*mgr[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=column; hidemsg;hidejump;showcount;fontsize=90%}}
+{{door43pages @:en:bible:notes:lam -r -q="\{\{tag>[^}]*mgr[^}]*\}\}" -exclude:home -simpleLineBreak -title -fontsize="90%"}}
 
 ==== Adam VG's books: ====
 
 == Psalms Book 5 ==
 
-{{pagequery>@en:bible:notes:psa:107 @en:bible:notes:psa:108 @en:bible:notes:psa:109 @en:bible:notes:psa:110 @en:bible:notes:psa:111 @en:bible:notes:psa:112 @en:bible:notes:psa:113 @en:bible:notes:psa:114 @en:bible:notes:psa:115 @en:bible:notes:psa:116 @en:bible:notes:psa:117 @en:bible:notes:psa:118  @en:bible:notes:psa:120 @en:bible:notes:psa:121 @en:bible:notes:psa:122 @en:bible:notes:psa:123 @en:bible:notes:psa:124 @en:bible:notes:psa:125 @en:bible:notes:psa:126 @en:bible:notes:psa:127 @en:bible:notes:psa:128 @en:bible:notes:psa:129 \{\{tag>[^}]*mgr[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=column; hidemsg;hidejump;showcount;fontsize=90%}}
+{{door43pages @en:bible:notes:psa:107 @en:bible:notes:psa:108 @en:bible:notes:psa:109 @en:bible:notes:psa:110 @en:bible:notes:psa:111 @en:bible:notes:psa:112 @en:bible:notes:psa:113 @en:bible:notes:psa:114 @en:bible:notes:psa:115 @en:bible:notes:psa:116 @en:bible:notes:psa:117 @en:bible:notes:psa:118  @en:bible:notes:psa:120 @en:bible:notes:psa:121 @en:bible:notes:psa:122 @en:bible:notes:psa:123 @en:bible:notes:psa:124 @en:bible:notes:psa:125 @en:bible:notes:psa:126 @en:bible:notes:psa:127 @en:bible:notes:psa:128 @en:bible:notes:psa:129 -r -q="\{\{tag>[^}]*mgr[^}]*\}\}" -exclude:home -simpleLineBreak -title -fontsize="90%"}}
 
 == Song of Songs ==
 
-{{pagequery>@:en:bible:notes:sng \{\{tag>[^}]*mgr[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=column; hidemsg;hidejump;showcount;fontsize=90%}}
+{{door43pages @:en:bible:notes:sng -r -q="\{\{tag>[^}]*mgr[^}]*\}\}" -exclude:home -simpleLineBreak -title -fontsize="90%"}}
 
 
 == Deuteronomy ==
 
-{{pagequery>@:en:bible:notes:deu \{\{tag>[^}]*mgr[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=column; hidemsg;hidejump;showcount;fontsize=90%}}
+{{door43pages @:en:bible:notes:deu -r -q="\{\{tag>[^}]*mgr[^}]*\}\}" -exclude:home -simpleLineBreak -title -fontsize="90%"}}
 
 
 ==== Catherine N's books: ====
 
 == Proverbs ==
 
-{{pagequery>@:en:bible:notes:pro \{\{tag>[^}]*mgr[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=column; hidemsg;hide jump;showcount;fontsize=90%}}
+{{door43pages @:en:bible:notes:pro -r -q="\{\{tag>[^}]*mgr[^}]*\}\}" -exclude:home -simpleLineBreak -title -fontsize="90%"}}
 
 == Psalms Book 4 ==
 
-{{pagequery>@en:bible:notes:pro @en:bible:notes:psa:90 @en:bible:notes:psa:091 @en:bible:notes:psa:092 @en:bible:notes:psa:093 @en:bible:notes:psa:094 @en:bible:notes:psa:095 @en:bible:notes:psa:096 @en:bible:notes:psa:097 @en:bible:notes:psa:098 @en:bible:notes:psa:099 @en:bible:notes:psa:100 @en:bible:notes:psa:101 @en:bible:notes:psa:102 @en:bible:notes:psa:103 \{\{tag>[^}]*mgr[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=column; hidemsg;hidejump;showcount;fontsize=90%}}
+{{door43pages @en:bible:notes:pro @en:bible:notes:psa:90 @en:bible:notes:psa:091 @en:bible:notes:psa:092 @en:bible:notes:psa:093 @en:bible:notes:psa:094 @en:bible:notes:psa:095 @en:bible:notes:psa:096 @en:bible:notes:psa:097 @en:bible:notes:psa:098 @en:bible:notes:psa:099 @en:bible:notes:psa:100 @en:bible:notes:psa:101 @en:bible:notes:psa:102 @en:bible:notes:psa:103 -r -q="\{\{tag>[^}]*mgr[^}]*\}\}" -exclude:home -simpleLineBreak -title -fontsize="90%"}}
 
 
 ==== David F's Books: ====
 
 == Zechariah==
 
-{{pagequery>@:en:bible:notes:zec \{\{tag>[^}]*mgr[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=column; hidemsg;hidejump;showcount;fontsize=90%}}
+{{door43pages @:en:bible:notes:zec -r -q="\{\{tag>[^}]*mgr[^}]*\}\}" -exclude:home -simpleLineBreak -title -fontsize="90%"}}
 
 
 == Judges ==
 
-{{pagequery>@:en:bible:notes:jdg \{\{tag>[^}]*mgr[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=column; hidemsg;hidejump;showcount;fontsize=90%}}
+{{door43pages @:en:bible:notes:jdg -r -q="\{\{tag>[^}]*mgr[^}]*\}\}" -exclude:home -simpleLineBreak -title -fontsize="90%"}}
 
 == Psalms Book 2 ==
 
-{{pagequery>@en:bible:notes:psa:42 @en:bible:notes:psa:43 @en:bible:notes:psa:44 @en:bible:notes:psa:45 @en:bible:notes:psa:46 @en:bible:notes:psa:47 @en:bible:notes:psa:48 @en:bible:notes:psa:49 @en:bible:notes:psa:50 @en:bible:notes:psa:51 @en:bible:notes:psa:52 @en:bible:notes:psa:53 @en:bible:notes:psa:54 @en:bible:notes:psa:55 @en:bible:notes:psa:56 @en:bible:notes:psa:57 @en:bible:notes:psa:58 @en:bible:notes:psa:59 @en:bible:notes:psa:60 @en:bible:notes:psa:61 @en:bible:notes:psa:62 @en:bible:notes:psa:63 @en:bible:notes:psa:64 @en:bible:notes:psa:65 @en:bible:notes:psa:66 @en:bible:notes:psa:67 @en:bible:notes:psa:68 @en:bible:notes:psa:69 @en:bible:notes:psa:70 @en:bible:notes:psa:71 @en:bible:notes:psa:72 \{\{tag>[^}]*mgr[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=column; hidemsg;hidejump;showcount;fontsize=90%}}
+{{door43pages @en:bible:notes:psa:42 @en:bible:notes:psa:43 @en:bible:notes:psa:44 @en:bible:notes:psa:45 @en:bible:notes:psa:46 @en:bible:notes:psa:47 @en:bible:notes:psa:48 @en:bible:notes:psa:49 @en:bible:notes:psa:50 @en:bible:notes:psa:51 @en:bible:notes:psa:52 @en:bible:notes:psa:53 @en:bible:notes:psa:54 @en:bible:notes:psa:55 @en:bible:notes:psa:56 @en:bible:notes:psa:57 @en:bible:notes:psa:58 @en:bible:notes:psa:59 @en:bible:notes:psa:60 @en:bible:notes:psa:61 @en:bible:notes:psa:62 @en:bible:notes:psa:63 @en:bible:notes:psa:64 @en:bible:notes:psa:65 @en:bible:notes:psa:66 @en:bible:notes:psa:67 @en:bible:notes:psa:68 @en:bible:notes:psa:69 @en:bible:notes:psa:70 @en:bible:notes:psa:71 @en:bible:notes:psa:72 -r -q="\{\{tag>[^}]*mgr[^}]*\}\}" -exclude:home -simpleLineBreak -title -fontsize="90%"}}
 
 ==== Drew's books: ====
 
 == Psalms Book 5 ==
 
-{{pagequery>@en:bible:notes:psa:107 @en:bible:notes:psa:108 @en:bible:notes:psa:109 @en:bible:notes:psa:110 @en:bible:notes:psa:111 @en:bible:notes:psa:112 @en:bible:notes:psa:113 @en:bible:notes:psa:114 @en:bible:notes:psa:115 @en:bible:notes:psa:116 @en:bible:notes:psa:117 @en:bible:notes:psa:118  @en:bible:notes:psa:120 @en:bible:notes:psa:121 @en:bible:notes:psa:122 @en:bible:notes:psa:123 @en:bible:notes:psa:124 @en:bible:notes:psa:125 @en:bible:notes:psa:126 @en:bible:notes:psa:127 @en:bible:notes:psa:128 @en:bible:notes:psa:129 \{\{tag>[^}]*mgr[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=column; hidemsg;hidejump;showcount;fontsize=90%}}
+{{door43pages @en:bible:notes:psa:107 @en:bible:notes:psa:108 @en:bible:notes:psa:109 @en:bible:notes:psa:110 @en:bible:notes:psa:111 @en:bible:notes:psa:112 @en:bible:notes:psa:113 @en:bible:notes:psa:114 @en:bible:notes:psa:115 @en:bible:notes:psa:116 @en:bible:notes:psa:117 @en:bible:notes:psa:118  @en:bible:notes:psa:120 @en:bible:notes:psa:121 @en:bible:notes:psa:122 @en:bible:notes:psa:123 @en:bible:notes:psa:124 @en:bible:notes:psa:125 @en:bible:notes:psa:126 @en:bible:notes:psa:127 @en:bible:notes:psa:128 @en:bible:notes:psa:129 -r -q="\{\{tag>[^}]*mgr[^}]*\}\}" -exclude:home -simpleLineBreak -title -fontsize="90%"}}
 
-{{pagequery>@:en:bible:notes:2ch \{\{tag>[^}]*mgr[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=column; hidemsg;hidejump;showcount;fontsize=90%}}
+{{door43pages @:en:bible:notes:2ch -r -q="\{\{tag>[^}]*mgr[^}]*\}\}" -exclude:home -simpleLineBreak -title -fontsize="90%"}}
 
 
 ==== John H's books: ====
 
 == Leviticus ==
 
-{{pagequery>@:en:bible:notes:lev \{\{tag>[^}]*mgr[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=column; hidemsg;hidejump;showcount;fontsize=90%}}
+{{door43pages @:en:bible:notes:lev -r -q="\{\{tag>[^}]*mgr[^}]*\}\}" -exclude:home -simpleLineBreak -title -fontsize="90%"}}
 
 == Micah ==
 
-{{pagequery>@:en:bible:notes:mic \{\{tag>[^}]*mgr[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=column; hidemsg;hidejump;showcount;fontsize=90%}}
+{{door43pages @:en:bible:notes:mic -r -q="\{\{tag>[^}]*mgr[^}]*\}\}" -exclude:home -simpleLineBreak -title -fontsize="90%"}}
 
 == Deuteronomy ==
 
-{{pagequery>@:en:bible:notes:deu \{\{tag>[^}]*mgr[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=column; hidemsg;hidejump;showcount;fontsize=90%}}
+{{door43pages @:en:bible:notes:deu -r -q="\{\{tag>[^}]*mgr[^}]*\}\}" -exclude:home -simpleLineBreak -title -fontsize="90%"}}
 
 ==== John L's books: ====
 
 == 2 Kings ==
 
-{{pagequery>@:en:bible:notes:2ki \{\{tag>[^}]*mgr[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=column; hidemsg;hidejump;showcount;fontsize=90%}}
+{{door43pages @:en:bible:notes:2ki -r -q="\{\{tag>[^}]*mgr[^}]*\}\}" -exclude:home -simpleLineBreak -title -fontsize="90%"}}
 
 == 1 Chronicles ==
 
-{{pagequery>@:en:bible:notes:1ch \{\{tag>[^}]*mgr[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=column; hidemsg;hidejump;showcount;fontsize=90%}}
+{{door43pages @:en:bible:notes:1ch -r -q="\{\{tag>[^}]*mgr[^}]*\}\}" -exclude:home -simpleLineBreak -title -fontsize="90%"}}
 
 == Job ==
 
-{{pagequery>@:en:bible:notes:job \{\{tag>[^}]*mgr[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=column; hidemsg;hidejump;showcount;fontsize=90%}}
+{{door43pages @:en:bible:notes:job -r -q="\{\{tag>[^}]*mgr[^}]*\}\}" -exclude:home -simpleLineBreak -title -fontsize="90%"}}
 
 
 == Psalms Book 1 ==
 
-{{pagequery>@en:bible:notes:psa:01 @en:bible:notes:psa:02 @en:bible:notes:psa:03 @en:bible:notes:psa:04 @en:bible:notes:psa:05 @en:bible:notes:psa:06 @en:bible:notes:psa:07 @en:bible:notes:psa:08 @en:bible:notes:psa:09 @en:bible:notes:psa:10 @en:bible:notes:psa:11 @en:bible:notes:psa:12 @en:bible:notes:psa:13 @en:bible:notes:psa:14 @en:bible:notes:psa:15 @en:bible:notes:psa:16 @en:bible:notes:psa:17 @en:bible:notes:psa:18 @en:bible:notes:psa:19 @en:bible:notes:psa:20 @en:bible:notes:psa:21 @en:bible:notes:psa:22 @en:bible:notes:psa:23 @en:bible:notes:psa:24 @en:bible:notes:psa:26 @en:bible:notes:psa:27 @en:bible:notes:psa:28 @en:bible:notes:psa:29 @en:bible:notes:psa:30 @en:bible:notes:psa:31 @en:bible:notes:psa:32 @en:bible:notes:psa:33 @en:bible:notes:psa:34 @en:bible:notes:psa:35 @en:bible:notes:psa:36 @en:bible:notes:psa:37 @en:bible:notes:psa:38 @en:bible:notes:psa:39 @en:bible:notes:psa:40 @en:bible:notes:psa:41 \{\{tag>[^}]*mgr[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=column; hidemsg;hidejump;showcount;fontsize=90%}}
-
-
-
-
+{{door43pages @en:bible:notes:psa:01 @en:bible:notes:psa:02 @en:bible:notes:psa:03 @en:bible:notes:psa:04 @en:bible:notes:psa:05 @en:bible:notes:psa:06 @en:bible:notes:psa:07 @en:bible:notes:psa:08 @en:bible:notes:psa:09 @en:bible:notes:psa:10 @en:bible:notes:psa:11 @en:bible:notes:psa:12 @en:bible:notes:psa:13 @en:bible:notes:psa:14 @en:bible:notes:psa:15 @en:bible:notes:psa:16 @en:bible:notes:psa:17 @en:bible:notes:psa:18 @en:bible:notes:psa:19 @en:bible:notes:psa:20 @en:bible:notes:psa:21 @en:bible:notes:psa:22 @en:bible:notes:psa:23 @en:bible:notes:psa:24 @en:bible:notes:psa:26 @en:bible:notes:psa:27 @en:bible:notes:psa:28 @en:bible:notes:psa:29 @en:bible:notes:psa:30 @en:bible:notes:psa:31 @en:bible:notes:psa:32 @en:bible:notes:psa:33 @en:bible:notes:psa:34 @en:bible:notes:psa:35 @en:bible:notes:psa:36 @en:bible:notes:psa:37 @en:bible:notes:psa:38 @en:bible:notes:psa:39 @en:bible:notes:psa:40 @en:bible:notes:psa:41 -r -q="\{\{tag>[^}]*mgr[^}]*\}\}" -exclude:home -simpleLineBreak -title -fontsize="90%"}}
 
 
 ==== Paul H's books: ====
 
 == 1 Samuel (1-10) ==
 
-{{pagequery>@:en:bible:notes:1sa:01 @:en:bible:notes:1sa:02 @:en:bible:notes:1sa:03 @:en:bible:notes:1sa:04 @:en:bible:notes:1sa:05 @:en:bible:notes:1sa:06 @:en:bible:notes:1sa:07 @:en:bible:notes:1sa:08 @:en:bible:notes:1sa:09 @:en:bible:notes:1sa:10 \{\{tag>[^}]*mgr[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=column; hidemsg;hidejump;showcount;fontsize=90%}}
-
+{{door43pages @:en:bible:notes:1sa:01 @:en:bible:notes:1sa:02 @:en:bible:notes:1sa:03 @:en:bible:notes:1sa:04 @:en:bible:notes:1sa:05 @:en:bible:notes:1sa:06 @:en:bible:notes:1sa:07 @:en:bible:notes:1sa:08 @:en:bible:notes:1sa:09 @:en:bible:notes:1sa:10 -r -q="\{\{tag>[^}]*mgr[^}]*\}\}" -exclude:home -simpleLineBreak -title -fontsize="90%"}}
 
 
 ==== Tyson S' books: ====
 
 == Joshua ==
 
-{{pagequery>@:en:bible:notes:jos \{\{tag>[^}]*mgr[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=column; hidemsg;hidejump;showcount;fontsize=90%}}
+{{door43pages @:en:bible:notes:jos -r -q="\{\{tag>[^}]*mgr[^}]*\}\}" -exclude:home -simpleLineBreak -title -fontsize="90%"}}
 
 == Ezra ==
 
-{{pagequery>@:en:bible:notes:ezr \{\{tag>[^}]*mgr[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=column; hidemsg;hidejump;showcount;fontsize=90%}}
+{{door43pages @:en:bible:notes:ezr -r -q="\{\{tag>[^}]*mgr[^}]*\}\}" -exclude:home -simpleLineBreak -title -fontsize="90%"}}
 
 
 == 1 Samuel ==
 
-{{pagequery>@:en:bible:notes:1sa \{\{tag>[^}]*mgr[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=column; hidemsg;hidejump;showcount;fontsize=90%}}
+{{door43pages @:en:bible:notes:1sa -r -q="\{\{tag>[^}]*mgr[^}]*\}\}" -exclude:home -simpleLineBreak -title -fontsize="90%"}}
 
 == 2 Samuel ==
 
-{{pagequery>@:en:bible:notes:2sa \{\{tag>[^}]*mgr[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=column; hidemsg;hidejump;showcount;fontsize=90%}}
+{{door43pages @:en:bible:notes:2sa -r -q="\{\{tag>[^}]*mgr[^}]*\}\}" -exclude:home -simpleLineBreak -title -fontsize="90%"}}
 
 == Book 3: Psalms 73-89 ==
 
-{{pagequery>@:en:bible:notes:psa:073 @:en:bible:notes:psa:074 @:en:bible:notes:psa:075 @:en:bible:notes:psa:076 @:en:bible:notes:psa:077 @:en:bible:notes:psa:078 @:en:bible:notes:psa:079 @:en:bible:notes:psa:080 @:en:bible:notes:psa:081 @:en:bible:notes:psa:082 @:en:bible:notes:psa:083 @:en:bible:notes:psa:084 @:en:bible:notes:psa:085 @:en:bible:notes:psa:086 @:en:bible:notes:psa:087 @:en:bible:notes:psa:088 @:en:bible:notes:psa:089 \{\{tag>[^}]*mgr[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=column; hidemsg;hidejump;showcount;fontsize=90%}}
+{{door43pages @:en:bible:notes:psa:073 @:en:bible:notes:psa:074 @:en:bible:notes:psa:075 @:en:bible:notes:psa:076 @:en:bible:notes:psa:077 @:en:bible:notes:psa:078 @:en:bible:notes:psa:079 @:en:bible:notes:psa:080 @:en:bible:notes:psa:081 @:en:bible:notes:psa:082 @:en:bible:notes:psa:083 @:en:bible:notes:psa:084 @:en:bible:notes:psa:085 @:en:bible:notes:psa:086 @:en:bible:notes:psa:087 @:en:bible:notes:psa:088 @:en:bible:notes:psa:089 -r -q="\{\{tag>[^}]*mgr[^}]*\}\}" -exclude:home -simpleLineBreak -title -fontsize="90%"}}
 
 == Jeremiah 46-52 ==
 
 
-{{pagequery>@:en:bible:notes:jer:46 @:en:bible:notes:her:47 @:en:bible:notes:her:48 @:en:bible:notes:her:49 @:en:bible:notes:jer:50 @:en:bible:notes:jer:51 @:en:bible:notes:jer:52 \{\{tag>[^}]*mgr[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=column; hidemsg;hidejump;showcount;fontsize=90%}}
-
+{{door43pages @:en:bible:notes:jer:46 @:en:bible:notes:her:47 @:en:bible:notes:her:48 @:en:bible:notes:her:49 @:en:bible:notes:jer:50 @:en:bible:notes:jer:51 @:en:bible:notes:jer:52 -r -q="\{\{tag>[^}]*mgr[^}]*\}\}" -exclude:home -simpleLineBreak -title -fontsize="90%"}}
 
 
 
