@@ -4,7 +4,8 @@
 
 This query checks if the first tag is one of the valid tags required to make the system work correctly: 
 
-{{pagequery>@:en:obe \{\{tag>(?!draft|create|delete|check|review|text|discuss|publish); fulltextregex; sort=title:asc; display={title}; natsort; layout=table; showcount; hidemsg; hidejump;}}
+{{door43pages @:en:obe -r -q="\{\{tag>
+(?![^}]*create)(?![^}]*delete)(?![^}]*check)(?![^}]*review)(?![^}]*text)(?![^}]*discuss)(?![^}]*publish)" -exclude:home -simpleLineBreak -title -fontsize="90%"}}
 
 
 ==== Check for Well-Formed OBE Tags ====
