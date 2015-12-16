@@ -1,19 +1,28 @@
-//El estado de desarrollo de las Historias Bíblicas Libres//
+//The status of development for Open Bible Stories// 
 
-fecha de publicación:
 
-versión: 3.1
+publish date: 2015-12-16
 
-contribuidores:
 
-entidad que revisa: equipo de traducción
+version: 4.1
 
-nivel de revisión: 1
 
-fuente del texto: en
+contributors: Wendy Colón; Aida Rodríguez; Ada González; Miriam Planas
 
-versión de la fuente del texto: 3.0
 
-comentarios:
+checking entity: 
 
-notas de progreso: arreglo inicial en 2014-08-04
+
+checking level: 1
+
+
+source text: en
+
+
+source text version: 3.1
+
+
+comments: 
+
+
+Progress Notes: 
