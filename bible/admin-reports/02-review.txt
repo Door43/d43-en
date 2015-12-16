@@ -5,6 +5,6 @@
   * [[en:bible:admin-reports:check-tags-notes]]
 
 ^  Notes  ^  Terms  ^  Questions  ^
-|{{pagequery>@en:bible:notes ^en:bible:notes:checking \{\{tag>[^}]*review[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort;showcount; layout=table;hidemsg;hidejump;fontsize=60%}}  |{{pagequery>@en:obe \{\{tag>[^}]*review[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort;showcount; layout=table;hidemsg;hidejump;fontsize=60%}}  |{{pagequery>@en:bible:questions:comprehension \{\{tag>[^}]*review[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort;showcount; layout=table;hidemsg;hidejump;fontsize=60%}}  |
+|{{door43pages @en:bible:notes -r -q="\{\{tag>[^}]*review[^}]*\}\}" -exclude:home -simpleLineBreak -title}}  |{{door43pages @en:obe -r -q="\{\{tag>[^}]*review[^}]*\}\}" -exclude:home -simpleLineBreak -title}}  |{{door43pages @en:bible:questions:comprehension -r -q="\{\{tag>[^}]*review[^}]*\}\}" -exclude:home -simpleLineBreak -title}}  |
 
 \\
