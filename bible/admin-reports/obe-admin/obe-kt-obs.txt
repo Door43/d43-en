@@ -6,4 +6,4 @@
 
 The pages below in the OBE/Other namespace are tagged as "ktobs" in order to be sorted as needed.
 
-{{pagequery>ns:en:obe:kt "ktobs"; fulltext; sort=a:asc,title:asc; display={title}; natsort; showcount; hidemsg; hidejump;}}
+{{door43pages  @:en:obe:kt -r -q="ktobs" -exclude:home -simpleLineBreak -title -fontsize="90%"}}
