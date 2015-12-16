@@ -24,6 +24,8 @@ Code to display the activity in a namespace:
 
 ==== New nspages Search: ====
 
+  * Documentation: https://www.dokuwiki.org/plugin:nspages
+
 Find all "draft" tags in Romans NS:
 
 <code>
