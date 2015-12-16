@@ -8,8 +8,7 @@ Reviewer - \\
   * [[:en:bible:admin-reports:check-tags-notes|Check Notes Tags]]
 
 ==== 1 Kings Pages Status ====
-
-^  Review  ^  Text  ^  Fixed  ^  Discuss  ^  Publish  ^
-|{{pagequery>@en:bible:notes:1sa \{\{tag>[^}]*review[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; showcount; layout=table;hidemsg;hidejump;fontsize=80%}} |{{pagequery>@en:bible:notes:1sa \{\{tag>[^}]*text[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; showcount; layout=table;hidemsg;hidejump;fontsize=80%}} |{{pagequery>@en:bible:notes:1sa \{\{tag>[^}]*fixed[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; showcount; layout=table;hidemsg;hidejump;fontsize=80%}} |{{pagequery>@en:bible:notes:1sa \{\{tag>[^}]*discuss[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; showcount; layout=table;hidemsg;hidejump;fontsize=80%}} |{{pagequery>@en:bible:notes:1sa \{\{tag>[^}]*publish[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; showcount; layout=table;hidemsg;hidejump;fontsize=80%}} |
+^  Review  ^  Text  ^  Fixed  ^  Discuss  ^  Inspect  ^  Publish  ^
+|{{door43pages @en:bible:notes:1sa -r -q="\{\{tag>[^}]*review[^}]*\}\}" -exclude:home -simpleLineBreak -title}} |{{door43pages @en:bible:notes:1sa -r -q="\{\{tag>[^}]*text[^}]*\}\}" -exclude:home -simpleLineBreak -title}} |{{door43pages @en:bible:notes:1sa -r -q="\{\{tag>[^}]*fixed[^}]*\}\}" -exclude:home -simpleLineBreak -title}} |{{door43pages @en:bible:notes:1sa -r -q="\{\{tag>[^}]*discuss[^}]*\}\}" -exclude:home -simpleLineBreak -title}} |{{door43pages @en:bible:notes:1sa -r -q="\{\{tag>[^}]*inspect[^}]*\}\}" -exclude:home -simpleLineBreak -title}} |{{door43pages @en:bible:notes:1sa -r -q="\{\{tag>[^}]*publish[^}]*\}\}" -exclude:home -simpleLineBreak -title}} |
 
 \\
