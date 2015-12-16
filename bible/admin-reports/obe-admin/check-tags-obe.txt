@@ -12,4 +12,4 @@ This query checks if the first tag is one of the valid tags required to make the
 
 The following query checks that every page that has curly braces"{}" include the key word "tag>".
 
-{{door43pages @:en:obe -r -q="\{\{(?=tag>)(?=topic>)" -exclude:home -simpleLineBreak -title -fontsize="90%"}}
+{{door43pages @:en:obe -r -q="(?=\{\{tag>)(?=\{\{topic>)" -exclude:home -simpleLineBreak -title -fontsize="90%"}}
