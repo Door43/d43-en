@@ -22,6 +22,57 @@ Code to display the activity in a namespace:
 {{changes>ns=NS&count=12&render=pagelist(header,date,user,nocomments)&maxage=25920000}}
 </code>
 
+==== New nspages Search: ====
+
+Find all "draft" tags in Romans NS:
+
+<code>
+{{door43pages @:en:bible:notes:rom -r -q="\{\{tag>[^}]*draft[^}]*\}\}" -exclude:home -simpleLineBreak -title}}
+</code>
+
+Find all "review" tags in two different NS:
+
+<code>
+{{door43pages @en:bible:notes:ezk @en:bible:notes:isa -r -q="\{\{tag>[^}]*review[^}]*\}\}" -exclude:home -simpleLineBreak -title}}
+</code>
+
+Find all "publish" tags in "bible" NS,  but skip "checking" sub-NS:
+
+<code>
+{{door43pages @:en:bible:notes ^en:bible:notes:checking -r -q="\{\{tag>[^}]*publish[^}]*\}\}" -exclude:home -simpleLineBreak -title}}
+</code>
+
+Find KT pages with "drewc" tag __and__ with "ktobs" tag:
+
+<code>
+{{door43pages @:en:obe:kt -r -q="\{\{tag>(?=[^}]*drewc)(?=[^}]*ktobs)[^}]*\}\}" -exclude:home -simpleLineBreak -title}}
+</code>
+
+
+Find KT pages with "drewc" tag __but not__ "ktobs" tag:
+
+<code>
+{{door43pages @:en:obe:kt -r -q="\{\{tag>(?![^}]*ktobs)(?=[^}]*drewc)[^}]*\}\}" -exclude:home -simpleLineBreak -title}}
+</code>
+
+Find pages with __either__ of two text strings:
+
+<code>
+{{door43pages @:en:bible:notes -r -q="(?=\)" -exclude:home -simpleLineBreak -title}}
+</code>
+
+Find pages with __either__ "check" or "review" tags in 2Co:
+
+<code>
+{{door43pages @en:bible:notes:2co -r -q="(\{\{tag>[^}]*check[^}]*\}\})|(\{\{tag>[^}]*review[^}]*\}\})" -exclude:home -simpleLineBreak -title}}
+</code>
+
+Find text string in a namespace (escape characters as needed):
+
+<code>
+{{door43pages @:en:bible:notes -r -q="1\)" -exclude:home -simpleLineBreak -title}}
+</code>
+
 
 ==== Tags: ====
 
@@ -60,7 +111,7 @@ Code to pull in content from a specific section:
 {{section>:en:bible:notes:luk:01:01#important terms:&noheader}}
 </code>
 
-==== New Regex Search: ====
+==== Regex Search: ====
 
 Find all "draft" tags in Romans NS:
 
