@@ -8,32 +8,32 @@
 ===== Discourse: =====
 
 ^  Draft  ^  Review  ^  Publish  ^
-|{{pagequery>@:en:bible:team-info:training:quick-reference:discourse \{\{tag>[^}]*draft[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort;bullet=square; layout=table;hidemsg;hidejump;fontsize=90%}}  |{{pagequery>@:en:bible:team-info:training:quick-reference:discourse \{\{tag>[^}]*review[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort;bullet=square; layout=table;hidemsg;hidejump;fontsize=90%}}  |{{pagequery>@:en:bible:team-info:training:quick-reference:discourse \{\{tag>[^}]*publish[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort;bullet=square; layout=table;hidemsg;hidejump;fontsize=90%}}  | 
+|{{door43pages @:en:bible:team-info:training:quick-reference:discourse \{\{tag>[^}]*draft[^}]*\}\}" -exclude:home -simpleLineBreak -title}}  |{{door43pages @:en:bible:team-info:training:quick-reference:discourse \{\{tag>[^}]*review[^}]*\}\}" -exclude:home -simpleLineBreak -title}}  |{{door43pages @:en:bible:team-info:training:quick-reference:discourse \{\{tag>[^}]*publish[^}]*\}\}" -exclude:home -simpleLineBreak -title}}  | 
 
 
 ===== Figures of Speech: =====
 
 ^  Draft  ^  Review  ^  Publish  ^
-|{{pagequery>@:en:bible:team-info:training:quick-reference:figures \{\{tag>[^}]*draft[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort;bullet=square; layout=table;hidemsg;hidejump;fontsize=90%}}  |{{pagequery>@:en:bible:team-info:training:quick-reference:figures \{\{tag>[^}]*review[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort;bullet=square; layout=table;hidemsg;hidejump;fontsize=90%}}  |{{pagequery>@:en:bible:team-info:training:quick-reference:figures \{\{tag>[^}]*publish[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort;bullet=square; layout=table;hidemsg;hidejump;fontsize=90%}}  |
+|{{door43pages @:en:bible:team-info:training:quick-reference:figures \{\{tag>[^}]*draft[^}]*\}\}" -exclude:home -simpleLineBreak -title}}  |{{door43pages @:en:bible:team-info:training:quick-reference:figures \{\{tag>[^}]*review[^}]*\}\}" -exclude:home -simpleLineBreak -title}}  |{{door43pages @:en:bible:team-info:training:quick-reference:figures \{\{tag>[^}]*publish[^}]*\}\}" -exclude:home -simpleLineBreak -title}}  |
 
 \\
 
 ===== Grammar: =====
 
 ^  Draft  ^  Review  ^  Publish  ^
-|{{pagequery>@:en:bible:team-info:training:quick-reference:grammar \{\{tag>[^}]*draft[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort;bullet=square; layout=table;hidemsg;hidejump;fontsize=90%}}  |{{pagequery>@:en:bible:team-info:training:quick-reference:grammar \{\{tag>[^}]*review[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort;bullet=square; layout=table;hidemsg;hidejump;fontsize=90%}}  |{{pagequery>@:en:bible:team-info:training:quick-reference:grammar \{\{tag>[^}]*publish[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort;bullet=square; layout=table;hidemsg;hidejump;fontsize=90%}}  |
+|{{door43pages @:en:bible:team-info:training:quick-reference:grammar \{\{tag>[^}]*draft[^}]*\}\}" -exclude:home -simpleLineBreak -title}}  |{{door43pages @:en:bible:team-info:training:quick-reference:grammar \{\{tag>[^}]*review[^}]*\}\}" -exclude:home -simpleLineBreak -title}}  |{{door43pages @:en:bible:team-info:training:quick-reference:grammar \{\{tag>[^}]*publish[^}]*\}\}" -exclude:home -simpleLineBreak -title}}  |
 
 
 ===== Standard Notes: =====
 
 ^  Draft  ^  Review  ^  Publish  ^
-|{{pagequery>@:en:bible:team-info:training:quick-reference:standard-notes \{\{tag>[^}]*draft[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort;bullet=square; layout=table;hidemsg;hidejump;fontsize=90%}}  |{{pagequery>@:en:bible:team-info:training:quick-reference:standard-notes \{\{tag>[^}]*review[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort;bullet=square; layout=table;hidemsg;hidejump;fontsize=90%}}  |{{pagequery>@:en:bible:team-info:training:quick-reference:standard-notes \{\{tag>[^}]*publish[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort;bullet=square; layout=table;hidemsg;hidejump;fontsize=90%}}  |
+|{{door43pages @:en:bible:team-info:training:quick-reference:standard-notes \{\{tag>[^}]*draft[^}]*\}\}" -exclude:home -simpleLineBreak -title}}  |{{door43pages @:en:bible:team-info:training:quick-reference:standard-notes \{\{tag>[^}]*review[^}]*\}\}" -exclude:home -simpleLineBreak -title}}  |{{door43pages @:en:bible:team-info:training:quick-reference:standard-notes \{\{tag>[^}]*publish[^}]*\}\}" -exclude:home -simpleLineBreak -title}}  |
 
 
 ===== Standard Connecting Notes: =====
 
 ^  Draft  ^  Review  ^  Publish  ^
-|{{pagequery>@:en:bible:team-info:training:quick-reference:standard-connecting-notes \{\{tag>[^}]*draft[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort;bullet=square; layout=table;hidemsg;hidejump;fontsize=90%}}  |{{pagequery>@:en:bible:team-info:training:quick-reference:standard-connectin-notes \{\{tag>[^}]*review[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort;bullet=square; layout=table;hidemsg;hidejump;fontsize=90%}}  |{{pagequery>@:en:bible:team-info:training:quick-reference:standard-connecting-notes \{\{tag>[^}]*publish[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort;bullet=square; layout=table;hidemsg;hidejump;fontsize=90%}}  |
+|{{door43pages @:en:bible:team-info:training:quick-reference:standard-connecting-notes \{\{tag>[^}]*draft[^}]*\}\}" -exclude:home -simpleLineBreak -title}}  |{{door43pages @:en:bible:team-info:training:quick-reference:standard-connectin-notes \{\{tag>[^}]*review[^}]*\}\}" -exclude:home -simpleLineBreak -title}}  |{{door43pages @:en:bible:team-info:training:quick-reference:standard-connecting-notes \{\{tag>[^}]*publish[^}]*\}\}" -exclude:home -simpleLineBreak -title}}  |
 
 
 
