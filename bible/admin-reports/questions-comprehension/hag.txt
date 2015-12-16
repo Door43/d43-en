@@ -5,6 +5,6 @@
 This is the status of the Titus Translation Question pages:
 
 ^  Draft  ^  Review  ^  Text  ^  Publish  ^
-|{{door43pages @en:bible:questions:comprehension:hag -r -q="\{\{tag>[^}]*draft[^}]*\}\}" -exclude:home -simpleLineBreak -title}} |{{door43pages @en:bible:questions:comprehension:hag -r -q="\{\{tag>[^}]*review[^}]*\}\}" -exclude:home -simpleLineBreak -title}} |{{door43pages @en:bible:questions:comprehension:hag-r -q="\{\{tag>[^}]*text[^}]*\}\}" -exclude:home -simpleLineBreak -title}} |{{door43pages @en:bible:questions:comprehension:hag -r -q="\{\{tag>[^}]*publish[^}]*\}\}" -exclude:home -simpleLineBreak -title}} |
+|{{door43pages @en:bible:questions:comprehension:hag -r -q="\{\{tag>[^}]*draft[^}]*\}\}" -exclude:home -simpleLineBreak -title}} |{{door43pages @en:bible:questions:comprehension:hag -r -q="\{\{tag>[^}]*review[^}]*\}\}" -exclude:home -simpleLineBreak -title}} |{{door43pages @en:bible:questions:comprehension:hag -r -q="\{\{tag>[^}]*text[^}]*\}\}" -exclude:home -simpleLineBreak -title}} |{{door43pages @en:bible:questions:comprehension:hag -r -q="\{\{tag>[^}]*publish[^}]*\}\}" -exclude:home -simpleLineBreak -title}} |
 
 \\
