@@ -41,7 +41,7 @@ Find all "review" tags in two different NS:
 Find all "publish" tags in "bible" NS,  but skip "checking" sub-NS (//not tested//):
 
 <code>
-{{door43pages @:en:bible:notes ^en:bible:notes:checking -r -q="\{\{tag>[^}]*publish[^}]*\}\}" -exclude:home -simpleLineBreak -title -fontsize="90%"}}
+{{door43pages @:en:bible:notes ^:en:bible:notes:checking -r -q="\{\{tag>[^}]*publish[^}]*\}\}" -exclude:home -simpleLineBreak -title -fontsize="90%"}}
 </code>
 
 Find KT pages with "drewc" tag __and__ with "ktobs" tag:
