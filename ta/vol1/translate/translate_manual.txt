@@ -2,9 +2,10 @@
 
 This module answers the question: What is the Translation Manual?\\
 Before you start this module have you learned about:
-  * [[en:ta:vol1:intro:ta_intro|Introduction to translationAcademy]]
-  * [[en:ta:vol1:intro:translation_guidelines|Translation Guidelines]]
-  * [[en:ta:vol1:intro:finding_answers|Finding Answers]]
+
+  * [[:en:ta:vol1:intro:ta_intro|Introduction to translationAcademy]]
+  * [[:en:ta:vol1:intro:translation_guidelines|Translation Guidelines]]
+  * [[:en:ta:vol1:intro:finding_answers|Finding Answers]]
 
 ==== What Does the Translation Manual Teach? ====
 
@@ -12,20 +13,14 @@ This manual teaches translation theory and how to make a good translation. Many 
 
 Some highlights in the Translation Manual:
 
-  * [[en:ta:vol1:translate:guidelines_intro]] - defining a good translation
-  * [[en:ta:vol1:translate:translate_process]] - how to achieve a good translation
-  * [[en:ta:vol1:translate:choose_team]] - some items to consider before starting a translation project
-  * [[en:ta:vol1:translate:translate_what]] - how to start translating
-
-
-
-
-
-
+  * [[:en:ta:vol1:translate:guidelines_intro|The Qualities of a Good Translation]] - defining a good translation
+  * [[:en:ta:vol1:translate:translate_process|The Translation Process]] - how to achieve a good translation
+  * [[:en:ta:vol1:translate:choose_team|Choosing a Translation Team]] - some items to consider before starting a translation project
+  * [[:en:ta:vol1:translate:translate_what|What to Start Translating]] - how to start translating
 
 Next we recommend you learn about:
-  * [[en:ta:vol1:translate:translate_why|Why We Translate the Bible]]
-  * [[en:ta:vol1:translate:guidelines_intro|The Qualities of a Good Translation]]
-  * [[en:ta:vol1:translate:translate_process|The Translation Process]]
-  * [[en:ta:vol1:translate:translate_what|What to Start Translating]]
 
+  * [[:en:ta:vol1:translate:translate_why|Why We Translate the Bible]]
+  * [[:en:ta:vol1:translate:guidelines_intro|The Qualities of a Good Translation]]
+  * [[:en:ta:vol1:translate:translate_process|The Translation Process]]
+  * [[:en:ta:vol1:translate:translate_what|What to Start Translating]]
