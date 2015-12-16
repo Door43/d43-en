@@ -10,11 +10,11 @@ Please refer to the links on this page for a quick summary of the format and con
 
 ==== Discourse ====
 
-{{pagequery>@en:bible:team-info:training:quick-reference:discourse \{\{tag>[^}]*publish[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=100%}}
+{{door43pages @en:bible:team-info:training:quick-reference:discourse -r -q="\{\{tag>[^}]*publish[^}]*\}\}" -exclude:home -simpleLineBreak -title}}
 
 ==== Grammar ====
 
-{{pagequery>@en:bible:team-info:training:quick-reference:grammar \{\{tag>[^}]*publish[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=100%}}
+{{door43pages @en:bible:team-info:training:quick-reference:grammar -r -q="\{\{tag>[^}]*publish[^}]*\}\}" -exclude:home -simpleLineBreak -title}}
 
 
 ==== Figures of Speech ====
@@ -51,19 +51,19 @@ In a simile something is compared to something else of a different kind in order
 
 ==== Standard Notes - General ====
 
-{{pagequery>@:en:bible:team-info:training:quick-reference:standard-notes \{\{tag>[^}]*publish[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=100%}}
+{{door43pages @:en:bible:team-info:training:quick-reference:standard-notes -r -q="\{\{tag>[^}]*publish[^}]*\}\}" -exclude:home -simpleLineBreak -title}}
 
   * [[:en:bible:team-info:training:quick-reference:standard-notes:withwholeheart]]
 ==== Standard Connecting Notes ====
 
-{{pagequery>@:en:bible:team-info:training:quick-reference:standard-connecting-notes \{\{tag>[^}]*publish[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=100%}}
+{{door43pages @:en:bible:team-info:training:quick-reference:standard-connecting-notes -r -q="\{\{tag>[^}]*publish[^}]*\}\}" -exclude:home -simpleLineBreak -title}}
 ==== Other ====
 
-{{pagequery>@en:bible:team-info:training:quick-reference:other \{\{tag>[^}]*publish[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=100%}}
+{{door43pages @en:bible:team-info:training:quick-reference:other -r -q="\{\{tag>[^}]*publish[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=100%}}
 
 ==== Standard Notes - Books ====
 
-{{pagequery>@:en:bible:team-info:training:standard-book-notes \{\{tag>[^}]*publish[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=100%}}
+{{door43pages @:en:bible:team-info:training:standard-book-notes -r -q="\{\{tag>[^}]*publish[^}]*\}\}" -exclude:home -simpleLineBreak -title}}
 
 
 {{tag>notes101 discuss}}
