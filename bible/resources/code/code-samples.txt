@@ -22,7 +22,7 @@ Code to display the activity in a namespace:
 {{changes>ns=NS&count=12&render=pagelist(header,date,user,nocomments)&maxage=25920000}}
 </code>
 
-==== New nspages Search (//not all tested//): ====
+==== New nspages Search: ====
 
 Find all "draft" tags in Romans NS:
 
@@ -36,7 +36,7 @@ Find all "review" tags in two different NS:
 {{door43pages @en:bible:notes:ezk @en:bible:notes:isa -r -q="\{\{tag>[^}]*review[^}]*\}\}" -exclude:home -simpleLineBreak -title}}
 </code>
 
-Find all "publish" tags in "bible" NS,  but skip "checking" sub-NS:
+Find all "publish" tags in "bible" NS,  but skip "checking" sub-NS (//not tested//):
 
 <code>
 {{door43pages @:en:bible:notes ^en:bible:notes:checking -r -q="\{\{tag>[^}]*publish[^}]*\}\}" -exclude:home -simpleLineBreak -title}}
