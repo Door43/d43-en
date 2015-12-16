@@ -1,12 +1,11 @@
 ====== # of Notes Chunks in Status: ======
 
 ^  Draft  ^  Check  ^  Review  ^  Publish  |
-|{{door43pages @en:bible:notes -q="\{\{tag>[^}]*draft[^}]*\}\}" -r -showcount -title -simpleLineBreak -fontsize="80%"}} |{{door43pages @en:bible:notes -q="\{\{tag>[^}]*check[^}]*\}\}" -r -showcount -title -simpleLineBreak -fontsize="80%"}} |{{door43pages @en:bible:notes @en:bible:notes:checking -q="\{\{tag>[^}]*review[^}]*\}\}" -r -showcount -title -simpleLineBreak -fontsize="80%"}} |{{door43pages @en:bible:notes @en:bible:notes:checking -q="\{\{tag>[^}]*publish[^}]*\}\}" -r -showcount -title -simpleLineBreak -fontsize="80%"}} |
+|{{pagequery>@en:bible:notes \{\{tag>[^}]*draft[^}]*\}\}; showcount; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;fontsize=80%}} |{{pagequery>@en:bible:notes \{\{tag>[^}]*check[^}]*\}\}; showcount; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;fontsize=80%}} |{{pagequery>@en:bible:notes ^en:bible:notes:checking \{\{tag>[^}]*review[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort;showcount; layout=table;hidemsg;hidejump;fontsize=80%}} |{{pagequery>@en:bible:notes ^en:bible:notes:checking \{\{tag>[^}]*publish[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort;showcount; layout=table;hidemsg;hidejump;fontsize=80%}} |
 
 \\
 ~~NOCACHE~~
 
-  * [[en:bible:admin-reports:check-tags-notes|Check Tags]]
-
+  * [[:en:bible:admin-reports:check-tags|Check Tags]]
 
 \\
