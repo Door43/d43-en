@@ -33,7 +33,7 @@
 ===== Standard Connecting Notes: =====
 
 ^  Draft  ^  Review  ^  Publish  ^
-|{{door43pages @:en:bible:team-info:training:quick-reference:standard-connecting-notes -r -q="\{\{tag>[^}]*draft[^}]*\}\}" -exclude:home -simpleLineBreak -title}}  |{{door43pages @:en:bible:team-info:training:quick-reference:standard-connectin-notes -r -q="\{\{tag>[^}]*review[^}]*\}\}" -exclude:home -simpleLineBreak -title}}  |{{door43pages @:en:bible:team-info:training:quick-reference:standard-connecting-notes -r -q="\{\{tag>[^}]*publish[^}]*\}\}" -exclude:home -simpleLineBreak -title}}  |
+|{{door43pages @:en:bible:team-info:training:quick-reference:standard-connecting-notes -r -q="\{\{tag>[^}]*draft[^}]*\}\}" -exclude:home -simpleLineBreak -title}}  |{{door43pages @:en:bible:team-info:training:quick-reference:standard-connecting-notes -r -q="\{\{tag>[^}]*review[^}]*\}\}" -exclude:home -simpleLineBreak -title}}  |{{door43pages @:en:bible:team-info:training:quick-reference:standard-connecting-notes -r -q="\{\{tag>[^}]*publish[^}]*\}\}" -exclude:home -simpleLineBreak -title}}  |
 
 
 ~~DISCUSSION~~
