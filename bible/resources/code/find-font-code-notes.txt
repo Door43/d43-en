@@ -2,7 +2,6 @@
 
 ~~NOCACHE~~
 
-Pages with opening or closing <nowiki>HTML <font> or </font></nowiki> tags:
+Pages with opening or closing <nowiki>HTML  or </nowiki> tags:
 
-{{pagequery>@:en:bible:notes (?=\<font)|(?=\<\/font\>); fulltextregex; sort=title:asc; display={title}; natsort; layout=table; showcount; hidemsg; hidejump;}}
-
+{{door43pages @:en:bible:notes -r -q="(?=\)" -exclude:home -simpleLineBreak -title -fontsize="90%"}}
