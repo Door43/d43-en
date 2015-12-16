@@ -22,7 +22,7 @@ To search for all the links tied to the term to be deleted. The Namespace by sta
 
 ==== Find all pages where the OBE term is listed as a tag ====
 
-{{topic>XXX&nocomments}}
+{{door43pages @:en:bible -r -q="\{\{tag>[^}]*XXX[^}]*\}\}" -exclude:home -simpleLineBreak -title -fontsize="90%"}}
 
 ==== Find all pages that have links to this term ====
 
@@ -31,11 +31,11 @@ To search for all the links tied to the term to be deleted. The Namespace by sta
 
 OBE KT's:
 
-{{pagequery> "en:obe:kt:XXX"; fulltext; sort=title:asc; display={title}; layout=table; showcount; hidestart; natsort; bullet=square}}
+{{door43pages -r -q=""en:obe:kt:XXX"" -exclude:home -simpleLineBreak -title -fontsize="90%"}}
 
 OBE Other:
 
-{{pagequery> "en:obe:other:XXX"; fulltext; sort=title:asc; display={title}; layout=table; showcount; hidestart; natsort; bullet=square}}
+{{door43pages -r -q=""en:obe:other:XXX"" -exclude:home -simpleLineBreak -title -fontsize="90%"}}
 
 ==== Find the key term page ====
 
