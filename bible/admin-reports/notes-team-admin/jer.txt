@@ -15,7 +15,8 @@ Reviewer - (//review to publish//) -
 
 ==== Jeremiah Page Status ====
 
-^  Draft  ^  Check  ^  Review  ^
-|{{pagequery>@en:bible:notes:jer \{\{tag>[^}]*draft[^}]*\}\}; showcount; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=100%}} |{{pagequery>@en:bible:notes:jer \{\{tag>[^}]*check[^}]*\}\}; showcount; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=100%}} |{{pagequery>@en:bible:notes:jer \{\{tag>[^}]*review[^}]*\}\}; fulltextregex; showcount; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=100%}} |
+
+^ Draft  ^ Check ^ Review ^
+|{{door43pages @en:bible:notes:jer -q="\{\{tag>[^}]*draft[^}]*\}\}" -r -showcount -title -simpleLineBreak -fontsize="80%"}} |{{door43pages @en:bible:notes:jer -q="\{\{tag>[^}]*check[^}]*\}\}" -r -showcount -title -simpleLineBreak -fontsize="80%"}} |{{door43pages @en:bible:notes:jer -q="\{\{tag>[^}]*review[^}]*\}\}" -r -showcount -title -simpleLineBreak -fontsize="80%"}} |
 
 \\
