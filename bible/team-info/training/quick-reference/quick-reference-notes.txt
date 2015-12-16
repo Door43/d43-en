@@ -53,7 +53,6 @@ In a simile something is compared to something else of a different kind in order
 
 {{door43pages @:en:bible:team-info:training:quick-reference:standard-notes -r -q="\{\{tag>[^}]*publish[^}]*\}\}" -exclude:home -simpleLineBreak -title}}
 
-  * [[:en:bible:team-info:training:quick-reference:standard-notes:withwholeheart]]
 ==== Standard Connecting Notes ====
 
 {{door43pages @:en:bible:team-info:training:quick-reference:standard-connecting-notes -r -q="\{\{tag>[^}]*publish[^}]*\}\}" -exclude:home -simpleLineBreak -title}}
