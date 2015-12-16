@@ -60,7 +60,7 @@ In a simile something is compared to something else of a different kind in order
 
 ==== Other ====
 
-{{door43pages @:en:bible:team-info:training:quick-reference:other -r -q="\{\{tag>[^}]*publish[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=100%}}
+{{door43pages @:en:bible:team-info:training:quick-reference:other -r -q="\{\{tag>[^}]*publish[^}]*\}\}" -exclude:home -simpleLineBreak -title}}
 
 ==== Standard Notes - Books ====
 
