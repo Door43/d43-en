@@ -8,14 +8,9 @@
 
 ~~NOCACHE~~
 
-The following OBE Terms are tagged as "create" and are on hold. \\ They are not available for the team to edit.
 
-==== Terms and Tags: ====
-
-{{topic>en:obe?create&nocomments&list&tags}}
-
-==== Create Terms Count: ====
+==== Create Terms: ====
 
 ~~NOCACHE~~
 
-{{pagequery>@:en:obe \{\{tag>[^}]*create[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;showcount;fontsize=90%}}
+{{door43pages @:en:obe -r -q="\{\{tag>[^}]*create[^}]*\}\}" -exclude:home -simpleLineBreak -title -fontsize="90%"}}
