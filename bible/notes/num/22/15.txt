@@ -2,30 +2,17 @@
 
 ===== TFT: =====
 
-<usfm>
-\v 15 But Balak sent \add another group of\add* leaders to Balaam. It was a group that was larger and they were more important \add than the men in the first group\add*.
-\v 17 I will pay you a lot of money\f + \ft Or: very well \f* \add if you come\add*, and I will do anything that you ask me to do. Just come and curse these \add Israelite\add* people for me!'~"
-\p
-</usfm>
+<usfm> \v 15 But Balak sent \add another group of\add* leaders to Balaam. It was a group that was larger and they were more important \add than the men in the first group\add*. \v 17 I will pay you a lot of money\f + \ft Or: very well \f* \add if you come\add*, and I will do anything that you ask me to do. Just come and curse these \add Israelite\add* people for me!'~" \p </usfm>
 
 ===== UDB: =====
 
-<usfm>
-\v 15 But Balak sent another group of leaders to Balaam. It was a group that was larger and they were more important than the men in the first group.
-\v 17 I will pay you a lot of money if you come, and I will do anything that you ask me to do. Just come and curse these Israelite people for me!' "
+<usfm> \v 15 But Balak sent another group of leaders to Balaam. It was a group that was larger and they were more important than the men in the first group. \v 17 I will pay you a lot of money if you come, and I will do anything that you ask me to do. Just come and curse these Israelite people for me!' "
 
-
-\p
-</usfm>
+\p </usfm>
 
 ===== ULB: =====
 
-<usfm>
-\p
-\v 15 Balak sent again more leaders who were even more honored than the first group.
-v 16 They came to Balaam and said to him, "Balak son of Zippor says this, 'Please let nothing stop you from coming to me,
-\v 17 because I will pay you extremely well and give you great honor, and I will do whatever you tell me to do.So please come and curse this people for me.'"
-</usfm>
+<usfm> \p \v 15 Balak sent again more leaders who were even more honored than the first group. v 16 They came to Balaam and said to him, "Balak son of Zippor says this, 'Please let nothing stop you from coming to me, \v 17 because I will pay you extremely well and give you great honor, and I will do whatever you tell me to do.So please come and curse this people for me.'" </usfm>
 
 ===== Important Terms: =====
 
@@ -35,13 +22,12 @@ v 16 They came to Balaam and said to him, "Balak son of Zippor says this, 'Pleas
 
 ===== Translation Notes: =====
 
-  *  **So please come and curse this people for me.**  - Would this read better if it said "these people"?
-
+  * **So please come and curse this people for me **- AT: "So please come and curse these Israelite people for me" (UDB)
 ===== Links: =====
 
   * **[[:en:bible:questions:comprehension:num:22|Numbers Chapter 22 Comprehension Questions]]**
 **[[:en:bible:notes:num:22:12|<<]] | [[:en:bible:notes:num:22:18|>>]]**
 
-~~DISCUSSION~~{{tag>draft}}
+~~DISCUSSION~~{{tag>check}}
 
 ~~NOCACHE~~

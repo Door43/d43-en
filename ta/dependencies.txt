@@ -387,6 +387,9 @@ edge [arrowsize=1.4];
 "translate_what" -> "first_draft"
 "translate_source_text" -> "first_draft"
 "writing_decisions" -> "first_draft"
+"gl_strategy" [fillcolor="#99ff99"]
+"uw_intro" -> "gl_strategy"
+"open_license" -> "gl_strategy"
 "guidelines_accurate" [fillcolor="#99ff99"]
 "guidelines_intro" -> "guidelines_accurate"
 "translation_guidelines" -> "guidelines_accurate"
