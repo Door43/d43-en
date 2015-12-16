@@ -5,6 +5,6 @@
   * [[en:bible:admin-reports:check-tags-notes]]
 
 ^  Notes  ^
-|{{pagequery>@en:bible:notes \{\{tag>[^}]*check[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort;showcount; layout=table;hidemsg;hidejump;fontsize=60%}}  |
+|{{door43pages @en:bible:notes -r -q="\{\{tag>[^}]*check[^}]*\}\}" -exclude:home -simpleLineBreak -title}}  |{{door43pages @en:obe -r -q="\{\{tag>[^}]*review[^}]*\}\}" -exclude:home -simpleLineBreak -title}}  |
 
 \\
