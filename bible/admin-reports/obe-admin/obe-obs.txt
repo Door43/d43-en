@@ -6,4 +6,4 @@
 
 The pages below in the OBE namespace are tagged as "ktobs" to indicate that they are used in the OBS.
 
-{{door43pages  @:en:obe -r -q=""ktobs"" -exclude:home -simpleLineBreak -title -fontsize="90%"}}
+{{door43pages  @:en:obe -r -q="ktobs" -exclude:home -simpleLineBreak -title -fontsize="90%"}}
