@@ -2,7 +2,7 @@
 
 Team Lead (//draft to check//) - Aurora Lee\\
 Manager (//check to review//) - Catherine Newton\\
-Reviewer - (//review to publish//) - Ed Quigley\\ 
+Reviewer - (//review to publish//) - Ed Quigley
 
 ~~NOCACHE~~
 
@@ -12,8 +12,9 @@ Reviewer - (//review to publish//) - Ed Quigley\\
   * [[:en:udb:ep:05-deu.usfm|Full UDB text of Deuteronomy]]
   * [[:en:bible:team-info:training:notes-training|Notes Training]]
 
-
 ==== Deuteronomy Page Status ====
 
-^ Draft  ^ Check ^ Review ^
+^Draft ^Check ^Review |
 |{{door43pages @en:bible:notes:deu -q="\{\{tag>[^}]*draft[^}]*\}\}" -r -showcount -title -simpleLineBreak -fontsize="80%"}} |{{door43pages @en:bible:notes:deu -q="\{\{tag>[^}]*check[^}]*\}\}" -r -showcount -title -simpleLineBreak -fontsize="80%"}} |{{door43pages @en:bible:notes @en:bible:notes:deu -q="\{\{tag>[^}]*review[^}]*\}\}" -r -showcount -title -simpleLineBreak -fontsize="80%"}} |
+
+\\
