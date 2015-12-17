@@ -1,0 +1,10 @@
+====== Translation Questions: 2 Samuel Admin ======
+
+~~NOCACHE~~
+
+This is the status of the 2 Samuel Translation Question pages:
+
+^ Draft  ^ Check ^  Text  ^  Publish  ^
+|{{door43pages @en:bible:questions:comprehension:2sa -q="\{\{tag>[^}]*draft[^}]*\}\}" -r -showcount -title -simpleLineBreak -fontsize="80%"}} |{{door43pages @en:bible:questions:comprehension:2sa -q="\{\{tag>[^}]*check[^}]*\}\}" -r -showcount -title -simpleLineBreak -fontsize="80%"}} |{{door43pages @en:bible:questions:comprehension:2sa -q="\{\{tag>[^}]*text[^}]*\}\}" -r -showcount -title -simpleLineBreak -fontsize="80%"}} |{{door43pages @en:bible:questions:comprehension:2sa -q="\{\{tag>[^}]*review[^}]*\}\}" -r -showcount -title -simpleLineBreak -fontsize="80%"}} |
+
+\\
