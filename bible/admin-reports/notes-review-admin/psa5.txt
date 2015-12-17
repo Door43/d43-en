@@ -14,7 +14,8 @@ Reviewer - (//review to publish//) -
 
 ==== Psalms Book 5 Page Status ====
 
+
 ^  Review  ^  Text  ^  Fixed  ^  Discuss  ^  Publish  ^
-|{{pagequery>@:en:bible:notes:psa \{\{tag>(?=[^}]*review)(?=[^}]*book5)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;showcount;fontsize=90%}} |{{pagequery>@:en:bible:notes:psa \{\{tag>(?=[^}]*text)(?=[^}]*book5)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;showcount;fontsize=90%}} |{{pagequery>@:en:bible:notes:psa \{\{tag>(?=[^}]*fixed)(?=[^}]*book5)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;showcount;fontsize=90%}} |{{pagequery>@:en:bible:notes:psa \{\{tag>(?=[^}]*discuss)(?=[^}]*book5)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;showcount;fontsize=90%}} |{{pagequery>@:en:bible:notes:psa \{\{tag>(?=[^}]*publish)(?=[^}]*book5)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;showcount;fontsize=90%}} |
+|{{door43pages @en:bible:notes:psa -q="\{\{tag>(?=[^}]*review)(?=[^}]*book5)[^}]*\}\}" -r -showcount -title -simpleLineBreak -fontsize="80%"}} |{{door43pages @en:bible:notes:psa -q="\{\{tag>(?=[^}]*text)(?=[^}]*book5)[^}]*\}\}" -r -showcount -title -simpleLineBreak -fontsize="80%"}} |{{door43pages @en:bible:notes:psa -q="\{\{tag>(?=[^}]*fixed)(?=[^}]*book5)[^}]*\}\}" -r -showcount -title -simpleLineBreak -fontsize="80%"}} |{{door43pages @en:bible:notes:psa -q="\{\{tag>(?=[^}]*discuss)(?=[^}]*book5)[^}]*\}\}" -r -showcount -title -simpleLineBreak -fontsize="80%"}} |{{door43pages @en:bible:notes:psa -q="\{\{tag>(?=[^}]*publish)(?=[^}]*book5)[^}]*\}\}" -r -showcount -title -simpleLineBreak -fontsize="80%"}} |
 
 \\
