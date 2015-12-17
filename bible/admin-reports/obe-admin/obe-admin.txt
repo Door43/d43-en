@@ -14,18 +14,16 @@
   * [[:en:bible:admin-reports:obe-admin:obe-create|OBE: Pages Tagged "Create"]]
   * [[:en:bible:admin-reports:obe-admin:obe-create-book|OBE: Pages Tagged "Create" by Book]]
   * [[:en:bible:admin-reports:obe-admin:obe-delete|OBE: Delete Term]]
-  * [[en:bible:admin-reports:obe-admin:check-tags-obe]]
-  * [[:en:bible:admin-reports:obe-admin:obe-future]]
+  * [[:en:bible:admin-reports:obe-admin:check-tags-obe|OBE: Check Tags]]
+  * [[:en:bible:admin-reports:obe-admin:obe-future|OBE: Future Tasks]]
 
 ==== Key Terms Pages Status ====
 
-^  All "Create" Pages  ^  Draft "KT" Pages  ^  Draft "Other" Pages  ^
+^  All "Create" Pages  ^  Draft "KT" Pages  ^  Draft "Other" Pages  |
 |{{door43pages @en:obe -r -q="\{\{tag>[^}]*create[^}]*\}\}" -exclude:home -simpleLineBreak -title -fontsize="90%"}} |{{door43pages @en:obe:kt -r -q="\{\{tag>[^}]*draft[^}]*\}\}" -exclude:home -simpleLineBreak -title -fontsize="90%"}} |{{door43pages @en:obe:other -r -q="\{\{tag>[^}]*draft[^}]*\}\}" -exclude:home -simpleLineBreak -title -fontsize="90%"}} |
 
-
-^  New Pages to Review  ^  Published Pages to Review  ^  Discuss Pages  ^
+^  New Pages to Review  ^  Published Pages to Review  ^  Discuss Pages  |
 |{{door43pages @en:obe -r -q="\{\{tag>(?![^}]*publish)(?![^}]*discuss)(?=[^}]*review)[^}]*\}\}" -exclude:home -simpleLineBreak -title -fontsize="90%"}} |{{door43pages @en:obe -r -q="\{\{tag>(?=[^}]*review)(?=[^}]*publish)[^}]*\}\}" -exclude:home -simpleLineBreak -title -fontsize="90%"}} |{{door43pages @en:obe -r -q="\{\{tag>(?=[^}]*discuss)[^}]*\}\}" -exclude:home -simpleLineBreak -title -fontsize="90%"}} |
-
 
 ==== Terms tagged "delete" ====
 
@@ -44,6 +42,5 @@ These pages need links, page creation, page update, etc.
 These Notes or OBE pages are published, but also have the "ktlink" tag (but not "review" or "discuss"). They need immediate attention to correct issues with the terms. This can be as simple as cross-links on an OBE page, or as complex as a reviewer requesting significant changes to a term.
 
 {{door43pages @en -r -q="\{\{tag>(?![^}]*review)(?![^}]*discuss)(?=[^}]*publish)(?=[^}]*ktlink)[^}]*\}\}" -exclude:home -simpleLineBreak -title -fontsize="90%"}}
-
 
 \\
