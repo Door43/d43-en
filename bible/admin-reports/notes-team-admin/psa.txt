@@ -1,7 +1,6 @@
 ==== Psalms Page Status ====
 
-
-^ Draft  ^ Check ^ Review ^
+^Draft ^Check ^Review |
 |{{door43pages @en:bible:notes:psa -q="\{\{tag>[^}]*draft[^}]*\}\}" -r -showcount -title -simpleLineBreak -fontsize="80%"}} |{{door43pages @en:bible:notes:psa -q="\{\{tag>[^}]*check[^}]*\}\}" -r -showcount -title -simpleLineBreak -fontsize="80%"}} |{{door43pages @en:bible:notes:psa -q="\{\{tag>[^}]*review[^}]*\}\}" -r -showcount -title -simpleLineBreak -fontsize="80%"}} |
 
 \\
