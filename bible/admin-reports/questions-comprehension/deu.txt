@@ -1,0 +1,10 @@
+====== Translation Questions: Deuteronomy Admin ======
+
+~~NOCACHE~~
+
+This is the status of the Deuteronomy Translation Question pages:
+
+^ Draft  ^ Check ^  Text  ^  Publish  ^
+|{{door43pages @en:bible:questions:comprehension:deu -q="\{\{tag>[^}]*draft[^}]*\}\}" -r -showcount -title -simpleLineBreak -fontsize="80%"}} |{{door43pages @en:bible:questions:comprehension:deu -q="\{\{tag>[^}]*check[^}]*\}\}" -r -showcount -title -simpleLineBreak -fontsize="80%"}} |{{door43pages @en:bible:questions:comprehension:deu -q="\{\{tag>[^}]*text[^}]*\}\}" -r -showcount -title -simpleLineBreak -fontsize="80%"}} |{{door43pages @en:bible:questions:comprehension:deu -q="\{\{tag>[^}]*review[^}]*\}\}" -r -showcount -title -simpleLineBreak -fontsize="80%"}} |
+
+\\
