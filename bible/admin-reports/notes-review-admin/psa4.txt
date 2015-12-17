@@ -12,9 +12,10 @@ Reviewer - (//review to publish//) -
   * [[:en:udb:ep:19-psa.usfm|Full UDB text of Psalms]]
 
 
-==== Psalms Book 1 Page Status ====
+==== Psalms Book 4 Page Status ====
+
 
 ^  Review  ^  Text  ^  Fixed  ^  Discuss  ^  Publish  ^
-|{{pagequery>@:en:bible:notes:psa \{\{tag>(?=[^}]*review)(?=[^}]*book4)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;showcount;fontsize=90%}} |{{pagequery>@:en:bible:notes:psa \{\{tag>(?=[^}]*text)(?=[^}]*book4)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;showcount;fontsize=90%}} |{{pagequery>@:en:bible:notes:psa \{\{tag>(?=[^}]*fixed)(?=[^}]*book4)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;showcount;fontsize=90%}} |{{pagequery>@:en:bible:notes:psa \{\{tag>(?=[^}]*discuss)(?=[^}]*book4)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;showcount;fontsize=90%}} |{{pagequery>@:en:bible:notes:psa \{\{tag>(?=[^}]*publish)(?=[^}]*book4)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;showcount;fontsize=90%}} |
+|{{door43pages @en:bible:notes:psa -q="\{\{tag>(?=[^}]*review)(?=[^}]*book4)[^}]*\}\}" -r -showcount -title -simpleLineBreak -fontsize="80%"}} |{{door43pages @en:bible:notes:psa -q="\{\{tag>(?=[^}]*text)(?=[^}]*book4)[^}]*\}\}" -r -showcount -title -simpleLineBreak -fontsize="80%"}} |{{door43pages @en:bible:notes:psa -q="\{\{tag>(?=[^}]*fixed)(?=[^}]*book4)[^}]*\}\}" -r -showcount -title -simpleLineBreak -fontsize="80%"}} |{{door43pages @en:bible:notes:psa -q="\{\{tag>(?=[^}]*discuss)(?=[^}]*book4)[^}]*\}\}" -r -showcount -title -simpleLineBreak -fontsize="80%"}} |{{door43pages @en:bible:notes:psa -q="\{\{tag>(?=[^}]*publish)(?=[^}]*book4)[^}]*\}\}" -r -showcount -title -simpleLineBreak -fontsize="80%"}} |
 
 \\
