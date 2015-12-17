@@ -1,0 +1,10 @@
+====== Translation Questions: Judges Admin ======
+
+~~NOCACHE~~
+
+This is the status of the Judges Translation Question pages:
+
+^ Draft  ^ Check ^  Text  ^  Publish  ^
+|{{door43pages @en:bible:questions:comprehension:jdg -q="\{\{tag>[^}]*draft[^}]*\}\}" -r -showcount -title -simpleLineBreak -fontsize="80%"}} |{{door43pages @en:bible:questions:comprehension:jdg -q="\{\{tag>[^}]*check[^}]*\}\}" -r -showcount -title -simpleLineBreak -fontsize="80%"}} |{{door43pages @en:bible:questions:comprehension:jdg -q="\{\{tag>[^}]*text[^}]*\}\}" -r -showcount -title -simpleLineBreak -fontsize="80%"}} |{{door43pages @en:bible:questions:comprehension:jdg -q="\{\{tag>[^}]*review[^}]*\}\}" -r -showcount -title -simpleLineBreak -fontsize="80%"}} |
+
+\\
