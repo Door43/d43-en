@@ -181,6 +181,8 @@
 {{changes>ns=hmr:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:hoc:obs|hoc OBS]]**
 {{changes>ns=hoc:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
+**[[:hsl:obs|hsl OBS]]**
+{{changes>ns=hsl:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:ht:obs|ht OBS]]**
 {{changes>ns=ht:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:hu:obs|hu OBS]]**

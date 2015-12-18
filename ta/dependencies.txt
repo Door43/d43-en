@@ -387,6 +387,9 @@ edge [arrowsize=1.4];
 "translate_what" -> "first_draft"
 "translate_source_text" -> "first_draft"
 "writing_decisions" -> "first_draft"
+"gl_ULB" [fillcolor="#99ff99"]
+"gl_strategy" -> "gl_ULB"
+"gl_translate" -> "gl_ULB"
 "gl_translate" [fillcolor="#99ff99"]
 "gl_strategy" -> "gl_translate"
 "open_license" -> "gl_translate"
