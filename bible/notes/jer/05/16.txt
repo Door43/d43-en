@@ -43,20 +43,22 @@
 ===== Important Terms: =====
 
   * [[:en:obe:other:tomb]]
-  * soldiers
   * [[:en:obe:kt:harvest]]
-  * consume
-  * food
+  * [[en:obe:other:consume]]
   * [[:en:obe:other:flock]]
-  * [[:en:obe:other:cow]]
+  * [[:en:obe:other:cow]] cattle
   * [[:en:obe:kt:fruit]]
   * [[:en:obe:other:fig]]
+  * [[en:obe:other:sword]]
   * [[:en:obe:kt:trust]]
 
 ===== Translation Notes: =====
 
-  * **quiver**  - "a container for holding arrows"
-  * **Its quiver is like an open tomb.**  - "Its" is the army.This means the army's arrows will kill many. (See: Simile)
+  * **Its quiver is like an open tomb**  - The arrows that come from the quiver kill very many people and send them to their grave. AT: "That nation will use arrow to kill very many people." (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **Its quiver** - The word "Its" refers to the nation that Yahweh will bring to attack Israel.
+  * **quiver**  - a container for holding arrows
+  * **So your harvest will be consumed** - AT: "So the army of that nation will consume your harvest." (See: [[:en:ta:vol2:translate:figs_activepassive]])
+
   * **They will eat…**  - "They" is the soldiers.
   * **They will batter down with a sword your fortified cities that you trusted in**. - AT: "The army will break the city wall you thought was strong."
 ===== Links: =====
@@ -64,6 +66,6 @@
   * **[[:en:bible:questions:comprehension:jer:05|Jeremiah Chapter 05 Comprehension Questions]]**
 **[[:en:bible:notes:jer:05:14|<<]] | [[:en:bible:notes:jer:05:18|>>]]**
 
-~~DISCUSSION~~{{tag>check}}
+~~DISCUSSION~~{{tag>check ktlink}}
 
 ~~NOCACHE~~
