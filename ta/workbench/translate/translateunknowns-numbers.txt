@@ -18,10 +18,10 @@ Be Consistent in your translations. Decide how the numbers will be translated, u
 
 ===== Examples from the Bible =====
 
-  - The ULB, unfoldingWord Literal Bible, and the UDB, unfoldingWord Dynamic Bible, use words for numbers that only take one or two words (nine, sixteen, three hundred) The ULB and UDB use numerals for numbers that need more than one word (The numerals "115” instead of "one hundred fifteen”)
+  * The ULB (unfoldingWord Literal Bible) and the UDB (unfoldingWord Dynamic Bible) use words for numbers that have only  one or two words (nine, sixteen, three hundred). 
+  * The ULB and UDB use numerals for numbers that have more than two word (The numerals "115” instead of "one hundred fifteen”).
 
-Genesis 5:3-5// When Adam had lived **130**  years, he became the father of a son in his own likeness, after his image, and he called his name Seth. After Adam became the father of Seth, he lived **eight hundred ** years. He became the father of more sons and daughters. Adam lived **930**  years, and then he died. //  (ULB)
-
+Genesis 5:3-5// When Adam had lived **130**  years, he became the father of a son in his own likeness, after his image, and he called his name Seth. After Adam became the father of Seth, he lived **eight hundred** years. He became the father of more sons and daughters. Adam lived **930**  years, and then he died. //  (ULB)
 ===== Examples from English =====
 
   - Some English writers use words for numbers up to ten or twenty and then numerals for numbers over 11 or 21.
