@@ -1,14 +1,15 @@
 ====== Notes: 1 Samuel Review Admin ======
 
 Manager - Tyson\\
-Reviewer - \\
+Reviewer -
 
 ~~NOCACHE~~
 
   * [[:en:bible:admin-reports:check-tags-notes|Check Notes Tags]]
 
-==== 1 Kings Pages Status ====
-^  Review  ^  Text  ^  Fixed  ^  Discuss  ^  Inspect  ^  Publish  ^
+==== 1 Samuel Pages Status ====
+
+^  Review  ^  Text  ^  Fixed  ^  Discuss  ^  Inspect  ^  Publish  |
 |{{door43pages @en:bible:notes:1sa -r -q="\{\{tag>[^}]*review[^}]*\}\}" -exclude:home -simpleLineBreak -title -fontsize="90%"}} |{{door43pages @en:bible:notes:1sa -r -q="\{\{tag>[^}]*text[^}]*\}\}" -exclude:home -simpleLineBreak -title -fontsize="90%"}} |{{door43pages @en:bible:notes:1sa -r -q="\{\{tag>[^}]*fixed[^}]*\}\}" -exclude:home -simpleLineBreak -title -fontsize="90%"}} |{{door43pages @en:bible:notes:1sa -r -q="\{\{tag>[^}]*discuss[^}]*\}\}" -exclude:home -simpleLineBreak -title -fontsize="90%"}} |{{door43pages @en:bible:notes:1sa -r -q="\{\{tag>[^}]*inspect[^}]*\}\}" -exclude:home -simpleLineBreak -title -fontsize="90%"}} |{{door43pages @en:bible:notes:1sa -r -q="\{\{tag>[^}]*publish[^}]*\}\}" -exclude:home -simpleLineBreak -title -fontsize="90%"}} |
 
 \\
