@@ -2,46 +2,23 @@
 
 ===== TFT: =====
 
-<usfm>
-\v 7 From the descendants of Gershon there were Ladan and Shimei.
-\li1
-\v 8 There were three sons of Ladan: Jehiel was the oldest, and his \add younger\add* brothers Zetham and Joel.
-\li1
-\v 9 There were three of the sons of Shimei: Shelomoth, Haziel, and Haran.
-\li2 They were all leaders of the clans of Ladan.
-\li1
-</usfm>
+<usfm> \v 7 From the descendants of Gershon there were Ladan and Shimei. \li1 \v 8 There were three sons of Ladan: Jehiel was the oldest, and his \add younger\add* brothers Zetham and Joel. \li1 \v 9 There were three of the sons of Shimei: Shelomoth, Haziel, and Haran. \li2 They were all leaders of the clans of Ladan. \li1 </usfm>
 
 ===== UDB: =====
 
-<usfm>
-\v 7 From the descendants of Gershon there were Ladan and Shimei.
-\li1
-\v 8 There were three sons of Ladan: Jehiel was the oldest, and his younger brothers Zetham and Joel.
-\li1
-\v 9 There were three of the sons of Shimei: Shelomoth, Haziel, and Haran.
-\li2 They were all leaders of the clans of Ladan.
+<usfm> \v 7 From the descendants of Gershon there were Ladan and Shimei. \li1 \v 8 There were three sons of Ladan: Jehiel was the oldest, and his younger brothers Zetham and Joel. \li1 \v 9 There were three of the sons of Shimei: Shelomoth, Haziel, and Haran. \li2 They were all leaders of the clans of Ladan.
 
-
-\li1
-</usfm>
+\li1 </usfm>
 
 ===== ULB: =====
 
-<usfm>
-\p
-\v 7 From the clans descended from Gershon, 
-\q there were Ladan and Shimei.
-\q
-\v 8 There were three of Ladan's sons: Jehiel the leader, Zetham, and Joel.
-\q
-\v 9 There were three of Shimei's sons: Shelomoth, Haziel, and Haran. These were the leaders of  the clans of Ladan.
-</usfm>
+<usfm> \p \v 7 From the clans descended from Gershon, \q there were Ladan and Shimei. \q \v 8 There were three of Ladan's sons: Jehiel the leader, Zetham, and Joel. \q \v 9 There were three of Shimei's sons: Shelomoth, Haziel, and Haran. These were the leaders of the clans of Ladan. </usfm>
 
 ===== Important Terms: =====
 
   * descendant
   * [[:en:obe:other:clan|clan]]
+  * son
   * [[:en:obe:other:shimei|Shimei]]
 
 ===== Translation Notes: =====
@@ -59,6 +36,6 @@
 
 Manager:
 
-I added "descendant" as an important term because this chunk is talking about descendants of Ladan, his posterity, and the word "descend" is used in the ULB. My comment on the Shimei of verse 7 being a different person than the one whose sons are listed in verse 9 is based on commentary from Elliott's Commentary for English Readers (1 Chr 23:8-9), Pulpit Commentary (1 Chr 23:8-9), and Cambridge Bible for Schools and Colleges (1 Chr 23:9), all accessed through biblestudytools.com. Please also see verse 10 in the next chunk, which seems to indicate the two are the same person, because both UDB and TFT have modified the word "sons" with the word "other."
+I added "descendant" as an important term because this chunk is talking about descendants of Ladan, his posterity, and the word "descend" is used in the ULB. My comment on the Shimei of verse 7 being a different person than the one whose sons are listed in verse 9 is based on commentary from Elliott's Commentary for English Readers (1 Chr 23:8-9), Pulpit Commentary (1 Chr 23:8-9), and Cambridge Bible for Schools and Colleges (1 Chr 23:9), all accessed through biblestudytools.com. Please also see verse 10 in the next chunk, which seems to indicate the two are the same person, because both UDB and TFT have modified the word "sons" with the word "other."  I added "son" to the IT list because it seems to be used here for both descendants and direct offspring and I thought the target language might have different ways of translating these two.
 
 ~~NOCACHE~~
