@@ -6,4 +6,4 @@ Link to [[:en:obe:kt:home]] \\
 Link to [[:en:obe:home]]
 
 
-<nspages en:obe:other -title -exclude:home -textPages="List of other terms:">
+<nspages en:obe:other -title -exclude:home -textPages="">
