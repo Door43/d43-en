@@ -4,8 +4,6 @@ The following pages are tagged with the "talink" code and contain a tA link that
 
 **TA Links**
 
- {{topic>en:?talink&nocomments}}
-
 {{door43pages @en:bible: -q="\{\{tag>[^}]*talink[^}]*\}\}" -r -showcount -title -simpleLineBreak}} 
 ==== Unfinished Topics ====
 
@@ -40,36 +38,37 @@ The following lists are the pages that need editing. The steps through the membe
 ----
 
 Chris needs to work on these pages:
+{{door43pages @en:ta: -q="\{\{tag>[^}]*chris[^}]*\}\}" -r -showcount -title -simpleLineBreak}} 
 
-{{topic>en:ta:workbench?chris&nocomments}}
 
 ----
 
 The following pages are tagged as "Erika" and need to be edited by **Erika**:
 
-{{topic>en:ta:workbench?erika&nocomments}}
+{{door43pages @en:ta: -q="\{\{tag>[^}]*erika[^}]*\}\}" -r -showcount -title -simpleLineBreak}} 
 
 ----
 
 After Erika has reorganized the pages these pages need to be edited by **Kara**:
 
-{{topic>en:ta:workbench?kara&nocomments}}{{topic>en:ta?bjo&nocomments}}
+{{door43pages @en:ta: -q="\{\{tag>[^}]*kara[^}]*\}\}" -r -showcount -title -simpleLineBreak}} 
 
 ----
 
 These pages need information added by **Jody**:
 
-{{topic>en:ta:workbench?jody&nocomments}}
+{{door43pages @en:ta: -q="\{\{tag>[^}]*jody[^}]*\}\}" -r -showcount -title -simpleLineBreak}} 
 
-==== tA Pages not in etherpad ====
+==== tA Pages in etherpad ====
 
-{{topic>en:ta:workbench?-epady&nocomments}}
+{{door43pages @en:ta:workbench -q="\{\{tag>[^}]-*epady[^}]*\}\}" -r -showcount -title -simpleLineBreak}} 
+
 
 ==== Edited tA Pages to Review ====
 
 The following pages are tagged as "review" and need final review and then to be published:
 
-{{topic>en:ta:workbench?review&nocomments}}
+{{door43pages @en:ta:workbench -q="\{\{tag>[^}]*review[^}]*\}\}" -r -showcount -title -simpleLineBreak}} 
 
 ==== Followup ====
 
