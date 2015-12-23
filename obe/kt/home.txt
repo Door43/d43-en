@@ -4,6 +4,6 @@ Link to [[:en:obe:other:home]] \\
 Link to [[:en:obe:home]]
 
 
-<nspages en:obe:kt -title -exclude:home -textPages="List of key terms:">
+<nspages en:obe:kt -title -exclude:home -textPages="">
 
 ~~NOCACHE~~
