@@ -9,6 +9,11 @@ edge [arrowsize=1.4];
 "Checking" [fillcolor="#9999ff"]
 "Technology" [fillcolor="#ffff99"]
 "Process" [fillcolor="#99ffff"]
+"AUDIO MANUAL" [fillcolor="#ff99ff"]
+"standards_audio_excellence" [fillcolor="#ff99ff"]
+"AUDIO MANUAL" -> "standards_audio_excellence"
+"toc_audiovol2" [fillcolor="#ff99ff"]
+"AUDIO MANUAL" -> "toc_audiovol2"
 "acceptable" [fillcolor="#9999ff"]
 "clear" -> "acceptable"
 "natural" -> "acceptable"
