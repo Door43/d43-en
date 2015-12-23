@@ -1,4 +1,4 @@
 ====== EtherPad - tA topics Pages ======
 
 ^ Topics in Epad ^ Topics not in Epad ^ Topics to remove from Epad ^
-|{{door43pages @en:ta:workbench -q="\{\{tag>[^}]*epady[^}]*\}\}" -r -showcount -title -simpleLineBreak}}| {{door43pages @en:ta:workbench -q="\{\{tag>[^}]*epadn[^}]*\}\}" -r -showcount -title -simpleLineBreak}}|{{door43pages @en:ta:workbench -q="\{\{tag>[^}]*epadr[^}]*\}\}" -r -showcount -title -simpleLineBreak}} |
+|{{door43pages @en:ta:workbench -q="\{\{tag>[^}]*epady[^}]*\}\}" -r -showcount -title -simpleLineBreak}}| {{door43pages @en:ta:workbench -q="\{\{tag>[^}]*(?!epady)[^}]*\}\}" -r -showcount -title -simpleLineBreak}}|{{door43pages @en:ta:workbench -q="\{\{tag>[^}]*epadr[^}]*\}\}" -r -showcount -title -simpleLineBreak}} |
