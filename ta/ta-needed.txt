@@ -5,6 +5,8 @@ The following pages are tagged with the "talink" code and contain a tA link that
 **TA Links**
 
  {{topic>en:?talink&nocomments}}
+
+{{door43pages @en:bible: -q="\{\{tag>[^}]*talink[^}]*\}\}" -r -showcount -title -simpleLineBreak}} 
 ==== Unfinished Topics ====
 
 ^Topic ^References/Chunk ^Page Status |
