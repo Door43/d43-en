@@ -2,19 +2,36 @@
 
 ===== TFT: =====
 
-<usfm> \v 10 Who is \f + \ft rhetorical question \f* this woman who is \add as delightful as\add* \f + \ft simile \f* the dawn, \q2 as fair\f + \ft Or: delightful \f* \add to look at\add* as \add the light of\add* the moon, \q2 as stimulating\f + \ft Or: exciting \f* as a \add group\f + \ft Or: battalion \f* of\add* troops holding up their banners?
+<usfm>
+\v 10 Who is \f + \ft rhetorical question \f* this woman who is \add as delightful as\add* \f + \ft simile \f* the dawn,
+\q2 as fair\f + \ft Or: delightful \f* \add to look at\add* as \add the light of\add* the moon,
+\q2 as stimulating\f + \ft Or: exciting \f* as a \add group\f + \ft Or: battalion \f* of\add* troops holding up their banners?
 
-\q1 </usfm>
+\q1
+</usfm>
 
 ===== UDB: =====
 
-<usfm> \v 10 Who is this who looks like the dawn, \q2 who is as beautiful to look at as the moon, \q2 who is an endless mystery?
+<usfm>
+\v 10 Who is this who looks like the dawn,
+\q2 who is as beautiful to look at as the moon,
+\q2 who is an endless mystery?
 
-\q1 </usfm>
+
+
+\q1
+</usfm>
 
 ===== ULB: =====
 
-<usfm> \q \v 10 Who is this who appears like the dawn, \q as beautiful as the moon, \q as bright as the sun, \q and completely fascinating? \b </usfm>
+<usfm>
+\q
+\v 10 Who is this who appears like the dawn,
+\q as beautiful as the moon,
+\q as bright as the sun,
+\q and completely fascinating?
+\b
+</usfm>
 
 ===== Important Terms: =====
 
