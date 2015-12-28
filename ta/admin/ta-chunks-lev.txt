@@ -4,6 +4,8 @@
 PAGE QUERY
 {{pagequery>"[[:en:ta"; fulltext; @en:bible:notes:lev}}
 
+OLD PAGE QUERY
+
 {{pagequery> en:bible:notes:lev "[[:en:ta"; fulltext; sort=title:asc; display={title}; layout=column; showcount; hidestart; natsort; bullet=square; }}
 
 **AND**
