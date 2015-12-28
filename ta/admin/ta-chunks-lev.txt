@@ -2,8 +2,8 @@
 {{door43pages @en:bible:notes:lev -q="\{\{tag>[^}]*check[^}]*\}\}" -r -showcount -title -simpleLineBreak }} 
 
 PAGE QUERY
-{{pagequery>"[[:en:ta"; fulltext; @en:bible:notes:lev}}
-{{door43pages @en:bible:notes:lev -q="\[\[:en:ta" -r -showcount -title -simpleLineBreak }} 
+
+{{door43pages @en:bible:notes:lev -q="\[\[:en:ta" -r -showcount -title -simpleLineBreak  -nbCol=4 }} 
 
 OLD PAGE QUERY
 
