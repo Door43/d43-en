@@ -5,12 +5,9 @@ PAGE QUERY
 
 {{door43pages @en:bible:notes:lev -q="\[\[:en:ta" -r -showcount -title -simpleLineBreak  -nbCol=4 }} 
 
-OLD PAGE QUERY
-
-{{pagequery> en:bible:notes:lev "[[:en:ta"; fulltext; sort=title:asc; display={title}; layout=column; showcount; hidestart; natsort; bullet=square; }}
 
 **AND**
 
- {{pagequery> ns:en:bible:notes:lev "[[en:ta"; fulltext; sort=title:asc; display={title}; layout=column; showcount; hidestart; natsort; bullet=square; }}
+{{door43pages @en:bible:notes:lev -q="\[\[en:ta" -r -showcount -title -simpleLineBreak  -nbCol=4 }} 
 
 Return to [[en:ta:ta-chunks]]
