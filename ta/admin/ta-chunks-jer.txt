@@ -1,0 +1,10 @@
+===== Jeremiah tA Links =====
+
+{{door43pages @en:bible:notes:jer -q="\[\[:en:ta" -r -showcount -title -simpleLineBreak  -nbCol=4 }} 
+
+
+**AND**
+
+{{door43pages @en:bible:notes:jer -q="\[\[en:ta" -r -showcount -title -simpleLineBreak  -nbCol=4 }} 
+
+Return to [[en:ta:ta-chunks]]
