@@ -1,9 +1,11 @@
 ===== 1 Chronicles tA Links =====
 
-{{pagequery> ns:en:bible:notes:1ch "(see: [[:en:ta"; fulltext; sort=title:asc; display={title}; layout=column; showcount; hidestart; natsort; bullet=square; }}
+
+{{door43pages @en:bible:notes:1ch -q="\[\[:en:ta" -r -showcount -title -simpleLineBreak  -nbCol=4 }} 
+
 
 **AND**
 
- {{pagequery> ns:en:bible:notes:1ch "(see: [[en:ta"; fulltext; sort=title:asc; display={title}; layout=column; showcount; hidestart; natsort; bullet=square; }}
+{{door43pages @en:bible:notes:1ch -q="\[\[en:ta" -r -showcount -title -simpleLineBreak  -nbCol=4 }} 
 
 Return to [[en:ta:ta-chunks]]
