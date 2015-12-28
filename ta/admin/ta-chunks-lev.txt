@@ -1,9 +1,13 @@
 ===== Leviticus tA Links =====
+{{door43pages @en:bible:notes:lev -q="\{\{tag>[^}]*check[^}]*\}\}" -r -showcount -title -simpleLineBreak }} 
 
-{{pagequery> ns:en:bible:notes:lev "(see: [[:en:ta"; fulltext; sort=title:asc; display={title}; layout=column; showcount; hidestart; natsort; bullet=square; }}
+PAGE QUERY
+{{pagequery>"[[:en:ta"; fulltext; @en:bible:notes:lev}}
+
+{{pagequery> en:bible:notes:lev "[[:en:ta"; fulltext; sort=title:asc; display={title}; layout=column; showcount; hidestart; natsort; bullet=square; }}
 
 **AND**
 
- {{pagequery> ns:en:bible:notes:lev "(see: [[en:ta"; fulltext; sort=title:asc; display={title}; layout=column; showcount; hidestart; natsort; bullet=square; }}
+ {{pagequery> ns:en:bible:notes:lev "[[en:ta"; fulltext; sort=title:asc; display={title}; layout=column; showcount; hidestart; natsort; bullet=square; }}
 
 Return to [[en:ta:ta-chunks]]
