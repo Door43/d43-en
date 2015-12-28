@@ -3,6 +3,7 @@
 
 PAGE QUERY
 {{pagequery>"[[:en:ta"; fulltext; @en:bible:notes:lev}}
+{{door43pages @en:bible:notes:lev -q="\[\[:en:ta" -r -showcount -title -simpleLineBreak }} 
 
 OLD PAGE QUERY
 
