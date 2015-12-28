@@ -58,25 +58,19 @@
 
   * [[:en:obe:other:jeremiah]]
   * refiner
-  * inspect
   * [[:en:obe:kt:test]]
   * [[:en:obe:other:stiffnecked]]
   * [[:en:obe:other:slander]]
   * [[:en:obe:other:bronze]]
-  * iron
   * [[:en:obe:kt:corrupt]]
-  * bellows
-  * scorche
   * [[:en:obe:other:fire]]
-  * lead
   * [[:en:obe:other:consume]]
   * [[:en:obe:other:vain]]
-  * evilen:obe:kt:evil
-  * removed
+  * [[en:obe:kt:evil]]
   * [[:en:obe:kt:call]]
-  * rejecten:obe:other:reject
+  * [[en:obe:other:reject]]
   * [[:en:obe:other:silver]]
-  * Yahwehen:obe:kt:yahweh
+  * [[en:obe:kt:yahweh]]
  
 ===== Translation Notes: =====
 
@@ -97,6 +91,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>check}}
+{{tag>check ktlink}}
 
 ~~NOCACHE~~
