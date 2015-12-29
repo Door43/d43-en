@@ -42,9 +42,6 @@
 [[:en:ta:admin:ta-chunks-zec|Zechariah tA Links]]\\
 
 
-[[:en:ta:admin:ta-chunks-1_2co|1 & 2 Corinthians tA Links]]\\
-
-
 ===== Completed Books with tA Links Data Collected =====
 
 [[:en:ta:admin:ta-chunks-gen|Genesis tA Links]]\\
@@ -69,10 +66,10 @@
 [[:en:ta:admin:ta-chunks-mat|Matthew tA Links]]\\
 [[:en:ta:admin:ta-chunks-mrk|Mark tA Links]]\\
 [[:en:ta:admin:ta-chunks-luk|Luke tA Links]]\\
-[[en:ta:admin:ta-chunks-jhn]]\\
+[[en:ta:admin:ta-chunks-jhn]]John tA Links\\
 [[:en:ta:admin:ta-chunks-act|Acts tA Links]]\\
 [[:en:ta:admin:ta-chunks-rom|Romans tA Links]]\\
-
+[[:en:ta:admin:ta-chunks-1_2co|1 & 2 Corinthians tA Links]]\\
 [[:en:ta:admin:ta-chunks-gal|Galatians tA Links]]\\
 [[:en:ta:admin:ta-chunks-eph|Ephesians tA Links]]\\
 [[:en:ta:admin:ta-chunks-php|Philippians tA Links]]\\
