@@ -2,7 +2,7 @@
 
 [[en:ta:admin:chunknumbers]]
 
-^  Publish  ^  Text ^  Discuss |
+^  Publish  ^  Text  ^  Discuss ^
 |{{door43pages @en:bible:notes -q="\{\{tag>[^}]*publish[^}]*\}\}" -r -showcount -title -simpleLineBreak -fontsize="80%"}} |{{door43pages @en:bible:notes -q="\{\{tag>[^}]*text[^}]*\}\}" -r -showcount -title -simpleLineBreak -fontsize="80%"}} |{{door43pages @en:bible:notes @en:bible:notes -q="\{\{tag>[^}]*discuss[^}]*\}\}" -r -showcount -title -simpleLineBreak -fontsize="80%"}} |
 \\
 ~~NOCACHE~~
