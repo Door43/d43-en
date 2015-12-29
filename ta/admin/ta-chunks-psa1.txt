@@ -1,7 +1,7 @@
 ===== Psalms Book 1 tA Links =====
 
 
-|{{door43pages @en:bible:notes:psa -q="\{\{tag>(?=[^}]*publish)(?=[^}]*book1)[^}]*\}\}" -q="\[\[:en:ta" -r -showcount -title -simpleLineBreak  -nbCol=4 }} 
+{{door43pages @en:bible:notes:psa -q="\{\{tag>(?=[^}]*publish)(?=[^}]*book1)[^}]*\}\}" -q="\[\[:en:ta" -r -showcount -title -simpleLineBreak  -nbCol=4 }} 
 
 
 
