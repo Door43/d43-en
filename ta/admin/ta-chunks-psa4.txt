@@ -1,1 +1,8 @@
-{{door43pages @en:bible:notes:psa -q="\{\{tag>(?=[^}]*publish)(?=[^}]*book4)[^}]*\}\}" -r -showcount -title -simpleLineBreak }}
+===== Psalms Book 4 tA Links =====
+
+
+{{door43pages @en:bible:notes:psa -q="\{\{tag>(?=[^}]*publish)(?=[^}]*book4)[^}]*\}\}" -q="\[\[:en:ta" -r -showcount -title -simpleLineBreak  -nbCol=4 }} 
+
+
+
+Return to [[en:ta:ta-chunks]]
