@@ -1,9 +1,8 @@
 ====== Daniel tA Links ======
 
-{{pagequery> ns:en:bible:notes:dan "(see: [[:en:ta"; fulltext; sort=title:asc; display={title}; layout=column; showcount; hidestart; natsort; bullet=square; }}
-
+{{door43pages @en:bible:notes:dan -q="\[\[:en:ta" -r -showcount -title -simpleLineBreak  -nbCol=4 }}
 **AND**
 
- {{pagequery> ns:en:bible:notes:dan "(see: [[en:ta"; fulltext; sort=title:asc; display={title}; layout=column; showcount; hidestart; natsort; bullet=square; }}
+{{door43pages @en:bible:notes:dan -q="\[\[en:ta" -r -showcount -title -simpleLineBreak  -nbCol=4 }} 
 
 Return to [[:en:ta:ta-chunks|Chunks with tA links]]
