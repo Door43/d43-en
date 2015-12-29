@@ -20,6 +20,7 @@
 [[:en:ta:admin:ta-chunks-est|Esther tA Links]]\\
 [[:en:ta:admin:ta-chunks-job|Job tA Links]]\\
 
+[[:en:ta:admin:ta-chunks-psa|Psalms tA Links]]\\
 [[:en:ta:admin:ta-chunks-psa1|Psalms bk 1 tA Links]]\\
 [[:en:ta:admin:ta-chunks-psa2|Psalms bk 2 tA Links]]\\
 [[:en:ta:admin:ta-chunks-psa3|Psalms bk 3 tA Links]]\\
@@ -33,7 +34,7 @@
 [[:en:ta:admin:ta-chunks-isa|Isaiah tA Links]]\\
 [[:en:ta:admin:ta-chunks-jer|Jeremiah tA Links]]\\
 [[:en:ta:admin:ta-chunks-lam|Lamentations tA Links]]\\
-[[:en:ta:admin:ta-chunks-ezk|Ezekiel tA Links]]\\
+
 [[:en:ta:admin:ta-chunks-dan|Daniel tA Links]]\\
 [[:en:ta:admin:ta-chunks-hos|Hosea tA Links]]\\
 
@@ -50,6 +51,8 @@
 [[:en:ta:admin:ta-chunks-exo|Exodus tA Links]]\\
 
 [[:en:ta:admin:ta-chunks-rut|Ruth tA Links]]\\
+
+[[:en:ta:admin:ta-chunks-ezk|Ezekiel tA Links]]\\
 
 [[:en:ta:admin:ta-chunks-jon|Jonah tA Links]]\\
 [[:en:ta:admin:ta-chunks-jol|Joel tA Links]]\\
