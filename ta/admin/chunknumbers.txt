@@ -1,5 +1,7 @@
 ====== # of Notes Chunks in Status: ======
 
+[[en:ta:admin:chunknumbersp]]
+
 ^  Draft  ^  Check  ^  Review  |
 |{{door43pages @en:bible:notes -q="\{\{tag>[^}]*draft[^}]*\}\}" -r -showcount -title -simpleLineBreak -fontsize="80%"}} |{{door43pages @en:bible:notes -q="\{\{tag>[^}]*check[^}]*\}\}" -r -showcount -title -simpleLineBreak -fontsize="80%"}} |{{door43pages @en:bible:notes @en:bible:notes -q="\{\{tag>[^}]*review[^}]*\}\}" -r -showcount -title -simpleLineBreak -fontsize="80%"}} |
 \\
