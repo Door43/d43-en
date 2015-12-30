@@ -32,16 +32,26 @@
 ===== Important Terms: =====
 
   * [[:En:obe:other:solomon]]
+  * [[:en:obe:other:written]]
+  * [[:en:obe:other:nathan]]
   * [[:En:obe:kt:prophet]]
+  * [[:en:obe:other:ahijah]]
+  * [[:en:obe:other:shiloh]]
+  * [[:en:obe:other:vision]]
   * [[:En:obe:other:jeroboam]]
-  * [[:En:obe:other:david]]
+  * [[:en:obe:other:bury]]
+  * [[:En:obe:other:cityofdavid]]
   * [[:En:obe:other:rehoboam]]
  
 
 ===== Translation Notes: =====
 
+See: [[:en:ta:vol1:translate:translate_names]]
 
-    * **  As for the other matters concerning Solomon, first and last, are they not written....  ? **  - the books mentioned have not been found
+  * **first and last** - AT: "everything" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **are they not written** - AT: "they are written" (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **the history of Nathan the prophet, in the prophecy of Ahijah the Shilonite, and in the visions of Iddo the seer concerning Jeroboam (the son of Nebat)** - These writings no longer exist.  
+  * **He slept with his ancestors** - AT: "He died" (See: [[:en:ta:vol2:translate:figs_euphemism]])
    
 ===== Links: =====
 
@@ -54,6 +64,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>check}}
+{{tag>review}}
 
 ~~NOCACHE~~
