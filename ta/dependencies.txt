@@ -10,6 +10,18 @@ edge [arrowsize=1.4];
 "Technology" [fillcolor="#ffff99"]
 "Process" [fillcolor="#99ffff"]
 "AUDIO MANUAL" [fillcolor="#ff99ff"]
+"audio_software" [fillcolor="#ff99ff"]
+"AUDIO MANUAL" -> "audio_software"
+"audio_software_file_renaming" [fillcolor="#ff99ff"]
+"AUDIO MANUAL" -> "audio_software_file_renaming"
+"audio_software_file_sharing" [fillcolor="#ff99ff"]
+"AUDIO MANUAL" -> "audio_software_file_sharing"
+"audio_software_format_conversion" [fillcolor="#ff99ff"]
+"AUDIO MANUAL" -> "audio_software_format_conversion"
+"audio_software_metadata_encoding" [fillcolor="#ff99ff"]
+"AUDIO MANUAL" -> "audio_software_metadata_encoding"
+"audio_software_recording_editing" [fillcolor="#ff99ff"]
+"AUDIO MANUAL" -> "audio_software_recording_editing"
 "standards_audio_excellence" [fillcolor="#ff99ff"]
 "AUDIO MANUAL" -> "standards_audio_excellence"
 "toc_audiovol2" [fillcolor="#ff99ff"]

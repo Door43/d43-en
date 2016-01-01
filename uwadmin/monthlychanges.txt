@@ -337,6 +337,8 @@
 {{changes>ns=mvp:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:mwc:obs|mwc OBS]]**
 {{changes>ns=mwc:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
+**[[:mww:obs|mww OBS]]**
+{{changes>ns=mww:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:my:obs|my OBS]]**
 {{changes>ns=my:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:mym:obs|mym OBS]]**

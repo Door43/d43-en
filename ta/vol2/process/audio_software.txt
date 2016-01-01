@@ -1,16 +1,11 @@
 ===== Recommended Software =====
 
-This module answers the question: What software is recommended for audio recording, editing and file preparation tasks?\\
-==== Windows OS ====
+This module answers the question: Would you be so bold as to recommend any software?\\
+Module – Recommended Software
 
-=== Recording & Editing ===
+The software listed in this module are our recommendations for the completing tasks in each of the respective categories. The software is selected based on design, functionality, ease of use, intuitive user interface and cost effectiveness. We are especially appreciative and gravitate toward excellent open-source or free software whenever possible, knowing that costs and licensing are typically an access barrier for the global Church.
 
-  * **[[http://www.ocenaudio.com.br/|Ocenaudio]]** – Best free software for simple, efficient recording/editing. Intuitive interface and well-equipped for all basic voice recording tasks, recordists familiar with Adobe Audition will recognize and appreciate the speed and functionality of essential procedures in Ocenaudio. 
 
-   * **[[http://www.adobe.com/products/audition.html|Adobe Audition]]** – Best paid recording software for voice recording. New version (Adobe CC) can be expensive and user interface is far more complex than Ocenaudio. However, for advanced level editing Adobe Audition's included tools are impressive and can accomplish things free programs cannot begin to do. If a discontinued copy of Audition 3.0 is obtainable, users will find it to be the ideal balance of a simple, intuitive user interface and well-equipped tool set.
-
-  * **[[http://audacityteam.org/download/|Audacity]]** – Free recording/editing software, yet cumbersome and lacking in design and UI features that enable productivity and efficiency when compared to Ocenaudio and Adobe Audition. However, it possesses many editing and audio restoration tools not found in Ocenaudio's basic editing toolset (although not of comparable quality to Adobe Audition) that advanced level recordists may find very useful. 
-    * //**Notes:** The conventional save commands will save your recorded audio files in their proprietary format which is not useful. Be sure to use the “Export Audio” command to save files in compatible formats such as WAV (best quality) or MP3 (low quality). If you plan to edit or save files in mp3 format you will need to download and install this// [[http://manual.audacityteam.org/o/man/faq_installation_and_plug_ins.html#How_do_I_download_and_install_the_LAME_MP3_encoder.3F|MP3 Encoder]].
 
 === File Management ===
 
