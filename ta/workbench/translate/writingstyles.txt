@@ -1,12 +1,35 @@
 ====== Writing Styles ======
 
-Also known as 'Discourse.' Every story has a storyline. The storyline tells a series of events in chronological order and has a beginning, middle and end. It is full of types of words or phrases that moves the reader along the storyline.
+Also known as 'Discourse.' The term “discourse” refers to how the parts of a text are organized and connected in order to clearly and naturally communicate the correct meaning of a text. In every translation, the way that words, sentences, and paragraphs are arranged will affect how the message will be understood.
 
-For Example:
+====General Purposes of Discourse====
+  * Narrative (tells a story or event)
+  * Explanatory (explains facts or teaches principles)
+  * Procedural (tells how to do something)
+  * Argumentative (tries to persuade someone to do something
 
-  * **Background Information**  - Occasionally an author may take a break from the storyline to share something of interest. This break usually contains background information.(See: [[:en:ta:workbench:translate:writingstyles_background|Writing Styles - Background Information]]) An author may use background information for several reasons: 1) to add interest to the story, 2) to provide important historical or cultural information or 3) to tell the reader, or listener, something very important.
-  * **Therefore**  - The word 'therefore' is used to mark the conclusion or reason for a discussion. (See: [[:en:ta:workbench:translate:writingstyles_therefore|Writing Styles - Therefore]])
-  * **Now**  - The word "now" at the beginning of the sentence …. (See: [[:en:ta:workbench:translate:writingstyles_now|Writing Styles - Now]])
+The purpose of a particular text will influence what kinds of discourse features are used. For example, in a narrative, discourse features would include:  
+  * conversation and the use of quotes; 
+  * how to introduce new events and characters into the story; 
+  * how to refer to the participants, with either a noun or a pronoun. 
+Languages have organized ways of communicating information in each of these discourse types. 
+
+====Discourse Groupings====
+
+  * **Grammatical groupings**: This deals with how language units such as sentences and paragraphs are linked together to from larger units. 
+
+Transition words and phrases that connect smaller units to form larger units are one type of discourse feature. Some common grammatical units are phrase, sentence, paragraph, and episode.
+
+  *  **Plot-related groupings**: This includes how the story begins, how it transitions from one event to the next and how it communicates the climax or ending of the story.
+
+==== Specific discourse issues: ====    
+
+  - **[[:en:ta:workbench:translate:writingstyles_introduction|Introduction of a new event or participant into the narrative]]** - Phrases like “One day” or “It came about that” or “This is how it happened” or “Sometime after that” signal to the reader that a new event is about to be related.
+  - **[[:en:ta:workbench:translate:writingstyles_quotations|Quotations]]** - All languages have specific patterns that are natural for reporting what someone said. 
+  - **[[:en:ta:workbench:translate:writingstyles_pronoun|Pronoun reference system]]** - Languages have a certain pattern of how frequently to  use pronouns. If that pattern is not followed, wrong meaning can result.
+  - **[[:en:ta:workbench:translate:writingstyles_background|Background Information]]** = An author may use background information for several reasons: 1) to add interest to the story, 2) to provide important historical or cultural information or 3) to tell the reader, or listener, something very important.
+  - **[[:en:ta:workbench:translate:writingstyles_connect|How connecting words are used]]** - Every language has certain patterns for how connecting words (such as “and, ”“but.” or “then”) are used. 
+  - **[[:en:ta:workbench:translate:writingstyles_emphasis|Relative prominence or emphasis]]** - Languages have different ways of showing which parts of a sentence, paragraph, or story are being emphasized the most. This is called “prominence” which refers to how the language shows what is important or what is being emphasized.
 
 ----
 
@@ -15,19 +38,19 @@ Discourse features
 The term “discourse” refers to how the parts of a text are organized and connected in order to clearly and naturally communicate the correct meaning of a text. In every translation, the way that words, sentences, and paragraphs are arranged will affect how the message will be understood.
 
 General discourse types:
-•	narrative (tells a story or event)
-•	explanatory (explains facts or teaches principles)
-•	procedural (tells how to do something)
-•	argumentative (tries to persuade someone to do something
+  * Narrative (tells a story or event)
+  * Explanatory (explains facts or teaches principles)
+  * Procedural (tells how to do something)
+  * Argumentative (tries to persuade someone to do something
 
 The purpose of a particular text will influence what kinds of discourse features are used. For example, in a narrative, discourse concerns would include:  conversation and the use of quotes; how to introduce new events and characters into the story; how to refer to the participants, with either a noun or a pronoun. Languages have organized ways of communicating information in each of these discourse types.
 
-[perhaps give examples for each of the types –  probably areother types]
+[perhaps give examples for each of the types –  probably are other types]
 
 
 Discourse groupings:
 
-1) Grammatical groupings: This deals with how language units such as setences and paragraphs are linked together to from larger units. Transition words and phrases that connect smaller units to form larger units are one type of discourse feature. Some common grammatical units are phrase, sentence, paragraph, and episode.
+1) Grammatical groupings: This deals with how language units such as sentences and paragraphs are linked together to from larger units. Transition words and phrases that connect smaller units to form larger units are one type of discourse feature. Some common grammatical units are phrase, sentence, paragraph, and episode.
  2) Plot-related groupings: This includes how the story begins, how it transitions from one event to the next and how it communicates the climax or ending of the story.:
 
 A.  Specific discourse issues:      [each topic on a separate page?]
@@ -111,6 +134,15 @@ use of an explicit pronoun instead of it just being part of the verb
 use of a special affix on a word
 
 [for more info, see Discourse Considerations in Translating the Word of God, by Kathleen Callow.]
+
+----
+Every story has a storyline. The storyline tells a series of events in chronological order and has a beginning, middle and end. It is full of types of words or phrases that moves the reader along the storyline.
+
+For Example:
+
+  * **Background Information**  - Occasionally an author may take a break from the storyline to share something of interest. This break usually contains background information.(See: [[:en:ta:workbench:translate:writingstyles_background|Writing Styles - Background Information]]) An author may use background information for several reasons: 1) to add interest to the story, 2) to provide important historical or cultural information or 3) to tell the reader, or listener, something very important.
+  * **Therefore**  - The word 'therefore' is used to mark the conclusion or reason for a discussion. (See: [[:en:ta:workbench:translate:writingstyles_therefore|Writing Styles - Therefore]])
+  * **Now**  - The word "now" at the beginning of the sentence …. (See: [[:en:ta:workbench:translate:writingstyles_now|Writing Styles - Now]])
 
 
 
