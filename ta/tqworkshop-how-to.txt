@@ -1,29 +1,23 @@
 ====== How to Write TQ's ======
 
-(//The information on this page will be explained during the opening session of the workshop.//)
-
-
 ==== Purpose of the TQ's ====
 
-The TQ's are intended for the translator to used to check the content of draft translations. The translator can check the questions and answers for any chapters to see if he/she included the main points of the passage. After that, the the questions can be asked of the target audience to see if they also understood the main points. If they did not, it may indicate that the translation skipped something, or is not clear. 
+The TQ's are intended for the translator to used to check the content of draft translations. The translator can check the questions and answers for any chapters to see if he/she included the main points of the passage. After that, the the questions can be asked of the target audience to see if they also understood the main points. If they did not, it may indicate that the translation skipped something, or is not clear.
 
-The TQ's are not intended to be deep thought questions, nor to test the critical-thinking or observation skills of the audience. Instead, the questions should cover the main points that an average person should notice on a first-time reading of a new text. 
+The TQ's are not intended to be deep thought questions, nor to test the critical-thinking or observation skills of the audience. Instead, the questions should cover the main points that an average person should notice on a first-time reading of a new text.
 
-
-=== Contents of the TQ's ====
+=== Contents of the TQ's ===
 
 Every chapter should have enough questions and answers to cover the main content of the chapter. This, of course, varies with the length and complexity of the chapter. In general:
 
   * Questions are to be taken from the ULB text only, and use, as much as possible, the wording of the ULB.
   * There should be a question and answer for every significant event of block of content.
-  * Each answer should be followed by the reference (in square brackets) in which the answer is found. 
+  * Each answer should be followed by the reference (in square brackets) in which the answer is found.
   * Answers should be obvious with a reasonably-careful first-time reading of the passage.
   * Questions should not focus on obscure names or difficult, unfamiliar terms.
-  * Questions should focus on what the text //says// and not on what the text //means//.
+  * Questions should focus on what the text //says//  and not on what the text //means//.
 
-
-(See TQ samples on this page: [[:en:ta:tqworkshop]])
-
+(See TQ samples on this page: [[:en:ta:tqworkshop|TQ Workshop]])
 
 ==== TQ Checklist ====
 
@@ -34,8 +28,4 @@ Every chapter should have enough questions and answers to cover the main content
   - Are the questions and answers written in a way that makes it clear what is being asked and answered?
   - Are the questions and answers in proper English?
   - Are there any dangling prepositions, or other grammar errors?
-
-
 ~~DISCUSSION~~
-
-\\
