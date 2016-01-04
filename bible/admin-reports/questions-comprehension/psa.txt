@@ -5,6 +5,6 @@
 This is the status of the Psalms Translation Question pages:
 
 ^  Draft  ^  Review  ^  Text  ^  Publish  ^
-|{{door43pages @en:bible:questions:comprehension:psa -q="\{\{tag>[^}]*draft[^}]*\}\}" -r -showcount -title -simpleLineBreak -fontsize="80%"}} |{{door43pages @en:bible:questions:comprehension:psa -q="\{\{tag>[^}]*review[^}]*\}\}" -r -showcount -title -simpleLineBreak -fontsize="80%"}} |{{door43pages @en:bible:questions:comprehension:psa -q="\{\{tag>[^}]*text[^}]*\}\}" -r -showcount -title -simpleLineBreak -fontsize="80%"}} |{{door43pages @en:bible:questions:comprehension:psa -q="\{\{tag>[^}]*review[^}]*\}\}" -r -showcount -title -simpleLineBreak -fontsize="80%"}} |
+|{{door43pages @en:bible:questions:comprehension:psa -q="\{\{tag>[^}]*draft[^}]*\}\}" -r -showcount -title -simpleLineBreak -fontsize="80%"}} |{{door43pages @en:bible:questions:comprehension:psa -q="\{\{tag>[^}]*review[^}]*\}\}" -r -showcount -title -simpleLineBreak -fontsize="80%"}} |{{door43pages @en:bible:questions:comprehension:psa -q="\{\{tag>[^}]*text[^}]*\}\}" -r -showcount -title -simpleLineBreak -fontsize="80%"}} |{{door43pages @en:bible:questions:comprehension:psa -q="\{\{tag>[^}]*publish[^}]*\}\}" -r -showcount -title -simpleLineBreak -fontsize="80%"}} |
 
 \\
