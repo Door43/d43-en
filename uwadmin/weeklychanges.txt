@@ -601,6 +601,9 @@
 **[[:pt-br:obs|pt-br OBS]]**
 {{changes>ns=pt-br:obs&maxage=604800&render=pagelist(header,date,user,nocomments)}}
 
+**[[:qxq:obs|qxq OBS]]**
+{{changes>ns=qxq:obs&maxage=604800&render=pagelist(header,date,user,nocomments)}}
+
 **[[:raj:obs|raj OBS]]**
 {{changes>ns=raj:obs&maxage=604800&render=pagelist(header,date,user,nocomments)}}
 
