@@ -8,7 +8,7 @@
 ===== Individuals: =====
 
 ^  Bruce  ^  Deb  ^  JT  ^  Russ  ^
-|{{door43pages @en:bible:questions:comprehension:psa:105 -r -q="\{\{tag>[^}]*draft[^}]*\}\}" -exclude:home -simpleLineBreak -title -fontsize="90%"}} |{{door43pages @en:bible:questions:comprehension:psa:105 -r -q="\{\{tag>[^}]*draft[^}]*\}\}" -exclude:home -simpleLineBreak -title -fontsize="90%"}} |{{door43pages @en:bible:questions:comprehension:psa:105 -r -q="\{\{tag>[^}]*draft[^}]*\}\}" -exclude:home -simpleLineBreak -title -fontsize="90%"}} |{{door43pages @en:bible:questions:comprehension:psa:105 -r -q="\{\{tag>[^}]*draft[^}]*\}\}" -exclude:home -simpleLineBreak -title -fontsize="90%"}} |
+|{{door43pages @:en:bible:questions:comprehension:psa:105 -r -q="\{\{tag>[^}]*draft[^}]*\}\}" -exclude:home -simpleLineBreak -title -fontsize="90%"}} |{{door43pages @en:bible:questions:comprehension:psa:105 -r -q="\{\{tag>[^}]*draft[^}]*\}\}" -exclude:home -simpleLineBreak -title -fontsize="90%"}} |{{door43pages @en:bible:questions:comprehension:psa:105 -r -q="\{\{tag>[^}]*draft[^}]*\}\}" -exclude:home -simpleLineBreak -title -fontsize="90%"}} |{{door43pages @en:bible:questions:comprehension:psa:105 -r -q="\{\{tag>[^}]*draft[^}]*\}\}" -exclude:home -simpleLineBreak -title -fontsize="90%"}} |
 
 ===== Teams: =====
 
