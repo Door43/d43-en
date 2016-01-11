@@ -1,27 +1,5 @@
 ====== Sample Door43 Code ======
 
-==== Activity: ====
-
-Code to display the activity of a user:
-
-  * Replace "USER" with Door43 username
-  * Count= sets number of results
-
-<code>
-**USER:**
-{{changes>user=USER&count=12&render=pagelist(header,date,user,nocomments)&maxage=25920000}}
-</code>
-
-Code to display the activity in a namespace:
-
-  * Replace "NS" with Door43 namespace
-  * Count= sets number of results
-
-<code>
-**NAMESPACE:**
-{{changes>ns=NS&count=12&render=pagelist(header,date,user,nocomments)&maxage=25920000}}
-</code>
-
 ==== New nspages Search: ====
 
   * Documentation: https://www.dokuwiki.org/plugin:nspages
@@ -71,6 +49,29 @@ Find the text string "1)" in the notes namespace (escape special characters with
 </code>
 
 
+==== Activity: ====
+
+Code to display the activity of a user:
+
+  * Replace "USER" with Door43 username
+  * Count= sets number of results
+
+<code>
+**USER:**
+{{changes>user=USER&count=12&render=pagelist(header,date,user,nocomments)&maxage=25920000}}
+</code>
+
+Code to display the activity in a namespace:
+
+  * Replace "NS" with Door43 namespace
+  * Count= sets number of results
+
+<code>
+**NAMESPACE:**
+{{changes>ns=NS&count=12&render=pagelist(header,date,user,nocomments)&maxage=25920000}}
+</code>
+
+
 ==== Tags: ====
 
 Display pages with in namespace with specific tag:
@@ -108,82 +109,6 @@ Code to pull in content from a specific section:
 {{section>:en:bible:notes:luk:01:01#important terms:&noheader}}
 </code>
 
-==== Regex Search: ====
-
-Find all "draft" tags in Romans NS:
-
-<code>
-{{pagequery>@:en:bible:notes:rom \{\{tag>[^}]*draft[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;showcount;fontsize=90%}}
-</code>
-
-Find all "review" tags in two different NS:
-
-<code>
-{{pagequery>@en:bible:notes:ezk @en:bible:notes:isa \{\{tag>[^}]*review[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort;showcount; layout=table;hidemsg;hidejump;fontsize=80%}}
-</code>
-
-Find all "publish" tags in "bible" NS,  but skip "checking" sub-NS:
-
-<code>
-{{pagequery>@:en:bible:notes ^en:bible:notes:checking \{\{tag>[^}]*publish[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort;showcount; layout=table;hidemsg;hidejump;fontsize=80%}}
-</code>
-
-Find KT pages with "drewc" tag __and__ with "ktobs" tag:
-
-<code>
-{{pagequery>@:en:obe:kt \{\{tag>(?=[^}]*drewc)(?=[^}]*ktobs)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;showcount;fontsize=90%}}
-</code>
-
-
-Find KT pages with "drewc" tag __but not__ "ktobs" tag:
-
-<code>
-{{pagequery>@:en:obe:kt \{\{tag>(?![^}]*ktobs)(?=[^}]*drewc)[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;showcount;fontsize=90%}}
-</code>
-
-Find pages with __either__ of two text strings:
-
-<code>
-{{pagequery>@:en:bible:notes (?=\); fulltextregex; sort=title:asc; display={title}; natsort; layout=table; showcount; hidemsg; hidejump;}}
-</code>
-
-Find pages with __either__ "check" or "review" tags in 2Co:
-
-<code>
-{{pagequery>@en:bible:notes:2co (\{\{tag>[^}]*check[^}]*\}\})|(\{\{tag>[^}]*review[^}]*\}\}); fulltextregex; sort=title:asc; display={title}; natsort;showcount; layout=table;hidemsg;hidejump;fontsize=70%}}
-</code>
-
-Find text string in a namespace (escape characters as needed):
-
-<code>
-{{pagequery>@:en:bible:notes 1\); fulltextregex; sort=title:asc; display={title}; natsort; showcount; layout=table;hidemsg;hidejump;fontsize=90%}}
-</code>
-
-
-==== Old "pagequery" Search: ====
-
-Search ns for pages with or without text string:
-
-<code>
-{{pagequery>ns:en:bible:notes:mat "{{tag>create" -"{{tag>delete"; fulltext; sort=title:asc; display={title}; natsort; layout=table; showcount; hidemsg; hidejump;}}
-</code>
-
-Search for inserted beginning **or**  ending <nowiki>HTML </nowiki> code in OBE pages:
-<code>
-{{pagequery>ns:en:obe ""; fulltext; sort=title:asc; display={title}; natsort; layout=table; showcount; hidemsg; hidejump;}}
-</code>
-
-Search for inserted beginning **or**  ending <nowiki>HTML </nowiki> code in Bible notes pages:
-<code>
-{{pagequery>ns:en:bible:notes ""; fulltext; sort=title:asc; display={title}; natsort; layout=table; showcount; hidemsg; hidejump;}}
-</code>
-
-Find missing text portions:
-
-<code>
-{{pagequery>ns:en:bible:notes "Important Terms" -"===== Important Terms: ====="; fulltext; sort=title:asc; display={title}; natsort; layout=table; showcount; hidemsg; hidejump;}}
-</code>
-
 
 ==== Anchors: ====
 
@@ -193,16 +118,3 @@ Anchor on current page:
 [[namespace:page_name#anchor_name]]
 </code>
 
-==== Other: ====
-
-item:
-
-<code>
-
-</code>
-
-item:
-
-<code>
-
-</code>
