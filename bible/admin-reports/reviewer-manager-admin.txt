@@ -71,17 +71,11 @@
 
 ==== John H's books: ====
 
-== Leviticus ==
+== Numbers 22-36 ==
 
-{{door43pages @:en:bible:notes:lev -r -q="\{\{tag>[^}]*mgr[^}]*\}\}" -exclude:home -simpleLineBreak -title -fontsize="90%"}}
+{{door43pages @en:bible:notes:num:22 @en:bible:notes:num:23 @en:bible:notes:num:24 @en:bible:notes:num:25 @en:bible:notes:num:26 @en:bible:notes:num:27 @en:bible:notes:num:28 @en:bible:notes:num:29 @en:bible:notes:num:30 @en:bible:notes:num:31 @en:bible:notes:num:32 @en:bible:notes:num:33 @en:bible:notes:num:34 @en:bible:notes:num:35 @en:bible:notes:num:36 -r -q="\{\{tag>[^}]*mgr[^}]*\}\}" -exclude:home -simpleLineBreak -title -fontsize="90%"}}
 
-== Micah ==
 
-{{door43pages @:en:bible:notes:mic -r -q="\{\{tag>[^}]*mgr[^}]*\}\}" -exclude:home -simpleLineBreak -title -fontsize="90%"}}
-
-== Deuteronomy ==
-
-{{door43pages @:en:bible:notes:deu -r -q="\{\{tag>[^}]*mgr[^}]*\}\}" -exclude:home -simpleLineBreak -title -fontsize="90%"}}
 
 ==== John L's books: ====
 
