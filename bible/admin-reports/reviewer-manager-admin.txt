@@ -20,18 +20,10 @@
 
 ==== Adam VG's books: ====
 
-== Psalms Book 5 ==
-
-{{door43pages @en:bible:notes:psa:107 @en:bible:notes:psa:108 @en:bible:notes:psa:109 @en:bible:notes:psa:110 @en:bible:notes:psa:111 @en:bible:notes:psa:112 @en:bible:notes:psa:113 @en:bible:notes:psa:114 @en:bible:notes:psa:115 @en:bible:notes:psa:116 @en:bible:notes:psa:117 @en:bible:notes:psa:118  @en:bible:notes:psa:120 @en:bible:notes:psa:121 @en:bible:notes:psa:122 @en:bible:notes:psa:123 @en:bible:notes:psa:124 @en:bible:notes:psa:125 @en:bible:notes:psa:126 @en:bible:notes:psa:127 @en:bible:notes:psa:128 @en:bible:notes:psa:129 -r -q="\{\{tag>[^}]*mgr[^}]*\}\}" -exclude:home -simpleLineBreak -title -fontsize="90%"}}
-
 == Song of Songs ==
 
 {{door43pages @:en:bible:notes:sng -r -q="\{\{tag>[^}]*mgr[^}]*\}\}" -exclude:home -simpleLineBreak -title -fontsize="90%"}}
 
-
-== Deuteronomy ==
-
-{{door43pages @:en:bible:notes:deu -r -q="\{\{tag>[^}]*mgr[^}]*\}\}" -exclude:home -simpleLineBreak -title -fontsize="90%"}}
 
 
 ==== Catherine N's books: ====
