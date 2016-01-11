@@ -40,9 +40,6 @@
 
 {{door43pages @:en:bible:notes:jdg -r -q="\{\{tag>[^}]*mgr[^}]*\}\}" -exclude:home -simpleLineBreak -title -fontsize="90%"}}
 
-== Psalms Book 2 ==
-
-{{door43pages @en:bible:notes:psa:042 @en:bible:notes:psa:043 @en:bible:notes:psa:044 @en:bible:notes:psa:045 @en:bible:notes:psa:046 @en:bible:notes:psa:047 @en:bible:notes:psa:048 @en:bible:notes:psa:049 @en:bible:notes:psa:050 @en:bible:notes:psa:051 @en:bible:notes:psa:052 @en:bible:notes:psa:053 @en:bible:notes:psa:054 @en:bible:notes:psa:055 @en:bible:notes:psa:056 @en:bible:notes:psa:057 @en:bible:notes:psa:058 @en:bible:notes:psa:059 @en:bible:notes:psa:060 @en:bible:notes:psa:061 @en:bible:notes:psa:062 @en:bible:notes:psa:063 @en:bible:notes:psa:064 @en:bible:notes:psa:065 @en:bible:notes:psa:066 @en:bible:notes:psa:067 @en:bible:notes:psa:068 @en:bible:notes:psa:069 @en:bible:notes:psa:070 @en:bible:notes:psa:071 @en:bible:notes:psa:072 -r -q="\{\{tag>[^}]*mgr[^}]*\}\}" -exclude:home -simpleLineBreak -title -fontsize="90%"}}
 
 ==== Drew's books: ====
 
