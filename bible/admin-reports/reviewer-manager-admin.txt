@@ -6,17 +6,17 @@
 
 ==== Aaron F' books: ====
 
-== 1 Kings ==
+== Numbers ==
 
-{{door43pages @:en:bible:notes:1ki -r -q="\{\{tag>[^}]*mgr[^}]*\}\}" -exclude:home -simpleLineBreak -title -fontsize="90%"}}
+{{door43pages @en:bible:notes:num:01 @en:bible:notes:num:02 @en:bible:notes:num:03 @en:bible:notes:num:05 @en:bible:notes:num:06 @en:bible:notes:num:07 @en:bible:notes:num:08 @en:bible:notes:num:09 @en:bible:notes:num:10 @en:bible:notes:num:11 @en:bible:notes:num:12 @en:bible:notes:num:13 @en:bible:notes:num:14 @en:bible:notes:num:15 @en:bible:notes:num:16 @en:bible:notes:num:17 @en:bible:notes:num:18 @en:bible:notes:num:19 @en:bible:notes:num:20 @en:bible:notes:num:21 -r -q="\{\{tag>[^}]*mgr[^}]*\}\}" -exclude:home -simpleLineBreak -title -fontsize="90%"}}
 
 == Ecclesiastes ==
 
 {{door43pages @:en:bible:notes:ecc -r -q="\{\{tag>[^}]*mgr[^}]*\}\}" -exclude:home -simpleLineBreak -title -fontsize="90%"}}
 
-== Lamentations ==
+== 1 Samuel ==
 
-{{door43pages @:en:bible:notes:lam -r -q="\{\{tag>[^}]*mgr[^}]*\}\}" -exclude:home -simpleLineBreak -title -fontsize="90%"}}
+{{door43pages @en:bible:notes:1sa:16 @en:bible:notes:1sa:17 @en:bible:notes:1sa:18 @en:bible:notes:1sa:19 @en:bible:notes:1sa:20 -r -q="\{\{tag>[^}]*mgr[^}]*\}\}" -exclude:home -simpleLineBreak -title -fontsize="90%"}}
 
 ==== Adam VG's books: ====
 
