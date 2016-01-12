@@ -1,0 +1,12 @@
+====== OBE: Bible References ======
+
+~~NOCACHE~~
+
+==== References by Term: ====
+
+This page contains search code to find the Bible References that are tagged for any term. To search, Use DWEdit (plain text) to edit the code below. Replace "TERM" with the URL name for any term. Then click "Preview" to see the list.
+
+
+Search results:
+
+{{door43pages @:en:obe -r -q="\{\{tag>[^}]*TERM[^}]*\}\}" -exclude:home -simpleLineBreak -title}}
