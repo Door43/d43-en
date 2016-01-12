@@ -11,4 +11,4 @@ Search results:
 
 {{door43pages @:en:obe:kt -r -q="\{\{tag>[^}]*abomination[^}]*\}\}" -exclude:home -simpleLineBreak -title}}
 
-{{door43pages @:en:bible:notes:rom -r -q="\{\{tag>[^}]*draft[^}]*\}\}" -exclude:home -simpleLineBreak -title -fontsize="90%"}}
+{{door43pages @:en:bible:notes:rom -r -q="\{\{tag>[^}]*publish[^}]*\}\}" -exclude:home -simpleLineBreak -title -fontsize="90%"}}
