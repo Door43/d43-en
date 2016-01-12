@@ -9,4 +9,4 @@ This page contains search code to find the Bible References that are tagged for 
 
 Search results:
 
-{{door43pages @:en:obe -r -q="\{\{tag>[^}]*TERM[^}]*\}\}" -exclude:home -simpleLineBreak -title}}
+{{door43pages @:en:obe:other -r -q="\{\{tag>[^}]*asaph[^}]*\}\}" -exclude:home -simpleLineBreak -title}}
