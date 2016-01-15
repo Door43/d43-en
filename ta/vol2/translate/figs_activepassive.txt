@@ -4,22 +4,41 @@ This module answers the question: What does active or passive mean?\\
 Before you start this module have you learned about:
   * [[en:ta:vol2:translate:figs_grammar|Important Information about English Grammar]]
 
-The English language has the active and passive forms of speech.\\
-* In the **ACTIVE** form, the subject does the action and is always mentioned.\\
-* In the **PASSIVE** form, the action is done to the subject and the one who does the action is //not always// mentioned.\\
-Some languages have both the passive and active forms; however, the language does not use them in the same way.
-===== Translation Suggestions =====
-**Consider carefully how to best use the forms in your language before using the passive form wherever the English language does.**
-   * Many languages do not have a passive form, only the active form exists. Therefore, it may be necessary to turn a sentence from the passive form into the active form.
-  * To change a passive form to an active form it will be necessary to explain who did the action.
-  * Consider why the passive form was used in the verse. There should be ways of achieving the same effect in the translation.
-===== Examples from the Bible =====
-Luke 3:9 //"Already the ax has been placed against the root of the trees. So every tree that does not produce good fruit is chopped down and thrown into the fire"// \\ **every tree that does not produce good fruit is chopped down**  - This is a passive clause. It can be translated with an active clause “He chops down every tree that does not produce good fruit.”\\ 
-\\ 
-Luke 17:1-2 //Jesus said to his disciples, "It is certain that things that cause sin will come, but woe to him through whom they come! It would be better for him if a millstone were put around his neck and he were thrown into the sea, than that he should cause one of these little ones to stumble."// \\ **if a millstone were put around his neck and he were thrown**  - This could also be translated with active clauses: “if they were to put a millstone around his neck and throw him” or “if someone were to put a heavy stone around his neck and push him.”
-===== Examples from English =====
-**Active**  - Peter built the house. **Passive**  - The house was built by Peter. \\ **Active**  - Worms ate the apple. **Passive**  - The apple was eaten by worms.
+The English language has both the active and passive forms of speech.
+  * In the **ACTIVE**  form, the subject does the action and is always mentioned.
+  * In the **PASSIVE**  form, the action is done to the subject and the one who does the action is //not always//  mentioned.
+All languages have active forms. Some languages have passive forms, and some do not. 
+The passive form is not used for the same reasons in all of the languages that have it.
+Examples of Active and Passive Sentences. We have underlined the subject in the examples below.\\
 
+**ACTIVE**: __My father__  built the house in 2010. \\ 
+**PASSIVE**: __The house__  was built by my father in 2010. \\ 
+**PASSIVE**: __The house__  was built in 2010. (This does not tell who did the action.)
+=== Purposes for the passive: ===
+  * The speaker is talking about the person or thing the action was done to, not about the person who did the action.
+  * The speaker does not want to tell who did the action. 
+  * The speaker does not know who did the action.
+===== Translation Principles Regarding Passive =====
+  * Translators whose language does not use passive forms will need to find another way to express the idea. 
+  * Translators whose language has passive forms will need to understand why the passive is used in a particular sentence in the Bible and decide whether or not to use a passive form for that purpose in his translation of the sentence.
+===== Translation Suggestions =====
+If you decide that it is best to translate without a passive form, then there are three possibilities.
+  - Use the same verb in an active sentence and tell who or what did the action.
+  - Use the same verb in an active sentence, and do not tell who or what did the action.
+  - Use a different verb.
+===== Examples from the Bible of Translations Suggestions =====
+1. Use the same verb in an active sentence and tell who did the action.\\
+Passive: //A loaf of bread __was given__ him every day from the street of the bakers.// Jeremiah 37:21
+   * __The king's servants gave__  Jeremiah a loaf of bread every day from the street of the bakers. 
+2. Use the same verb in an active sentence, and do not tell who did the action. Instead use a generic expression like "they," or "people," or “someone.” \\
+Passive: //It would be better for him if a millstone __were put__  around his neck and he __were thrown__  into the sea.//   Luke 17:1-2
+  * It would be better for him if __they were to put__  a millstone around his neck and __throw__  him into the sea.
+  * It would be better for him if __someone were to put__  a heavy stone around his neck and __throw__  him into the sea.
+3. Use a different verb. \\
+Passive: //A loaf of bread __was given__  him every day from the street of the bakers. // Jeremiah 37:21  
+  * He __received__  a loaf of bread every day from the street of the bakers.
+Passive:  //“Already the ax __has been placed__  against the root of the trees."//    Luke 3:9
+  * Already the ax is against the root of the trees.
 
 
 

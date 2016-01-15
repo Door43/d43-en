@@ -10,6 +10,7 @@ edge [arrowsize=1.4];
 "Technology" [fillcolor="#ffff99"]
 "Process" [fillcolor="#99ffff"]
 "AUDIO MANUAL" [fillcolor="#ff99ff"]
+"GATEWAY LANGUAGES MANUAL" [fillcolor="#cccccc"]
 "audio_software" [fillcolor="#ff99ff"]
 "AUDIO MANUAL" -> "audio_software"
 "audio_software_file_renaming" [fillcolor="#ff99ff"]
@@ -135,6 +136,22 @@ edge [arrowsize=1.4];
 "vol2_intro" -> "vol2_steps"
 "vol2_things_to_check" [fillcolor="#9999ff"]
 "vol2_steps" -> "vol2_things_to_check"
+"gl_Notes" [fillcolor="#cccccc"]
+"gl_adaptULB" -> "gl_Notes"
+"gl_ULB" -> "gl_Notes"
+"gl_UDB" [fillcolor="#cccccc"]
+"gl_strategy" -> "gl_UDB"
+"gl_translate" -> "gl_UDB"
+"gl_ULB" -> "gl_UDB"
+"gl_ULB" [fillcolor="#cccccc"]
+"gl_strategy" -> "gl_ULB"
+"gl_translate" -> "gl_ULB"
+"gl_adaptULB" [fillcolor="#cccccc"]
+"gl_UDB" -> "gl_adaptULB"
+"gl_translate" -> "gl_adaptULB"
+"gl_translate" [fillcolor="#cccccc"]
+"gl_strategy" -> "gl_translate"
+"open_license" -> "gl_translate"
 "finding_answers" [fillcolor="#ff9999"]
 "ta_intro" -> "finding_answers"
 "gl_strategy" [fillcolor="#ff9999"]
@@ -404,16 +421,6 @@ edge [arrowsize=1.4];
 "translate_what" -> "first_draft"
 "translate_source_text" -> "first_draft"
 "writing_decisions" -> "first_draft"
-"gl_UDB" [fillcolor="#99ff99"]
-"gl_strategy" -> "gl_UDB"
-"gl_translate" -> "gl_UDB"
-"gl_ULB" -> "gl_UDB"
-"gl_ULB" [fillcolor="#99ff99"]
-"gl_strategy" -> "gl_ULB"
-"gl_translate" -> "gl_ULB"
-"gl_translate" [fillcolor="#99ff99"]
-"gl_strategy" -> "gl_translate"
-"open_license" -> "gl_translate"
 "guidelines_accurate" [fillcolor="#99ff99"]
 "guidelines_intro" -> "guidelines_accurate"
 "translation_guidelines" -> "guidelines_accurate"
