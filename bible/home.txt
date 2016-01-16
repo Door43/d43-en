@@ -6,8 +6,8 @@
 |**[[:en:bible:notes:num:home|Numbers]]** |**[[:en:bible:notes:1sa:home|1 Samuel]]** |**[[:en:bible:notes:job:home|Job]]** |**[[:en:bible:notes:jer:home|Jeremiah]]** |
 |**[[:en:bible:notes:deu:home|Deuteronomy]]** |**[[:en:bible:notes:2sa:home|2 Samuel]]** |**[[:en:bible:notes:psa:home|Psalms]]** |**[[:en:bible:notes:lam:home|Lamentations]]** |
 |**[[:en:bible:notes:jdg:home|Judges]]** |**[[:en:bible:notes:2ki:home|2 Kings]]** |**[[:en:bible:notes:ecc:home|Ecclesiastes]]** |**[[:en:bible:notes:hos:home|Hosea]]** |
-| |**[[:en:bible:notes:1ch:home|1 Chronicles]]** |**[[:en:bible:notes:sng:home|Song of Songs]]** |**[[:en:bible:notes:zec:home|Zechariah]]** |
-| |**[[:en:bible:notes:2ch:home|2 Chronicles]]** | |   |
+| |**[[:en:bible:notes:1ch:home|1 Chronicles]]** |**[[:en:bible:notes:sng:home|Song of Songs]]** |  |
+
 
 
 
@@ -16,9 +16,9 @@
 
 |[[:en:bible:notes:gen:01:01|Genesis]] 8/15|   |[[:en:bible:notes:isa:01:01|Isaiah]] 11/15  |[[:en:bible:notes:nam:01:01|Nahum]] 8/15|[[:en:bible:notes:rom:01:01|Romans]] 7/15  |[[:en:bible:notes:tit:01:01|Titus]] 11/14|
 |[[:en:bible:notes:exo:01:01|Exodus]] 10/15|   |   |[[:en:bible:notes:hab:01:01|Habakkuk]] 8/15|[[:en:bible:notes:1co:01:01|1 Corinthians]] 11/15|[[:en:bible:notes:phm:01:01|Philemon]] 6/15|
-|[[:en:bible:notes:lev:01:01|Leviticus]] 1/16   |   |   |[[:en:bible:notes:zep:01:01|Zephaniah]] 10/15|[[:en:bible:notes:2co:01:01|2 Corinthians]] 10/15|[[:en:bible:notes:heb:01:01|Hebrews]] 9/15  |
+|[[:en:bible:notes:lev:01:01|Leviticus]] 1/16 |[[:en:bible:notes:2ch:01:01|2 Chronicles]] 1/16 |   |[[:en:bible:notes:zep:01:01|Zephaniah]] 10/15|[[:en:bible:notes:2co:01:01|2 Corinthians]] 10/15|[[:en:bible:notes:heb:01:01|Hebrews]] 9/15  |
 |   |[[:en:bible:notes:ezr:01:01|Ezra]] 12/15|[[:en:bible:notes:ezk:01:01|Ezekiel]] 10/15|[[:en:bible:notes:hag:01:01|Haggai]] 10/15|[[:en:bible:notes:gal:01:01|Galatians]] 4/15  |[[:en:bible:notes:jas:01:01|James]] 7/15|
-|   |[[:en:bible:notes:neh:home|Nehemiah]] 11/15|[[:en:bible:notes:dan:01:01|Daniel]] 11/15|   |[[:en:bible:notes:eph:01:01|Ephesians]] 9/15|[[:en:bible:notes:1pe:01:01|1 Peter]] 9/15|
+|   |[[:en:bible:notes:neh:home|Nehemiah]] 11/15|[[:en:bible:notes:dan:01:01|Daniel]] 11/15|[[:en:bible:notes:zec:01:01|Zechariah]] 1/16 |[[:en:bible:notes:eph:01:01|Ephesians]] 9/15|[[:en:bible:notes:1pe:01:01|1 Peter]] 9/15|
 |[[:en:bible:notes:jos:01:01|Joshua]] 1/16  |[[:en:bible:notes:est:01:01|Esther]] 11/15|   |[[:en:bible:notes:mal:01:01|Malachi]] 9/15|[[:en:bible:notes:php:01:01|Philippians]] 6/15  |[[:en:bible:notes:2pe:01:01|2 Peter]] 8/15|
 |   |   |[[:en:bible:notes:jol:01:01|Joel]] 9/15|[[:en:bible:notes:mat:01:01|Matthew]] 10/15|[[:en:bible:notes:col:01:01|Colossians]] 6/15|[[:en:bible:notes:1jn:01:01|1 John]] 8/15  |
 |[[:en:bible:notes:rut:01:01|Ruth]] 11/14|   |[[:en:bible:notes:amo:01:01|Amos]] 11/15|[[:en:bible:notes:mrk:01:01|Mark]] 9/15  |[[:en:bible:notes:1th:01:01|1 Thessalonians]] 8/15|[[:en:bible:notes:2jn:01:01|2 John]] 8/15|
@@ -31,28 +31,28 @@
 |Genesis|   |Isaiah|Nahum|Romans|Titus|
 |Exodus|   |  |Habakkuk|1 Corinthians|Philemon|
 |Leviticus  |   |   |Zephaniah|2 Corinthians|Hebrews|
-|Numbers   |   |Ezekiel|Haggai|Galatians|James|
-|   |Nehemiah|   |   |Ephesians|1 Peter|
+|  |Ezra  |Ezekiel|Haggai|Galatians|James|
+|   |Nehemiah|Daniel  |   |Ephesians|1 Peter|
 |   |Esther|   |Malachi|Philippians|2 Peter|
 |Joshua |   |Joel|Matthew|Colossians|1 John |
 |Ruth |   |Amos|Mark|1 Thessalonians|2 John|
 |   |Proverbs  |Obadiah|Luke|2 Thessalonians|3 John|
 |   |   |Jonah|John|1 Timothy|Jude|
-|   |   |Micah|Acts|2 Timothy|Revelation|
+|1 Kings   |   |Micah|Acts|2 Timothy|Revelation|
 
 ==== Books with Completed translationQuestions ====
 
 |Genesis|   |Isaiah|Nahum|Romans|Titus|
 |Exodus|   | |Habakkuk|1 Corinthians|Philemon|
-|   |   |   | |2 Corinthians|Hebrews|
-|   |   |Ezekiel|Haggai|Galatians|James|
+| |  |   | |2 Corinthians|Hebrews|
+|   |Ezra   |Ezekiel|Haggai|Galatians|James|
 |   |  |Daniel  |  |Ephesians|1 Peter|
 |   |Esther| Hosea |Malachi|Philippians|2 Peter|
-|   |   |Joel|Matthew|Colossians|1 John  |
+|Joshua  |   |Joel|Matthew|Colossians|1 John  |
 |Ruth|   |Amos|Mark|1 Thessalonians|2 John|
 |   |   |Obadiah|Luke|2 Thessalonians|3 John|
-|   |   |Jonah|John|1 Timothy|Jude|
-|   |   |Micah|Acts|2 Timothy|Revelation|
+|   |Ecclesiastes |Jonah|John|1 Timothy|Jude|
+|  |   |Micah|Acts|2 Timothy|Revelation|
 
 ===== Source Text =====
 
