@@ -7,5 +7,10 @@
 
 <nspages en:ta:workbench:tech -title -exclude:home -nbCol=2 -textPages="List of tA Pages about Technology:">
 
+=== translate section ===
+{{door43pages @en:ta:workbench:translate -r -showcount -title -simpleLineBreak}} 
+=== tech section ===
+{{door43pages @en:ta:workbench:tech -r -showcount -title -simpleLineBreak}}
+
 ~~NOCACHE~~
 
