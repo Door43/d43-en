@@ -2,11 +2,11 @@
 
 These are the USFM tags that are used in the Unlocked Bibles and how they look in the APP text.
 
-/c
-/v
-/p
+/c - chapter marker\\
+/v - verse marker\\
+/p - paragraph marker\\
 
-/s5 chunk divider
+/s5 - chunk divider\\
 
 
 ~~DISCUSSIONS~~ {{tag>draft epadn chris}}
