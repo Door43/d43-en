@@ -27,8 +27,8 @@ Table 3: [[:en:bible:admin-reports:03-review-reviewer#table-3|Aaron F; John L; S
 Table 1: [[:en:bible:admin-reports:03-review-reviewer#table-1|Ed Q; Henry W; Henry dV; Tom N; Nick A]] \\
 Table 2: [[:en:bible:admin-reports:03-review-reviewer#table-2|John A; Carol B; Harry H; Bram vdH; Kim P]]
 
-^  Susan Q  ^  Jim P  ^  Larry S  |
-|  (Inspect) // (TA)  |  Zec  |  (TQ)  |
+^  Susan Q  ^  Jim P  ^  Larry S  ^
+|  (Inspect) \\ (TA)  |  Zec  |  (TQ)  |
 |"susanq": {{door43pages @en:bible:notes -r -q="\{\{tag>[^}]*susanq[^}]*\}\}" -exclude:home -simpleLineBreak -title -showcount -fontsize="80%"}} \\ Inspect: {{door43pages @en:bible:notes -r -q="\{\{tag>[^}]*inspect[^}]*\}\}" -exclude:home -simpleLineBreak -title -showcount -fontsize="80%"}}  |"jimp": {{door43pages @en:bible:notes -r -q="\{\{tag>[^}]*jimp[^}]*\}\}" -exclude:home -simpleLineBreak -title -showcount -fontsize="80%"}}  |"larrys": {{door43pages @en:bible:notes -r -q="\{\{tag>[^}]*larrys[^}]*\}\}" -exclude:home -simpleLineBreak -title -showcount -fontsize="80%"}} |
 
 \\
