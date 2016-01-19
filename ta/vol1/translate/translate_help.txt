@@ -8,9 +8,9 @@ Before you start this module have you learned about:
 
 ==== Using Translation Helps ====
 
-To help translators make the best translation possible, **Translation Notes**, **Translation Words** and **Translation Questions** have been created. \\
+To help translators make the best translation possible, **Translation Notes**, **Translation Words** and **Translation Questions** have been created.
 
-There is a set of [[:en:obs:notes]] (https://door43.org/en/obs/notes) and [[:en:obs:notes:questions:home]] (https://door43.org/en/obs/notes/questions/home) for the Open Bible Stories, and also [[en:bible:notes:home]] (https://door43.org/en/bible/notes/home) and [[en:bible:questions:comprehension:home]] (https://door43.org/en/bible/questions/comprehension/home) for the Bible. All of the Important Terms for the OBS and the Bible are listed on the [[en:obe:home]] ([[https://door43.org/en/obe/home]]) page.
+There is a set of [[:en:obs:notes|Translation & Checking Notes]] ([[https://door43.org/en/obs/notes|https://door43.org/en/obs/notes]]) and [[:en:obs:notes:questions:home|OBS translationQuestions]] ([[https://door43.org/en/obs/notes/questions/home|https://door43.org/en/obs/notes/questions/home]]) for the Open Bible Stories, and also [[:en:bible:notes:home|Bible Translation Notes]] ([[https://door43.org/en/bible/notes/home|https://door43.org/en/bible/notes/home]]) and [[:en:bible:questions:comprehension:home|Comprehension translationQuestions]] ([[https://door43.org/en/bible/questions/comprehension/home|https://door43.org/en/bible/questions/comprehension/home]]) for the Bible. All of the Important Terms for the OBS and the Bible are listed on the [[:en:obe:home|Complete List of Important Terms - English]] ([[https://door43.org/en/obe/home|https://door43.org/en/obe/home]]) page.
 
 **Translation Notes** are cultural, linguistic, and exegetical notes that help to describe and explain some of the Bible background that the translator needs to know to translate Open Bible Stories, as well as inform translators about different ways that they might express the same meaning.
 
@@ -18,14 +18,12 @@ The **Translation Words** are key terms found in Open Bible Stories and the Bibl
 
 The **Comprehension translationQuestions** can be used to self-check your translation. Can the Target Language translation be used to correctly answer each of the questions? The translationQuestions are also a good tool to use for each level of checking.
 
-Once you have consulted the Translation Notes, Translation Words and Comprehension Questions, then you are ready to make the best translation. 
+Once you have consulted the Translation Notes, Translation Words and Comprehension Questions, then you are ready to make the best translation.
 
-**Please use the Translation Notes & Translation Words when doing your translation!**
-
-
+**Please use the Translation Notes & Translation Words when doing your translation! ** Also use the translationQuestions when checking your translation with people in your language community!
 
 Next we recommend you learn about:
-  * [[en:ta:vol1:translate:resources_types|Translation Notes]]
-  * [[en:ta:vol2:tech:translate_helpd43|Use the Translation Notes on Door43]]
-  * [[en:ta:vol1:tech:translate_helpts|Finding Help for translationStudio]]
 
+  * [[:en:ta:vol1:translate:resources_types|Translation Notes]]
+  * [[:en:ta:vol2:tech:translate_helpd43|Use the Translation Notes on Door43]]
+  * [[:en:ta:vol1:tech:translate_helpts|Finding Help for translationStudio]]
