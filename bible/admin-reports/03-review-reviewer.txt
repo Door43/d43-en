@@ -28,7 +28,7 @@ Table 1: [[:en:bible:admin-reports:03-review-reviewer#table-1|Ed Q; Henry W; Hen
 Table 2: [[:en:bible:admin-reports:03-review-reviewer#table-2|John A; Carol B; Harry H; Bram vdH; Kim P]]
 
 ^  Susan Q  ^  Jim P  ^  Larry S  |
-|  (Inspect)  |  Zec  |  -  |
+|  (Inspect)  |  Zec  |  (TQ)  |
 |"susanq": {{door43pages @en:bible:notes -r -q="\{\{tag>[^}]*susanq[^}]*\}\}" -exclude:home -simpleLineBreak -title -showcount -fontsize="80%"}} \\ Inspect: {{door43pages @en:bible:notes -r -q="\{\{tag>[^}]*inspect[^}]*\}\}" -exclude:home -simpleLineBreak -title -showcount -fontsize="80%"}}  |"jimp": {{door43pages @en:bible:notes -r -q="\{\{tag>[^}]*jimp[^}]*\}\}" -exclude:home -simpleLineBreak -title -showcount -fontsize="80%"}}  |"larrys": {{door43pages @en:bible:notes -r -q="\{\{tag>[^}]*larrys[^}]*\}\}" -exclude:home -simpleLineBreak -title -showcount -fontsize="80%"}} |
 
 \\
