@@ -552,6 +552,8 @@ edge [arrowsize=1.4];
 "translate_dynamic" -> "translate_tform"
 "translate_process" -> "translate_tform"
 "translate_fandm" -> "translate_tform"
+"translate_transliterate" [fillcolor="#99ff99"]
+"translate_unknown" -> "translate_transliterate"
 "translate_unknown" [fillcolor="#99ff99"]
 "Translation" -> "translate_unknown"
 "translate_wforw" [fillcolor="#99ff99"]
