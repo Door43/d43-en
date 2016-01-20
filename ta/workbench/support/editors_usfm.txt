@@ -2,20 +2,27 @@
 
 These are the USFM tags that are used in the Unlocked Bibles and how they look in the APP text.
 
+\id - file identification\\
+\ide - file encoding\\
+\h - header text\\
+\toc1 - table of contents: long text\\
+\toc2 - table of contents: short text\\
+\toc3 - table of contents: abbreviation\\
+\mt - major title\\
 \c - chapter marker\\
 \v - verse marker\\
 \p - paragraph marker\\
-\b - \\
-\s - \\
-\s1 - \\
-\sr - \\
-\sp - \\
+\b - blank line\\
+\s - section header\\
+\s1 - section header: first level\\
+\sr - section reference\\
+\sp - speaker\\
 \s5 - chunk divider\\
-\q - \\
-\q1 - \\
-\q2 - \\
-\add ... \add* - \\
-\f + \ft ... \f* - \\
+\q - quotation\\
+\q1 - quotation: first level indent\\
+\q2 - quotation: second level indent\\
+\add ... \add* - inserted text or comments not in original\\
+\f + \ft ... \f* - footnote\\
 
 
 ~~DISCUSSIONS~~ {{tag>draft epadn chris}}
