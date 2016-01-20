@@ -1,0 +1,5 @@
+====== Erika’s & Pam’s Assignments ======
+
+~~NOCACHE~~
+
+{{door43pages -r -q="\{\{tag>[^}]*ehpg[^}]*\}\}" -exclude:home -simpleLineBreak -title -fontsize="90%"}}
