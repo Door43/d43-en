@@ -2,27 +2,27 @@
 
 These are the USFM tags that are used in the Unlocked Bibles and how they look in the APP text.
 
-\id - file identification\\
-\ide - file encoding\\
-\h - header text\\
-\toc1 - table of contents: long text\\
-\toc2 - table of contents: short text\\
-\toc3 - table of contents: abbreviation\\
-\mt - major title\\
-\c - chapter marker\\
-\v - verse marker\\
-\p - paragraph marker\\
-\b - blank line\\
-\s - section header\\
-\s1 - section header: first level\\
-\sr - section reference\\
-\sp - speaker\\
-\s5 - chunk divider\\
-\q - quotation\\
-\q1 - quotation: first level indent\\
-\q2 - quotation: second level indent\\
-\add ... \add* - inserted text or comments not in original\\
-\f + \ft ... \f* - footnote\\
+\id - file identification name (\id JOB Unlocked Literal Bible)\\
+\ide - file encoding method (\ide UTF-8)\\
+\h - header text (\h Job)\\
+\toc1 - table of contents: long text (\toc1 The Book of Job)\\
+\toc2 - table of contents: short text (\toc2 Job)\\
+\toc3 - table of contents: abbreviation (\toc3 Job)\\
+\mt - major title (\mt The Book of Job)\\
+\c - chapter marker (\c1)\\
+\v - verse marker (\v12)\\
+\p - paragraph marker (\p)\\
+\b - blank line (\b)\\
+\s - section header (\s Satan attacks Job)\\
+\s1 - section header: first level (\s1 Satan attacks Job)\\
+\sr - section reference (1:13-19)\\
+\sp - speaker (\sp Bildad the Shuhite speaks)\\
+\s5 - chunk divider (\s5)\\
+\q - quotation (\q \v5 Then he arose ...)\\
+\q1 - quotation: first level indent (\q1 \v5 Then he arose ...)\\
+\q2 - quotation: second level indent (\q2 \v5 and before he sat down ...)\\
+\add ... \add* - inserted text or comments not in original (\add his friend \add*)\\
+\f + \ft ... \f* - footnote (\f + \ft Some of the oldest versions do not include this. \f*)\\
 
 
 ~~DISCUSSIONS~~ {{tag>draft epadn chris}}
