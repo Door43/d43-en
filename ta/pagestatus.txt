@@ -1,24 +1,17 @@
 ===== Translation Academy Topics Page Status =====
 
-|**Create Pages**   |  **Draft Pages**    |  **Review Pages**    |**Publish Pages**   |
-|{{topic>en:ta?create&nocomments}} |{{topic>en:ta?draft&nocomments}} |{{topic>en:ta?review&nocomments}} |{{topic>en:ta?publish&nocomments}} |
+==== Support Pages ====
 
-==== Sorted by draft date ====
 
-~~NOCACHE~~
+|**Not in Epad**   |  **Draft Pages**    |  **Review Pages**    |**In Epad**   |
+|{{door43pages @en:ta:workbench:support -q="\{\{tag>[^}]*epadn[^}]*\}\}" -r -showcount -title -simpleLineBreak}} |{{door43pages @en:ta:workbench:support -q="\{\{tag>[^}]*draft[^}]*\}\}" -r -showcount -title -simpleLineBreak}} |{{door43pages @en:ta:workbench:support -q="\{\{tag>[^}]*review[^}]*\}\}" -r -showcount -title -simpleLineBreak}}|{{door43pages @en:ta:workbench:support -q="\{\{tag>[^}]*epady[^}]*\}\}" -r -showcount -title -simpleLineBreak}} |
 
-{{pagequery>ns:en:ta "tag>draft"; fulltext; sort=cdate:asc; group; limit=100; spelldate; hidestart; display= {title} {date:created} ; layout=table; natsort; }}
 
-==== Sorted by review date ====
+==== Workbench Pages ====
 
-~~NOCACHE~~
+|**Draft Pages**   |  **Review Pages**    |  **Publish Pages**    |**In Epad**   |
+|{{door43pages @en:ta:workbench -q="\{\{tag>[^}]*draft[^}]*\}\}" -r -showcount -title -simpleLineBreak}} |{{door43pages @en:ta:workbench -q="\{\{tag>[^}]*review[^}]*\}\}" -r -showcount -title -simpleLineBreak}} |{{door43pages @en:ta:workbench -q="\{\{tag>[^}]*publish[^}]*\}\}" -r -showcount -title -simpleLineBreak}}|{{door43pages @en:ta:workbench -q="\{\{tag>[^}]*epady[^}]*\}\}" -r -showcount -title -simpleLineBreak}} |
 
-{{pagequery>ns:en:ta "tag>review"; fulltext; sort=cdate:asc; group; limit=100; spelldate; hidestart; display= {title} {date:created} ; layout=table; natsort; }}
-
-==== Sorted by publish date ====
 
 ~~NOCACHE~~
 
-{{pagequery>ns:en:ta "tag>publish"; fulltext; sort=cdate:asc; group; limit=100; spelldate; hidestart; display= {title} {date:created} ; layout=table; natsort; }}
-
-\\
