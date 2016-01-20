@@ -2,4 +2,4 @@
 
 ~~NOCACHE~~
 
-{{door43pages -r -q="\{\{tag>[^}]*ehpg[^}]*\}\}" -exclude:home -simpleLineBreak -title -fontsize="90%"}}
+{{door43pages @en:ta:workbench:support -q="\{\{tag>[^}]*ehpg[^}]*\}\}" -r -showcount -title -simpleLineBreak}}
