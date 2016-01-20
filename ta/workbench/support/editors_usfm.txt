@@ -25,4 +25,4 @@ These are the USFM tags that are used in the Unlocked Bibles and how they look i
 \f + \ft ... \f* - footnote (\f + \ft Some of the oldest versions do not include this. \f*)\\
 
 
-~~DISCUSSIONS~~ {{tag>draft epadn chris}}
+~~DISCUSSIONS~~ {{tag>draft epadn ehpg}}
