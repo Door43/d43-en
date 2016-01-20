@@ -17,7 +17,7 @@
 ===== UDB: =====
 
 <usfm>
-\v 8 [The woman speaking to herself] I hear the voice of the man who loves me.
+\v 8 I hear the voice of the man who loves me.
 \q2 It is as though he is leaping over the mountains
 \q1 and skipping over the hills
 \q1
@@ -33,9 +33,10 @@
 ===== ULB: =====
 
 <usfm>
-\b
+\p
+
 \q
-\v 8 [PART TWO] [The woman speaking to herself] There is the sound of my beloved! Oh, here he comes,
+\v 8 There is the sound of my beloved! Oh, here he comes,
 \q leaping over the mountains,
 \q jumping over the hills.
 \q

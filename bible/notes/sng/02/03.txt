@@ -15,12 +15,13 @@
 ===== UDB: =====
 
 <usfm>
-\v 3 [The woman speaking to herself] Among all the other men, this man is the one who loves me; he is like a tree that grows in the forest.
+\v 3 Among all the other men, this man is the one who loves me; he is like a tree that grows in the forest.
 \q2 Under his shade I am safe from the sun.
 \q1 When he is close to me, it is like eating sweet fruit.
 \q1
 \v 4 He led me to the room where I feasted on his love,
 \q2 where he made love to him, as if he were covering me with his love.
+
 
 
 \q1
@@ -29,9 +30,10 @@
 ===== ULB: =====
 
 <usfm>
-\b
+\p
+
 \q
-\v 3 [The woman speaking to herself] As the apricot tree is among the trees of the forest,
+\v 3 As the apricot tree is among the trees of the forest,
 \q so is my beloved among the young men.
 \q I sit down under his shadow with great delight,
 \q and his fruit is sweet to my taste.
