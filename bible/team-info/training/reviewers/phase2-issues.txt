@@ -68,6 +68,7 @@ This is a list of general issues that we want to deal with in Phase 2. This list
   * **Generic Ideas** - We need to regularize in Proverbs, both versions, how generic ideas are signaled. Hebrew says, "the righteous man," but English prefers "a righteous man." As of now, usage is very mixed.
   * **Footnotes in ULB** - Find the chunks that have footnotes in the ULB and add a standard note along with a link to [[en:ta:vol1:translate:translate_textvariants]]. (We'll have to figure out what that standard note will be.) (A search on "ancient texts" or "ancient authorities" will bring up footnotes, but I don't know if it brings up all of them.) (SQ)
   * **Formatting Signals** - Do we want notes to text that has long-dashes or parentheses or indentations with a link to the tA page for "Formatting Signals"?
-  * **Fractions** - Add links to the page on Fractions. 
+  * **Fractions** - Change links to "Translate Numbers" to "Fractions." Add more links to "Fractions". (I'd do it now, but we don't have the Fractions page yet.)
+  *   * **Ordinal Numbers** - Change links to "Translate Numbers" to "Ordinal Numbers." Add more links to "Ordinal Numbers". 
   * **Relative Clauses** - When a note tells about a relative clause being used to give more information (or "describe") rather than distinguish, change the link from "Sentences" to "Phrases that Inform or Remind" (or whatever name that page will be given). (Find them by doing a search on "relative clause") (SQ)
 ~~DISCUSSION~~
