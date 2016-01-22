@@ -17,22 +17,36 @@ The following pages are tagged with the "talink" code and contain a tA link that
 \\
 GO **[[en:ta:ta-epad|HERE]]** FOR ETHER PAD PAGE INFORMATION
 
-===== Editing Process on tA Pages =====
+===== Editing Process on tA Pages - Phase Two =====
 
 The following lists are the pages that need editing. The steps through the members of the team will be:
 
-  - Suggested topics arrive from Translation Notes writers.
-  - Page is built and tagged with status 'draft jody'.
-  - Jody will add content to the pages on her list.
-      - Then change the tag from 'jody' to 'kara'
-  - Kara will proof the pages, making changes as required.
-      - Then change the tag from 'kara' to erika'.
-  - Erika will then proof the page
-      - Change the tag status on the page to 'review chris'.
-      - Change the status to 'review' in the chart above.
-  - tA Manager will then do a final check on the page and change the status to 'publish'.
-      - Add the link to the Bible chunk.
-      - Remove the topic from the above table.
+  - The Proofers, working from the [[https://wycliffeassociatesinc-my.sharepoint.com/personal/christine_jarka_wycliffeassociates_org/_layouts/15/guestaccess.aspx?guestaccesstoken=8T%2fzFXQ2pOxPiI9o8Yw9Pvd22sbJqXV%2bgrMf4Pph%2bnY%3d&docid=07720a3db93984ae08560a1e4e5b6b997|Worksheet]] will:
+    - Take the contents of the Workbench page and paste into the discussion panel. (leaving the information below the 4 dashes (line) on the page)
+    - Take the contents of the corresponding vol1 or vol2 page and paste into the workbench page.
+    - Enter at the top of the workbench page the formatting codes found below.
+    - Change the tags to 'draft epadn.'
+  - Content Person will:
+    - Edit existing information moving content to the appropriate sections.
+      - All Bible text is in Bold and from the ULB
+    - Confirm that the ULB text does apply and that the descriptions/suggestions/strategies align with the ULB text.
+    - Add information as needed.
+    - Change the 'draft' tag to 'review'.
+  - Susan will review the page and may consult with the Content Person.
+    - Susan will change the 'review' tag to 'check.'
+  - The Proofers will:
+    - Write the less-than-100 words introduction
+    - Check all formatting and make changes as needed
+      - Bold ULB text
+      - Double quote marks on suggested Bible text
+      - Numbering between strategies and applied correspond
+      - They will change the 'check' tag to 'susan.'
+  - Susan will do a final review.
+    - Change the tag from 'susan' to 'chris.'
+  - Chris will move the content to ether pad.
+    - Change the tag to 'publish epady.'
+    - Contact Perry for final approval.
+
 
 ----
 
@@ -81,15 +95,31 @@ After the page status has been changed to 'publish':
 <code>
 ====== topic ======
 
-===== Translation Suggestions =====
+===== Description =====
+
+=== Definition ===
+
+=== Examples(s) ===
+
+=== Purpose (optional) ===
+
+=== Reason this could be a translation issue (recommended) ===
+
+=== Translation Principles (optional) ===
+
 
 ===== Examples from the Bible =====
 
-===== Examples from English =====
 
-(See also: [[:en:ta:xxxx]])
+===== Translation Strategies =====
+If your language can use x consider using it. These strategies are for if your language cannot use x.
 
-{{tag>draft luton}} ~~DISCUSSIONS~~
+
+===== Examples of Translation Strategies Applied =====
+
+
+
+{{tag>draft}} ~~DISCUSSIONS~~
 </code>
 
 ~~NOCACHE~~
