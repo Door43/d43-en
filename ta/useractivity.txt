@@ -8,9 +8,8 @@ Sze for the last *96 hours
 
 Activity - Check
 
-====== Mark ======
 
-{{changes>en:bible:notes &user=tyson&count=1000&render=pagelist(header,date,user,nocomments)&maxage=25920000}} 
+{{changes>en:bible:notes &user=username&count=1000&render=pagelist(header,date,user,nocomments)&maxage=25920000}} 
 
 Changes this week
 
