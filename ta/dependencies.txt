@@ -139,6 +139,10 @@ edge [arrowsize=1.4];
 "gl_Notes" [fillcolor="#cccccc"]
 "gl_adaptULB" -> "gl_Notes"
 "gl_ULB" -> "gl_Notes"
+"gl_Questions" [fillcolor="#cccccc"]
+"gl_Words" -> "gl_Questions"
+"gl_Notes" -> "gl_Questions"
+"gl_ULB" -> "gl_Questions"
 "gl_UDB" [fillcolor="#cccccc"]
 "gl_strategy" -> "gl_UDB"
 "gl_translate" -> "gl_UDB"
@@ -146,6 +150,10 @@ edge [arrowsize=1.4];
 "gl_ULB" [fillcolor="#cccccc"]
 "gl_strategy" -> "gl_ULB"
 "gl_translate" -> "gl_ULB"
+"gl_Words" [fillcolor="#cccccc"]
+"gl_Notes" -> "gl_Words"
+"gl_ULB" -> "gl_Words"
+"gl_adaptULB" -> "gl_Words"
 "gl_adaptULB" [fillcolor="#cccccc"]
 "gl_UDB" -> "gl_adaptULB"
 "gl_translate" -> "gl_adaptULB"
