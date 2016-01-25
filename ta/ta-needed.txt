@@ -51,7 +51,7 @@ The following lists are the pages that need editing. The steps through the membe
 ===== Chunks Assignments: =====
 
 
-^  Draft  ^  Review  ^  Check ^  Susan ^ Chris |
+^  Draft  ^  Review  ^  Check ^  Susan ^ Chris ^
 |{{door43pages @en:ta:workbench -q="\{\{tag>[^}]*draft[^}]*\}\}" -r -showcount -title -simpleLineBreak -fontsize="80%"}} |{{door43pages @en:ta:workbench -q="\{\{tag>[^}]*review[^}]*\}\}" -r -showcount -title -simpleLineBreak -fontsize="80%"}} |{{door43pages @en:ta:workbench -q="\{\{tag>[^}]*check[^}]*\}\}" -r -showcount -title -simpleLineBreak -fontsize="80%"}} |{{door43pages @en:ta:workbench -q="\{\{tag>[^}]*Susan[^}]*\}\}" -r -showcount -title -simpleLineBreak -fontsize="80%"}} |{{door43pages  @en:ta:workbench -q="\{\{tag>[^}]*Chris[^}]*\}\}" -r -showcount -title -simpleLineBreak -fontsize="80%"}} |
 
 \\
@@ -64,29 +64,6 @@ The following lists are the pages that need editing. The steps through the membe
 
 Chris needs to work on these pages:
 {{door43pages @en:ta: -q="\{\{tag>[^}]*chris[^}]*\}\}" -r -showcount -title -simpleLineBreak}} 
-
-
-----
-
-The following pages are tagged as "Erika" and need to be edited by **Erika**:
-
-{{door43pages @en:ta: -q="\{\{tag>[^}]*erika[^}]*\}\}" -r -showcount -title -simpleLineBreak}} 
-
-----
-
-After Erika has reorganized the pages these pages need to be edited by **Kara**:
-
-{{door43pages @en:ta: -q="\{\{tag>[^}]*kara[^}]*\}\}" -r -showcount -title -simpleLineBreak}} 
-
-----
-
-These pages need information added by **Jody**:
-
-{{door43pages @en:ta: -q="\{\{tag>[^}]*jody[^}]*\}\}" -r -showcount -title -simpleLineBreak}} 
-
-==== tA Pages in etherpad ====
-
-{{door43pages @en:ta:workbench -q="\{\{tag>[^}]-*epady[^}]*\}\}" -r -showcount -title -simpleLineBreak}} 
 
 
 
