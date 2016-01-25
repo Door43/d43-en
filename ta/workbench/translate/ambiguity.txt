@@ -17,7 +17,7 @@ If your language can use x consider using it. These strategies are for if your l
 
 
 ===== Examples of Translation Strategies Applied =====
-
+----
 
 This module answers the question: What does ambiguity mean?\\
 Ambiguity happens when a single word or phrase can have more than one meaning.
