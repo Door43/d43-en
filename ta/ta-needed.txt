@@ -95,12 +95,6 @@ The following pages are tagged as "review" and need final review and then to be 
 
 {{door43pages @en:ta:workbench -q="\{\{tag>[^}]*review[^}]*\}\}" -r -showcount -title -simpleLineBreak}} 
 
-==== Followup ====
-
-After the page status has been changed to 'publish':
-
-  * Edit the link to the tA page in the Bible chunk page
-  * Remove the tag from the Bible text page (leave any "ktlink" tags)
 
 ==== Formatting Standard for "Topic" Page: ====
 
