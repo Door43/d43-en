@@ -77,5 +77,6 @@ This is a list of general issues that we want to deal with in Phase 2. This list
 
 --------
 **Additions after Phase Two Proposed Prospectus**
-  * Delete or fix links to Discourse Info.
+  * **Discourse Info** - Delete or fix links to Discourse Info.
+  * **No Notes/KTs** - Find out from app developers if we need these notes.
 ~~DISCUSSION~~
