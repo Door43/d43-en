@@ -2,49 +2,42 @@
 
 The Translation Question (TQ) workshop will be held in Orlando on Jan. 4-7 in conference room #3 of the WA building.
 
-The purpose of the workshop is to write TQ's for as many books of the Bible as possible in the time allotted. TQ's for about half of the chapters of the Bible have already been completed. The workshop will help by doing other books, beginning with Psalms. 
-
+The purpose of the workshop is to write TQ's for as many books of the Bible as possible in the time allotted. TQ's for about half of the chapters of the Bible have already been completed. The workshop will help by doing other books, beginning with Psalms.
 
 ==== Workshop Information ====
 
-  * [[:en:ta:tqworkshop-participants]]
-  * [[:en:ta:tqworkshop-how-to]]
-
+  * [[:en:ta:tqworkshop-participants|TQ Workshop Participants]]
+  * [[:en:ta:tqworkshop-how-to|How to Write TQ's]]
 
 ==== TQ Samples ====
 
 The table below contains links to sample completed TQ's. This will give you an idea of the type of questions that we want. The table also contains links to the ULB text from which the questions are derived.
 
-^  TQ links  ^  ULB text  ^
+^  TQ links  ^  ULB text  |
 |  [[:en:bible:questions:comprehension:jon:home|Jonah TQ pages]]  |  [[:en:ulb:ep:32-jon.usfm|Jonah ULB]]  |
 |  [[:en:bible:questions:comprehension:hab:home|Habbakuk TQ pages]]  |  [[:en:ulb:ep:35-hab.usfm|Habbakuk ULB]]  |
 |  [[:en:bible:questions:comprehension:rom:home|Romans TQ pages]]  |  [[:en:ulb:ep:45-rom.usfm|Romans ULB]]  |
 
-
 ==== Assigned Books ====
 
-The link below lists books or chapters that each person or team is assigned to do. 
+The link below lists books or chapters that each person or team is assigned to do.
 
-  * [[:en:bible:admin-reports:comprehension-question-groups]]
-
+  * [[:en:bible:admin-reports:comprehension-question-groups|TQ Assignments]]
 
 The table below has links to the ULB files and TQ admin pages that you will need. The TQ admin pages show which chapters are in "draft" status and need questions and and answers.
 
-^  TQ Admin pages  ^  ULB text  ^  UDB text  ^
-|  [[:en:bible:admin-reports:questions-comprehension:psa]]  |  [[:en:ulb:ep:19-psa.usfm|Psalms ULB]]  |  [[:en:udb:ep:19-psa.usfm|Psalms UDB]]  |
-|  [[:en:bible:admin-reports:questions-comprehension:jer]]  |  [[:en:ulb:ep:24-jer.usfm|Jeremiah ULB]]  |  [[:en:udb:ep:24-jer.usfm|Jeremiah UDB]]  |
-|  [[:en:bible:admin-reports:questions-comprehension:deu]]  |  [[:en:ulb:ep:05-deu.usfm|Deuteronomy ULB]]  |  [[:en:udb:ep:05-deu.usfm|Deuteronomy UDB]]  |
-|  [[:en:bible:admin-reports:questions-comprehension:num]]  |  [[:en:ulb:ep:04-num.usfm|Numbers ULB]]  |  [[:en:udb:ep:04-num.usfm|Numbers UDB]]  |
-|  [[:en:bible:admin-reports:questions-comprehension:job]]  |  [[:en:udb:ep:18-job.usfm| Job ULB]]  |  [[:en:ulb:ep:18-job.usfm|Job UDB]]  |
-|  [[:en:bible:admin-reports:questions-comprehension:2ch]]  |  [[:en:ulb:ep:14-2ch.usfm|2 Chronicle ULB]]  |  [[:en:udb:ep:14-2ch.usfm|2 Chronicles UDB]]  |
-
-
-
-
+^  TQ Admin pages  ^  ULB text  ^  UDB text  |
+|  [[:en:bible:admin-reports:questions-comprehension:psa|Translation Questions: Psalms Admin]]  |  [[:en:ulb:ep:19-psa.usfm|Psalms ULB]]  |  [[:en:udb:ep:19-psa.usfm|Psalms UDB]]  |
+|  [[:en:bible:admin-reports:questions-comprehension:jer|Translation Questions: Jeremiah Admin]]  |  [[:en:ulb:ep:24-jer.usfm|Jeremiah ULB]]  |  [[:en:udb:ep:24-jer.usfm|Jeremiah UDB]]  |
+|  [[:en:bible:admin-reports:questions-comprehension:deu|Translation Questions: Deuteronomy Admin]]  |  [[:en:ulb:ep:05-deu.usfm|Deuteronomy ULB]]  |  [[:en:udb:ep:05-deu.usfm|Deuteronomy UDB]]  |
+|  [[:en:bible:admin-reports:questions-comprehension:num|Translation Questions: Numbers Admin]]  |  [[:en:ulb:ep:04-num.usfm|Numbers ULB]]  |  [[:en:udb:ep:04-num.usfm|Numbers UDB]]  |
+|  [[:en:bible:admin-reports:questions-comprehension:job|Translation Questions: Job Admin]]  |  [[:en:udb:ep:18-job.usfm|Job ULB]]  |  [[:en:ulb:ep:18-job.usfm|Job UDB]]  |
+|  [[:en:bible:admin-reports:questions-comprehension:2ch|Translation Questions: 2 Chronicles Admin]]  |  [[:en:ulb:ep:14-2ch.usfm|2 Chronicle ULB]]  |  [[:en:udb:ep:14-2ch.usfm|2 Chronicles UDB]]  |
 
 ==== Helpful Links ====
 
   * [[http://biblehub.com|http://biblehub.com]]
-  * [[:en:bible:notes:psa:home]]
-
+  * [[:en:bible:notes:psa:home|Psalms Links:]]
 ~~DISCUSSION~~
+
+\\
