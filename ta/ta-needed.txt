@@ -51,25 +51,19 @@ The following lists are the pages that need editing. The steps through the membe
 ===== Chunks Assignments: =====
 
 
-^  Draft  ^  Review  ^  Check ^ 
+^ Draft  ^ Review  ^ Check ^ 
 |{{door43pages @en:ta:workbench -q="\{\{tag>[^}]*draft[^}]*\}\}" -r -showcount -title -simpleLineBreak -fontsize="80%"}} |{{door43pages @en:ta:workbench -q="\{\{tag>[^}]*review[^}]*\}\}" -r -showcount -title -simpleLineBreak -fontsize="80%"}} |{{door43pages @en:ta:workbench -q="\{\{tag>[^}]*check[^}]*\}\}" -r -showcount -title -simpleLineBreak -fontsize="80%"}} |
 
 \\
 
 
-^  Susan ^ Chris ^
+^ Susan ^ Chris ^
 |{{door43pages @en:ta:workbench -q="\{\{tag>[^}]*Susan[^}]*\}\}" -r -showcount -title -simpleLineBreak -fontsize="80%"}} |{{door43pages  @en:ta:workbench -q="\{\{tag>[^}]*Chris[^}]*\}\}" -r -showcount -title -simpleLineBreak -fontsize="80%"}} |
 
 \\
 ~~NOCACHE~~
 
   * [[en:bible:admin-reports:check-tags-notes|Check Tags]]
-
-
-----
-
-Chris needs to work on these pages:
-{{door43pages @en:ta: -q="\{\{tag>[^}]*chris[^}]*\}\}" -r -showcount -title -simpleLineBreak}} 
 
 
 
