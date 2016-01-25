@@ -89,12 +89,6 @@ These pages need information added by **Jody**:
 {{door43pages @en:ta:workbench -q="\{\{tag>[^}]-*epady[^}]*\}\}" -r -showcount -title -simpleLineBreak}} 
 
 
-==== Edited tA Pages to Review ====
-
-The following pages are tagged as "review" and need final review and then to be published:
-
-{{door43pages @en:ta:workbench -q="\{\{tag>[^}]*review[^}]*\}\}" -r -showcount -title -simpleLineBreak}} 
-
 
 ==== Formatting Standard for "Topic" Page: ====
 
