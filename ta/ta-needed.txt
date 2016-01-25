@@ -61,9 +61,7 @@ The following lists are the pages that need editing. The steps through the membe
 |{{door43pages @en:ta:workbench -q="\{\{tag>[^}]*Susan[^}]*\}\}" -r -showcount -title -simpleLineBreak -fontsize="80%"}} |{{door43pages  @en:ta:workbench -q="\{\{tag>[^}]*Chris[^}]*\}\}" -r -showcount -title -simpleLineBreak -fontsize="80%"}} |
 
 \\
-~~NOCACHE~~
 
-  * [[en:bible:admin-reports:check-tags-notes|Check Tags]]
 
 
 
