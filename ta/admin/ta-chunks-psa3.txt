@@ -2,7 +2,9 @@
 
 
 {{door43pages @en:bible:notes:psa -q="\{\{tag>(?=[^}]*publish)(?=[^}]*book3)[^}]*\}\}" -q="\[\[:en:ta" -r -showcount -title -simpleLineBreak  -nbCol=4 }} 
+and
 
+{{door43pages @en:bible:notes:psa -q="\{\{tag>(?=[^}]*publish)(?=[^}]*book3)[^}]*\}\}" -q="\[\[en:ta" -r -showcount -title -simpleLineBreak  -nbCol=4 }}
 
 
 Return to [[en:ta:ta-chunks]]
