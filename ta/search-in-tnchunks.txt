@@ -1,0 +1,15 @@
+===== How to do a Search in Notes Pages =====
+
+One way of finding examples for translationAcademy pages is to search the notes for chunks that have the topic in named in the notes. Here is the code for it.
+
+{door43pages @:en:bible:notes -r -q="TEXT" -exclude:home -simpleLineBreak -title -fontsize="90%"}
+
+
+=== How to use this ===
+Click the edit button. \\
+Change the word TEXT to the word or phrase you want to find. \\
+Add additional curly brackets at beginning and end.\\ 
+Click the preview button to see the links. \\
+If you want, copy the links to the discussion section of the page you're working on. \\
+Click the Cancel button on this page, so someone else can use it.
+
