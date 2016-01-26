@@ -5,8 +5,8 @@
 ^Old Testament ^  ^
 |**[[:en:bible:notes:jdg:home|Judges]]**   |**[[:en:bible:notes:job:home|Job]]** |
 |**[[:en:bible:notes:2sa:home|2 Samuel]]** |**[[:en:bible:notes:psa:home|Psalms]]** |
-|**[[:en:bible:notes:2ki:home|2 Kings]]**  |**[[:en:bible:notes:jer:home|Jeremiah]]** |
-|**[[:en:bible:notes:1ch:home|1 Chronicles]]** |  |
+|**[[:en:bible:notes:1ch:home|1 Chronicles]]** |**[[:en:bible:notes:jer:home|Jeremiah]]** |
+
 
 
 
@@ -14,7 +14,7 @@
 
 ==== Books with Completed translationNotes (mmyy) ====
 
-|[[:en:bible:notes:gen:01:01|Genesis]] 8/15 |   |[[:en:bible:notes:isa:01:01|Isaiah]] 11/15  |[[:en:bible:notes:nam:01:01|Nahum]] 8/15|[[:en:bible:notes:rom:01:01|Romans]] 7/15  |[[:en:bible:notes:tit:01:01|Titus]] 11/14|
+|[[:en:bible:notes:gen:01:01|Genesis]] 8/15 |[[:en:bible:notes:2ki:01:01|2 Kings]] 1/16 |[[:en:bible:notes:isa:01:01|Isaiah]] 11/15  |[[:en:bible:notes:nam:01:01|Nahum]] 8/15|[[:en:bible:notes:rom:01:01|Romans]] 7/15  |[[:en:bible:notes:tit:01:01|Titus]] 11/14|
 |[[:en:bible:notes:exo:01:01|Exodus]] 10/15 |   |   |[[:en:bible:notes:hab:01:01|Habakkuk]] 8/15|[[:en:bible:notes:1co:01:01|1 Corinthians]] 11/15|[[:en:bible:notes:phm:01:01|Philemon]] 6/15|
 |[[:en:bible:notes:lev:01:01|Leviticus]] 1/16 |[[:en:bible:notes:2ch:01:01|2 Chronicles]] 1/16 |[[:en:bible:notes:lam:01:01|Lamentations]] 1/16   |[[:en:bible:notes:zep:01:01|Zephaniah]] 10/15|[[:en:bible:notes:2co:01:01|2 Corinthians]] 10/15|[[:en:bible:notes:heb:01:01|Hebrews]] 9/15  |
 |[[:en:bible:notes:num:01:01|Numbers]] 1/16 |[[:en:bible:notes:ezr:01:01|Ezra]] 12/15|[[:en:bible:notes:ezk:01:01|Ezekiel]] 10/15|[[:en:bible:notes:hag:01:01|Haggai]] 10/15|[[:en:bible:notes:gal:01:01|Galatians]] 4/15  |[[:en:bible:notes:jas:01:01|James]] 7/15|
@@ -28,7 +28,7 @@
 
 ==== Books with Completed translationWords (1000+) ====
 
-|Genesis |   |Isaiah|Nahum|Romans|Titus|
+|Genesis |2 Kings |Isaiah|Nahum|Romans|Titus|
 |Exodus |  |  |Habakkuk|1 Corinthians|Philemon|
 |Leviticus |2 Chronicles |Lamentations |Zephaniah|2 Corinthians|Hebrews|
 |Numbers |Ezra |Ezekiel|Haggai|Galatians|James|
