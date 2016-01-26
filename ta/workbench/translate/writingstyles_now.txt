@@ -2,6 +2,26 @@
 
 ===== Description =====
 
+Definition\\
+Examples(s)\\
+Purpose (optional)\\
+
+=== Reason this could be a translation issue (recommended) ===
+=== Translation Principles (optional) ===
+
+
+===== Examples from the Bible =====
+
+
+===== Translation Strategies =====
+If your language can use x consider using it. These strategies are for if your language cannot use x.
+
+
+===== Examples of Translation Strategies Applied =====
+----
+
+===== Description =====
+
 The word 'now' is used to mark a break in a storyline or teaching. 
 In many languages the word is used to:
   * Tell background information about someone or something in the story or teaching.
@@ -13,8 +33,9 @@ In many languages the word is used to:
 
 
 ===== Examples from the Bible: =====
+----
 
 
-~~DISCUSSION~~{{tag>draft epadn}}
+{{tag>draft epadn}} ~~DISCUSSIONS~~
 
-\\
+~~NOCACHE~~
