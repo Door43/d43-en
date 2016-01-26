@@ -2,6 +2,26 @@
 
 ===== Description =====
 
+Definition\\
+Examples(s)\\
+Purpose (optional)\\
+
+=== Reason this could be a translation issue (recommended) ===
+=== Translation Principles (optional) ===
+
+
+===== Examples from the Bible =====
+
+
+===== Translation Strategies =====
+If your language can use x consider using it. These strategies are for if your language cannot use x.
+
+
+===== Examples of Translation Strategies Applied =====
+----
+
+===== Description =====
+
 The word 'therefore' is used to mark the conclusion or reason for a discussion.  
 
 
@@ -10,7 +30,10 @@ The word 'therefore' is used to mark the conclusion or reason for a discussion.
 Use a word in your language that will alert the reader that the following information is a result of what they just read or heard.
 
 ===== Examples from the Bible: =====
+----
 
 
 
-~~DISCUSSION~~{{tag>draft epadn}}
+{{tag>draft epadn}} ~~DISCUSSION~~
+
+~~NOCACHE~~
