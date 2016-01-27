@@ -490,6 +490,9 @@ edge [arrowsize=1.4];
 "translate_alphabet" [fillcolor="#99ff99"]
 "choose_team" -> "translate_alphabet"
 "translate_source_text" -> "translate_alphabet"
+"translate_chapverse" [fillcolor="#99ff99"]
+"translate_process" -> "translate_chapverse"
+"translate_source_text" -> "translate_chapverse"
 "translate_discover" [fillcolor="#99ff99"]
 "translate_process" -> "translate_discover"
 "translate_dynamic" [fillcolor="#99ff99"]
