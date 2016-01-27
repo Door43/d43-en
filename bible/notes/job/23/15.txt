@@ -54,17 +54,19 @@
  
 ===== Translation Notes: =====
 
-Job continues speaking.
+Job continues speaking. Each verse in this chunk has the form of a parallelism to emphasize the main point Job makes there. (See: [[:en:ta:vol2:translate:figs_parallelism]])
 
   * **For God has made my heart weak** - AT: "For God has made me weak" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
   * **the Almighty has terrified me** - This means the same as the first part of the sentence. They emphasize how scared Job is of God. (See: [[:en:ta:vol2:translate:figs_parallelism]])
-  * **It is not that I have been cut off by darkness, nor does the thick darkness cover my face** - AT: "I am not afraid of the darkness that surrounds me. It is God who frightens me" (See: [[:en:ta:vol1:translate:figs_explicit]] and [[:en:ta:vol2:translate:figs_activepassive]])
+  * **It is not that I have been cut off by darkness** - "I have not been destroyed by darkness" or "It is not darkness that has cut me off" AT: "God has cut me off, not the darkness" (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **nor does the thick darkness cover my face** - AT: "nor am I cut off because the thick darkness covers my face" or "nor does the thick darkness cover my face, but God has cut me off" (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **my face** - AT: "me" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
 
 ===== Links: =====
 
   * **[[:en:bible:questions:comprehension:job:23|Job Chapter 23 Comprehension Questions]]**
 **[[:en:bible:notes:job:23:13|<<]] | [[:en:bible:notes:job:24:01|>>]]**
 
-~~DISCUSSION~~{{tag>review}}
+~~DISCUSSION~~{{tag>publish}}
 
 ~~NOCACHE~~
