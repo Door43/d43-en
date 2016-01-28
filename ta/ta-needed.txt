@@ -32,7 +32,7 @@ The following lists are the pages that need editing. The steps through the membe
       - Confirm that all Bible text is in Bold and from the ULB. 
       - Confirm that the ULB text does apply and that the descriptions/suggestions/strategies align with the ULB text. (See: [[en:ta:search-in-tnchunks]] for help with finding examples.)
     - Add information as needed, using [[en:ta:jitl-page-template]].
-    - Change the 'draft' tag to 'review'.
+    - Change the 'draftxx' tag to 'review'.
   - Susan will review the page and may consult with the Content Person.
     - Change the 'review' tag to 'check.'
   - The Proofers will:
@@ -49,16 +49,23 @@ The following lists are the pages that need editing. The steps through the membe
     - Contact Perry for final approval.
 ===== Chunks Assignments: =====
 
+==== Step One  ====
+{{door43pages @en:ta:workbench -q="\{\{tag>[^}]*draft[^}]*\}\}" -r -showcount -title -simpleLineBreak -fontsize="100%"}} 
 
-^ Draft John A  ^ Review  ^ Susan ^ 
-|{{door43pages @en:ta:workbench -q="\{\{tag>[^}]*draftja[^}]*\}\}" -r -showcount -title -simpleLineBreak -fontsize="80%"}} |{{door43pages @en:ta:workbench -q="\{\{tag>[^}]*review[^}]*\}\}" -r -showcount -title -simpleLineBreak -fontsize="80%"}} |{{door43pages @en:ta:workbench -q="\{\{tag>[^}]*susan[^}]*\}\}" -r -showcount -title -simpleLineBreak -fontsize="80%"}} |
+==== Drafts assigned to: Carol, Henry, Harry, John, or Susan  ====
+
+^ Pages for Carol ^ Pages for Henry ^ Pages for Harry ^ Pages for John A  ^ Pages for Susan ^ 
+|{{door43pages @en:ta:workbench -q="\{\{tag>[^}]*draftcb[^}]*\}\}" -r -showcount -title -simpleLineBreak -fontsize="80%"}} |{{door43pages @en:ta:workbench -q="\{\{tag>[^}]*drafthw[^}]*\}\}" -r -showcount -title -simpleLineBreak -fontsize="80%"}} |{{door43pages @en:ta:workbench -q="\{\{tag>[^}]*drafthh[^}]*\}\}" -r -showcount -title -simpleLineBreak -fontsize="80%"}} |{{door43pages @en:ta:workbench -q="\{\{tag>[^}]*draftja[^}]*\}\}" -r -showcount -title -simpleLineBreak -fontsize="80%"}} |{{door43pages @en:ta:workbench -q="\{\{tag>[^}]*draftsq[^}]*\}\}" -r -showcount -title -simpleLineBreak -fontsize="80%"}} |
 
 \\
+==== Step Three ====
 
+{{door43pages @en:ta:workbench -q="\{\{tag>[^}]*review[^}]*\}\}" -r -showcount -title -simpleLineBreak -fontsize="100%"}} 
 
-^ Drafts  ^ Check ^ Chris ^
+==== Step Four ====
+^ Check ^ Susan ^ Chris ^
 
-|{{door43pages @en:ta:workbench -q="\{\{tag>[^}]*draft[^}]*\}\}" -r -showcount -title -simpleLineBreak -fontsize="80%"}} |{{door43pages @en:ta:workbench -q="\{\{tag>[^}]*check[^}]*\}\}" -r -showcount -title -simpleLineBreak -fontsize="80%"}} |{{door43pages  @en:ta:workbench -q="\{\{tag>[^}]*Chris[^}]*\}\}" -r -showcount -title -simpleLineBreak -fontsize="80%"}} |
+|{{door43pages @en:ta:workbench -q="\{\{tag>[^}]*check[^}]*\}\}" -r -showcount -title -simpleLineBreak -fontsize="80%"}} |{{door43pages @en:ta:workbench -q="\{\{tag>[^}]*susan[^}]*\}\}" -r -showcount -title -simpleLineBreak -fontsize="80%"}} |{{door43pages  @en:ta:workbench -q="\{\{tag>[^}]*chris[^}]*\}\}" -r -showcount -title -simpleLineBreak -fontsize="80%"}} |
 
 \\
 
