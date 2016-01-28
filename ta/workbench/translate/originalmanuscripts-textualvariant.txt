@@ -1,19 +1,34 @@
-====== Textual Variant ======
+===== Textual Variants =====
 
-A textual variant happens when a translator makes changes to the original text.
+This module answers the question: Why does the ULB have missing or added verses?\\
+Before you start this module have you learned about:
+  * [[en:ta:vol1:translate:translate_source_text|Choosing a Source Text]]
 
-===== Translation Suggestions =====
+==== Explanation ====
 
-The role of the translator is to remain true to the text. Do not add anything that is not in the original text and do not delete anything from the original text.
+Some people who were making copies of Bible books added words or even whole sentences into the text that they copied. Sometimes this was to explain what was in the text and sometimes it was to add to the ideas in the text, often using phrases from other places in the Bible. Sometimes this happened accidentally, as the person copied something twice or included in the text a comment that someone else had written beside the text. Sometimes words were left out by accident, as well. But over all, the Bible books have been copied with great accuracy and faithfulness over many, many years. By comparing many different copies with each other, Bible scholars can decide which copies are accurate and which ones have errors.
 
-===== Examples from the Bible =====
+Sometimes there will be a footnote with the ULB that says something like, “some ancient authorities add a verse here.” We recommend that the translator include this footnote when translating the passages where it appears in the ULB. For example, there will be a note like this at Mark 16:9-20 and at verses such as Acts 8:37 and 1 John 5:7-8. This means that some copies of the Bible have these verses, but others that are older and considered to be accurate do not.
+"
+The Bible student needs to be careful to look at the history of the added words and what Bible scholars say about them in order to determine whether they are likely to be from the original text. This requires a great deal of study. 
 
-Hebrews 2:9 But we see Jesus, who was made a little lower than the angels for the suffering of death, crowned with glory and honor; that he **by the grace of God ** should taste death for every man. 
+The verses in the New Testament that many scholars believe may not be original are these:
+    Matthew 17:21; 18:11; 23:14
+    Mark 7:16; 9:44,46; 11:26; 15:28; 16:9-20
+    Luke 17:36; 23:17
+    John 5:3b-4, 7:53-8:11
+    Acts 8:37; 15:34; 24:6b-8a; 28:29
+    Romans 16:24
+    1 John 5:7-8
 
-Hebrews 2:9 But we see Jesus, who was made a little lower than the angels for the suffering of death, crowned with glory and honor; that he **apart from God ** should taste death for every man. 
+==== Translation Suggestions ====
 
-Matt 5:22 But I say unto you, That whosoever is angry with his brother shall be in danger of the judgment : and whosoever shall say to his brother, Raca, shall be in danger of the council: but whosoever shall say , Thou fool, shall be in danger of hell fire. 
+We recommend that the Bible translator follow these guidelines when translating such passages:
+  - Translators have a choice about which manuscripts to follow. They can translate as the ULB does, or if they prefer other Bibles that follow other manuscripts, they may follow them.
+  - If translators follow the ULB, translating the verses that are there and not translating verses that are not in the ULB, they should also translate the footnotes that the ULB provides in those places.
+  - If translators follow other manuscripts (for example, if they translate Acts 8:37 as part of their main text although the ULB does not include that verse), they may need to write their footnote differently, for example, “Some ancient authorities omit verse 37.”
 
-Matt 5:22 But I say unto you, That whosoever is angry with his brother **without cause** shall be in danger of the judgment : and whosoever shall say to his brother, Raca, shall be in danger of the council: but whosoever shall say , Thou fool, shall be in danger of hell fire. 
+
+----
 
 {{tag>draft epadn}}~~DISCUSSIONS~~
