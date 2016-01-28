@@ -527,7 +527,6 @@ edge [arrowsize=1.4];
 "translation_guidelines" -> "translate_manual"
 "finding_answers" -> "translate_manual"
 "translate_manuscripts" [fillcolor="#99ff99"]
-"translate_process" -> "translate_manuscripts"
 "translate_source_text" -> "translate_manuscripts"
 "translate_names" [fillcolor="#99ff99"]
 "translate_unknown" -> "translate_names"
@@ -557,7 +556,6 @@ edge [arrowsize=1.4];
 "translate_terms" [fillcolor="#99ff99"]
 "translate_manual" -> "translate_terms"
 "translate_textvariants" [fillcolor="#99ff99"]
-"translate_manuscripts" -> "translate_textvariants"
 "translate_source_text" -> "translate_textvariants"
 "translate_tform" [fillcolor="#99ff99"]
 "translate_dynamic" -> "translate_tform"
