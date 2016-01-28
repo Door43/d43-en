@@ -50,8 +50,8 @@ The following lists are the pages that need editing. The steps through the membe
 ===== Chunks Assignments: =====
 
 
-^ Draft  ^ Review  ^ Susan ^ 
-|{{door43pages @en:ta:workbench -q="\{\{tag>[^}]*draft[^}]*\}\}" -r -showcount -title -simpleLineBreak -fontsize="80%"}} |{{door43pages @en:ta:workbench -q="\{\{tag>[^}]*review[^}]*\}\}" -r -showcount -title -simpleLineBreak -fontsize="80%"}} |{{door43pages @en:ta:workbench -q="\{\{tag>[^}]*susan[^}]*\}\}" -r -showcount -title -simpleLineBreak -fontsize="80%"}} |
+^ Draft John A  ^ Review  ^ Susan ^ 
+|{{door43pages @en:ta:workbench -q="\{\{tag>[^}]*draftja[^}]*\}\}" -r -showcount -title -simpleLineBreak -fontsize="80%"}} |{{door43pages @en:ta:workbench -q="\{\{tag>[^}]*review[^}]*\}\}" -r -showcount -title -simpleLineBreak -fontsize="80%"}} |{{door43pages @en:ta:workbench -q="\{\{tag>[^}]*susan[^}]*\}\}" -r -showcount -title -simpleLineBreak -fontsize="80%"}} |
 
 \\
 
