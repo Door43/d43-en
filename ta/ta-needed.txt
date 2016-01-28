@@ -63,9 +63,9 @@ The following lists are the pages that need editing. The steps through the membe
 {{door43pages @en:ta:workbench -q="\{\{tag>[^}]*review[^}]*\}\}" -r -showcount -title -simpleLineBreak -fontsize="100%"}} 
 
 ==== Step Four ====
-^ Check ^ Susan ^ Chris ^
+^ Check  ^ Susan  ^ Chris  ^
 
-|{{door43pages @en:ta:workbench -q="\{\{tag>[^}]*check[^}]*\}\}" -r -showcount -title -simpleLineBreak -fontsize="80%"}} |{{door43pages @en:ta:workbench -q="\{\{tag>[^}]*susan[^}]*\}\}" -r -showcount -title -simpleLineBreak -fontsize="80%"}} |{{door43pages  @en:ta:workbench -q="\{\{tag>[^}]*chris[^}]*\}\}" -r -showcount -title -simpleLineBreak -fontsize="80%"}} |
+|{{door43pages @en:ta:workbench -q="\{\{tag>[^}]*check[^}]*\}\}" -r -showcount -title -simpleLineBreak -fontsize="80%"}} |{{door43pages @en:ta:workbench -q="\{\{tag>[^}]*susan[^}]*\}\}" -r -showcount -title -simpleLineBreak -fontsize="80%"}}   |{{door43pages  @en:ta:workbench -q="\{\{tag>[^}]*chris[^}]*\}\}" -r -showcount -title -simpleLineBreak -fontsize="80%"}} |
 
 \\
 
