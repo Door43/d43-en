@@ -9,24 +9,7 @@ edge [arrowsize=1.4];
 "Checking" [fillcolor="#9999ff"]
 "Technology" [fillcolor="#ffff99"]
 "Process" [fillcolor="#99ffff"]
-"AUDIO MANUAL" [fillcolor="#ff99ff"]
-"GATEWAY LANGUAGES MANUAL" [fillcolor="#cccccc"]
-"audio_software" [fillcolor="#ff99ff"]
-"AUDIO MANUAL" -> "audio_software"
-"audio_software_file_renaming" [fillcolor="#ff99ff"]
-"AUDIO MANUAL" -> "audio_software_file_renaming"
-"audio_software_file_sharing" [fillcolor="#ff99ff"]
-"AUDIO MANUAL" -> "audio_software_file_sharing"
-"audio_software_format_conversion" [fillcolor="#ff99ff"]
-"AUDIO MANUAL" -> "audio_software_format_conversion"
-"audio_software_metadata_encoding" [fillcolor="#ff99ff"]
-"AUDIO MANUAL" -> "audio_software_metadata_encoding"
-"audio_software_recording_editing" [fillcolor="#ff99ff"]
-"AUDIO MANUAL" -> "audio_software_recording_editing"
-"standards_audio_excellence" [fillcolor="#ff99ff"]
-"AUDIO MANUAL" -> "standards_audio_excellence"
-"toc_audiovol2" [fillcolor="#ff99ff"]
-"AUDIO MANUAL" -> "toc_audiovol2"
+"GATEWAY LANGUAGES MANUAL" [fillcolor="#ff99ff"]
 "acceptable" [fillcolor="#9999ff"]
 "clear" -> "acceptable"
 "natural" -> "acceptable"
@@ -136,28 +119,28 @@ edge [arrowsize=1.4];
 "vol2_intro" -> "vol2_steps"
 "vol2_things_to_check" [fillcolor="#9999ff"]
 "vol2_steps" -> "vol2_things_to_check"
-"gl_Notes" [fillcolor="#cccccc"]
+"gl_Notes" [fillcolor="#ff99ff"]
 "gl_adaptULB" -> "gl_Notes"
 "gl_ULB" -> "gl_Notes"
-"gl_Questions" [fillcolor="#cccccc"]
+"gl_Questions" [fillcolor="#ff99ff"]
 "gl_Words" -> "gl_Questions"
 "gl_Notes" -> "gl_Questions"
 "gl_ULB" -> "gl_Questions"
-"gl_UDB" [fillcolor="#cccccc"]
+"gl_UDB" [fillcolor="#ff99ff"]
 "gl_strategy" -> "gl_UDB"
 "gl_translate" -> "gl_UDB"
 "gl_ULB" -> "gl_UDB"
-"gl_ULB" [fillcolor="#cccccc"]
+"gl_ULB" [fillcolor="#ff99ff"]
 "gl_strategy" -> "gl_ULB"
 "gl_translate" -> "gl_ULB"
-"gl_Words" [fillcolor="#cccccc"]
+"gl_Words" [fillcolor="#ff99ff"]
 "gl_Notes" -> "gl_Words"
 "gl_ULB" -> "gl_Words"
 "gl_adaptULB" -> "gl_Words"
-"gl_adaptULB" [fillcolor="#cccccc"]
+"gl_adaptULB" [fillcolor="#ff99ff"]
 "gl_UDB" -> "gl_adaptULB"
 "gl_translate" -> "gl_adaptULB"
-"gl_translate" [fillcolor="#cccccc"]
+"gl_translate" [fillcolor="#ff99ff"]
 "gl_strategy" -> "gl_translate"
 "open_license" -> "gl_translate"
 "finding_answers" [fillcolor="#ff9999"]
@@ -180,11 +163,73 @@ edge [arrowsize=1.4];
 "statement_of_faith" -> "translation_guidelines"
 "uw_intro" [fillcolor="#ff9999"]
 "ta_intro" -> "uw_intro"
+"about_audio_recording" [fillcolor="#99ffff"]
+"Process" -> "about_audio_recording"
+"approach_to_audio" [fillcolor="#99ffff"]
+"Process" -> "approach_to_audio"
+"audio_acoustic_principles" [fillcolor="#99ffff"]
+"Process" -> "audio_acoustic_principles"
+"audio_acoustical_treatments" [fillcolor="#99ffff"]
+"Process" -> "audio_acoustical_treatments"
+"audio_assessing_recording_space" [fillcolor="#99ffff"]
+"Process" -> "audio_assessing_recording_space"
+"audio_best_practices" [fillcolor="#99ffff"]
+"Process" -> "audio_best_practices"
+"audio_field_environment" [fillcolor="#99ffff"]
+"Process" -> "audio_field_environment"
+"audio_introduction" [fillcolor="#99ffff"]
+"Process" -> "audio_introduction"
+"audio_logistics" [fillcolor="#99ffff"]
+"Process" -> "audio_logistics"
+"audio_project_setup" [fillcolor="#99ffff"]
+"Process" -> "audio_project_setup"
+"audio_quality_standards" [fillcolor="#99ffff"]
+"Process" -> "audio_quality_standards"
+"audio_recording_environment" [fillcolor="#99ffff"]
+"Process" -> "audio_recording_environment"
+"audio_setup_content" [fillcolor="#99ffff"]
+"Process" -> "audio_setup_content"
+"audio_setup_team" [fillcolor="#99ffff"]
+"Process" -> "audio_setup_team"
 "audio_software" [fillcolor="#99ffff"]
 "Process" -> "audio_software"
+"audio_software_file_renaming" [fillcolor="#99ffff"]
+"Process" -> "audio_software_file_renaming"
+"audio_software_file_sharing" [fillcolor="#99ffff"]
+"Process" -> "audio_software_file_sharing"
+"audio_software_format_conversion" [fillcolor="#99ffff"]
+"Process" -> "audio_software_format_conversion"
+"audio_software_metadata_encoding" [fillcolor="#99ffff"]
+"Process" -> "audio_software_metadata_encoding"
+"audio_software_recording_editing" [fillcolor="#99ffff"]
+"Process" -> "audio_software_recording_editing"
+"audio_standard_characteristics" [fillcolor="#99ffff"]
+"Process" -> "audio_standard_characteristics"
+"audio_standard_file_naming" [fillcolor="#99ffff"]
+"Process" -> "audio_standard_file_naming"
+"audio_standard_format" [fillcolor="#99ffff"]
+"Process" -> "audio_standard_format"
+"audio_standard_license" [fillcolor="#99ffff"]
+"Process" -> "audio_standard_license"
+"audio_standard_style" [fillcolor="#99ffff"]
+"Process" -> "audio_standard_style"
+"audio_studio_environment" [fillcolor="#99ffff"]
+"Process" -> "audio_studio_environment"
+"audio_the_checker" [fillcolor="#99ffff"]
+"Process" -> "audio_the_checker"
+"audio_the_coordinator" [fillcolor="#99ffff"]
+"Process" -> "audio_the_coordinator"
+"audio_the_narrator" [fillcolor="#99ffff"]
+"Process" -> "audio_the_narrator"
+"audio_the_recordist" [fillcolor="#99ffff"]
+"Process" -> "audio_the_recordist"
+"audio_vision_purpose" [fillcolor="#99ffff"]
+"Process" -> "audio_vision_purpose"
 "door43_translation" [fillcolor="#99ffff"]
 "pretranslation_training" -> "door43_translation"
 "setup_door43" -> "door43_translation"
+"excellence_in_audio" [fillcolor="#99ffff"]
+"Process" -> "excellence_in_audio"
 "getting_started" [fillcolor="#99ffff"]
 "process_manual" -> "getting_started"
 "intro_publishing" [fillcolor="#99ffff"]
@@ -220,6 +265,12 @@ edge [arrowsize=1.4];
 "intro_share" -> "share_published"
 "share_unpublished" [fillcolor="#99ffff"]
 "intro_share" -> "share_unpublished"
+"simplicity_in_audio" [fillcolor="#99ffff"]
+"Process" -> "simplicity_in_audio"
+"skills_training_in_audio" [fillcolor="#99ffff"]
+"Process" -> "skills_training_in_audio"
+"toc_audiovol2" [fillcolor="#99ffff"]
+"Process" -> "toc_audiovol2"
 "toc_processvol1" [fillcolor="#99ffff"]
 "Process" -> "toc_processvol1"
 "toc_processvol1_2" [fillcolor="#99ffff"]
@@ -478,6 +529,9 @@ edge [arrowsize=1.4];
 "resources_links" [fillcolor="#99ff99"]
 "translate_help" -> "resources_links"
 "resources_intro" -> "resources_links"
+"resources_porp" [fillcolor="#99ff99"]
+"translate_help" -> "resources_porp"
+"resources_intro" -> "resources_porp"
 "resources_types" [fillcolor="#99ff99"]
 "translate_help" -> "resources_types"
 "resources_intro" -> "resources_types"
