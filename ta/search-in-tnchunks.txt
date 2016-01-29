@@ -19,4 +19,4 @@ Click the Cancel button on this page, so someone else can use it.
 
 ==== TA pages =====
 
-{door43pages @:en:ta:ta-working -r -q=“TEXT” -exclude:home -simpleLineBreak -title -fontsize=“90%”}
+{{door43pages @:en:ta -r -q="text" -exclude:home -simpleLineBreak -title -fontsize="90%"}}
