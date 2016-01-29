@@ -1,4 +1,6 @@
-===== How to do a Search in Notes Pages =====
+===== How to do a Search in Notes and TA Pages =====
+
+==== Notes Pages ==== 
 
 One way of finding examples for translationAcademy pages is to search the notes for chunks that have the topic named in the notes. Here is the code for search in the notes pages.
 
@@ -13,3 +15,7 @@ Click the Preview button to see the links. \\
 If you want, copy the links to the discussion section of the page you're working on. \\
 Click the Cancel button on this page, so someone else can use it.
 
+
+==== TA pages =====
+
+{door43pages @:en:ta -r -q=“TEXT” -exclude:home -simpleLineBreak -title -fontsize=“90%”}
