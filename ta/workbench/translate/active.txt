@@ -1,16 +1,25 @@
 ====== Active or Passive ======
-This module answers the question: What do active and passive mean, and what do I do about passive clauses?\\
+This module answers the question: What do active and passive mean, and how do I translate passive sentences?\\
 Before you start this module have you learned about:
   * [[en:ta:vol2:translate:figs_sentences]]
+
+Some languages have both active and passive sentences. In active sentences, the subject is the one that does the action. In passive sentences the subject is the one that the action is done to. Here are some examples with their subjects underlined: \\ 
+**ACTIVE**: "__My father__ built the house in 2010." \\
+**PASSIVE**: __The house__  was built by my father in 2010. \\ 
+**PASSIVE**: "__The house__ was built in 2010." \\ 
+
+In the active sentence above, the subject is the one that did the building--"My father". In the passive sentences above, the subject is the thing that the father built--"The house".   The first passive sentence tells who did the building with the phrase "by my father," but 
+
+An example of an active sentence is  The subject of the sentence is "My father" and he is the one who did the action. In passive sentences, the actions is done to the subject and the one who does the action is not always mentioned, as in "The house was built in 2001. In this sentence, the subject is ""the house" and this sentence does not tell who built it. This is a translation issue because some languages do not have passive sentences
 
 ===== Description =====
 
 
-Some languages have both the active and passive forms of speech.
+Some languages have both active and passive forms of sentences.
   * In the **ACTIVE** form, the subject does the action and is always mentioned.
-  * In the **PASSIVE**  form, the action is done to the subject and the one who does the action is //not always//  mentioned.
+  * In the **PASSIVE** form, the action is done to the subject and the one who does the action is //not always//  mentioned.
 
-In the examples of active and passive sentences below, we have underlined the subject \\
+In the examples of active and passive sentences below, we have underlined the subject. \\
 **ACTIVE**: __My father__  built the house in 2010. \\ 
 **PASSIVE**: __The house__  was built by my father in 2010. \\ 
 **PASSIVE**: __The house__  was built in 2010. (This does not tell who did the action.)
