@@ -4,8 +4,9 @@
 
 One way of finding examples for translationAcademy pages is to search the notes for chunks that have the topic named in the notes. Here is the code for search in the notes pages.
 
-{door43pages @:en:bible:notes -r -q="TEXT" -exclude:home -simpleLineBreak -title -fontsize="90%"}
-
+<code>
+{{door43pages @:en:bible:notes -r -q="TEXT" -exclude:home -simpleLineBreak -title -fontsize="90%"}}
+</code>
 
 === How to use this code===
 Click the edit button on this page. \\
