@@ -4,17 +4,17 @@
 
 One way of finding examples for translationAcademy pages is to search the notes for chunks that have the topic named in the notes. Here is the code for search in the notes pages.
 
-<code>
-{{door43pages @:en:bible:notes -r -q="TEXT" -exclude:home -simpleLineBreak -title -fontsize="90%"}}
-</code>
-
 === How to use this code===
 Click the edit button on this page. \\
-Change the word TEXT to the word or phrase you want to find. \\
-Add additional curly brackets at beginning and end.\\ 
+Change the string TTTT to the word or phrase you want to find. \\
 Click the Preview button to see the links. \\
 If you want, copy the links to the discussion section of the page you're working on. \\
 Click the Cancel button on this page, so someone else can use it.
+
+<code>
+{{door43pages @:en:bible:notes -r -q="TTTT" -exclude:home -simpleLineBreak -title -fontsize="90%"}}
+</code>
+Search Results
 
 
 ==== TA pages =====
