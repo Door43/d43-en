@@ -1,27 +1,10 @@
 ====== Active or Passive ======
-===== Description =====
-
-Definition\\
-Examples(s)\\
-Purpose (optional)\\
-
-=== Reason this could be a translation issue (recommended) ===
-=== Translation Principles (optional) ===
-
-
-===== Examples from the Bible =====
-
-
-===== Translation Strategies =====
-If your language can use x consider using it. These strategies are for if your language cannot use x.
-
-
-===== Examples of Translation Strategies Applied =====
-
-----
 This module answers the question: What does active or passive mean?\\
 Before you start this module have you learned about:
   * [[en:ta:vol2:translate:figs_grammar|Important Information about English Grammar]]
+
+===== Description =====
+
 
 The English language has both the active and passive forms of speech.
   * In the **ACTIVE**  form, the subject does the action and is always mentioned.
@@ -40,12 +23,20 @@ Examples of Active and Passive Sentences. We have underlined the subject in the 
 ===== Translation Principles Regarding Passive =====
   * Translators whose language does not use passive forms will need to find another way to express the idea. 
   * Translators whose language has passive forms will need to understand why the passive is used in a particular sentence in the Bible and decide whether or not to use a passive form for that purpose in his translation of the sentence.
-===== Translation Suggestions =====
+
+
+===== Examples from the Bible =====
+
+
+===== Translation Strategies =====
 If you decide that it is best to translate without a passive form, then there are three possibilities.
   - Use the same verb in an active sentence and tell who or what did the action.
   - Use the same verb in an active sentence, and do not tell who or what did the action.
   - Use a different verb.
-===== Examples from the Bible of Translations Suggestions =====
+
+===== Examples of Translation Strategies Applied =====
+
+
 1. Use the same verb in an active sentence and tell who did the action.\\
 Passive: //A loaf of bread __was given__ him every day from the street of the bakers.// Jeremiah 37:21
    * __The king's servants gave__  Jeremiah a loaf of bread every day from the street of the bakers. 
