@@ -29,8 +29,11 @@ The following lists are the pages that need editing. The steps through the membe
     - Change the tags to 'draft epadn.'
   - Content Person will:
     - Edit existing information moving content to the appropriate sections.
+      - Check that "This module answers the question" content is appropriate.
       - Check that the "you should have learned about" links are appropriate.
-      - Confirm that all Bible text is in Bold and from the ULB. 
+      - Check the text pasted into the discussion section to see which is more helpful. 
+      - Check the discussion section for issues that may need to be dealt with.
+      - Confirm that all Bible text is in bold and from the ULB. 
       - Confirm that the ULB text does apply and that the descriptions/suggestions/strategies align with the ULB text. (See: [[en:ta:search-in-tnchunks]] for help with finding examples.)
     - Add information as needed, using [[en:ta:jitl-page-template]].
     - Change the 'draftxx' tag to 'review'.
