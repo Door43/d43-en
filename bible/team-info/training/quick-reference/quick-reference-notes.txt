@@ -65,6 +65,12 @@ In a simile something is compared to something else of a different kind in order
 
 {{door43pages @:en:bible:team-info:training:standard-book-notes -r -q="\{\{tag>[^}]*publish[^}]*\}\}" -exclude:home -simpleLineBreak -title}}
 
+===== Taken from the en/obe/home page =====
+==== Does a term need to be in either of these lists? ====
+
+  * [[:en:bible:team-info:training:topics:kt-yes-no|Is a Term an "Important Term"?]]
+  * [[:en:bible:team-info:training:topics:common-words|Common Words]] - If it's on this list, most likely not.
+  * [[:en:bible:admin-reports:obe-admin:obe-reject|OBE: Rejected Terms]] - If it's on this list, no.
 
 {{tag>notes101 discuss}}
 
