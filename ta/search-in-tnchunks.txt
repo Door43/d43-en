@@ -6,12 +6,14 @@ One way of finding examples for translationAcademy pages is to search the notes 
 {{door43pages @:en:bible:notes -r -q="TTTT" -exclude:home -simpleLineBreak -title -fontsize="90%"}}
 </code>
 
+{{door43pages @:en:bible:notes -r -q="TTTT" -exclude:home -simpleLineBreak -title -fontsize="90%"}}
 
 Sometimes you may want search for something on a TA page. Here is the code.
 <code>
 {{door43pages @:en:ta -r -q="TTTT" -exclude:home -simpleLineBreak -title -fontsize="90%"}}
 </code>
 
+{{door43pages @:en:ta -r -q="TTTT" -exclude:home -simpleLineBreak -title -fontsize="90%"}}
 
 === How to use these codes===
 Click the edit button on this page. \\
@@ -19,4 +21,3 @@ Change the string TTTT to the word or phrase you want to find. \\
 Click the Preview button to see the links. \\
 If you want, open the links in other tabs. \\
 Click the Cancel button on this page, so someone else can use the page.
-
