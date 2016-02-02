@@ -175,6 +175,12 @@ edge [arrowsize=1.4];
 "Process" -> "audio_assessing_recording_space"
 "audio_best_practices" [fillcolor="#99ffff"]
 "Process" -> "audio_best_practices"
+"audio_digital_recording_devices" [fillcolor="#99ffff"]
+"Process" -> "audio_digital_recording_devices"
+"audio_equipment_overview" [fillcolor="#99ffff"]
+"Process" -> "audio_equipment_overview"
+"audio_equipment_setup" [fillcolor="#99ffff"]
+"Process" -> "audio_equipment_setup"
 "audio_field_environment" [fillcolor="#99ffff"]
 "Process" -> "audio_field_environment"
 "audio_introduction" [fillcolor="#99ffff"]
@@ -191,6 +197,8 @@ edge [arrowsize=1.4];
 "Process" -> "audio_setup_content"
 "audio_setup_team" [fillcolor="#99ffff"]
 "Process" -> "audio_setup_team"
+"audio_signal_path" [fillcolor="#99ffff"]
+"Process" -> "audio_signal_path"
 "audio_software" [fillcolor="#99ffff"]
 "Process" -> "audio_software"
 "audio_software_file_renaming" [fillcolor="#99ffff"]
@@ -236,6 +244,9 @@ edge [arrowsize=1.4];
 "prechecking_training" -> "intro_publishing"
 "intro_share" [fillcolor="#99ffff"]
 "intro_publishing" -> "intro_share"
+"notepad_translation" [fillcolor="#99ffff"]
+"pretranslation_training" -> "notepad_translation"
+"setup_notepad" -> "notepad_translation"
 "platforms" [fillcolor="#99ffff"]
 "getting_started" -> "platforms"
 "prechecking_training" [fillcolor="#99ffff"]
@@ -254,6 +265,8 @@ edge [arrowsize=1.4];
 "prechecking_training" -> "required_checking"
 "setup_door43" [fillcolor="#99ffff"]
 "platforms" -> "setup_door43"
+"setup_notepad" [fillcolor="#99ffff"]
+"platforms" -> "setup_notepad"
 "setup_team" [fillcolor="#99ffff"]
 "translate_process" -> "setup_team"
 "getting_started" -> "setup_team"
