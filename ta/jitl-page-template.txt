@@ -27,9 +27,9 @@ If your language can use x consider using it. These strategies are for if your l
 ===== Examples of Translation Strategies Applied =====
 A numbered list of examples that match the strategies above. Each strategy should have an example - even if the first strategy is to maintain the  form or figure. Each strategy should have only one  example because of  challenges with the Door43 formatting. \\ 
 1. Copy of the strategy \\ 
-**The ULB  Text in bold [underline words of issue]** (Bible Reference) Explanation of application of strategy 
-"Sample of Bible after strategy is applied." [underline words of issue] 
-for example: 
+  * **The ULB  Text in bold [underline words of issue]** (Bible Reference) Explanation of application of strategy 
+    * "Sample of Bible after strategy is applied." [underline words of issue] 
+
 
 1. Simply put the adjective or relative clause in a separate sentence.  \\ 
   * ** I hate those who serve __worthless idols__ ** (Psalm 31:6)  When David spoke of "worthless idols," he was acknowledging that idols are worthless. He was not distinguishing worthless idols from valuable idols.  \\ 
@@ -39,14 +39,4 @@ for example: 
   * ** I will call on __Yahweh, who is worthy to be praised__**  (2 Samuel 22:4) There is only one Yahweh. The phrase "who is worthy to be praised" gives a reason for calling on Yahweh. This can be shown with the word "because."  \\ 
     * "I will call on Yahweh, because he is worthy to be praised"   
 
-<code>
-<usfm>
-\q First poetry.
-\q1 Second poetry.
-\q2 Third.
-\q1 Fourth.
-</usfm>
-</code>
-  
-    
  
