@@ -88,9 +88,9 @@ Definition\\
 Examples(s)\\
 Purpose (optional)\\
 
-**Reason this is a translation issue**\\
+**Reason this is a translation issue** (recommended)\\
 reason 1\\
-reason 2\\ (recommended)
+reason 2\\ 
 
 === Translation Principles (optional) ===
 
