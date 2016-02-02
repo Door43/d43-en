@@ -3,16 +3,24 @@
 
 ===== Description =====
 
-Definition\\
-Examples(s)\\
-Purpose (optional)\\
+This module answers the question: What is ellipsis?\\
+Before you start this module have you learned about:
+  * [[en:ta:vol1:translate:figs_intro|Figures of Speech]]
 
-=== Reason this could be a translation issue (recommended) ===
-=== Translation Principles (optional) ===
+[[Summary of 100 words or less]]
 
+
+
+**Reason this is a translation issue**\\
+Readers who see incomplete sentences may not be able to supply the missing information.\\
 
 ===== Examples from the Bible =====
 
+**Jesus stood still and commanded that the man be brought to him. Then when the blind man was near, Jesus asked him, "What do you want me to do for you?" He said, "Lord, __that I might receive my sight__."** (Luke 18:40-41)//
+The man answered in an incomplete sentence because he wanted to be polite by giving Jesus only as much information as necessary.
+
+**He makes Lebanon skip like a calf\\__and Sirion like a young ox__.** (Psalm 29:6)\\
+The writer wants his words to be few and to make good poetry.
 
 ===== Translation Strategies =====
 If your language can use x consider using it. These strategies are for if your language cannot use x.
@@ -21,7 +29,6 @@ If your language can use x consider using it. These strategies are for if your l
 ===== Examples of Translation Strategies Applied =====
 
 ----
-This module answers the question: What is an ellipsis?\\
 Ellipsis is where words are left out of the sentence because it is not needed to be understood. The information that is omitted has usually already been stated in a preceding sentence or phrase. (See also: [[:en:ta:vol1:translate:figs_explicit]])
 
 ===== Translation Suggestions =====
