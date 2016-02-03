@@ -10,4 +10,5 @@ The script on this page searches for a string of text anywhere in the notes, the
 search results:
 
 
-{{door43pages @:en:bible:notes -r -q="See: \[\[en:obe:other:biblical" -exclude:home -simpleLineBreak -title -fontsize="90%"}}
+^  IT link  ^  Note link  ^
+|{{door43pages @:en:bible:notes -r -q="\[\[en:obe:other:biblical" -exclude:home -simpleLineBreak -title -fontsize="90%"}}  |{{door43pages @:en:bible:notes -r -q="See: \[\[en:obe:other:biblical" -exclude:home -simpleLineBreak -title -fontsize="90%"}}  |
