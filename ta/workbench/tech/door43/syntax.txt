@@ -31,9 +31,6 @@ DokuWiki supports **bold**, //italic//, __underlined__ and
 Of course you can **__//''combine''//__** all these.
 </code>
 
-''iiiiii''\\
-''oooooo''
-
 **The above code creates this formatting:**
 
 DokuWiki supports **bold**, //italic//, __underlined__ and ''monospaced'' texts. Of course you can **__//''combine'' //__**all these.
