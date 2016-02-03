@@ -175,24 +175,66 @@ edge [arrowsize=1.4];
 "Process" -> "audio_assessing_recording_space"
 "audio_best_practices" [fillcolor="#99ffff"]
 "Process" -> "audio_best_practices"
+"audio_checklist_preparing_project" [fillcolor="#99ffff"]
+"Process" -> "audio_checklist_preparing_project"
+"audio_checklist_recording_process" [fillcolor="#99ffff"]
+"Process" -> "audio_checklist_recording_process"
+"audio_checklists" [fillcolor="#99ffff"]
+"Process" -> "audio_checklists"
 "audio_digital_recording_devices" [fillcolor="#99ffff"]
 "Process" -> "audio_digital_recording_devices"
+"audio_editing" [fillcolor="#99ffff"]
+"Process" -> "audio_editing"
+"audio_editing_common_procedures" [fillcolor="#99ffff"]
+"Process" -> "audio_editing_common_procedures"
+"audio_editing_corrections" [fillcolor="#99ffff"]
+"Process" -> "audio_editing_corrections"
+"audio_editing_decisions_edit_rerecord" [fillcolor="#99ffff"]
+"Process" -> "audio_editing_decisions_edit_rerecord"
+"audio_editing_decisions_objective_subjective" [fillcolor="#99ffff"]
+"Process" -> "audio_editing_decisions_objective_subjective"
+"audio_editing_measuring_selection_length" [fillcolor="#99ffff"]
+"Process" -> "audio_editing_measuring_selection_length"
+"audio_editing_modifying_pauses" [fillcolor="#99ffff"]
+"Process" -> "audio_editing_modifying_pauses"
+"audio_editing_navigating_timeline" [fillcolor="#99ffff"]
+"Process" -> "audio_editing_navigating_timeline"
+"audio_editing_using_your_ears" [fillcolor="#99ffff"]
+"Process" -> "audio_editing_using_your_ears"
 "audio_equipment_overview" [fillcolor="#99ffff"]
 "Process" -> "audio_equipment_overview"
 "audio_equipment_setup" [fillcolor="#99ffff"]
 "Process" -> "audio_equipment_setup"
 "audio_field_environment" [fillcolor="#99ffff"]
 "Process" -> "audio_field_environment"
+"audio_guides" [fillcolor="#99ffff"]
+"Process" -> "audio_guides"
 "audio_introduction" [fillcolor="#99ffff"]
 "Process" -> "audio_introduction"
 "audio_logistics" [fillcolor="#99ffff"]
 "Process" -> "audio_logistics"
+"audio_managing_data" [fillcolor="#99ffff"]
+"Process" -> "audio_managing_data"
+"audio_managing_files" [fillcolor="#99ffff"]
+"Process" -> "audio_managing_files"
+"audio_managing_folders" [fillcolor="#99ffff"]
+"Process" -> "audio_managing_folders"
+"audio_mic_activation" [fillcolor="#99ffff"]
+"Process" -> "audio_mic_activation"
+"audio_mic_setup" [fillcolor="#99ffff"]
+"Process" -> "audio_mic_setup"
+"audio_optimize_laptop" [fillcolor="#99ffff"]
+"Process" -> "audio_optimize_laptop"
 "audio_project_setup" [fillcolor="#99ffff"]
 "Process" -> "audio_project_setup"
 "audio_quality_standards" [fillcolor="#99ffff"]
 "Process" -> "audio_quality_standards"
 "audio_recording_environment" [fillcolor="#99ffff"]
 "Process" -> "audio_recording_environment"
+"audio_reference" [fillcolor="#99ffff"]
+"Process" -> "audio_reference"
+"audio_setup_H2n" [fillcolor="#99ffff"]
+"Process" -> "audio_setup_H2n"
 "audio_setup_content" [fillcolor="#99ffff"]
 "Process" -> "audio_setup_content"
 "audio_setup_team" [fillcolor="#99ffff"]
@@ -233,6 +275,8 @@ edge [arrowsize=1.4];
 "Process" -> "audio_the_recordist"
 "audio_vision_purpose" [fillcolor="#99ffff"]
 "Process" -> "audio_vision_purpose"
+"audio_workspace_layout" [fillcolor="#99ffff"]
+"Process" -> "audio_workspace_layout"
 "door43_translation" [fillcolor="#99ffff"]
 "pretranslation_training" -> "door43_translation"
 "setup_door43" -> "door43_translation"
