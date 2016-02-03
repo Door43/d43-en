@@ -11,4 +11,4 @@ search results:
 
 
 ^  IT link  ^  Note link  ^
-|{{door43pages @:en:bible:notes -r -q="\[\[en:obe:other:biblical" -exclude:home -simpleLineBreak -title -fontsize="90%"}}  |{{door43pages @:en:bible:notes -r -q="See: \[\[en:obe:other:biblical" -exclude:home -simpleLineBreak -title -fontsize="90%"}}  |
+|{{door43pages @:en:bible:notes -r -q="\[\[en:obe:other:biblicalmoney" -exclude:home -simpleLineBreak -title -fontsize="90%"}}  |{{door43pages @:en:bible:notes -r -q="See: \[\[en:obe:other:biblicalmoney" -exclude:home -simpleLineBreak -title -fontsize="90%"}}  |
