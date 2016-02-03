@@ -57,7 +57,7 @@ The following lists are the pages that need editing. The steps through the membe
 ===== Chunks Assignments: =====
 
 ==== Step One  ====
-{{door43pages @en:ta:workbench -q="\{\{tag>[^}]*draft[^}]*\}\}" -r -showcount -title -simpleLineBreak -fontsize="100%"}} 
+{{door43pages @en:ta:workbench -q="\{\{tag>[^}]*draft [^}]*\}\}" -r -showcount -title -simpleLineBreak -fontsize="100%"}} 
 
 ==== Step Two ====
 == Drafts assigned to: Carol, Henry, Harry, John, Jim, or Susan  ==
