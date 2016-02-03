@@ -13,24 +13,22 @@ Ordinal numbers are numbers that tell either the position of something in a list
 The first lot went to Jehoiarib, the second to Jedaiah, the third to Harim, ...  the twenty-third to Delaiah, and the twenty-fourth to Maaziah.  (1 Chronicles 24:7-18) 
  
 Most ordinal numbers in English simply have  "-th" added to the end.  \\
-[[How do we do tables in Door43?]]\\
-Numeral Number Ordinal Number \\
-4 four fourth \\
-10 ten tenth \\
-100 one hundred one hundredth \\
-1000 one thousand one thousandth \\
+
+^Numeral ^Number ^Ordinal Number^ 
+|4 |four |fourth| 
+|10 |ten |tenth|
+|100 |one hundred |one hundredth|
+|1000 |one thousand |one thousandth|
  
-Some ordinal numbers in English do not follow that pattern. \\
-[[This is supposed to be a table.]] \\ 
-Numeral Number Ordinal Number  \\ 
-1 one first  \\ 
-2 two second  \\ 
-3 three third  \\ 
-5 five fifth  \\ 
-12 twelve twelfth  \\ 
+Some ordinal numbers in English do not follow that pattern. \\ 
+^Numeral ^Number ^Ordinal Number^  \\ 
+|1 |one |first| 
+|2 |two |second|
+|3 |three |third|
+|5 |five |fifth|
+|12 |twelve |twelfth|
  
-=== Reason this is a translation issue ===
-Some languages do not have special numbers for showing the order of items in a list. There are different ways to deal with this. 
+**Reason this is a translation issue**: Some languages do not have special numbers for showing the order of items in a list. There are different ways to deal with this. 
  
 ===== Examples from the Bible =====
 Ordinal numbers are used in the Bible mainly to tell the position of something in a list. \\ 
