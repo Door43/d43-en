@@ -29,20 +29,21 @@ The following lists are the pages that need editing. The steps through the membe
     - Change the tags to 'draft epadn.'
   - Content Person will:
     - Edit existing information moving content to the appropriate sections.
-      - Use this for help with formatting: [[en:ta:workbench:tech:door43:syntax]]
+      - Use these: [[en:ta:jitl-page-template]] and [[en:ta:workbench:tech:door43:syntax]].
       - Check that "This module answers the question" content is appropriate.
       - Check that the "you should have learned about" links are appropriate.
       - Check the text pasted into the discussion section to see which is more helpful. 
       - Check the discussion section for issues that may need to be dealt with.
       - Confirm that all Bible text is in bold and from the ULB. 
-      - Confirm that the ULB text does apply and that the descriptions/suggestions/strategies align with the ULB text. (See: [[en:ta:search-in-tnchunks]] for help with finding examples.)
-      -  Do a spot check on the notes to see how this is being handled there.
-    - Add information as needed, using [[en:ta:jitl-page-template]].
+      - Confirm that the ULB text does apply and that the explanations align with the ULB text. 
+    - Add information as needed. (Use [[en:ta:search-in-tnchunks]] to find examples.)
+    -  Write the less-than-100 words introduction. It should draw the learner into the topic, get them to want to know about the topic, and provide a short explanation of why they should know how to translate the instances of this topic in the Bible.
     - Change the 'draftxx' tag to 'review'.
+    - Spot-check notes pages to see if significant changes are needed there. If so, tell Susan.
   - Susan will review the page and may consult with the Content Person.
     - Change the 'review' tag to 'check.'
   - The Proofers will:
-    - Write the less-than-100 words introduction. The introduction should draw the learner into the topic and help them to want to know about the topic and provide a short explanation of why they should know how to translate the instances of this particular topic in the Bible.
+    - Write, if not already written, the less-than-100 words introduction. The introduction should draw the learner into the topic and help them to want to know about the topic and provide a short explanation of why they should know how to translate the instances of this particular topic in the Bible.
     - Check all formatting and make changes as needed
       - Bold ULB text
       - Double quote marks on suggested Bible text
