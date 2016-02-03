@@ -47,22 +47,23 @@ You can mark something as <del>deleted</del> as well.
 You can add Bullet lists -
   * Item 1
   * Item 2
+    * Item sub-bullet
 and Numbered lists -
   - Item 1
   - Item 2
+    - Item a
 </code>
 
 **The above code creates this formatting:**
 
 You can add Bullet lists -
-
   * Item 1
   * Item 2
-
+    * Item sub-bullet
 and Numbered lists -
-
   - Item 1
   - Item 2
+    - Item a
 
 ==== Paragraphs ====
 
