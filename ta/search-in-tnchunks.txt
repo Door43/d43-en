@@ -1,6 +1,6 @@
 ===== Searching in Notes and TA Pages =====
 
-One way of finding examples for translationAcademy pages is to search the notes for chunks that have the topic named in the notes. Here is the code for searching in the notes pages.
+One way of finding examples for translationAcademy pages is to search the **notes** for chunks that have the topic named in the notes. Here is the code for searching in the notes pages.
 
 <code>
 {{door43pages @:en:bible:notes -r -q="TTTT" -exclude:home -simpleLineBreak -title -fontsize="90%"}}
@@ -8,7 +8,7 @@ One way of finding examples for translationAcademy pages is to search the notes 
 
 {{door43pages @:en:bible:notes -r -q="TTTT" -exclude:home -simpleLineBreak -title -fontsize="90%"}}
 
-Sometimes you may want search for something on a TA page. Here is the code.
+Sometimes you may want search for something in **TA pages**. Here is the code.
 <code>
 {{door43pages @:en:ta -r -q="TTTT" -exclude:home -simpleLineBreak -title -fontsize="90%"}}
 </code>
