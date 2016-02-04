@@ -221,8 +221,14 @@ edge [arrowsize=1.4];
 "Process" -> "audio_managing_folders"
 "audio_mic_activation" [fillcolor="#99ffff"]
 "Process" -> "audio_mic_activation"
+"audio_mic_gain_level" [fillcolor="#99ffff"]
+"Process" -> "audio_mic_gain_level"
+"audio_mic_position" [fillcolor="#99ffff"]
+"Process" -> "audio_mic_position"
 "audio_mic_setup" [fillcolor="#99ffff"]
 "Process" -> "audio_mic_setup"
+"audio_noise_floor" [fillcolor="#99ffff"]
+"Process" -> "audio_noise_floor"
 "audio_optimize_laptop" [fillcolor="#99ffff"]
 "Process" -> "audio_optimize_laptop"
 "audio_project_setup" [fillcolor="#99ffff"]
@@ -241,6 +247,8 @@ edge [arrowsize=1.4];
 "Process" -> "audio_setup_team"
 "audio_signal_path" [fillcolor="#99ffff"]
 "Process" -> "audio_signal_path"
+"audio_signal_to_noise" [fillcolor="#99ffff"]
+"Process" -> "audio_signal_to_noise"
 "audio_software" [fillcolor="#99ffff"]
 "Process" -> "audio_software"
 "audio_software_file_renaming" [fillcolor="#99ffff"]
@@ -443,10 +451,6 @@ edge [arrowsize=1.4];
 "figs_partsofspeech" -> "figs_abstractnouns"
 "figs_activepassive" [fillcolor="#99ff99"]
 "figs_grammar" -> "figs_activepassive"
-"figs_adjectivalnoun" [fillcolor="#99ff99"]
-"figs_partsofspeech" -> "figs_adjectivalnoun"
-"figs_ambiguity" [fillcolor="#99ff99"]
-"Translation" -> "figs_ambiguity"
 "figs_apostrophe" [fillcolor="#99ff99"]
 "figs_intro" -> "figs_apostrophe"
 "figs_cohesion" [fillcolor="#99ff99"]
