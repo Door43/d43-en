@@ -1,0 +1,20 @@
+===== unfoldingWord Mobile App =====
+
+This module answers the question: What is the unfoldingWord Mobile App?\\
+==== What is the unfoldingWord App? ====
+
+The unfoldingWord mobile app is used to publish checked translations of the Bible stories. Users can also view information about each story and the checking level.  This app can be used on [[https://play.google.com/store/apps/details?id=com.unfoldingword.androidapp&hl=en|Android]] (https://play.google.com/store/apps/details?id=com.unfoldingword.androidapp&hl=en) or [[https://itunes.apple.com/us/app/unfoldingword/id925570688?mt=8|iOS]] (https://itunes.apple.com/us/app/unfoldingword/id925570688?mt=8) devices.
+
+For more information see https://unfoldingword.org/app .
+
+
+
+Next we recommend you learn about:
+  * [[en:ta:vol1:tech:uw_install|Install unfoldingWord on an Android Device]]
+  * [[en:ta:vol1:tech:uw_first|Use unfoldingWord for the First Time]]
+  * [[en:ta:vol1:tech:uw_checking|About Checking Levels]]
+  * [[en:ta:vol1:tech:uw_language|Language Information]]
+  * [[en:ta:vol1:tech:uw_select|Select a Language]]
+  * [[en:ta:vol1:tech:uw_update_content|Update unfoldingWord on an Android Device]]
+  * [[en:ta:vol1:tech:uw_audio|Use the Audio Feature in unfoldingWord]]
+

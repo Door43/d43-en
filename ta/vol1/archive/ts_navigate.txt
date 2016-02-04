@@ -1,0 +1,34 @@
+===== Navigate in translationStudio =====
+
+This module answers the question: How do I navigate in translationStudio?\\
+Before you start this module have you learned about:
+  * [[en:ta:vol1:tech:ts_install|Install translationStudio on an Android Device]]
+
+The first time you use translationStudio, the app will prompt you to set your languages and then return you to the **Edit Screen**. Otherwise you will begin at the **Edit Screen**.\\
+
+The video {{:en:ta:tech:translating_in_ts_-_obs_v2.mp4|Translating in translationStudio}}  shows how to navigate in the app.  You can watch the video or complete these steps to find the text you wish to translate:
+
+   * Above the left side of the **Edit Screen**  select from **Projects**, **Chapters**  or **Frames**  to navigate between books, chapters, or specific sections of text.
+      * Select **Projects**  to navigate between Open Bible Stories, The Old Testament, or the New Testament.
+      * Select **Chapters **  to navigate between stories if you are in Open Bible Stories, or between books of the Bible if you are in the Old or New Testament.
+      * Select **Frames **  to navigate between story paragraphs if you are in Open Bible Stories or verses in the Bible.
+   * When you locate the frame where you want to work, you can swipe back and forth to move between frames of text.
+
+
+
+
+Next we recommend you learn about:
+  * [[en:ta:vol1:tech:ts_intro|translationStudio]]
+  * [[en:ta:vol1:tech:ts_first|Use translationStudio for the First Time]]
+  * [[en:ta:vol1:tech:ts_select|Select Source and Target Languages]]
+  * [[en:ta:vol1:tech:ts_select|Select Source and Target Languages]]
+  * [[en:ta:vol1:tech:ts_request|Find my Language]]
+  * [[en:ta:vol1:tech:ts_create|Create and Edit Text]]
+  * [[en:ta:vol1:tech:ts_footnote|Add a Footnote]]
+  * [[en:ta:vol1:tech:ts_resources|Find the Resources in translationStudio]]
+  * [[en:ta:vol1:tech:ts_share|Share Your Work]]
+  * [[en:ta:vol1:tech:ts_upload|Upload Your Work]]
+  * [[en:ta:vol1:tech:ts_update|Update translationStudio Projects]]
+  * [[en:ta:vol1:tech:ts_publish|Publish Content to unfoldingWord]]
+  * [[en:ta:vol1:tech:ts_problem|Report a Problem]]
+

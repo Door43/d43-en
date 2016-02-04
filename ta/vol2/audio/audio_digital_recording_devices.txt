@@ -1,0 +1,33 @@
+===== Digital Recording Devices =====
+
+This module answers the question: //What options are their for digital recording devices?//\\
+=== ===
+
+For modern digital recording, there are 3 general categories of devices used for audio recording.
+
+**Computers/Laptops (Windows OS)**
+
+Computers and laptops have been used for many years for recording and are the most popular and powerful devices. They are unequaled in their performance and capability to perform any recording, editing and file management task required during a project. Typically, these will have a larger screen and the ability to utilize keyboard and mouse commands, all of which aids in productivity.
+
+Initial testing has been done on laptops utilizing Chrome OS. While the hardware appears suitable for quality recording, it lacks a fully functional, offline recording software adequate for voice recording. Therefore, these are not considered a practical solution for recording at this time.
+
+
+**Tablets (Android)**
+
+Android is by far the most predominate operating system for tablets today, numerous manufacturers and broad global distribution. These can typically be purchased at a much lower cost than a Windows OS laptop. Besides cost savings, one of their chief advantages is portability (at the compromise of screen size and the other factors that boost productivity and efficiency).
+
+A fully-functional, free recording/editing software (WavePad Free) exists for Android OS, with other apps being developed specifically for use in oral translation project. While software is not a limiting factor for Android devices, most manufacturers are not building their devices with quality audio hardware inside. There are 2 primary hardware issues with Android devices that are not detectable without hands-on testing to discover what provision for audio the manufacture included in the device.
+
+Many tablets are not equipped with a 3.5 mm TRRS jack, which means that it cannot record with an external microphone (built-in mics produce very poor quality). Even if it does have a TRRS jack, the majority of tested tablets were discovered to have poor quality analog to digital converters, which are necessary to convert the captured sound to digital data. Typically there is a significant amount of static and noise in the recorded sound due to the poor quality converters.
+
+
+**Handheld Portable Recorders**
+
+Small, battery-powered handheld digital recorders have become popular in recent years and wide variety of models are offered by many manufacturers of electronic equipment. These devices often include a set of basic recording and playback controls, an LCD screen user-interface, the ability to listen to recorded material on the device and the ability to name files. Many of these have extremely long battery life, record to an SD card, or alternatively can connect directly with a laptop as a USB mic.
+
+Portable recording devices offer some conveniences, but they usually come with various tradeoffs that limit versatility and negatively impact other steps of a project. Generally speaking, the portable recording device will inevitably require the use of another recording device to do the majority of the audio project work. The best use for a portable device would be a circumstance where it is not possible to have any other equipment where the recording will happen. While in rare circumstances these situations do exist, they also present many concerns and challenges for completing the other steps of a project faithfully.
+
+While there are circumstances in voice recording where this could be the right choice, it is our suggestion that the vast majority of these devices are ill-suited for the task of voice-recording in sub-optimal conditions. For example, nearly every model available has omni-directional condenser mics (often 2 or more of them) which is probably the worst possible design for recording voice in sub-optimal settings.
+
+
+

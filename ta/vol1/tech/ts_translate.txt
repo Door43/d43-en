@@ -1,0 +1,64 @@
+===== Translating in translationStudio =====
+
+This module answers the question: How do I translate in translationStudio?\\
+Before you start this module have you learned about:
+  * [[en:ta:vol1:tech:ts_install|Install translationStudio on an Android Device]]
+
+===== How to Translate =====
+
+A basic translation process for any unfoldingWord project is explained here.
+
+Note: the recommendations of the [[http://www.forum-intl.org/resources|Forum of Bible Agencies]] is a helpful reference in the translation of any theological text.
+
+==== Translating the Text ====
+
+As you translate, be sure that you:
+  * pray that God would help you make an easily-understandable, Scripturally-accurate translation
+  * translate everything that is in the source language
+  * do not add anything that that is not necessary for comprehension
+  * always do your translation according to the [[:en:ta:vol1:intro:translation_guidelines|Translation Guidelines]]
+  * always do your translation according to the [[:en:ta:vol1:intro:statement_of_faith|Statement of Faith]]
+  * use the [[:en:obs:notes|Translation Notes]] and the [[:en:obe:ktobs|Important Terms]] to help you make a better translation
+
+==== What To Start Translating ====
+
+We recommend that you begin by translating Open Bible Stories. You can work your way through the Stories however you want, but we have found [[:en:obs:31|Story #31]] is a good first story to translate since it is short and easy to understand. For more information read [[en:ta:vol1:translate:translate_what]].
+
+==== Translate from the Source Language ====
+
+**Note:** "Source Language" refers to the language from which the translation is being done. "Target Language" refers to the language into which the translation is being done.''
+
+The **Chapter or Story** icon is the top left and looks like full sheets of paper. Swipe up to read the entire chapter or story. Swipe to the side for a blank page to type in the target language translation of the text.\\
+
+The **Chunk** icon is the middle icon on the left and looks like a solid line square over a dotted line square. Swipe down or up to move from chunk to chunk (a small section of the story or chapter). Swipe  to the side for a blank page to type in the target language translation of the text.\\
+
+The **Check** icon is the bottom icon on the left and looks like a clipboard with a check mark. In this view the source text is on the left, the translation work is on the right. Swipe to the side to show the resources for that chunk. Swipe up or down to move from chunk to chunk.
+
+All of the Translation Notes, Important Terms and Translation Questions have been included in the translationStudio mobile app. See [[en:ta:vol1:tech:ts_resources]] on how to find the translation resources.
+  * Tap on the word "Notes" for the Translation Notes. The words or phrases are listed as they appear in the story or in the ULB. Tap on the phrase for help in understanding how to translate into the target language.
+  * Tap on the word "Terms" for the Important Terms. The words are listed as they appear in the story on in the ULB.Tap on the word or phrase for help in understanding how to translate into the target language.
+  * Tap on the word "Questions" for the Translation Questions. The questions are about information as it appears in the story on in the ULB.Read the question and answer it according to the translated text. Tap on the question for the expected answer. If the given answer and the expected answer are the same then the translation might be clear and accurate.
+  * Tap on the pencil icon to make corrections to the translation.
+
+When you are done with the Resources, swipe from left to right to make the pane go away.
+
+
+
+Next we recommend you learn about:
+  * [[en:ta:vol1:tech:ts_intro|translationStudio]]
+  * [[en:ta:vol1:tech:ts_install|Install translationStudio on an Android Device]]
+  * [[en:ta:vol1:tech:ts_first|Use translationStudio for the First Time]]
+  * [[en:ta:vol1:tech:ts_select|Select Source and Target Languages]]
+  * [[en:ta:vol1:tech:ts_open|Opening a Translation Project]]
+  * [[en:ta:vol1:tech:ts_navigate|Navigate in translationStudio]]
+  * [[en:ta:vol1:tech:ts_request|Find my Language]]
+  * [[en:ta:vol1:tech:ts_create|Create and Edit Text]]
+  * [[en:ta:vol1:tech:ts_resources|Find the Resources in translationStudio]]
+  * [[en:ta:vol1:tech:ts_useresources|How to Use the Resources in translationStudio]]
+  * [[en:ta:vol1:tech:ts_share|Backup and Share Your Work]]
+  * [[en:ta:vol1:tech:ts_upload|Upload Your Work]]
+  * [[en:ta:vol1:tech:ts_update|Update translationStudio Projects]]
+  * [[en:ta:vol1:tech:ts_publish|Publish Content to unfoldingWord]]
+  * [[en:ta:vol1:tech:translate_helpts|Finding Help for translationStudio]]
+  * [[en:ta:vol1:tech:ts_problem|Report a Problem]]
+

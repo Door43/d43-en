@@ -1,0 +1,46 @@
+===== Opening a Translation Project =====
+
+This module answers the question: How do I open a translation project in translationStudio?\\
+Before you start this module have you learned about:
+  * [[en:ta:vol1:tech:ts_install|Install translationStudio on an Android Device]]
+
+==== First Time Use ====
+
+The first time you use translationStudio, the app will prompt to set the target language and then return to the **"My Translation Projects" Menu**. Otherwise you will begin at the **My Translation Projects Menu**.
+
+==== Complete these steps to open a Translation Project ====
+
+From the "My Translation Projects" Menu:
+  - Tap on the + in the blue circle icon located at the top right of the screen.
+  - Choose the target language 
+    - Tap on the language 
+    - Scroll to find the language
+  - Tap on to choose either the Bible:NT, Bible:OT, or Open Bible Stories
+    - Tap on a book of the Bible or Open Bible Stories opens on story 1, The Creation.
+  - Tap on a Source Language to choose one or more languages (See: [[en:ta:vol1:tech:ts_select]] for more information)
+From the edit screen:
+  - Tap on 3 dots located at bottom left of the screen.
+  - Choose 'My Translations' from the menu.
+  - Follow the directions above.
+
+
+
+Next we recommend you learn about:
+  * [[en:ta:vol1:tech:ts_intro|translationStudio]]
+  * [[en:ta:vol1:tech:ts_install|Install translationStudio on an Android Device]]
+  * [[en:ta:vol1:tech:ts_first|Use translationStudio for the First Time]]
+  * [[en:ta:vol1:tech:ts_select|Select Source and Target Languages]]
+  * [[en:ta:vol1:tech:ts_open|Opening a Translation Project]]
+  * [[en:ta:vol1:tech:ts_navigate|Navigate in translationStudio]]
+  * [[en:ta:vol1:tech:ts_request|Find my Language]]
+  * [[en:ta:vol1:tech:ts_translate|Translating in translationStudio]]
+  * [[en:ta:vol1:tech:ts_create|Create and Edit Text]]
+  * [[en:ta:vol1:tech:ts_resources|Find the Resources in translationStudio]]
+  * [[en:ta:vol1:tech:ts_useresources|How to Use the Resources in translationStudio]]
+  * [[en:ta:vol1:tech:ts_share|Backup and Share Your Work]]
+  * [[en:ta:vol1:tech:ts_upload|Upload Your Work]]
+  * [[en:ta:vol1:tech:ts_update|Update translationStudio Projects]]
+  * [[en:ta:vol1:tech:ts_publish|Publish Content to unfoldingWord]]
+  * [[en:ta:vol1:tech:translate_helpts|Finding Help for translationStudio]]
+  * [[en:ta:vol1:tech:ts_problem|Report a Problem]]
+

@@ -1,0 +1,20 @@
+===== Decisions Objective vs Subjective =====
+
+This module answers the question: //What kind of decisions must be made during editing?//\\
+=== ===
+
+When editing, many decisions will need to be made about what you hear and see. Some decisions will be objective, such as:
+
+  * are the words correct?
+  * should the long pause be shortened to a natural pause length?
+  * should a loud expression that peak (clipped) in amplitude be re-recorded?
+
+Other decisions will be more subjective:
+
+  * was the ideal tone used when narrating a passage?
+  * the narrator repeated a phrase several times, which one is the best one to keep?
+
+Some decisions will be easy to make because they are objective, either it meets standards and audio principles or it does not. However, many decisions are subjective in nature and should not be independent decisions made by the recordist. These are decisions that must be made with the wisdom of the checker and narrator, the recordist's role primarily being to playback audio as much as requested and communicate what is possible from a recording/editing perspective within the software.
+
+
+

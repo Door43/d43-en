@@ -1,0 +1,45 @@
+===== Optimize Your Laptop for Recording =====
+
+This module answers the question: How can I optimize my laptop for recording?\\
+Module - Optimize Your Laptop for Recording
+
+
+Audio recording can require a higher performance level from a computer than typical home or office use does. If the health of your computer is poor, or its capacities are already stretched, it could have a negative impact on recording, ranging from slowed productivity to increased cost to file corruption. Here are some suggestions to get your computer in the best condition for recording.
+
+
+Free Improvements 
+
+Disconnect unnecessary USB peripheral devices. It is a smart step to disconnect any USB devices not needed during recording. This will help your computer supply full, stable voltage to sensitive USB recording gear. Too many devices drawing power from USB ports can cause the voltage level to drop or fluctuate outside of required parameters.
+
+
+Turn off scheduled tasks. Maintenance tasks such as a system backup or a virus scan can draw too much of your available power while recording. They can also force the computer to work very hard. These simultaneous demands can cause the cooling fans to run faster and louder, which could add extra noise to the recording.  
+
+
+Turn off automatic updates. If you have programs set to auto-update, it is nearly a guarantee that at least one will decide your recording session is the ideal time to begin an update. At the very least, it will divert system resources to the downloading and updating process and interrupt with notifications. Sometimes updates can cause system crashes. None of these things are helpful or necessary to have happen during a recording session. Configure these settings to manual and take care of updates when it is convenient outside of recording time.
+
+
+Empty temporary and deleted file caches. Use a light-weight software such as CCleaner to remove old files that have built up in your system memory over time and claim valuable RAM and had drive space.   
+
+
+Scan for viruses and malware. If you have viruses or malware busy in the background they can steal valuable power that you need for audio processing. Install and run excellent, light-weight programs such as Bitdefender Free and Malwarebytes to remove any issues from your computer.
+
+
+Uninstall unnecessary programs. Get rid of unnecessary programs and other items if you don't need them on your hard drive. Beside the possibility of those programs running in the background or wanting to update, they take up hard drive space. Most hard drives begin to lose speed and performance when more than 2/3's full. So maximizing space for your new audio material and “empty” space will yield the best performance.
+
+
+Log out of online services. Online services (email, IM, Facebook, media streaming, etc.) draw processing power and can give distracting notification messages and sound effects. Log out of those and close the programs. To be even more efficient, disconnect from the LAN or wireless network while recording. 
+
+
+Low-cost Hardware Improvements
+
+Audio recording can be an intensive process on CPU, RAM and Hard Drive read/write capacity. Most likely you cannot upgrade your CPU, but often the RAM and Hard Drive can be upgraded for significant results (be sure to check for compatibility and have skilled assistance, if needed, before purchasing new hardware or attempting upgrades).
+
+Upgrade RAM. Many consumer-grade computers have room for additional RAM on the motherboard. If your computer has an unused memory channel or is rated for higher total RAM than you currently have, upgrading is typically inexpensive and not labor-intensive. Ideally you would like to have at least 4GB of total RAM, but 8 GB would be much better.
+
+Upgrade to a Solid State Drive. Changing your Hard Drive (HDD) to a Solid State Drive (SSD) will give a significant boost in performance. However, it is a much bigger process and significantly more expensive than a RAM upgrade. Prices are improving on SSD's, but expect to pay at least $US 0.75/GB for decent quality. Replacing your 512 GB or 1 TB HDD with an equal size SSD could easily be cost-prohibitive. But many times a SSD of 256 GB or less could revitalize a computer if new recordings were periodically transferred to other storage drives and the computer was not storing large amounts of other data.
+  
+
+  
+
+
+

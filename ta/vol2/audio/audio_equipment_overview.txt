@@ -1,0 +1,56 @@
+===== Audio Equipment =====
+
+This module answers the question: //What audio equipment is needed?//\\
+=== ===
+
+In keeping faithful to our approach of simplicity, there are only a few essential pieces of audio equipment  that we need in order to do an excellent recording. The important thing is to make sure it is the right kind of equipment design and that we know how to use it properly. The following pieces of equipment could be considered the essential pieces:
+
+
+**Audio In**
+
+The following pieces of equipment are used in processing sound before it reaches the recording device (laptop or tablet).
+
+  * Microphone - In order to capture sound we need a microphone, or mic. Depending on the type of recording device and type of mic, there may be other pieces equipment needed to amplify, process and convert the sound energy before it reaches the recording device. Which types of mics require additional amplification and processing?
+    * A USB or TRRS mic does not.
+    * Mics with a professional XLR connector require an audio interface or small mixing console.
+
+  * Pop filter or windscreen – The movement of air when certain letters or syllables are spoken by the narrator can hit the sensitive microphone capsule with too much force, causing the recorded audio to be too strong and distorted. A pop filter is a fine wire mesh or fabric placed between the narrator and the mic in order to slow down and diffuse the force of the air movement. A windscreen is a foam version that slips over the microphone capsule. The pop filter is regarded by professionals as having negative impact on audio quality.
+
+  * Mic stand – Whenever possible, mounting the mic on a stand will give better consistency in recording volume level and avoid handling noise when compared to holding a mic directly in your hand. A mic stand can be as simple as small tripod stand and range in size up to a standard full-size mic stand.
+
+  * Signal Cables – The signal cables required will depend on the type of mic used. The following types of signal cables will be used with the following mic types:
+
+    * USB mic – possible cables: USB A to USB B, USB A to miniUSB, USB A to microUSB
+
+    * TRRS mic – possible cables: TRRS male to female extension (1 or 2 meters)
+
+    * XLR mic – possible cables: XLR mic cable, USB A to USB B (for audio interface or mixing console), USB A to USB B or phone plug to 3.5mm (mixing console)
+
+
+**Audio Out**
+
+The following pieces of equipment are used in playing back sound after it leaves the recording device (laptop or tablet) not including the built-in speakers on the device.
+
+  * Headphones – Typically it is important to have at least 1 quality set of headphones available for the recordist to be able to do careful listening.
+
+  * Monitors – monitors is a term that usually applies to specially designed speakers that are designed to provide a transparent reference of the recorded audio in a studio setting. However, in simple recording projects studio monitors are unlikely to be available, so any kind of small speaker that can provide good playback listening for the recording team could be considered a monitor. 
+
+  * Cables – There are a variety of cables that may be used for transferring the audio signal to headphones or monitors. The following types of cables may be used:
+
+    * TRS Y-cAdapter cable – These cables split the audio into 2 pathways. These may be used in order to connect two sets of headphones or a set of headphones and a monitor. These will typically be 3.5mm TRS.
+
+    * TRRS Y-Adapter cable – These split the signal when connecting both a mic and a set of headphones to a single TRRS 3.5mm jack on a tablet.
+
+
+**Power Equipment**
+
+While not specifically a piece of audio equipment, there is always a need for electrical power for the recording device, which often will not have enough battery life to last a full day of recording without needing to be recharged. There are several ways to provide for this need.
+
+  * Electrical service - It is a good idea to include an outlet strip and extension cord with the audio equipment for charging the recording device when/if electrical service is available. Be sure to have the correct plug on the outlet strip or an adapter to the local socket configuration.
+
+  * Backup Battery – this can be in the form of a second laptop battery that can be changed. Or, in the case of a tablet, an external battery can be connected via miniUSB to recharge the tablet while in operation.
+
+  * Solar – with some technical expertise, a solar panel system can be utilized to charge batteries for additional power supply.
+
+
+

@@ -1,0 +1,18 @@
+===== The Signal Path =====
+
+This module answers the question: //What is the signal path?//\\
+=== ===
+
+An important skill in setting up recording equipment (and in troubleshooting if there are problems) is to have a very good understanding of the signal path, or the way the audio signal flows from one piece of equipment to the other. It does not happen by accident. Some connections are physical, such as connecting a cable to jack. Other connections are digital, such as settings selected in software (discussed in software setup section).
+
+The description below illustrates the basic signal path.
+
+  - Sound waves from the narrator's voice enter the microphone.
+  - The microphone changes the sound wave to an electric pulse and sends that through a cable to the next device. A USB mic or a TRRS mic would connect directly to a laptop or tablet, respectively. If using a mic with a professional XLR connector, the mic would first connect to a small audio interface or mixing console and then to a laptop or tablet.
+  - Once sound has reached the recording device it is captured in the recording software. The sound captured in the software can be played back for listening.
+  - The sound leaves the laptop or tablet through the built-in speakers or through connected headphones or external speakers.
+
+Many portable handheld recording devices combine the entire signal path process into a single piece of equipment. 
+
+
+

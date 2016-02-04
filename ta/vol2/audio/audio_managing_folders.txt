@@ -1,0 +1,11 @@
+===== Folder Naming and Structure =====
+
+This module answers the question: //Is there a good way to manage folders and files?//\\
+== ==
+
+Anticipating and creating a good folder structure or content management system is one of the most valuable steps in managing files well. We highly discourage using default folders or, for example, saving audio files in My Documents. Too much time can be lost trying to locate files on a computer that does not have good organization of folders. This is especially important as time passes and recording projects become more numerous, distribution versions are created, the focus of the recording work evolves, etc. 
+
+We recommend creating a master folder called Audio, Audio Projects or something similar. Inside of this folder, we recommend using subfolders according to language, project type, or whatever you find to be the best organizational structure for your projects. The main idea is that your audio-related files are always saved in the audio folder. If all your work is in this folder, rather than scattered in different locations, it is easy to locate files, keep adding more subfolders in a logical manner, and keep your entire audio folder backed up.
+
+
+

@@ -1,0 +1,28 @@
+===== Format =====
+
+This module answers the question: //What is the format standard for unfoldingWord audio?//\\
+==  ==
+
+The format standards for audio are:
+
+
+**Recording**
+
+  * WAV, 44.1kHz, 16-bit, mono
+
+
+**door43 upload and/or archiving**
+
+  * WAV, 44.1kHz, 16-bit, mono
+  * FLAC, 44.1kHz, 16-bit, mono   //markers?//
+  * MP3, 44.1kHz, 256kbps, mono   //markers?//
+
+
+**Distribution**
+
+  * MP3, 44.1kHz, 128kbps, mono (high quality download)
+  * MP3, 44.1kHz, 64kbps, mono (mid quality download)
+  * MP3, 22kHz, 32kbps, mono (low quality download)
+
+
+

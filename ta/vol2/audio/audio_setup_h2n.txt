@@ -1,0 +1,51 @@
+===== Zoom H2n Setup =====
+
+This module answers the question: //How do I setup the Zoom H2n for best voice recording?//\\
+== USB Recording Mode ==
+
+Recommended Settings and Technique
+
+Mic Settings
+
+The H2n has 4 optional microphone pickup patterns that can be selected using the dial located on the top of the unit. Only one option is optimized for voice recording. Here is how to configure the proper settings:
+
+  - The arrow on the dial should be turned to point to the MS setting.
+  - Next, toggle and hold the PLAY switch to the up position. This will cause the screen to display MS SIDE MIC LEVEL. Holding the PLAY switch upward will reduce the input sensitivity of the side stereo mics. Keep reducing until the screen indicates S:OFF (MONO).
+
+//Why these settings? As much as possible, we want maximum sound to be captured from the direction of the sound source (voice asset) and minimum sound to be captured from the other 3 directions (background noise & echo reflections of voice).//
+
+
+
+Connecting to Laptop
+
+The Zoom H2n requires a USB → microUSB cable to connect to a laptop. A cable is not included with the mic, but is available with the Zoom H2n Accessory Kit. A USB cable with shielding is recommended.
+
+Once the cable is connected, a few settings must be selected on the LCD screen before the mic will be activated to communicate with the recording software. On the LCD screen, take the following steps:
+
+  - Toggle and select AUDIO I/F
+  - In the AUDIO I/F menu, toggle and select CONNECT
+
+The mic is now recognized by the software. However, one more step is necessary within the software to select the Zoom H2n as the input device. Depending on which software you are using, this if typically selected in the Preferences menu or Audio Hardware menu.
+
+
+
+Mic Positioning
+
+WARNING: The side of the mic that has the LCD screen is actually the back side of the mic! If you record from the LCD screen side you will get a horrible recording.
+
+Be sure to record using the side opposite the screen (the side with the battery compartment). Another reference indicator is that the arrow on the dial will point to the correct side and a red LED is illuminated.
+
+If possible, use a tripod stand or elevate the mic so that it is not sitting directly on a flat hard surface that will reflect sound. The threaded socket in the bottom of the H2n is compatible with Zoom stands and also should fit most camera tripod stands.
+
+It is always a good idea to record using a pop filter or windscreen. If one is available, it will greatly raise the quality of your recording. The accessory kit includes a windscreen designed to fit the shape of the Zoom H2n mic capsule.
+
+Position the mic 4 – 6 inches from the reader and at a 45 degree angle, offset from the path of the wind of their voice. This will help to prevent volume spikes, breath noises and bassy plosives from words that begin with “P”.
+
+
+
+Setting the Mic Gain
+
+The H2n has a handy gain adjustment dial on the side. Adjust gain so that the input level consistently registers between -12 and -6 dB in your editing software waveform view. Momentary peaks registering above -6 dB are fine. However, hitting 0 dB should be avoided because it means the audio recording will be distorted. Distorted audio is permanently ruined and cannot be fixed later through de-amplifying.
+
+
+
