@@ -1,37 +1,11 @@
 ====== Numbers - Translating Unknowns ======
 
-===== Description =====
-
-Definition\\
-Examples(s)\\
-Purpose (optional)\\
-
-=== Reason this could be a translation issue (recommended) ===
-=== Translation Principles (optional) ===
-
-
-===== Examples from the Bible =====
-
-
-===== Translation Strategies =====
-If your language can use x consider using it. These strategies are for if your language cannot use x.
-
-
-===== Examples of Translation Strategies Applied =====
-
-----
-
-------
-This module answers the question: How do I translate numbers?\\
-Before you start this module have you learned about:
+**This module answers the question:** How do I translate numbers?\\
+In order to understand this module, it would be good to read
   * [[en:ta:vol1:translate:translate_unknown|Translate Unknowns]]
-
-
- 
-See: Fractions and Decimals 
  
 ===== Description ===== 
-There are times that the source language will use words and ideas that are not familiar to you. If you do not know what the source word means, the Translation Notes and Important Terms pages will help you understand its meaning. Sometimes, however, a word in the source text is a number that is not known to the people who speak the target language, and some languages do not have words for all the numbers. 
+There are many numbers in the Bible. Some are small, such as "five" (5) and "fifteen" (15). Others are very large, such as "two hundred" (200), twenty-two thousand (22,000) or "one hundred million" (100,000,000.)  
 
 Some numbers are exact and others are rounded. 
  
@@ -40,13 +14,28 @@ The numbers 105, 807, and 912 are exact numbers and  should be translated with s
  
 **That day about three thousand men out of the people died.** (Exodus 32:28) \\ 
 Here the number three thousand is a round number. It may have been a little more than that or a little less than that. The word "about" shows that it is not an exact number. 
+
+**Reason this is a translation issue**: Some languages do not have words for some of these numbers. 
+
+=== Translation Principles === 
+Specific numbers should be translated as closely and specifically as they can be. \\ 
+Rounded numbers can be translated more generally. 
+
+
+===== Examples from the Bible ===== 
+
+Some numbers are exact and others are rounded. 
+
+**When Jared had lived __162__ years, he became the father of Enoch. After he became the father of Enoch, Jared lived __eight hundred__ years. He became the father of more sons and daughters. Jared lived __962__ years, and then he died.** (Genesis 5:18-20) \\
+The numbers 162, eight hundred, and 962 are exact numbers and should be translated with something as close to those numbers as possible.  
+ 
+**That day about __three thousand men__ out of the people died.** (Exodus 32:28) \\ 
+Here the number three thousand is a round number. It may have been a little more than that or a little less than that. The word "about" shows that it is not an exact number. 
  
 **Our sister, may you be the mother of __thousands of ten thousands__,** (Genesis 24:60) \\ 
 This is a rounded number. It does not say exactly how many descendants she should have. 
   
-=== Translation Principles === 
-Specific numbers should be translated as closely and specifically as they can be. \\ 
-Rounded numbers can be translated more generally. 
+
  
 ===== Translation Strategies ===== 
   - Write numbers using the numerals such as  “130” and “800.” 
