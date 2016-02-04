@@ -7,9 +7,7 @@ In order to understand this module, it would be good to read
 There are many numbers in the Bible. They can be written as words, such as "five" or as numerals, such as "5". Some numbers are very large, such as “two hundred” (200), "twenty-two thousand" (22,000) or “one hundred million” (100,000,000.) Some languages do not have words for all of these numbers. Translators need to decide how to translate numbers and whether to write them as words or numerals. 
  
 ===== Description ===== 
-There are many numbers in the Bible. Some are small, such as "five" (5) and "fifteen" (15). Others are very large, such as "two hundred" (200), twenty-two thousand (22,000) or "one hundred million" (100,000,000.)  
-
-Some numbers are exact and others are rounded. 
+There are many numbers in the Bible. Some are small, such as "five" (5) and "fifteen" (15). Others are very large, such as "two hundred" (200), twenty-two thousand (22,000) or "one hundred million" (100,000,000). Some numbers are exact and others are rounded. 
  
 **When Seth had lived __105__ years, he became the father of Enosh.  After he became the father of Enosh, he lived __807__ years and became the father of more sons and daughters.  Seth lived __912__ years, and then he died.**   (Genesis 5:6-8) \\ 
 The numbers 105, 807, and 912 are exact numbers and  should be translated with something as close to those numbers as possible.  
