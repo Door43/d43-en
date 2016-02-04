@@ -3,11 +3,16 @@
 USFM Editing Features
 This is a list of features that translators need to be able to use when editing their translation.
 
-Chapter Markers
+====== Chapter Markers ======
+
 
 Invisible to the user, handled by the app. Each chapter must start with the correct USFM code, \c.
 
-Verse Markers
+Design for Chapter Markers
+
+Chapter markers should be X% larger than main text.j
+
+====== Verse Markers ======
 
 Drag and drop verse marker bubbles, saved in text as USFM, \v.
 
