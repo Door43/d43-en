@@ -16,7 +16,10 @@ Chapter markers should be X% larger than main text.j
 
 Drag and drop verse marker bubbles, saved in text as USFM, \v.
 
-Paragraph Markers
+Verse markers should be superscript and grayed.
+
+====== Paragraph Markers ======
+
 
 Paragraphs in downstream translations will often be different than their source text. We need to support adding a paragraph marker, which is \p in USFM. See the USFM Reference manual for more information on how these should be encoded (http://paratext.org/system/files/usfmReference2_4.pdf)
 
