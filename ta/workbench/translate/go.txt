@@ -8,11 +8,9 @@ In order to understand this module, it would be good to read
 
  
 ===== Description =====
-Different languages have different ways of determining whether to use the words "go" or "come" and whether to use the words "take" or "bring."
-
-For example when English speakers says that they are approaching a person who has called them, they say "I'm coming", while Spanish speakers would say "I'm going." 
+Different languages have different ways of determining whether to use the words "go" or "come" and whether to use the words "take" or "bring."  For example when English speakers says that they are approaching a person who has called them, they say "I'm coming", while Spanish speakers would say "I'm going." 
  
-**Reason this is a translation issue:** If the words "go" and "come" or "take: and "bring" are not translated in the way that is natural in your language, your readers may be confused about which direction people are moving in.
+**Reason this is a translation issue:** If the words "go" and "come" or "take" and "bring" are not translated in the way that is natural in your language, your readers may be confused about which direction people are moving in.
 
 
 
