@@ -17,7 +17,7 @@ Here the number three thousand is a round number. It may have been a little more
 
 **Reason this is a translation issue**: Some languages do not have words for some of these numbers. 
 
-=== Translation Principles === 
+**Translation Principles** \\ 
 Specific numbers should be translated as closely and specifically as they can be. \\ 
 Rounded numbers can be translated more generally. 
 
