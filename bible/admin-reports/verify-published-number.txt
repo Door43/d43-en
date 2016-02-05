@@ -5,4 +5,4 @@ The right column below should be one greater than the left column if all chunks 
 Change book code in both columns to test any published book.
 
 ^  All published chunks  ^  All chunks + index  ^  Any status tag  ^
-|{{door43pages @en:bible:notes:psa -r -q="\{\{tag>[^}]*publish[^}]*\}\}" -exclude:home -simpleLineBreak -title -fontsize="90%"}}  |{{door43pages @en:bible:notes:psa -r -exclude:home -simpleLineBreak -title -fontsize="90%"}}  |{{door43pages @en:bible:notes:psa -r -q="\{\{tag>((?=[^}]*publish)|(?=[^}]*review)|(?=[^}]*check)|(?=[^}]*text)|(?=[^}]*jimp))[^}]*\}\}" -exclude:home -simpleLineBreak -title -fontsize="90%"}}  |
+|{{door43pages @en:bible:notes:job -r -q="\{\{tag>[^}]*publish[^}]*\}\}" -exclude:home -simpleLineBreak -title -fontsize="90%"}}  |{{door43pages @en:bible:notes:job -r -exclude:home -simpleLineBreak -title -fontsize="90%"}}  |{{door43pages @en:bible:notes:job -r -q="\{\{tag>((?=[^}]*publish)|(?=[^}]*review)|(?=[^}]*check)|(?=[^}]*text)|(?=[^}]*jimp))[^}]*\}\}" -exclude:home -simpleLineBreak -title -fontsize="90%"}}  |
