@@ -5,6 +5,6 @@
   * [[:en:bible:admin-reports:check-tags-notes|Check Notes Tags]]
 
 ^  Notes  ^  Notes (<del>text</del>)  ^  Terms  ^  Questions  |
-|{{door43pages @en:bible:notes -r -q="\{\{tag>[^}]*review[^}]*\}\}" -exclude:home -simpleLineBreak -title -fontsize="90%"}} |{{door43pages @en:bible:notes -r -q="\{\{tag>(?![^}]*text)(?=[^}]*review)[^}]*\}\}" -exclude:home -simpleLineBreak -title -showcount -fontsize="90%"}}  |{{door43pages @en:obe -r -q="\{\{tag>[^}]*review[^}]*\}\}" -exclude:home -simpleLineBreak -title -fontsize="90%"}} |{{door43pages @en:bible:questions:comprehension -r -q="\{\{tag>[^}]*review[^}]*\}\}" -exclude:home -simpleLineBreak -title -fontsize="90%"}} |
+|{{door43pages @en:bible:notes -r -q="\{\{tag>[^}]*review[^}]*\}\}" -exclude:home -simpleLineBreak -title -fontsize="90%"}} |{{door43pages @en:bible:notes -r -q="\{\{tag>[^}]*review[^}]*\}\}" -exclude:home -simpleLineBreak -title -showcount -fontsize="90%"}}  |{{door43pages @en:obe -r -q="\{\{tag>[^}]*review[^}]*\}\}" -exclude:home -simpleLineBreak -title -fontsize="90%"}} |{{door43pages @en:bible:questions:comprehension -r -q="\{\{tag>[^}]*review[^}]*\}\}" -exclude:home -simpleLineBreak -title -fontsize="90%"}} |
 
 \\
