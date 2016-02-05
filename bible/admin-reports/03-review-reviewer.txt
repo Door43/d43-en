@@ -4,33 +4,33 @@
 
   * [[:en:bible:admin-reports:check-tags-notes|Check Tags]]
 
-**NOTE: ** This page excludes chunks that are also tagged as "text."
+**NOTE: **  This page excludes chunks that are also tagged as "text."
 
 === Table 1 ===
 
 Table 2: [[:en:bible:admin-reports:03-review-reviewer#table-2|John A; Carol B; Harry H; Bram vdH; Kim P]] \\
 Table 3: [[:en:bible:admin-reports:03-review-reviewer#table-3|Aaron F; John L; Susan Q; Jim P; Larry S]]
 
-^  Ed Q  ^  Henry W  ^  Henry dV  ^  Tom N  ^  Nick A  ^
+^  Ed Q  ^  Henry W  ^  Henry dV  ^  Tom N  ^  Nick A  |
 |  -  |  -  |  Job (16,17)  |  Job (35,42)  |  -  |
-|"edq": {{door43pages @en:bible:notes -r -q="\{\{tag>[^}]*edq[^}]*\}\}" -exclude:home -simpleLineBreak -title -showcount -fontsize="90%"}}  |"henryw": {{door43pages @en:bible:notes -r -q="\{\{tag>[^}]*henryw[^}]*\}\}" -exclude:home -simpleLineBreak -title -showcount -fontsize="90%"}}  |"henrydv": {{door43pages @en:bible:notes -r -q="\{\{tag>[^}]*henrydv[^}]*\}\}" -exclude:home -simpleLineBreak -title -showcount -fontsize="90%"}} Review: {{door43pages @en:bible:notes:job:16 @en:bible:notes:job:17 -r -q="\{\{tag>(?![^}]*text)(?=[^}]*review)[^}]*\}\}" -exclude:home -simpleLineBreak -title -showcount -fontsize="90%"}}  |"tomn": {{door43pages @en:bible:notes -r -q="\{\{tag>[^}]*tomn[^}]*\}\}" -exclude:home -simpleLineBreak -title -showcount -fontsize="90%"}} Review: {{door43pages @en:bible:notes:job:35 @en:bible:notes:job:42 -r -q="\{\{tag>(?![^}]*text)(?=[^}]*review)[^}]*\}\}" -exclude:home -simpleLineBreak -title -showcount -fontsize="90%"}} |"nicka": {{door43pages @en:bible:notes -r -q="\{\{tag>[^}]*nick[^}]*\}\}" -exclude:home -simpleLineBreak -title -showcount -fontsize="90%"}}  |
+|"edq": {{door43pages @en:bible:notes -r -q="\{\{tag>[^}]*edq[^}]*\}\}" -exclude:home -simpleLineBreak -title -showcount -fontsize="90%"}} |"henryw": {{door43pages @en:bible:notes -r -q="\{\{tag>[^}]*henryw[^}]*\}\}" -exclude:home -simpleLineBreak -title -showcount -fontsize="90%"}} |"henrydv": {{door43pages @en:bible:notes -r -q="\{\{tag>[^}]*henrydv[^}]*\}\}" -exclude:home -simpleLineBreak -title -showcount -fontsize="90%"}} Review: {{door43pages @en:bible:notes:job:16 @en:bible:notes:job:17 -r -q="\{\{tag>(?![^}]*text)(?=[^}]*review)[^}]*\}\}" -exclude:home -simpleLineBreak -title -showcount -fontsize="90%"}} |"tomn": {{door43pages @en:bible:notes -r -q="\{\{tag>[^}]*tomn[^}]*\}\}" -exclude:home -simpleLineBreak -title -showcount -fontsize="90%"}} Review: {{door43pages @en:bible:notes:job:35 @en:bible:notes:job:42 -r -q="\{\{tag>(?![^}]*text)(?=[^}]*review)[^}]*\}\}" -exclude:home -simpleLineBreak -title -showcount -fontsize="90%"}} |"nicka": {{door43pages @en:bible:notes -r -q="\{\{tag>[^}]*nick[^}]*\}\}" -exclude:home -simpleLineBreak -title -showcount -fontsize="90%"}} |
 
 === Table 2 ===
 
 Table 1: [[:en:bible:admin-reports:03-review-reviewer#table-1|Ed Q; Henry W; Henry dV; Tom N; Nick A]] \\
 Table 3: [[:en:bible:admin-reports:03-review-reviewer#table-3|Aaron F; John L; Susan Q; Jim P; Larry S]]
 
-^  John A  ^  Carol B  ^  Harry H  ^  Bram vdH  ^  Kim P  ^
+^  John A  ^  Carol B  ^  Harry H  ^  Bram vdH  ^  Kim P  |
 |  -  |  -  |  -  |  Job (15,17,24,25)  |  -  |
-|"johna": {{door43pages @en:bible:notes -r -q="\{\{tag>[^}]*johna[^}]*\}\}" -exclude:home -simpleLineBreak -title -showcount -fontsize="90%"}}  |"carolb": {{door43pages @en:bible:notes -r -q="\{\{tag>[^}]*carol[^}]*\}\}" -exclude:home -simpleLineBreak -title -showcount -fontsize="90%"}} |"harryh": {{door43pages @en:bible:notes -r -q="\{\{tag>[^}]*harry[^}]*\}\}" -exclude:home -simpleLineBreak -title -showcount -fontsize="90%"}}  |"bramvdh": {{door43pages @en:bible:notes -r -q="\{\{tag>[^}]*bram[^}]*\}\}" -exclude:home -simpleLineBreak -title -showcount -fontsize="90%"}} Review: {{door43pages @en:bible:notes:job:15 @en:bible:notes:job:17 @en:bible:notes:job:24 @en:bible:notes:job:25 -r -q="\{\{tag>(?![^}]*text)(?=[^}]*review)[^}]*\}\}" -exclude:home -simpleLineBreak -title -showcount -fontsize="90%"}}  |"kimp": {{door43pages @en:bible:notes -r -q="\{\{tag>[^}]*kim[^}]*\}\}" -exclude:home -simpleLineBreak -title -showcount -fontsize="90%"}}  |
+|"johna": {{door43pages @en:bible:notes -r -q="\{\{tag>[^}]*johna[^}]*\}\}" -exclude:home -simpleLineBreak -title -showcount -fontsize="90%"}} |"carolb": {{door43pages @en:bible:notes -r -q="\{\{tag>[^}]*carol[^}]*\}\}" -exclude:home -simpleLineBreak -title -showcount -fontsize="90%"}} |"harryh": {{door43pages @en:bible:notes -r -q="\{\{tag>[^}]*harry[^}]*\}\}" -exclude:home -simpleLineBreak -title -showcount -fontsize="90%"}} |"bramvdh": {{door43pages @en:bible:notes -r -q="\{\{tag>[^}]*bram[^}]*\}\}" -exclude:home -simpleLineBreak -title -showcount -fontsize="90%"}} Review: {{door43pages @en:bible:notes:job:15 @en:bible:notes:job:17 @en:bible:notes:job:24 @en:bible:notes:job:25 -r -q="\{\{tag>(?![^}]*text)(?=[^}]*review)[^}]*\}\}" -exclude:home -simpleLineBreak -title -showcount -fontsize="90%"}} |"kimp": {{door43pages @en:bible:notes -r -q="\{\{tag>[^}]*kim[^}]*\}\}" -exclude:home -simpleLineBreak -title -showcount -fontsize="90%"}} |
 
 === Table 3 ===
 
 Table 1: [[:en:bible:admin-reports:03-review-reviewer#table-1|Ed Q; Henry W; Henry dV; Tom N; Nick A]] \\
 Table 2: [[:en:bible:admin-reports:03-review-reviewer#table-2|John A; Carol B; Harry H; Bram vdH; Kim P]]
 
-^  Susan Q  ^  Jim P  ^  Larry S  ^
+^  Susan Q  ^  Jim P  ^  Larry S  |
 |  (TA)  |  -  |  (TQ)  |
-|"susanq": {{door43pages @en:bible:notes -r -q="\{\{tag>[^}]*susanq[^}]*\}\}" -exclude:home -simpleLineBreak -title -showcount -fontsize="90%"}}  |"jimp": {{door43pages @en:bible:notes -r -q="\{\{tag>[^}]*jimp[^}]*\}\}" -exclude:home -simpleLineBreak -title -showcount -fontsize="90%"}} |"larrys": {{door43pages @en:bible:notes -r -q="\{\{tag>[^}]*larrys[^}]*\}\}" -exclude:home -simpleLineBreak -title -showcount -fontsize="90%"}} |
+|"susanq": {{door43pages @en:bible:notes -r -q="\{\{tag>[^}]*susanq[^}]*\}\}" -exclude:home -simpleLineBreak -title -showcount -fontsize="90%"}} |"jimp": {{door43pages @en:bible:notes -r -q="\{\{tag>[^}]*jimp[^}]*\}\}" -exclude:home -simpleLineBreak -title -showcount -fontsize="90%"}} |"larrys": {{door43pages @en:bible:notes -r -q="\{\{tag>[^}]*larrys[^}]*\}\}" -exclude:home -simpleLineBreak -title -showcount -fontsize="90%"}} |
 
 \\
