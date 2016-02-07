@@ -407,6 +407,8 @@ edge [arrowsize=1.4];
 "tS_useresources" [fillcolor="#ffff99"]
 "tS_create" -> "tS_useresources"
 "resources_intro" -> "tS_useresources"
+"tSd_intro" [fillcolor="#ffff99"]
+"Technology" -> "tSd_intro"
 "tech_manual" [fillcolor="#ffff99"]
 "translate_manual" -> "tech_manual"
 "intro_check" -> "tech_manual"
