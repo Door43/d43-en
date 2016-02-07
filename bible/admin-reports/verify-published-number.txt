@@ -1,8 +1,7 @@
 ====== Verify Published Number of Chunks ======
 
-The right column below should be one greater than the left column if all chunks are properly published.
 
-Change book code in both columns to test any published book.
+Change book code in all columns to test any published book.
 
 ^  All published chunks  ^  Any status tag  ^  All chunks + index  ^
 |{{door43pages @en:bible:notes: -r -q="\{\{tag>[^}]*publish[^}]*\}\}" -exclude:home -simpleLineBreak -title -fontsize="90%"}}  |{{door43pages @en:bible:notes: -r -q="\{\{tag>((?=[^}]*publish)|(?=[^}]*review)|(?=[^}]*check)|(?=[^}]*text)|(?=[^}]*jimp))[^}]*\}\}" -exclude:home -simpleLineBreak -title -fontsize="90%"}}  |{{door43pages @en:bible:notes: -r -exclude:home -simpleLineBreak -title -fontsize="90%"}}  |
