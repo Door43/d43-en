@@ -1,11 +1,9 @@
 ====== Chunks with tA links ======
 
-
-
 [[:en:ta:admin:ta-chunks-num|Numbers tA Links]]\\
 [[:en:ta:admin:ta-chunks-deu|Deuteronomy tA Links]]\\
 
-[[:en:ta:admin:ta-chunks-jos|Joshua tA Links]]\\
+
 [[:en:ta:admin:ta-chunks-jdg|Judges tA Links]]\\
 
 [[:en:ta:admin:ta-chunks-1sa|1 Samuel tA Links]]\\
@@ -15,14 +13,11 @@
 [[:en:ta:admin:ta-chunks-1ch|1 Chronicles tA Links]]\\
 [[:en:ta:admin:ta-chunks-2ch|2 Chronicles tA Links]]\\
 
-[[:en:ta:admin:ta-chunks-ezr|Ezra tA Links]]\\
-[[:en:ta:admin:ta-chunks-neh|Nehemiah tA Links]]\\
-[[:en:ta:admin:ta-chunks-est|Esther tA Links]]\\
+
 [[:en:ta:admin:ta-chunks-job|Job tA Links]]\\
 
 
 [[:en:ta:admin:ta-chunks-psa2|Psalms bk 2 tA Links]]\\
-
 
 
 [[:en:ta:admin:ta-chunks-ecc|Ecclesiastes tA Links]]\\
@@ -32,10 +27,9 @@
 [[:en:ta:admin:ta-chunks-jer|Jeremiah tA Links]]\\
 [[:en:ta:admin:ta-chunks-lam|Lamentations tA Links]]\\
 
-[[:en:ta:admin:ta-chunks-dan|Daniel tA Links]]\\
+
 [[:en:ta:admin:ta-chunks-hos|Hosea tA Links]]\\
 
-[[:en:ta:admin:ta-chunks-mic|Micah tA Links]]\\
 [[:en:ta:admin:ta-chunks-zec|Zechariah tA Links]]\\
 
 
@@ -45,7 +39,15 @@
 [[:en:ta:admin:ta-chunks-exo|Exodus tA Links]]\\
 [[:en:ta:admin:ta-chunks-lev|Leviticus tA Links]]\\
 
+
+[[:en:ta:admin:ta-chunks-jos|Joshua tA Links]]\\
 [[:en:ta:admin:ta-chunks-rut|Ruth tA Links]]\\
+
+
+[[:en:ta:admin:ta-chunks-ezr|Ezra tA Links]]\\
+[[:en:ta:admin:ta-chunks-neh|Nehemiah tA Links]]\\
+[[:en:ta:admin:ta-chunks-est|Esther tA Links]]\\
+
 
 [[:en:ta:admin:ta-chunks-psa1|Psalms bk 1 tA Links]]\\
 
@@ -55,19 +57,23 @@
 
 [[:en:ta:admin:ta-chunks-pro|Proverbs tA Links]]\\
 
-[[:en:ta:admin:ta-chunks-ezk|Ezekiel tA Links]]\\
 
-[[:en:ta:admin:ta-chunks-jon|Jonah tA Links]]\\
+[[:en:ta:admin:ta-chunks-ezk|Ezekiel tA Links]]\\
+[[:en:ta:admin:ta-chunks-dan|Daniel tA Links]]\\
+
+
 [[:en:ta:admin:ta-chunks-jol|Joel tA Links]]\\
-[[:en:ta:admin:ta-chunks-nah|Nahum tA Links]]\\
 [[:en:ta:admin:ta-chunks-amo|Amos tA Links]]\\
 [[:en:ta:admin:ta-chunks-oba|Obadiah tA Links]]\\
-
-[[:en:ta:admin:ta-chunks-hab|HabbakuktA Links]]\\
+[[:en:ta:admin:ta-chunks-jon|Jonah tA Links]]\\
+[[:en:ta:admin:ta-chunks-mic|Micah tA Links]]\\
+[[:en:ta:admin:ta-chunks-nah|Nahum tA Links]]\\
+[[:en:ta:admin:ta-chunks-hab|Habbakuk tA Links]]\\
 [[:en:ta:admin:ta-chunks-zep|Zephaniah tA Links]]\\
 [[:en:ta:admin:ta-chunks-hag|Haggai tA Links]]\\
 
 [[:en:ta:admin:ta-chunks-mal|Malachi tA Links]]\\
+
 
 [[:en:ta:admin:ta-chunks-mat|Matthew tA Links]]\\
 [[:en:ta:admin:ta-chunks-mrk|Mark tA Links]]\\
