@@ -8,6 +8,6 @@
 ===== Status: =====
 
 ^  Draft  ^  Review  ^  Text  ^  Publish  ^  Remaining  ^
-|{{door43pages @en:bible:questions:comprehension -r -q="\{\{tag>[^}]*draft[^}]*\}\}" -exclude:home -simpleLineBreak -title -fontsize="90%"}} |{{door43pages @en:bible:questions:comprehension -r -q="\{\{tag>[^}]*review[^}]*\}\}" -exclude:home -simpleLineBreak -title -fontsize="90%"}} |{{door43pages @en:bible:questions:comprehension -r -q="\{\{tag>[^}]*text[^}]*\}\}" -exclude:home -simpleLineBreak -title -fontsize="90%"}} |{{door43pages @en:bible:questions:comprehension -r -q="\{\{tag>[^}]*publish[^}]*\}\}" -exclude:home -simpleLineBreak -title -fontsize="90%"}} |{{door43pages @en:bible:questions:comprehension -r -q="\{\{tag>((?=[^}]*draft)|(?=[^}]*review)|(?=[^}]*text))[^}]*\}\}" -exclude:home -simpleLineBreak -title -fontsize="90%"}} |
+|{{door43pages @en:bible:questions:comprehension -r -q="\{\{tag>[^}]*draft[^}]*\}\}" -exclude:home -simpleLineBreak -title -fontsize="90%"}} |{{door43pages @en:bible:questions:comprehension -r -q="\{\{tag>[^}]*review[^}]*\}\}" -exclude:home -simpleLineBreak -title -fontsize="90%"}} |{{door43pages @en:bible:questions:comprehension -r -q="\{\{tag>[^}]*text[^}]*\}\}" -exclude:home -simpleLineBreak -title -fontsize="90%"}} |{{door43pages @en:bible:questions:comprehension -r -q="\{\{tag>[^}]*publish[^}]*\}\}" -exclude:home -simpleLineBreak -title -fontsize="90%"}} |{{door43pages @en:bible:questions:comprehension -r -q="\{\{tag>(?![^}]*publish)[^}]*\}\}" -exclude:home -simpleLineBreak -title -fontsize="90%"}} |
 
 \\
