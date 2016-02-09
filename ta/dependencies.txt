@@ -455,8 +455,6 @@ edge [arrowsize=1.4];
 "figs_grammar" -> "figs_activepassive"
 "figs_apostrophe" [fillcolor="#99ff99"]
 "figs_intro" -> "figs_apostrophe"
-"figs_cohesion" [fillcolor="#99ff99"]
-"Translation" -> "figs_cohesion"
 "figs_deictics" [fillcolor="#99ff99"]
 "Translation" -> "figs_deictics"
 "figs_doublenegatives" [fillcolor="#99ff99"]

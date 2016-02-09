@@ -12,6 +12,10 @@ The UDB avoids using long or complex sentences. In many languages, long or compl
 
 The UDB often fills in the participants when these are lacking in the original Bible and the ULB. In the original biblical languages, these participants could be left out and still understood by the reader. But in many languages these must be included for the translation to be clear and natural. When translating the UDB, therefore, be sure to include all of the participants that are there in the UDB.
 
+==== What method should be used to translate the UDB? ====
+
+When translating the UDB, keep the English source open in front of you. This means that if you are translating using MAST methodology, do not use the step of blind drafting. The reason for this is that blind drafting is a method that translators use in order to produce natural target language translations. Through blind drafting, the translator replaces structures from the source language that would be unnatural in the target language with structures that are natural for that target language. But the UDB is a tool that carefully avoids certain structures that can be difficult to translate in some languages, as explained above. If the translator is using blind drafting, he might accidentally replace the simple structures of the UDB with structures that are natural in the target Gateway Language but unwanted in the UDB, such as idioms and figures of speech from the target GL. In order to guard against replacing these structures, it is best to translate the UDB with the English source text open to look at.
+
 ====Examples====
 
 The following are examples of ways that the text of the Bible can be unclear for some languages and what the UDB does to overcome those problems. When you translate the UDB, make sure that your translation of the UDB also avoids these problems.
@@ -59,7 +63,7 @@ When you translate the UDB, be sure to not use rhetorical questions or other fig
 ===Idioms===
 
 The ULB of Deuteronomy 32:10 says, "he guarded him as the apple of his eye." 
-The word "apple" here does not refer to a kind of fruit, but instead refers to the pupil, the dark center of a person's eye. The phrase "the apple of his eye" is an idiom that refers to anything that is extremely precious to a person, or the one thing that is the most precious to a person. In many languages this idiom makes no sense, but they have other idioms that have this meaning. The Other Language translator should use one of these idioms in the OL translation, but not in the translation of the UDB.
+The word "apple" here does not refer to a kind of fruit, but instead refers to the pupil, the dark center of a person's eye. The phrase "the apple of his eye" is an idiom that refers to anything that is extremely precious to a person, or the one thing that is the most precious to a person. In many languages this idiom makes no sense, but they have other idioms that have this meaning. The Other Language translator should use one of these idioms from the target language in the OL translation, but there should be no idiom in the translation of the UDB.
 To show the meaning of this verse, the UDB expresses this in plain language, without an idiom. It says, "He protected them and took care of them, as every person takes good care of his own eyes." 
 The Notes add another way to translate this that makes the meaning clear. It says, "He protected the people of Israel as something most valuable and precious.” When you translate the UDB, be sure that you do not use any idioms. Only use plain language that makes the meaning clear. For more information on idioms, see ta-figs_idiom.
 
