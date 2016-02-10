@@ -1,0 +1,49 @@
+====== Chunk Zero Template ======
+
+<code>
+====== Introduction to (book name) ======
+
+===== Part 1: General Introduction =====
+
+**Outline (of book)**\
+
+  - Title (Book Chapter:Verse-Chapter:Verse)
+    - Subtitle (Book Chapter:Verse-Chapter:Verse)
+  - Title (Book Chapter:Verse-Chapter:Verse)
+    - Subtitle (Book Chapter:Verse-Chapter:Verse)
+
+**Text-Question**
+
+Text-Answer
+
+**Text-Question**
+
+Text-Answer
+
+
+===== Part 2: Important Religious and Cultural Concepts =====
+**Text-Question**
+
+Text-Answer
+
+**Text-Question**
+
+Text-Answer
+
+===== Part 3: Important Translation Issues =====
+
+**Text-Question**
+
+Text-Answer
+
+**Text-Question**
+
+Text-Answer
+
+
+
+
+~~NOCACHE~~
+
+{{tag> CHTeam}}~~DISCUSSION~~
+</code>
