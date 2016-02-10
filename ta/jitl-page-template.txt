@@ -43,7 +43,7 @@ If (an) x would be natural and give the right meaning in your language, consider
 ===== Examples of Translation Strategies Applied =====
 A numbered list of examples that match the strategies above. Each strategy should have an example - even if the first strategy is to maintain the  form or figure. Each strategy should have only one example because of  challenges with the Door43 formatting. [[Chris, is this still an issue now that we're not doing the indented numbering?]] \\
  
-1. Copy of the strategy \\ 
+1. Copy of the strategy (No indentation. Force the numbering.)\\ 
   * **The ULB  Text in bold [underline words of issue]** (Bible Reference) Explanation of application of strategy 
     * "Sample of translation after strategy is applied." [underline words of issue] 
 
