@@ -1,12 +1,11 @@
 ====== Simile ======
 
-===== Description =====
-
-
 This module answers the question: What is a simile?\\
 In order to understand this module, it would be good to read
 
-  * [[:en:ta:vol1:translate:figs_intro|Figures of Speech]]
+  * [[:en:ta:vol1:translate:figs_intro]]
+
+===== Description =====
 
 A simile compares one thing to another thing that is different. It focuses on a particular trait the two things have in common. Unlike metaphors, similes begin with "like" or "as."
 
