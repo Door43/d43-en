@@ -2,12 +2,12 @@
 
 ===== Part 1: General Introduction =====
 
-**Outline (of book)**
+**Outline (of book)**\\
 
-1.	Title (Book Chapter:Verse-Chapter:Verse)
-a.	Subtitle (Book Chapter:Verse-Chapter:Verse)
-2.	Title (Book Chapter:Verse-Chapter:Verse)
-a.	 Subtitle (Book Chapter:Verse-Chapter:Verse)
+  - Title (Book Chapter:Verse-Chapter:Verse)
+    - Subtitle (Book Chapter:Verse-Chapter:Verse)
+  - Title (Book Chapter:Verse-Chapter:Verse)
+    - Subtitle (Book Chapter:Verse-Chapter:Verse)
 
 **Text-Question**
 
@@ -38,8 +38,8 @@ Text-Answer
 Text-Answer
 
 
-~~DISCUSSION~~
+
 
 ~~NOCACHE~~
 
-{{tag> CHTeam}}
+{{tag> CHTeam}}~~DISCUSSION~~
