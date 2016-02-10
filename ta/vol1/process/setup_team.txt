@@ -5,29 +5,27 @@ Before you start this module have you learned about:
   * [[en:ta:vol1:translate:translate_process|The Translation Process]]
   * [[en:ta:vol1:process:getting_started|Getting Started]]
 
-==== Translation Teams and the Definition of a Good Translation ====
-
-There are many important questions that must be considered when setting up a translation and checking team. Perhaps the most important thing to keep in mind is that the goal is a [[en:ta:vol1:translate:guidelines_intro|good translation]] which has four basic characteristics:
-  * [[en:ta:vol1:translate:guidelines_clear|Clear]] - Clear translations can only be produced by including native-speakers of the target language, preferably many of them, as translators and checkers
-  * [[en:ta:vol1:translate:guidelines_natural|Natural]] - Natural translations can only be produced by including native-speakers of the target language, preferably many of them, as translators and checkers
-  * [[en:ta:vol1:translate:guidelines_accurate|Accurate]] - Accurate translations can only be produced by people who understand well the language of the source text and notes and preferably the original text, too
-  * [[en:ta:vol1:translate:guidelines_church_approved|Church-Approved]] - Church-Approved translations are most easily produced by including in the translation and checking process as many church networks who speak the target language as possible
-
 ==== Choosing a Team ====
 
 As you begin selecting a translation and checking team, there are many different types of people and roles that are needed. There are also specific qualifications that are needed for each team. 
   * [[en:ta:vol1:translate:choose_team]] - Describes many of the roles that are needed
   * [[en:ta:vol1:translate:qualifications]] - Describes some of the skills needed by the translators
+  * Remember that everyone on the team needs to sign a statement that they agree with (forms are available at https://unfoldingword.org/forms/ ): 
+    * [[en:ta:vol1:intro:statement_of_faith]]
+    * [[en:ta:vol1:intro:translation_guidelines]]
+    * [[en:ta:vol1:intro:open_license]]
+  * Everyone on the team also needs to know the qualities of a good translation (see [[en:ta:vol1:translate:guidelines_intro]]). 
+  * The team will also need to know where they can find answers (see [[en:ta:vol1:intro:finding_answers]]). 
 
 ==== Translation Decisions ====
 
 There are many decisions the translation team will have to make, many of them right at the beginning of the project. Included are the following:
+  * [[en:ta:vol1:translate:translation_difficulty]] - Choosing what to translate first is another decision to be made
   * [[en:ta:vol1:translate:translate_source_text]] - Choosing a good source text is very important
     * [[en:ta:vol1:translate:translate_source_licensing]] - Copyright issues must be considered when choosing a source text
     * [[en:ta:vol1:translate:translate_source_version]] - Translating from the latest version of a source text is best
   * [[en:ta:vol1:translate:translate_alphabet]] - Many languages have alphabet decisions that need to be made
   * [[en:ta:vol1:translate:writing_decisions]] - Writing style, punctuation, translating names, spelling, and other decisions have to be made
-  * [[en:ta:vol1:translate:translate_what]] - Choosing what to translate first is another decision to be made
 
 
 
@@ -37,5 +35,4 @@ Next we recommend you learn about:
   * [[en:ta:vol1:translate:translate_source_text|Choosing a Source Text]]
   * [[en:ta:vol1:translate:translate_alphabet|Alphabet/Orthography]]
   * [[en:ta:vol1:translate:writing_decisions|Decisions for Writing Your Language]]
-  * [[en:ta:vol1:translate:translate_what|What to Start Translating]]
 

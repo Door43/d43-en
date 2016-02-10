@@ -16,11 +16,11 @@ Jesus commanded his disciples to make disciples of EVERY people group:
 <blockquote>"Jesus came to them and spoke to them and said, "All authority has been given to me in heaven and on earth. Go therefore and make disciples of all the nations. Baptize them into the name of the Father, of the Son, and of the Holy Spirit. Teach them to obey all the things that I have commanded you. And see, I am with you always, even to the end of the world.” -Matthew 28:18-20 (ULB)</blockquote>
 
 We have the promise that one day representatives from EVERY language will be in heaven:  
-    
+
 <blockquote>“After these things I saw, and behold, there was a great crowd, which no one was able to number, out of every nation, tribe, people, and language, standing before the throne and before the Lamb. ” -Revelation 7:9 (ULB)</blockquote>
 
 Understanding the WORD OF GOD in one's heart language is so important:  
-    
+
 <blockquote>"So faith comes from hearing, and hearing by the word of Christ." -Romans 10:17 (ULB)</blockquote>
 
 So, why do we do what we do?   
@@ -31,37 +31,38 @@ The unfoldingWord project exists because every people group deserves to have the
 
 How do we accomplish our goal of **unrestricted biblical content in every language**? 
 
-  * The unfoldingWord Network - By partnering with other like-minded organizations (see www.unfoldingword.org )
-  * [[en:ta:vol1:intro:statement_of_faith|Statement of Faith]] - By working with people and organizations who have the same beliefs  
-  * [[en:ta:vol1:intro:translation_guidelines|Translation Guidelines]] - By using a common translation theory
-  * [[en:ta:vol1:intro:open_license|Open License]] - By releasing everything we create under an open license
-  * [[en:ta:vol1:intro:gl_strategy|Gateway Languages Strategy]] - By making Biblical content available to translate from a known language
+  * The unfoldingWord Network - By partnering with other like-minded organizations (see https://unfoldingword.org )
+  * [[en:ta:vol1:intro:statement_of_faith]] - By working with people and organizations who have the same beliefs  
+  * [[en:ta:vol1:intro:translation_guidelines]] - By using a common translation theory
+  * [[en:ta:vol1:intro:open_license]] - By releasing everything we create under an open license
+  * [[en:ta:vol1:intro:gl_strategy]] - By making Biblical content available to translate from a known language
 
 ==== What ====  
 
 What do we do? 
 
   * **Open-licensed content** - We create and make available for translation free and unrestricted biblical content 
-    * **[[en:obs|Open Bible Stories]]** - a chronological mini-Bible comprising 50 key stories of the Bible, from Creation to Revelation, for evangelism and discipleship, in print, audio, and video 
-    * **[[en:bible:intro|the Bible]]** - the only inspired, inerrant, sufficient, authoritative Word of God made available under an open license for unrestricted translation, use, and distribution
-    * **translationNotes** - linguistic, cultural, and exegetical helps created for translators. They exist for [[en:obs:notes|Open Bible Stories]] and for [[en:bible:notes:home|the Bible]].
-    * **translationQuestions** - questions for each chunk of text that the translators and checkers can ask to help insure that the translation is being understood correctly. Available for [[en:obs:notes:questions:home|Open Bible Stories]] and for [[en:bible:questions:home|the Bible]].
-    * **[[en:obe:home|translationWords]]** - a list of important Biblical terms with a short explanation, cross references, and translation aids. Useful for Open Bible Stories and the Bible. 
+    * **Open Bible Stories** - a chronological mini-Bible comprising 50 key stories of the Bible, from Creation to Revelation, for evangelism and discipleship, in print, audio, and video (see https://unfoldingword.org/stories/ )
+    * **the Bible** - the only inspired, inerrant, sufficient, authoritative Word of God made available under an open license for unrestricted translation, use, and distribution (see https://unfoldingword.org/bible/ )
+    * **translationNotes** - linguistic, cultural, and exegetical helps created for translators. They exist for Open Bible Stories and for the Bible (see https://unfoldingword.org/translationnotes/ )
+    * **translationQuestions** - questions for each chunk of text that the translators and checkers can ask to help insure that the translation is being understood correctly. Available for Open Bible Stories and for the Bible (see https://unfoldingword.org/translationquestions/ ).
+    * **translationWords** - a list of important Biblical terms with a short explanation, cross references, and translation aids. Useful for Open Bible Stories and the Bible (see https://unfoldingword.org/translationwords/ ). 
 
   * **Tools** - We create translation, checking, and distribution tools (all of these tools are explained in more detail in the [[en:ta:vol1:tech:toc_techvol1|Technology Manual]])     
-    * **Door43** - an online translation platform where people can collaborate on translation and checking, also the content management system for unfoldingWord
-    * **[[en:ta:vol1:tech:ts_intro|translationStudio]]** - a mobile app where translators can do offline translating    
-    * **[[en:ta:vol1:tech:tk_intro|translationKeyboard]]** - a mobile app where users can create custom keyboards for languages not supported by their mobile device     
-    * **[[en:ta:vol1:tech:uw_app|unfoldingWord app]]** - a mobile app where checked unfoldingWord translations are published and distributed     
-    * **Digital Publishing Engine** - a system of pushing checked translations to the unfoldingWord website and app and creating print-ready documents of the content     
-    * **Audio Recording** - a list of recommendations for audio recording equipment, software, and recording procedures     
+    * **Door43** - an online translation platform where people can collaborate on translation and checking, also the content management system for unfoldingWord (see https://door43.org ).
+    * **translationStudio** - a mobile app and a desktop app where translators can do offline translating (see https://unfoldingword.org/translationstudio/ ).
+    * **translationKeyboard** - a mobile app where users can create custom keyboards for languages not supported by their mobile device (see https://unfoldingword.org/translationkeyboard/ ). 
+    * **unfoldingWord app** - a mobile app where checked unfoldingWord translations are published and distributed (see https://unfoldingword.org/app/ ). 
+    * **Digital Publishing Engine** - a system of pushing checked translations to the unfoldingWord website and app and creating print-ready documents of the content 
     * **Video Render Engine** - an automatic video render system that takes audio recordings and merges them with video clips to create custom videos for certain projects   
 
-  * **Training** - We create resources to train mother tongue translation teams (the training course is called [[https://unfoldingword.org/academy|translationAcademy]])
-    * [[en:ta:vol1:translate:toc_transvol1_2|Translation Manual]] - how to translate 
-    * [[:en:ta:vol1:checking:toc_checkvol1_2|Checking Manual]] -  how to check a translation
-    * [[:en:ta:vol1:tech:toc_techvol1_2|Technology Manual]] - how to use the different technology tools
-    * [[:en:ta:vol1:process:toc_processvol1_2|Process Manual]] - what next step to take
+  * **Training** - We create resources to train mother tongue translation teams (the training course is called translationAcademy - see https://unfoldingword.org/academy/ )
+    * **[[en:ta:vol1:translate:toc_transvol1_2|Translation Manual]]** - how to translate 
+    * **[[:en:ta:vol1:checking:toc_checkvol1_2|Checking Manual]]** -  how to check a translation
+    * **[[:en:ta:vol1:tech:toc_techvol1_2|Technology Manual]]** - how to use the different technology tools
+    * **[[:en:ta:vol1:process:toc_processvol1_2|Process Manual]]** - what next step to take
+    * **[[en:ta:vol2:audio:toc_audiovol2|Audio Manual]]** - how to make high quality recordings
+    * **[[en:ta:vol2:gateway:toc_gatewayvol2|Gateway Languages Manual]]** - how to open a gateway langauge
 
 
 

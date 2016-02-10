@@ -143,6 +143,8 @@ edge [arrowsize=1.4];
 "gl_translate" [fillcolor="#ff99ff"]
 "gl_strategy" -> "gl_translate"
 "open_license" -> "gl_translate"
+"toc_gatewayvol2" [fillcolor="#ff99ff"]
+"GATEWAY LANGUAGES MANUAL" -> "toc_gatewayvol2"
 "finding_answers" [fillcolor="#ff9999"]
 "ta_intro" -> "finding_answers"
 "gl_strategy" [fillcolor="#ff9999"]
@@ -340,8 +342,6 @@ edge [arrowsize=1.4];
 "Process" -> "toc_processvol1"
 "toc_processvol1_2" [fillcolor="#99ffff"]
 "Process" -> "toc_processvol1_2"
-"toc_processvol2" [fillcolor="#99ffff"]
-"Process" -> "toc_processvol2"
 "tsandroid_translation" [fillcolor="#99ffff"]
 "pretranslation_training" -> "tsandroid_translation"
 "setup_tsandroid" -> "tsandroid_translation"
@@ -581,6 +581,12 @@ edge [arrowsize=1.4];
 "guidelines_pure" [fillcolor="#99ff99"]
 "guidelines_intro" -> "guidelines_pure"
 "translation_guidelines" -> "guidelines_pure"
+"mast" [fillcolor="#99ff99"]
+"guidelines_intro" -> "mast"
+"translate_whatis" -> "mast"
+"translate_why" -> "mast"
+"translate_alphabet" -> "mast"
+"writing_decisions" -> "mast"
 "qualifications" [fillcolor="#99ff99"]
 "choose_team" -> "qualifications"
 "resources_intro" [fillcolor="#99ff99"]
@@ -683,10 +689,6 @@ edge [arrowsize=1.4];
 "translate_wforw" [fillcolor="#99ff99"]
 "translate_literal" -> "translate_wforw"
 "translate_fandm" -> "translate_wforw"
-"translate_what" [fillcolor="#99ff99"]
-"translate_manual" -> "translate_what"
-"translate_process" -> "translate_what"
-"choose_team" -> "translate_what"
 "translate_whatis" [fillcolor="#99ff99"]
 "translate_manual" -> "translate_whatis"
 "translate_why" [fillcolor="#99ff99"]
