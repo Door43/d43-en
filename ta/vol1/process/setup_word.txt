@@ -6,17 +6,17 @@ Before you start this module have you learned about:
 
 ==== Obtaining the Source Text for Open Bible Stories ====
 
-  - Go to [[:obs-template|Get Open Bible Stories Word Template]]
+  - Go to [[:obs-template]] to get Open Bible Stories Word Template
   - Select your source language (the language from which you will translate) and click "Save". (Note: If you click the "Add all images in the file", the download size will increase greatly.) **The template will download as a docx file.**
   - Open this template in your word processor of choice. 
 
-==== Obtaining Translation Helps for Open Bible Stories ====
+==== Obtaining translationHelps for Open Bible Stories ====
 
-  * The download for Open Bible Stories translation helps is not currently automated. Please contact [[en:ta:vol1:intro:finding_answers|Helpdesk]] for assistance
+  * Open Bible Stories translationHelps (translationNotes, translationWords, translationQuestions) is not currently supported for translation in a Word Processor.
 
 ==== Obtaining the Source Text & Helps for the Bible ====
 
-  * This process is not presently automated. Please contact the [[en:ta:vol1:intro:finding_answers|Helpdesk]] for further assistance.
+  * The Bible and its translationHelps are not currently supported for translation in a Word Processor.
 
 
 

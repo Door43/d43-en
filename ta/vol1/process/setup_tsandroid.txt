@@ -1,22 +1,22 @@
-===== Setting Up translationStudio =====
+===== Setting Up translationStudio-Android =====
 
-This module answers the question: How do I set up translationStudio?\\
+This module answers the question: How do I set up translationStudio-Android?\\
 Before you start this module have you learned about:
   * [[en:ta:vol1:process:platforms|Selecting a Platform]]
 
-=== Set up the app ===
+==== Set up the app ====
 
-  - First you will need to [[en:ta:vol1:tech:ts_install|install translationStudio]] on an Android device. (See also https://unfoldingword.org/translationstudio/ ))
-  - [[en:ta:vol1:tech:ts_first|First time use]] of translationStudio will require an agreement to the [[en:ta:vol1:intro:statement_of_faith]], the [[en:ta:vol1:intro:translation_guidelines]], and the [[en:ta:vol1:intro:open_license]]. 
+  - First you will need to install the app on an Android device. For instructions see [[en:ta:vol1:tech:ts_install]]. (See also https://unfoldingword.org/translationstudio/ )
+  - First time use of translationStudio will require an agreement to the [[en:ta:vol1:intro:statement_of_faith]], the [[en:ta:vol1:intro:translation_guidelines]], and the [[en:ta:vol1:intro:open_license]]. For help see [[en:ta:vol1:tech:ts_first]].
 
-=== Set up the source language ===
+==== Set up the source language ====
 
-  - [[en:ta:vol1:tech:ts_select|Select Source & Target Languages]]. Go [[en:ta:vol1:tech:ts_request|here]] if you cannot find your language.
+  - [[en:ta:vol1:tech:ts_select]]. Go to [[en:ta:vol1:tech:ts_request]] if you cannot find your language.
 
-//For more information on how to use translationStudio see the [[en:ta:vol1:tech:toc_techvol1|Technology Manual section on translationStudio]]//.
+//For more information on how to use translationStudio see the Technology Manual section on translationStudio at [[en:ta:vol1:tech:toc_techvol1]]//.
 
 
 
 Next we recommend you learn about:
-  * [[en:ta:vol1:process:tsandroid_translation|How to Translate in translationStudio]]
+  * [[en:ta:vol1:process:tsandroid_translation|How to Translate in translationStudio Android]]
 

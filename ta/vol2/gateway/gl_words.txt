@@ -1,16 +1,16 @@
-===== Translate the Words =====
+===== Translate the translationWords =====
 
-This module answers the question: What are the guidelines for translating the Words?\\
+This module answers the question: What are the guidelines for translating the translationWords?\\
 Before you start this module have you learned about:
   * [[en:ta:vol2:gateway:gl_notes|Translate the Notes]]
   * [[en:ta:vol2:gateway:gl_ulb|Translating the ULB]]
   * [[en:ta:vol2:gateway:gl_adaptulb|Adapt the ULB]]
 
-=== Why Translate the Words? ===
+=== Why Translate the translationWords? ===
 
 It is important that the Other Language translators understand all of the words that they are translating. But some of the words in the Bible are not used in everyday life in our time or in our cultures, and so the translator may not be familiar with them. Other words are used in everyday life, but they are used in a different way in the Bible. Some of these words have very important or special meanings in the Bible. They tell us a lot about God and his relationship with us. So in order for the Other Language translator to completely understand these words, we have provided the definitions in the translationWords list. When you translate this list into the Gateway Language, it will help all of the Other Language translators who will use it to translate the Bible for their people with good understanding.
 
-=== Guidelines for Translating the Words ===
+=== Guidelines for Translating the translationWords ===
 
 The translationWords definitions have several parts. The first part is "Definition." This gives the meaning of the word as it is used in the Bible. Please do not use definitions from a modern Gateway Language dictionary, because the way words are used in the Bible can be different from the way they are used in modern, everyday life. We want to make sure that the Other Language translator understands the way that the word is used in the Bible. 
 
@@ -29,5 +29,5 @@ The third and fourth parts are "Bible References" and "Examples from the Bible S
 
 
 Next we recommend you learn about:
-  * [[en:ta:vol2:gateway:gl_questions|Translate the Questions]]
+  * [[en:ta:vol2:gateway:gl_questions|Translate the translationQuestions]]
 

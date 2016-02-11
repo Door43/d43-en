@@ -12,7 +12,7 @@ For the English version of the files:
   - Download the zip file from the Downloads Section in the left column on Door43.
   - Extract the files from the zip file. Remember where the extracted files are stored on the computer.
 
-====Translate the files in Notepad++====
+==== Translate the files in Notepad++ ====
   - Open Notepad++ using the icon or program listed on the Windows Start menu.
   - Select Open from the File menu.
   - Navigate to where the files are:
@@ -21,11 +21,10 @@ For the English version of the files:
     - For tQ - go to the bible folder and open the Questions folder and then the Comprehension folder. The tQ for each book is in the book's name folder.
   - Open the desired file.
   - Edit the document and save with the same file name and as a .txt file.
-  
 
 ==== What to translate ====
 
-**For translationNotes:**
+=== For translationNotes ===
 
 Do not remove or change any equal signs ==. 
 
@@ -37,8 +36,8 @@ Notes are specific to the ULB translation. See the page on 'How to Write Notes' 
 
 Delete '2 squiggle lines before, the word 'DISCUSSION', and the 2 squiggle lines after'.
 
-**For translationWords:**
-    
+=== For translationWords ===
+
 Do not remove or change any equal signs ==. 
 
 The translators only need to translate words outside of square brackets [ ] and squigly brackets { }.

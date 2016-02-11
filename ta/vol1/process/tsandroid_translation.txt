@@ -1,34 +1,34 @@
-===== How to Translate in translationStudio =====
+===== How to Translate in translationStudio Android =====
 
 This module answers the question: How can I translate in translationStudio?\\
 Before you start this module have you learned about:
   * [[en:ta:vol1:process:pretranslation_training|Training Before Translation Begins]]
-  * [[en:ta:vol1:process:setup_tsandroid|Setting Up translationStudio]]
+  * [[en:ta:vol1:process:setup_tsandroid|Setting Up translationStudio-Android]]
 
 ==== Using Translation Helps ====
 
-  - Once the source text is [[en:ta:vol1:process:setup_tsandroid|setup]] on translationStudio, then you are ready to start translating. 
-    * It is strongly recommended that you consult the translation notes and key terms while doing your translation
-  - For the best way to use translation notes in translationStudio, please read [[en:ta:vol1:tech:ts_resources]]
+  - Once the source text is setup on translationStudio (for help see [[en:ta:vol1:process:setup_tsandroid]]), then you are ready to start translating. 
+    * It is strongly recommended that you consult the translationNotes and translationWords while doing your translation
+  - For the best way to use translationNotes in translationStudio, please read [[en:ta:vol1:tech:ts_resources]]
 
 ==== Editing a page ====
 
-  * To learn how to create or edit a page click [[en:ta:vol1:tech:ts_create|here]]
-  * If your language has letters that do not appear on your device's keyboard, you may need to install and use [[en:ta:vol1:tech:tk_intro|translationKeyboard]]. (See also https://unfoldingword.org/translationkeyboard/ )
+  * To learn how to create or edit a page see [[en:ta:vol1:tech:ts_create]]
+  * If your language has letters that do not appear on your device's keyboard, you may need to install and use translationKeyboard. See [[en:ta:vol1:tech:tk_intro]] and https://unfoldingword.org/translationkeyboard/ .
 
 ==== Saving My Work ====
 
-  * To learn how to save your work click [[en:ta:vol1:tech:ts_create|here]]
+  * To learn how to save your work see [[en:ta:vol1:tech:ts_create]]
 
 ==== Sharing Your Work ====
 
-  * To learn how to share your work click [[en:ta:vol1:tech:ts_share|here]]
+  * To learn how to share your work see [[en:ta:vol1:tech:ts_share]]
 
 ==== After Translating on translationStudio ====
 
-  - We strongly recommend that your translation be [[en:ta:vol1:process:prechecking_training|checked]].
-  - Once the checking is complete (to any level), you may [[en:ta:vol1:tech:ts_upload|upload]] your work.
-  - Once uploaded, you will need to [[en:ta:vol1:process:upload_merge|merge]] your work into Door43.
+  - We strongly recommend that your translation be checked. See [[en:ta:vol1:process:prechecking_training]].
+  - Once the checking is complete (to any level), you may upload your work. See [[en:ta:vol1:tech:ts_upload]]
+  - Once uploaded, you will need to merge your work into Door43. See [[en:ta:vol1:process:upload_merge]]
 
 
 

@@ -9,13 +9,13 @@ Before you start this module have you learned about:
 Before a resource can be published, the following prerequisites must all be met:
 
    * **Whole Resource** - The whole resource must be translated and checked, in other words, parts of resources (e.g. half of the Open Bible Stories, only a few chapters of a book of the Bible) cannot be published.
-   * **At Least Level 1** - A translation must have reached at least [[en:ta:vol1:checking:level1|Checking Level 1]]
-   * **On Door43** - Door43 must have the version that will be published (if translation or checking was done in translationStudio, you may need to [[en:ta:vol1:process:upload_merge|merge]] your work into Door43). 
-   * **Signatures** - Everyone involved in the translation and checking must have signed the [[en:ta:vol1:intro:statement_of_faith|Statement of Faith]], the [[en:ta:vol1:intro:translation_guidelines|Translation Guidelines]], and the [[en:ta:vol1:intro:open_license|Open License]]. This can be done in a number of ways:
+   * **At Least Level 1** - A translation must have reached at least Checking Level 1 (see [[en:ta:vol1:checking:level1]]). 
+   * **On Door43** - Door43 must have the version that will be published (if translation or checking was done in translationStudio, you may need to merge your work into Door43, for help see [[en:ta:vol1:process:upload_merge]]). 
+   * **Signatures** - Everyone involved in the translation and checking must have signed the [[en:ta:vol1:intro:statement_of_faith]], the [[en:ta:vol1:intro:translation_guidelines]], and the [[en:ta:vol1:intro:open_license]]. This can be done in a number of ways:
      * Everyone create a Door43 account
-     * Everyone sign a [[https://unfoldingword.org/forms|guidelines and license form]]
+     * Everyone sign a guidelines and license form, these are available for download at https://unfoldingword.org/forms
 
-When all these are completed, you are ready to start the [[en:ta:vol1:process:publishing_process|Publishing Engine]]. 
+When all these are completed, you are ready to start the Publishing Engine (see [[en:ta:vol1:process:publishing_process]]). 
 
 
 

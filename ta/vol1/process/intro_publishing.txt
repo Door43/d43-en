@@ -6,32 +6,32 @@ Before you start this module have you learned about:
 
 ==== Publishing Overview ====
 
-There are two translation platforms that we use - translationStudio and Door43. Once translations have been completed, we encourage these translations to be checked. Once a translation has been checked to at least Level 1, it becomes eligible to be published. Published content is placed on a platform where it remains static. While the content on Door43 can change frequently, the published content is static and assurance of quality remains high. 
+Once a translation has been checked to at least Level 1, it becomes eligible to be published. Published content is placed on a platform where it remains static. While the content on Door43 can change frequently, the published content is static (until it is republished) and assurance of quality remains high. 
 
-When content is published, a copy of what is found on Door43 is published to the [[https://unfoldingword.org/stories|unfoldingWord website]] in several formats:
+When content is published, a copy of what is found on Door43 is published to the unfoldingWord catalogue. From the catalogue (https://api.unfoldingword.org ), is made available in several ways:
 
-   * To be viewed online
-   * In a print-ready PDF for Print-on-Demand
-   * On the free [[https://unfoldingword.org/app|unfoldingWord mobile app]] for offline consumption
+   * On the website (https://unfoldingword.org )
+    * for online viewing (see https://unfoldingword.org/stories/ and https://unfoldingword.org/bible/ )
+    * for download in as PDF for Print-on-Demand
+    * for download in multimedia (when available)
+   * On the free unfoldingWord mobile app for offline consumption (see https://unfoldingword.org/app/ ).
 
 ==== Publishable Content ====
 
 Presently, there are two text resources that can be published using the unfoldingWord publishing engine: 
 
-   * [[en:obs|Open Bible Stories]]
-   * [[en:bible:intro|the Bible]]
+   * [[en:obs]] - is published at https://unfoldingword.org/stories/
+   * [[en:bible:intro]] - is published at https://bible.unfoldingword.org/ as well as on the language page
 
 Capacity is being built to be able to handle multimedia formats as well:
 
-   * Audio Open Bible Stories
-   * Video Open Bible Stories
+   * Audio Recordings
+   * Video Open Bible Stories - available on YouTube and for download at www.openbiblestories.com
    * Audio Bible
 
 ==== Published Content ====
 
-Published content can be found at https://unfoldingword.org/stories/ and on the [[https://unfoldingword.org/app|unfoldingWord mobile app]]. 
-
-In Door43, a brief statement will appear in resources that may be eligible for publishing which states the status of publishing in that namespace. For instance, at the time of writing the [[en:obs|Open Bible Stories in English]] says "This resource is published on unfoldingWord as checking level 3 and version 4. See it at https://unfoldingword.org/stories."
+In Door43, a brief statement will appear in resources that may be eligible for publishing which states the status of publishing in that namespace. For instance, at the time of writing the [[en:obs]] in English says "This resource is published on unfoldingWord as checking level 3 and version 4. See it at https://unfoldingword.org/stories."
 
 
 

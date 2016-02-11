@@ -3,22 +3,29 @@
 This module answers the question: How do I choose a translation platform?\\
 Before you start this module have you learned about:
   * [[en:ta:vol1:process:getting_started|Getting Started]]
+  * [[en:ta:vol1:translate:file_formats|File Formats]]
 
 ==== Choosing a Translation Platform ====
 
-Now you need to select a translation and checking platform. This is where the translation and checking teams will do their work. There are four options: 
+Now you need to select a translation and checking platform. This is where the translation and checking teams will do their work. There are several options: 
 
-  * Online in a web browser - For those with consistent internet, they can work straight on door43. Click [[en:ta:vol1:process:setup_door43|here]] to set up door43 for translation.
-  * Offline on a mobile device - For those with access to an Android tablet or mobile device, they can work offline in our translation app called translationStudio. Click [[en:ta:vol1:process:setup_tsandroid|here]] to set up translationStudio.
-  * Offline in a word processor - For those who would like to work in a word processor, they download the files needed to do that. Click [[en:ta:vol1:process:setup_word|here]] to set up word processor. 
+//Please note that not all resources are supported for translation in all platforms! To see which resources are supported on which platform, please visit https://unfoldingword.org/dashboard/ .//
 
-Please note that not all resources are supported for translation in all platforms! To see which resources are supported where, please visit https://unfoldingword.org/dashboard . 
+  * **Online in a web browser** - For those with consistent internet, they can work straight on door43. To set up Door43, see [[en:ta:vol1:process:setup_door43]].
+  * **Offline on a mobile device** - For those with access to an Android tablet or mobile device, they can work offline in our translation app called translationStudio. To set up translationStudio for Android see [[en:ta:vol1:process:setup_tsandroid]].
+  * **Offline on a computer**
+    * **In a translation program** - translationStudio-Desktop is available for Windows, Mac, and Linux. To set up translationStudio for Desktop see [[en:ta:vol1:process:setup_tsdesktop]]
+    * **In a word processor** - For those who would like to work in a word processor, they download the templates needed to do that. To set up a word processor see [[en:ta:vol1:process:setup_word]].
+
+//Remember: Bible translations must be done in USFM and everything else in either DokuWiki or Markdown format. See [[en:ta:vol1:translate:file_formats]].//
+
 
 
 
 Next we recommend you learn about:
   * [[en:ta:vol1:process:setup_door43|Setting up Door43]]
-  * [[en:ta:vol1:process:setup_tsandroid|Setting Up translationStudio]]
+  * [[en:ta:vol1:process:setup_tsandroid|Setting Up translationStudio-Android]]
+  * [[en:ta:vol1:process:setup_tsdesktop|Setting Up translationStudio-Desktop]]
   * [[en:ta:vol1:process:setup_word|Setting Up a Word Processor]]
   * [[en:ta:vol1:process:pretranslation_training|Training Before Translation Begins]]
 

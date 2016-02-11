@@ -7,15 +7,15 @@ Before you start this module have you learned about:
 
 ==== Using Translation Helps ====
 
-  - Once the source text is [[en:ta:vol1:process:setup_door43|setup]] on Door43, then you are ready to start translating. 
-    * It is strongly recommended that you consult the translation notes and key terms while doing your translation
-  - For the best way to use translation notes in Door43, please read [[en:ta:vol2:tech:translate_helpd43]]
+  - Once the source text is set up on Door43 (for help see [[en:ta:vol1:process:setup_door43]]), then you are ready to start translating. 
+    * It is strongly recommended that you consult the translationNotes and translationWords while doing your translation
+  - For the best way to use translationNotes in Door43, please read [[en:ta:vol2:tech:translate_helpd43]]
 
 ==== Editing a page ====
 
   - Login to Door43
   - Navigate to the page you want to edit. 
-  - Click on the pencil icon on the right side of the page.
+  - Click on the pencil icon on the right side of the page. (If you don't see a pencil, you probably have not logged in.)
   - Change whatever is needed.
   - Be sure to save your work (see below)
 

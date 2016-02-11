@@ -7,12 +7,12 @@ Before you start this module have you learned about:
 
 ==== Starting the Publishing Process ====
 
-Before you start the Publishing Process, please be sure that you have met all the [[en:ta:vol1:process:publishing_prereqs|Publishing Prerequisites]]. 
+Before you start the Publishing Process, please be sure that you have met all the publishing prerequisites (see [[en:ta:vol1:process:publishing_prereqs]]). 
 
-To start the publishing process, someone from the team will need fill out the [[http://td.unfoldingword.org/publishing/publish/request/|Request to Publish Form]]. A few things to note about this form: 
+To start the publishing process, someone from the team will need fill out the Request to Publish Form at http://td.unfoldingword.org/publishing/publish/request/ . A few things to note about this form: 
 
    * **An email address is required** - During the publishing process, the requester will be emailed if there are any problems, and also at the end of the process, requesting a final check be made. 
-   * **Documentation of Contributors is required** - To document who was involved, each Checking Level requires that all contributors sign the [[en:ta:vol1:intro:statement_of_faith|Statement of Faith]], the [[en:ta:vol1:intro:translation_guidelines|Translation Guidelines]], and the [[en:ta:vol1:intro:open_license|Open License]]. This documentation is required to start the publishing process. You can download [[https://unfoldingword.org/forms/|signature forms]].
+   * **Documentation of Contributors is required** - To document who was involved, each Checking Level requires that all contributors sign the [[en:ta:vol1:intro:statement_of_faith]], the [[en:ta:vol1:intro:translation_guidelines]], and the [[en:ta:vol1:intro:open_license]]. This documentation is required to start the publishing process. You can download signature forms at https://unfoldingword.org/forms/ .
      * Note: To help protect the identity of those who might desire it, pseudonyms/usernames will be cited (if provided) rather than real names in the list of contributors. 
    * **A "pre-flight" check** - Immediately after submitting the Request to Publish form, a computerized check will take place. This check ensures that everything has been translated and that content appears in the correct web pages in Door43. It also does a statistical check which compares the standard deviation from the source language to the target language. Abnormally high or low deviations are flagged and all results of the "pre-flight" check are processed and returned to the requester within a minute or so. If any changes need to be made, they should be made before proceeding.
 
@@ -20,13 +20,13 @@ To start the publishing process, someone from the team will need fill out the [[
 
 After the Request to Publish form has been submitted, the following will happen:
 
-   * **A documentation check** - someone from the unfoldingWord team will check to make sure all the documentation is in place and that the procedures followed during the checking process correspond to the guidelines laid out in the [[https://unfoldingword.org/quality/|Checking Levels]]. 
+   * **A documentation check** - someone from the unfoldingWord team will check to make sure all the documentation is in place and that the procedures followed during the checking process correspond to the guidelines laid out in the Checking Levels https://unfoldingword.org/quality/ . 
 
 If any of the documentation is not correct, the requester will be emailed and the publishing process will stop until the problem is resolved and a "Request to Continue Publishing" form is filled out and submitted. 
 
 ==== Finishing the Publishing Process ====
 
-When the publishing process is complete, the content will be published to the unfoldingWord catalogue which makes it available on the [[http://unfoldingword.org/stories|unfoldingWord website]] as a print-ready PDF and viewable online. It will also be published to the [[https://unfoldingword.org/app/|unfoldingWord mobile app]]. (In order for this newly published content to appear on your unfoldingWord app, you may need to download the latest content from the web.)
+When the publishing process is complete, the content will be published to the unfoldingWord catalogue which makes it available on the unfoldingWord website (see https://unfoldingword.org ) as a print-ready PDF, viewable online, and in the app (see https://unfoldingword.org/app/ ). (In order for this newly published content to appear on your unfoldingWord app, you may need to download the latest content from the web.)
 
 The requester will be emailed and informed that the publishing process has been completed and they will be requested to look over the published content to ensure that everything "looks right." 
 

@@ -7,9 +7,9 @@ Before you start this module have you learned about:
 
 ==== Using Translation Helps ====
 
-  - Once the source text is [[en:ta:vol1:process:setup_word|setup]] on your word processor, then you are ready to start translating. 
-    * It is strongly recommended that you consult the translation notes and key terms while doing your translation
-  - The best way to use the translation notes and key terms is to have that file opened in another window so that they can be quickly and easily referenced while the translation is ongoing.
+  - Once the source text is set up on your word processor (see  [[en:ta:vol1:process:setup_word]]), then you are ready to start translating. 
+    * It is strongly recommended that you consult the translationNotes and translationWords while doing your translation
+  - The best way to use the translationNotes and translationWords is to have that file opened in another window so that they can be quickly and easily referenced while the translation is ongoing.
 
 ==== Changing a page ====
 
@@ -27,11 +27,11 @@ Before you start this module have you learned about:
 
 ==== After Translating in a Word Processor ====
 
-  - We strongly recommend that your translation be [[en:ta:vol1:process:prechecking_training|checked]].
+  - We strongly recommend that your translation be checked. See [[en:ta:vol1:process:prechecking_training]].
   - Once the checking is complete (to any level), you may upload your work. 
-    - This feature is presently automated for Open Bible Stories. Please follow the instructions on the [[:obs-upload|Open Bible Stories Upload]] page. 
-    - Please contact the [[en:ta:vol1:intro:finding_answers|Helpdesk]] for help with uploading other projects.
-  - Once uploaded, you will need to [[en:ta:vol1:process:upload_merge|merge]] your work into Door43.
+    - This feature is presently automated for Open Bible Stories. Please follow the instructions on [[:obs-upload]]. 
+    - Please contact the Helpdesk if you have any questions. See [[en:ta:vol1:intro:finding_answers]]
+  - Once uploaded, you will need to merge your work into Door43. See  [[en:ta:vol1:process:upload_merge]]
 
 
 

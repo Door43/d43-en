@@ -41,6 +41,7 @@ This module answers the question: What is in Volume 1 of the translation manual?
     - [[en:ta:vol1:translate:translate_textvariants]]
   - [[en:ta:vol1:translate:translate_alphabet]]
   - [[en:ta:vol1:translate:writing_decisions]]
+  - [[en:ta:vol1:translate:file_formats]]
 
 === How to Start Translating === 
   - [[en:ta:vol1:translate:translate_what]]

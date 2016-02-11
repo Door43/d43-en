@@ -4,41 +4,45 @@ This module answers the question: What is in the process manual volume 1?\\
 ==== Process Manual Volume 1 ====
 
 === 1. Getting Started ====
-   - [[en:ta:vol1:process:process_manual|Introduction]]
-   - [[en:ta:vol1:process:getting_started|Getting Started]]
+   - [[en:ta:vol1:process:process_manual]]
+   - [[en:ta:vol1:process:getting_started]]
+
+=== 2. Setting Up a Translation Team ===
    - [[en:ta:vol1:process:setup_team]]
 
-=== 2. Setting Up A Translation Platform ===
+=== 3. Setting Up A Translation Platform ===
 
-  - [[en:ta:vol1:process:platforms|Choosing a translation platforms]]
-    - [[en:ta:vol1:process:setup_door43|Setting up Door43]]  
-    - [[en:ta:vol1:process:setup_tsandroid|Setting up translationStudio - Android]] 
-    - [[en:ta:vol1:process:setup_word|Setting up for a Word Processor]]  
+  - [[en:ta:vol1:process:platforms]]
+    - [[en:ta:vol1:process:setup_door43]]  
+    - [[en:ta:vol1:process:setup_tsandroid]] 
+    - [[en:ta:vol1:process:setup_tsdesktop]]
+    - [[en:ta:vol1:process:setup_word]]  
 
-=== 3. Translating ===
+=== 4. Translating ===
 
-  - [[en:ta:vol1:process:pretranslation_training|Training before translation begins]]
-    - [[en:ta:vol1:process:door43_translation|Translating Using Door43]]  
-    - [[en:ta:vol1:process:tsandroid_translation|Translating Using translationStudio]]  
-    - [[en:ta:vol1:process:word_translation|Translating Using a Word Processor]]
-  - [[en:ta:vol1:process:upload_merge|Merging an Upload into Door43]]
+  - [[en:ta:vol1:process:pretranslation_training]]
+    - [[en:ta:vol1:process:door43_translation]]
+    - [[en:ta:vol1:process:tsandroid_translation]]
+    - [[en:ta:vol1:process:tsdesktop_translation]]
+    - [[en:ta:vol1:process:word_translation]]
+  - [[en:ta:vol1:process:upload_merge]]
 
-=== 4. Checking ===
+=== 5. Checking ===
 
-   - [[en:ta:vol1:process:prechecking_training|Training before checking begins]]
-   - [[en:ta:vol1:process:required_checking|How to Check]]
+   - [[en:ta:vol1:process:prechecking_training]]
+   - [[en:ta:vol1:process:required_checking]]
 
-=== 5. Publishing ===
+=== 6. Publishing ===
 
-   - [[en:ta:vol1:process:intro_publishing|Introduction to publishing]]
-   - [[en:ta:vol1:process:publishing_prereqs|Publishing prerequisites]]
-   - [[en:ta:vol1:process:publishing_process|How to Publish]]
+   - [[en:ta:vol1:process:intro_publishing]]
+   - [[en:ta:vol1:process:publishing_prereqs]]
+   - [[en:ta:vol1:process:publishing_process]]
 
-=== 6. Distributing ===
+=== 7. Distributing ===
 
-   - [[en:ta:vol1:process:intro_share|Introduction to Distribution]]
-   - [[en:ta:vol1:process:share_unpublished|Sharing Unpublished Content]]
-   - [[en:ta:vol1:process:share_published|Sharing Published content]]
+   - [[en:ta:vol1:process:intro_share]]
+   - [[en:ta:vol1:process:share_unpublished]]
+   - [[en:ta:vol1:process:share_published]]
 
 
 

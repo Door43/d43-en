@@ -123,6 +123,7 @@ edge [arrowsize=1.4];
 "gl_adaptULB" -> "gl_Notes"
 "gl_ULB" -> "gl_Notes"
 "gl_Questions" [fillcolor="#ff99ff"]
+"ta-mast" -> "gl_Questions"
 "gl_Words" -> "gl_Questions"
 "gl_Notes" -> "gl_Questions"
 "gl_ULB" -> "gl_Questions"
@@ -303,6 +304,7 @@ edge [arrowsize=1.4];
 "setup_notepad" -> "notepad_translation"
 "platforms" [fillcolor="#99ffff"]
 "getting_started" -> "platforms"
+"file_formats" -> "platforms"
 "prechecking_training" [fillcolor="#99ffff"]
 "pretranslation_training" -> "prechecking_training"
 "pretranslation_training" [fillcolor="#99ffff"]
@@ -326,6 +328,8 @@ edge [arrowsize=1.4];
 "getting_started" -> "setup_team"
 "setup_tsandroid" [fillcolor="#99ffff"]
 "platforms" -> "setup_tsandroid"
+"setup_tsdesktop" [fillcolor="#99ffff"]
+"platforms" -> "setup_tsdesktop"
 "setup_word" [fillcolor="#99ffff"]
 "platforms" -> "setup_word"
 "share_published" [fillcolor="#99ffff"]
@@ -345,6 +349,9 @@ edge [arrowsize=1.4];
 "tsandroid_translation" [fillcolor="#99ffff"]
 "pretranslation_training" -> "tsandroid_translation"
 "setup_tsandroid" -> "tsandroid_translation"
+"tsdesktop_translation" [fillcolor="#99ffff"]
+"pretranslation_training" -> "tsdesktop_translation"
+"setup_tsdesktop" -> "tsdesktop_translation"
 "upload_merge" [fillcolor="#99ffff"]
 "pretranslation_training" -> "upload_merge"
 "word_translation" [fillcolor="#99ffff"]
@@ -537,6 +544,8 @@ edge [arrowsize=1.4];
 "figs_partsofspeech" -> "figs_youformal"
 "figs_yousingular" [fillcolor="#99ff99"]
 "figs_partsofspeech" -> "figs_yousingular"
+"file_formats" [fillcolor="#99ff99"]
+"Translation" -> "file_formats"
 "first_draft" [fillcolor="#99ff99"]
 "translate_what" -> "first_draft"
 "translate_source_text" -> "first_draft"
