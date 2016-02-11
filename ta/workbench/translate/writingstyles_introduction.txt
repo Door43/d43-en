@@ -8,9 +8,9 @@ In order to understand this module, it would be good to read
 
 ===== Description =====
 
-The first time that people or things are mentioned in a story, they are new participants. After that whenever they are mentioned they are old participants.
+The first time that people or things are mentioned in a story, they are __new participants__. After that whenever they are mentioned they are __old participants__.
 
-**Now __there was a Pharisee whose name was Nicodemus__... __This man__ came to Jesus at night time... Jesus replied to __him__** (John 3:1) - The first underlined phrase introduces Nicodemus as a new participant. He is then referred to as "This man" and "him."
+**Now __there was a Pharisee whose name was Nicodemus__... __This man__ came to Jesus at night time... Jesus replied to __him__** (John 3:1) - The first underlined phrase introduces Nicodemus as a new participant. He is then referred to as "This man" and "him." when he is an old participant.
 
 Reason this is a translation issue: In order to make your translation clear and natural, it is necessary to properly mark the participants so people will know if they are new participants or ones that they have already read about.
 
