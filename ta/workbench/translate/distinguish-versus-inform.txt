@@ -5,8 +5,15 @@ This module answers the question: When a phrase is used with a noun, what is the
 In order to understand this module, it would be good to read:
   * [[en:ta:vol2:translate:figs_partsofspeech]]
 
-[[Summary of 100 words or less]]
- 
+In some languages, phrases can be used with a noun for two different things. They can either distinguish one item from another or they can give more information about an item. 
+
+  * “Mary gave some of the food to her sister __who was very thankful__. 
+    *If her sister was usually thankful, the underlined phrase could distinguish this sister from another sister who was not usually thankful.
+
+  * “Mary gave some of the food to her sister, __who was very thankful__.” 
+    * This same phrase can be used to inform us about how Mary's sister responded when Mary gave her the food. In this case it does not distinguish one sister from another.
+
+[[Chris, I don't know how to summarize this in less that 100 words and have it still be understandable for someone who doesn't already know it.]]
 ===== Description ===== 
 In some languages, phrases can be used with a noun for two different things. They can either distinguish one item from another or they can give more information about an item. Sometimes the added information is new information to the reader, and some times it is a reminder of something the reader would already know or assume. 
  
