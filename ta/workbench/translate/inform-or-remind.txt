@@ -12,7 +12,7 @@ In order to understand this module, it would be good to read
 Some languages can use an adjective or another phrase with a noun to give information about that noun or to remind people of something about it.  
 
   * Mary gave some of the food to her sister, __who was very thankful__. 
-    * The phrase "who was very thankful" can be used to inform us about how Mary's sister responded when Mary gave her the food. In this case it is not distinguishing one sister from another. 
+    * The phrase "who was very thankful" can be used to inform us about how Mary's sister responded when Mary gave her the food. In this case does not distinguish this sister from another sister that Mary might have. 
  
 **Reason this is a translation Issue:** Some languages do not do this. If people see an adjective or another phrase right next to a noun, they will assume that the purpose of the phrase is to distinguish that thing from other possible things it could refer to.
 
