@@ -36,15 +36,16 @@ Purpose (optional)
 
 If you feel you need to combine verses in your translation in order to make it sound logical or clearer, you may do that and indicate it by hyphenating the verse numbers, as above.
 
-See: [[talink Verse Bridge Tech Manual]]
+See: [[:en:ta:workbench:translate:talink-verse-bridge-tech-manual|talink Verse Bridge Tech Manual]]
 
 Here is the original of Daniel 4:28-29 (ASV):
 
-28 All this came upon King Nebuchadnezzar. 29 At the end of twelve months he was walking on the roof of the royal palace of Babylon,
+28 **All this came upon King Nebuchadnezzar. 29 At the end of twelve ****months**** he was walking on the roof of the royal palace of Babylon,**
 
 And here is how the two verses were combined to make the meaning more clear:
 
-28-29 All these things happened to king Nebuchadnezzar in twelve months. He was walking at the royal palace in Babylon.
+28-29 **All these things happened to king Nebuchadnezzar in twelve months. He was walking at the royal palace in Babylon.**
+
 ===== Examples of Translation Strategies Applied =====
 
 
