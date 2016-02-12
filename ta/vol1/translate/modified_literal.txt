@@ -1,12 +1,14 @@
 ===== Modified Literal Translation =====
 A modified literal translation focuses closely on words, often modifying the Hebrew and Greek grammar just enough to fit into an acceptable sentence structure in the target language.
 ==== Examples ====
-These examples are taken from ULB and are compared against the renderings in UDB. 
+ 
 === MAT 7:6 ===
->// Do not give what is holy to the dogs, and do not throw your pearls in front of the hogs, or perhaps they will trample them underfoot, and then turn and tear you to pieces. **ULB**// 
+^Greek|not|give|the|what is holy|the|dog|nor|throw|the|pearl|you|before|the|pig|in order that not|tread down|it|with|the|foot|it|and|turn around|tear in pieces|you|
 
->// "You do not give things that belong to God to dogs that would attack you. And you do not throw valuable pearls in front of hogs, because they would just walk on them. In the same way, do not tell wonderful things about God to people who you know will do evil things to you in return. **UDB**// 
+^ULB|// Do not give what is holy to the dogs, and do not throw your pearls in front of the hogs, or perhaps they will trample them underfoot, and then turn and tear you to pieces.//|
+^UDB|// "You do not give things that belong to God to dogs that would attack you. And you do not throw valuable pearls in front of hogs, because they would just walk on them. In the same way, do not tell wonderful things about God to people who you know will do evil things to you in return.//| 
 === Job 11:12 ===
->// But foolish people have no understanding; they will get it when a wild donkey gives birth to a man. **ULB**// 
+^ Hebrew | and a person | hollow | he will become intelligent | and a male donkey | of a wild donkey | a human being | it will be born |
 
->// Stupid people like you will start to become wise when wild donkeys start giving birth to people. **UDB**//
+^ULB | //But foolish people have no understanding; they will get it when a wild donkey gives birth to a man. //| 
+^UDB | //Stupid people like you will start to become wise when wild donkeys start giving birth to people.//|
