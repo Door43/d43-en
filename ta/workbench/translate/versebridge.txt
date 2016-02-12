@@ -1,13 +1,49 @@
+====== Verse Bridges ======
+
+This module answers the question: Why are some verse numbers combined, such as "3-5" or "17-18" ?\\
+Before you read this module, it would be helpful to read:
+
+  * [[:en:ta:workbench:translate:organization-of-the-bible|Structure of the Bible]]
+
+===== Description =====
+
+In some rare cases, you will find in our Bibles online (ULB or UDB) that two or more verse numbers are combined, such as 17-18. This indicates where the order of the verses was switched so that the story or message could be more easily or logically understood.
+
+\\
+Examples
+
+**17-18 ****Ezra's sons were Jether, Mered, Epher, and Jalon. Mered's Egyptian wife bore Miriam, Shammai, and Ishbah, who became the father of Eshtemoa. These were the sons of Bithiah, daughter of Pharaoh, whom Mered married. Mered's Jewish wife bore Jered, who became the father of Gedor; Heber, who became the father of Soco; and Jekuthiel, who became the father of Zanoah.** (1 Chronicles 4:17-18)
+
+**12-13 ** **Kings of armies flee, they flee,**
+
+**and the women waiting at home divide the plunder:**
+
+**doves covered with silver**
+
+**with wings of yellow gold.**
+
+**When some of you people stayed among the sheepfolds, why did you do this?** (Psalm 68:12-13 ULB)
+
+Purpose (optional)
+
+=== Reason this is a translation issue ===
+
+===== Examples from the Bible =====
+
+17-18 **Ezrah's sons were Jether, Mered, Epher, and Jalon. Mered's Egyptian wife bore Miriam, Shammai, and Ishbah, who became the father of Eshtemoa. These were the sons of Bithiah, daughter of Pharaoh, whom Mered married. Mered's Jewish wife bore Jered, who became the father of Gedor; Heber, who became the father of Soco; and Jekuthiel, who became the father of Zanoah.**
+(1 Chronicles 4:17-18)
 ===== Translation Strategies =====
 
 If you feel you need to combine verses in your translation in order to make it sound logical or clearer, you may do that and indicate it by hyphenating the verse numbers, as above.
 
 See: [[:en:ta:workbench:translate:talink-verse-bridge-tech-manual|talink Verse Bridge Tech Manual]]
 
-Here is the original of Daniel 4:28-29 (ASV):
+===== Examples of Translation Strategies Applied =====
 
-28 **All this came upon King Nebuchadnezzar.**  ** 29 At the end of twelve months he was walking on the roof of the royal palace of Babylon,  **
 
-And here is how the two verses were combined to make the meaning more clear:
+----
 
-** 28-29 ** **All these things happened to king Nebuchadnezzar in twelve months. He was walking at the royal palace in Babylon.  **
+__[[https://pad.door43.org/p/ta-translate_chapverse|
+https://pad.door43.org/p/ta-translate_chapverse]]__
+
+{{tag>draftcb epadn}}~~DISCUSSIONS~~
