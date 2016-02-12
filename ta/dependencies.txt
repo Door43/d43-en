@@ -119,11 +119,24 @@ edge [arrowsize=1.4];
 "vol2_intro" -> "vol2_steps"
 "vol2_things_to_check" [fillcolor="#9999ff"]
 "vol2_steps" -> "vol2_things_to_check"
+"check_Notes" [fillcolor="#ff99ff"]
+"vol2_steps" -> "check_Notes"
+"vol2_things_to_check" -> "check_Notes"
+"gl_Notes" -> "check_Notes"
+"check_UDB" [fillcolor="#ff99ff"]
+"vol2_steps" -> "check_UDB"
+"vol2_things_to_check" -> "check_UDB"
+"gl_UDB" -> "check_UDB"
+"check_ULB" [fillcolor="#ff99ff"]
+"vol2_steps" -> "check_ULB"
+"vol2_things_to_check" -> "check_ULB"
+"gl_adaptULB" -> "check_ULB"
+"gl_ULB" -> "check_ULB"
 "gl_Notes" [fillcolor="#ff99ff"]
 "gl_adaptULB" -> "gl_Notes"
 "gl_ULB" -> "gl_Notes"
 "gl_Questions" [fillcolor="#ff99ff"]
-"ta-mast" -> "gl_Questions"
+"mast" -> "gl_Questions"
 "gl_Words" -> "gl_Questions"
 "gl_Notes" -> "gl_Questions"
 "gl_ULB" -> "gl_Questions"

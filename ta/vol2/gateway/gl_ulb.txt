@@ -5,7 +5,9 @@ Before you start this module have you learned about:
   * [[en:ta:vol1:intro:gl_strategy|Gateway Languages Strategy]]
   * [[en:ta:vol2:gateway:gl_translate|Translating in the Gateways]]
 
-The Unlocked Literal Bible (ULB) is designed to be used in conjunction with the Notes and the Unlocked Dynamic Bible (UDB) as a tool for Bible translation. Unlike the UDB and unlike an end-user Bible, the ULB is designed to reflect the forms of the source languages, so that the Other Language (OL) translator can see what they are. By using the ULB, the OL translator can "look through" it to see how the original Bible expressed the biblical ideas. As you translate the ULB, therefore, you must try to retain the grammatical and syntactic structures of the original as far as the target language (Gateway Language) will allow. If the original structure does not make sense in the target language, then you will need to change it into a structure that does make sense. It does no good to make a translation that the OL translator using this tool will not be able to understand. But as far as the target language will allow, retain the structures of the original in your translation of the ULB. 
+==== Translation Theory for Translating the ULB ====
+
+The Unlocked Literal Bible (ULB) is designed to be used in conjunction with the translationNotes and the Unlocked Dynamic Bible (UDB) as a tool for Bible translation. Unlike the UDB and unlike an end-user Bible, the ULB is designed to reflect the forms of the source languages, so that the Other Language (OL) translator can see what they are. By using the ULB, the OL translator can "look through" it to see how the original Bible expressed the biblical ideas. As you translate the ULB, therefore, you must try to retain the grammatical and syntactic structures of the original as far as the target language (Gateway Language) will allow. If the original structure does not make sense in the target language, then you will need to change it into a structure that does make sense. It does no good to make a translation that the OL translator using this tool will not be able to understand. But as far as the target language will allow, retain the structures of the original in your translation of the ULB. 
 
 ==== What method should be used to translate the ULB? ====
 
@@ -13,26 +15,32 @@ When translating the ULB, keep the English source open in front of you. This mea
 
 ==== What are the structures of the ULB that should be retained? ====
 
-The translation of the ULB needs to retain the original grammatical forms (as far as is possible), the idioms, and the figures of speech of the original so that the OL translator can consider them and use them if they communicate the right thing in the target language. If those forms get changed in a Gateway Language (GL) translation of the ULB, then the OL translator will never see them and the Notes about them will not make sense. Keep in mind that the ULB and the UDB are only going to be translated into the GLs, because they are translation tools for the use of the OL translator. We want these tools to be as useful as possible. For the ULB, this means that it should retain structures that we would not always retain in an end-user Bible. The GL translator must understand that this translation will lack naturalness and sometimes also lack clarity because it is aiming at reproducing these original language structures and figures of speech that may not translate well into the GL. Wherever the ULB translation lacks clarity, however, there should also be a Translation Note to explain the meaning of the structure for the OL translator. The Notes and the UDB will provide the meaning wherever that meaning is in doubt in the ULB. In this way, the tools will work together to provide the OL translator with a full set of information about both the form and the meaning of the original Bible.
+The translation of the ULB needs to retain the original grammatical forms (as far as is possible), the idioms, and the figures of speech of the original so that the OL translator can consider them and use them if they communicate the right thing in the target language. If those forms get changed in a Gateway Language (GL) translation of the ULB, then the OL translator will never see them and the translationNotes about them will not make sense. Keep in mind that the ULB and the UDB are only going to be translated into the GLs, because they are translation tools for the use of the OL translator. We want these tools to be as useful as possible. For the ULB, this means that it should retain structures that we would not always retain in an end-user Bible. The GL translator must understand that this translation will lack naturalness and sometimes also lack clarity because it is aiming at reproducing these original language structures and figures of speech that may not translate well into the GL. Wherever the ULB translation lacks clarity, however, there should also be a translationNote to explain the meaning of the structure for the OL translator. The translationNotes and the UDB will provide the meaning wherever that meaning is in doubt in the ULB. In this way, the tools will work together to provide the OL translator with a full set of information about both the form and the meaning of the original Bible.
 
 ==== Examples ====
 
 === Grammatical Forms ===
 
 The ULB of Luke 2:47 reproduces a grammatical form from the Greek source language that is also natural in English, but that might not be natural in other languages. When talking about the boy Jesus at the temple, it says, "All who heard him were amazed at his understanding and his answers." The nouns "understanding" and "answers" refer to events, not things, and so must be translated as verbs in many languages.
-The UDB of the same verse gives an example of how these nouns can be translated as verbs. It says, "All the people who heard what he said were amazed at how much he _understood_ and how well he _answered_ the questions that the teachers asked."
+
+The UDB of the same verse gives an example of how these nouns can be translated as verbs. It says, "All the people who heard what he said were amazed at how much he //understood// and how well he //answered// the questions that the teachers asked."
+
 When translating the ULB, these nouns should be translated as nouns if that will make sense in the target language.
 
 === Idioms ===
 
 The ULB of Matthew 2:20 reproduces an idiom from the Greek source language. It refers to Herod and his soldiers who were trying to kill the child Jesus as, "those who sought the child's life." In some languages this is clear, and in others it is not.
+
 The UDB of the same verse tries to make the meaning clear by translating this idiom as, "the people who were trying to kill the child." 
-When translating the ULB, this idiom should be translated as it is, so that the Other Language translator can consider it and use it if it makes sense. The UDB and the Notes will provide the meaning. 
+
+When translating the ULB, this idiom should be translated as it is, so that the Other Language translator can consider it and use it if it makes sense. The UDB and the translationNotes will provide the meaning. 
 
 === Figures of Speech ===
 
-The ULB of John 1:17 reproduces a figure of speech from the Greek source language. It says, "grace and truth came through Jesus Christ." (This figure of speech is called "personification;" see ta-figs_personification.) This figure of speech talks as if grace and truth were like people who can come and go, and it talks as if Jesus Christ were like a doorway that they can come through. In some languages this makes sense, but in other languages it does not. The plain meaning is that Jesus Christ acted toward us with grace and taught us true things about God.
+The ULB of John 1:17 reproduces a figure of speech from the Greek source language. It says, "grace and truth came through Jesus Christ." (This figure of speech is called "personification;" see [[en:ta:vol2:translate:figs_personification]].) This figure of speech talks as if grace and truth were like people who can come and go, and it talks as if Jesus Christ were like a doorway that they can come through. In some languages this makes sense, but in other languages it does not. The plain meaning is that Jesus Christ acted toward us with grace and taught us true things about God.
+
 The UDB of the same verse tries to make this plain meaning clear by translating it as, "Jesus Christ was kind to us far beyond what we deserved and taught us true things about God." 
+
 When translating the ULB, this figure of speech should be translated as it is, so that the Other Language translator can consider it and use it if it makes sense. If it does not, the UDB provides an alternative way to translate it.
 
 

@@ -5,6 +5,8 @@ Before you start this module have you learned about:
   * [[en:ta:vol1:intro:gl_strategy|Gateway Languages Strategy]]
   * [[en:ta:vol1:intro:open_license|Open License]]
 
+==== What Needs To Be Translated ====
+
 The following materials must be translated into the gateway languages. We recommend that they be translated in this order, and checked to the levels stated.
 
 PHASE 1
@@ -23,9 +25,9 @@ PHASE 2
     * Bible translationNotes - Level 3
     * Bible translationQuestions - Level 2
 
-It is important that you translate the text of the ULB and the UDB before you translate the Notes and the Questions. However, another good method would be to translate all of the translation resources for each chunk of the Bible together. In this case, for each chunk of text, you would translate the ULB and the UDB of those verses, then the Notes, the Words, and the Questions for those same verses. Then you would move to the next chunk and translate each of the resources for that chunk, as well. 
+It is important that you translate the text of the ULB and the UDB before you translate the translationNotes and the translationQuestions. However, another good method would be to translate all of the translation resources for each chunk of the Bible together. In this case, for each chunk of text, you would translate the ULB and the UDB of those verses, then the translationNotes, the translationWords, and the translationQuestions for those same verses. Then you would move to the next chunk and translate each of the resources for that chunk, as well. 
 
-Why Translate Two Bibles into the Gateway Languages?
+==== Why Translate Two Bibles into the Gateway Languages? ====
 
 Some people might ask this question, because adequate Bibles already exist in most of the Gateway languages. However, these are end-user Bibles, designed to be read and studied by people who speak those languages in their homes and churches. The Bibles that we are translating are not end-user Bibles. They are Bibles designed to be used in conjuction with each other and with the other translation helps as a set of tools that will allow speakers of other languages to use them to translate a Bible into their own languages. What they produce from these tools will be an end-user Bible.
 

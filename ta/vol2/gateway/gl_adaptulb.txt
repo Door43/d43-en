@@ -5,29 +5,33 @@ Before you start this module have you learned about:
   * [[en:ta:vol2:gateway:gl_udb|Translating the UDB]]
   * [[en:ta:vol2:gateway:gl_translate|Translating in the Gateways]]
 
+==== Prerequisites for Adapting an Existing Translation for the ULB ====
+
 In order to adapt an existing translation and use it as the ULB for a Gateway Language (GL), it is necessary that the existing translation be a literal translation. That is, it should follow the same order of clauses as the original biblical languages and reproduce the original biblical idioms and figures of speech. Most Bibles that were translated into Gateway Languages in the first half of the twentieth century or earlier are literal translations. 
 
 It is also necessary that the Bible that you adapt as the ULB not be encumbered by copyright. That means that it must be in the public domain or have a license that permits us to reproduce and translate it. For more information on copyrights and licensing, see ta-open_license.
 
 If the Bible is very old, you will need to update the language and the style so that it uses words that people use now and "talks" in the way that people talk now. Even though the ULB has a literal style, it must use words that people know so that they can understand it.
 
+==== Methodology for Adapting an Existing Translation for the ULB ====
+
 Because adapting an existing translation is a process of editing rather than of translating, the first four steps of the MAST process cannot be used for this. Especially do not use the step of blind drafting. Instead, you should follow these steps:
 
- - Read the chapter in the English ULB and the Notes for that chapter. If you are begining to translate a book, also read the overview of the book. 
- - Read the chapter in the Bible that you are adapting as the ULB. 
- - Go through the chapter and change old words to words that people use now.
- - If some sentences are put together in a strange way, check to see if they are also that way in the English ULB.
-*a. If the sentences are also put together in that same strange way in the English ULB, it is because the original Bible has that structure. Leave them as they are. There will be a Note that will explain that structure.
-*b. If the sentences are not put together in that same strange way in the English ULB, then change the sentence so that it is clearer for modern readers.
- - If you see that any verse or phrase in the Bible that you are adapting is very different than the English ULB, then change it so that it is more like the English ULB. 
+  - Read the chapter in the English ULB and the Notes for that chapter. If you are begining to translate a book, also read the overview of the book. 
+  - Read the chapter in the Bible that you are adapting as the ULB. 
+  - Go through the chapter and change old words to words that people use now.
+  - If some sentences are put together in a strange way, check to see if they are also that way in the English ULB.
+    - If the sentences are also put together in that same strange way in the English ULB, it is because the original Bible has that structure. Leave them as they are. There will be a Note that will explain that structure.
+    - If the sentences are not put together in that same strange way in the English ULB, then change the sentence so that it is clearer for modern readers.
+  - If you see that any verse or phrase in the Bible that you are adapting is very different than the English ULB, then change it so that it is more like the English ULB. 
 
-After you do these things so that the text is ready to use as the Gateway Language ULB, you will need to translate the Notes. As you translate the Notes, you may see that there are parts of your adapted ULB that should be different so that the Note can make sense. Also, you may see that some Notes need to be changed so that they can refer to the right parts of the adapted ULB. In this way, you will need to make changes to both the Gateway Language ULB and the Notes as you adapt them to each other so that they make sense and are truly helpful for the OL translator. For more information about this process, see ta-gl_Notes.
+After you do these things so that the text is ready to use as the Gateway Language ULB, you will need to translate the translationNotes. As you translate the translationNotes, you may see that there are parts of your adapted ULB that should be different so that the translationNote can make sense. Also, you may see that some translationNotes need to be changed so that they can refer to the right parts of the adapted ULB. In this way, you will need to make changes to both the Gateway Language ULB and the Notes as you adapt them to each other so that they make sense and are truly helpful for the OL translator. For more information about this process, see [[en:ta:vol2:gateway:gl_Notes]].
 
 
 
 
 
 Next we recommend you learn about:
-  * [[en:ta:vol2:gateway:gl_notes|Translate the Notes]]
+  * [[en:ta:vol2:gateway:gl_notes|Translate the translationNotes]]
   * [[en:ta:vol1:intro:open_license|Open License]]
 

@@ -2,25 +2,43 @@
 
 This module answers the question: What are the guidelines for translating the translationQuestions?\\
 Before you start this module have you learned about:
+  * [[en:ta:vol1:translate:mast|MAST Core Concepts]]
   * [[en:ta:vol2:gateway:gl_words|Translate the translationWords]]
-  * [[en:ta:vol2:gateway:gl_notes|Translate the Notes]]
+  * [[en:ta:vol2:gateway:gl_notes|Translate the translationNotes]]
   * [[en:ta:vol2:gateway:gl_ulb|Translating the ULB]]
 
-=== Why Translate the translationQuestions? ===
+==== Why Translate the translationQuestions? ====
 
-We want all translations of the Bible to communicate clearly the message that God wants them to communicate. One tool that we are providing so that the OL translators can make sure that their translations are communicating correctly is this set of translationQuestions. The OL translators will use these Questions to conduct community checks of each chapter of the Bible that they translate.
+We want all translations of the Bible to communicate clearly the message that God wants them to communicate. One tool that we are providing so that the OL translators can make sure that their translations are communicating correctly is this set of translationQuestions. The OL translators will use these translationQuestions to conduct community checks of each chapter of the Bible that they translate.
 
-=== Guidelines for Translating the translationQuestions ===
+==== Guidelines for Translating the translationQuestions ====
 
-The ULB should be translated into the Gateway Language before you begin to translate the translationQuestions. If this has not been done, an alternative method would be to translate the ULB together with the other resources, chunk by chunk. In this case, for each chunk of text, you would translate the ULB and the UDB of those verses, then the Notes, the Words, and the Questions for those same verses. Then you would move to the next chunk and translate each of the resources for that chunk, as well. Either method is acceptable. 
+The ULB should be translated into the Gateway Language before you begin to translate the translationQuestions. When you are ready to translate the translationQuestions, follow these steps: 
 
-If the ULB has been translated already, then read the chapter of the ULB that the Questions are about, so that you understand it. If you are translating using the MAST method, then treat each Question with its answer as one chunk. Work through the Questions for that chapter of the ULB, translating each pair of Questions and answers. Then when you finish translating each pair for that chapter, go back and do the checking steps, comparing your translation with the English source Questions and answers. Also compare your translation with the Gateway Language ULB. It is important that your answer to each Question match very closely to the words of the ULB. At this step, you may need to adjust the words of your answers so that they are the same as the words of the ULB. This is so the OL translators and checkers of the OL translation can use your questions and answers and easily see if the their translation is communicating the right message. When the words of your answer are the same as the words of the ULB, the OL checker can see where that answer is in the translation and know what part of their translation they need to change if the person answering the Question gives a different answer. 
+=== MAST Method ===
 
-An alternative method would be to translate only the Question part using the MAST method of blind drafting, and then in the self-edit stage of checking you can edit each Question and also copy the answer from the words of the Gateway Language ULB that match the answer to that Question in the English source. You may want to try both methods and see which one works best for you.
+  - Read the chapter of the ULB that the translationQuestions are about, so that you understand it. 
+  - Draft each translationQuestion with its answer as one chunk. Work through the translationQuestions for that chapter of the ULB, translating each pair of questions and answers. 
+  - When you finish translating each question-answer pair for that chapter, go back and do the checking steps, comparing your translation with the English source questions and answers. 
+  - Now compare your translation of each answer with the Gateway Language ULB of that verse. It is important that your answer to each translationQuestion match very closely to the words of the ULB. At this step, you may need to adjust the words of your answers so that they are the same as the words of the ULB. This is so the OL translators and checkers of the OL translation can use your questions and answers and easily see if the their translation is communicating the right message. When the words of your answer are the same as the words of the ULB, the OL checker can see where that answer is in the translation and know what part of their translation they need to make more clear if the person answering the question gives a different answer. 
 
-If the ULB has not been translated already, then translate the different resources for each chunk as described above. After you finish drafting all of the resources for one chunk, then go back and do the checking steps for all of the resources for that chunk.
+=== Modified MAST Method ===
+
+This is an alternative method for translating the translationQuestions. 
+ - Read the chapter of the ULB that the translationQuestions are about, so that you understand it. 
+ - Translate only the question part of each question-answer pair using the MAST method of blind drafting. Each translationQuestion will be one chunk. Draft all of the translationQuestions for one chapter.
+ - In the self-edit stage of checking, edit each translationQuestion to correct any mistakes or to add things that you left out. 
+ - Now copy the answer to each question from the words of the Gateway Language ULB of that verse that match the answer to that question in the English source. In this way, the words of each answer will always match the words of the Gateway Language ULB.
+You may want to try both methods and see which one works best for you.
+
+=== If the ULB Has Not Been Translated ===
+
+If the ULB has not been translated already, an alternative method would be to translate the ULB together with the other resources, chunk by chunk. In this case, for each chunk of text, you would translate the ULB and the UDB of those verses, then the translationNotes, the translationWords, and the translationQuestions for those same verses. Then you would move to the next chunk and translate each of the resources for that chunk, as well. After you finish drafting all of the resources for one chunk, then go back and do the checking steps for all of the resources for that chunk.
+
 
 
 
 Next we recommend you learn about:
+  * [[en:ta:vol2:gateway:check_ulb|Checking the ULB]]
+  * [[en:ta:vol2:gateway:check_notes|Checking the translationNotes]]
 
