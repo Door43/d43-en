@@ -10,4 +10,4 @@ The script on this page searches for a string of text anywhere in the notes, the
 search results:
 
 
-{{door43pages @:en:bible:notes -r -q="genital" -exclude:home -simpleLineBreak -title -fontsize="90%"}}
+{{door43pages @:en:bible:notes -r -q="emission" -exclude:home -simpleLineBreak -title -fontsize="90%"}}
