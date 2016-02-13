@@ -29,6 +29,8 @@ You may need to arrange information in a way that people will be able to underst
 
 ===== Translation Strategies =====
 
+If the ULB has a verse bridge, but another Bible you refer to does not have one, you can choose the order that works best for your language.
+
 If you feel you need to combine verses in your translation in order to make it sound logical or clearer, you may do that and indicate it by putting a hyphen between the verse numbers, as above.
 
 See: [[:en:ta:workbench:translate:talink-verse-bridge-tech-manual|talink Verse Bridge Tech Manual]]
@@ -38,7 +40,6 @@ See: [[:en:ta:workbench:translate:talink-verse-bridge-tech-manual|talink Verse B
 And here is how the two verses were combined to make the meaning more clear:
 
 <sup>28-29</sup> **All these things happened to King Nebuchadnezzar in twelve months. He was walking at the royal palace in Babylon.**
-
 ===== Examples of Translation Strategies Applied =====
 
 ----
