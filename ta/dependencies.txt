@@ -5,119 +5,119 @@ graph [fontname="Arial"];
 node [shape=oval, fontname="Arial", fontsize=12, style=filled, fillcolor="#dddddd"];
 edge [arrowsize=1.4];
 "Introduction" [fillcolor="#ff9999"]
-"Translation" [fillcolor="#99ff99"]
-"Checking" [fillcolor="#9999ff"]
-"Technology" [fillcolor="#ffff99"]
-"Process" [fillcolor="#99ffff"]
+"Process" [fillcolor="#99ff99"]
+"Translation" [fillcolor="#9999ff"]
+"Checking" [fillcolor="#ffff99"]
+"Technology" [fillcolor="#99ffff"]
 "GATEWAY LANGUAGES MANUAL" [fillcolor="#ff99ff"]
-"acceptable" [fillcolor="#9999ff"]
+"acceptable" [fillcolor="#ffff99"]
 "clear" -> "acceptable"
 "natural" -> "acceptable"
 "church_leader_check" -> "acceptable"
-"accuracy_check" [fillcolor="#9999ff"]
+"accuracy_check" [fillcolor="#ffff99"]
 "level1" -> "accuracy_check"
 "guidelines_accurate" -> "accuracy_check"
 "important_term_check" -> "accuracy_check"
-"accurate" [fillcolor="#9999ff"]
+"accurate" [fillcolor="#ffff99"]
 "alphabet" -> "accurate"
 "church_leader_check" -> "accurate"
-"alphabet" [fillcolor="#9999ff"]
+"alphabet" [fillcolor="#ffff99"]
 "acceptable" -> "alphabet"
-"authority_level1" [fillcolor="#9999ff"]
+"authority_level1" [fillcolor="#ffff99"]
 "authority_process" -> "authority_level1"
-"authority_level2" [fillcolor="#9999ff"]
+"authority_level2" [fillcolor="#ffff99"]
 "authority_level1" -> "authority_level2"
-"authority_level3" [fillcolor="#9999ff"]
+"authority_level3" [fillcolor="#ffff99"]
 "authority_level2" -> "authority_level3"
-"authority_process" [fillcolor="#9999ff"]
+"authority_process" [fillcolor="#ffff99"]
 "goal_checking" -> "authority_process"
-"church_leader_check" [fillcolor="#9999ff"]
+"church_leader_check" [fillcolor="#ffff99"]
 "level2" -> "church_leader_check"
-"clear" [fillcolor="#9999ff"]
+"clear" [fillcolor="#ffff99"]
 "level2" -> "clear"
-"community_evaluation" [fillcolor="#9999ff"]
+"community_evaluation" [fillcolor="#ffff99"]
 "language_community_check" -> "community_evaluation"
 "other_methods" -> "community_evaluation"
 "writing_decisions" -> "community_evaluation"
-"complete" [fillcolor="#9999ff"]
+"complete" [fillcolor="#ffff99"]
 "accurate" -> "complete"
-"goal_checking" [fillcolor="#9999ff"]
+"goal_checking" [fillcolor="#ffff99"]
 "intro_levels" -> "goal_checking"
-"good" [fillcolor="#9999ff"]
+"good" [fillcolor="#ffff99"]
 "complete" -> "good"
-"headings" [fillcolor="#9999ff"]
+"headings" [fillcolor="#ffff99"]
 "acceptable" -> "headings"
-"important_term_check" [fillcolor="#9999ff"]
+"important_term_check" [fillcolor="#ffff99"]
 "level1" -> "important_term_check"
 "peer_check" -> "important_term_check"
-"intro_check" [fillcolor="#9999ff"]
+"intro_check" [fillcolor="#ffff99"]
 "translate_manual" -> "intro_check"
-"intro_checking" [fillcolor="#9999ff"]
+"intro_checking" [fillcolor="#ffff99"]
 "intro_check" -> "intro_checking"
-"intro_levels" [fillcolor="#9999ff"]
+"intro_levels" [fillcolor="#ffff99"]
 "intro_checking" -> "intro_levels"
-"language_community_check" [fillcolor="#9999ff"]
+"language_community_check" [fillcolor="#ffff99"]
 "level2" -> "language_community_check"
-"level1" [fillcolor="#9999ff"]
+"level1" [fillcolor="#ffff99"]
 "intro_levels" -> "level1"
-"level1_affirm" [fillcolor="#9999ff"]
+"level1_affirm" [fillcolor="#ffff99"]
 "statement_of_faith" -> "level1_affirm"
 "translation_guidelines" -> "level1_affirm"
 "level1" -> "level1_affirm"
 "accuracy_check" -> "level1_affirm"
-"level2" [fillcolor="#9999ff"]
+"level2" [fillcolor="#ffff99"]
 "intro_levels" -> "level2"
 "accuracy_check" -> "level2"
-"level3" [fillcolor="#9999ff"]
+"level3" [fillcolor="#ffff99"]
 "intro_levels" -> "level3"
 "level2" -> "level3"
 "accuracy_check" -> "level3"
-"level3_approval" [fillcolor="#9999ff"]
+"level3_approval" [fillcolor="#ffff99"]
 "level3" -> "level3_approval"
 "level3_questions" -> "level3_approval"
 "self_assessment" -> "level3_approval"
-"level3_questions" [fillcolor="#9999ff"]
+"level3_questions" [fillcolor="#ffff99"]
 "level3" -> "level3_questions"
-"natural" [fillcolor="#9999ff"]
+"natural" [fillcolor="#ffff99"]
 "alphabet" -> "natural"
 "level2" -> "natural"
 "clear" -> "natural"
-"other_methods" [fillcolor="#9999ff"]
+"other_methods" [fillcolor="#ffff99"]
 "language_community_check" -> "other_methods"
-"peer_check" [fillcolor="#9999ff"]
+"peer_check" [fillcolor="#ffff99"]
 "level1" -> "peer_check"
 "self_check" -> "peer_check"
-"self_assessment" [fillcolor="#9999ff"]
+"self_assessment" [fillcolor="#ffff99"]
 "complete" -> "self_assessment"
 "church_leader_check" -> "self_assessment"
 "level3" -> "self_assessment"
-"self_check" [fillcolor="#9999ff"]
+"self_check" [fillcolor="#ffff99"]
 "level1" -> "self_check"
 "first_draft" -> "self_check"
-"toc_checkvol1" [fillcolor="#9999ff"]
+"toc_checkvol1" [fillcolor="#ffff99"]
 "Checking" -> "toc_checkvol1"
-"toc_checkvol1_2" [fillcolor="#9999ff"]
+"toc_checkvol1_2" [fillcolor="#ffff99"]
 "Checking" -> "toc_checkvol1_2"
-"toc_checkvol2" [fillcolor="#9999ff"]
+"toc_checkvol2" [fillcolor="#ffff99"]
 "Checking" -> "toc_checkvol2"
-"vol2_backtranslation" [fillcolor="#9999ff"]
+"vol2_backtranslation" [fillcolor="#ffff99"]
 "vol2_steps" -> "vol2_backtranslation"
-"vol2_backtranslation_guidelines" [fillcolor="#9999ff"]
+"vol2_backtranslation_guidelines" [fillcolor="#ffff99"]
 "vol2_backtranslation_written" -> "vol2_backtranslation_guidelines"
-"vol2_backtranslation_kinds" [fillcolor="#9999ff"]
+"vol2_backtranslation_kinds" [fillcolor="#ffff99"]
 "vol2_backtranslation_who" -> "vol2_backtranslation_kinds"
-"vol2_backtranslation_purpose" [fillcolor="#9999ff"]
+"vol2_backtranslation_purpose" [fillcolor="#ffff99"]
 "vol2_backtranslation" -> "vol2_backtranslation_purpose"
-"vol2_backtranslation_who" [fillcolor="#9999ff"]
+"vol2_backtranslation_who" [fillcolor="#ffff99"]
 "vol2_backtranslation_purpose" -> "vol2_backtranslation_who"
-"vol2_backtranslation_written" [fillcolor="#9999ff"]
+"vol2_backtranslation_written" [fillcolor="#ffff99"]
 "vol2_backtranslation_kinds" -> "vol2_backtranslation_written"
-"vol2_intro" [fillcolor="#9999ff"]
+"vol2_intro" [fillcolor="#ffff99"]
 "church_leader_check" -> "vol2_intro"
 "level3" -> "vol2_intro"
-"vol2_steps" [fillcolor="#9999ff"]
+"vol2_steps" [fillcolor="#ffff99"]
 "vol2_intro" -> "vol2_steps"
-"vol2_things_to_check" [fillcolor="#9999ff"]
+"vol2_things_to_check" [fillcolor="#ffff99"]
 "vol2_steps" -> "vol2_things_to_check"
 "check_Notes" [fillcolor="#ff99ff"]
 "vol2_steps" -> "check_Notes"
@@ -154,6 +154,10 @@ edge [arrowsize=1.4];
 "gl_adaptULB" [fillcolor="#ff99ff"]
 "gl_UDB" -> "gl_adaptULB"
 "gl_translate" -> "gl_adaptULB"
+"gl_done_checking" [fillcolor="#ff99ff"]
+"gl_translate" -> "gl_done_checking"
+"vol2_steps" -> "gl_done_checking"
+"vol2_things_to_check" -> "gl_done_checking"
 "gl_translate" [fillcolor="#ff99ff"]
 "gl_strategy" -> "gl_translate"
 "open_license" -> "gl_translate"
@@ -179,547 +183,547 @@ edge [arrowsize=1.4];
 "statement_of_faith" -> "translation_guidelines"
 "uw_intro" [fillcolor="#ff9999"]
 "ta_intro" -> "uw_intro"
-"about_audio_recording" [fillcolor="#99ffff"]
-"Process" -> "about_audio_recording"
-"approach_to_audio" [fillcolor="#99ffff"]
-"Process" -> "approach_to_audio"
-"audio_acoustic_principles" [fillcolor="#99ffff"]
-"Process" -> "audio_acoustic_principles"
-"audio_acoustical_treatments" [fillcolor="#99ffff"]
-"Process" -> "audio_acoustical_treatments"
-"audio_assessing_recording_space" [fillcolor="#99ffff"]
-"Process" -> "audio_assessing_recording_space"
-"audio_best_practices" [fillcolor="#99ffff"]
-"Process" -> "audio_best_practices"
-"audio_checklist_preparing_project" [fillcolor="#99ffff"]
-"Process" -> "audio_checklist_preparing_project"
-"audio_checklist_recording_process" [fillcolor="#99ffff"]
-"Process" -> "audio_checklist_recording_process"
-"audio_checklists" [fillcolor="#99ffff"]
-"Process" -> "audio_checklists"
-"audio_digital_recording_devices" [fillcolor="#99ffff"]
-"Process" -> "audio_digital_recording_devices"
-"audio_editing" [fillcolor="#99ffff"]
-"Process" -> "audio_editing"
-"audio_editing_common_procedures" [fillcolor="#99ffff"]
-"Process" -> "audio_editing_common_procedures"
-"audio_editing_corrections" [fillcolor="#99ffff"]
-"Process" -> "audio_editing_corrections"
-"audio_editing_decisions_edit_rerecord" [fillcolor="#99ffff"]
-"Process" -> "audio_editing_decisions_edit_rerecord"
-"audio_editing_decisions_objective_subjective" [fillcolor="#99ffff"]
-"Process" -> "audio_editing_decisions_objective_subjective"
-"audio_editing_measuring_selection_length" [fillcolor="#99ffff"]
-"Process" -> "audio_editing_measuring_selection_length"
-"audio_editing_modifying_pauses" [fillcolor="#99ffff"]
-"Process" -> "audio_editing_modifying_pauses"
-"audio_editing_navigating_timeline" [fillcolor="#99ffff"]
-"Process" -> "audio_editing_navigating_timeline"
-"audio_editing_using_your_ears" [fillcolor="#99ffff"]
-"Process" -> "audio_editing_using_your_ears"
-"audio_equipment_overview" [fillcolor="#99ffff"]
-"Process" -> "audio_equipment_overview"
-"audio_equipment_setup" [fillcolor="#99ffff"]
-"Process" -> "audio_equipment_setup"
-"audio_field_environment" [fillcolor="#99ffff"]
-"Process" -> "audio_field_environment"
-"audio_guides" [fillcolor="#99ffff"]
-"Process" -> "audio_guides"
-"audio_introduction" [fillcolor="#99ffff"]
-"Process" -> "audio_introduction"
-"audio_logistics" [fillcolor="#99ffff"]
-"Process" -> "audio_logistics"
-"audio_managing_data" [fillcolor="#99ffff"]
-"Process" -> "audio_managing_data"
-"audio_managing_files" [fillcolor="#99ffff"]
-"Process" -> "audio_managing_files"
-"audio_managing_folders" [fillcolor="#99ffff"]
-"Process" -> "audio_managing_folders"
-"audio_mic_activation" [fillcolor="#99ffff"]
-"Process" -> "audio_mic_activation"
-"audio_mic_gain_level" [fillcolor="#99ffff"]
-"Process" -> "audio_mic_gain_level"
-"audio_mic_position" [fillcolor="#99ffff"]
-"Process" -> "audio_mic_position"
-"audio_mic_setup" [fillcolor="#99ffff"]
-"Process" -> "audio_mic_setup"
-"audio_noise_floor" [fillcolor="#99ffff"]
-"Process" -> "audio_noise_floor"
-"audio_optimize_laptop" [fillcolor="#99ffff"]
-"Process" -> "audio_optimize_laptop"
-"audio_project_setup" [fillcolor="#99ffff"]
-"Process" -> "audio_project_setup"
-"audio_quality_standards" [fillcolor="#99ffff"]
-"Process" -> "audio_quality_standards"
-"audio_recording_environment" [fillcolor="#99ffff"]
-"Process" -> "audio_recording_environment"
-"audio_reference" [fillcolor="#99ffff"]
-"Process" -> "audio_reference"
-"audio_setup_H2n" [fillcolor="#99ffff"]
-"Process" -> "audio_setup_H2n"
-"audio_setup_content" [fillcolor="#99ffff"]
-"Process" -> "audio_setup_content"
-"audio_setup_team" [fillcolor="#99ffff"]
-"Process" -> "audio_setup_team"
-"audio_signal_path" [fillcolor="#99ffff"]
-"Process" -> "audio_signal_path"
-"audio_signal_to_noise" [fillcolor="#99ffff"]
-"Process" -> "audio_signal_to_noise"
-"audio_software" [fillcolor="#99ffff"]
-"Process" -> "audio_software"
-"audio_software_file_renaming" [fillcolor="#99ffff"]
-"Process" -> "audio_software_file_renaming"
-"audio_software_file_sharing" [fillcolor="#99ffff"]
-"Process" -> "audio_software_file_sharing"
-"audio_software_format_conversion" [fillcolor="#99ffff"]
-"Process" -> "audio_software_format_conversion"
-"audio_software_metadata_encoding" [fillcolor="#99ffff"]
-"Process" -> "audio_software_metadata_encoding"
-"audio_software_recording_editing" [fillcolor="#99ffff"]
-"Process" -> "audio_software_recording_editing"
-"audio_standard_characteristics" [fillcolor="#99ffff"]
-"Process" -> "audio_standard_characteristics"
-"audio_standard_file_naming" [fillcolor="#99ffff"]
-"Process" -> "audio_standard_file_naming"
-"audio_standard_format" [fillcolor="#99ffff"]
-"Process" -> "audio_standard_format"
-"audio_standard_license" [fillcolor="#99ffff"]
-"Process" -> "audio_standard_license"
-"audio_standard_style" [fillcolor="#99ffff"]
-"Process" -> "audio_standard_style"
-"audio_studio_environment" [fillcolor="#99ffff"]
-"Process" -> "audio_studio_environment"
-"audio_the_checker" [fillcolor="#99ffff"]
-"Process" -> "audio_the_checker"
-"audio_the_coordinator" [fillcolor="#99ffff"]
-"Process" -> "audio_the_coordinator"
-"audio_the_narrator" [fillcolor="#99ffff"]
-"Process" -> "audio_the_narrator"
-"audio_the_recordist" [fillcolor="#99ffff"]
-"Process" -> "audio_the_recordist"
-"audio_vision_purpose" [fillcolor="#99ffff"]
-"Process" -> "audio_vision_purpose"
-"audio_workspace_layout" [fillcolor="#99ffff"]
-"Process" -> "audio_workspace_layout"
-"door43_translation" [fillcolor="#99ffff"]
+"door43_translation" [fillcolor="#99ff99"]
 "pretranslation_training" -> "door43_translation"
 "setup_door43" -> "door43_translation"
-"excellence_in_audio" [fillcolor="#99ffff"]
-"Process" -> "excellence_in_audio"
-"getting_started" [fillcolor="#99ffff"]
+"getting_started" [fillcolor="#99ff99"]
 "process_manual" -> "getting_started"
-"intro_publishing" [fillcolor="#99ffff"]
+"intro_publishing" [fillcolor="#99ff99"]
 "prechecking_training" -> "intro_publishing"
-"intro_share" [fillcolor="#99ffff"]
+"intro_share" [fillcolor="#99ff99"]
 "intro_publishing" -> "intro_share"
-"notepad_translation" [fillcolor="#99ffff"]
+"notepad_translation" [fillcolor="#99ff99"]
 "pretranslation_training" -> "notepad_translation"
 "setup_notepad" -> "notepad_translation"
-"platforms" [fillcolor="#99ffff"]
+"platforms" [fillcolor="#99ff99"]
 "getting_started" -> "platforms"
 "file_formats" -> "platforms"
-"prechecking_training" [fillcolor="#99ffff"]
+"prechecking_training" [fillcolor="#99ff99"]
 "pretranslation_training" -> "prechecking_training"
-"pretranslation_training" [fillcolor="#99ffff"]
+"pretranslation_training" [fillcolor="#99ff99"]
 "translate_process" -> "pretranslation_training"
 "translate_why" -> "pretranslation_training"
-"process_manual" [fillcolor="#99ffff"]
+"process_manual" [fillcolor="#99ff99"]
 "finding_answers" -> "process_manual"
-"publishing_prereqs" [fillcolor="#99ffff"]
+"publishing_prereqs" [fillcolor="#99ff99"]
 "intro_publishing" -> "publishing_prereqs"
-"publishing_process" [fillcolor="#99ffff"]
+"publishing_process" [fillcolor="#99ff99"]
 "intro_publishing" -> "publishing_process"
 "publishing_prereqs" -> "publishing_process"
-"required_checking" [fillcolor="#99ffff"]
+"required_checking" [fillcolor="#99ff99"]
 "prechecking_training" -> "required_checking"
-"setup_door43" [fillcolor="#99ffff"]
+"setup_door43" [fillcolor="#99ff99"]
 "platforms" -> "setup_door43"
-"setup_notepad" [fillcolor="#99ffff"]
+"setup_notepad" [fillcolor="#99ff99"]
 "platforms" -> "setup_notepad"
-"setup_team" [fillcolor="#99ffff"]
+"setup_team" [fillcolor="#99ff99"]
 "translate_process" -> "setup_team"
 "getting_started" -> "setup_team"
-"setup_tsandroid" [fillcolor="#99ffff"]
+"setup_tsandroid" [fillcolor="#99ff99"]
 "platforms" -> "setup_tsandroid"
-"setup_tsdesktop" [fillcolor="#99ffff"]
+"setup_tsdesktop" [fillcolor="#99ff99"]
 "platforms" -> "setup_tsdesktop"
-"setup_word" [fillcolor="#99ffff"]
+"setup_word" [fillcolor="#99ff99"]
 "platforms" -> "setup_word"
-"share_published" [fillcolor="#99ffff"]
+"share_published" [fillcolor="#99ff99"]
 "intro_share" -> "share_published"
-"share_unpublished" [fillcolor="#99ffff"]
+"share_unpublished" [fillcolor="#99ff99"]
 "intro_share" -> "share_unpublished"
-"simplicity_in_audio" [fillcolor="#99ffff"]
-"Process" -> "simplicity_in_audio"
-"skills_training_in_audio" [fillcolor="#99ffff"]
-"Process" -> "skills_training_in_audio"
-"toc_audiovol2" [fillcolor="#99ffff"]
-"Process" -> "toc_audiovol2"
-"toc_processvol1" [fillcolor="#99ffff"]
+"toc_processvol1" [fillcolor="#99ff99"]
 "Process" -> "toc_processvol1"
-"toc_processvol1_2" [fillcolor="#99ffff"]
+"toc_processvol1_2" [fillcolor="#99ff99"]
 "Process" -> "toc_processvol1_2"
-"tsandroid_translation" [fillcolor="#99ffff"]
+"tsandroid_translation" [fillcolor="#99ff99"]
 "pretranslation_training" -> "tsandroid_translation"
 "setup_tsandroid" -> "tsandroid_translation"
-"tsdesktop_translation" [fillcolor="#99ffff"]
+"tsdesktop_translation" [fillcolor="#99ff99"]
 "pretranslation_training" -> "tsdesktop_translation"
 "setup_tsdesktop" -> "tsdesktop_translation"
-"upload_merge" [fillcolor="#99ffff"]
+"upload_merge" [fillcolor="#99ff99"]
 "pretranslation_training" -> "upload_merge"
-"word_translation" [fillcolor="#99ffff"]
+"word_translation" [fillcolor="#99ff99"]
 "pretranslation_training" -> "word_translation"
 "setup_word" -> "word_translation"
-"d43_intro" [fillcolor="#ffff99"]
+"about_audio_recording" [fillcolor="#99ffff"]
+"Technology" -> "about_audio_recording"
+"approach_to_audio" [fillcolor="#99ffff"]
+"Technology" -> "approach_to_audio"
+"audio_acoustic_principles" [fillcolor="#99ffff"]
+"Technology" -> "audio_acoustic_principles"
+"audio_acoustical_treatments" [fillcolor="#99ffff"]
+"Technology" -> "audio_acoustical_treatments"
+"audio_assessing_recording_space" [fillcolor="#99ffff"]
+"Technology" -> "audio_assessing_recording_space"
+"audio_best_practices" [fillcolor="#99ffff"]
+"Technology" -> "audio_best_practices"
+"audio_checklist_preparing_project" [fillcolor="#99ffff"]
+"Technology" -> "audio_checklist_preparing_project"
+"audio_checklist_recording_process" [fillcolor="#99ffff"]
+"Technology" -> "audio_checklist_recording_process"
+"audio_checklists" [fillcolor="#99ffff"]
+"Technology" -> "audio_checklists"
+"audio_digital_recording_devices" [fillcolor="#99ffff"]
+"Technology" -> "audio_digital_recording_devices"
+"audio_editing" [fillcolor="#99ffff"]
+"Technology" -> "audio_editing"
+"audio_editing_common_procedures" [fillcolor="#99ffff"]
+"Technology" -> "audio_editing_common_procedures"
+"audio_editing_corrections" [fillcolor="#99ffff"]
+"Technology" -> "audio_editing_corrections"
+"audio_editing_decisions_edit_rerecord" [fillcolor="#99ffff"]
+"Technology" -> "audio_editing_decisions_edit_rerecord"
+"audio_editing_decisions_objective_subjective" [fillcolor="#99ffff"]
+"Technology" -> "audio_editing_decisions_objective_subjective"
+"audio_editing_measuring_selection_length" [fillcolor="#99ffff"]
+"Technology" -> "audio_editing_measuring_selection_length"
+"audio_editing_modifying_pauses" [fillcolor="#99ffff"]
+"Technology" -> "audio_editing_modifying_pauses"
+"audio_editing_navigating_timeline" [fillcolor="#99ffff"]
+"Technology" -> "audio_editing_navigating_timeline"
+"audio_editing_using_your_ears" [fillcolor="#99ffff"]
+"Technology" -> "audio_editing_using_your_ears"
+"audio_equipment_overview" [fillcolor="#99ffff"]
+"Technology" -> "audio_equipment_overview"
+"audio_equipment_setup" [fillcolor="#99ffff"]
+"Technology" -> "audio_equipment_setup"
+"audio_field_environment" [fillcolor="#99ffff"]
+"Technology" -> "audio_field_environment"
+"audio_guides" [fillcolor="#99ffff"]
+"Technology" -> "audio_guides"
+"audio_introduction" [fillcolor="#99ffff"]
+"Technology" -> "audio_introduction"
+"audio_logistics" [fillcolor="#99ffff"]
+"Technology" -> "audio_logistics"
+"audio_managing_data" [fillcolor="#99ffff"]
+"Technology" -> "audio_managing_data"
+"audio_managing_files" [fillcolor="#99ffff"]
+"Technology" -> "audio_managing_files"
+"audio_managing_folders" [fillcolor="#99ffff"]
+"Technology" -> "audio_managing_folders"
+"audio_mic_activation" [fillcolor="#99ffff"]
+"Technology" -> "audio_mic_activation"
+"audio_mic_gain_level" [fillcolor="#99ffff"]
+"Technology" -> "audio_mic_gain_level"
+"audio_mic_position" [fillcolor="#99ffff"]
+"Technology" -> "audio_mic_position"
+"audio_mic_setup" [fillcolor="#99ffff"]
+"Technology" -> "audio_mic_setup"
+"audio_noise_floor" [fillcolor="#99ffff"]
+"Technology" -> "audio_noise_floor"
+"audio_optimize_laptop" [fillcolor="#99ffff"]
+"Technology" -> "audio_optimize_laptop"
+"audio_project_setup" [fillcolor="#99ffff"]
+"Technology" -> "audio_project_setup"
+"audio_quality_standards" [fillcolor="#99ffff"]
+"Technology" -> "audio_quality_standards"
+"audio_recording_environment" [fillcolor="#99ffff"]
+"Technology" -> "audio_recording_environment"
+"audio_reference" [fillcolor="#99ffff"]
+"Technology" -> "audio_reference"
+"audio_setup_H2n" [fillcolor="#99ffff"]
+"Technology" -> "audio_setup_H2n"
+"audio_setup_content" [fillcolor="#99ffff"]
+"Technology" -> "audio_setup_content"
+"audio_setup_team" [fillcolor="#99ffff"]
+"Technology" -> "audio_setup_team"
+"audio_signal_path" [fillcolor="#99ffff"]
+"Technology" -> "audio_signal_path"
+"audio_signal_to_noise" [fillcolor="#99ffff"]
+"Technology" -> "audio_signal_to_noise"
+"audio_software" [fillcolor="#99ffff"]
+"Technology" -> "audio_software"
+"audio_software_file_renaming" [fillcolor="#99ffff"]
+"Technology" -> "audio_software_file_renaming"
+"audio_software_file_sharing" [fillcolor="#99ffff"]
+"Technology" -> "audio_software_file_sharing"
+"audio_software_format_conversion" [fillcolor="#99ffff"]
+"Technology" -> "audio_software_format_conversion"
+"audio_software_metadata_encoding" [fillcolor="#99ffff"]
+"Technology" -> "audio_software_metadata_encoding"
+"audio_software_recording_editing" [fillcolor="#99ffff"]
+"Technology" -> "audio_software_recording_editing"
+"audio_standard_characteristics" [fillcolor="#99ffff"]
+"Technology" -> "audio_standard_characteristics"
+"audio_standard_file_naming" [fillcolor="#99ffff"]
+"Technology" -> "audio_standard_file_naming"
+"audio_standard_format" [fillcolor="#99ffff"]
+"Technology" -> "audio_standard_format"
+"audio_standard_license" [fillcolor="#99ffff"]
+"Technology" -> "audio_standard_license"
+"audio_standard_style" [fillcolor="#99ffff"]
+"Technology" -> "audio_standard_style"
+"audio_studio_environment" [fillcolor="#99ffff"]
+"Technology" -> "audio_studio_environment"
+"audio_the_checker" [fillcolor="#99ffff"]
+"Technology" -> "audio_the_checker"
+"audio_the_coordinator" [fillcolor="#99ffff"]
+"Technology" -> "audio_the_coordinator"
+"audio_the_narrator" [fillcolor="#99ffff"]
+"Technology" -> "audio_the_narrator"
+"audio_the_recordist" [fillcolor="#99ffff"]
+"Technology" -> "audio_the_recordist"
+"audio_vision_purpose" [fillcolor="#99ffff"]
+"Technology" -> "audio_vision_purpose"
+"audio_workspace_layout" [fillcolor="#99ffff"]
+"Technology" -> "audio_workspace_layout"
+"d43_intro" [fillcolor="#99ffff"]
 "Technology" -> "d43_intro"
-"d43_translateOBS" [fillcolor="#ffff99"]
+"d43_translateOBS" [fillcolor="#99ffff"]
 "d43_intro" -> "d43_translateOBS"
-"hardware" [fillcolor="#ffff99"]
+"excellence_in_audio" [fillcolor="#99ffff"]
+"Technology" -> "excellence_in_audio"
+"hardware" [fillcolor="#99ffff"]
 "Technology" -> "hardware"
-"resources_d43" [fillcolor="#ffff99"]
+"resources_d43" [fillcolor="#99ffff"]
 "d43_intro" -> "resources_d43"
 "resources_intro" -> "resources_d43"
-"software" [fillcolor="#ffff99"]
+"simplicity_in_audio" [fillcolor="#99ffff"]
+"Technology" -> "simplicity_in_audio"
+"skills_training_in_audio" [fillcolor="#99ffff"]
+"Technology" -> "skills_training_in_audio"
+"software" [fillcolor="#99ffff"]
 "Technology" -> "software"
-"tK_create" [fillcolor="#ffff99"]
+"tK_create" [fillcolor="#99ffff"]
 "tK_intro" -> "tK_create"
-"tK_enable" [fillcolor="#ffff99"]
+"tK_enable" [fillcolor="#99ffff"]
 "tK_install" -> "tK_enable"
-"tK_find" [fillcolor="#ffff99"]
+"tK_find" [fillcolor="#99ffff"]
 "tK_install" -> "tK_find"
-"tK_install" [fillcolor="#ffff99"]
+"tK_install" [fillcolor="#99ffff"]
 "tK_intro" -> "tK_install"
-"tK_intro" [fillcolor="#ffff99"]
+"tK_intro" [fillcolor="#99ffff"]
 "Technology" -> "tK_intro"
-"tK_start" [fillcolor="#ffff99"]
+"tK_start" [fillcolor="#99ffff"]
 "tK_install" -> "tK_start"
-"tK_update" [fillcolor="#ffff99"]
+"tK_update" [fillcolor="#99ffff"]
 "tK_intro" -> "tK_update"
-"tK_use" [fillcolor="#ffff99"]
+"tK_use" [fillcolor="#99ffff"]
 "tK_install" -> "tK_use"
-"tS_create" [fillcolor="#ffff99"]
+"tS_create" [fillcolor="#99ffff"]
 "tS_install" -> "tS_create"
-"tS_first" [fillcolor="#ffff99"]
+"tS_first" [fillcolor="#99ffff"]
 "tS_install" -> "tS_first"
-"tS_install" [fillcolor="#ffff99"]
+"tS_install" [fillcolor="#99ffff"]
 "ts_intro" -> "tS_install"
-"tS_navigate" [fillcolor="#ffff99"]
+"tS_navigate" [fillcolor="#99ffff"]
 "tS_install" -> "tS_navigate"
-"tS_problem" [fillcolor="#ffff99"]
+"tS_problem" [fillcolor="#99ffff"]
 "tS_intro" -> "tS_problem"
-"tS_publish" [fillcolor="#ffff99"]
+"tS_publish" [fillcolor="#99ffff"]
 "tS_share" -> "tS_publish"
-"tS_request" [fillcolor="#ffff99"]
+"tS_request" [fillcolor="#99ffff"]
 "tS_install" -> "tS_request"
-"tS_resources" [fillcolor="#ffff99"]
+"tS_resources" [fillcolor="#99ffff"]
 "tS_create" -> "tS_resources"
 "resources_intro" -> "tS_resources"
-"tS_select" [fillcolor="#ffff99"]
+"tS_select" [fillcolor="#99ffff"]
 "tS_install" -> "tS_select"
-"tS_share" [fillcolor="#ffff99"]
+"tS_share" [fillcolor="#99ffff"]
 "tS_create" -> "tS_share"
-"tS_translate" [fillcolor="#ffff99"]
+"tS_translate" [fillcolor="#99ffff"]
 "tS_install" -> "tS_translate"
-"tS_update" [fillcolor="#ffff99"]
+"tS_update" [fillcolor="#99ffff"]
 "tS_install" -> "tS_update"
-"tS_upload" [fillcolor="#ffff99"]
+"tS_upload" [fillcolor="#99ffff"]
 "tS_share" -> "tS_upload"
-"tS_useresources" [fillcolor="#ffff99"]
+"tS_useresources" [fillcolor="#99ffff"]
 "tS_create" -> "tS_useresources"
 "resources_intro" -> "tS_useresources"
-"tSd_intro" [fillcolor="#ffff99"]
+"tSd_intro" [fillcolor="#99ffff"]
 "Technology" -> "tSd_intro"
-"tech_manual" [fillcolor="#ffff99"]
+"tech_manual" [fillcolor="#99ffff"]
 "translate_manual" -> "tech_manual"
 "intro_check" -> "tech_manual"
-"toc_techvol1" [fillcolor="#ffff99"]
+"toc_audiovol2" [fillcolor="#99ffff"]
+"Technology" -> "toc_audiovol2"
+"toc_techvol1" [fillcolor="#99ffff"]
 "Technology" -> "toc_techvol1"
-"toc_techvol1_2" [fillcolor="#ffff99"]
+"toc_techvol1_2" [fillcolor="#99ffff"]
 "Technology" -> "toc_techvol1_2"
-"toc_techvol2" [fillcolor="#ffff99"]
+"toc_techvol2" [fillcolor="#99ffff"]
 "Technology" -> "toc_techvol2"
-"translate_helpd43" [fillcolor="#ffff99"]
+"translate_helpd43" [fillcolor="#99ffff"]
 "translate_help" -> "translate_helpd43"
-"translate_helptS" [fillcolor="#ffff99"]
+"translate_helptS" [fillcolor="#99ffff"]
 "Technology" -> "translate_helptS"
-"ts_intro" [fillcolor="#ffff99"]
+"ts_intro" [fillcolor="#99ffff"]
 "Technology" -> "ts_intro"
-"ts_open" [fillcolor="#ffff99"]
+"ts_open" [fillcolor="#99ffff"]
 "tS_install" -> "ts_open"
-"uW_app" [fillcolor="#ffff99"]
+"uW_app" [fillcolor="#99ffff"]
 "Technology" -> "uW_app"
-"uW_audio" [fillcolor="#ffff99"]
+"uW_audio" [fillcolor="#99ffff"]
 "uW_app" -> "uW_audio"
-"uW_checking" [fillcolor="#ffff99"]
+"uW_checking" [fillcolor="#99ffff"]
 "uW_app" -> "uW_checking"
-"uW_first" [fillcolor="#ffff99"]
+"uW_first" [fillcolor="#99ffff"]
 "uW_app" -> "uW_first"
 "uW_install" -> "uW_first"
-"uW_install" [fillcolor="#ffff99"]
+"uW_install" [fillcolor="#99ffff"]
 "uW_app" -> "uW_install"
-"uW_language" [fillcolor="#ffff99"]
+"uW_language" [fillcolor="#99ffff"]
 "uW_app" -> "uW_language"
-"uW_select" [fillcolor="#ffff99"]
+"uW_select" [fillcolor="#99ffff"]
 "uW_app" -> "uW_select"
-"uW_update_content" [fillcolor="#ffff99"]
+"uW_update_content" [fillcolor="#99ffff"]
 "uW_app" -> "uW_update_content"
-"choose_team" [fillcolor="#99ff99"]
+"choose_team" [fillcolor="#9999ff"]
 "guidelines_intro" -> "choose_team"
 "translate_whatis" -> "choose_team"
 "translate_why" -> "choose_team"
-"figs_123person" [fillcolor="#99ff99"]
+"figs_123person" [fillcolor="#9999ff"]
 "figs_partsofspeech" -> "figs_123person"
-"figs_abstractnouns" [fillcolor="#99ff99"]
+"figs_abstractnouns" [fillcolor="#9999ff"]
 "figs_partsofspeech" -> "figs_abstractnouns"
-"figs_activepassive" [fillcolor="#99ff99"]
+"figs_activepassive" [fillcolor="#9999ff"]
 "figs_grammar" -> "figs_activepassive"
-"figs_apostrophe" [fillcolor="#99ff99"]
+"figs_apostrophe" [fillcolor="#9999ff"]
 "figs_intro" -> "figs_apostrophe"
-"figs_deictics" [fillcolor="#99ff99"]
+"figs_deictics" [fillcolor="#9999ff"]
 "Translation" -> "figs_deictics"
-"figs_doublenegatives" [fillcolor="#99ff99"]
+"figs_doublenegatives" [fillcolor="#9999ff"]
 "Translation" -> "figs_doublenegatives"
-"figs_doublet" [fillcolor="#99ff99"]
+"figs_doublet" [fillcolor="#9999ff"]
 "figs_intro" -> "figs_doublet"
-"figs_ellipsis" [fillcolor="#99ff99"]
+"figs_ellipsis" [fillcolor="#9999ff"]
 "Translation" -> "figs_ellipsis"
-"figs_euphemism" [fillcolor="#99ff99"]
+"figs_euphemism" [fillcolor="#9999ff"]
 "figs_intro" -> "figs_euphemism"
-"figs_events" [fillcolor="#99ff99"]
+"figs_events" [fillcolor="#9999ff"]
 "figs_intro" -> "figs_events"
-"figs_exclusive" [fillcolor="#99ff99"]
+"figs_exclusive" [fillcolor="#9999ff"]
 "figs_grammar" -> "figs_exclusive"
-"figs_explicit" [fillcolor="#99ff99"]
+"figs_explicit" [fillcolor="#9999ff"]
 "Translation" -> "figs_explicit"
-"figs_explicitinfo" [fillcolor="#99ff99"]
+"figs_explicitinfo" [fillcolor="#9999ff"]
 "figs_explicit" -> "figs_explicitinfo"
-"figs_gendernotations" [fillcolor="#99ff99"]
+"figs_gendernotations" [fillcolor="#9999ff"]
 "Translation" -> "figs_gendernotations"
-"figs_genitivecase" [fillcolor="#99ff99"]
+"figs_genitivecase" [fillcolor="#9999ff"]
 "Translation" -> "figs_genitivecase"
-"figs_grammar" [fillcolor="#99ff99"]
+"figs_grammar" [fillcolor="#9999ff"]
 "Translation" -> "figs_grammar"
-"figs_hendiadys" [fillcolor="#99ff99"]
+"figs_hendiadys" [fillcolor="#9999ff"]
 "figs_intro" -> "figs_hendiadys"
-"figs_hyperbole" [fillcolor="#99ff99"]
+"figs_hyperbole" [fillcolor="#9999ff"]
 "figs_intro" -> "figs_hyperbole"
-"figs_hypo" [fillcolor="#99ff99"]
+"figs_hypo" [fillcolor="#9999ff"]
 "figs_intro" -> "figs_hypo"
-"figs_idiom" [fillcolor="#99ff99"]
+"figs_idiom" [fillcolor="#9999ff"]
 "figs_intro" -> "figs_idiom"
-"figs_inclusive" [fillcolor="#99ff99"]
+"figs_inclusive" [fillcolor="#9999ff"]
 "figs_grammar" -> "figs_inclusive"
-"figs_intro" [fillcolor="#99ff99"]
+"figs_intro" [fillcolor="#9999ff"]
 "Translation" -> "figs_intro"
-"figs_irony" [fillcolor="#99ff99"]
+"figs_irony" [fillcolor="#9999ff"]
 "figs_intro" -> "figs_irony"
-"figs_litotes" [fillcolor="#99ff99"]
+"figs_litotes" [fillcolor="#9999ff"]
 "figs_intro" -> "figs_litotes"
-"figs_merism" [fillcolor="#99ff99"]
+"figs_merism" [fillcolor="#9999ff"]
 "figs_intro" -> "figs_merism"
-"figs_metaphor" [fillcolor="#99ff99"]
+"figs_metaphor" [fillcolor="#9999ff"]
 "figs_intro" -> "figs_metaphor"
-"figs_metonymy" [fillcolor="#99ff99"]
+"figs_metonymy" [fillcolor="#9999ff"]
 "figs_intro" -> "figs_metonymy"
-"figs_order" [fillcolor="#99ff99"]
+"figs_order" [fillcolor="#9999ff"]
 "figs_grammar" -> "figs_order"
-"figs_parables" [fillcolor="#99ff99"]
+"figs_parables" [fillcolor="#9999ff"]
 "figs_intro" -> "figs_parables"
-"figs_parallelism" [fillcolor="#99ff99"]
+"figs_parallelism" [fillcolor="#9999ff"]
 "figs_intro" -> "figs_parallelism"
-"figs_partsofspeech" [fillcolor="#99ff99"]
+"figs_partsofspeech" [fillcolor="#9999ff"]
 "Translation" -> "figs_partsofspeech"
-"figs_personification" [fillcolor="#99ff99"]
+"figs_personification" [fillcolor="#9999ff"]
 "figs_intro" -> "figs_personification"
-"figs_pluralpronouns" [fillcolor="#99ff99"]
+"figs_pluralpronouns" [fillcolor="#9999ff"]
 "figs_partsofspeech" -> "figs_pluralpronouns"
-"figs_quotations" [fillcolor="#99ff99"]
+"figs_quotations" [fillcolor="#9999ff"]
 "figs_partsofspeech" -> "figs_quotations"
-"figs_rpronouns" [fillcolor="#99ff99"]
+"figs_rpronouns" [fillcolor="#9999ff"]
 "figs_partsofspeech" -> "figs_rpronouns"
-"figs_rquestion" [fillcolor="#99ff99"]
+"figs_rquestion" [fillcolor="#9999ff"]
 "figs_intro" -> "figs_rquestion"
-"figs_sentences" [fillcolor="#99ff99"]
+"figs_sentences" [fillcolor="#9999ff"]
 "figs_partsofspeech" -> "figs_sentences"
-"figs_simile" [fillcolor="#99ff99"]
+"figs_simile" [fillcolor="#9999ff"]
 "figs_intro" -> "figs_simile"
-"figs_singularpronouns" [fillcolor="#99ff99"]
+"figs_singularpronouns" [fillcolor="#9999ff"]
 "figs_partsofspeech" -> "figs_singularpronouns"
-"figs_synecdoche" [fillcolor="#99ff99"]
+"figs_synecdoche" [fillcolor="#9999ff"]
 "figs_intro" -> "figs_synecdoche"
-"figs_verbs" [fillcolor="#99ff99"]
+"figs_verbs" [fillcolor="#9999ff"]
 "figs_partsofspeech" -> "figs_verbs"
-"figs_you" [fillcolor="#99ff99"]
+"figs_you" [fillcolor="#9999ff"]
 "figs_partsofspeech" -> "figs_you"
-"figs_youdual" [fillcolor="#99ff99"]
+"figs_youdual" [fillcolor="#9999ff"]
 "figs_partsofspeech" -> "figs_youdual"
-"figs_youformal" [fillcolor="#99ff99"]
+"figs_youformal" [fillcolor="#9999ff"]
 "figs_partsofspeech" -> "figs_youformal"
-"figs_yousingular" [fillcolor="#99ff99"]
+"figs_yousingular" [fillcolor="#9999ff"]
 "figs_partsofspeech" -> "figs_yousingular"
-"file_formats" [fillcolor="#99ff99"]
+"file_formats" [fillcolor="#9999ff"]
 "Translation" -> "file_formats"
-"first_draft" [fillcolor="#99ff99"]
+"first_draft" [fillcolor="#9999ff"]
 "translate_what" -> "first_draft"
 "translate_source_text" -> "first_draft"
 "writing_decisions" -> "first_draft"
-"guidelines_accurate" [fillcolor="#99ff99"]
+"guidelines_accurate" [fillcolor="#9999ff"]
 "guidelines_intro" -> "guidelines_accurate"
 "translation_guidelines" -> "guidelines_accurate"
-"guidelines_authoritative" [fillcolor="#99ff99"]
+"guidelines_authoritative" [fillcolor="#9999ff"]
 "guidelines_intro" -> "guidelines_authoritative"
 "translation_guidelines" -> "guidelines_authoritative"
-"guidelines_church_approved" [fillcolor="#99ff99"]
+"guidelines_church_approved" [fillcolor="#9999ff"]
 "guidelines_intro" -> "guidelines_church_approved"
 "translation_guidelines" -> "guidelines_church_approved"
-"guidelines_clear" [fillcolor="#99ff99"]
+"guidelines_clear" [fillcolor="#9999ff"]
 "guidelines_intro" -> "guidelines_clear"
 "translation_guidelines" -> "guidelines_clear"
-"guidelines_collaborative" [fillcolor="#99ff99"]
+"guidelines_collaborative" [fillcolor="#9999ff"]
 "guidelines_intro" -> "guidelines_collaborative"
 "translation_guidelines" -> "guidelines_collaborative"
-"guidelines_equal" [fillcolor="#99ff99"]
+"guidelines_equal" [fillcolor="#9999ff"]
 "guidelines_intro" -> "guidelines_equal"
 "translation_guidelines" -> "guidelines_equal"
-"guidelines_expressive" [fillcolor="#99ff99"]
+"guidelines_expressive" [fillcolor="#9999ff"]
 "guidelines_intro" -> "guidelines_expressive"
 "translation_guidelines" -> "guidelines_expressive"
-"guidelines_faithful" [fillcolor="#99ff99"]
+"guidelines_faithful" [fillcolor="#9999ff"]
 "guidelines_intro" -> "guidelines_faithful"
 "translation_guidelines" -> "guidelines_faithful"
-"guidelines_historical" [fillcolor="#99ff99"]
+"guidelines_historical" [fillcolor="#9999ff"]
 "guidelines_intro" -> "guidelines_historical"
 "translation_guidelines" -> "guidelines_historical"
-"guidelines_intro" [fillcolor="#99ff99"]
+"guidelines_intro" [fillcolor="#9999ff"]
 "translation_guidelines" -> "guidelines_intro"
 "translate_manual" -> "guidelines_intro"
 "translate_whatis" -> "guidelines_intro"
-"guidelines_natural" [fillcolor="#99ff99"]
+"guidelines_natural" [fillcolor="#9999ff"]
 "guidelines_intro" -> "guidelines_natural"
 "translation_guidelines" -> "guidelines_natural"
-"guidelines_ongoing" [fillcolor="#99ff99"]
+"guidelines_ongoing" [fillcolor="#9999ff"]
 "guidelines_intro" -> "guidelines_ongoing"
 "translation_guidelines" -> "guidelines_ongoing"
-"guidelines_pure" [fillcolor="#99ff99"]
+"guidelines_pure" [fillcolor="#9999ff"]
 "guidelines_intro" -> "guidelines_pure"
 "translation_guidelines" -> "guidelines_pure"
-"mast" [fillcolor="#99ff99"]
+"mast" [fillcolor="#9999ff"]
 "guidelines_intro" -> "mast"
 "translate_whatis" -> "mast"
 "translate_why" -> "mast"
 "translate_alphabet" -> "mast"
 "writing_decisions" -> "mast"
-"qualifications" [fillcolor="#99ff99"]
+"qualifications" [fillcolor="#9999ff"]
 "choose_team" -> "qualifications"
-"resources_intro" [fillcolor="#99ff99"]
+"resources_intro" [fillcolor="#9999ff"]
 "gl_strategy" -> "resources_intro"
 "translate_manual" -> "resources_intro"
 "translate_what" -> "resources_intro"
-"resources_links" [fillcolor="#99ff99"]
+"resources_links" [fillcolor="#9999ff"]
 "translate_help" -> "resources_links"
 "resources_intro" -> "resources_links"
-"resources_porp" [fillcolor="#99ff99"]
+"resources_porp" [fillcolor="#9999ff"]
 "translate_help" -> "resources_porp"
 "resources_intro" -> "resources_porp"
-"resources_types" [fillcolor="#99ff99"]
+"resources_types" [fillcolor="#9999ff"]
 "translate_help" -> "resources_types"
 "resources_intro" -> "resources_types"
-"toc_transvol1" [fillcolor="#99ff99"]
+"toc_transvol1" [fillcolor="#9999ff"]
 "Translation" -> "toc_transvol1"
-"toc_transvol1_2" [fillcolor="#99ff99"]
+"toc_transvol1_2" [fillcolor="#9999ff"]
 "Translation" -> "toc_transvol1_2"
-"toc_transvol2" [fillcolor="#99ff99"]
+"toc_transvol2" [fillcolor="#9999ff"]
 "Translation" -> "toc_transvol2"
-"translate_alphabet" [fillcolor="#99ff99"]
+"translate_alphabet" [fillcolor="#9999ff"]
 "choose_team" -> "translate_alphabet"
 "translate_source_text" -> "translate_alphabet"
-"translate_chapverse" [fillcolor="#99ff99"]
+"translate_chapverse" [fillcolor="#9999ff"]
 "translate_process" -> "translate_chapverse"
 "translate_source_text" -> "translate_chapverse"
-"translate_discover" [fillcolor="#99ff99"]
+"translate_discover" [fillcolor="#9999ff"]
 "translate_process" -> "translate_discover"
-"translate_dynamic" [fillcolor="#99ff99"]
+"translate_dynamic" [fillcolor="#9999ff"]
 "guidelines_intro" -> "translate_dynamic"
 "translate_process" -> "translate_dynamic"
 "translate_literal" -> "translate_dynamic"
 "translate_fandm" -> "translate_dynamic"
-"translate_fandm" [fillcolor="#99ff99"]
+"translate_fandm" [fillcolor="#9999ff"]
 "translate_process" -> "translate_fandm"
 "translate_discover" -> "translate_fandm"
 "translate_retell" -> "translate_fandm"
-"translate_form" [fillcolor="#99ff99"]
+"translate_form" [fillcolor="#9999ff"]
 "translate_fandm" -> "translate_form"
 "translate_process" -> "translate_form"
 "translate_discover" -> "translate_form"
 "translate_retell" -> "translate_form"
-"translate_help" [fillcolor="#99ff99"]
+"translate_help" [fillcolor="#9999ff"]
 "translate_what" -> "translate_help"
 "first_draft" -> "translate_help"
 "resources_intro" -> "translate_help"
-"translate_levels" [fillcolor="#99ff99"]
+"translate_levels" [fillcolor="#9999ff"]
 "translate_fandm" -> "translate_levels"
 "translate_discover" -> "translate_levels"
 "translate_form" -> "translate_levels"
-"translate_literal" [fillcolor="#99ff99"]
+"translate_literal" [fillcolor="#9999ff"]
 "translate_whatis" -> "translate_literal"
 "translate_process" -> "translate_literal"
 "translate_fandm" -> "translate_literal"
 "translate_terms" -> "translate_literal"
-"translate_manual" [fillcolor="#99ff99"]
+"translate_manual" [fillcolor="#9999ff"]
 "ta_intro" -> "translate_manual"
 "translation_guidelines" -> "translate_manual"
 "finding_answers" -> "translate_manual"
-"translate_manuscripts" [fillcolor="#99ff99"]
+"translate_manuscripts" [fillcolor="#9999ff"]
 "translate_source_text" -> "translate_manuscripts"
-"translate_names" [fillcolor="#99ff99"]
+"translate_names" [fillcolor="#9999ff"]
 "translate_unknown" -> "translate_names"
-"translate_numbers" [fillcolor="#99ff99"]
+"translate_numbers" [fillcolor="#9999ff"]
 "translate_unknown" -> "translate_numbers"
-"translate_original" [fillcolor="#99ff99"]
+"translate_original" [fillcolor="#9999ff"]
 "translate_process" -> "translate_original"
 "translate_source_text" -> "translate_original"
-"translate_problem" [fillcolor="#99ff99"]
+"translate_problem" [fillcolor="#9999ff"]
 "translate_literal" -> "translate_problem"
 "translate_wforw" -> "translate_problem"
 "translate_fandm" -> "translate_problem"
-"translate_process" [fillcolor="#99ff99"]
+"translate_process" [fillcolor="#9999ff"]
 "translate_manual" -> "translate_process"
 "guidelines_intro" -> "translate_process"
-"translate_retell" [fillcolor="#99ff99"]
+"translate_retell" [fillcolor="#9999ff"]
 "translate_process" -> "translate_retell"
 "translate_discover" -> "translate_retell"
-"translate_source_licensing" [fillcolor="#99ff99"]
+"translate_source_licensing" [fillcolor="#9999ff"]
 "translate_source_text" -> "translate_source_licensing"
 "open_license" -> "translate_source_licensing"
-"translate_source_text" [fillcolor="#99ff99"]
+"translate_source_text" [fillcolor="#9999ff"]
 "choose_team" -> "translate_source_text"
-"translate_source_version" [fillcolor="#99ff99"]
+"translate_source_version" [fillcolor="#9999ff"]
 "translate_source_text" -> "translate_source_version"
 "translate_source_licensing" -> "translate_source_version"
-"translate_terms" [fillcolor="#99ff99"]
+"translate_terms" [fillcolor="#9999ff"]
 "translate_manual" -> "translate_terms"
-"translate_textvariants" [fillcolor="#99ff99"]
+"translate_textvariants" [fillcolor="#9999ff"]
 "translate_source_text" -> "translate_textvariants"
-"translate_tform" [fillcolor="#99ff99"]
+"translate_tform" [fillcolor="#9999ff"]
 "translate_dynamic" -> "translate_tform"
 "translate_process" -> "translate_tform"
 "translate_fandm" -> "translate_tform"
-"translate_transliterate" [fillcolor="#99ff99"]
+"translate_transliterate" [fillcolor="#9999ff"]
 "translate_unknown" -> "translate_transliterate"
-"translate_unknown" [fillcolor="#99ff99"]
+"translate_unknown" [fillcolor="#9999ff"]
 "Translation" -> "translate_unknown"
-"translate_wforw" [fillcolor="#99ff99"]
+"translate_wforw" [fillcolor="#9999ff"]
 "translate_literal" -> "translate_wforw"
 "translate_fandm" -> "translate_wforw"
-"translate_whatis" [fillcolor="#99ff99"]
+"translate_whatis" [fillcolor="#9999ff"]
 "translate_manual" -> "translate_whatis"
-"translate_why" [fillcolor="#99ff99"]
+"translate_why" [fillcolor="#9999ff"]
 "uw_intro" -> "translate_why"
 "translate_manual" -> "translate_why"
 "translate_whatis" -> "translate_why"
-"writing_background" [fillcolor="#99ff99"]
+"writing_background" [fillcolor="#9999ff"]
 "Translation" -> "writing_background"
-"writing_decisions" [fillcolor="#99ff99"]
+"writing_decisions" [fillcolor="#9999ff"]
 "translate_source_text" -> "writing_decisions"
 "choose_team" -> "writing_decisions"
 }

@@ -18,7 +18,7 @@ As you translate, be sure that you:
   * do not add anything that that is not necessary for comprehension
   * always do your translation according to the [[:en:ta:vol1:intro:translation_guidelines|Translation Guidelines]]
   * always do your translation according to the [[:en:ta:vol1:intro:statement_of_faith|Statement of Faith]]
-  * use the [[:en:obs:notes|Translation Notes]] and the [[:en:obe:ktobs|Important Terms]] to help you make a better translation
+  * use the [[:en:obs:notes|translationNotes]] and the [[:en:obe:ktobs|translationWords]] to help you make a better translation
 
 ==== What To Start Translating ====
 
