@@ -8,9 +8,9 @@ Before you read this module, it would be helpful to read:
 ===== Description =====
 In some rare cases, you will see in the Unlocked Literal Bible (ULB) or the Unlocked Dynamic Bible (UDB) that two or more verse numbers are combined, such as 17-18. This is called a verse bridge. It shows where the order of the verses was rearranged so that the story or message could be more easily or logically understood.
 
-<sup>29</sup> These were the clans of the Horites: Lotan, Shobal, Zibeon, and Anah, <sup>30</sup> Dishon, Ezer, Dishan: these are clans of the Horites, according to their clan lists in the land of Seir. (Genesis 26:29-30 ULB)
+**<sup>29</sup> These were the clans of the Horites: Lotan, Shobal, Zibeon, and Anah, <sup>30</sup> Dishon, Ezer, Dishan: these are clans of the Horites, according to their clan lists in the land of Seir.** (Genesis 26:29-30 ULB)
 
-<sup>29-30</sup> The people groups who were descendants of Hor lived in Seir land. The names of the people groups are Lotan, Shobal, Zibeon, Anah, Dishon, Ezer, and Dishpan. Genesis 26:29-30 UDB
+**<sup>29-30</sup> The people groups who were descendants of Hor lived in Seir land. The names of the people groups are Lotan, Shobal, Zibeon, Anah, Dishon, Ezer, and Dishpan.** (Genesis 26:29-30 UDB)
 
 In the ULB text above, verses 29 and 30 are separate. In the UDB text, verses 29 and 30 are joined. The information about the people living in Seir is at the end of verse 30 in the ULB, and is in the first sentence of verses 29-30 in the UDB.
 
@@ -28,19 +28,21 @@ You may need to arrange information in a way that people will be able to underst
 **When some of you people stayed among the sheepfolds, why did you do this?** (Psalm 68:12-13 ULB)
 
 ===== Translation Strategies =====
+Order the information in a way that will be clear to your readers. 
 
-If the ULB has a verse bridge, but another Bible you refer to does not have one, you can choose the order that works best for your language.
+  - If information from one verse is put before information from an earlier verse, put the verse numbers before the first verse with a hyphen between them.
+  - If the ULB has a verse bridge, but another Bible you refer to does not have one, you can choose the order that works best for your language.
 
-If you feel you need to combine verses in your translation in order to make it sound logical or clearer, you may do that and indicate it by putting a hyphen between the verse numbers, as above.
+See: [[en:ta:workbench:translate:talink-verse-bridge-tech-manual|talink Verse Bridge Tech Manual]]
 
-See: [[:en:ta:workbench:translate:talink-verse-bridge-tech-manual|talink Verse Bridge Tech Manual]]
-
-<sup>28</sup> **All this came upon King Nebuchadnezzar. <sup>29</sup> At the end of twelve months he was walking on the roof of the royal palace of Babylon,**  (Daniel 4:28-29 in the  American Standard Version)
-
-And here is how the two verses were combined to make the meaning more clear:
-
-<sup>28-29</sup> **All these things happened to King Nebuchadnezzar in twelve months. He was walking at the royal palace in Babylon.**
 ===== Examples of Translation Strategies Applied =====
+
+1. If information from one verse is put before information from an earlier verse, put the verse numbers before the first verse with a hyphen between them.
+  * **<sup>2</sup> you must select three cities for yourself in the middle of your land that Yahweh your God is giving you to possess. <sup>3</sup> You must build a road and divide the borders of your land into three parts, the land that Yahweh your God is causing you to inherit, so that everyone who kills another person may flee there.** (Deuteronomy 19:2-3)
+    *<sup>2-3</sup> you must divide into three parts the land that he is giving to you. Then select a city in each part. You must make good roads in order that people can get to those cities easily. Someone who kills another person can escape to one of those cities to be safe. (Deuteronomy 19:2-3 UDB)
+
+  * **<sup>4</sup> However, there should be no poor among you (for Yahweh will surely bless you in the land that he gives you as an inheritance to possess), <sup>5</sup> if only you diligently listen to the voice of Yahweh your God, to keep all these commandments that I am commanding you today.**  (Deuteronomy 15:4-5 ULB)
+    *<sup>4-5</sup> Yahweh our God will bless you in the land that he is giving to you. If you obey Yahweh our God and obey all the commandments that I am giving to you today, there will not be any poor people among you. (Deuteronomy 15:4-5 UDB) 
 
 ----
 
