@@ -2,68 +2,42 @@
 
 ===== TFT: =====
 
-<usfm>
-\v 1 Yahweh, our Lord, people all over the world know that you \f + \ft metonymy \f* are very great!
-\q2 Your glory reaches up higher than the heavens!
-\q1
-\v 2 You have taught little children and infants to praise you;
-\q2 they cause your enemies and those who try to get revenge on\f + \ft Or: get rid of \f* you to be silent.
-\q1
-</usfm>
+<usfm> \v 1 Yahweh, our Lord, people all over the world know that you \f + \ft metonymy \f* are very great! \q2 Your glory reaches up higher than the heavens! \q1 \v 2 You have taught little children and infants to praise you; \q2 they cause your enemies and those who try to get revenge on\f + \ft Or: get rid of \f* you to be silent. \q1 </usfm>
 
 ===== UDB: =====
 
-<usfm>
-\v 1 Yahweh our Lord, people all over the world know that you are very great!
-\q2 We see your greatness every time we look towards the heavens!
-\q1
-\v 2 You have taught little children and infants to praise you;
-\q2 they cause your enemies and those who try to get revenge on you to be silent.
+<usfm> \v 1 Yahweh our Lord, people all over the world know that you are very great! \q2 We see your greatness every time we look towards the heavens! \q1 \v 2 You have taught little children and infants to praise you; \q2 they cause your enemies and those who try to get revenge on you to be silent.
 
-
-\q1
-</usfm>
+\q1 </usfm>
 
 ===== ULB: =====
 
-<usfm>
-\c 8
-\d For the chief musician; set to the gittith style. A psalm of David.
-\b
-\q
-\v 1 Yahweh our Lord, how magnificent is your name in all the earth,
-\q you who reveal your glory in the heavens above.
-\q
-\v 2 Out of the mouth of babies and infants you have created praise
-\q because of your adversaries,
-\q in order to silence both the enemy and the avenger.
-</usfm>
+<usfm> \c 8 \d For the chief musician; set to the gittith style. A psalm of David. \b \q \v 1 Yahweh our Lord, how magnificent is your name in all the earth, \q you who reveal your glory in the heavens above. \q \v 2 Out of the mouth of babies and infants you have created praise \q because of your adversaries, \q in order to silence both the enemy and the avenger. </usfm>
 
 ===== Important Terms: =====
 
-  * [[:en:obe:other:psalm]]
-  * [[:en:obe:other:david]]
-  * [[:en:obe:kt:yahweh]]
-  * [[:en:obe:kt:lord]]
-  * [[:en:obe:kt:name]]
-  * [[:en:obe:kt:reveal]]
-  * [[:en:obe:kt:glory]]
-  * [[:en:obe:kt:heaven]]
-  * [[:en:obe:other:praise]]
-  * [[:en:obe:other:adversary]]
-  * [[:en:obe:kt:avenge]]
+  * [[:en:obe:other:psalm|psalm]]
+  * [[:en:obe:other:david|David]]
+  * [[:en:obe:kt:yahweh|Yahweh]]
+  * [[:en:obe:kt:lord|lord, master, sir]]
+  * [[:en:obe:kt:name|name]]
+  * [[:en:obe:kt:reveal|reveal, revelation]]
+  * [[:en:obe:kt:glory|glory, glorious]]
+  * [[:en:obe:kt:heaven|heaven, sky, heavens, heavenly]]
+  * [[:en:obe:other:praise|praise]]
+  * [[:en:obe:other:adversary|adversary, enemy]]
+  * [[:en:obe:kt:avenge|avenge, revenge, vengeance]]
 
 ===== Translation Notes: =====
 
-See: [[:en:ta:workbench:translate:poetry]] and [[:en:ta:vol2:translate:figs_parallelism]].
+See: [[:en:ta:workbench:translate:poetry|ZZZ Do Not Use Translating Poetry]] and [[:en:ta:vol2:translate:figs_parallelism|Parallelism]].
 
-  * **For the chief musician;** - "This is for the director of music to use in worship;"
-  * **set to the gittith style** - Possible meanings: 1) "This song is sung to a tune of the people of Gath." 2) "This song is sung in the style of the people of Gath."
-  * **A psalm of David** - AT: “This is a psalm that David wrote.”  
-  * **Yahweh our Lord** - AT: "Yahweh, you who are our Lord," or "Yahweh, you who rule over us," 
-  * **how magnificent is your name in all the earth** - God's "name" represents his whole being. AT: "people all over the world know that you are very great!" (UDB) (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **Out of the mouths of babies and infants you have created praise** - AT: "You have given babies and infants the ability to praise you"
-  
+  * **For the chief musician;**  - "This is for the director of music to use in worship;"
+  * **set to the gittith style**  - Possible meanings: 1) "This song is sung to a tune of the people of Gath." 2) "This song is sung in the style of the people of Gath."
+  * **A psalm of David**  - AT: “This is a psalm that David wrote.”
+  * **Yahweh our Lord**  - AT: "Yahweh, you who are our Lord," or "Yahweh, you who rule over us,"
+  * **how magnificent is your name in all the earth**  - God's "name" represents his whole being. AT: "people all over the world know that you are very great!" (UDB) (See: [[:en:ta:vol2:translate:figs_metonymy|Metonymy]])
+  * **Out of the mouths of babies and infants you have created praise**  - AT: "You have given babies and infants the ability to praise you"
 ===== Links: =====
 
   * **[[:en:bible:questions:comprehension:psa:008|Psalms Chapter 008 Comprehension Questions]]**
