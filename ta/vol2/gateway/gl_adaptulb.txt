@@ -9,7 +9,7 @@ Before you start this module have you learned about:
 
 In order to adapt an existing translation and use it as the ULB for a Gateway Language (GL), it is necessary that the existing translation be a literal translation. That is, it should follow the same order of clauses as the original biblical languages and reproduce the original biblical idioms and figures of speech. Most Bibles that were translated into Gateway Languages in the first half of the twentieth century or earlier are literal translations. 
 
-It is also necessary that the Bible that you adapt as the ULB not be encumbered by copyright. That means that it must be in the public domain or have a license that permits us to reproduce and translate it. For more information on copyrights and licensing, see ta-open_license.
+It is also necessary that the Bible that you adapt as the ULB not be encumbered by copyright. That means that it must be in the public domain or have a license that permits us to reproduce and translate it. For more information on copyrights and licensing, see [[en:ta:vol1:open_license]].
 
 If the Bible is very old, you will need to update the language and the style so that it uses words that people use now and "talks" in the way that people talk now. Even though the ULB has a literal style, it must use words that people know so that they can understand it.
 
@@ -19,7 +19,8 @@ Because adapting an existing translation is a process of editing rather than of 
 
   - Read the chapter in the English ULB and the Notes for that chapter. If you are begining to translate a book, also read the overview of the book. 
   - Read the chapter in the Bible that you are adapting as the ULB. 
-  - Go through the chapter and change old words to words that people use now.
+  - Go through the chapter and change old words to words that people use now. 
+  - Using the list of translationWords for that chapter, check to make sure that a good translation for each of those words is used in the Gateway Language ULB.
   - If some sentences are put together in a strange way, check to see if they are also that way in the English ULB.
     - If the sentences are also put together in that same strange way in the English ULB, it is because the original Bible has that structure. Leave them as they are. There will be a Note that will explain that structure.
     - If the sentences are not put together in that same strange way in the English ULB, then change the sentence so that it is clearer for modern readers.
