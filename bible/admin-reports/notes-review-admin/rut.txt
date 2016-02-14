@@ -7,5 +7,7 @@
 
 ==== Ruth Pages Status ====
 
-^  Review  ^  Text  ^  Discuss  ^  Publish  ^
-|{{pagequery>@en:bible:notes:rut \{\{tag>[^}]*review[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=100%}}  |{{pagequery>@en:bible:notes:rut \{\{tag>[^}]*text[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=100%}}  |{{pagequery>@en:bible:notes:rut \{\{tag>[^}]*discuss[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=100%}}  |{{pagequery>@en:bible:notes:rut \{\{tag>[^}]*publish[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; showcount; layout=table;hidemsg;hidejump;bullet=square;fontsize=100%}}  |
+^  rutiew  ^  Text  ^  Fixed  ^  Discuss  ^  Inspect  ^  Publish  ^
+|{{door43pages @en:bible:notes:rut -r -q="\{\{tag>[^}]*rutiew[^}]*\}\}" -exclude:home -simpleLineBreak -title -fontsize="90%"}} |{{door43pages @en:bible:notes:rut -r -q="\{\{tag>[^}]*text[^}]*\}\}" -exclude:home -simpleLineBreak -title -fontsize="90%"}} |{{door43pages @en:bible:notes:rut -r -q="\{\{tag>[^}]*fixed[^}]*\}\}" -exclude:home -simpleLineBreak -title -fontsize="90%"}} |{{door43pages @en:bible:notes:rut -r -q="\{\{tag>[^}]*discuss[^}]*\}\}" -exclude:home -simpleLineBreak -title -fontsize="90%"}} |{{door43pages @en:bible:notes:rut -r -q="\{\{tag>[^}]*inspect[^}]*\}\}" -exclude:home -simpleLineBreak -title -fontsize="90%"}} |{{door43pages @en:bible:notes:rut -r -q="\{\{tag>[^}]*publish[^}]*\}\}" -exclude:home -simpleLineBreak -title -fontsize="90%"}} |
+
+\\
