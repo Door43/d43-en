@@ -9,8 +9,7 @@ Reviewer - Ed Q
   * [[en:bible:admin-reports:check-tags-notes|Check Tags]]
 
 ==== Colossians Pages Status ====
-
-^  Review  ^  Text  ^  Discuss  ^  Publish  |
-|{{pagequery>@en:bible:notes:col \{\{tag>[^}]*review[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=100%}} |{{pagequery>@en:bible:notes:col \{\{tag>[^}]*text[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=100%}} |{{pagequery>@en:bible:notes:col \{\{tag>[^}]*discuss[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=100%}} |{{pagequery>@en:bible:notes:col \{\{tag>[^}]*publish[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;bullet=square;fontsize=100%}} |
+^  Review  ^  Text  ^  Fixed  ^  Discuss  ^  Inspect  ^  Publish  ^
+|{{door43pages @en:bible:notes:col -r -q="\{\{tag>[^}]*review[^}]*\}\}" -exclude:home -simpleLineBreak -title -fontsize="90%"}} |{{door43pages @en:bible:notes:col -r -q="\{\{tag>[^}]*text[^}]*\}\}" -exclude:home -simpleLineBreak -title -fontsize="90%"}} |{{door43pages @en:bible:notes:col -r -q="\{\{tag>[^}]*fixed[^}]*\}\}" -exclude:home -simpleLineBreak -title -fontsize="90%"}} |{{door43pages @en:bible:notes:col -r -q="\{\{tag>[^}]*discuss[^}]*\}\}" -exclude:home -simpleLineBreak -title -fontsize="90%"}} |{{door43pages @en:bible:notes:col -r -q="\{\{tag>[^}]*inspect[^}]*\}\}" -exclude:home -simpleLineBreak -title -fontsize="90%"}} |{{door43pages @en:bible:notes:col -r -q="\{\{tag>[^}]*publish[^}]*\}\}" -exclude:home -simpleLineBreak -title -fontsize="90%"}} |
 
 \\
