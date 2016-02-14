@@ -8,5 +8,7 @@
 
 ==== Daniel Pages Status ====
 
-^  Review  ^  Text  ^  Discuss  ^  Inspect  ^  Publish  ^
-|{{pagequery>@en:bible:notes:dan \{\{tag>[^}]*review[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; showcount; layout=table;hidemsg;hidejump;fontsize=90%}}  |{{pagequery>@en:bible:notes:dan \{\{tag>[^}]*text[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; showcount; layout=table;hidemsg;hidejump;fontsize=90%}}  |{{pagequery>@en:bible:notes:dan \{\{tag>[^}]*discuss[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; showcount; layout=table;hidemsg;hidejump;fontsize=90%}}  |{{pagequery>@en:bible:notes:dan \{\{tag>[^}]*inspect[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; showcount; layout=table;hidemsg;hidejump;fontsize=90%}}  |{{pagequery>@en:bible:notes:dan \{\{tag>[^}]*publish[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; showcount; layout=table;hidemsg;hidejump;fontsize=90%}}  |
+^  Review  ^  Text  ^  Fixed  ^  Discuss  ^  Inspect  ^  Publish  ^
+|{{door43pages @en:bible:notes:dan -r -q="\{\{tag>[^}]*review[^}]*\}\}" -exclude:home -simpleLineBreak -title -fontsize="90%"}} |{{door43pages @en:bible:notes:dan -r -q="\{\{tag>[^}]*text[^}]*\}\}" -exclude:home -simpleLineBreak -title -fontsize="90%"}} |{{door43pages @en:bible:notes:dan -r -q="\{\{tag>[^}]*fixed[^}]*\}\}" -exclude:home -simpleLineBreak -title -fontsize="90%"}} |{{door43pages @en:bible:notes:dan -r -q="\{\{tag>[^}]*discuss[^}]*\}\}" -exclude:home -simpleLineBreak -title -fontsize="90%"}} |{{door43pages @en:bible:notes:dan -r -q="\{\{tag>[^}]*inspect[^}]*\}\}" -exclude:home -simpleLineBreak -title -fontsize="90%"}} |{{door43pages @en:bible:notes:dan -r -q="\{\{tag>[^}]*publish[^}]*\}\}" -exclude:home -simpleLineBreak -title -fontsize="90%"}} |
+
+\\
