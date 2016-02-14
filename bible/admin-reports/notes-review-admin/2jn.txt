@@ -11,6 +11,7 @@ Reviewer - \\
 
 ==== 2 John Pages Status ====
 
-^  Review  ^  Text  ^  Discuss  ^  Publish  ^
-|{{pagequery>@en:bible:notes:2jn \{\{tag>[^}]*review[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; showcount; layout=table;hidemsg;hidejump;fontsize=80%}}  |{{pagequery>@en:bible:notes:2jn \{\{tag>[^}]*text[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; showcount; layout=table;hidemsg;hidejump;fontsize=80%}}  |{{pagequery>@en:bible:notes:2jn \{\{tag>[^}]*discuss[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; showcount; layout=table;hidemsg;hidejump;fontsize=80%}}  |{{pagequery>@en:bible:notes:2jn \{\{tag>[^}]*publish[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; showcount; layout=table;hidemsg;hidejump;fontsize=80%}}  |
+^  Review  ^  Text  ^  Fixed  ^  Discuss  ^  Inspect  ^  Publish  ^
+|{{door43pages @en:bible:notes:2jn -r -q="\{\{tag>[^}]*review[^}]*\}\}" -exclude:home -simpleLineBreak -title -fontsize="90%"}} |{{door43pages @en:bible:notes:2jn -r -q="\{\{tag>[^}]*text[^}]*\}\}" -exclude:home -simpleLineBreak -title -fontsize="90%"}} |{{door43pages @en:bible:notes:2jn -r -q="\{\{tag>[^}]*fixed[^}]*\}\}" -exclude:home -simpleLineBreak -title -fontsize="90%"}} |{{door43pages @en:bible:notes:2jn -r -q="\{\{tag>[^}]*discuss[^}]*\}\}" -exclude:home -simpleLineBreak -title -fontsize="90%"}} |{{door43pages @en:bible:notes:2jn -r -q="\{\{tag>[^}]*inspect[^}]*\}\}" -exclude:home -simpleLineBreak -title -fontsize="90%"}} |{{door43pages @en:bible:notes:2jn -r -q="\{\{tag>[^}]*publish[^}]*\}\}" -exclude:home -simpleLineBreak -title -fontsize="90%"}} |
 
+\\
