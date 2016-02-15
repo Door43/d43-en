@@ -9,6 +9,6 @@ This page contains search code to find the Bible References that are tagged for 
 
 Search results:
 
-{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]*ransom[^}]*\}\}" -exclude:home -simpleLineBreak -title}}
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]*receive[^}]*\}\}" -exclude:home -simpleLineBreak -title}}
 
 
