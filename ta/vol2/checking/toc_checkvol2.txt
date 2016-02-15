@@ -1,19 +1,15 @@
 ===== Table of Contents - Checking Manual Volume 2 =====
 
-This module answers the question: What is in the Volume 2 Checking Manual?\\
+This module answers the question: What is in the Volume 2 Checking Manual?
+
 ==== Checking Manual Volume 2 ====
 
-
-  - [[en:ta:vol2:checking:vol2_intro]] 
-  - [[en:ta:vol2:checking:vol2_steps]]  
-    - [[en:ta:vol2:checking:vol2_backtranslation]]
-       - [[en:ta:vol2:checking:vol2_backtranslation_purpose]]
-       - [[en:ta:vol2:checking:vol2_backtranslation_who]] 
-       - [[en:ta:vol2:checking:vol2_backtranslation_kinds]] 
-       - [[en:ta:vol2:checking:vol2_backtranslation_written]] 
-       - [[en:ta:vol2:checking:vol2_backtranslation_guidelines]]
-    - [[en:ta:vol2:checking:vol2_things_to_check]] 
-
-
-
-
+  - [[:en:ta:vol2:checking:vol2_intro|Introduction to Translation Checking]]
+  -  [[:en:ta:vol2:checking:vol2_steps|Steps in Checking a Translation]]
+      -  [[:en:ta:vol2:checking:vol2_backtranslation|Back Translation]]
+        - [[:en:ta:vol2:checking:vol2_backtranslation_purpose|The Purpose of the Back Translation]]
+        - [[:en:ta:vol2:checking:vol2_backtranslation_who|The Back Translator]]
+        - [[:en:ta:vol2:checking:vol2_backtranslation_kinds|Kinds of Back Translations]]
+        - [[:en:ta:vol2:checking:vol2_backtranslation_written|Kinds of Written Back Translations]]
+        - [[:en:ta:vol2:checking:vol2_backtranslation_guidelines|Guidelines for Creating a Good Back Translation]]
+      - [[:en:ta:vol2:checking:vol2_things_to_check|Types of Things to Check]]
