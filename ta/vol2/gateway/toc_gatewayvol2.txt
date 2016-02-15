@@ -1,0 +1,21 @@
+===== Gateway Languages Manual =====
+
+This module answers the question: What is in the Gateway Languages Manual?
+
+===== Gateway Languages Manual Table of Contents =====
+
+==== Gateway Langauge Translation ====
+
+  - [[:en:ta:vol2:gateway:gl_translate|Translating in the Gateways]]
+  - [[:en:ta:vol2:gateway:gl_ulb|Translating the ULB]]
+  - [[:en:ta:vol2:gateway:gl_udb|Translating the UDB]]
+  - [[:en:ta:vol2:gateway:gl_adaptulb|Adapt the ULB]]
+  - [[:en:ta:vol2:gateway:gl_notes|Translate the translationNotes]]
+  - [[:en:ta:vol2:gateway:gl_words|Translate the translationWords]]
+  - [[:en:ta:vol2:gateway:gl_questions|Translate the translationQuestions]]
+
+==== Checking Gateway Language Translation Materials ====
+
+  - [[:en:ta:vol2:gateway:check_ulb|Checking the ULB]]
+  - [[:en:ta:vol2:gateway:check_udb|Checking the UDB]]
+  - [[:en:ta:vol2:gateway:check_notes|Checking the translationNotes]]
