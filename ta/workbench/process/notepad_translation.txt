@@ -1,0 +1,58 @@
+===== zzz - Translating in Notepad++ =====
+
+This module answers the question: How can I translate using Notepad++?\\
+Before you start this module have you learned about:
+  * [[en:ta:vol1:process:pretranslation_training|Training Before Translation Begins]]
+
+Obtain the files in the .txt format.
+
+For the English version of the files:
+  - Go to [[en:home]].
+  - Download the zip file from the Downloads Section in the left column on Door43.
+  - Extract the files from the zip file. Remember where the extracted files are stored on the computer.
+
+==== Translate the files in Notepad++ ====
+  - Open Notepad++ using the icon or program listed on the Windows Start menu.
+  - Select Open from the File menu.
+  - Navigate to where the files are:
+    - For tN - go to the bible folder and open the notes folder. The Notes for each book is in the book's name folder. (Each book has a folder for each chapter.)
+    - For tW - go to the OBE folder and open the KT or Other folder
+    - For tQ - go to the bible folder and open the Questions folder and then the Comprehension folder. The tQ for each book is in the book's name folder.
+  - Open the desired file.
+  - Edit the document and save with the same file name and as a .txt file.
+
+==== What to translate ====
+
+=== For translationNotes ===
+
+Do not remove or change any equal signs ==. 
+
+Do not translate the section between the formatting with 5 equal signs, the initials 'TFT:', then 5 equal signs and the formatting of 5 equal signs, the words 'Important Terms:' followed by 5 equal signs.
+
+Replace every instance of ':en:' with '://your language code//'. Using Espanol as an example: you would replace ':en:' with ':es:' (es is the language code for Espanol.)
+
+Notes are specific to the ULB translation. See the page on 'How to Write Notes' for more information.
+
+Delete '2 squiggle lines before, the word 'DISCUSSION', and the 2 squiggle lines after'.
+
+=== For translationWords ===
+
+Do not remove or change any equal signs ==. 
+
+The translators only need to translate words outside of square brackets [ ] and squigly brackets { }.
+
+The words 'Definition', 'Translation Suggestions:', and 'Bible References:' appear on all tW pages. Your translation team members should use the same translation of these words on each tW page.
+
+Replace every instance of ':en:' with '://your language code//'. Using Espanol as an example: you would replace ':en:' with ':es:' (es is the language code for Espanol.)
+
+Delete '2 squiggle lines before, the word 'DISCUSSION', and the 2 squiggle lines after'.
+
+
+
+
+
+Next we recommend you learn about:
+  * [[en:ta:vol1:process:upload_merge|Merging an Upload Into Door43]]
+  * [[en:ta:vol1:process:prechecking_training|Training Before Checking Begins]]
+  * [[en:ta:vol1:process:required_checking|How to Check]]
+
