@@ -1,9 +1,5 @@
 ===== Translation Manual =====
 
-This module answers the question: What is in the translation manual?\\
-{{page>en:ta:vol1:translate:toc_transvol1}}
+This module answers the question: What is in the translation manual?
 
-{{page>en:ta:vol2:translate:toc_transvol2}}
-
-
-
+{{page>en:ta:vol1:translate:toc_transvol1}}{{page>en:ta:vol2:translate:toc_transvol2}}
