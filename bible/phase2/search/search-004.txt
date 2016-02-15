@@ -10,4 +10,4 @@ The script on this page searches for a string of text anywhere in the notes, the
 search results:
 
 
-{{door43pages @:en:bible:notes -r -q="menstrual" -exclude:home -simpleLineBreak -title -fontsize="90%"}}
+{{door43pages @:en:bible: -r -q="whore" -exclude:home -simpleLineBreak -title -fontsize="90%"}}
