@@ -1,3 +1,20 @@
+====== zzz Setting up Notepad ++ ======
+
+
+--- 
+title: Setting Up Notepad++
+question: How do I set up Notepad++?
+manual: process
+volume: 1
+slug: setup_notepad
+dependencies: ["platforms"]
+status: drafting
+tags: 
+recommended: ["notepad_translation"]
+original url: none
+credits: 
+---
+
 Go to [[https://notepad-plus-plus.org/download/v6.8.8.html]] to download the Notepad++ software.
 
 
