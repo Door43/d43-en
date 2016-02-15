@@ -2,20 +2,21 @@
 
 ===== Facts: =====
 
-Text
-  * bullet
-  * bullet
+This man named Judas was one of Jesus' twelve closest disciples. Note that this was not the same man as Judas Iscariot.
 
-(Translation suggestions: [[en:ta:vol1:translate:translate_names]])
+  * Often in the Bible, men with the same name are distinguished by including whose son they were. Here, Judas is identified as the "son of James."
+  * Another man named Judas was Jesus' brother. He was also known as "Jude."
+  * The New Testament book called "Jude" was probably written by Jesus' brother Judas, since he identifies himself as the "brother of James". James was another brother of Jesus.
+  * It is also possible that the book of Jude was written by Jesus' disciple, Judas, the son of James.
 
-(See also: other)
+(Translation suggestions: [[:en:ta:vol1:translate:translate_names|Translate Names]])
+
+(See also: [["en:obe:james]], : [["en:obe:judasiscariot]] other)
 
 ===== Bible References: =====
 
-{{topic>:en:bible?judassonofjames&nocomments}}
-
-~~DISCUSSION~~
+{{topic>:en:bible?judassonofjames&nocomments}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 
-{{tag>draft luk06 ktlink}}
+{{tag>publish review ktlink}}
