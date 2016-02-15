@@ -1,22 +1,25 @@
 ====== Ellipsis ======
 
-
-===== Description =====
-
 This module answers the question: What is ellipsis?\\
-Before you start this module have you learned about:
+In order to understand this module, it would be good to read
   * [[en:ta:vol1:translate:figs_intro|Figures of Speech]]
 
 [[Summary of 100 words or less]]
 
+===== Description =====
 
+Ellipsis is where words are left out of the sentence because it is not needed to be understood. The information that is omitted has usually already been stated in a preceding sentence or phrase. (See also: [[:en:ta:vol1:translate:figs_explicit]])
+
+  * **the wicked will not stand in the judgment, nor sinners in the assembly of the righteous (Ps 1:5)
+
+  * **The sun rises from the one horizon and crosses the sky to the other** (Ps 19:6)
 
 **Reason this is a translation issue**\\
-Readers who see incomplete sentences may not be able to supply the missing information.\\
+Readers who see incomplete sentences or phrases may not be able to supply the missing information.
 
 ===== Examples from the Bible =====
 
-**Jesus stood still and commanded that the man be brought to him. Then when the blind man was near, Jesus asked him, "What do you want me to do for you?" He said, "Lord, __that I might receive my sight__."** (Luke 18:40-41)\\
+**when the blind man was near, Jesus asked him, "What do you want me to do for you?" He said, "Lord, __that I might receive my sight__."** (Luke 18:40-41)\\
 The man answered in an incomplete sentence because he wanted to be polite by giving Jesus only as much information as necessary.
 
 **He makes Lebanon skip like a calf\\
@@ -24,35 +27,20 @@ __and Sirion like a young ox__.** (Psalm 29:6)\\
 The writer wants his words to be few and to make good poetry.
 
 ===== Translation Strategies =====
-If your language can use x consider using it. These strategies are for if your language cannot use x.
-
+If your language can use ellipsis consider using it. These strategies are for if your language cannot use ellipsis.
+  - Add the missing words to the incomplete phrase or sentence.
 
 ===== Examples of Translation Strategies Applied =====
 
-----
-Ellipsis is where words are left out of the sentence because it is not needed to be understood. The information that is omitted has usually already been stated in a preceding sentence or phrase. (See also: [[:en:ta:vol1:translate:figs_explicit]])
+1. Add the missing words to the incomplete phrase or sentence.
 
-===== Translation Suggestions =====
-It is important to understand what words have been omitted in the source text in order to:
-  * understand the complete meaning of the text.
-  * accurately and naturally express that meaning in the receptor language.
-  * determine whether information can remain implicit or should be stated explicitly.
-  
-===== Examples from the Bible =====
-**Luke 18:40-41**  //Jesus stood still and commanded that the man be brought to him. Then when the blind man was near, Jesus asked him, "What do you want me to do for you?" He said, "Lord, that I might receive my sight."//
+ * **when the blind man was near, Jesus asked him, "What do you want me to do for you?" He said, "Lord, __that I might receive my sight__."** (Luke 18:40-41)
+     * when the blind man was near, Jesus asked him, "What do you want me to do for you?" He said, "Lord, I want you to heal me that I might receive my sight."
 
-**that I might receive my sight**  - This is an elliptical expression in response to the Lord's question. It is not a full sentence, but its meaning can be understood from the context as “I want to receive my sight” or “Do something so that I might receive my sight.” Another alternate which would be even more explicit: “Lord, would you please enable me to see?” (or Lord, I would like you to heal me so that I can see).
-
-**Luke 21:10** //Nation will rise against nation, and kingdom against kingdom.//
-
-**kingdom against kingdom** - The complete meaning of this sentence can be understood from the beginning of the sentence: //Nation will rise against nation, and kingdom **will rise** against kingdom.// 
-
-===== Examples from English =====
-  * //No one, sir.//  The speaker is responding to a previous question; the information left out would be clear in context.
-  * "//John can play the guitar and Mary can, too"//, the action that Mary does has been omitted because that is a natural way to express this in English. If the implied information is made explicit, the sentence would be, "//John can play the guitar and Mary can **play the guitar**, too". //  Some languages may need to include this implied information in order for the meaning to be clear.
-
-
-
+  * **He makes Lebanon skip like a calf\\
+__and Sirion like a young ox__.** (Psalm 29:6)\\
+    * He makes Lebanon skip like a calf\\
+__and he makes Sirion skip like a young ox__.
 
 ----
 
