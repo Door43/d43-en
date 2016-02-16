@@ -19,6 +19,10 @@ Use this [[:en:ta:resources:ta-page-definition|template]] when creating new tA p
 {{:en:ta:inclusive.jpg?direct&180x180}}\\
 this is an example of an inclusive word
 
+<code>
+{{:en:ta:inclusive.jpg?direct&180x180}}
+</code>
+
 {{:en:ta:banana_slices_without_peel.png?nolink&360x360}}
 
 <code>
