@@ -14,7 +14,7 @@ Poetry is one of various way in which to use words to make the writing more beau
 
 **Some things commonly found in poetry**
   * Many figures of speech such as [[:en:ta:vol1:translate:figs_metaphor]], [[:en:ta:vol1:translate:figs_simile]], [[:en:ta:vol2:translate:figs_metonymy]], [[:en:ta:vol2:translate:figs_personification]], and [[:en:ta:vol2:translate:figs_apostrophe]].
-  * Parallel lines (See: [[:en:ta:vol2:translate:figs_parallelism]] and [[talink Parallelism with the Same meaning]])
+  * Parallel lines (See: [[:en:ta:vol2:translate:figs_parallelism]] and [[en:ta:vol2:translate:figs_synonparallelism]])
   * Repetition of some or all of a line
     * **Praise him, all his angels; praise him, all his angel armies. Praise him, sun and moon; praise him, all you shining stars.** (Psalm 148:2&3)
   * Lines of similar length.
@@ -43,7 +43,7 @@ The Bible uses poetry for songs, teaching and prophecy. Almost all of the books 
 
 **for you saw my affliction;** \\ 
 **you knew the distress of my soul.** (Psalm 31:7) \\ 
-This example of [[Parallelism with the same meaning]] has two lines that mean the same thing.
+This example of [[en:ta:vol2:translate:figs_synonparallelism]] has two lines that mean the same thing.
 
 **Yahweh, judge the nations;** \\ 
 **vindicate me, Yahweh, because I am righteous and innocent, Most High.** \\ 
