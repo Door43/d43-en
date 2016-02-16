@@ -34,7 +34,16 @@ When there is a textual variant, you may choose to follow the ULB or another ver
 
 ===== Examples of Translation Strategies Applied =====
 
+The translation strategies are applied to Mark 7:15-16, which has a footnote about verse 16.
+  * ** <sup>14</sup>He called the crowd again and said to them, "Listen to me, all of you, and understand. <sup>15</sup>There is nothing from outside of a person that can defile him when it enters into him. It is what comes out of the person that defiles him." <sup>16[1]</sup>** \\ 
+    * **<sup>[1]</sup>Many ancient authorities insert v. 16. //If any man has ears to hear, let him hear//.**
 
-translators follow other manuscripts (for example, if they translate Acts 8:37 as part of their main text although the ULB does not include that verse), they may need to write their footnote differently, for example, “Some ancient authorities omit verse 37.”
+1. Translate the verses that the ULB does and include the footnote that the ULB provides. \\ 
+  * <sup>14</sup>He called the crowd again and said to them, "Listen to me, all of you, and understand. <sup>15</sup>There is nothing from outside of a person that can defile him when it enters into him. It is what comes out of the person that defiles him." <sup>16[1]</sup>\\ 
+    * <sup>[1]</sup>Many ancient authorities insert v. 16. //If any man has ears to hear, let him hear//.
+
+2. Translate the verses as another version does, and change the footnote so that it fits this situation.\\ 
+  * <sup>14</sup>He called the crowd again and said to them, "Listen to me, all of you, and understand. <sup>15</sup>There is nothing from outside of a person that can defile him when it enters into him. It is what comes out of the person that defiles him. <sup>16</sup>If any man has ears to hear, let him hear." <sup>[1]</sup>\\ 
+    * <sup>[1]</sup>Some ancient authorities do not have v. 16.
 
 {{tag>review discussion text epadn}}~~DISCUSSIONS~~
