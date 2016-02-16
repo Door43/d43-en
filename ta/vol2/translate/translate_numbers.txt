@@ -1,27 +1,68 @@
-===== Translate Numbers =====
+===== Numbers - Translating Unknowns =====
 
 This module answers the question: How do I translate numbers?\\
 Before you start this module have you learned about:
   * [[en:ta:vol1:translate:translate_unknown|Translate Unknowns]]
 
-====== Numbers - Translating Unknowns ======
-There are times that the source language will use words and ideas that are not familiar. If you do not know what the source word means, the Translation Notes and Important Terms pages will help you understand its meaning. Sometimes, however, a word in the source text is a number that is not known to the people who speak the target language.
-  * Translators can write numbers using numerals such as “130” and “800” or the words such as “one hundred thirty” and “eight hundred”.
-  * Some languages do not have words for all the numbers.
-  * If the target language normally uses the gateway language words for numbers it’s ok to use the gateway language words.
-  * The translator should choose something that will be easy for people to read and understand.
-===== Translation Suggestions =====
-Be Consistent in your translations. Decide how the numbers will be translated, using numbers or numerals. There are different ways of being consistent.
-  - Use words to represent numbers all of the time. (They might have very long words.)
-  - Use numerals to represent numbers all of the time.
-  - Use words to represent the numbers that the target language has words for and use numerals for the numbers that the target language does not have words for.
-  - Use words for numbers that require few words and numerals for numbers that require more than a few words.
-===== Examples from the Bible =====
-  - The ULB, Unlocked Literal Bible, and the UDB, Unlocked Dynamic Bible, use words for numbers that only take one or two words (nine, sixteen, three hundred) The ULB and UDB use numerals for numbers that need more than one word (The numerals "115” instead of "one hundred fifteen”)
-Genesis 5:3-5// When Adam had lived **130**  years, he became the father of a son in his own likeness, after his image, and he called his name Seth. After Adam became the father of Seth, he lived **eight hundred ** years. He became the father of more sons and daughters. Adam lived **930**  years, and then he died. //  (ULB)
-===== Examples from English =====
-  - Some English writers use words for numbers up to ten or twenty and then numerals for numbers over 11 or 21.
+There are many numbers in the Bible. They can be written as words, such as "five" or as numerals, such as "5". Some numbers are very large, such as “two hundred” (200), "twenty-two thousand" (22,000) or “one hundred million” (100,000,000.) Some languages do not have words for all of these numbers. Translators need to decide how to translate numbers and whether to write them as words or numerals. 
+ 
+===== Description ===== 
+There are many numbers in the Bible. Some are small, such as "five" (5) and "fifteen" (15). Others are very large, such as "two hundred" (200), twenty-two thousand (22,000) or "one hundred million" (100,000,000). Some numbers are exact and others are rounded. 
+
+**Abram was __eighty-six__ years old when Hagar bore Ishmael to Abram.** (Genesis 16:16) \\
+Eighty-six (86) is an exact number.
+ 
+**That day about three thousand men out of the people died.** (Exodus 32:28) \\ 
+Here the number three thousand is a round number. It may have been a little more than that or a little less than that. The word "about" shows that it is not an exact number. 
+
+**Reason this is a translation issue**: Some languages do not have words for some of these numbers. 
+
+**Translation Principles** \\ 
+  * Exact numbers should be translated as closely and specifically as they can be. \\ 
+  * Rounded numbers can be translated more generally. 
+===== Examples from the Bible ===== 
+**When Jared had lived __162__ years, he became the father of Enoch. After he became the father of Enoch, Jared lived __eight hundred__ years. He became the father of more sons and daughters. Jared lived __962__ years, and then he died.** (Genesis 5:18-20) \\ 
+The numbers 162, eight hundred, and 962 are exact numbers and should be translated with something as close to those numbers as possible.
+ 
+**Our sister, may you be the mother of __thousands of ten thousands__** (Genesis 24:60) \\ 
+This is a rounded number. It does not say exactly how many descendants she should have, but it was a huge number of them. 
+ 
+===== Translation Strategies ===== 
+  - Write numbers using numerals.
+  - Write numbers using your language's words or the gateway language words for those numbers.
+  - Write numbers using words, and put the numerals in parenthesis after them.
+  - Combine words for large numbers.
+  - Use a very general expression for very large rounded numbers and write the numeral in parentheses afterward.
+ 
+===== Examples of Translation Strategies applied =====
+ 
+  * **Now, see, at great effort I have prepared for Yahweh's house __100,000__ talents of gold, __one million__ talents of silver, and bronze and iron in large quantities.** (1 Chronicles 22:14)
+1. Write numbers using numerals.
+  * "I have prepared for Yahweh's house __100,000__ talents of gold, one __1,000,000__ talents of silver, and bronze and iron in large quantities."
+2. Write numbers using your language's words or the gateway language words for those numbers.
+  * "I have prepared for Yahweh's house __one hundred thousand__ talents of gold, __one million__ talents of silver, and bronze and iron in large quantities. "
+3. Write numbers using words, and put the numerals in parenthesis after them.
+  * "I have prepared for Yahweh's house one __hundred thousand (100,000)__ talents of gold, __one million (1,000,000)__ talents of silver, and bronze and iron in large quantities.
+4. Combine words for large numbers. 
+   * "I have prepared for Yahweh's house __one hundred thousand__ talents of gold, __a thousand thousand__ talents of silver, and bronze and iron in large quantities.  
+5. Use a very general expression for very large rounded numbers and write the numeral in parentheses afterward.
+  * "I have prepared for Yahweh's house __a great amount of gold (100,000 talents)__, __ten times that amount of   silver (1,000,000 talents)__, and bronze and iron in large quantities. 
+ 
+**Consistency** \\ 
+Be consistent in your translations. Decide how the numbers will be translated, using numbers or numerals. There are different ways of being consistent. \\ 
+  * Use words to represent numbers all of the time. (You might have very long words.)  
+  * Use numerals to represent numbers all of the time. 
+  * Use words to represent the numbers that your language has words for and use numerals for the numbers that your language does not have words for. 
+  * Use words for low numbers and numerals for high numbers. 
+  * Use words for numbers that require few words and numerals for numbers that require more than a few words. 
+  * Use words to represent numbers, and write the numerals in parentheses after them. 
+**Consistency in the ULB and UDB** \\ 
+The ULB (Unlocked Literal Bible) and the UDB (Unlocked Dynamic Bible) use words for numbers that have only one or two words (nine, sixteen, three hundred). They use numerals for numbers that have more than two words (the numerals “130” instead of “one hundred thirty”). 
+  * **When Adam had lived __130__ years, he became the father of a son in his own likeness, after his image, and he called his name Seth. After Adam became the father of Seth, he lived __eight hundred__ years. He became the father of more sons and daughters. Adam lived __930__ years, and then he died.**  (Genesis 5:3-5, ULB) 
 
 
 
+Next we recommend you learn about:
+  * [[en:ta:vol2:translate:translate_ordinal|Ordinal Numbers]]
+  * [[en:ta:vol2:translate:translate_fraction|Fractions]]
 

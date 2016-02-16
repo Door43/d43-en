@@ -25,7 +25,7 @@ PHASE 2
     * Bible translationNotes - Level 3
     * Bible translationQuestions - Level 2
 
-It is important that you translate the text of the ULB and the UDB before you translate the translationNotes and the translationQuestions. However, another good method would be to translate all of the translation resources for each chunk of the Bible together. In this case, for each chunk of text, you would translate the ULB and the UDB of those verses, then the translationNotes, the translationWords, and the translationQuestions for those same verses. Then you would move to the next chunk and translate each of the resources for that chunk, as well, in that order. For information about which books of the Bible to translate first, see [[en:ta:translation_difficulty]].
+It is important that you translate the text of the ULB and the UDB before you translate the translationNotes and the translationQuestions. However, another good method would be to translate all of the translation resources for each chunk of the Bible together. In this case, for each chunk of text, you would translate the ULB and the UDB of those verses, then the translationNotes, the translationWords, and the translationQuestions for those same verses. Then you would move to the next chunk and translate each of the resources for that chunk, as well, in that order. For information about which books of the Bible to translate first, see [[en:ta:vol1:translate:translation_difficulty]].
 
 ==== Why Translate Two Bibles into the Gateway Languages? ====
 
@@ -39,4 +39,5 @@ To make an end-user Bible, it is always best to translate from more than one ver
 Next we recommend you learn about:
   * [[en:ta:vol2:gateway:gl_ulb|Translating the ULB]]
   * [[en:ta:vol2:gateway:gl_udb|Translating the UDB]]
+  * [[en:ta:vol1:translate:translation_difficulty|Choosing What to Translate]]
 

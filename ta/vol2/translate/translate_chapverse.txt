@@ -6,26 +6,26 @@ Before you start this module have you learned about:
   * [[en:ta:vol1:translate:translate_source_text|Choosing a Source Text]]
 
 ===== Description =====
-When the books of the Bible were first written, there were no breaks for chapters and verses. People added chapter and verse breaks, and they numbered them  later to make it easier to find particular parts of the Bible and particular sentences. Since more than one person did this, there are different numbering systems. Some people use Bibles with one numbering system and some use Bibles with another numbering system.  
+When the books of the Bible were first written, there were no breaks for chapters and verses. People added chapter and verse breaks, and they numbered them later to make it easier to find particular parts of the Bible and particular sentences. Since more than one person did this, there are different numbering systems. Some people use Bibles with one numbering system and some use Bibles with another numbering system.  
 
 ===== Examples from the Bible =====
 **14 But I expect to see you soon, and we will speak face to face. 15 Peace be to you. The friends greet you. Greet the friends by name.**   (3 John 1:14-15) 
 
 Since 3 John has only one chapter, some versions do not mark the chapter number.  In the ULB and UDB it is marked as chapter 1.  
 
-Some versions to do not divide verses 14 and 15 into two verses. Instead they mark it all as verse 14. 
+Also, some versions to do not divide verses 14 and 15 into two verses. Instead they mark it all as verse 14. 
 
 **//A psalm of David, when he fled from Absalom his son. // \\
 1 Yahweh, how many are my enemies!** (Psalm 3:1) 
 
-Some of the psalms have an explanation before them. In some versions that explanation is not given a verse number, as in the ULB and UDB. In other versions that explanation is  verse 1,  and the actual psalm starts with verse 2. 
+Some of the psalms have an explanation before them. In some versions that explanation is not given a verse number, as in the ULB and UDB. In other versions that explanation is verse 1,  and the actual psalm starts with verse 2. 
 
 **The sons of Levi were Gershon, Kohath, and Merari.**  (1 Chronicles 6:1) 
 
-In some versions, some of the chapters start at one verse, while in other versions, those  chapters start at another verse. For example, in some Bibles, 1 Chronicles 5 has twenty-six verses, and the verse written above is the first verse of chapter 6.  In other versions 1 Chronicles 5 has forty-one verses and the verse above is verse 27 of chapter 5. 
+In some versions, some of the chapters start at one verse, while in other versions, those chapters start at another verse. For example, in some Bibles, 1 Chronicles 5 has twenty-six verses, and the verse written above is the first verse of chapter 6.  In other versions, 1 Chronicles 5 has forty-one verses and the verse above is verse 27 of chapter 5. 
 
 ===== Translation Strategies =====
-If the people who speak your language have a Bible in another language that they use, number the chapters and verses the way it does. 
+If the people who speak your language have a Bible in another language that they use, number the chapters and verses the way that it does. 
 
 If the numbering you use is different from that used in the ULB and UDB, read the instructions on this page in the Technology Manual.  
 
@@ -35,8 +35,5 @@ If the numbering you use is different from that used in the ULB and UDB, read th
 
 
 Next we recommend you learn about:
-  * [[en:ta:vol2:translate:translate_manuscripts|Original Manuscripts]]
-  * [[en:ta:vol2:translate:translate_original|The Original and Source Languages]]
-  * [[en:ta:vol1:translate:translate_terms|Terms to Know]]
-  * [[en:ta:vol2:translate:translate_textvariants|Textual Variants]]
+  * [[en:ta:vol2:translate:translate_versebridge|Verse Bridges]]
 

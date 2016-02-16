@@ -1,120 +1,129 @@
 ===== Audio Manual =====
 
-This module answers the question: What is in the audio manual?
-
+This module answers the question: What is in the audio manual?\\
 ===== Audio Manual Table of Contents =====
 
-  -  [[:en:ta:vol2:audio:audio_introduction|Introduction]]
-      - [[:en:ta:vol2:audio:audio_vision_purpose|Vision & Purpose]]
-      - [[:en:ta:vol2:audio:about_audio_recording|About Audio Recording]]
-  -  [[:en:ta:vol2:audio:audio_best_practices|Best Practices]]
-      -  [[:en:ta:vol2:audio:approach_to_audio|Approach To Audio]]
-        - [[:en:ta:vol2:audio:excellence_in_audio|Excellence In Audio]]
-        - [[:en:ta:vol2:audio:simplicity_in_audio|Simplicity In Audio]]
-        - [[:en:ta:vol2:audio:skills_training_in_audio|Skills-training]]
-      -  [[:en:ta:vol2:audio:audio_quality_standards|Standards for Audio Quality]]
-        - [[:en:ta:vol2:audio:audio_standard_license|License]]
-        - [[:en:ta:vol2:audio:audio_standard_format|Format]]
-        - [[:en:ta:vol2:audio:audio_standard_style|Style]]
-        - [[:en:ta:vol2:audio:audio_standard_file_naming|File Naming Standard]]
-        - [[:en:ta:vol2:audio:audio_standard_characteristics|Characteristics]]
-  -  [[:en:ta:vol2:audio:audio_project_setup|Project Setup]]
-      - [[:en:ta:vol2:audio:audio_setup_content|The Content]]
-      -  [[:en:ta:vol2:audio:audio_setup_team|The Team]]
-        - [[:en:ta:vol2:audio:audio_the_recordist|The Recordist]]
-        - [[:en:ta:vol2:audio:audio_the_narrator|The Narrator]]
-        - [[:en:ta:vol2:audio:audio_the_checker|The Checker]]
-        - [[:en:ta:vol2:audio:audio_the_coordinator|The Coordinator]]
-      - [[:en:ta:vol2:audio:audio_logistics|The Logistics]]
-  -  [[:en:ta:vol2:audio:audio_recording_environment|The Recording Environment]]
-      - [[:en:ta:vol2:audio:audio_studio_environment|The Studio Recording Environment]]
-      - [[:en:ta:vol2:audio:audio_field_environment|The Field Recording Environment]]
-      - [[:en:ta:vol2:audio:audio_acoustic_principles|Basic Acoustic Principles]]
-      - [[:en:ta:vol2:audio:audio_assessing_recording_space|Assessing the Recording Space]]
-      - [[:en:ta:vol2:audio:audio_acoustical_treatments|Simple Acoustical Treatments]]
-  -  [[:en:ta:vol2:audio:audio_equipment_setup|The Equipment Setup]]
-      - [[:en:ta:vol2:audio:audio_signal_path|The Signal Path]]
-      - [[:en:ta:vol2:audio:audio_digital_recording_devices|Digital Recording Devices]]
-      - [[:en:ta:vol2:audio:audio_equipment_overview|Audio Equipment]]
-      - [[:en:ta:vol2:audio:audio_workspace_layout|Workspace Layout]]
-  -  [[:en:ta:vol2:audio:audio_mic_setup|Mic Setup]]
-      - [[:en:ta:vol2:audio:audio_mic_activation|Activating the Mic]]
-      - [[:en:ta:vol2:audio:audio_mic_position|Positioning the Mic]]
-      - [[:en:ta:vol2:audio:audio_mic_gain_level|Setting the Mic Gain Level]]
-      - [[:en:ta:vol2:audio:audio_signal_to_noise|Signal to Noise Level]]
-      - [[:en:ta:vol2:audio:audio_noise_floor|Noise Floor]]
+
+  - [[en:ta:vol2:audio:audio_introduction]]
+    - [[en:ta:vol2:audio:audio_vision_purpose]]
+    - [[en:ta:vol2:audio:about_audio_recording]]
+  - [[en:ta:vol2:audio:audio_best_practices]]
+    - [[en:ta:vol2:audio:approach_to_audio]]
+      - [[en:ta:vol2:audio:excellence_in_audio]]
+      - [[en:ta:vol2:audio:simplicity_in_audio]]
+      - [[en:ta:vol2:audio:skills_training_in_audio]]
+    - [[en:ta:vol2:audio:audio_quality_standards]]
+      - [[en:ta:vol2:audio:audio_standard_license]]
+      - [[en:ta:vol2:audio:audio_standard_format]]
+      - [[en:ta:vol2:audio:audio_standard_style]]
+      - [[en:ta:vol2:audio:audio_standard_file_naming]]
+      - [[en:ta:vol2:audio:audio_standard_characteristics]]
+  - [[en:ta:vol2:audio:audio_project_setup]]
+    - [[en:ta:vol2:audio:audio_setup_content]]
+    - [[en:ta:vol2:audio:audio_setup_team]]
+      - [[en:ta:vol2:audio:audio_the_recordist]]
+      - [[en:ta:vol2:audio:audio_the_narrator]]
+      - [[en:ta:vol2:audio:audio_the_checker]]
+      - [[en:ta:vol2:audio:audio_the_coordinator]]
+    - [[en:ta:vol2:audio:audio_logistics]]
+  - [[en:ta:vol2:audio:audio_recording_environment]]
+    - [[en:ta:vol2:audio:audio_studio_environment]]
+    - [[en:ta:vol2:audio:audio_field_environment]]
+    - [[en:ta:vol2:audio:audio_acoustic_principles]]
+    - [[en:ta:vol2:audio:audio_assessing_recording_space]]
+    - [[en:ta:vol2:audio:audio_acoustical_treatments]]
+  - [[en:ta:vol2:audio:audio_equipment_setup]]
+    - [[en:ta:vol2:audio:audio_signal_path]]
+    - [[en:ta:vol2:audio:audio_digital_recording_devices]]
+    - [[en:ta:vol2:audio:audio_equipment_overview]]
+    - [[en:ta:vol2:audio:audio_workspace_layout]]
+  - [[en:ta:vol2:audio:audio_mic_setup]]
+    - [[en:ta:vol2:audio:audio_mic_activation]]
+    - [[en:ta:vol2:audio:audio_mic_position]]
+    - [[en:ta:vol2:audio:audio_mic_gain_level]]
+    - [[en:ta:vol2:audio:audio_signal_to_noise]]
+    - [[en:ta:vol2:audio:audio_noise_floor]]
   - Software Workspace
-      - Waveform Editor
-      - Level Metering
-      - Toolbar & Menu
-  -  [[:en:ta:vol2:audio:audio_managing_data|Folder and File Management]]
-      - [[:en:ta:vol2:audio:audio_managing_folders|Folder Naming and Structure]]
-      - [[:en:ta:vol2:audio:audio_managing_files|File Naming]]
+    - Waveform Editor
+    - Level Metering
+    - Toolbar & Menu
+  - [[en:ta:vol2:audio:audio_managing_data]]
+    - [[en:ta:vol2:audio:audio_managing_folders]]
+    - [[en:ta:vol2:audio:audio_managing_files]]
   - Recording
-      - Introduction
-      - Getting Started
-        - The Process
-        - Creating a new file
-        - How to Begin recording
-        - How much to record
-        - Encouraging the team
-        - Further considerations
-      - Playback Monitoring
-        - General listening
-        - Critical listening
-      - Audio Markers
-        - Purpose
-        - Placement
-  -  [[:en:ta:vol2:audio:audio_editing|Editing]]
-      - [[:en:ta:vol2:audio:audio_editing_decisions_objective_subjective|Decisions Objective vs Subjective]]
-      - [[:en:ta:vol2:audio:audio_editing_decisions_edit_rerecord|Decision to edit or re-record]]
-      - [[:en:ta:vol2:audio:audio_editing_using_your_ears|Editing]]
-      - [[:en:ta:vol2:audio:audio_editing_common_procedures|Common Procedures]]
-      - [[:en:ta:vol2:audio:audio_editing_corrections|Making Corrections]]
-      - [[:en:ta:vol2:audio:audio_editing_navigating_timeline|Timeline Navigation]]
-      - [[:en:ta:vol2:audio:audio_editing_modifying_pauses|Modifying Pauses]]
-      - [[:en:ta:vol2:audio:audio_editing_measuring_selection_length|Measuring Length of Audio Selection]]
-
+    - Introduction
+    - Getting Started
+      - The Process
+      - Creating a new file
+      - How to Begin recording
+      - How much to record
+      - Encouraging the team
+      - Further considerations
+    - Playback Monitoring
+      - General listening
+      - Critical listening
+    - Audio Markers
+      - Purpose
+      - Placement
+  - [[en:ta:vol2:audio:audio_editing]]
+    - [[en:ta:vol2:audio:audio_editing_decisions_objective_subjective]]
+    - [[en:ta:vol2:audio:audio_editing_decisions_edit_rerecord]]
+    - [[en:ta:vol2:audio:audio_editing_using_your_ears]]
+    - [[en:ta:vol2:audio:audio_editing_common_procedures]]
+    - [[en:ta:vol2:audio:audio_editing_corrections]]
+    - [[en:ta:vol2:audio:audio_editing_navigating_timeline]]
+    - [[en:ta:vol2:audio:audio_editing_modifying_pauses]]
+    - [[en:ta:vol2:audio:audio_editing_measuring_selection_length]]
 Distribution
-
-<code>
-License
-Publishing to unfoldingWord
-Local Distribution
-File Renaming
-Formatting
-Distribution equipment
-microSD cards
-cell phones
-audio players
-amplification/recharging systems
-- [[en:ta:vol2:audio:audio_reference]]
-Recommended Equipment
-* Mics
-* Design Types
-* Connectivity Types
-* Playback Listening
-* Headphones
-* Cables & Accessories
-* Recording Devices
-* Laptops
-* Tablets
-* Portable Hand-held Recorders
-</code>
-
+  License
+  Publishing to unfoldingWord
+  Local Distribution
+  File Renaming
+  Formatting
+  Distribution equipment
+  microSD cards
+  cell phones
+  audio players
+  amplification/recharging systems
+  - [[en:ta:vol2:audio:audio_reference]]
+  Recommended Equipment
+  * Mics
+  * Design Types
+  * Connectivity Types
+  * Playback Listening
+  * Headphones
+  * Cables & Accessories
+  * Recording Devices
+  * Laptops
+  * Tablets
+  * Portable Hand-held Recorders
 Recommended Software
-
   * Recording & Editing
   * Renaming
   * Format Conversion
-
-  -  [[:en:ta:vol2:audio:audio_guides|Guides]]
-      - [[:en:ta:vol2:audio:audio_optimize_laptop|Optimize Your Laptop for Recording]]
-      - [[:en:ta:vol2:audio:audio_setup_h2n|Zoom H2n Setup]]
-
+  - [[en:ta:vol2:audio:audio_guides]]
+    - [[en:ta:vol2:audio:audio_optimize_laptop]]
+    - [[en:ta:vol2:audio:audio_setup_H2n]]
   * Ocenaudio Workspace Setup
   * Project Considerations
   * Keyboard & Mouse Shortcuts
-      -  [[:en:ta:vol2:audio:audio_checklists|Checklists]]
-        - [[:en:ta:vol2:audio:audio_checklist_preparing_project|Preparing for a Recording Project]]
-        - [[:en:ta:vol2:audio:audio_checklist_recording_process|Checklist - Recording Process]]
+    - [[en:ta:vol2:audio:audio_checklists]]
+      - [[en:ta:vol2:audio:audio_checklist_preparing_project]]
+      - [[en:ta:vol2:audio:audio_checklist_recording_process]]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -9,33 +9,32 @@ This module answers the question: //What are the characteristics of unfoldingWor
   * Noise floor below -45 dB.
   * 1 second of silence at the beginning of file.
   * 1 second of silence at the end of file.
-  * Soft or no compression applied. No heavy compression or limiting.
+  * Only none or soft compression applied. No heavily applied compression, limiting, noise gate or noise reduction.
 
 
 **Listening Characteristics**
 
   * Speed of narration should be moderate, comfortable and easy to follow.
   * Voice must be clear and sound natural.
-  * No echo or reverb (Use adequate acoustical treatment during recording).
+  * No echo, reverb or delay (Use adequate acoustical treatment during recording).
   * No distracting background noises (clicking of computer mouse, conversations in next room, etc).
-  * Any editing or processing applied in the breaks between phrases or sentences must be non-detectable for the listener and maintain the natural sound and flow of the whole audio file. If Effects Processing is applied, such as Silence, Expander, Noise Gate or Noise Reduction, the impact must be non-detectable by the end-user (no awkward pulsating or vacuum void). unfoldingWord Audio Engineering encourages proper recording technique rather than reliance on these effects, which are too often used in excess and without knowledge and wisdom about the impacts, potentially causing irreversable degradation to the audio quality.
+  * Any editing or processing applied in the breaks between phrases or sentences must be non-detectable for the listener and maintain the natural sound and flow of the whole audio file. If Effects Processing is applied, such as Silence, Expander, Noise Gate or Noise Reduction, the impact must be non-detectable by the end-user (no awkward pulsating or vacuum void). unfoldingWord Audio Engineering encourages proper recording technique rather than reliance on these effects, which are too often used in excess and without knowledge and wisdom about the impacts, potentially causing irreversible degradation to the audio quality.
 
 
 **Review & Checking Characteristics**
 
 A minimum of 1 native speaker of the language must be present luent in the written/oral language must be present during the recording, editing and final listening of the recording. This person is to provide:
-  * needed support and encouragement to the voice asset
+  * needed support and encouragement to the narrator
   * accuracy checking in the areas of text reading, word pronunciation and reading style.
-  * See Checking Module for training on the responsibilities of the checker.
 
 
 **Editing Characteristics**
 
-  * Complete all needed editing of files in collaboration with checker (native speaker of language).
-  * Set appropriate pausing or silencing between OBS slides or Bible chapters for natural reading flow.
-  * Length of pause will vary depending on the language and speed of narration.
+  * Complete all needed editing of files in collaboration with checker.
+  * Set the appropriate pausing or silencing between OBS slides or Bible chapters for natural reading flow.
+    * The length of pause will vary depending on the language and speed of narration.
   * Cue Markers are placed in audio at all frame changes in OBS and at important section transitions in other types of content.
-  * See Editing Module for training on editing.
+
 
 
 

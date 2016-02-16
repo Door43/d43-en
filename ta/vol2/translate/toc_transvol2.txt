@@ -1,60 +1,59 @@
 ===== Table of Contents - Translation Manual Volume 2 =====
 
-This module answers the question: What is in Volume 2 of the translation manual?
-
+This module answers the question: What is in Volume 2 of the translation manual?\\
 ==== Translation Manual Volume 2 ====
 
 === Further Defining a Good Translation ===
-
-  - [[:en:ta:vol2:translate:guidelines_faithful|Create Faithful Translations]]
-  - [[:en:ta:vol2:translate:guidelines_authoritative|Create AuthoritativeTranslations]]
-  - [[:en:ta:vol2:translate:guidelines_historical|Create Historical Translations]]
-  - [[:en:ta:vol2:translate:guidelines_pure|Create Pure Translations]]
-  - [[:en:ta:vol2:translate:guidelines_equal|Equal Translations]]
-  - [[:en:ta:vol2:translate:guidelines_collaborative|Create Collaborative Translations]]
-  - [[:en:ta:vol2:translate:guidelines_expressive|Create ExpressiveTranslations]]
-  - [[:en:ta:vol2:translate:guidelines_ongoing|Create Ongoing Translations]]
+  - [[en:ta:vol2:translate:guidelines_faithful]]
+  - [[en:ta:vol2:translate:guidelines_authoritative]]
+  - [[en:ta:vol2:translate:guidelines_historical]]
+  - [[en:ta:vol2:translate:guidelines_pure]]
+  - [[en:ta:vol2:translate:guidelines_equal]]
+  - [[en:ta:vol2:translate:guidelines_collaborative]]
+  - [[en:ta:vol2:translate:guidelines_expressive]]
+  - [[en:ta:vol2:translate:guidelines_ongoing]]
 
 === Just-in-Time Learning Part 2 ===
 
 == Figures of Speech ==
-
-  - [[:en:ta:vol2:translate:figs_apostrophe|Apostrophe]]
-  - [[:en:ta:vol2:translate:figs_doublet|Doublet]]
-  - [[:en:ta:vol2:translate:figs_euphemism|Euphemism]]
-  - [[:en:ta:vol2:translate:figs_hendiadys|Hendiadys]]
-  - [[:en:ta:vol2:translate:figs_hyperbole|Hyperbole]]
-  - [[:en:ta:vol2:translate:figs_litotes|Litotes]]
-  - [[:en:ta:vol2:translate:figs_metonymy|Metonymy]]
-  - [[:en:ta:vol2:translate:figs_parallelism|Parallelism]]
-  - [[:en:ta:vol2:translate:figs_personification|Personification]]
-  - [[:en:ta:vol2:translate:figs_synecdoche|Synecdoche]]
-  - [[:en:ta:vol2:translate:figs_merism|Merism]]
+    - [[en:ta:vol2:translate:figs_apostrophe]]
+    - [[en:ta:vol2:translate:figs_doublet]]
+    - [[en:ta:vol2:translate:figs_euphemism]]
+    - [[en:ta:vol2:translate:figs_hendiadys]]
+    - [[en:ta:vol2:translate:figs_hyperbole]]
+    - [[en:ta:vol2:translate:figs_litotes]]
+    - [[en:ta:vol2:translate:figs_metonymy]]
+    - [[en:ta:vol2:translate:figs_parallelism]]
+    - [[en:ta:vol2:translate:figs_personification]]
+    - [[en:ta:vol2:translate:figs_synecdoche]]
+    - [[en:ta:vol2:translate:figs_merism]]
 
 == Vocabulary ==
-
-  - [[:en:ta:vol2:translate:figs_cohesion|Cohesion]]
-  - [[:en:ta:vol2:translate:figs_deictics|Deictic]]
-  - [[:en:ta:vol2:translate:figs_doublenegatives|Double Negatives]]
-  - [[:en:ta:vol2:translate:figs_ellipsis|Ellipsis]]
-  - [[:en:ta:vol2:translate:figs_gendernotations|Gender Notations]]
-  - [[:en:ta:vol2:translate:figs_genitivecase|Genitive Case]]
-  -  [[:en:ta:vol2:translate:figs_grammar|Important Information about English Grammar]]
-      - [[:en:ta:vol2:translate:figs_activepassive|Active or Passive]]
-      - [[:en:ta:vol2:translate:figs_exclusive|Exclusive]]
-      - [[:en:ta:vol2:translate:figs_inclusive|Inclusive]]
-      - [[:en:ta:vol2:translate:figs_youformal|Forms of 'You' - Formal and Informal]]
-  -  [[:en:ta:vol2:translate:figs_partsofspeech|English Parts of Speech]]
-      - [[:en:ta:vol2:translate:figs_123person|First, Second or Third Person]]
-      - [[:en:ta:vol2:translate:figs_pluralpronouns|Pronouns - Plural]]
-      - [[:en:ta:vol2:translate:figs_singularpronouns|Pronouns - Singular]]
-      - [[:en:ta:vol2:translate:figs_quotations|Speech Quotations]]
-      - [[:en:ta:vol2:translate:figs_verbs|Verbs]]
-      - [[:en:ta:vol2:translate:figs_abstractnouns|Abstract Nouns]]
-      - [[:en:ta:vol2:translate:figs_rpronouns|Reflexive Pronouns]]
-  - [[:en:ta:vol2:translate:figs_sentences|Sentences]]
+    - [[en:ta:vol2:translate:figs_cohesion]]
+    - [[en:ta:vol2:translate:figs_deictics]]
+    - [[en:ta:vol2:translate:figs_doublenegatives]]
+    - [[en:ta:vol2:translate:figs_ellipsis]]
+    - [[en:ta:vol2:translate:figs_gendernotations]]
+    - [[en:ta:vol2:translate:figs_genitivecase]]
+    - [[en:ta:vol2:translate:figs_grammar]]
+      - [[en:ta:vol2:translate:figs_activepassive]]
+      - [[en:ta:vol2:translate:figs_exclusive]]
+      - [[en:ta:vol2:translate:figs_inclusive]]
+      - [[en:ta:vol2:translate:figs_youformal]]
+    - [[en:ta:vol2:translate:figs_partsofspeech]]
+      - [[en:ta:vol2:translate:figs_123person]]
+      - [[en:ta:vol2:translate:figs_pluralpronouns]]
+      - [[en:ta:vol2:translate:figs_singularpronouns]]
+      - [[en:ta:vol2:translate:figs_quotations]]
+      - [[en:ta:vol2:translate:figs_verbs]]
+      - [[en:ta:vol2:translate:figs_abstractnouns]]
+      - [[en:ta:vol2:translate:figs_rpronouns]]
+    - [[en:ta:vol2:translate:figs_sentences]]
 
 == Other Modules ==
+    - [[en:ta:vol2:translate:translate_numbers]]
+    - [[en:ta:vol2:translate:writing_background]]
 
-  - [[:en:ta:vol2:translate:translate_numbers|Translate Numbers]]
-  - [[:en:ta:vol2:translate:writing_background|Writing Styles - Background Information]]
+
+
+

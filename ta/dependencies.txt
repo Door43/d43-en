@@ -23,6 +23,7 @@ edge [arrowsize=1.4];
 "church_leader_check" -> "accurate"
 "alphabet" [fillcolor="#ffff99"]
 "acceptable" -> "alphabet"
+"translate_alphabet" -> "alphabet"
 "authority_level1" [fillcolor="#ffff99"]
 "authority_process" -> "authority_level1"
 "authority_level2" [fillcolor="#ffff99"]
@@ -47,6 +48,8 @@ edge [arrowsize=1.4];
 "complete" -> "good"
 "headings" [fillcolor="#ffff99"]
 "acceptable" -> "headings"
+"punctuation" -> "headings"
+"verses" -> "headings"
 "important_term_check" [fillcolor="#ffff99"]
 "level1" -> "important_term_check"
 "peer_check" -> "important_term_check"
@@ -87,6 +90,10 @@ edge [arrowsize=1.4];
 "peer_check" [fillcolor="#ffff99"]
 "level1" -> "peer_check"
 "self_check" -> "peer_check"
+"punctuation" [fillcolor="#ffff99"]
+"spelling" -> "punctuation"
+"translate_alphabet" -> "punctuation"
+"alphabet" -> "punctuation"
 "self_assessment" [fillcolor="#ffff99"]
 "complete" -> "self_assessment"
 "church_leader_check" -> "self_assessment"
@@ -94,12 +101,21 @@ edge [arrowsize=1.4];
 "self_check" [fillcolor="#ffff99"]
 "level1" -> "self_check"
 "first_draft" -> "self_check"
+"spelling" [fillcolor="#ffff99"]
+"vol2_intro" -> "spelling"
+"acceptable" -> "spelling"
+"translate_alphabet" -> "spelling"
+"alphabet" -> "spelling"
 "toc_checkvol1" [fillcolor="#ffff99"]
 "Checking" -> "toc_checkvol1"
 "toc_checkvol1_2" [fillcolor="#ffff99"]
 "Checking" -> "toc_checkvol1_2"
 "toc_checkvol2" [fillcolor="#ffff99"]
 "Checking" -> "toc_checkvol2"
+"verses" [fillcolor="#ffff99"]
+"spelling" -> "verses"
+"punctuation" -> "verses"
+"alphabet" -> "verses"
 "vol2_backtranslation" [fillcolor="#ffff99"]
 "vol2_steps" -> "vol2_backtranslation"
 "vol2_backtranslation_guidelines" [fillcolor="#ffff99"]
@@ -192,9 +208,6 @@ edge [arrowsize=1.4];
 "prechecking_training" -> "intro_publishing"
 "intro_share" [fillcolor="#99ff99"]
 "intro_publishing" -> "intro_share"
-"notepad_translation" [fillcolor="#99ff99"]
-"pretranslation_training" -> "notepad_translation"
-"setup_notepad" -> "notepad_translation"
 "platforms" [fillcolor="#99ff99"]
 "getting_started" -> "platforms"
 "file_formats" -> "platforms"
@@ -214,8 +227,6 @@ edge [arrowsize=1.4];
 "prechecking_training" -> "required_checking"
 "setup_door43" [fillcolor="#99ff99"]
 "platforms" -> "setup_door43"
-"setup_notepad" [fillcolor="#99ff99"]
-"platforms" -> "setup_notepad"
 "setup_team" [fillcolor="#99ff99"]
 "translate_process" -> "setup_team"
 "getting_started" -> "setup_team"
@@ -405,6 +416,8 @@ edge [arrowsize=1.4];
 "tS_install" -> "tS_first"
 "tS_install" [fillcolor="#99ffff"]
 "ts_intro" -> "tS_install"
+"tS_markverses" [fillcolor="#99ffff"]
+"tS_create" -> "tS_markverses"
 "tS_navigate" [fillcolor="#99ffff"]
 "tS_install" -> "tS_navigate"
 "tS_problem" [fillcolor="#99ffff"]
@@ -481,6 +494,8 @@ edge [arrowsize=1.4];
 "figs_intro" -> "figs_apostrophe"
 "figs_deictics" [fillcolor="#9999ff"]
 "Translation" -> "figs_deictics"
+"figs_distinguish" [fillcolor="#9999ff"]
+"figs_partsofspeech" -> "figs_distinguish"
 "figs_doublenegatives" [fillcolor="#9999ff"]
 "Translation" -> "figs_doublenegatives"
 "figs_doublet" [fillcolor="#9999ff"]
@@ -513,6 +528,9 @@ edge [arrowsize=1.4];
 "figs_intro" -> "figs_idiom"
 "figs_inclusive" [fillcolor="#9999ff"]
 "figs_grammar" -> "figs_inclusive"
+"figs_informremind" [fillcolor="#9999ff"]
+"figs_partsofspeech" -> "figs_informremind"
+"figs_distinguish" -> "figs_informremind"
 "figs_intro" [fillcolor="#9999ff"]
 "Translation" -> "figs_intro"
 "figs_irony" [fillcolor="#9999ff"]
@@ -551,6 +569,9 @@ edge [arrowsize=1.4];
 "figs_partsofspeech" -> "figs_singularpronouns"
 "figs_synecdoche" [fillcolor="#9999ff"]
 "figs_intro" -> "figs_synecdoche"
+"figs_synonparallelism" [fillcolor="#9999ff"]
+"figs_intro" -> "figs_synonparallelism"
+"figs_parallelism" -> "figs_synonparallelism"
 "figs_verbs" [fillcolor="#9999ff"]
 "figs_partsofspeech" -> "figs_verbs"
 "figs_you" [fillcolor="#9999ff"]
@@ -564,7 +585,7 @@ edge [arrowsize=1.4];
 "file_formats" [fillcolor="#9999ff"]
 "Translation" -> "file_formats"
 "first_draft" [fillcolor="#9999ff"]
-"translate_what" -> "first_draft"
+"translation_difficulty" -> "first_draft"
 "translate_source_text" -> "first_draft"
 "writing_decisions" -> "first_draft"
 "guidelines_accurate" [fillcolor="#9999ff"]
@@ -637,6 +658,8 @@ edge [arrowsize=1.4];
 "translate_alphabet" [fillcolor="#9999ff"]
 "choose_team" -> "translate_alphabet"
 "translate_source_text" -> "translate_alphabet"
+"translate_bibleorg" [fillcolor="#9999ff"]
+"translate_source_text" -> "translate_bibleorg"
 "translate_chapverse" [fillcolor="#9999ff"]
 "translate_process" -> "translate_chapverse"
 "translate_source_text" -> "translate_chapverse"
@@ -656,8 +679,10 @@ edge [arrowsize=1.4];
 "translate_process" -> "translate_form"
 "translate_discover" -> "translate_form"
 "translate_retell" -> "translate_form"
+"translate_fraction" [fillcolor="#9999ff"]
+"translate_numbers" -> "translate_fraction"
 "translate_help" [fillcolor="#9999ff"]
-"translate_what" -> "translate_help"
+"translation_difficulty" -> "translate_help"
 "first_draft" -> "translate_help"
 "resources_intro" -> "translate_help"
 "translate_levels" [fillcolor="#9999ff"]
@@ -679,6 +704,8 @@ edge [arrowsize=1.4];
 "translate_unknown" -> "translate_names"
 "translate_numbers" [fillcolor="#9999ff"]
 "translate_unknown" -> "translate_numbers"
+"translate_ordinal" [fillcolor="#9999ff"]
+"translate_numbers" -> "translate_ordinal"
 "translate_original" [fillcolor="#9999ff"]
 "translate_process" -> "translate_original"
 "translate_source_text" -> "translate_original"
@@ -700,6 +727,8 @@ edge [arrowsize=1.4];
 "translate_source_version" [fillcolor="#9999ff"]
 "translate_source_text" -> "translate_source_version"
 "translate_source_licensing" -> "translate_source_version"
+"translate_symaction" [fillcolor="#9999ff"]
+"translate_unknown" -> "translate_symaction"
 "translate_terms" [fillcolor="#9999ff"]
 "translate_manual" -> "translate_terms"
 "translate_textvariants" [fillcolor="#9999ff"]
@@ -712,6 +741,8 @@ edge [arrowsize=1.4];
 "translate_unknown" -> "translate_transliterate"
 "translate_unknown" [fillcolor="#9999ff"]
 "Translation" -> "translate_unknown"
+"translate_versebridge" [fillcolor="#9999ff"]
+"translate_Bibleorg" -> "translate_versebridge"
 "translate_wforw" [fillcolor="#9999ff"]
 "translate_literal" -> "translate_wforw"
 "translate_fandm" -> "translate_wforw"
@@ -721,11 +752,20 @@ edge [arrowsize=1.4];
 "uw_intro" -> "translate_why"
 "translate_manual" -> "translate_why"
 "translate_whatis" -> "translate_why"
+"translation_difficulty" [fillcolor="#9999ff"]
+"guidelines_intro" -> "translation_difficulty"
+"translate_whatis" -> "translation_difficulty"
+"translate_why" -> "translation_difficulty"
 "writing_background" [fillcolor="#9999ff"]
-"Translation" -> "writing_background"
+"figs_events" -> "writing_background"
 "writing_decisions" [fillcolor="#9999ff"]
 "translate_source_text" -> "writing_decisions"
 "choose_team" -> "writing_decisions"
+"writing_participants" [fillcolor="#9999ff"]
+"figs_partsofspeech" -> "writing_participants"
+"writing_poetry" [fillcolor="#9999ff"]
+"figs_parallelism" -> "writing_poetry"
+"figs_metaphor" -> "writing_poetry"
 }
 </graphviz>
 ~~NOCACHE~~

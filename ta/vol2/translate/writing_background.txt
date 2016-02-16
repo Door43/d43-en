@@ -1,26 +1,56 @@
 ===== Writing Styles - Background Information =====
 
-This module answers the question: How do I show background information in my language?\\
-Feel free to watch a video (to view on a [[http://youtu.be/ywevLJl1PNI|computer]] (http://youtu.be/ywevLJl1PNI) or a [[http://youtu.be/7ZD-I9iqvaw|portable device]] (http://youtu.be/7ZD-I9iqvaw)) on Background Information or read the information below.
+This module answers the question: What is background information and how can I show that some information is background information?\\
+Before you start this module have you learned about:
+  * [[en:ta:vol1:translate:figs_events|Order of Events]]
 
-Every story has a storyline. The storyline tells a series of events in chronological order and has a beginning, middle and end. It is full of action verbs that moves the reader along the storyline. Occasionally an author may take a break from the storyline to share something of interest. This break usually contains background information. An author may use background information for several reasons:
-  * To add interest to the story.
-  * To provide important historical or cultural information.
-  * To tell the reader, or listener, something very important
-===== Translation Suggestions =====
-To keep translations clear and natural you will need to study the grammar and punctuation of your language. Observe how your language presents background information in writings. Follow those same grammar rules when you translate.
+When people tell a story, they normally tell the events in the order that they happened. Sometimes an author may give some background information to help his listeners understand the story. The background information might be about things that happened before the events he has already told about, or it might explain something in the story, or it might be about something that would happen much later in the story. The story teller and translator need to tell the story in a way that people will know whether an event is background information and be able to understand what order the events happened in.
+===== Description =====
+
+Every story has a storyline. The storyline tells a series of events mostly in the time order that the events happened. It is full of action verbs that moves the reader along the storyline. Occasionally an author may take a break from the storyline to share something of interest. This break is called **background information.**  The underlined sentences in the story below are all background information.
+
+Peter and John went on a hunting trip because __their village was going to have a a feast the next day__. __Peter was the best hunter in the village.__ __He once killed three wild pigs in one day!__ They walked for hours through low bushes until they found  a wild pig. They shot the pig and killed it. Then they tied up its legs with some rope __they had brought with them__, and carried it home on a pole. When they brought it to the village, Peter's cousin saw the pig and realized that __it was his own pig__. __Peter had mistakenly killed his cousin's pig__.
+
+Often background information uses "be" verbs like "was" and "were", rather than action verbs. Examples of these are "Peter __was__ the best hunter in the village" and "it __was__ his own pig."
+
+Sometimes the author makes a break in the story to tell about something that had happened earlier or something that would happen much later. Examples of these are "their village was going to have a a feast the next day" and "He once killed three wild pigs in one day," "that they had brought with them," and "Peter had mistakenly killed his cousins's pig.
+
+**An author may use background information**
+  * to help their listeners be interested in the story.
+  * to help their listeners understand something in the story.
+  * to help the listeners understand why something is important in the story.
+
+**Reason this is a translation issue** 
+  * Translators need to know whether or not the events in the Bible happened in the same order that they are told. 
+  * Translators will need to translate the story in a way that their own readers will understand the order of events. 
 ===== Examples from the Bible =====
-Genesis 16:16 //Abram was **eighty-six years old** when Hagar bore Ishmael to Abram.//  This is background information about Abram's age when these things happened. 
+**Hagar gave birth to Abram's son, and Abram named his son, whom Hagar bore, Ishmael. Abram __was__ eighty-six years old when Hagar bore Ishmael to Abram.**  (Genesis 16:16)\\
+The first sentence tells about two events. Hagar gave birth and Abraham named his son. The second sentence is background information about how old Abram was when those things happened.
 
-Luke 3:23 //**Now** Jesus himself, when he began to teach, was about thirty years of age. He was the son (as was supposed) of Joseph, the son of Heli.//  The word "now" is used here to mark a change from the story to background information about Jesus’ age and ancestors. 
-===== Examples from English =====
-I have a story to tell you about John. It is a story with a beginning, middle, and end that is filled with action verbs.\\
+**Now Jesus himself, when he began to teach, __was__ about thirty years of age. He __was__ the son (as was supposed) of Joseph, the son of Heli.**   (Luke 3:23) \\ 
+The verses before this tell about when Jesus was baptized. This sentence introduces background information about Jesus’ age and ancestors. The story starts up again in chapter 4 where it tells about Jesus going to the wilderness.
+===== Translation Strategies =====
+To keep translations clear and natural you will need to study the grammar and punctuation of your language. Observe how your language presents background information in writings. Follow those same grammar rules when you translate.
+  - Use your language's way of showing that certain information is background information.
+  - Reorder the information so that that earlier events are mentioned first.  (This is not always possible when the background information is very long.)
+===== Examples of Translation Strategies applied ===== 
+1. Use your language's way of showing that certain information is background information. The examples below explain how this was done in the ULB English translations.
 
-//Peter and John went on a hunting trip. They walked for hours through low bushes before they found three small animals. They killed, cleaned and cooked the animals, then ate them for dinner. Peter and John made sure they arrived home while it was still light.// \\
+  * **Now Jesus himself, when he began to teach, __was__ about thirty years of age. He __was__ the son (as was supposed) of Joseph, the son of Heli.** (Luke 3:23) - English uses the word "now" to show that there is some kind of change in the story. The verb "was" shows that it is background information.
 
-Here is the same story with added background information in bold letters:\\ 
-//Peter and John went on a hunting trip. **Peter was the best hunter in the village. He once killed 10 large birds in one day**! (**Peter is the son of Samuel, who is the son of Daniel, who was the greatest hunter of all times from his family.)** They walked for hours through low bushes before they found three small animals. They killed, cleaned, and cooked the animals **in a large pot that they had brought along with them ** , then ate them for dinner. Peter and John made sure they arrived home while it was still light, **because it was dangerous to travel in the dark.** //
+  * **With many other exhortations also, he preached good news to the people. John also rebuked Herod the tetrarch __for marrying his brother’s wife, Herodias__, and __for all the other evil things that Herod had done__. But then Herod did another very evil thing. He had John locked up in prison.**  (Luke 3:18-20) The underlined phrases happened before John rebuked Herod. In English, the helping verb "had" in "had done" shows that Herod did those things before John rebuked him.
+
+2. Reorder the information so that that earlier events are mentioned first. \\ 
+
+  * **Hagar gave birth to Abram's son, and Abram named his son, whom Hagar bore, Ishmael. __Abram was eighty-six years old when Hagar bore Ishmael to Abram__.** (Genesis 16:16)
+    * "__When Abram was eighty-six years old__, Hagar gave birth to his son, and Abram named his son Ishmael." 
+
+    * **John also rebuked Herod the tetrarch __for marrying his brother’s wife, Herodias__, and __for all the other evil things that Herod had done__. But then Herod did another very evil thing. He had John locked up in prison.**  (Luke 3:18-20) -  The translation below reorders John's rebuke and Herod's actions. 
+        * "Now Herod the tetrarch married his brother's wife, Herodias, and he did many other evil things, so John rebuked him. But then Herod did another very evil thing. He had John locked up in prison."
 
 
 
+Next we recommend you learn about:
+  * [[en:ta:vol2:translate:writing_participants|Writing Styles - Introduction of New and Old Participants]]
+  * [[en:ta:vol2:translate:writing_poetry|Writing Styles - Poetry]]
 

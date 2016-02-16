@@ -47,8 +47,10 @@ Examples:
                 es-419_ulb_19_sal_119
                 fr_udb_55_2ti_01
                 pt-br_ulb_44_ato_03
-                en_???_66_rev_22  (label Bible type accordingly if a different open-licensed text is recorded)
+                en_???_66_rev_22  (???= label accordingly if a different open-licensed text)
 
+
+**Other**
 
 When recording draft versions or other scenarios where additional identification is needed, please use the format shown below and simply add an underscore (_) and text that clearly communicates what the file is. For example, a draft version of the first story in English Open Bible Stories would be:
 
@@ -62,6 +64,7 @@ Proper identification of each audio file is very important. Please verify:
   * file naming according to the guidelines above
   * that each file name matches the recorded content
   * total file count for any missing or duplicated files
+  * markers/cues are placed in the audio file for OBS frames or Scripture verses
 
 
 
