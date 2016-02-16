@@ -1,51 +1,44 @@
 ====== Euphemism ======
 
+This module answers the question: What is euphemism?\\
+In order to understand this module, it would be good to read
+  * [[en:ta:vol1:translate:figs_intro|Figures of Speech]]
+
+A euphemism is a mild or polite way of referring to something that is unpleasant, embarrassing, or considered to be socially unacceptable. Its purpose is to avoid offending the people who hear or read it. 
+
 ===== Description =====
 
-Definition\\
-Examples(s)\\
-Purpose (optional)\\
+A euphemism is a mild or polite way of referring to something that is unpleasant, embarrassing, or considered to be socially unacceptable. Its purpose is to avoid offending the people who hear or read it.
 
-=== Reason this could be a translation issue (recommended) ===
-=== Translation Principles (optional) ===
+  * **Saul and his sons fallen** - "Saul and his sons dead" (1 Chron 1:8)\\
+This is euphemism because the important thing was not that Saul and his sons had fallen but that they were dead. Sometimes people do not like to speak directly about death because death is unpleasant.
 
+**Reason this is a translation issue**\\
+Readers may think that the writer means only what the words literally say.
 
 ===== Examples from the Bible =====
+
+**whether we are awake or asleep** - "whether we are alive or dead"
 
 
 ===== Translation Strategies =====
-If your language can use x consider using it. These strategies are for if your language cannot use x.
-
+If euphemism would be natural and give the right meaning in your language, consider using it. If not, here are other options:
+  - Use a euphemism from your own culture.
+  - State the information plainly without a euphemism if it would not be offensive.
 
 ===== Examples of Translation Strategies Applied =====
 
-----
+1. Use a euphemism from your own culture.
+  * **where there was a cave; and Saul went in to cover his feet** (1 Samuel 24:3)\\
+If the reader would not understand that Saul was going in to empty his intestines, but the most common referent for a "little house" is a place for people to empty their intestines, this is a possibility:
+    * "where there was a cave; and Saul went in to use the cave as a little house" 
 
-This module answers the question: What is a Euphemism?\\
-Before you start this module have you learned about:
-  * [[en:ta:vol1:translate:figs_intro|Figures of Speech]]
-
-A euphemism is a mild or polite way of referring to something that is unpleasant, embarrassing or considered to be socially unacceptable. Its purpose is to avoid offending the people who hear or read it.
-===== Translation Suggestions =====
-  * Use the euphemism that is used in the original if people would understand it.
-  * Use a euphemism from your own culture.
-  * State the information plainly without a euphemism if it would not be offensive.
-===== Examples from the Bible =====
-**But we don’t want you to be ignorant, brothers, concerning those who have __fallen asleep__, so that you don’t grieve like the rest, who have no hope.** 1 Thes 4:13 (WEB)\\ 
-“Fallen asleep” is a euphemism for “died.” Sometimes people don't like to speak directly about death because it is unpleasant. 
-
-**He came to the sheep pens by the way, where was a cave; and Saul went in to __cover his feet__.** 1 Samuel 24:3\\
-"Cover his feet" is a euphemism for "defecate." English uses the euphemism "relieve himself." Sometimes people don't like to speak directly of things coming from the body.
-===== Examples from English =====
-**He passed away** and **He departed** mean “He died.”\\
-**He slept with her** usually means “They had sexual relations with each other.”\\
-**Bathroom** and **restroom** refer to a room that has a toilet in it.
-
+2. State the information plainly without a euphemism if it would not be offensive.
+  * **whether we are awake or asleep** (1 Thessalonians 5:10)
+    * "whether we are alive or dead"
 
 ----
 
-https://pad.door43.org/p/ta-figs_euphemism
-
- {{tag>drafthw figureofspeech epadn}}~~DISCUSSION~~
+{{tag>review epadn}}~~DISCUSSIONS~~
 
 ~~NOCACHE~~
