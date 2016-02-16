@@ -44,9 +44,11 @@ Text-Answer
 
 ===== Part 3: Important Translation Issues =====
 
-**Text-Question**\\
+**Why does the ULB display the psalms as poetry, but the UDB does not?**\\
 
-Text-Answer
+The Psalms were written as Hebrew poetry. This style uses poetic lines that stand in different kinds of relationships with each other. Usually they are “parallel” to each other. (See: [[:en:ta:vol2:translate:figs_parallelism]].) The ULB show these lines of poetry in English. 
+
+However, many translators will decide not to use poetic lines. The UDB provides a model for these translators. 
 
 **Text-Question**\\
 
