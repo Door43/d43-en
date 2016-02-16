@@ -1,50 +1,58 @@
 ====== Explicit and Implicit Information ======
 
+This module answers the question: What do the words explicit and implicit mean?\\
+In order to understand this module, it would be good to read
+  * [[en:ta:vol1:translate:figs_intro|Figures of Speech]]
+
+There are two different forms of written and spoken communication, explicit and implicit. When a speaker or writer, has a message to give, he has to consider what information to include and what to leave out.
+
+  * Explicit information is what the speaker states clearly.
+  * Implicit information is information that the speaker or writer expects his audience to already know, and so he does not include it.
+
+
 ===== Description =====
 
-Definition\\
-Examples(s)\\
-Purpose (optional)\\
+When a writer writes, he has in mind a certain audience who will read what he writes. The writer has a good idea of what this audience does and does not know about what he is writing about, and so the writer chooses to include the important information that he knows his audience does not know. He chooses to not include the information that his audience already knows.
 
-=== Reason this could be a translation issue (recommended) ===
-=== Translation Principles (optional) ===
+**this woman’s son died in the night, because __she lay on him__** (1 Kings 3:19)\\
+The speaker here believes that her hearers will understand what she means without her having to state clearly that son died because he could not breathe.
 
+**Reason this is a translation issue**\\
+Readers may not know information that the original speaker and hearers knew.
 
 ===== Examples from the Bible =====
 
+**it will be more tolerable for __Tyre and Sidon__ at the day of judgment than for you** (Mattew 11:22)\\
+The speaker, Jesus, knows that his hearers know that God destroyed Tyre and Sidon because of their wickedness.
+
+**Why do your disciples violate the traditions of the elders? For __they do not wash their hands when they eat__.** (Mattew 15:2)\\
+The speaker, one of the Pharisees, knows that Jesus knows that the washing is part of a ceremony, not part of physical cleanliness.
+
+**Jesus said to him, "Foxes __have holes__, and the birds __of the sky__ __have nests__, but the Son of Man has nowhere to lay his head."** (Matthew 8:20)\\
+Jesus adds "of the sky" to "birds," which sounds natural in his language, but may be unnecessary and therefore sound unnatural in another language. He also does not tell what it is that foxes use holes and birds use nests for, but some languages might sound unnatural unless that information is stated.
 
 ===== Translation Strategies =====
-If your language can use x consider using it. These strategies are for if your language cannot use x.
 
+If leaving the implied information out or leaving unnecessary information in would be natural and give the right meaning in your language, consider doing so. If not, here are other options:
+  - Add in the implied information.
+  - Delete information that is unnatural because it is unnecessary.
 
 ===== Examples of Translation Strategies Applied =====
 
-----
+1. Add in the implied information.
+  * **it will be more tolerable for __Tyre and Sidon__ at the day of judgment than for you** (Mattew 11:22)
+    * "God will punish __Tyre and Sidon, cities whose people you think of as very wicked,__ less severely than he will punish you"
+  * **Why do your disciples violate the traditions of the elders? For __they do not wash their hands__ when they eat.** (Mattew 15:2)
+    * "Why do your disciples violate the traditions of the elders? For __they do not go through the ceremonial handwashing ritual__ when they eat."
+  * **Jesus said to him, "Foxes __have holes__, and the birds of the sky __have nests__, but the Son of Man has nowhere to lay his head."** (Matthew 8:20)
+    * "Jesus said to him, 'Foxes __have holes to live in__, and the birds of the sky __have nests to live in__, but the Son of Man has nowhere to lay his head.'"
 
-This module answers the question: What do the words explicit and implicit mean?\\
-==== Definition ====
-
-There are two different forms of communication found in both written and spoken messages. One is called **//explicit//** and the other is called //**implicit**//. When a speaker, or writer, has a message to give, he has a particular audience in mind as he gives the message. This affects the form of his message and his decision on what information to include or leave out.
-
-  * Information that the speaker states clearly is called **//explicit//** information. This is the information that the speaker or writer has decided to include in what he says.
-  * Information that the speaker does not state clearly is called //**implicit**// information. This is the information that the speaker or writer expects his audience to already know, and so he knows that he does not need to include that information in what he writes.
-
-When a writer writes, he has in mind a certain audience who will read what he writes. The writer has a good idea of what this audience does and does not know about what he is writing about, and so the writer chooses to include the important information that he knows his audience does not know. He chooses to not include the information that his audience already knows. 
-
-==== Translation Suggestions ====
-
-Although implicit information is not stated in words but is only implied, it is information that the hearer or reader needs to know if he is to understand the meaning of the message. The speaker or writer has succeeded in communicating his message only if the hearer or reader correctly understands what was clearly stated as well as what was implied.
-
-When we translate the Bible, we are making it available to a new audience. This new audience will know some things about what is in the Bible, but often they will not know some of the implicit information that the original writer left out because his original audience already knew it. The new target audience, then, will need to know some of that implicit information in order to understand some parts of the text. So in order for the Bible to communicate its message successfully, the translator needs to include some of the information that the original writer left as implicit for the original audience. If this information can be included in just a few words, then the translator may decide to include this information in the text of the translation. But if it will take more than a few words, it is best to include this information in a footnote. The translator will need to think about his target audience and decide when to include some of this implicit information. Checking the translation with the community is a good way for the translator to find out where he needs to include some implicit information so that they can understand the translation.
-
-
-
-
+2. Delete information that is unnatural because it is unnecessary.
+  * **Jesus said to him, "Foxes have holes, and the birds __of the sky__ have nests, but the Son of Man has nowhere to lay his head."** (Matthew 8:20)
+    * "Jesus said to him, 'Foxes have holes, and birds have nests, but the Son of Man has nowhere to lay his head.'"
 
 ----
-https://pad.door43.org/p/ta-figs_explicit\\
-https://pad.door43.org/p/ta-figs_explicitinfo (translation and examples only)
 
-{{tag>drafthw discourse epadn}}~~DISCUSSION~~
+{{tag>review epadn}}~~DISCUSSIONS~~
 
 ~~NOCACHE~~
