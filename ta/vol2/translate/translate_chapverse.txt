@@ -1,36 +1,43 @@
 ===== Chapter and Verse Numbers =====
 
-This module answers the question: Why is the verse numbering in my Bible different from the verse numbering in your Bible?\\
+This module answers the question: Why are the chapter and verse numbers in my Bible different from those in your Bible?\\
 Before you start this module have you learned about:
-  * [[en:ta:vol1:translate:translate_process|The Translation Process]]
-  * [[en:ta:vol1:translate:translate_source_text|Choosing a Source Text]]
+  * [[en:ta:vol2:translate:translate_bibleorg|Structure of the Bible]]
 
+When the books of the Bible were first written, there were no breaks for chapters and verses. People added these later, and then others numbered them to make it easier to find particular parts of the Bible. Since more than one person did this, there are different numbering systems used in different translations. If the numbering system in the ULB is different from the numbering system in another Bible that you use, you will probably want to use the system from that Bible.
 ===== Description =====
-When the books of the Bible were first written, there were no breaks for chapters and verses. People added chapter and verse breaks, and they numbered them later to make it easier to find particular parts of the Bible and particular sentences. Since more than one person did this, there are different numbering systems. Some people use Bibles with one numbering system and some use Bibles with another numbering system.  
 
+When the books of the Bible were first written, there were no breaks for chapters and verses. People added chapter and verse breaks, and they numbered them later to make it easier to find particular parts of the Bible and particular sentences. Since more than one person did this, there are different numbering systems. Some people use Bibles with one numbering system and some use Bibles with another numbering system.
+
+**Reason this is a translation issue:** - People who speak your language may also use a Bible written in another language. If that Bible and your translation use different chapter and verse numbers, it will be hard for people to know which verse someone is speaking of when they give a chapter and verse number.
 ===== Examples from the Bible =====
-**14 But I expect to see you soon, and we will speak face to face. 15 Peace be to you. The friends greet you. Greet the friends by name.**   (3 John 1:14-15) 
+14 **But I expect to see you soon, and we will speak face to face.** 15 **Peace be to you. The friends greet you. Greet the friends by name.** (3 John 1:14-15)
 
-Since 3 John has only one chapter, some versions do not mark the chapter number.  In the ULB and UDB it is marked as chapter 1.  
+Since 3 John has only one chapter, some versions do not mark the chapter number. In the ULB and UDB it is marked as chapter 1. Also, some versions to do not divide verses 14 and 15 into two verses. Instead they mark it all as verse 14.
 
-Also, some versions to do not divide verses 14 and 15 into two verses. Instead they mark it all as verse 14. 
+**//A psalm of David, when he fled from Absalom his son. //** \\
+1 **Yahweh, how many are my enemies!** (Psalm 3:1)
 
-**//A psalm of David, when he fled from Absalom his son. // \\
-1 Yahweh, how many are my enemies!** (Psalm 3:1) 
+Some of the psalms have an explanation before them. In some versions the explanation is not given a verse number, as in the ULB and UDB. In other versions the explanation is verse 1, and the actual psalm starts with verse 2.
 
-Some of the psalms have an explanation before them. In some versions that explanation is not given a verse number, as in the ULB and UDB. In other versions that explanation is verse 1,  and the actual psalm starts with verse 2. 
+**and Darius the Mede received the kingdom when he was about sixty-two years old.** (Daniel 5:31) 
 
-**The sons of Levi were Gershon, Kohath, and Merari.**  (1 Chronicles 6:1) 
-
-In some versions, some of the chapters start at one verse, while in other versions, those chapters start at another verse. For example, in some Bibles, 1 Chronicles 5 has twenty-six verses, and the verse written above is the first verse of chapter 6.  In other versions, 1 Chronicles 5 has forty-one verses and the verse above is verse 27 of chapter 5. 
-
+In some versions this is the last verse of Daniel 5. In other versions this is the first verse of Daniel 6. 
 ===== Translation Strategies =====
-If the people who speak your language have a Bible in another language that they use, number the chapters and verses the way that it does. 
-
-If the numbering you use is different from that used in the ULB and UDB, read the instructions on this page in the Technology Manual.  
-
-
-
+1. If the people who speak your language have a Bible in another language that they use, number the chapters and verses the way it does. Read the instructions on [[How to Mark Verses in the Technology Manual]].
+===== Examples of Translation Strategies Applied =====
+If the people who speak your language have a Bible in another language that they use, number the chapters and verses the way it does. \\
+This is an example from the beginning of Psalm 3.
+**//A psalm of David, when he fled from Absalom his son.//**  \\ 
+1. **Yahweh, how many are my enemies!**  \\ 
+**Many have turned away and attacked me.** \\ 
+2. **Many say about me,** \\ 
+**"There is no help for him from God." //Selah//**\\
+1. //A psalm of David, when he fled from Absalom his son.//  \\ 
+2. Yahweh, how many are my enemies!  \\ 
+Many have turned away and attacked me. \\ 
+3. Many say about me, \\ 
+"There is no help for him from God." //Selah//\\
 
 
 

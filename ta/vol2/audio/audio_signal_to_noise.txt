@@ -3,15 +3,15 @@
 This module answers the question: //What is the signal to noise level?//\\
 ==  ==
 
-One characteristic of a quality recording that will have many years usefulness and require the least amount of additional work during editing a post-production is a recording with an excellent signal to noise ratio. 
+One characteristic of a quality recording that will have many years usefulness and require the least amount of additional work during editing a post-production is a recording with an excellent signal to noise ratio.
 
-**What is a signal to noise ratio?**
+//What is a signal to noise ratio?//
 
-Signal to noise ratio (SNR) is not exactly a ratio in the sense of a mathematical ratio, but rather a way of expressing how loud the two categaories of sound are compared to each other. 
+Signal to noise ratio (SNR) is not exactly a ratio in the sense of a mathematical ratio, but rather a way of expressing how loud the two categories of sound are compared to each other. 
 
 In simple terms for our purposes, it is an expression of how much good sound (narrator's voice) is there in the recording compared to bad sound (specifically electronic noise, hiss and hum, but could also include unwanted ambient noise). An audio recording with an excellent signal to noise ratio will have the narrator's voice clear in the foreground of the audio track, with little or no hiss or static noise in the background. By contrast, a poor signal to noise ratio will be characterized by very noticeable static noise and hiss competing with the narrator's voice. A recording with a significant amount of distracting background noise from the local environment could also be considered an example of poor signal to noise ratio.
 
-Our goal is to record the narrator's voice (signal) at a quality level (-6dB) while having the background noise as quiet of possible. The term that refers to that background noise level and the measurements we want to achieve are discussed on the next section. 
+Our goal is to record the narrator's voice (signal) at a quality level (-6dB) while having the background noise as quiet of possible. The term that refers to that background noise level and the measurements we want to achieve are discussed on the next section.
 
 
 

@@ -1,15 +1,14 @@
-===== Optimize Your Laptop for Recording =====
+===== Optimizing Your Laptop for Recording =====
 
-This module answers the question: How can I optimize my laptop for recording?\\
-Module - Optimize Your Laptop for Recording
+This module answers the question: //How can I optimize my laptop for recording?//\\
+===  ===
 
+Audio recording requires a higher performance level from a computer than typical home or office use does. If the health of your computer is poor, or its capacities are already stretched, it could have a negative impact on recording, ranging from slowed productivity to increased cost to file corruption. Here are some suggestions to get your computer in the best condition for recording.
 
-Audio recording can require a higher performance level from a computer than typical home or office use does. If the health of your computer is poor, or its capacities are already stretched, it could have a negative impact on recording, ranging from slowed productivity to increased cost to file corruption. Here are some suggestions to get your computer in the best condition for recording.
+== Free Improvements == 
 
-
-Free Improvements 
-
-Disconnect unnecessary USB peripheral devices. It is a smart step to disconnect any USB devices not needed during recording. This will help your computer supply full, stable voltage to sensitive USB recording gear. Too many devices drawing power from USB ports can cause the voltage level to drop or fluctuate outside of required parameters.
+= Disconnect unnecessary USB peripheral devices =
+It is a smart step to disconnect any USB devices not needed during recording. This will help your computer supply full, stable voltage to sensitive USB recording gear. Too many devices drawing power from USB ports can cause the voltage level to drop or fluctuate outside of required parameters.
 
 
 Turn off scheduled tasks. Maintenance tasks such as a system backup or a virus scan can draw too much of your available power while recording. They can also force the computer to work very hard. These simultaneous demands can cause the cooling fans to run faster and louder, which could add extra noise to the recording.  

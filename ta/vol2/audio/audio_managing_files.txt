@@ -1,7 +1,7 @@
 ===== File Naming =====
 
 This module answers the question: //How should files be named?//\\
-==  ==
+===  ===
 
 Naming files with clarity and consistency is logically the most important step in managing files. We recommend using the file naming standard described in the File Naming Module. This will not only provide a consistent structure that works across any language and any resource, but it also has provision for dialects, sub-dialects and project specific variable such as versions, drafts, community distributions, specific format settings, etc.
 

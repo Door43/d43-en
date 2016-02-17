@@ -42,6 +42,8 @@ edge [arrowsize=1.4];
 "writing_decisions" -> "community_evaluation"
 "complete" [fillcolor="#ffff99"]
 "accurate" -> "complete"
+"formatting" [fillcolor="#ffff99"]
+"things_to_check" -> "formatting"
 "goal_checking" [fillcolor="#ffff99"]
 "intro_levels" -> "goal_checking"
 "good" [fillcolor="#ffff99"]
@@ -273,8 +275,36 @@ edge [arrowsize=1.4];
 "Technology" -> "audio_checklist_recording_process"
 "audio_checklists" [fillcolor="#99ffff"]
 "Technology" -> "audio_checklists"
+"audio_creating_new_file" [fillcolor="#99ffff"]
+"Technology" -> "audio_creating_new_file"
 "audio_digital_recording_devices" [fillcolor="#99ffff"]
 "Technology" -> "audio_digital_recording_devices"
+"audio_distribution" [fillcolor="#99ffff"]
+"Technology" -> "audio_distribution"
+"audio_distribution_amplification_recharging" [fillcolor="#99ffff"]
+"Technology" -> "audio_distribution_amplification_recharging"
+"audio_distribution_audio_player" [fillcolor="#99ffff"]
+"Technology" -> "audio_distribution_audio_player"
+"audio_distribution_best_solutions" [fillcolor="#99ffff"]
+"Technology" -> "audio_distribution_best_solutions"
+"audio_distribution_door43" [fillcolor="#99ffff"]
+"Technology" -> "audio_distribution_door43"
+"audio_distribution_license" [fillcolor="#99ffff"]
+"Technology" -> "audio_distribution_license"
+"audio_distribution_local" [fillcolor="#99ffff"]
+"Technology" -> "audio_distribution_local"
+"audio_distribution_microSD" [fillcolor="#99ffff"]
+"Technology" -> "audio_distribution_microSD"
+"audio_distribution_mobile_phone" [fillcolor="#99ffff"]
+"Technology" -> "audio_distribution_mobile_phone"
+"audio_distribution_offline" [fillcolor="#99ffff"]
+"Technology" -> "audio_distribution_offline"
+"audio_distribution_preparing_content" [fillcolor="#99ffff"]
+"Technology" -> "audio_distribution_preparing_content"
+"audio_distribution_radio" [fillcolor="#99ffff"]
+"Technology" -> "audio_distribution_radio"
+"audio_distribution_wifi_hotspot" [fillcolor="#99ffff"]
+"Technology" -> "audio_distribution_wifi_hotspot"
 "audio_editing" [fillcolor="#99ffff"]
 "Technology" -> "audio_editing"
 "audio_editing_common_procedures" [fillcolor="#99ffff"]
@@ -285,6 +315,8 @@ edge [arrowsize=1.4];
 "Technology" -> "audio_editing_decisions_edit_rerecord"
 "audio_editing_decisions_objective_subjective" [fillcolor="#99ffff"]
 "Technology" -> "audio_editing_decisions_objective_subjective"
+"audio_editing_finalizing" [fillcolor="#99ffff"]
+"Technology" -> "audio_editing_finalizing"
 "audio_editing_measuring_selection_length" [fillcolor="#99ffff"]
 "Technology" -> "audio_editing_measuring_selection_length"
 "audio_editing_modifying_pauses" [fillcolor="#99ffff"]
@@ -301,6 +333,12 @@ edge [arrowsize=1.4];
 "Technology" -> "audio_field_environment"
 "audio_guides" [fillcolor="#99ffff"]
 "Technology" -> "audio_guides"
+"audio_interfaces" [fillcolor="#99ffff"]
+"Technology" -> "audio_interfaces"
+"audio_interfaces_firewire" [fillcolor="#99ffff"]
+"Technology" -> "audio_interfaces_firewire"
+"audio_interfaces_usb" [fillcolor="#99ffff"]
+"Technology" -> "audio_interfaces_usb"
 "audio_introduction" [fillcolor="#99ffff"]
 "Technology" -> "audio_introduction"
 "audio_logistics" [fillcolor="#99ffff"]
@@ -311,26 +349,70 @@ edge [arrowsize=1.4];
 "Technology" -> "audio_managing_files"
 "audio_managing_folders" [fillcolor="#99ffff"]
 "Technology" -> "audio_managing_folders"
+"audio_markers" [fillcolor="#99ffff"]
+"Technology" -> "audio_markers"
 "audio_mic_activation" [fillcolor="#99ffff"]
 "Technology" -> "audio_mic_activation"
+"audio_mic_connectivity_types" [fillcolor="#99ffff"]
+"Technology" -> "audio_mic_connectivity_types"
+"audio_mic_design_types" [fillcolor="#99ffff"]
+"Technology" -> "audio_mic_design_types"
 "audio_mic_gain_level" [fillcolor="#99ffff"]
 "Technology" -> "audio_mic_gain_level"
 "audio_mic_position" [fillcolor="#99ffff"]
 "Technology" -> "audio_mic_position"
+"audio_mic_recommended" [fillcolor="#99ffff"]
+"Technology" -> "audio_mic_recommended"
 "audio_mic_setup" [fillcolor="#99ffff"]
 "Technology" -> "audio_mic_setup"
+"audio_microphone" [fillcolor="#99ffff"]
+"Technology" -> "audio_microphone"
 "audio_noise_floor" [fillcolor="#99ffff"]
 "Technology" -> "audio_noise_floor"
 "audio_optimize_laptop" [fillcolor="#99ffff"]
 "Technology" -> "audio_optimize_laptop"
+"audio_playback_monitoring" [fillcolor="#99ffff"]
+"Technology" -> "audio_playback_monitoring"
 "audio_project_setup" [fillcolor="#99ffff"]
 "Technology" -> "audio_project_setup"
+"audio_publishing_unfoldingword" [fillcolor="#99ffff"]
+"Technology" -> "audio_publishing_unfoldingword"
 "audio_quality_standards" [fillcolor="#99ffff"]
 "Technology" -> "audio_quality_standards"
+"audio_recommended_accessories" [fillcolor="#99ffff"]
+"Technology" -> "audio_recommended_accessories"
+"audio_recommended_cables" [fillcolor="#99ffff"]
+"Technology" -> "audio_recommended_cables"
+"audio_recommended_equipment" [fillcolor="#99ffff"]
+"Technology" -> "audio_recommended_equipment"
+"audio_recommended_headphones" [fillcolor="#99ffff"]
+"Technology" -> "audio_recommended_headphones"
+"audio_recommended_laptops" [fillcolor="#99ffff"]
+"Technology" -> "audio_recommended_laptops"
+"audio_recommended_mic_stands" [fillcolor="#99ffff"]
+"Technology" -> "audio_recommended_mic_stands"
+"audio_recommended_monitors" [fillcolor="#99ffff"]
+"Technology" -> "audio_recommended_monitors"
+"audio_recommended_playback_equipment" [fillcolor="#99ffff"]
+"Technology" -> "audio_recommended_playback_equipment"
+"audio_recommended_pop_filters" [fillcolor="#99ffff"]
+"Technology" -> "audio_recommended_pop_filters"
+"audio_recommended_portable_recorders" [fillcolor="#99ffff"]
+"Technology" -> "audio_recommended_portable_recorders"
+"audio_recommended_recording_devices" [fillcolor="#99ffff"]
+"Technology" -> "audio_recommended_recording_devices"
+"audio_recommended_tablets" [fillcolor="#99ffff"]
+"Technology" -> "audio_recommended_tablets"
+"audio_recording" [fillcolor="#99ffff"]
+"Technology" -> "audio_recording"
 "audio_recording_environment" [fillcolor="#99ffff"]
 "Technology" -> "audio_recording_environment"
-"audio_reference" [fillcolor="#99ffff"]
-"Technology" -> "audio_reference"
+"audio_recording_further_considerations" [fillcolor="#99ffff"]
+"Technology" -> "audio_recording_further_considerations"
+"audio_recording_process" [fillcolor="#99ffff"]
+"Technology" -> "audio_recording_process"
+"audio_recording_section_length" [fillcolor="#99ffff"]
+"Technology" -> "audio_recording_section_length"
 "audio_setup_H2n" [fillcolor="#99ffff"]
 "Technology" -> "audio_setup_H2n"
 "audio_setup_content" [fillcolor="#99ffff"]
@@ -353,6 +435,8 @@ edge [arrowsize=1.4];
 "Technology" -> "audio_software_metadata_encoding"
 "audio_software_recording_editing" [fillcolor="#99ffff"]
 "Technology" -> "audio_software_recording_editing"
+"audio_software_workspace" [fillcolor="#99ffff"]
+"Technology" -> "audio_software_workspace"
 "audio_standard_characteristics" [fillcolor="#99ffff"]
 "Technology" -> "audio_standard_characteristics"
 "audio_standard_file_naming" [fillcolor="#99ffff"]
@@ -375,6 +459,8 @@ edge [arrowsize=1.4];
 "Technology" -> "audio_the_recordist"
 "audio_vision_purpose" [fillcolor="#99ffff"]
 "Technology" -> "audio_vision_purpose"
+"audio_waveform_editor" [fillcolor="#99ffff"]
+"Technology" -> "audio_waveform_editor"
 "audio_workspace_layout" [fillcolor="#99ffff"]
 "Technology" -> "audio_workspace_layout"
 "d43_intro" [fillcolor="#99ffff"]
@@ -489,7 +575,7 @@ edge [arrowsize=1.4];
 "figs_abstractnouns" [fillcolor="#9999ff"]
 "figs_partsofspeech" -> "figs_abstractnouns"
 "figs_activepassive" [fillcolor="#9999ff"]
-"figs_grammar" -> "figs_activepassive"
+"figs_sentences" -> "figs_activepassive"
 "figs_apostrophe" [fillcolor="#9999ff"]
 "figs_intro" -> "figs_apostrophe"
 "figs_deictics" [fillcolor="#9999ff"]
@@ -497,7 +583,8 @@ edge [arrowsize=1.4];
 "figs_distinguish" [fillcolor="#9999ff"]
 "figs_partsofspeech" -> "figs_distinguish"
 "figs_doublenegatives" [fillcolor="#9999ff"]
-"Translation" -> "figs_doublenegatives"
+"figs_partsofspeech" -> "figs_doublenegatives"
+"figs_sentences" -> "figs_doublenegatives"
 "figs_doublet" [fillcolor="#9999ff"]
 "figs_intro" -> "figs_doublet"
 "figs_ellipsis" [fillcolor="#9999ff"]
@@ -514,8 +601,12 @@ edge [arrowsize=1.4];
 "figs_explicit" -> "figs_explicitinfo"
 "figs_gendernotations" [fillcolor="#9999ff"]
 "Translation" -> "figs_gendernotations"
+"figs_genericnoun" [fillcolor="#9999ff"]
+"figs_partsofspeech" -> "figs_genericnoun"
 "figs_genitivecase" [fillcolor="#9999ff"]
 "Translation" -> "figs_genitivecase"
+"figs_go" [fillcolor="#9999ff"]
+"Translation" -> "figs_go"
 "figs_grammar" [fillcolor="#9999ff"]
 "Translation" -> "figs_grammar"
 "figs_hendiadys" [fillcolor="#9999ff"]
@@ -639,7 +730,7 @@ edge [arrowsize=1.4];
 "resources_intro" [fillcolor="#9999ff"]
 "gl_strategy" -> "resources_intro"
 "translate_manual" -> "resources_intro"
-"translate_what" -> "resources_intro"
+"translation_difficulty" -> "resources_intro"
 "resources_links" [fillcolor="#9999ff"]
 "translate_help" -> "resources_links"
 "resources_intro" -> "resources_links"
@@ -661,8 +752,7 @@ edge [arrowsize=1.4];
 "translate_bibleorg" [fillcolor="#9999ff"]
 "translate_source_text" -> "translate_bibleorg"
 "translate_chapverse" [fillcolor="#9999ff"]
-"translate_process" -> "translate_chapverse"
-"translate_source_text" -> "translate_chapverse"
+"translate_bibleorg" -> "translate_chapverse"
 "translate_discover" [fillcolor="#9999ff"]
 "translate_process" -> "translate_discover"
 "translate_dynamic" [fillcolor="#9999ff"]
@@ -761,11 +851,20 @@ edge [arrowsize=1.4];
 "writing_decisions" [fillcolor="#9999ff"]
 "translate_source_text" -> "writing_decisions"
 "choose_team" -> "writing_decisions"
+"writing_newevent" [fillcolor="#9999ff"]
+"Translation" -> "writing_newevent"
 "writing_participants" [fillcolor="#9999ff"]
-"figs_partsofspeech" -> "writing_participants"
+"Translation" -> "writing_participants"
 "writing_poetry" [fillcolor="#9999ff"]
 "figs_parallelism" -> "writing_poetry"
 "figs_metaphor" -> "writing_poetry"
+"writing_proverbs" [fillcolor="#9999ff"]
+"figs_parallelism" -> "writing_proverbs"
+"figs_metaphor" -> "writing_proverbs"
+"writing_quotations" [fillcolor="#9999ff"]
+"Translation" -> "writing_quotations"
+"writing_symlanguage" [fillcolor="#9999ff"]
+"Translation" -> "writing_symlanguage"
 }
 </graphviz>
 ~~NOCACHE~~

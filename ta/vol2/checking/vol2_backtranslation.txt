@@ -4,11 +4,13 @@ This module answers the question: What is a back translation?\\
 Before you start this module have you learned about:
   * [[en:ta:vol2:checking:vol2_steps|Steps in Checking a Translation]]
 
-What is a back translation?
+==== What is a back translation? ====
 
-A back translation is a translation of the biblical text from the local target language back into the language of wider communication. It is called a “back translation” because it is a translation back in the opposite direction than what was done to create the local target language translation. A back translation is not done in a completely normal style, however, because it does not have naturalness in the language of the translation (in this case, the language of wider communication,) as one of its goals. Instead, its goal is to represent the words and expressions of the local language translation in a literal way, while using the grammar and word order of the language of wider communication. In this way, the translation checker can most clearly see the meaning of the words in the target language text, and can also understand the back translation well and read it more quickly and easily. 
-
-
+A back translation is a translation of the biblical text from the local target language back into the language of wider communication. It is called a “back translation” because it is a translation back in the opposite direction than what was done to create the local target language translation. A back translation is not done in a completely normal style, however, because it does not have a natural stye in the language of the translation (in this case, the language of wider communication,) as one of its goals. Instead, its goal is to represent the words and expressions of the local language translation in a literal way, while using the grammar and word order of the language of wider communication. In this way, the translation checker can most clearly see the meaning of the words in the target language text, and can also understand the back translation well and read it more quickly and easily. 
 
 
+
+
+
+Next we recommend you learn about:
 

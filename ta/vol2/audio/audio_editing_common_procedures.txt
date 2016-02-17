@@ -1,25 +1,15 @@
-===== Common Procedures =====
+===== Common Editing Procedures =====
 
-This module answers the question: What are common editing procedures?\\
-Common Editing Procedures
+This module answers the question: //What are common editing procedures?//\\
+===  ===
 
 There are a handful of editing procedures that will be utilized over and over through out a project. These include:
 
-*
-*Selecting         a section of audio
-*        
-*
-*Copying         and pasting audio
-*        
-*
-*Deleting         a section of audio
-*        
-*
-*Adjusting         length of gaps and breaks
-*        
-*
-*Zooming         in and out of sections for a better view of the audio
-*
+  * Selecting a section of audio
+  * Copying and pasting audio
+  * Deleting a section of audio
+  * Adjusting length of gaps and breaks
+  * Zooming in and out of sections for a better view of the audio
 
 Please see the reference page of keyboard shortcuts to learn more.
 

@@ -1,11 +1,11 @@
 ===== Setting the Mic Gain Level =====
 
 This module answers the question: //How is the mic gain level set properly?//\\
-==  ==
+===  ===
 
 There is perhaps no single step in the entire process that effects every aspect of the project (and distribution of the audio resource for years) more than properly setting the mic gain level. It is often misunderstood how greatly this simple step at the beginning impacts the required time investment, post-production and the quality level of the final result. By contrast, improper gain level setting creates editing and production challenges that in many cases are not repairable.
 
-Fortunately, setting a proper gain level is one of the easiest things to do and only takes a couple minutes.  The proper level is always a careful balance of 3 variables:
+Fortunately, setting a proper gain level is one of the easiest things to do and only takes a couple minutes. The proper level is always a careful balance of 3 variables:
 
   * mic preamp level
   * loudness of narrator's voice
@@ -39,7 +39,7 @@ Create a new file and begin recording. Have the narrator practice speaking a the
 
   - Make sure the narrator is positioned comfortably and is projecting their voice to the best of their ability, while still sounding natural, of course. Sometimes beginning narrators might be reading softly for lack of confidence in a new and unfamiliar role. Other times they may not realize that they can project their voice a little louder while still sounding natural and feeling very comfortable. Be very kind and encouraging throughout the process of reaching the optimal vocal output. If the test recording volume level is still low, proceed to step 2.
   - Make sure the narrator is actually maintaining a hand-length distance from the mic. Many beginning narrators might gauge their distance initially, but within seconds adjust their posture for comfort or to be able to view the text more easily. Suddenly they are not a hand-length away, but even up to a forearm length. Make sure they are in a comfortable position and can view the text easily. Then watch to make sure the narrator is keeping the correct distance consistently. If these things are consistent and the test volume level is still low on the recording, proceed to step 3.
-  -As explained earlier in the module, we can often turn the mic preamp gain up to about 75% without inducing too much background or electronic noise. Begin increasing the mic preamp gain level up towards 75% until you have reached the target level in the test recording.
+  - As explained earlier in the module, we can often turn the mic preamp gain up to about 75% without inducing too much background or electronic noise. Begin increasing the mic preamp gain level up towards 75% until you have reached the target level in the test recording.
 
 
 

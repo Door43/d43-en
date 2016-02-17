@@ -1,12 +1,12 @@
 ===== Audio Equipment =====
 
 This module answers the question: //What audio equipment is needed?//\\
-=== ===
+===  ===
 
 In keeping faithful to our approach of simplicity, there are only a few essential pieces of audio equipment  that we need in order to do an excellent recording. The important thing is to make sure it is the right kind of equipment design and that we know how to use it properly. The following pieces of equipment could be considered the essential pieces:
 
 
-**Audio In**
+== Audio In ==
 
 The following pieces of equipment are used in processing sound before it reaches the recording device (laptop or tablet).
 
@@ -27,7 +27,7 @@ The following pieces of equipment are used in processing sound before it reaches
     * XLR mic – possible cables: XLR mic cable, USB A to USB B (for audio interface or mixing console), USB A to USB B or phone plug to 3.5mm (mixing console)
 
 
-**Audio Out**
+== Audio Out ==
 
 The following pieces of equipment are used in playing back sound after it leaves the recording device (laptop or tablet) not including the built-in speakers on the device.
 
@@ -42,7 +42,7 @@ The following pieces of equipment are used in playing back sound after it leaves
     * TRRS Y-Adapter cable – These split the signal when connecting both a mic and a set of headphones to a single TRRS 3.5mm jack on a tablet.
 
 
-**Power Equipment**
+== Power Equipment ==
 
 While not specifically a piece of audio equipment, there is always a need for electrical power for the recording device, which often will not have enough battery life to last a full day of recording without needing to be recharged. There are several ways to provide for this need.
 

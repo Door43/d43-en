@@ -43,28 +43,17 @@ This module answers the question: What is in the audio manual?\\
     - [[en:ta:vol2:audio:audio_mic_gain_level]]
     - [[en:ta:vol2:audio:audio_signal_to_noise]]
     - [[en:ta:vol2:audio:audio_noise_floor]]
-  - Software Workspace
-    - Waveform Editor
-    - Level Metering
-    - Toolbar & Menu
+  - [[en:ta:vol2:audio:audio_software_workspace]]
+    - [[en:ta:vol2:audio:audio_waveform_editor]]
   - [[en:ta:vol2:audio:audio_managing_data]]
     - [[en:ta:vol2:audio:audio_managing_folders]]
     - [[en:ta:vol2:audio:audio_managing_files]]
-  - Recording
-    - Introduction
-    - Getting Started
-      - The Process
-      - Creating a new file
-      - How to Begin recording
-      - How much to record
-      - Encouraging the team
-      - Further considerations
-    - Playback Monitoring
-      - General listening
-      - Critical listening
-    - Audio Markers
-      - Purpose
-      - Placement
+  - [[en:ta:vol2:audio:audio_recording]]
+    - [[en:ta:vol2:audio:audio_recording_process]]
+    - [[en:ta:vol2:audio:audio_creating_new_file]]
+    - [[en:ta:vol2:audio:audio_markers]]
+    - [[en:ta:vol2:audio:audio_playback_monitoring]]
+    - [[en:ta:vol2:audio:audio_recording_further_considerations]]
   - [[en:ta:vol2:audio:audio_editing]]
     - [[en:ta:vol2:audio:audio_editing_decisions_objective_subjective]]
     - [[en:ta:vol2:audio:audio_editing_decisions_edit_rerecord]]
@@ -74,33 +63,45 @@ This module answers the question: What is in the audio manual?\\
     - [[en:ta:vol2:audio:audio_editing_navigating_timeline]]
     - [[en:ta:vol2:audio:audio_editing_modifying_pauses]]
     - [[en:ta:vol2:audio:audio_editing_measuring_selection_length]]
-Distribution
-  License
-  Publishing to unfoldingWord
-  Local Distribution
-  File Renaming
-  Formatting
-  Distribution equipment
-  microSD cards
-  cell phones
-  audio players
-  amplification/recharging systems
-  - [[en:ta:vol2:audio:audio_reference]]
-  Recommended Equipment
-  * Mics
-  * Design Types
-  * Connectivity Types
-  * Playback Listening
-  * Headphones
-  * Cables & Accessories
-  * Recording Devices
-  * Laptops
-  * Tablets
-  * Portable Hand-held Recorders
-Recommended Software
-  * Recording & Editing
-  * Renaming
-  * Format Conversion
+    - [[en:ta:vol2:audio:audio_editing_finalizing]]
+  - [[en:ta:vol2:audio:audio_distribution]]
+    - [[en:ta:vol2:audio:audio_distribution_license]]
+    - [[en:ta:vol2:audio:audio_distribution_local]]
+    - [[en:ta:vol2:audio:audio_publishing_unfoldingword]]
+    - [[en:ta:vol2:audio:audio_distribution_preparing_content]]
+    - [[en:ta:vol2:audio:audio_distribution_offline]]
+      - [[en:ta:vol2:audio:audio_distribution_microSD]]
+      - [[en:ta:vol2:audio:audio_distribution_mobile_phone]]
+      - [[en:ta:vol2:audio:audio_distribution_audio_player]]
+      - [[en:ta:vol2:audio:audio_distribution_wifi_hotspot]]
+      - [[en:ta:vol2:audio:audio_distribution_radio]]
+      - [[en:ta:vol2:audio:audio_distribution_amplification_recharging]]
+      - [[en:ta:vol2:audio:audio_distribution_best_solutions]]
+  - [[en:ta:vol2:audio:audio_recommended_equipment]]
+    - [[en:ta:vol2:audio:audio_microphone]]
+      - [[en:ta:vol2:audio:audio_mic_design_types]]
+      - [[en:ta:vol2:audio:audio_mic_connectivity_types]]
+      - [[en:ta:vol2:audio:audio_mic_recommended]]
+    - [[en:ta:vol2:audio:audio_interfaces]]
+      - [[en:ta:vol2:audio:audio_interfaces_usb]]
+      - [[en:ta:vol2:audio:audio_interfaces_firewire]]
+    - [[en:ta:vol2:audio:audio_recommended_playback_equipment]]
+      - [[en:ta:vol2:audio:audio_recommended_headphones]]
+      - [[en:ta:vol2:audio:audio_recommended_monitors]]
+    - [[en:ta:vol2:audio:audio_recommended_accessories]]
+      - [[en:ta:vol2:audio:audio_recommended_pop_filters]]
+      - [[en:ta:vol2:audio:audio_recommended_cables]]
+      - [[en:ta:vol2:audio:audio_recommended_mic_stands]]
+    - [[en:ta:vol2:audio:audio_recommended_recording_devices]]
+      - [[en:ta:vol2:audio:audio_recommended_laptops]]
+      - [[en:ta:vol2:audio:audio_recommended_tablets]]
+      - [[en:ta:vol2:audio:audio_recommended_portable_recorders]]
+  - [[en:ta:vol2:audio:audio_software]]
+    - [[en:ta:vol2:audio:audio_software_recording_editing]]
+    - [[en:ta:vol2:audio:audio_software_format_conversion]]
+    - [[en:ta:vol2:audio:audio_software_file_renaming]]
+    - [[en:ta:vol2:audio:audio_software_metadata_encoding]]
+    - [[en:ta:vol2:audio:audio_software_file_sharing]]
   - [[en:ta:vol2:audio:audio_guides]]
     - [[en:ta:vol2:audio:audio_optimize_laptop]]
     - [[en:ta:vol2:audio:audio_setup_H2n]]

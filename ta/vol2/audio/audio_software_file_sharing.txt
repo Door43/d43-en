@@ -1,13 +1,18 @@
 ===== File Sharing Software =====
 
-This module answers the question: What software do you recommend for sharing files?\\
-Module – File Sharing Software
+This module answers the question: //What software do you recommend for sharing files?//\\
+===  ===
+
+SHAREit - This is an excellent file transfer app that makes use of a WIFI or LAN connection to transfer files (uses network connection but not internet). This app is particularly helpful in the more difficult task of transferring files between laptops and mobile devices and is significantly faster than Bluetooth.
+
+  * SHAREit – WIN OS
+  * SHAREit – ANDROID OS
 
 
-  * **[[http://shareit.lenovo.com/|SHAREit]]** - This is an excellent file transfer app that makes use of a WIFI or LAN connection to transfer files (uses network connection but not internet). This app is particularly helpful in the more difficult task of transferring files between laptops and mobile devices and is significantly faster than Bluetooth.
+Dropbox – This software provides 1 GB of free cloud storage with the ability to share files and folder with people across the world. Excellent way to transfer files long distance.
 
-
-Dropbox
+  * Dropbox – WIN OS
+  * Dropbox  - ANDROID OS
 
 
 

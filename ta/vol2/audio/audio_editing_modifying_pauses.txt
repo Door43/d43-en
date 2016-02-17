@@ -1,21 +1,15 @@
 ===== Modifying Pauses =====
 
-This module answers the question: What is the best way to adjust the length of pauses?\\
-Modifying pauses and silences
+This module answers the question: //What is the best way to adjust the length of pauses?//\\
+===  ===
 
 One of the common editing procedures is making adjustments to the pauses between sentences or sections in order to ensure a natural flow. Recordings should also have approximately 1 second of silence  at the beginning and end of the recording. While many software programs offer an effect that places an adjustable amount of absolute silence where you would like to in the timeline, we recommend against using this feature. The reason is that these “silence” areas will not match the general feel of the rest of the recording. This spots will seem awkward, almost as if a vacuum sucked the sound away momentarily.
 
 Instead of using the silence feature, we recommend a technique that maintains the natural feel of the recording. 
 
-*
-*In         the recorded file, simply find an existing pause in the audio,         similar in size to what you need, which represents the natural         ambient sound and is free of any random sounds such as the narrator         moving in chair or taking a breath.          
-*        
-*
-*Copy         this section and paste it in place where you need more pause or         silence.
-*        
-*
-*Playback         again to make sure amount added gave the right length of natural         pause. Adjust as needed by pasting more or deleting excess.
-*
+  - In the recorded file, simply find an existing pause in the audio, similar in size to what you need, which represents the natural ambient sound and is free of any random sounds such as the narrator moving in chair or taking a breath. 
+  - Copy this section and paste it in place where you need more pause or silence.
+  - Playback again to make sure amount added gave the right length of natural pause. Adjust as needed by pasting more or deleting excess.
 
 Note: Avoid the assumption that there is a standard length for pauses between sentences (for example 0.7 seconds). Each language is unique and so is each narrator and the speed at which they are narrating. The correct length of the pause must always be natural and is determined by the speakers of the language in the context of that narrated recording.
 

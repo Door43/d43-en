@@ -1,7 +1,7 @@
 ===== Folder Naming and Structure =====
 
-This module answers the question: //Is there a good way to manage folders and files?//\\
-== ==
+This module answers the question: //How should folders be managed?//\\
+===  ===
 
 Anticipating and creating a good folder structure or content management system is one of the most valuable steps in managing files well. We highly discourage using default folders or, for example, saving audio files in My Documents. Too much time can be lost trying to locate files on a computer that does not have good organization of folders. This is especially important as time passes and recording projects become more numerous, distribution versions are created, the focus of the recording work evolves, etc. 
 

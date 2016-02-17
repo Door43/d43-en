@@ -5,11 +5,11 @@ This module answers the question: //What is the noise floor?//\\
 
 Once the process of setting the mic gain has been completed, we need to make sure the noise floor is still below -45 dB before proceeding with the recording session. If you are using the right kind of equipment and have followed the steps above, you should find yourself with a sufficiently quiet noise floor, preferably -55 dB or less. If the noise floor is louder than -45 dB, you either have 
 
-equipment ill-suited for voice recording or 
-something in the setup process has not been done properly
-you location is very poorly suited for recording. 
+  * equipment ill-suited for voice recording or 
+  * something in the setup process has not been done properly
+  * you location is very poorly suited for recording. 
 
-Rather than proceeding to record with a high noise floor, we highly recommend relocating, seeking support and/or training in setting the gain level properly. 
+Rather than proceeding to record with a high noise floor, we highly recommend relocating, seeking support and/or training in setting the gain level properly.
 
 
 == Fine-tuning the mic placement ==
@@ -22,7 +22,9 @@ If any of your responses are not satisfactory, there is still some fine-tuning n
 
 The suggestions in the paragraph above are solutions we might try if we were at the recording project. However, one of the valuable skills that the recordist must develop is taking all of these principles into account and determining what the best solution is in their unique circumstance. It is impossible for us to provide a universal solution in this handbook without knowing what is actually occurring at the recording site. Please do not hesitate to contact us with questions if you are struggling to achieve a quality recording level with a quiet noise floor.
 
-Note: You can expect that at the beginning of the project, the narrator is still getting warmed up and acclimated to the experience of recording. As they become more confident in the process, their volume level may change slightly. This is normal and it will be up to the recordist, as it is at any time during the recording, to make sure the narrator is using good technique and that the mic gain level is set properly.
+//Note://
+
+You can expect that at the beginning of the project, the narrator is still getting warmed up and acclimated to the experience of recording. As they become more confident in the process, their volume level may change slightly. This is normal and it will be up to the recordist, as it is at any time during the recording, to make sure the narrator is using good technique and that the mic gain level is set properly.
 
 //Note://
 

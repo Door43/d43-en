@@ -1,9 +1,9 @@
 ===== Recording & Editing Software =====
 
-This module answers the question: What software do you recommend for recording and editing?\\
-==== Windows OS ====
+This module answers the question: //What software do you recommend for recording and editing?//\\
+===  ===
 
-=== Recording & Editing ===
+== Windows OS ==
 
   * **[[http://www.ocenaudio.com.br/|Ocenaudio]]** – Best free software for simple, efficient recording/editing. Intuitive interface and well-equipped for all basic voice recording tasks, recordists familiar with Adobe Audition will recognize and appreciate the speed and functionality of essential procedures in Ocenaudio. 
 
@@ -13,12 +13,13 @@ This module answers the question: What software do you recommend for recording a
     * //**Notes:** The conventional save commands will save your recorded audio files in their proprietary format which is not useful. Be sure to use the “Export Audio” command to save files in compatible formats such as WAV (best quality) or MP3 (low quality). If you plan to edit or save files in mp3 format you will need to download and install this// [[http://manual.audacityteam.org/o/man/faq_installation_and_plug_ins.html#How_do_I_download_and_install_the_LAME_MP3_encoder.3F|MP3 Encoder]].
     
 
-==== Android OS ====
-//Note: Audio quality results vary depending on device A/D convertors. List of field-tested devices can be found here.//
+== Android OS ==
+//Note: Audio quality results vary depending on device A/D convertors. See list of recommended tablets.//
 
 
   * **[[https://play.google.com/store/apps/details?id=com.nchsoftware.pocketwavepad_free&hl=enWavePad|WavePad Free]]** - WavePad Free is the best free audio recording/editing app for the Android platform and is equipped with the essential tools needed for efficiency in nearly any recording/editing task. Upgrading to paid version eliminates advertising, saving to MP3 format and several other tools and option.
 
+  * **[[https://github.com/WycliffeAssociates/translationRecorder/releases|translationRecorder (tR)]]** – In early development stage. A simple recording and editing app with emphasis on intuitive function. Has marker cues, good file naming system and ability to save directly to microSD card. Very limited editing capabilities.
 
 
 

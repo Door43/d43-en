@@ -1,33 +1,46 @@
 ===== Doublet =====
 
-This module answers the question: What is a doublet?\\
+This module answers the question: What are doublets and how can I translate them?\\
 Before you start this module have you learned about:
   * [[en:ta:vol1:translate:figs_intro|Figures of Speech]]
 
-====== Doublet ======
-We are using the word **doublet** to refer to two words or very short phrases that mean the same thing and that are joined with the word "and." This is often used to emphasize or intensify the idea expressed by the two words. 
-===== Translation Suggestions =====
-  * Translate both words.
-  * Translate only one of the words and add a word that intensifies it such as "very" or "great" or "many".
-  * Use your own culture's way of emphasizing or intensifying the concept.
+A doublet is a pair of words used together that mean nearly the same nearly thing. In some languages people do not use doublets, or they may use them only in certain situations. Translators may need to find some other way to express the meaning.
+  * **King David was __old__ and __advanced in years__.** (1 Kings 1:1)  \\ 
+    * The underlined words mean the same thing. Together they mean "very old".
+===== Description =====
+We are using the word doublet to refer to two words or very short phrases that mean the same thing and that are used in the same phrase. Often they are joined with the word “and.” Often they are used to emphasize or intensify the idea expressed by the two words.  
 
+**Reason this is a translation issue:** In some languages people do not use doublets. Or they may use doublets, but they may do it for a reason that would not fit in a particular verse. 
+ 
 ===== Examples from the Bible =====
+**King David was __old__ and __advanced in years__.** (1 Kings 1:1)  \\ 
+This means that he was “very old.” 
 
-**King David was __old__ and __advanced in years__.** 1 Kings 1:1 \\ 
-This means that he was "very old."
+**he attacked two men __more righteous__ and __better__ than himself** (1 Kings 2:32)  \\ 
+This means that they were “much more righteous” than he was. 
 
-**he attacked two men __more righteous__ and __better__ than himself** 1 Kings 2:32 \\ 
-This means that they were "much more righteous" than he was.
+**You have decided to prepare __false__ and __deceptive__ words** (Daniel 2:9) \\ 
+This means that they had prepared “many false things to say”. 
 
-**You have decided to prepare __false__ and __deceptive__ words** Daniel 2:9 \\ 
-This means that they had prepared "many false things to say".
-
-**Then Daniel replied with __prudence__ and __discretion__** Daniel 2:14 \\ 
-This means that he replied with "great prudence" or "very prudently".
-
-**as of a lamb __without blemish__ and __without spot__.** 1 Peter 1:19 \\ 
-This means that he was like a lamb that had "no blemish at all".
-
+**as of a lamb __without blemish__ and __without spot__.** (1 Peter 1:19)  \\ 
+This means that he was like a lamb that did not have any blemish--not even one. 
+ 
+===== Translation Strategies ===== 
+If a doublet would be natural and give the right meaning in your language, consider using one. If not, consider these strategies. 
+ 
+  - Translate only one of the words.
+  - If the doublet is used to intensify the meaning, translate one of the words and add a word that intensifies it such as “very” or “great” or “many”. 
+  - If the doublet is used to intensify or emphasize the meaning, use your culture's way of doing that. 
+ 
+1. Translate only one of the words.
+  * **You have decided to prepare __false__ and __deceptive__ words** (Daniel 2:9 ) 
+    * "You have decided to prepare __false__ things to say”. 
+2. If the doublet is used to intensify the meaning, translate one of the words and add a word that intensifies it such as “very” or “great” or “many”.
+  * **King David was __old__ and __advanced in year__s.** (1 Kings 1:1) 
+    * “King David was __very old__”.
+3. If the doublet is used to intensify or emphasize the meaning, use your culture's way of doing that.
+  * **a lamb __without blemish__ and __without spot__.** (1 Peter 1:19) - English can emphasize this with "any" and "at all." 
+    * "a lamb __without any blemish at all__"  
 
 
 

@@ -5,23 +5,20 @@ This module answers the question: //How do I position the mic?//\\
 
 Placing the mic in the correct position is a process that typically requires a few adjustments before the ideal position is identified. 
 
-Before proceeding, two assumptions must be expressed.
+Before proceeding, two assumptions must be clarified.
 
-  * These instructions assume you are using a unidirectional mic. If you are using an omni-directional mic you will likely spend all day adjusting and never find an ideal position, with every position yielding poor results. If you are using an omni-directional mic, it is important to stop and ask yourself why you are doing that. Save yourself the experience of a tremendous amount of difficulty during the project and compromised quality by exchanging that omni-directional mic for a reliable uni-directional mic.
+  - These instructions assume you are using a unidirectional mic. If you are using an omni-directional mic you will likely spend all day adjusting and never find an ideal position, with every position yielding poor results. If you are using an omni-directional mic, it is important to stop and ask yourself why you are doing that. Save yourself the experience of a tremendous amount of difficulty during the project and compromised quality by exchanging that omni-directional mic for a reliable uni-directional mic.
+  - It is always an excellent idea to use a pop filter or windscreen on a mic. These are a minimal expense and can even be improvised to a degree of effectiveness if needed. A pop filter will disperse the force of wind that moves with too much strength on some letters and syllables, causing distorted or thudding noises in the recording. The effect of these letters and syllables is called plosives. Most narrators will not have voice training to help them control the force of wind, so it is important to use a pop filter or other counter measures to prevent a recording full of plosives, which can be very unappealing for future listeners.
 
-  * It is always an excellent idea to use a pop filter or windscreen on a mic. These are a minimal expense and can even be improvised to a degree of effectiveness if needed. A pop filter will disperse the force of wind that moves with too much strength on some letters and syllables, causing distorted or thudding noises in the recording. The effect of these letters and syllables is called plosives. Most narrators will not have voice training to help them control the force of wind, so it is important to use a pop filter or other counter measures to prevent a recording full of plosives, which can be very unappealing for future listeners.
-
-Mic placement begins by considering the various physical and audible factors of the recording space and the narrator. Other sections of this handbook should have helped you get the recording space into good recording condition. Our work now involves positioning the narrator and the mic in ways that make maximum benefit of the acoustical treatment. 
+The mic placement begins by considering the various physical and audible factors of the recording space and the narrator. Other sections of this handbook should have helped you get the recording space into good recording condition. Our work now involves positioning the narrator and the mic in ways that make maximum benefit of the acoustical treatment.
 
 == Initial Placement ==
 
 There are 3 fundamental considerations that determine the initial mic placement.
 
-  - The narrator should be positioned in a location where his/her voice can project sound in a direction that is prepared to handle (and reduce, not increase) reverberation and echo.
-
-  - Where is the front of the mic pointing? This is the sensitive side. It should be pointing toward the sounds you want to capture.
-
-  - Where is back of the mic pointing? This is the side that is not sensitive to sound. It should be pointing toward any sound sources you want to block out of the recording. Many people forget about this secret weapon. A wise recordist will leverage the sound rejecting characteristic of the back of the mic just as strategically as the sound capturing front side. 
+  * The narrator should be positioned in a location where his/her voice can project sound in a direction that is prepared to handle (and reduce, not increase) reverberation and echo.
+  * Where is the front of the mic pointing? This is the sensitive side. It should be pointing toward the sounds you want to capture.
+  * Where is back of the mic pointing? This is the side that is not sensitive to sound. It should be pointing toward any sound sources you want to block out of the recording. Many people forget about this secret weapon. A wise recordist will leverage the sound rejecting characteristic of the back of the mic just as strategically as the sound capturing front side.
 
 == Find the narrator's comfortable position ==
 
@@ -31,7 +28,7 @@ Especially in a field recording scenario where there is less permanent furniture
 
 Probably the most important initial step is to have the narrator get comfortable, then move the mic into position. If the mic is positioned first, the narrator will likely not find it located in comfortable posture and will move around.
 
-The mic (including pop filter) should be about one hand-width away from the narrator's mouth and slightly offset to be out of the direct force of the wind their voice. If the mic is placed too far away the result will be a thin sound and low recording volume, which means the mic will need to be amplified more, which will make it more sensitive to background sounds. This creates unnecessary problems that will negatively impact the recording process and quality. Likewise, if the narrator is getting too close to the mic, the audio signal will be recorded too strong, resulting in distortion and popping noises in the audio track. 
+The mic (including pop filter) should be about one hand width away from the narrator's mouth and slightly offset to be out of the direct force of the wind their voice. If the mic is placed too far away the result will be a thin sound and low recording volume, which means the mic will need to be amplified more, which will make it more sensitive to background sounds. This creates unnecessary problems that will negatively impact the recording process and quality. Likewise, if the narrator is getting too close to the mic, the audio signal will be recorded too strong, resulting in distortion and popping noises in the audio track. 
 
 
 

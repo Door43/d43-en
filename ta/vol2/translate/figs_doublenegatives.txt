@@ -1,24 +1,51 @@
 ===== Double Negatives =====
 
 This module answers the question: What are double negatives?\\
-Most languages express the negative near the verb. Some languages can also express negative in a pronoun like “none,” “nothing,” and “no one,” or an adverb like “nowhere.” In English the following pairs of sentences mean the same thing. “I do __not__ have any” – “I have __none__”. “I do __not__ want anything” – “I want __nothing__”.\\ 
-\\ 
-In some languages people use both negatives in one sentence. This is a kind of double negative. Sometimes this is simply the normal way of expressing the negative, and sometimes it emphasizes the negative. The following Spanish sentence “__No__ ví a __nadie__.” has both the word 'no' next to the verb and 'nadie' that means “no one.”  It emphasis the negative.
-===== Translation Suggestions =====
-When translating an English sentence that has “not” and a pronoun, or that has a negative pronoun like “none,” some languages may need to use both their word for “not” and their negative pronoun, as in the Spanish example above.\\ 
-\\ 
-When translating a sentence that has “not” and a negative adjective such as “She was __not un__attractive,” you will need to understand what it was intended to mean. If people would correctly understand the intended meaning with the double negative, you could use the double negative in your language.\\ 
-\\ 
-However, if people would not understand the double negative correctly, you could translate it without "not" and "un". If it simply means that she she was not plain-looking, it could be translated as “She was attractive.” \\ 
-\\ 
-Sometimes people use this kind of double negative to say that the opposite is very true. For example, "It is not unlikely" could mean "It is very likely." In this case, it is a figure of speech called [[:en:ta:vol2:translate:figs_litotes]]. But if it is an example of a Litote and the speaker was emphasizing how attractive she was, it could be translated as “She was very attractive” or "She was beautiful."
-===== Examples from the Bible =====
-**Titus 3:14** //Our people must learn to engage themselves in good works that meet urgent needs so that they may __not__ be __un__fruitful.//\\ 
-\\ 
-**"So that they may not be unfruitful"** is a double-negative. It could be stated positively: “so they will be fruitful” or “so they can produce fruit for God” or “so their lives will be useful.”
-===== Examples from English =====
-A double negative can also be when a sentence has “not” and a negative prefix like “un” on an adjective, as in the words "unhappy" and "unlikely." Sometimes people use these simply to say that something is not true. For example, “It is not unlikely” may simply mean “It could happen.”
+Before you start this module have you learned about:
+  * [[en:ta:vol2:translate:figs_partsofspeech|English Parts of Speech]]
+  * [[en:ta:vol2:translate:figs_sentences|Sentences]]
 
+A double negative occurs when a clause has two words that express the meaning of “not”.
+  * **It is __not__ that we do __not__ have authority** (2 Thessalonians 3:9) 
+  * **Be sure of this—wicked people will __not__ go __un__punished** (Proverbs 11:21)
+Double negatives mean very different things in different languages. To translate sentences that have double negatives accurately and clearly, you need to know what a double negative means in the Bible and how to express this idea in your language.
+===== Description =====
+
+Most languages express the negative near the verb or at the beginning or end of the sentence. Some languages also have prefixes or suffix that express the negative as in  “__un__happy,” “__im__possible,” and "use__less__." Some languages can also express the negative with pronouns like “none,” “nothing,” and “no one,” with adverbs like “nowhere,” and with prepositions like "without."
+
+A double negative occurs when a sentence has two words that express the meaning of "not".
+  * **It is __not__ that we do __not__ have authority** (2 Thessalonians 3:9) \\ 
+  * **And this better confidence did __not__ happen __without__ the taking of an oath,** (Hebrews 7:20) \\
+  * **Be sure of this—wicked people will __not__ go __un__punished** (Proverbs 11:21)
+=== Reason this is a translation issue === 
+Double negatives mean very different things in different languages. 
+  * In some languages, such as Spanish, a double negative emphasizes the negative. The following Spanish sentence “No ví a nadie.” has both the word 'no' next to the verb and 'nadie' that means “no one.” It emphasis the negative. 
+  * In some languages a double negative simply means a positive. So "She is not unattractive" means that "She is attractive." 
+  * In some language the double negative weakens the adjective. So "She is not unattractive" means that "She is a little bit attractive." 
+  * In some languages, such as the languages of the Bible, the double negative often strengthens the adjective. So "She is not unattractive" means that "She is very attractive."
+To translate sentences with double negatives accurately and clearly in your language, you need to know what a double negative means in the Bible and how to express the same idea in your language. 
+===== Examples from the Bible =====
+
+**so that they may __not__ be __un__fruitful.** (Titus 3:14)  \\ 
+This means "so that they will be fruitful."
+
+**All things were made through him and __without__ him there was __not__ one thing made that has been made.** (John 1:3)\\ 
+By using a double negative John emphasized that the Son of God created absolutely everything.
+===== Translation Strategies =====
+If double negatives are natural and are used to express the positive in your language, consider using them.  Otherwise, you could consider these strategies:
+  - If the double negative simply expresses the positive, remove the two negatives.
+  - If the double negative emphasizes the positive, remove the two negatives and put in a strengthening word or phrase such as "very" or "surely."
+===== Examples of Translation Strategies Applied =====
+1. If the double negative simply expresses the positive, remove the two negatives.
+  * **For we do __not__ have a high priest who can__not__ feel sympathy for our weaknesses** (Hebrews 4:15)
+    * "For we have a hight priest who can feel sympathy for our weaknesses"
+  * **so that they may __not__ be __un__fruitful** (Titus 3:14) 
+    * "so that they may be fruitful"
+2. If the double negative emphasizes the positive, remove the two negatives and put in a strengthening word or   phrase such as “very” or “certainly.”
+  * **Be sure of this—wicked people will __not__ go __un__punished** (Proverbs 11:21)
+    * "Be sure of this—wicked people will __certainly__ be punished"
+  * **All things were made through him and __without__ him there was __not__ one thing made that has been made.** (John 1:3) 
+  * "All things were made through him. He made __absolutely__ everything that has been made."
 
 
 

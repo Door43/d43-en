@@ -1,13 +1,9 @@
 ===== Metadata Encoding Software =====
 
-This module answers the question: What software do you recommend for encoding metadata?\\
-Module – Metadata Encoding Software
+This module answers the question: //What software do you recommend for encoding metadata?//\\
+===  ===
 
-
-  * **[[http://www.mp3tag.de/en/download.html|Mp3Tag]]** - For writing and editing file tags/meta data, Mp3Tag is our recommendation for and intuitive, effective free program that works for mp3 and mp4 files.
-
-
-MP3Tag - (best use: editing file metadata. | pros: free, simple and effective MP3/MP4 metadata editor. | cons: lacking in instructions and support) 
+  * **[[http://www.mp3tag.de/en/download.html|Mp3Tag]]** - For writing and editing file tags/meta data, Mp3Tag is our recommendation for and intuitive, effective free program that works for mp3 and mp4 files. Lacking in instructions and support. See instructions in Guides.
 
 
 

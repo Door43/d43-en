@@ -1,27 +1,19 @@
 ===== Making Corrections =====
 
-This module answers the question: How do I make corrections?\\
-How to Record and Insert Corrections
+This module answers the question: //How do I make corrections?//\\
+===  ===
 
 During the editing process there will be times when a phrase, sentence or even whole section should be re-recorded and placed into the edited track. We recommend the following approach as the safest and easiest way.
 
-With your cursor, select the phrase that needs to be corrected. Leave this phrase selected.
-
-Create a new file that will serve as the place where corrections are recorded. 
-
-Have the narrator speak the phrase or sentence that needs to be corrected. Often it may be necessary to begin one phrase earlier in the content so that the narrator can effectively resume the natural voice and rhythm.
-
-Playback the newly recorded phrase to make sure that it is excellent. If yes, proceed to the next step. If no, re-record until it is excellent.
-
-Select the corrected phrase and copy it.
-
-Switch back to the original audio file. You will find the bad phrase is already selected so no time is lost searching for it.
-
-Zoom in enough that you can make precise decisions about the selection boundaries. Re-select the exact length of bad audio you want to cover up.
-
-Paste (Ctrl+V) the corrected audio over the selected section.
-
-Begin playback at the preceding sentence to ensure natural pauses are intact and that the correction blends naturally with the surrounding voice characteristics.   
+  * With your cursor, select the phrase that needs to be corrected. Leave this phrase selected.
+  * Create a new file that will serve as the place where corrections are recorded. 
+  * Have the narrator speak the phrase or sentence that needs to be corrected. Often it may be necessary to begin one phrase earlier in the content so that the narrator can effectively resume the natural voice and rhythm.
+  * Playback the newly recorded phrase to make sure that it is excellent. If yes, proceed to the next step. If no, re-record until it is excellent.
+  * Select the corrected phrase and copy it.
+  * Switch back to the original audio file. You will find the bad phrase is already selected so no time is lost searching for it.
+  * Zoom in enough that you can make precise decisions about the selection boundaries. Re-select the exact length of bad audio you want to cover up.
+  * Paste (Ctrl+V) the corrected audio over the selected section.
+  * Begin playback at the preceding sentence to ensure natural pauses are intact and that the correction blends naturally with the surrounding voice characteristics.
 
 
 

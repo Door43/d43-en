@@ -3,16 +3,16 @@
 This module answers the question: //What options are their for digital recording devices?//\\
 === ===
 
-For modern digital recording, there are 3 general categories of devices used for audio recording.
+For modern digital recording, there are three general categories of devices used for audio recording.
 
-**Computers/Laptops (Windows OS)**
+== Computers/Laptops (Windows OS) ==
 
 Computers and laptops have been used for many years for recording and are the most popular and powerful devices. They are unequaled in their performance and capability to perform any recording, editing and file management task required during a project. Typically, these will have a larger screen and the ability to utilize keyboard and mouse commands, all of which aids in productivity.
 
 Initial testing has been done on laptops utilizing Chrome OS. While the hardware appears suitable for quality recording, it lacks a fully functional, offline recording software adequate for voice recording. Therefore, these are not considered a practical solution for recording at this time.
 
 
-**Tablets (Android)**
+== Tablets (Android) ==
 
 Android is by far the most predominate operating system for tablets today, numerous manufacturers and broad global distribution. These can typically be purchased at a much lower cost than a Windows OS laptop. Besides cost savings, one of their chief advantages is portability (at the compromise of screen size and the other factors that boost productivity and efficiency).
 
@@ -21,7 +21,7 @@ A fully-functional, free recording/editing software (WavePad Free) exists for An
 Many tablets are not equipped with a 3.5 mm TRRS jack, which means that it cannot record with an external microphone (built-in mics produce very poor quality). Even if it does have a TRRS jack, the majority of tested tablets were discovered to have poor quality analog to digital converters, which are necessary to convert the captured sound to digital data. Typically there is a significant amount of static and noise in the recorded sound due to the poor quality converters.
 
 
-**Handheld Portable Recorders**
+== Handheld Portable Recorders ==
 
 Small, battery-powered handheld digital recorders have become popular in recent years and wide variety of models are offered by many manufacturers of electronic equipment. These devices often include a set of basic recording and playback controls, an LCD screen user-interface, the ability to listen to recorded material on the device and the ability to name files. Many of these have extremely long battery life, record to an SD card, or alternatively can connect directly with a laptop as a USB mic.
 
