@@ -49,9 +49,20 @@ This module answers the question: What is in Volume 2 of the translation manual?
       - [[en:ta:vol2:translate:figs_rpronouns]]
     - [[en:ta:vol2:translate:figs_sentences]]
 
-== Other Modules ==
+== Translating Numbers ==
     - [[en:ta:vol2:translate:translate_numbers]]
+     - [[en:ta:vol2:translate:translate_fractions]]
+     - [[en:ta:vol2:translate:translate_ordinal]]
+
+== Writing Styles ==
     - [[en:ta:vol2:translate:writing_background]]
+    - [[en:ta:vol2:translate:writing_symlanguage]]
+    - [[en:ta:vol2:translate:writing_newevent]]
+    - [[en:ta:vol2:translate:writing_participants]]
+    - [[en:ta:vol2:translate:writing_poetry]]
+    - [[en:ta:vol2:translate:writing_proverbs]]
+    - [[en:ta:vol2:translate:writing_quotations]]
+
 
 
 
