@@ -6,7 +6,7 @@ One way of finding examples for translationAcademy pages is to search the **note
 {{door43pages @:en:bible:notes -r -q="TTTT" -exclude:home -simpleLineBreak -title -fontsize="90%"}}
 </code>
 
-{{door43pages @:en:bible:notes -r -q="\]hendia" -exclude:home -simpleLineBreak -title -fontsize="90%"}}
+{{door43pages @:en:bible:notes -r -q="TTTT" -exclude:home -simpleLineBreak -title -fontsize="90%"}}
 
 Sometimes you may want search for something in **TA pages**. Here is the code.
 <code>
