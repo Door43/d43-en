@@ -1,48 +1,50 @@
-====== Merism ======
+====== Hendiadys ======
+
+This module answers the question: What does the word merism mean?\\
+In order to understand this module, it would be good to read
+  * [[en:ta:vol1:translate:figs_intro|Figures of Speech]]
+
+Merism is when a speaker makes a single idea more forceful by connecting two nouns or adjectives with “and” when one of the words actually describes the other.
 
 ===== Description =====
 
-Definition\\
-Examples(s)\\
-Purpose (optional)\\
+Merism is when a speaker makes a single idea more forceful by connecting two nouns or adjectives with “and” when one of the words actually describes the other.
 
-=== Reason this could be a translation issue (recommended) ===
-=== Translation Principles (optional) ===
+**in heaven or in earth** (Deuteronomy 3:24)\\
+"Heaven" and "earth" include everything that exists.
 
+**Reason this is a translation issue**\\
+Some readers may think that the phrase only applies to the items mentioned and not to items not mentioned.
 
 ===== Examples from the Bible =====
 
+**From the __rising__ of the sun to its __setting__, Yahweh's name should be praised.** (Psalm 113:3)\\
+This sentence is a merism because it refers to when and where the sun rises, when and where the sun sets, and all the time and places between the two.
+
+**They will __stagger__ __from sea to sea__; they will __run__ __from the north to the east__ to seek the word of Yahweh** (Amos 8:12)\\
+This sentence contains two merisms. "Stagger" and "run" are a merism because "stagger" is the slowest a person can move on foot, while "run" is the fastest. Included are those who simply walk or move by other means.\\
+"From sea to sea" and "from the north to the east" form another merism because a person standing at Bethel, where Amos was preaching, would look south to the Dead Sea, west to the Mediterranean Sea, then north, then east. That is, he would look in all directions.
 
 ===== Translation Strategies =====
-If your language can use x consider using it. These strategies are for if your language cannot use x.
 
+If leaving the merism in would be natural and give the right meaning in your language, consider doing so. If not, here are other options:
+  - State specifically what the merism includes.
 
 ===== Examples of Translation Strategies Applied =====
-----
 
-This module answers the question: What is merism?\\
-Before you start this module have you learned about:
-  * [[en:ta:vol1:translate:figs_intro|Figures of Speech]]
+1. State specifically what the merism includes.
 
-Merism is something which is described by listing the parts. Also used to describe two extremes like "young and old". 
-===== Translation Suggestions =====
-  * A merism should be culturally interpreted.
-  * Translate using a phrase or word from the target language or culture that gives the same meaning.
-===== Examples from the Bible =====
-Revelation 22:13 "**I am the Alpha and the Omega, the first and the last, the beginning and the end**." \\ The words "**alpha and the omega**" used together mean everything - the beginning and the end and everything in between.
-Genesis 2:9 Out of the ground Yahweh God made every tree to grow that is pleasant to the sight and good for food. This included the tree of life that was in the midst of the garden, and the tree of the knowledge of **good and evil**. (ULB) \\ 
-Genesis 3:5 For God knows that the day you eat it your eyes will be opened, and you will be like God, knowing **good and evil**. (ULB) \\ The words "**good and evil**" used together refer to all things.
-===== Examples from English =====
-flesh and bone (used to refer to the whole body)
-young and old (used to refer to the entire population)
-hook, line, and sinker (a fishing reference that means to swallow completely)
-lock, stock, and barrel (parts of a gun; used to refer to the entirety of any object)
-
+  * **From the __rising__ of the sun to its __setting__, Yahweh's name should be praised.** (Psalm 113:3)
+    * "At all times and in all places, people should praise Yahweh."
+  * **They will __stagger__ __from sea to sea__; they will __run__ __from the north to the east__ to seek the word of Yahweh** (Amos 8:12)
+    * "They will go about from everywhere in all directions to seek the word of Yahweh"
 
 ----
 
 https://pad.door43.org/p/ta-figs_merism
 
-{{tag>drafthw epadn}}~~DISCUSSION~~
+{{tag>review epadn}}
+
+~~DISCUSSIONS~~
 
 ~~NOCACHE~~
