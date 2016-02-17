@@ -1,55 +1,49 @@
 ====== Synecdoche ======
 
-===== Description =====
-
-Definition\\
-Examples(s)\\
-Purpose (optional)\\
-
-=== Reason this could be a translation issue (recommended) ===
-=== Translation Principles (optional) ===
-
-
-===== Examples from the Bible =====
-
-
-===== Translation Strategies =====
-If your language can use x consider using it. These strategies are for if your language cannot use x.
-
-
-===== Examples of Translation Strategies Applied =====
-----
-
-
-This module answers the question: What is synecdoche?\\
-Before you start this module have you learned about:
+This module answers the question: What does the word synecdoche mean?\\
+In order to understand this module, it would be good to read
   * [[en:ta:vol1:translate:figs_intro|Figures of Speech]]
 
-Synecdoche is a figure of speech in which 1) the name of a part of something is used to refer to the whole thing, or 2) the name of a whole thing is used to refer to just one part of it.\\ 
-**Purposes of Synecdoche**\\ 
-1) When something is called by one of its parts, it is not a random part that is chosen. It is usually a part that is significant to what is being said about the thing or it is a part that is very prominent and people are very aware of.\\ 
-2) When something is called by some bigger thing that it is a part of, it is usually because there is something significant about that bigger thing. But sometimes it is simply a shorthand way of referring to it.
-===== Translation Suggestions =====
-  * Use the word for the part or whole that the original text used. (__My eyes__  have seen)
-  * Use the word for the item represented by the part or the whole. (__I__  have seen)
-  * Use both words. (__With my eyes I__  have seen.)
-===== Examples from the Bible =====
-**__My soul__ magnifies the Lord.** Luke 1:46b\\
-Mary was was very happy about what the Lord was doing, so she referred to herself by the part of herself that has emotions – her soul.\\ 
-\\ 
-**for __my eyes__ have seen your salvation,** Luke 2:30\\
-When Simeon praised God for letting him see the one God had sent to save people, he referred to himself as his eyes since it it by the eyes that he saw.
-===== Examples from English =====
-**Part for Whole** \\
-"He bought a new __set of wheels__" means that he bought a new __car__. A set of wheels is a part of a car - a very important part for giving him the freedom to easily go where he wants.\\ 
-\\ 
-**Whole for Part** \\
-"__The ____company__ announced that it was bankrupt" means that __a representative of the company's leadership__ announced that it was bankrupt. A representative is just one of the people in the company. 
+Synecdoche is when a speaker uses a part of something to refer to the whole or uses the whole to refer to a part.
+
+===== Description =====
+
+Synecdoche is when a speaker uses a part of something to refer to the whole or uses the whole to refer to a part.
+
+**__My soul__ magnifies the Lord.** (Luke 1:46b)\\
+Mary was was very happy about what the Lord was doing, so she referred to her soul, the part of herself that has emotions, to refer to her whole self.
+
+**__the Pharisees__ said to him, "Look, why are they doing something that is not lawful ...?"** (Mark 2:24)\\
+The reader is supposed to understand that the Pharisees standing there did not all say the same words at the same time. Instead, it is more likely that one man representing the group said those words.
+
+**Reason this is a translation issue**\\
+Some readers may take the words literally, or they might know that they are not to take the words literally but extend the meaning incorrectly.
+
+===== Example from the Bible =====
+
+**I looked on all the deeds that __my hands__ had accomplished** (Ecclesiastes 2:11)\\
+"My hands" is a synecdoche for the whole person, because clearly the legs and the rest of the body and the mind were also involved.
+
+===== Translation Strategies =====
+
+If leaving the synecdoche in would be natural and give the right meaning in your language, consider doing so. If not, here are other options:
+  - State specifically what the synecdoche refers to.
+
+===== Examples of Translation Strategies Applied =====
+
+1. State specifically what the synecdoche refers to.
+
+  * **__My soul__ magnifies the Lord.** (Luke 1:46b)
+    * "__I__ magnify the Lord."
+  * **__the Pharisees__ said to him** (Mark 2:24)
+    * "__some of the Pharisees standing there__ said to him"
+  * **I looked on all the deeds that __my hands__ had accomplished** (Ecclesiastes 2:11)
+    * "I looked on all the deeds that __I__ had accomplished"
 
 ----
 
 https://pad.door43.org/p/ta-figs_synecdoche
 
-{{tag>drafthw epadn}}~~DISCUSSION~~
+{{tag>review epadn}}~~DISCUSSION~~
 
 ~~NOCACHE~~
