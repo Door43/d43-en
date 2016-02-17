@@ -1,51 +1,47 @@
 ====== Hendiadys ======
+
+This module answers the question: What does the word hendiadys mean?\\
+In order to understand this module, it would be good to read
+  * [[en:ta:vol1:translate:figs_intro|Figures of Speech]]
+
+Hendiadys is when a speaker makes a single idea more forceful by connecting two nouns or adjectives with “and” when one of the words actually describes the other.
+
 ===== Description =====
 
-Definition\\
-Examples(s)\\
-Purpose (optional)\\
+Hendiadys is when a speaker expresses a single idea by connecting two words with “and” when one of the words actually describes the other.
 
-=== Reason this could be a translation issue (recommended) ===
-=== Translation Principles (optional) ===
+**his own __kingdom and glory__** (1 Thessalonians 2:12)\\
+Though "kingdom" and "glory" are both nouns, "glory" actually tells what kind of "kingdom" it is: it is a kingdom of glory or a glorious kingdom.
 
+**Reason this is a translation issue**\\
+Speakers of some languages can only connect certain kinds of nouns or certain kinds of adjectives with each other. Some languages do not have such things as nouns for actions ("run") or states ("death") or descriptions ("size"), or adjectives for states ("dead").
 
 ===== Examples from the Bible =====
 
+**in truth and love** (2 John 1:3)\\
+This is hendiadys because "truth" describes what God and Jesus are, but "love" tells what they do.
+
+**if you are willing and obedient** (Isaiah 1:19)\\
+This is hendiadys because "willing" speaks of a person's desires, while "obedient" speaks of a person's actions.
 
 ===== Translation Strategies =====
-If your language can use x consider using it. These strategies are for if your language cannot use x.
 
+If leaving the hendiadys in would be natural and give the right meaning in your language, consider doing so. If not, here are other options:
+  - Change nouns and adjectives to sentences.
 
 ===== Examples of Translation Strategies Applied =====
 
+1. Change nouns and adjectives to sentences.
 
-----
-This module answers the question: What is a hendiadys?\\
-Before you start this module have you learned about:
-  * [[en:ta:vol1:translate:figs_intro|Figures of Speech]]
-
-In hendiadys, a single idea is expressed with two words connected with “and” rather than using one word to modify the other.  Instead of using an adjective and a noun together, two nouns are connected by an and to make the meaning stronger.
-===== Translation Suggestions =====
-  * Translate both words.
-  * Arrange the words so that it is clear that one word describes the other.
-===== Examples from the Bible =====
-**for I will give you a __mouth and wisdom__ which all your adversaries will not be able to withstand or to contradict.** Luke 21:15a (WEB)\\
-The word “mouth” here refers to “words,” or "what to say," and the phrase could be translated as “wise words” or "wise things to say".\\ 
-\\ 
-**to the end that you should walk worthily of God, who calls you into __his own kingdom and glory__.** 1 Thes 2:12 (WEB)\\
-God's kingdom and glory are not two separate things that God calls us into. Rather his kingdom is glorious. The phrase "kingdom and glory" is an example of hendiadys. Some versions translate this as "glorious kingdom".
-===== Examples from English =====
-**Nice and soft** \\ 
-means "nicely soft."\\ 
-\\ 
-**Sat and talked** \\ 
-means "sat talking."
-
+  * **in truth and love** (2 John 1:3)
+    * "because they are true and they love us"
+  * **if you are willing and obedient** (Isaiah 1:19)
+    * "if you obey willingly"
 
 ----
 
 https://pad.door43.org/p/ta-figs_hendiadys
 
-{{tag>drafthw figureofspeech epadn}}~~DISCUSSION~~
+{{tag>review epadn}}~~DISCUSSIONS~~
 
 ~~NOCACHE~~
