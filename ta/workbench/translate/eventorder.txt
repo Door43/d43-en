@@ -9,51 +9,56 @@ In order to understand this module, it would be good to read
 
 In the Bible, events are not always told in the order in which they occurred. Sometimes the author wanted to discuss something that happened at an earlier time than the event that he just talked about. This can be confusing to the reader.
 
-**Reason this is a translation issue:** Readers might think that the events happened in the order that they are told. It is 
-important to help them understand the correct order of events in a natural way when translating into your language.\\ 
+**Reason this is a translation issue:** Readers might think that the events happened in the order that they are told. It is important to help them understand the correct order of events.\\ 
 
 ===== Examples from the Bible =====
 **But then Herod ... had John locked up in prison. Now it came about, while all the people were being baptized by John, that Jesus also was baptized.** (Luke 3:20-21) \\ 
-This can sound like John baptized Jesus in prison.\\ 
+This can sound like John baptized Jesus in prison.
 
 **The group of soldiers carrying weapons marched in front of the priests who were blowing their trumpets, and the rest of the soldiers followed the four men carrying the chest... But Joshua commanded the people, saying, "Do not shout. No sound must leave your mouths"** (Joshua 6:9-10)\\ 
-This sounds like Joshua issued the order not to speak after the army had already started their march. \\  
+This sounds like Joshua gave the order not to speak after the army had already started their march.
 
-** "Who is worthy to open the scroll and break its seals?"** (Revelation 5:2) \\ 
-The seal locking the scroll must be broken before the scroll can be unrolled.
+**Who is worthy to open the scroll and break its seals?** (Revelation 5:2) \\ 
+The seals that lock the scroll must be broken before the scroll can be unrolled.
 
 ===== Translation Strategies =====
-  - If your language uses phrases, time words or tenses to show that some event happened before the one mentioned here, consider using one of them. \\ 
-  - If your language prefers to tell events in the order that they occure, consider reordering the events to put them in the right order. his may require putting two or more verses together (like 5-6).
+  - If your language uses phrases, time words or tenses to show that an event happened before the one just mentioned, consider using one of them. 
+  - If your language prefers to tell events in the order that they occure, consider reordering the events to put them in the right order. This may require putting two or more verses together (like 5-6). (See: [[en:ta:vol2:translate:translate_versebridge]])
 
 
 ===== Examples of Translation Strategies Applied =====
-----
-
-1. If your language uses phrases, time words or tenses to show that some event happened before the one mentioned here, consider using one of them. \\ 
-
-**But then Herod ... had John locked up in prison. Now it came about, while all the people were being baptized by John, that Jesus also was baptized.** (Luke 3:20-21) \\  
-20 But then Herod ... had John locked up in prison. 21 Before John was put in prison, while all the people were being baptized by John, Jesus also was baptized.\\ 
-
-**The group of soldiers carrying weapons marched in front of the priests who were blowing their trumpets, and the rest of the soldiers followed the four men carrying the chest... But Joshua commanded the people, saying, "Do not shout. No sound must leave your mouths"** (Joshua 6:9-10)\\ 
-The group of soldiers carrying weapons marched in front of the priests who were blowing their trumpets, and the rest of the soldiers followed the four men carrying the chest... Joshua  had already commanded the people, saying, "Do not shout. No sound must leave your mouths." \\  
-
-** "Who is worthy to open the scroll and break its seals?"** (Revelation 5:2) \\ 
-"Who is worthy to open the scroll after breaking its seals?"
 
 
+1. If your language uses phrases, time words or tenses to show that an event happened before the one just mentioned, consider using one of them. \\  
+  * **<sup>20</sup> But then Herod ... had John locked up in prison. <sup>21</sup> Now it came about, while all the people were being baptized by John, that Jesus also was baptized.** (Luke 3:20-21) \\  
+    * <sup>20 </sup> But then Herod ... had John locked up in prison. <sup>21</sup> Before John was put in prison, while all the people were being baptized by John, Jesus also was baptized.
+
+  * **The group of soldiers carrying weapons marched in front of the priests who were blowing their trumpets, and the rest of the soldiers followed the four men carrying the chest... But Joshua commanded the people, saying, "Do not shout. No sound must leave your mouths"** (Joshua 6:9-10)\\ 
+    * The group of soldiers carrying weapons marched in front of the priests who were blowing their trumpets, and the rest of the soldiers followed the four men carrying the chest... Joshua  had already commanded the people, saying, "Do not shout. No sound must leave your mouths." \\  
+
+  * **Who is worthy to open the scroll and break its seals?** (Revelation 5:2) \\ 
+    * "Who is worthy to open the scroll after breaking its seals?"
 
 
 2. If your language prefers to tell events in the order that they occur, consider reordering the events to put them in the right order. This may require putting two or more verses together (like 5-6). \\
 
-**But then Herod ... had John locked up in prison. Now it came about, while all the people were being baptized by John, that Jesus also was baptized.** (Luke 3:20-21) \\ 
-20-21 Now it came about, while all the people were being baptized by John, that Jesus also was baptized. But then Herod ... had John locked up in prison.\\ 
+  * **But then Herod ... had John locked up in prison. Now it came about, while all the people were being baptized by John, that Jesus also was baptized.** (Luke 3:20-21) \\ 
+    * <sup>20-21</sup>2 Now it came about, while all the people were being baptized by John, that Jesus also was baptized. But then Herod ... had John locked up in prison.\\ 
 
-**The group of soldiers carrying weapons marched in front of the priests who were blowing their trumpets, and the rest of the soldiers followed the four men carrying the chest... But Joshua commanded the people, saying, "Do not shout. No sound must leave your mouths"** (Joshua 6:9-10)\\ 
-9-10 Joshua commanded the people, saying, "Do not shout. No sound must leave your mouths" So then the group of soldiers carrying weapons marched in front of the priests who were blowing their trumpets, and the rest of the soldiers followed the four men carrying the chest. \\  
+  * **The group of soldiers carrying weapons marched in front of the priests who were blowing their trumpets, and the rest of the soldiers followed the four men carrying the chest... But Joshua commanded the people, saying, "Do not shout. No sound must leave your mouths"** (Joshua 6:9-10)\\ 
+    * <sup>9-10</sup>Joshua commanded the people, saying, "Do not shout. No sound must leave your mouths" So then the group of soldiers carrying weapons marched in front of the priests who were blowing their trumpets, and the rest of the soldiers followed the four men carrying the chest. 
 
-** "Who is worthy to open the scroll and break its seals?"** (Revelation 5:2) \\ 
- "Who is worthy to break the seals and open the scroll?"
+We need to use ULB. If this is reordered, Joshua's common in 6:10 would have to precede their march which started in verse 8 .
+
+<sup>9</sup> Armed men walked before the priests, and they made a blast on their trumpets …. <sup>10</sup> But Joshua commanded the people, saying, "Do not shout … until the day I tell you to should. Only then must you shout."   (Joshua 6:9-10)
+
+Then 
+Joshua, the son of Nun, called the priests and said to them, "Take up the ark of the covenant, and let seven priests carry seven trumpets of rams horns in front of the ark of Yahweh." 
+
+<sup>9</sup> Armed men walked before the priests, and they made a blast on their trumpets …. <sup>10</sup> But Joshua commanded the people, saying, "Do not shout … until the day I tell you to should. Only then must you shout."   (Joshua 6:9-10)
+
+  * **Who is worthy to open the scroll and break its seals?"** (Revelation 5:2) \\ 
+    * "Who is worthy to break the seals and open the scroll?"
 
 ==== Explanation ====
 
