@@ -2,20 +2,21 @@
 
 This module answers the question: Why does the ULB have missing or added verses, and should I translate them?\\
 In order to understand this module, it would be good to read
-  * [[en:ta:vol1:translate:translate_source_text|Choosing a Source Text]]
-  * Original Manuscripts
+  * [[en:ta:vol1:translate:translate_source_text]]
+  * [[en:ta:vol2:translate:translate_manuscripts]]
 
-[[Summary of 100 words or less]]
+Thousands of years ago, people wrote the books of the Bible. Other people then copied them by hand and translated them. Sometimes the copiers added sentences by mistake or because they wanted to explain something. Modern Bibles are translations of the old copies. Some modern Bibles have some of these sentences that were added. In the ULB, these added sentences are usually written in footnotes.
+
 ===== Description =====
 Thousands of years ago, people wrote the books of the Bible. Other people then copied them by hand and translated them. We no longer have the original books that the authors wrote. But we have many very old copies. 
 
-Sometimes the copiers made mistakes. Some accidentally left out some words, and some mistook a word for another that looked like it. Sometimes they added words or even whole sentences. Sometimes it was by accident an sometimes it was because they wanted to explain something in the Bible.
+Sometimes the copiers made mistakes. Some accidentally left out some words, and some mistook a word for another that looked like it. Sometimes they added words or even whole sentences. Sometimes it was by accident, and sometimes it was because they wanted to explain something in the Bible.
 
-Over all, people copied the Bible very well. But because different copiers made mistakes in different places, there are small differences between the ancient copies. Bibles that people use today are translated from old copies. Just as there are small differences between the old copies, there are small differences between modern translations of the Bible. 
+Over all, people copied the Bible very well. But because different copiers made mistakes in different places, there are small differences between the ancient copies. Bibles that people use today are based on the old copies. Just as there are small differences between the old copies, there are small differences between modern translations of the Bible. 
 
 Bible scholars have read many old copies and compared them with each other. The translators of the ULB based the ULB on copies that scholars say are most likely correct. Because people who use the ULB may have access to Bibles that are slightly different, the translators included footnotes that tell about some of these differences. 
 
-Translators are encouraged to translate as the ULB is translated. If people who speak their language have access to other Bibles, translators are encouraged to use footnotes that tell about those differences. 
+Translators are encouraged to translate as the ULB is translated. If people who speak their language have access to other Bibles, translators are encouraged to write footnotes that tell about those differences. 
 
 ===== Examples from the Bible =====
 
@@ -42,10 +43,10 @@ The translation strategies are applied to Mark 7:15-16, which has a footnote abo
 
 1. Translate the verses that the ULB does and include the footnote that the ULB provides. \\ 
   * <sup>14</sup>He called the crowd again and said to them, "Listen to me, all of you, and understand. <sup>15</sup>There is nothing from outside of a person that can defile him when it enters into him. It is what comes out of the person that defiles him." <sup>16[1]</sup>\\ 
-    * <sup>[1]</sup>Many ancient authorities insert v. 16. //If any man has ears to hear, let him hear//.
+    * <sup>[1]</sup>Many ancient authorities insert verse 16. //If any man has ears to hear, let him hear//.
 
 2. Translate the verses as another version does, and change the footnote so that it fits this situation.\\ 
   * <sup>14</sup>He called the crowd again and said to them, "Listen to me, all of you, and understand. <sup>15</sup>There is nothing from outside of a person that can defile him when it enters into him. It is what comes out of the person that defiles him. <sup>16</sup>If any man has ears to hear, let him hear." <sup>[1]</sup>\\ 
-    * <sup>[1]</sup>Some ancient authorities do not have v. 16.
+    * <sup>[1]</sup>Some ancient authorities do not have verse 16.
 
 {{tag>review discussion text epadn}}~~DISCUSSIONS~~
