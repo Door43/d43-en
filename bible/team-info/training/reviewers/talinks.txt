@@ -24,6 +24,18 @@ Apostrophe
 [[:en:ta:vol2:translate:figs_apostrophe]]
 </code>
 
+Deictic
+
+<code>
+[[:en:ta:vol2:translate:figs_deictics]]
+</code>
+
+Distinguishing versus Informing or Reminding
+
+<code>
+[[:en:ta:vol2:translate:figs_distinguish]]
+</code>
+
 Double negatives
 
 <code>
@@ -71,6 +83,13 @@ Forms of "you"
 <code>
 [[:en:ta:vol1:translate:figs_you]]
 </code>
+
+Fractions
+
+<code>
+[[:en:ta:vol2:translate:translate_fraction]]
+</code>
+
 
 Hendiadys
 
@@ -144,6 +163,12 @@ Metonymy
 [[:en:ta:vol2:translate:figs_metonymy]]
 </code>
 
+Parables
+
+<code>
+[[:en:ta:vol1:translate:figs_parables]]
+</code>
+
 Parallelism
 
 <code>
@@ -155,6 +180,31 @@ Personification
 <code>
 [[:en:ta:vol2:translate:figs_personification]]
 </code>
+
+Phrases that Inform or Remind
+
+<code>
+[[:en:ta:vol2:translate:figs_informremind]]
+</code>
+
+Pronouns - Plural
+
+<code>
+[[:en:ta:vol2:translate:figs_pluralpronouns]]
+</code>
+
+Pronouns - Singular
+
+<code>
+[[:en:ta:vol2:translate:figs_singularpronouns]]
+</code>
+
+Reflexive Pronouns
+
+<code>
+[[:en:ta:vol2:translate:figs_rpronouns]]
+</code>
+
 
 Rhetorical question
 
