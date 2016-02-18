@@ -105,12 +105,16 @@ This module answers the question: What is in the audio manual?\\
   - [[en:ta:vol2:audio:audio_guides]]
     - [[en:ta:vol2:audio:audio_optimize_laptop]]
     - [[en:ta:vol2:audio:audio_setup_H2n]]
-  * Ocenaudio Workspace Setup
-  * Project Considerations
-  * Keyboard & Mouse Shortcuts
-    - [[en:ta:vol2:audio:audio_checklists]]
-      - [[en:ta:vol2:audio:audio_checklist_preparing_project]]
-      - [[en:ta:vol2:audio:audio_checklist_recording_process]]
+    - [[en:ta:vol2:audio:audio_setup_ocenaudio]]
+    - [[en:ta:vol2:audio:audio_setup_keyboard_shortcuts_ocenaudio]]
+    - [[en:ta:vol2:audio:audio_setup_keyboard_shortcuts_audacity]]
+    - [[en:ta:vol2:audio:audio_guides_normalizing]]
+    - [[en:ta:vol2:audio:audio_guides_conversion_batch]]
+    - [[en:ta:vol2:audio:audio_guides_rename_batch]]
+  - [[en:ta:vol2:audio:audio_definitions]]
+  - [[en:ta:vol2:audio:audio_checklists]]
+    - [[en:ta:vol2:audio:audio_checklist_preparing_project]]
+    - [[en:ta:vol2:audio:audio_checklist_recording_process]]
 
 
 

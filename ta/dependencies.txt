@@ -43,7 +43,7 @@ edge [arrowsize=1.4];
 "complete" [fillcolor="#ffff99"]
 "accurate" -> "complete"
 "formatting" [fillcolor="#ffff99"]
-"things_to_check" -> "formatting"
+"vol2_things_to_check" -> "formatting"
 "goal_checking" [fillcolor="#ffff99"]
 "intro_levels" -> "goal_checking"
 "good" [fillcolor="#ffff99"]
@@ -170,6 +170,7 @@ edge [arrowsize=1.4];
 "gl_ULB" -> "gl_Words"
 "gl_adaptULB" -> "gl_Words"
 "gl_adaptULB" [fillcolor="#ff99ff"]
+"gl_ULB" -> "gl_adaptULB"
 "gl_UDB" -> "gl_adaptULB"
 "gl_translate" -> "gl_adaptULB"
 "gl_done_checking" [fillcolor="#ff99ff"]
@@ -277,6 +278,8 @@ edge [arrowsize=1.4];
 "Technology" -> "audio_checklists"
 "audio_creating_new_file" [fillcolor="#99ffff"]
 "Technology" -> "audio_creating_new_file"
+"audio_definitions" [fillcolor="#99ffff"]
+"Technology" -> "audio_definitions"
 "audio_digital_recording_devices" [fillcolor="#99ffff"]
 "Technology" -> "audio_digital_recording_devices"
 "audio_distribution" [fillcolor="#99ffff"]
@@ -333,6 +336,12 @@ edge [arrowsize=1.4];
 "Technology" -> "audio_field_environment"
 "audio_guides" [fillcolor="#99ffff"]
 "Technology" -> "audio_guides"
+"audio_guides_conversion_batch" [fillcolor="#99ffff"]
+"Technology" -> "audio_guides_conversion_batch"
+"audio_guides_normalizing" [fillcolor="#99ffff"]
+"Technology" -> "audio_guides_normalizing"
+"audio_guides_rename_batch" [fillcolor="#99ffff"]
+"Technology" -> "audio_guides_rename_batch"
 "audio_interfaces" [fillcolor="#99ffff"]
 "Technology" -> "audio_interfaces"
 "audio_interfaces_firewire" [fillcolor="#99ffff"]
@@ -417,6 +426,12 @@ edge [arrowsize=1.4];
 "Technology" -> "audio_setup_H2n"
 "audio_setup_content" [fillcolor="#99ffff"]
 "Technology" -> "audio_setup_content"
+"audio_setup_keyboard_shortcuts_audacity" [fillcolor="#99ffff"]
+"Technology" -> "audio_setup_keyboard_shortcuts_audacity"
+"audio_setup_keyboard_shortcuts_ocenaudio" [fillcolor="#99ffff"]
+"Technology" -> "audio_setup_keyboard_shortcuts_ocenaudio"
+"audio_setup_ocenaudio" [fillcolor="#99ffff"]
+"Technology" -> "audio_setup_ocenaudio"
 "audio_setup_team" [fillcolor="#99ffff"]
 "Technology" -> "audio_setup_team"
 "audio_signal_path" [fillcolor="#99ffff"]
@@ -827,6 +842,7 @@ edge [arrowsize=1.4];
 "translate_dynamic" -> "translate_tform"
 "translate_process" -> "translate_tform"
 "translate_fandm" -> "translate_tform"
+"translate_why" -> "translate_tform"
 "translate_transliterate" [fillcolor="#9999ff"]
 "translate_unknown" -> "translate_transliterate"
 "translate_unknown" [fillcolor="#9999ff"]
@@ -848,6 +864,8 @@ edge [arrowsize=1.4];
 "translate_why" -> "translation_difficulty"
 "writing_background" [fillcolor="#9999ff"]
 "figs_events" -> "writing_background"
+"writing_connectingwords" [fillcolor="#9999ff"]
+"Translation" -> "writing_connectingwords"
 "writing_decisions" [fillcolor="#9999ff"]
 "translate_source_text" -> "writing_decisions"
 "choose_team" -> "writing_decisions"

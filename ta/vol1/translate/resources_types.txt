@@ -1,21 +1,21 @@
-===== Translation Notes =====
+===== translationNotes =====
 
-This module answers the question: What are the different types of notes?\\
+This module answers the question: What are the different types of translationNotes?\\
 Before you start this module have you learned about:
   * [[en:ta:vol1:translate:translate_help|Help with Translating]]
   * [[en:ta:vol1:translate:resources_intro|Introduction to Resources]]
 
-==== Translation Notes ====
+==== translationNotes ====
 
-Translation Notes are words or phrases copied from the ULB and then explained. In English, the ULB text is in bold.
+translationNotes are words or phrases copied from the ULB and then explained. In English, the ULB text is in bold.
 
-There are many different type of notes in the Translation Notes. You should read all of the Translation Notes for a frame or chunk of text before starting to translate it. You should also read both the ULB and the UDB and the definitions of the translationWords.
+There are many different type of notes in the translationNotes. You should read all of the translationNotes for a frame or chunk of text before starting to translate it. You should also read both the ULB and the UDB and the definitions of the translationWords.
 
-==== Types of Notes ====
+==== Types of translationNotes ====
 
 === Definitions ===
 
-One type of Translation Note is the definition of a word. If a word in the ULB seems special or unusual, but not important enough to be included in the Translation Words, the Translation Notes will have the meaning of the word. Simple definitions of words or phrases are added without quotes or sentence  format. Here are examples:
+One type of translationNote is the definition of a word. If a word in the ULB seems special or unusual, but not important enough to be included in the translationWords, the translationNotes will have the meaning of the word. Simple definitions of words or phrases are added without quotes or sentence format. Here are examples:
 
   * **marketplace**  - a large, open-air area where people would come to sell their goods
   * **flute**  - a long, hollow musical instrument which is played by blowing air in or over one end
@@ -29,7 +29,7 @@ Simple explanations about words or phrases are in sentence format. For example:
 
 === Suggested Translations ===
 
-Another type of Translation Note is to give you suggestions for different ways you could translate the same meaning. There are several types of suggested translations. 
+Another type of translationNote is to give you suggestions for different ways you could translate the same meaning. There are several types of suggested translations. 
 
 == Direct Replacements ==
 
@@ -59,16 +59,17 @@ There may be no note if the UDB provides a good alternate translation for the UL
 
 === Alternate Meaning(s) ===
 
-The Translation Notes will give **alternate meanings** when there are different ways to understand what a word or phrase means. 
+The translationNotes will give **alternate meanings** when there are different ways to understand what a word or phrase means. 
 
 This kind of note will start with the words, “Possible meanings  are that,” and then it will number the possible meanings with the preferred or most likely meaning first. If the meaning is given as an explanation, like the following examples, it is not in quotes. 
   * **You are like a young lion … like a monster in the seas** - Possible meanings are that 1) he was like a lion and a monster or 2) he thought he was like a lion, but he was really only a monster.
   * **like a monster in the seas** - Possible meanings are that 1) he was powerful or 2) he was not doing anything important.
 
 If the meaning is given in a way that can be used as a translation, like the following examples, it is in quotes.  
-  * **fell down at Jesus knees** - Possible meanings are 1) “bowed down at Jesus feet” or 2) “lay down  on the ground at Jesus feet” or 3) “knelt down before Jesus.” Peter did not fall accidentally. He did this as a sign of humility and respect for  Jesus.
-  
+  * **fell down at Jesus knees** - Possible meanings are 1) “bowed down at Jesus feet” or 2) “lay down  on the ground at Jesus feet” or 3) “knelt down before Jesus.” Peter did not fall accidentally. He did this as a sign of humility and respect for Jesus.
+
  === Probable or Possible Meanings ===
+
 Sometimes Bible scholars do not know for sure, or do not agree on, what a particular phrase or sentence in the Bible means. Some reasons for this include: 
   - There are minor differences in the ancient Bible texts.  
   - A word may have more than one meaning or use. 
@@ -78,18 +79,18 @@ See [[en:ta:vol1:translate:resources_porp]] for more information.
 
 === Identify Figures of Speech ===
 
-The purpose of some Translation Notes is to alert you to figures of speech in the ULB and to give ideas for how to translate the same meaning in a different way. Notes that identify and explain a figure of speech will use sentence form and put the meaning in quotes. 
+The purpose of some translationNotes is to alert you to figures of speech in the ULB and to give ideas for how to translate the same meaning in a different way. Notes that identify and explain a figure of speech will use sentence form and put the meaning in quotes. 
   * **Make ready the way of the Lord** - This phrase compares people preparing themselves for the arrival of the Lord to people who are repairing a road for someone to use it. AT: “Repent and be ready for when the Lord comes.” (See: Metaphor)
   * **You offspring of poisonous snakes** - Jesus uses this expression to emphasize how dangerous the Pharisees are. Poisonous snakes are dangerous and represent evil. AT: “You evil poisonous snakes!” or “You are evil like poisonous snakes.” (See: Metaphor)
 
-If there is a Translation Academy page that explains a certain kind of figure of speech, the note will identify what kind of figure of speech it is in parentheses at the end of the note. For example, (See: Metaphor). You can then look up that kind of figure of speech in Translation Academy for more explanation. 
+If there is a translationAcademy page that explains a certain kind of figure of speech, the note will identify what kind of figure of speech it is in parentheses at the end of the note. For example, (See: Metaphor). You can then look up that kind of figure of speech in translationAcademy for more explanation. 
 
 === Indirect to Direct Quote ===
 
-When a Translation Note is giving a direct quote as an alternative translation for an indirect quote, it will say, “This can be translated as a direct quote:” and then it will give a suggestion for how to translate it as a direct quote. For example:
-  * **to tell no one** -  This can be translated as a direct quote: “Do not tell anyone.” The  implied information is “that you have been healed.” (See: Speech Quotations, Explicit and Implicit Information)
+When a translationNote is giving a direct quote as an alternative translation for an indirect quote, it will say, “This can be translated as a direct quote:” and then it will give a suggestion for how to translate it as a direct quote. For example:
+  * **to tell no one** -  This can be translated as a direct quote: “Do not tell anyone.” The implied information is “that you have been healed.” (See: Speech Quotations, Explicit and Implicit Information)
 
-Whenever a Translation Note says "See:" in parentheses at the end of the note, the words that follow are topics that you can look up in Translation Academy that will further explain the issue that the Note talks about.
+Whenever a translationNote says "See:" in parentheses at the end of the note, the words that follow are topics that you can look up in translationAcademy that will further explain the issue that the translationNote talks about.
 
 === Multiple Notes on Long Phrase ===
 
@@ -100,5 +101,5 @@ Sometimes there are notes for a phrase and also separate notes for portions of t
 
 
 Next we recommend you learn about:
-  * [[en:ta:vol1:translate:resources_links|Links in the Notes]]
+  * [[en:ta:vol1:translate:resources_links|Links in the translationNotes]]
 
