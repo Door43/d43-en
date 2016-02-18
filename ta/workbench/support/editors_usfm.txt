@@ -18,11 +18,10 @@ These are the USFM tags that are used in the Unlocked Bibles and how they look i
 \sr - section reference (1:13-19)\\
 \sp - speaker (\sp Bildad the Shuhite speaks)\\
 \s5 - chunk divider (\s5)\\
-\q - quotation (\q \v5 Then he arose ...)\\
-\q1 - quotation: first level indent (\q1 \v5 Then he arose ...)\\
-\q2 - quotation: second level indent (\q2 \v5 and before he sat down ...)\\
-\add ... \add* - inserted text or comments not in original (\add his friend \add*)\\
-\f + \ft ... \f* - footnote (\f + \ft Some of the oldest versions do not include this. \f*)\\
+\q - quotation (\q \v5 Then he arose …)\\
+\q1 - quotation: first level indent (\q1 \v5 Then he arose …)\\
+\q2 - quotation: second level indent (\q2 \v5 and before he sat down …)\\
+\add … \add* - inserted text or comments not in original (\add his friend \add*)\\
+\f + \ft … \f* - footnote (\f + \ft Some of the oldest versions do not include this. \f*)
 
-
-~~DISCUSSIONS~~ {{tag>draft epadn ehpg}}
+~~DISCUSSIONS~~{{tag>draft epadn ehpg}}
