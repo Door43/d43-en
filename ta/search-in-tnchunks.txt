@@ -13,17 +13,9 @@ Instructions.
   * If you clicked on the Preview button, click the Cancel button and the page will not be saved.
   * If you clicked the Save button, go to the clock icon in the list on the right of the page, and click on the first version down from the newest. Click on it. When it opens, click on the pencil as if you wanted to edit the page. Don't write anything. Just save the page.
 
-
+**Code for doing searches on tN pages:** \\ 
 {{door43pages @:en:bible:notes -r -q="TTTT" -exclude:home -simpleLineBreak -title -fontsize="90%"}}
 
-Sometimes you may want to search for something in **TA pages**. When you open this page, you will see a string of code bounded by double curly brackets. That is where you will do your search.
-
+**Code for doing searches on tA pages:** \\ 
 {{door43pages @:en:ta -r -q="TTTT" -exclude:home -simpleLineBreak -title -fontsize="90%"}}
 
-=== How to use these codes ===
-
-Click the pencil in the right-hand column on this page to edit it.\\
-The search code is in double curly brackets. It has the Sto the word or phrase you want to find.\\
-Click the Preview button to see the links.\\
-If you want, open the links in other tabs.\\
-Click the Cancel button on this page, so someone else can use the page.
