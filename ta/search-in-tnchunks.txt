@@ -1,23 +1,18 @@
 ===== Searching in Notes and TA Pages =====
 
-One way of finding examples for translationAcademy pages is to search the **notes** for chunks that have the topic named in the notes. Here is the code for searching in the notes pages.
-<code>
+One way of finding examples for translationAcademy pages is to search the **notes** for chunks that have the topic named in the notes. When you open this page, you will see a string of code bounded by double curly brackets. That is where you will do your search.
+
+
 {{door43pages @:en:bible:notes -r -q="TTTT" -exclude:home -simpleLineBreak -title -fontsize="90%"}}
-</code>
 
-{{door43pages @:en:bible:notes -r -q="simile" -exclude:home -simpleLineBreak -title -fontsize="90%"}}
-
-Sometimes you may want to search for something in **TA pages**. Here is the code.
-<code>
-{{door43pages @:en:ta -r -q="TTTT" -exclude:home -simpleLineBreak -title -fontsize="90%"}}
-</code>
+Sometimes you may want to search for something in **TA pages**. When you open this page, you will see a string of code bounded by double curly brackets. That is where you will do your search.
 
 {{door43pages @:en:ta -r -q="TTTT" -exclude:home -simpleLineBreak -title -fontsize="90%"}}
 
 === How to use these codes ===
 
-Click the edit button on this page.\\
-Change the string TTTT to the word or phrase you want to find.\\
+Click the pencil in the right-hand column on this page to edit it.\\
+The search code is in double curly brackets. It has the Sto the word or phrase you want to find.\\
 Click the Preview button to see the links.\\
 If you want, open the links in other tabs.\\
 Click the Cancel button on this page, so someone else can use the page.
