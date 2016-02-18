@@ -224,6 +224,12 @@ Speech Quotations
 [[:en:ta:vol2:translate:figs_quotations]]
 </code>
 
+Symbolic Action
+
+<code>
+[[:en:ta:vol2:translate:translate_symaction]]
+</code>
+
 Synecdoche
 
 <code>
@@ -254,11 +260,75 @@ Translate Unknowns
 [[:en:ta:vol1:translate:translate_unknown]]
 </code>
 
+Verse Bridges
+
+<code>
+[[:en:ta:vol2:translate:translate_versebridge]]
+</code>
+
+
+Word Order
+
+<code>
+[[:en:ta:vol1:translate:figs_order]]
+</code>
+
+
 Writing Styles - Background Information
 
 <code>
 [[en:ta:vol2:translate:writing_background]]
 </code>
+
+
+Writing Styles - Connecting Words
+
+<code>
+[[en:ta:vol2:translate:writing_connectingwords]]
+</code>
+
+
+Writing Styles - Introduction of a New Event
+
+<code>
+[[en:ta:vol2:translate:writing_newevent]]
+</code>
+
+
+Writing Styles - Introduction of New and Old Participants
+
+<code>
+[[en:ta:vol2:translate:writing_participants]]
+</code>
+
+
+Writing Styles - Poetry
+
+<code>
+[[en:ta:vol2:translate:writing_poetry]]
+</code>
+
+
+Writing Styles - Proverbs
+
+<code>
+[[en:ta:vol2:translate:writing_proverbs]]
+</code>
+
+
+Writing Styles - Quotations
+
+<code>
+[[en:ta:vol2:translate:writing_quotations]]
+</code>
+
+
+Writing Styles - Symbolic Lanugage
+
+<code>
+[[en:ta:vol2:translate:writing_symlanguage]]
+</code>
+
 
 
 Topic
