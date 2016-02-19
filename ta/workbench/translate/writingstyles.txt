@@ -1,15 +1,15 @@
 ====== Writing Styles ======
 
 This is also called 'Discourse.' It refers to how the parts of a text are organized and connected in order to communicate the author's meaning. In every translation, the way that words, sentences, and paragraphs are arranged will affect how people will understand the message.
+
 ==== Kinds of Writing Styles ====
 
-  * **Narrative** or **[[en:ta:vol1:translate:figs_parables]]** - tells a story or event
-  * **Explanatory** - explains facts or teaches principles
-  * **Procedural** - tells how to do something
-  * **Argumentative** - tries to persuade someone to do something
-  * **[[en:ta:vol2:translate:writing_poetry]]** - expresses ideas and feelings in a beautiful way
-  * **[[en:ta:vol2:translate:writing_proverbs]]** - briefly teaches a truth or wisdom
-
+  * **Narrative**  or **[[:en:ta:vol1:translate:figs_parables|Parables]]**- tells a story or event
+  * **Explanatory**  - explains facts or teaches principles
+  * **Procedural**  - tells how to do something
+  * **Argumentative**  - tries to persuade someone to do something
+  * **[[:en:ta:vol2:translate:writing_poetry|Writing Styles - Poetry]]**- expresses ideas and feelings in a beautiful way
+  * **[[:en:ta:vol2:translate:writing_proverbs|Writing Styles - Proverbs]]**- briefly teaches a truth or wisdom
 The purpose of a particular text will influence what kinds of discourse features are used. For example, in a narrative, discourse features would include:
 
   * telling about events that happen before and after other events;
@@ -20,16 +20,13 @@ The purpose of a particular text will influence what kinds of discourse features
 
 Languages have organized ways of communicating information in each of these discourse types.
 
-==== Specific discourse issues: ====    
+==== Specific discourse issues: ====
 
-  - **[[:en:ta:vol2:translate:writing_newevent]]** - Phrases like “One day” or “It came about that” or “This is how it happened” or “Sometime after that” signal to the reader that a new event is about to be told.
-  - **[[en:ta:vol2:translate:writing_participants]]** - Languages have ways of introducing new people and of referring to those people again.
-  - **[[:en:ta:vol2:translate:writing_background]]** - An author may use background information for several reasons: 1) to add interest to the story, 2) to provide important historical or cultural information or 3) to tell the reader, or listener, something very important.
-  -  **Pronoun reference system** - Languages have patterns for how frequently to  use pronouns. If that pattern is not followed, wrong meaning can result.
-  - **[[:en:ta:vol2:translate:writing_quotations]]** - Languages have different ways of reporting what someone said. 
-  - **[[:en:ta:vol2:translate:writing_connectingwords]]** - Languages have patterns for how to use connecting words (such as “and,” “but,” or “then”). 
-  - **Relative prominence or emphasis** - Languages have different ways of showing which parts of a sentence, paragraph, or story are being emphasized the most. 
-
-
-
+  - **[[:en:ta:vol2:translate:writing_newevent|Writing Styles - Introduction of a New Event]]**- Phrases like “One day” or “It came about that” or “This is how it happened” or “Sometime after that” signal to the reader that a new event is about to be told.
+  - **[[:en:ta:vol2:translate:writing_participants|Writing Styles - Introduction of New and Old Participants]]**- Languages have ways of introducing new people and of referring to those people again.
+  - **[[:en:ta:vol2:translate:writing_background|Writing Styles - Background Information]]**- An author may use background information for several reasons: 1) to add interest to the story, 2) to provide important historical or cultural information or 3) to tell the reader, or listener, something very important.
+  - **Pronoun reference system**  - Languages have patterns for how frequently to use pronouns. If that pattern is not followed, wrong meaning can result.
+  - **[[:en:ta:vol2:translate:writing_quotations|Writing Styles - Quotations]]**- Languages have different ways of reporting what someone said.
+  - **[[:en:ta:vol2:translate:writing_connectingwords|Writing Styles - Connecting Words]]**- Languages have patterns for how to use connecting words (such as “and,” “but,” or “then”).
+  - **Relative prominence or emphasis**  - Languages have different ways of showing which parts of a sentence, paragraph, or story are being emphasized the most.
 {{tag>chris epadn}}~~DISCUSSIONS~~
