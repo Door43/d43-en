@@ -9,25 +9,28 @@ In order to understand this module, it would be good to read
  
 ===== Description =====
 
+Pronouns are words that people use instead of a noun to refer to someone or something. Personal pronouns normally refer to people or other living beings: I, you, he, she, we, you, they.
+
+**Personal Pronouns**
+
 **Person**: first, second, third \\ 
   * [[en:ta:vol2:translate:figs_123person]]
   * [[en:ta:vol2:translate:figs_inclusive]]
   * [[en:ta:vol2:translate:figs_exclusive]]
-  * [[en:ta:vol2:translate:figs_youformal]]
   * [[en:ta:vol1:translate:figs_you]]
+  * [[en:ta:vol2:translate:figs_youformal]]
+  * [[en:ta:vol1:translate:figs_yousingular]]
+  * [[en:ta:vol1:translate:figs_youdual]]
   * [[en:ta:vol2:translate:figs_rpronouns]]
-
 
 **Number**: singular, plural \\
   * [[en:ta:vol2:translate:figs_singularpronouns]]
   * [[en:ta:vol2:translate:figs_pluralpronouns]]
 
 **Gender**: masculine, feminine, neuter \\ 
-[[en:ta:vol2:translate:figs_gendernotations]]
+  * [[en:ta:vol2:translate:figs_gendernotations]]
 
-
-
-
+**Demonstrative Pronouns** - Pronouns that we might use when pointing to someone or something: this, these, that, those
 
  
 {{tag>draft epadn}} ~~DISCUSSIONS~~
