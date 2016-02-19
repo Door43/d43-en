@@ -1,5 +1,8 @@
 ====== Resources of the WA Training Department ======
 
+**Code for doing searches on tA pages:** \\\\
+{{door43pages @:en:ta -r -q="TTTT" -exclude:home -simpleLineBreak -title -fontsize="90%"}}
+
 [[:en:bible:team-info:training:quick-reference:template|General Template]]
 
 Use this [[:en:ta:resources:ta-page-definition|template]] when creating new tA pages.
@@ -12,9 +15,11 @@ Use this [[:en:ta:resources:ta-page-definition|template]] when creating new tA p
 {{:en:ta:resources:dsmtest.pdf|test pdf - captivate demo with action and sound}}
 </code>
 
-{{:en:ta:resources:form_and_meaning_6.mp4|form and meaning video}}  3 minutes from Captivate
+{{:en:ta:resources:form_and_meaning_6.mp4|form and meaning video}}
+3 minutes from Captivate
 
-{{:en:ta:resources:form_and_meaning-computer.mp4|form and meaning video}}  2:50 minutes from Movie Maker
+{{:en:ta:resources:form_and_meaning-computer.mp4|form and meaning video}}
+2:50 minutes from Movie Maker
 
 {{:en:ta:inclusive.jpg?direct&180x180}}\\
 this is an example of an inclusive word
