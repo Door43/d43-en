@@ -1,17 +1,32 @@
-====== Gender Notations ======
+====== Gender Notations - Change name to "Gender Neutral Language"?======
+
+This module answers the question: How do I translate "brother" or "he" when it could refer to anyone, male or female?
+In order to understand this module, it would be good to read 
+  * [[link]]  (We need the bullet because of the app.)
+
+[[Summary of 100 words or less]]
+
 
 ===== Description =====
 
-Definition\\
-Examples(s)\\
-Purpose (optional)\\
+In some languages a word that normally refers to men is used to refer to a group of people, even though that group might have females in it. For example, in some languages, the word 'brother' usually refers to a male. There is a separate word for 'sister,' and it refers to a female. But the plural form 'brothers' can be used to refer to a group that has only males in it, or to a group that has both males and females. 
 
-=== Reason this could be a translation issue (recommended) ===
-=== Translation Principles (optional) ===
+However some languages cannot use the word "brothers" to refer to a group of both males and females. They use the word "brothers" only to refer to a group of males. When they want to refer to a group of both males and females, they use "brothers and sisters."
+
+Also in some languages "he" can be used for any person if the gender of the person is not important,  but in other languages, "he" could only refer to a male. (What I wrote below is not a real example -- just an idea. )
+  * Whoever does ..., he will ...' 
+  * Whoever does ..., they will  ... -  To avoid the impression that "whoever" and "he" could only refer to a male, English uses "they" because it does not show gender. 
+
+
+**Reason this is a translation issue (recommended)**
+
+**Translation Principles**
 
 
 ===== Examples from the Bible =====
+Matt 7:24 “Anyone who listens to my teaching and follows it is wise, like a person who builds a house on solid rock. (New Living Translation) 
 
+Matt 16:24-26 "Then Jesus said to his disciples, ‘If anyone would come after me, he must deny himself and take up his cross and follow me. For whoever wants to save his life will lose it, but whoever loses his life for me will find it. What good will it be for a man, if he gains the whole world and forfeits his soul? Or what can a man give in exchange for his soul?'" (New International Version)
 
 ===== Translation Strategies =====
 If your language can use x consider using it. These strategies are for if your language cannot use x.
@@ -19,28 +34,7 @@ If your language can use x consider using it. These strategies are for if your l
 
 ===== Examples of Translation Strategies Applied =====
 
-
 ----
-This module answers the question: What are gender notations?\\
-Gender means making a distinction between the masculine, feminine and neutral nouns.  The English language does not make a distinction in noun gender the way some languages do. Instead, any gender markings (such as pronouns) take the natural gender of the object.
-"Whomever" is neither masculine nor feminine. The same is true for 'it'; however, 'it' is not a word English uses for people.
-Sometimes English uses "them/themselves" as a gender neutral marking; however, this changes the number of the noun from singular to plural.
-===== Translation Suggestions =====
-Many languages of the world mark gender for all nouns (whether or not they have a natural gender) and this gender marking does not always align with the object's natural gender.
-===== Examples from the Bible =====
-Matt 7:24 “Anyone who listens to my teaching and follows it is wise, like a person who builds a house on solid rock. (New Living Translation)\\ 
-\\ 
-Matt 16:24-26 "Then Jesus said to his disciples, ‘If anyone would come after me, he must deny himself and take up his cross and follow me. For whoever wants to save his life will lose it, but whoever loses his life for me will find it. What good will it be for a man, if he gains the whole world and forfeits his soul? Or what can a man give in exchange for his soul?'" (New International Version)
-===== Examples from English =====
-English has two gender-specific //3rd Person Singular Subject Pronouns// that depend on the sex of the individual referenced.
-   * //3rd Person Singular Personal Masculine Pronoun: //**he **- refers to a male person
-  * //3rd Person Singular Personal Feminine Pronoun: //**she **- refers to a female person
-English has one gender-neutral //3rd Person Singular Pronoun;//  however, it can only refer to non-human things.
-  * //3rd Person Singular Non-human Pronoun//: **it**  - refers to a singular thing
-
-
-----
-
 https://pad.door43.org/p/ta-figs_gendernotations
 
 {{tag>draft epadn}}~~DISCUSSIONS~~
