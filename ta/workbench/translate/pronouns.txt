@@ -1,7 +1,35 @@
-===== Examples of Translation Strategies Applied =====
+====== Pronouns ======
+
+This module answers the question: What kinds of things might languages show on their pronouns \\
+In order to understand this module, it would be good to read 
+  * [[link]]  (We need the bullet because of the app.)
+
+[[Summary of 100 words or less]]
+
+ 
+===== Description =====
+
+**Person**: first, second, third \\ 
+  * [[en:ta:vol2:translate:figs_123person]]
+  * [[en:ta:vol2:translate:figs_inclusive]]
+  * [[en:ta:vol2:translate:figs_exclusive]]
+  * [[en:ta:vol2:translate:figs_youformal]]
+  * [[en:ta:vol1:translate:figs_you]]
+  * [[en:ta:vol2:translate:figs_rpronouns]]
+
+
+**Number**: singular, plural \\
+  * [[en:ta:vol2:translate:figs_singularpronouns]]
+  * [[en:ta:vol2:translate:figs_pluralpronouns]]
+
+**Gender**: masculine, feminine, neuter \\ 
+[[en:ta:vol2:translate:figs_gendernotations]]
 
 
 
+
+
+ 
 {{tag>draft epadn}} ~~DISCUSSIONS~~
 
 ~~NOCACHE~~
