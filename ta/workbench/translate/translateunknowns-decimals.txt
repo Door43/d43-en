@@ -45,9 +45,19 @@ Note: An ephah is 22 liters. See: [[en/obe/other/biblicalvolume|Biblical Volume]
 
 ===== Examples of Translation Strategies Applied =====
 A numbered list of examples that match the strategies above. Each strategy should have an example - even if the first strategy is to maintain the  form or figure. Each strategy should have only one  example because of  challenges with the Door43 formatting. \\ 
-1. Copy of the strategy \\ 
-  * **The ULB  Text in bold [underline words of issue]** (Bible Reference) Explanation of application of strategy 
-    * "Sample of Bible after strategy is applied." [underline words of issue] 
+  * 1. If decimal numbers are expressed in the ULB or UDB in a way that is clear in your language, use either of those translations
+
+  * “The next day that person must bring two male lambs and one female lamb; the female lamb must be one year old, and the animals must no defects. He must also bring about 6.5 liters of a fine flour offering, mixed with olive oil, to be an offering, and about one third liter of olive oil.” (Leviticus 14:10 UDB)
+“On the eighth day he must take two male lambs without blemish, one female lamb a year old without blemish, and three tenths of an ephah of fine flour mixed with oil as a grain offering, and one log of oil.” (Leviticus 14:10 ULB)
+
+*  2. If decimal numbers are not expressed in the ULB or UDB in a way that is clear in your language, then translators will need to convert decimal numbers into whatever system your language uses for expressing numbers and parts of numbers, for example:
+Decimals:    3.5 liters
+Fractions:    3 ½ liters
+Words:        three and one-half liters 
+
+“Someone must also provide each morning an offering of flour. It must be about 3.5 liters of flour mixed with one liter of olive oil.” (Ezekiel 46:14 UDB)
+“And you will give a grain offering with it morning after morning, a sixth of an ephah and a third of a hin of oil to moisten the flour of the grain offering for Yahweh, according to a permanent statute.” (Ezekiel 46:14 ULB)
+
 
 
 {{tag>drafthh epadn}} ~~DISCUSSIONS~~
