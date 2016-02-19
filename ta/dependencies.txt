@@ -838,6 +838,7 @@ edge [arrowsize=1.4];
 "translate_manual" -> "translate_terms"
 "translate_textvariants" [fillcolor="#9999ff"]
 "translate_source_text" -> "translate_textvariants"
+"translate_manuscripts" -> "translate_textvariants"
 "translate_tform" [fillcolor="#9999ff"]
 "translate_dynamic" -> "translate_tform"
 "translate_process" -> "translate_tform"
