@@ -1,7 +1,7 @@
 ===== Update translationStudio Projects =====
 
-This module answers the question: How do I update translationStudio projects?\\
-Before you start this module have you learned about:
+**This page answers the question:** How do I update translationStudio projects?\\
+In order to understand this topic, it would be good to read:
   * [[en:ta:vol1:tech:ts_install|Install translationStudio on an Android Device]]
 
 ==== How to Update tS Projects ====

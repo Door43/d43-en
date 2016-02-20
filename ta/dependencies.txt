@@ -366,6 +366,8 @@ edge [arrowsize=1.4];
 "Technology" -> "audio_mic_connectivity_types"
 "audio_mic_design_types" [fillcolor="#99ffff"]
 "Technology" -> "audio_mic_design_types"
+"audio_mic_fine_tuning" [fillcolor="#99ffff"]
+"Technology" -> "audio_mic_fine_tuning"
 "audio_mic_gain_level" [fillcolor="#99ffff"]
 "Technology" -> "audio_mic_gain_level"
 "audio_mic_position" [fillcolor="#99ffff"]
@@ -593,8 +595,6 @@ edge [arrowsize=1.4];
 "figs_sentences" -> "figs_activepassive"
 "figs_apostrophe" [fillcolor="#9999ff"]
 "figs_intro" -> "figs_apostrophe"
-"figs_deictics" [fillcolor="#9999ff"]
-"Translation" -> "figs_deictics"
 "figs_distinguish" [fillcolor="#9999ff"]
 "figs_partsofspeech" -> "figs_distinguish"
 "figs_doublenegatives" [fillcolor="#9999ff"]
@@ -603,7 +603,7 @@ edge [arrowsize=1.4];
 "figs_doublet" [fillcolor="#9999ff"]
 "figs_intro" -> "figs_doublet"
 "figs_ellipsis" [fillcolor="#9999ff"]
-"Translation" -> "figs_ellipsis"
+"figs_intro" -> "figs_ellipsis"
 "figs_euphemism" [fillcolor="#9999ff"]
 "figs_intro" -> "figs_euphemism"
 "figs_events" [fillcolor="#9999ff"]
@@ -864,26 +864,29 @@ edge [arrowsize=1.4];
 "translate_whatis" -> "translation_difficulty"
 "translate_why" -> "translation_difficulty"
 "writing_background" [fillcolor="#9999ff"]
-"figs_events" -> "writing_background"
+"writing_intro" -> "writing_background"
 "writing_connectingwords" [fillcolor="#9999ff"]
-"Translation" -> "writing_connectingwords"
+"writing_intro" -> "writing_connectingwords"
 "writing_decisions" [fillcolor="#9999ff"]
 "translate_source_text" -> "writing_decisions"
 "choose_team" -> "writing_decisions"
+"writing_intro" [fillcolor="#9999ff"]
+"writing_decisions" -> "writing_intro"
 "writing_newevent" [fillcolor="#9999ff"]
-"Translation" -> "writing_newevent"
+"writing_intro" -> "writing_newevent"
 "writing_participants" [fillcolor="#9999ff"]
-"Translation" -> "writing_participants"
+"writing_intro" -> "writing_participants"
 "writing_poetry" [fillcolor="#9999ff"]
 "figs_parallelism" -> "writing_poetry"
 "figs_metaphor" -> "writing_poetry"
+"writing_intro" -> "writing_poetry"
 "writing_proverbs" [fillcolor="#9999ff"]
-"figs_parallelism" -> "writing_proverbs"
-"figs_metaphor" -> "writing_proverbs"
+"writing_intro" -> "writing_proverbs"
 "writing_quotations" [fillcolor="#9999ff"]
-"Translation" -> "writing_quotations"
+"writing_intro" -> "writing_quotations"
 "writing_symlanguage" [fillcolor="#9999ff"]
-"Translation" -> "writing_symlanguage"
+"writing_intro" -> "writing_symlanguage"
+"figs_metaphor" -> "writing_symlanguage"
 }
 </graphviz>
 ~~NOCACHE~~

@@ -1,6 +1,6 @@
 ===== Setting the Mic Gain Level =====
 
-This module answers the question: //How is the mic gain level set properly?//\\
+**This page answers the question:** //How is the mic gain level set properly?//\\
 ===  ===
 
 There is perhaps no single step in the entire process that effects every aspect of the project (and distribution of the audio resource for years) more than properly setting the mic gain level. It is often misunderstood how greatly this simple step at the beginning impacts the required time investment, post-production and the quality level of the final result. By contrast, improper gain level setting creates editing and production challenges that in many cases are not repairable.
@@ -11,7 +11,7 @@ Fortunately, setting a proper gain level is one of the easiest things to do and 
   * loudness of narrator's voice
   * distance of the narrator from the mic
 
-== About the mic preamp level ==
+====About the mic preamp level====
 
 Every mic is paired with a preamp, which may be in the form of a dedicated external preamp device, an audio interface, a mixing console channel preamp, a computer sound card or built into the mic. On a practical level, adjusting the gain level will be done either with an analog control knob on a device, by adjusting the sound settings in the computer control panel settings, or both. It is a general good piece of advice to never set any preamp level to 100%, as it can add electronic noise into the recorded signal. If it seems that setting to 100% is necessary, it is a good indicator that one of the other 3 variables is not set right or that you are using equipment not designed for voice recording applications.
 
@@ -19,7 +19,7 @@ By contrast, if you find the need to set a level at 10% or “slightly on”, yo
 
 Our recommendation is to operate within the range of 25%-75% on equipment level settings.
 
-== About the loudness of the narrator's voice ==
+====About the loudness of the narrator's voice====
 
 The loudness of a narrator's voice will vary from person to person. Furthermore, a narrator's voice may vary at different times of the day and at different energy levels (the characteristic sound of a person's voice can vary throughout the day, as well). What is more important than targeting a specific volume is that the narrator's voice must sound natural. Asking a narrator to speak louder than they are comfortable with will produce a noticeably unnatural feel to the recording. By contrast, asking a loud narrator to read quiet could yield a result that sounds lifeless or weak.
 
@@ -27,11 +27,11 @@ While making sure the voice sounds natural and comfortable is very important, pe
 
 The best idea is to encourage the narrator to use a steady, natural voice that is comfortable for them and can be sustained throughout recording sessions.
 
-== About distance of the narrator from the mic ==
+====About distance of the narrator from the mic====
 
 While the unknown variables of the type of mic and the narrator's natural-voice loudness level prevent the ability to specify an exact distance, we recommend using the width or length of a hand (4-8 inches) as a general distance to start with when setting the gain level.
 
-== The process of setting the level ==
+====The process of setting the level====
 
 Our goal is for the signal level of the narrator's voice to register at approximately -6dB. We will need to adjust the gain sensitivity level to accomplish this.
 

@@ -1,6 +1,6 @@
 ===== Audio Manual =====
 
-This module answers the question: What is in the audio manual?\\
+**This page answers the question:** What is in the audio manual?\\
 ===== Audio Manual Table of Contents =====
 
 
@@ -43,6 +43,7 @@ This module answers the question: What is in the audio manual?\\
     - [[en:ta:vol2:audio:audio_mic_gain_level]]
     - [[en:ta:vol2:audio:audio_signal_to_noise]]
     - [[en:ta:vol2:audio:audio_noise_floor]]
+    - [[en:ta:vol2:audio:audio_mic_fine_tuning]]
   - [[en:ta:vol2:audio:audio_software_workspace]]
     - [[en:ta:vol2:audio:audio_waveform_editor]]
   - [[en:ta:vol2:audio:audio_managing_data]]
