@@ -2,46 +2,17 @@
 
 ===== TFT: =====
 
-<usfm>
-\v 1 Yahweh, listen to what I am praying;
-\q1 hear me while I cry out to you!
-\q1
-\v 2 Do not turn away\f + \ft Or: hide yourself \f* from me when I have troubles\f + \ft Or: am distressed \f*!
-\q1 Listen to me,
-\q2 and answer me quickly now, when I am calling out to you!
-\b
-\q1
-</usfm>
+<usfm> \v 1 Yahweh, listen to what I am praying; \q1 hear me while I cry out to you! \q1 \v 2 Do not turn away\f + \ft Or: hide yourself \f* from me when I have troubles\f + \ft Or: am distressed \f*! \q1 Listen to me, \q2 and answer me quickly now, when I am calling out to you! \b \q1 </usfm>
 
 ===== UDB: =====
 
-<usfm>
-\v 1 Yahweh, listen to what I am praying;
-\q1 hear me while I cry out to you!
-\q1
-\v 2 Do not turn away!
-\q1 Listen to me,
-\q2 and answer me quickly now when I am calling out to you!
-\b
+<usfm> \v 1 Yahweh, listen to what I am praying; \q1 hear me while I cry out to you! \q1 \v 2 Do not turn away! \q1 Listen to me, \q2 and answer me quickly now when I am calling out to you! \b
 
-
-\q1
-</usfm>
+\q1 </usfm>
 
 ===== ULB: =====
 
-<usfm>
-\c 102
-\d A prayer of the afflicted when he is overwhelmed and pours out his lament before Yahweh.
-\b
-\q
-\v 1 Hear my prayer, Yahweh;
-\q hear my cry to you.
-\q
-\v 2 Do not hide your face from me in my time of trouble.
-\q Listen to me.
-\q When I call out to you, answer me quickly.
-</usfm>
+<usfm> \c 102 \d A prayer of the afflicted when he is overwhelmed and pours out his lament before Yahweh. \b \q \v 1 Hear my prayer, Yahweh; \q hear my cry to you. \q \v 2 Do not hide your face from me in my time of trouble. \q Listen to me. \q When I call out to you, answer me quickly. </usfm>
 
 ===== Important Terms: =====
 
@@ -57,9 +28,8 @@
 
 See: Translating Poetry and [[:en:ta:vol2:translate:figs_parallelism|Parallelism]]
 
-  * **overwhelmed** - "faint" or "weak"
-  * **pours out his lament before Yahweh** - The way the author expresses his lament is compared to pouring out a liquid. AT: "freely expresses his grief to Yahweh" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  
+  * **overwhelmed**  - "faint" or "weak"
+  * **pours out his lament before Yahweh**  - The way the author expresses his lament is compared to pouring out a liquid. AT: "freely expresses his grief to Yahweh" (See: [[:en:ta:vol1:translate:figs_metaphor|Metaphor]])
 ===== Links: =====
 
   * **[[:en:bible:questions:comprehension:psa:102|Psalms Chapter 102 Comprehension Questions]]**
