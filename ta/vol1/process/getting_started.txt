@@ -1,8 +1,9 @@
 ===== Getting Started =====
 
-**This page answers the question:** What do I need to have in place before getting started?\\
+**This page answers the question:** //What do I need to have in place before getting started?//
+
 In order to understand this topic, it would be good to read:
-  * [[en:ta:vol1:process:process_manual|Introduction to the Process Manual]]
+  * //[[en:ta:vol1:process:process_manual|Introduction to the Process Manual]]//
 
 ==== How to Get Started ====
 
@@ -21,5 +22,5 @@ Translation is a complicated task and takes organization and a plan. There are m
 
 
 Next we recommend you learn about:
-  * [[en:ta:vol1:process:setup_team|Setting Up A Translation Team]]
+  * //[[en:ta:vol1:process:setup_team|Setting Up A Translation Team]]//
 

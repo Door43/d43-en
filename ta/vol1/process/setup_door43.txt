@@ -1,7 +1,7 @@
 ===== Setting Up Door43 =====
 
 In order to understand this topic, it would be good to read:
-  * [[en:ta:vol1:process:platforms|Selecting a Platform]]
+  * //[[en:ta:vol1:process:platforms|Selecting a Platform]]//
 
 ==== Getting Started with Door43 ====
 
@@ -12,5 +12,5 @@ To get started on door43, please follow the following steps:
 
 
 Next we recommend you learn about:
-  * [[en:ta:vol1:process:door43_translation|Translating in Door43]]
+  * //[[en:ta:vol1:process:door43_translation|Translating in Door43]]//
 

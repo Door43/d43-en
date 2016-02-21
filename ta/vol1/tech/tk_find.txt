@@ -1,8 +1,9 @@
 ===== Select an Input Method =====
 
-**This page answers the question:** How do I select an input method?\\
+**This page answers the question:** //How do I select an input method?//
+
 In order to understand this topic, it would be good to read:
-  * [[en:ta:vol1:tech:tk_install|Install translationKeyboard on an Android Device]]
+  * //[[en:ta:vol1:tech:tk_install|Install translationKeyboard on an Android Device]]//
 
 ==== Selecting Input Method ====
 
@@ -18,10 +19,10 @@ Complete these steps to select your input language:
 
 
 Next we recommend you learn about:
-  * [[en:ta:vol1:tech:tk_install|Install translationKeyboard on an Android Device]]
-  * [[en:ta:vol1:tech:tk_start|Setting Up the translationKeyboard APP on an Android device]]
-  * [[en:ta:vol1:tech:tk_use|How to Use the translationKeyboard in translationStudio]]
-  * [[en:ta:vol1:tech:tk_enable|Enable translationKeyboard on an Android Device]]
-  * [[en:ta:vol1:tech:tk_create|Create a Keyboard in tK]]
-  * [[en:ta:vol1:tech:tk_update|Update translationKeyboard]]
+  * //[[en:ta:vol1:tech:tk_install|Install translationKeyboard on an Android Device]]//
+  * //[[en:ta:vol1:tech:tk_start|Setting Up the translationKeyboard APP on an Android device]]//
+  * //[[en:ta:vol1:tech:tk_use|How to Use the translationKeyboard in translationStudio]]//
+  * //[[en:ta:vol1:tech:tk_enable|Enable translationKeyboard on an Android Device]]//
+  * //[[en:ta:vol1:tech:tk_create|Create a Keyboard in tK]]//
+  * //[[en:ta:vol1:tech:tk_update|Update translationKeyboard]]//
 

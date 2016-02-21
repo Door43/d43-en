@@ -1,9 +1,10 @@
 ===== Translating the ULB =====
 
-**This page answers the question:** What are the guidelines for translating the ULB?\\
+**This page answers the question:** //What are the guidelines for translating the ULB?//
+
 In order to understand this topic, it would be good to read:
-  * [[en:ta:vol1:intro:gl_strategy|Gateway Languages Strategy]]
-  * [[en:ta:vol2:gateway:gl_translate|Translating in the Gateways]]
+  * //[[en:ta:vol1:intro:gl_strategy|Gateway Languages Strategy]]//
+  * //[[en:ta:vol2:gateway:gl_translate|Translating in the Gateways]]//
 
 ==== Translation Theory for Translating the ULB ====
 
@@ -51,6 +52,6 @@ When translating the ULB, however, this figure of speech should be translated as
 
 
 Next we recommend you learn about:
-  * [[en:ta:vol2:gateway:gl_adaptulb|Adapt the ULB]]
-  * [[en:ta:vol2:gateway:gl_udb|Translating the UDB]]
+  * //[[en:ta:vol2:gateway:gl_adaptulb|Adapt the ULB]]//
+  * //[[en:ta:vol2:gateway:gl_udb|Translating the UDB]]//
 

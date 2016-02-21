@@ -1,10 +1,11 @@
 ===== Translating the UDB =====
 
-**This page answers the question:** What are the guidelines for translating the UDB?\\
+**This page answers the question:** //What are the guidelines for translating the UDB?//
+
 In order to understand this topic, it would be good to read:
-  * [[en:ta:vol1:intro:gl_strategy|Gateway Languages Strategy]]
-  * [[en:ta:vol2:gateway:gl_translate|Translating in the Gateways]]
-  * [[en:ta:vol2:gateway:gl_ulb|Translating the ULB]]
+  * //[[en:ta:vol1:intro:gl_strategy|Gateway Languages Strategy]]//
+  * //[[en:ta:vol2:gateway:gl_translate|Translating in the Gateways]]//
+  * //[[en:ta:vol2:gateway:gl_ulb|Translating the ULB]]//
 
 ==== Translation Theory for Translating the UDB ====
 
@@ -78,6 +79,6 @@ For more examples of how the UDB avoids difficult grammatical constructions, idi
 
 
 Next we recommend you learn about:
-  * [[en:ta:vol2:gateway:gl_notes|Translate the translationNotes]]
-  * [[en:ta:vol2:gateway:check_udb|Checking the UDB]]
+  * //[[en:ta:vol2:gateway:gl_notes|Translate the translationNotes]]//
+  * //[[en:ta:vol2:gateway:check_udb|Checking the UDB]]//
 

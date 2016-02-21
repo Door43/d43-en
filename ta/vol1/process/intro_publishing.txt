@@ -1,8 +1,9 @@
 ===== Introduction to Publishing =====
 
-**This page answers the question:** What is publishing?\\
+**This page answers the question:** //What is publishing?//
+
 In order to understand this topic, it would be good to read:
-  * [[en:ta:vol1:process:prechecking_training|Training Before Checking Begins]]
+  * //[[en:ta:vol1:process:prechecking_training|Training Before Checking Begins]]//
 
 ==== Publishing Overview ====
 
@@ -36,6 +37,6 @@ In Door43, a brief statement will appear in resources that may be eligible for p
 
 
 Next we recommend you learn about:
-  * [[en:ta:vol1:process:publishing_prereqs|Publishing Prerequisites]]
-  * [[en:ta:vol1:process:publishing_process|How to Publish]]
+  * //[[en:ta:vol1:process:publishing_prereqs|Publishing Prerequisites]]//
+  * //[[en:ta:vol1:process:publishing_process|How to Publish]]//
 

@@ -1,9 +1,10 @@
 ===== Translate the translationNotes =====
 
-**This page answers the question:** What are the guidelines for translating or adapting the translationNotes?\\
+**This page answers the question:** //What are the guidelines for translating or adapting the translationNotes?//
+
 In order to understand this topic, it would be good to read:
-  * [[en:ta:vol2:gateway:gl_adaptulb|Adapt the ULB]]
-  * [[en:ta:vol2:gateway:gl_ulb|Translating the ULB]]
+  * //[[en:ta:vol2:gateway:gl_adaptulb|Adapt the ULB]]//
+  * //[[en:ta:vol2:gateway:gl_ulb|Translating the ULB]]//
 
 ==== Translating the translationNotes ====
 
@@ -31,6 +32,6 @@ Because the translationNotes are part of a set of translation resources that wil
 
 
 Next we recommend you learn about:
-  * [[en:ta:vol2:gateway:gl_words|Translate the translationWords]]
-  * [[en:ta:vol2:gateway:check_notes|Checking the translationNotes]]
+  * //[[en:ta:vol2:gateway:gl_words|Translate the translationWords]]//
+  * //[[en:ta:vol2:gateway:check_notes|Checking the translationNotes]]//
 
