@@ -1,10 +1,11 @@
 ===== Adapt the ULB =====
 
-**This page answers the question:** What are the guidelines for adapting an existing translation as the ULB?\\
+**This page answers the question:** //What are the guidelines for adapting an existing translation as the ULB?//
+
 In order to understand this topic, it would be good to read:
-  * [[en:ta:vol2:gateway:gl_ulb|Translating the ULB]]
-  * [[en:ta:vol2:gateway:gl_udb|Translating the UDB]]
-  * [[en:ta:vol2:gateway:gl_translate|Translating in the Gateways]]
+  * //[[en:ta:vol2:gateway:gl_ulb|Translating the ULB]]//
+  * //[[en:ta:vol2:gateway:gl_udb|Translating the UDB]]//
+  * //[[en:ta:vol2:gateway:gl_translate|Translating in the Gateways]]//
 
 ==== Prerequisites for Adapting an Existing Translation for the ULB ====
 
@@ -34,6 +35,6 @@ After you do these things so that the text is ready to use as the Gateway Langua
 
 
 Next we recommend you learn about:
-  * [[en:ta:vol2:gateway:gl_notes|Translate the translationNotes]]
-  * [[en:ta:vol1:intro:open_license|Open License]]
+  * //[[en:ta:vol2:gateway:gl_notes|Translate the translationNotes]]//
+  * //[[en:ta:vol1:intro:open_license|Open License]]//
 

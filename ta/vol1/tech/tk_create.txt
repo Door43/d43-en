@@ -1,8 +1,9 @@
 ===== Create a Keyboard in tK =====
 
-**This page answers the question:** How do I create a keyboard in tK?\\
+**This page answers the question:** //How do I create a keyboard in tK?//
+
 In order to understand this topic, it would be good to read:
-  * [[en:ta:vol1:tech:tk_intro|translationKeyboard]]
+  * //[[en:ta:vol1:tech:tk_intro|translationKeyboard]]//
 
 ==== Getting Started ====
 
@@ -62,10 +63,10 @@ In the beginning, these boxes will be blank until they are filled the selected s
 
 
 Next we recommend you learn about:
-  * [[en:ta:vol1:tech:tk_install|Install translationKeyboard on an Android Device]]
-  * [[en:ta:vol1:tech:tk_start|Setting Up the translationKeyboard APP on an Android device]]
-  * [[en:ta:vol1:tech:tk_use|How to Use the translationKeyboard in translationStudio]]
-  * [[en:ta:vol1:tech:tk_enable|Enable translationKeyboard on an Android Device]]
-  * [[en:ta:vol1:tech:tk_find|Select an Input Method]]
-  * [[en:ta:vol1:tech:tk_update|Update translationKeyboard]]
+  * //[[en:ta:vol1:tech:tk_install|Install translationKeyboard on an Android Device]]//
+  * //[[en:ta:vol1:tech:tk_start|Setting Up the translationKeyboard APP on an Android device]]//
+  * //[[en:ta:vol1:tech:tk_use|How to Use the translationKeyboard in translationStudio]]//
+  * //[[en:ta:vol1:tech:tk_enable|Enable translationKeyboard on an Android Device]]//
+  * //[[en:ta:vol1:tech:tk_find|Select an Input Method]]//
+  * //[[en:ta:vol1:tech:tk_update|Update translationKeyboard]]//
 

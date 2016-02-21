@@ -1,11 +1,12 @@
 ===== Translate the translationQuestions =====
 
-**This page answers the question:** What are the guidelines for translating the translationQuestions?\\
+**This page answers the question:** //What are the guidelines for translating the translationQuestions?//
+
 In order to understand this topic, it would be good to read:
-  * [[en:ta:vol1:translate:mast|MAST Core Concepts]]
-  * [[en:ta:vol2:gateway:gl_words|Translate the translationWords]]
-  * [[en:ta:vol2:gateway:gl_notes|Translate the translationNotes]]
-  * [[en:ta:vol2:gateway:gl_ulb|Translating the ULB]]
+  * //[[en:ta:vol1:translate:mast|MAST Core Concepts]]//
+  * //[[en:ta:vol2:gateway:gl_words|Translate the translationWords]]//
+  * //[[en:ta:vol2:gateway:gl_notes|Translate the translationNotes]]//
+  * //[[en:ta:vol2:gateway:gl_ulb|Translating the ULB]]//
 
 ==== Why Translate the translationQuestions? ====
 
@@ -39,6 +40,6 @@ If the ULB has not been translated already, an alternative method would be to tr
 
 
 Next we recommend you learn about:
-  * [[en:ta:vol2:gateway:check_ulb|Checking the ULB]]
-  * [[en:ta:vol2:gateway:check_notes|Checking the translationNotes]]
+  * //[[en:ta:vol2:gateway:check_ulb|Checking the ULB]]//
+  * //[[en:ta:vol2:gateway:check_notes|Checking the translationNotes]]//
 

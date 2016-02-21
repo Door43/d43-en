@@ -1,8 +1,9 @@
 ===== Setting Up a Word Processor =====
 
-**This page answers the question:** How do I set up a Word Processor?\\
+**This page answers the question:** //How do I set up a Word Processor?//
+
 In order to understand this topic, it would be good to read:
-  * [[en:ta:vol1:process:platforms|Selecting a Platform]]
+  * //[[en:ta:vol1:process:platforms|Selecting a Platform]]//
 
 ==== Obtaining the Source Text for Open Bible Stories ====
 
@@ -21,5 +22,5 @@ In order to understand this topic, it would be good to read:
 
 
 Next we recommend you learn about:
-  * [[en:ta:vol1:process:word_translation|Translating in a Word Processor]]
+  * //[[en:ta:vol1:process:word_translation|Translating in a Word Processor]]//
 

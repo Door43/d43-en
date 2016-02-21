@@ -1,10 +1,11 @@
 ===== Introduction to Resources =====
 
-**This page answers the question:** What are Resources?\\
+**This page answers the question:** //What are Resources?//
+
 In order to understand this topic, it would be good to read:
-  * [[en:ta:vol1:intro:gl_strategy|Gateway Languages Strategy]]
-  * [[en:ta:vol1:translate:translate_manual|Introduction to Translation Manual]]
-  * [[en:ta:vol1:translate:translation_difficulty|Choosing What to Translate]]
+  * //[[en:ta:vol1:intro:gl_strategy|Gateway Languages Strategy]]//
+  * //[[en:ta:vol1:translate:translate_manual|Introduction to Translation Manual]]//
+  * //[[en:ta:vol1:translate:translation_difficulty|Choosing What to Translate]]//
 
 ==== Introduction to Resources ====
 
@@ -37,6 +38,6 @@ The resources are:
 
 
 Next we recommend you learn about:
-  * [[en:ta:vol1:tech:ts_resources|Find the Resources in translationStudio]]
-  * [[en:ta:vol1:tech:resources_d43|Find the Resources in Door43]]
+  * //[[en:ta:vol1:tech:ts_resources|Find the Resources in translationStudio]]//
+  * //[[en:ta:vol1:tech:resources_d43|Find the Resources in Door43]]//
 
