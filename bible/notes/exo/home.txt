@@ -2,8 +2,8 @@
 
   * [[:en:ulb:ep:02-exo.usfm|Full ULB text of Exodus]]
   * [[:en:udb:ep:02-exo.usfm|Full UDB text of Exodus]]
-  * [[:en:bible:admin-reports:notes-team-admin:exo|Notes: Exodus Team Admin]]
-  * [[:en:bible:team-info:training:notes-training|Notes Training]]
+
+<nspages en:bible:notes:exo:00 -title -naturalOrder -exclude:home -textPages="Exodus 0 -nbCol=2>
 
 <nspages en:bible:notes:exo:01 -title -naturalOrder -exclude:home -textPages="Exodus 1" -nbCol=2>
 
