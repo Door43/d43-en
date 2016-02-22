@@ -12,11 +12,9 @@ Reviewer - (//review to publish//) -
   * [[:en:udb:ep:24-jer.usfm|Full UDB text of Jeremiah]]
   * [[:en:bible:team-info:training:notes-training|Notes Training]]
 
-
 ==== Jeremiah Page Status ====
 
-
-^ Draft  ^ Check ^ Review ^
+^Draft ^Check ^Review |
 |{{door43pages @en:bible:notes:jer -q="\{\{tag>[^}]*draft[^}]*\}\}" -r -showcount -title -simpleLineBreak -fontsize="80%"}} |{{door43pages @en:bible:notes:jer -q="\{\{tag>[^}]*check[^}]*\}\}" -r -showcount -title -simpleLineBreak -fontsize="80%"}} |{{door43pages @en:bible:notes:jer -q="\{\{tag>[^}]*review[^}]*\}\}" -r -showcount -title -simpleLineBreak -fontsize="80%"}} |
 
 \\
