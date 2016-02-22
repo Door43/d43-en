@@ -1,0 +1,335 @@
+====== tA Link Code ======
+
+See [[:en:bible:team-info:training:reviewers:chunklinks]] for code to create verse links.
+
+==== These are tA links that we include in pages: ====
+
+Abstract Nouns
+
+<code>
+[[:en:ta:vol2:translate:figs_abstractnouns]]
+</code>
+
+Active/Passive
+
+<code>
+[[:en:ta:vol2:translate:figs_activepassive]]
+</code>
+
+Adjectival noun - I have deleted this. We will not have a tA page for it. SRQ.
+
+Apostrophe
+
+<code>
+[[:en:ta:vol2:translate:figs_apostrophe]]
+</code>
+
+Chapter and Verse Numbers
+
+<code>
+[[en:ta:vol2:translate:translate_chapverse]]
+</code>
+
+Deictic
+
+<code>
+[[:en:ta:vol2:translate:figs_deictics]]
+</code>
+
+Distinguishing versus Informing or Reminding
+
+<code>
+[[:en:ta:vol2:translate:figs_distinguish]]
+</code>
+
+Double negatives
+
+<code>
+[[:en:ta:vol2:translate:figs_doublenegatives]]
+</code>
+
+Doublet
+
+<code>
+[[:en:ta:vol2:translate:figs_doublet]]
+</code>
+
+Ellipsis
+
+<code>
+[[:en:ta:vol2:translate:figs_ellipsis]]
+</code>
+
+Euphemism
+
+<code>
+[[:en:ta:vol2:translate:figs_euphemism]]
+</code>
+
+Exclusive
+
+<code>
+[[:en:ta:vol2:translate:figs_exclusive]]
+</code>
+
+Explicit/Implicit
+
+<code>
+[[:en:ta:vol1:translate:figs_explicit]]
+</code>
+
+First, second, or third person
+
+<code>
+[[:en:ta:vol2:translate:figs_123person]]
+</code>
+
+Forms of "you"
+
+<code>
+[[:en:ta:vol1:translate:figs_you]]
+</code>
+
+Fractions
+
+<code>
+[[:en:ta:vol2:translate:translate_fraction]]
+</code>
+
+
+Hendiadys
+
+<code>
+[[:en:ta:vol2:translate:figs_hendiadys]]
+</code>
+
+Hyperbole
+
+<code>
+[[:en:ta:vol2:translate:figs_hyperbole]]
+</code>
+
+Hypothetical Situation
+
+<code>
+[[:en:ta:vol1:translate:figs_hypo]]
+</code>
+
+Idiom
+
+<code>
+[[:en:ta:vol1:translate:figs_idiom]]
+</code>
+
+Inclusive
+
+<code>
+[[:en:ta:vol2:translate:figs_inclusive]]
+</code>
+
+Irony
+
+<code>
+[[:en:ta:vol1:translate:figs_irony]]
+</code>
+
+Litotes
+
+<code>
+[[:en:ta:vol2:translate:figs_litotes]]
+</code>
+
+
+Merism
+
+<code>
+[[:en:ta:vol2:translate:figs_merism]]
+</code>
+
+Metaphor
+
+<code>
+[[:en:ta:vol1:translate:figs_metaphor]]
+</code>
+
+Metonymy
+
+<code>
+[[:en:ta:vol2:translate:figs_metonymy]]
+</code>
+
+Parables
+
+<code>
+[[:en:ta:vol1:translate:figs_parables]]
+</code>
+
+Parallelism
+
+<code>
+[[:en:ta:vol2:translate:figs_parallelism]]
+</code>
+
+Personification
+
+<code>
+[[:en:ta:vol2:translate:figs_personification]]
+</code>
+
+Phrases that Inform or Remind
+
+<code>
+[[:en:ta:vol2:translate:figs_informremind]]
+</code>
+
+Pronouns - Plural
+
+<code>
+[[:en:ta:vol2:translate:figs_pluralpronouns]]
+</code>
+
+Pronouns - Singular
+
+<code>
+[[:en:ta:vol2:translate:figs_singularpronouns]]
+</code>
+
+Reflexive Pronouns
+
+<code>
+[[:en:ta:vol2:translate:figs_rpronouns]]
+</code>
+
+
+Rhetorical question
+
+<code>
+[[:en:ta:vol1:translate:figs_rquestion]]
+</code>
+
+Simile
+
+<code>
+[[:en:ta:vol1:translate:figs_simile]]
+</code>
+
+Speech Quotations
+
+<code>
+[[:en:ta:vol2:translate:figs_quotations]]
+</code>
+
+Symbolic Action
+
+<code>
+[[:en:ta:vol2:translate:translate_symaction]]
+</code>
+
+Synecdoche
+
+<code>
+[[:en:ta:vol2:translate:figs_synecdoche]]
+</code>
+
+Textual Variants
+
+<code>
+[[:en:ta:vol2:translate:translate_textvariants]]
+</code>
+
+Translate Names
+
+<code>
+[[:en:ta:vol1:translate:translate_names]]
+</code>
+
+Translate Numbers
+
+<code>
+[[:en:ta:vol2:translate:translate_numbers]]
+</code>
+
+Translate Unknowns
+
+<code>
+[[:en:ta:vol1:translate:translate_unknown]]
+</code>
+
+Verse Bridges
+
+<code>
+[[:en:ta:vol2:translate:translate_versebridge]]
+</code>
+
+
+Word Order
+
+<code>
+[[:en:ta:vol1:translate:figs_order]]
+</code>
+
+
+Writing Styles - Background Information
+
+<code>
+[[en:ta:vol2:translate:writing_background]]
+</code>
+
+
+Writing Styles - Connecting Words
+
+<code>
+[[en:ta:vol2:translate:writing_connectingwords]]
+</code>
+
+
+Writing Styles - Introduction of a New Event
+
+<code>
+[[en:ta:vol2:translate:writing_newevent]]
+</code>
+
+
+Writing Styles - Introduction of New and Old Participants
+
+<code>
+[[en:ta:vol2:translate:writing_participants]]
+</code>
+
+
+Writing Styles - Poetry
+
+<code>
+[[en:ta:vol2:translate:writing_poetry]]
+</code>
+
+
+Writing Styles - Proverbs
+
+<code>
+[[en:ta:vol2:translate:writing_proverbs]]
+</code>
+
+
+Writing Styles - Quotations
+
+<code>
+[[en:ta:vol2:translate:writing_quotations]]
+</code>
+
+
+Writing Styles - Symbolic Lanugage
+
+<code>
+[[en:ta:vol2:translate:writing_symlanguage]]
+</code>
+
+
+
+Topic
+
+<code>
+
+</code>
+
+~~DISCUSSION~~
