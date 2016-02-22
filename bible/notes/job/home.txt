@@ -2,8 +2,8 @@
 
   * [[:en:ulb:ep:18-job.usfm|Full ULB text of Job]]
   * [[:en:udb:ep:18-job.usfm|Full UDB text of Job]]
-  * [[:en:bible:admin-reports:notes-team-admin:job|Notes: Job Team Admin]]
-  * [[:en:bible:team-info:training:notes-training|Notes Training]]
+
+<nspages en:bible:notes:job:00 -title -naturalOrder -exclude:home -textPages="Job 0" -nbCol=2> 
 
 <nspages en:bible:notes:job:01 -title -naturalOrder -exclude:home -textPages="Job 1" -nbCol=2> 
 
