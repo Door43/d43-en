@@ -1,0 +1,9 @@
+====== OBE: OBS Pages in KT List ======
+
+~~NOCACHE~~
+
+==== Pages tagged "ktobs" ====
+
+The pages below in the OBE/Other namespace are tagged as "ktobs" in order to be sorted as needed.
+
+{{door43pages  @:en:obe:kt -r -q="ktobs" -exclude:home -simpleLineBreak -title -fontsize="90%"}}
