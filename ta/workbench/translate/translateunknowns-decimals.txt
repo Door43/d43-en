@@ -11,14 +11,7 @@ The decimal point, or decimal comma, is a mark placed to the left of a number to
 
 In some countries people use a decimal point, and in other countries people use a decimal comma. So translators in countries that use a decimal comma would write “3.7 meters” as “3,7 meters.”
 
-In the Unlocked Dynamic Bible (UDB) parts of a number are written as decimals.
-
-In some cultures people prefer fractions. This is another way of showing that a number refers to a part of a whole number. (See: [[en:ta:vol2:translate:translate_fraction]])
-
-
-
-
-
+In the Unlocked Dynamic Bible (UDB) parts of a number are written as decimals. In some cultures people prefer fractions. This is another way of showing that a number refers to a part of a whole number. (See: [[en:ta:vol2:translate:translate_fraction]])
 
 
 ==== Translation Principles  (optional) ====
@@ -27,9 +20,9 @@ In some cultures people prefer fractions. This is another way of showing that a 
 
 When telling how long or how heavy something is, or how much of something there is, the Unlocked Literal Bible uses the ways of measuring things that people used when the Bible was first written, such as "cubits", "shekels",a and "hins".  Since people today might not understand those measures, the Unlocked Dynamic Bible uses the metric system with measures such as "meters", "grams", and "liters". The old measures and the metric measures are not the same, the numbers that are used with them are not the same. For example, one cubit is about half a meter. (1 cubit equals 46 centimeters which is the same as .46 meters.)
 
-**They are to make an ark of acacia wood. Its length must be two and a half cubits; its width will be __one cubit and a half__; and its height will be __one cubit and a half__.*  (Exodus 25:10 ULB)
-Tell the people to make a sacred chest from acacia wood. It is to be one meter long, __0.7 meter wide__, and __0.7 meter__ high.” (Exodus 25:10 UDB)\\ 
-Note: a cubit is 46 centimeters. See: [[en/obe/other/biblicaldistance|Biblical Distance]]\\
+**They are to make an ark of acacia wood. Its length must be two and a half cubits; its width will be __one cubit and a half__; and its height will be __one cubit and a half__.**  (Exodus 25:10 ULB) \\ 
+"Tell the people to make a sacred chest from acacia wood. It is to be one meter long, __0.7 meter wide__, and __0.7 meter__ high.” (Exodus 25:10 UDB)\\ 
+Note: a cubit is 46 centimeters. See: [[en/obe/other/biblicaldistance]]\\
 0.7 of a meter is equal to one and half cubit.\\
 
 “With each bull also bring two liters of wine. With each male sheep, bring __1.2 liters__ of wine. With each lamb bring one liter of wine. These offerings must be brought on the first day of each month and burned completely on the altar.” (Numbers 28:14 UDB)\\
