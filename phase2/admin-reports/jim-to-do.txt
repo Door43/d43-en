@@ -4,7 +4,11 @@
 
   * [[en:bible:admin-reports:check-tags-notes|Check Tags]]
   * [[en:ta:ta-needed]]
-==== Location ====
+
+CH Issues: [[:en:phase2:admin-reports:jim-to-do#table-2|Jump to CH info]]
+
+
+==== TN, TA, TW Issues ====
 
 ^  "Text"  ^  "jimp"  ^  "Discuss" issues  ^
 |{{door43pages @en:bible:notes -r -q="\{\{tag>[^}]*text[^}]*\}\}" -exclude:home -simpleLineBreak -title -fontsize="90%"}} |{{door43pages @en:bible:notes -r -q="\{\{tag>[^}]*jimp[^}]*\}\}" -exclude:home -simpleLineBreak -title -fontsize="90%"}}  |Bible: {{door43pages @en:bible:notes -r -q="\{\{tag>[^}]*discuss[^}]*\}\}" -exclude:home -simpleLineBreak -title -fontsize="90%"}} Terms: {{door43pages @en:obe -r -q="\{\{tag>[^}]*discuss[^}]*\}\}" -exclude:home -simpleLineBreak -title -fontsize="90%"}} Training: {{door43pages @en:bible:team-info:training -r -q="\{\{tag>[^}]*discuss[^}]*\}\}" -exclude:home -simpleLineBreak -title -fontsize="90%"}}  |
