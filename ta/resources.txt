@@ -1,13 +1,13 @@
 ====== Resources of the WA Training Department ======
 
-Link for Media Manager - [[media_manager]]
+Link for Media Manager - [[https://www.door43.org/media_manager?do=media]]
 
 **Code for doing searches on tA pages:** \\
 
 {{door43pages @:en:ta -r -q="TTTT" -exclude:home -simpleLineBreak -title -fontsize="90%"}}
 
 
-Use this [[:en:ta:resources:ta-page-definition|template]] when creating new JITL tA pages.
+Use this [[:en:ta:jitl-page-template]] when creating new JITL tA pages.
 
 === Samples ===
 
