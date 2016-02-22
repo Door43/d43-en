@@ -1,0 +1,21 @@
+====== Notes: Zechariah Team Admin ======
+
+Team Lead (//draft to check//) - Hank B\\
+Manager (//check to review//) - David F\\
+Reviewer - (//review to publish//) - Henry W & Nick
+
+~~NOCACHE~~
+
+=== Links: ===
+
+  * [[:en:ulb:ep:38-zec.usfm|Full ULB text of Zechariah]]
+  * [[:en:udb:ep:38-zec.usfm|Full UDB text of Zechariah]]
+  * [[:en:bible:team-info:training:notes-training|Notes Training]]
+
+==== Zechariah Page Status ====
+
+
+^ Draft  ^ Check ^ Review ^
+|{{door43pages @en:bible:notes:zec -q="\{\{tag>[^}]*draft[^}]*\}\}" -r -showcount -title -simpleLineBreak -fontsize="80%"}} |{{door43pages @en:bible:notes:zec -q="\{\{tag>[^}]*check[^}]*\}\}" -r -showcount -title -simpleLineBreak -fontsize="80%"}} |{{door43pages @en:bible:notes:zec -q="\{\{tag>[^}]*review[^}]*\}\}" -r -showcount -title -simpleLineBreak -fontsize="80%"}} |
+
+\\
