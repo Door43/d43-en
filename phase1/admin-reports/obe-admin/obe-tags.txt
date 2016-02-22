@@ -1,0 +1,48 @@
+====== OBE: Tags======
+
+  * [[en:bible:admin-reports:check-tags-notes]]
+ 
+===== Purpose =====
+
+Lists all the OBE terms and tags sorted by Status tag. Good for reviewing all the OBE tags for proper format.
+
+~~NOCACHE~~
+
+===== Overview =====
+
+{{count>create draft1 draft2 review discuss publish&en:obe}}
+
+
+===== OBE Tags =====
+
+==== CREATE ====
+
+{{count>create&en:obe}}
+{{topic>en:obe?Create&nocomments&list&tags}}
+
+==== Draft 1-2 ====
+
+{{count>draft1&en:obe}}
+{{topic>en:obe?draft1&nocomments&list&tags}}
+
+{{count>draft2&en:obe}}
+{{topic>en:obe?draft2&nocomments&list&tags}}
+
+
+==== REVIEW ====
+
+{{count>review&en:obe}}
+{{topic>en:obe?review&nocomments&list&tags}}
+
+==== DISCUSS ====
+
+{{count>discuss&en:obe}}
+{{topic>en:obe?discuss&nocomments&list&tags}}
+
+==== PUBLISH ====
+
+{{count>publish&en:obe}}
+{{topic>en:obe?publish&nocomments&list&tags}}
+
+
+\\ 
