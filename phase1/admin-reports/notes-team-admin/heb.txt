@@ -1,0 +1,21 @@
+====== Notes: Hebrews Team Admin ======
+
+Team Lead (//draft to check//) - Workshop\\
+Manager (//check to review//) - John L\\
+Reviewer - (//review to publish//) -
+
+~~NOCACHE~~
+
+=== Links: ===
+
+  * [[:en:ulb:ep:58-heb.usfm|Full ULB text of Hebrews]]
+  * [[:en:udb:ep:58-heb.usfm|Full UDB text of Hebrews]]
+  * [[:en:bible:team-info:training:notes-training|Notes Training]]
+
+
+==== Hebrews Page Status ====
+
+^  Draft  ^  Check  ^  Review  ^
+|{{pagequery>@en:bible:notes:heb \{\{tag>[^}]*draft[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; showcount; layout=table;hidemsg;hidejump;bullet=square;fontsize=100%}} |{{pagequery>@en:bible:notes:heb \{\{tag>[^}]*check[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; showcount; layout=table;hidemsg;hidejump;bullet=square;fontsize=100%}} |{{pagequery>@en:bible:notes:heb \{\{tag>[^}]*review[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; showcount; layout=table;hidemsg;hidejump;bullet=square;fontsize=100%}} |
+
+\\
