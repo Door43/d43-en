@@ -1,7 +1,0 @@
-====== OBE: Link and Publish ======
-
-The **Link and Publish** page will search for OBE pages that have been promoted to Publish (tag changed to Publish) and still have the "ktlink" tab. It excludes pages that also have a "review" tag.\\
-
-These pages have potential links that need to be defined.
-
-{{topic>publish +ktlink -review&tags&sort&nocomments}}
