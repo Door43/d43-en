@@ -1,0 +1,20 @@
+====== Notes: Jeremiah Team Admin ======
+
+Team Lead (//draft to check//) - December WS\\
+Manager (//check to review//) - Catherine Newton\\
+Reviewer - (//review to publish//) -
+
+~~NOCACHE~~
+
+=== Links: ===
+
+  * [[:en:ulb:ep:24-jer.usfm|Full ULB text of Jeremiah]]
+  * [[:en:udb:ep:24-jer.usfm|Full UDB text of Jeremiah]]
+  * [[:en:bible:team-info:training:notes-training|Notes Training]]
+
+==== Jeremiah Page Status ====
+
+^Draft ^Check ^Review |
+|{{door43pages @en:bible:notes:jer -q="\{\{tag>[^}]*draft[^}]*\}\}" -r -showcount -title -simpleLineBreak -fontsize="80%"}} |{{door43pages @en:bible:notes:jer -q="\{\{tag>[^}]*check[^}]*\}\}" -r -showcount -title -simpleLineBreak -fontsize="80%"}} |{{door43pages @en:bible:notes:jer -q="\{\{tag>[^}]*review[^}]*\}\}" -r -showcount -title -simpleLineBreak -fontsize="80%"}} |
+
+\\
