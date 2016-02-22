@@ -2,7 +2,7 @@
   * [[:en:ulb:ep:01-gen.usfm|Full ULB text of Genesis]]
   * [[:en:udb:ep:01-gen.usfm|Full UDB text of Genesis]]
 
-<nspages en:bible:notes:gen:00 -title -naturalOrder -exclude:home -textPages="Genesis Introduction" -nbCol=2> 
+<nspages en:bible:notes:gen:00 -title -naturalOrder -exclude:home -textPages="Genesis 0" -nbCol=2> 
 
 <nspages en:bible:notes:gen:01 -title -naturalOrder -exclude:home -textPages="Genesis 1" -nbCol=2> 
 
