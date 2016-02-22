@@ -1,0 +1,116 @@
+====== Verse Link Code ======
+
+This page will guide you to creating links to verses in the Bible notes.
+
+See [[:en:bible:team-info:training:reviewers:talinks]] for code to create tA Topics links.
+
+==== Template: ====
+
+The generic code is as follows:
+
+<code>
+See how you translated this in [[:en:bible:notes:bok:ch:vv|c:v]].
+</code>
+
+In the above example, the symbols to the left of the vertical bar (|) represent the URL of the target chunk. It must be entered exactly, including leading zeros:
+  * bok = the three-letter code for the book
+  * ch = the two-digit chapter number (except in Psalms, where it must be three digits)
+  * vv = the two-digit verse number
+
+The symbols to the right of the vertical bar (|) represent what appears in the visible green text in the note. I does not need leading zeros:
+  * c = the chapter number
+  * v = the verse number
+
+**Note** The "vv" and "v" numbers will only match when the target verse is the first verse in the chunk (and therefore the URL of the chunk). If the verse is not the first verse of the chunk, the "vv" number __must be adjusted__ to the first verse of the chunk!
+
+==== Examples where the verse begins a chunk: ====
+
+===Isaiah 52:13=== 
+([[:en:bible:notes:isa:52:13|52:13]])
+
+<code>
+See how you translated this in [[:en:bible:notes:isa:52:13|52:13]].
+</code>
+
+===Isaiah 3:4=== 
+([[:en:bible:notes:isa:03:04|3:4]])
+
+<code>
+See how you translated this in [[:en:bible:notes:isa:03:04|3:4]].
+</code>
+
+===1 Samuel 4:14=== 
+([[:en:bible:notes:1sa:04:14|4:14]])
+
+<code>
+See how you translated this in [[:en:bible:notes:1sa:04:14|4:14]].
+</code>
+
+
+==== Examples where the verse does not begin a chunk: ====
+
+The "vv" number must be adjusted to the beginning verse of the chunk.
+
+===Isaiah 14:30=== 
+([[:en:bible:notes:isa:14:28|14:30]])
+
+<code>
+See how you translated this in [[:en:bible:notes:isa:14:28|14:30]].
+</code>
+
+===Isaiah 3:3=== 
+([[:en:bible:notes:isa:03:01|3:3]])
+
+<code>
+See how you translated this in [[:en:bible:notes:isa:03:01|3:3]].
+</code>
+
+===1 Samuel 6:4=== 
+([[:en:bible:notes:1sa:06:03|4:4]])
+
+<code>
+See how you translated this in [[:en:bible:notes:1sa:06:03|4:4]].
+</code>
+
+
+==== Examples in Psalms: ====
+
+The chapter and verse numbers to the left of the vertical bar (|) __must__ be 3-digits for every Psalm, whether the Psalm and verse are more than 100 or not.
+
+===Psalm 3:5=== 
+([[:en:bible:notes:psa:003:005|3:5]])
+
+<code>
+See how you translated this in [[:en:bible:notes:psa:003:005|3:5]].
+</code>
+
+===Psalm 3:6=== 
+([[:en:bible:notes:psa:003:005|3:6]])
+
+<code>
+See how you translated this in [[:en:bible:notes:psa:003:005|3:6]].
+</code>
+
+===Psalm 119:9=== 
+([[:en:bible:notes:psa:119:009|119:9]])
+
+<code>
+See how you translated this in [[:en:bible:notes:psa:119:009|119:9]].
+</code>
+
+===Psalm 119:13=== 
+([[:en:bible:notes:psa:119:013|119:13]])
+
+<code>
+See how you translated this in [[:en:bible:notes:psa:119:013|119:14]].
+</code>
+
+===Psalm 119:105=== 
+([[:en:bible:notes:psa:119:105|119:105]])
+
+<code>
+See how you translated this in [[:en:bible:notes:psa:119:105|119:105]].
+</code>
+
+
+~~DISCUSSION~~
