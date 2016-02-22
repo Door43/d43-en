@@ -2,59 +2,46 @@
 
 ~~NOCACHE~~
 
-
-For details, see: [[:en:bible:workshop:matthew-chunks]]
-
+For details, see: [[:en:bible:workshop:matthew-chunks|Matthew Chunk List]]
 
 ==== Group 1 ====
 
 {{count>draft review publish&en:bible:notes:mat:01 en:bible:notes:mat:08 en:bible:notes:mat:15 en:bible:notes:mat:22}}
 
-
 ==== Group 2 ====
 
 {{count>draft review publish&en:bible:notes:mat:02 en:bible:notes:mat:09 en:bible:notes:mat:16 en:bible:notes:mat:23}}
-
 
 ==== Group 3 ====
 
 {{count>draft review publish&en:bible:notes:mat:03 en:bible:notes:mat:10 en:bible:notes:mat:17 en:bible:notes:mat:24}}
 
-
 ==== Group 4 ====
 
 {{count>draft review publish&en:bible:notes:mat:04 en:bible:notes:mat:18 en:bible:notes:mat:27}}
-
 
 ==== Group 5 ====
 
 {{count>draft review publish&en:bible:notes:mat:05 en:bible:notes:mat:12 en:bible:notes:mat:19}}
 
-
 ==== Group 6 ====
 
 {{count>draft review publish&en:bible:notes:mat:06 en:bible:notes:mat:13 en:bible:notes:mat:20}}
-
 
 ==== Group 7 ====
 
 {{count>draft review publish&en:bible:notes:mat:07 en:bible:notes:mat:14 en:bible:notes:mat:21 en:bible:notes:mat:28}}
 
-
 ==== Group 8 ====
 
 {{count>draft review publish&en:bible:notes:mat:11 en:bible:notes:mat:25 en:bible:notes:mat:26}}
 
-
 ==== All Groups ====
 
 {{count>draft review publish&en:bible:notes:mat en:bible:notes:mat en:bible:notes:mat}}
-
 
 ==== Check on bad tags ====
 
 This query checks the first tag to be one of 4 valid tags required to make the system work correctly: {create|draft|review|discuss|publish}. Any verses listed here are likely being overlooked above. please include this query for every bible book admin page. (EQ)
 
 {{pagequery>ns:en:bible:notes:mat "{{" -"{{tag>" -"{{tag>draft" -"{{tag>review" -"{{tag>discuss" -"{{tag>publish"; fulltext; sort=title:asc; display={title}; natsort; layout=table; showcount; hidemsg; hidejump;}}
-
-\\
