@@ -1,0 +1,15 @@
+====== OBE: Pages Tagged "Create" ======
+
+  * [[:en:bible:team-info:training:topics:common-words]]
+  * [[:en:bible:admin-reports:obe-admin:obe-reject]]
+  * [[:en:bible:admin-reports:obe-admin:check-tags-obe]]
+
+
+~~NOCACHE~~
+
+
+==== Create Terms: ====
+
+~~NOCACHE~~
+
+{{door43pages @:en:obe -r -q="\{\{tag>[^}]*create[^}]*\}\}" -exclude:home -simpleLineBreak -title -fontsize="90%"}}
