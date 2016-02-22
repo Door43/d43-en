@@ -1,9 +1,8 @@
 ===== Genesis Links =====
   * [[:en:ulb:ep:01-gen.usfm|Full ULB text of Genesis]]
   * [[:en:udb:ep:01-gen.usfm|Full UDB text of Genesis]]
-  * [[en:bible:admin-reports:notes-team-admin:gen]]
-  * [[:en:bible:team-info:training:notes-training|Notes Training]]
-  * [[en:bible:admin-reports:assignment:gen]]
+
+<nspages en:bible:notes:gen:00 -title -naturalOrder -exclude:home -textPages="Genesis Introduction" -nbCol=2> 
 
 <nspages en:bible:notes:gen:01 -title -naturalOrder -exclude:home -textPages="Genesis 1" -nbCol=2> 
 
