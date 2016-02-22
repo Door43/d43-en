@@ -1,8 +1,9 @@
 ===== Matthew Links =====
-  * [[:en:ulb:ep:40-mat.usfm|Full ULB text of Matthew]]
-  * [[:en:udb:ep:40-mat.usfm|Full UDB text of Matthew]]
-  * [[en:bible:admin-reports:notes-team-admin:mat]]
-  * [[:en:bible:team-info:training:notes-training|Notes Training]]
+  * [[:en:ulb:ep:41-mat.usfm|Full ULB text of Matthew]]
+  * [[:en:udb:ep:41-mat.usfm|Full UDB text of Matthew]]
+
+
+<nspages en:bible:notes:mat:00 -title -naturalOrder -exclude:home -textPages="Matthew 0:" -nbCol=2> 
 
 <nspages en:bible:notes:mat:01 -title -naturalOrder -exclude:home -textPages="Matthew 1:" -nbCol=2> 
 
