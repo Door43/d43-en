@@ -1,0 +1,19 @@
+====== Notes: Genesis Team Admin ======
+
+Team Lead (//draft to check//) - \\
+Manager (//check to review//) - John H\\
+Reviewer - Susan Q\\
+
+~~NOCACHE~~
+==== Links: ====
+  * [[:en:ulb:ep:01-gen.usfm|Full ULB text of Genesis]]
+  * [[:en:udb:ep:01-gen.usfm|Full UDB text of Genesis]]
+  * [[:en:bible:team-info:training:notes-training|Notes Training]]
+
+
+==== Genesis Pages Status ====
+
+^  Draft  ^  Check  ^  Review  |
+|{{pagequery>@en:bible:notes:gen \{\{tag>[^}]*draft[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;showcount;fontsize=80%}} |{{pagequery>@en:bible:notes:gen \{\{tag>[^}]*check[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;showcount;fontsize=80%}} |{{pagequery>@en:bible:notes:gen \{\{tag>[^}]*review[^}]*\}\}; fulltextregex; sort=title:asc; display={title}; natsort; layout=table;hidemsg;hidejump;showcount;fontsize=80%}} |
+
+\\
