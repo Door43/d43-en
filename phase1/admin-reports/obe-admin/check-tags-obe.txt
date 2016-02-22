@@ -1,0 +1,8 @@
+====== OBE: Check Tags ======
+
+==== Check on Bad OBE Tags ====
+
+This query checks if the first tag is one of the valid tags required to make the system work correctly: 
+
+{{door43pages @:en:obe -r -q="\{\{tag>
+(?![^}]*create)(?![^}]*delete)(?![^}]*check)(?![^}]*review)(?![^}]*text)(?![^}]*discuss)(?![^}]*publish)" -exclude:home -simpleLineBreak -title -fontsize="90%"}}
