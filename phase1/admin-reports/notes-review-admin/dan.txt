@@ -1,0 +1,14 @@
+====== Notes: Daniel Review Admin Page ======
+
+~~NOCACHE~~
+
+  * [[en:bible:admin-reports:check-tags-notes]]
+  * [[en:bible:admin-reports:notes-team-admin:dan]]
+
+
+==== Daniel Pages Status ====
+
+^  Review  ^  Text  ^  Fixed  ^  Discuss  ^  Inspect  ^  Publish  ^
+|{{door43pages @en:bible:notes:dan -r -q="\{\{tag>[^}]*review[^}]*\}\}" -exclude:home -simpleLineBreak -title -fontsize="90%"}} |{{door43pages @en:bible:notes:dan -r -q="\{\{tag>[^}]*text[^}]*\}\}" -exclude:home -simpleLineBreak -title -fontsize="90%"}} |{{door43pages @en:bible:notes:dan -r -q="\{\{tag>[^}]*fixed[^}]*\}\}" -exclude:home -simpleLineBreak -title -fontsize="90%"}} |{{door43pages @en:bible:notes:dan -r -q="\{\{tag>[^}]*discuss[^}]*\}\}" -exclude:home -simpleLineBreak -title -fontsize="90%"}} |{{door43pages @en:bible:notes:dan -r -q="\{\{tag>[^}]*inspect[^}]*\}\}" -exclude:home -simpleLineBreak -title -fontsize="90%"}} |{{door43pages @en:bible:notes:dan -r -q="\{\{tag>[^}]*publish[^}]*\}\}" -exclude:home -simpleLineBreak -title -fontsize="90%"}} |
+
+\\
