@@ -2,8 +2,8 @@
 
   * [[:en:ulb:ep:04-num.usfm|Full ULB text of Numbers]]
   * [[:en:udb:ep:04-num.usfm|Full UDB text of Numbers]]
-  * [[:en:bible:admin-reports:notes-team-admin:num|Notes: Numbers Team Admin]]
-  * [[:en:bible:team-info:training:notes-training|Notes Training]]
+
+<nspages en:bible:notes:num:00 -title -naturalOrder -exclude:home -textPages="Numbers 0" -nbCol=2> 
 
 <nspages en:bible:notes:num:01 -title -naturalOrder -exclude:home -textPages="Numbers 1" -nbCol=2> 
 
