@@ -4,7 +4,7 @@ This module answers the question:  Why is there a mark between two numbers, such
 In order to understand this module, it would be good to read 
   * [[en:ta:workbench:translate:translateunknowns-numbers]]  
 
-The decimal point, or decimal comma, is a mark placed to the left of a number to show that the number refers to a part of a whole number. For example .1 meter is not a whole meter but is only one tenth of a meter. And .5 meter is not five meters, but is only five tenths of a meter. 3.7 meters is three and seven tenths of a meter. Numbers like these are used in the Unlocked Dynamic Bible (ULB).
+The decimal point, or decimal comma, is a mark placed to the left of a number to show that the number refers to a part of a whole number. For example .1 meter is not a whole meter but is only one tenth of a meter. And .5 meter is not five meters, but is only five tenths of a meter. 3.7 meters is three and seven tenths of a meter. Numbers like these are used in the Unlocked Dynamic Bible (UDB).
 ===== Description =====
 
 The decimal point, or decimal comma, is a mark placed to the left of a number to show that the number refers to a part of a whole number. For example .1 meter is not a whole meter but is only one tenth of a meter. And .5 meter is not five meters, but is only five tenths of a meter. 3.7 meters is three and seven tenths of a meter.
