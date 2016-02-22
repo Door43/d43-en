@@ -1,0 +1,135 @@
+====== OBE: Templates ======
+
+==== OBE Term Template ====
+
+The code for creating an OBE Key Term link is:
+
+<code>
+[[:en:obe:kt:term|term title]]
+</code>
+
+The code for creating an OBE Other Term link is:
+
+<code>
+[[:en:obe:other:term|term title]]
+</code>
+
+
+==== OBE/KT templates ====
+
+The draft code for a "term" OBE/KT page is:
+
+<code>
+====== term ======
+
+===== Definition: =====
+
+Text
+  * bullet
+  * bullet
+
+===== Translation Suggestions: =====
+
+  * bullet
+  * bullet
+
+(See also: other)
+
+===== Bible References: =====
+
+{{topic>:en:bible?URLterm&nocomments}}
+
+~~DISCUSSION~~
+
+~~NOCACHE~~
+
+{{tag>create BIBnn ktlink}}
+{{tag>draft ktlink}}
+</code>
+
+The draft code for a "Name" OBE/KT page is:
+
+<code>
+====== Name ======
+
+===== Facts: =====
+
+Text
+  * bullet
+  * bullet
+
+===== Translation Suggestions: =====
+
+  * bullet
+  * bullet
+
+(See: [[en:ta:vol1:translate:translate_names]])
+
+(See also: other)
+
+===== Bible References: =====
+
+{{topic>:en:bible?urlterm&nocomments}}
+
+~~DISCUSSION~~
+
+~~NOCACHE~~
+
+{{tag>create BIBnn ktlink}}
+{{tag>draft ktlink}}
+</code>
+
+
+==== OBE/other templates ====
+
+The draft code for a "term" OBE/other page is:
+
+<code>
+====== term ======
+
+===== Definition: =====
+
+Text
+  * bullet
+  * bullet
+
+(See also: other)
+
+===== Bible References: =====
+
+{{topic>:en:bible?URLterm&nocomments}}
+
+~~DISCUSSION~~
+
+~~NOCACHE~~
+
+{{tag>create BIBnn ktlink}}
+{{tag>draft ktlink}}
+</code>
+
+The draft code for a "Name" OBE/other page is:
+
+<code>
+====== Name ======
+
+===== Facts: =====
+
+Text
+  * bullet
+  * bullet
+
+(Translation suggestions: [[en:ta:vol1:translate:translate_names]])
+
+(See also: other)
+
+===== Bible References: =====
+
+{{topic>:en:bible?urlterm&nocomments}}
+
+~~DISCUSSION~~
+
+~~NOCACHE~~
+
+{{tag>create BIBnn ktlink}}
+{{tag>draft ktlink}}
+</code>
