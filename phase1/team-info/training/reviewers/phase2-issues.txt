@@ -1,0 +1,82 @@
+====== Phase 2 Issues ======
+
+This is a list of general issues that we want to deal with in Phase 2. This list might get long. Let's list the issues in alphabetical order and put our name or initials afterward in parentheses.
+
+  * **Alternate Versification**  - (Missing/added verses and different verse numbering) Will the Gateway translations match the text and verse numbering of the most commonly used Bibles in each Gateway language? Will we need the tA page [[:en:ta:vol1:translate:translate_textvariants|Text Variant tA]] and notes dealing with this? See [[:en:bible:team-info:training:quick-reference:standard-notes:text-variant|Text Variant Notes]] and the discussion in [[:en:bible:team-info:processes:when-notes|When to Create Translation Notes]]. (SQ)
+  * **Alternates on KT pages**  - Add translation notes indicating which is meant on a chunk. I think we did this some, but it's not consistent.
+  * **Authority/Responsibility**  - Sometimes a person in authority is responsible for doing something, even though he himself does not do it. In Ex 26:1 God uses 2s when he commands Moses to make the curtains, but it is really the craftsmen who are to do it. In other places a king is said to have done something, when it was really his army that did it. I think we should write notes for this kind of metonym. It's included on the workbench page for [[:en:ta:workbench:translate:biblicalimagery|Biblical imagery - tN]] (SQ)
+  * **Biblical Dating**  - We have KT page about Biblical dates. I don't know if it explains how years and months were counted. Maybe it could explain how "in the twelfth year of X" is the same as "11 years after X." (SQ)
+      * The UDB uses both modern month names and numbered months. I'm not sure if this is an inconsistency, or if the modern month names are used in place of Hebrew/Aramaic month names, while numbered months are only used when the original used numbered months.
+
+<del>* **Biblical Language**  - There are many expressions, both in Hebrew and Greek, that are helpful for the MTT to understand in a global way. Many of these expressions trade in themes that are present especially in Biblical Hebrew. They should be treated globally in Phase Two, I would propose. Here are some examples: * **Being in the presence of another person**  ("walk before me," "do evil in the sight of Yahweh") * **Separation in verbs of destruction**  ("be cut off from the earth," "be cut off from one's people," "be destroyed from the earth," "be destroyed from before someone," "be destroyed from remaining within the borders of a land," "be destroyed from his place" * **Seek the Lord**: what does this mean? Probably it means, "try to get God to have mercy," "try to get God to tell you something," "try to get God to guide you," "try to get to know God," etc.</del>  ON BIBLICAL IMAGERY TA PAGE.
+
+  * **Chiasmus**  - Should we have a tA page and notes for this? In Joel 2:30,31 it looks like MTTs will gather from the UDB that they can change the order of “heaven and earth” but they won't know why. (SQ)
+<del>* **Conceptual metaphors**  - In Bibilical Hebrew, it is common to think about some kinds of ideas in terms of other kinds of ideas, e.g., * Receiving or welcoming someone// in terms of//  raising his face * Conduct or behavior //in terms of//  a way, path, or road, //or in terms of//  walking or traveling * Living uprightly //in terms of //  walking; living wickedly //in terms of //  stumbling or falling * The land// in terms of //  the people's mother * Moral qualities //in term of//  liquids (e.g., Hosea 5:10 I will pour out my wrath like water)</del>  ON BIBLICAL IMAGERY TA PAGE.
+
+  * **Connecting Statements**  - Make sure that the wording is consistent in each book. (In the Ezekiel notes, there is variation between "the Spirit", "Yahweh" and "God.") (SQ)
+      * Change this note from bullet to connecting statement. "The records in Genesis 5:6-27 have the same format. Translate them according to the notes for verse 6-8. (See: How to Translate Names)"
+
+<del>* **Cultural models**  that appear repeatedly in the Scriptures - e.g. * A nation's land depicted as a woman and its main god as her husband; the land's fertility is attributed to the god, abandonment of the god is seen as adultery (see Hosea and many passages in the other prophets also) * The wind is used as the archetype of transcience and futility, and weighty objects are used as the archetypes of permanence and worth * Covenants and their typical elements (stipulations, ceremonial meals, sacrifices and splitting apart of animals, witnesses, writing down of covenants, annual renewal ceremonies, penalties for violation) * Territoriality of the gods and the wars of gods as a reflection of wars between nations * The use of boundaries and boundary markers as models for the limits put on human behavior * The use of the wilderness as a model for social and spiritual isolation * The Image of Limited Good in the Scriptures * models of pollution, remedies for pollution (e.g., Hos. 5:3) * models for honor, models for shame</del>  ON BIBLICAL IMAGERY TA PAGE.
+
+  * **Double Negatives vs Litotes**  - We have tA pages and links to both. How do we determine whether something is simply negating a negative and when it is emphasizing the positive?
+  * **Doublets**  - Do we really want to encourage translators to simply use one of them? How do we decide when that is acceptable or when too much information would be lost? (SQ) How do we determine when two words that have similar meanings are really a doublet?
+  * **Emphasizes**  - It seems like this word is being overused. Check to see if it's really needed in each note that has it. Sometimes "means" or "shows" would be better. Also I think we need to be careful to distinguish __emphasis__  and __implication__. (SQ)
+  * **Go and Come**  - Two issues: Languages use "go" and "come" differently, so people need to understand what was intended in order to translate the words ("come/go with us" and "I'm coming/going to you"). Also some languages must indicate elevation ("go up" versus "go down") while other languages normally do not. I think this might need a tA page. Read UBS-TH on Amos Intro, section 3 "Translating the geography of Amos" for help with this.
+  * **Hyperbole**  - Learn more about this and the translation issues it presents. When is it necessary to strip away the hyperbole? How else can the emphasis or emotive force be kept? Are there times when it would be totally inappropriate to strip away the hyperbole? (SQ)
+  * **Idioms involving prepositions**  - Sometimes I have added the object to notes, thinking that it would make it easier for some Gateway translators to translate the note. In some languages the appositions are bound to the object. Should we do this throughout, or is it not necessary? (SQ)
+      * **make your face shine on __your sanctuary__**
+ - AT: “act kindly toward __your sanctuary__” (UDB) or “act with favor toward __your sanctuary__” (See: Idiom)
+
+  * **Important Terms**  - Change "There are no important terms for these verses" to "There are no new important terms for these verses." Sometimes there are important terms in the ULB, but they are not listed on every chunk because they are used so much in that chapter or book. (SQ)
+  * **Metaphors**  - I don't think that "This compares X to Y" is usually right. (SQ)
+  * **Names**  - It looks like there are different ways two-part names are dealt with in the ULB and UDB: some divided, some not divided. Is there a pattern? See Harry's thread regarding Adoni Bezek on [[:en:bible:notes:jdg:01:04|Judges 01:4-5]].
+  * **Narrative Present in Notes**  - The example below shows why I do not want to use the narrative present in notes. (SQ)
+      * **When you have lifted up**  - “when you lift up.” This __has not__  happened yet. \\ (This had not happened at the time Jesus was saying it, but it did happen since then. So that no one would mistake us for saying that it has not happened yet in our time, we changed the comment to "This __had not__  happened yet," even though the rest of the comments use the narrative present.)
+  * **Negation in text**  - When we write notes, we may need to include the negation. See my 8-27-15 discussion note in [[:en:bible:notes:ezk:34:07|Ezekiel 34:7-8]]. (SQ)
+  * **Nonrestrictive clauses and phrases**  - many languages employ subordinate phrases and clauses only to restrict identification of the head concept. So the Hebrew love for nonrestrictive expressions creates a severe problem for these languages.
+  * **Numbers**  - We still need to figure this out. If we suggest that MTTs use numerals, it could look like an exact figure. If we suggest "many" or "a great number," they lose the distinction between "ten thousand" and "hundreds of thousands."
+      * **They killed ten thousand**  - "They killed 10,000" AT: "They killed are large number" (See: [[:en:ta:vol2:translate:translate_numbers|Translate Numbers]])
+  * **"Weak Passives" showing material**  - Determine translation strategy, how to write notes, and possibly suggest addition to TA page on Passives. See Tom's 10/13 discussion thread about "a belt around his waist made of pure gold" on [[:en:bible:notes:dan:10:04|Daniel 10:4-6]]. (SQ)
+  * **OT Quotes**  - Should we suggest footnotes that translators could write to tell where quotes came from (particularly when it says "as it is written [±by the prophet]")? (SQ)
+  * **Parallelism**  - Ensure that cases of synonymous parallelism in Hebrew poetry are marked in the notes and linked to the tA page on Synonymous Parallelism. Make sure that they are actually synonymous. Sometimes writers called them synonymous when they were similar but one actually built on the other. (SQ)
+  * **Parentheses at end of notes**  - When we have (UDB) and a link like (See: metaphor), should there be any punctuation between the two? Should "UDB" come after "See:"? (SQ)
+  * **Translating poetic passages**
+  * **Punctuation in TNs**  - Reconsider use of question marks in notes. It seems odd without them when the whole question is written out in bold and in the translation suggestion. (SQ)
+      * **In your greatness, who are you like**  - “Who is as great as you are.” Yahweh uses this question to …
+      * Reconsider use of punctuation in notes. Periods in quotes are ambiguous as to whether they are there for the AT or the note. Also it's messy when there are quotes in the selected text. Henry W has some good ideas.
+  * **Rhetorical Questions**  - Will we need to write notes for rhetorical questions that are used to draw someone's attention to something right there? Ex 4:2 Yahweh said to him, "What is that in your hand?" Moses said, "A staff." Yahweh said, "Throw it on the ground." (SQ)
+  * **See how you translated this**  - Determine when to use these notes and when not to. See discussion on [[:en:bible:notes:ezk:37:26|Ezekiel 37:26-28]]. (SQ)
+<del>* **Semantic domains that overlap**  - e.g., BLOOMING/BUDDING/GROWTH and JOY, LIGHTand BLOOMING, OPENNESS and BLOOMING, OPENNESS and JOY, LIGHT and KNOWLEDGE. Overlapping semantic domains often motivate doublets in the OT.</del>  We probably won't deal with this.
+
+  * **Standard Notes**  - We may want to fix the standard notes for "now." Bram came up with a good one in Dan 9:17.
+  * **Symbolic acts**  - Do we want a standard note format for these? Sometimes only the symbolic act is mentioned. They're not just idioms, but I don't think they're simply metonymy either. (SQ)
+      * **will shake his fist at them**  - "will threaten them"??
+  * **Symbols **- e.g.,
+      * symbols of destruction and abandonment: jackals, owls, ostriches, thornbushes, etc.
+      * symbols of prosperity: milk and honey, flocks and herds in pastures, every person under his own fig tree and with his own grapevines
+  * **Symbolic language in apocalyptic literature**  - Put links to the tA page at beginning of each chapter that has a lot of symbolic language or on each chunk if the symbolic language is limited to a chunk or a few chunks.
+  * **tA Links**  - We have not been putting the same tA links on multiple notes in a chunk, but when the issue comes up a second time in a chunk, how do we indicate that a second or third note phrase has that issue? See: [[:en:bible:notes:isa:10:26|Isaiah 10:26-27]] where there are three notes that involve metonymy. (SQ)
+<del>* **Tense in prophecy**  - What do we do when English versions translate it with the past tense, but it refers to things in the future? (SQ)</del>  On BIBLICAL IMAGERY PAGE
+
+  * **Update Notes**  - Notes may need to be updated to fit new ULB (and UDB if notes quote the UDB). I just fixed Gen 50:18 where "fell down before him" had been changed to "lay facedown before him."
+  * **Yahweh**  - The ULB uses "Yahweh." Some believers find that startling, perhaps even offensive. Would we want to avoid using God's name in the connecting statements? (SQ)
+----
+
+**Additions**
+  * **Alternate Versification** - Add note and link to the tA page "Chapter and Verse Numbers" on the intro page to each book or chapter where this happens. (Also deal with Zechariah 4.)
+  * **For the chief musician**  - Add the standard note to the 55 psalms that have this phrase preceding them. It's on [[:en:bible:team-info:training:standard-book-notes:psa|Standard Notes for Psalms]].
+  * **Connecting Statements** - Some books, such as Job, had multiple reviewers, so connecting statements were set aside for Phase Two.
+  * **Fraction: 1/4** ULB uses both "fourth" and "quarter" for fractions. Do you want them the same? (It also uses the ordinal "fourth".) I did not check the UDB. 
+  * **Generic Ideas** - We need to regularize in Proverbs, both versions, how generic ideas are signaled. Hebrew says, "the righteous man," but English prefers "a righteous man." As of now, usage is very mixed.
+  * **Footnotes in ULB** - Find the chunks that have footnotes in the ULB and add a standard note along with a link to [[en:ta:vol1:translate:translate_textvariants]]. (We'll have to figure out what that standard note will be.) (A search on "ancient texts" or "ancient authorities" will bring up footnotes, but I don't know if it brings up all of them.) (SQ)
+  * **Formatting Signals** - Do we want notes to text that has long-dashes or parentheses or indentations with a link to the tA page for "Formatting Signals"?
+  * **Fractions** - Change links to "Translate Numbers" to "Fractions." Add more links to "Fractions". (I'd do it now, but we don't have the Fractions page yet.)
+  *   * **Ordinal Numbers** - Change links to "Translate Numbers" to "Ordinal Numbers." Add more links to "Ordinal Numbers". 
+  * **Relative Clauses** - When a note tells about a relative clause being used to give more information (or "describe") rather than distinguish, change the link from "Sentences" to "Phrases that Inform or Remind" (or whatever name that page will be given). (Find them by doing a search on "relative clause") (SQ)
+
+
+--------
+**Additions after Phase Two Proposed Prospectus**
+  * **Discourse Info** - Delete or fix links to Discourse Info.
+  * **No Notes/KTs** - Find out from app developers if we need these notes.
+~~DISCUSSION~~
