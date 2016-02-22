@@ -4,8 +4,7 @@ This module answers the question:  Why is there a mark between two numbers, such
 In order to understand this module, it would be good to read 
   * [[en:ta:workbench:translate:translateunknowns-numbers]]  
 
-The Bible contains many references to numbers of measures of volume and distance and other things. In the **ULB** these numbers are presented in the original Hebrew, Aramaic, and Greek systems of measurement as used in the Bible. In the **UDB** numbers are converted to the metric system of measures because that is the system most widely used in the world today. So, converting numbers to the metric system often results in parts of numbers that must be presented as decimals or fractions of whole numbers. This page explains the decimal numbering system used in the **UDB**. 
-
+The decimal point, or decimal comma, is a mark placed to the left of a number to show that the number refers to a part of a whole number. For example .1 meter is not a whole meter but is only one tenth of a meter. And .5 meter is not five meters, but is only five tenths of a meter. 3.7 meters is three and seven tenths of a meter. Numbers like these are used in the Unlocked Dynamic Bible (ULB).
 ===== Description =====
 
 The decimal point, or decimal comma, is a mark placed to the left of a number to show that the number refers to a part of a whole number. For example .1 meter is not a whole meter but is only one tenth of a meter. And .5 meter is not five meters, but is only five tenths of a meter. 3.7 meters is three and seven tenths of a meter.
