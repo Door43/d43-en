@@ -1,0 +1,20 @@
+====== Notes: Job Team Admin ======
+
+Team Lead (//draft to check//) - Mike Francis\\
+Manager (//check to review//) - John L\\
+Reviewer - (//review to publish//) - Ed Q & Henry dV
+
+~~NOCACHE~~
+
+=== Links: ===
+
+  * [[:en:ulb:ep:18-job.usfm|Full ULB text of Job]]
+  * [[:en:udb:ep:18-job.usfm|Full UDB text of Job]]
+  * [[:en:bible:team-info:training:notes-training|Notes Training]]
+
+
+==== Job Page Status ====
+
+^ Draft  ^ Check ^ Review ^
+|{{door43pages @en:bible:notes:job -q="\{\{tag>[^}]*draft[^}]*\}\}" -r -showcount -title -simpleLineBreak -fontsize="100%"}} |{{door43pages @en:bible:notes:job -q="\{\{tag>[^}]*check[^}]*\}\}" -r -showcount -title -simpleLineBreak -fontsize="100%"}} |{{door43pages @en:bible:notes:job -q="\{\{tag>[^}]*review[^}]*\}\}" -r -showcount -title -simpleLineBreak -fontsize="100%"}} |
+\\
