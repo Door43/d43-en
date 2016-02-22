@@ -1,0 +1,45 @@
+===== OBE: Delete Term =====
+
+~~NOCACHE~~
+
+==== Purpose ====
+
+To search for all the links tied to the term to be deleted. The Namespace by standard naming conventions is the tag name.
+
+==== Pages to Delete ====
+
+^  Pages Tagged "Delete"  |
+|{{topic>en:obe?delete&nocomments}} |
+
+==== Usage ====
+
+  - Go to the DW (text) editor.
+  - Replace "XXX" text with the OBE term URL name.
+  - Hit the "Preview" Button.
+  - Scroll down to find all the related links.
+  - Edit the pages and delete the term links by right clicking on the links and opening the pages in a new tab or new window.
+  - Hit the "Cancel" button. That will reset the edited values back to "XXX".
+
+==== Find all pages where the OBE term is listed as a tag ====
+
+{{door43pages @:en:bible -r -q="\{\{tag>[^}]*XXX[^}]*\}\}" -exclude:home -simpleLineBreak -title -fontsize="90%"}}
+
+==== Find all pages that have links to this term ====
+
+  * search OBE links in the Important Terms section of Notes Pages.
+  * search cross reference links of the term on other OBE pages.
+
+OBE KT's:
+
+{{door43pages -r -q=""en:obe:kt:XXX"" -exclude:home -simpleLineBreak -title -fontsize="90%"}}
+
+OBE Other:
+
+{{door43pages -r -q=""en:obe:other:XXX"" -exclude:home -simpleLineBreak -title -fontsize="90%"}}
+
+==== Find the key term page ====
+
+  * OBE KT: [[:en:obe:kt:xxx|XXX]]
+  * OBE Other: [[:en:obe:other:xxx|XXX]]
+
+\\
