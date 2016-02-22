@@ -1,11 +1,13 @@
 ====== Resources of the WA Training Department ======
 
-**Code for doing searches on tA pages:** \\\\
-{{door43pages @:en:ta -r -q="en:bible:notes" -exclude:home -simpleLineBreak -title -fontsize="90%"}}
+Link for Media Manager - [[media_manager]]
 
-[[:en:bible:team-info:training:quick-reference:template|General Template]]
+**Code for doing searches on tA pages:** \\
 
-Use this [[:en:ta:resources:ta-page-definition|template]] when creating new tA pages.
+{{door43pages @:en:ta -r -q="TTTT" -exclude:home -simpleLineBreak -title -fontsize="90%"}}
+
+
+Use this [[:en:ta:resources:ta-page-definition|template]] when creating new JITL tA pages.
 
 === Samples ===
 
