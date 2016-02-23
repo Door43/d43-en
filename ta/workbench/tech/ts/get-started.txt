@@ -1,16 +1,24 @@
 ===== Use translationStudio for the First Time =====
 
+//**This page answers the question:**// //How do I use translationStudio for the first time?//
+
+//In order to understand this topic, it would be good to read://
+  * //[[en:ta:vol1:tech:ts_install|Install translationStudio on an Android Device]]//
+
+==== First Use of tS ====
+
 Complete these steps to use translationStudio for the first time:
 
-  - To turn on the tablet, press the button on the side.
-  - Tap on the translationStudio icon.
-  - You will need to read each of the statements and agree to the Terms of Use.
-      - Tap on each statement.
-      - Scroll through the text to read the entire statement.
-      - Tap on "OK" for each statement.
-      - Tap on the "I Agree" button.
+   * To turn on the tablet, press the button on the side.
+   * Tap on the translationStudio icon.
+   * You will need to read each of the statements and agree to the Terms of Use.
+      * Tap on each statement.
+      * Scroll through the text to read the entire statement.
+      * Tap on "OK" for each statement.
+      * Tap on the "I Agree" button.
 
 There may be an automatic update before the translationStudio app opens.
+
 
 ----
 
@@ -19,4 +27,4 @@ Go back to the __[[en:ta:workbench:tech:ts|translationStudio]]__ page.
 ----
 https://pad.door43.org/p/ta-tS_first
 
-{{tag>epady}}
+{{tag>chris epadn}}
