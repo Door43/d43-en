@@ -1,0 +1,53 @@
+====== Text Team Member Responsibilities ======
+
+
+==== Team Purpose ====
+
+The purpose of the Text team is to create two source texts for Bible translation:
+
+  - **ULB (Unlocked Literal Bible)** - This is an update to the 1901 ASV, removing archaic language and terms, and making it more understandable for people with limited English skills, and yet retaining the accuracy and the symmetry with the original languages.
+  - **UDB (Unlocked Dynamic Bible)** - This is an adaptation of TFT (Translation for Translators) to restore many of the idioms and theological terms, and yet keep the easy-reading nature and the shortened sentences as much as possible. 
+
+The team will strive to keep the balance of accuracy and readability of the two versions, so that translators will have both a dynamic and a literal source text. 
+
+The team should also continually remember that the texts are to be used as //intermediate source texts//, and not as //finished English versions//. Both texts will be translated into several dozen "gateway" languages, so they must be very clear and easy to understand.
+
+Furthermore, both texts will be released as open-source, unrestricted texts. No copyrighted materials should be included in the texts. It is also understood that the editors agree to have the product of their work freely distributed as open-source.
+
+
+==== Team Member Responsibilities ====
+
+The member of the Text team will seek to adapt the UDB and the ULB so that both are accurate and clear, but that both retain their distinctive natures.
+
+With respect to the UDB, the editor will insure that:
+
+    * the UDB maintains its dynamic quality, easy-reading nature, and shortened sentence length
+    * extraneous commentary and errors from the TFT are removed
+    * theological terms that were removed in the TFT will be reinserted if they can reasonably be understood or explained in the notes
+    * idioms and other figures of speech will be restored if they can easily be understood or explained in the notes
+
+With respect to the ULB, the editor will insure that:
+
+    * the text retains as much of the grammar and style of the original language as is reasonable in light of the necessity to have it easy to understand for non-native English speakers
+    * archaic and unnatural words, terms and constructions are replace with modern equivalents
+    * any errors or problems with the ASV will be corrected and updated 
+
+Each member of a Notes team will faithfully interact with other team members. The following attitudes are important:
+
+    * Be considerate and civil.
+    * Be humble.
+    * Be thorough.
+    * Be willing to compromise.
+
+Each member will agree to follow the instructions of and schedule set by the Language Services Director.
+
+(See {{en:bible:team-info:job-descriptions:bible_translation_axes.pdf}})
+
+[[en:bible:team-info:job-descriptions:text-team-leader|Text Team Leader]]
+
+
+~~DISCUSSION~~
+
+
+{{tag>ulb101 udb101}}
+~~NOCACHE~~
