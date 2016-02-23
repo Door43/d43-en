@@ -1,8 +1,8 @@
 ===== Adapt the ULB =====
 
-**This page answers the question:** //What are the guidelines for adapting an existing translation as the ULB?//
+//**This page answers the question:**// //What are the guidelines for adapting an existing translation as the ULB?//
 
-In order to understand this topic, it would be good to read:
+//In order to understand this topic, it would be good to read://
   * //[[en:ta:vol2:gateway:gl_ulb|Translating the ULB]]//
   * //[[en:ta:vol2:gateway:gl_udb|Translating the UDB]]//
   * //[[en:ta:vol2:gateway:gl_translate|Translating in the Gateways]]//
@@ -27,14 +27,17 @@ Because adapting an existing translation is a process of editing rather than of 
     - If the sentences are also put together in that same strange way in the English ULB, it is because the original Bible has that structure. Leave them as they are. There will be a Note that will explain that structure.
     - If the sentences are not put together in that same strange way in the English ULB, then change the sentence so that it is clearer for modern readers.
   - If you see that any verse or phrase in the Bible that you are adapting is very different than the English ULB, then change it so that it is more like the English ULB. 
+  - If you see that any verse is missing in the Bible that you are adapting but it is there in the English ULB, then translate that verse from the English ULB.
 
 After you do these things so that the text is ready to use as the Gateway Language ULB, you will need to translate the translationNotes. As you translate the translationNotes, you may see that there are parts of your adapted ULB that should be different so that the translationNote can make sense. Also, you may see that some translationNotes need to be changed so that they can refer to the right parts of the adapted ULB. In this way, you will need to make changes to both the Gateway Language ULB and the Notes as you adapt them to each other so that they make sense and are truly helpful for the OL translator. For more information about this process, see [[en:ta:vol2:gateway:gl_Notes]].
 
+==== Back Translation ====
+
+Because the ULB is part of a set of translation resources that will be used by many OL translators, we need to ensure that it conforms to these guidelines as closely as possible. To do this, we need to add an extra layer of checking to the process. This extra layer is a written back translation. This means that you need to have someone on the GL translation team who can translate the adapted GL ULB into English in a literal way, following the structure and vocabulary of the GL ULB. Then experienced translators and exegetes can read the back translation and see where there might be places that need fixing. If you are using the checking steps of MAST methodology, the back translation could be done after the key term check or after the verse-by-verse check. If the back translation is made after the key term check, then it will need to be revised to conform to any changes that are made in the verse-by-verse check. A reason to make the back translation after the key term check, however, is that it could be very helpful to a facilitator who speaks English, and could greatly speed up the verse-by-verse check since the facilitator can read the back translation before meeting with the team and already know which places they need to discuss when they meet together. This would also make it possible to eliminate some of the oral back translation that would otherwise be necessary for the verse-by-verse check. For information about how to do a back translation, see [[en:ta:vol2:translate:vol2_backtranslation]] and following modules.
 
 
 
-
-Next we recommend you learn about:
+//Next we recommend you learn about://
   * //[[en:ta:vol2:gateway:gl_notes|Translate the translationNotes]]//
   * //[[en:ta:vol1:intro:open_license|Open License]]//
 

@@ -607,7 +607,7 @@ edge [arrowsize=1.4];
 "figs_euphemism" [fillcolor="#9999ff"]
 "figs_intro" -> "figs_euphemism"
 "figs_events" [fillcolor="#9999ff"]
-"figs_intro" -> "figs_events"
+"writing_intro" -> "figs_events"
 "figs_exclusive" [fillcolor="#9999ff"]
 "figs_grammar" -> "figs_exclusive"
 "figs_explicit" [fillcolor="#9999ff"]
@@ -712,9 +712,6 @@ edge [arrowsize=1.4];
 "guidelines_equal" [fillcolor="#9999ff"]
 "guidelines_intro" -> "guidelines_equal"
 "translation_guidelines" -> "guidelines_equal"
-"guidelines_expressive" [fillcolor="#9999ff"]
-"guidelines_intro" -> "guidelines_expressive"
-"translation_guidelines" -> "guidelines_expressive"
 "guidelines_faithful" [fillcolor="#9999ff"]
 "guidelines_intro" -> "guidelines_faithful"
 "translation_guidelines" -> "guidelines_faithful"

@@ -1,8 +1,8 @@
 ===== Self-Assessment Rubric =====
 
-**This page answers the question:** //How can I objectively assess the quality of the translation?//
+//**This page answers the question:**// //How can I objectively assess the quality of the translation?//
 
-In order to understand this topic, it would be good to read:
+//In order to understand this topic, it would be good to read://
   * //[[en:ta:vol1:checking:complete|Complete Translation]]//
   * //[[en:ta:vol1:checking:church_leader_check|Church Leader Check]]//
   * //[[en:ta:vol1:checking:level3|Checking Level Three - Affirmation by Church Leadership]]//
@@ -69,7 +69,7 @@ This section can be strengthened through doing more accuracy checking. See [[:en
 **0 1 2** A complete list of all important words in the source text for this chapter has been used to help ensure all terms are present in the translation.\\
 **0 1 2** All important words are translated correctly in this chapter.\\
 **0 1 2** All important words are translated consistently in this chapter, as well as in other places where the important words appear.\\
-**0 1 2** Exegetical resources have been used for the entire chapter to identify and resolve potential translation challenges, including the Notes and Translation Words.\\
+**0 1 2** Exegetical resources have been used for the entire chapter to identify and resolve potential translation challenges, including the Notes and translationWords.\\
 **0 1 2** Historical details in the source text (like names, places, and events) have been preserved in the translation.\\
 **0 1 2** The meaning of each figure of speech in the translated chapter has been compared and aligned to the intent of the original.\\
 **0 1 2** The translation has been tested with native speakers who were not involved in creating the translation and they agree that the translation accurately communicates the intended meaning of the source text.\\
@@ -87,7 +87,7 @@ This section can be strengthened through doing more accuracy checking. See [[:en
 
 
 
-Next we recommend you learn about:
+//Next we recommend you learn about://
   * //[[en:ta:vol1:checking:good|Level 2 Affirmation]]//
   * //[[en:ta:vol1:checking:accuracy_check|Accuracy Check]]//
   * //[[en:ta:vol1:checking:language_community_check|Language Community Check]]//

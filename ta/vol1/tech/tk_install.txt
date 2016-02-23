@@ -1,8 +1,8 @@
 ===== Install translationKeyboard on an Android Device =====
 
-**This page answers the question:** //How do I install translationKeyboard on an Android device?//
+//**This page answers the question:**// //How do I install translationKeyboard on an Android device?//
 
-In order to understand this topic, it would be good to read:
+//In order to understand this topic, it would be good to read://
   * //[[en:ta:vol1:tech:tk_intro|translationKeyboard]]//
 
 ==== How can I install tK ====
@@ -24,7 +24,7 @@ Watch the {{:en:ta:tech:installing_translationkeyboard-android_v2.mp4|Installing
 
 
 
-Next we recommend you learn about:
+//Next we recommend you learn about://
   * //[[en:ta:vol1:tech:tk_start|Setting Up the translationKeyboard APP on an Android device]]//
   * //[[en:ta:vol1:tech:tk_use|How to Use the translationKeyboard in translationStudio]]//
   * //[[en:ta:vol1:tech:tk_enable|Enable translationKeyboard on an Android Device]]//

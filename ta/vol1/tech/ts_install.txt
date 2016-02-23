@@ -1,8 +1,8 @@
 ===== Install translationStudio on an Android Device =====
 
-**This page answers the question:** //How do I install translationStudio on an Android device?//
+//**This page answers the question:**// //How do I install translationStudio on an Android device?//
 
-In order to understand this topic, it would be good to read:
+//In order to understand this topic, it would be good to read://
   * //[[en:ta:vol1:tech:ts_intro|translationStudio]]//
 
 ==== Installing tS ====
@@ -20,7 +20,7 @@ In order to understand this topic, it would be good to read:
 
 
 
-Next we recommend you learn about:
+//Next we recommend you learn about://
   * //[[en:ta:vol1:tech:ts_intro|translationStudio]]//
   * //[[en:ta:vol1:tech:ts_first|Use translationStudio for the First Time]]//
   * //[[en:ta:vol1:tech:ts_select|Select Source and Target Languages]]//

@@ -1,8 +1,8 @@
 ===== Backup and Share Your Work =====
 
-**This page answers the question:** //How do I backup and share my work?//
+//**This page answers the question:**// //How do I backup and share my work?//
 
-In order to understand this topic, it would be good to read:
+//In order to understand this topic, it would be good to read://
   * //[[en:ta:vol1:tech:ts_create|Create and Edit Text]]//
 
 ==== Backup & Share ====
@@ -29,7 +29,7 @@ To share, move, or store your work, complete these steps:
 
 
 
-Next we recommend you learn about:
+//Next we recommend you learn about://
   * //[[en:ta:vol1:tech:ts_intro|translationStudio]]//
   * //[[en:ta:vol1:tech:ts_install|Install translationStudio on an Android Device]]//
   * //[[en:ta:vol1:tech:ts_first|Use translationStudio for the First Time]]//

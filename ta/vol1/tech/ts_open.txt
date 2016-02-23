@@ -1,8 +1,8 @@
 ===== Opening a Translation Project =====
 
-**This page answers the question:** //How do I open a translation project in translationStudio?//
+//**This page answers the question:**// //How do I open a translation project in translationStudio?//
 
-In order to understand this topic, it would be good to read:
+//In order to understand this topic, it would be good to read://
   * //[[en:ta:vol1:tech:ts_install|Install translationStudio on an Android Device]]//
 
 ==== First Time Use ====
@@ -26,7 +26,7 @@ From the edit screen:
 
 
 
-Next we recommend you learn about:
+//Next we recommend you learn about://
   * //[[en:ta:vol1:tech:ts_intro|translationStudio]]//
   * //[[en:ta:vol1:tech:ts_install|Install translationStudio on an Android Device]]//
   * //[[en:ta:vol1:tech:ts_first|Use translationStudio for the First Time]]//

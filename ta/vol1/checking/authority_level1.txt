@@ -1,8 +1,8 @@
 ===== Authority Level 1 =====
 
-**This page answers the question:** //What is authority level 1?//
+//**This page answers the question:**// //What is authority level 1?//
 
-In order to understand this topic, it would be good to read: //[[en:ta:vol1:checking:authority_process|Checking Authority and Process]]//
+//In order to understand this topic, it would be good to read:// //[[en:ta:vol1:checking:authority_process|Checking Authority and Process]]//
 
 ==== Authority Level 1: Affirmation by Translation Team ====
 
@@ -10,12 +10,12 @@ The intent of this level is to affirm the agreement of the translation team with
 
 To achieve this level, the translation team asserts that the [[en:ta:vol1:intro:statement_of_faith|Statement of Faith]] is an accurate reflection of their own beliefs and that the translated content is also in harmony with it.
 
-The translator (or team) asserts that the translation has been done in accordance with the [[en:ta:vol1:intro:translation_guidelines|Translation Guidelines]] and that they have made use of available exegetical and translation checking resources in the translation process, including the Translation Notes and Translation Words.
+The translator (or team) asserts that the translation has been done in accordance with the [[en:ta:vol1:intro:translation_guidelines|Translation Guidelines]] and that they have made use of available exegetical and translation checking resources in the translation process, including the translationNotes and translationWords.
 
 
 
 
-Next we recommend you learn about:
+//Next we recommend you learn about://
   * //[[en:ta:vol1:checking:authority_level2|Authority Level 2]]//
   * //[[en:ta:vol1:checking:level1|Checking Level One - Affirmation by Translation Team]]//
 

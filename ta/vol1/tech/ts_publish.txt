@@ -1,8 +1,8 @@
 ===== Publish Content to unfoldingWord =====
 
-**This page answers the question:** //How do I publish content to unfoldingWord?//
+//**This page answers the question:**// //How do I publish content to unfoldingWord?//
 
-In order to understand this topic, it would be good to read:
+//In order to understand this topic, it would be good to read://
   * //[[en:ta:vol1:tech:ts_share|Backup and Share Your Work]]//
 
 ==== Publishing ====
@@ -67,7 +67,7 @@ Due to copyright laws (and these exist no matter what country you are in and no 
 
 
 
-Next we recommend you learn about:
+//Next we recommend you learn about://
   * //[[en:ta:vol1:process:publishing_process|How to Publish]]//
   * //[[en:ta:vol1:tech:ts_intro|translationStudio]]//
   * //[[en:ta:vol1:tech:ts_install|Install translationStudio on an Android Device]]//

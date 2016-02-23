@@ -1,6 +1,6 @@
 ===== Finding Help for translationStudio =====
 
-**This page answers the question:** //How do I find help for translationStudio?//
+//**This page answers the question:**// //How do I find help for translationStudio?//
 
 ==== Help ====
 
@@ -10,7 +10,7 @@ You can also email [[help@door43.org]].
 
 
 
-Next we recommend you learn about:
+//Next we recommend you learn about://
   * //[[en:ta:vol1:tech:ts_intro|translationStudio]]//
   * //[[en:ta:vol1:tech:ts_install|Install translationStudio on an Android Device]]//
   * //[[en:ta:vol1:tech:ts_first|Use translationStudio for the First Time]]//

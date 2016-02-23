@@ -1,8 +1,8 @@
 ===== Language Community Evaluation Questions =====
 
-**This page answers the question:** //How can I show that the community approves the translation?//
+//**This page answers the question:**// //How can I show that the community approves the translation?//
 
-In order to understand this topic, it would be good to read:
+//In order to understand this topic, it would be good to read://
   * //[[en:ta:vol1:checking:language_community_check|Language Community Check]]//
   * //[[en:ta:vol1:checking:other_methods|Other Methods]]//
   * //[[en:ta:vol1:translate:writing_decisions|Decisions for Writing Your Language]]//
@@ -10,7 +10,7 @@ In order to understand this topic, it would be good to read:
 We, the members of the translation team, affirm that we have checked the translation with members of the language community. 
 
   * We have checked the translation with old people and young people, and with men and women.
-  * We used the comprehension questions when we checked the translation with the community.
+  * We used the translationQuestions when we checked the translation with the community.
   * We corrected the translation to make it clearer and easier to understand in the places where the community members did not understand it well.
 
 Please also answer the following questions. The answers to these questions will help those in the wider Christian community know that the target language community finds the translation to be clear, accurate, and natural. 
@@ -33,7 +33,7 @@ The community leaders might want to add their own information to this or make a 
 
 
 
-Next we recommend you learn about:
+//Next we recommend you learn about://
   * //[[en:ta:vol1:checking:church_leader_check|Church Leader Check]]//
   * //[[en:ta:vol1:checking:self_assessment|Self-Assessment Rubric]]//
 

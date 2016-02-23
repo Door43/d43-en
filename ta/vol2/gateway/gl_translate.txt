@@ -1,8 +1,8 @@
 ===== Translating in the Gateways =====
 
-**This page answers the question:** //What must be translated in the Gateway Languages?//
+//**This page answers the question:**// //What must be translated in the Gateway Languages?//
 
-In order to understand this topic, it would be good to read:
+//In order to understand this topic, it would be good to read://
   * //[[en:ta:vol1:intro:gl_strategy|Gateway Languages Strategy]]//
   * //[[en:ta:vol1:intro:open_license|Open License]]//
 
@@ -37,7 +37,7 @@ To make an end-user Bible, it is always best to translate from more than one ver
 
 
 
-Next we recommend you learn about:
+//Next we recommend you learn about://
   * //[[en:ta:vol2:gateway:gl_ulb|Translating the ULB]]//
   * //[[en:ta:vol2:gateway:gl_udb|Translating the UDB]]//
   * //[[en:ta:vol1:translate:translation_difficulty|Choosing What to Translate]]//

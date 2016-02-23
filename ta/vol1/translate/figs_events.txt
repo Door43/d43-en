@@ -1,69 +1,64 @@
 ===== Order of Events =====
 
-**This page answers the question:** //Is it important to have the order of events correct?//
+//**This page answers the question:**// //Why are the events not listed in the order they happened, and how do I translate them?//
 
-In order to understand this topic, it would be good to read:
-  * //[[en:ta:vol1:translate:figs_intro|Figures of Speech]]//
+//In order to understand this topic, it would be good to read://
+  * //[[en:ta:vol2:translate:writing_intro|Writing Styles]]//
 
-==== Explanation ====
+In the Bible, events are not always told in the order in which they occurred. Sometimes the author wanted to discuss something that happened at an earlier time than the event that he just wrote about. This can be confusing to the reader.
 
-In the Bible, events are not always told in the order in which they occurred. Sometimes the author wanted to discuss something that happened at an earlier time than the event that he just talked about. Many languages do this by using different tenses or time words such as ‘earlier,’ ‘last year,’ or ‘before that.’ Other languages prefer to state the events in the order that they occurred to avoid confusion. For events that are told in the order in which they occurred, it is also necessary in many languages to mark the order of events with connecting words such as "after these things," "having done this," or "then." It is important to help your readers understand the correct order of events in a natural way when translating into your language. 
+==== Description ====
 
-==== Translation Suggestions ====
+In the Bible, events are not always told in the order in which they occurred. Sometimes the author wanted to discuss something that happened at an earlier time than the event that he just talked about. This can be confusing to the reader.
 
-In order to make the order of events clear in the target language, it may be necessary at times to put some verses or parts of verses in a different order. When you put verses in a different order, you may need to combine the verse numbers so that the numbers can stay in the right order, such as labelling a chunk of two reordered verses as 5-6. You should only put verses in a different order when necessary to avoid confusion or wrong meaning. The translation should always be clear, accurate, and natural.  
+**Reason this is a translation issue:** Readers might think that the events happened in the order that they are told. It is important to help them understand the correct order of events.
 
-Pay close attention to time words such as, "yesterday," "last year," "before," "then," or "next year."  Make sure that you include all of the time words necessary for your audience to understand the order of events. It is also important that your audience understand clearly the order of arguments, such as reasons or causes. Some languages put the reasons or causes for things before the event or the main point of an argument, and other languages put reasons and causes after the main point or event. Use whichever order is natural for your language. It may also be helpful to use words such as,  "therefore" or "because." 
+===== Examples from the Bible =====
 
-==== Examples from the Bible ====
+>//But then Herod ... had John locked up in prison. Now it came about, while all the people were being baptized by John, that Jesus also was baptized.// (Luke 3:20-21)
+This can sound like John baptized Jesus in prison.
 
-Following the Greek wording, the English Standard Version of Luke 10:34 says, 
+>//Just as Joshua had said to the people, the seven priests carried the seven trumpets of rams horns before Yahweh, as they advanced, they gave a blast on the trumpets… But Joshua commanded the people, saying, "Do not shout. No sound must leave your mouths until the day I tell you to shout. Only then must you shout."// (Joshua 6:8-10) \\
+This sounds like Joshua gave the order not to shout after the army had already started their march.
 
->//“He (The Samaritan) went to him and bound up his wounds, pouring on oil and wine" (ESV).//
+//Who is worthy to open the scroll and break its seals?// (Revelation 5:2) \\ 
+The seals that lock the scroll must be broken before the scroll can be unrolled.
 
-This could sound like the Samaritan bandaged the wounds and then poured oil and wine on the bandages or that he did all of this at the same time. To make the order of what happened more clear, you might consider rearranging the phrases in this sentence to read, 
+==== Translation Strategies ====
 
->//“The Samaritan went to him, poured oil and wine on his wounds, and put bandages on them.”//
+  - If your language uses phrases, time words or verb tenses to show that an event happened before the one just mentioned, consider using one of them. (See: [[en:ta:vol2:translate:figs_verbs]])
+  - If your language prefers to tell events in the order that they occurred, consider reordering the events so they they are in that order. This may require putting two or more verses together (like 5-6). (See: [[en:ta:vol2:translate:translate_versebridge]])
 
-Sometimes to emphasize a point or highlight a contrast between two events, the Bible text presents things in a different order than they occurred. The ESV of Luke 8:37-38 says, 
+==== Examples of Translation Strategies Applied ====
 
->//37 “…So he (Jesus) got into the boat and returned (to the other side of the lake). 38 The man from whom the demons had gone begged that he might be with him, but Jesus sent him away, saying...”//
+1. If your language uses phrases, time words or tenses to show that an event happened before the one just mentioned, consider using one of them.
+  * **<sup>20</sup> But then Herod ... had John locked up in prison. <sup>21</sup> Now it came about, while all the people were being baptized by John, that Jesus also was baptized.** (Luke 3:20-21) \\  
+    * <sup>20</sup> But then Herod ... had John locked up in prison. <sup>21</sup> __Before John was put in prison,__ while all the people were being baptized by John, Jesus also was baptized.
 
-In verse 37, it sounded like Jesus had already left in the boat, but in the next verse the man is talking to him. We need to understand that the man spoke to Jesus before Jesus left. Luke first talked about the people begging Jesus to leave and Jesus' response to them in verse 37, then he talked about the man begging Jesus to go with him and Jesus' response to the man in verse 38. Luke is showing us the contrast between the two kinds of people. This is a Greek language pattern that is not natural in English because the events are out of order. Some languages will have to make the order of events clear by saying, 
+  * **<sup>8</sup> Just as Joshua had said to the people, the seven priests carried the seven trumpets of rams horns before Yahweh, as they advanced, they gave a blast on the trumpets...<sup>10</sup> But Joshua commanded the people, saying, "Do not shout. No sound must leave your mouths until the day I tell you to shout. Only then must you shout."**   (Joshua 6:8-10)
+    * <sup>8</sup> Just as Joshua had said to the people, the seven priests carried the seven trumpets of rams horns before Yahweh, as they advanced, they gave a blast on the trumpets...<sup>10</sup> But Joshua __had commanded__ the people, saying, "Do not shout. No sound must leave your mouths until the day I tell you to shout. Only then must you shout."
 
->//“Before Jesus left, the man said to him….”//
+  * **Who is worthy to open the scroll and break its seals?** (Revelation 5:2) \\ 
+    * "Who is worthy to open the scroll __after__ breaking its seals?"
 
-Other languages may need to switch the order of the verses: 
-
->//37-38 The man from whom the demons had gone begged that he might be with him, but Jesus sent him away, saying...then he got into the boat and returned (to the other side of the lake)”.//
-
-==== Examples from English ====
-
-Typically people start each day by doing the same steps. For example,
-
-  * Wake up
-  * Get out of bed
-  * Get dressed
-
-English prefers telling events in the order that they occur. So for English we would not say, “Every morning I get dressed, wake up, and get out of bed.” The preferred order would be, “Every morning when I wake up, I get out of bed and get dressed.”
-
-Also watch the video for the [[http://youtu.be/Fp9qgVoTwss|computer]] (http://youtu.be/Fp9qgVoTwss) or the [[http://youtu.be/AljK2GUdXxc|tablet/phone]] (http://youtu.be/AljK2GUdXxc).
+2. If your language prefers to tell events in the order that they occur, consider reordering the events. This may require putting two or more verses together (like 5-6). \\
+  * **<sup>8</sup> Just as Joshua had said to the people, the seven priests carried the seven trumpets of rams horns before Yahweh, as they advanced, they gave a blast on the trumpets...<sup>10</sup> But Joshua commanded the people, saying, "Do not shout. No sound must leave your mouths until the day I tell you to shout. Only then must you shout."**   (Joshua 6:8-10) \\
+    * <sup>8-10</sup> Joshua commanded the people, saying, "Do not shout. No sound must leave your mouths until the day I tell you to shout. Only then must you shout." Then just as Joshua had said to the people, the seven priests carried the seven trumpets of rams horns before Yahweh, as they advanced, they gave a blast on the trumpets… 
+  * **Who is worthy to open the scroll and break its seals?** (Revelation 5:2) \\ 
+    * Who is worthy to break the seals and open the scroll?
 
 
+You may also want to watch the 6 minute video for computer (see http://youtu.be/Fp9qgVoTwss ) or tablet/phone (see http://youtu.be/AljK2GUdXxc ).
 
-Next we recommend you learn about:
-  * //[[en:ta:vol1:translate:figs_metaphor|Metaphor]]//
-  * //[[en:ta:vol1:translate:figs_simile|Simile]]//
-  * //[[en:ta:vol1:translate:figs_rquestion|Rhetorical Question]]//
-  * //[[en:ta:vol1:translate:figs_idiom|Idiom]]//
-  * //[[en:ta:vol1:translate:figs_irony|Irony]]//
-  * //[[en:ta:vol2:translate:figs_123person|First, Second or Third Person]]//
-  * //[[en:ta:vol1:translate:figs_order|Word Order]]//
-  * //[[en:ta:vol1:translate:figs_you|Forms of You]]//
-  * //[[en:ta:vol1:translate:figs_youdual|Forms of 'You' - Dual/Plural]]//
-  * //[[en:ta:vol1:translate:figs_yousingular|Forms of 'You' - Singular]]//
-  * //[[en:ta:vol1:translate:figs_explicit|Explicit and Implicit]]//
-  * //[[en:ta:vol1:translate:figs_explicitinfo|Making Implicit Information Explicit]]//
-  * //[[en:ta:vol1:translate:figs_hypo|Hypothetical Situations]]//
-  * //[[en:ta:vol1:translate:figs_parables|Parables]]//
+
+
+//Next we recommend you learn about://
+  * //[[en:ta:vol2:translate:writing_background|Background Information]]//
+  * //[[en:ta:vol2:translate:writing_connectingwords|Connecting Words]]//
+  * //[[en:ta:vol2:translate:writing_newevent|Introduction of a New Event]]//
+  * //[[en:ta:vol2:translate:writing_participants|Introduction of New and Old Participants]]//
+  * //[[en:ta:vol2:translate:writing_poetry|Poetry]]//
+  * //[[en:ta:vol2:translate:writing_proverbs|Proverbs]]//
+  * //[[en:ta:vol2:translate:writing_quotations|Quotations]]//
+  * //[[en:ta:vol2:translate:writing_symlanguage|Symbolic Language]]//
 
