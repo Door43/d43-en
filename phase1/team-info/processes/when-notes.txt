@@ -1,0 +1,47 @@
+====== When to Create Translation Notes ======
+
+Return to: [[:en:bible:team-info:processes:create-notes]]
+
+There are many situations when it is helpful to write a translation note. This page lists many of them. It is not comprehensive. There are, of course, many other situations that arise. Use your best judgment and work with your team leader in those situations.
+
+
+==== ULB and UDB lack information ====
+
+  * Neither the ULB nor the UDB gives certain information that translators might need in order to translate the text.
+      * who or what a pronoun or demonstrative refers to
+      * which meaning is intended for a word that has multiple meanings
+
+  * Translators may need certain information because of the grammar of their language.
+      * who "you" refers to so they can decide what form of 'you' to use (such as singular, dual, or plural)
+      * whether 'we' includes the audience or not
+      * who the actor is in a passive clause
+
+==== Syntactic Structures ====
+
+  * Some languages don't have the same syntactic structures that English has or they may use them only for certain purposes. We may need to give suggestions for translating texts that have things like passive clauses, relative clauses, appositions, ellipses, indirect quotes or verbal nouns.
+
+
+==== Figures of speech ====
+
+  * Translators may not understand a particular figure of speech and may need some suggestions for how to translate it – particularly if they don't use that kind of figure or would not use it in certain situations.
+
+
+==== Biblical culture or customs ====
+
+  * The translators and their readers may not be familiar with the cultures of the Bible, and so may not understand the text because they lack information that the authors left implicit. We may need to explain the implicit information and give suggestions for how they might translate it. (We don't want to add information to the text that the author was not intending to communicate. But if the author must have assumed that the people would have something in mind in order to understand what he was saying, we may need to bring that out.)
+
+
+==== Quotations ==== 
+
+  * If a page has a continuing quote, we'll need a note such as "John continues speaking to the crowd" or "Jesus continues speaking to his disciples" or "Jesus continues telling his parable."
+
+  * Indirect quotes may need a suggestion on how to state them as direct quotes.
+
+
+==== Important Terms ====
+
+  * If a KT page offers several meanings, it may be necessary to write a note to clarify which meaning is relevant to the current chunk.
+
+
+
+~~DISCUSSION~~
