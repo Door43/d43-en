@@ -1,0 +1,37 @@
+====== Text Variant ======
+
+===== Description =====
+This describes how to write a note to call the translator's attention to a footnote in the ULB or UDB that explains differences between the various ancient manuscripts. 
+
+
+===== Standard Note =====
+
+When the ULB or UDB contains a footnote that explains that portions of the text are omitted, we will add a translation note like the following. (Write the actual verse number in the square brackets).
+
+  * **verse [number]**  - This verse was not included because some of the older, more reliable, ancient texts did not include it. Whether you include the verse or not, you may need to add a footnote with this information. (See: [[:en:ta:vol1:translate:translate_textvariants]])
+
+When we know that some versions use different verse numbering, we can add a translation note like the following. 
+
+  * **verse [number]** - Some versions place verse x in chapter x. You should number the verses according to the main version that your language group uses. 
+ 
+===== Bible Examples =====
+
+==== Acts 8:36 ====
+
+
+==== ULB ====
+
+<usfm> \v 36 As they went on the road, they came to some water; the eunuch said, "Look, there is water here; what prevents me from being baptized?" \v 37 \f + \ft Some ancient authorities add, in whole or in part, v. 37. \fqa Philip said, "If you believe with all your heart, you may be baptized." The Ethiopian answered, "I believe that Jesus Christ is the Son of God." \f* \v 38 So the Ethiopian commanded the chariot to stop, and they went down into the water, both Philip and the eunuch; and Philip baptized him.
+</usfm>
+
+
+==== Translation notes: ====
+
+  * **verse 37**  - This verse was omitted because some of the older, more reliable, ancient texts did not include the verse. Whether you include the verse or not, you may need to add a footnote with this information. (See: [[:en:ta:vol1:translate:translate_textvariants]])
+
+
+~~DISCUSSION~~
+
+{{tag>publish review  discuss}}
+
+\\ 
