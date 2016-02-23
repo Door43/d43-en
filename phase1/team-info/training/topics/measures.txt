@@ -1,0 +1,32 @@
+====== Measures, Weights, Distances ======
+
+
+==== Metric or US? ====
+
+In general, whenever we write in our notes about a measure, weight or distance, we will use the metric system rather than the US system. The reason for this is so that as our notes are translated into other languages, almost all of which use the metric system, we will not burden them with doing the mathematical conversion. 
+
+
+==== Biblical Terms ====
+
+The ULB (literal) text for the Bible will use the original biblical terms (cubit, stadion, etc.). Our purpose is to carry through to the translator a sense of the way that the OT and NT cultures viewed the measures.
+
+The UDB (dynamic) version will convert these in most cases to the metric equivalent. This is a partial list of biblical terms followed by the approximate suggested metric equivalent for the UDB:
+
+  * cubit - 45 centimeter
+  * span - 22 centimeters
+  * stadion - 185 meters
+  * homer - 220 liters
+
+
+==== Term in Our Notes ====
+
+We have Important Term page for the major categories of Biblical units. However, if we link them in the Important Terms section, the general title will appear rather than the title of the individual unit (cubit, denarius, etc.). Therefore, we suggest that the unit be included in a note, followed by the link to the appropriate term page.
+
+See how to write these notes in [[en:bible:team-info:training:quick-reference:standard-notes:biblical-units]].
+
+If measure has a special significance in a passage a note be also be needed to explain it.
+
+
+
+~~DISCUSSION~~{{tag>notes301 kt201 udb201 ulb201 discuss}}
+~~NOCACHE~~
