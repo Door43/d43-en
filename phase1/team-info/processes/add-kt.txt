@@ -1,0 +1,57 @@
+====== Add New Important Terms to Notes Page ======
+
+This page explains the process of requesting a new Important Term link on the page.
+
+
+==== Team Members ====
+
+Before requesting a new Key Term for a page, check here to see if a page for the term already exists:
+
+  * [[:en:obe:home|Complete list of Important Terms]]
+
+If a page for the term exists, make a note in the discussion requesting that the link be added.
+
+If a page for the term does not exist:
+
+  - Make a note in the discussion explaining why you think the terms should be added to the list.
+  - Notify your team leader about your request.
+
+
+==== Team Leaders ====
+
+When you see that your team has requested the addition of a term to a notes page, do the following:
+
+  - Verify that the request is reasonable.
+  - Insert the name of the term into the Important Terms list (do not create the link).
+  - Notify your team manager via email about the specific chunk and term. 
+
+
+==== Team Managers ====
+
+When informed by the team leaders about the need for additional KT links or pages, do the following as applicable:
+
+  - Verify that the request is for an existing term, or fits the guidelines for a new one. If so, leave the suggested term in the Important Terms list. If not, remove it.
+  - Alert the Key Terms team that KT links or pages are needed by adding the tag "ktlink" to the tags on the notes page, as in the examples below:
+
+<code>
+{{tag>draft ktlink}}
+
+{{tag>draft ktlink jesus bethlehem sonofgod}}
+</code>
+
+==== KT Team Managers ====
+
+The KT team managers will:
+
+  * Check the terms admin page to see which pages have "ktlink" tags and need to have additional existing terms linked. Once they have linked the terms, they will delete the "ktlink" tag.
+  * Follow up on email requests for new terms from the team managers, and create terms as needed.
+
+
+==== Reviewers ====
+
+Reviewers will verify that the necessary Important Terms are included in the list and linked to pages.
+
+
+{{tag>notes401 kt301}}
+
+~~NOCACHE~~
