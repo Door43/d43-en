@@ -1,13 +1,13 @@
 ===== Opening a Translation Project =====
 
-//**This page answers the question:**// //How do I open a translation project in translationStudio?//
+//This page answers the question:// //How do I open a translation project in translationStudio?//
 
 //In order to understand this topic, it would be good to read://
   * //[[en:ta:vol1:tech:ts_install|Install translationStudio on an Android Device]]//
 
 ==== First Time Use ====
 
-The first time you use translationStudio, the app will prompt to set the target language and then return to the **"My Translation Projects" Menu**. Otherwise you will begin at the **My Translation Projects Menu**.
+The first time you use translationStudio, the app will prompt to set the target language and then return to the **"Your Translation Projects" Menu**. Otherwise you will begin at the **Your Translation Projects Menu**.
 
 ==== Complete these steps to open a Translation Project ====
 
