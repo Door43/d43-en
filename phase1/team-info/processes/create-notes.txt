@@ -1,0 +1,30 @@
+====== How to Create Translation Notes ======
+
+==== Formatting Notes ====
+
+We have developed a general method for the format of the translation notes. We want the notes for all books to follow the same general pattern. See the links below for more information about formatting.
+
+  * [[:en:bible:team-info:processes:format-notes|How to Format Translation Notes]]
+  * [[:en:bible:team-info:training:quick-reference:quick-reference-notes|Quick Reference Guide for Notes]]
+
+==== Reasons for translation notes: ====
+
+There are many different situations where notes are necessary. These include:
+
+  * Neither the UDB nor the KT page clarifies the meaning
+  * There is implicit information that is not stated
+  * English does not convey important information from the original languages
+  * Some languages may not have the same syntactic structures as English
+  * Idioms or figures of speech may not be understood
+  * Cultural concepts and customs may not be understood
+  * Different versions use different verse numbers, or include different text
+
+For more information about these situations, use the link below:
+
+  * [[:en:bible:team-info:processes:when-notes|When to Create Translation Notes]]
+
+==== List of Important Terms ====
+
+The Important Terms section will have a list of the important terms in the ULB on that page. Each word will be linked to a Key Term page that explains it. Do not write anything in this section. If you think a word should be included, say so in the Discussion section. This page explains how we decide whether a term should have a page: [[:en:bible:team-info:training:topics:kt-yes-no|Is It a Key Term?]]
+
+~~DISCUSSION~~{{tag>notes101 publish}}
