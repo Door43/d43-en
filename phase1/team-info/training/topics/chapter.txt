@@ -1,0 +1,25 @@
+====== Chapter Links ======
+
+The links in the pages are a bit confusing. They look like this:
+
+<code>
+https://pad.door43.org/p/en-ulb-luk-08
+</code>
+
+They are computer-generated. The one at the top of the content page is the link to the previous chapter. I've been working with them a while, and sometimes the even cause me to think I am in the wrong chapter.
+
+The way to be sure is the look at the URL in your browser window at the top of the screen.
+
+<code https://pad.door43.org/p/en-ulb-luk-09>
+
+</code>
+
+Also, the first thing on the page right below the previous chapter link will be a code such as __GESHI_QUOT__\c 8__GESHI_QUOT__ which is the Bible-publishing code that identifies this as chapter 8.
+
+__GESHI_OPEN__code> \c 8
+
+There is also another link at the very bottom of the content page that goes to the next chapter.
+
+{{tag>ulb201 udb201}}
+
+~~NOCACHE~~
