@@ -1,0 +1,49 @@
+====== Ellipsis ======
+
+
+===== Description =====
+
+Ellipsis is where words are left out of the sentence because it is not needed to be understood. The information that is omitted has usually already been stated in a preceding sentence or phrase, or it is part of the context. Ellipsis is somewhat different than implied information because implied information does not involve partial sentences.
+
+(Translation Academy: [[:en:ta:vol2:translate:figs_ellipsis]])
+
+===== Template =====
+
+The following information should be included in the notes:
+
+  - **Text** - the text that includes the ellipsis from the ULB in bold
+  - Clarifying translation - (optional)
+  - Explanation - the information that has been left out (optional)
+  - **Alternate translation** - if not clear in the UDB
+  - **TA link** - unless already in the notes for the chunk
+
+  * **(1) ULB text**  -  **(4)** Alternate translation. **(5)** (See: Ellipsis)
+
+
+===== Bible Examples =====
+
+Field reference numbers are included for clarity purposes only. They are omitted in the actual note.
+
+=== Genesis 21:24 ===
+
+Abraham said, "I swear."
+
+  * **(1) I swear** - **(3)** Abraham did not include the content of his promise since it was understood. **(4)** AT: “I swear to show you the kindness you have shown to me.” **(5)** (See: Ellipsis)
+
+=== Luke 21:10 ===
+
+"Then he said to them, "Nation will rise against nation, and kingdom against kingdom."
+
+  * **(1) kingdom against kingdom**  - **(3)** The words "will rise" is left out of this phrase, but they are intended to be understood. **(4)** AT: "kingdom will rise against kingdom" or "one kingdom will attack another." **(5)** (See: Ellipsis)
+
+=== 2 Thessalonians 1:7 ===
+
+"It is righteous for God to return affliction to those who afflict you, and relief to you who are afflicted with us, at the revelation of the Lord Jesus from heaven with the angels of his power."
+
+  * **(1) and relief to you** - **(3)** The words "for God to return" are left out of this phrase. **(4)** AT: "and for God to bring relief to you." **(5)** (See: Ellipsis)
+
+~~DISCUSSION~~
+
+{{tag>publish}}
+
+\\ 
