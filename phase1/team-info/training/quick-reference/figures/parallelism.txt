@@ -1,0 +1,60 @@
+====== Parallelism ======
+If you are working in a book or chapter that is full of parallelism, use the note from this page instead: [[en:bible:team-info:training:quick-reference:standard-connecting-notes:parallelism-in-poetry]].
+===== Description =====
+
+In **parallelism** two clauses that are similar in grammatical structure or idea are used together. Sometimes the two clauses mean basically the same thing, sometimes the second clarifies the meaning of the first, and sometimes the second says something that contrasts with the first.
+
+We are writing notes for parallelism only when the two parts mean basically the same thing. 
+
+Note: We are using the term **parallelism** for __long phrases or clauses__ that are similar in grammatical structure or idea and are used together. We are using the term **doublets** for __words or short phrases__ that mean basically the same thing and are used together.
+
+(Translation Academy: [[:en:ta:vol2:translate:figs_parallelism]], [[:en:ta:vol2:translate:figs_doublet]])
+===== Template =====
+
+The following information should be included in the notes:
+
+  - **Text** - the text that includes the parallelism from the ULB in bold
+  - Clarifying translation - (optional)
+  - **Explanation** - the meaning of the parallelism unless clear in the alternate translation
+  - **Alternate translation** - if not clear in the UDB
+  - **TA link** - unless already in the notes for the chunk
+
+  * **(1) ULB text**  - **(3)** Explanation. **(4)** Alternate translation. **(5)** (See: Parallelism)
+
+Note: In poetry and prophecy especially, the parallel clauses often have other figures of speech and translations issues. For this reason, it is sometimes easier to write separate notes for the two clauses, and discuss the parallelism in the second clause.
+
+===== Bible Examples =====
+
+Field reference numbers are included for clarity purposes only. They are omitted in the actual note.
+
+
+=== Genesis 22:12 ===
+
+"He said, "Do not lay your hand upon the lad, nor do anything to harm him, for now I know that you fear God, seeing that you have not withheld your son, your only son, from me.""
+
+  * **(1) Do not lay your hand upon the lad, nor do anything to harm him**  - **(3)**  God said basically the same thing twice for emphasis. **(4)** AT: "Do not hurt the boy in any way." **(5)**  (See: Parallelism)
+
+=== Ruth 2:12 ===
+
+"May Yahweh reward you for your deed. May you receive full payment from Yahweh, the God of Israel, under whose wings you have found refuge."
+
+  * **(1) May Yahweh reward you for your deed. May you receive full payment from Yahweh**  - **(3)**  Boaz said basically the same thing twice for emphasis. **(4)** AT: "May Yahweh, under whose wing you have found refuge, reward you fully for what you have done." **(5)** (See: Parallelism)
+
+=== Matthew 13:13 ===
+
+So I talk to them in parables, because seeing they do not see, and hearing they do not hear, neither do they understand. 
+
+  * **(1) because seeing they do not see** - **(2)** "though they see, they do not see." **(3)** The second use of "see" refers to understanding. **(4)** AT: "Though they see things happen, they do not understand what those things mean." **(5)** (See: metonymy)
+  * **(1) hearing they do not hear** - **(2)**  "though they hear, they do not hear." **(3)** The second use of "hear" refers to understanding. **(3)** This part of the sentence says basically the same as the first to emphasize it. **(4)**  AT: "though they hear instruction, they do not understand the truth."  **(5)** (See: Parallelism)
+
+
+=== Luke 12:2 ===
+
+"But there is nothing concealed that will not be revealed, and nothing hidden that will not be known."
+
+  * **There is nothing concealed that will not be revealed**  - **(3)** This can be translated positively as **(4)** "Everything that is hidden will be shown." **(3)** It can be translated with active verbs as **(4)** "People will find out about everything that people do secretly." **(5)** (See: Active or Passive)
+  * **and nothing hidden, that will not be made known**  - **(3)** This part of the sentence says the same thing as the first part in order to emphasize it. **(4)**AT: "and everything that is hidden will be known" or "and people will know about everything that people keep secret." **(5)** (See: Parallelism)
+
+
+
+~~DISCUSSION~~{{tag>publish review}}
