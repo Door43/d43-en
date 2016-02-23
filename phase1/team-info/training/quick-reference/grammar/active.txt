@@ -1,0 +1,45 @@
+====== Passive Verbs ======
+
+
+===== Description =====
+
+The English language has the active and passive forms of speech.
+
+  * In the **ACTIVE** form, the subject does the action.
+  * In the **PASSIVE** form, the action is done to the subject.
+
+Active verbs are normal for language. Passive verbs, however, are not found in all languages, and may require explanatory notes.
+
+===== Template =====
+
+The following information should be included in the notes for passive verbs:
+
+  - **Text** - the text that includes the passive verb from the ULB in bold
+  - Clarifying translation - (optional)
+  - Explanation - (optional)
+  - **Alternate translation** - a translation suggestion using an active verb
+  - **TA link** - unless already in the notes for the chunk
+
+  * **(1) ULB text**  -  **(4)** Alternate translation. **(5)** (See: Active/Passive)
+
+
+===== Bible Examples =====
+
+Field reference numbers are included for clarity purposes only. They are omitted in the actual note.
+
+=== Genesis 24:67 ===
+
+"Then Isaac brought her into his mother Sarah’s tent and took Rebekah, and she became his wife, and he loved her. So Isaac was comforted after his mother’s death."
+
+  * **(1) So Isaac was comforted**  - **(4)**  AT: "So Rebekah comforted Isaac." **(5)**  (See: Active/Passive)
+=== Luke 23:15 ===
+
+"No, nor does Herod, for he sent him back to us, and behold, nothing worthy of death has been done by him."
+
+  * **(1) nothing worthy of death has been done by him**  - **(4)**  AT: "He has not done anything to deserve a death sentence." **(5)**  (See: Active/Passive)
+=== Acts 10:45 ===
+
+"The people who belonged to the circumcision group of believers—all of those who came with Peter—were amazed, because the gift of the Holy Spirit was poured out also on the Gentiles."
+
+  * **(1) the Holy Spirit was poured out**  - **(4)**  AT: "God poured out the Holy Spirit." **(5)**  (See: Active/Passive)
+~~DISCUSSION~~{{tag>publish}}
