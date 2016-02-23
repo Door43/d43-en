@@ -1,0 +1,53 @@
+====== Numbers ======
+
+===== Definition: =====
+
+We will point translators to the tA page on numbers that can help them figure out how to represent numbers in their language: [[en:ta:vol2:translate:translate_numbers]]
+
+For determining whether to write a number with words or numerals, the ULB and UDB text team generally used the two-word rule. If a word could be written with only two words then words were used. If it required more than two words, then  numerals were written.  Words that are hyphenated (twenty-one) are counted as one word. However there are times that the two-word rule was not followed.
+
+
+
+We will need to decide whether or not to write notes for cardinal and ordinal numbers. 
+
+
+===== Standard Notes =====
+
+=== Non-bulleted Notes ===
+
+At the beginning of a chunk. This does not need to be written on every chunk that has numbers, but just the first in a chapter or section.  \\ 
+See: [[en:ta:vol2:translate:translate_numbers]] \\   
+
+
+=== Cardinal Numbers ===
+Theses notes would show the number in numerals.
+
+Possible policies: 
+  - Write notes only when there is something odd about a number (such as "twelve hundred").
+  - Write notes for all numbers that are written with more than two words.
+  - Write notes for all numbers that are written with more than one word.
+  - Write notes for all numbers written in words starting at a certain number (such as after ten, twenty, one hundred, or one thousand).
+
+  * **twelve hundred** - "1,200" or "one thousand two hundred"
+
+=== Ordinal Numbers === 
+
+Possible policies: 
+
+  - Write notes for all cardinal numbers that have more than one word.
+  - Write notes for all hyphenated cardinal numbers.
+  - Write notes for all cardinal numbers starting at a certain number.
+("Six hundredth occurs once. Other than that, there are no instances of "hundredth" or "thousandth" in the OT ULB.) 
+
+  * **the twenty-first lot** - "lot number 21"
+  * **the twenty-seventh day** - "day number 27"
+
+
+=== Fractions === 
+
+Because most fractions have the same form as ordinal numbers, and because they may be harder to understand, we will probably need notes. 
+  * **two thirds** - "two of three equal parts" or "2/3"
+  * **one fifth**  - "one of five equal parts" or "1/5"
+
+
+~~DISCUSSION~~{{tag>draft}}
