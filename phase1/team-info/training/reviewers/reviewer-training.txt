@@ -1,0 +1,91 @@
+====== Reviewer Training ======
+
+The resources on this page are designed to provide guidance and information that will help you review and publish translation notes (tN).
+
+===== Getting Started =====
+
+  * [[en:bible:team-info:training:topics:get-started-door43]]
+  * [[en:ta:workbench:tech:door43:navigate]] 
+  * [[en:bible:team-info:training:reviewers:organizing_pages]]
+  * [[en:ta:workbench:tech:door43:ckg]]
+  * [[en:ta:workbench:tech:door43:syntax|Using Dokuwiki Editor]]
+===== Helpful Links =====
+
+These are links to resources that will help you throughout the project.
+
+  * [[:en:bible:team-info:training:notes-training|Notes Training]]
+  * [[:en:bible:admin-reports:03-review-reviewer|Pages Tagged "Review" by Reviewer]]
+  * [[:en:bible:team-info:training:quick-reference:quick-reference-notes|Quick Reference Guide for Notes]]
+  * [[:en:bible:team-info:training:reviewers:talinks]]
+  * [[:en:obe:home|Complete list of Important Terms]]
+  * [[:en:ta:ta-topics|Translation Academy Topics]]
+  * [[:en:ulb:ep:home|ULB Text by Book]]
+  * [[:en:udb:ep:home|UDB Text by Book]]
+  * [[:en:bible:team-info:training:reviewers:tags]]
+  * [[:en:bible:team-info:training:topics:glossary]]
+===== Phase 1 Issues =====
+
+Starting July 2015, the tN schedule was accelerated, with the goal to write initial tN's for all books of the Bible by the end of 2015 (Phase 1). 
+
+During Phase 1, the reviewer should only deal with the significant issues in the tN's that would cause a poor or inaccurate translation. More detailed and time-consuming issues should be noted in the Discussion area with a "**Phase 2**" title, and deferred to Phase 2. 
+
+The following checklist shows the types of issues that the reviewers should deal with in Phase 1:
+
+  * [[:en:bible:team-info:training:reviewers:phase1-checklist]]
+
+
+===== Phase 2 Issues =====
+
+Phase 2 of the tN's will begin in 2016. At that time, we will do a thorough revision of the notes to deal with the additional issues for each chunk. We also anticipate that we should receive feedback from field-testing by then, which may surface other issues.
+
+The page below lists general issues that we want to deal with in Phase 2:
+
+  * [[:en:bible:team-info:training:reviewers:phase2-issues]]
+
+
+===== Communicating with Notes Managers =====
+
+The reviewer does not have direct communication with the notes writers, but the Notes Manager does. Therefore, it is important for the reviewer to communicate to the Note Manager about any issues with the notes that are repetitive or very significant. The Manager can then correct those issues in the future, and alert/train the team members as needed. 
+
+Please keep your conversations with the Managers encouraging, and do not overwhelm them with every simple issue. When significant issues arise, however, please inform them. 
+
+If an issue is very significant or time-sensitive, you can email or Skype the Manager. To address other issues, add a note in the Discussion section of the chunk with the title "**Manager**" and also add the tag "**mgr**" to the page.
+
+  * [[:en:bible:team-info:training:reviewers:return-to-manager]]
+
+
+===== Communicating with Text Team =====
+
+To request changes to the ULB or UDB, write a note in the discussion section of the notes page that needs the change, label the note as "**text**" and add the "**text**" tag to the page. When writing the note, tell whether you are talking about the ULB or UDB. Here some formats that are clear.
+
+**Text** \\ 
+22:9 ULB **For every case of dishonest __appropriation__,** \\ 
+Maybe we could have an easier word.
+
+**Text** \\ 
+V8 ULB  **candlestick**  Please consider changing this to "lampstand".
+
+
+===== Communicating with Key Term (KT) Team =====
+
+When there is a simple issue of an incorrectly-linked term, please correct the issue if possible.
+
+  * **To request a new term:**
+    -  Place a note in the discussion section of the notes page that needs the term and explain the need. Label the note as "**key term**".
+    -  Add the “**ktlink**” tag to the notes page.
+
+  * **To request changes to existing terms:** 
+    - Add a discussion comment on the term page. Label the comment as "**discuss**".
+    - Add a "**discuss**" tag (Do not remove the "**publish**" tag). 
+===== Communicating with translationAcademy Team =====
+
+To request new tA topic pages, place a note in the Notes Discussion section to explain the need. Label the note "**tA Topic**" and add the “**talink**” tag to the notes page. 
+
+===== Communicating with the Review Team =====
+
+The Review Team meets at least weekly on Skype. In addition, all review team members are available to email and Skype discussions as needed. Whenever you need help from another team member, or if you have information that will help them, please feel free to share it among the team or with the relevant reviewer.
+
+
+~~DISCUSSION~~
+
+\\
