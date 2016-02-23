@@ -51,7 +51,7 @@ These are issues that often occur:
 
   * A note might be commentary or interpretation rather than a translation issue.
   * A note might have complicated language that would be hard for some of our audience.
-  * A note might not be worded, structured, and formatted according to [[:en:bible:team-info:processes:create-notes|How to Create Translation Notes]]
+  * A note might not be worded, structured, and formatted according to [[:en:phase1:team-info:processes:create-notes|How to Create Translation Notes]]
   * A note might be a repeat of a note in another chunk, and could be solved by saying "See how you translated this in 8:19" and adding a link to that chunk.
   * There may be issues that are not addressed by translation notes.
   * Figures of speech may be identified, but their purpose in the text may not be explained.
