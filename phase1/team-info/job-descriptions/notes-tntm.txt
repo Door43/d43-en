@@ -1,0 +1,64 @@
+====== Translation Notes Teams Manager ======
+
+===== Short Description: =====
+
+Manage teams that will be creating resources to support Wycliffe Associates' strategies to advance Bible translation by developing web-based translation resources for mother-tongue translators.
+
+===== General Responsibilities: =====
+
+  * Train and manage teams of note writers to create high quality translation notes.
+  * Build a network of teams to develop translation notes for specific Bible books.
+  * Provide on-going training to the writers so that the notes achieve the necessary high standards.
+  * Communicate and support the leads of the teams that are writing the Translation Notes.
+  * Work in collaboration with the Reviewers, Translation Specialists, to assure notes are of high quality.
+  * Maintain an aggressive schedule to achieve goals.
+
+===== Process to Review =====
+
+  - Receive notification that notes are ready for checking.
+  - Use the {{:en:bible:team-info:manager_s_checklist.pdf|checklist}}  to assess the work.
+  - Make sure references to translationAcademy topics are present as needed:
+      * Add "(See: talink)" for existing tA topics when missing from the notes
+      * Add tA links when missing. Go [[en:bible:team-info:processes:add-ta|here]] for instructions on adding a tA link.
+      * Suggest to the tA team the need of a new topic, by adding the "talink" tag and putting an explanation of the need in the Notes Discussion section.
+  - Respond to the team's work on Important Terms in the following ways:
+      * For existing Important Term pages - Create links as needed by referring to the [[:en:obe:home|Complete list of Important Terms]], taking care to link them correctly.
+      * Suggested new Important Term - Place a note explaining the need for a page in the Notes Discussion section, and label the thread "**Key Term.**" Add the “ktlink” tag to the Notes page.
+      * Modification to an Important Term - Add a note to the Discussion section of the Term page to explain the need and add the "ktlink" tag.
+  - Communicate with the Notes Team Leader regarding the quality of notes and current Best Practices.
+  - Communicate with the Reviewer about any questions/requests from the Team.
+  - List typos or misspellings in the ULB or UDB in the discussion section of the Notes page.
+  - Change the 'check' tag to 'review.'
+===== Learning to Improve Notes =====
+
+  * Learn from and share with other Managers.
+  * Study pages that are at 'publish' status to ascertain ways the Teams can improve.
+  * Look for comments from the reviewers in the discussion area of the notes pages. These notes will begin with "**Manager**" in bold text.
+      * Those pages will be tagged with “mgr” followed by the three-letter book code. For example, a comment on Matthew would be tagged as “mgrmat” or "mgr." You can use the Search box to find these occurrences, or use the admin page: [[:en:bible:admin-reports:reviewer-manager-admin|Reviewer to Manager Admin Page]].
+      * When you have read and responded to the comment, delete the tag from the page.
+
+
+===== Information about the ULB and UDB =====
+
+We want to make sure that everyone that works with the source text has full confidence in the content. You, the team managers, will read and hear questions about the textual variances. The reasons for the variances could be explained without loss of confidence.
+
+It would be good for all Managers to be familiar with the information on these pages.
+
+[[en:bible:team-info:training:topics:original-source]]\\ 
+[[en:bible:team-info:processes:edit-udb]]\\ 
+[[en:bible:team-info:processes:edit-ulb]]\\ 
+
+ADDITIONAL INFORMATION ---
+Jim Pohlig has suggested that the [[en:bible:team-info:training:teunewsletter]] might be good background information to read also.
+
+=== Quote from Text Team Member Responsibilities Page ===
+Please note that The purpose of the Text team is to create two source texts for Bible translation: 
+
+  * ULB (Unlocked Literal Bible) - This is an update to the 1901 ASV, removing archaic language and terms, and making it more understandable for people with limited English skills, and yet retaining the accuracy and the symmetry with the original languages.
+  * UDB (Unlocked Dynamic Bible) - This is an adaptation of TFT (Translation for Translators) to restore many of the idioms and theological terms, and yet keep the easy-reading nature and the shortened sentences as much as possible. 
+
+The team will strive to keep the balance of accuracy and readability of the two versions, so that translators will have both a dynamic and a literal source text. 
+
+The team should also continually remember that the texts are to be used as intermediate source texts, and not as finished English versions. Both texts will be translated into several dozen “gateway” languages, so they must be very clear and easy to understand. 
+
+~~DISCUSSION~~
