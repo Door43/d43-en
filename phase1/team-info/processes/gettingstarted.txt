@@ -1,0 +1,76 @@
+====== How to Get Started Working in Door43 ======
+
+These instructions will help you use the Door43 website.
+
+**Suggestion: Right click on links and choose "Open in new window."**
+
+Adding content in Door43 is easy! Follow these simple steps to get started:
+
+===== 1. Create an Account & Log into Door43 =====
+
+To start add in content, you will need a user account on Door43. When you are logged into Door43 you will see your name in the top area below the browser menu bar. If you see your name up there, skip to #2 below.\\
+If you do not have an account, [[:en:get-started?do=register|create one]] then you can login.\\
+Here is the summary of a 45 second [[http://youtu.be/dpsJRDAa3I8|video]] on how to set up an account.
+
+  * Click on the Register link at the top of the page.
+  * Fill in the necessary information to set up an account.
+  * Check your email for the automatic generated password. (You might find the email in your spam folder.)
+  * Click on the 'Update Profile' link to change the password.
+
+===== 2. Are you Logged On? =====
+
+{{:en:bible:team-info:processes:permission_denied.png?nolink&320x135}}\\
+When you are logged into your account you will be able to edit pages and participate in discussions. Three ways to know you are logged into your account:
+
+  - Your name is at the top of the page. Your name will be at the top and the word "logout" will be on the far right at the top.
+  - You will have the pencil icon on pages that you can edit.
+  - You will see the discussion panel. (See #5 below for more information.)
+
+{{:en:bible:team-info:processes:loggedin.png?nolink&350x250}}
+
+===== 3. Go to your assigned Book or Chapter. =====
+
+==== Namespace ====
+
+Namespace is the term for the directory, or folder, of the pages. Most of the pages that you will work on are in the en:bible namespace. (The "en" namespace means English, the "bible" namespace is the working namespace and the "bible" namespace is where the pages will go when they are finally done.) {{:en:bible:team-info:processes:namespaces.png?nolink&350x150}}
+
+Click on the blue name of the namespace (has a gray triangle to the left of the name) to open the namespace (directory.)
+
+==== How to Use the Sitemap ====
+
+Watch the [[http://youtu.be/8nLPr1x36d8|video]] on how to use the Sitemap or follow these steps:
+
+  * Click the Sitemap link at the top right of the wiki.
+  * The Sitemap opens at the point of the page you were on. (For example: If you were in Luke the Sitemap will already have the book of Luke namespace open.)
+  * Click on the namespace, in blue text, to display the list of pages in the directory.
+  * Click on the page, in green text, to open a page.
+
+===== 4. Editing a Page =====
+
+==== You should know how to add bullets and bold words. ====
+
+Go to [[en:ta:workbench:tech:door43:syntax|Formatting Content]] for some of the easy editing tools.
+
+==== You should know how to switch between editors. ====
+
+Note: Click [[:en:switching_editors|here]] to learn how to switch between the editors. Or click [[http://youtu.be/qAhes9pO72o|here]] for the "how to" 1 minute video.
+
+**//Experience has shown that it is best to use the DW Edit editor with the USFM text.//  **
+
+==== Practice Editing ====
+
+Door43 has a [[:playground:playground|test page]] that you can edit for practice.
+
+===== 5. Participate in the discussions. =====
+
+Watch the [[http://youtu.be/V_jKzGYuqJo|video]] on how to use the Discussion Panel or follow these steps:
+
+  * Go to the bottom of a Translation Notes or Key Term page.
+  * (You need to be logged on to see the discussion panel.)
+  * To start a new discussion - click in the white edit window. Click the save button when done.
+  * To reply to another person's discussion: 1) click the reply button on their discussion post, 2) write a reply to the topic of their comment and 3) click the save button.
+
+**//It is best to separate topics into different comments.// **
+
+//Note: More information available on the [[:en:tips-tricks|Tips & Tricks]] page!// For help on how any of the above information, please contact [[mailto:christine_jarka@wycliffeassociates.org|Christine Jarka]] or [[mailto:larry_sallee@wycliffeassociates.org|Larry Sallee]].
+
