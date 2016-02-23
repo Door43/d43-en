@@ -1,0 +1,35 @@
+====== OBE Team Leader Responsibilities ======
+
+
+==== Team Purpose ==== 
+
+The Important Terms team will write and update the content of the OBE (Open Bible Encyclopedia) pages. These pages will provide concise, clear explanations of important words, people, people, places, things, and phrases that require more than a brief note. The OBE is divided into two sections:
+
+  * Key Terms - Terms that require extra guidance on translation because they are theologically critical, are abstract concepts, etc.
+  * Other Terms - Terms that might not be known by the translator, but require only basic definition or translation suggestions.
+
+The OBE pages should present all the necessary information about the term that a translator would need to accurately represent it in his/her own language. They should also provide alternative translation suggestions as possible. In addition, the OBE pages should be cross-linked with other OBE pages as helpful.
+
+The content of OBE pages are not specific to any particular book. They should present the meaning of the term across the Bible. Also, they will need to occasionally be updated as the Notes teams work on new books and discover additional issues not yet covered by the OBE pages.
+
+All of the content developed will be released as open-source, unrestricted materials. No copyrighted materials should be included in their creation. It is also understood that the team agrees to have the product of their work freely distributed as open-source.
+
+
+==== Team Leader Responsibilities ====
+
+The team leader will track the status of OBE pages on the [[en:bible:admin-reports:obe-admin:obe-admin]] and be responsible for the following:
+
+  * Assist the OBE teams:
+    * Assist, guide and encourage team members as they work through the terms on the Draft list
+    * Update "draft" tags on OBE pages to "review" as the team completes the draft text
+  * Review and edit all OBE pages tagged as "review":
+    * Update content and add cross-links to other OBE pages as necessary.
+    * Change the status to "publish" when finished.
+  * Keep track of requests for new pages or changes to pages by the Notes teams by checking for pages with "ktlink" tags on the [[en:bible:admin-reports:obe-admin:obe-admin]].
+    * Check for existing terms in the [[en:obe:home]]. Use the tooltip to verify whether terms are in the "KT" or "Other" namespaces.
+    * Review Discussion comments on the Notes pages with "ktlink" tags and correct any issues of problems. 
+    * Correspond with Notes Managers and Notes Reviewers for the associates books as necessary.
+  * Keep the project manager apprised of any concerns and issues with the team members or the project
+
+{{tag>kt101}}
+~~NOCACHE~~
