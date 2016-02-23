@@ -44,7 +44,9 @@ The context of the sentence determines the type of verb because some can functio
   * He has to be nearly done. (Inference/assumption)
   * He has to have insulin. (Personal need)
 
-**person**  Many languages have different forms to agree with the subject or in some languages the object. English only marks the present tense third person singular by adding an “s.” One exception is the verb “to be” which uses “am” for present tense first singular and “is” for third person singular. All the rest are “are,” In the past “was” for both first and third singular and “were” for all the rest. How does your language handles person? Is it in the verb or handles by nouns and pronouns? \\ Example
+**person**
+
+Many languages have different forms to agree with the subject or in some languages the object. English only marks the present tense third person singular by adding an “s.” One exception is the verb “to be” which uses “am” for present tense first singular and “is” for third person singular. All the rest are “are,” In the past “was” for both first and third singular and “were” for all the rest. How does your language handles person? Is it in the verb or handles by nouns and pronouns? \\ Example
 
   * I translate, and he tranlate_s_
 
@@ -52,20 +54,22 @@ The context of the sentence determines the type of verb because some can functio
 
 **Tense**
 
-* (present tense) ** we know that you are a teacher come from God**  (John 3:2)
+* (present tense) ** we __know__  that you __are__  a teacher__ come __ from God**  (John 3:2)
 
-  * (past tense) ** Now there was a Pharisee whose name was Nicodemus**
-  * (two times) **the life was manifested, and we have seen**  (1 John 1:2)// \\ //
-  * //**Aspect** //
-  * //* (completive) ** we declare to you**  (1John 1:3 ULB) //
-  * //* (continuative) ** the life was manifested**  (1 John 1:2 ULB) \\ //
+  * (past tense) ** Now there __was__  a Pharisee whose name __was__  Nicodemus**
+  * (two times) **the life __was manifested__, and we have seen**  (1 John 1:2)// \\//
+  *
+  * ////**Aspect** // //
+  * // (completive) ** we __declare__  to you**  (1John 1:3 ULB) //
+  * // (continuative) ** the life __was manifested__ **____ (1 John 1:2 ULB) \\ //
+  *
   * //**active or passive** //
-  * //* (active) ** the world does not know us, because it did not know him**  (1 John 3:1 ULB) //
-  * //* ** (passive) I _was grasped_ by Christ Jesus. **  (Philippians 3:12 ULB)//
+  * // (active) ** the world __does not know __ us, because it __did not know __ him**  (1 John 3:1 ULB) //
+  * //* ** (passive) I __was grasped __ by Christ Jesus. **  (Philippians 3:12 ULB)//
 **Mode: **
 
-  * (statement) **I _can_ do all things through him who strengthens me.**  (Philippians 4:13 ULB)////
-  * //* (wish) **that I _may_ grasp that for which I was grasped by Christ Jesus. **  (Philippians 3:12 ULB)//
+  * (statement) **I __can__ do all things through him who __strengthens__  me.**  (Philippians 4:13 ULB)
+  * //(wish) **that I  __may grasp __ that for which I was grasped by Christ Jesus. **  (Philippians 3:12 ULB)//
 ==== Verbs and Objects ====
 
 All sentences have a SUBJECT (PARTICIPANT), VERB (EVENT), and some an OBJECT (PARTICIPANT). \\ Examples:
@@ -76,7 +80,7 @@ All sentences have a SUBJECT (PARTICIPANT), VERB (EVENT), and some an OBJECT (PA
 English grammar allows for not stating the object of the verb even if that verb can take an object; so that these sentences may also only have the SUBJECT (PARTICIPANT) and VERB (EVENT) stated. \\ Examples:
 
   * '//He has been **singing**  for three hours//.' The object is not stated.
-  * '//He has been **singing**__hymns__  for three hours.//' "Hymns" is the object of "singing."
+  * '//He has been **singing **__hymns__  for three hours.//' "Hymns" is the object of "singing."
 
 Note that different languages have different [[:en:ta:vol1:translate:figs_order|orders]] for these parts of the sentences. In the examples below, the subject is first, the verb is bold, and the object is underlined. \\
  \\
