@@ -1,0 +1,57 @@
+====== Text Editor ======
+
+
+==== Team Purpose ====
+
+The purpose of the Text team is to create two source texts for Bible translation:
+
+  - **ULB (Unlocked Literal Bible)** - This is an update to the 1901 ASV, removing archaic language and terms, and making it more understandable for people with limited English skills, and yet retaining the accuracy and the symmetry with the original languages.
+  - **UDB (Unlocked Dynamic Bible)** - This is an adaptation of TFT (Translation for Translators) to restore many of the idioms and theological terms, and yet keep the easy-reading nature and the shortened sentences as much as possible. 
+
+The team will strive to keep the balance of accuracy and readability of the two versions, so that translators will have both a dynamic and a literal source text. In addition, these texts will be divided into small "chunks" that will serve as the basis for the individual notes pages.
+
+The team should also continually remember that the texts are to be used as //intermediate source texts//, and not as //finished English versions//. Both texts will be translated into several dozen "gateway" languages, so they must be very clear and easy to understand.
+
+Furthermore, both texts will be released as open-source, unrestricted texts. No copyrighted materials should be included in the texts. It is also understood that the editors agree to have the product of their work freely distributed as open-source.
+
+
+==== Editor Responsibilities ====
+
+
+The editor will responsible to:
+
+    * Manage the schedule and progress of the team member.
+    * Report primarily to the Director of Translation Services. 
+    * Coordinate the schedule and nature of texts with the Notes Project Manager.
+    * Track the nature of the changes to both texts as a basis for future computer-assisted translation.
+    * Work with the IT team to use automated scripting to do repetitive changes and updates.
+    * Receive regular feedback from the Notes Project Manager as to changes being made by the notes teams.
+
+With respect to the UDB, the editor will insure that:
+
+    * the UDB maintains its dynamic quality, easy-reading nature, and shortened sentence length
+    * extraneous commentary and errors from the TFT are removed
+    * theological terms that were removed in the TFT will be reinserted if they can reasonably be understood or explained in the notes
+    * idioms and other figures of speech will be restored if they can easily be understood or explained in the notes
+
+With respect to the ULB, the editor will insure that:
+
+    * the text retains as much of the grammar and style of the original language as is reasonable in light of the necessity to have it easy to understand for non-native English speakers
+    * archaic and unnatural words, terms and constructions are replace with modern equivalents
+    * any errors or problems with the ASV will be corrected and updated
+    * the text has been divided into manageable "chunks" of 1-5 verses in length
+
+
+Both texts must be produced quickly, taking advantage of creative staffing by volunteers to assure both quality and speed.
+
+
+(See {{en:bible:team-info:job-descriptions:bible_translation_axes.pdf}})
+
+[[en:bible:team-info:job-descriptions:text-team-leader]]
+
+[[en:bible:team-info:job-descriptions:text-team-member]]
+
+
+See {{en:bible:team-info:job-descriptions:literal_vs_dynamic_translation2.jpg?nolink360x360}}
+
+~~DISCUSSION~~
