@@ -2,8 +2,9 @@
 
 This module answers the question: How should I translate adjectives that act like nouns?
 
-In order to understand this module, it would be good to read 
-  * [[en:ta:vol2:translate:figs_partsofspeech]]
+In order to understand this module, it would be good to read
+
+  * [[:en:ta:vol2:translate:figs_partsofspeech|English Parts of Speech]]
 
 Many times the Bible uses adjectives as though they were nouns to describe a group of people.
 
@@ -11,36 +12,31 @@ Many times the Bible uses adjectives as though they were nouns to describe a gro
 
 Many times the Bible uses adjectives as though they were nouns to describe a group of people.
 
+**Reasons this is a translation issue**  Readers may think that the text is talking about one particular person when it is really talking about many people whom the adjective describes.
 
-**Reasons this is a translation issue**
-Readers may think that the text is talking about one particular person when it is really talking about many people whom the adjective describes.
- 
 ===== Examples from the Bible =====
 
-**The scepter of wickedness must not rule in the land of __the righteous__.** (Psalms 125:3)\\
-"The righteous" here are people who are righteous, not one particular righteous person.
+**The scepter of wickedness must not rule in the land of __the righteous__.**  (Psalms 125:3) \\ "The righteous" here are people who are righteous, not one particular righteous person.
 
-**Blessed are __the meek__** (Matthew 5:5)\\
-"The meek" here are people who are meek, not one particular meek person.
+**Blessed are __the meek__** (Matthew 5:5) \\ "The meek" here are people who are meek, not one particular meek person.
 
 ===== Translation Strategies =====
 
 If your language can use adjectives as nouns and communicate the correct meaning clearly, use them. If the meaning is unclear or wrong, you might have to do something like this:
 
-  - Use the plural form of the noun that the adjective most likely describes. 
+  - Use the plural form of the noun that the adjective most likely describes.
 
 ===== Examples of Translation Strategies Applied =====
 
 1. Use the plural form of the noun that the adjective most likely describes.
-  * **The scepter of wickedness must not rule in the land of __the righteous__.** (Psalms 125:3)
-    * "The scepter of wickedness must not rule in the land of __righteous people__."
-  *  *Blessed are __the meek__** (Matthew 5:5)
-    * "Blessed are __people who are meek__"
+
+  * **The scepter of wickedness must not rule in the land of __the righteous__.**  (Psalms 125:3)
+      * "The scepter of wickedness must not rule in the land of __righteous people__."
+  * *Blessed are __the meek__** (Matthew 5:5)
+      * "Blessed are __people who are meek__"
 
 ----
 
-{{tag>review epadn}}
-
-~~DISCUSSION~~
+{{tag>review epadn}}~~DISCUSSION~~
 
 ~~NOCACHE~~
