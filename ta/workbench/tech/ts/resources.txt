@@ -1,35 +1,33 @@
-===== How to Use the Resources in translationStudio =====
+===== Find the Resources in translationStudio =====
 
-//This page answers the question:// //How do I use the Resources in translationStudio?//
+//This page answers the question:// //How do I find Resources in translationStudio?//
 
 //In order to understand this topic, it would be good to read://
   * //[[en:ta:vol1:tech:ts_create|Create and Edit Text]]//
   * //[[en:ta:vol1:translate:resources_intro|Introduction to Resources]]//
 
-==== Resources in tS ====
+==== translationStudio v3 ====
 
-To help translators make the best translation possible, Translation Resources have been created. The Resources include translationNotes, translationWords, and translationQuestions.
+ 
+The UDB and all of the translationNotes, translationWords and translationQuestions have been included in the translationStudio mobile app. 
 
-The **translationNotes** are cultural, linguistic, and exegetical notes that help to describe and explain the context in which the stories from Open Bible Stories and the Bible was written as well as inform the translator of translation options available to them. See [[en:ta:vol1:translate:resources_types]] for more information.\\
 
-The **translationWords** are important terms found in Open Bible Stories and the Bible. It is crucial that they be translated correctly. Each translationWord has a small article written about it as well as cross-references to other places that term is used in Open Bible Stories and the Bible to ensure that it has been translated correctly there, too.
+Tap on the **Check** icon that looks like a clipboard with a check mark.
+  * Tap on the word "Notes" for the translationNotes. The words or phrases are listed as they appear in the story or in the ULB. Tap on the phrase for help in understanding how to translate into the target language. See [[en:ta:vol1:translate:resources_types]] for more information.
+  * Tap on the word "Words" for the translationWords. The words are listed as they appear in the story on in the ULB.Tap on the word or phrase for help in understanding how to translate the word into the target language.
+  * Tap on the word "Questions" for the translationQuestions. The questions are about information as it appears in the story on in the ULB.Read the question and answer it according to the translated text. Tap on the question for the expected answer. If the given answer and the expected answer are the same then the translation might be clear and accurate.
+  * Tap on the initials "UDB" for the Unlocked Dynamic Bible. It will open at the same spot that you are in the ULB. Read the text. Perhaps the UDB is clearer to understand for this chunk.
 
-The **translationQuestions** are available for the translator to check their work. These questions can be asked of anyone checking the translation work. Read the question, answer the question from the information in the translated text, look at the answer in the program. Do both of the answers match? Then the translation is clear and accurate.
+When you are done with the Resources, swipe from left to right to make the pane go away.
 
-Once you have consulted the Translation Resources, then you are ready to make the best translation.
-
-**Please use the Translation Resources when checking your translation!**
 
 
 
 //Next we recommend you learn about://
   * //[[en:ta:vol1:tech:ts_translate|Translating in translationStudio]]//
   * //[[en:ta:vol1:tech:ts_create|Create and Edit Text]]//
-  * //[[en:ta:vol1:tech:ts_resources|Find the Resources in translationStudio]]//
+  * //[[en:ta:vol1:tech:ts_useresources|How to Use the Resources in translationStudio]]//
   * //[[en:ta:vol1:translate:resources_types|translationNotes]]//
 
-----
-
-https://pad.door43.org/p/ta-tS_useresources
 
 {{tag>epady}}
