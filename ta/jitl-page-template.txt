@@ -25,10 +25,10 @@ Purpose of the linguistic topic we are describing (what it communicates. Not pur
 
 **Translation Principles  (optional)**
 ==== Examples from the Bible ====
->ULB Text. (Book c:v, ULB ) Use ">" to indent it.
+>ULB Text. (Book c:v ULB) Use ">" to indent it.
 Explanation of how this is an example.  (Don't indent or bullet this.)
 
->You cannot serve God and wealth. (Matthew 6:24, ULB)   
+>You cannot serve God and wealth. (Matthew 6:24 ULB)   
 Jesus speaks of wealth as if it were a master whom people might serve. Loving money and basing our decisions on it is like serving it as a slave would serve his master.  
 
 >Does not Wisdom call out? Does not Understanding raise her voice? (Proverbs 8:1 ULB) \\ 
