@@ -6,8 +6,14 @@ The script on this page searches for a string of text anywhere in the notes, the
 
 //Note: Special characters and symbols must be preceded by a backslash "\".//
 
+This search is to find references where note states "verse x:y". 
+  - Verse is not to be included 
+  - all verse references are to be links.
 
-search results:
 
+Some search string ideas:
+  * "verse"
+  * "v."
+  * "v"
 
 {{door43pages @:en:bible:notes -r -q="See v" -exclude:home -simpleLineBreak -title -fontsize="90%"}}
