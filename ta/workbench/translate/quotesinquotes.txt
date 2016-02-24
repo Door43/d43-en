@@ -40,13 +40,15 @@ Explanation of how this is an example.  (Don't indent or bullet this.)
 
    
 ===== Translation Strategies =====
-If (an) x would be natural and give the right meaning in your language, consider using it/one. If not, here [are other options / is another option] \\ 
 
+Some languages don't tolerate many levels of embedded quotes. Some use only direct quotes and others use only indirect ones. Here are ways to indicate quotes within quotes:
 
-I'm banging down ideas. They are not worded well.
-  - Use double quotes for the first quotation. Use single quotes for the quotation in it. Use double quotes for a quotation in that one. 
-  - Translate an embedded quote as an indirect quote.
-  - If a quote is very long and has many quotes within it, do not use quote marks on the main quote. Instead mark it off by indenting it, and use the quote marks only for the quotes within it.
+  - Use double quote marks for the first (overall) quotation. Use single quote marks around any quotation(s) within that first one. If there are further quotations within the single-quote-marked quotations, then use double quotes around those. And for a fourth layer, use single again.
+  - Or, translate an embedded quote as an indirect quote. See Speech Quotations.
+  - Or, if a quotation is very long and has many quotations within it, do not use quote marks on the main, overall quotation. Instead indent it, and use quote marks only for the quotations within it.
+
+Restructuring employs freer word choice, and it is up to the translator to determine how free he will allow the word choice to be.
+
 ===== Examples of Translation Strategies Applied =====
 
 {{tag>draftcb epadn}}~~DISCUSSIONS~~
