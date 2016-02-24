@@ -19,5 +19,5 @@ This search needs to be run for each of the following terms:
 search results:
 
 
-^  IT link  ^  Note link  ^  IT link only  ^
-|{{door43pages @:en:bible:notes -r -q="\[\[en:obe:other:biblical" -exclude:home -simpleLineBreak -title -fontsize="90%"}}  |{{door43pages @:en:bible:notes -r -q="\[\[en:obe:other:biblical" -exclude:home -simpleLineBreak -title -fontsize="90%"}}  |{{door43pages @:en:bible:notes -r -q="(?!See: \[\[en:obe:other:biblical)(?=\[\[en:obe:other:biblical)" -exclude:home -simpleLineBreak -title -fontsize="90%"}}  |
+^  All links  ^  Note links  ^  IT links  ^
+|{{door43pages @:en:bible:notes -r -q="\[\[en:obe:other:biblical" -exclude:home -simpleLineBreak -title -fontsize="90%"}}  |{{door43pages @:en:bible:notes -r -q="\(See: \[\[en:obe:other:biblical" -exclude:home -simpleLineBreak -title -fontsize="90%"}}  |{{door43pages @:en:bible:notes -r -q="(?!\(See: \[\[en:obe:other:biblical)(?=\[\[en:obe:other:biblical)" -exclude:home -simpleLineBreak -title -fontsize="90%"}}  |
