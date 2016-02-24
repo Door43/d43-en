@@ -10,4 +10,4 @@ Remove Notes in support of ULB footnotes.
 
 search results:
 
-{{door43pages @:en:bible:notes -r -q="ULB.*\\ft" -exclude:home -simpleLineBreak -title -fontsize="90%"}}
+{{door43pages @:en:bible:notes -r -q="ULB\.\*\\ft" -exclude:home -simpleLineBreak -title -fontsize="90%"}}
