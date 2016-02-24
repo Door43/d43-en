@@ -77,6 +77,40 @@ The following lists are the pages that need editing. The steps through the membe
 ==== Formatting Standard for "Topic" Page: ====
 
 <code>
+
+
+==== Major Heading 1 should have 4 = signs, one space before and after the text ====
+
+
+Write text here. Add a blank line above and below each paragraph and heading.
+
+
+Next paragraph here.
+
+
+==== Major Heading 2 ====
+
+
+=== Sub-Heading 1 should have 3 = signs, one space before and after the text ===
+
+
+=== Sub-Heading 2 ===
+
+
+== Sub-Sub-Heading 1 should have 2 = signs, one space before and after the text ==
+
+
+>//Bible Verse or Example//
+
+
+Text here. No space below a paragraph that has a bulleted or numbered list immediately following.
+  * bulleted list (two spaces before *, one space after, additional bullet points directly below e.g. no blank line)
+    * sub-bulleted list (4 spaces before *, one space after)
+
+
+  - numbered list (two spaces before -, one space after, additional numbered lines directly below e.g. no blank line - adding a blank line will reset the numbers)
+    - sub-numbered list (4 spaces before -, one space after)
+
 ====== topic ======
 
 ===== Description =====
