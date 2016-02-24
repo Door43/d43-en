@@ -13,16 +13,17 @@
 ==== Description ====
 Definition  
 
+>Bible Example  (Book cc:vv ULB) or
+
   * Short example(s) that we make up
 
->Bible Example  (Book cc:vv ULB)
+
 
 Purpose of the linguistic topic we are describing (what it communicates. Not purpose of this page)  (optional)
 
 **Reason this is a translation issue:** (recommended) If there is one reason, it can be written on the same line. If there are multiple reasons, they can in a bulleted list below. \\
 
 **Translation Principles  (optional)**
-
 ==== Examples from the Bible ====
 >ULB Text. (Book c:v, ULB ) Use ">" to indent it.
 Explanation of how this is an example.  (Don't indent or bullet this.)
