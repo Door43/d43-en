@@ -1,4 +1,4 @@
-====== Search 009: Topic ======
+====== Search 009: ULB Footnotes ======
 
 ~~NOCACHE~~
 
@@ -6,6 +6,7 @@ The script on this page searches for a string of text anywhere in the notes, the
 
 //Note: Special characters and symbols must be preceded by a backslash "\".//
 
+Remove Notes in support of ULB footnotes.
 
 search results:
 
