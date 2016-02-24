@@ -1,38 +1,35 @@
-===== Resources - Important Terms and Translation Notes =====
-**VERSION 3**
-To help translators make the best translation possible, Translation Resources have been created. The Resources include Translation Notes, Important Terms, and Translation Questions.
+===== How to Use the Resources in translationStudio =====
 
+//This page answers the question:// //How do I use the Resources in translationStudio?//
 
-**Translation Notes** are cultural, linguistic, and exegetical notes that help to describe and explain the context in which the stories from Open Bible Stories and the Bible was written as well as inform the translator of translation options available to them.\\
+//In order to understand this topic, it would be good to read://
+  * //[[en:ta:vol1:tech:ts_create|Create and Edit Text]]//
+  * //[[en:ta:vol1:translate:resources_intro|Introduction to Resources]]//
 
+==== Resources in tS ====
 
-The **Important Terms** are key terms found in Open Bible Stories and the Bible. It is crucial that they be translated correctly. Each Important Term has a small article written about it as well as cross-references to other places that term is used in Open Bible Stories and the Bible to ensure that it has been translated correctly there, too.\\
+To help translators make the best translation possible, Translation Resources have been created. The Resources include translationNotes, translationWords, and translationQuestions.
 
+The **translationNotes** are cultural, linguistic, and exegetical notes that help to describe and explain the context in which the stories from Open Bible Stories and the Bible was written as well as inform the translator of translation options available to them. See [[en:ta:vol1:translate:resources_types]] for more information.\\
 
-The **Translation Questions** are available for the translator to check their work. These questions can be asked of anyone checking the translation work. Read the question, answer the question from the information in the translated text, look at the answer. Do both of the answers match? Then the transaltion is clear and accurate.
+The **translationWords** are important terms found in Open Bible Stories and the Bible. It is crucial that they be translated correctly. Each translationWord has a small article written about it as well as cross-references to other places that term is used in Open Bible Stories and the Bible to ensure that it has been translated correctly there, too.
 
+The **translationQuestions** are available for the translator to check their work. These questions can be asked of anyone checking the translation work. Read the question, answer the question from the information in the translated text, look at the answer in the program. Do both of the answers match? Then the translation is clear and accurate.
 
-Once you have consulted the Translation Resources, then you are ready to make the best translation.\\
+Once you have consulted the Translation Resources, then you are ready to make the best translation.
+
 **Please use the Translation Resources when checking your translation!**
 
 
-----
-**VERSION 2**
 
-View this {{:en:ta:tech:translating_in_ts_-_obs_v2.mp4|Resources Video}}  to learn how to:
-
-  * Start work
-  * Navigate in the work area
-  * Learn where to enter your translation text
-  * Open the Resources tool
-  * Find important terms
-  * Find translation notes
-
-Go back to the __[[https://door43.org/en/ta/tech/ts|translationStudio]]__ page.
+//Next we recommend you learn about://
+  * //[[en:ta:vol1:tech:ts_translate|Translating in translationStudio]]//
+  * //[[en:ta:vol1:tech:ts_create|Create and Edit Text]]//
+  * //[[en:ta:vol1:tech:ts_resources|Find the Resources in translationStudio]]//
+  * //[[en:ta:vol1:translate:resources_types|translationNotes]]//
 
 ----
 
-https://pad.door43.org/p/ta-tS_resources\\
 https://pad.door43.org/p/ta-tS_useresources
 
 {{tag>epady}}
