@@ -1,73 +1,41 @@
 ===== How to Translate =====
 
 A basic translation process for any unfoldingWord project is explained here.
-
-Note: the recommendations of the [[http://www.forum-intl.org/resources|Forum of Bible Agencies]] is a helpful reference in the translation of any theological text.
-
+ 
+Note: the recommendations of the Forum of Bible Agencies (see http://www.forum-intl.org/resources ) is a helpful reference in the translation of any theological text.
+ 
 ==== Translating the Text ====
-
+ 
 As you translate, be sure that you:
-
   * pray that God would help you make an easily-understandable, Scripturally-accurate translation
   * translate everything that is in the source language
-  * don't add anything that that is not necessary for comprehension
-  * always do your translation according to the [[:en:translation-guidelines|Translation Guidelines]]
-  * always do your translation according to the [[:en:statement-of-faith|Statement of Faith]]
-  * use the [[:en:obs:notes|Translation Notes]] and the [[:en:obe:ktobs|Important Terms]] to help you make a better translation
-
+  * do not add anything that that is not necessary for comprehension
+  * always do your translation according to the Translation Guidelines (see [[:en:ta:vol1:intro:translation_guidelines]])
+  * always do your translation according to the Statement of Faith (see [[:en:ta:vol1:intro:statement_of_faith]])
+  * use the translationNotes (see door43.org/en/obs/notes ) and the translationWords (see door43.org/en/obe/home ) to help you make a better translation
+ 
 ==== What To Start Translating ====
-
-We recommend that you begin by translating Open Bible Stories. You can work your way through the Stories however you want, but we have found [[:en:obs:31|Story #31]] is a good first story to translate since it is short and easy to understand.
-
+ 
+We recommend that you begin by translating Open Bible Stories. You can work your way through the Stories however you want, but we have found Story #31 (see door43.org/en/obs/31 ) is a good first story to translate since it is short and easy to understand. For more information read [[en:ta:vol1:translate:translate_what]].
+ 
 ==== Translate from the Source Language ====
+ 
+**Note:** "Source Language" refers to the language from which the translation is being done. "Target Language" refers to the language into which the translation is being done.''
+ 
+The **Chapter or Story** icon is the top left and looks like full sheets of paper. Swipe up to read the entire chapter or story. Swipe to the side for a blank page to type in the target language translation of the text. See [[en:ta:vol1:tech:ts_create]] to learn how to write your translation.\\
+ 
+The **Chunk** icon is the middle icon on the left and looks like a solid line square over a dotted line square. Swipe down or up to move from chunk to chunk (a small section of the story or chapter). Swipe  to the side for a blank page to type in the target language translation of the text.\\
+ 
+The **Check** icon is the bottom icon on the left and looks like a clipboard with a check mark. In this view the source text is on the left, the translation work is on the right. Swipe to the left side to show the resources for that chunk. Swipe up or down to move from chunk to chunk. The UDB and all of the translationNotes, translationWords and translationQuestions have been included in the translationStudio mobile app. See [[en:ta:vol1:tech:ts_resources]] for more information.
 
-''Note: "Source Language" refers to the language from which the translation is being done. "Target Language" refers to the language into which the translation is being done.''
 
-When the target language is [[https://door43.org/obs-setup|set up]] on Door43, the source language can be chosen from a list of approved source languages. After it has been set up, the page for the target language will be populated with Open Bible Stories from the source language. The translator can then translate from the source language into the target language and then delete the source language when translation is completed. (For help on how to edit Door43, click here:NEED LINK)
+When you are done with the Resources, swipe from left to right to make the pane go away.
 
-==== Help with Translating ====
 
-=== Translation Notes & Important Terms ===
+Tap on the pencil icon in the center section to make corrections to the translation. Use the slider to mark the translation for that chunk done.
 
-To help translators make the best translation possible, [[:en:obs:notes|Translation Notes]] and [[:en:obe:kt:home|Open Bible Encyclopedia]] have been created.
 
-Translation Notes are cultural, linguistic, and exegetical notes that help to describe and explain the context in which the stories from Open Bible Stories was written as well as inform the translator of translation options available to them.
-
-The Important Terms are key terms found in Open Bible Stories that are very crucial that they be translated correctly. Each Important Term has a small article written about it as well as cross-references to other places that term is used in Open Bible Stories to ensure that it has been translated correctly there, too.
-
-Once you have consulted the Translation Notes and Important Terms, then you are ready to make the best translation.
-
-**Please use the Translation Notes & Important Terms when doing your translation!**
-
-=== Use the Translation Notes on Door43 ===
-
-It is best to open the webpage of the story in the target language and the webpage of the story with [[:en:obs:notes|Translation Notes]]. Unless someone has already translated the Translation Notes into the target language, they will be in the source language.
-
-This [[http://youtu.be/5fFl8crhglE|video]] (1 minute 20 seconds) will give a quick overview of how to use the Translation Notes.
-
-  * The stories are separated into separate pages by the pictures (called frames).
-  * Each page has the picture and the text, in the source language, from the story.
-  * There is a list of the Important Terms that need to be translated correctly. Click on the green word to go to another page that will give more information on how to translate the very important word.
-  * Translation Notes explains how to translate some of the important words in the story. The definition of the word or phrase should help you understand how to translate.
-
-=== Use the Translation Notes in translationStudio ===
-
-All of the Translation Notes and Important Terms have been included in the translationStudio mobile app.
-
-  * As you are reading the source language, swipe from right to left to pull up the pane that has the Translation Notes and Important Terms for that frame.
-  * Choose the "Important Terms" tab. Click on one of the Important Terms that is there.
-  * When you are done with the Translation Notes and Important Terms, swipe from left to right to make the pane go away.
-  * Continue with your translation.
-
-=== Work with Others who Speak Your Language ===
-
-You are always encouraged to work with other people who speak your language and especially getting your church involved in the translation and checking process. This is very important for [[:en:ta:check|checking Open Bible Stories]]
-
-=== Join the Online Community ===
-
-The Door43 community uses Slack to communicate. When you [[:en:slack|join our slack channels]] you can learn about the benefits and challenges of this application and share your ideas with the developers as well as other translators. Slack works well in a Browser or you may download a native client for it as well.
-
-//Continue to [[:en:ta:check|How to Check Open Bible Stories]]//
+See [[en:ta:vol1:tech:ts_create]] for more information.
 
 ----
 https://pad.door43.org/p/ta-translate_manual Translating the Text
@@ -75,4 +43,4 @@ https://pad.door43.org/p/ta-translate_help Help with Translating
 https://pad.door43.org/p/ta-translate_helpd43 Use the Translation Notes on Door43
 https://pad.door43.org/p/ta-translate_helpts Use the Translation Notes in translationStudio
 
-{{tag>publish epady}} ~~DISCUSSION~~
+{{tag>epady}} ~~DISCUSSION~~
