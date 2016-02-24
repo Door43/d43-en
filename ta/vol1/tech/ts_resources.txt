@@ -1,6 +1,6 @@
 ===== Find the Resources in translationStudio =====
 
-//**This page answers the question:**// //How do I find Resources in translationStudio?//
+//This page answers the question:// //How do I find Resources in translationStudio?//
 
 //In order to understand this topic, it would be good to read://
   * //[[en:ta:vol1:tech:ts_create|Create and Edit Text]]//
@@ -8,16 +8,17 @@
 
 ==== translationStudio v3 ====
 
-  * Click on the icon to view the panel.
-  * Choose the heading of 'Words' for links to the information about translationWords.
-  * Choose the heading of 'Notes' for the translationNotes.
+ 
+The UDB and all of the translationNotes, translationWords and translationQuestions have been included in the translationStudio mobile app. 
 
-==== translationStudio v2.3 ====
 
-  * When editing - click on the word 'Resources' on the top bar.
-  * Tap the word 'Notes' for the translationNotes.
-  * Tap the word 'Words' for the translationWords. 
+Tap on the **Check** icon that looks like a clipboard with a check mark.
+  * Tap on the word "Notes" for the translationNotes. The words or phrases are listed as they appear in the story or in the ULB. Tap on the phrase for help in understanding how to translate into the target language. See [[en:ta:vol1:translate:resources_types]] for more information.
+  * Tap on the word "Words" for the translationWords. The words are listed as they appear in the story on in the ULB.Tap on the word or phrase for help in understanding how to translate the word into the target language.
+  * Tap on the word "Questions" for the translationQuestions. The questions are about information as it appears in the story on in the ULB.Read the question and answer it according to the translated text. Tap on the question for the expected answer. If the given answer and the expected answer are the same then the translation might be clear and accurate.
+  * Tap on the initials "UDB" for the Unlocked Dynamic Bible. It will open at the same spot that you are in the ULB. Read the text. Perhaps the UDB is clearer to understand for this chunk.
 
+When you are done with the Resources, swipe from left to right to make the pane go away.
 
 
 

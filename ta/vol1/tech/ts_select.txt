@@ -1,30 +1,65 @@
 ===== Select Source and Target Languages =====
 
-//**This page answers the question:**// //How do I select source and target languages?//
+//This page answers the question:// //How do I select source and target languages?//
 
 //In order to understand this topic, it would be good to read://
   * //[[en:ta:vol1:tech:ts_install|Install translationStudio on an Android Device]]//
 
-==== Source & Target Languages ====
+==== VERSION 3 ====
 
-You can select and change your source language and target language whenever you use translationStudio.\\
+You can select and change your source language and target language whenever you use translationStudio.
 
-**Note:** The first time you use the application, translationStudio opens at the **Translation Projects** screen so you can select the target language. \\
+**Note:** The first time you use the application, translationStudio opens at the **Translation Projects** screen so you can select the target language. 
 
 Complete these steps to select or change the target language, which is the language you are translating TO:
-  - Tap the three dots icon.
-  - Choose **My Translations**
-  - Tap the blue circle with a + sign.
-  - Swipe up to find the target language or tap the look-up icon. The search field opens and the keyboard appears. Type the first few letters of your language to navigate to that portion of the list.
-  - Tap on your language. If you wish to hide the keyboard, tap the triangle in the black bar below the list.
-  - Choose a project to start translating.
 
+If you are not on the 'Your Translation Projects' screen:
+  - Tap on 3 dots located at bottom left of the screen.
+  - Choose **My Translations** from the menu.
+The App will open the 'Your Translation Projects' screen.
+
+On the 'Your Translation Projects' screen:
+  - Tap the blue circle with a + sign
+  - Swipe up (place a finger on the white area and slide up) to find the target language or tap the look-up icon located at the top right of the screen. The look-up icon is a circle with a line that looks like a magnifying glass.
+  - The search field opens and the keyboard appears. Type the first few letters of your language to show that portion of the language list.
+  - Tap on your language. The keyboard should disappear.
+  - Choose a project from the 'Bible: NT', 'Bible: OT' or 'Open Bible Stories' to start translating.
+    - In the Bible: NT or Bible: OT projects you will need to then choose a book for the project.
+    - An Open Bible Stories project will open to the first paragraph of The Creation.
+  - The new translation project opens.
 
 Complete these steps to select or change the source language, which is the language you are translating FROM:
 In the translation project:
-  - Tap the square icon with the + and - sign found at the top right of the source text window.
+  - A new translation project will prompt you to 'Chose source translation(s) to begin reading and translating'. 
+    - Tap the square icon with the + and - sign directly under the prompt.
+  - You may also tap the square icon with the + and - sign found at the top right of the source text window.
   - Tap the empty square box next to the desired source language.
-  - Tap on "Confirm" at the bottom of the window to save the selection. Or, tap on "Cancel" to close and not save the selected language.
+  - Tap on "Confirm" at the bottom of the window to save the selection. Or, tap on "Cancel" to close and not save the selected language. There MUST be a source language chosen.
+
+----
+==== VERSION 2 ====
+
+You can select and change your source language and target language whenever you use translationStudio.
+
+**Note:** The first time you use the application, translationStudio opens at the **Project Settings** screen so you can select your languages. To get to this screen any other time, tap **Project Settings** in the green bar at the top of the screen.
+
+Complete these steps to select or change the target language, which is the language you are translating TO:
+  - Tap **Project ****Settings**.
+  - The gray bar under **Target Language**  shows the current target language. Tap the gray bar to open the list of available target languages.
+  - Tap above the list to open the keyboard.
+  - Type the first few letters of your language to navigate to that portion of the list.
+  - Tap on your language. If you wish to hide the keyboard, tap the triangle in the black bar below the list.
+  - When you have selected your language, tap **OK **  in the upper right corner.
+  - If you are satisfied with your target language, tap **OK **  again in the upper right corner. Otherwise repeat these steps to select the correct language.
+
+Complete these steps to select or change the source language, which is the language you are translating FROM:
+  - Tap **Project ****Settings**.
+  - The gray bar under **Source Language**  shows the current source language (English is the default language). Tap the gray bar to open the list of available source languages.
+  - Tap above the list to open the keyboard.
+  - Type the first few letters of your language to navigate to that portion of the list.
+  - Tap on the desired source language. To hide the keyboard, tap the triangle in the black bar below the list.
+  - When you have selected your language, tap **OK **  in the upper right corner.
+  - If you are satisfied with your source language, tap **OK **  again in the upper right corner. Otherwise repeat these steps to select the correct language.
 
 
 

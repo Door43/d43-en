@@ -1,6 +1,6 @@
 ===== Language Information =====
 
-//**This page answers the question:**// //How do I find language information?//
+//This page answers the question:// //How do I find language information?//
 
 //In order to understand this topic, it would be good to read://
   * //[[en:ta:vol1:tech:uw_app|unfoldingWord Mobile App]]//
@@ -12,7 +12,7 @@ For each resource, there is a dropdown in the top right-hand corner.
 
 All the languages that have published content for that resource will appear. 
 
-Note: As translations are published, you must manually [[en:ta:vol1:tech:uW_update_content|update]] the app to get that new content. 
+Note: As translations are published, you must manually update (see [[en:ta:vol1:tech:uW_update_content]]) the app to get that new content. 
 
 
 

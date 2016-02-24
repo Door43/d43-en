@@ -1,15 +1,15 @@
 ===== Update translationStudio Projects =====
 
-//**This page answers the question:**// //How do I update translationStudio projects?//
+//This page answers the question:// //How do I update translationStudio projects?//
 
 //In order to understand this topic, it would be good to read://
   * //[[en:ta:vol1:tech:ts_install|Install translationStudio on an Android Device]]//
 
 ==== How to Update tS Projects ====
 
-To update project information on your device, complete the steps below. The translationStudio program is updated each time you open the app.\\
+To update project information on your device, complete the steps below. The translationStudio program is updated each time you open the app.
 
-**Note:** This process requires an Internet connection.\\
+**Note:** This process requires an Internet connection.
 
 To update translationStudio projects:
   - In the **Your Translation Projects** section, tap the three dots on the left.

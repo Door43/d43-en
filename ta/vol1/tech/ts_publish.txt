@@ -1,6 +1,6 @@
 ===== Publish Content to unfoldingWord =====
 
-//**This page answers the question:**// //How do I publish content to unfoldingWord?//
+//This page answers the question:// //How do I publish content to unfoldingWord?//
 
 //In order to understand this topic, it would be good to read://
   * //[[en:ta:vol1:tech:ts_share|Backup and Share Your Work]]//
@@ -42,7 +42,7 @@ At this point your work will be accessible on Door43 and may be downloaded and s
     - Provide your name in the **Requestor** field.
     - Provide your email address in the **Email** field. Please respond to any emails regarding this publication request in a timely manner to prevent delays in the approval process.
     - Indicate the **Resource Type** from the dropdown box.
-    - Select the translation language from the dropdown box. If your language is not listed, send an email to [[help@door43.org]]. Also see [[en:ta:vol1:tech:ts_request|Find My Language]].
+    - Select the translation language from the dropdown box. If your language is not listed, send an email to [[help@door43.org]]. Also see Find My Language (see [[en:ta:vol1:tech:ts_request]]).
     - Select the translation source from the **Source Text**  dropdown box.
     - Type the version of the source you used in the **Source Version** field.
     - Select the checking level for your text from the **Requested checking level** dropdown box.

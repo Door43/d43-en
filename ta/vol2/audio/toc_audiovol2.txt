@@ -1,6 +1,6 @@
 ===== Audio Manual =====
 
-//**This page answers the question:**// //What is in the audio manual?//
+//This page answers the question:// //What is in the audio manual?//
 
 ===== Audio Manual Table of Contents =====
 
@@ -69,6 +69,7 @@
   - [[en:ta:vol2:audio:audio_distribution]]
     - [[en:ta:vol2:audio:audio_distribution_license]]
     - [[en:ta:vol2:audio:audio_distribution_local]]
+    - [[en:ta:vol2:audio:audio_distribution_door43]]
     - [[en:ta:vol2:audio:audio_publishing_unfoldingword]]
     - [[en:ta:vol2:audio:audio_distribution_preparing_content]]
     - [[en:ta:vol2:audio:audio_distribution_offline]]
@@ -81,12 +82,7 @@
       - [[en:ta:vol2:audio:audio_distribution_best_solutions]]
   - [[en:ta:vol2:audio:audio_recommended_equipment]]
     - [[en:ta:vol2:audio:audio_microphone]]
-      - [[en:ta:vol2:audio:audio_mic_design_types]]
-      - [[en:ta:vol2:audio:audio_mic_connectivity_types]]
-      - [[en:ta:vol2:audio:audio_mic_recommended]]
     - [[en:ta:vol2:audio:audio_interfaces]]
-      - [[en:ta:vol2:audio:audio_interfaces_usb]]
-      - [[en:ta:vol2:audio:audio_interfaces_firewire]]
     - [[en:ta:vol2:audio:audio_recommended_playback_equipment]]
       - [[en:ta:vol2:audio:audio_recommended_headphones]]
       - [[en:ta:vol2:audio:audio_recommended_monitors]]
@@ -113,7 +109,6 @@
     - [[en:ta:vol2:audio:audio_guides_normalizing]]
     - [[en:ta:vol2:audio:audio_guides_conversion_batch]]
     - [[en:ta:vol2:audio:audio_guides_rename_batch]]
-  - [[en:ta:vol2:audio:audio_definitions]]
   - [[en:ta:vol2:audio:audio_checklists]]
     - [[en:ta:vol2:audio:audio_checklist_preparing_project]]
     - [[en:ta:vol2:audio:audio_checklist_recording_process]]

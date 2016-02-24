@@ -1,12 +1,13 @@
 ===== Background Information =====
 
-//**This page answers the question:**// //What is background information and how can I show that some information is background information?//
+//This page answers the question:// //What is background information and how can I show that some information is background information?//
 
 //In order to understand this topic, it would be good to read://
   * //[[en:ta:vol2:translate:writing_intro|Writing Styles]]//
 
 When people tell a story, they normally tell the events in the order that they happened. Sometimes an author may give some background information to help his listeners understand the story. The background information might be about things that happened before the events he has already told about, or it might explain something in the story, or it might be about something that would happen much later in the story. The story teller and translator need to tell the story in a way that people will know whether an event is background information and be able to understand what order the events happened in.
-===== Description =====
+
+==== Description ====
 
 Every story has a storyline. The storyline tells a series of events mostly in the time order that the events happened. It is full of action verbs that moves the reader along the storyline. Occasionally an author may take a break from the storyline to share something of interest. This break is called **background information.**  The underlined sentences in the story below are all background information.
 
@@ -24,24 +25,36 @@ Sometimes the author makes a break in the story to tell about something that had
 **Reason this is a translation issue** 
   * Translators need to know whether or not the events in the Bible happened in the same order that they are told. 
   * Translators will need to translate the story in a way that their own readers will understand the order of events. 
-===== Examples from the Bible =====
-**Hagar gave birth to Abram's son, and Abram named his son, whom Hagar bore, Ishmael. Abram __was__ eighty-six years old when Hagar bore Ishmael to Abram.**  (Genesis 16:16)\\
+
+==== Examples from the Bible ====
+
+>//Hagar gave birth to Abram's son, and Abram named his son, whom Hagar bore, Ishmael. Abram __was__ eighty-six years old when Hagar bore Ishmael to Abram.// (Genesis 16:16)
+
 The first sentence tells about two events. Hagar gave birth and Abraham named his son. The second sentence is background information about how old Abram was when those things happened.
 
-**Now Jesus himself, when he began to teach, __was__ about thirty years of age. He __was__ the son (as was supposed) of Joseph, the son of Heli.**   (Luke 3:23) \\ 
+>//Now Jesus himself, when he began to teach, __was__ about thirty years of age. He __was__ the son (as was supposed) of Joseph, the son of Heli.// (Luke 3:23)
+
 The verses before this tell about when Jesus was baptized. This sentence introduces background information about Jesus’ age and ancestors. The story starts up again in chapter 4 where it tells about Jesus going to the wilderness.
-===== Translation Strategies =====
+
+==== Translation Strategies ====
+
 To keep translations clear and natural you will need to study the grammar and punctuation of your language. Observe how your language presents background information in writings. Follow those same grammar rules when you translate.
   - Use your language's way of showing that certain information is background information.
   - Reorder the information so that that earlier events are mentioned first.  (This is not always possible when the background information is very long.)
-===== Examples of Translation Strategies applied ===== 
+
+==== Examples of Translation Strategies applied ====
+
 1. Use your language's way of showing that certain information is background information. The examples below explain how this was done in the ULB English translations.
 
-  * **Now Jesus himself, when he began to teach, __was__ about thirty years of age. He __was__ the son (as was supposed) of Joseph, the son of Heli.** (Luke 3:23) - English uses the word "now" to show that there is some kind of change in the story. The verb "was" shows that it is background information.
+>//Now Jesus himself, when he began to teach, __was__ about thirty years of age. He __was__ the son (as was supposed) of Joseph, the son of Heli.// (Luke 3:23)
 
-  * **With many other exhortations also, he preached good news to the people. John also rebuked Herod the tetrarch __for marrying his brother’s wife, Herodias__, and __for all the other evil things that Herod had done__. But then Herod did another very evil thing. He had John locked up in prison.**  (Luke 3:18-20) The underlined phrases happened before John rebuked Herod. In English, the helping verb "had" in "had done" shows that Herod did those things before John rebuked him.
+English uses the word "now" to show that there is some kind of change in the story. The verb "was" shows that it is background information.
 
-2. Reorder the information so that that earlier events are mentioned first. \\ 
+>//With many other exhortations also, he preached good news to the people. John also rebuked Herod the tetrarch __for marrying his brother’s wife, Herodias__, and __for all the other evil things that Herod had done__. But then Herod did another very evil thing. He had John locked up in prison.//  (Luke 3:18-20) 
+
+The underlined phrases happened before John rebuked Herod. In English, the helping verb "had" in "had done" shows that Herod did those things before John rebuked him.
+
+2. Reorder the information so that that earlier events are mentioned first.
 
   * **Hagar gave birth to Abram's son, and Abram named his son, whom Hagar bore, Ishmael. __Abram was eighty-six years old when Hagar bore Ishmael to Abram__.** (Genesis 16:16)
     * "__When Abram was eighty-six years old__, Hagar gave birth to his son, and Abram named his son Ishmael." 

@@ -1,6 +1,6 @@
 ===== Navigate in translationStudio =====
 
-//**This page answers the question:**// //How do I navigate in translationStudio?//
+//This page answers the question:// //How do I move around in translationStudio?//
 
 //In order to understand this topic, it would be good to read://
   * //[[en:ta:vol1:tech:ts_install|Install translationStudio on an Android Device]]//
@@ -11,26 +11,33 @@ The navigation and menu icons are on the left side of the screen. The top three 
 
 ==== Working Icons ====
 
-The **Chapter or Story** icon is the top left and looks like full sheets of paper. Swipe up to read the entire chapter or story. Swipe to the side for a blank page to type in the target language translation of the text.\\
+The **Chapter or Story** icon is the top left and looks like full sheets of paper. Swipe up to read the entire chapter or story in the source language. Swipe to either side for a blank page to type in the target language translation of the text. (See: [[en:ta:vol1:tech:ts_create]] for more information.)
 
-The **Chunk** icon is the middle icon on the left and looks like a solid line square over a dotted line square. Swipe down or up to move from chunk to chunk (a small section of the story or chapter). Swipe  to the side for a blank page to type in the target language translation of the text.\\
+The **Chunk** icon is the middle icon on the left and looks like a solid line square over a dotted line square. Swipe down or up to move from chunk to chunk (a small section of the story or chapter). Swipe to the side for a blank page to type in the target language translation of the text.
 
-The **Check** icon is the bottom icon on the left and looks like a clipboard with a check mark. In this view the source text is on the left, the translation work is on the right. Swipe to the side to show the resources for that chunk. (See: [[en:ta:vol1:tech:ts_resources]]) Swipe up or down to move from chunk to chunk.
+The **Check** icon is the bottom icon on the left and looks like a clipboard with a check mark. In this view the source text is on the left, the translation work is on the right. Swipe from the right to the left side to show the resources for that chunk. (See: [[en:ta:vol1:tech:ts_resources]] for more information.) Swipe up or down to move from chunk to chunk.
 
 ==== Slider ====
 
-The **Slider** icon is a quick way to move through a story or book of the Bible.  Tap-and-hold the dot and swipe towards the bottom or the top of the slider. 
+The **Slider** icon is a quick way to move through a story or book of the Bible.  Tap-and-hold the dot and swipe towards the bottom or the top of the slider. Numbers may appear on the line that represent the chapter of the book.
 
 ==== Three Dots Menu ====
 
-Tap on the **three dots** to open the working menu. 
-  * My Translations [[en:ta:vol1:tech:ts_open]]
-  * Publish [[en:ta:vol1:tech:ts_publish]]
-  * Backup [[en:ta:vol1:tech:ts_share]]
-  * Feedback or [[en:ta:vol1:tech:ts_problem]]
+Tap on the **three dots** to open the working menu. The edit screen and the Your Translation Projects screen has two different menus.
+
+On the Edit screen the menu has:
+  * My Translations (See: [[en:ta:vol1:tech:ts_open]])
+  * Publish (See: [[en:ta:vol1:tech:ts_publish]])
+  * Backup (See: [[en:ta:vol1:tech:ts_share]])
+  * Print
+  * Feedback (See: [[en:ta:vol1:tech:ts_problem]])
   * Settings
-
-
+On the Translation Projects screen the menu has:
+  * Update Library (See: [[en:ta:vol1:tech:ts_update]])
+  * Import
+  * Feedback (See: [[en:ta:vol1:tech:ts_problem]])
+  * Share this app
+  * Settings
 
 
 
