@@ -1,3 +1,23 @@
-====== Chris' Pages ======
+====== Shortcuts ======
 
+==== Chris' Pages ====
 <nspages en:playground:chrisj -r -title -exclude:home -textPages="">
+----
+==== Phase Two ====
+
+<nspages en:phase2 -r -title -exclude:home -textPages="">
+----
+
+==== Phase One - Admin Reports ====
+<nspages en:phase1:admin-reports -r -title -exclude:home -textPages="">
+
+==== Phase One - Resources ====
+<nspages en:phase1:resources -r -title -exclude:home -textPages="">
+
+==== Phase One - Team Information ====
+=== Job Descriptions ===
+<nspages en:phase1:team-info:job-descriptions -r -title -exclude:home -textPages="">
+=== Processes ===
+<nspages en:phase1:team-info:processes -r -title -exclude:home -textPages="">
+=== Training ===
+<nspages en:phase1:team-info:training -r -title -exclude:home -textPages="">
