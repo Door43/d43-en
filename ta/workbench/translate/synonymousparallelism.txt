@@ -1,17 +1,18 @@
 ====== Parallelism with the Same Meaning ======
 
-This module answers the question: What is parallelism with the same meaning? \\ 
-In order to understand this module, it would be good to read:\\
-  * [[en:ta:vol1:translate:figs_intro]] \\ 
+//This page answers the question: What is parallelism with the same meaning?//
+ 
+//In order to understand this page, it would be good to read://
+  * [[en:ta:vol1:translate:figs_intro]] 
   * [[:en:ta:vol2:translate:figs_parallelism]]
 
-===== Description =====
+==== Description ====
  
-Parallelism with the same meaning is a poetic device in which one complex idea is expressed in two or more different ways.  This is also called "synonymous parallelism." \\ 
+**Parallelism with the same meaning** is a poetic device in which one complex idea is expressed in two or more different ways.  This is also called "synonymous parallelism." \\ 
 
 Note: We use the term "parallelism with the same meaning" for long phrases or clauses that have the same meaning.  We use the term  [[:en:ta:vol2:translate:figs_doublet]] for words or very short phrases that mean basically the same thing and are used together. 
  
-**Yahweh __sees everything a person does__ and __watches all the paths he takes__.** (Proverbs 5:21 ULB)   \\ 
+>Yahweh __sees everything a person does__ and __watches all the paths he takes__. (Proverbs 5:21 ULB) \\
 The first underlined phrase and the second underlined phrase mean the same thing. There are three ideas that are the same between these to phrases. "Sees" corresponds to "watches," "everything … does" corresponds to "all the paths … takes," and "a person" corresponds to "he." 
 
 Synonymous parallelism in poetry has several effects: 
@@ -20,17 +21,16 @@ Synonymous parallelism in poetry has several effects:
   * It makes the language more beautiful and above the ordinary way of speaking. 
  
 **Reason this is a Translation Issue**: In some languages people do not expect someone to say the same thing twice, even in different ways. They expect that if there are two phrases or two sentences, they must have different meanings. So they  do not understand that the repetition of ideas serves to emphasize the idea. 
- 
 
+==== Examples from the Bible ====
 
-===== Examples from the Bible =====
-**Your word is a lamp to my feet and a light for my path.** (Psalm 119:105 ULB) \\ 
+>Your word is a lamp to my feet and a light for my path. (Psalm 119:105 ULB) 
 Both parts of the sentences are metaphors saying that God's word teaches people how to live. The words 'lamp' and 'light' are similar in meaning because they refer to light, and the words 'my feet' and 'my path' are related, because they refer to a person walking. 
 
-**Praise Yahweh, all you nations; exalt him, all you peoples!** (Psalm 117:1 ULB) \\ 
+>Praise Yahweh, all you nations; exalt him, all you peoples! (Psalm 117:1 ULB)   
 Both parts of this verse tell people everywhere to praise Yahweh. The words 'Praise' and 'exalt' mean the same thing, 'Yahweh' and 'him' refer to the same person, and 'all you nations' and 'all you peoples' refer to the same people.  
 
-**For Yahweh has a lawsuit with his people, and he will fight in court against Israel.** (Micah 6:2 ULB) \\  
+>For Yahweh has a lawsuit with his people, and he will fight in court against Israel. (Micah 6:2 ULB) 
 The two parts of this verse say that Yahweh has a serious disagreement with his people, Israel. These are not two different disagreements or two different groups of people. 
  
 ===== Translation Strategies =====
@@ -43,8 +43,8 @@ If your language uses parallelism and it would be appropriate consider using it.
 =====Examples of Translation Strategies Applied =====
  
 1. Combine the ideas of both clauses into one. 
-  * **you have deceived me and told me lies.** (Judges 16:13) - Delilah expressed this idea twice to emphasize that she was very upset. \\ 
-    * "You have deceived me with your lies."
+  * **Until now you have deceived me and told me lies.** (Judges 16:13, ULB) - Delilah expressed this idea twice to emphasize that she was very upset. \\ 
+    * "Until now you have deceived me with your lies."
   * **Yahweh sees everything a person does and watches all the paths he takes.** (Proverbs 5:21 ULB) - The phrase "all the paths he takes" is a metaphor for "all he does." 
     * "Yahweh pays attention to everything a person does."
   * **For Yahweh has a lawsuit with his people, and he will fight in court against Israel.** (Micah 6:2 ULB) - This was one serious disagreement with one group of people.
@@ -61,6 +61,6 @@ If your language uses parallelism and it would be appropriate consider using it.
 ----
 https://pad.door43.org/p/ta-figs_synonparallelism
 
-{{tag>epady review}} ~~DISCUSSIONS~~
+{{tag>chris epadn}} ~~DISCUSSIONS~~
 
 ~~NOCACHE~~
