@@ -13,7 +13,7 @@ Word-for-word substitution results in translations that are awkward to read. The
 
 ==== Examples ====
 
-**Word Order** \\
+=== Word Order === 
 Here is an example of Luke 3:16 in the ULB: 
 >As for me, I baptize you with water, but someone is coming who is more powerful than I, and I am not worthy even to untie the strap of his sandals. He will baptize you with the Holy Spirit and with fire.
 
@@ -31,6 +31,7 @@ In Luke 2:15, it refers to angels when it says “angels had gone away from them
 A word-for-word substitution might translate the Greek word in both verses as “messenger” or “angel” even though it is used to refer to two different kinds of beings.
 
 === Figures of Speech === 
+
 Finally, word-for-word substitution does not convey the meaning of a figure of speech.\\
 Figures of Speech have meanings that are different from the individual words that they are made up of. When they are translated word-for-word, their meanings are not clear. Even if they are translated so that they follow the normal word order of they language they are translated into, their meaning may not be clear. Please go to the [[:en:ta:vol1:translate:figs_intro]] page to learn more on how to correctly translate them.
 
