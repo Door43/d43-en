@@ -2,20 +2,20 @@
 
 We have looked closely at literal translations. Now, we will look at meaning-based translations.
 
-Other Names Meaning-based translations are also called:
+Meaning-based translations are also called:
 
-  * meaning-equivalent
-  * idiomatic
-  * dynamic
+  * meaning-equivalent translations
+  * idiomatic translations
+  * dynamic translations
 
 ==== Key Characteristic ====
 
 The key characteristic of meaning-based translations is that they give priority to the meaning over the form of the text. That is, they **change the form of the text as needed in order to make the meaning clear.**  The most common types of changes that are made are:
 
-  * change word order to match grammar of receptor language
+  * change the word order to match the grammar of receptor language
   * substitute or explain idioms
-  * explain or translate words or terms with deeper meaning (ex: "Golgotha" = "place of the skull")
-  * replace objects or terms that are unknown in the receptor culture with equivalent terms
+  * explain or translate words or terms with deeper meaning (for example, "Golgotha" = "place of the skull")
+  * replace objects or terms that are unknown in the target culture with equivalent terms
 
 === Paraphrases ===
 
@@ -27,29 +27,29 @@ What does a meaning-based translation look like? We will look at how different v
 
 In Luke 3:8, John the Baptist rebukes the self-righteous people who came to be baptized.
 
-The **Greek **  text of the first half of the verse is shown below.
+The **Greek**  text of the first half of the verse is shown below.
 
-Ποιήσατε οὖν καρποὺς ἀξίους τῆς μετανοίας
+>Ποιήσατε οὖν καρποὺς ἀξίους τῆς μετανοίας
 
-The **English **  translation in the same order as each Greek word.
+An **English**  translation of each of the Greek words is given below in the same order as they appear in the Greek text above.
 
-Do/make/produce therefore fruits fit/appropriate of-the repentance
+produce therefore fruits appropriate of-the repentance
 
-=== Literal ===
+=== Literal Translation ===
 
-A literal translate would usually follow the words and order of the Greek text as closely as possible.
+A literal translation would usually follow the words and order of the Greek text as closely as possible.
 
-**Produce fruits that are worthy of repentance**  (Luke 3:8 ULB)
+>Produce fruits that are worthy of repentance  (Luke 3:8 ULB)
 
 Note that this fairly-literal translation retains the words "fruit" and "repentance. The word order is also very similar to the Greek text.
 
-=== Meaning-Based ===
+=== Meaning-Based Translation ===
 
 Meaning-based translations, on the other hand, are more likely to change the words and order if the translators think it will help to clarify the meaning. Consider these two meaning-based translations:
 
-"… prove that you have turned from sin by doing worthy deeds." (Living Bible)
+>"… prove that you have turned from sin by doing worthy deeds." (Living Bible)
 
-"Prove by the way you live that you have repented of your sins and turned to God." (New Living Translation)
+>"Prove by the way you live that you have repented of your sins and turned to God." (New Living Translation)
 
 Notice that both of these translations have changed the word order. Also, the word "fruit" no longer appears. Instead, they refer to "deeds" or to "the way you live." The meaning is the same, but the form is very different.
 
@@ -57,4 +57,4 @@ Notice that both of these translations have changed the word order. Also, the wo
 
 [[https://pad.door43.org/p/ta-translate_dynamic|https://pad.door43.org/p/ta-translate_dynamic]]
 
-{{tag>review epady}}~~DISCUSSION~~
+{{tag>chris epadn}}~~DISCUSSION~~
