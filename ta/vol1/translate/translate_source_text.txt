@@ -12,8 +12,8 @@ When choosing a source text, there are a number of factors that must be consider
   * **[[en:ta:vol1:intro:statement_of_faith]]** - Is the text in line with the Statement of Faith?
   * **[[en:ta:vol1:intro:translation_guidelines]]** - Is the text in line with the Translation Guidelines?
   * **Language** - Is the text in a suitable language that translators and checkers understand well?
-  * **[[en:ta:vol1:translate:translate_source_licensing|Licensing]]** - Is the text released under a license that gives sufficient legal freedom?
-  * **[[en:ta:vol1:translate:translate_source_version|Versioning]]** - Is the text the latest, most updated version?
+  * **[[en:ta:vol1:translate:translate_source_licensing]]** - Is the text released under a license that gives sufficient legal freedom?
+  * **[[en:ta:vol1:translate:translate_source_version]]** - Is the text the latest, most updated version?
   * **[[en:ta:vol2:translate:translate_original]]** - Does the translation team understand the difference between source languages and original languages?
   * **[[en:ta:vol2:translate:translate_manuscripts]]** - Does the translation team understand about Original Manuscripts and [[en:ta:vol2:translate:translate_textvariants]]?
 

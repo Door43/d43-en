@@ -14,15 +14,15 @@ This section explains:
 
 Jesus commanded his disciples to make disciples of EVERY people group:  
 
-<blockquote>"Jesus came to them and spoke to them and said, "All authority has been given to me in heaven and on earth. Go therefore and make disciples of all the nations. Baptize them into the name of the Father, of the Son, and of the Holy Spirit. Teach them to obey all the things that I have commanded you. And see, I am with you always, even to the end of the world.” -Matthew 28:18-20 (ULB)</blockquote>
+>"Jesus came to them and spoke to them and said, "All authority has been given to me in heaven and on earth. Go therefore and make disciples of all the nations. Baptize them into the name of the Father, of the Son, and of the Holy Spirit. Teach them to obey all the things that I have commanded you. And see, I am with you always, even to the end of the world.” -Matthew 28:18-20 (ULB)
 
 We have the promise that one day representatives from EVERY language will be in heaven:  
 
-<blockquote>“After these things I saw, and behold, there was a great crowd, which no one was able to number, out of every nation, tribe, people, and language, standing before the throne and before the Lamb. ” -Revelation 7:9 (ULB)</blockquote>
+>“After these things I saw, and behold, there was a great crowd, which no one was able to number, out of every nation, tribe, people, and language, standing before the throne and before the Lamb. ” -Revelation 7:9 (ULB)
 
 Understanding the WORD OF GOD in one's heart language is so important:  
 
-<blockquote>"So faith comes from hearing, and hearing by the word of Christ." -Romans 10:17 (ULB)</blockquote>
+>"So faith comes from hearing, and hearing by the word of Christ." -Romans 10:17 (ULB)
 
 So, why do we do what we do?   
 
@@ -49,7 +49,7 @@ What do we do?
     * **translationQuestions** - questions for each chunk of text that the translators and checkers can ask to help insure that the translation is being understood correctly. Available for Open Bible Stories and for the Bible (see https://unfoldingword.org/translationquestions/ ).
     * **translationWords** - a list of important Biblical terms with a short explanation, cross references, and translation aids. Useful for Open Bible Stories and the Bible (see https://unfoldingword.org/translationwords/ ). 
 
-  * **Tools** - We create translation, checking, and distribution tools (all of these tools are explained in more detail in the [[en:ta:vol1:tech:toc_techvol1|Technology Manual]])     
+  * **Tools** - We create translation, checking, and distribution tools (all of these tools are explained in more detail in the Technology Manual, see [[en:ta:vol1:tech:toc_techvol1]])     
     * **Door43** - an online translation platform where people can collaborate on translation and checking, also the content management system for unfoldingWord (see https://door43.org ).
     * **translationStudio** - a mobile app and a desktop app where translators can do offline translating (see https://unfoldingword.org/translationstudio/ ).
     * **translationKeyboard** - a mobile app where users can create custom keyboards for languages not supported by their mobile device (see https://unfoldingword.org/translationkeyboard/ ). 
@@ -58,12 +58,13 @@ What do we do?
     * **Video Render Engine** - an automatic video render system that takes audio recordings and merges them with video clips to create custom videos for certain projects   
 
   * **Training** - We create resources to train mother tongue translation teams (the training course is called translationAcademy - see https://unfoldingword.org/academy/ )
-    * **[[:en:ta:vol1:process:toc_processvol1_2|Process Manual]]** - what next step to take
-    * **[[en:ta:vol1:translate:toc_transvol1_2|Translation Manual]]** - how to translate 
-    * **[[:en:ta:vol1:checking:toc_checkvol1_2|Checking Manual]]** -  how to check a translation
-    * **[[:en:ta:vol1:tech:toc_techvol1_2|Technology Manual]]** - how to use the different technology tools
-    * **[[en:ta:vol2:audio:toc_audiovol2|Audio Manual]]** - how to make high quality recordings
-    * **[[en:ta:vol2:gateway:toc_gatewayvol2|Gateway Languages Manual]]** - how to open a gateway langauge
+    * Introduction - introduces the unfoldingWord project (see [[en:ta:vol1:intro:toc_intro]])
+    * Process Manual - answer the question "what next?" (see [[:en:ta:vol1:process:toc_processvol1_2]]) 
+    * Translation Manual - explains the basics of translation theory and practical translation helps (see [[:en:ta:vol1:translate:toc_transvol1_2]])
+    * Checking Manual - explains the basics of checking theory and best practices (see [[:en:ta:vol1:checking:toc_checkvol1_2]])
+    * Technology Manual - explains how to use the different technology tools (see [[:en:ta:vol1:tech:toc_techvol1_2]])
+    * Audio Manual - How to do high quality audio recordings (see [[:en:ta:vol2:audio:toc_audiovol2]])
+    * Gateway Languages Manual - explains issues specific to the Gateway Langauges (see [[:en:ta:vol2:gateway:toc_gatewayvol2]])
 
 
 

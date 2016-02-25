@@ -10,11 +10,11 @@
 
 To help translators make the best translation possible, Translation Resources have been created. The Resources include translationNotes, translationWords, and translationQuestions.
 
-The **translationNotes** are cultural, linguistic, and exegetical notes that help to describe and explain the context in which the stories from Open Bible Stories and the Bible was written as well as inform the translator of translation options available to them.\\
+The **translationNotes** are cultural, linguistic, and exegetical notes that help to describe and explain the context in which the stories from Open Bible Stories and the Bible was written as well as inform the translator of translation options available to them. See [[en:ta:vol1:translate:resources_types]] for more information.\\
 
 The **translationWords** are important terms found in Open Bible Stories and the Bible. It is crucial that they be translated correctly. Each translationWord has a small article written about it as well as cross-references to other places that term is used in Open Bible Stories and the Bible to ensure that it has been translated correctly there, too.
 
-The **translationQuestions** are available for the translator to check their work. These questions can be asked of anyone checking the translation work. Read the question, answer the question from the information in the translated text, look at the answer. Do both of the answers match? Then the transaltion is clear and accurate.
+The **translationQuestions** are available for the translator to check their work. These questions can be asked of anyone checking the translation work. Read the question, answer the question from the information in the translated text, look at the answer in the program. Do both of the answers match? Then the translation is clear and accurate.
 
 Once you have consulted the Translation Resources, then you are ready to make the best translation.
 
@@ -23,20 +23,8 @@ Once you have consulted the Translation Resources, then you are ready to make th
 
 
 //Next we recommend you learn about://
-  * //[[en:ta:vol1:tech:ts_intro|translationStudio]]//
-  * //[[en:ta:vol1:tech:ts_install|Install translationStudio on an Android Device]]//
-  * //[[en:ta:vol1:tech:ts_first|Use translationStudio for the First Time]]//
-  * //[[en:ta:vol1:tech:ts_select|Select Source and Target Languages]]//
-  * //[[en:ta:vol1:tech:ts_open|Opening a Translation Project]]//
-  * //[[en:ta:vol1:tech:ts_navigate|Navigate in translationStudio]]//
-  * //[[en:ta:vol1:tech:ts_request|Find my Language]]//
   * //[[en:ta:vol1:tech:ts_translate|Translating in translationStudio]]//
   * //[[en:ta:vol1:tech:ts_create|Create and Edit Text]]//
   * //[[en:ta:vol1:tech:ts_resources|Find the Resources in translationStudio]]//
-  * //[[en:ta:vol1:tech:ts_share|Backup and Share Your Work]]//
-  * //[[en:ta:vol1:tech:ts_upload|Upload Your Work]]//
-  * //[[en:ta:vol1:tech:ts_update|Update translationStudio Projects]]//
-  * //[[en:ta:vol1:tech:ts_publish|Publish Content to unfoldingWord]]//
-  * //[[en:ta:vol1:tech:translate_helpts|Finding Help for translationStudio]]//
-  * //[[en:ta:vol1:tech:ts_problem|Report a Problem]]//
+  * //[[en:ta:vol1:translate:resources_types|translationNotes]]//
 

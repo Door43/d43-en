@@ -5,19 +5,27 @@
 //In order to understand this topic, it would be good to read://
   * //[[en:ta:vol1:tech:ts_install|Install translationStudio on an Android Device]]//
 
+The translationStudio program is updated each time you open the app. You need to download and update the information in the app manually. To update project information on your device, complete the steps below. 
 ==== How to Update tS Projects ====
-
-To update project information on your device, complete the steps below. The translationStudio program is updated each time you open the app.
-
 **Note:** This process requires an Internet connection.
 
 To update translationStudio projects:
   - In the **Your Translation Projects** section, tap the three dots on the left.
   - In the list of options, tap **Update Library**.
   - This process uses the Internet connection. Tap 'Yes' to continue. Tap 'No' to exit.
-  - Tap on the Open Bible Stories or a Bible book.
-  - Tap on a language. Another window opens - choose to download or not.
-  - When all the desired languages are downloaded, tap the back arrow at the top left of the window to return to the **Translation Projects** section.
+    - The update process runs and then closes the update process window.
+  - Tap on the Open Bible Stories or a Bible book with a round arrow next to the name.
+  - Tap on a language. 
+    - Another window opens - choose to download or not.
+    - The download process runs again and an arrow in a cloud icon appears during the process.
+    - When the download process is completed there is a banner icon on the line of the language. 
+  - When all the desired languages are downloaded, tap on another book to download.
+    - Continue the process for all desired books.
+
+The translationStudio app now has all the updated information for the books that were updated.  
+ 
+=== Close the Library ===
+Tap the back arrow at the top left of the screen to return to the **Translation Projects** section. You may disconnect from the Internet. 
 
 
 
