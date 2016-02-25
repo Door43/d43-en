@@ -1,4 +1,4 @@
-====== Search 010: No Notes ======
+====== Search 010: Topic ======
 
 ~~NOCACHE~~
 
@@ -6,9 +6,5 @@ The script on this page searches for a string of text anywhere in the notes, the
 
 //Note: Special characters and symbols must be preceded by a backslash "\".//
 
-Look for strings of empty Translation note sections.
-
 search results:
 
-
-{{door43pages @:en:bible:notes -r -q="xxx" -exclude:home -simpleLineBreak -title -fontsize="90%"}}
