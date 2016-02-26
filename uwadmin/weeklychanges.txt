@@ -541,6 +541,9 @@
 **[[:nnj:obs|nnj OBS]]**
 {{changes>ns=nnj:obs&maxage=604800&render=pagelist(header,date,user,nocomments)}}
 
+**[[:nns:obs|nns OBS]]**
+{{changes>ns=nns:obs&maxage=604800&render=pagelist(header,date,user,nocomments)}}
+
 **[[:npi:obs|npi OBS]]**
 {{changes>ns=npi:obs&maxage=604800&render=pagelist(header,date,user,nocomments)}}
 
@@ -771,6 +774,9 @@
 
 **[[:ur:obs|ur OBS]]**
 {{changes>ns=ur:obs&maxage=604800&render=pagelist(header,date,user,nocomments)}}
+
+**[[:ur-deva:obs|ur-deva OBS]]**
+{{changes>ns=ur-deva:obs&maxage=604800&render=pagelist(header,date,user,nocomments)}}
 
 **[[:vaa:obs|vaa OBS]]**
 {{changes>ns=vaa:obs&maxage=604800&render=pagelist(header,date,user,nocomments)}}

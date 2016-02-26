@@ -6,7 +6,9 @@
   * //[[en:ta:vol1:tech:ts_install|Install translationStudio on an Android Device]]//
 
 The translationStudio program is updated each time you open the app. You need to download and update the information in the app manually. To update project information on your device, complete the steps below. 
+
 ==== How to Update tS Projects ====
+
 **Note:** This process requires an Internet connection.
 
 To update translationStudio projects:
@@ -23,21 +25,15 @@ To update translationStudio projects:
     - Continue the process for all desired books.
 
 The translationStudio app now has all the updated information for the books that were updated.  
- 
+
 === Close the Library ===
+
 Tap the back arrow at the top left of the screen to return to the **Translation Projects** section. You may disconnect from the Internet. 
 
 
 
 
 //Next we recommend you learn about://
-  * //[[en:ta:vol1:tech:ts_intro|translationStudio]]//
-  * //[[en:ta:vol1:tech:ts_install|Install translationStudio on an Android Device]]//
-  * //[[en:ta:vol1:tech:ts_first|Use translationStudio for the First Time]]//
-  * //[[en:ta:vol1:tech:ts_select|Select Source and Target Languages]]//
-  * //[[en:ta:vol1:tech:ts_open|Opening a Translation Project]]//
-  * //[[en:ta:vol1:tech:ts_navigate|Navigate in translationStudio]]//
-  * //[[en:ta:vol1:tech:ts_request|Find my Language]]//
   * //[[en:ta:vol1:tech:ts_translate|Translating in translationStudio]]//
   * //[[en:ta:vol1:tech:ts_create|Create and Edit Text]]//
   * //[[en:ta:vol1:tech:ts_resources|Find the Resources in translationStudio]]//
@@ -45,6 +41,5 @@ Tap the back arrow at the top left of the screen to return to the **Translation 
   * //[[en:ta:vol1:tech:ts_share|Backup and Share Your Work]]//
   * //[[en:ta:vol1:tech:ts_upload|Upload Your Work]]//
   * //[[en:ta:vol1:tech:ts_publish|Publish Content to unfoldingWord]]//
-  * //[[en:ta:vol1:tech:translate_helpts|Finding Help for translationStudio]]//
   * //[[en:ta:vol1:tech:ts_problem|Report a Problem]]//
 

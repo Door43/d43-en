@@ -361,6 +361,8 @@
 {{changes>ns=nl:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:nnj:obs|nnj OBS]]**
 {{changes>ns=nnj:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
+**[[:nns:obs|nns OBS]]**
+{{changes>ns=nns:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:npi:obs|npi OBS]]**
 {{changes>ns=npi:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:nv:obs|nv OBS]]**
@@ -515,6 +517,8 @@
 {{changes>ns=ums:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:ur:obs|ur OBS]]**
 {{changes>ns=ur:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
+**[[:ur-deva:obs|ur-deva OBS]]**
+{{changes>ns=ur-deva:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:vaa:obs|vaa OBS]]**
 {{changes>ns=vaa:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:vi:obs|vi OBS]]**

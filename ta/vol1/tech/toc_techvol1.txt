@@ -17,12 +17,14 @@
      - [[en:ta:vol1:tech:tS_create]]
      - [[en:ta:vol1:tech:tS_resources]]
      - [[en:ta:vol1:tech:tS_useresources]]
+     - [[en:ta:vol1:tech:tS_markverses]]
      - [[en:ta:vol1:tech:tS_share]]
      - [[en:ta:vol1:tech:tS_upload]]
      - [[en:ta:vol1:tech:tS_update]]
      - [[en:ta:vol1:tech:tS_publish]]
      - [[en:ta:vol1:tech:translate_helptS]]
      - [[en:ta:vol1:tech:tS_problem]]
+     - [[en:ta:vol1:tech:ts_settings]]
 
 === translationKeyboard Mobile App ===
   - [[en:ta:vol1:tech:tK_intro]] 

@@ -1,13 +1,13 @@
 ===== File Naming Standard =====
 
-//This page answers the question:// ////What is the file naming standard for unfoldingWord audio?////
+//This page answers the question:// //What is the file naming standard for unfoldingWord audio?//
 
-==  ==
+====  ====
 
 Also known as a File Naming Convention, a file naming standard identifies a specific, reliable pattern to be followed for naming audio files. This helps maintain excellent organization of audio files during both the recording process and for subsequent distribution, as well as clarity in identification for years to come.
 
 
-====General Guidelines====
+==== General Guidelines ====
 
   * use the official IETF language code found on door43.org
   * use an underscore (_) to separate information fields
@@ -17,7 +17,7 @@ Also known as a File Naming Convention, a file naming standard identifies a spec
 
 
 
-====Open Bible Stories (file as full story)====
+==== Open Bible Stories (file as full story) ====
 
 Template:        language code_content name_story number
 
@@ -28,7 +28,7 @@ Examples:
                 es-419_obs_50
 
 
-====Open Bible Stories (file as story frame)====
+==== Open Bible Stories (file as story frame) ====
 
 Template:        language code_content name_story number-frame number
 
@@ -39,7 +39,7 @@ Examples:
                 es-419_obs_50-17
 
 
-====Scripture====
+==== Scripture ====
 
 Template:        language code_Bible type_book number_book name_chapter number
 
@@ -51,7 +51,7 @@ Examples:
                 en_???_66_rev_22  (???= label accordingly if a different open-licensed text)
 
 
-====Other====
+==== Other ====
 
 When recording draft versions or other scenarios where additional identification is needed, please use the format shown below and simply add an underscore (_) and text that clearly communicates what the file is. For example, a draft version of the first story in English Open Bible Stories would be:
 
@@ -68,4 +68,7 @@ Proper identification of each audio file is very important. Please verify:
   * markers/cues are placed in the audio file for OBS frames or Scripture verses
 
 
+
+//Next we recommend you learn about://
+  * //[[en:ta:vol2:audio:audio_markers|Audio Markers]]//
 

@@ -525,8 +525,12 @@ edge [arrowsize=1.4];
 "tS_install" -> "tS_navigate"
 "tS_problem" [fillcolor="#99ffff"]
 "tS_intro" -> "tS_problem"
+"tS_navigate" -> "tS_problem"
 "tS_publish" [fillcolor="#99ffff"]
 "tS_share" -> "tS_publish"
+"tS_navigate" -> "tS_publish"
+"ts_translate" -> "tS_publish"
+"tS_create" -> "tS_publish"
 "tS_request" [fillcolor="#99ffff"]
 "tS_install" -> "tS_request"
 "tS_resources" [fillcolor="#99ffff"]
@@ -534,8 +538,13 @@ edge [arrowsize=1.4];
 "resources_intro" -> "tS_resources"
 "tS_select" [fillcolor="#99ffff"]
 "tS_install" -> "tS_select"
+"tS_settings" [fillcolor="#99ffff"]
+"tS_intro" -> "tS_settings"
+"tS_install" -> "tS_settings"
+"tS_navigate" -> "tS_settings"
 "tS_share" [fillcolor="#99ffff"]
 "tS_create" -> "tS_share"
+"tS_navigate" -> "tS_share"
 "tS_translate" [fillcolor="#99ffff"]
 "tS_install" -> "tS_translate"
 "tS_update" [fillcolor="#99ffff"]
@@ -752,6 +761,9 @@ edge [arrowsize=1.4];
 "resources_types" [fillcolor="#9999ff"]
 "translate_help" -> "resources_types"
 "resources_intro" -> "resources_types"
+"resources_words" [fillcolor="#9999ff"]
+"resources_porp" -> "resources_words"
+"translate_help" -> "resources_words"
 "toc_transvol1" [fillcolor="#9999ff"]
 "Translation" -> "toc_transvol1"
 "toc_transvol1_2" [fillcolor="#9999ff"]

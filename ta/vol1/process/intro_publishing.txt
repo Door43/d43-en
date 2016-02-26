@@ -21,8 +21,8 @@ When content is published, a copy of what is found on Door43 is published to the
 
 Presently, there are two text resources that can be published using the unfoldingWord publishing engine: 
 
-   * [[en:obs]] - is published at https://unfoldingword.org/stories/
-   * [[en:bible:intro]] - is published at https://bible.unfoldingword.org/ as well as on the language page
+   * Open Bible Stories - is published at https://unfoldingword.org/stories/
+   * The Bible - is published at https://bible.unfoldingword.org/ as well as on the language page
 
 Capacity is being built to be able to handle multimedia formats as well:
 
@@ -32,7 +32,7 @@ Capacity is being built to be able to handle multimedia formats as well:
 
 ==== Published Content ====
 
-In Door43, a brief statement will appear in resources that may be eligible for publishing which states the status of publishing in that namespace. For instance, at the time of writing the [[en:obs]] in English says "This resource is published on unfoldingWord as checking level 3 and version 4. See it at https://unfoldingword.org/stories."
+In Door43, a brief statement will appear in resources that may be eligible for publishing which states the status of publishing in that namespace. For instance, at the time of writing, the Door43 site for Open Bible Stories in English (see door43.org/en/obs ) says "This resource is published on unfoldingWord as checking level 3 and version 4. See it at https://unfoldingword.org/stories ."
 
 
 
