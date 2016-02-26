@@ -11,6 +11,8 @@ Return to: [[:en:phase1:team-info:processes:create-notes|How to Create Translati
       * "X" or "Y"
       * AT: "X" or "Y" (when this is the only item in the note)
       * AT: "X" or "Y." (when it follows other text in the note)
+    * When the suggestions are mixed, separate them with a period.
+      * "X." AT: "Y."
   * Write an explanation if needed.
   * Refer the translators to a Translation Academy page if needed.
     * (See: Metaphor)
