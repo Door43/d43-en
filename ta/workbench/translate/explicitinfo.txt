@@ -1,16 +1,10 @@
 ====== Making Implicit Information Explicit ======
 
-question: How do I make implicit information explicit?
-manual: translate
-volume: 1
-slug: figs_explicitinfo
-dependencies:  ["figs_explicit"]
-status:  Review
-tags: 
-recommended: ["figs_explicit", "figs_metaphor", "figs_simile", "figs_rquestion", "figs_idiom", "figs_irony", "figs_123person", "figs_order", "figs_you", "figs_youdual", "figs_yousingular", "figs_hypo", "figs_events", "figs_parables"]
-original url: https://door43.org/en/ta/workbench/translate/explicitinfo
-credits:
----
+This page answers the question: What more do I need to know about implicit and explicit information? 
+
+In order to understand this page, it would be good to read
+  * [[https://door43.org/en/ta/vol1/translate/figs_explicit]]
+
 ==== Explanation ====
 
 
