@@ -10,7 +10,7 @@ Return to: [[:en:phase1:team-info:processes:create-notes|How to Create Translati
     * If there is more than one suggestion, separate them with the word "or."
       * "X" or "Y"
       * AT: "X" or "Y" (when this is the only item in the note)
-      * AT: "X" or "Y." (when it follows other text in the note)
+      * ...AT: "X" or "Y." (when it follows other text in the note)
     * When the suggestions are mixed, separate them with a period.
       * "X." AT: "Y."
   * Write an explanation if needed.
