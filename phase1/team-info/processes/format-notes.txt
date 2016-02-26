@@ -9,12 +9,12 @@ Return to: [[:en:phase1:team-info:processes:create-notes|How to Create Translati
     * Put the suggestion in quotes.
     * If there is more than one suggestion, separate them with the word "or."
       * "X" or "Y"
-      * AT: "X" or "Y."
+      * AT: "X" or "Y" (when this is the only item in the note)
+      * AT: "X" or "Y." (when it follows other text in the note)
   * Write an explanation if needed.
   * Refer the translators to a Translation Academy page if needed.
     * (See: Metaphor)
   * Normally we do not need to write notes for terms that are in the Important Terms list. However, when an important term has multiple senses, you may need to write a note telling which sense is meant in the text.
-
 ===== Formats for Specific Types of Notes: =====
 
 There are several ways to write translation notes. We would like them to fit into one of the following formats so we can easily train the translators and so they will recognize the purpose of each note.
