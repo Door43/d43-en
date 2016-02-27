@@ -9,7 +9,7 @@
 
 There are several resources available for finding answers to questions: 
 
-  * **[[en:ta|translationAcademy]]** - This training manual has much information including:
+  * **translationAcademy** - This training manual is available at https://unfoldingword.org/academy and has much information including:
     * Introduction - introduces the unfoldingWord project (see [[en:ta:vol1:intro:toc_intro]])
     * Process Manual - answer the question "what next?" (see [[:en:ta:vol1:process:toc_processvol1_2]]) 
     * Translation Manual - explains the basics of translation theory and practical translation helps (see [[:en:ta:vol1:translate:toc_transvol1_2]])
@@ -23,5 +23,5 @@ There are several resources available for finding answers to questions:
 
 
 //Next we recommend you learn about://
-  * //[[en:ta:vol1:translate:translate_manual|Introduction to Translation Manual]]//
+  * //[[en:ta:vol1:process:process_manual|Introduction to the Process Manual]]//
 

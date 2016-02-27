@@ -1,19 +1,17 @@
 ===== Activating the Mic =====
 
-//This page answers the question:// ////How do I activate the mic?////
-
-===  ===
+//This page answers the question:// //How do I activate the mic?//
 
 In this section we will focus on what is required to activate USB and TRRS mics.
 
-====USB mic activation====
+==== USB Mic Activation ====
 
 USB mics are automatically activated when they are connected by USB cable to a device such as a laptop. Many mics will have a small colored LED light on the mic body or inside the capsule area that will emit a friendly glow, telling you that it is activated.
 
 Typically a notification will be announced on the laptop screen indicating that the laptop has detected the USB mic.
 
 
-====TRRS mic activation====
+==== TRRS Mic Activation ====
 
 When using a TRRS mic with a mobile device such as a tablet, the device automatically detects the mic and activates it. It also automatically selects it as the input signal for recording (unless it does not have TRRS compatibility).
 

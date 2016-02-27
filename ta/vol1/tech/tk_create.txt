@@ -8,7 +8,7 @@
 ==== Getting Started ====
 
    * Decide on the language you want to make a keyboard for
-   * Go to: tk.unfoldingword.org/users/sign_in
+   * Go to: http://tk.unfoldingword.org/users/sign_in
    * Sign in using your username and password
 
 ==== Keyboard Search ====
@@ -32,7 +32,7 @@ Then:
 
 ==== Create or Edit a Keyboard in tK ====
 
-At http://tk.unfoldingword.org/ , select the keyboard that is desired if available, or select the “Create New Keyboard”* button at the top of the web page:
+At http://tk.unfoldingword.org/ , select the keyboard that is desired if available, or select the “Create New Keyboard” button at the top of the web page:
 
    * A new window titled “Create New Keyboard” will appear.
    * Type the name of the keyboard language in the Keyboard name box
