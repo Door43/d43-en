@@ -17,23 +17,22 @@ Sentences can be used for other purposes as well.
 
 ==== Sentence Structure ====
 
-The simplest sentence structure in English includes a  //  ** subject  **  // and an  //  ** action  **  // word. '  // The boy ran.'  //
-
+The simplest sentence structure in English includes a // ** subject ** // and an // ** action ** // word. ' // The boy ran.' //
 === Subject ===
 
-The //**subject**// is who or what the sentence is about. In these examples, the subject is underlined: 1) //'__The boy__  is running.'//  2) //'__He__  is running.'//
+The //**subject**// is who or what the sentence is about. In these examples, the subject is underlined: 1) //'__The boy__ is running.'// 2) //'__He__ is running.'//
 
-Subjects are typically typically noun phrases or pronouns. (See: [[en:ta:vol2:translate:figs_partsofspeech]] for more information.) In the examples above, "the boy" is a noun phrase that has the noun 'boy,' and "he" is a pronoun.
+Subjects are typically noun phrases or pronouns. (See: [[:en:ta:vol2:translate:figs_partsofspeech|Parts of Speech]] for more information.) In the examples above, "the boy" is a noun phrase that has the noun 'boy,' and "he" is a pronoun.
 
-Sometimes a subject is not stated but is implied. For example, //'Close the door//.' The verb is 'close'; the subject is implied to be 'you.' See [[en:ta:vol1:translate:figs_explicitinfo]] for more information.
+Sometimes a subject is not stated but is implied. For example, //'Close the door//.' The verb is 'close'; the subject is implied to be 'you.' See [[:en:ta:vol1:translate:figs_explicitinfo|Making Implicit Information Explicit]] for more information.
 
 === Predicate ===
 
-The predicate is the part of a sentence which tells something about the subject. It usually has a verb (see [[en:ta:vol2:translate:figs_verbs]]).
+The predicate is the part of a sentence which tells something about the subject. It usually has a verb (see [[:en:ta:vol2:translate:figs_verbs|Verbs]]).
 
 Here are some examples:
 
->'//The man is strong//.' 
+>'//The man is strong//.'
 
 The subject is '//the man//' and the predicate is '//is strong//' (It describes the man.)
 
@@ -43,11 +42,11 @@ The subject is '//he//' and the predicate is '//worked hard//' (It is something 
 
 The verb may have an object or a complement:
 
->//'The man made a garden.'// 
+>//'The man made a garden.'//
 
 "The man" is the subject. "Made" is the verb. "A garden" is the object.
 
->//'The man is strong.'//  
+>//'The man is strong.'//
 
 "The man" is the subject. "Is" is the verb. "Strong" is the complement.
 
@@ -69,7 +68,7 @@ The clause “when the corn was ready” is a clause, but it is not a full sente
 
 In some languages, clauses can tell about something in the sentence. These are called **relative** clauses.
 
-  * Relative clauses can **define **  which thing is being talked about. For example: '//She put a little food in her own bag and a lot of food in the bag __that belonged to her sister__//.' This relative clause '//that belonged to her sister//' defines which bag.
+   * Relative clauses can **define **  which thing is being talked about. For example: '//She put a little food in her own bag and a lot of food in the bag __that belonged to her sister__//.' This relative clause '//that belonged to her sister//' defines which bag.
   * Relative clauses can **describe**  or tell some more information. For example: '//She gave some of the food to her only sister, __who was very thankful__.//' The clause “//who was very thankful//” tells something about the sister. Since she had only one sister, it does not tell which sister. It simply tells how her sister responded.
 
 Some languages can use relative clauses both to define and describe. Other languages only use them for defining.
