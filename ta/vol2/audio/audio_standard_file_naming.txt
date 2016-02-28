@@ -2,8 +2,6 @@
 
 //This page answers the question:// //What is the file naming standard for unfoldingWord audio?//
 
-====  ====
-
 Also known as a File Naming Convention, a file naming standard identifies a specific, reliable pattern to be followed for naming audio files. This helps maintain excellent organization of audio files during both the recording process and for subsequent distribution, as well as clarity in identification for years to come.
 
 
@@ -14,7 +12,6 @@ Also known as a File Naming Convention, a file naming standard identifies a spec
   * use a hyphen (-) to identify
     * a subgroup or regional dialect of a language
     * frames within Open Bible Stories
-
 
 
 ==== Open Bible Stories (file as full story) ====

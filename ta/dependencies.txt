@@ -556,6 +556,8 @@ edge [arrowsize=1.4];
 "resources_intro" -> "tS_useresources"
 "tSd_intro" [fillcolor="#99ffff"]
 "Technology" -> "tSd_intro"
+"tSd_print" [fillcolor="#99ffff"]
+"tSd_intro" -> "tSd_print"
 "toc_audiovol2" [fillcolor="#99ffff"]
 "Technology" -> "toc_audiovol2"
 "toc_techvol1" [fillcolor="#99ffff"]
