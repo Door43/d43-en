@@ -4,25 +4,30 @@ This module answers the question: What are pronouns and what kinds of pronouns a
 In order to understand this module, it would be good to read 
   * [[en:ta:vol2:translate:figs_partsofspeech]]
 
-[[Summary of 100 words or less]]
+Pronouns are words that people use instead of a noun to refer to someone or something. Some examples are I, you, he, it, this, that, which himself, someone.
 
  
 ==== Description ====
 
 Pronouns are words that people use instead of a noun to refer to someone or something. There are six different types of pronouns.\\ 
 
-=== Personal Pronouns ===
+==== Personal Pronouns ====
 Personal pronouns refer to people or things and show if the speaker is referring to himself, the person he is speaking to, or someone or something else. The following are kinds of information that personal pronouns may give.
  
 === Person ===
   * First Person - The speaker and possibly others  (I, we)
-  * Second Person - The person or people that the speaker is talking to and possibly others  (you)
+    * [[en:ta:vol2:translate:figs_inclusive]]
+    * [[en:ta:vol2:translate:figs_exclusive]]
+  * Second Person - The person or people that the speaker is talking to and possibly others  (you) 
+    * [[en:ta:vol1:translate:figs_you]]
   * Third Person - Someone or something other than the speaker and those he is talking to (he, she, it, they)
 
 === Number ===
-  * singular - one  (I, you, he, she, it)  [[en:ta:vol2:translate:figs_singularpronouns]]
-  * plural - more than one  (we, you, they)   [[en:ta:vol2:translate:figs_pluralpronouns]]
-
+  * singular - one  (I, you, he, she, it) 
+    *  [[en:ta:vol2:translate:figs_singularpronouns]]
+  * plural - more than one  (we, you, they)
+    * [[en:ta:vol2:translate:figs_pluralpronouns]]
+   
 === Gender ===
   * masculine - he
   * feminine - she
