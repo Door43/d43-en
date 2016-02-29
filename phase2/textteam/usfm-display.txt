@@ -7,14 +7,18 @@ This page will allow for immediate view of formatted USFM text. In order to disp
 <code>
 <html>
 
-Insert the USFM text here...
+Sample USFM text.
 
 </html>
 </code>
 
 ==== USFM Text ====
 
+Insert and view USFM text below.
+
 <html>
+
+Insert the USFM text here...
 
 </html>
 
