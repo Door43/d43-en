@@ -6,9 +6,7 @@ In order to display in Door43, formatted USFM text must be enclosed between HTML
 
 <code>
 <html>
-
 Sample USFM text.
-
 </html>
 </code>
 
