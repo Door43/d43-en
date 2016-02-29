@@ -57,13 +57,13 @@ Many languages have different forms to agree with the subject or in some languag
 
 **Tense**
 
-  * (present tense) **we __know__  that you __are__  a teacher__ come __  from God**  (John 3:2)
-  * (past tense) ** Now there __was__  a Pharisee whose name __was__  Nicodemus**
-  * (two times) **the life __was manifested__, and we __have seen__** (1 John 1:2)
+  * (present tense) **we __know__  that you __are__  a teacher__ come __  from God**  (John 3:2 ULB)
+  * (past tense) ** Now there __was__  a Pharisee whose name __was__  Nicodemus** (John 3:1 ULB)
+  * (two times) **the life __was manifested__, and we __have seen__** (1 John 1:2 ULB)
 
 **Aspect**
 
-  * //(completive) ** we __declare__  to you**  (1John 1:3 ULB) 
+  * //(completive) ** we __declare__  to you**  (1 John 1:3 ULB) 
   * //(continuative) ** the life __was manifested__** (1 John 1:2 ULB) 
 
 **Active or passive** 
@@ -89,7 +89,7 @@ English grammar allows for not stating the object of the verb even if that verb 
 
 Note that different languages have different [[:en:ta:vol1:translate:figs_order|orders]] for these parts of the sentences. In the examples below, the subject is first, the verb is bold, and the object is underlined. \\
  \\
-In English, it is sometimes ok to leave out the object when the object is not important in the sentence.
+In English, it is sometimes alright to leave out the object when the object is not important in the sentence.
 
   * He **sang **__a song__.
   * He likes to **sing**.
@@ -114,6 +114,7 @@ Sometimes you may need to include an object even if there is no object in Englis
 
 [[https://pad.door43.org/p/ta-figs_verbs|https://pad.door43.org/p/ta-figs_verbs]]
 
-{{tag>draftja epadn}}~~DISCUSSION~~
+{{tag>review epadn}}~~DISCUSSION~~
 
 ~~NOCACHE~~
+https://door43.org/en/ta/workbench/translate/verbs?do=revisions
