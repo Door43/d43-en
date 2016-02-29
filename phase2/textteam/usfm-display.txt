@@ -1,0 +1,22 @@
+====== USFM display ======
+
+~~NOCACHE~~
+
+This page will allow for immediate view of formatted USFM text. In order to display the text, use the plain-text edit view and insert the text between the HTML tags as shown in the sample below:
+
+<code>
+<html>
+
+Insert the USFM text here...
+
+</html>
+</code>
+
+==== USFM Text ====
+
+<html>
+
+</html>
+
+
+\\
