@@ -55,16 +55,20 @@ When we tell about an event, we usually show whether or not we are thinking abou
   * Mary __has cooked__ the meat, and she wants us to come eat it. (This tells about something Mary did that is still relevant now.)
   * Mary __had cooked__ the meat by the time Mark got home. (This tells about something that Mary completed in the past before something else happened.)
 
-=== Sentence Type === 
-There are different kinds of sentences: statements, questions, commands, wishes, and exclamations. (See [[en:ta:vol2:translate:figs_sentences]]) This difference between these is called "mode." English adds words to show the  languages use add something to the verb to distinguish these. English uses 
-
 
 ==== Verbs and Objects ====
 
-All sentences have a SUBJECT (PARTICIPANT), VERB (EVENT), and some an OBJECT (PARTICIPANT). \\ Examples:
+All sentences have a subject and a verb. In the examples below the subject is bold and the verb is underlined. The verbs in the s
 
-  * The sun rises at six in the morning. (No object/participant)
-  * Jim kicks the football. (football is the object)
+
+  * John __kicked__ the football.
+
+  * **The sun** __rises__ at six in the morning. 
+  * **John** __runs__ fast. 
+  * **John** __fell__.
+
+Some sentences have an object
+ 
 
 English grammar allows for not stating the object of the verb even if that verb can take an object; so that these sentences may also only have the SUBJECT (PARTICIPANT) and VERB (EVENT) stated. \\ Examples:
 
