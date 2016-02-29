@@ -13,7 +13,7 @@ This search is to find references where note states "verse x:y".
 
 Some search string ideas:
   * "verse", "see verse", "in verse"
-  * "v."
-  * "v"
+  * " v."
+  * " v "
 
 {{door43pages @:en:bible:notes -r -q="See v" -exclude:home -simpleLineBreak -title -fontsize="90%"}}
