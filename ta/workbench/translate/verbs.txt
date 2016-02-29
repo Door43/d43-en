@@ -27,20 +27,16 @@ In some languages, the verb may be a little bit different depending on the perso
   * They __eat__ bananas every day. (The subject "they" is more than one person.)
   * John __eats__ bananas every day. (The subject "John" is one person.)
 
-Sometimes there is another person or thing associated with the verb. In the examples below, "banana" and "Mark" are the **object**. In English the object usually comes after the verb.
-  * John __ate__ a banana. 
-  * John __saw__ Mark.
-
-Some verbs never have an object.
-  * The sun __rose__ at six o'clock.
-  * John __slept__ well.
-  * John //fell// yesterday.
-
-Some verbs normally have an object. 
+Sometimes there is another person or thing associated with the verb. In the examples below, the underlined won is the verb, and the phrase in bold print is the **object**. In English the object usually comes after the verb. 
   * He __ate__ **lunch**.
   * He __sang__ **a song**.
   * He __read__ **a book**.
   * He __saw__ **the book**.
+
+Some verbs never have an object.
+  * The sun __rose__ at six o'clock.
+  * John __slept__ well.
+  * John __fell__ yesterday.
 
 In English, it is sometimes alright to leave out the object when the object is not important in the sentence.
   * He never __eats__ at night. 
@@ -53,7 +49,6 @@ In some languages, a verb that needs an object must always take one, even if the
   * He  __sings__ **songs** all the time.
   * He __reads__ **words** well.
   * He cannot __see__ **anything**.
-
 
 === Time and Tense === 
 
