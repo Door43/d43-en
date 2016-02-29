@@ -5,77 +5,60 @@ This module answers the question: What are verbs and what kinds of things are as
 In order to understand this page, it would be good to read:
   * [[:en:ta:vol2:translate:figs_partsofspeech]]
   * [[en:ta:vol2:translate:figs_sentences]]
-===== Description =====
 
-Summary \\ Verbs tell the events happening and the state of things but also often the time, the manner in which it was done and who did it. Without verbs, you have no text!
+==== Description ====
 
-Definition \\ Verbs either link the subject to a descriptive portion of the sentence or express an action or a state-of-being (e.g. am, is, are, was, were, be, being, been). Many languages use more verbs than English does. In languages verbs frequently mark person, number, time, type of action (aspect), whether the action is done by someone or to someone and whether it is a statement or wish (mode) although rarely does a language mark them all in the main verb. Often some of these ideas are carried by other verbs or adverbs. Events are usually expressed by VERBS.
+Verbs are words that refer to an action or event or that are used in describing or identifying things. The verbs in the examples below are underlined. 
 
-=== Reason this could be a translation issue ===
+  * John __ran__.  ("Run" is an action.)
+  * John __ate__ a banana.  ("Eat" is an action.)
+  * John __saw__ Mark. ("See" is an event")
+  * John __died.__  ("Die" is an event.)
+  * John __is__ tall.  (The phrase "is tall" describes John.)
+  * John __is__ my brother. (The phrase "is my brother" identifies John.)
 
-Verbs carry the largest part of the meaning of a sentence; so it is very important to understand both what the English and your language verbs are doing.
+==== Things Associated with Verbs ==== 
 
-The context of the sentence determines the type of verb because some can function in different ways. For example, “The fish tasted oily,” uses tasted as a linking verb that describes the subject (the fish). “John tasted the fish” uses tasted as an action verb showing what the subject (John) did. \\ Some of the things that may be marked in the verb.
+=== People or Things === 
+A verb usually says something about someone or something. All of the example sentences above say something about John. "John" is the subject of those sentences. 
 
-**Tense or time**
+Sometimes there is another person or thing associated with the verb. In the examples below, "banana" and "Mark" are the object.
+  * John __ate__ a banana.
+  * John __saw__ Mark.
 
-English usually marks the past by adding “ed” to the end of the verb. Unfortunately a number of common words are exceptions and have different past tenses. The future is marked by putting the verb “will” before the verb. When there are two times, the earlier time is marked by adding the verb “to have.” How is time handled in your language: in the verb or with a time word like “yesterday” or “already?” \\ Example
+In some languages, the verb may be a little bit different depending on the persons or things associated with it. For example, English speakers sometimes put "s" at the end of the verb when the subject is just one person.
+  
+  * They __eat__ bananas every day. (The subject "they" is more than one person.)
+  * John __eats__ bananas every day. (The subject "John" is one person.)
 
-  * They __hear__  the train __coming__. (present tense)
-  * They __heard__  the train __come__  an hour ago. (past tense)
-  * Tomorrow they __will hear __  two trains coming. (future tense)
-  * They __have heard __  the train every day since they __moved__  to town. (two times: past and distant past)
+=== Tense or time === 
 
-**aspect**
+When we tell about an event, we usually tell whether it is in the past, the present, or the future. Sometimes we do this with words like "yesterday," "now," or "tomorrow."
 
-English has two aspects the completive for actions as a whole; and the continuative which is marked by the verb “to be” for ongoing action. All other aspectual ideas are handled by adverbs. How does your language mark aspectual like ideas; in the verb or with special verbs or adverbs? \\ Example:
+In some languages the verb may be a little bit different depending on the time associated with it. This kind of marking on a verb is called "tense". English speakers sometimes put "ed" at the end of the verb when the event happened in the past.
 
-  * I __translate__  every Sunday.
-  * I __am translating __  the Bible right now.
+  * Sometimes Mary __cooks__ meat.
+  * Yesterday Mary __cooked__ meat.  (She did this in the past.)
 
-**mode **  \\  \\ Mode is the difference between statement, question, command and wish. Mode is marked in English by a special group of verbs called **modal verbs**. These create special challenges as most have two or more different meanings.. These verbs function in different ways in sentences; their purpose can only be determined in context. Modal verbs can be used to convey responsibilities, expectations, inferences, possibilities or needs. Several examples are giving below. Modal verbs include: can, may, must, will and shall and their past tenses: could, might, must, would and should. Here are some examples of difficulty of **modal verbs**  in English. How do you handle mode in your language?
+In some languages speakers might add a word might to tell something about the time. English speakers use the word "will" when the verb refers to something in the future.
 
-**Can and May.**  The verb “can” shows ability or power; “may” is a modal verb involves permission or possibility. Examples:
-  * 'I __can__  read' states a fact.
-  * '__May__  I read now?' seeks permission to read'
- 
-**Must.**  Like 'can' and 'may' this is a 'modal verb.' The context of the sentence is important to understanding the meaning. Must can show an obligation or an opinion/assumption of the speaker.
-  * I __must call __  my pastor. In this case, must indicates a responsibility.
-  * He __must be __  overwhelmed with calls. In this sentence, must indicates a strong assumption/belief about the person spoken of.
- 
-**Has to.**  This is another modal verb that must be considered in context. It can denote obligation, opinion/inference/assumption or need.
-  * He has to finish the test. (Obligation)
-  * He has to be nearly done. (Inference/assumption)
-  * He has to have insulin. (Personal need)
+  * Tomorrow Mary __will cook__ meat. 
 
-**person**
+=== Aspect === 
 
-Many languages have different forms to agree with the subject or in some languages the object. English only marks the present tense third person singular by adding an “s.” One exception is the verb “to be” which uses “am” for present tense first singular and “is” for third person singular. All the rest are “are,” In the past “was” for both first and third singular and “were” for all the rest. How does your language handles person? Is it in the verb or handles by nouns and pronouns? \\ Example
+When we tell about an event, we usually show whether or not we are thinking about how the event progressed over a period of time, and whether or not the event is still relevant when something else happens. This is aspect. English speakers sometimes use the verbs "is" or "has" and adds "s," "ing," or "ed" to the end of the verb.
 
-  * I translate, and he tranlate__s__
+  * Mary __cooks__ meat every day. (This tell about something Mary often does.)
+  * Mary __is cooking__ the meat. (This tells about something Mary is in the process of doing right now.)
+  * Mary __cooked__ the meat and John came home.  (This simply tells about something Mary did.)
+  * While Mary __was cooking__ the meat, John came home. (This tells about something Mary was in the process of doing.)
+  * Mary __has cooked__ the meat, and she wants us to come eat it. (This tells about something Mary did that is still relevant now.)
+  * Mary __had cooked__ the meat by the time Mark got home. (This tells about something that Mary completed in the past before something else happened.)
 
-===== Examples from the Bible =====
+=== Sentence Type === 
+There are different kinds of sentences: statements, questions, commands, wishes, and exclamations. (See [[en:ta:vol2:translate:figs_sentences]]) This difference between these is called "mode." English adds words to show the  languages use add something to the verb to distinguish these. English uses 
 
-**Tense**
 
-  * (present tense) **we __know__  that you __are__  a teacher__ come __  from God**  (John 3:2 ULB)
-  * (past tense) ** Now there __was__  a Pharisee whose name __was__  Nicodemus** (John 3:1 ULB)
-  * (two times) **the life __was manifested__, and we __have seen__** (1 John 1:2 ULB)
-
-**Aspect**
-
-  * //(completive) ** we __declare__  to you**  (1 John 1:3 ULB) 
-  * //(continuative) ** the life __was manifested__** (1 John 1:2 ULB) 
-
-**Active or passive** 
- 
-  * //(active) ** the world __does not know __  us, because it __did not know __  him**  (1 John 3:1 ULB) // 
-  * //(passive) **I __was grasped __  by Christ Jesus. **  (Philippians 3:12 ULB) \\ 
- 
-**Mode** 
- 
-  * //(statement) **I __can__  do all things through him who __strengthens__  me.**  (Philippians 4:13 ULB)
-  * //(wish) **that I __may grasp __  that for which I was grasped by Christ Jesus. **  (Philippians 3:12 ULB)// 
 ==== Verbs and Objects ====
 
 All sentences have a SUBJECT (PARTICIPANT), VERB (EVENT), and some an OBJECT (PARTICIPANT). \\ Examples:
@@ -104,12 +87,7 @@ In some languages, a verb that needs an object must always take one, even if the
 
 Sometimes you may need to include an object even if there is no object in English.
 
-**Some verbs that are often confused with each other.**
 
-**Teach and Learn**. These verbs are partners. Teaching imparts knowledge. Learning means getting knowledge. \\  \\ **Sit, Sat and Set**. These verbs are often confused. "Sit" is used to convey resting or being seated. "Set" means to place something. "Sat" is the past tense for sit. "Set" stays the same in both present and past tense. Examples:
-
-  * 'I __sit__  on a chair.' means 'I rest on a chair.'
-  * 'I __set__  my book on the table.' means 'I place my book on the table.' (or, 'I placed my book on the table')
 
 ----
 
