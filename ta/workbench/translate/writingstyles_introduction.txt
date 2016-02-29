@@ -1,12 +1,13 @@
 ===== Writing Styles - Introduction of New and Old Participants =====
 
-This module answers the question:  Why can't the readers of my translation understand who the author was writing about?\\
-In order to understand this module, it would be good to read 
-  * [[en:ta:workbench:translate:writingstyles]]
-  * [[en:ta:vol2:translate:figs_partsofspeech]]  
+//This page answers the question:  Why can't the readers of my translation understand who the author was writing about?//
+
+//In order to understand this page, it would be good to read //
+  * //[[en:ta:workbench:translate:writingstyles]]//
+  * // [[en:ta:vol2:translate:figs_partsofspeech]] // 
 
 The first time that people or things are mentioned in a story, they are new participants. After that whenever they are mentioned they are old participants. In order to make your translation clear and natural, you will need to mark the participants clearly so people will know if they are new participants or ones that they have already read about.
-===== Description =====
+==== Description ====
 
 The first time that people or things are mentioned in a story, they are __new participants__. After that whenever they are mentioned they are __old participants__.
 
@@ -14,9 +15,9 @@ The first time that people or things are mentioned in a story, they are __new pa
 
 **Reason this is a translation issue**: In order to make your translation clear and natural, it is necessary to properly mark the participants so people will know if they are new participants or ones that they have already read about.
 
-===== Examples from the Bible =====
+==== Examples from the Bible ====
 
-**1. New Participants** \\ 
+**New Participants** \\ 
 Sometimes a new participant is introduced with a phrase that says that he existed, such as "There was a man."  The phrase "There was" tells us that this man existed. The word "a" in "a man" tells us that that author is speaking about him for the first time.\\ 
   * **__There was a man__ from Zorah, of the family of the Danites, whose name was Manoah.** (Judges 13:2 ULB) \\ 
     *  The rest of the sentence tells where this man was from, who is family was, and what his name was.
@@ -42,7 +43,7 @@ A person who has already been brought into the story, may then be referred to wi
 
 
 In some languages that have markers on the verb that tell something about the subject, they do not always use a noun phrase or a pronoun for old participants when they are the subject of the sentence. The marker on the verb gives enough of a clue for the listener to figure out who the subject is.
-===== Translation Strategies =====
+==== Translation Strategies ====
 
   - If there is a new participant, use your language's way of introducing him.
   - If it is not clear who a pronoun refers to, use a noun phrase or name.
@@ -68,6 +69,6 @@ In some languages that have markers on the verb that tell something about the su
 ----
 https://pad.door43.org/p/ta-writing_participants
 
-{{tag>Chris}} ~~DISCUSSION~~
+{{tag>chris}} ~~DISCUSSION~~
 
 ~~NOCACHE~~
