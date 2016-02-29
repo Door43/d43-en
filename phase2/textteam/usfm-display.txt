@@ -2,7 +2,7 @@
 
 ~~NOCACHE~~
 
-This page will allow for immediate view of formatted USFM text. In order to display the text, use the plain-text edit view and insert the text between the HTML tags as shown in the sample below:
+In order to display in Door43, formatted USFM text must be enclosed between HTML tags as in this example:
 
 <code>
 <html>
@@ -12,9 +12,11 @@ Sample USFM text.
 </html>
 </code>
 
+
+
 ==== USFM Text ====
 
-Insert and view USFM text below.
+Use the plain-text edit editor to insert USFM text between the HTML tags in the section below. Then select "Preview."
 
 <html>
 
