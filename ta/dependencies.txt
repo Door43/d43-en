@@ -554,6 +554,8 @@ edge [arrowsize=1.4];
 "tS_useresources" [fillcolor="#99ffff"]
 "tS_create" -> "tS_useresources"
 "resources_intro" -> "tS_useresources"
+"tSd_install" [fillcolor="#99ffff"]
+"tSd_intro" -> "tSd_install"
 "tSd_intro" [fillcolor="#99ffff"]
 "Technology" -> "tSd_intro"
 "tSd_print" [fillcolor="#99ffff"]
