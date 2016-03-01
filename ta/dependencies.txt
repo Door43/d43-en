@@ -554,12 +554,18 @@ edge [arrowsize=1.4];
 "tS_useresources" [fillcolor="#99ffff"]
 "tS_create" -> "tS_useresources"
 "resources_intro" -> "tS_useresources"
+"tSd_first" [fillcolor="#99ffff"]
+"tSd_intro" -> "tSd_first"
+"tSd_install" -> "tSd_first"
 "tSd_install" [fillcolor="#99ffff"]
 "tSd_intro" -> "tSd_install"
 "tSd_intro" [fillcolor="#99ffff"]
 "Technology" -> "tSd_intro"
 "tSd_print" [fillcolor="#99ffff"]
 "tSd_intro" -> "tSd_print"
+"tSd_settings" [fillcolor="#99ffff"]
+"tSd_intro" -> "tSd_settings"
+"tSd_install" -> "tSd_settings"
 "toc_audiovol2" [fillcolor="#99ffff"]
 "Technology" -> "toc_audiovol2"
 "toc_techvol1" [fillcolor="#99ffff"]
