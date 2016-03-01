@@ -18,7 +18,7 @@ Use the plain-text edit editor to insert USFM text between the HTML tags in the 
 
 <usfm>
 
-Insert USFM text here...
+\p Insert USFM text here...
 
 </usfm>
 
