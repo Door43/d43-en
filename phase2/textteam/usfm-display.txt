@@ -5,9 +5,9 @@
 In order to display in Door43, formatted USFM text must be enclosed between HTML tags as in this example:
 
 <code>
-<html>
+<usfm>
 Sample USFM text.
-</html>
+</usfm>
 </code>
 
 
@@ -16,11 +16,11 @@ Sample USFM text.
 
 Use the plain-text edit editor to insert USFM text between the HTML tags in the section below. Then select "Preview."
 
-<html>
+<usfm>
 
-Insert the USFM text here...
+Insert USFM text here...
 
-</html>
+</usfm>
 
 
 \\
