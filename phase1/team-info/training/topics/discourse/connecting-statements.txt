@@ -5,7 +5,7 @@
 
 === Purpose ===
 
-text
+Connecting statements are to link the current chunk of text either to the previous chunk or to the discourse section the chunk is from.
 
 === Examples ===
 
