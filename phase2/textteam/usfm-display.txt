@@ -19,7 +19,6 @@ Use the plain-text edit editor to insert USFM text between the HTML tags in the 
 <usfm>
 
 \s5
-\c 2
 \p
 \v 1 Yahweh gave me another message
 \v 2 to proclaim to everyone in Jerusalem. He said that I should tell them this: 
