@@ -19,23 +19,28 @@ Use the plain-text edit editor to insert USFM text between the HTML tags in the 
 <usfm>
 
 \s5
-\q
-\v 4 So I say to you, the descendants of Jacob, all you people of  Israel, that you must listen to what Yahweh says.
-\q
-\v 5 He says: "What sin did I commit that caused your ancestors to turn far away from me? 
-\q They worshiped worthless idols, and they themselves became worthless.
-\m 
-\v 6 They had no need to say,
-\li 'Yahweh is no longer able to help us, even though it was he who brought us safely out of Egypt and led us through a desert plain where there were a lot of pits. It was Yahweh who led us where there was no water and where it was very dangerous, through a land where no one lives or even travels. But Yahweh is useless for us now.'
-\m 
+\c 2
+\p
+\v 1 Yahweh gave me another message
+\v 2 to proclaim to everyone in Jerusalem. He said that I should tell them this: 
+\pi "I, Yahweh, remember in your favor that you followed me and trusted in our covenant long ago. You tried to please me like a bride tries to please her husband; You loved me, and you followed me through the desert.
+\v 3 At that time you Israelites were set apart to me; you belonged to me like the first part of the harvests belong to me. I promised to punish all those who harmed you, my people, and send disasters on them. This is the way it will always be since I, Yahweh, said that it would happen."
+\m
 
 \s5
-\q1
-\v 7 But when I brought you into a very fertile land, in order that you could enjoy all the fruit and other good things that you would harvest,
-\q you caused the land that I promised to give to you to be unfit for me and to become disgusting to me.
-\q
-\v 8 Your priests also did not say, 'Where is Yahweh now? Those who teach God's laws do even know me themselves!
-\q And your leaders have rebelled against me. Your prophets gave you messages from their god Baal, and they worship worthless idols."
+\p
+\v 4 So I say to you, the descendants of Jacob, all you people of  Israel, that you must listen to what Yahweh says.
+\v 5 He says:
+\pi "What sin did I commit that caused your ancestors to turn far away from me? They worshiped worthless idols, and they themselves became worthless.
+\v 6 They had no need to say,
+\pi2 'Yahweh is no longer able to help us, even though it was he who brought us safely out of Egypt and led us through a desert plain where there were a lot of pits. It was Yahweh who led us where there was no water and where it was very dangerous, through a land where no one lives or even travels. But Yahweh is useless for us now.'
+\m
+
+\s5
+\pi
+\v 7 But when I brought you into a very fertile land, in order that you could enjoy all the fruit and other good things that you would harvest, you caused the land that I promised to give to you to be unfit for me and to become disgusting to me.
+\v 8 Your priests also did not say, 'Where is Yahweh now? Those who teach God's laws do even know me themselves! And your leaders have rebelled against me. Your prophets gave you messages from their god Baal, and they worship worthless idols."
+\m
 
 </usfm>
 
