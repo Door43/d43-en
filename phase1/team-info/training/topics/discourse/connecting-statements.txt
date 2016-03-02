@@ -4,7 +4,8 @@
 
 
 === Purpose ===
-Connecting Statements are to address discourse level text issues. 
+Connecting Statements are to address discourse level text issues. These may include participant references (pronoun identification), Logical arguments and conclusions. Episode Identification (start, end, and continuation across chapters). 
+
 Connecting statements serve two purposes.
   - They link the current chunk of text the previous chunk 
   - They link the current chunk of text back to the discourse.
