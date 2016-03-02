@@ -363,6 +363,8 @@
 {{changes>ns=nnj:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:nns:obs|nns OBS]]**
 {{changes>ns=nns:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
+**[[:npa:obs|npa OBS]]**
+{{changes>ns=npa:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:npi:obs|npi OBS]]**
 {{changes>ns=npi:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:nv:obs|nv OBS]]**

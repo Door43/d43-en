@@ -544,6 +544,9 @@
 **[[:nns:obs|nns OBS]]**
 {{changes>ns=nns:obs&maxage=604800&render=pagelist(header,date,user,nocomments)}}
 
+**[[:npa:obs|npa OBS]]**
+{{changes>ns=npa:obs&maxage=604800&render=pagelist(header,date,user,nocomments)}}
+
 **[[:npi:obs|npi OBS]]**
 {{changes>ns=npi:obs&maxage=604800&render=pagelist(header,date,user,nocomments)}}
 
