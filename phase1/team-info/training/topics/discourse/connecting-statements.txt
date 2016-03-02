@@ -4,7 +4,7 @@
 
 
 === Purpose ===
-
+Connecting Statements are to address discourse level text issues. 
 Connecting statements serve two purposes.
   - They link the current chunk of text the previous chunk 
   - They link the current chunk of text back to the discourse.
