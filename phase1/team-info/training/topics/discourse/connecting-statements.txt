@@ -5,13 +5,15 @@
 
 === Purpose ===
 
-Connecting statements are to link the current chunk of text either to the previous chunk or to the discourse section the chunk is from.
+Connecting statements serve two purposes.
+  - They link the current chunk of text the previous chunk 
+  - They link the current chunk of text back to the discourse.
 
 === Examples ===
 
 text 
 
 
-{{tag>index}}~~DISCUSSION~~
+{{tag>draft index}}~~DISCUSSION~~
 
 ~~NOCACHE~~
