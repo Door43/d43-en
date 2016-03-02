@@ -1,14 +1,15 @@
 ====== Writing Styles - Background Information ======
 
-This module answers the question: What is background information and how can I show that some information is background information.
-In order to understand this module, it would be good to read
+//This module answers the question: What is background information and how can I show that some information is background information.//
+
+//In order to understand this module, it would be good to read//
 
   * [[en:ta:vol1:translate:figs_events]]
   * [[en:ta:vol2:translate:writing_intro]]
 
+When people tell a story, they normally tell the events in the order that they happened. Sometimes a writer may give some background information to help his listeners understand the story. The background information might be about things that happened before the events he has already told about, or it might explain something in the story, or it might be about something that would happen much later in the story. The story teller and translator need to tell the story in a way that people will know whether an event is background information and will be able to understand what order the events happened in.
 
-When people tell a story, they normally tell the events in the order that they happened. Sometimes an author may give some background information to help his listeners understand the story. The background information might be about things that happened before the events he has already told about, or it might explain something in the story, or it might be about something that would happen much later in the story. The story teller and translator need to tell the story in a way that people will know whether an event is background information and be able to understand what order the events happened in.
-===== Description =====
+==== Description ====
 
 Every story has a storyline. The storyline tells a series of events mostly in the time order that the events happened. It is full of action verbs that moves the reader along the storyline. Occasionally an author may take a break from the storyline to share something of interest. This break is called **background information.**  The underlined sentences in the story below are all background information.
 
@@ -16,29 +17,33 @@ Peter and John went on a hunting trip because __their village was going to have 
 
 Often background information uses "be" verbs like "was" and "were", rather than action verbs. Examples of these are "Peter __was__ the best hunter in the village" and "it __was__ his own pig."
 
-Sometimes the author makes a break in the story to tell about something that had happened earlier or something that would happen much later. Examples of these are "their village was going to have a a feast the next day" and "He once killed three wild pigs in one day," "that they had brought with them," and "Peter had mistakenly killed his cousins's pig.
+Sometimes a storyteller makes a break in the story to tell about something that had happened earlier or something that would happen much later. Examples of these are "their village was going to have a a feast the next day" and "He once killed three wild pigs in one day," "that they had brought with them," and "Peter had mistakenly killed his cousins's pig.
 
-**An author may use background information**
+=== A writer may use background information === 
   * to help their listeners be interested in the story.
   * to help their listeners understand something in the story.
   * to help the listeners understand why something is important in the story.
 
-**Reason this is a translation issue** 
+=== Reasons this is a translation issue ===
   * Translators need to know whether or not the events in the Bible happened in the same order that they are told. 
   * Translators will need to translate the story in a way that their own readers will understand the order of events. 
-===== Examples from the Bible =====
 
-**Hagar gave birth to Abram's son, and Abram named his son, whom Hagar bore, Ishmael. Abram __was__ eighty-six years old when Hagar bore Ishmael to Abram.**  (Genesis 16:16 ULB)\\
+==== Examples from the Bible ====
+
+>Hagar gave birth to Abram's son, and Abram named his son, whom Hagar bore, Ishmael. Abram __was__ eighty-six years old when Hagar bore Ishmael to Abram.  (Genesis 16:16 ULB)\\
 The first sentence tells about two events. Hagar gave birth and Abraham named his son. The second sentence is background information about how old Abram was when those things happened.
 
-**Now Jesus himself, when he began to teach, __was__ about thirty years of age. He __was__ the son (as was supposed) of Joseph, the son of Heli.**   (Luke 3:23 ULB) \\ 
+>Now Jesus himself, when he began to teach, __was__ about thirty years of age. He __was__ the son (as was supposed) of Joseph, the son of Heli.   (Luke 3:23 ULB) \\ 
 The verses before this tell about when Jesus was baptized. This sentence introduces background information about Jesus’ age and ancestors. The story starts up again in chapter 4 where it tells about Jesus going to the wilderness.
-===== Translation Strategies =====
+
+==== Translation Strategies ====
+
 To keep translations clear and natural you will need to study the grammar and punctuation of your language. Observe how your language presents background information in writings. Follow those same grammar rules when you translate.
 
   - Use your language's way of showing that certain information is background information.
   - Reorder the information so that that earlier events are mentioned first.  (This is not always possible when the background information is very long.)
-===== Examples of Translation Strategies applied ===== 
+
+==== Examples of Translation Strategies applied ==== 
 
 1. Use your language's way of showing that certain information is background information. The examples below explain how this was done in the ULB English translations.
   * **Now Jesus himself, when he began to teach, __was__ about thirty years of age. He __was__ the son (as was supposed) of Joseph, the son of Heli.** (Luke 3:23 ULB)- English uses the word "now" to show that there is some kind of change in the story. The verb "was" shows that it is background information.
@@ -60,6 +65,6 @@ Next we suggest you read about
 ----
 https://pad.door43.org/p/ta-writing_background
 
- {{tag>chris epadn}}~~DISCUSSIONS~~
+ {{tag>kara epadn}}~~DISCUSSIONS~~
 
 ~~NOCACHE~~
