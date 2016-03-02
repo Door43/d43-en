@@ -1,7 +1,8 @@
 ======Phrases that Inform or Remind ======
 
-This module answers the question: When phrases are used with nouns, what are phrases that inform or remind and how can I translate them? \\ 
-In order to understand this module, it would be good to read
+//This page answers the question: When phrases are used with nouns, what are phrases that inform or remind and how can I translate them?//
+
+//In order to understand this page, it would be good to read//
   * [[en:ta:vol2:translate:figs_distinguish]]
   * [[en:ta:vol2:translate:figs_partsofspeech]]
   * [[en:ta:vol2:translate:figs_sentences]]
@@ -16,22 +17,23 @@ Some languages can use a word or phrase with a noun to give information about th
   * Mary gave some of the food to her sister, __who was very thankful__. 
     * The phrase "who was very thankful" can be used to inform us about how Mary's sister responded when Mary gave her the food. In this case it does not distinguish this sister from another sister that Mary might have. 
  
-**Reason this is a translation Issue:** Some languages do not do this. If people see a word or phrase right next to a noun, they will assume that the purpose of the word or phrase is to distinguish that item from other possible items it could refer to.
+=== Reason this is a translation Issue: ===  
+Some languages do not do this. If people see a word or phrase right next to a noun, they will assume that the purpose of the word or phrase is to distinguish that item from other possible items it could refer to.
 
  
-===== Examples from the Bible =====
-**The name of the third river is Tigris, which flows east of Asshur.** (Genesis 2:14 ULB)\\  
+==== Examples from the Bible ====
+>The name of the third river is Tigris, which flows east of Asshur. (Genesis 2:14 ULB)\\  
 There is only one Tigris River. The phrase "which flows east of Assur" gives more information about where the Tigris River was.  
- 
-**I will wipe away mankind whom I have created from the surface of the earth.** (Genesis 6:7 ULB)\\ 
+
+>I will wipe away mankind whom I have created from the surface of the earth. (Genesis 6:7 ULB)\\ 
 The phrase "whom I have created" is a reminder of the relationship between God and mankind.  
  
-===== Translation Strategies ===== 
+==== Translation Strategies ==== 
 If people would understand the purpose of a phrase with a noun, then consider keeping  the phrase and the noun together. Otherwise here are other strategies of showing that the phrase is used to inform or remind.
   - Simply put the informing or reminding word or phrase in a separate sentence.  
   - Put the  informing or reminding word or phrase in a separate phrase with words that show why the information is important.    
   
-===== Examples of Translation Strategies Applied =====
+==== Examples of Translation Strategies Applied ====
 1.  Simply put the informing or reminding word or phrase in a separate sentence.  
   * **I hate those who serve worthless idols**  (Psalm 31:6 ULB)- When David spoke of "worthless idols," he was acknowledging that idols are worthless. He was not distinguishing worthless idols from valuable idols.  
     * "I hate those who serve idols. Idols are worthless."   
@@ -47,7 +49,7 @@ If people would understand the purpose of a phrase with a noun, then consider ke
 ----
 https://pad.door43.org/p/ta-figs_informremind
 
-{{tag>Chris}}~~DISCUSSION~~
+{{tag>kara epadn}}~~DISCUSSION~~
 
 ~~NOCACHE~~
  
