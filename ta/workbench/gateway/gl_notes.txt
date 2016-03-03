@@ -8,11 +8,16 @@
 
 ==== Translating the translationNotes ====
 
+**Why do I need the ULB and UDB available and translated?**
+
 When you translate the translationNotes for the Bible, you must also have both the ULB and the UDB in front of you, already translated into the target Gateway Language. You must have the ULB available so that you can copy the part of the ULB text that the translationNote is talking about directly into the translationNote. You must also have the UDB text already translated and available, because the translationNotes often copy part of the UDB text in order to show another way to translate the same part of the verse. Other times, the translationNote does not quote the UDB but it does refer to it. In that case, you need to be able to see what the UDB says in order to translate the translationNote in the best way.
 
 In addition, the translationNotes directly comment on parts of the ULB text, so you must read the part of the ULB text that the translationNote comments on in order to properly translate the translationNote. After you read and understand the ULB text, then you can translate the translationNote so that it makes sense together with the ULB text that it refers to.
 
+**Can I use blind drafting?**
+
 Do not use the method of blind drafting to translate the translationNotes. Always translate the translationNotes with the Gateway Language ULB and UDB in front of you, and the English translationNotes also visible. This is because you must copy the ULB phrase into the translationNote exactly as it is in the ULB, and you must also copy the UDB phrase if the translationNote also quotes the UDB. 
+
 
 Often, the translationNotes offer alternative ways to translate a phrase from the ULB. It is important that the phrase that you use to translate this kind of translationNote be a direct substitute for the phrase that it replaces in the ULB. In other words, the phrase has to have the same grammatical construction as the phrase in the ULB. That is, it needs to fit into the sentence in the ULB just like the original phrase did. In order to make sure that the phrase in the GL Note fits the sentence in the GL ULB, you must be able to always look at both the English translationNote and the GL ULB as you translate. Translating the translationNotes while having the source visible, therefore, is the most efficient way to translate them and this will also reduce the number of errors in translation. For more information on the types of translationNotes, see [[en:ta:vol1:translate:resources_types]].
 
