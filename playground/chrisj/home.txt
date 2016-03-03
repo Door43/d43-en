@@ -1,8 +1,11 @@
 ====== Shortcuts ======
 
 ==== Chris' Pages ====
+
 <nspages en:playground:chrisj -r -title -exclude:home -textPages="">
+
 ----
+
 ==== Phase Two ====
 
 <nspages en:phase2 -r -title -exclude:home -textPages="">
