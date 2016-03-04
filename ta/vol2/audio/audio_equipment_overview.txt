@@ -15,7 +15,7 @@ In order to capture sound we need a microphone, or mic. Depending on the type of
     * Mics with a professional XLR connector do require an audio interface or small mixing console.
 
 === Pop filter or windscreen ===
-The movement of air when certain letters or syllables are spoken by the narrator can hit the sensitive microphone capsule with too much force, causing the recorded audio to be too strong and distorted. A pop filter is a fine wire mesh or fabric placed between the narrator and the mic in order to slow down and diffuse the force of the air movement. A windscreen is a foam version that slips over the microphone capsule. The pop filter is regarded by professionals as having not having any negative impact on audio quality.
+The movement of air when certain letters or syllables are spoken by the narrator can hit the sensitive microphone capsule with too much force, causing the recorded audio to be too strong and distorted. A pop filter is a fine wire mesh or fabric placed between the narrator and the mic in order to slow down and diffuse the force of the air movement. A windscreen is a foam version that slips over the microphone capsule. The pop filter is regarded by professionals as not having any negative impact on audio quality.
 
 === Mic stand ===
 Whenever possible, mounting the mic on a stand will give better consistency in recording volume level and avoid handling noise when compared to holding a mic directly in your hand. A mic stand can be as simple as small tripod stand and range in size up to a standard full-size mic stand.
@@ -27,7 +27,7 @@ The signal cables required will depend on the type of mic used. The following ty
 
     * TRRS mic – possible cables: TRRS male to female extension (1 or 2 meters)
 
-    * XLR mic – possible cables: XLR mic cable, USB A to USB B (for audio interface or mixing console), USB A to USB B or phone plug to 3.5mm (mixing console)
+    * XLR mic – possible cables: XLR mic cable and USB A to USB B (for audio interface or mixing console) or USB A to USB B or phone plug (mixing console)
 
 
 ==== Audio Out ====
@@ -35,10 +35,10 @@ The signal cables required will depend on the type of mic used. The following ty
 The following pieces of equipment are used in playing back sound after it leaves the recording device (laptop or tablet), not including the built-in speakers on the device.
 
 === Headphones ===
-Typically it is important to have at least 1 quality set of headphones available for the recordist to be able to do careful listening.
+Typically it is important to have at least one quality set of headphones available for the recordist to be able to do careful listening.
 
 === Monitors ===
-Monitors is a term that usually applies to specially designed speakers that are designed to provide a transparent reference of the recorded audio. However, in simple recording projects studio monitors are unlikely to be available, so any kind of small speaker that can provide good playback listening for the recording team could be considered a monitor.
+Monitors is a term that usually applies to specially designed speakers that provide a transparent reference of the recorded audio. However, in simple recording projects studio monitors are unlikely to be available, so any kind of small speaker that can provide good playback listening for the recording team could be considered a monitor.
 
 === Cables ===
 There are a variety of cables that may be used for transferring the audio signal to headphones or monitors. The following types of cables may be used:
@@ -52,7 +52,7 @@ There are a variety of cables that may be used for transferring the audio signal
 
 While not specifically a piece of audio equipment, there is always a need for electrical power for the recording device, which often will not have enough battery life to last a full day of recording without needing to be recharged. There are several ways to provide for this need.
 
-  * Electrical service - It is a good idea to include an outlet strip and extension cord with the audio equipment for charging the recording device when/if electrical service is available. Be sure to have the correct plug on the outlet strip or an adapter to the local socket configuration.
+  * Electrical service - it is a good idea to include an outlet strip and extension cord with the audio equipment for charging the recording device when/if electrical service is available. Be sure to have the correct plug on the outlet strip or an adapter to the local socket configuration.
 
   * Backup Battery – this can be in the form of a second laptop battery that can be changed. Or, in the case of a tablet, an external battery can be connected via miniUSB to recharge the tablet while in operation.
 

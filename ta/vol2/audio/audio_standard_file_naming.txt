@@ -9,7 +9,7 @@ Also known as a File Naming Convention, a file naming standard identifies a spec
 
   * use the official IETF language code found on door43.org
   * use an underscore (_) to separate information fields
-  * use a hyphen (-) to identify
+  * use a hyphen (-) to identify:
     * a subgroup or regional dialect of a language
     * frames within Open Bible Stories
 
@@ -50,7 +50,7 @@ Examples:
 
 ==== Other ====
 
-When recording draft versions or other scenarios where additional identification is needed, please use the format shown below and simply add an underscore (_) and text that clearly communicates what the file is. For example, a draft version of the first story in English Open Bible Stories would be:
+When recording draft versions or other scenarios where additional identification is needed, please use the format shown below and simply add an underscore (_) followed by text that clearly communicates what the file is. For example, a draft version of the first story in English Open Bible Stories would be:
 
                 en_obs_01_draft 
 
