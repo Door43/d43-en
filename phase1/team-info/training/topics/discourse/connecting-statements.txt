@@ -4,22 +4,21 @@
 
 
 === Purpose ===
-Connecting Statements are to address discourse level text issues. These may include participant references (pronoun identification), Logical arguments and conclusions. Episode Identification (start, end, and continuation across chapters). 
-
-Connecting statements serve two purposes.
-  - They link the current chunk of text the previous chunk 
-  - They link the current chunk of text back to the discourse.
+Connecting Statements are to address discourse level text issues. These include:
+  * Participant references (pronoun identification)
+  * Logical arguments and conclusions
+  * Episode Identification (start, end, and continuation across chapters) 
 
 === Examples ===
+Mat 1:1 Matthew reviews the genealogy of Jesus
+Mat 1:17 Matthew finishes Jesus' genealogy
+Mat 1:24 Joseph obeyed the angel by marrying Mary
+Mat 5:1 Jesus teaches his disciples
+Mat 5:17 Jesus teaches about the Law and behavior towards others
+Mat 6:1 Jesus continues teaching his disciples about godly living
+Mat 7:1 Jesus continues teaching his disciples about godly living
+Mat 7:28 Jesus finishes his instructions to his disciples
 
-Matthew 5-7
-  * 5:1
-  * 5:5
-  * 5:9
-  * 5:11
-  * 5:13
-  * 5:15
- 
 
 
 {{tag>draft index}}~~DISCUSSION~~
