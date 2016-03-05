@@ -6,6 +6,7 @@
 === Purpose ===
 Connecting Statements are to address discourse level text issues. These include:
   * Participant references (pronoun identification)
+  * Highlighting background or implied information. Including information that was moved to the background of the text.
   * Logical arguments and conclusions
   * Episode Identification (start, end, and continuation across chapters) 
 
