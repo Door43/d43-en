@@ -1,6 +1,6 @@
 ====== Possession ======
 
-//This page answers the question: What is possession?//
+//This page answers the question: What is possession and how can I translate phrases that have it?//
 
 //In order to understand this page, it would be good to read// 
   * [[en:ta:vol2:translate:figs_partsofspeech]] 
@@ -8,134 +8,114 @@
 
 
 ==== Description ====
-In common English, “possession” refers to having something, or to something that a person has. In grammar, **possession** refers to a grammatical relationship between two nouns. In English that grammatical relationship is shown with "of" as in "the love __of__ God" or an apostrophe and the letter "s" as in "God__'s__ love." Possession is used in English for a variety of meanings.
+In common English, “possession” refers to having something, or to something that a person has. In grammar, **possession** refers to a grammatical relationship between two nouns. In English that grammatical relationship is shown with "of," or an apostrophe and the letter "s," or a possessive pronoun. 
 
-Some meanings expressed by Possession
+  * the house __of__ my grandfather
+  * my grandfather__'s__ house
+  * __his__ house
 
-1. Ownership
-  * My clothes - The clothes that I own
+Possession is used in Hebrew, Greek, and English for a variety of situations. Here are a few common situations that it is used for.
 
-2. Social relationship
-  * my teacher - the person who teaches me
-  * my mother -  the woman who gave birth to me, or the woman who cared for me
-  * the prisoner of Christ Jesus (Ephesians 3:1 ULB) a prisoner because of Jesus Christ?
+  * Ownership - Someone owns something.
+    * My clothes - The clothes that I own
 
-3. Subject \\ 
-  * my love - the love that I have for someone. (I love someone)
+  * Social relationship - Someone has some kind of social relationship with another.
+    * my mother -  the woman who gave birth to me, or the woman who cared for me
+    * my teacher - the person who teaches me
 
-4. Object
-  * the love of money - the love that a person has for money (Someone loves money)
+  * Contents - Something has something in it.
+    * a bag of potatoes - a bag that has potatoes in it, or a bag that is full of potatoes
 
-5. Representing \\ 
-  * a baptism of repentance (Mark 1:4 ULB)
-
-6. Contents \\ 
-  * a bag of potatoes
-
-7. Identity: when the noun after “of” has the same identity as the other noun\\ 
-  * a meal of rice and fish
-  * the gift of the Holy Spirit (Acts 10:45 ULB) - This means “the gift which is the Holy Spirit.”
-
-8. Part/Whole: when the noun or pronoun after “of” is a group in which the other noun or pronoun is a part.
-  * To __each one of us__ has been given a gift (Ephesians 4:7 ULB) -- “Each one” refers to the parts of the whole group, and the whole group is “us.”
-
+  * Part and whole: One thing is part of another.
+     * my head - the head that is part of my body
+     * the roof of a house - the roof that is part of a house
+    
 === Reasons this is a translation issue ===
 
-  * Translators need to understand the what each possessive relationship means.  is between two nouns when one possesses the other.
-  * Some languages may not use possession to show some of the relationships that are shown by possession in the source Bible that you use.
+  * Translators need to understand the relationship between two ideas represented by the two nouns when one possesses the other.
+  * Some languages do not use possession for all of the situations that your source text Bible might use it for.
+==== Examples from the Bible ====
 
-When two nouns are connected by the word “of” in the Bible, as in “the love of God,” the meaning can be unclear. Does “the love of God” refer to God loving people, or to people loving God, or to something else? This page seeks to provide help with how to translate phrases where two nouns are joined by “of” in the Bible.
+**Ownership** - In the example below, the son owned the money.
+>… the younger son … wasted __his money__ with wildly extravagant living. (Luke 15:13)
 
-=== Translation Principles ===
+**Social Relationship** - In the example below, the disciples were people who learned from John.
+>Then __the disciples of John__ came to him …,  (Matthew 9:14 ULB)
 
-The list below explains some relationships between nouns that could apply in a passage you are translating. Use this information to help you determine how best to translate related nouns, which occur very often in the Bible.
+**Material** - In the example below, the material used for make the crowns was gold.
+On their heads were something like __crowns of gold__ (Revelation 9:7)
 
-Seek to understand the relationship of the nouns in the original context, and work to make sure your translation makes that relationship clear. The context should clarify which possible meaning from below is actually meant.
+**Contents** - In the example below, the cup has water in it.
+>Whoever gives you __a cup of water__ to drink … will not lose his reward.  (Mark 9:41 ULB)
+ 
+**Part of a whole** - In the example below, the door was a part of the palace.
+>But Uriah slept at __the door of the king’s palace__  (2 Samuel 11:9 ULB) \\
 
-One noun (or pronoun) can be related to another noun (or pronoun) in several different ways, as described below. These verse quotations are from the ULB, and then they are retranslated to describe the meaning.
-
-1. **Description**: when the noun after “of” describes the other noun
->a baptism __of repentance__ (Mark 1:4 ULB)\\
-This means "a repentance __kind of__ baptism."
-
-2. **Ownership**: when the noun after “of” owns the other noun
->the prisoner __of Christ Jesus__ (Ephesians 3:1 ULB)\\
-This means "the prisoner who __belongs to__ Christ Jesus."
-
-3. **Identity**: when the noun after “of” has the same identity as the other noun
->the gift __of the Holy Spirit__ (Acts 10:45 ULB)\\
-This means “the gift __which is__ the Holy Spirit.” 
-
-4. **Subject**: when the noun after “of” produces or causes the other noun
->the love __of Christ__ (2 Corinthians 5:14 ULB)\\
-This could mean either “the love __that Christ produces__,” where Christ is the subject who produces the love.
->the expectation of the people __of the Jews__ (Acts 12:11 ULB)
-This could mean  “the expectation __that the Jews caused__.”
-
-5. **Object**: when the noun after “of” is the object of the action done by the other noun
->the love __of Christ__ (2 Corinthians 5:14 ULB)\\
-This could mean, “the love __for__ Christ,” Christ would be the object who receives love from those who love him.
->blasphemy __against the Spirit__ (Matthew 12:31 UDB)
-This could mean that the Spirit is the __object__ of blasphemy.
-
-6. **Whole**: when the noun or pronoun after “of” is a group in which the other noun or pronoun is a part.
+**Part of a group** - In the example below, the whole group is "us" and "each one" refers to the individual members. \\ 
 >To __each one of us__ has been given a gift (Ephesians 4:7 ULB)\\
 "Each one” refers to the parts of the whole group, and the whole group is “us.”
 
+=== Events and Possession === 
 
-===== Examples from the Bible =====
+Sometimes one or both of the nouns is an abstract noun that refers to an event or action. In the examples below, the abstract nouns are in **bold** print. These are just some of the relationships that are possible between two nouns when one of them refers to an event.  
 
-**1.**  Which sort of possession described above would you say “kingdom of heaven” is in the verse below? Which translation below makes the most sense in this context?
+**Subject** - Sometimes the word after "of" tells who would do the action named by the first noun. In the example below, John baptized people.
+>The __**baptism** of John__, was it from heaven or from men? Answer me." (Mark 11:30)
 
-“But Jesus said, ‘Permit the little children, and do not forbid them to come to me, for the **kingdom of heaven** belongs to such ones.’” (Matthew 19:14 ULB)\\    
-In this context, what meaning of “kingdom of heaven” seems to be the intended meaning?
-  - **Description**: the heaven __kind of__ kingdom?		     
-  - **Ownership**:   the kingdom that __belongs to__ heaven?          
-  - **Identity**:    the kingdom which __is__ heaven?
-  - **Subject**:     the kingdom __produced by__ heaven?	             
-  - **Object**:      the kingdom which __produces__ heaven?	     
-  - **Whole**:       the kingdom which is __a part of__ heaven?       
-Which category above would you say best fits the meaning of the Biblical phrase, “kingdom of heaven”?  Can you explain why you chose the meaning above that you chose?
+In the example below, Christ loves us.
+>Who will separate us from __the **love** of Christ__? (Romans 3:35)\\
 
-**2.**  In Ephesians 6:17 there are three examples of two related nouns. Which category of meaning above would you say best fits each of these? Each phrase may be different from the others (or, the same). 
-“And take the **helmet of salvation**, and the **sword of the Spirit**, which is the **word of God**” (Ephesians 6:17 ULB)   
+**Object** - Sometimes the word after "of" tells who or what something would happen to. In the example below, people love money.
+>For __the **love** of money__ is a root of all kinds of evil. (1 Timothy 6:10 ULB)
 
-===== Examples from English =====
-English shows ownership in two ways: an **of**-phrase (with the possessor noun second) or with the possessive **'s** (with the possessor noun first). Depending on the version of the Bible, nouns of possession may be translated with either the possessive **'s** (such as God's word) or with **of** (such as word of God). Examples:\\
-  * The man's office
-  * The dog's tail
-  * The color of the car
-  * The people of the town
+**Instrument** - Sometimes the word after "of" tells how something would happen. In the example below, God would punish people by sending enemies to attack them with swords. 
+> then be afraid of the sword, because wrath brings __the **punishment** of the sword__ (Job 19:29 ULB) 
 
-===== Translation Strategies =====
+**Representation** - In the example below, John was baptizing people who were repenting of their sins. They were being baptized to show that they were repenting. Their baptism represented their repentance.
+>As John came, he was baptizing in the wilderness and was preaching __a **baptism** of repentance__ for the forgiveness of sins. (Mark 1:4 ULB)\\
 
-  - Thoroughly understand the context. Begin by understanding the verse or passage in light of the verses around it. 
-  - Determine the categories above that best fit the context. Rule out the categories that do not make sense, and then study the categories that could be possible.
-  - From the best possible categories for this context, choose the one that makes the best sense in this particular context.
+==== Strategies for learning what the relationship is between the two nouns ====
 
-===== Examples of Translation Strategies Applied =====
+  - Read the surrounding verses to see if they help you to understand the relationship between the two nouns.
+  - Read the verse in the UDB. Sometimes it shows the relationship clearly.
+  - See what the notes say about it.
 
-The following applications of the Translation Strategies concern this verse:\\
-“And take the **helmet of salvation**, and the **sword of the Spirit**, which is the **word of God**.” (Ephesians 6:17 ULB)   
+==== Translation Strategies ====
 
-1. Thoroughly understand the context. Begin by understanding the verse or passage in light of the verses around it. 
+If possession would be a natural way to show a particular relationship between two nouns, consider using it. If it would be strange or hard to understand, consider these.
 
-Read Ephesians 6:1-20 (ULB). In Ephesians 6 Paul is explaining to the believers in Christ in Ephesus how to fight the spiritual war against the devil and evil. He explains the weapons of this spiritual war against evil, commanding them in verse 11, “Put on the whole armor of God.” In verse 17 he lists three weapons in that armor.
+  - Use an adjective to show that one describes the other.
+  - Use a verb to show how the two are related. 
+  - If one of the nouns refers to an event, translate it as a verb.
 
-2. Determine the categories above that best fit the context. Rule out the categories that do not make sense, and then study the categories that could be possible.
+==== Examples of Translation Strategies Applied ====
 
-What do these descriptions of spiritual weapons mean in the context of spiritual warfare? Think about, or write out, how each phrase would be translated in each of the categories above. Which translations make sense and fit best in this context of spiritual warfare?     
+1. Use an adjective to show that one describes the other. The adjective below is in **bold** print.
+  * **On their heads were something like __crowns of gold__** (Revelation 9:7)
+    * "On their heads were __**gold** crowns__"
 
-3. From the best possible categories for this context, choose the one that makes the best sense in this particular context.\\
+2. Use a verb to show how the two are related. In the example below, the added verb is in bold.
 
-__Suggested categories of meaning for this verse__:\\
-  * **helmet of salvation**: salvation is like a helmet of protection over our lives - (**Identity**)\\	 
-  * **sword of the Spirit**: the sword (word of God) inspired/given by God’s Spirit - (**Subject**)\\
-  * **word of God**:         the word spoken/authored by God - (**Subject**)\\
+  * **Whoever gives you __a cup of water__ to drink … will not lose his reward.**  (Mark 9:41 ULB)
+    * "Whoever gives you __a cup that **has** water in it__ to drink  … will not lose his reward.
 
+  * **Wealth is worthless on __the day of wrath__** (Proverbs 11:4 ULB)
+    * Wealth is worthless on __the day when God **shows** his wrath__"
+    * Wealth is worthless on the day when God **punishes** people because of his wrath.
+
+3. If one of the nouns refers to an event, translate it as a verb. In the example below, that verb is in bold.
+
+  * **Notice that I am not speaking to your children, who have not known or seen __the punishment of Yahweh your God__,** (Deuteronomy 11:2 ULB)
+    * "Notice that I am not speaking to your children who have not known or seen __how Yahweh your God **punished** the people of Egypt.__"
+
+  * **You will only observe and see the __punishment of the wicked__.** (Psalms 91:8 ULB)
+      * You will only observe and see the __how Yahweh **punishes** the wicked__. 
+
+  * **you will receive the gift __of the Holy Spirit__.** (Acts 2:38 ULB)\\
+    * "you will receive __the Holy Spirit, whom God will **give** to you__."
 
 ----
 
 https://pad.door43.org/p/ta-figs_genitivecase
 
-{{tag>review epadn}} ~~DISCUSSIONS~~
+{{tag>review epadn chris jimp}} ~~DISCUSSIONS~~

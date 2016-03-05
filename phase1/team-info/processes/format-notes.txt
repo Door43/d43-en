@@ -26,18 +26,18 @@ There are several ways to write translation notes. We would like them to fit int
 Simple definitions of words or phrases can be added without quotes or sentence format.
 
   * **marketplace**  - a large, open-air area where people would come to sell their goods
-  * **flute**  - a long, hollow musical instrument which is played by blowing air in or over one end
+  * **flute**  - a long, hollow musical instrument that is played by blowing air in or over one end
   * **kings' palaces**  - a large, expensive house that a king lives in
 === Explanations ===
 
 Simple explanations about words or phrases should be in sentence format.
 
   * **washing their nets**  - They were cleaning their fishing nets in order to use them again to catch fish.
-  * **motioned**  - They were too far from shore to call so they made gestures, probably waving their arms.
+  * **motioned**  - They were too far from shore to call, so they made gestures, probably waving their arms.
 
 === Synonyms and Equivalent Phrases ===
 
-Synonyms and equivalent phrases should simply be written in double quotes. They do not need to be full sentences, and should not normally be punctuated. However, if they are followed by another sentence, they should have a final period to set them off from the following sentence.
+Synonyms and equivalent phrases should simply be written in double quotes. They do not need to be full sentences and should not normally be punctuated. However, if they are followed by another sentence, they should have a final period to set them off from the following sentence.
 
   * **the way**  - "the path" or "the road"
   * **He went out** - “Moses went out”
@@ -45,7 +45,7 @@ Synonyms and equivalent phrases should simply be written in double quotes. They 
 
 === Alternate Translation(s) ===
 
-Insert "AT:" before alternate translations that suggest changes to the form or content of the ULB because of the limitations of some languages. Examples include added implicit information, changing passive voice to active, and stating rhetorical questions as statements. The "AT:" indicates that this alternate translation should only be used when the ULB form or content will not fit into a language. 
+Insert "AT:" before alternate translations that suggest changes to the form or content of the ULB because of the limitations of some languages. Examples include added implicit information, changing passive voice to active, and stating rhetorical questions as statements. The "AT:" indicates that this alternate translation should be used only when the ULB form or content will not fit into a language. 
 
   * **see the salvation of God**  - AT: "learn about how God saves people from sin"
   * **Follow me**  - AT: “Be my disciple” or “Come, follow me as your teacher”
@@ -62,7 +62,7 @@ Please do not write notes that only say "See UDB."
 
 === Alternate Meaning(s) ===
 
-Alternate meanings refer to when there are not just multiple ways to express something, but to when there are different understandings of what the Hebrew or Greek word or phrase means. In this case, prefix the meanings with "Possible meanings are" and number them with the preferred meaning first (This should be the same meaning as what is in the ULB and UDB).
+Alternate meanings refer to different understandings of what the Hebrew or Greek word or phrase means. In this case, prefix the meanings with "Possible meanings are" and number them with the preferred meaning first. (This should be the same meaning as what is in the ULB and UDB.)
 
 If the meaning is given as an explanation, do not put it in quotes.  
 
@@ -93,7 +93,7 @@ When adding the option for a direct quote, preface the alternate with "This can 
 
 === Explanation of Source Language ===
 
-In general, we want to downplay the original languages since most of the users of the notes will not have had any training in them. This does not mean we avoid the content. Rather, it means that we should look for simple ways to express that content. When possible, use plain-language explanations in English.
+In general, we want to downplay the original languages because most of the users of the notes will not have had any training in them. This does not mean we avoid the content. Rather, we should look for simple ways to express it. When possible, use plain-language explanations in English.
 
   * **sinful man**  - The word here for "man" means "adult male" and not the more general "human being."
   * **Master**  - The word that is translated here as “Master” is not the normal word for “Master.” This one refers to someone who has authority, and not to someone who owns someone else. AT: "Boss" or "Foreman" or use a word that is commonly used to address a person in authority, such as “Sir.”
