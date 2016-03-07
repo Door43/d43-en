@@ -1,0 +1,21 @@
+===== How to Translate the Translation Questions =====
+
+//This page answers the question:// //How do I translate the translationQuestions?//
+
+//In order to understand this topic, it would be good to read://
+
+   * //[[:en:ta:vol2:tech:tsd_intro|translationStudio-Desktop Introduction]]//
+  * //[[:en:ta:vol2:tech:tsd_install|translationStudio-Desktop Installation]]//
+Have you read the information in the article on [[:en:ta:vol2:gateway:gl_questions|Translate the translationQuestions]]? It is very important to understand the guidelines before translating the translationQuestions.
+
+This module explains the steps to translating the translationQuestions using translationStudio-Desktop.
+
+We want all translations of the Bible to communicate clearly the message that God wants them to communicate. One tool that we are providing so that the OL translators can make sure that their translations are communicating correctly is this set of translationQuestions. The OL translators will use these translationQuestions to conduct community checks of each chapter of the Bible that they translate.
+
+There is a set of questions for each chapter of the books of the Bible.
+
+//Next we recommend you learn about://
+
+  * //[[:en:ta:vol2:tech:tsd_navigate|Navigating translationStudio Desktop]]//
+  * //[[:en:ta:vol2:tech:tsd_tn|The Process for Translating the translationNotes]]//
+  * //[[:en:ta:vol2:tech:tsd_tw|The Process for Translating the translationWords]]//
