@@ -13,9 +13,13 @@ It is important that the Other Language translators understand all of the words 
 
 ==== Guidelines for Translating the translationWords ====
 
+**What can I learn in the Definition section of translationWords?**
+
 The translationWords definitions have several parts. The first part is "Definition." This gives the meaning of the word as it is used in the Bible. Please do not use definitions from a modern Gateway Language dictionary, because the way words are used in the Bible can be different from the way they are used in modern, everyday life. We want to make sure that the Other Language translator understands the way that the word is used in the Bible. 
 
 It is possible that the Gateway Language might express the meaning of the English word by different words, with each of those words having part of the meaning of the English word. In this case, you will need to list each of those words at the top, separated by commas. Several of the English translationWord entries already have multiple words at the top like this, such as "prophet, prophecy, prophesy, seer, prophetess" (see https://door43.org/en/obe/kt/prophet ). Then, in the "Definition" part, you will need to list those words in separate paragraphs with a definition for each one. The Other Language translator can then choose the word that he needs to understand from that list and translate it correctly in the passage that he is translating.
+
+**What can I learn in the Translation Suggestions section of translationWords?**
 
 The second part of the translationWords entry is "Translation Suggestions" or "Translation Strategies." This section gives different ideas for how the Other Language translator can translate the word. This section gives more than one way to translate the translationWord because the translationWord can mean slightly different things in different contexts. Be sure that you understand the differences of meaning between the different contexts in which the translationWord is used so that you can translate them correctly. 
 
@@ -24,6 +28,9 @@ In the Gateway Language, some of the translationWords are not used in all of the
 As you translate the ULB and UDB, you may find that you need to add a meaning to a word in the translationWords entry, or you may need to add another word to the entry because the Gateway Language uses more than one word for the idea of that important translationWord. Go ahead and do this as you find more words or meanings for the words. 
 
 Under the "Translation Suggestions" or "Translation Strategies" section is a line that says, "(See also...)." You only need to translate the words "See also," and you only need to translate this one time, not for every translationWord. The rest of the line will be created automatically, if the translation is done in translationStudio Desktop.
+
+
+**What can I learn in the Bible References and Bible Stories sections of translationWords?**
 
 The third and fourth parts are "Bible References" and "Examples from the Bible Stories." You only need to translate these words of the titles, and you only need to translate them one time, not for every translationWord. You do not need to translate the rest of these parts. They will be created automatically, if the translation is done in translationStudio Desktop.
 
