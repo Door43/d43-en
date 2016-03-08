@@ -11,7 +11,7 @@ We have developed a general method for the format of the translation notes. We w
 
 There are many different situations where notes are necessary. These include:
 
-  * Neither the UDB nor the KT page clarifies the meaning
+  * Neither the UDB nor the tW page clarifies the meaning
   * There is implicit information that is not stated
   * English does not convey important information from the original languages
   * Some languages may not have the same syntactic structures as English
