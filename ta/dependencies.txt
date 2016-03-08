@@ -561,12 +561,30 @@ edge [arrowsize=1.4];
 "tSd_intro" -> "tSd_install"
 "tSd_intro" [fillcolor="#99ffff"]
 "Technology" -> "tSd_intro"
+"tSd_navigate" [fillcolor="#99ffff"]
+"tSd_intro" -> "tSd_navigate"
+"tSd_install" -> "tSd_navigate"
 "tSd_print" [fillcolor="#99ffff"]
 "tSd_intro" -> "tSd_print"
 "tSd_settings" [fillcolor="#99ffff"]
 "tSd_intro" -> "tSd_settings"
 "tSd_install" -> "tSd_settings"
 "tSd_first" -> "tSd_settings"
+"tSd_tA" [fillcolor="#99ffff"]
+"tSd_intro" -> "tSd_tA"
+"tSd_install" -> "tSd_tA"
+"tSd_tN" [fillcolor="#99ffff"]
+"tSd_intro" -> "tSd_tN"
+"tSd_install" -> "tSd_tN"
+"gl_notes" -> "tSd_tN"
+"tSd_tQ" [fillcolor="#99ffff"]
+"tSd_intro" -> "tSd_tQ"
+"tSd_install" -> "tSd_tQ"
+"gl_questions" -> "tSd_tQ"
+"tSd_tW" [fillcolor="#99ffff"]
+"tSd_intro" -> "tSd_tW"
+"tSd_install" -> "tSd_tW"
+"gl_words" -> "tSd_tW"
 "toc_audiovol2" [fillcolor="#99ffff"]
 "Technology" -> "toc_audiovol2"
 "toc_techvol1" [fillcolor="#99ffff"]

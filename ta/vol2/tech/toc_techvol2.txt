@@ -2,17 +2,26 @@
 
 //This page answers the question:// //What is in volume 2 of the technology manual?//
 
+==== translationStudio-Desktop ====
+
+  - [[en:ta:vol2:tech:tsd_intro]]
+  - [[en:ta:vol2:tech:tsd_install]]
+  - [[en:ta:vol2:tech:tsd_first]] 
+  - How to Translate the Following Using translationStudio-Desktop
+    - [[en:ta:vol2:tech:tsd_bibletxt]]
+    - [[en:ta:vol2:tech:tsd_tw]]  
+    - [[en:ta:vol2:tech:tsd_tn]]
+    - [[en:ta:vol2:tech:tsd_tq]]
+    - [[en:ta:vol2:tech:tsd_ta]]
+  - The Three-Dot Menu Items 
+    - [[en:ta:vol2:tech:tsd_settings]]
+    - [[en:ta:vol2:tech:tsd_print]]
+
+
 ==== Door43 ====
 
   - [[en:ta:vol1:tech:d43_translateOBS]]
   - [[en:ta:vol1:tech:resources_d43]]
-
-
-==== translationStudio-Desktop ====
-
-  - [[en:ta:vol2:tech:tSd-intro]]
-  - [[en:ta:vol2:tech:tSd-print]]
-
 
 
 
