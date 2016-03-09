@@ -43,7 +43,7 @@ Sometimes you may need to include an object even if there is no object in Englis
 
 Nouns and Pronouns have the ability to be either singular (meaning "one") or plural (meaning "more than one"). For the majority of English words, plurals are formed simply by adding an 's' to the root word.
 
-The Singular Pronouns (see [[en:ta:vol2:translate:figs_singularpronouns]]) & Plural Pronouns (see [[en:ta:vol2:translate:figs_pluralpronouns]]) pages have more information. Basically, singular pronouns include I, you, he, she and it. Plural pronouns include you, they and we. "It" refers back to nouns (the antecedent) which are non-human. There are collective nouns which describe quantities in excess of one but which remain singular in treatment; for example, team refers to several people. However, in a sentence, team is singular. (e.g. The team is tired.)
+The Singular Pronouns (see [[en:ta:vol2:translate:figs_singularpronouns]]) & Plural Pronouns (see [[en:ta:vol2:translate:figs_pronouns]]) pages have more information. Basically, singular pronouns include I, you, he, she and it. Plural pronouns include you, they and we. "It" refers back to nouns (the antecedent) which are non-human. There are collective nouns which describe quantities in excess of one but which remain singular in treatment; for example, team refers to several people. However, in a sentence, team is singular. (e.g. The team is tired.)
 
 Verb agreement requires matching singular subjects with singular verbs. An example:
   * 'The voter is angry.' One voter (singular) uses a singular verb (is).
@@ -96,24 +96,6 @@ Modal verbs include: can, may, must, should, would
 
 
 //Next we recommend you learn about://
-  * //[[en:ta:vol2:translate:figs_abstractnouns|Abstract Nouns]]//
-  * //[[en:ta:vol2:translate:figs_activepassive|Active or Passive]]//
-  * //[[en:ta:vol2:translate:figs_doublenegatives|Double Negatives]]//
-  * //[[en:ta:vol2:translate:figs_ellipsis|Ellipsis]]//
-  * //[[en:ta:vol2:translate:figs_exclusive|Exclusive]]//
-  * //[[en:ta:vol2:translate:figs_123person|First, Second or Third Person]]//
-  * //[[en:ta:vol1:translate:figs_you|Forms of You]]//
-  * //[[en:ta:vol1:translate:figs_youdual|Forms of 'You' - Dual/Plural]]//
-  * //[[en:ta:vol1:translate:figs_yousingular|Forms of 'You' - Singular]]//
-  * //[[en:ta:vol2:translate:figs_youformal|Forms of 'You' - Formal and Informal]]//
-  * //[[en:ta:vol2:translate:figs_gendernotations|Gender Notations]]//
-  * //[[en:ta:vol2:translate:figs_genitivecase|Genitive Case]]//
   * //[[en:ta:vol2:translate:figs_grammar|Grammar Topics]]//
-  * //[[en:ta:vol2:translate:figs_inclusive|Inclusive]]//
-  * //[[en:ta:vol2:translate:figs_singularpronouns|Pronouns - Singular]]//
-  * //[[en:ta:vol2:translate:figs_pluralpronouns|Pronouns - Plural]]//
-  * //[[en:ta:vol2:translate:figs_rpronouns|Reflexive Pronouns]]//
-  * //[[en:ta:vol2:translate:figs_quotations|Speech Quotations]]//
   * //[[en:ta:vol2:translate:figs_sentences|Sentences]]//
-  * //[[en:ta:vol1:translate:figs_order|Word Order]]//
 
