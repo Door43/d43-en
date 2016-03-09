@@ -41,11 +41,11 @@ Go to https://github.com/unfoldingWord-dev/ts-desktop/releases to download the z
 
 **Note**: You might want to add a shortcut to the program onto the computer's desktop.
 
-=== Linux ===
+=== Linux Installation: ===
 
 == From Source ==
 
-This assumes you have a Debian-based system (like Ubuntu).
+These instructions assume you have a Debian-based system (like Ubuntu).
 
 Run this command:
 <code>
@@ -57,9 +57,9 @@ This will download all the environment pre-reqs and create a folder called 'ts-d
  cd ~/Desktop/ts-desktop && gulp test 
 </code>
 
-If everything looks good, you can either run the app from the source by doing  npm start , or you can build a release using  gulp build .
+If everything looks good, you can either run the app from the source by doing  npm start , or you can build a release using  gulp build.
 
-=== Install translationStudio ===
+== Install translationStudio ==
 
   - Download the latest version of translationStudio for desktop from https://github.com/unfoldingWord-dev/ts-desktop/releases 
   - Extract the zipped archive to any location on your computer.

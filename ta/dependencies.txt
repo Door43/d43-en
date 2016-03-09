@@ -554,6 +554,9 @@ edge [arrowsize=1.4];
 "tS_useresources" [fillcolor="#99ffff"]
 "tS_create" -> "tS_useresources"
 "resources_intro" -> "tS_useresources"
+"tSd_backup" [fillcolor="#99ffff"]
+"tSd_install" -> "tSd_backup"
+"tSd_navigate" -> "tSd_backup"
 "tSd_first" [fillcolor="#99ffff"]
 "tSd_intro" -> "tSd_first"
 "tSd_install" -> "tSd_first"
@@ -623,15 +626,19 @@ edge [arrowsize=1.4];
 "translate_whatis" -> "choose_team"
 "translate_why" -> "choose_team"
 "figs_123person" [fillcolor="#9999ff"]
-"figs_partsofspeech" -> "figs_123person"
+"figs_explicitinfo" -> "figs_123person"
 "figs_abstractnouns" [fillcolor="#9999ff"]
 "figs_partsofspeech" -> "figs_abstractnouns"
+"figs_sentences" -> "figs_abstractnouns"
 "figs_activepassive" [fillcolor="#9999ff"]
+"figs_partsofspeech" -> "figs_activepassive"
 "figs_sentences" -> "figs_activepassive"
+"figs_verbs" -> "figs_activepassive"
 "figs_apostrophe" [fillcolor="#9999ff"]
 "figs_intro" -> "figs_apostrophe"
 "figs_distinguish" [fillcolor="#9999ff"]
 "figs_partsofspeech" -> "figs_distinguish"
+"figs_sentences" -> "figs_distinguish"
 "figs_doublenegatives" [fillcolor="#9999ff"]
 "figs_partsofspeech" -> "figs_doublenegatives"
 "figs_sentences" -> "figs_doublenegatives"
@@ -639,36 +646,37 @@ edge [arrowsize=1.4];
 "figs_intro" -> "figs_doublet"
 "figs_ellipsis" [fillcolor="#9999ff"]
 "figs_intro" -> "figs_ellipsis"
+"figs_sentences" -> "figs_ellipsis"
 "figs_euphemism" [fillcolor="#9999ff"]
 "figs_intro" -> "figs_euphemism"
 "figs_events" [fillcolor="#9999ff"]
 "writing_intro" -> "figs_events"
 "figs_exclusive" [fillcolor="#9999ff"]
-"figs_grammar" -> "figs_exclusive"
+"Translation" -> "figs_exclusive"
 "figs_explicit" [fillcolor="#9999ff"]
 "Translation" -> "figs_explicit"
 "figs_explicitinfo" [fillcolor="#9999ff"]
 "figs_explicit" -> "figs_explicitinfo"
 "figs_gendernotations" [fillcolor="#9999ff"]
-"Translation" -> "figs_gendernotations"
+"figs_genericnoun" -> "figs_gendernotations"
 "figs_genericnoun" [fillcolor="#9999ff"]
 "figs_partsofspeech" -> "figs_genericnoun"
 "figs_genitivecase" [fillcolor="#9999ff"]
-"Translation" -> "figs_genitivecase"
+"figs_partsofspeech" -> "figs_genitivecase"
 "figs_go" [fillcolor="#9999ff"]
 "Translation" -> "figs_go"
 "figs_grammar" [fillcolor="#9999ff"]
 "Translation" -> "figs_grammar"
 "figs_hendiadys" [fillcolor="#9999ff"]
-"figs_intro" -> "figs_hendiadys"
+"figs_partsofspeech" -> "figs_hendiadys"
 "figs_hyperbole" [fillcolor="#9999ff"]
 "figs_intro" -> "figs_hyperbole"
 "figs_hypo" [fillcolor="#9999ff"]
-"figs_intro" -> "figs_hypo"
+"writing_intro" -> "figs_hypo"
 "figs_idiom" [fillcolor="#9999ff"]
 "figs_intro" -> "figs_idiom"
 "figs_inclusive" [fillcolor="#9999ff"]
-"figs_grammar" -> "figs_inclusive"
+"Translation" -> "figs_inclusive"
 "figs_informremind" [fillcolor="#9999ff"]
 "figs_partsofspeech" -> "figs_informremind"
 "figs_distinguish" -> "figs_informremind"
@@ -691,7 +699,7 @@ edge [arrowsize=1.4];
 "figs_parallelism" [fillcolor="#9999ff"]
 "figs_intro" -> "figs_parallelism"
 "figs_partsofspeech" [fillcolor="#9999ff"]
-"Translation" -> "figs_partsofspeech"
+"figs_grammar" -> "figs_partsofspeech"
 "figs_personification" [fillcolor="#9999ff"]
 "figs_intro" -> "figs_personification"
 "figs_pluralpronouns" [fillcolor="#9999ff"]
@@ -716,13 +724,16 @@ edge [arrowsize=1.4];
 "figs_verbs" [fillcolor="#9999ff"]
 "figs_partsofspeech" -> "figs_verbs"
 "figs_you" [fillcolor="#9999ff"]
+"figs_grammar" -> "figs_you"
 "figs_partsofspeech" -> "figs_you"
 "figs_youdual" [fillcolor="#9999ff"]
 "figs_partsofspeech" -> "figs_youdual"
+"figs_you" -> "figs_youdual"
 "figs_youformal" [fillcolor="#9999ff"]
-"figs_partsofspeech" -> "figs_youformal"
+"figs_you" -> "figs_youformal"
 "figs_yousingular" [fillcolor="#9999ff"]
 "figs_partsofspeech" -> "figs_yousingular"
+"figs_you" -> "figs_yousingular"
 "file_formats" [fillcolor="#9999ff"]
 "Translation" -> "file_formats"
 "first_draft" [fillcolor="#9999ff"]
@@ -878,6 +889,7 @@ edge [arrowsize=1.4];
 "translate_why" -> "translate_tform"
 "translate_transliterate" [fillcolor="#9999ff"]
 "translate_unknown" -> "translate_transliterate"
+"figs_sentences" -> "translate_transliterate"
 "translate_unknown" [fillcolor="#9999ff"]
 "Translation" -> "translate_unknown"
 "translate_versebridge" [fillcolor="#9999ff"]

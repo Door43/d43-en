@@ -43,6 +43,9 @@
 **[[:aoa:obs|aoa OBS]]**
 {{changes>ns=aoa:obs&maxage=604800&render=pagelist(header,date,user,nocomments)}}
 
+**[[:apc:obs|apc OBS]]**
+{{changes>ns=apc:obs&maxage=604800&render=pagelist(header,date,user,nocomments)}}
+
 **[[:apd:obs|apd OBS]]**
 {{changes>ns=apd:obs&maxage=604800&render=pagelist(header,date,user,nocomments)}}
 
