@@ -45,7 +45,7 @@ Synonyms and equivalent phrases should simply be written in double quotes. They 
 
 === Alternate Translation(s) ===
 
-Insert "AT:" before alternate translations that suggest changes to the form or content of the ULB because of the limitations of some languages. Examples include added implicit information, changing passive voice to active, and stating rhetorical questions as statements. The "AT:" indicates that this alternate translation should be used only when the ULB form or content will not fit into a language. 
+Insert "AT:" before alternate translations that suggest changes to the form or content of the ULB because of the limitations of some languages. Examples include added implicit information, changing passive voice to active, and stating rhetorical questions as statements. The "AT:" indicates that this alternate translation should be used when the ULB form or content will not fit into a language. 
 
   * **see the salvation of God**  - AT: "learn about how God saves people from sin"
   * **Follow me**  - AT: “Be my disciple” or “Come, follow me as your teacher”
@@ -63,7 +63,7 @@ Please do not write notes that only say "See UDB."
 
 === Alternate Meaning(s) ===
 
-Alternate meanings refer to different understandings of what the Hebrew or Greek word or phrase means. In this case, prefix the meanings with "Possible meanings are" and number them with the preferred meaning first. (This should be the same meaning as what is in the ULB and UDB.)
+Alternate meanings refer to different understandings of what the phrase means. In this case, prefix the meanings with "Possible meanings are" and number them with the preferred meaning first (This should be the same meaning as what is in the ULB and UDB).
 
 If the meaning is given as an explanation, do not put it in quotes.  
 
