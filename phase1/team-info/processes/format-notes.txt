@@ -8,14 +8,14 @@ Return to: [[:en:phase1:team-info:processes:create-notes|How to Create Translati
   * Write a translation suggestion that can be used in place of the portion you have selected.
     * Put the suggestion in quotes.
     * If there is more than one suggestion, separate them with the word "or."
-      * "X" or "Y"
-      * AT: "X" or "Y" (when this is the only item in the note)
-      * ...AT: "X" or "Y." (when it follows other text in the note)
+      * "X" or "Y" (See: TA-LINK)
+      * AT: "X" or "Y" //(when this is the only item in the note)//
+      * ...AT: "X" or "Y." //(when it follows other text in the note)//
     * When the suggestions are mixed, separate them with a period.
-      * "X." AT: "Y."
+      * "X." AT: "Y." (See: TA-LINK)
   * Write an explanation if needed.
   * Refer the translators to a Translation Academy page if needed.
-    * (See: Metaphor)
+  * (See: Metaphor)
   * Normally we do not need to write notes for terms that are in the Important Terms list. However, when an important term has multiple senses, you may need to write a note telling which sense is meant in the text.
 ===== Formats for Specific Types of Notes: =====
 
@@ -53,10 +53,11 @@ Insert "AT:" before alternate translations that suggest changes to the form or c
 
 === Translation Suggestion from the UDB ===
 
-If the UDB provides a good translation that clarifies what is in the ULB, it is normally not necessary to include a note. However, on occasion it may be helpful to write a note or translation suggestion and also include text from the UDB. In that case, append "(UDB)" after the text from the UDB as below:
+If the UDB provides a good translation that clarifies what is in the ULB, it is normally not necessary to include a note. However, on occasion it may be helpful to write a note or translation suggestion and also include text from the UDB. In that case, append "(UDB)" after the text from the UDB before the period as below:
 
   * **implored him**  - "begged him" or "pleaded with him" (UDB)
   * **he fell on his face**  - "he bowed down to the ground" (UDB) or "he knelt and touched the ground with his face"
+  * **the sons of Heth** - “the descendants of Heth” (UDB). AT: “the Hittites.” (See: Translate Names)
 
 Please do not write notes that only say "See UDB."
 
