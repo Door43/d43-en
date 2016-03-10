@@ -2,43 +2,30 @@
 
 ===== TFT: =====
 
-<usfm>
-\v 1 This is\f + \ft Or: I will now give \f* a list of the descendants of Adam. When God created humans, he caused them to be like him in many ways.
-\v 2 He created one man and one woman. He blessed them, and on the day that he created them, he called them 'human beings.'
-</usfm>
+<usfm> \v 1 This is\f + \ft Or: I will now give \f* a list of the descendants of Adam. When God created humans, he caused them to be like him in many ways. \v 2 He created one man and one woman. He blessed them, and on the day that he created them, he called them 'human beings.' </usfm>
 
 ===== UDB: =====
 
-<usfm>
-\v 1 This is a list of those who descended from Adam. When God created humans, he made them to be like him in many ways.
-\v 2 He created one man and one woman. He blessed them, and on the day that he created them, he called them 'human beings.'
-</usfm>
+<usfm> \v 1 This is a list of those who descended from Adam. When God created humans, he made them to be like him in many ways. \v 2 He created one man and one woman. He blessed them, and on the day that he created them, he called them 'human beings.' </usfm>
 
 ===== ULB: =====
 
-<usfm>
-\c 5
-\p
-\v 1 This is the record of the descendants of Adam. On the day that God created mankind, he made them in his own likeness.
-\v 2 Male and female he created them. He blessed them and named them mankind, when they were created.
-</usfm>
+<usfm> \c 5 \p \v 1 This is the record of the descendants of Adam. On the day that God created mankind, he made them in his own likeness. \v 2 Male and female he created them. He blessed them and named them mankind, when they were created. </usfm>
 
 ===== translationWords: =====
 
-  * [[en:obe:other:adam]]
-  * [[en:obe:kt:bless]]
+  * [[:en:obe:other:adam|Adam]]
+  * [[:en:obe:kt:bless|bless, blessed, blessing]]
 
 ===== Translation Notes: =====
 
-  * **This is the record of the descendants of Adam**  - This sentence introduces the account of Adam's descendants in Genesis 5:1-6:8. It could be translated as “This is the account of Adam's descendants.”
+  * **This is the record of the descendants of Adam**  - This sentence introduces the account of Adam's descendants in Genesis 5:1-6:8. AT: “This is the account of Adam's descendants.”
   * **in his own likeness**  - "to be like God". This does not say how God made people to be like himself. God does not have a body, so it does not mean that people look like God.
-
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:gen:05|Genesis Chapter 05 Comprehension Questions]]**
+  * **[[:en:bible:questions:comprehension:gen:05|Genesis Chapter 05 Comprehension Questions]]**
 **[[:en:bible:notes:gen:04:25|<<]] | [[:en:bible:notes:gen:05:03|>>]]**
 
-~~DISCUSSION~~
+~~DISCUSSION~~{{tag>publish adam}}
 
-{{tag>publish adam}}
 ~~NOCACHE~~
