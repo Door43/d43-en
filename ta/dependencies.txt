@@ -678,7 +678,7 @@ edge [arrowsize=1.4];
 "figs_inclusive" [fillcolor="#9999ff"]
 "Translation" -> "figs_inclusive"
 "figs_informremind" [fillcolor="#9999ff"]
-"figs_partsofspeech" -> "figs_informremind"
+"figs_intro" -> "figs_informremind"
 "figs_distinguish" -> "figs_informremind"
 "figs_intro" [fillcolor="#9999ff"]
 "Translation" -> "figs_intro"
@@ -690,10 +690,13 @@ edge [arrowsize=1.4];
 "figs_intro" -> "figs_merism"
 "figs_metaphor" [fillcolor="#9999ff"]
 "figs_intro" -> "figs_metaphor"
+"figs_simile" -> "figs_metaphor"
 "figs_metonymy" [fillcolor="#9999ff"]
 "figs_intro" -> "figs_metonymy"
 "figs_order" [fillcolor="#9999ff"]
 "figs_grammar" -> "figs_order"
+"figs_partsofspeech" -> "figs_order"
+"figs_sentences" -> "figs_order"
 "figs_parables" [fillcolor="#9999ff"]
 "figs_intro" -> "figs_parables"
 "figs_parallelism" [fillcolor="#9999ff"]
@@ -702,20 +705,20 @@ edge [arrowsize=1.4];
 "figs_grammar" -> "figs_partsofspeech"
 "figs_personification" [fillcolor="#9999ff"]
 "figs_intro" -> "figs_personification"
-"figs_pluralpronouns" [fillcolor="#9999ff"]
-"figs_partsofspeech" -> "figs_pluralpronouns"
+"figs_pronouns" [fillcolor="#9999ff"]
+"figs_partsofspeech" -> "figs_pronouns"
 "figs_quotations" [fillcolor="#9999ff"]
-"figs_partsofspeech" -> "figs_quotations"
+"figs_verbs" -> "figs_quotations"
+"writing_quotations" -> "figs_quotations"
 "figs_rpronouns" [fillcolor="#9999ff"]
-"figs_partsofspeech" -> "figs_rpronouns"
+"figs_pronouns" -> "figs_rpronouns"
 "figs_rquestion" [fillcolor="#9999ff"]
 "figs_intro" -> "figs_rquestion"
+"figs_simile" -> "figs_rquestion"
 "figs_sentences" [fillcolor="#9999ff"]
 "figs_partsofspeech" -> "figs_sentences"
 "figs_simile" [fillcolor="#9999ff"]
 "figs_intro" -> "figs_simile"
-"figs_singularpronouns" [fillcolor="#9999ff"]
-"figs_partsofspeech" -> "figs_singularpronouns"
 "figs_synecdoche" [fillcolor="#9999ff"]
 "figs_intro" -> "figs_synecdoche"
 "figs_synonparallelism" [fillcolor="#9999ff"]
@@ -854,6 +857,7 @@ edge [arrowsize=1.4];
 "translate_unknown" -> "translate_numbers"
 "translate_ordinal" [fillcolor="#9999ff"]
 "translate_numbers" -> "translate_ordinal"
+"translate_unknown" -> "translate_ordinal"
 "translate_original" [fillcolor="#9999ff"]
 "translate_process" -> "translate_original"
 "translate_source_text" -> "translate_original"
@@ -876,7 +880,7 @@ edge [arrowsize=1.4];
 "translate_source_text" -> "translate_source_version"
 "translate_source_licensing" -> "translate_source_version"
 "translate_symaction" [fillcolor="#9999ff"]
-"translate_unknown" -> "translate_symaction"
+"Translation" -> "translate_symaction"
 "translate_terms" [fillcolor="#9999ff"]
 "translate_manual" -> "translate_terms"
 "translate_textvariants" [fillcolor="#9999ff"]
@@ -908,29 +912,33 @@ edge [arrowsize=1.4];
 "translate_whatis" -> "translation_difficulty"
 "translate_why" -> "translation_difficulty"
 "writing_background" [fillcolor="#9999ff"]
+"figs_events" -> "writing_background"
 "writing_intro" -> "writing_background"
 "writing_connectingwords" [fillcolor="#9999ff"]
-"writing_intro" -> "writing_connectingwords"
+"figs_partsofspeech" -> "writing_connectingwords"
+"figs_sentences" -> "writing_connectingwords"
 "writing_decisions" [fillcolor="#9999ff"]
 "translate_source_text" -> "writing_decisions"
 "choose_team" -> "writing_decisions"
 "writing_intro" [fillcolor="#9999ff"]
 "writing_decisions" -> "writing_intro"
 "writing_newevent" [fillcolor="#9999ff"]
+"figs_events" -> "writing_newevent"
 "writing_intro" -> "writing_newevent"
 "writing_participants" [fillcolor="#9999ff"]
+"figs_partsofspeech" -> "writing_participants"
 "writing_intro" -> "writing_participants"
 "writing_poetry" [fillcolor="#9999ff"]
-"figs_parallelism" -> "writing_poetry"
-"figs_metaphor" -> "writing_poetry"
+"figs_intro" -> "writing_poetry"
 "writing_intro" -> "writing_poetry"
 "writing_proverbs" [fillcolor="#9999ff"]
+"figs_metaphor" -> "writing_proverbs"
+"figs_parallelism" -> "writing_proverbs"
 "writing_intro" -> "writing_proverbs"
 "writing_quotations" [fillcolor="#9999ff"]
-"writing_intro" -> "writing_quotations"
+"Translation" -> "writing_quotations"
 "writing_symlanguage" [fillcolor="#9999ff"]
 "writing_intro" -> "writing_symlanguage"
-"figs_metaphor" -> "writing_symlanguage"
 }
 </graphviz>
 ~~NOCACHE~~
