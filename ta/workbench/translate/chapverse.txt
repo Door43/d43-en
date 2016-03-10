@@ -1,19 +1,22 @@
 ====== Chapter and Verse Numbers ======
 
-//This module answers the question: Why are the chapter and verse numbers in my Bible different from those in your Bible?// \\ 
+//This page answers the question: Why are the chapter and verse numbers in my Bible different from those in your Bible?// \\ 
 
-//In order to understand this module, it would be good to read//
+//In order to understand this page, it would be good to read//
 
   * [[en:ta:vol2:translate:translate_bibleorg]]
 
 
-When the books of the Bible were first written, there were no breaks for chapters and verses. People added these later, and then others numbered them to make it easier to find particular parts of the Bible. Since more than one person did this, there are different numbering systems used in different translations. If the numbering system in the ULB is different from the numbering system in another Bible that you use, you will probably want to use the system from that Bible.
+When the books of the Bible were first written, there were no breaks for chapters and verses. People added these later, and then others numbered the chapters and verses to make it easier to find particular parts of the Bible. Since more than one person did this, there are different numbering systems used in different translations. If the numbering system in the ULB is different from the numbering system in another Bible that you use, you will probably want to use the system from that Bible.
 
 ==== Description ====
 
-When the books of the Bible were first written, there were no breaks for chapters and verses. People added chapter and verse breaks, and they numbered them later to make it easier to find particular parts of the Bible and particular sentences. Since more than one person did this, there are different numbering systems. Some people use Bibles with one numbering system and some use Bibles with another numbering system.
+When the books of the Bible were first written, there were no breaks for chapters and verses. People added these later, and then others numbered the chapters and verses to make it easier to find particular parts of the Bible. Since more than one person did this, there are different numbering systems. Some people use Bibles with one numbering system and some use Bibles with another numbering system.
 
-**Reason this is a translation issue:** - People who speak your language may also use a Bible written in another language. If that Bible and your translation use different chapter and verse numbers, it will be hard for people to know which verse someone is speaking of when they give a chapter and verse number.
+=== Reason this is a translation issue ===
+
+People who speak your language may also use a Bible written in another language. If that Bible and your translation use different chapter and verse numbers, it will be hard for people to know which verse someone is talking about when they say a chapter and verse number.
+
 ==== Examples from the Bible ====
 
 >//<sup>14</sup> But I expect to see you soon, and we will speak face to face.** <sup>15</sup> **Peace be to you. The friends greet you. Greet the friends by name.// (3 John 1:14-15 ULB)
@@ -28,13 +31,21 @@ Some of the psalms have an explanation before them. In some versions the explana
 >//and Darius the Mede received the kingdom when he was about sixty-two years old.// (Daniel 5:31 ULB) 
 
 In some versions this is the last verse of Daniel 5. In other versions this is the first verse of Daniel 6. 
+
 ==== Translation Strategies ====
 
-1. If the people who speak your language have a Bible in another language that they use, number the chapters and verses the way it does. Read the instructions on [[this page in the Technology Manual]].
+1. If the people who speak your language have another Bible that they use, number the chapters and verses the way it does. Read the instructions on [[this page in the Technology Manual]].
 
 ==== Examples of Translation Strategies Applied ====
-If the people who speak your language have a Bible in another language that they use, number the chapters and verses the way it does. \\
-This is an example from the beginning of Psalm 3.
+
+If the people who speak your language have another Bible that they use, number the chapters and verses the way it does. \\
+
+
+  * **//<sup>14</sup> But I expect to see you soon, and we will speak face to face.** <sup>15</sup> **Peace be to you. The friends greet you. Greet the friends by name.//** (3 John 1:14-15 ULB)
+    * "//<sup>14</sup> But I expect to see you soon, and we will speak face to face. Peace be to you. The friends greet you. Greet the friends by name."// (3 John 14)
+
+
+Next is an example from the beginning of Psalm 3.
 
 **//A psalm of David, when he fled from Absalom his son.//**  \\ 
 1. **Yahweh, how many are my enemies!**  \\ 
@@ -52,4 +63,4 @@ Many have turned away and attacked me. \\
 
 https://pad.door43.org/p/ta-translate_chapverse
 
-{{tag>epadn draftsq}}~~DISCUSSIONS~~
+{{tag>kara epadn}}~~DISCUSSIONS~~
