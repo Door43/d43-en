@@ -1,12 +1,14 @@
 ===== Abstract Nouns =====
 
-**This module answers the question**: What are abstract nouns and how do I deal with them in my translation?\\
-In order to understand this module, we suggest you read
+**This page answers the question**: What are abstract nouns and how do I translate them?
+
+In order to understand this page, it would be good to read
   * [[en:ta:vol2:translate:figs_partsofspeech]]
   * [[en:ta:vol2:translate:figs_sentences]]
 
 Abstract nouns are nouns that refer to attitudes, qualities, events, situations, or even to relationships among these ideas. These are things that cannot be seen or touched in a physical sense, such as happiness, weight, injury, unity, friendship, health, and reason. This is a translation issue because some languages may express a certain idea with an abstract noun, while others would need a different way to express it. For example, "What is its __weight__?" could be expressed as "How much does it __weigh__?" or "How __heavy__ is it?"
-===== Description =====
+
+==== Description ====
 
 Remember that nouns are words that refer to a person, place, thing, or idea. **ABSTRACT NOUNS** are nouns that refer to attitudes, qualities, events, situations, or even to relationships among these ideas. These are things that cannot be seen or touched in a physical sense, such as joy, peace, creation, goodness, contentment, justice, truth, freedom, vengeance, slowness, length, and weight.
 
@@ -14,9 +16,12 @@ Abstract nouns allow us to express thoughts about ideas in fewer words than if w
 
 Abstract nouns also allow us to refer to a situation without telling more details about it than we want to tell. For example, we can say "I got here late because there was an accident on the highway." "Accident" is an abstract noun. If it does not matter whose accident it was, or what kind of accident it was, then it can be better if I do not have to say these things about it.
 
-**Reason this is a translation issue**: The Bible that you translate from may use abstract nouns to express certain ideas. Your language might not use abstract nouns for some of those ideas; instead, it might use phrases to express those ideas. Those phrases will have other kinds of words such as adjectives, verbs, or adverbs, that express some of the meaning in the abstract noun.
+=== Reason this is a translation issue ===
 
-===== Examples from the Bible =====
+The Bible that you translate from may use abstract nouns to express certain ideas. Your language might not use abstract nouns for some of those ideas; instead, it might use phrases to express those ideas. Those phrases will have other kinds of words such as adjectives, verbs, or adverbs, that express some of the meaning in the abstract noun.
+
+==== Examples from the Bible ====
+
 >from __childhood__ you have known the sacred writings (2 Timothy 3:15 ULB) \\  
 The abstract noun "childhood" refers to when someone is a child.
 
@@ -35,7 +40,8 @@ The abstract noun "purposes" refers to the things that people want to do and the
 ===== Translation Strategies =====
 If an abstract noun would be natural and give the right meaning in your language, consider using it. If not, here is another option:
   - Reword the sentence with a phrase that expresses the meaning of the abstract noun. 
-===== Examples of Translation Strategies Applied =====
+
+==== Examples of Translation Strategies Applied ====
 
 1. Reword the sentence with a phrase that expresses the meaning of the abstract noun.
 
@@ -61,4 +67,4 @@ If an abstract noun would be natural and give the right meaning in your language
 
 [[https://pad.door43.org/p/ta-figs_abstractnouns|https://pad.door43.org/p/ta-figs_abstractnouns]]
 
-{{tag>susan epadn}}~~DISCUSSIONS~~
+{{tag>chris epadn}}~~DISCUSSIONS~~
