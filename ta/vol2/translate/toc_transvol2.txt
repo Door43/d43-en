@@ -1,89 +1,86 @@
-===== Listahan sa Hilisgotan(Table of Contents )- Giya sa Paghubad Volume 2(Translation Manual Volume 2) =====
+===== Table of Contents - Translation Manual Volume 2 =====
 
-CKGE_TMP_i Kini nga panid magtubag sa pangutana nga:  CKGE_TMP_i //Unsa ang gilangkoban sa Volume 2 nga Giya sa Paghubad?//
-==== Giya sa Paghubad Volume 2(Translation Manual Volume 2) ====
+//This page answers the question:// //What is in Volume 2 of the translation manual?//
 
-=== Dugang nga Ipasabot sa Maayo nga Paghubad(Further Defining a Good Translation) ===
+==== Translation Manual Volume 2 ====
 
-  - [[:en:ta:vol2:translate:guidelines_faithful|Create Faithful Translations]]
-  - [[:en:ta:vol2:translate:guidelines_authoritative|Create Authoritative Translations]]
-  - [[:en:ta:vol2:translate:guidelines_historical|Create Historical Translations]]
-  - [[:en:ta:vol2:translate:guidelines_equal|Create Equal Translations]]
-  - [[:en:ta:vol2:translate:guidelines_collaborative|Create Collaborative Translations]]
-  - [[:en:ta:vol2:translate:guidelines_ongoing|Create Ongoing Translations]]
+=== Further Defining a Good Translation ===
+  - [[en:ta:vol2:translate:guidelines_faithful]]
+  - [[en:ta:vol2:translate:guidelines_authoritative]]
+  - [[en:ta:vol2:translate:guidelines_historical]]
+  - [[en:ta:vol2:translate:guidelines_equal]]
+  - [[en:ta:vol2:translate:guidelines_collaborative]]
+  - [[en:ta:vol2:translate:guidelines_ongoing]]
 
-=== Abli nga Sulat sa Biblia(Unlocked Bible Text) ===
+=== Unlocked Bible Text ===
+  - [[en:ta:vol2:translate:translate_original]]
+  - [[en:ta:vol2:translate:translate_manuscripts]]
+  - [[en:ta:vol2:translate:translate_bibleorg]]
+  - [[en:ta:vol2:translate:translate_chapverse]]
 
-  - [[:en:ta:vol2:translate:translate_original|The Original and Source Languages]]
-  - [[:en:ta:vol2:translate:translate_manuscripts|Original Manuscripts]]
-  - [[:en:ta:vol2:translate:translate_bibleorg|Structure of the Bible]]
-  - [[:en:ta:vol2:translate:translate_chapverse|Chapter and Verse Numbers]]
+=== Just-in-Time Learning Volume 2 ===
 
-=== Tukma sa Panahon nga Pagtulon-an Volume 2(Just-in-Time Learning Volume 2) ===
+== Figures of Speech ==
+  - [[en:ta:vol2:translate:figs_apostrophe]]
+  - [[en:ta:vol2:translate:figs_doublet]]
+  - [[en:ta:vol2:translate:figs_euphemism]]
+  - [[en:ta:vol2:translate:figs_hendiadys]]
+  - [[en:ta:vol2:translate:figs_hyperbole]]
+  - [[en:ta:vol2:translate:figs_litotes]]
+  - [[en:ta:vol2:translate:figs_merism]]
+  - [[en:ta:vol2:translate:figs_metonymy]]
+  - [[en:ta:vol2:translate:figs_parallelism]]
+  - [[en:ta:vol2:translate:figs_synonparallelism]] 
+  - [[en:ta:vol2:translate:figs_personification]]
+  - [[en:ta:vol2:translate:figs_synecdoche]]
 
-== Mahulagwayong Pakigpulong (Figures of Speech) ==
+== Grammar ==
+  - [[en:ta:vol2:translate:figs_grammar]]
+  - [[en:ta:vol2:translate:figs_abstractnouns]]  
+  - [[en:ta:vol2:translate:figs_activepassive]]
+  - [[en:ta:vol2:translate:figs_distinguish]]
+  - [[en:ta:vol2:translate:figs_informremind]] 
+  - [[en:ta:vol2:translate:figs_doublenegatives]]
+  - [[en:ta:vol2:translate:figs_ellipsis]]
+  - [[en:ta:vol2:translate:figs_genericnoun]]
+  - [[en:ta:vol2:translate:figs_gendernotations]]
+  - [[en:ta:vol2:translate:figs_genitivecase]]
+  - [[en:ta:vol2:translate:figs_go]]
+  - [[en:ta:vol2:translate:figs_partsofspeech]]
+  - [[en:ta:vol2:translate:writing_quotations]]
+  - [[en:ta:vol2:translate:figs_quotations]]
+  - [[en:ta:vol2:translate:figs_sentences]]
+  - [[en:ta:vol2:translate:figs_verbs]]
 
-  - [[:en:ta:vol2:translate:figs_apostrophe|Apostrophe]]
-  - [[:en:ta:vol2:translate:figs_doublet|Doublet]]
-  - [[:en:ta:vol2:translate:figs_euphemism|Euphemism]]
-  - [[:en:ta:vol2:translate:figs_hendiadys|Hendiadys]]
-  - [[:en:ta:vol2:translate:figs_hyperbole|Hyperbole]]
-  - [[:en:ta:vol2:translate:figs_litotes|Litotes]]
-  - [[:en:ta:vol2:translate:figs_merism|Merism]]
-  - [[:en:ta:vol2:translate:figs_metonymy|Metonymy]]
-  - [[:en:ta:vol2:translate:figs_parallelism|Parallelism]]
-  - [[:en:ta:vol2:translate:figs_synonparallelism|Parallelism with the Same Meaning]]
-  - [[:en:ta:vol2:translate:figs_personification|Personification]]
-  - [[:en:ta:vol2:translate:figs_synecdoche|Synecdoche]]
+== Pronouns ==
+  - [[en:ta:vol2:translate:figs_123person]]
+  - [[en:ta:vol2:translate:figs_youformal]]
+  - [[en:ta:vol2:translate:figs_exclusive]]
+  - [[en:ta:vol2:translate:figs_inclusive]] 
+  - [[en:ta:vol2:translate:figs_pronouns]] 
+  - [[en:ta:vol2:translate:figs_rpronouns]]
 
-== Gramarya (Grammar) ==
+== Translation Issues ==
+  - [[en:ta:vol2:translate:translate_textvariants]]
+  - [[en:ta:vol2:translate:translate_versebridge]] 
 
-  - [[:en:ta:vol2:translate:figs_grammar|Grammar Topics]]
-  - [[:en:ta:vol2:translate:figs_abstractnouns|Abstract Nouns]]
-  - [[:en:ta:vol2:translate:figs_activepassive|Active or Passive]]
-  - [[:en:ta:vol2:translate:figs_distinguish|Distinguishing versus Informing or Reminding]]
-  - [[:en:ta:vol2:translate:figs_informremind|Phrases that Inform or Remind]]
-  - [[:en:ta:vol2:translate:figs_doublenegatives|Double Negatives]]
-  - [[:en:ta:vol2:translate:figs_ellipsis|Ellipsis]]
-  - [[:en:ta:vol2:translate:figs_genericnoun|Generic Noun Phrases]]
-  - [[:en:ta:vol2:translate:figs_gendernotations|Gender Notations]]
-  - [[:en:ta:vol2:translate:figs_genitivecase|Genitive Case]]
-  - [[:en:ta:vol2:translate:figs_go|Go and Come]]
-  - [[:en:ta:vol2:translate:figs_partsofspeech|Parts of Speech]]
-  - [[:en:ta:vol2:translate:writing_quotations|Quotations]]
-  - [[:en:ta:vol2:translate:figs_quotations|Speech Quotations]]
-  - [[:en:ta:vol2:translate:figs_sentences|Sentences]]
-  - [[:en:ta:vol2:translate:figs_verbs|Verbs]]
+== Unknowns ==
+  - [[en:ta:vol2:translate:translate_symaction]]
+  - [[en:ta:vol2:translate:translate_numbers]]
+  - [[en:ta:vol2:translate:translate_fraction]]
+  - [[en:ta:vol2:translate:translate_decimal]]
+  - [[en:ta:vol2:translate:translate_ordinal]]
 
-== Pronombre (Pronouns) ==
+== Writing Styles ==
+  - [[en:ta:vol2:translate:writing_intro]]
+  - [[en:ta:vol2:translate:writing_background]]
+  - [[en:ta:vol2:translate:writing_connectingwords]]
+  - [[en:ta:vol2:translate:writing_symlanguage]]
+  - [[en:ta:vol2:translate:writing_newevent]]
+  - [[en:ta:vol2:translate:writing_participants]]
+  - [[en:ta:vol2:translate:writing_poetry]]
+  - [[en:ta:vol2:translate:writing_proverbs]]
 
-  - [[:en:ta:vol2:translate:figs_123person|First, Second or Third Person]]
-  - [[:en:ta:vol2:translate:figs_youformal|Forms of 'You' - Formal and Informal]]
-  - [[:en:ta:vol2:translate:figs_exclusive|Exclusive]]
-  - [[:en:ta:vol2:translate:figs_inclusive|Inclusive]]
-  - [[:en:ta:vol2:translate:figs_pronouns|Pronouns]]
-  - [[:en:ta:vol2:translate:figs_rpronouns|Reflexive Pronouns]]
 
-== Mga Isyu sa Paghubad (Translation Issues) ==
 
-  - [[:en:ta:vol2:translate:translate_textvariants|Textual Variants]]
-  - [[:en:ta:vol2:translate:translate_versebridge|Verse Bridges]]
 
-== Wala Ma-ilhi (Unknowns) ==
-
-  - [[:en:ta:vol2:translate:translate_symaction|Symbolic Action]]
-  - [[:en:ta:vol2:translate:translate_numbers|Numbers]]
-  - [[:en:ta:vol2:translate:translate_fraction|Fractions]]
-  - [[:en:ta:vol2:translate:translate_decimal|Decimal Numbers]]
-  - [[:en:ta:vol2:translate:translate_ordinal|Ordinal Numbers]]
-
-== Istilo sa Sinulatan (Writing Styles) ==
-
-  - [[:en:ta:vol2:translate:writing_intro|Writing Styles]]
-  - [[:en:ta:vol2:translate:writing_background|Background Information]]
-  - [[:en:ta:vol2:translate:writing_connectingwords|Connecting Words]]
-  - [[:en:ta:vol2:translate:writing_symlanguage|Symbolic Language]]
-  - [[:en:ta:vol2:translate:writing_newevent|Introduction of a New Event]]
-  - [[:en:ta:vol2:translate:writing_participants|Introduction of New and Old Participants]]
-  - [[:en:ta:vol2:translate:writing_poetry|Poetry]]
-  - [[:en:ta:vol2:translate:writing_proverbs|Proverbs]]
