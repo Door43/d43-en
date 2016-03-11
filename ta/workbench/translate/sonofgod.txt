@@ -1,0 +1,68 @@
+===== Accurately Translating the Phrase 'Son of God' =====
+
+This page answers the question: How do I accurately translate the phrase 'Son of God?'? 
+
+In order to understand this page, it would be good to read [[en:ta:vol1:translate:guidelines_accurate]]
+
+
+
+==== Major Heading 1 should have 4 = signs, one space before and after the text ====
+
+
+Write text here. Add a blank line above and below each paragraph and heading.
+
+
+Next paragraph here.
+
+
+==== Major Heading 2 ====
+
+
+=== Sub-Heading 1 should have 3 = signs, one space before and after the text ===
+
+
+=== Sub-Heading 2 ===
+
+
+== Sub-Sub-Heading 1 should have 2 = signs, one space before and after the text ==
+
+
+>//Bible Verse or Example//
+
+
+Text here. No space below a paragraph that has a bulleted or numbered list immediately following.
+  * bulleted list (two spaces before *, one space after, additional bullet points directly below e.g. no blank line)
+    * sub-bulleted list (4 spaces before *, one space after)
+
+
+  - numbered list (two spaces before -, one space after, additional numbered lines directly below e.g. no blank line - adding a blank line will reset the numbers)
+    - sub-numbered list (4 spaces before -, one space after)
+
+====== topic ======
+
+===== Description =====
+
+Definition\\
+Examples(s)\\
+Purpose (optional)\\
+
+**Reason this is a translation issue** (recommended)\\
+reason 1\\
+reason 2\\ 
+
+=== Translation Principles (optional) ===
+
+
+===== Examples from the Bible =====
+
+
+===== Translation Strategies =====
+If your language can use x consider using it. These strategies are for if your language cannot use x.
+
+
+===== Examples of Translation Strategies Applied =====
+
+----
+https://pad.door43.org/p/ta-guidelines_sonofgod
+
+{{tag>harry draft}} ~~DISCUSSIONS~~
