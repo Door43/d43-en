@@ -1,53 +1,54 @@
 ===== First, Second or Third Person =====
 
-//This page answers the question:// //What is first, second or third person?//
+//This page answers the question:// //What are first, second, and third person, and how do I translate when a third person form does not refer to the third person?//
 
 //In order to understand this topic, it would be good to read://
   * //[[en:ta:vol1:translate:figs_explicitinfo|Making Implicit Information Explicit]]//
+  * //[[en:ta:vol2:translate:figs_pronouns|Pronouns]]//
 
-Watch the video for computer (see http://youtu.be/HEqz6XDzyGM ) or tablet/phone (see http://youtu.be/BXhL5s2BY2U ).
+Normally a speaker refers to himself as "I" and the person he is speaking to as "you." Sometimes in the Bible a speaker referred to himself or to the person he was speaking to with a phrase other than "I" or "you". 
 
-First person is how a speaker normally refers to himself. English has the first person pronouns ”I” and ”we” (Also: me, my, mine, us, our, ours).
+===== Description ===== 
 
-Second person is how a speaker normally refers to the person or people he is speaking to. English uses the second person pronoun ”you” (Also: your, yours).
+**Definitions**
+  * **First person** - This is how a speaker normally refers to himself.  English uses the pronouns "I" and "we". (Also: me, my, mine; us, our, ours)
+  * **Second person** - This is how a speaker normally refers to the person or people he is speaking to. English uses  the pronoun “you.” (Also: your, yours)
+  * **Third person** - This is how a speaker refers to someone else. English uses the pronouns “he,” “she,” “it” and “they.” (Also: him, his, her, hers, its; them, their, theirs) Noun phrases like "the man" or "the woman" are also third person.
 
-Third person is how a speaker normally refers to someone else. English has the third person pronouns "he", "she", "it" and "they" (Also: him, his, her, hers, its, them, their, theirs).
+Sometimes in the Bible a speaker used the third person to refer to himself or the people he was speaking to. Readers might think that the speaker was referring to someone else. They might not understand that he meant "I" or "you."
 
-Sometimes people use the third person to refer to themselves or to the people they are speaking to. See the examples of this from the Bible below. In some languages, first, second, and third person are shown with a prefix or suffix on a word. In some of these languages, using a pronoun in addition to the prefix or suffix indicates a special emphasis on the person or thing it refers to.
+===== Examples from the Bible =====
 
-==== Translation Suggestions ====
+Sometimes people uses the third person instead of "I" or "me" to refer to themselves.
+>But David said to Saul, “__Your servant__ used to keep __his__ father’s sheep.” (1 Samuel 17:34 ULB)
+David referred to himself in the third person as “your servant” and “his.” He was calling himself Saul's servant in order to show his humility before Saul.
+>Then Yahweh answered Job out of a fierce storm and said,
+>"… Do you have an arm like __God’s__? Can you thunder with a voice like __him__? (Job 40:6, 9 ULB)
+God referred to himself in the third person with the words “God’s” and “him.” He did this to emphasize that he is God, and he is powerful.
+Sometimes people use the third person instead of "you" or "your" to refer to the person or people they are speaking to.
+>Abraham answered and said, "Look what I have done, taking it upon myself to speak to __my Lord__, even though I am only dust and ashes! (Genesis 18:27 ULB)
+Abraham was speaking to the Lord, and referred to the Lord as "My Lord" rather than as "you." He did this to show his humility before God.
+>So also my heavenly Father will do to you, if __each of you__ does not forgive __his__ brother from your heart. (Matthew 18:35 ULB)
+After saying "each of you," Jesus used the third person "his" instead of "your."
 
-Do what is natural and accurate in your own language. If your language does not always use a pronoun, do not use one simply because the source language does.
+==== Translation Strategies ====
 
-It is important to note that sometimes in the Bible the text changes from writing in the first person to the third person, but still talking about the same individual. That might be unnatural and confusing in your language. If so, then translate with one or the other but maintain accuracy and clarity.
+If using the third person to mean "I" or "you" would be natural and give the right meaning in your language, consider using it. If not, here are some other options.
+  - Use the the third person phrase along with the pronoun "I" or "you."
+  - Simply use the first or second person.  
 
-==== Examples from the Bible ====
+==== Examples of Translation Strategies Applied ====
 
-Sometimes people use the third person to refer to themselves or to the people they are speaking to.
+1. Use the the third person phrase along with the pronoun "I" or "you."
+  * **But David said to Saul, “__Your servant__  used to keep __his__  father’s sheep.” **  (1 Samuel 17:34)
+      * But David said to Saul, “__I, your servant__, used to keep __my__  father’s sheep.”
 
-When a person refers to himself in the third person, you may be able to add a first person pronoun for clarification. For example:
+2. Simply use the first person ("I") or second person ("you").
+  * **Then Yahweh answered Job out of a fierce storm and said, “… Do you have an arm like __God’s__? Can you thunder with a voice like __him__?**  (Job 40:6, 9 ULB)
+      * Then Yahweh answered Job out of a fierce storm and said, “… Do you have an arm like __mine__? Can you thunder with a voice like __me__?”
+  * **So also my heavenly Father will do to you, if __each of you__  does not forgive __his__  brother from your heart.**  (Matthew 18:35 ULB)
+      * So also my heavenly Father will do to you, if __each of you__  does not forgive __your__  brother from your heart.
 
->But David said to Saul, "Your servant used to keep his father’s sheep."  (1 Samuel 17:34a, ULB)
-
-In this example from 1 Samuel 17:34, David was speaking to King Saul about himself. He used the third person when he referred to himself as “your servant” and “his.” He was calling himself Saul's servant in order to show his humility toward Saul. 
-
-If it does not make sense in your language for someone to refer to himself in the third person, you could translate like this:
-
->But David said to Saul, “__I, your servant__, used to keep __my__ father’s sheep.”  (1 Samuel 17:34a)
-
-In this next example from Job, God speaks, first calling himself “I” then referring to himself in the third person with the words “God's” and “his.” He did this to emphasize the he is God and he is powerful. But if this does not communicate well in your language, you may need to use first person references in those places, such as, "mine."
-
->‘Then the Lord spoke to Job out of the storm: “Brace yourself like a man; **I** will question you, and you shall answer __me__. Would you discredit __my__ justice? Would you condemn __me__ to justify yourself? Do you have an arm like __God’s__, and can your voice thunder like __his__?”  (Job 40:6-9)
-
-Sometimes people use the third person when referring to the people they are speaking to after they say "each of you." Jesus used the second person when he called the group of people he was speaking to "__You__ hypocrites." However, after he said "each of  you," he then used a third person pronoun ("his") to refer to each of them. In those cases some languages might need to use a second person pronoun ("your”) in that place to keep the meaning clear.
-
->Then the Lord answered him, “__You__ hypocrites! Does not __each of you__ on the Sabbath untie __his__ ox or __his__ donkey from the manger and lead it away to water it?"  (Luke 13:15)
-
-==== Examples from English ====
-
-First person ~ “I gave the dog a bone.”\\
-Second person ~ “You gave the dog a bone.”\\
-Third person ~ “She gave the dog a bone.”
 
 
 

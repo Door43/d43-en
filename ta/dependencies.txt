@@ -627,6 +627,7 @@ edge [arrowsize=1.4];
 "translate_why" -> "choose_team"
 "figs_123person" [fillcolor="#9999ff"]
 "figs_explicitinfo" -> "figs_123person"
+"figs_pronouns" -> "figs_123person"
 "figs_abstractnouns" [fillcolor="#9999ff"]
 "figs_partsofspeech" -> "figs_abstractnouns"
 "figs_sentences" -> "figs_abstractnouns"
@@ -651,7 +652,7 @@ edge [arrowsize=1.4];
 "figs_events" [fillcolor="#9999ff"]
 "writing_intro" -> "figs_events"
 "figs_exclusive" [fillcolor="#9999ff"]
-"Translation" -> "figs_exclusive"
+"figs_pronouns" -> "figs_exclusive"
 "figs_explicit" [fillcolor="#9999ff"]
 "Translation" -> "figs_explicit"
 "figs_explicitinfo" [fillcolor="#9999ff"]
@@ -733,6 +734,7 @@ edge [arrowsize=1.4];
 "figs_you" -> "figs_youdual"
 "figs_youformal" [fillcolor="#9999ff"]
 "figs_you" -> "figs_youformal"
+"figs_pronouns" -> "figs_youformal"
 "figs_yousingular" [fillcolor="#9999ff"]
 "figs_partsofspeech" -> "figs_yousingular"
 "figs_you" -> "figs_yousingular"
