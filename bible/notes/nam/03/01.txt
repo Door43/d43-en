@@ -22,17 +22,13 @@
 
 <usfm>
 \v 1 Terrible things will happen to Nineveh,
-\q2 that city that is full of people who murder, steal and lie.
-\q1 The city is full of people who the soldiers carried away from other countries.
-\q1
+ that city that is full of people who murder, steal and lie.
+ The city is full of people who the soldiers carried away from other countries.
 \v 2 But now listen to the enemy soldiers coming to attack Nineveh;
-\q1 listen to them cracking their whips,
-\q2 and listen to the rattle of their chariot wheels!
-\q1 Listen to their galloping horses
-\q2 and their chariots as they bounce along!
-
-
-\q1
+ listen to them cracking their whips,
+ and listen to the rattle of their chariot wheels!
+ Listen to their galloping horses
+ and their chariots as they bounce along!
 </usfm>
 
 
@@ -40,6 +36,7 @@
 
 <usfm>
 \c 3
+\p
 \q
 \v 1 Woe to the city full of blood!
 \q It is all full of lies and stolen property; victims are always in her.

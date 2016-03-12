@@ -24,22 +24,9 @@
 ===== UDB: =====
 
 <usfm>
-\v 1 You people of Nineveh,
-\q2 your enemies are coming to attack you.
-\q2 So place guards on the tops of the walls around the city!
-\q2 Guard the roads into the city!
-\q2 Get ready to fight!
-\q2 Gather your troops together!
+\v 1 You people of Nineveh, your enemies are coming to attack you. So place guards on the tops of the walls around the city! Guard the roads into the city! Get ready to fight! Gather your troops together!
+\v 2 Even though your soldiers have destroyed the descendants of Jacob, Yahweh will cause other nations to honor them again. Invaders from your country have ruined Israel as enemies would uproot a vineyard, but Israel will prosper again.
 \b
-\q1
-\v 2 Even though your soldiers have destroyed the descendants of Jacob,
-\q2 Yahweh will cause other nations to honor them again.
-\q1 Invaders from your country have ruined Israel as enemies would uproot a vineyard,
-\q2 but Israel will prosper again.
-\b
-
-
-\q1
 </usfm>
 
 
@@ -47,6 +34,7 @@
 
 <usfm>
 \c 2
+\p
 \q
 \v 1 The one who will dash you to pieces is coming up against you. 
 \q Man the city walls, guard the roads, 

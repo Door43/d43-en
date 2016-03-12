@@ -27,23 +27,21 @@
 
 <usfm>
 \v 5 So Yahweh, Commander of the angel armies, says to the people of Nineveh:
-\q2 "I am your enemy,
-\q1 and I will cause the people in other nations to see you completely humiliated
-\q2 like  women who have committed adultery are humiliated by having their skirts lifted high,
-\q2 with the result that people can see their naked bodies.
-\q1
+\pi  "I am your enemy,
+ and I will cause the people in other nations to see you completely humiliated
+ like  women who have committed adultery are humiliated by having their skirts lifted high,
+ with the result that people can see their naked bodies.
 \v 6 I will cause others to throw garbage at you;
-\q2 I will show others that I despise you very much,
-\q2 and I will cause everyone to ridicule you in public.
-\q1
+ I will show others that I despise you very much,
+ and I will cause everyone to ridicule you in public.
 \v 7 All those who see you will turn their backs to you and say,
-\q1 'Nineveh is ruined,
-\q2 but absolutely no one will mourn for it.'
-\q2 Nineveh, no one will want to comfort you."
+ 'Nineveh is ruined,
+ but absolutely no one will mourn for it.'
+ Nineveh, no one will want to comfort you."
 
+ 
 
-
-\q1
+\m
 </usfm>
 
 
@@ -55,7 +53,10 @@
 \q and show your private parts to the nations, your shame to the kingdoms.
 \q
 \v 6 I will throw disgusting filth on you and make you vile; I will make you someone that everyone will look at.
-\v 7 It will come about that everyone who looks at you will flee from you and say, 'Nineveh is destroyed; who will weep for her?' Where can I find anyone to comfort you?"
+\q
+\v 7 It will come about that everyone who looks at you will flee from you and say, 
+\q 'Nineveh is destroyed; who will weep for her?' 
+\q Where can I find anyone to comfort you?"
 </usfm>
 
 
