@@ -1,21 +1,33 @@
-{{https://api.unfoldingword.org/obs/jpg/1/checkinglevels/uW-Level1-32px.png?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/checkinglevels/uW-Level2-32px.png?direct&}}
 
-//The status of development for Open Bible Stories//
+//The status of development for Open Bible Stories// 
 
-publish date: 2014-12-08
 
-version: 3.2.1
+publish date: 2016-03-14
 
-contributors: francoise39;grace-duval;morendo
 
-checking entity: translation team
+version: 1.3.3
 
-checking level: 1
+
+contributors: 
+
+    NIGER: Tounkara MAIYALDOU, Matthieu Maiidaji SIDOU, Joel Abdou DAVIES, Ousmane AYOUBA
+    BENIN: Mabeline Lucrene ZOHOUN-VGNON, Augustin GOHOUNGO, Ayawa AGBENOUVOR, Emmanuel Dossa Luc DOSSO
+
+
+checking entity: 
+
+
+checking level: 2
+
 
 source text: en
 
-source text version: 3.1
 
-comments:
+source text version: 1.2.3
 
-Progress Notes:
+
+comments: 
+
+
+Progress Notes: 
