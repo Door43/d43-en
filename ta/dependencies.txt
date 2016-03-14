@@ -727,8 +727,8 @@ edge [arrowsize=1.4];
 "figs_verbs" [fillcolor="#9999ff"]
 "figs_partsofspeech" -> "figs_verbs"
 "figs_you" [fillcolor="#9999ff"]
-"figs_grammar" -> "figs_you"
-"figs_partsofspeech" -> "figs_you"
+"figs_yousingular" -> "figs_you"
+"figs_youdual" -> "figs_you"
 "figs_youcrowd" [fillcolor="#9999ff"]
 "figs_you" -> "figs_youcrowd"
 "figs_yousingular" -> "figs_youcrowd"
