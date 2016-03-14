@@ -11,13 +11,13 @@ version: 1.3.3
 
 contributors: 
 
- NIGER: 
-  * Tounkara MAIYALDOU
-  * Matthieu Maiidaji SIDOU
-  * Joel Abdou DAVIES
-  * Ousmane AYOUBA
+>NIGER: 
+>  * Tounkara MAIYALDOU
+>  * Matthieu Maiidaji SIDOU
+>  * Joel Abdou DAVIES
+>  * Ousmane AYOUBA
 
-  BENIN:
+BENIN:
   * Mabeline Lucrene ZOHOUN-VGNON
   * Augustin GOHOUNGO
   * Ayawa AGBENOUVOR
