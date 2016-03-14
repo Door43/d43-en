@@ -7,15 +7,27 @@ In order to understand this page, it would be good to read
   * //[[en:ta:vol1:translate:figs_explicit]]//
 ==== Description ====
 
-If there is implicit information that the or
+
+Sometimes translators need to make implicit information explicit because of the requirements of their language. 
+
+>She ate __all that she wanted__ and had __some__ left over.  (Ruth 2:14)
+
+Some languages may need to add an object where English (or whatever source language is being used) doesn't have one. Here, the implied object is "roasted grain" or simply "food." If the target language requires an object for these verbs, you could translate,  //She ate all __the roasted grain__ that she wanted and had some __food__ left over.//  [[Change example: The underlined words are the object.]]
+
+
+Sometimes translators need to make implicit information explicit because their readers would not understand the original speaker's or author's message. 
+
+
+
 When a writer writes a message, he includes the information that his audience needs to know, and he usually leaves out the information that he knows that they already know. When we translate a message, such as the Bible, for a new audience, they may not know some of that information that the original writer did not say. That is the implicit information. Because the author is counting on the audience knowing this implicit information, this information is also part of the message, even though it is not stated. So in the places where the target audience needs to know the implicit information in order to understand the text, and they do not know it, you must put it in the translation, either in the text or in a footnote.
 
 === Reasons this is a translation issue === 
   * Sometimes the author intentionally left some things unclear. The translator should not try to make them  more clear that the author did.
   * Sometimes the original audience did not understand what the speaker meant. Do not make it so clear to your readers that they would find it strange that the original audience did not understand.
   * It is not necessary to include all implicit information for the target audience to understand the text. There is a lot of information that the original audience knew about the things that are in the Bible. Only include the information that the target audience needs to know so that the message is clear, nothing more.
+  * Sometimes translators may need to make some information explicit because of the requirements of his language. 
 
-
+=== Translation Principles ===
 The translator's goal should be to make sure that the reader understands the original meaning of the message. The translation should always have the same meaning as the source text had for its original audience, not more meaning, not less meaning, and not different meaning.
 
 
@@ -27,24 +39,11 @@ Implicit information may be made explicit in order to make the translation clear
   * the added information does not change the meaning, making it no longer true or accurate,
   * the added information is suitable to the original situation in which the message was given.
 
-Do not make information explicit if:
-  * the original audience would not have known it or understood it.
-
-  * No new information is added that is not part of the original message (do not add something just because you read it in a commentary),
-  * the added information does not change the meaning, making it no longer true or accurate,
-  * the added information is suitable to the original situation in which the message was given.
-
 
 As always, you need to ask yourself if your translation is communicating accurately and clearly what the original message was saying.
 
 
 ==== Examples from the Bible ====
-
-
->She ate all that she wanted and had some left over.  (Ruth 2:14)
-
-
-Some languages may need to add an object where English (or whatever source language is being used) doesn't have one. Here, the implied object is "roasted grain" or simply "food." If the target language requires an object for these verbs, you could translate,  //She ate all __the roasted grain__ that she wanted and had some __food__ left over.//
 
 
 >So Yahweh came down to see the city and the tower which the descendants of Adam had built.  (Genesis 11:5)
@@ -71,4 +70,3 @@ It is stated explicitly that Enoch had a child named Irad and that Irad had a ch
 https://pad.door43.org/p/ta-figs_explicitinfo
 
 {{tag>susan epadn}} ~~DISCUSSION~~
-
