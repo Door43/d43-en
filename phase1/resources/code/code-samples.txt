@@ -50,6 +50,13 @@ Find pages with __either__ "check" or "review" tags __but not__ "text" tag:
 </code>
 
 
+Find the link for any OBE term in the notes, whether formatted with colons or slashes.
+
+<code>
+{{door43pages @:en:bible:notes -r -q="obe((:)|(\/))((other)|(kt))((:)|(\/))term" -exclude:home -simpleLineBreak -title -fontsize="90%"}}
+</code>
+
+
 Find the text string "1)" in the notes namespace (escape special characters with "\" as needed):
 
 <code>
