@@ -1,6 +1,8 @@
 ====== Explicit and Implicit Information ======
+===== Making Implicit Information Explicit ===== 
 
-//This page answers the question: What do the words explicit and implicit mean?//
+
+//This page answers the questions: What do the words explicit and implicit mean? What can I do if the target language speakers do not know some information that the original speaker or writer left implicit? //
 
 There are two types of written and spoken communication, explicit and implicit information.
 
@@ -14,9 +16,26 @@ When someone speaks or writes, he has in mind a certain audience who is either l
 >this woman’s son died in the night, because __she lay on him__ (1 Kings 3:19 ULB)
 The woman speaking here believes that her audience will understand that the baby died because he could not breathe.
 
-**Reason this is a translation issue**: Readers may not know information that the original speaker and hearers knew.
+**Reason this is a translation issue**
+  * Sometimes the language requires that certain information be stated explicitly.
+  * Readers may not know information that the original speaker and hearers knew.
+
 
 ==== Examples from the Bible ====
+
+Sometimes translators need to make implicit information explicit because of the requirements of their language. For example, some languages require an object with the verbs "eat" and "drink." They need to say what someone eats or drinks, even if they don't know exactly what he ate or drank.
+
+> Therefore, whether __you eat or drink__, or whatever you do, do all to the glory of God. (1 Corinthians 10:31 ULB) \\ 
+
+  * "Therefore, whether __you eat food or drink something__, or whatever you do, do all to the glory of God."
+
+Sometimes translators need to make implicit information explicit because their readers would not understand the original speaker's or author's message.  In the example below, verse 2 says that the kings made war. So in verse 3 when it says that the kings joined together, the original readers would have understood that kings' armies were with them. If the target audience would not understand that,  then translators may need to make that information explicit. 
+
+> <sup>1</sup>It came about in the days of Amraphel, king of Shinar, Arioch, king of Ellasar, Chedorlaomer, king of Elam, and Tidal, king of Goiim, <sup>2</sup> that they made war against Bera, king of Sodom, Birsha, king of Gomorrah, Shinab, king of Admah, Shemeber, king of Zeboiim, and the king of Bela (also called Zoar). <sup>3</sup>__These latter five kings joined together__ in the valley of Siddim (also called the Salt Sea). (Genesis 14:1-3 ULB)
+
+  * “These latter five kings __and their armies__ joined together....”  (Genesis 14:3 ULB)  [[Maybe this is covered by metonymy]]
+
+
 
 >it will be more tolerable for __Tyre and Sidon__  at the day of judgment than for you  (Mattew 11:22 ULB)
 The speaker, Jesus, knows that his hearers know that God destroyed Tyre and Sidon because of their wickedness.
