@@ -19,8 +19,6 @@ Sometimes translators need to make implicit information explicit because their r
 
   * “These latter five kings __and their armies__ joined together....”  (Genesis 14:3 ULB)
 
-When a writer writes a message, he includes the information that his audience needs to know, and he usually leaves out the information that he knows that they already know. When we translate a message, such as the Bible, for a new audience, they may not know some of that information that the original writer did not say. That is the implicit information. Because the author is counting on the audience knowing this implicit information, this information is also part of the message, even though it is not stated. So in the places where the target audience needs to know the implicit information in order to understand the text, and they do not know it, you must put it in the translation, either in the text or in a footnote.
-
 === Reasons this is a translation issue === 
   * Sometimes the author intentionally left some things unclear. The translator should not try to make them  more clear that the author did.
   * Sometimes the original audience did not understand what the speaker meant. Do not make it so clear to your readers that they would find it strange that the original audience did not understand.
@@ -28,19 +26,16 @@ When a writer writes a message, he includes the information that his audience ne
   * Sometimes translators may need to make some information explicit because of the requirements of his language. 
 
 === Translation Principles ===
-The translator's goal should be to make sure that the reader understands the original meaning of the message. The translation should always have the same meaning as the source text had for its original audience, not more meaning, not less meaning, and not different meaning.
 
+Implicit information may be made explicit if:
+  * the phrase or word in the target language requires a certain kind of information with it,
+  * the original audience would have known the information and the target audience needs the information in order to understand the main point of the message,
 
-Implicit information may be made explicit in order to make the translation clear if:
-  * Only the implicit information that the original audience would have known is made explicit,
-  * the added information is necessary so that the target audience will understand the main point of the message,
-  * The translation would communicate no meaning or a wrong meaning without the added information,
-  * No new information is added that is not part of the original message (do not add something just because you read it in a commentary),
-  * the added information does not change the meaning, making it no longer true or accurate,
-  * the added information is suitable to the original situation in which the message was given.
+Do not add any information that is not part of the original message. There may be things that the original audience would have known, but not everything would help them understand the speaker's message.
 
+> You rejected the Holy and Righteous One, and you asked instead for a murderer to be released to you.  (Acts 3:14 ULB)
 
-As always, you need to ask yourself if your translation is communicating accurately and clearly what the original message was saying.
+When Peter said "a murderer," he was referring to a man named Barabbas. The people listening to Peter may have remembered this. But this information does not help people understand the point of what Peter was saying. So translators would not add Barabbas's name to the text.
 
 
 ==== Examples from the Bible ====
