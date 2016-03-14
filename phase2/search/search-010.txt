@@ -6,6 +6,12 @@ The script on this page searches for a string of text anywhere in the notes, the
 
 //Note: Special characters and symbols must be preceded by a backslash "\".//
 
+<code>
+{{door43pages @:en:bible:notes -r -q="obe:((other)|(kt)):*term\]\]" -exclude:home -simpleLineBreak -title -fontsize="90%"}}
+</code>
+
+Replace the word "term" with any OBE name.
+
 search results:
 
-{{door43pages @:en:bible:notes -r -q="obe:((other)|(kt)):*jesus\]\]" -exclude:home -simpleLineBreak -title -fontsize="90%"}}
+{{door43pages @:en:bible:notes -r -q="obe:((other)|(kt)):*barley\]\]" -exclude:home -simpleLineBreak -title -fontsize="90%"}}
