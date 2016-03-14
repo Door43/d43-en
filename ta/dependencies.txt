@@ -729,6 +729,10 @@ edge [arrowsize=1.4];
 "figs_you" [fillcolor="#9999ff"]
 "figs_grammar" -> "figs_you"
 "figs_partsofspeech" -> "figs_you"
+"figs_youcrowd" [fillcolor="#9999ff"]
+"figs_you" -> "figs_youcrowd"
+"figs_yousingular" -> "figs_youcrowd"
+"figs_pronouns" -> "figs_youcrowd"
 "figs_youdual" [fillcolor="#9999ff"]
 "figs_partsofspeech" -> "figs_youdual"
 "figs_you" -> "figs_youdual"
@@ -738,6 +742,7 @@ edge [arrowsize=1.4];
 "figs_yousingular" [fillcolor="#9999ff"]
 "figs_partsofspeech" -> "figs_yousingular"
 "figs_you" -> "figs_yousingular"
+"figs_youcrowd" -> "figs_yousingular"
 "file_formats" [fillcolor="#9999ff"]
 "Translation" -> "file_formats"
 "first_draft" [fillcolor="#9999ff"]
