@@ -1,0 +1,34 @@
+===== Printing in translationStudio Desktop =====
+
+//This page answers the question:// //How do I print my work that I've done in the translationStudio Desktop program?//
+
+//In order to understand this topic, it would be good to read://
+  * //[[en:ta:vol2:tech:tsd_intro|translationStudio Desktop Introduction]]//
+
+ To print in translationStudio Desktop you will first need to save the translation as a PDF.  
+ 
+**Note**: In version 4.1 - ONLY OBS projects can be saved to PDF/printed. 
+
+=== From the Project Editing window: ===
+
+  - Click the 3 dot menu. 
+  - Choose 'Print' from the menu.
+  - The print menu opens - click the square to choose to include images, include incomplete chunks, or to double space the text. You may check multiple choices.
+  - Click on 'Save to PDF'.
+  - Save the file in the folder on the computer's hard drive.
+  - Click on 'Close' when the file has been created.
+  - Open the saved file on the computer and print.
+
+=== From the 'Home' or 'Your Translation Projects' window: ===
+
+  - Click on the Details Menu icon (gray circle with an i).
+  - Click on the printer icon.
+  - The print menu opens - click the square to choose to include images, include incomplete chunks, or to double space the text. You may check multiple choices.
+  - Click on 'Save to PDF'.
+  - Save the file in the folder on the computer's hard drive.
+  - Click on 'Close' when the file has been created.
+  - Open the saved file on the computer and print.
+
+
+
+

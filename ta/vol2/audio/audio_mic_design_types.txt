@@ -1,0 +1,27 @@
+===== Mic Design Types =====
+
+//This page answers the question:// ////What types of mic design are there?////
+
+Microphones are available today in many shapes and sizes, but these visible differences are not a clear indicator of how the mic will perform in the recording environment. Instead there are 2 important design characteristics of microphones that play the biggest role in determining the suitability for voice recording, particularly in sub-optimal conditions. It is worth noting that the visible shape or size of a mic is not a valid indicator of the suitability of a mic. Instead, it is design properties of internal components that determine the behavior and performance of a mic. Let's take an inside look at these 2 design characteristics.
+
+=== Signal Transfer Method ===
+
+Signal transfer method is not a description any microphone manufacturer uses, but it is a good way to think about the design aspect that registers sound waves and converts them to an electronic signal passed through wires and eventually to the recording device. There are nearly a dozen designs, but only 2 of them are widely used in the voice recording context this handbook is intended to support, so we will only focus on those two.
+
+**Dynamic** - This is a more robust design that relies on sound waves vibrating a thin piece of material, which in turn moves a coil of wire in close proximity to a magnet, thus generating electrical current in the wires. Dynamic mics are a very solid design that are often characterized as more durable, yet less sensitive than the other common design.
+
+**Condenser** - This is a design that makes use of a thin material (diaphragm) that is electrically charged. When sound waves cause it to vibrate, it makes small changes to the electric field between the diaphragm and a nearby metal plate, thus creating electrical current. This design requires an external DC power source to electrically charge the diaphragm. While dynamic and condenser designs have some general similarities, the constantly charged diaphragm of the condenser design is much more sensitive to sound waves, including an increase in sensitivity to high frequencies. Condenser mics are considered to be more fragile that dynamic mics. However, many designs are quite durable and condensers have become the design chosen in nearly all consumer electronic devices manufactured today, including mobile phones, for example.
+
+=== Direction of Sensitivity ===
+
+Often described as a mic's polar pattern, there are many different designs for how strongly a mic senses (hears) or rejects sound from different directions. There are 3 major classifications for polar patterns, only one of which we recommend using for voice recording.
+
+**Unidirectional** – Sensitive on one side. This design is best for voice recording. Examples of this design include cardiod, hypercardioid, supercardioid patterns.
+
+**Omnidirectional** – Equally sensitive from all directions. Not good for voice recording.
+
+**Bi-directional** – Equally sensitive on two opposite sides. Not good for voice recording.
+
+
+
+

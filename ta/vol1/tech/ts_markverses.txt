@@ -1,0 +1,47 @@
+===== Marking Verses in the translationStudio APP =====
+
+//This page answers the question:// //How do I mark verses in the APP?//
+
+//In order to understand this topic, it would be good to read://
+  * //[[en:ta:vol1:tech:ts_create|Create and Edit Text]]//
+
+==== Mark Verses in 'Check' ====
+
+
+Most Bibles have chapters with verse sections. These sections help the readers find places in the finished text. It is important to mark the verses in your translation.
+
+You might want to mark the verses after you have drafted and peer checked your translation.
+  * To mark the verses you will need to be in the **Check** area. 
+  * See the blue tear-drop shapes in the middle section? These are the verse markers.
+    * Notice that each blue shape has a white number in it. 
+  * Tap-hold-and-drag a shape to where that verse begins.
+
+You can mark the chunk done, when you have moved the blue shapes to the right place.
+
+==== Exceptions ====
+
+**Two Verses Together**
+
+Sometimes you may need to combine 2 verses together in a sentence. Combining verses together is called a "verse bridge." See [[en:ta:vol2:translate:translate_versebridge]] for more information. Here is how to mark a verse bridge in the program:
+    * Find the beginning of the combined verses.
+    * Move all of the verse markers to the beginning of the combined verses.
+      * For example: if you are working on a chunk that has verse 1 and 2 combined into one verse you would move the markers for 1 and 2 to the beginning of the combined verse.  The verse 3 marker would go immediately after the combined verses (if verse 3 is on the same chunk.)
+
+**Verse Marker in Another Chunk**
+
+Sometimes a verse bridge may need to put 2 verses together that are not on the same chunk. Put the verse marker in the correct spot on the first chunk and then on the next chunk leave the verse marker at the beginning. Remember where the verse bridge was over two chunks, so it can be edited during the printing process.
+
+**Adding a Verse**
+
+//This will be possible in future releases.// For now, type in the additional verse number. Remember where you added the verse so it can be edited during the printing process.
+
+
+
+//Next we recommend you learn about://
+  * //[[en:ta:vol1:tech:ts_navigate|Navigate in translationStudio]]//
+  * //[[en:ta:vol1:tech:ts_request|Find my Language]]//
+  * //[[en:ta:vol1:tech:ts_translate|Translating in translationStudio]]//
+  * //[[en:ta:vol1:tech:ts_share|Backup and Share Your Work]]//
+  * //[[en:ta:vol1:tech:ts_upload|Upload Your Work]]//
+  * //[[en:ta:vol1:tech:ts_publish|Publish Content to unfoldingWord]]//
+

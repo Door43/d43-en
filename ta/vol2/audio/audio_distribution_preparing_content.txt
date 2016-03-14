@@ -1,0 +1,48 @@
+===== Preparing the Audio Content =====
+
+//This page answers the question:// //How is audio content prepared for distribution?//
+
+In most cases, a small amount of additional processing must be done to the audio content to optimize it for various local distribution opportunities. Optimizing an audio resource for local distribution may involve three things:
+
+  * creating a copy at format settings that reduce the file size to match the listening device capacity limitations
+  * possibly renaming or modifying the file names
+  * organizing the files into a folder structure compatible with the listening devices
+
+
+==== Format Changes ====
+
+While it is important to record the project at high quality, these file sizes are typically much too big for the capacity limits of listening equipment for the end-user. It is very easy to make a copy of the audio resource that is at the optimal file size for the end-user.
+
+Generally speaking, in order to make the file size smaller for distribution, you will need to decrease the quality of the audio. This change is permanent. For example, when creating a standard quality MP3 file from a WAV master file, 80% of the audio quality is permanently deleted. This process cannot be reversed. Before you begin making smaller-sized, lower quality copies for distribution, make sure that you:
+
+  * have saved a backup copy of your master files
+  * are following a process that makes a new set of files in the lower quality format. Do not permanently convert your high quality source files to low quality!
+
+If you did a quality job making decisions during your recording and editing phases, you will have much greater ability to maintain good listening quality even when making the file sizes small for distribution.
+
+Some recording software allows you to “batch process” or “batch convert” a group of files together at one time to a format setting for distribution. This saves a tremendous amount of time over creating a distribution version manually, one file at a time.
+
+MP3 format is the most widely compatible format for distribution. Please refer to the File Format Standards module for the latest information on the file format settings we recommend for distribution.
+
+Instructions for using a free format conversion software for WIN OS can be found in the Guides Section.
+
+
+==== File Renaming ====
+
+There may be reasons to rename a copy of an audio resource for distribution purposes (do not rename the master files). Renaming might be beneficial for:
+
+  * changing the file name to the full name of a Bible book or story
+  * adding a suffix to identify a draft version for community testing
+  * adding a suffix to identify the format settings
+  * changing the name to match the file naming convention required by the listening device
+  * meeting other needs specific to a culture or location
+
+For instructions on how to rename groups or batches of files, please refer to the Guides section.
+
+
+
+//Next we recommend you learn about://
+  * //[[en:ta:vol2:audio:audio_standard_format|Format]]//
+  * //[[en:ta:vol2:audio:audio_guides_conversion_batch|How to Convert File Format (Batch Process)]]//
+  * //[[en:ta:vol2:audio:audio_guides_rename_batch|How to Rename Files with Bulk Rename Utility]]//
+

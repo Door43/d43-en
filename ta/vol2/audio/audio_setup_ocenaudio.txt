@@ -1,0 +1,49 @@
+===== Ocenaudio Workspace Setup - WIN OS =====
+
+//This page answers the question:// //What are the best workspace settings for Ocenaudio?//
+
+This guide describes how to setup and optimize the workspace in Ocenaudio for voice recording projects.
+
+==== Step 1.  Launch Ocenaudio ====
+
+Launch Ocenaudio from taskbar, start menu or desktop shortcut.
+
+Tip:  - If you have WIN7, make launching Ocenaudio easy by right clicking on the Ocenaudio shortcut on your desktop. Select Pin to Taskbar. Now you will see the Ocenaudio icon in the task bar along the bottom of your screen. From the task bar you can launch Ocenaudio with a single click. If you like that option better, you can make your desktop cleaner by right clicking on the Ocenaudio shortcut again and selecting Delete.
+
+
+==== Step 2.  Set Audio File Properties Default ====
+
+In this step we will create a new audio file and choose the audio file properties (these are different than file format). The properties we select will be remembered as the default settings for future new files.
+
+  - In the main menu bar, click on File.
+  - Select New.
+  - In the small New Audio window, select the following:
+    * Sample Rate = 44100 Hz
+    * Channels = Mono
+    * Resolution = 16 bits
+  - Click OK
+
+{{https://test.unfoldingword.org/assets/img/ta/audio_ocenaudio_properties.jpg}}
+
+
+==== Step 3.  Choose Vertical Scale Format ====
+
+In this step we will choose which measurement format will be displayed to the right of the Waveform Editor. We recommend using Decibels.
+
+  - In the main menu bar, click on View.
+  - Navigate down to Vertical Scale Format and select Decibels.
+
+{{https://test.unfoldingword.org/assets/img/ta/audio_ocenaudio_setup_vertical_scale_v3060.jpg}}
+
+
+==== Step 4.  Make Level Meter Full-size and Visible ====
+
+  - In the main menu bar, click on View.
+  - Navigate down to Level Meter and select Full-size Level Meter.
+
+You will now see a digital meter along the right hand side of your screen. It displays the decibel level of your recording from -60dB to 0dB.
+
+{{https://test.unfoldingword.org/assets/img/ta/audio_ocenaudio_setup_level_meter_v3060.jpg}}
+
+
+

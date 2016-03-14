@@ -1,0 +1,26 @@
+===== Connectivity Types =====
+
+//This page answers the question:// ////What types of cable connections do mics have?////
+
+==  ==
+
+Microphones are available with a variety of connections. The mics are designed to be compatible with the standard electrical specifications of the connecting interface or device. Below we will identify the most common types of connections, with the most time spent on designs and connections that consistently produce the best results, are the most reliable and versatile, and are the easiest to use for the task of audio recording.
+
+
+=XLR Connection=
+This is the most common connection type for professional quality microphones and will typically produce the very best audio quality. Of all the connection types, it is most likely to have the highest cost for required equipment. However, the ease of use and efficiency for the recording projects is unparalleled by other options, a valuable consideration especially for larger projects such as Scripture recording. 
+
+XLR mics cannot connect directly to a laptop or tablet. They require the use of an intermediate device called an audio interface. Audio interfaces typically connect to a laptop by USB connection or Firewire connection. Most interfaces provide the recordist with intuitive analog controls for adjusting mic gain levels and playback listening volume.
+
+
+=USB Connection=
+USB Mics have are becoming more popular because of the simplicity of connection directly to a computer. Originally having very poor audio quality, many professional mic manufacturers are beginning to produce USB mics capable of excellent sound quality. Currently, the tradeoff for direct connectivity to a computer can be the loss of simple analog controls for both mic gain and playback volume. For many USB mics, these controls are now contained in digital menus in the mic or in the computer control panel settings. In some cases, recording software includes shortcuts to make adjustments, although sometimes these are actually a secondary adjustment, and if coupled with settings on the USB mic, creates multiple locations where levels are being regulated, which adds complexity.
+
+Our testing and research for using USB mics with Android tablets indicates a significant degree of unreliability so we only recommend USB mics be used with laptops at this time. 
+
+
+=3.5 mm TRRS=
+TRRS mics are a newer style that are typically compatible with mobile devices and some laptops wired with a 4-conductor audio jack, handling both incoming audio signals and outgoing audio signals through a single jack. Mics will vary in sound quality and design. Most are ill-suited for quality audio recording due to design. However, there is at least one excellent design for voice recording at a very affordable price. The overall caution with TRRS mics is not with the mic itself, but rather with the trend of poor quality audio conversion hardware in most Android devices.
+
+
+

@@ -1,0 +1,41 @@
+===== Waveform Editor =====
+
+//This page answers the question:// //What is the waveform editor?//
+
+The Waveform Editor is the main screen or window where the waveform pattern of the sound wave is displayed. A good waveform editor provides a large viewing area with accurate scales to measure amplitude and time. It also will have a convenient way to zoom in to view the waveform in detail and make precise editing decisions. Currently excellent free options are available for both WINDOWS and ANDROID OS.
+
+
+==== WINDOWS OS ====
+Example: //Ocenaudio (v3.0.6.0)//
+
+{{https://test.unfoldingword.org/assets/img/ta/audio_ocenaudio_workspace_v3_0_6_0_labeled.jpg}}
+
+  - Menu and Toolbar Buttons
+  - File Bin
+  - Time Display
+  - Speaker Volume
+  - Display Range Indicator (v3.0.6.0 and older)
+  - Amplitude Scale
+  - Level Meter
+  - Waveform (sound wave)
+  - Cursor Bar
+  - Play Cue
+  - Timeline
+
+
+==== Android OS ====
+Example: //WavePad Free//
+
+{{https://test.unfoldingword.org/assets/img/ta/audio_wavepad_workspace_labeled.jpg}}
+
+  - Menu and Toolbar Buttons
+  - Display Range Indicator
+  - Time Display
+  - Amplitude Scale
+  - Play Cue
+  - Waveform (sound wave)
+  - Timeline
+
+
+
+

@@ -1,0 +1,18 @@
+===== How to Normalize an Audio Track =====
+
+//This page answers the question:// //How do I normalize an audio track?//
+
+This guide discusses how to normalize and audio track.
+
+Normalizing is the process of setting the loudest point of an audio track to a specific amplitude level. In our work, we will be normalizing the audio track to -3 dB, which will raise or lower the entire track amplitude to make the loudest point exactly -3.0 dB. The following is how to normalize an audio track in Ocenaudio.
+
+{{https://test.unfoldingword.org/assets/img/ta/audio_ocenaudio_normalize.jpg}}
+
+  - Make sure the file you would like to normalize is the active track in the waveform editor.
+  - Click on Edit → Amplitude → Normalize…  (or press the shortcut key, we assigned “N”)
+  - In the Normalize window, set the target to -3.0 dB and click Apply
+
+{{https://test.unfoldingword.org/assets/img/ta/audio_ocenaudio_normalize_-3.jpg}}
+
+
+

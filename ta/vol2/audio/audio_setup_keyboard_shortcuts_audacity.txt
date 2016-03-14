@@ -1,0 +1,65 @@
+===== Keyboard & Mouse Shortcuts for Audacity =====
+
+//This page answers the question:// //Are there any useful Keyboard or Mouse Shortcuts for Audacity?//
+
+The following keyboard shortcuts are helpful for many routine operations of recording and editing audio. For a complete list of shortcuts, launch Audacity and go to: Edit → Preferences → Keyboard.
+
+==== Basic Functions ====
+
+Record = R
+Play/Stop = Space Bar
+Pause = P
+Delete = Delete or Backspace
+Copy = Ctrl + C
+Paste = Ctrl + V
+Undo = Ctrl + Z
+Redo = Ctrl + Y
+Select All = Ctrl + A
+Skip to Start = Home
+Skip to End = End
+
+
+==== Zoom In/Out ====
+
+There are several ways to accomplish zooming in/out of tracks:
+
+Zoom In/Out = Ctrl + mouse scroll wheel. Zooming will occur at the location of cursor.
+Zoom In = Ctrl + 1
+Zoom Out = Ctrl +3
+Zoom to default view = Ctrl + 2
+Zoom to full view of track(s) horizontally = Ctrl + F
+Zoom to full view of track(s) vertically = Ctrl + Shift + F
+
+
+==== Timeline Navigation ====
+
+Move ahead/back = Shift key + mouse scroll wheel
+Move to start = J
+Move to end = K
+
+
+==== Labels (Single location and Regional) ====
+
+Labels can be added to mark important locations or entire sections of recorded audio. Click at the location (or select a section) that you want to identify with a label. Then press Ctrl + B.
+
+
+==== Moving Sections of Audio Within Timeline ====
+
+To move/align a section of audio within a track (for example, if you are pasting together separate audio track into one full tracks), click on the Time Shift Tool [ ↔ ], then click & drag sections of audio to the right location in the timeline. Remember to return to the Selection Tool [ I ] when you are finished aligning sections.
+
+
+==== Exporting (Saving) Your Files ====
+
+Audacity will want to save your audio file in their own proprietary format (.aup) if you click Save Project or press Ctrl & S. We do not want to save audio in their format. We want WAV (best quality/large file size) or MP3 (standard quality/small files size). To save in either of these formats:
+
+  - go to File → Export.  
+  - Name your file.
+  - In the “Save as type” drop down menu, select either WAV or MP3.
+  - Click the Options button if you are saving as MP3. Choose these settings:
+    * Bit Rate Mode: Constant
+    * Quality: 128 kbps
+    * Variable Speed: N/A
+    * Channel Mode: Joint Stereo
+
+
+

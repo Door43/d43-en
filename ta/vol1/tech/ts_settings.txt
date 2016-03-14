@@ -1,0 +1,74 @@
+===== Settings Menu =====
+
+//This page answers the question:// //What are the settings of the tS app and how do I change them?//
+
+//In order to understand this topic, it would be good to read://
+  * //[[en:ta:vol1:tech:ts_intro|translationStudio]]//
+  * //[[en:ta:vol1:tech:ts_install|Install translationStudio on an Android Device]]//
+  * //[[en:ta:vol1:tech:ts_navigate|Navigate in translationStudio]]//
+
+==== Settings Menu ====
+
+To open the **Settings** - Tap on the 3 dots at the bottom left of the screen and tap the word 'Settings' on the menu. 
+
+Tap the Back Arrow at the top left of the screen to exit the 'Settings' menu.
+
+The Settings menu allows for personalization of the program and also has useful information. Here are the items in the order they are listed:
+
+=== Remember my place ===
+
+Tap in the empty square if you want the program to display the last viewed page when starting the app. 
+  * A blue square with a white check mark means that the option has already been chosen.
+
+=== Device name ===
+
+Tap on the words 'Device name' to name the tablet.
+  * Naming the tablet is helpful when sharing with a friend. See [[en:ta:vol1:tech:ts_share]] for more information.
+  * Tap on the 'OK' to save the name.
+
+=== Font ===
+
+The name of the chosen font is displayed. Tap on the word 'Font' to change the displayed font in the text.
+  * Scroll through the names of the fonts and tap the name to select the desired font.
+
+=== Font Size ===
+
+The size of the chosen font is displayed. Tap on the words 'Font size' to change the displayed font size in the text.
+  * Choose from 'small', 'normal', medium' and 'large' font sizes by tapping on the size to select.
+
+=== Always Share ===
+
+Tap in the empty square if you want the program to allow nearby translators to import my translations while the app is open. 
+  * A blue square with a white check mark means that the option has already been chosen.
+
+=== Server Settings ===
+
+Keep all of the settings for the server as determined by the program. There is no need to edit any of the settings unless directed by an unfoldingWord technician.
+
+=== Legal Settings ===
+
+You can view important information about the program in this section of the Settings Menu.
+  * **License Agreement** - read what you are able to do with the content in the program and the content that you create.
+  * ** Statement of Faith** - you, the user of the program, agreed to agree with this the first time the program was started. Read this to review what the Essentials Beliefs are.
+  * **Translation Guidelines** - read this document to learn about the guidelines that can help the translator clearly, accurately and naturally translate the text.
+  * **Software Licenses** - this file contains all the licenses for the various softwares that are used to create the translationStudio program.
+
+=== Backup Interval ===
+
+The program sets the backup to occur every 5 minutes. This can be changed by the end user.
+  * Tap on the words 'Backup Interval' to open the option screen.
+  * Tap on the words to change the interval to '1 Minute', '5 Minutes', '10 Minutes' or to 'Disable Backup.' It is recommended to NOT disable the backup. 
+
+=== Logging Level and Developer Tools ===
+
+The settings in this area are set by the program and should not be changed.
+
+
+
+//Next we recommend you learn about://
+  * //[[en:ta:vol1:tech:ts_share|Backup and Share Your Work]]//
+  * //[[en:ta:vol1:tech:ts_update|Update translationStudio Projects]]//
+  * //[[en:ta:vol1:tech:ts_publish|Publish Content to unfoldingWord]]//
+  * //[[en:ta:vol1:tech:translate_helpts|Finding Help for translationStudio]]//
+  * //[[en:ta:vol1:tech:ts_problem|Report a Problem]]//
+

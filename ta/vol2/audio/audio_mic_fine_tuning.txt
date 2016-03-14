@@ -1,0 +1,26 @@
+===== Fine-tuning the Mic Placement =====
+
+//This page answers the question:// //How is the mic adjusted for optimal results?//
+
+With a little experience, it will become easy to achieve an initial placement that yields fair results. These fair results will be refined in a matter of minutes in the process described below.
+
+Listen to the test track on some quality headphones and observe the levels registering on the meter in your software. What do you notice about the audio quality? What did you notice about the noise floor? Was it sufficiently quiet, hopefully around -55dB? Was the narrator reaching -6dB?
+
+If any of your responses are not satisfactory, there is still some fine-tuning needed. If there is too much echo, try repositioning the mic or improving your acoustical treatment. If the narrator was too loud, you can decrease the mic gain level. If the noise floor was too strong, you will need to turn the gain level down and have the narrator stay closer to the mic.
+
+The suggestions in the paragraph above are solutions we might try if we were at a recording project. However, one of the valuable skills that the recordist must develop is taking all of these principles into account and determining what the best solution is in their unique circumstance. It is impossible for us to provide a universal solution in this manual without knowing what is actually occurring at the recording site. Please do not hesitate to contact us with questions if you are struggling to achieve a quality recording level with a quiet noise floor.
+
+==== Acclimating ====
+You can expect that at the beginning of the recording project or session, the narrator is still getting warmed up and acclimated to the experience of recording. As they become more confident in the process, their volume level may change slightly. This is normal and it will be up to the recordist, as it is at all times during the recording, to make sure the narrator is using good technique and that the mic gain level is set properly.
+
+==== Note about Proximity Effect ====
+In general, condenser mics do not exhibit proximity effect (USB mics and TRRS mics are condenser mics and thus do not have proximity effect). However, due to their design, professional dynamic mics have a characteristic called proximity effect where bass frequencies become much stronger when the narrator gets very close to the mic. Not every dynamic mic exhibits this characteristic to the same degree.
+
+Proximity effect could be good or bad, depending on the result the recording team is seeking. For example, some people in radio broadcast find the enhanced bass to be a signature sound. However, this effect is often safely managed by experienced audio engineers in professional studios to ensure that the impact is not detrimental to the quality.
+
+By contrast, in the simple field recording scenario, too much bass can create at least two problems for the recording project. First, too much bass can reduce the clarity of the voice, which hurts the listening appeal of the recording. An effort to offset that problem when the recording is processed for distribution will often reveal the second problem. So much of the sound that was originally captured was actually excessive bass, which carries more sound energy than mid and high frequencies. This means that reducing bass also significantly reduces the overall volume level of the recording. To address the reduced volume level, the track must then be amplified, which increases the noise floor, sometimes to an excessive level. The end result is that even though the recordist believed that the recording level was good during the recording, the truth was that too much of the sound level was actually excessive bass, not quality voice sound.
+
+If you record using a dynamic mic (which we do not discourage because they actually have beneficial characteristics and they are very durable), we recommend keeping the principle of proximity effect in mind as you set your recording level. Listen to your recording right away. If there is so much bass that it is reducing the clarity of the narrator's voice, you should take steps to minimize this impact. One simple way to reduce the proximity effect is to angle the mic so the narrator is not speaking directly into the front of the mic capsule.
+
+
+
