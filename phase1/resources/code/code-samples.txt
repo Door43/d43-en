@@ -50,7 +50,7 @@ Find pages with __either__ "check" or "review" tags __but not__ "text" tag:
 </code>
 
 
-Find links for any OBE term in the notes, whether formatted with colons or slashes.
+Find links for an OBE term in the notes, whether formatted with colons or slashes.
 
 <code>
 {{door43pages @:en:bible:notes -r -q="obe((:)|(\/))((other)|(kt))((:)|(\/))term" -exclude:home -simpleLineBreak -title -fontsize="90%"}}
