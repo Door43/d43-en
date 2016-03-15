@@ -1,50 +1,32 @@
-==== Keeping Implicit Information Implicit ====
-
-
-Write text here. Add a blank line above and below each paragraph and heading.
-
-
-Next paragraph here.
-
-
-==== Major Heading 2 ====
-
-
-=== Sub-Heading 1 should have 3 = signs, one space before and after the text ===
-
-
-=== Sub-Heading 2 ===
-
-
-== Sub-Sub-Heading 1 should have 2 = signs, one space before and after the text ==
-
-
->//Bible Verse or Example//
-
-
-Text here. No space below a paragraph that has a bulleted or numbered list immediately following.
-  * bulleted list (two spaces before *, one space after, additional bullet points directly below e.g. no blank line)
-    * sub-bulleted list (4 spaces before *, one space after)
-
-
-  - numbered list (two spaces before -, one space after, additional numbered lines directly below e.g. no blank line - adding a blank line will reset the numbers)
-    - sub-numbered list (4 spaces before -, one space after)
-
 ====== Keeping Implicit Information Implicit ======
 Susan will rename
 
+//This page answers the question: How do I know whether or not to make certain information explicit?//
+
+//In order to understand this page, it would be good to read://
+  * [[en:ta:vol1:translate:figs_explicit]]
+
+Sometimes when people read the Bible, they want to know certain things. But if those things were not part of the original message, then we would not state them clearly in the text. 
+
 ===== Description =====
 
-Definition\\
-Examples(s)\\
-Purpose (optional)\\
+Sometimes when people read the Bible, they want to know certain things that are not stated in the text. If the original audience would have needed to know these things in order to understand the oroigiis  neededBut if those things were not part of the original message, then we would not state them clearly in the text. S
 
-**Reason this is a translation issue** (recommended)\\
-reason 1\\
-reason 2\\ 
+
+
+> You rejected the Holy and Righteous One, and you asked instead for a murderer to be released to you.  (Acts 3:14 ULB)
+
+When Peter said "a murderer," the people who were listening to him may have remembered that the man's name was Barabbas. But Peter was not expecting them to remember the man's name in order to understand his message. 
+
+
+=== Reason this is a translation issue === 
+  * Sometimes the author intentionally left some things unclear. The translator should not try to make them more clear that the author did.
+  * Sometimes the original audience did not understand what the speaker meant. Do not make it so clear to your readers that they would find it strange that the original audience did not understand.
+
 
 === Translation Principles (optional) ===
-
+  * It is not necessary to include all background information for the target audience to understand the text. There is a lot of information that the original audience knew about the things that are in the Bible. Only include the information that the target audience needs to know so that the message is clear.
+  * Do not add any information that is not part of the original message. There may be things that the original audience would have known, but not everything would help them understand the speaker's message.
 
 ===== Examples from the Bible =====
 
