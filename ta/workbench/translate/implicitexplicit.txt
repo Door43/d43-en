@@ -13,69 +13,60 @@ There are two types of written and spoken communication, explicit and implicit i
 
 When someone speaks or writes, he has in mind a certain audience who is either listening to him or will read what he writes. He has a good idea of what his audience does and does not know, and so he chooses to tell them important things that they do not already know. Normally he does not tell them things that he believes they already know.
 
->this woman’s son died in the night, because __she lay on him__ (1 Kings 3:19 ULB)
-The woman speaking here believes that her audience will understand that the baby died because he could not breathe.
+>Jesus said to him, "Foxes __have holes__, and the birds of the sky __have nests__, but the Son of Man has nowhere to lay his head."  (Matthew 8:20 ULB)
+
+Jesus did not say what foxes and birds use holes and nests for, because the people he was speaking to would have known that foxes sleep in holes in the ground and birds sleep in their nests.
 
 **Reason this is a translation issue**
   * Sometimes the words or grammar of the target language requires that certain information be stated explicitly.
   * Readers may not understand the message if they do not know certain information that the original speakers and hearers knew.
 
-
 ==== Examples from the Bible ====
 
-Sometimes translators need to make implicit information explicit because of the requirements of their language. For example, some languages require an object with the verbs "eat" and "drink." They need to say what someone eats or drinks, even if they don't know exactly what he ate or drank.
+1. Sometimes translators need to make implicit information explicit because of the requirements of their language. 
 
 > Therefore, whether __you eat or drink__, or whatever you do, do all to the glory of God. (1 Corinthians 10:31 ULB) \\ 
 
-  * "Therefore, whether __you eat food or drink something__, or whatever you do, do all to the glory of God."
+Some languages require an object with the verbs "eat" and "drink." They need a word or phrase that tells what someone eats or drinks, even if they don't know exactly what it was.
 
-Sometimes translators need to make implicit information explicit because their readers would not understand the original speaker's or author's message.  In the example below, readers might wonder what is meant by "brought up Israel." It could be made clear my telling where God brought the people of Israel from or where he brought the people of Israel to.
-
-> For I have not lived in a house from the day that __I brought up Israel__, to this present day.  (1 Chronicles 17:5 ULB) \\ 
-
-  * For I have not lived in a house from the day that __I brought up Israel from Egypt__, to this present day.  (1 Chronicles 17:5 ULB) \\
-
-  * For I have not lived in a house from the day that __I brought up Israel from Egypt__, to this present day.  (1 Chronicles 17:5 ULB) 
-
-It could be made clear by telling where God brought
-**that I brought up Israel** - AT: “that I brought the Israelites to the promised land from the land of Egypt” (See: Explicit and Implicit Information)
-
+2. Sometimes translators need to make implicit information explicit because their readers would not understand the original message. 
 
 >it will be more tolerable for __Tyre and Sidon__  at the day of judgment than for you  (Mattew 11:22 ULB)
-The speaker, Jesus, knows that his hearers know that God destroyed Tyre and Sidon because of their wickedness.
 
->Why do your disciples violate the traditions of the elders? For __they do not wash their hands when they eat__. (Mattew 15:2 ULB)
-The speaker, one of the Pharisees, knows that Jesus knows that the washing is part of a ceremony, not part of physical cleanliness.
+Readers may not know what it means for it to be more tolerable for some at the day of judgment. They may also not realize why Jesus compared what will happen to the people he was speaking to with what will happen to the people of Tyre and Sidon. But the original hearers would have understood both of these things.
 
->Jesus said to him, "Foxes __have holes__, and the birds __of the sky__  __have nests__, but the Son of Man has nowhere to lay his head."  (Matthew 8:20 ULB)
-Jesus adds "of the sky" to "birds," which sounds natural in his language, but may sound obvious and strange in another language. He also does not tell what foxes and birds use holes and nests for, because people would have known.
 
-==== Translation Strategies ====
 
-If leaving the implied information out or leaving unnecessary information in would be natural and give the right meaning in your language, consider doing so. If not, here are other options:
+>Why do your disciples violate the traditions of the elders? For __they do not wash their hands when they eat__. (Matthew 15:2 ULB)
 
-  - If people would not understand the message because they do not know some implied information, then state that information clearly.
-  - If information that is stated explicitly seems strange because it is obvious and clearly understood, leave it implicit by not stating it clearly.
+The speaker, a Pharisee, knew that Jesus knew why the tradition of washing the hands before eating was very important. People who read this today might think that it had to do with being clean in order to be healthy.
+
+==== Translation Strategies ==== 
+
+  - If the words or grammar of the target language requires certain information, then state that information clearly.
+  - If readers would need to know certain implied information in order to understand the message, then state that information clearly.
+  - If readers would misunderstand something because of differences in the Bible culture and their own, the purpose can be made explicit.
 
 ==== Examples of Translation Strategies Applied ====
 
-1. State the implied information clearly.
+1. If the words or grammar of the target language requires certain information, then state that information clearly.
 
-  * **it will be more tolerable for __Tyre and Sidon__  at the day of judgment than for you**  (Mattew 11:22 ULB)
+* **Therefore, whether __you eat or drink__, or whatever you do, do all to the glory of God.** (1 Corinthians 10:31 ULB) - Some languages require an object with the verbs "eat" and "drink." 
+    * "Therefore, whether __you eat food or drink something__, or whatever you do, do all to the glory of God."
+
+2. If readers would need to know certain implied information in order to understand the message, then state that information clearly.
+
+  * **it will be more tolerable for __Tyre and Sidon__  at the day of judgment than for you**  (Mattew 11:22 ULB)  - 
       * "God will punish __Tyre and Sidon, cities whose people you think of as very wicked,__  less severely than he will punish you"
 
-  * **Why do your disciples violate the traditions of the elders? For __they do not wash their hands__  when they eat.**  (Mattew 15:2 ULB)
+  * **Jesus said to him, "Foxes __have holes__, and the birds of the sky __have nests__, but the Son of Man has nowhere to lay his head."**  (Matthew 8:20 ULB)
+      * "Jesus said to him, "Foxes __have holes to live in__, and the birds of the sky __have nests to live in__, but the Son of Man has nowhere to lay his head and sleep.""
+
+3. If readers would misunderstand something because of differences in the Bible culture and their own, the purpose can be made explicit.
+  * **Why do your disciples violate the traditions of the elders? For __they do not wash their hands__  when they eat.**  (Mattew 15:2 ULB) - Readers might think that washing the hands was important for good health. But for the Jews it was a ritual for making a person right before God.
       * "Why do your disciples violate the traditions of the elders? For __they do not go through the ceremonial handwashing ritual__  when they eat."
 
-  * **Jesus said to him, "Foxes __have holes__, and the birds of the sky __have nests__, but the Son of Man has nowhere to lay his head."**  (Matthew 8:20 ULB)
-      * "Jesus said to him, 'Foxes __have holes to live in__, and the birds of the sky __have nests to live in__, but the Son of Man has nowhere to lay his head.'"
-
-2. Leave stated information implicit by not stating it clearly.
-
-  * **Jesus said to him, "Foxes have holes, and the birds __of the sky__  have nests, but the Son of Man has nowhere to lay his head."**  (Matthew 8:20 ULB)
-      * "Jesus said to him, 'Foxes have holes, and birds have nests, but the Son of Man has nowhere to lay his head.'"
-
-Next we suggest you learn about [[:en:ta:vol1:translate:figs_explicitinfo|Making Implicit Information Explicit]]
+Next we suggest you learn about [:en:ta:vol1:translate:figs_explicitinfo|When not to make info explicit]
 
 ----
 
