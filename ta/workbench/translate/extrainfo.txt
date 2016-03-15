@@ -30,7 +30,8 @@ Text here. No space below a paragraph that has a bulleted or numbered list immed
   - numbered list (two spaces before -, one space after, additional numbered lines directly below e.g. no blank line - adding a blank line will reset the numbers)
     - sub-numbered list (4 spaces before -, one space after)
 
-====== topic ======
+====== Keeping Implicit Information Implicit ======
+Susan will rename
 
 ===== Description =====
 
