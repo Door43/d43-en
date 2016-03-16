@@ -5,7 +5,7 @@
 In order to understand this module, it would be good to read 
   * [[link]]  
 
-When saying that someone said something, we often tell who spoke, who they spoke to, and what they said. The information about who spoke and who they spoke to is called the quote margin. What the person said is the **quote.** (This is also called a quotation.) In some languages the quote margin may come first, last, or even in between two parts of the quote. 
+When saying that someone said something, we often tell who spoke, who they spoke to, and what they said. The information about who spoke and who they spoke to is called the **quote margin**. What the person said is the **quotation.** (This is also called a quote.) In some languages the quote margin may come first, last, or even in between two parts of the quotation. 
 
 ===== Description =====
 
