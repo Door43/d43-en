@@ -56,7 +56,7 @@ Where does the quarreling and disputing among yourselves come from? Does it not 
 
 ===== Special Notes (under development) =====
 
-There are two special types of notes that are used. **Connecting Statement** and **General Statement**.
+There are two special types of notes that are used that contain fixed text. they are **Connecting Statement** and **General Statement**.
   * A **Connecting Statement** is a note that relates the current chunk to the current discourse. When present, it must be the first note and separated by a blank line from the rest of the notes.
   * A **General Statement** is a note that addresses other discourse topics not mentioned in the connecting statement and When present, it must must immediately follow the Connecting Statement and be separated by a blank line from the rest of the notes.
 ==== Format ====
