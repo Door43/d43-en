@@ -7,7 +7,7 @@
   * //[[en:ta:vol2:translate:figs_quotations]]//
   * //[[Quotes Within Quotes]]//
 
-Some languages use quotation marks to mark off direct quotations from the rest of the text. When a quotation is very long, or when a quotation has many layers of quotes within quotes, some languages intense the main quote. 
+Some languages use quotation marks to mark off direct quotations from the rest of the text. When a quotation is very long, or when a quotation has many layers of quotes within quotes, some languages indent the main quote. 
 
 ==== Description ====
 
@@ -26,9 +26,11 @@ When quotations have direct quotes inside of them, English alternates double inv
 
 When there are many layers of quotes inside of quotes, it might be hard for readers to understand who is saying what. Alternating double inverted commas with single inverted commas can help careful readers to keep track of them. 
 
-If a quote is very long, the quote marks around it can be removed and the whole quote can be indented. This means that the quote is moved a little bit toward the middle of the page. This helps the reader see that all of that text is part of the quotation.
+If a quote is very long, the quote marks around it can be removed and the whole quote can be indented. This means that the quote is moved a little bit toward the right on the page. This helps the reader see that all of that text is part of the quotation.
 
 ==== Examples from the Bible ====
+
+When a quote has quotes within it, we can talk about it having layers of quotation, and each of those quotes is a level. 
 
 === Examples of a one-layered quotations === 
 
@@ -58,34 +60,13 @@ The fourth level direct quote is marked off with single quotes.
 
 ==== Translation Strategies ====
 
-In some languages it would sound strange and perhaps even be confusing it there hare many levels of embedded direct quotes. Some use only direct quotes and others use only indirect ones. Here are ways to indicate quotes within quotes:
+This page does not have any Translation Strategies. See [[Quotes Within Quotes]] for strategies for dealing with quotes within quotes and for very long quotes.
 
-  - Use double quote marks and single quote marks for direct quotations within quotations as shown in the examples above.
-  - Translate one or some of the quotes as indirect quotes. (See: [[en:ta:vol2:translate:figs_quotations]])
-  - If a quotation is very long and has many quotations within it, do not use quote marks on the main, overall quotation. Instead indent it, and use quote marks only for the quotations within it.
 
 ==== Examples of Translation Strategies Applied ====
 
-1) Use double quote marks and single quote marks for direct quotations within quotations as shown in the examples above.
+This page does not have any Translation Strategies Applied. See [[Quotes Within Quotes]] for examples.
 
-  * **Then Yahweh spoke to Moses and said, “I have heard the grumbling of the Israelites. Tell them, ‘At twilight you will eat meat, and in the morning you will be filled with bread. Then you will know that I am the Lord your God.’ ”**  (Exodus 16:11-12 ULB)
-
-    * Then Yahweh spoke to Moses and said, “I have heard the grumbling of the Israelites. Tell them, ‘At twilight you will eat meat, and in the morning you will be filled with bread. Then you will know that I am the Lord your God.’ ”
-
-2) Translate one or some of the quotes as indirect quotes. The indirect quotes do not have quote marks around them. We have underlined words that show the changes in the pronouns and verbs because of the indirect quotes.
-
-  * **Then Yahweh spoke to Moses and said, “I have heard the grumbling of the Israelites. Tell them, ‘At twilight you will eat meat, and in the morning you will be filled with bread. Then you will know that I am the Lord your God.’ ” **  (Exodus 16:11-12 ULB)
-    * Then Yahweh spoke to Moses and said, “I have heard the grumbling of the Israelites. Tell them __that__ at twilight __they__ will eat meat, and in the morning __they__ will be filled with bread. Then __they__ will know that I am the Lord __their__ God.”
-
-  * **They said to him, "A man came to meet us who said to us, 'Go back to the king who sent you, and say to him, "Yahweh says this: 'Is it because there is no God in Israel that you sent men to consult with Baal Zebub, the god of Ekron? Therefore you will not come down from the bed to which you have gone up; instead, you will certainly die.' " ' " **  (2 Kings 1:6 ULB) 
-    * They told to him __that__ a man came to meet __them__  who said to __them__, “Go back to the king who sent you, and say to him, ‘Yahweh says this: “Is it because there is no God in Israel that you sent men to consult with Baal Zebub, the god of Ekron? Therefore you will not come down from the bed to which you have gone up; instead, you will certainly die." ’ "
-
-3) If a quotation is very long and has many quotations within it, do not use quote marks on the main, overall quotation. Instead indent it, and use quote marks only for the quotations within it.
-  * **They said to him, "A man came to meet us who said to us, 'Go back to the king who sent you, and say to him, "Yahweh says this: 'Is it because there is no God in Israel that you sent men to consult with Baal Zebub, the god of Ekron? Therefore you will not come down from the bed to which you have gone up; instead, you will certainly die.' " ' " **  (2 Kings 1:6 ULB) 
-
-They said to him,
-> A man came to meet us who said to us, "Go back to the king who sent you, and say to him, 'Yahweh says this: "Is it because there is no God in Israel that you sent men to consult with Baal Zebub, the god of Ekron? Therefore you will not come down from the bed to which you have gone up; instead, you will certainly die." ' "
-
-{{tag>susan epadn}}~~DISCUSSIONS~~
+{{tag>kara epadn}}~~DISCUSSIONS~~
 
 ~~NOCACHE~~
