@@ -7,14 +7,30 @@
   * //[[en:ta:vol2:translate:figs_quotations]]//
   * //[[Quotes Within Quotes]]//
 
-Many languages use quotation marks to mark off direct quotations from the rest of the text. When quotations include quotations within them, there are ways to mark those quotations, too. When a large portion of the text is quotation, or when a quotation has many layers of quotes within quotes, they may be marked off by indenting the whole quotation.
+Some languages use quotation marks to mark off direct quotations from the rest of the text. When a quotation is very long, or when a quotation has many layers of quotes within quotes, some languages intense the main quote. 
 
 ==== Description ====
 
-There are many examples in the Bible of a quotation occurring inside another quotation—even up to four layers. Translating these demands that you use correct, clear punctuation to aid the reader in understanding the meaning of the text, which, obviously, may be complicated. If quotes are not marked clearly in a translation, it can be hard for readers to know who is saying what.
+Some languages use quotation marks to mark off direct quotes from the rest of the text. In English these quotation marks are called "inverted commas." They are the marks around the phrase "inverted commas."
 
+  * John said "I don't know when I will arrive."
+
+Quotation marks are not used with indirect quotes.
+
+  * John said that he did not know when he would arrive.
+
+When quotations have direct quotes inside of them, English alternates double inverted commas with single inverted commas. The outermost quote has double inverted commas, and the next quote inside has single inverted commas. The next quote inside of that has double inverted commas.
+
+  * Mary said, "John said, 'I don't know when I will arrive.' "
+  * Bob said, "Mary said, 'John said, "I don't know when I will arrive." ' "
+
+When there are many layers of quotes inside of quotes, it might be hard for readers to understand who is saying what. Alternating double inverted commas with single inverted commas can help careful readers to keep track of them. 
+
+If a quote is very long, the quote marks around it can be removed and the whole quote can be indented. This means that the quote is moved a little bit toward the middle of the page. This helps the reader see that all of that text is part of the quotation.
 
 ==== Examples from the Bible ====
+
+=== Examples of a one-layered quotations === 
 
 A first level direct quote is normally marked off with double quote marks. 
 
@@ -47,8 +63,6 @@ In some languages it would sound strange and perhaps even be confusing it there 
   - Use double quote marks and single quote marks for direct quotations within quotations as shown in the examples above.
   - Translate one or some of the quotes as indirect quotes. (See: [[en:ta:vol2:translate:figs_quotations]])
   - If a quotation is very long and has many quotations within it, do not use quote marks on the main, overall quotation. Instead indent it, and use quote marks only for the quotations within it.
-
-Restructuring employs freer word choice, and it is up to the translator to determine how free he will allow the word choice to be.
 
 ==== Examples of Translation Strategies Applied ====
 
