@@ -1,0 +1,71 @@
+====== Quote Markings ======
+
+//This page answers the question: How can quotes be marked, and how can I help the readers understand who is saying what?//
+
+//In order to understand this page, it would be good to read://
+
+  * //[[en:ta:vol2:translate:figs_quotations]]//
+  * //[[en:ta:vol2:translate:writing_quotations]]//
+
+Many languages use quotation marks to mark of quotations from the rest of the text. When quotations include quotations within them, there are ways to mark those quotations, too. When a large portion of the text is quotation, or when a quotation has many layers of quotes within quotes, they may be marked off by indenting the whole quotation.
+
+==== Description ====
+
+There are many examples in the Bible of a quotation occurring inside another quotation—even up to four layers. Translating these demands that you use correct, clear punctuation to aid the reader in understanding the meaning of the text, which, obviously, may be complicated. If quotes are not marked clearly in a translation, it can be hard for readers to know who is saying what.
+
+
+===== Examples from the Bible =====
+
+A first level quote is normally marked off with double quote marks. 
+
+> So the king replied, "That is Elijah the Tishbite." (2 Kings 1:8 ULB)
+
+== Examples of two-layered quotations == 
+
+A second level quote is marked off with single quote marks.
+
+> They asked him, “Who is the man that said to you, __‘Pick up your bed and walk’__?” (John 5:12 ULB)
+
+> … he sent two of the disciples, saying, “Go into the next village. As you enter, you will find a colt that has never been ridden. Untie it and bring it to me. If any one asks you, __'Why are you untying it?'__ say, ‘The Lord has need of it.’ ”  (Luke 19:29-31 ULB)
+
+== Example of a three-layered quotation ==
+
+The third quote level is marked off with double quotes.
+
+> Abimelech said to Abraham, “What prompted you to do this thing?” Abraham said, “Because I thought, ‘Surely there is no fear of God in this place, and they will kill me because of my wife.’ Besides, she is indeed my sister, the daughter of my father, but not the daughter of my mother; and she became my wife. When God caused me to leave my father’s house and travel from place to place, I said to her, ‘You must show me this faithfulness as my wife: At every place where we go, say about me, __“He is my brother.”__ ’ ”   (Genesis 20:10-13 ULB)
+
+== Example of a four-layered quotation ==
+
+The fourth quote level is marked off with single quotes.
+
+>When the messengers returned to Ahaziah, he said to them, “Why have you returned?” They said to him, “A man came to meet us who said to us, ‘Go back to the king who sent you, and say to him, “Yahweh says this: __‘Is it because there is no God in Israel that you sent men to consult with Baal Zebub, the god of Ekron? Therefore you will not come down from the bed to which you have gone up; instead, you will certainly die.’__ ” ’ ”  (2 Kings 1:5-6 ULB)
+
+==== Translation Strategies ====
+
+Some languages don't tolerate many levels of embedded quotes. Some use only direct quotes and others use only indirect ones. Here are ways to indicate quotes within quotes:
+
+  - Use double quote marks for the first (overall) quotation. Use single quote marks around any quotation(s) within that first one. If there are further quotations within the single-quote-marked quotations, then use double quotes around those. And for a fourth layer, use single again.
+  - Or, translate an embedded quote as an indirect quote. See Speech Quotations.
+  - Or, if a quotation is very long and has many quotations within it, do not use quote marks on the main, overall quotation. Instead indent it, and use quote marks only for the quotations within it.
+
+Restructuring employs freer word choice, and it is up to the translator to determine how free he will allow the word choice to be.
+
+===== Examples of Translation Strategies Applied =====
+
+Here are three ways to deal with Exodus 16:11-12 ULB: **Then Yahweh spoke to Moses and said, “I have heard the grumbling of the Israelites. Tell them, ‘At twilight you will eat meat, and in the morning you will be filled with bread. Then you will know that I am the Lord your God.’ ” **
+
+This way eliminates the single quotes:
+
+**Then Yahweh spoke to Moses and said,**** “I have heard the grumbling of the Israelites. Tell them __that at__ twilight __they__ will eat meat, and in the morning __they __ will be filled with bread. Then __they__ will know that I am the Lord__ their__ God.”**
+
+This way eliminates all quote marks:
+
+**Then Yahweh spoke to Moses and said __he had__ **** heard the grumbling of the Israelites __and to__ tell them __that at__ twilight __they__ will eat meat, and in the morning __they __ will be filled with bread. Then __they__ will know that __he __ the Lord is__ their__ God.**
+
+Here in this example of a four-layered quotation in 2 Kings 1:5-6 ULB, we have changed one of the direct quotes (**They said to him, ****__“__ ****__A__ man came to meet us who said to us,**) to an indirect one. Note the changes also in the quote marks from single to double or double to single.
+
+**They said to him __that a man__ came to meet __them __ who said to __them__, __“Go__ back to the king who sent you, and say to him, __‘Yahweh__ says this: __“Is__ it because there is no God in Israel that you sent men to consult with Baal Zebub, the god of Ekron? Therefore you will not come down from the bed to which you have gone up; instead, you will certainly __die.__ **__**” ****’**__
+
+{{tag>susan epadn}}~~DISCUSSIONS~~
+
+~~NOCACHE~~
