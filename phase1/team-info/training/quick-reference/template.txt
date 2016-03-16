@@ -54,30 +54,31 @@ Where does the quarreling and disputing among yourselves come from? Does it not 
 
   * **(1) among your fellow believers?**  - **(2)**  "in your members." **(3)**  Possible meanings are 1) There is fighting among the local believers or 2) The fighting is internal, between your desire to do evil and good.
 
-===== Special notes (under development) =====
+===== Special Notes (under development) =====
 
 There are two special types of notes that are used. **Connecting Statement** and **General Statement**.
-
-==== Connecting Statement ====
-A connecting statement is a note that relates the current chunk to the current discourse. When present, it must be the first note and separated by a blank line.
-
-=== Format ===
-  * **Connecting Statement** - A note on how this chunk related to the current discourse.
+  * A **Connecting Statement** is a note that relates the current chunk to the current discourse. When present, it must be the first note and separated by a blank line from the rest of the notes.
+  * A **General Statement** is a note that addresses other discourse topics not mentioned in the connecting statement and When present, it must must immediately follow the Connecting Statement and be separated by a blank line from the rest of the notes.
+==== Format ====
+  * **Connecting Statement** - Explanation
+  * **General Statement** - Explanation
 
 === Bible Example ===
 
-**Translation Notes:**\\ 
 Luke1:1
   * **Connecting Statement** - Luke explains why he is writing to Theophilus.
 
   * **accounts**  - "reports" or "true stories"
+  * **[phrase]** - [explanation]
+  * **[phrase]** - [explanation]
 
-==== General Statement ====
+Hezikaiah 1:1 (replace example when an actual one becomes available)
+  * **Connecting Statement** - Phitious creates a single metaphor in this chapter.
+  * **General Statement** - Phitious uses this single metaphor to teach Nonian spiritual truths.
 
-  * **General Statement** - These usually are discourse notes that are relevant to the current chunk but do not link to a phrase in the chunk.
-
-
-
+  * **[Other notes]** - [note comments]
+  * **[Other notes]** - [note comments]
+  * **[Other notes]** - [note comments]
 
 ~~DISCUSSION~~{{tag>publish}}
 
