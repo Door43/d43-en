@@ -1,10 +1,10 @@
-====== Connecting & General Statements ======
+====== Connecting & General Statement ======
 
   * [[:en:phase1:team-info:training:topics:discourse:home|Back to Discourse Information]]
 
 
 === Purpose ===
-Connecting & General Statements are to address discourse level text issues. These include:
+The Connecting Statement & General Statement are to address discourse level text issues. These include:
   * Participant references (pronoun identification)
   * Highlighting background or implied information. Including information that was moved to the background of the text.
   * Logical arguments and conclusions
@@ -12,7 +12,7 @@ Connecting & General Statements are to address discourse level text issues. Thes
 
   * A **Connecting Statement** is a note that relates the current chunk to the current discourse. When present, it must be the first note and separated by a blank line from the rest of the notes. Only one connecting statement is used per chunk.
 
-  * A **General Statement** is a note that addresses other discourse topics not mentioned in the connecting statement. When present, it must must immediately follow the Connecting Statement and be separated by a blank line from the rest of the notes. There can be one or more connecting statements in a chunk.
+  * A **General Statement** is a note that addresses other discourse topics not mentioned in the connecting statement but are relevant to the MTT. When present, it must must immediately follow the Connecting Statement and be separated by a blank line from the rest of the notes. There can be one or more connecting statements in a chunk.
 
 === Format ===
   * **Connecting Statement** - Explanation
