@@ -1,13 +1,14 @@
 ====== Quote Markings ======
 
-//This page answers the question: How can quotes be marked, especially when there are quotes within quotes?
+//This page answers the question: How can quotes be marked, especially when there are quotes within quotes?//
 
 //In order to understand this page, it would be good to read://
 
   * //[[en:ta:vol2:translate:figs_quotations]]//
   * //[[en:ta:vol2:translate:writing_quotations]]//
+  * //[[Quotes Within Quotes]]//
 
-Many languages use quotation marks to mark of quotations from the rest of the text. When quotations include quotations within them, there are ways to mark those quotations, too. When a large portion of the text is quotation, or when a quotation has many layers of quotes within quotes, they may be marked off by indenting the whole quotation.
+Many languages use quotation marks to mark off direct quotations from the rest of the text. When quotations include quotations within them, there are ways to mark those quotations, too. When a large portion of the text is quotation, or when a quotation has many layers of quotes within quotes, they may be marked off by indenting the whole quotation.
 
 ==== Description ====
 
@@ -67,6 +68,10 @@ Restructuring employs freer word choice, and it is up to the translator to deter
     * They told to him __that__ a man came to meet __them__  who said to __them__, “Go back to the king who sent you, and say to him, ‘Yahweh says this: “Is it because there is no God in Israel that you sent men to consult with Baal Zebub, the god of Ekron? Therefore you will not come down from the bed to which you have gone up; instead, you will certainly die." ’ "
 
 3) If a quotation is very long and has many quotations within it, do not use quote marks on the main, overall quotation. Instead indent it, and use quote marks only for the quotations within it.
+  * **They said to him, "A man came to meet us who said to us, 'Go back to the king who sent you, and say to him, "Yahweh says this: 'Is it because there is no God in Israel that you sent men to consult with Baal Zebub, the god of Ekron? Therefore you will not come down from the bed to which you have gone up; instead, you will certainly die.' " ' " **  (2 Kings 1:6 ULB) 
+
+They said to him,
+> A man came to meet us who said to us, "Go back to the king who sent you, and say to him, 'Yahweh says this: "Is it because there is no God in Israel that you sent men to consult with Baal Zebub, the god of Ekron? Therefore you will not come down from the bed to which you have gone up; instead, you will certainly die." ' "
 
 {{tag>susan epadn}}~~DISCUSSIONS~~
 
