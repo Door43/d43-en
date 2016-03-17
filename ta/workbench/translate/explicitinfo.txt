@@ -1,10 +1,11 @@
 ====== Making Implicit Information Explicit ======
 
-This page answers the question:   * What can I do if the target language speakers do not know some important information that the original speaker or writer left implicit? When and how do I make implicit information explicit? 
+This page answers the question:  What can I do if the target language speakers do not know some important information that the original speaker or writer left implicit? 
 
 In order to understand this page, it would be good to read
 
   * //[[en:ta:vol1:translate:figs_explicit]]//
+
 ==== Description ====
 
 Sometimes translators need to make implicit information explicit because of the requirements of their language. For example, some languages require an object with the verbs "eat" and "drink." They need to say what someone eats or drinks, even if they don't know exactly what he ate or drank.
@@ -13,45 +14,61 @@ Sometimes translators need to make implicit information explicit because of the 
 
   * "Therefore, whether __you eat food or drink something__, or whatever you do, do all to the glory of God."
 
-Sometimes translators need to make implicit information explicit because their readers would not understand the original speaker's or author's message.  In the example below, verse 2 says that the kings made war. So in verse 3 when it says that the kings joined together, the original readers would have understood that kings' armies were with them. If the target audience would not understand that,  then translators may need to make that information explicit. 
+Sometimes translators need to make implicit information explicit because their readers would not understand the original speaker's or author's message.  
 
-> <sup>1</sup>It came about in the days of Amraphel, king of Shinar, Arioch, king of Ellasar, Chedorlaomer, king of Elam, and Tidal, king of Goiim, <sup>2</sup> that they made war against Bera, king of Sodom, Birsha, king of Gomorrah, Shinab, king of Admah, Shemeber, king of Zeboiim, and the king of Bela (also called Zoar). <sup>3</sup>__These latter five kings joined together__ in the valley of Siddim (also called the Salt Sea). (Genesis 14:1-3 ULB)
-
-  * “These latter five kings __and their armies__ joined together....”  (Genesis 14:3 ULB)
-
-=== Reasons this is a translation issue === 
-  * Sometimes the author intentionally left some things unclear. The translator should not try to make them  more clear that the author did.
-  * Sometimes the original audience did not understand what the speaker meant. Do not make it so clear to your readers that they would find it strange that the original audience did not understand.
-  * It is not necessary to include all implicit information for the target audience to understand the text. There is a lot of information that the original audience knew about the things that are in the Bible. Only include the information that the target audience needs to know so that the message is clear, nothing more.
-
-=== Translation Principles ===
-
-Implicit information may be made explicit if:
-  * the phrase or word in the target language requires a certain kind of information with it,
-  * the original audience would have known the information and the target audience needs the information in order to understand the main point of the message,
-
-Do not add any information that is not part of the original message. There may be things that the original audience would have known, but not everything would help them understand the speaker's message.
-
-> You rejected the Holy and Righteous One, and you asked instead for a murderer to be released to you.  (Acts 3:14 ULB)
-
-When Peter said "a murderer," he was referring to a man named Barabbas. The people listening to Peter may have remembered this. But this information does not help people understand the point of what Peter was saying. So translators would not add Barabbas's name to the text.
-
+**Reason this is a translation issue**
+  * Sometimes the words or grammar of the target language requires that certain information be stated explicitly.
+  * Readers may not understand the message if they do not know certain information that the original speakers and hearers knew.
+  * Readers might misunderstand the meaning of something because of differences between the Bible culture and their own.
 
 ==== Examples from the Bible ====
 
+1. Sometimes the words or grammar of the target language requires that certain information be stated explicitly.
 
->So Yahweh came down to see the city and the tower which the descendants of Adam had built.  (Genesis 11:5)
+> Therefore, whether __you eat or drink__, or whatever you do, do all to the glory of God. (1 Corinthians 10:31 ULB) \\ 
 
+Some languages require an object with the verbs "eat" and "drink." They need a word or phrase that tells what someone eats or drinks, even if it is not important what they ate or drank.
 
-The phrase "came down" refers to **where** he came from. The place he came from was understood by the original readers. But if this sentence is unclear for the target audience, you may name the place to make the information explicit as in: //So Yahweh came down __from heaven__ to see the city and the tower which the descendants of Adam had built.//
+2. Readers may not understand the message if they do not know certain information that the original speakers and hearers knew.
 
+>it will be more tolerable for __Tyre and Sidon__  at the day of judgment than for you  (Matthew 11:22 ULB)
 
->To Enoch was born Irad. Irad became the father of Mehujael.  (Genesis 4:18)
+The original listeners understood that when Jesus spoke about the judgment, he was speaking about how God would judge and punish people for what they have done wrong. They also knew that the people of Tyre and Sidon were very wicked, and they believed that they were better than the people of Tyre and Sidon. Modern readers might not know these things.
 
-It is stated explicitly that Enoch had a child named Irad and that Irad had a child named Mehujael. The implied information is that Irad grew up to be a man and married a woman and through her, had a son. If the verse is confusing without this information for the target audience, you may add as much information as is necessary, such as, "Enoch grew up and married and became the father of a son whom he named Irad. When Irad grew up he became the father of a son whom he named Mehujael." 
+3. Readers might misunderstand the meaning of something because of differences between the Bible culture and their own.
 
+>Why do your disciples violate the traditions of the elders? For __they do not wash their hands when they eat__. (Matthew 15:2 ULB)
 
+Modern readers could think that tradition of washing their hands when eating was to keep from getting sick. But for the Jews, it was a ritual to make themselves ceremonially clean before God.
 
+==== Translation Strategies ==== 
+
+  - If the words or grammar of the target language requires certain information, then state that information clearly.
+  - If readers would need to know certain implied information in order to understand the message, then state that information clearly.
+  - If readers would misunderstand the meaning of something because of differences between the Bible culture and their own, then state the meaning clearly.
+
+==== Examples of Translation Strategies Applied ====
+
+1. If the words or grammar of the target language requires certain information, then state that information clearly.
+
+  * **Therefore, whether __you eat or drink__, or whatever you do, do all to the glory of God.** (1 Corinthians 10:31 ULB) - Some languages require an object with the verbs "eat" and "drink." 
+    * "Therefore, whether __you eat food or drink something__, or whatever you do, do all to the glory of God."
+
+2. If readers would need to know certain implied information in order to understand the message, then state that information clearly.
+
+  * **it will be more tolerable for __Tyre and Sidon__  at the day of judgment than for you**  (Matthew 11:22 ULB)
+      * "God will punish __Tyre and Sidon, cities whose people you think of as very wicked,__  less severely than he will punish you"
+
+  * **Jesus said to him, "Foxes __have holes__, and the birds of the sky __have nests__, but the Son of Man has nowhere to lay his head."**  (Matthew 8:20 ULB)
+      * "Jesus said to him, "Foxes __have holes to live in__, and the birds of the sky __have nests to live in__, but the Son of Man has nowhere to lay his head and sleep.""
+
+3. If readers would misunderstand the meaning of something because of differences between the Bible culture and their own, then state the meaning clearly.
+  * **Why do your disciples violate the traditions of the elders? For __they do not wash their hands__  when they eat.**  (Matthew 15:2 ULB)
+      * "Why do your disciples violate the traditions of the elders? For __they do not go through the ceremonial handwashing ritual__  when they eat."
+
+//Next we suggest you learn about//
+
+* [[When not to make info explicit]] 
 
 ----
 https://pad.door43.org/p/ta-figs_explicitinfo
