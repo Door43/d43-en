@@ -19,7 +19,7 @@ Return to: [[:en:phase1:team-info:processes:create-notes|How to Create Translati
   * Normally we do not need to write notes for terms that are in the Important Terms list. However, when an important term has multiple senses, you may need to write a note telling which sense is meant in the text.
 
 
-===== Formats for Specific Types of Notes: =====
+**Bold Text**===== Formats for Specific Types of Notes: =====
 
 There are several ways to write translation notes. We would like them to fit into one of the following formats so we can easily train the translators and so they will recognize the purpose of each note.
 
@@ -132,23 +132,16 @@ Sometimes a phrase is used multiple times in a book. We can make it easier for t
 There are two special types of notes that are used that contain fixed text for the ULB phrase. they are **Connecting Statement** and **General Statement**.
 
   * A **Connecting Statement** is a note that relates the current chunk to the current discourse. When present, it must be the first note and separated by a blank line from the rest of the notes.
-    * **Connecting Statement** - [explanation]
-
   * A **General Statement** is a note that addresses other discourse topics not mentioned in the connecting statement and When present, it must must immediately follow the Connecting Statement and be separated by a blank line from the rest of the notes.
-    * **General Statement** - [explanation]
 
-Luke1:1
+<code>
+  * **Connecting Statement** - [explanation]
+  * **General Statement** - [explanation]
+  [blank line]
+  * **[Phrase]**  - [Explanation]
+</code>
+
   * **Connecting Statement** - Luke explains why he is writing to Theophilus.
-
-  * **accounts**  - "reports" or "true stories"
- 
-Hezikaiah 1:1 (replace example when an actual one becomes available)
-  * **Connecting Statement** - Phitious creates a single metaphor in this chapter.
-  * **General Statement** - Phitious uses this single metaphor to teach Nonian spiritual truths.
-
-  * **[Other notes]** - [note comments]
-
-
 
 
 ~~DISCUSSION~~{{tag>discuss}}
