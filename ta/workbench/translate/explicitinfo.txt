@@ -6,24 +6,17 @@ In order to understand this page, it would be good to read
 
   * //[[en:ta:vol1:translate:figs_explicit]]//
 
+Modern readers may not know some of things that the people in the Bible and the people who first read the books of the Bible knew. Translators may state some things clearly in the translation that the original speaker or writer left implicit.
+
 ==== Description ====
 
-Sometimes translators need to make implicit information explicit because their readers would not understand the original speaker's or author's message.  
+When someone speaks or writes, he expects his audience to know certain things that they can think about to help them understand what he actually says. The things he actually says are **explicit information**. The things that he expects them to already know or be able to learn are **implicit information**. Normally a speaker or writer does not tell people things that he believes they already know. And sometimes he does not state clearly things that expects them to be able to understand from what he says.
 
-**Reason this is a translation issue**
-  * Sometimes the words or grammar of the target language requires that certain information be stated explicitly.
+**Reasons this is a translation issue**
   * Readers may not understand the message if they do not know certain information that the original speakers and hearers knew.
-  * Readers might misunderstand the meaning of something because of differences between the Bible culture and their own.
+  * Modern readers do not know everything that the original speakers and hearers in the Bible knew.
 
 ==== Examples from the Bible ====
-
-1. Sometimes the words or grammar of the target language requires that certain information be stated explicitly.
-
-> Therefore, whether __you eat or drink__, or whatever you do, do all to the glory of God. (1 Corinthians 10:31 ULB) \\ 
-
-Some languages require an object with the verbs "eat" and "drink." They need a word or phrase that tells what someone eats or drinks, even if it is not important what they ate or drank.
-
-2. Readers may not understand the message if they do not know certain implicit information that the original speakers and hearers knew.
 
 >Woe to you, Chorazin! Woe to you, Bethsaida! If the mighty deeds had been done in Tyre and Sidon which were done in you, they would have repented long ago in sackcloth and ashes. But it will be more tolerable for __Tyre and Sidon__ at the day of judgment than for you. (Matthew 11:22 ULB)
 
@@ -34,21 +27,19 @@ The people that Jesus was talking to knew that the people of Tyre and Sidon were
 Modern readers could think the Pharisees were saying that the disciples should wash their hands before eating in order to keep from getting sick from germs on the hands. But for the Jews, washing the hands before eating was a ceremony that they practiced in order to be ritually clean. The elders had given them this tradition, and they believed that people had to follow all the traditions of the elders in order to be righteous. 
 
 ==== Translation Strategies ==== 
+If readers can understand enough of the implicit information in order to understand the message, then consider leaving that information implicit. 
 
-  - If the words or grammar of the target language requires certain information, then state that information clearly.
-  - If readers would need to know certain implicit information in order to understand the message, then state that information clearly.
+  - If readers cannot understand the message because they do not know certain implicit information, then state that information clearly.
 
 ==== Examples of Translation Strategies Applied ====
 
-1. If the words or grammar of the target language requires certain information, then state that information clearly.
 
-  * **Therefore, whether __you eat or drink__, or whatever you do, do all to the glory of God.** (1 Corinthians 10:31 ULB) - Some languages require an object with the verbs "eat" and "drink." 
-    * "Therefore, whether __you eat food or drink something__, or whatever you do, do all to the glory of God."
-
-2. If readers would need to know certain implied information in order to understand the message, then state that information clearly.
+1. If readers cannot understand the message because they do not know certain implicit information, then state that information clearly.
 
   * **it will be more tolerable for __Tyre and Sidon__  at the day of judgment than for you**  (Matthew 11:22 ULB)
-      * "God will punish __Tyre and Sidon, cities whose people you think of as very wicked,__  less severely than he will punish you"
+    * "it will be more tolerable for __Tyre and Sidon, cities whose people were very wicked__ at the day of judgment than for you"
+    * "God will punish __Tyre and Sidon, cities whose people were very wicked,__  less severely than he will punish you"
+    * "God will punish you more severely than __Tyre and Sidon, cities whose people were very wicked__."
 
   * **Jesus said to him, "Foxes __have holes__, and the birds of the sky __have nests__, but the Son of Man has nowhere to lay his head."**  (Matthew 8:20 ULB)
       * "Jesus said to him, "Foxes __have holes to live in__, and the birds of the sky __have nests to live in__, but the Son of Man has nowhere to lay his head and sleep.""
