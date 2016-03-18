@@ -1,39 +1,32 @@
-====== Keeping Implicit Information Implicit ======
-Susan will rename
+====== When to leave Background Knowledge Unstated and Implicit Information Implicit ======
 
 //This page answers the question: How do I know whether or not to make certain information explicit?//
 
 //In order to understand this page, it would be good to read://
   * [[en:ta:vol1:translate:figs_explicit]]
+  * [[en:ta:vol1:translate:figs_explicitinfo]]
 
-Sometimes when people read the Bible, they want to know certain things. But if those things were not part of the original message, then we would not state them clearly in the translation. 
+Sometimes it is better not to state assumed knowledge or implicit information explicitly.
 
-When modern readers cannot understand something in the Bible because they do not know some implicit information that the original readers would have known, translators may make that information explicit in the translation by stating it clearly. However, sometimes there is information that we might think is implicit, but we should not state it clearly. This page tells when not to state something clearly.
 ===== Description =====
 
-On [[en:ta:vol1:translate:figs_explicit]] we learned the difference between implicit and explicit information, and about how we can state implicit information clearly in the translation when the readers need it 
-
-Sometimes when people read the Bible, they want to know certain things that are not stated in the text. If these things are implicit information, translators may state them clearly. However, some things that both the speaker and their audience knew are not implicit information, because the audience did not need to understand them in order to understand the message. 
-
-> You rejected the Holy and Righteous One, and you asked instead for a murderer to be released to you.  (Acts 3:14 ULB)
-
-When Peter said "a murderer," the people who were listening to him may have remembered that the man's name was Barabbas. But they did not need to remember the man's name in order to understand Peter's message. So this information was not implicit information.
+Sometimes it is better not to state assumed knowledge or implicit information explicitly. This page gives some direction about when not to do this.
 
 
-=== Reason this is a translation issue === 
-  * Sometimes the author intentionally left some things unclear. The translator should not try to make them more clear that the author did.
-  * Sometimes the original audience did not understand what the speaker meant. Do not make it so clear to your readers that they would find it strange that the original audience did not understand.
+
 
 
 === Translation Principles (optional) ===
-  * It is not necessary to include all background information for the target audience to understand the text. There is a lot of information that the original audience knew about the things that are in the Bible. Only include the information that the target audience needs to know so that the message is clear.
-  * Do not add any information that is not part of the original message. There may be things that the original audience would have known, but not everything would help them understand the speaker's message.
+
+  * If and speaker or author intentionally left something unclear, do not try to make them more clear.
+  * Sometimes the original audience did not understand what the speaker meant. Do not make it so clear that your readers would find it strange that the original audience did not understand.
+  * If you need to explicitly state some assumed knowledge or implicit information, try to do it in a way that it does not make your readers think that the original audience needed to be told those things.
 
 ===== Examples from the Bible =====
 
 >Jesus said to them, "Take heed and beware of the yeast of the Pharisees and Sadducees." The disciples reasoned among themselves and said, "It is because we took no bread." …  (Matthew 16:6,7 ULB)
 
-Jesus knew what he meant when he said "the yeast of the Pharisees and Sadducees." Jewish people associated the idea of yeast with sin and false teaching. But his disciples did not think about this. They thought that Jesus was talking about real yeast and bread. So it would not be appropriate to add to the text anything about yeast referring to false teaching. 
+Some assumed knowledge is that Jewish people associated the idea of yeast with sin and false teaching. The implicit information is that the disciples she beware of the false teaching of the Pharisees and Sadducees. But Jesus disciples did not understand this. They thought that Jesus was talking about real yeast and bread. So it would not be appropriate to state explicitly that  the word "yeast" here refers to false teaching. The disciples did not understand what Jesus meant until they heard what Jesus said in Matthew 16:11
 
 > How is it that you do not understand that I was not speaking to you about bread? Take heed and beware of the yeast of the Pharisees and Sadducees." Then they understood that he was not telling them to beware of yeast in bread, but to beware of the teaching of the Pharisees and Sadducees. (Matthew 16:11,12 ULB)
 
