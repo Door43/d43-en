@@ -18,7 +18,7 @@ Return to: [[:en:phase1:team-info:processes:create-notes|How to Create Translati
     * (See: Metaphor)
   * Normally we do not need to write notes for terms that are in the Important Terms list. However, when an important term has multiple senses, you may need to write a note telling which sense is meant in the text.
 
-===== Formats for Specific Types of Notes: =====
+:===== Formats for Specific Types of Notes: =====
 
 There are several ways to write translation notes. We would like them to fit into one of the following formats so we can easily train the translators and so they will recognize the purpose of each note.
 
@@ -126,21 +126,21 @@ Sometimes a phrase is used multiple times in a book. We can make it easier for t
   * **will be blessed in him**  - AT: "will be blessed because of Abraham" or "will be blessed because I have blessed Abraham." For translating "in him," see how you translated "through you" in [[:en:bible:notes:gen:12:01|12:3]].
 
 
-=== Connecting Statement & General Notes (under development) ===
+=== Connecting Statement & General Statement (under development) ===
 
-There are two special types of notes that are used that contain fixed text for the ULB phrase. they are **Connecting Statement** and **General Statement**.
+There are two special types of notes that contain fixed text for the ULB phrase. they are **Connecting Statement:** and **General Statement:**.
 
-  * A **Connecting Statement** is a note that relates the current chunk to the current discourse. When present, it must be the first note and separated by a blank line from the rest of the notes.
-  * A **General Statement** is a note that addresses other discourse topics not mentioned in the connecting statement and When present, it must must immediately follow the Connecting Statement and be separated by a blank line from the rest of the notes.
+  * A **Connecting Statement:** is a note that relates the current chunk to the current discourse. When present, it must be the first note and separated by a blank line from the rest of the notes.
+  * A **General Statement:** is a note that addresses other discourse topics not mentioned in the connecting statement. When present, it must must immediately follow the Connecting Statement and be separated by a blank line from the rest of the notes.
 
 <code>
-  * **Connecting Statement** - [explanation]
-  * **General Statement** - [explanation]
+  * **Connecting Statement:** - [explanation]
+  * **General Statement:** - [explanation]
   [blank line]
   * **[Phrase]**  - [Explanation]
 </code>
 
-  * **Connecting Statement** - Luke explains why he is writing to Theophilus.
+  * **Connecting Statement:** - Luke explains why he is writing to Theophilus.
 
 
 ~~DISCUSSION~~{{tag>discuss}}
