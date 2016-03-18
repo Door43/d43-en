@@ -15,8 +15,8 @@ The Connecting Statement & General Statement are to address discourse level text
   * A **General Statement** is a note that addresses other discourse topics not mentioned in the connecting statement but are relevant to the MTT. When present, it must must immediately follow the Connecting Statement and be separated by a blank line from the rest of the notes. There can be one or more connecting statements in a chunk.
 
 === Format ===
-  * **Connecting Statement** - Explanation
-  * **General Statement** - Explanation
+  * **Connecting Statement:** - Explanation
+  * **General Statement:** - Explanation
 
   * Follow Standard Punctuation. Phrases do not use periods. Sentences do.
   * Follow Standard formatting for ta-topic links. Ex. (See: Metaphor_link)
@@ -25,15 +25,15 @@ The Connecting Statement & General Statement are to address discourse level text
 === Bible Example ===
 
 Luke1:1
-  * **Connecting Statement** - Luke explains why he is writing to Theophilus.
+  * **Connecting Statement:** - Luke explains why he is writing to Theophilus.
 
   * **accounts**  - "reports" or "true stories"
   * **[phrase]** - [explanation]
   * **[phrase]** - [explanation]
 
 Hezikaiah 1:1 (replace example when an actual one becomes available)
-  * **Connecting Statement** - Phitious creates a single metaphor in this chapter.
-  * **General Statement** - Phitious uses this single metaphor to teach Nonian spiritual truths.
+  * **Connecting Statement:** - Phitious creates a single metaphor in this chapter.
+  * **General Statement:** - Phitious uses this single metaphor to teach Nonian spiritual truths.
 
   * **[Other notes]** - [note comments]
   * **[Other notes]** - [note comments]
