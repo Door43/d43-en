@@ -651,6 +651,7 @@ edge [arrowsize=1.4];
 "figs_intro" -> "figs_euphemism"
 "figs_events" [fillcolor="#9999ff"]
 "writing_intro" -> "figs_events"
+"figs_verbs" -> "figs_events"
 "figs_exclusive" [fillcolor="#9999ff"]
 "figs_pronouns" -> "figs_exclusive"
 "figs_explicit" [fillcolor="#9999ff"]
@@ -661,8 +662,6 @@ edge [arrowsize=1.4];
 "figs_genericnoun" -> "figs_gendernotations"
 "figs_genericnoun" [fillcolor="#9999ff"]
 "figs_partsofspeech" -> "figs_genericnoun"
-"figs_genitivecase" [fillcolor="#9999ff"]
-"figs_partsofspeech" -> "figs_genitivecase"
 "figs_go" [fillcolor="#9999ff"]
 "Translation" -> "figs_go"
 "figs_grammar" [fillcolor="#9999ff"]
@@ -678,8 +677,9 @@ edge [arrowsize=1.4];
 "figs_inclusive" [fillcolor="#9999ff"]
 "Translation" -> "figs_inclusive"
 "figs_informremind" [fillcolor="#9999ff"]
-"figs_intro" -> "figs_informremind"
 "figs_distinguish" -> "figs_informremind"
+"figs_partsofspeech" -> "figs_informremind"
+"figs_sentences" -> "figs_informremind"
 "figs_intro" [fillcolor="#9999ff"]
 "Translation" -> "figs_intro"
 "figs_irony" [fillcolor="#9999ff"]
@@ -705,6 +705,9 @@ edge [arrowsize=1.4];
 "figs_grammar" -> "figs_partsofspeech"
 "figs_personification" [fillcolor="#9999ff"]
 "figs_intro" -> "figs_personification"
+"figs_possession" [fillcolor="#9999ff"]
+"figs_partsofspeech" -> "figs_possession"
+"figs_sentences" -> "figs_possession"
 "figs_pronouns" [fillcolor="#9999ff"]
 "figs_partsofspeech" -> "figs_pronouns"
 "figs_quotations" [fillcolor="#9999ff"]
