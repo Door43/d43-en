@@ -675,7 +675,7 @@ edge [arrowsize=1.4];
 "figs_idiom" [fillcolor="#9999ff"]
 "figs_intro" -> "figs_idiom"
 "figs_inclusive" [fillcolor="#9999ff"]
-"Translation" -> "figs_inclusive"
+"figs_pronouns" -> "figs_inclusive"
 "figs_informremind" [fillcolor="#9999ff"]
 "figs_distinguish" -> "figs_informremind"
 "figs_partsofspeech" -> "figs_informremind"
