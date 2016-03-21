@@ -70,6 +70,13 @@ Find question marks between any two alpha characters without spaces.
 {{door43pages @:en:bible:notes -r -q="[a-z]\?[a-z]" -exclude:home -simpleLineBreak -title -fontsize="90%"}}
 </code>
 
+
+Find mis-located closing bold asterisks
+
+<code>
+{{door43pages @:en:bible:notes -r -q=" \*\*-" -exclude:home -simpleLineBreak -title -fontsize="90%"}}
+</code>
+
 ==== Activity: ====
 
 Code to display the activity of a user:
