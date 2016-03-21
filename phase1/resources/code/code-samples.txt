@@ -64,6 +64,12 @@ Find the text string "1)" in the notes namespace (escape special characters with
 </code>
 
 
+Find question marks between any two alpha characters without spaces.
+
+<code>
+{{door43pages @:en:bible:notes -r -q="[a-z]\?[a-z]" -exclude:home -simpleLineBreak -title -fontsize="90%"}}
+</code>
+
 ==== Activity: ====
 
 Code to display the activity of a user:
