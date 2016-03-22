@@ -693,6 +693,8 @@ edge [arrowsize=1.4];
 "figs_simile" -> "figs_metaphor"
 "figs_metonymy" [fillcolor="#9999ff"]
 "figs_intro" -> "figs_metonymy"
+"figs_nominaladj" [fillcolor="#9999ff"]
+"figs_partsofspeech" -> "figs_nominaladj"
 "figs_order" [fillcolor="#9999ff"]
 "figs_grammar" -> "figs_order"
 "figs_partsofspeech" -> "figs_order"
@@ -892,7 +894,7 @@ edge [arrowsize=1.4];
 "translate_source_text" -> "translate_source_version"
 "translate_source_licensing" -> "translate_source_version"
 "translate_symaction" [fillcolor="#9999ff"]
-"Translation" -> "translate_symaction"
+"translate_unknown" -> "translate_symaction"
 "translate_terms" [fillcolor="#9999ff"]
 "translate_manual" -> "translate_terms"
 "translate_textvariants" [fillcolor="#9999ff"]
@@ -935,7 +937,6 @@ edge [arrowsize=1.4];
 "writing_decisions" -> "writing_intro"
 "writing_newevent" [fillcolor="#9999ff"]
 "figs_events" -> "writing_newevent"
-"writing_intro" -> "writing_newevent"
 "writing_participants" [fillcolor="#9999ff"]
 "figs_partsofspeech" -> "writing_participants"
 "writing_intro" -> "writing_participants"
