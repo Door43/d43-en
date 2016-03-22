@@ -43,32 +43,49 @@ Readers may not know that the names Saul and Paul refer to the same person.
   
 
 ==== Translation Strategies ==== 
-  - If people cannot easily understand from the context what kind of a thing a name refers to, you can add a word to clarify it.
-  - If readers need to understand the meaning of a name in order to understand what is said about it, either translate the name according to its meaning or copy the name and tell about its meaning.
-  - If a person or place has two different names, use one throughout and put a footnote for the other or when the name changes make it clear that this  is the same person or place as the former named person or place. 
-  -If a name sounds like a bad word in your language or a word that would give the wrong meaning, change some of the sounds so it will not sound like that word.
+  - If readers cannot easily understand from the context what kind of a thing a name refers to, you can add a word to clarify it.
+  - If readers need to understand the meaning of a name in order to understand what is said about it, copy the name and tell about its meaning either in the text or in a footnote.
+  - Or if readers need to understand the meaning of a name in order to understand what is said about it, and that name is used only once, translate the meaning of the name.
+  - If a person or place has two different names, use one name all of the time and write a footnote when the source text uses the name that is used less frequently.  
+  - Or use whatever name is given in the source text, and add a footnote that explains who or what the name refers to.
+
 
 ==== Examples of Translation Strategies Applied ==== 
-1.	If it is a name used to identify a person, place or thing; write it in your own language but if it is not known in your language add a word to identify it. When writing the names use another letter for sounds you do not have in your own language and remember what letters may go together or may end a word. Example Nasarata for Nazarath. Warning: if the word written in your language has a bad or wrong meaning, change some letters to make not a meaning word. \\ 
-**You went over the __Jordan__ and came to __Jericho__. The leaders of Jericho fought against you, along with the __Amorites__** (Joshua 24:11 ULB) \\ 
-“You went over the __river of Jordan __ and came to the city of Jericho. The leaders of Jericho fought against you, along with __the tribe of the Amorites__” 
+1. If readers cannot easily understand from the context what kind of a thing a name refers to, you can add a word to clarify it.
+  * **You went over the __Jordan__ and came to __Jericho__. The leaders of Jericho fought against you, along with the __Amorites__** (Joshua 24:11 ULB) \\ 
+    * “You went over the __Jordan River __ and came to the city of Jericho. The leaders of Jericho fought against you, along with __the tribe of the Amorites__” 
 
-2.	If the name is used for its meaning and is only used in this one place, just use its meaning. \\ 
-**she said, "Do I really continue to see, even after he has seen me?"  Therefore the well was called __Beerlahairoi__; ** (Genesis 16:13-14 ULB) \\ 
+  * **Shortly after, some Pharisees came and said to him, "Go and leave here because __Herod__ wants to kill you."** (Luke 13:31 ULB) \\ 
+    * "Shortly after, some Pharisees came and said to him, "Go and leave here because __King Herod__ wants to kill you." \\ 
+
+
+2. If readers need to understand the meaning of a name in order to understand what is said about it, copy the name and tell about its meaning either in the text or in a footnote.
+
+  * **"She named him __Moses__ and said, "Because I drew him from the water." "** (Exodus 2:11 ULB) \\ 
+    * "She named him Moses, __ "which sounds like 'drawn out'”__ and said, "Because I drew him from the water." \\ 
+
+3.  Or if readers need to understand the meaning of a name in order to understand what is said about it, and that name is used only once, translate the meaning of the name.\\ 
+**she said, "Do I really continue to see, even after he has seen me?"  Therefore the well was called __Beerlahairoi__;** (Genesis 16:13-14 ULB) \\ 
  she said, "Do I really continue to see, even after he has seen me?"  Therefore the well was called __Well of the One who sees me__."
 
-3.	If the name is used for its meaning but then becomes a name used elsewhere, give the name and the meaning. \\ 
-**She named him __Moses__ and said, Because I drew him from the water.** (Exodus 2:11 ULB) \\ 
-She named him Moses, __“meaning drawn out”__ and said, Because I drew him from the water. \\ 
+4. If a person or place has two different names, use one name all of the time and write a footnote when the source text uses the name that is used less frequently.  
+  * **a young man named Saul** (Acts 7:58 ULB) 
+    * "a young man named Paul** 
+        * Most versions say Saul, but most of the time in the Bible he is called Paul.
 
-4.	If some person, place or thing may have two different names, use one throughout and put a footnote for the other or when the name changes make it clear that this  is the same person or place as the former named person or place. \\ 
-** __Saul__ was in agreement with his death** (Acts 8:1 ULB) \\ 
-** It came about in Iconium that __Paul__ and Barnabas entered together into the synagogue** (Acts 14:1 ULB) \\ 
-Saul and Paul are the same person. Acts 8:1 could be translated “__Paul__ was in agreement with his death.” \\ 
+5. Or if a person or place has two names, use whatever name is given in the source text, and add a footnote that explains who or what the name refers to.
 
-5. If some information needed to understand the passage is missing, supply that information. \\ 
-**Shortly after, some Pharisees came and said to him, "Go and leave here because __Herod__ wants to kill you."** (Luke 13:31 ULB) \\ 
-Shortly after, some Pharisees came and said to him, "Go and leave here because __King Herod__ wants to kill you." \\ 
+  * **a young man named Saul** (Acts 7:58 ULB) 
+    * "a young man named Saul** 
+
+  * **But Saul, who is also called Paul, was filled with the Holy Spirit; (Acts 13:9 ULB)
+
+  * ** It came about in Iconium that __Paul__ and Barnabas entered together into the synagogue** (Acts 14:1 ULB) \\ 
+
+
+
+//Next we suggest you read//
+  * //[[en:ta:vol1:translate:translate_transliterate]]//
 
 ----
 https://pad.door43.org/p/ta-translate_names
