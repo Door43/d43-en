@@ -15,7 +15,7 @@ Use the plain-text edit editor to insert USFM text between the HTML tags in the 
 \s5
 \m
 \v 4 One day Yahweh gave me this message,
-\pi 
+\pi \mi
 \v 5 "I knew you before I finished forming you in your mother's womb. I set you apart for my honor before you were born, and I appointed you to be my prophet for all the nations."
 \m 
 \v 6 I replied,
