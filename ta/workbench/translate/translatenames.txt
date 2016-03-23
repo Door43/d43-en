@@ -1,21 +1,21 @@
 ====== How to Translate Names ======
 
-This page answers the question: How can I translate names that are new to my culture?\\ 
+//This page answers the question: How can I translate names that are new to my culture?//
 
-In order to understand this page, it would be good to read:
-
+//In order to understand this page, it would be good to read://
   * [[:en:ta:vol1:translate:translate_unknown]]
 
 
 ==== Description ====
 
 The Bible has names of many people, groups of people, and places. All names have meaning. Most names in the Bible are used simply to identify the people and places. But some names are especially important because of their meaning.
+ 
+>It was this Melchizedek, king of Salem, priest of God Most High, who met Abraham returning from the slaughter of the kings. (John 12:12 ULB)
 
-Examples 
->It was this Melchizedek, king of Salem, priest of God Most High, who met Abraham returning from the slaughter of the kings. (John 12:12 ULB) \\
-Melchizedek is used here as a name of a man.  
+"Melchizedek" is a man's name. 
 
->His name "Melchizedek" means "king of righteousness," and also "king of Salem," that is, "king of peace. (Hebrews 7:2 ULB) \\ 
+>His name "Melchizedek" means "king of righteousness," and also "king of Salem," that is, "king of peace. (Hebrews 7:2 ULB)
+
 Here the author of the letter to the Hebrews explains the meanings of Melchizedek's name and title.
 
 === Reasons this is a translation issue ===  
@@ -27,16 +27,20 @@ Here the author of the letter to the Hebrews explains the meanings of Melchizede
 
 ==== Examples from the Bible ====
 
->You went over the __Jordan__ and came to __Jericho__. The leaders of Jericho fought against you, along with the __Amorites__ (Joshua 24:11 ULB) \\ 
+>You went over the __Jordan__ and came to __Jericho__. The leaders of Jericho fought against you, along with the __Amorites__ (Joshua 24:11 ULB)
+
 Readers might not know that "Jordan" is the name of a river, "Jericho" is the name of a city, and "Amorites" is the name of a group of people.
 
->she said, "Do I really continue to see, even after he has seen me?"  Therefore the well was called __Beerlahairoi__; (Genesis 16:13-14 ULB) \\ 
+>she said, "Do I really continue to see, even after he has seen me?"  Therefore the well was called __Beerlahairoi__; (Genesis 16:13-14 ULB)
+
 Readers may not understand the second sentence if they do not know that "Beerlahairoi" means "Well of the the  Living One who sees me."
 
 >She named him __Moses__ and said, "Because I drew him from the water." (Exodus 2:11 ULB)
+
 Readers may not understand why she said this if they do not know that the name Moses sounds like the Hebrew words "pull out."
 
 >__Saul__ was in agreement with his death (Acts 8:1 ULB)\\
+
 >It came about in Iconium that __Paul__ and Barnabas entered together into the synagogue (Acts 14:1 ULB) \\ 
 
 Readers may not know that the names Saul and Paul refer to the same person.
@@ -52,35 +56,35 @@ Readers may not know that the names Saul and Paul refer to the same person.
 
 ==== Examples of Translation Strategies Applied ==== 
 1. If readers cannot easily understand from the context what kind of a thing a name refers to, you can add a word to clarify it.
-  * **You went over the __Jordan__ and came to __Jericho__. The leaders of Jericho fought against you, along with the __Amorites__** (Joshua 24:11 ULB) \\ 
+  * **You went over the __Jordan__ and came to __Jericho__. The leaders of Jericho fought against you, along with the __Amorites__** (Joshua 24:11 ULB) 
     * “You went over the __Jordan River __ and came to the city of Jericho. The leaders of Jericho fought against you, along with __the tribe of the Amorites__” 
 
-  * **Shortly after, some Pharisees came and said to him, "Go and leave here because __Herod__ wants to kill you."** (Luke 13:31 ULB) \\ 
-    * "Shortly after, some Pharisees came and said to him, "Go and leave here because __King Herod__ wants to kill you." \\ 
+  * **Shortly after, some Pharisees came and said to him, "Go and leave here because __Herod__ wants to kill you."** (Luke 13:31 ULB) 
+    * "Shortly after, some Pharisees came and said to him, "Go and leave here because __King Herod__ wants to kill you." 
 
 
 2. If readers need to understand the meaning of a name in order to understand what is said about it, copy the name and tell about its meaning either in the text or in a footnote.
 
-  * **"She named him __Moses__ and said, "Because I drew him from the water." "** (Exodus 2:11 ULB) \\ 
-    * "She named him Moses, __ "which sounds like 'drawn out'”__ and said, "Because I drew him from the water." \\ 
+  * **She named him __Moses__ and said, "Because I drew him from the water."** (Exodus 2:11 ULB) 
+    * "She named him Moses, __ "which sounds like 'drawn out'”__ and said, "Because I drew him from the water." 
 
-3.  Or if readers need to understand the meaning of a name in order to understand what is said about it, and that name is used only once, translate the meaning of the name.\\ 
-**she said, "Do I really continue to see, even after he has seen me?"  Therefore the well was called __Beerlahairoi__;** (Genesis 16:13-14 ULB) \\ 
- she said, "Do I really continue to see, even after he has seen me?"  Therefore the well was called __Well of the One who sees me__."
+3.  Or if readers need to understand the meaning of a name in order to understand what is said about it, and that name is used only once, translate the meaning of the name.
+  * **she said, "Do I really continue to see, even after he has seen me?"  Therefore the well was called __Beerlahairoi__;** (Genesis 16:13-14 ULB) 
+    * "she said, "Do I really continue to see, even after he has seen me?"  Therefore the well was called __Well of the One who sees me__;" "
 
 4. If a person or place has two different names, use one name all of the time and write a footnote when the source text uses the name that is used less frequently.  
   * **a young man named Saul** (Acts 7:58 ULB) 
-    * "a young man named Paul** 
-        * Most versions say Saul, but most of the time in the Bible he is called Paul.
+    * "a young man named Paul"<sup>1</sup>  
+    * <sup>1</sup>Most versions say Saul, but most of the time in the Bible he is called Paul.
 
 5. Or if a person or place has two names, use whatever name is given in the source text, and add a footnote that explains who or what the name refers to.
 
   * **a young man named Saul** (Acts 7:58 ULB) 
-    * "a young man named Saul** 
+    * "a young man named Saul" 
 
-  * **But Saul, who is also called Paul, was filled with the Holy Spirit; (Acts 13:9 ULB)
-
-  * ** It came about in Iconium that __Paul__ and Barnabas entered together into the synagogue** (Acts 14:1 ULB) \\ 
+  * **It came about in Iconium that __Paul__ and Barnabas entered together into the synagogue** (Acts 14:1 ULB)
+    * "It came about in Iconium that __Paul__<sup>1</sup> and Barnabas entered together into the synagogue" (Acts 14:1 ULB)
+    * <sup>1</sup>This is the man that was called Saul earlier in Acts.
 
 
 
