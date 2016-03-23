@@ -27,21 +27,21 @@ There are several ways to write translation notes. We would like them to fit int
 
 Simple definitions of words or phrases can be added without quotes or sentence format.
 
-  * **marketplace**  - a large, open-air area where people would come to sell their goods
-  * **flute**  - a long, hollow musical instrument that is played by blowing air in or over one end
-  * **kings' palaces**  - a large, expensive house that a king lives in
+  * **marketplace** - a large, open-air area where people would come to sell their goods
+  * **flute** - a long, hollow musical instrument that is played by blowing air in or over one end
+  * **kings' palaces** - a large, expensive house that a king lives in
 === Explanations ===
 
 Simple explanations about words or phrases should be in sentence format.
 
-  * **washing their nets**  - They were cleaning their fishing nets in order to use them again to catch fish.
-  * **motioned**  - They were too far from shore to call, so they made gestures, probably waving their arms.
+  * **washing their nets** - They were cleaning their fishing nets in order to use them again to catch fish.
+  * **motioned** - They were too far from shore to call, so they made gestures, probably waving their arms.
 
 === Synonyms and Equivalent Phrases ===
 
 Synonyms and equivalent phrases should simply be written in double quotes. They do not need to be full sentences and should not normally be punctuated. However, if they are followed by another sentence, they should have a final period to set them off from the following sentence.
 
-  * **the way**  - "the path" or "the road"
+  * **the way** - "the path" or "the road"
   * **He went out** - “Moses went out”
   * **feared God** - "revered God" or "had reverence for God"
 
@@ -49,16 +49,16 @@ Synonyms and equivalent phrases should simply be written in double quotes. They 
 
 Insert "AT:" before alternate translations that suggest changes to the form or content of the ULB because of the limitations of some languages. Examples include added implicit information, changing passive voice to active, and stating rhetorical questions as statements. The "AT:" indicates that this alternate translation should be used when the ULB form or content will not fit into a language. 
 
-  * **see the salvation of God**  - AT: "learn about how God saves people from sin"
-  * **Follow me**  - AT: “Be my disciple” or “Come, follow me as your teacher”
-  * **do likewise**  - "do the same thing." AT: "give food to someone who does not have any."
+  * **see the salvation of God** - AT: "learn about how God saves people from sin"
+  * **Follow me** - AT: “Be my disciple” or “Come, follow me as your teacher”
+  * **do likewise** - "do the same thing." AT: "give food to someone who does not have any."
 
 === Translation Suggestion from the UDB ===
 
 If the UDB provides a good translation that clarifies what is in the ULB, it is normally not necessary to include a note. However, on occasion it may be helpful to write a note or translation suggestion and also include text from the UDB. In that case, append "(UDB)" after the text from the UDB before the period as below:
 
-  * **implored him**  - "begged him" or "pleaded with him" (UDB)
-  * **he fell on his face**  - "he bowed down to the ground" (UDB) or "he knelt and touched the ground with his face"
+  * **implored him** - "begged him" or "pleaded with him" (UDB)
+  * **he fell on his face** - "he bowed down to the ground" (UDB) or "he knelt and touched the ground with his face"
   * **the sons of Heth** - “the descendants of Heth” (UDB). AT: “the Hittites.” (See: Translate Names)
 
 Please do not write notes that only say "See UDB."
@@ -75,7 +75,7 @@ If the meaning is given as an explanation, do not put it in quotes.
 
 If the meaning is given in a way that can be used as a translation, put it in quotes. 
 
-  * **fell down at Jesus' knees**  - Possible meanings are 1) "bowed down at Jesus' feet" or 2) "lay down on the ground at Jesus' feet" or 3) "knelt down before Jesus." Peter did not fall accidentally. He did this as a sign of humility and respect for Jesus.
+  * **fell down at Jesus' knees** - Possible meanings are 1) "bowed down at Jesus' feet" or 2) "lay down on the ground at Jesus' feet" or 3) "knelt down before Jesus." Peter did not fall accidentally. He did this as a sign of humility and respect for Jesus.
 
 === Ellipses "..." ===
 
@@ -102,29 +102,29 @@ If there is a Translation Academy page that deals with a figure of speech, you c
 
 When adding the option for a direct quote, preface the alternate with "This can be translated as a direct quote:" followed by the new phrase.
 
-  * **to tell no one**  - This can be translated as a direct quote: "Do not tell anyone." The implied information is "that you have been healed." (See: Speech Quotations, Explicit and Implicit)
+  * **to tell no one** - This can be translated as a direct quote: "Do not tell anyone." The implied information is "that you have been healed." (See: Speech Quotations, Explicit and Implicit)
 
 === Explanation of Source Language ===
 
 In general, we want to downplay the original languages because most of the users of the notes will not have had any training in them. This does not mean we avoid the content. Rather, we should look for simple ways to express it. When possible, use plain-language explanations in English.
 
-  * **sinful man**  - The word here for "man" means "adult male" and not the more general "human being."
-  * **Master**  - The word that is translated here as “Master” is not the normal word for “Master.” This one refers to someone who has authority, and not to someone who owns someone else. AT: "Boss" or "Foreman" or use a word that is commonly used to address a person in authority, such as “Sir.”
+  * **sinful man** - The word here for "man" means "adult male" and not the more general "human being."
+  * **Master** - The word that is translated here as “Master” is not the normal word for “Master.” This one refers to someone who has authority, and not to someone who owns someone else. AT: "Boss" or "Foreman" or use a word that is commonly used to address a person in authority, such as “Sir.”
 
 === Multiple Notes on Long Phrases ===
 
 Sometimes we need notes for a phrase and separate notes for portions of that phrase. In that case, we list the larger phrase first, and its parts afterward, unless there is a compelling reason to reverse them.
 
-  * **you say, 'Behold, he is a gluttonous man**  - This can be translated as an indirect quote: "you say that he is a gluttonous man" or "you accuse him of being a gluttonous man."
-  * **he is a gluttonous man**  - "he is a greedy eater" or "he habitually eats too much food"
+  * **you say, 'Behold, he is a gluttonous man** - This can be translated as an indirect quote: "you say that he is a gluttonous man" or "you accuse him of being a gluttonous man."
+  * **he is a gluttonous man** - "he is a greedy eater" or "he habitually eats too much food"
 
 === Repeated Phrases in a Book ===
 
 Sometimes a phrase is used multiple times in a book. We can make it easier for the translators by reminding them of where they have already translated that phrase so they can translate it the same way. We point them back to notes only in the book they are working on.
 
-  * **be fruitful and multiply**  - See how you translated these commands in [[:en:bible:notes:gen:01:28|1:28]]
-  * **everything that creeps along the ground**  - This includes all types of small animals. See how you translated this in [[:en:bible:notes:gen:01:24|1:25]].
-  * **will be blessed in him**  - AT: "will be blessed because of Abraham" or "will be blessed because I have blessed Abraham." For translating "in him," see how you translated "through you" in [[:en:bible:notes:gen:12:01|12:3]].
+  * **be fruitful and multiply** - See how you translated these commands in [[:en:bible:notes:gen:01:28|1:28]]
+  * **everything that creeps along the ground** - This includes all types of small animals. See how you translated this in [[:en:bible:notes:gen:01:24|1:25]].
+  * **will be blessed in him** - AT: "will be blessed because of Abraham" or "will be blessed because I have blessed Abraham." For translating "in him," see how you translated "through you" in [[:en:bible:notes:gen:12:01|12:3]].
 
 
 === Connecting Statement & General Statement (under development) ===
@@ -137,7 +137,7 @@ There are two special types of notes that contain fixed text for the ULB phrase.
   * **Connecting Statement:** - [explanation]
   * **General Statement:** - [explanation]
   [blank line]
-  * **[Phrase]**  - [Explanation]
+  * **[Phrase]** - [Explanation]
 </code>
 
   * **Connecting Statement:** - Luke explains why he is writing to Theophilus.
