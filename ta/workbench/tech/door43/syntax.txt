@@ -119,3 +119,9 @@ So a tag syntax for two tags would be {{tag>tag1 tag2}}
 {{tag>tag1 tag2}}
 
 === END OF PAGE ===
+
+
+----
+https://pad.door43.org/p/ta-d43_formatting
+
+{{tag>epday}}
