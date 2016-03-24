@@ -5,9 +5,9 @@
 //In order to understand this topic, it would be good to read://
   * //[[en:ta:vol2:tech:tsd_intro|translationStudio Desktop Introduction]]//
   * //[[en:ta:vol2:tech:tsd_install|translationStudio Desktop Installation]]//
-  * //[[en:ta:vol2:gateway:gl_notes|Translate the translationNotes]]//
+  * //[[en:ta:vol3:gateway:gl_notes|Translate the translationNotes]]//
 
-Have you read the information in the article on [[en:ta:vol2:gateway:gl_notes]]? It is **very important** to understand the guidelines before translating the translationNotes.
+Have you read the information in the article on [[en:ta:vol3:gateway:gl_notes]]? It is **very important** to understand the guidelines before translating the translationNotes.
 
 This module explains the steps to translating the translationNotes using translationStudio-Desktop.
 

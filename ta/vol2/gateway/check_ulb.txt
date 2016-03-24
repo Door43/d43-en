@@ -5,8 +5,6 @@
 //In order to understand this topic, it would be good to read://
   * //[[en:ta:vol2:checking:vol2_steps|Steps in Checking a Translation]]//
   * //[[en:ta:vol2:checking:vol2_things_to_check|Types of Things to Check]]//
-  * //[[en:ta:vol2:gateway:gl_adaptulb|Adapt the ULB]]//
-  * //[[en:ta:vol2:gateway:gl_ulb|Translating the ULB]]//
 
 When checking the ULB, remember that the ULB needs to retain the original grammatical forms (as far as possible), the idioms, and the figures of speech of the original so that the OL translator can consider them and use them if they communicate the right thing in the target language. If those forms get changed in a Gateway Language (GL) translation of the ULB, then the OL translator will never see them and the Notes about them will not make sense. 
 
@@ -23,7 +21,6 @@ It is not necessary to check the ULB for naturalness with speakers of the Gatewa
 
 
 //Next we recommend you learn about://
-  * //[[en:ta:vol2:gateway:gl_notes|Translate the translationNotes]]//
   * //[[en:ta:vol2:gateway:check_udb|Checking the UDB]]//
   * //[[en:ta:vol2:gateway:check_notes|Checking the translationNotes]]//
 

@@ -5,9 +5,9 @@
 //In order to understand this topic, it would be good to read://
   * //[[en:ta:vol2:tech:tsd_intro|translationStudio Desktop Introduction]]//
   * //[[en:ta:vol2:tech:tsd_install|translationStudio Desktop Installation]]//
-  * //[[en:ta:vol2:gateway:gl_words|Translate the translationWords]]//
+  * //[[en:ta:vol3:gateway:gl_words|Translate the translationWords]]//
 
-Have you read the information in the article on [[en:ta:vol2:gateway:gl_words]]? It is very important to understand the guidelines before translating the translationWords. There is also very important information on decisions that need to be made during the translation process.
+Have you read the information in the article on [[en:ta:vol3:gateway:gl_words]]? It is very important to understand the guidelines before translating the translationWords. There is also very important information on decisions that need to be made during the translation process.
 
 This module explains the steps to translating the translationWords using translationStudio-Desktop.
 
