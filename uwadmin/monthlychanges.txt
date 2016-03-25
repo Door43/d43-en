@@ -525,6 +525,8 @@
 {{changes>ns=ur-deva:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:vaa:obs|vaa OBS]]**
 {{changes>ns=vaa:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
+**[[:vgt:obs|vgt OBS]]**
+{{changes>ns=vgt:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:vi:obs|vi OBS]]**
 {{changes>ns=vi:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:vmz:obs|vmz OBS]]**

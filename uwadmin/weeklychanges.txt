@@ -787,6 +787,9 @@
 **[[:vaa:obs|vaa OBS]]**
 {{changes>ns=vaa:obs&maxage=604800&render=pagelist(header,date,user,nocomments)}}
 
+**[[:vgt:obs|vgt OBS]]**
+{{changes>ns=vgt:obs&maxage=604800&render=pagelist(header,date,user,nocomments)}}
+
 **[[:vi:obs|vi OBS]]**
 {{changes>ns=vi:obs&maxage=604800&render=pagelist(header,date,user,nocomments)}}
 

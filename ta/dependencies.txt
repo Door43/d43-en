@@ -151,6 +151,11 @@ edge [arrowsize=1.4];
 "vol2_things_to_check" -> "check_ULB"
 "gl_adaptULB" -> "check_ULB"
 "gl_ULB" -> "check_ULB"
+"gl_Academy" [fillcolor="#cccccc"]
+"ta_intro" -> "gl_Academy"
+"gl_strategy" -> "gl_Academy"
+"gl_Notes" -> "gl_Academy"
+"gl_ULB" -> "gl_Academy"
 "gl_Notes" [fillcolor="#cccccc"]
 "gl_adaptULB" -> "gl_Notes"
 "gl_ULB" -> "gl_Notes"
@@ -481,8 +486,22 @@ edge [arrowsize=1.4];
 "Technology" -> "audio_waveform_editor"
 "audio_workspace_layout" [fillcolor="#99ffff"]
 "Technology" -> "audio_workspace_layout"
+"d43_ckgedit" [fillcolor="#99ffff"]
+"d43_translateOBS" -> "d43_ckgedit"
+"d43_create" [fillcolor="#99ffff"]
+"d43_getstarted" -> "d43_create"
+"d43_editpage" [fillcolor="#99ffff"]
+"d43_translateOBS" -> "d43_editpage"
+"d43_findlanguage" [fillcolor="#99ffff"]
+"d43_getstarted" -> "d43_findlanguage"
+"d43_formatting" [fillcolor="#99ffff"]
+"d43_translateOBS" -> "d43_formatting"
+"d43_getstarted" [fillcolor="#99ffff"]
+"Technology" -> "d43_getstarted"
 "d43_intro" [fillcolor="#99ffff"]
 "Technology" -> "d43_intro"
+"d43_switcheditors" [fillcolor="#99ffff"]
+"d43_translateOBS" -> "d43_switcheditors"
 "d43_translateOBS" [fillcolor="#99ffff"]
 "d43_intro" -> "d43_translateOBS"
 "excellence_in_audio" [fillcolor="#99ffff"]
