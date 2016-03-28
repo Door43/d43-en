@@ -31,12 +31,12 @@
 
 ===== translationWords: =====
 
-  * [[en:obe:kt:brother]]
-  * [[en:obe:kt:cross]]
-  * [[en:obe:kt:christ]]
+  * [[:en:obe:kt:brother]]
+  * [[:en:obe:kt:cross]]
+  * [[:en:obe:kt:christ]]
   * [[:en:obe:other:destiny]]
-  * [[en:obe:kt:falsegod]]
-  * [[en:obe:kt:glory]]
+  * [[:en:obe:kt:falsegod]]
+  * [[:en:obe:kt:glory]]
 ===== Translation Notes: =====
 
   * **Brothers, join me** - Paul is expressing that he considers the Philippian believers his brothers in Christ.
@@ -53,7 +53,7 @@
 
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:php:03|Philippians Chapter 03 Comprehension Questions]]**
+  * **[[:en:bible:questions:comprehension:php:03|Philippians Chapter 03 Comprehension Questions]]**
 **[[:en:bible:notes:php:03:15|<<]] | [[:en:bible:notes:php:03:20|>>]]**
 
 ~~DISCUSSION~~{{tag>publish }}
