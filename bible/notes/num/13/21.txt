@@ -24,9 +24,9 @@
 
 ===== translationWords: =====
 
-  * [[:en:obe:other:desert]]
-  * [[:en:obe:other:hamath]]
-  * [[:en:obe:other:negev]]
+  * [[en:obe:other:desert]]
+  * [[en:obe:other:hamath]]
+  * [[en:obe:other:negev]]
   * [[:en:obe:other:hebron]]
   * [[:en:obe:other:clan]]
   * [[:en:obe:other:egypt]]
@@ -34,7 +34,7 @@
 ===== Translation Notes: =====
 
   * **Sin...Rehob...Zoan** - These are names of places. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **Hebron had been built seven years before Zoan in Egypt** - AT: "the Canaanites had built Hebron 7 years before the Egyptians built Zoan" (See: [[:en:obe:other:biblicaltimeyear]] and [[:en:ta:vol2:translate:figs_activepassive]] and [[:en:ta:vol2:translate:translate_numbers]])
+  * **Hebron had been built seven years before Zoan in Egypt** - AT: "the Canaanites had built Hebron 7 years before the Egyptians built Zoan" (See: [[en:obe:other:biblicaltimeyear]] and [[:en:ta:vol2:translate:figs_activepassive]] and [[:en:ta:vol2:translate:translate_numbers]])
   * **Ahiman...Sheshai...Talmai...Anak** - These are names of men who had clans named after them. (See: [[:en:ta:vol1:translate:translate_names]])
 
 ===== Links: =====
