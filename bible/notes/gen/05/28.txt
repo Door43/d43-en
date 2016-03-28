@@ -27,10 +27,10 @@
 
 
 ===== translationWords: =====
-  * [[en:obe:other:lamech]]
-  * [[en:obe:other:father]]
-  * [[en:obe:other:noah]]
-  * [[en:obe:kt:curse]]
+  * [[:en:obe:other:lamech]]
+  * [[:en:obe:other:father]]
+  * [[:en:obe:other:noah]]
+  * [[:en:obe:kt:curse]]
 ===== Translation Notes: =====
 
   * **became the father of a son** - "had a son"
@@ -39,7 +39,7 @@
 
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:gen:05|Genesis Chapter 05 Comprehension Questions]]**
+  * **[[:en:bible:questions:comprehension:gen:05|Genesis Chapter 05 Comprehension Questions]]**
 **[[:en:bible:notes:gen:05:25|<<]] | [[:en:bible:notes:gen:05:30|>>]]**
 
 ~~DISCUSSION~~{{tag>publish lamech}}
