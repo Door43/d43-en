@@ -28,14 +28,14 @@
 ===== translationWords: =====
 
   * [[:en:obe:other:prince]]
-  * [[:en:obe:other:burntoffering]]
-  * [[:en:obe:other:grainoffering]]
-  * [[:en:obe:other:drinkoffering]]
-  * [[:en:obe:other:festival]]
+  * [[en:obe:other:burntoffering]]
+  * [[en:obe:other:grainoffering]]
+  * [[en:obe:other:drinkoffering]]
+  * [[en:obe:other:festival]]
   * [[:en:obe:other:newmoon]]
   * [[:en:obe:kt:sabbath]]
-  * [[:en:obe:other:peaceoffering]]
-  * [[:en:obe:kt:atonement]]
+  * [[en:obe:other:peaceoffering]]
+  * [[en:obe:kt:atonement]]
 
 ===== Translation Notes: =====
 
@@ -45,7 +45,7 @@ Yahweh continues giving Ezekiel his message to the princes of Israel.
   
 ===== Links: =====
 
-  * **[[:en:bible:questions:comprehension:ezk:45|Ezekiel Chapter 45 Comprehension Questions]]**
+  * **[[en:bible:questions:comprehension:ezk:45|Ezekiel Chapter 45 Comprehension Questions]]**
 **[[:en:bible:notes:ezk:45:13|<<]] | [[:en:bible:notes:ezk:45:18|>>]]**
 
 ~~DISCUSSION~~{{tag>publish}}

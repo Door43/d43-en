@@ -44,16 +44,16 @@
 
 ===== translationWords: =====
 
-  * [[:en:obe:other:ax]]
-  * [[:en:obe:kt:fruit]]
-  * [[:en:obe:other:fire]]
-  * [[:en:obe:kt:baptize]]
-  * [[:en:obe:kt:repent]]
-  * [[:en:obe:kt:holyspirit]]
-  * [[:en:obe:other:winnow]]
-  * [[:en:obe:other:thresh]]
-  * [[:en:obe:other:wheat]]
-  * [[:en:obe:other:chaff]]
+  * [[en:obe:other:ax]]
+  * [[en:obe:kt:fruit]]
+  * [[en:obe:other:fire]]
+  * [[en:obe:kt:baptize]]
+  * [[en:obe:kt:repent]]
+  * [[en:obe:kt:holyspirit]]
+  * [[en:obe:other:winnow]]
+  * [[en:obe:other:thresh]]
+  * [[en:obe:other:wheat]]
+  * [[en:obe:other:chaff]]
 
 ===== Translation Notes: =====
 
@@ -72,7 +72,7 @@ John the Baptist continues to preach.
 
 ===== Links: =====
 
-  * **[[:en:bible:questions:comprehension:mat:03|Matthew Chapter 03 Comprehension Questions]]**
+  * **[[en:bible:questions:comprehension:mat:03|Matthew Chapter 03 Comprehension Questions]]**
 **[[:en:bible:notes:mat:03:07|<<]] | [[:en:bible:notes:mat:03:13|>>]]**
 
 ~~DISCUSSION~~{{tag>publish ax fire  winnow thresh wheat chaff }}

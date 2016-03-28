@@ -27,10 +27,10 @@
 
 ===== translationWords: =====
 
-  * [[:en:obe:other:abraham]]
-  * [[:en:obe:kt:lord]]
-  * [[:en:obe:kt:god]]
-  * [[:en:obe:other:tomb]]
+  * [[en:obe:other:abraham]]
+  * [[en:obe:kt:lord]]
+  * [[en:obe:kt:god]]
+  * [[en:obe:other:tomb]]
  
 
 ===== Translation Notes: =====
@@ -44,7 +44,7 @@
 
 ===== Links: =====
 
-  * **[[:en:bible:questions:comprehension:gen:23|Genesis Chapter 23 Comprehension Questions]]**
+  * **[[en:bible:questions:comprehension:gen:23|Genesis Chapter 23 Comprehension Questions]]**
 **[[:en:bible:notes:gen:23:03|<<]] | [[:en:bible:notes:gen:23:07|>>]]**
 
 ~~DISCUSSION~~{{tag>publish tomb}}

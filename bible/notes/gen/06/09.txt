@@ -32,11 +32,11 @@
 
 ===== translationWords: =====
 
-  * [[:en:obe:kt:righteous]]
-  * [[:en:obe:kt:blameless]]
-  * [[:en:obe:other:shem]]
-  * [[:en:obe:other:ham]]
-  * [[:en:obe:other:japheth]]
+  * [[en:obe:kt:righteous]]
+  * [[en:obe:kt:blameless]]
+  * [[en:obe:other:shem]]
+  * [[en:obe:other:ham]]
+  * [[en:obe:other:japheth]]
  
 
 ===== Translation Notes: =====
@@ -48,7 +48,7 @@
 
 ===== Links: =====
 
-  * **[[:en:bible:questions:comprehension:gen:06|Genesis Chapter 06 Comprehension Questions]]**
+  * **[[en:bible:questions:comprehension:gen:06|Genesis Chapter 06 Comprehension Questions]]**
 **[[:en:bible:notes:gen:06:07|<<]] | [[:en:bible:notes:gen:06:11|>>]]**
 
 ~~DISCUSSION~~{{tag>publish  shem ham japheth}}

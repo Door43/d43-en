@@ -30,13 +30,13 @@
 
 ===== translationWords: =====
 
-  * [[:en:obe:kt:angel]]
-  * [[:en:obe:kt:yahweh]]
-  * [[:en:obe:other:abraham]]
-  * [[:en:obe:kt:heaven]]
-  * [[:en:obe:other:oath]]
-  * [[:en:obe:kt:bless]]
-  * [[:en:obe:other:descendant]]
+  * [[en:obe:kt:angel]]
+  * [[en:obe:kt:yahweh]]
+  * [[en:obe:other:abraham]]
+  * [[en:obe:kt:heaven]]
+  * [[en:obe:other:oath]]
+  * [[en:obe:kt:bless]]
+  * [[en:obe:other:descendant]]
  
 ===== Translation Notes: =====
 
@@ -55,7 +55,7 @@
 
 ===== Links: =====
 
-  * **[[:en:bible:questions:comprehension:gen:22|Genesis Chapter 22 Comprehension Questions]]**
+  * **[[en:bible:questions:comprehension:gen:22|Genesis Chapter 22 Comprehension Questions]]**
 **[[:en:bible:notes:gen:22:13|<<]] | [[:en:bible:notes:gen:22:18|>>]]**
 
 ~~DISCUSSION~~{{tag>publish}}

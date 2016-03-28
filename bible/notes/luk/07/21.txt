@@ -35,19 +35,19 @@
 ===== translationWords: =====
 
 
-    * [[:en:obe:kt:hour]]
+    * [[en:obe:kt:hour]]
     * [[:en:obe:other:heal]]
-    * [[:en:obe:kt:afflict]]
-    * [[:en:obe:kt:demon]]
-    * [[:en:obe:other:Johnthebaptist]]
-    * [[:en:obe:other:leprosy]]
-    * [[:en:obe:kt:clean]]
-    * [[:en:obe:kt:death]]
-    * [[:en:obe:kt:raise]]
-    * [[:en:obe:kt:life]]
-    * [[:en:obe:kt:goodnews]]
-    * [[:en:obe:kt:believe]]
-    * [[:en:obe:kt:bless]]
+    * [[en:obe:kt:afflict]]
+    * [[en:obe:kt:demon]]
+    * [[en:obe:other:Johnthebaptist]]
+    * [[en:obe:other:leprosy]]
+    * [[en:obe:kt:clean]]
+    * [[en:obe:kt:death]]
+    * [[en:obe:kt:raise]]
+    * [[en:obe:kt:life]]
+    * [[en:obe:kt:goodnews]]
+    * [[en:obe:kt:believe]]
+    * [[en:obe:kt:bless]]
 
 ===== Translation Notes: =====
 
@@ -63,7 +63,7 @@
 
 ===== Links: =====
 
-  * **[[:en:bible:questions:comprehension:luk:07|Luke Chapter 07 Comprehension Questions]]**
+  * **[[en:bible:questions:comprehension:luk:07|Luke Chapter 07 Comprehension Questions]]**
 **[[:en:bible:notes:luk:07:18|<<]] | [[:en:bible:notes:luk:07:24|>>]]**
 
 ~~DISCUSSION~~{{tag>publish  raise}}

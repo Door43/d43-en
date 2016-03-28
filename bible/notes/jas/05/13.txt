@@ -28,16 +28,16 @@
 ===== translationWords: =====
 
   * [[:en:obe:kt:suffer]]
-  * [[:en:obe:other:pray]]
+  * [[en:obe:other:pray]]
   * [[:en:obe:other:praise]]
   * [[:en:obe:other:elder]]
   * [[:en:obe:kt:church]]
   * [[:en:obe:kt:anoint]]
   * [[:en:obe:other:oil]]
-  * [[:en:obe:kt:name]]
-  * [[:en:obe:kt:lordgod]]
+  * [[en:obe:kt:name]]
+  * [[en:obe:kt:lordgod]]
   * [[:en:obe:kt:faith]]
-  * [[:en:obe:kt:sin]]
+  * [[en:obe:kt:sin]]
   * [[:en:obe:kt:god]]
   * [[:en:obe:kt:forgive]]
 
@@ -50,7 +50,7 @@
 
 ===== Links: =====
 
-  * **[[:en:bible:questions:comprehension:jas:05|James Chapter 05 Comprehension Questions]]**
+  * **[[en:bible:questions:comprehension:jas:05|James Chapter 05 Comprehension Questions]]**
 **[[:en:bible:notes:jas:05:12|<<]] | [[:en:bible:notes:jas:05:16|>>]]**
 
 ~~DISCUSSION~~{{tag>publish  anoint}}

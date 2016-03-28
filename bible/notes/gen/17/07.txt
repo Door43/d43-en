@@ -28,12 +28,12 @@
 
 ===== translationWords: =====
 
-  * [[:en:obe:kt:covenant]]
-  * [[:en:obe:other:descendant]]
-  * [[:en:obe:other:generation]]
-  * [[:en:obe:kt:eternity]]
-  * [[:en:obe:kt:god]]
-  * [[:en:obe:other:canaan]]
+  * [[en:obe:kt:covenant]]
+  * [[en:obe:other:descendant]]
+  * [[en:obe:other:generation]]
+  * [[en:obe:kt:eternity]]
+  * [[en:obe:kt:god]]
+  * [[en:obe:other:canaan]]
 ===== Translation Notes: =====
 
 God continues speaking to Abraham.
@@ -45,7 +45,7 @@ God continues speaking to Abraham.
 
 ===== Links: =====
 
-  * **[[:en:bible:questions:comprehension:gen:17|Genesis Chapter 17 Comprehension Questions]]**
+  * **[[en:bible:questions:comprehension:gen:17|Genesis Chapter 17 Comprehension Questions]]**
 **[[:en:bible:notes:gen:17:03|<<]] | [[:en:bible:notes:gen:17:09|>>]]**
 
 ~~DISCUSSION~~{{tag>publish covenant generation eternity  }}

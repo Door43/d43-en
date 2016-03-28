@@ -37,13 +37,13 @@
   * [[:en:obe:other:esau]]
   * [[:en:obe:kt:brother]]
   * [[:en:obe:other:jacob]]
-  * [[:en:obe:kt:favor]]
-  * [[:en:obe:other:hand]]
-  * [[:en:obe:kt:face]]
+  * [[en:obe:kt:favor]]
+  * [[en:obe:other:hand]]
+  * [[en:obe:kt:face]]
 
 ===== Translation Notes: =====
 
-  * **I have enough** - This can be made more explicit: "I have enough property." (See: [[:en:ta:vol1:translate:figs_explicit]]).
+  * **I have enough** - This can be made more explicit: "I have enough property." (See: [[en:ta:vol1:translate:figs_explicit]]).
   * **if I have found favor in your sight** - "if you are pleased with me." AT: "since you are pleased with me."
   * **my gift from my hand** - "this gift that I am giving to you"
   * **for indeed** - This can be translated as a new sentence: "For certainly"
@@ -53,7 +53,7 @@
   
 ===== Links: =====
 
-  * **[[:en:bible:questions:comprehension:gen:33|Genesis Chapter 33 Comprehension Questions]]**
+  * **[[en:bible:questions:comprehension:gen:33|Genesis Chapter 33 Comprehension Questions]]**
 **[[:en:bible:notes:gen:33:06|<<]] | [[:en:bible:notes:gen:33:12|>>]]**
 
 ~~DISCUSSION~~{{tag>publish face}}

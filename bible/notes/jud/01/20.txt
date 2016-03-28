@@ -31,15 +31,15 @@
 
 ===== translationWords: =====
 
-  * [[:en:obe:kt:beloved]]
-  * [[:en:obe:kt:holy]]
-  * [[:en:obe:kt:faith]]
-  * [[:en:obe:other:pray]]
-  * [[:en:obe:kt:holyspirit]]
-  * [[:en:obe:kt:love]]
-  * [[:en:obe:kt:god]]
-  * [[:en:obe:kt:mercy]]
-  * [[:en:obe:kt:eternity]]
+  * [[en:obe:kt:beloved]]
+  * [[en:obe:kt:holy]]
+  * [[en:obe:kt:faith]]
+  * [[en:obe:other:pray]]
+  * [[en:obe:kt:holyspirit]]
+  * [[en:obe:kt:love]]
+  * [[en:obe:kt:god]]
+  * [[en:obe:kt:mercy]]
+  * [[en:obe:kt:eternity]]
 
 ===== Translation Notes: =====
 
@@ -47,7 +47,7 @@
   * **look for..** - "eagerly look forward to"
 ===== Links: =====
 
-  * **[[:en:bible:questions:comprehension:jud:01|Jude Chapter 01 Comprehension Questions]]**
+  * **[[en:bible:questions:comprehension:jud:01|Jude Chapter 01 Comprehension Questions]]**
 **[[:en:bible:notes:jud:01:17|<<]] | [[:en:bible:notes:jud:01:22|>>]]**
 
 ~~DISCUSSION~~{{tag>publish mgrjud}}

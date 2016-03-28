@@ -49,11 +49,11 @@ brother.
 ===== translationWords: =====
 
   * [[:en:obe:kt:evil]]
-  * [[:en:obe:other:fire]]
-  * [[:en:obe:other:devour]]
-  * [[:en:obe:other:angry]]
-  * [[:en:obe:kt:yahwehofhosts]]
-  * [[:en:obe:other:peoplegroup]]
+  * [[en:obe:other:fire]]
+  * [[en:obe:other:devour]]
+  * [[en:obe:other:angry]]
+  * [[en:obe:kt:yahwehofhosts]]
+  * [[en:obe:other:peoplegroup]]
   * [[:en:obe:kt:brother]]
 
 ===== Translation Notes: =====
@@ -63,7 +63,7 @@ brother.
 
 ===== Links: =====
 
-  * **[[:en:bible:questions:comprehension:isa:09|Isaiah Chapter 09 Comprehension Questions]]**
+  * **[[en:bible:questions:comprehension:isa:09|Isaiah Chapter 09 Comprehension Questions]]**
 **[[:en:bible:notes:isa:09:16|<<]] | [[:en:bible:notes:isa:09:20|>>]]**
 
 ~~DISCUSSION~~{{tag>publish}}

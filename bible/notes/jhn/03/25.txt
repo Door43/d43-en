@@ -28,14 +28,14 @@
 ===== translationWords: =====
 
   * [[:en:obe:other:jew]]
-  * [[:en:obe:kt:rabbi]]
+  * [[en:obe:kt:rabbi]]
   * [[:en:obe:other:jordanriver]]
  
 
 ===== Translation Notes: =====
 
 
-  * **Then there arose a dispute between some of John's disciples and a Jew** - "Then John's disciples and a Jew began to argue" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **Then there arose a dispute between some of John's disciples and a Jew** - "Then John's disciples and a Jew began to argue" (See: [[en:ta:vol2:translate:figs_activepassive]])
   * **there arose a dispute** - "an argument began" or "a dispute started"  
   * **a dispute** - a fight using words
   * **see, he is baptizing** - In this phrase, "see" is a command meaning "pay attention!" Alternate Translation: "Look! He is baptizing" or "Look at that! He is baptizing"
@@ -43,7 +43,7 @@
   
 ===== Links: =====
 
-  * **[[:en:bible:questions:comprehension:jhn:03|John Chapter 03 Comprehension Questions]]**
+  * **[[en:bible:questions:comprehension:jhn:03|John Chapter 03 Comprehension Questions]]**
 **[[:en:bible:notes:jhn:03:22|<<]] | [[:en:bible:notes:jhn:03:27|>>]]**
 
 ~~DISCUSSION~~{{tag>publish jordanriver}}
