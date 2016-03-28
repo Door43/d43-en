@@ -77,6 +77,13 @@ Find mis-located closing bold asterisks
 {{door43pages @:en:bible:notes -r -q=" \*\*-" -exclude:home -simpleLineBreak -title -fontsize="90%"}}
 </code>
 
+
+Find possible missing AT: markers (places with ."[a-z]
+
+<code>
+{{door43pages @:en:bible:notes -r -q="[^ ]\x22[a-zA-z]" -exclude:home -simpleLineBreak -title -fontsize="90%"}}
+</code>
+
 ==== Activity: ====
 
 Code to display the activity of a user:
