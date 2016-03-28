@@ -28,12 +28,12 @@
 
 ===== translationWords: =====
 
-  * [[en:obe:other:glean]]
-  * [[en:obe:other:boaz]]
-  * [[en:obe:other:bethlehem]]
-  * [[en:obe:other:reap]]
-  * [[en:obe:kt:yahweh]]
-  * [[en:obe:kt:bless]]
+  * [[:en:obe:other:glean]]
+  * [[:en:obe:other:boaz]]
+  * [[:en:obe:other:bethlehem]]
+  * [[:en:obe:other:reap]]
+  * [[:en:obe:kt:yahweh]]
+  * [[:en:obe:kt:bless]]
 
 
 ===== Translation Notes: =====
@@ -43,7 +43,7 @@
 
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:rut:02|Ruth Chapter 02 Comprehension Questions]]**
+  * **[[:en:bible:questions:comprehension:rut:02|Ruth Chapter 02 Comprehension Questions]]**
 **[[:en:bible:notes:rut:02:01|<<]] | [[:en:bible:notes:rut:02:05|>>]]**
 
 ~~DISCUSSION~~{{tag>publish boaz}}
