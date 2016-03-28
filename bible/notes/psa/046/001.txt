@@ -59,12 +59,12 @@
 
 ===== translationWords: =====
 
-  * [[:en:obe:other:chief]]
+  * [[en:obe:other:chief]]
   * [[:en:obe:other:psalm]]
   * [[:en:obe:other:korah]]
   * [[:en:obe:kt:god]]
   * [[:en:obe:kt:refuge]]
-  * [[:en:obe:other:strength]]
+  * [[en:obe:other:strength]]
   * [[:en:obe:other:trouble]]
   * [[:en:obe:kt:fear]]
   * [[:en:obe:other:earth]]
@@ -73,7 +73,7 @@
   * [[:en:obe:other:selah]]
 
 ===== Translation Notes: =====
-See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]] 
+See: [[en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]] 
 
 This psalm is a song of praise.
 

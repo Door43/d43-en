@@ -48,13 +48,13 @@
 ===== translationWords: =====
 
   * [[:en:obe:other:psalm]]
-  * [[:en:obe:other:dedicate]]
+  * [[en:obe:other:dedicate]]
   * [[:en:obe:kt:temple]]
   * [[:en:obe:other:david]]
   * [[:en:obe:kt:exalt]]
   * [[:en:obe:kt:yahweh]]
   * [[:en:obe:kt:raise]]
-  * [[:en:obe:other:adversary]]
+  * [[en:obe:other:adversary]]
   * [[:en:obe:other:rejoice]]
   * [[:en:obe:kt:god]]
   * [[:en:obe:other:heal]]
@@ -65,7 +65,7 @@
 
 ===== Translation Notes: =====
 
-See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]]
+See: [[en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]]
 
   * **a song at the dedication of the temple** - "This song was sung when the temple was dedicated."
   * **A psalm of David** - "This is a psalm that David wrote."
