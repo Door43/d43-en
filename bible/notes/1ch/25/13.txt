@@ -52,20 +52,24 @@
 
 This continues the list begun in [[:en:bible:notes:1ch:25:09|1 Chronicles 25:9]].
 
+<<<<<<< HEAD
   * **sixth...ninth** - This shows the order in which the families were chosen. "number 6...number 7...number 8...number 9" (See: [[:en:ta:vol2:translate:translate_ordinal]] and [[:en:ta:vol2:translate:translate_numbers]])
+=======
+  * **sixth...ninth** - This shows the order in which the families were chosen. "number 6...number 7...number 8...number 9" (See: Ordinal Numbers and [[en:ta:vol2:translate:translate_numbers]])
+>>>>>>> parent of 08f2425... Merge pull request #56 from destatez/L2-1
   * **Bukkiah** - See how you translated this in [[:en:bible:notes:1ch:25:04|1 Chronicles 25:4]].
-  * **twelve persons** - "12 people" (See: [[:en:ta:vol2:translate:translate_numbers]])
+  * **twelve persons** - "12 people" (See: [[en:ta:vol2:translate:translate_numbers]])
   * **Jesharelah** - This is another spelling"Asharelah" in [[:en:bible:notes:1ch:25:01|1 Chronicles 25:2]].
   * **Jeshaiah** - See how you translated this in [[:en:bible:notes:1ch:25:01|1 Chronicles 25:3]].
   * **Mattaniah** - See how you translated this in [[:en:bible:notes:1ch:25:04|1 Chronicles 25:4]].
 
 ===== Links: =====
 
-  * **[[:en:bible:questions:comprehension:1ch:25|1 Chronicles Chapter 25 Comprehension Questions]]**
+  * **[[en:bible:questions:comprehension:1ch:25|1 Chronicles Chapter 25 Comprehension Questions]]**
 
  
 
-**[[:en:bible:notes:1ch:25:/|<<]] | [[:en:bible:notes:1ch:25:/|>>]]**
+**[[en/bible/notes/1ch/25/09|<<]] | [[en/bible/notes/1ch/25/17|>>]]**
 
 ~~DISCUSSION~~
 
