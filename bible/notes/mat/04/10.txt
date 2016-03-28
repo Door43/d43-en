@@ -35,13 +35,13 @@
 
 ===== translationWords: =====
 
-  * [[en:obe:kt:satan]]
-  * [[en:obe:other:written]]
-  * [[en:obe:kt:worship]]
-  * [[en:obe:kt:lord]]
-  * [[en:obe:kt:god]]
-  * [[en:obe:kt:minister]]
-  * [[en:obe:kt:angel]]
+  * [[:en:obe:kt:satan]]
+  * [[:en:obe:other:written]]
+  * [[:en:obe:kt:worship]]
+  * [[:en:obe:kt:lord]]
+  * [[:en:obe:kt:god]]
+  * [[:en:obe:kt:minister]]
+  * [[:en:obe:kt:angel]]
 
 ===== Translation Notes: =====
 
@@ -52,7 +52,7 @@ This continues the account of how Satan tempted Jesus.  This is the third time t
 
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:mat:04|Matthew Chapter 04 Comprehension Questions]]**
+  * **[[:en:bible:questions:comprehension:mat:04|Matthew Chapter 04 Comprehension Questions]]**
 **[[:en:bible:notes:mat:04:07|<<]] | [[:en:bible:notes:mat:04:12|>>]]**
 
 ~~DISCUSSION~~{{tag>publish minister}}
