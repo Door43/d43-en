@@ -32,10 +32,10 @@
 
 ===== translationWords: =====
 
-  * [[en:obe:other:abraham]]
-  * [[en:obe:other:hagar]]
-  * [[en:obe:other:desert]]
-  * [[en:obe:other:beersheba]]
+  * [[:en:obe:other:abraham]]
+  * [[:en:obe:other:hagar]]
+  * [[:en:obe:other:desert]]
+  * [[:en:obe:other:beersheba]]
  
 
 ===== Translation Notes: =====
@@ -49,7 +49,7 @@
 
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:gen:21|Genesis Chapter 21 Comprehension Questions]]**
+  * **[[:en:bible:questions:comprehension:gen:21|Genesis Chapter 21 Comprehension Questions]]**
 **[[:en:bible:notes:gen:21:12|<<]] | [[:en:bible:notes:gen:21:17|>>]]**
 
 ~~DISCUSSION~~{{tag>publish  beersheba }}
