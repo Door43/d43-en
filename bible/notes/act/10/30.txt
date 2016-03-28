@@ -42,11 +42,11 @@
 
 ===== translationWords: =====
 
-  * [[en:obe:other:cornelius]]
-  * [[en:obe:kt:hour]]
-  * [[en:obe:other:pray]]
-  * [[en:obe:other:joppa]]
-  * [[en:obe:other:peter]]
+  * [[:en:obe:other:cornelius]]
+  * [[:en:obe:kt:hour]]
+  * [[:en:obe:other:pray]]
+  * [[:en:obe:other:joppa]]
+  * [[:en:obe:other:peter]]
 
 ===== Translation Notes: =====
 
@@ -61,7 +61,7 @@
 
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:act:10|Acts Chapter 10 Comprehension Questions]]**
+  * **[[:en:bible:questions:comprehension:act:10|Acts Chapter 10 Comprehension Questions]]**
 **[[:en:bible:notes:act:10:27|<<]] | [[:en:bible:notes:act:10:34|>>]]**
 
 ~~DISCUSSION~~{{tag>publish cornelius hour prayer }}

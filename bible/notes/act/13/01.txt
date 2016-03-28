@@ -40,14 +40,14 @@
 
 ===== translationWords: =====
 
-  * [[en:obe:other:antioch]]
-  * [[en:obe:kt:prophet]]
-  * [[en:obe:kt:teacher]]
-  * [[en:obe:other:barnabas]]
-  * [[en:obe:other:herodantipas]]
-  * [[en:obe:other:paul]]
-  * [[en:obe:other:fast]]
-  * [[en:obe:other:pray]]
+  * [[:en:obe:other:antioch]]
+  * [[:en:obe:kt:prophet]]
+  * [[:en:obe:kt:teacher]]
+  * [[:en:obe:other:barnabas]]
+  * [[:en:obe:other:herodantipas]]
+  * [[:en:obe:other:paul]]
+  * [[:en:obe:other:fast]]
+  * [[:en:obe:other:pray]]
  
 
 ===== Translation Notes: =====
@@ -63,7 +63,7 @@
 
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:act:13|Acts Chapter 13 Comprehension Questions]]**
+  * **[[:en:bible:questions:comprehension:act:13|Acts Chapter 13 Comprehension Questions]]**
 **[[:en:bible:notes:act:12:24|<<]] | [[:en:bible:notes:act:13:04|>>]]**
 
 ~~DISCUSSION~~{{tag>publish barnabas herod fast}}

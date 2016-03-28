@@ -28,11 +28,11 @@
 
 ===== translationWords: =====
 
-  * [[en:obe:kt:prophet]]
-  * [[en:obe:other:jerusalem]]
-  * [[en:obe:other:antioch]]
-  * [[en:obe:kt:holyspirit]]
-  * [[en:obe:other:famine]]
+  * [[:en:obe:kt:prophet]]
+  * [[:en:obe:other:jerusalem]]
+  * [[:en:obe:other:antioch]]
+  * [[:en:obe:kt:holyspirit]]
+  * [[:en:obe:other:famine]]
  
 
 ===== Translation Notes: =====
@@ -44,7 +44,7 @@
 
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:act:11|Acts Chapter 11 Comprehension Questions]]**
+  * **[[:en:bible:questions:comprehension:act:11|Acts Chapter 11 Comprehension Questions]]**
 **[[:en:bible:notes:act:11:25|<<]] | [[:en:bible:notes:act:11:29|>>]]**
 
 ~~DISCUSSION~~{{tag>publish famine}}

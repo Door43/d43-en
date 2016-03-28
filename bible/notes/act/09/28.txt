@@ -48,15 +48,15 @@
 
 ===== translationWords: =====
 
-  * [[en:obe:other:jerusalem]]
-  * [[en:obe:kt:name]]
-  * [[en:obe:kt:lord]]
-  * [[en:obe:kt:jesus]]
-  * [[en:obe:other:greek]]
-  * [[en:obe:other:jew]]
-  * [[en:obe:kt:brother]]
-  * [[en:obe:other:caesarea]]
-  * [[en:obe:other:tarsus]]
+  * [[:en:obe:other:jerusalem]]
+  * [[:en:obe:kt:name]]
+  * [[:en:obe:kt:lord]]
+  * [[:en:obe:kt:jesus]]
+  * [[:en:obe:other:greek]]
+  * [[:en:obe:other:jew]]
+  * [[:en:obe:kt:brother]]
+  * [[:en:obe:other:caesarea]]
+  * [[:en:obe:other:tarsus]]
  
 
 ===== Translation Notes: =====
@@ -68,7 +68,7 @@
 
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:act:09|Acts Chapter 09 Comprehension Questions]]**
+  * **[[:en:bible:questions:comprehension:act:09|Acts Chapter 09 Comprehension Questions]]**
 **[[:en:bible:notes:act:09:26|<<]] | [[:en:bible:notes:act:09:31|>>]]**
 
 ~~DISCUSSION~~{{tag>publish proclaim greek  caesarea tarsus }}

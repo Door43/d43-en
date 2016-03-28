@@ -35,13 +35,13 @@
 
 ===== translationWords: =====
 
-  * [[en:obe:other:barnabas]]
-  * [[en:obe:other:tarsus]]
-  * [[en:obe:other:paul]]
-  * [[en:obe:other:antioch]]
-  * [[en:obe:kt:church]]
-  * [[en:obe:kt:disciple]]
-  * [[en:obe:kt:christian]]
+  * [[:en:obe:other:barnabas]]
+  * [[:en:obe:other:tarsus]]
+  * [[:en:obe:other:paul]]
+  * [[:en:obe:other:antioch]]
+  * [[:en:obe:kt:church]]
+  * [[:en:obe:kt:disciple]]
+  * [[:en:obe:kt:christian]]
 
 ===== Translation Notes: =====
 
@@ -52,7 +52,7 @@
 
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:act:11|Acts Chapter 11 Comprehension Questions]]**
+  * **[[:en:bible:questions:comprehension:act:11|Acts Chapter 11 Comprehension Questions]]**
 **[[:en:bible:notes:act:11:22|<<]] | [[:en:bible:notes:act:11:27|>>]]**
 
 ~~DISCUSSION~~{{tag>publish barnabas tarsus  antioch disciple christian }}

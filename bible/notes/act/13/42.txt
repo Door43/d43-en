@@ -36,13 +36,13 @@
 
 ===== translationWords: =====
 
-  * [[en:obe:other:paul]]
-  * [[en:obe:other:barnabas]]
-  * [[en:obe:kt:sabbath]]
-  * [[en:obe:other:synagogue]]
-  * [[en:obe:other:jew]]
-  * [[en:obe:kt:grace]]
-  * [[en:obe:kt:god]]
+  * [[:en:obe:other:paul]]
+  * [[:en:obe:other:barnabas]]
+  * [[:en:obe:kt:sabbath]]
+  * [[:en:obe:other:synagogue]]
+  * [[:en:obe:other:jew]]
+  * [[:en:obe:kt:grace]]
+  * [[:en:obe:kt:god]]
  
 
 ===== Translation Notes: =====
@@ -55,7 +55,7 @@
 
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:act:13|Acts Chapter 13 Comprehension Questions]]**
+  * **[[:en:bible:questions:comprehension:act:13|Acts Chapter 13 Comprehension Questions]]**
 **[[:en:bible:notes:act:13:40|<<]] | [[:en:bible:notes:act:13:44|>>]]**
 
 ~~DISCUSSION~~{{tag>publish  }}

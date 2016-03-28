@@ -36,14 +36,14 @@
 
 ===== translationWords: =====
 
-  * [[en:obe:kt:apostle]]
-  * [[en:obe:kt:name]]
-  * [[en:obe:kt:jesus]]
-  * [[en:obe:other:council]]
-  * [[en:obe:kt:suffer]]
-  * [[en:obe:kt:temple]]
-  * [[en:obe:other:preach]]
-  * [[en:obe:kt:christ]]
+  * [[:en:obe:kt:apostle]]
+  * [[:en:obe:kt:name]]
+  * [[:en:obe:kt:jesus]]
+  * [[:en:obe:other:council]]
+  * [[:en:obe:kt:suffer]]
+  * [[:en:obe:kt:temple]]
+  * [[:en:obe:other:preach]]
+  * [[:en:obe:kt:christ]]
  
 ===== Translation Notes: =====
 
@@ -52,7 +52,7 @@
 
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:act:05|Acts Chapter 05 Comprehension Questions]]**
+  * **[[:en:bible:questions:comprehension:act:05|Acts Chapter 05 Comprehension Questions]]**
 **[[:en:bible:notes:act:05:38|<<]] | [[:en:bible:notes:act:06:01|>>]]**
 
 ~~DISCUSSION~~{{tag>publish  christ}}

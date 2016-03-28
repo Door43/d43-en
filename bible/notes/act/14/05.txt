@@ -38,14 +38,14 @@
 
 ===== translationWords: =====
 
-  * [[en:obe:other:gentile]]
-  * [[en:obe:other:jew]]
-  * [[en:obe:other:stone]]
-  * [[en:obe:other:paul]]
-  * [[en:obe:other:barnabas]]
-  * [[en:obe:other:lystra]]
-  * [[en:obe:other:preach]]
-  * [[en:obe:kt:goodnews]]
+  * [[:en:obe:other:gentile]]
+  * [[:en:obe:other:jew]]
+  * [[:en:obe:other:stone]]
+  * [[:en:obe:other:paul]]
+  * [[:en:obe:other:barnabas]]
+  * [[:en:obe:other:lystra]]
+  * [[:en:obe:other:preach]]
+  * [[:en:obe:kt:goodnews]]
  
 
 ===== Translation Notes: =====
@@ -59,7 +59,7 @@
 
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:act:14|Acts Chapter 14 Comprehension Questions]]**
+  * **[[:en:bible:questions:comprehension:act:14|Acts Chapter 14 Comprehension Questions]]**
 **[[:en:bible:notes:act:14:03|<<]] | [[:en:bible:notes:act:14:08|>>]]**
 
 ~~DISCUSSION~~{{tag>publish gentile and jew stone lystra  }}

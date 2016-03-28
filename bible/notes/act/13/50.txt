@@ -30,13 +30,13 @@
 
 ===== translationWords: =====
 
-  * [[en:obe:other:jew]]
-  * [[en:obe:other:persecute]]
-  * [[en:obe:other:paul]]
-  * [[en:obe:other:barnabas]]
-  * [[en:obe:kt:disciple]]
-  * [[en:obe:kt:joy]]
-  * [[en:obe:kt:holyspirit]]
+  * [[:en:obe:other:jew]]
+  * [[:en:obe:other:persecute]]
+  * [[:en:obe:other:paul]]
+  * [[:en:obe:other:barnabas]]
+  * [[:en:obe:kt:disciple]]
+  * [[:en:obe:kt:joy]]
+  * [[:en:obe:kt:holyspirit]]
  
 
 ===== Translation Notes: =====
@@ -51,7 +51,7 @@
 
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:act:13|Acts Chapter 13 Comprehension Questions]]**
+  * **[[:en:bible:questions:comprehension:act:13|Acts Chapter 13 Comprehension Questions]]**
 **[[:en:bible:notes:act:13:48|<<]] | [[:en:bible:notes:act:14:01|>>]]**
 
 ~~DISCUSSION~~{{tag>publish persecute  }}

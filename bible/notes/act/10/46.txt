@@ -30,12 +30,12 @@
 
 ===== translationWords: =====
 
-  * [[en:obe:other:gentile]]
-  * [[en:obe:other:praise]]
-  * [[en:obe:other:peter]]
-  * [[en:obe:kt:baptize]]
-  * [[en:obe:kt:holyspirit]]
-  * [[en:obe:kt:jesus]]
+  * [[:en:obe:other:gentile]]
+  * [[:en:obe:other:praise]]
+  * [[:en:obe:other:peter]]
+  * [[:en:obe:kt:baptize]]
+  * [[:en:obe:kt:holyspirit]]
+  * [[:en:obe:kt:jesus]]
 
 
 ===== Translation Notes: =====
@@ -47,7 +47,7 @@
 
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:act:10|Acts Chapter 10 Comprehension Questions]]**
+  * **[[:en:bible:questions:comprehension:act:10|Acts Chapter 10 Comprehension Questions]]**
 **[[:en:bible:notes:act:10:44|<<]] | [[:en:bible:notes:act:11:01|>>]]**
 
 ~~DISCUSSION~~{{tag>publish  baptize }}
