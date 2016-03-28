@@ -10,16 +10,16 @@ The following are important characteristics of audio files.
   * Noise floor below -45 dB.
   * 1 second of silence at the beginning of file.
   * 1 second of silence at the end of file.
-  * Only none or soft compression applied. No heavily applied compression, limiting, noise gate or noise reduction.
+  * Use no compression or soft compression only. No heavily applied compression, limiting, noise gate or noise reduction.
 
 
 ==== Listening Characteristics ====
 
   * Speed of narration should be moderate, comfortable and easy to follow.
   * Voice must be clear and sound natural.
-  * No echo, reverb or delay (Use adequate acoustical treatment during recording).
+  * No echo, reverb or delay (use adequate acoustical treatment during recording).
   * No distracting background noises (clicking of computer mouse, conversations in next room, etc).
-  * Any editing or processing applied in the breaks between phrases or sentences must be non-detectable for the listener and maintain the natural sound and flow of the whole audio file. If effects processing is applied, such as Silence, Expander, Noise Gate or Noise Reduction, the impact must be non-detectable by the end-user (no awkward pulsating or vacuum). unfoldingWord Audio Engineering encourages proper recording technique rather than reliance on post-production effects, which are too often used in excess and without knowledge and wisdom about the impacts, potentially causing irreversible degradation to the audio quality.
+  * Any editing effects processing applied in the breaks between phrases must be non-detectable and maintain the natural sound characteristics and flow of the whole audio file. unfoldingWord Audio Engineering encourages proper recording technique rather than heavy reliance on post-production effects, which are too often used in excess and without knowledge and wisdom about the impacts, potentially causing irreversible degradation to the audio quality.
 
 
 ==== Review & Checking Characteristics ====
@@ -31,7 +31,7 @@ A minimum of 1 native speaker of the language must be present during the recordi
 
 ==== Editing Characteristics ====
 
-  * Complete all editing of files in collaboration with checker.
+  * Complete all editing of files in collaboration with the checker.
   * Set the appropriate pausing or silencing between OBS slides or Bible chapters for natural reading flow.
     * The length of pause will vary depending on the language and speed of narration.
   * Cue Markers are placed in audio at all frame changes in OBS and at important section transitions in other types of content (such as verses of Scripture).

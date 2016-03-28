@@ -12,8 +12,8 @@ The following are unfoldingWord format standards for recording, uploading/archiv
 ==== door43 upload and/or archiving ====
 
   * WAV, 44.1kHz, 16-bit, mono (high quality, universal standard)
-  * FLAC, 44.1kHz, 16-bit, mono (high quality, do not use without a frame/verse identification alternative solution to embedding markers)
-  * MP3, 44.1kHz, 128kbps, mono (low quality, do not use without a frame/verse identification alternative solution to embedding markers)
+  * FLAC, 44.1kHz, 16-bit, mono (high quality, do not use without solution for frame/verse markers)
+  * MP3, 44.1kHz, 128kbps, mono (low quality, do not use without solution for frame/verse markers)
 
 
 ==== Distribution ====

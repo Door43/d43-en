@@ -2,19 +2,19 @@
 
 //This page answers the question:// //What is the file naming standard for unfoldingWord audio?//
 
-Also known as a File Naming Convention, a file naming standard identifies a specific, reliable pattern to be followed for naming audio files. This helps maintain excellent organization of audio files during both the recording process and for subsequent distribution, as well as clarity in identification for years to come.
+Also known as a File Naming Convention, a file naming standard identifies a specific, reliable pattern to be followed for naming audio files. This helps maintain excellent organization of audio files during the recording process and subsequent distribution, as well as clarity in identification for years to come.
 
 
 ==== General Guidelines ====
 
-  * use the official IETF language code found on door43.org
+  * use the official IETF language code. More information is available here https://unfoldingword.org/ietf/.
   * use an underscore (_) to separate information fields
   * use a hyphen (-) to identify:
     * a subgroup or regional dialect of a language
     * frames within Open Bible Stories
 
 
-==== Open Bible Stories (file as full story) ====
+==== Open Bible Stories (for full story) ====
 
 Template:        language code_content name_story number
 
@@ -25,7 +25,7 @@ Examples:
                 es-419_obs_50
 
 
-==== Open Bible Stories (file as story frame) ====
+==== Open Bible Stories (for story frame) ====
 
 Template:        language code_content name_story number-frame number
 
@@ -61,7 +61,7 @@ Proper identification of each audio file is very important. Please verify:
 
   * file naming according to the guidelines above
   * that each file name matches the recorded content
-  * total file count for any missing or duplicated files
+  * total file count (check for any missing or duplicated files)
   * markers/cues are placed in the audio file for OBS frames or Scripture verses
 
 
