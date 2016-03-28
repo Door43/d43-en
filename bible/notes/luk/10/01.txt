@@ -29,11 +29,11 @@
 
 ===== translationWords: =====
 
-    * [[en:obe:kt:lord]]
-    * [[en:obe:kt:appoint]]
-    * [[en:obe:kt:harvest]]
-    * [[en:obe:other:labor]]
-    * [[en:obe:other:pray]]
+    * [[:en:obe:kt:lord]]
+    * [[:en:obe:kt:appoint]]
+    * [[:en:obe:kt:harvest]]
+    * [[:en:obe:other:labor]]
+    * [[:en:obe:other:pray]]
 
 
 ===== Translation Notes: =====
@@ -45,7 +45,7 @@
 
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:10|Luke Chapter 10 Comprehension Questions]]**
+  * **[[:en:bible:questions:comprehension:luk:10|Luke Chapter 10 Comprehension Questions]]**
 **[[:en:bible:notes:luk:09:61|<<]] | [[:en:bible:notes:luk:10:03|>>]]**
 
 ~~DISCUSSION~~{{tag>publish labor}}

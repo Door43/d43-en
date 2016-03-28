@@ -34,15 +34,15 @@
 ===== translationWords: =====
 
 
-    * [[en:obe:kt:love]]
-    * [[en:obe:other:adversary]]
-    * [[en:obe:kt:good]]
-    * [[en:obe:kt:reward]]
-    * [[en:obe:kt:son]]
-    * [[en:obe:kt:mosthigh]]
-    * [[en:obe:kt:evil]]
-    * [[en:obe:kt:mercy]]
-    * [[en:obe:kt:godthefather]]
+    * [[:en:obe:kt:love]]
+    * [[:en:obe:other:adversary]]
+    * [[:en:obe:kt:good]]
+    * [[:en:obe:kt:reward]]
+    * [[:en:obe:kt:son]]
+    * [[:en:obe:kt:mosthigh]]
+    * [[:en:obe:kt:evil]]
+    * [[:en:obe:kt:mercy]]
+    * [[:en:obe:kt:godthefather]]
 
 ===== Translation Notes: =====
 
@@ -55,7 +55,7 @@ Jesus continues to teach the crowd to love their enemies.
  
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:06|Luke Chapter 06 Comprehension Questions]]**
+  * **[[:en:bible:questions:comprehension:luk:06|Luke Chapter 06 Comprehension Questions]]**
 **[[:en:bible:notes:luk:06:31|<<]] | [[:en:bible:notes:luk:06:37|>>]]**
 
 ~~DISCUSSION~~{{tag>publish mercy reward}}
