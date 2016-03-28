@@ -34,12 +34,12 @@
 
 ===== translationWords: =====
 
-  * [[en:obe:other:peace]]
-  * [[en:obe:kt:authority]]
-  * [[en:obe:other:paul]]
-  * [[en:obe:other:barnabas]]
-  * [[en:obe:other:preach]]
-  * [[en:obe:kt:wordofgod]]
+  * [[:en:obe:other:peace]]
+  * [[:en:obe:kt:authority]]
+  * [[:en:obe:other:paul]]
+  * [[:en:obe:other:barnabas]]
+  * [[:en:obe:other:preach]]
+  * [[:en:obe:kt:wordofgod]]
  
 
 ===== Translation Notes: =====
@@ -53,7 +53,7 @@
 
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:act:15|Acts Chapter 15 Comprehension Questions]]**
+  * **[[:en:bible:questions:comprehension:act:15|Acts Chapter 15 Comprehension Questions]]**
 **[[:en:bible:notes:act:15:30|<<]] | [[:en:bible:notes:act:15:36|>>]]**
 
 ~~DISCUSSION~~{{tag>publish barnabas}}

@@ -33,15 +33,15 @@
 
 ===== translationWords: =====
 
-  * [[en:obe:kt:spirit]]
-  * [[en:obe:kt:lord]]
-  * [[en:obe:other:caughtup]]
-  * [[en:obe:other:philip]]
-  * [[en:obe:other:eunuch]]
-  * [[en:obe:other:rejoice]]
-  * [[en:obe:other:ashdod]]
-  * [[en:obe:kt:goodnews]]
-  * [[en:obe:other:caesarea]]
+  * [[:en:obe:kt:spirit]]
+  * [[:en:obe:kt:lord]]
+  * [[:en:obe:other:caughtup]]
+  * [[:en:obe:other:philip]]
+  * [[:en:obe:other:eunuch]]
+  * [[:en:obe:other:rejoice]]
+  * [[:en:obe:other:ashdod]]
+  * [[:en:obe:kt:goodnews]]
+  * [[:en:obe:other:caesarea]]
  
 
 ===== Translation Notes: =====
@@ -52,7 +52,7 @@
 
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:act:08|Acts Chapter 08 Comprehension Questions]]**
+  * **[[:en:bible:questions:comprehension:act:08|Acts Chapter 08 Comprehension Questions]]**
 **[[:en:bible:notes:act:08:36|<<]] | [[:en:bible:notes:act:09:01|>>]]**
 
 ~~DISCUSSION~~{{tag>publish caughtup philip eunuch  ashdod }}

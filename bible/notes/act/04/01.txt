@@ -38,14 +38,14 @@
 
 ===== translationWords: =====
 
-  * [[en:obe:other:peter]]
-  * [[en:obe:other:johntheapostle]]
-  * [[en:obe:kt:priest]]
-  * [[en:obe:kt:temple]]
-  * [[en:obe:other:sadducee]]
-  * [[en:obe:kt:jesus]]
-  * [[en:obe:kt:resurrection]]
-  * [[en:obe:kt:believe]]
+  * [[:en:obe:other:peter]]
+  * [[:en:obe:other:johntheapostle]]
+  * [[:en:obe:kt:priest]]
+  * [[:en:obe:kt:temple]]
+  * [[:en:obe:other:sadducee]]
+  * [[:en:obe:kt:jesus]]
+  * [[:en:obe:kt:resurrection]]
+  * [[:en:obe:kt:believe]]
 
 ===== Translation Notes: =====
 
@@ -58,7 +58,7 @@
 
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:act:04|Acts Chapter 04 Comprehension Questions]]**
+  * **[[:en:bible:questions:comprehension:act:04|Acts Chapter 04 Comprehension Questions]]**
 **[[:en:bible:notes:act:03:24|<<]] | [[:en:bible:notes:act:04:05|>>]]**
 
 {{tag>publish sadducee}}

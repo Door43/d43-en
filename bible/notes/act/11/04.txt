@@ -30,12 +30,12 @@
 
 ===== translationWords: =====
 
-  * [[en:obe:other:peter]]
-  * [[en:obe:other:pray]]
-  * [[en:obe:other:joppa]]
-  * [[en:obe:other:trance]]
-  * [[en:obe:other:vision]]
-  * [[en:obe:kt:heaven]]
+  * [[:en:obe:other:peter]]
+  * [[:en:obe:other:pray]]
+  * [[:en:obe:other:joppa]]
+  * [[:en:obe:other:trance]]
+  * [[:en:obe:other:vision]]
+  * [[:en:obe:kt:heaven]]
  
 
 ===== Translation Notes: =====
@@ -47,7 +47,7 @@
 
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:act:11|Acts Chapter 11 Comprehension Questions]]**
+  * **[[:en:bible:questions:comprehension:act:11|Acts Chapter 11 Comprehension Questions]]**
 **[[:en:bible:notes:act:11:01|<<]] | [[:en:bible:notes:act:11:07|>>]]**
 
 ~~DISCUSSION~~{{tag>publish  joppa trance vision }}
