@@ -29,13 +29,13 @@
 
 ===== translationWords: =====
 
-  * [[:en:obe:other:johnmark]]
-  * [[:en:obe:other:cyprus]]
-  * [[:en:obe:kt:grace]]
-  * [[:en:obe:kt:lord]]
-  * [[:en:obe:other:syria]]
-  * [[:en:obe:other:cilicia]]
-  * [[:en:obe:kt:church]]
+  * [[en:obe:other:johnmark]]
+  * [[en:obe:other:cyprus]]
+  * [[en:obe:kt:grace]]
+  * [[en:obe:kt:lord]]
+  * [[en:obe:other:syria]]
+  * [[en:obe:other:cilicia]]
+  * [[en:obe:kt:church]]
  
 
 ===== Translation Notes: =====
@@ -49,7 +49,7 @@
 
 ===== Links: =====
 
-  * **[[:en:bible:questions:comprehension:act:15|Acts Chapter 15 Comprehension Questions]]**
+  * **[[en:bible:questions:comprehension:act:15|Acts Chapter 15 Comprehension Questions]]**
 **[[:en:bible:notes:act:15:36|<<]] | [[:en:bible:notes:act:16:01|>>]]**
 
 ~~DISCUSSION~~{{tag>publish johnmark church cyprus syria cilicia }}

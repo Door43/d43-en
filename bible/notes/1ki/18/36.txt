@@ -27,15 +27,15 @@
 
 ===== translationWords: =====
 
-  * [[:en:obe:other:sacrifice]]
-  * [[:en:obe:other:elijah]]
+  * [[en:obe:other:sacrifice]]
+  * [[en:obe:other:elijah]]
   * [[:en:obe:kt:prophet]]
   * [[:en:obe:kt:god]]
   * [[:en:obe:other:abraham]]
   * [[:en:obe:other:isaac]]
-  * [[:en:obe:other:jacob]]
-  * [[:en:obe:other:know]]
-  * [[:en:obe:other:kingdomofisrael]]
+  * [[:en/obe/other/jacob]]
+  * [[en:obe:other:know]]
+  * [[en/obe/other/kingdomofisrael]]
   * [[:en:obe:other:servant]]
   * [[:en:obe:kt:word]]
   * [[:en:obe:kt:turn]]
@@ -43,7 +43,7 @@
 ===== Translation Notes: =====
 
   * **It happened** - This phrase is used here to mark an important event in the story. If your language has a way for doing this, you could consider using it here.
-  * **evening** - See how you translated this in [[:en:bible:notes:1ki:18:/]].
+  * **evening** - See how you translated this in [[:en/bible/notes/1ki/18/27]].
   * **Yahweh, the God of Abraham, of Isaac, and of Israel** - Here "Israel" is referring to Jacob. God changed Jacob's name to Israel (Genesis 32:28), and God named the nation of Jacob's descendants "Israel."
   * **let it be known this day** - "make these people know today" (See: [[:en:ta:vol2:translate:figs_activepassive]])
   * **Hear me...hear me** - This phrase is repeated for emphasis.

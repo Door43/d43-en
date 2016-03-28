@@ -36,11 +36,11 @@
 
 ===== translationWords: =====
 
-  * [[:en:obe:other:peter]]
-  * [[:en:obe:other:johntheapostle]]
-  * [[:en:obe:kt:jesus]]
-  * [[:en:obe:other:heal]]
-  * [[:en:obe:other:jew]]
+  * [[en:obe:other:peter]]
+  * [[en:obe:other:johntheapostle]]
+  * [[en:obe:kt:jesus]]
+  * [[en:obe:other:heal]]
+  * [[en:obe:other:jew]]
  
 ===== Translation Notes: =====
 
@@ -51,7 +51,7 @@
 
 ===== Links: =====
 
-  * **[[:en:bible:questions:comprehension:act:04|Acts Chapter 04 Comprehension Questions]]**
+  * **[[en:bible:questions:comprehension:act:04|Acts Chapter 04 Comprehension Questions]]**
 **[[:en:bible:notes:act:04:11|<<]] | [[:en:bible:notes:act:04:15|>>]]**
 
 ~~DISCUSSION~~{{tag>publish }}

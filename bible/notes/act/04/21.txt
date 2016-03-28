@@ -34,11 +34,11 @@
 
 ===== translationWords: =====
 
-  * [[:en:obe:other:punish]]
-  * [[:en:obe:other:praise]]
-  * [[:en:obe:kt:god]]
-  * [[:en:obe:kt:miracle]]
-  * [[:en:obe:other:heal]]
+  * [[en:obe:other:punish]]
+  * [[en:obe:other:praise]]
+  * [[en:obe:kt:god]]
+  * [[en:obe:kt:miracle]]
+  * [[en:obe:other:heal]]
  
 ===== Translation Notes: =====
 
@@ -48,7 +48,7 @@
 
 ===== Links: =====
 
-  * **[[:en:bible:questions:comprehension:act:04|Acts Chapter 04 Comprehension Questions]]**
+  * **[[en:bible:questions:comprehension:act:04|Acts Chapter 04 Comprehension Questions]]**
 **[[:en:bible:notes:act:04:19|<<]] | [[:en:bible:notes:act:04:23|>>]]**
 
 ~~DISCUSSION~~{{tag>publish punish  miracle }}

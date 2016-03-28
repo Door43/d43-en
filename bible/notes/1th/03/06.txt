@@ -28,9 +28,9 @@
 ===== translationWords: =====
 
   * [[:en:obe:other:timothy]]
-  * [[:en:obe:kt:faith]]
-  * [[:en:obe:kt:love]]
-  * [[:en:obe:kt:brother]]
+  * [[en:obe:kt:faith]]
+  * [[en:obe:kt:love]]
+  * [[en:obe:kt:brother]]
   * [[:en:obe:kt:afflict]]
  
 
@@ -46,7 +46,7 @@
 
 ===== Links: =====
 
-  * **[[:en:bible:questions:comprehension:1th:03|1 Thessalonians Chapter 03 Comprehension Questions]]**
+  * **[[en:bible:questions:comprehension:1th:03|1 Thessalonians Chapter 03 Comprehension Questions]]**
 **[[:en:bible:notes:1th:03:04|<<]] | [[:en:bible:notes:1th:03:08|>>]]**
 
 ~~DISCUSSION~~{{tag>publish}}

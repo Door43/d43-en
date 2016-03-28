@@ -31,7 +31,11 @@
 
 ===== translationWords: =====
 
+<<<<<<< HEAD
   * [[:en:obe:kt:curse]]
+=======
+  * [[:en/obe/kt/curse|cursing]]
+>>>>>>> parent of 50d1a6b... Merge pull request #59 from destatez/L2-4
   * [[:en:obe:kt:blood]]
   * [[:en:obe:kt:yahweh]]
   * [[:en:obe:other:reign]]
@@ -49,11 +53,11 @@
      
 ===== Links: =====
 
-  * **[[:en:bible:questions:comprehension:2sa:16|2 Samuel Chapter 16 Comprehension Questions]]**
+  * **[[en:bible:questions:comprehension:2sa:16|2 Samuel Chapter 16 Comprehension Questions]]**
 
  
 
-**[[:en:bible:notes:2sa:16:/|<<]] | [[:en:bible:notes:2sa:16:/|>>]]**
+**[[en/bible/notes/2sa/16/05|<<]] | [[en/bible/notes/2sa/16/09|>>]]**
 
 ~~DISCUSSION~~
 

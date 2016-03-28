@@ -31,12 +31,12 @@
 
 ===== translationWords: =====
 
-  * [[:en:obe:kt:test]]
-  * [[:en:obe:kt:god]]
-  * [[:en:obe:other:yoke]]
-  * [[:en:obe:kt:disciple]]
+  * [[en:obe:kt:test]]
+  * [[en:obe:kt:god]]
+  * [[en:obe:other:yoke]]
+  * [[en:obe:kt:disciple]]
   * [[:en:obe:kt:grace]]
-  * [[:en:obe:kt:jesus]]
+  * [[en:obe:kt:jesus]]
  
 ===== Translation Notes: =====
 
@@ -49,7 +49,7 @@ Peter continues to speak.
 
 ===== Links: =====
 
-  * **[[:en:bible:questions:comprehension:act:15|Acts Chapter 15 Comprehension Questions]]**
+  * **[[en:bible:questions:comprehension:act:15|Acts Chapter 15 Comprehension Questions]]**
 **[[:en:bible:notes:act:15:07|<<]] | [[:en:bible:notes:act:15:12|>>]]**
 
 ~~DISCUSSION~~{{tag>publish test yoke }}

@@ -39,11 +39,11 @@
 
 ===== translationWords: =====
 
-  * [[:en:obe:other:psalm]]
-  * [[:en:obe:kt:holyone]]
-  * [[:en:obe:other:David]]
-  * [[:en:obe:other:generation]]
-  * [[:en:obe:other:father]]
+  * [[en:obe:other:psalm]]
+  * [[en:obe:kt:holyone]]
+  * [[en:obe:other:David]]
+  * [[en:obe:other:generation]]
+  * [[en:obe:other:father]]
  
 ===== Translation Notes: =====
 
@@ -61,7 +61,7 @@ Paul continues to speak.
 
 ===== Links: =====
 
-  * **[[:en:bible:questions:comprehension:act:13|Acts Chapter 13 Comprehension Questions]]**
+  * **[[en:bible:questions:comprehension:act:13|Acts Chapter 13 Comprehension Questions]]**
 **[[:en:bible:notes:act:13:32|<<]] | [[:en:bible:notes:act:13:38|>>]]**
 
 ~~DISCUSSION~~{{tag>publish psalm  }}

@@ -35,11 +35,11 @@
 
 ===== translationWords: =====
 
-  * [[:en:obe:other:peter]]
-  * [[:en:obe:kt:righthand]]
-  * [[:en:obe:other:johntheapostle]]
-  * [[:en:obe:kt:temple]]
-  * [[:en:obe:other:praise]]
+  * [[en:obe:other:peter]]
+  * [[en:obe:kt:righthand]]
+  * [[en:obe:other:johntheapostle]]
+  * [[en:obe:kt:temple]]
+  * [[en:obe:other:praise]]
  
 ===== Translation Notes: =====
 
@@ -47,7 +47,7 @@
 
 ===== Links: =====
 
-  * **[[:en:bible:questions:comprehension:act:03|Acts Chapter 03 Comprehension Questions]]**
+  * **[[en:bible:questions:comprehension:act:03|Acts Chapter 03 Comprehension Questions]]**
 **[[:en:bible:notes:act:03:04|<<]] | [[:en:bible:notes:act:03:09|>>]]**
 
 ~~DISCUSSION~~{{tag>publish temple}}

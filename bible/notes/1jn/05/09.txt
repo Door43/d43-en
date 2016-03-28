@@ -24,10 +24,10 @@
 ===== translationWords: =====
 
   * [[:en:obe:kt:receive]]
-  * [[:en:obe:kt:witness]]
+  * [[en:obe:kt:witness]]
   * [[:en:obe:kt:testimony]]
   * [[:en:obe:kt:sonofgod]]
-  * [[:en:obe:kt:believe]]
+  * [[en:obe:kt:believe]]
 
 ===== Translation Notes: =====
 
@@ -40,7 +40,7 @@
 
 ===== Links: =====
 
-  * **[[:en:bible:questions:comprehension:1jn:05|1 John Chapter 05 Comprehension Questions]]**
+  * **[[en:bible:questions:comprehension:1jn:05|1 John Chapter 05 Comprehension Questions]]**
 **[[:en:bible:notes:1jn:05:06|<<]] | [[:en:bible:notes:1jn:05:11|>>]]**
 
 ~~DISCUSSION~~{{tag>publish receive}}

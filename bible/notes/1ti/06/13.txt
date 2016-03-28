@@ -27,12 +27,12 @@
 
 ===== translationWords: =====
 
-  * [[:en:obe:kt:god]]
-  * [[:en:obe:kt:jesus]]
-  * [[:en:obe:other:pilate]]
-  * [[:en:obe:other:command]]
-  * [[:en:obe:other:reproach]]
-  * [[:en:obe:kt:lordgod]]
+  * [[en:obe:kt:god]]
+  * [[en:obe:kt:jesus]]
+  * [[en:obe:other:pilate]]
+  * [[en:obe:other:command]]
+  * [[en:obe:other:reproach]]
+  * [[en:obe:kt:lordgod]]
  
 ===== Translation Notes: =====
 
@@ -44,7 +44,7 @@
 
 ===== Links: =====
 
-  * **[[:en:bible:questions:comprehension:1ti:06|1 Timothy Chapter 06 Comprehension Questions]]**
+  * **[[en:bible:questions:comprehension:1ti:06|1 Timothy Chapter 06 Comprehension Questions]]**
 **[[:en:bible:notes:1ti:06:11|<<]] | [[:en:bible:notes:1ti:06:15|>>]]**
 
 ~~DISCUSSION~~{{tag>publish reproach}}

@@ -39,10 +39,10 @@
 
 ===== translationWords: =====
 
-  * [[:en:obe:other:jew]]
-  * [[:en:obe:other:paul]]
-  * [[:en:obe:kt:gate]]
-  * [[:en:obe:other:basket]]
+  * [[en:obe:other:jew]]
+  * [[en:obe:other:paul]]
+  * [[en:obe:kt:gate]]
+  * [[en:obe:other:basket]]
  
 
 ===== Translation Notes: =====
@@ -54,7 +54,7 @@
 
 ===== Links: =====
 
-  * **[[:en:bible:questions:comprehension:act:09|Acts Chapter 09 Comprehension Questions]]**
+  * **[[en:bible:questions:comprehension:act:09|Acts Chapter 09 Comprehension Questions]]**
 **[[:en:bible:notes:act:09:20|<<]] | [[:en:bible:notes:act:09:26|>>]]**
 
 ~~DISCUSSION~~{{tag>publish gate basket }}
