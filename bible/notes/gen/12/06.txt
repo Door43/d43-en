@@ -29,13 +29,13 @@
 
 ===== translationWords: =====
 
-  * [[:en:obe:other:abraham]]
-  * [[:en:obe:other:shechem]]
-  * [[:en:obe:other:oak]]
-  * [[:en:obe:other:canaan]]
-  * [[:en:obe:kt:Yahweh]]
-  * [[:en:obe:other:descendant]]
-  * [[:en:obe:other:altar]]
+  * [[en:obe:other:abraham]]
+  * [[en:obe:other:shechem]]
+  * [[en:obe:other:oak]]
+  * [[en:obe:other:canaan]]
+  * [[en:obe:kt:Yahweh]]
+  * [[en:obe:other:descendant]]
+  * [[en:obe:other:altar]]
  
 
 ===== Translation Notes: =====
@@ -47,7 +47,7 @@
 
 ===== Links: =====
 
-  * **[[:en:bible:questions:comprehension:gen:12|Genesis Chapter 12 Comprehension Questions]]**
+  * **[[en:bible:questions:comprehension:gen:12|Genesis Chapter 12 Comprehension Questions]]**
 **[[:en:bible:notes:gen:12:04|<<]] | [[:en:bible:notes:gen:12:08|>>]]**
 
 ~~DISCUSSION~~{{tag>publish shechem oak }}

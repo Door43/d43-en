@@ -29,10 +29,10 @@
 
 ===== translationWords: =====
 
-  * [[:en:obe:kt:yahweh]]
-  * [[:en:obe:kt:good]]
-  * [[:en:obe:kt:life]]
-  * [[:en:obe:other:Eden]]
+  * [[en:obe:kt:yahweh]]
+  * [[en:obe:kt:good]]
+  * [[en:obe:kt:life]]
+  * [[en:obe:other:Eden]]
  
 ===== Translation Notes: =====
 
@@ -45,7 +45,7 @@
 
 ===== Links: =====
 
-  * **[[:en:bible:questions:comprehension:gen:02|Genesis Chapter 02 Comprehension Questions]]**
+  * **[[en:bible:questions:comprehension:gen:02|Genesis Chapter 02 Comprehension Questions]]**
 **[[:en:bible:notes:gen:02:07|<<]] | [[:en:bible:notes:gen:02:11|>>]]**
 
 ~~DISCUSSION~~{{tag>publish  good eden}}
