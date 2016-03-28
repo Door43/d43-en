@@ -1,79 +1,77 @@
 ====== Reflexive Pronoun ======
 
-This module answers the question: What are reflexive pronouns?\\
-Before you start this module have you learned about:
-  * [Pronouns] [[en:ta:workbench:translate:pronouns|on Workbench]]
+This page answers the question: What are reflexive pronouns?\\
+
+In order to understand this page, it would be good to read:
+  * [[en:ta:vol2:translate:figs_pronouns]]
   * [[en:ta:vol2:translate:figs_sentences]]
 
-Summary \\ 
-All languages have ways of showing that the same person fills two different roles in a sentence. This module will help you understand how English shows this and will help you to see how your language handles this. \\ 
+All languages have ways of showing that the same person fills two different roles in a sentence. This page will help you understand how English shows this and will help you to see how your language handles this. \\ 
+
+==== Description ====
+
+**Reflexive pronouns** are pronouns that refer to someone or something has already been mentioned in a sentence. In English the reflexive pronouns are: myself, yourself, himself, herself, itself, ourselves, yourselves, and themselves.
+
+=== Reason this is a translation issue ===
+  * Languages have different ways of referring to someone or something more than once in a sentence.
+  * The reflexive pronouns in English have other functions
+
+=== Uses of Reflexive Pronouns  ===
+
+  * to show that the same person or things fills two different roles in a sentence. 
+  * to emphasize a person or thing in the sentence. A speaker may use a reflexive pronoun in this way because the person or thing may be doing something that the listener might not expect. This may also imply that the person or thing contrasts with something else. 
+  * to show that someone did something alone 
+  * to show that someone or something was alone
 
 
-===== Description =====
-
-Definition\\ 
-Reflexive pronouns refer back to a noun or pronoun that has already been mentioned in a sentence. In English **the reflexive pronouns** are: myself, yourself, himself, herself, itself, ourselves, yourselves, and themselves.
-
-=== Reason this could be a translation issue ===
-The Bible has many places where it refers to the same person or thing twice in a sentence. Languages have a different way of expressing this; so it is important to know when a reflexive pronoun is in the text and how to translate them into your language. 
-=== Translation Principles  ===
-
-1.	Reflexive pronouns refer to a person or thing that has already been mentioned in the sentence. For example, in the sentence “I saw myself in the mirror” the word “myself” refers back to “I” and in the sentence ”The man bought a new shirt for himself,” the word “himself” refers back to the “the man.” \\ 
-2.	Reflexive pronouns can emphasize a person or thing in the sentence. A speaker may use a reflexive pronoun in this way because the person or thing may be doing something that the listener might not expect. This may also imply that the person or thing contrasts with something else. For example, “Mary herself bought the food” emphasizes that it was Mary who did it, not someone else. \\ 
-3.	Reflexive pronouns can state that someone did something alone or without help. For example, “Frank read the book by himself” could mean that Frank did it alone or that he did it without any help. The context will show which meaning is intended.
+==== Examples from the Bible ====
+1. to show that the same person or things fills two different roles in a sentence.
+>If __I__ should testify about __myself__ alone, my testimony would not be true. (John 5:31) 
 
 
-===== Examples from the Bible =====
-1. To refer to a person or object that has already been mentioned: \\  
-**If __I__ should testify about __myself__ alone, my testimony would not be true.** (John 5:31) \\ 
+>Now the Passover of the Jews was near, and __many__ went up to Jerusalem out of the country before the Passover in order to purify __themselves__. (John 11:55) 
 
-**Now the Passover of the Jews was near, and __many__ went up to Jerusalem out of the country before the Passover in order to purify __themselves__.** (John 11:55) \
+2. To emphasize a person or thing in the sentence:
+> __Jesus himself__ was not baptizing, but his disciples were (John 4:2)  
 
-2. To emphasize a person or thing in the sentence: \\ 
-** __Jesus himself__ was not baptizing, but his disciples were** (John 4:2) \\ 
+>Now Jesus said this to test Philip, for __he himself__ knew what he was going to do. (John 6:6) 
 
-**(Now Jesus said this to test Philip, for __he himself__ knew what he was going to do.)** (John 6:6) \\
+3. to show that someone did something alone 
+>When Jesus realized that they were about to come and seize him by force to make him king, he withdrew again up the mountain __by himself__. (John 6:15) 
 
-3. To state that someone or something was alone or did something alone or without help: \\ 
-**When Jesus realized that they were about to come and seize him by force to make him king, he withdrew again up the mountain __by himself__.** (John 6:15) \\
- 
-**and the face cloth that had been on his head; it was not lying with the linen cloths but was rolled up in its place __by itself__.** ( John 20:7) \\ 
+4. to show that someone or something was alone
+>and the face cloth that had been on his head; it was not lying with the linen cloths but was rolled up in its place __by itself__. ( John 20:7)  
 
 
-===== Translation Strategies =====
-1.	Reflexive pronouns refer to a person or thing that has already been mentioned in the sentence. Some languages, like English, have special pronoun forms. Some languages, like Greek and Spanish, mark it on the verb. Study how your language shows that the person or thing has been mentioned before and then use that in your translation. \\ 
+==== Translation Strategies ====
+1. Reflexive pronouns refer to a person or thing that has already been mentioned in the sentence. Some languages, like English, have special pronoun forms. Some languages, like Greek and Spanish, mark it on the verb. Study how your language shows that the person or thing has been mentioned before and then use that in your translation. 
 
-2.	Reflexive pronouns can emphasize a person or thing in the sentence. Some languages emphasize a person by moving it to a special place in the sentence or by some special word or part of a word. Study how your language emphasizes a person or thing and then use that in your translation. \\ 
+2. Reflexive pronouns can emphasize a person or thing in the sentence. Some languages emphasize a person by moving it to a special place in the sentence or by some special word or part of a word. Study how your language emphasizes a person or thing and then use that in your translation.
 
-3.	Reflexive pronouns can state that someone did something alone or without help. Some languages state that a person did something by himself by a special word or idiom. Study how your language states a person did something by himself and then use that in your translation. 
-
-
+3. Reflexive pronouns can state that someone did something alone or without help. Some languages state that a person did something by himself by a special word or idiom. Study how your language states a person did something by himself and then use that in your translation. 
 
 
+==== Examples of Translation Strategies Applied ====
+1. To refer to a person or object that has already been mentioned, mark the verb for reflexive:
+  * **If I should testify about __myself__ alone, my testimony would not be true.** (John 5:31)
+    * "If I should alone __self-testify__, my testimony would not be true." 
 
+  * **Now the Passover of the Jews was near, and many went up to Jerusalem out of the country before the Passover in order to __purify themselves__.** (John 11:55)  
+    * "Now the Passover of the Jews was near, and many went up to Jerusalem out of the country before the Passover in order to __self-purify__."
 
+2. To emphasize a person or thing in the sentence, by moving it to a special place in the sentence or by some special word or part of a word:
+  * **__Jesus himself__ was not baptizing, but his disciples were.** (John 4:2)
+    * "__It was not Jesus who__ was baptizing, but his disciples were."
 
-======Examples of Translation Strategies Applied======
-1. To refer to a person or object that has already been mentioned, mark the verb for reflexative: \\ 
-**If I should testify about __myself__ alone, my testimony would not be true.** (John 5:31) \\ 
-If I should alone __self-testify__, my testimony would not be true. \\ 
+  * **Now Jesus said this to test Philip, for he __himself__ knew what he was going to do.** (John 6:6)
+    * "Now Jesus said this to test Philip, for he __really already__ knew what he was going to do." 
 
-**Now the Passover of the Jews was near, and many went up to Jerusalem out of the country before the Passover in order to __purify themselves__.** (John 11:55) \\  
-Now the Passover of the Jews was near, and many went up to Jerusalem out of the country before the Passover in order to __self-purify__. \\ 
-
-2. To emphasize a person or thing in the sentence, by moving it to a special place in the sentence or by some special word or part of a word: \\ 
-**__Jesus himself__ was not baptizing, but his disciples were.** (John 4:2) \\ 
-__It was not Jesus who__ was baptizing, but his disciples were. \\ 
-
-**(Now Jesus said this to test Philip, for he __himself__ knew what he was going to do.)** (John 6:6) \\ 
-(Now Jesus said this to test Philip, for he __really already__ knew what he was going to do.) \\ 
-
-3. To state that someone or something was alone or did something alone or without help, put in words like "alone" or restructure: \\ 
-**When Jesus realized that they were about to come and seize him by force to make him king, he withdrew again up the mountain __by himself__.** (John 6:15) \\ 
-When Jesus realized that they were about to come and seize him by force to make him king, he withdrew again __alone__ up the mountain. \\ 
+3. To state that someone or something was alone or did something alone or without help, put in words like "alone" or restructure: 
+  * **When Jesus realized that they were about to come and seize him by force to make him king, he withdrew again up the mountain __by himself__.** (John 6:15)
+    * "When Jesus realized that they were about to come and seize him by force to make him king, he withdrew again __alone__ up the mountain." 
   
-**and the face cloth that had been on his head; it was not lying with the linen cloths but was rolled up in its place __by itself__.** ( John 20:7) \\ 
-and the face cloth that had been on his head; it was not lying with the linen cloths but was rolled up in __a different__ place. \\ 
+  * **and the face cloth that had been on his head; it was not lying with the linen cloths but was rolled up in its place __by itself__.** ( John 20:7)
+    * "and the face cloth that had been on his head; it was not lying with the linen cloths but was rolled up in __a different__ place."
 
 ----
 https://pad.door43.org/p/ta-figs_rpronouns
