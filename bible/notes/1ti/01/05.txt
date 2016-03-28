@@ -35,15 +35,15 @@
 
 ===== translationWords: =====
 
-  * [[:en:obe:other:command]]
-  * [[:en:obe:kt:love]]
-  * [[:en:obe:kt:purify]]
-  * [[:en:obe:other:heart]]
-  * [[:en:obe:kt:faith]]
-  * [[:en:obe:kt:teacher]]
-  * [[:en:obe:kt:lawofmoses]]
-  * [[:en:obe:kt:good]]
-  * [[:en:obe:other:lawful]]
+  * [[en:obe:other:command]]
+  * [[en:obe:kt:love]]
+  * [[en:obe:kt:purify]]
+  * [[en:obe:other:heart]]
+  * [[en:obe:kt:faith]]
+  * [[en:obe:kt:teacher]]
+  * [[en:obe:kt:lawofmoses]]
+  * [[en:obe:kt:good]]
+  * [[en:obe:other:lawful]]
  
 
 ===== Translation Notes: =====
@@ -63,7 +63,7 @@
 
 ===== Links: =====
 
-  * **[[:en:bible:questions:comprehension:1ti:01|1 Timothy Chapter 01 Comprehension Questions]]**
+  * **[[en:bible:questions:comprehension:1ti:01|1 Timothy Chapter 01 Comprehension Questions]]**
 **[[:en:bible:notes:1ti:01:03|<<]] | [[:en:bible:notes:1ti:01:09|>>]]**
 
 ~~DISCUSSION~~{{tag>publish purify}}
