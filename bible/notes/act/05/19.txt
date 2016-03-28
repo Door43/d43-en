@@ -33,14 +33,14 @@
 
 ===== translationWords: =====
 
-  * [[:en:obe:kt:angel]]
-  * [[:en:obe:kt:temple]]
-  * [[:en:obe:kt:word]]
-  * [[:en:obe:kt:priest]]
-  * [[:en:obe:other:council]]
-  * [[:en:obe:other:elder]]
-  * [[:en:obe:other:israel]]
-  * [[:en:obe:kt:apostle]]
+  * [[en:obe:kt:angel]]
+  * [[en:obe:kt:temple]]
+  * [[en:obe:kt:word]]
+  * [[en:obe:kt:priest]]
+  * [[en:obe:other:council]]
+  * [[en:obe:other:elder]]
+  * [[en:obe:other:israel]]
+  * [[en:obe:kt:apostle]]
  
 ===== Translation Notes: =====
 
@@ -50,7 +50,7 @@
 
 ===== Links: =====
 
-  * **[[:en:bible:questions:comprehension:act:05|Acts Chapter 05 Comprehension Questions]]**
+  * **[[en:bible:questions:comprehension:act:05|Acts Chapter 05 Comprehension Questions]]**
 **[[:en:bible:notes:act:05:17|<<]] | [[:en:bible:notes:act:05:22|>>]]**
 
 ~~DISCUSSION~~{{tag>publish  council elder apostle}}

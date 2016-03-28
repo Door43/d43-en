@@ -28,11 +28,11 @@
 
 ===== translationWords: =====
 
-  * [[:en:obe:other:peter]]
-  * [[:en:obe:kt:holyspirit]]
-  * [[:en:obe:kt:circumcise]]
-  * [[:en:obe:kt:believer]]
-  * [[:en:obe:other:gentile]]
+  * [[en:obe:other:peter]]
+  * [[en:obe:kt:holyspirit]]
+  * [[en:obe:kt:circumcise]]
+  * [[en:obe:kt:believer]]
+  * [[en:obe:other:gentile]]
  
 
 ===== Translation Notes: =====
@@ -43,7 +43,7 @@
 
 ===== Links: =====
 
-  * **[[:en:bible:questions:comprehension:act:10|Acts Chapter 10 Comprehension Questions]]**
+  * **[[en:bible:questions:comprehension:act:10|Acts Chapter 10 Comprehension Questions]]**
 **[[:en:bible:notes:act:10:42|<<]] | [[:en:bible:notes:act:10:46|>>]]**
 
 ~~DISCUSSION~~{{tag>publish  circumcise }}

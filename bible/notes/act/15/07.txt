@@ -31,16 +31,16 @@
 
 ===== translationWords: =====
 
-  * [[:en:obe:other:peter]]
-  * [[:en:obe:kt:brother]]
-  * [[:en:obe:kt:god]]
-  * [[:en:obe:other:gentile]]
-  * [[:en:obe:kt:goodnews]]
-  * [[:en:obe:kt:believe]]
-  * [[:en:obe:other:heart]]
-  * [[:en:obe:kt:witness]]
-  * [[:en:obe:kt:holyspirit]]
-  * [[:en:obe:kt:faith]]
+  * [[en:obe:other:peter]]
+  * [[en:obe:kt:brother]]
+  * [[en:obe:kt:god]]
+  * [[en:obe:other:gentile]]
+  * [[en:obe:kt:goodnews]]
+  * [[en:obe:kt:believe]]
+  * [[en:obe:other:heart]]
+  * [[en:obe:kt:witness]]
+  * [[en:obe:kt:holyspirit]]
+  * [[en:obe:kt:faith]]
  
 
 ===== Translation Notes: =====
@@ -58,7 +58,7 @@
 
 ===== Links: =====
 
-  * **[[:en:bible:questions:comprehension:act:15|Acts Chapter 15 Comprehension Questions]]**
+  * **[[en:bible:questions:comprehension:act:15|Acts Chapter 15 Comprehension Questions]]**
 **[[:en:bible:notes:act:15:05|<<]] | [[:en:bible:notes:act:15:10|>>]]**
 
 ~~DISCUSSION~~{{tag>publish heart }}

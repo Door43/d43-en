@@ -39,12 +39,12 @@
 
 ===== translationWords: =====
 
-  * [[:en:obe:other:pentecost]]
-  * [[:en:obe:kt:heaven]]
-  * [[:en:obe:kt:filled]]
-  * [[:en:obe:kt:holyspirit]]
-  * [[:en:obe:other:tongue]]
-  * [[:en:obe:kt:holyspirit]]
+  * [[en:obe:other:pentecost]]
+  * [[en:obe:kt:heaven]]
+  * [[en:obe:kt:filled]]
+  * [[en:obe:kt:holyspirit]]
+  * [[en:obe:other:tongue]]
+  * [[en:obe:kt:holyspirit]]
 
 ===== Translation Notes: =====
 
@@ -57,7 +57,7 @@
 
 ===== Links: =====
 
-  * **[[:en:bible:questions:comprehension:act:02|Acts Chapter 02 Comprehension Questions]]**
+  * **[[en:bible:questions:comprehension:act:02|Acts Chapter 02 Comprehension Questions]]**
 **[[:en:bible:notes:act:01:24|<<]] | [[:en:bible:notes:act:02:05|>>]]**
 
 ~~DISCUSSION~~{{tag>publish}}

@@ -30,11 +30,11 @@
 
 ===== translationWords: =====
 
-  * [[:en:obe:kt:witness]]
-  * [[:en:obe:other:jew]]
-  * [[:en:obe:other:jerusalem]]
-  * [[:en:obe:other:hang]]
-  * [[:en:obe:kt:raise]]
+  * [[en:obe:kt:witness]]
+  * [[en:obe:other:jew]]
+  * [[en:obe:other:jerusalem]]
+  * [[en:obe:other:hang]]
+  * [[en:obe:kt:raise]]
  
 
 ===== Translation Notes: =====
@@ -50,7 +50,7 @@ Peter continues to speak.
 
 ===== Links: =====
 
-  * **[[:en:bible:questions:comprehension:act:10|Acts Chapter 10 Comprehension Questions]]**
+  * **[[en:bible:questions:comprehension:act:10|Acts Chapter 10 Comprehension Questions]]**
 **[[:en:bible:notes:act:10:36|<<]] | [[:en:bible:notes:act:10:42|>>]]**
 
 ~~DISCUSSION~~{{tag>publish  hang raise}}

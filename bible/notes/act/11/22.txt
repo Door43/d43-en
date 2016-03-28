@@ -38,12 +38,12 @@
 
 ===== translationWords: =====
 
-  * [[:en:obe:kt:church]]
-  * [[:en:obe:other:jerusalem]]
-  * [[:en:obe:other:barnabas]]
-  * [[:en:obe:kt:lord]]
-  * [[:en:obe:kt:holyspirit]]
-  * [[:en:obe:kt:faith]]
+  * [[en:obe:kt:church]]
+  * [[en:obe:other:jerusalem]]
+  * [[en:obe:other:barnabas]]
+  * [[en:obe:kt:lord]]
+  * [[en:obe:kt:holyspirit]]
+  * [[en:obe:kt:faith]]
  
 
 ===== Translation Notes: =====
@@ -60,7 +60,7 @@
 
 ===== Links: =====
 
-  * **[[:en:bible:questions:comprehension:act:11|Acts Chapter 11 Comprehension Questions]]**
+  * **[[en:bible:questions:comprehension:act:11|Acts Chapter 11 Comprehension Questions]]**
 **[[:en:bible:notes:act:11:19|<<]] | [[:en:bible:notes:act:11:25|>>]]**
 
 ~~DISCUSSION~~{{tag>publish p2review}}

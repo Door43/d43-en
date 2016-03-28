@@ -36,12 +36,12 @@
 
 ===== translationWords: =====
 
-  * [[:en:obe:other:jew]]
-  * [[:en:obe:other:antioch]]
-  * [[:en:obe:other:iconium]]
-  * [[:en:obe:other:stone]]
-  * [[:en:obe:kt:death]]
-  * [[:en:obe:kt:disciple]]
+  * [[en:obe:other:jew]]
+  * [[en:obe:other:antioch]]
+  * [[en:obe:other:iconium]]
+  * [[en:obe:other:stone]]
+  * [[en:obe:kt:death]]
+  * [[en:obe:kt:disciple]]
  
 
 ===== Translation Notes: =====
@@ -54,7 +54,7 @@
  
 ===== Links: =====
 
-  * **[[:en:bible:questions:comprehension:act:14|Acts Chapter 14 Comprehension Questions]]**
+  * **[[en:bible:questions:comprehension:act:14|Acts Chapter 14 Comprehension Questions]]**
 **[[:en:bible:notes:act:14:17|<<]] | [[:en:bible:notes:act:14:21|>>]]**
 
 ~~DISCUSSION~~{{tag>publish iconium stone death }}

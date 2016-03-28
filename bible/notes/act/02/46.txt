@@ -23,16 +23,16 @@
 
 ===== translationWords: =====
 
-  * [[:en:obe:kt:temple]]
-  * [[:en:obe:other:bread]]
-  * [[:en:obe:kt:joy]]
-  * [[:en:obe:other:humble]]
-  * [[:en:obe:other:heart]]
-  * [[:en:obe:other:praise]]
-  * [[:en:obe:kt:god]]
-  * [[:en:obe:kt:grace]]
-  * [[:en:obe:kt:lord]]
-  * [[:en:obe:kt:save]]
+  * [[en:obe:kt:temple]]
+  * [[en:obe:other:bread]]
+  * [[en:obe:kt:joy]]
+  * [[en:obe:other:humble]]
+  * [[en:obe:other:heart]]
+  * [[en:obe:other:praise]]
+  * [[en:obe:kt:god]]
+  * [[en:obe:kt:grace]]
+  * [[en:obe:kt:lord]]
+  * [[en:obe:kt:save]]
 
 ===== Translation Notes: =====
 
@@ -44,7 +44,7 @@
 
 ===== Links: =====
 
-  * **[[:en:bible:questions:comprehension:act:02|Acts Chapter 02 Comprehension Questions]]**
+  * **[[en:bible:questions:comprehension:act:02|Acts Chapter 02 Comprehension Questions]]**
 **[[:en:bible:notes:act:02:43|<<]] | [[:en:bible:notes:act:03:01|>>]]**
 
 ~~DISCUSSION~~{{tag>publish bread praise}}

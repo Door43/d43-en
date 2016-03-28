@@ -39,13 +39,13 @@
 
 ===== translationWords: =====
 
-  * [[:en:obe:other:paul]]
-  * [[:en:obe:other:johnmark]]
-  * [[:en:obe:other:jerusalem]]
-  * [[:en:obe:other:synagogue]]
-  * [[:en:obe:kt:sabbath]]
-  * [[:en:obe:kt:prophet]]
-  * [[:en:obe:kt:brother]]
+  * [[en:obe:other:paul]]
+  * [[en:obe:other:johnmark]]
+  * [[en:obe:other:jerusalem]]
+  * [[en:obe:other:synagogue]]
+  * [[en:obe:kt:sabbath]]
+  * [[en:obe:kt:prophet]]
+  * [[en:obe:kt:brother]]
  
 ===== Translation Notes: =====
 
@@ -61,7 +61,7 @@
 
 ===== Links: =====
 
-  * **[[:en:bible:questions:comprehension:act:13|Acts Chapter 13 Comprehension Questions]]**
+  * **[[en:bible:questions:comprehension:act:13|Acts Chapter 13 Comprehension Questions]]**
 **[[:en:bible:notes:act:13:11|<<]] | [[:en:bible:notes:act:13:16|>>]]**
 
 ~~DISCUSSION~~{{tag>publish johnmark }}
