@@ -25,21 +25,21 @@
 
 ===== translationWords: =====
 
-  * [[en:obe:kt:wordofgod]]
-  * [[en:obe:kt:sonofman]]
-  * [[en:obe:other:tyre]]
-  * [[en:obe:other:jerusalem]]
-  * [[en:obe:kt:gate]]
-  * [[en:obe:other:peoplegroup]]
-  * [[en:obe:other:ruin]]
+  * [[:en:obe:kt:wordofgod]]
+  * [[:en:obe:kt:sonofman]]
+  * [[:en:obe:other:tyre]]
+  * [[:en:obe:other:jerusalem]]
+  * [[:en:obe:kt:gate]]
+  * [[:en:obe:other:peoplegroup]]
+  * [[:en:obe:other:ruin]]
 
 ===== Translation Notes: =====
 
-  * **in the eleventh year** - AT: "in the eleventh year of the exile of King Jehoiachin" (See: [[en:obe:other:biblicaltimeyear]] and [[:en:ta:vol2:translate:translate_ordinal]] and [[:en:ta:vol1:translate:figs_explicit]])
-  * **in the first day of the month** - It is uncertain which month of the Hebrew calendar Ezekiel meant. (See: [[en:obe:other:biblicaltime]] and [[:en:ta:vol2:translate:translate_ordinal]])
-  * **the word of Yahweh came** - See how you translated this in [[en:bible:notes:ezk:01:01|1:3]].
+  * **in the eleventh year** - AT: "in the eleventh year of the exile of King Jehoiachin" (See: [[:en:obe:other:biblicaltimeyear]] and [[:en:ta:vol2:translate:translate_ordinal]] and [[:en:ta:vol1:translate:figs_explicit]])
+  * **in the first day of the month** - It is uncertain which month of the Hebrew calendar Ezekiel meant. (See: [[:en:obe:other:biblicaltime]] and [[:en:ta:vol2:translate:translate_ordinal]])
+  * **the word of Yahweh came** - See how you translated this in [[:en:bible:notes:ezk:01:01|1:3]].
   * **Son of man** - See how you translated this in [[:en:bible:notes:ezk:02:01|2:3]].
-  * **Tyre has said against Jerusalem** - AT: "the people of Tyre have said against the people of Jerusalem." (See: [[en:ta:vol2:translate:figs_metonymy]])
+  * **Tyre has said against Jerusalem** - AT: "the people of Tyre have said against the people of Jerusalem." (See: [[:en:ta:vol2:translate:figs_metonymy]])
   * **Aha!** - AT: "Yes!" or "Very good!"
   * **The gates of the people are broken** - AT: "The armies have broken down the gates that protected the people inside of Jerusalem."
   * **She has turned to me** - Cities are often referred to as "she." The word "me" refers to the people of Tyre. AT: "The people of Jerusalem are now running to us"
@@ -47,7 +47,7 @@
 
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:ezk:26|Ezekiel Chapter 26 Comprehension Questions]]**
+  * **[[:en:bible:questions:comprehension:ezk:26|Ezekiel Chapter 26 Comprehension Questions]]**
 **[[:en:bible:notes:ezk:25:15|<<]] | [[:en:bible:notes:ezk:26:03|>>]]**
 
 ~~DISCUSSION~~{{tag>publish}}
