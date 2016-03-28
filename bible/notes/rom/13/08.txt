@@ -14,9 +14,9 @@
 ===== UDB: =====
 
 <usfm>
-\v 8 Pay all of your debts when you are supposed to pay them. The only thing that is like a debt that you should never stop paying is to love one another. Whoever loves others has fulfilled all that God requires in his law.
-\v 9 There are many things that God has commanded in his law, such as do not commit adultery, do not murder anyone, do not steal, and do not desire anything that belongs to someone else. But we can sum up the meaning of all the law in this sentence: "Love your neighbor as you love yourself."
-\v 10 If you love everyone around you, you will harm no one. So whoever loves others fulfills all that God's law requires.
+\v 8 Pay all of your debts when you are supposed to pay them. The only thing that is like a debt that you should never stop paying is to love one another. Whoever loves others has fulfilled all that God requires in his Law.
+\v 9 There are many things that God has commanded in his Law, such as do not commit adultery, do not murder anyone, do not steal, and do not desire anything that belongs to someone else. But we can sum up the meaning of all the Law in this sentence: "Love your neighbor as you love yourself."
+\v 10 If you love everyone around you, you will harm no one. So whoever loves others fulfills all that God's Law requires.
 
 
 
@@ -28,9 +28,9 @@
 
 <usfm>
 \p
-\v 8 Owe no one anything, except to love one another. For he who loves his neighbor has fulfilled the law.
+\v 8 Owe no one anything, except to love one another. For he who loves his neighbor has fulfilled the Law.
 \v 9 For, "You will not commit adultery. You will  not kill. You will not steal. You will not covet"—and if there is any other commandment also, it is summed up in this sentence: "You will love your neighbor as yourself."
-\v 10 Love does not harm one's neighbor. Therefore, love is the fulfilment of the law.
+\v 10 Love does not harm one's neighbor. Therefore, love is the fulfilment of the Law.
 </usfm>
 
 ===== translationWords: =====
@@ -45,17 +45,18 @@
 
 ===== Translation Notes: =====
 
-  * **Owe no one anything** - "Pay all you owe to the government and everybody else" (See: [[:en:ta:vol2:translate:figs_doublenegatives]])
-  * **Owe** - This verb is plural and applies to all the Roman Christians. (See: [[:en:ta:vol1:translate:figs_you]])
-  * **except** - New sentence: "Loving other Christians is the one debt that you may continue to owe" (See: [[:en:ta:vol2:translate:figs_ellipsis]])
+  * **Owe no one anything** - AT: "Pay all you owe to the government and everybody else" (See: [[:en:ta:vol2:translate:figs_doublenegatives|Double Negatives]])
+  * **Owe** - This verb is plural and applies to all the Roman Christians. (See: [[en:ta:vol1:translate:figs_you]])
+  * **except** - New sentence: “Loving other Christians is the one debt that you may continue to owe” (See: [[en:ta:vol2:translate:figs_ellipsis]])
   * **love** - This refers to the kind of love that comes from God that is focused on the good of others, even when it doesn't benefit oneself. 
-  * **For, "You will not..."** - Paul will now show how love fulfills the Law of God.
-  * **You will** - All occurrences of "you" in 13:9 are singular, but the speaker was addressing a group of people as if they were one person, so you may need to use plural forms here. (See: [[:en:ta:vol1:translate:figs_you]])
-  * **Love does not harm** - This phrase portrays love as a person who is being kind to other people. (See: [[:en:ta:vol2:translate:figs_personification]])"People who love their neighbors do not harm them" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **Therefore** - "Because love does not harm one's neighbor"
+  * **For, "You will not…"** - Paul will now show how love fulfills the Law of God.
+  * **You will** - All occurrences of "you" in 13:9 are singular, but the speaker was addressing a group of people as if they were one person, so you may need to use plural forms here. (See: [[en:ta:vol1:translate:figs_you]])
+  * **covet** - "Covet" means to desire to have or possess something which a person does not have and is kept from having or possessing.
+  * **Love does not harm** - This phrase portrays love as a person who is being kind to other people. (See: [[en:ta:vol2:translate:figs_personification]]) AT: "People who love their neighbors do not harm them" (See: [[en:ta:vol2:translate:figs_metonymy]])
+  * **Therefore** - AT: "Because love does not harm one's neighbor"
 ===== Links: =====
 
-  * **[[:en:bible:questions:comprehension:rom:13|Romans Chapter 13 Comprehension Questions]]**
+  * **[[en:bible:questions:comprehension:rom:13|Romans Chapter 13 Comprehension Questions]]**
 **[[:en:bible:notes:rom:13:06|<<]] | [[:en:bible:notes:rom:13:11|>>]]**
 
 ~~DISCUSSION~~{{tag>publish}}
