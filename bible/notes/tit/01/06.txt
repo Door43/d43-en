@@ -23,11 +23,11 @@
 
 ===== translationWords: =====
 
-  * [[en:obe:other:elder]]
-  * [[en:obe:kt:faithful]]
-  * [[en:obe:kt:evil]]
-  * [[en:obe:other:manager]]
-  * [[en:obe:kt:houseofgod]]
+  * [[:en:obe:other:elder]]
+  * [[:en:obe:kt:faithful]]
+  * [[:en:obe:kt:evil]]
+  * [[:en:obe:other:manager]]
+  * [[:en:obe:kt:houseofgod]]
 
 ===== Translation Notes: =====
 
@@ -43,7 +43,7 @@
 
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:tit:01|Titus Chapter 01 Comprehension Questions]]**
+  * **[[:en:bible:questions:comprehension:tit:01|Titus Chapter 01 Comprehension Questions]]**
 **[[:en:bible:notes:tit:01:04|<<]] | [[:en:bible:notes:tit:01:08|>>]]**
 
 ~~DISCUSSION~~{{tag>publish  manager}}

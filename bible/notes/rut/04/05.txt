@@ -25,13 +25,13 @@
 
 ===== translationWords: =====
 
-  * [[en:obe:other:Boaz]]
-  * [[en:obe:kt:inherit]]
-  * [[en:obe:other:kin]]
-  * [[en:obe:other:Moab]]
-  * [[en:obe:kt:name]]
-  * [[en:obe:kt:redeem]]
-  * [[en:obe:other:Ruth]]
+  * [[:en:obe:other:Boaz]]
+  * [[:en:obe:kt:inherit]]
+  * [[:en:obe:other:kin]]
+  * [[:en:obe:other:Moab]]
+  * [[:en:obe:kt:name]]
+  * [[:en:obe:kt:redeem]]
+  * [[:en:obe:other:Ruth]]
 
 ===== Translation Notes: =====
 
@@ -44,7 +44,7 @@
 
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:rut:04|Ruth Chapter 04 Comprehension Questions]]**
+  * **[[:en:bible:questions:comprehension:rut:04|Ruth Chapter 04 Comprehension Questions]]**
 **[[:en:bible:notes:rut:04:03|<<]] | [[:en:bible:notes:rut:04:07|>>]]**
 
 ~~DISCUSSION~~{{tag>publish}}
