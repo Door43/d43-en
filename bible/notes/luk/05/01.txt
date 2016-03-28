@@ -33,11 +33,11 @@
 ===== translationWords: =====
 
 
-    * [[en:obe:kt:jesus]]
-    * [[en:obe:kt:wordofgod]]
-    * [[en:obe:other:seaofgalilee]]
-    * [[en:obe:other:fisherman]]
-    * [[en:obe:other:peter]]
+    * [[:en:obe:kt:jesus]]
+    * [[:en:obe:kt:wordofgod]]
+    * [[:en:obe:other:seaofgalilee]]
+    * [[:en:obe:other:fisherman]]
+    * [[:en:obe:other:peter]]
 
 ===== Translation Notes: =====
 
@@ -49,7 +49,7 @@
 
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:05|Luke Chapter 05 Comprehension Questions]]**
+  * **[[:en:bible:questions:comprehension:luk:05|Luke Chapter 05 Comprehension Questions]]**
 **[[:en:bible:notes:luk:04:42|<<]] | [[:en:bible:notes:luk:05:04|>>]]**
 
 ~~DISCUSSION~~{{tag>publish  seaofgalilee}}
