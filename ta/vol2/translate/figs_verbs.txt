@@ -1,101 +1,74 @@
 ===== Verbs =====
 
-//This page answers the question:// //What are verbs?//
+//This page answers the question:// //What are verbs and what kinds of things are associated with them?//
 
 //In order to understand this topic, it would be good to read://
   * //[[en:ta:vol2:translate:figs_partsofspeech|Parts of Speech]]//
 
-Verbs either link the subject to a descriptive portion of the sentence or express an action or a state-of-being (e.g. am, is, are, was, were, be, being, been). Many languages use more verbs than English does. The portion of the sentence which contains the verb is called the predicate.
+==== Description ====
 
-Events are usually expressed by **VERBS**.
+Verbs are words that refer to an action or event or that are used in describing or identifying things. The verbs in the examples below are underlined. 
+  * John __ran__.  ("Run" is an action.)
+  * John __ate__ a banana.  ("Eat" is an action.)
+  * John __saw__ Mark. ("See" is an event.)
+  * John __died.__  ("Die" is an event.)
+  * John __is__ tall.  (The phrase "is tall" describes John. The word "is" is a verb that links "John" with "tall".)
+  * John __looks__ handsome. (The phrase "is handsome" describes John. The word "looks" here is a verb that links "John" with "handsome."
+  * John __is__ my brother. (The phrase "is my brother" identifies John.)
 
-The context of the sentence determines the type of verb because some can function in different ways. For example, "The fish tasted oily," uses tasted as a linking verb that describes the subject (the fish). "John tasted the fish" uses tasted as an action verb showing what the subject (John) did.
+==== People or Things Associated with a Verb ====
 
-Some verbs require a 'helper' and thus become a verb phrase. Examples include: am eating, are running, have been eating, will be eating.
+A verb usually says something about someone or something. All of the example sentences above say something about John. "John" is the **subject** of those sentences. In English the subject usually comes before the verb.
 
-==== Verb Tense ====
+In some languages, the verb may be a little bit different depending on the persons or things associated with it. For example, English speakers sometimes put "s" at the end of the verb when the subject is just one person.
+  * They __eat__ bananas every day. (The subject "they" is more than one person.)
+  * John __eats__ bananas every day. (The subject "John" is one person.)
+Sometimes there is another person or thing associated with the verb. In the examples below, the underlined one is the verb, and the phrase in bold print is the **object**. In English the object usually comes after the verb. 
+  * He __ate__ **lunch**.
+  * He __sang__ **a song**.
+  * He __read__ **a book**.
+  * He __saw__ **the book**.
+Some verbs never have an object.
+  * The sun __rose__ at six o'clock.
+  * John __slept__ well.
+  * John __fell__ yesterday.
+In English, it is sometimes alright to leave out the object when the object is not important in the sentence.
+  * He never __eats__ at night. 
+  * He  __sings__ all the time.
+  * He __reads__ well.
+  * He cannot __see__. 
+In some languages, a verb that needs an object must always take one, even if the object is not very important. People who speak those languages might say the sentences above like this. 
+  * He never __eats__  **food** at night. 
+  * He  __sings__ **songs** all the time.
+  * He __reads__ **words** well.
+  * He cannot __see__ **anything**.
 
-Just as time can be expressed as past, present and future, verbs also have these tenses. The verb reflects when the action takes place. Perfect tenses of verbs indicate continuing action (either continuous from a time past or continuous into the future).
+==== Time and Tense ====
 
-==== Verbs and Objects ====
+When we tell about an event, we usually tell whether it is in the past, the present, or the future. Sometimes we do this with words like "yesterday," "now," or "tomorrow."
 
-All sentences have a SUBJECT (PARTICIPANT), VERB (EVENT), and OBJECT (PARTICIPANT). English grammar allows for not stating the object of the verb so that the sentence may only have the SUBJECT (PARTICIPANT) and VERB (EVENT) stated.\\
+In some languages the verb may be a little bit different depending on the time associated with it. This kind of marking on a verb is called "**tense**". English speakers sometimes put "ed" at the end of the verb when the event happened in the past.
+  * Sometimes Mary __cooks__ meat.
+  * Yesterday Mary __cooked__ meat.  (She did this in the past.)
+In some languages speakers might add a word to tell something about the time. English speakers use the word "will" when the verb refers to something in the future.
+  * Tomorrow Mary __will cook__ meat. 
 
-Examples:
-  * '//He has been **singing**  for three hours//.'  The object is not stated.
-  * '//He has been **singing** __hymns__  for three hours.//'   "Hymns" is the object of "singing."
+==== Aspect ====
 
-Note that different languages have different orders (see [[en:ta:vol1:translate:figs_order]]) for these parts of the sentences. In the examples below, the subject is first, the verb is bold, and the object is underlined. 
+When we tell about an event, we usually show whether or not we are thinking about how the event progressed over a period of time, and whether or not the event is still relevant when something else happens. This is "**aspect**". English speakers sometimes use the verbs "is" or "has" and adds "s," "ing," or "ed" to the end of the verb.
+  * Mary __cooks__ meat every day. (This tell about something Mary often does.)
+  * Mary __is cooking__ the meat. (This tells about something Mary is in the process of doing right now.)
+  * Mary __cooked__ the meat, and John __came__ home.  (This simply tells about things that Mary and John did.)
+  * While Mary __was cooking__ the meat, John came home. (This tells about something Mary was in the process of doing when John came home)
+  * Mary __has cooked__ the meat, and she wants us to come eat it. (This tells about something Mary did that is still relevant now.)
+  * Mary __had cooked__ the meat by the time Mark came home. (This tells about something that Mary completed in the past before something else happened.)
 
-In English, it is sometimes ok to leave out the object when the object is not important in the sentence.
-  * He **sang** __a song__.
-  * He likes to **sing**.
 
-In some languages, a verb that needs an object must always take one, even if the object is not very important. In all of these sentences, English can leave out the object.
-  * He likes to **sing** __songs__.
-  * He likes to **cook** __food__.
-  * He has not **eaten** __anything__  in three days.
-  * He is blind. He cannot **see** __anything__.
 
-Sometimes you may need to include an object even if there is no object in English.
-
-=== Singular & Plural Subjects - Verb Agreement ===
-
-Nouns and Pronouns have the ability to be either singular (meaning "one") or plural (meaning "more than one"). For the majority of English words, plurals are formed simply by adding an 's' to the root word.
-
-The Singular Pronouns (see [[en:ta:vol2:translate:figs_singularpronouns]]) & Plural Pronouns (see [[en:ta:vol2:translate:figs_pluralpronouns]]) pages have more information. Basically, singular pronouns include I, you, he, she and it. Plural pronouns include you, they and we. "It" refers back to nouns (the antecedent) which are non-human. There are collective nouns which describe quantities in excess of one but which remain singular in treatment; for example, team refers to several people. However, in a sentence, team is singular. (e.g. The team is tired.)
-
-Verb agreement requires matching singular subjects with singular verbs. An example:
-  * 'The voter is angry.' One voter (singular) uses a singular verb (is).
-  * 'The voters are angry.' Many voters (plural) uses a plural verb (are).
-
-Most of the time in English:
-  * Nouns that are plural have an 's' on the end; verbs that are plural do not.
-  * Singular verbs typically have an 's' on the end and their subject will not (e.g. A dog eats. Two dogs eat.)
-
-Pronouns work the same way; it is important to use the right verb for each of the pronouns. The chart below shows the "Be" verb (in present and past tense) with each of the pronouns; the first four are singular in form and the remaining ones are plural.
-
-|**Pronoun**   |**Present**   |**Past**   |
-|I |am |was |
-|he |is |was |
-|she |is |was |
-|it |is |was |
-|you |are |were |
-|they |are |were |
-|we |are |were |
-
-=== Modal Verbs ===
-
-A special group of verbs called //**modal verbs**// create special challenges. These verbs function in different ways in sentences; their purpose can only be determined in context. Modal verbs can be used to convey responsibilities, expectations, inferences, possibilities or needs. Several examples are giving below under **English Oddities**.
-
-Modal verbs include: can, may, must, should, would
-
-=== Some English Verb Oddities ===
-
-**Can and May**. The verb "can" shows ability or power; "may" is a modal verb involves permission or possibility. Examples:
-  * 'I can read' states a fact.
-  * 'May I read now?' seeks permission to read.
-  * 'That may be perfect' means 'It could be perfect.'
-
-**Must. **  Like 'can' and 'may' this is a 'modal verb.' The context of the sentence is important to understanding the meaning. **//Must//** can show an obligation or an opinion/assumption of the speaker.
-  * I **must **  call my pastor. In this case, //must //  indicates a responsibility.
-  * He **must**  be overwhelmed with calls. In this sentence, //must//  indicates a strong assumption/belief about the person spoken of.
-
-**Has to. **  This is another modal verb that must be considered in context. It can denote obligation, opinion/inference/assumption or need.
-  * He has to finish the test. (Obligation)
-  * He has to be nearly done. (Inference/assumption)
-  * He has to have insulin. (Personal need)
-
-**Teach and Learn**. These verbs are partners. Teaching imparts knowledge. Learning means getting knowledge.
-
-**Sit, Sat and Set**. These verbs are often confused. "Sit" is used to convey resting or being seated. "Set" means to place something. "Sat" is the past tense for sit. "Set" stays the same in both present and past tense. Examples:
-  * 'I sit on a chair.' means 'I rest on a chair.'
-  * 'I set my book on the table.' means 'I place my book on the table.' (or, 'I placed my book on the table')
 
 
 
 
 //Next we recommend you learn about://
-  * //[[en:ta:vol2:translate:figs_grammar|Grammar Topics]]//
   * //[[en:ta:vol2:translate:figs_sentences|Sentences]]//
 

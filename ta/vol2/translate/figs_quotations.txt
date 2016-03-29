@@ -1,59 +1,57 @@
-===== Speech Quotations =====
+===== Direct and Indirect Quotations =====
 
-//This page answers the question:// //What are speech quotations?//
+//This page answers the question:// //What are direct and indirect quotations?//
 
 //In order to understand this topic, it would be good to read://
+  * //[[en:ta:vol2:translate:figs_pronouns|Pronouns]]//
   * //[[en:ta:vol2:translate:figs_verbs|Verbs]]//
   * //[[en:ta:vol2:translate:writing_quotations|Quotations and Quote Margins]]//
 
+There are two kinds of quotations: direct quotation and indirect quotation. 
+  * Direct Quotation: John said, “I do not know at what time I will arrive.”
+  * Indirect Quotation: John said that he did not know what time he would arrive.
+When translating a quotation, translators need to decide whether to translate it as a direct quotation or an indirect quotation.
+
 Watch the video for computer (see http://youtu.be/oe9Pbk8pFTw ) or tablet/phone (see http://youtu.be/9ZKDMCWuCiw ).
 
-In English there are direct and non-direct (indirect) quotations.
-  * **DIRECT**  quotations are when someone reports someone else’s speech the way the other person would have said it. (She said, “Come.” and then he said, “I will come.”) Direct quotations are written between quote marks “ ”.
-  * **INDIRECT**  or **NON-DIRECT**  quotations are when someone reports basically what another person said but from his own perspective (his own words). (She told him to come. He said he would come.) The pronouns change, and often there is a change in the verb tense. Indirect quotations are written without quote marks “ ”.
+==== Description ====
 
-==== Translation Suggestions ====
+In some languages, reported speech can be expressed by direct or indirect quotations.
 
-Some languages have more than one kind of **NON-DIRECT ** quotations. If that is true of your language, consider the best non-direct quotation you should use.  Remember that **DIRECT** quotes in the source text should be direct quotes in the translated text. Perhaps your language organizes the sentence differently, you should then organize the sentence to keep the direct quote.
+A **direct quotation** occurs when someone reports what another person said from the viewpoint of that original speaker. People usually expect that this kind of quotation will represent the original speaker's exact words. In the example below, John would have said "I" when referring to himself, so the narrator, who is telling about John John saying this, uses the word in the quotation "I" to refer to John. 
+  * John said, “__I__ do not know at what time __I__ will arrive.” 
+An **indirect quotation** occurs when a speaker reports what someone else said, but in this case, the speaker is reporting it from his own point of view instead of from the original person's point of view. This kind of quotation usually features changes in pronouns, and it often features changes in time, in word choices, and in length.   In the example below, the narrator refers to John as "he" in the quotation and uses the word "would," which is the past tense of "will."
+  * John said that __he__  did not know what time __he__  would arrive.
 
 ==== Examples from the Bible ====
 
-Luke 5:14 has an example of an indirect quote and a direct quote in the same verse:
-  * //He instructed him to tell no one// is an indirect quote.
-  * //He told him, "Go on your way, and show yourself to the priest."// is a direct quote.
+The verses in the examples below have both direct and indirect quotations. In the explanation below the verse, we have underlined the quotations. 
+>He instructed him to tell no one, but told him, “Go on your way, and show yourself to the priest and offer a sacrifice for your cleansing, according to what Moses commanded, for a testimony to them.” (Luke 5:14 ULB)
 
-Luke 17:20 is another example where there is an indirect quote and a direct quote in the same verse:
-  * //"Being asked by the Pharisees when the kingdom of God would come"// is an indirect quote.
-  * //Jesus answered them and said, "The kingdom of God is not something that can be observed."// This is a direct quote.
+  * Indirect quote: He instructed him __to tell no one__,
+  * Direct quote: but told him, “__Go on your way, and show yourself to the priest…__”
 
-==== Examples from English ====
+>Being asked by the Pharisees when the kingdom of God would come, Jesus answered them and said, “The kingdom of God is not something that can be observed. Neither will they say, 'Look here!' or, 'Look there!' because the kingdom of God is among you.”  (Luke 17:20-21 ULB)
 
-=== Direct Quotations ===
+  * Indirect quote: Being asked by the Pharisees __when the kingdom of God would come,__ 
+  * Direct quote: Jesus answered them and said, “__The kingdom of God is not something that can be observed. Neither will they say, 'Look here!' or, 'Look there!' because the kingdom of God is among you.__” 
+  * Direct quotes:  Neither will they say, '__Look here!__' or, '__Look there!__'
 
-  * John said, “I am reading a book.”
+==== Translation Strategies ====
 
-“I am reading a book” is a direct quotation, as it is the words John spoke. The word “I” refers to John, not to the person reporting what John said.
+If the kind of quote used in the source text would work well in your language, consider using it. 
+  - If a direct quote would not work well in your language, change it to an indirect quote.
+  - If an indirect quote would not work well in  your language, change it to a direct quote.
 
-=== Indirect Quotations ===
+==== Examples of Translation Strategies Applied ====
 
-  * John said that he was reading a book.
+1) If a direct quote would not work well in your language, change it to an indirect quote.
+  * **He instructed him to tell no one, but told him, “__Go on your way, and show yourself to the priest and offer a sacrifice for your cleansing, according to what Moses commanded, for a testimony to them.__”** (Luke 5:14 ULB)
+    * He instructed him to tell no one, but __to go on his way, and show himself to the priest and offer a sacrifice for his cleansing, according to what Moses commanded, for a testimony to them__.”
 
-The phrase “that he was reading a book” is an indirect quotation as someone else is reporting what another person said.
-
-==== Examples from other languages ====
-
-Some languages require special markers that indicate what evidence a speaker has for what they are saying. These can range from being a witness, to being directly told (quoted speech), to being indirectly told (reported speech), to heresay, or inference.
-
-From Lezgian, a language spoken in Azerbaijan and Russia
-
-Qe sobranie že-da-**lda**
-
-today meeting be-fut-**quot**
-
-**'They say** that there will be a meeting today'
-
-The marker -lda announces that this is reported speech.
-
+2) If an indirect quote would not work well in  your language, change it to a direct quote.
+  * **He instructed him __to tell no one__, but told him, “Go on your way, and show yourself to the priest and offer a sacrifice for your cleansing, according to what Moses commanded, for a testimony to them.”** (Luke 5:14 ULB)
+      * He told him "__Tell no one__. But go on your way, and show yourself to the priest and offer a sacrifice for your cleansing, according to what Moses commanded, for a testimony to them.”
 
 
 

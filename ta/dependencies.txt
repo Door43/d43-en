@@ -679,6 +679,7 @@ edge [arrowsize=1.4];
 "figs_explicitinfo" [fillcolor="#9999ff"]
 "figs_explicit" -> "figs_explicitinfo"
 "figs_gendernotations" [fillcolor="#9999ff"]
+"figs_pronouns" -> "figs_gendernotations"
 "figs_genericnoun" -> "figs_gendernotations"
 "figs_genericnoun" [fillcolor="#9999ff"]
 "figs_partsofspeech" -> "figs_genericnoun"
@@ -687,6 +688,7 @@ edge [arrowsize=1.4];
 "figs_grammar" [fillcolor="#9999ff"]
 "Translation" -> "figs_grammar"
 "figs_hendiadys" [fillcolor="#9999ff"]
+"figs_intro" -> "figs_hendiadys"
 "figs_partsofspeech" -> "figs_hendiadys"
 "figs_hyperbole" [fillcolor="#9999ff"]
 "figs_intro" -> "figs_hyperbole"
@@ -733,6 +735,7 @@ edge [arrowsize=1.4];
 "figs_pronouns" [fillcolor="#9999ff"]
 "figs_partsofspeech" -> "figs_pronouns"
 "figs_quotations" [fillcolor="#9999ff"]
+"figs_pronouns" -> "figs_quotations"
 "figs_verbs" -> "figs_quotations"
 "writing_quotations" -> "figs_quotations"
 "figs_rpronouns" [fillcolor="#9999ff"]
@@ -959,6 +962,7 @@ edge [arrowsize=1.4];
 "writing_intro" [fillcolor="#9999ff"]
 "writing_decisions" -> "writing_intro"
 "writing_newevent" [fillcolor="#9999ff"]
+"writing_intro" -> "writing_newevent"
 "figs_events" -> "writing_newevent"
 "writing_participants" [fillcolor="#9999ff"]
 "figs_partsofspeech" -> "writing_participants"
