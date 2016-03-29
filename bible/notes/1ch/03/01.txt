@@ -38,7 +38,7 @@
 <usfm>
 \c 3
 \p
-\v 1 Now these were the sons of David born to him in Hebron: 
+\v 1 Now these were the sons of David were born to him in Hebron: 
 \q The firstborn was Amnon, by Ahinoam from Jezreel;
 \q the second, Daniel, by Abigail from Carmel;
 \q 
@@ -50,7 +50,7 @@
 \m
 </usfm>
 
-===== translationWords: =====
+===== Important Terms: =====
 
   * [[en:obe:kt:son]]
   * [[:en:obe:other:david]]
@@ -68,15 +68,15 @@
 ===== Translation Notes: =====
 
   * **David** - David was a son of Jesse, who was a descendant of Judah. (See: [[en:bible:notes:1ch:02:13|2:15]])
-  * **Ahinoam...Abigail...Maacah...Haggith...Abital...Eglah** - These are the names of women. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **Ahinoam...Abigail...Maacah...Haggith...Abital...Eglah**  - These are the names of women. (See: [[:en:ta:vol1:translate:translate_names]])
   * **Talmai...Shephatiah...Ithream** - These are the names of men. (See: [[:en:ta:vol1:translate:translate_names]])
   * **Daniel** - This man has the same name as an Israelite prophet but is a different person. 
-  * **Eglah, his wife** - "Eglah, David's wife." David had more than one wife."David's wife Eglah"
+  * **Eglah, his wife** - "Eglah, David's wife." David had more than one wife. AT: "David's wife Eglah"
 ===== Links: =====
 
   * **[[:en:bible:questions:comprehension:1ch:03|1 Chronicles Chapter 03 Comprehension Questions]]**
 **[[:en:bible:notes:1ch:02:54|<<]] | [[:en:bible:notes:1ch:03:04|>>]]**
 
-~~DISCUSSION~~{{tag>publish}}
+~~DISCUSSION~~{{tag>text publish}}
 
 ~~NOCACHE~~
