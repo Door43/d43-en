@@ -11,7 +11,8 @@
 ===== UDB: =====
 
 <usfm>
-\v 11 Then Yahweh said to Moses, “How long will these people reject me? I am tired of them not believing in what I can do, in spite of all the miracles I have performed among them.
+\v 11 Then Yahweh said to Moses, “How long will these people reject me? I am tired of them not believing in what I can do, in spite of all the miracles I have performed among them!  
+!
 \v 12 So I will send a plague among them and get rid of them. But I will cause your descendants to become a great nation. They will be a nation that is much greater and stronger than these people are."
 
 
@@ -26,7 +27,7 @@
 \v 12 I will attack them with plague, disinherit them, and make from your own clan a nation that will be greater and mightier than they are."
 </usfm>
 
-===== translationWords: =====
+===== Important Terms: =====
 
   * [[en:obe:kt:yahweh]]
   * [[en:obe:other:moses]]
@@ -41,8 +42,8 @@
 
 ===== Translation Notes: =====
 
-  * **How long must this people despise me? How long must they fail to trust me, despite all the signs...?** - Yahweh asks these questions because he has lost patience with the people."This people has despised me for too long. They have failed to trust me for too long, despite all the signs" (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **disinherit them** - Possible meanings"reject them from being my people" or "destroy them."
+  * **How long must this people despise me? How long must they fail to trust me, despite all the signs...?** - Yahweh asks these questions because he has lost patience with the people. AT: "This people has despised me for too long. They have failed to trust me for too long, despite all the signs..." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **disinherit them** - Possible meanings are "reject them from being my people" or "destroy them."
   * **make from your own clan** - Here the word "your" is singular and refers to Moses. (See: [[:en:ta:vol1:translate:figs_you]])
 
 ===== Links: =====
@@ -50,6 +51,6 @@
   * **[[:en:bible:questions:comprehension:num:14|Numbers Chapter 14 Comprehension Questions]]**
 **[[:en:bible:notes:num:14:09|<<]] | [[:en:bible:notes:num:14:13|>>]]**
 
-~~DISCUSSION~~{{tag>publish}}
+~~DISCUSSION~~{{tag>publish text}}
 
 ~~NOCACHE~~
