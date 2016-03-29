@@ -19,27 +19,28 @@
 
 <usfm>
 \v 8 Your city is certainly no safer than the city of Thebes was.
- Thebes was an important city beside the Nile River;
- the river was like a wall around her.
+\q2 Thebes was an important city beside the Nile River;
+\q2 the river was like a wall around her.
+\q1
 \v 9 The rulers of Ethiopia and Egypt helped Thebes;
- there was no limit to their power.
- The governments of the nearby countries of Put and Libya were also allies of Thebes.
+\q2 there was no limit to their power.
+\q1 The governments of the nearby countries of Put and Libya were also allies of Thebes.
+
+
+\q1
 </usfm>
 
 
 ===== ULB: =====
 
 <usfm>
-\q
-\v 8 Nineveh, are you better than Thebes, that was built on the Nile River, that had water around her, 
-\q whose defense was the ocean, whose wall was the sea itself?
-\q
-\v 9 Ethiopia and Egypt were her strength, and there was no end to it; 
-\q Put and Libya were allies to her.
+\p
+\v 8 Nineveh, are you better than Thebes, that was built on the Nile River, that had water around her, whose defense was the ocean, whose wall was the sea itself?
+\v 9 Ethiopia and Egypt were her strength, and it was infinite; Put and Libya were allies to her.
 </usfm>
 
 
-===== translationWords: =====
+===== Important Terms: =====
 
   * [[:en:obe:other:nineveh]]
   * [[:en:obe:other:nileriver]]
@@ -50,11 +51,11 @@
 
 Nahum speaks to the people of Nineveh as though they were the city itself. (See: [[en:ta:vol2:translate:figs_apostrophe]])
 
-  * **are you better than Thebes...?** - "you are not better than Thebes" (See: [[en:ta:vol1:translate:figs_rquestion]])
+  * **are you better than Thebes...?** - AT: "you are not better than Thebes...." (See: [[:en:ta:translate:rhetoricalquestion]])
   * **Thebes** - the former capital of Egypt, which the Assyrians had conquered
   * **whose defense was the ocean, whose wall was the sea itself** - The Nile River surrounded Thebes and made attacking it difficult. (See: [[en:ta:vol1:translate:figs_metaphor]])
   * **defense...wall** - Ancient cities had a main "wall" to keep attackers out, and an outer line of "defense" to keep attackers from the wall.
-  * **ocean...sea** - If these words are the same in your language, use a general term for a large body of water"sea."
+  * **ocean...sea** - If these words are the same in your language, use a general term for a large body of water for "sea."
 ===== Links: =====
 
   * **[[en:bible:questions:comprehension:nam:03|Nahum Chapter 03 Comprehension Questions]]**
