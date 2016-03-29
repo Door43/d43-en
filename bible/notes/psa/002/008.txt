@@ -2,47 +2,19 @@
 
 ===== TFT: =====
 
-<usfm>
-\v 8 Request me to give you the nations,
-\q2 so that they belong to you \add permanently\add*,
-\q2 and I will give them to you.
-\q1 Even the most remote nations will be yours.
-\q1
-\v 9 You will defeat them completely \f + \ft metaphor \f*;
-\q2 you will \add destroy them like people\add* smash a clay pot with an iron rod. \f + \ft simile \f*'~"
-\b
-\q1
-</usfm>
+<usfm> \v 8 Request me to give you the nations, \q2 so that they belong to you \add permanently\add*, \q2 and I will give them to you. \q1 Even the most remote nations will be yours. \q1 \v 9 You will defeat them completely \f + \ft metaphor \f*; \q2 you will \add destroy them like people\add* smash a clay pot with an iron rod. \f + \ft simile \f*'~" \b \q1 </usfm>
 
 ===== UDB: =====
 
-<usfm>
-\v 8 Request me to give you the nations
-\q2 so that they belong to you permanently,
-\q2 and I will give them to you.
-\q1 Even the most remote nations will be yours.
-\q1
-\v 9 You will defeat them completely;
-\q2 you will destroy them like someone smashes a clay pot with an iron rod.'"
-\b
+<usfm> \v 8 Request me to give you the nations \q2 so that they belong to you permanently, \q2 and I will give them to you. \q1 Even the most remote nations will be yours. \q1 \v 9 You will defeat them completely; \q2 you will destroy them like someone smashes a clay pot with an iron rod.'" \b
 
-
-\q1
-</usfm>
+\q1 </usfm>
 
 ===== ULB: =====
 
-<usfm>
-\q
-\v 8 Ask  me, and I will give you the nations for your inheritance
-\q and the farthermost regions of the earth for your possession.
-\q
-\v 9 You will break them with an iron scepter;
-\q you will smash like a potter’s jar."
-\b
-</usfm>
+<usfm> \q \v 8 Ask me, and I will give you the nations for your inheritance \q and the farthermost regions of the earth for your possession. \q \v 9 You will break them with an iron scepter; \q you will smash like a potter’s jar." \b </usfm>
 
-===== translationWords: =====
+===== Important Terms: =====
 
   * [[:en:obe:other:nation]]
   * [[:en:obe:kt:inherit]]
@@ -51,10 +23,10 @@
 
 ===== Translation Notes: =====
 
-  * **I will give you the nations for an inheritance...and the farthermost regions of the earth for your possession** - Both of these clauses express the same idea. (See: [[:en:ta:vol2:translate:figs_parallelism]])
-  * **the nations** - "rule over the nations" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
-  * **the farthermost regions of the earth** - "the lands that are very far away" 
-  * **You will break them with an iron scepter; you will smash like a potter's jar** - "You will defeat them completely; you will totally destroy them." (See: [[:en:ta:vol1:translate:figs_metaphor]] and   [[:en:ta:vol1:translate:figs_simile]]) -"You will defeat them completely" (See:[[:en:ta:vol2:translate:figs_parallelism]])
+  * **I will give you the nations for an inheritance ... and the farthermost regions of the earth for your possession** - Both of these clauses express the same idea. (See: [[:en:ta:vol2:translate:figs_parallelism]])
+  * **the nations** - AT: "rule over the nations" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **the farthermost regions of the earth** - AT: "the lands that are very far away" 
+  * **You will break them with an iron scepter; you will smash like a potter's jar** - AT: "You will defeat them completely; you will totally destroy them." (See: [[:en:ta:vol1:translate:figs_metaphor]] and   [[:en:ta:vol1:translate:figs_simile]]) - AT: "You will defeat them completely" (See:[[:en:ta:vol2:translate:figs_parallelism]])
 ===== Links: =====
 
   * **[[:en:bible:questions:comprehension:psa:002|Psalms Chapter 002 Comprehension Questions]]**
