@@ -1,6 +1,6 @@
 ====== Word Order ======
 
-//This page answers the question: How is word order important?//
+//This page answers the question: What does "word order" mean?//
 
 //Before you read this page, it would be good to read//
 
@@ -8,7 +8,7 @@
   * //[[en:ta:vol2:translate:figs_grammar]]//
   * //[[en:ta:vol2:translate:figs_sentences]]//
 
-SUMMARY: If you want your translation to be natural, clear, and accurate, choosing the correct word order is important.
+Most languages have a normal way of ordering the parts of a sentence. It is not the same in all languages. Translators need to know what the normal word order is in their language.
 
 **Parts of a Sentence**
 
@@ -73,70 +73,7 @@ In Hebrew and Arabic, the word order for sentences is normally verb, subject, ob
 In order to translate from one of these languages into another, it is very important to change the order of the sentence. Only by doing this will the translation be natural, accurate, and clear.
 
 ===== Examples of Translation Strategies Applied =====
-----
 
-This module answers the question: Is word order important?\\
-Before you start this module have you learned about:
-  * [[en:ta:vol2:translate:figs_grammar|Important Information about English Grammar]]
-
-==== Parts of a Sentence ====
-
-A basic sentence has three important parts: subject, object, and verb.  Both subjects and objects are usually nouns (i.e. a person, place, thing, or idea). Verbs show action or a "state of being."
-  * The subject of a sentence is what the sentence is about.
-  * The subject (which will be a noun: a person, place, thing, or idea) is usually  the main “actor” in a sentence.
-  * The “actor” or subject usually does some action or is being described in some way.
-
-When the subject is identified, determine what it is doing (or what is happening to it). 
-  * A subject may be active: it can **perform** or **do** something such as “sing,” or “work,” or “teach.”  
-  * A subject can be in a **state** such as “happy,” “sad,” or “mad.”
-  * Or a subject may have something done to it.
-    * For example, “The ball was thrown.” (The ball is the subject.)
-
-The object of a sentence is a recipient (that is NOT the subject).  The object will also be a person, place, thing, or idea.
-
-In a simple sentence the subject usually does something to or towards an object. Consider the sentence:
-
->//"The boy kicked the ball."//
-
-The boy is the **subject**; the recipient or **object** is the ball.  The subject (boy) does some **action** (kicked) to the object (ball).The VERB tells what the action is that the subject is doing (or being). 
-
-Often it is easy to find the verb, because one looks for the action occurring in the sentence.  
-
-==== Translation Suggestions ====
-
-All languages have a preferred word order. Translate sentences so that they are accurate and have a smooth flow.
-
-Word order or patterns can vary if the sentence:
-
-  * is a question
-  * has descriptive words
-  * has a place in it
-  * has time in it
-  * has a condition in it, such as the word “if”
-  * is a poem
-
-Sometimes the word order will also vary if there is a special type of emphasis. For example, perhaps in your language there is a special way to ask a rhetorical question or give a command. Knowing the preferred word order of the source text and how it is different than the target language can help a translator in translating from that language into the target language. This is especially true if your language does not have the same pattern. If the two languages have a different preferred word order for communicating the same things, then you will need to rephrase the sentence into the order that is preferred in the target language in order to make your translation sound natural. The translator’s goal is always to use natural language to make the meaning clear.
-
-==== Language Examples ====
-
-Now we will look at the importance of word order.
-
-=== English ===
-
-In English, “The boy kicked the ball”. “The boy” is the subject, “kicked” is the verb, and “the ball” is the object.
-
-This is the basic word order that English uses to communicate statements. First we say the subject, then the verb, and then the object. We can represent the Subject, Verb and Object with the letters “S”, “V” and “O”. So, we can call English an **SVO** Language.
-=== Japanese, Chines, Dutch and Turkish ===
-
-In the Japanese, Chinese, Dutch, and Turkish languages usually the subject is first, and then the object comes next, followed by the verb.
-
-So the basic word order for a simple sentence for these languages is: Subject – Object – Verb, or SOV.
-
-=== Hebrew and Arabic ===
-
-In the Hebrew and Arabic languages, the order for sentences is normally Verb – Subject – Object, or VSO.
-
-In order to translate from one of these languages into another, it is very important to change the order of the sentence into the preferred order for the target language. Only by doing this will the translation be natural and clear.
 
 Also view the video for the [[http://youtu.be/PzMpNyCNlLQ|computer]] ([[http://youtu.be/PzMpNyCNlLQ|http://youtu.be/PzMpNyCNlLQ]]) or the [[http://youtu.be/jxeGp2-TuZg|portable device]] ([[http://youtu.be/jxeGp2-TuZg|http://youtu.be/jxeGp2-TuZg]]).
 
