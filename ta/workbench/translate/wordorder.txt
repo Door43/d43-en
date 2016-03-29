@@ -22,18 +22,20 @@ The subject is usually what the sentence is about. It usually performs some acti
 A subject may be **active**: it does something, such as sing, or work, or teach.
   * __Peter__ sings the song well.
 
-A subject can be in a **state**, such as being happy, sad, or angry.
-  * __The boy__ is happy.
-  * __He__ is tall.
 
-Or a subject may have something done to it.
+A subject may have something done to it.
   * __Peter__ was fed good food.
+
+A subject can be described or it can be in a **state**, such as being happy, sad, or angry. 
+  * __He__ is tall.
+  * __The boy__ is happy.
 
 === Object === 
 
 The **object** is often the thing that the subject does something to. 
   * Peter hit __the ball__. 
-  * Peter sings __the song__ well. 
+  * Peter read __a book__.
+  * Peter sang __the song__ well. 
   * Peter ate __good food__.
 
 === Verb === 
@@ -54,24 +56,24 @@ In some languages the order is Subject-Object-Verb.
 In some languages the order is Verb-Subject-Object.
   * Hit Peter the ball.
 
-
-
-Translate sentences into your language so that they are accurate, clear, and natural.
-
 === Changes in Word Order ===
-Word order can vary if the sentence:
+Word order can change if the sentence:
 
-  * is a question
-  * contains descriptive words
-  * contains a location
-  * contains a time element
-  * expresses a condition, such as the word “if”
-  * is a poem
+  * is a question or command
+  * describes a state of being (He is happy. He is tall)
+  * expresses a condition, such as with the the word “if”
+  * has a location
+  * has a time element
+  * is in a poem
 
-Sometimes the word order will also vary if there is a special type of emphasis. Perhaps, for example, in your language a rhetorical question or giving a command requires a certain word order. Knowing the preferred word order of the source text and how it is different from the target language can help. If the two languages have a different preferred word order, then the translator will need to rephrase the sentence to make the translation sound natural. The translator’s goal should always be to use natural language, making the meaning clear and accurate.
+Word order can also change 
+  * if there is some kind of emphasis on a certain part of the sentence
+  * if the sentence is really about something other than the subject
 
-
-
+==== Translation Principles ====
+  * Know which word order is preferred in your language.
+  * Use your language's preferred word order unless there is some reason in your language to change it.
+  * Translate the sentence so that the meaning is accurate and clear and so that it sounds natural.
 
 
 Also view the video for the [[http://youtu.be/PzMpNyCNlLQ|computer]] ([[http://youtu.be/PzMpNyCNlLQ|http://youtu.be/PzMpNyCNlLQ]]) or the [[http://youtu.be/jxeGp2-TuZg|portable device]] ([[http://youtu.be/jxeGp2-TuZg|http://youtu.be/jxeGp2-TuZg]]).
