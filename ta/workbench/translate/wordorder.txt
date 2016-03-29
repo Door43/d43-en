@@ -11,21 +11,20 @@
 ==== Description ==== 
 Most languages have a normal way of ordering the parts of a sentence. It is not the same in all languages. Translators need to know what the normal word order is in their language.
 
-==== Parts of a Sentence ==== 
+==== The Main Parts of a Sentence ==== 
 
-Most sentences have three basic important parts: subject, object, and verb. Subjects and objects are usually nouns (i.e., a person, place, thing, or idea). Verbs show action or a state of being.
+Most sentences have three basic important parts: subject, object, and verb. Subjects and objects are usually nouns (i.e., a person, place, thing, or idea) or pronouns. Verbs show action or a state of being.
 
 === Subject ===
 
-  * The subject is usually what the sentence is about.
-  * The subject is usually the main “actor.”
-  * The subject usually performs some action or is being described.
+The subject is usually what the sentence is about. It usually performs some action or is being described. 
 
 A subject may be **active**: it does something, such as sing, or work, or teach.
   * __Peter__ sings the song well.
 
 A subject can be in a **state**, such as being happy, sad, or angry.
-  * __Peter__ is happy.
+  * __The boy__ is happy.
+  * __He__ is tall.
 
 Or a subject may have something done to it.
   * __Peter__ was fed good food.
@@ -38,13 +37,16 @@ The **object** is often the thing that the subject does something to.
   * Peter ate __good food__.
 
 === Verb === 
-
+The verb shows an action or a state of being.
+  * Peter __sings__ the song well.
+  * Peter __is singing__.
+  * Peter __is__ tall.
 
 === Preferred Word Order === 
 All languages have a preferred word order. The examples below show the order of the subject, object, and verb in "Peter hit the ball" for some languages.
 
 In some languages, such as English, the order is Subject-Verb-Object.
-  * Peter hit the ball
+  * Peter hit the ball.
 
 In some languages the order is Subject-Object-Verb.
   * Peter the ball hit.
