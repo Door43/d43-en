@@ -17,10 +17,11 @@
 ===== UDB: =====
 
 <usfm>
-\v 15 Intelligent people have a desire to get more and more knowledge,
-\q2 and wise people will find someone to teach them even more knowledge.
+\v 15 There is with the 
+intelligent a desire to get more and more knowledge,
+\q2 and a wise will find someone to teach them even more knowledge.
 \q1
-\v 16 If you take a gift to an important person, you will open the way to allow you to talk to him.
+\v 16 If you take a gift to an important person, that will open the way to allow you to talk to him.
 
 
 \q1
@@ -34,12 +35,12 @@
 \v 15 The heart of the intelligent acquires knowledge,
 \q and the hearing of the wise seeks it out.
 \q
-\v 16 A man's gift may open the way
+\v 16 The gift of man may open the way
 \q and bring him before an important person.
 </usfm>
 
 
-===== translationWords: =====
+===== Important Terms: =====
 
   * [[:En:obe:other:heart]] 
   * [[:En:obe:other:know]]
@@ -49,18 +50,18 @@
 ===== Translation Notes: =====
 
 
-  * **The heart of the intelligent...the hearing of the wise** - These two phrases are repeated for emphasis, because it is an important concept. (See: [[:en:ta:vol2:translate:figs_parallelism]])
-  * **The heart of the intelligent** - "The intelligent person" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
-  * **acquires** - "gains" or "obtains"
-  * **the hearing of the wise** - "the ear of the wise""the wise person" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
-  * **may open the way** - "may create opportunities" (See: [[:en:ta:vol1:translate:figs_idiom]])
-  * **bring him before** - "let him meet" or "let him be introduced to" (See: [[:en:ta:vol1:translate:figs_idiom]])
+    * **The heart of the intelligent ... the hearing of the wise ...** - These two phrases are repeated for emphasis, because it is an important concept. (See: [[:en:ta:vol2:translate:figs_parallelism]])
+    * **The heart of the intelligent** - AT: "The intelligent person" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+    * **acquires** - "gains" or "obtains"
+    * **the hearing of the wise** - "the ear of the wise" AT: "the wise person" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+    * **may open the way** - AT: "may create opportunities" (See: [[:en:ta:vol1:translate:figs_idiom]])
+    * **bring him before** - AT: "let him meet" or "let him be introduced to" (See: [[:en:ta:vol1:translate:figs_idiom]])
   
 ===== Links: =====
 
   * **[[:en:bible:questions:comprehension:pro:18|Proverbs Chapter 18 Comprehension Questions]]**
 **[[:en:bible:notes:pro:18:13|<<]] | [[:en:bible:notes:pro:18:17|>>]]**
 
-~~DISCUSSION~~{{tag>publish}}
+~~DISCUSSION~~{{tag>review}}
 
 ~~NOCACHE~~
