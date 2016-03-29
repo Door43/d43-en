@@ -22,10 +22,17 @@
 ===== UDB: =====
 
 <usfm>
-\v 20 Yahweh instructed me to proclaim this message to the people of Israel and Judah,
-\pi
-\v 21 "Listen to this, you people who are foolish and who do not have any sense: You have eyes, but it is as though you cannot see; you have ears, but it is as though you cannot hear.
-\v 22 Why do you not have any awesome respect for me? You should  tremble when you are in my presence! I, Yahweh, am the one who put a barrier along the shores so that the waters of the ocean cannot cross it and flood the land. The waves roll and roar, but they cannot go past that barrier.
+\v 20 Yahweh said to me, "Proclaim this to the people of Israel and Judah:
+\q
+\v 21 Listen to this, you people who are foolish and who do not have any sense:
+\q You have eyes, but it is as though you cannot see; you have ears, but it is as though you cannot hear.
+\q
+\v 22 Why do you not have any awesome respect for me? You should  tremble when you are in my presence!
+\q I, Yahweh, am the one who put a barrier along the shores so that the waters of the ocean cannot cross it and flood the land.
+\q The waves roll and roar, but they cannot go past that barrier.
+
+
+\q
 </usfm>
 
 
@@ -45,7 +52,7 @@
 </usfm>
 
 
-===== translationWords: =====
+===== Important Terms: =====
 
   * [[:en:obe:other:report]]
   * [[en:obe:other:house]]
@@ -53,26 +60,26 @@
   * [[en:obe:other:judah]]
   * [[:en:obe:kt:foolish]]
   * [[:en:obe:kt:fear]]
-  * [[:En:obe:other:tremble]]
+  * tremble
   * [[en:obe:kt:face]]
   * [[:en:obe:other:decree]]
  
 ===== Translation Notes: =====
 
 Yahweh is speaking to the people of Israel.
-  * **Report this** - "Tell this"
-  * **house of Jacob** - See how you translated this in [[en:bible:notes:jer:02:04|2:4]].
-  * **let it be heard in Judah** - "announce it in Judah"
-  * **people! For idols have no will** - "people that has no mind.""people that cannot understand." (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **there are eyes in them, but they cannot see.** - "You have eyes but you do not understand what I am doing"
-  * **There are ears on them, but they do not hear** - "AT: "You have ears but you do not understand what I am telling you"
-  * **This is Yahweh's declaration** - See how you translated this in [[en:bible:notes:jer:01:07|1:8]].
-  * **Do you not fear me** - Yahweh uses this question to emphasize that the people are extremely foolish because they do not fear Yahweh."It is foolish that you do not fear me" (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **or tremble before my face** - "or shake with fear because of me." (See: [[:en:ta:vol1:translate:figs_explicit]] and  [[:en:ta:vol1:translate:figs_idiom]])
-  * **I have placed a border of sand against the sea** - "I placed the sand as the border for the sea"
-  * **an ongoing decree that it does not violate** - "an everlasting limit that it cannot cross"
-  * **rises and falls** - "tosses back and forth"
-  * **not violate it** - "not succeed in overcoming the border." (See: [[:en:ta:vol2:translate:figs_ellipsis]])
+    * **Report this** - "Tell this"
+    * **house of Jacob** - See how you translated this in [[en:bible:notes:jer:02:04|2:4]].
+    * **let it be heard in Judah** - "announce it in Judah"
+    * **people! For idols have no will** - "people that has no mind." AT: "people that cannot understand." (See: [[:en:ta:vol2:translate:figs_metonymy]])
+    * **there are eyes in them, but they cannot see.** - AT: "You have eyes but you do not understand what I am doing"
+    * **There are ears on them, but they do not hear** - "AT: "You have ears but you do not understand what I am telling you"
+    * **This is Yahweh's declaration** - See how you translated this in [[en:bible:notes:jer:01:07|1:8]].
+    * **Do you not fear me...** - Yahweh uses this question to emphasize that the people are extremely foolish because they do not fear Yahweh. AT: "It is foolish that you do not fear me..." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+    * **or tremble before my face** - AT: "or shake with fear because of me." (See: [[:en:ta:vol1:translate:figs_explicit]] and  [[:en:ta:vol1:translate:figs_idiom]])
+    * **I have placed a border of sand against the sea** - "I placed the sand as the border for the sea"
+    * **an ongoing decree that it does not violate** - "an everlasting limit that it cannot cross"
+    * **rises and falls** - "tosses back and forth"
+    * **not violate it** - AT: "not succeed in overcoming the border." (See: [[:en:ta:vol2:translate:figs_ellipsis]])
  
 ===== Links: =====
 
@@ -85,6 +92,6 @@ Yahweh is speaking to the people of Israel.
 ~~DISCUSSION~~
 
 
-{{tag>publish tremble}}
+{{tag>publish ktlink}}
 
 ~~NOCACHE~~
