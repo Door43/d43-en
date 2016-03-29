@@ -6,7 +6,7 @@ There are two types of links in the translationNotes. Links to a translationAcad
 
 The translationAcademy topics are intended to enable anyone, anywhere to learn the basics of how to translate the Bible into their own language. They are intended to be highly flexible for just-in-time learning in web and offline mobile video formats. 
 
-Each note will provide immediate help on how to translate a phrase from the ULB. Sometimes there will be a statement in parenthesis at the end of the suggested translation that may look like this: (See: Metaphor). The word or words in green is a link to a translationAcademy topic.  You can click on the link to learn more about the topic. In the translationStudio app the topic will open on the right side. Scroll down to read the information. Click on the X or 'Close' to close the window.
+Each note will provide immediate help on how to translate a phrase from the ULB. Sometimes there will be a statement in parenthesis at the end of the suggested translation that may look like this: (See: [[:en:ta:vol1:translate:figs_metaphor]]). The word or words in green are a link to a translationAcademy topic.  You can click on the link to learn more about the topic. 
 
 There are several reasons to read the translationAcademy topic information:
   * Learning about the topic will help the translator be more accurate in their translation.
@@ -14,9 +14,9 @@ There are several reasons to read the translationAcademy topic information:
 
 === Examples ===
 
-  * **evening and morning** - This refers to the whole day. Two parts of the day are used to refer to the whole day. In the Jewish culture, a day begins when the sun sets. (See: Merism)
-  * **walking** - “obeying” (See: Metaphor)
-  * **made it known** - “communicated it” (See: Idiom)
+  * **evening and morning** - This refers to the whole day. Two parts of the day are used to refer to the whole day. In the Jewish culture, a day begins when the sun sets. (See: [[:en:ta:vol2:translate:figs_merism]])
+  * **walking** - “obeying” (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **made it known** - “communicated it” (See: [[:en:ta:vol1:translate:figs_idiom]])
 
 
 
