@@ -19,10 +19,10 @@
 ===== ULB: =====
 
 <usfm>
-\v 15 Now if you are ready—when you hear the sounds of the horns, flutes, zithers, lyres, harps, and pipes, and all kinds of music—to fall down and prostrate yourselves to the statue that I have made, all will be well. But if you do not worship, you will immediately be thrown into a blazing furnace. Who is the god who is able to rescue you out of my hands?"
+\v 15 Now if you are ready—when you hear the sounds of the horns, flutes, zithers, lyres, harps, and pipes, and all kinds of music—to fall down and prostrate yourselves to the statue that I have made, all will be well. But if you do not worship, you will immediately be thrown into a blazing furnace. Who is the god able to rescue you out of my hands?"
 </usfm>
 
-===== translationWords: =====
+===== Important Terms: =====
 
   * [[:en:obe:other:trumpet]]
   * [[:en:obe:other:flute]]
@@ -34,10 +34,10 @@
 
 ===== Translation Notes: =====
 
-  * **the horns, flutes,...and all kinds of music** See how you translated this list in [[en:bible:notes:dan:03:03|3:5]].
-  * **all will be well** - "there will no longer be a problem" or "you will be free to go" (See: [[en:ta:vol1:translate:figs_idiom]])
+  * **the horns, flutes, ... and all kinds of music** See how you translated this list in [[en:bible:notes:dan:03:03|3:5]].
+  * **all will be well** - AT: "there will no longer be a problem" or "you will be free to go" (See: [[en:ta:vol1:translate:figs_idiom]])
   * **blazing furnace** - This is a large room where people burn things.
-  * **Who is the god...my hands?** - The king does not expect an answer. He is threatening the three men."No god will be able to rescue you from my power." (See: [[en:ta:vol1:translate:figs_rquestion]])
+  * **Who is the god ... my hands?** - The king does not expect an answer. He is threatening the three men. AT: "No god will be able to rescue you from my power." (See: [[en:ta:vol1:translate:figs_rquestion]])
   * **you will immediately be thrown into a blazing furnace.** - "my soldiers will immediately throw you into the blazing fire." (See: [[en:ta:vol2:translate:figs_activepassive]])
 
 
@@ -46,6 +46,6 @@
   * **[[:en:bible:questions:comprehension:dan:03|Daniel Chapter 03 Comprehension Questions]]**
 **[[:en:bible:notes:dan:03:13|<<]] | [[:en:bible:notes:dan:03:16|>>]]**
 
-~~DISCUSSION~~{{tag>publish}}
+~~DISCUSSION~~{{tag>publish text}}
 
 ~~NOCACHE~~
