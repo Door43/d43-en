@@ -5,4 +5,4 @@ ulb/ep/
 udb/ep/
 *.bz2
 lexicon/
-*.indexer_progess
+.indexer_progress
