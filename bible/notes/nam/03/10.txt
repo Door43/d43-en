@@ -22,26 +22,28 @@
 
 <usfm>
 \v 10 Nevertheless, Thebes was captured,
-\q2 and its people were exiled.
-\q1 Their babies were dashed to pieces in the streets of the city.
-\q1 Enemy soldiers cast lots to decide who would get each official in Thebes to become his slave.
-\q2 All the leaders of Thebes were fastened by chains.
-\q1
+ and its people were exiled.
+ Their babies were dashed to pieces in the streets of the city.
+ Enemy soldiers cast lots to decide who would get each official in Thebes to become his slave.
+ All the leaders of Thebes were fastened by chains.
 \v 11 You people of Nineveh will similarly become dazed and drunk,
-\q2 and you will search for places to hide
-\q2 to escape from your enemies.
+ and you will search for places to hide
+ to escape from your enemies.
 \b
-
-
-\q1
 </usfm>
 
 
 ===== ULB: =====
 
 <usfm>
-\v 10 Yet Thebes was carried away; she went into captivity; her young children were dashed in pieces at the head of every street; her enemies threw lots for her honorable men, and all her great men were bound in chains.
-\v 11 You also will become drunk; you will try to hide; you also will look for a refuge from your enemy.
+\q
+\v 10 Yet Thebes was carried away; she went into captivity; 
+\q her young children were dashed in pieces at the head of every street;
+\q  her enemies threw lots for her honorable men, 
+\q and all her great men were bound in chains.
+\q
+\v 11 You also will become drunk; you will try to hide, 
+\q and you will also look for a refuge from your enemy.
 </usfm>
 
 
