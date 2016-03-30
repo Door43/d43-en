@@ -1,0 +1,29 @@
+===== Checking the ULB =====
+
+//This page answers the question:// //What are the guidelines for checking the ULB?//
+
+//In order to understand this topic, it would be good to read://
+  * //[[en:ta:vol2:checking:vol2_steps|Steps in Checking a Translation]]//
+  * //[[en:ta:vol2:checking:vol2_things_to_check|Types of Things to Check]]//
+  * //[[en:ta:vol3:gateway:gl_adaptulb|Adapt the ULB]]//
+  * //[[en:ta:vol3:gateway:gl_ulb|Translating the ULB]]//
+
+When checking the ULB, remember that the ULB needs to retain the original grammatical forms (as far as possible), the idioms, and the figures of speech of the original so that the OL translator can consider them and use them if they communicate the right thing in the target language. If those forms get changed in a Gateway Language (GL) translation of the ULB, then the OL translator will never see them and the Notes about them will not make sense. 
+
+==== What Should Be Checked in the ULB? ====
+
+In addition to the things mentioned in [[en:ta:vol2:checking:vol2_things_to_check]], the ULB needs to be checked in these areas:
+   - **Idioms** - If there is an idiom in the source ULB, then that same idiom should be in the target ULB. If the idiom does not make sense in the target language, make sure that there is a Note that explains its meaning. If there is not a note for it, then write one in the Gateway Language translationNotes that explains its meaning.  
+   - **Figures of Speech** - If there is a figure of speech in the source ULB, then that same figure of speech should be in the target ULB. If the figure of speech does not make sense in the target language, make sure that there is a Note that explains its meaning. If there is not a note for it, then write one in the Gateway Language translationNotes that explains its meaning.  
+   - **Grammatical Forms** - Check to see if the grammatical forms, that is, the order of words in the sentence or the way that the words are arranged, is the same in the target Gateway Language ULB as they are in the English source ULB. If the words are arranged differently, ask yourself if they could be arranged the same as the words in the English ULB and still make good sense, or if it is necessary for them to be arranged in a different way in the Gateway Language ULB. If they would still make good sense in a way that an Other Language translator would understand, then put them in the same arrangement as in the English. If they are in a different arrangement because that is what makes sense in the target Gateway Language, then leave them in the different arrangement.
+
+It is not necessary to check the ULB for naturalness with speakers of the Gateway Language. The ULB will not be natural, because it retains the forms of the biblical languages, as far as possible. 
+
+
+
+
+//Next we recommend you learn about://
+  * //[[en:ta:vol3:gateway:gl_notes|Translate the translationNotes]]//
+  * //[[en:ta:vol3:gateway:check_udb|Checking the UDB]]//
+  * //[[en:ta:vol3:gateway:check_notes|Checking the translationNotes]]//
+

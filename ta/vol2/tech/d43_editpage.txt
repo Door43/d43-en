@@ -1,0 +1,22 @@
+===== Edit a Page in Door43 =====
+
+//This page answers the question:// //How do I edit a page in Door43?//
+
+//In order to understand this topic, it would be good to read://
+  * //[[en:ta:vol1:tech:d43_translateobs|How to Tanslate the Open Bible Stories in Door43]]//
+
+====== Edit a Page ======
+Only Door43 users can edit a page. Anyone can be a Door43 user. Go to [[en:ta:vol2:tech:d43_create]] to create an account now.
+
+Click on the 'login' link at the top right on any Door43 page. Enter your user ID and Password.
+
+Go to a page to edit. Look for the Pencil Icon that is to the right of the content window.
+
+Click the “Edit this page” icon (the pencil), the text editor window opens. 
+
+  * Go to [[en:ta:vol2:tech:d43_ckgedit]] to learn how to use the graphical editor.\\
+  * Go to [[en:ta:vol2:tech:d43_formatting]] to learn how to use the coding editor.\\
+  * Go to [[en:switching_editors]] to learn how to switch between the graphical and coding editors.\\
+
+
+

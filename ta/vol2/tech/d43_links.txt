@@ -1,0 +1,23 @@
+===== Finding Linked Pages =====
+
+//This page answers the question:// //How can I find pages that are linked to the page I am on?//
+
+//In order to understand this topic, it would be good to read://
+  * //[[en:ta:vol2:tech:d43_intro|Using Door43]]//
+
+Pages that are linked //from// a page are called 'links.'\\
+
+Pages that are linked //to// a page are called 'backlinks.' \\
+
+==== Links ====
+
+In Door43, some links have green words. Click on any green word and the new page opens. [[en:ta:vol2:tech:d43_links]] Sometimes you might want to open the page in a new window. To do this on a PC, right click on the green words and choose 'Open in a New Window' from the pop-up menu. On a Macintosh, click-and-hold on the green words and choose 'Open in a New Window' from the pop-up menu.\\
+
+Some links have blue words. Those links that have a World Icon at the beginning will open a video or a website in a new window. [[http://unfoldingword.org|unfoldingWord]]. Those links that have a Document Icon at the beginning will open the document in a new window.{{en:ta:sample_file.pdf|Sample File}}
+
+==== Backlinks ====
+
+Backlinks are pages that are linked to the current page you are on. (On those pages are green links to this page.) Click on the 2-link chain icon in the right column of the page. A window opens with a list of all the pages that are linked the current page. To return to the page, click on the Paper Icon in the right column to close the list and return to the current page.
+
+
+

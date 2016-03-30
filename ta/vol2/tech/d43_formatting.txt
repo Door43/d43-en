@@ -1,0 +1,127 @@
+===== Formatting Content in Door43 =====
+
+//This page answers the question:// //How do I format a page in Door43?//
+
+//In order to understand this topic, it would be good to read://
+  * //[[en:ta:vol1:tech:d43_translateobs|How to Tanslate the Open Bible Stories in Door43]]//
+
+**DokuWiki** supports some simple markup language, which tries to make the files to be as readable as possible. This page contains the possible syntax you may use when editing the pages. The syntax for the described formatting is in the box below the examples. If you want to try something, just use the [[:playground:playground|playground]] page.
+
+You might want a printed copy of the page. {{:en:ta:dokuwiki_editor_codes.pdf|Simplified DoKuWiki Code}}
+
+===== Basic Text Formatting =====
+
+==== Headings ====
+
+Every page has a heading. The title of the page determines the displayed name in page lists and directories. The number of equal signs determine the formatting. It is important for the formatting of specific headers to be the same in all pages.
+
+<code>
+====== Page Header ====== is 6 equal signs, space, title, space, 6 equal signs
+===== Section Header ===== is 5 equal signs, space, title, space, 5 equal signs
+</code>
+
+**The above code creates this formatting:**
+
+====== Page Header ======
+===== Section Header =====
+
+----
+
+==== Text Format ====
+
+<code>
+DokuWiki supports **bold**, //italic//, __underlined__ and
+''monospaced'' texts.
+Of course you can **__//''combine''//__** all these.
+</code>
+
+**The above code creates this formatting:**
+
+DokuWiki supports **bold**, //italic//, __underlined__ and ''monospaced'' texts. Of course you can **__//''combine'' //__**all these.
+
+<code>
+You can mark something as <del>deleted</del> as well.
+</code>
+
+**The above code creates this formatting:**
+
+You can mark something as <del>deleted</del> as well.
+
+==== Lists ====
+
+<code>
+You can add Bullet lists -
+  * Item 1
+  * Item 2
+    * Item sub-bullet
+and Numbered lists -
+  - Item 1
+  - Item 2
+    - Item a
+</code>
+**The above code creates this formatting:**
+
+You can add Bullet lists -
+  * Item 1
+  * Item 2
+    * Item sub-bullet
+and Numbered lists -
+  - Item 1
+  - Item 2
+    - Item a
+
+==== Paragraphs ====
+
+Blank lines divides the text into paragraphs. If you want to **force a new line** without a paragraph, you can use two backslashes followed by a whitespace or at the end of a line.
+
+You should use forced newlines only if really needed.
+
+<code>
+This is some text with some line breaks \\
+Note that the two backslashes are only recognized at the end of a line \\
+or followed by \\
+a whitespace. \\This happens without the whitespace.
+</code>
+
+**The above code creates this formatting:**
+
+This is some text with some line breaks\\
+Note that the two backslashes are only recognized at the end of a line\\
+or followed by\\
+a whitespace. \\This happens without the whitespace.
+
+==== Links ====
+
+Door43 uses links to translationWords, translationAcademy topics, translationQuestions, other stories and Bible passages. First, go to the page to be linked and copy the address from the top right tab.
+
+<code>
+Type in 2 brackets, followed by the link and then 2 more brackets,\\
+so that the link reads [[en:ta:vol2:tech:d43_formatting]].\\
+In this example the name of the page appears as the link.
+</code>
+
+**The above code creates this formatting:**  \\ Type in 2 brackets, followed by the link and then 2 more brackets,  \\ so that the link reads [[en:ta:vol2:tech:d43_formatting]]. \\
+In this example the name of the page appears as the link.
+
+
+You can force other words to show for the link rather than the page name.
+
+<code>
+Such as [[en:ta:vol2:tech:d43_formatting|click here]].
+</code>
+**The above code creates this formatting:**  \\ Such as [[en:ta:vol2:tech:d43_formatting|click here]].
+
+==== Tags ====
+
+Some pages have tags. Tags appear at the bottom of the page under a line. Most tags are to be left alone but sometimes you may need to change a tag. When you edit the tag syntax, remember that there should always be a space between each tag word. Tags are formatted with 2 sets of 2 curly brackets around the syntax. The syntax is "tag>" and then a word for each tag.
+<code>
+So a tag syntax for two tags would be {{tag>tag1 tag2}}
+</code>
+
+**The above code creates this formatting:**  \\ So a tag syntax for two tags would be
+{{tag>tag1 tag2}}
+
+=== END OF PAGE ===
+
+
+

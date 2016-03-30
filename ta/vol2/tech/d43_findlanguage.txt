@@ -1,0 +1,24 @@
+===== How to Find Your Language on Door43 =====
+
+//This page answers the question:// //How do I find my language on Door43?//
+
+//In order to understand this topic, it would be good to read://
+  * //[[en:ta:vol2:tech:d43_getstarted|How to Get Started in Door43]]//
+
+Click on the 'home' link next to 'You are here:' that is under the Door43 Icon at the top of this window. Look through the list of languages for your language. Click on the language name to go to the list of Open Bible Stories. If you do not see your language listed, use the link at the bottom of the page to add your language.
+Or, if you need a language added to Door43, please go to [[:obs-setup|Open Bible Stories Setup]]. Follow the directions on the page.
+  * Pick a source language from a drop down menu.
+  * Pick a Target Language. Here is how:
+      * In the field box, start typing the name of the target language.
+      * Select language name from list. You may need to search in the translationDatabase for the exact language code.
+  * Check the boxes to choose what needs to be created:
+      * Open Bible Stories
+      * OBS tN - These are the translationNotes that will help the translators.They will be in English unless they are available in the Source Language.
+      * OBS tW - These are the translationWords that are important words to know how to translate. They will be in English unless they are available in the Source Language.
+      * OBS tQ - These are the translationQuestions that are an important part of the checking process.
+  * Click the 'Create OBS Now' button.
+  * A message that the stories have been created will appear in a few moments. 
+  * Click the linked words "clicking here."  The main page to the new Target Language OBS stories will open.
+
+
+

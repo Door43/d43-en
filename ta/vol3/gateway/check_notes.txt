@@ -1,0 +1,29 @@
+===== Checking the translationNotes =====
+
+//This page answers the question:// //What are the guidelines for checking the translationNotes?//
+
+//In order to understand this topic, it would be good to read://
+  * //[[en:ta:vol2:checking:vol2_steps|Steps in Checking a Translation]]//
+  * //[[en:ta:vol2:checking:vol2_things_to_check|Types of Things to Check]]//
+  * //[[en:ta:vol3:gateway:gl_notes|Translate the translationNotes]]//
+
+When checking the translationNotes, remember that the translationNotes are very closely tied to the text of the ULB. The purpose of the translationNotes is to explain any phrases or sentences in the ULB that are hard to understand or hard to translate.
+
+==== What Should Be Checked in the translationNotes? ====
+
+In addition to the things mentioned in [[en:ta:vol2:checking:vol2_things_to_check]], the translationNotes need to be checked in these areas. 
+  - Although the GL translationNotes are a translation of the English source translationNotes, it is important that the phrase in each Note that reproduces the phrase from the ULB is exactly the same as it is in the GL ULB. So you must check the meaning of the Note in the English translationNotes and make sure that the GL translationNote has the same meaning. Then you must also check the wording of the phrase that comes from the ULB and make sure that the words are exactly the same.
+  - In the same way, make sure that any quotations of the UDB have the exact wording of the GL UDB. 
+  - Check that the GL translationNote makes sense with the GL ULB. It is possible that the GL translator made a good translation of the English source translationNote, but when the translationNote is read with the new GL ULB, it might not explain the GL ULB in the right way, or it might not make sense with the GL ULB. In that case, you will need to discuss the problem with the translator. Then you will need to decide how to change the translationNote so that it explains the GL ULB in a way that will be helpful to the OL translator. 
+  - In the same way, check that all references to the UDB make sense with the GL UDB.
+  - If the GL translator has decided that a translationNote does not apply to the GL ULB and has deleted the note from the GL translationNotes, check to make sure that the translationNote truly was not needed.
+  - If the GL translator has written a new translationNote, check to make sure that it truly was needed, and that it makes sense with the GL ULB.
+
+In order to check the translationNotes for naturalness and clarity, you will need to have people read them together with the GL ULB and UDB. Then ask them to mark anything that is not clear to them, or that they would say in a different way. Then give this feedback to the translator so that he can make those places clearer and more natural.
+
+
+
+//Next we recommend you learn about://
+  * //[[en:ta:vol3:gateway:check_udb|Checking the UDB]]//
+  * //[[en:ta:vol3:gateway:check_ulb|Checking the ULB]]//
+

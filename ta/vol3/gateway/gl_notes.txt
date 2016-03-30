@@ -1,0 +1,43 @@
+===== Translate the translationNotes =====
+
+//This page answers the question:// //What are the guidelines for translating or adapting the translationNotes?//
+
+//In order to understand this topic, it would be good to read://
+  * //[[en:ta:vol3:gateway:gl_adaptulb|Adapt the ULB]]//
+  * //[[en:ta:vol3:gateway:gl_ulb|Translating the ULB]]//
+
+==== Translating the translationNotes ====
+
+When you translate the translationNotes for the Bible, you must also have both the ULB and the UDB in front of you, already translated into the target Gateway Language. You must have the ULB available so that you can copy the part of the ULB text that the translationNote is talking about directly into the translationNote. You must also have the UDB text already translated and available, because the translationNotes often copy part of the UDB text in order to show another way to translate the same part of the verse. Other times, the translationNote does not quote the UDB but it does refer to it. In that case, you need to be able to see what the UDB says in order to translate the translationNote in the best way.
+
+In addition, the translationNotes directly comment on parts of the ULB text, so you must read the part of the ULB text that the translationNote comments on in order to properly translate the translationNote. After you read and understand the ULB text, then you can translate the translationNote so that it makes sense together with the ULB text that it refers to.
+
+Do not use the method of blind drafting to translate the translationNotes. Always translate the translationNotes with the Gateway Language ULB and UDB in front of you, and the English translationNotes also visible. This is because you must copy the ULB phrase into the translationNote exactly as it is in the ULB, and you must also copy the UDB phrase if the translationNote also quotes the UDB. 
+
+Often, the translationNotes offer alternative ways to translate a phrase from the ULB. It is important that the phrase that you use to translate this kind of translationNote be a direct substitute for the phrase that it replaces in the ULB. In other words, the phrase has to have the same grammatical construction as the phrase in the ULB. That is, it needs to fit into the sentence in the ULB just like the original phrase did. In order to make sure that the phrase in the GL Note fits the sentence in the GL ULB, you must be able to always look at both the English translationNote and the GL ULB as you translate. Translating the translationNotes while having the source visible, therefore, is the most efficient way to translate them and this will also reduce the number of errors in translation. For more information on the types of translationNotes, see [[en:ta:vol1:translate:resources_types]].
+
+==== Adapting the translationNotes ====
+
+Often, the ULB in the target Gateway Language will say things in a different way than the ULB said them in English. In order for the translationNote to be useful in the target Gateway Language, you will need to adapt the translationNote so that it talks about the text of the ULB as it is in the Gateway Language translation. This means that you will need to copy the phrase of the Gateway ULB that is the translation of the same phrase from the English ULB into the translationNote, and then sometimes change the translationNote so that it makes sense and is helpful for the Other Language translator who will use these translationNotes as translation tools.
+
+Because languages can be very different from each other, sometimes there will be translationNotes that are important and necessary for some languages, but that are not needed for other languages. If there is a translationNote that does not make sense when applied to the ULB text in the target Gateway Language, then you as the translator will need to modify the translationNote so that it does make sense in relation to the ULB in your target Gateway Language. If the translationNote does not apply at all to the target GL text of the ULB, then you may delete that note from your translation of the translationNotes. But be sure to think about it very carefully before you delete a translationNote, to be sure that it is not necessary for the GL translation.
+
+For the same reason, sometimes you will realize that the Other Language translator will need a translationNote in order to understand a phrase in the target Gateway Language ULB, but there might not be a translationNote already written for that phrase, because it was not necessary for the English ULB. In that case, you will need to write a new translationNote and include it in your translation. Usually these translationNotes will be to explain a phrase or way of saying something that is normal in the Gateway Language but that is not normal in the Other Languages that you know of. When writing your translationNote, follow the same style and format of the existing translationNotes. 
+
+Remember that speakers of many different languages will be using these Gateway Language translationNotes to help them translate the Bible. There will be many things that you will understand about the Bible in the Gateway Language that the OL translator may not understand. For that reason, if you think that there is something difficult to understand in the GL ULB, write a translationNote that can help the OL translator to understand it. There will probably be many Other Language translators who will benefit from reading the translationNote and who will make a better translation because of it.
+
+Because the translationNotes need to be adapted in these ways and not simply translated, it is best if the people adapting the translationNotes be people who are well educated in biblical studies so that they can understand the various problems that the translationNotes explain.
+
+=== Back Translating the translationNotes ===
+
+Because the translationNotes are part of a set of translation resources that will be used by many OL translators, we need to ensure that they conform to these guidelines as closely as possible. To do this, we need to add an extra layer of checking to the process. This extra layer is a written back translation. This means that you need to have someone on the GL translation team who did not work on the translation of the translationNotes, and who can translate the GL translationNotes back into English in a literal way, following the structure and vocabulary of the GL translationNotes. Then experienced translators and exegetes can read the back translation and see where there might be places that need fixing. If you are using the checking steps of the MAST methodology, the back translation could be done after the key term check or after the verse-by-verse check. If the back translation is made after the key term check, then it will need to be revised to conform to any changes that are made in the verse-by-verse check. A reason to make the back translation before the verse-by-verse check, however, is that it could be very helpful to a facilitator who speaks English, and could greatly speed up the verse-by-verse check since the facilitator can read the back translation before meeting with the team and already know which places they need to discuss when they meet together. This would also make it possible to eliminate some of the oral back translation that would otherwise be necessary for the verse-by-verse check. For information about how to do a back translation, see [[en:ta:vol2:checking:vol2_backtranslation]] and following modules.
+
+
+
+
+//Next we recommend you learn about://
+  * //[[en:ta:vol1:translate:resources_types|translationNotes]]//
+  * //[[en:ta:vol3:gateway:gl_words|Translate the translationWords]]//
+  * //[[en:ta:vol3:gateway:check_notes|Checking the translationNotes]]//
+  * //[[en:ta:vol2:tech:tsd_tn|The Process for Translating the translationNotes]]//
+

@@ -1,0 +1,22 @@
+===== Using the CKG (Graphical) Editor in Door43 =====
+
+//This page answers the question:// //How do I use the CKG (Graphical) editor in Door43?//
+
+//In order to understand this topic, it would be good to read://
+  * //[[en:ta:vol1:tech:d43_translateobs|How to Tanslate the Open Bible Stories in Door43]]//
+
+  - Sign into the Door43 website.
+  - Go to the page that you want to edit.
+  - Click on the pencil icon in the right column. The editor window opens.
+  - Use the scroll bars in the editing window to go to where you want to type.
+      * In the CKG Editor you see the font and style as you type.
+  - Use the word processing icons at the top of the editing window to change the size and format of the text.
+  - Click the save button to save all changes and close the editor window.
+
+You can also select just an area of the page to edit. Click on the Edit button. Just the section of text above the edit button will appear in the editor window. As above, you will see the font and style as you type. Use the Save button to save the changes and close the editor.
+
+{{:en:ta:glworkshop:ckg_editor_buttons_en.png?direct&600x182}}
+
+Option: in the editor, click on the 4-way arrows to increase the size of the editor window so that it fills the browser window. Edit as desired. To save the changes, click on the 4-way arrows again to reduce the size of the editor window and click the Save button.
+
+

@@ -1,0 +1,20 @@
+===== Switching Editors in Door43 =====
+
+//This page answers the question:// //How do I switch between editors in Door43?//
+
+//In order to understand this topic, it would be good to read://
+  * //[[en:ta:vol1:tech:d43_translateobs|How to Tanslate the Open Bible Stories in Door43]]//
+
+=== Text Editor ===
+
+When you click the "Edit this page" icon (the pencil), the text editor window opens. This is the standard DokuWiki editor and it provides full control over the syntax of the text. Go to the [[en:ta:vol2:tech:d43_formatting]] page for some simple editing formats to use in the text editor.
+
+=== Visual Editor ===
+
+If you prefer, you can switch to the graphical editor by clicking the "CKG Edit" button. The editor window closes. Click on the edit icon (the pencil) and you should see an edit window that looks like a simplified word processor. The buttons take care of formatting text and generally make it easier to use. Here is information on the toolbar icons: [[doku>toolbar|quickbuttons]].
+
+
+//Note:// [[https://www.youtube.com/watch?v=dF7px5U6PdA|Here]] is a short video (67 seconds) on how to switch between the text editor and the graphical editor.
+
+
+

@@ -1,0 +1,35 @@
+===== Checking the UDB =====
+
+//This page answers the question:// //What are the guidelines for checking the UDB?//
+
+//In order to understand this topic, it would be good to read://
+  * //[[en:ta:vol2:checking:vol2_steps|Steps in Checking a Translation]]//
+  * //[[en:ta:vol2:checking:vol2_things_to_check|Types of Things to Check]]//
+  * //[[en:ta:vol3:gateway:gl_udb|Translating the UDB]]//
+
+When checking the UDB, remember that the UDB does not use figures of speech, idioms, abstract nouns, or grammatical forms that are difficult to translate into many languages. The purpose of the UDB is to change all of these problematic grammatical forms into more universal ones to make them easier to translate, and to make the meaning as clear as possible.
+
+==== What Should Be Checked in the UDB? ====
+
+In addition to the things mentioned in [[en:ta:vol2:checking:vol2_things_to_check]], the UDB needs to be checked in these areas. For definitions and examples of these things, see [[en:ta:vol3:gateway:gl_udb]]:
+
+  - **Sentence length** - If you see any long or complex sentences in the Gateway Language UDB, see how you might break them up into shorter sentences. 
+  - **Passive voice** - If you see this construction in the Gateway Language UDB, check to see what it was in the English source UDB and change it so that it is active. 
+  - **Abstract Nouns** - If you see one of these in the Gateway Language UDB, check to see what it was in the English source UDB and change it back to an action or description word.
+  - **Events out of order** - Make sure that the events in the Gateway UDB are in the order that they occurred. Also make sure that the logical flow of arguments such as in many of the New Testament letters is in a natural order that makes sense in the GL.
+  - **Figures of speech and idioms** - Make sure that the GL UDB does not contain any figures of speech or idioms. Instead, it should use only plain, clear language.
+
+If you see any of these forms in the English UDB, send a message to help@door43.org to let them know of the error.
+
+It is not necessary to check the UDB for naturalness with speakers of the Gateway Language. The UDB will very often not be natural, because it avoids some forms that languages naturally use, such as idioms and figures of speech. The UDB avoids these, however, because they are specific to individual languages, and do not translate well from one language to another.
+
+It is useful to check the UDB for clarity with speakers of the Gateway Language, but do not confuse clarity with naturalness. You can read a passage from the UDB to a speaker of the Gateway Language, and ask if the meaning is clear. If they say, "Yes," that is enough. If they also say, "But I would say it differently," that is fine. We expect that they would say it differently. But the UDB needs to say it in a plain way. As long as the meaning of the GL UDB is clear, it is a successful translation.
+
+
+
+
+//Next we recommend you learn about://
+  * //[[en:ta:vol3:gateway:gl_notes|Translate the translationNotes]]//
+  * //[[en:ta:vol3:gateway:check_udb|Checking the UDB]]//
+  * //[[en:ta:vol3:gateway:check_notes|Checking the translationNotes]]//
+

@@ -1,0 +1,26 @@
+===== Using Door43 =====
+
+//This page answers the question:// //How do I use Door43?//
+
+Door43 [[http://door43.org]] is a website where translators can do online translating. It is also the content management system for unfoldingWord. Here are some resources to help you with Door43:
+
+=== Get Started ===
+
+  * [[:en:get-started]]
+
+=== Set up an Open Bible Stories in Your Language ===
+
+  * Go to [[:obs-setup]] and initiate the making of Open Bible Stories pages in a new language.
+
+
+
+
+//Next we recommend you learn about://
+  * //[[en:ta:vol2:tech:d43_create|Create an Account in Door43]]//
+  * //[[en:ta:vol2:tech:d43_findlanguage|How to Find Your Language on Door43]]//
+  * //[[en:ta:vol1:tech:d43_translateobs|How to Tanslate the Open Bible Stories in Door43]]//
+  * //[[en:ta:vol2:tech:d43_editpage|Edit a Page in Door43]]//
+  * //[[en:ta:vol2:tech:d43_formatting|Formatting Content in Door43]]//
+  * //[[en:ta:vol2:tech:d43_switcheditors|Switching Editors in Door43]]//
+  * //[[en:ta:vol2:tech:d43_ckgedit|Using the CKG (Graphical) Editor in Door43]]//
+

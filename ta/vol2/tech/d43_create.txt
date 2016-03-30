@@ -1,0 +1,23 @@
+===== Create an Account in Door43 =====
+
+//This page answers the question:// //How do I create a user account in Door 43?//
+
+//In order to understand this topic, it would be good to read://
+  * //[[en:ta:vol2:tech:d43_getstarted|How to Get Started in Door43]]//
+
+To start translating content, you will need a user account on Door43. When you are logged into Door43 you will see your name in the top area below the browser menu bar. If you do not have an account,  you will need to create one on this page **[[:en:get-started?do=register]]**, so then you can login.
+  - Click on the link: **[[:en:get-started?do=register]]**
+    * Read and understand the **Terms and Conditions** for using the Door43 website.
+    * Read the **Statement of Faith**
+    * Read what it means to release your contribution under a **Creative Commons Atrribution-ShareAlike License**.
+  - Fill in the necessary information to set up an account.
+    * Click on the 'Register' button. When you register your new account you are agreeing to abide by the Statement of Faith, Translation Guidelines and the licensing standards.
+  - Check your email for the automatic generated password. (You might find the email in your spam folder.)
+    * Use the password that is provided in the email from the dokuwiki server.
+  - Click on Log In at the top right of the Internet browser window. Log into Door43 using your new account.
+    * Click on the 'Update Profile' link to change the password.
+
+
+Watch this [[http://youtu.be/dpsJRDAa3I8|video]] (45 seconds long) to see how to set up an account.
+
+

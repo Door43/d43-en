@@ -1,7 +1,5 @@
 ===== Table of Contents - Technology Manual Volume 2 =====
 
-//This page answers the question:// //What is in volume 2 of the technology manual?//
-
 ==== translationStudio-Desktop ====
 
   - [[en:ta:vol2:tech:tsd_intro]]
@@ -9,6 +7,7 @@
   - [[en:ta:vol2:tech:tsd_first]] 
   - The Processes for Translating in translationStudio Desktop
     - [[en:ta:vol2:tech:tsd_bibletxt]]
+      - [[en:ta:vol2:tech:tsd_resources]]  
     - [[en:ta:vol2:tech:tsd_tw]]  
     - [[en:ta:vol2:tech:tsd_tn]]
     - [[en:ta:vol2:tech:tsd_tq]]
@@ -20,16 +19,23 @@
 
 ==== Door43 ====
 
-  - [[en:ta:vol1:tech:d43_translateOBS]]
-  - [[en:ta:vol1:tech:resources_d43]]
-
-  - [[en:ta:vol2:tech:d43_create]]
-  - [[:en:get-started]]
+  - [[en:ta:vol2:tech:d43_intro]]
+    - [[en:ta:vol2:tech:d43_getstarted]]
+    - [[en:ta:vol2:tech:d43_create]]
   - [[en:ta:vol2:tech:d43_findlanguage]]
-  - [[en:ta:vol2:tech:d43_editpage]]
-  - [[en:ta:vol2:tech:d43_formatting]]
-  - [[en:ta:vol2:tech:d43_switcheditors]]
-  - [[en:ta:vol2:tech:d43_ckgedit]]
+  - [[en:ta:vol1:tech:d43_translateOBS]]
+    - [[en:ta:vol2:tech:d43_editpage]]
+    - [[en:ta:vol2:tech:d43_ckgedit]]
+    - [[en:ta:vol2:tech:d43_formatting]]
+    - [[en:ta:vol2:tech:d43_switcheditors]]
+  - [[en:ta:vol1:tech:d43_resources]]
+    - [[en:ta:vol2:tech:translate_helpd43]]
+  - [[en:ta:vol2:tech:d43_links]]
+
+
+
+
+
 
 
 

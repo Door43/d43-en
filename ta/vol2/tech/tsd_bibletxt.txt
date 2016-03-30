@@ -1,0 +1,62 @@
+===== The Process for Translating the Bible =====
+
+//This page answers the question:// //What steps do I follow when I translate the Bible into the target language?//
+
+//In order to understand this topic, it would be good to read://
+  * //[[en:ta:vol2:tech:tsd_intro|translationStudio Desktop Introduction]]//
+  * //[[en:ta:vol2:tech:tsd_install|translationStudio Desktop Installation]]//
+
+A basic translation process for any unfoldingWord project is explained here.
+ 
+Note: the recommendations of the Forum of Bible Agencies (see http://www.forum-intl.org/resources ) is a helpful reference in the translation of any theological text.
+ 
+==== Translating the Text ====
+ 
+As you translate, be sure that you:
+  * pray that God would help you make an easily-understandable, Scripturally-accurate translation
+  * translate everything that is in the source language
+  * do not add anything that that is not necessary for comprehension
+  * always do your translation according to the Translation Guidelines (see [[:en:ta:vol1:intro:translation_guidelines]])
+  * always do your translation according to the Statement of Faith (see [[:en:ta:vol1:intro:statement_of_faith]])
+  * use the translationNotes and the translationWords (see https://door43.org/en/obe/home ) to help you make a better translation
+
+==== Create Translation Text ====
+
+**Note:** "Source Language" refers to the language from which the translation is being done. "Target Language" refers to the language into which the translation is being done.''
+
+To write the translation in your language: 
+  * Go to the book that is being translated.
+  * In the **Chapter** view, read the source text.
+    * Scroll down to read the entire chapter or story. Click on the 'paper' behind the text page for a blank page to type in the target language translation of the text. 
+    * The app is organized to work with blind drafting. You may want to read [[en:ta:vol1:translate:mast]] to understand the steps of blind drafting translation.
+  * Click on the **Begin Translating** icon. The icon will disappear, and the **Chunk** view opens with a blank page. 
+    * The **Chunk** icon is the middle icon on the left and looks like a solid line square over a dotted line square. 
+    * Scroll down or up to move from chunk to chunk (a small section of the story or chapter). Click on the 'paper' behind the text page for a blank page to type in the target language translation of the text.
+    * Start translating with a blind draft - Set aside the source text and draft the chunk as well as you can without looking back at the text. Write everything that you remember about that chunk. Do not look back at the source text for this chunk until you begin the editing steps. Continue doing this with each chunk of the chapter before moving to the checking steps.
+  * When you are finished working, scroll to a different chunk.
+
+==== Edit Translation Text ====
+
+When you use translationStudio, you have the ability to create and change text. Use the **Chunk** or **Check** views to edit existing work that you or another translator created. Your work will be saved automatically every five minutes.
+
+In the **Check** view the source text is on the left, the translation work is in the middle and the resources for that chunk are on the right. Scroll up or down to move from chunk to chunk. The UDB and all of the translationNotes, translationWords and translationQuestions have been included in the translationStudio Desktop program. See [[en:ta:vol2:tech:tsd_resources]] for more information.
+
+When you are finished working, click the slider at the bottom of the chunk to mark the translation of that chunk done. A message will appear for you to confirm that the chunk is done. Click on the word 'Confirm' to confirm that the work is done or the word 'Cancel' to continue translating.
+
+==== Save Translation Text ====
+
+Every five minutes, your work is saved automatically. Your work is not saved on unfoldingWord until you upload your work. 
+
+==== Delete Translation Text ====
+
+If you accidentally delete a large amount of work, contact [[help@door43.org]].
+
+
+
+
+//Next we recommend you learn about://
+  * //[[en:ta:vol2:tech:tsd_navigate|Navigating translationStudio Desktop]]//
+  * //[[en:ta:vol2:tech:tsd_tn|The Process for Translating the translationNotes]]//
+  * //[[en:ta:vol2:tech:tsd_tq|The Process for Translating the translationQuestions]]//
+  * //[[en:ta:vol2:tech:tsd_ta|The Process for Translating translationAcademy]]//
+

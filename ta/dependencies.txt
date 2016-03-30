@@ -500,6 +500,11 @@ edge [arrowsize=1.4];
 "Technology" -> "d43_getstarted"
 "d43_intro" [fillcolor="#99ffff"]
 "Technology" -> "d43_intro"
+"d43_links" [fillcolor="#99ffff"]
+"d43_intro" -> "d43_links"
+"d43_resources" [fillcolor="#99ffff"]
+"d43_intro" -> "d43_resources"
+"resources_intro" -> "d43_resources"
 "d43_switcheditors" [fillcolor="#99ffff"]
 "d43_translateOBS" -> "d43_switcheditors"
 "d43_translateOBS" [fillcolor="#99ffff"]
@@ -508,9 +513,6 @@ edge [arrowsize=1.4];
 "Technology" -> "excellence_in_audio"
 "hardware" [fillcolor="#99ffff"]
 "Technology" -> "hardware"
-"resources_d43" [fillcolor="#99ffff"]
-"d43_intro" -> "resources_d43"
-"resources_intro" -> "resources_d43"
 "simplicity_in_audio" [fillcolor="#99ffff"]
 "Technology" -> "simplicity_in_audio"
 "skills_training_in_audio" [fillcolor="#99ffff"]
@@ -577,6 +579,9 @@ edge [arrowsize=1.4];
 "tSd_backup" [fillcolor="#99ffff"]
 "tSd_install" -> "tSd_backup"
 "tSd_navigate" -> "tSd_backup"
+"tSd_bibletxt" [fillcolor="#99ffff"]
+"tSd_intro" -> "tSd_bibletxt"
+"tSd_install" -> "tSd_bibletxt"
 "tSd_first" [fillcolor="#99ffff"]
 "tSd_intro" -> "tSd_first"
 "tSd_install" -> "tSd_first"
@@ -589,6 +594,8 @@ edge [arrowsize=1.4];
 "tSd_install" -> "tSd_navigate"
 "tSd_print" [fillcolor="#99ffff"]
 "tSd_intro" -> "tSd_print"
+"tSd_resources" [fillcolor="#99ffff"]
+"resources_intro" -> "tSd_resources"
 "tSd_settings" [fillcolor="#99ffff"]
 "tSd_intro" -> "tSd_settings"
 "tSd_install" -> "tSd_settings"
