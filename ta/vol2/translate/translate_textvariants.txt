@@ -18,12 +18,12 @@ Translators are encouraged to translate the text in the ULB and to write about a
 
 ==== Examples from the Bible ====
 
-Matthew 18:10-11 has a footnote about verse 11.
-  * **<sup>10</sup> See that you do not despise any of these little ones. For I say to you that in heaven their angels always look on the face of my Father who is in heaven. <sup>11</sup><sup>[1]</sup>** \\ 
-    * <sup>[1]</sup> Many authorities, some ancient, insert v. 11. //For the Son of Man came to save that which was lost.//\\ 
-John 7:53-8:11 is not in the best earliest manuscripts. It has been included in the ULB, but it is marked off  with square brackets ([ ]) at the beginning and end, and there is a footnote after verse 11. \\
-  * **<sup>53</sup>[Then every man went to his own house.…  <sup>11</sup>She said, "No one, Lord." Jesus said, "Neither do I condemn you. Go your way; from now on sin no more."]<sup>[2]</sup>**
-    * <sup>[2]</sup>The best earliest manuscripts do not have John 7:35-8:11
+Matthew 18:10-11 ULB has a footnote about verse 11. \\ 
+><sup>10</sup>See that you do not despise any of these little ones. For I say to you that in heaven their angels always look on the face of my Father who is in heaven. <sup>11</sup><sup>[1]</sup> \\
+><sup>[1]</sup> Many authorities, some ancient, insert v. 11. //For the Son of Man came to save that which was lost.//\\ 
+John 7:53-8:11 is not in the best earliest manuscripts. It has been included in the ULB, but it is marked off with square brackets ([ ]) at the beginning and end, and there is a footnote after verse 11. \\
+><sup>53</sup>[Then every man went to his own house.…  <sup>11</sup>She said, "No one, Lord." Jesus said, "Neither do I condemn you. Go your way; from now on sin no more."]<sup>[2]</sup> \\ 
+><sup>[2]</sup>The best earliest manuscripts do not have John 7:35-8:11
 
 ==== Translation Strategies ====
 
@@ -33,15 +33,19 @@ When there is a textual variant, you may choose to follow the ULB or another ver
 
 ==== Examples of Translation Strategies Applied ====
 
-The translation strategies are applied to Mark 7:15-16, which has a footnote about verse 16.
+The translation strategies are applied to Mark 7:15-16 ULB, which has a footnote about verse 16.
   * ** <sup>14</sup>He called the crowd again and said to them, "Listen to me, all of you, and understand. <sup>15</sup>There is nothing from outside of a person that can defile him when it enters into him. It is what comes out of the person that defiles him." <sup>16[1]</sup>** \\ 
     * **<sup>[1]</sup>Many ancient authorities insert v. 16. //If any man has ears to hear, let him hear//.**
+
 1. Translate the verses that the ULB does and include the footnote that the ULB provides. \\ 
   * <sup>14</sup>He called the crowd again and said to them, "Listen to me, all of you, and understand. <sup>15</sup>There is nothing from outside of a person that can defile him when it enters into him. It is what comes out of the person that defiles him." <sup>16[1]</sup>\\ 
     * <sup>[1]</sup>Many ancient authorities insert verse 16. //If any man has ears to hear, let him hear//.
+
 2. Translate the verses as another version does, and change the footnote so that it fits this situation.\\ 
   * <sup>14</sup>He called the crowd again and said to them, "Listen to me, all of you, and understand. <sup>15</sup>There is nothing from outside of a person that can defile him when it enters into him. It is what comes out of the person that defiles him. <sup>16</sup>If any man has ears to hear, let him hear." <sup>[1]</sup>\\ 
     * <sup>[1]</sup>Some ancient authorities do not have verse 16.
+
+
 
 
 

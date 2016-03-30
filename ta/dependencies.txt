@@ -678,6 +678,9 @@ edge [arrowsize=1.4];
 "Translation" -> "figs_explicit"
 "figs_explicitinfo" [fillcolor="#9999ff"]
 "figs_explicit" -> "figs_explicitinfo"
+"figs_extrainfo" [fillcolor="#9999ff"]
+"figs_explicit" -> "figs_extrainfo"
+"figs_explicitinfo" -> "figs_extrainfo"
 "figs_gendernotations" [fillcolor="#9999ff"]
 "figs_pronouns" -> "figs_gendernotations"
 "figs_genericnoun" -> "figs_gendernotations"
@@ -738,6 +741,8 @@ edge [arrowsize=1.4];
 "figs_pronouns" -> "figs_quotations"
 "figs_verbs" -> "figs_quotations"
 "writing_quotations" -> "figs_quotations"
+"figs_quotemarks" [fillcolor="#9999ff"]
+"writing_quotations" -> "figs_quotemarks"
 "figs_rpronouns" [fillcolor="#9999ff"]
 "figs_pronouns" -> "figs_rpronouns"
 "figs_rquestion" [fillcolor="#9999ff"]

@@ -502,6 +502,9 @@
 **[[:msm:obs|msm OBS]]**
 {{changes>ns=msm:obs&maxage=604800&render=pagelist(header,date,user,nocomments)}}
 
+**[[:mui:obs|mui OBS]]**
+{{changes>ns=mui:obs&maxage=604800&render=pagelist(header,date,user,nocomments)}}
+
 **[[:mur:obs|mur OBS]]**
 {{changes>ns=mur:obs&maxage=604800&render=pagelist(header,date,user,nocomments)}}
 

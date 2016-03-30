@@ -12,7 +12,9 @@ Please read the information on [[en:ta:vol1:process:publishing_process]] before 
 
 ==== Publishing in tS-Android Version 5 ====
 
-When you publish your work there are several steps to the process. The process begins in translationStudio when you select **Publish** from the 3 dot icon menu. The process continues in Door43 when you submit the Request to Publish form for your updated text. 
+When you publish your work there are several steps to the process. The process begins in translationStudio when you select **Publish** from the 3 dot icon menu. This publishes the translation to the Door43 wiki. 
+
+The process continues when you submit the **Request to Publish** form for your translation to appear in unfoldingWord web and applications. The Gateway Language translations will also show in translationStudio as a source text and translationHelps. 
 
 The Request to Publish form includes several pieces of data such as your contact information, the requested checking level, translation contributors, etc. The person who reviews the request will verify that each contributor provided a legal signature.
 
