@@ -24,4 +24,4 @@ These are the USFM tags that are used in the Unlocked Bibles and how they look i
 \add … \add* - inserted text or comments not in original (\add his friend \add*)\\
 \f + \ft … \f* - footnote (\f + \ft Some of the oldest versions do not include this. \f*)
 
-~~DISCUSSIONS~~{{tag>epadn ehpg}}
+~~DISCUSSIONS~~{{tag>epadr ehpg}}
