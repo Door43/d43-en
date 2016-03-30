@@ -5,38 +5,42 @@
 //In order to understand this page, it would be good to read//
   * //[[en:ta:vol2:translate:figs_sentences]]//
 
-There are times that the source language will use words and ideas that are not familiar. If you do not know what the source word means, the Translation Notes and Important Terms pages will help you understand its meaning. Sometimes, however, a word in the source text is an animal, another kind of physical object, or a practice that is not known to the people who will be reading the translation. The following information will help with translating these unknown things or concepts.
-===== Description =====
+There are times that the source language will use words and ideas that are not familiar to you. If you do not know what the source word means, the Translation Words pages and the Translation Notes will help you understand its meaning. Sometimes, however, a word in the source text is an animal, another kind of physical object, or a practice that is not known to the people who will be reading the translation. The following information will help with translating these unknown things or concepts.
+
+==== Description ====
 
 Unknowns are animals, other kinds of physical objects, or practices that are not known to the people who will be reading the translation.
 
-**We have here only five loaves of __bread__ and two fish** (Matthew 14:17 ULB)\\
-Bread is a particular food made by combining oil with the finely ground seeds of a kind of grass and cooking the mixture in an enclosed space heated by a fire. The translation must not communicate that this "bread" was, or was made out of, such things as bananas or roots.
+>We have here only five loaves of __bread__ and two fish (Matthew 14:17 ULB)\\
+
+Bread is a particular food made by combining oil with the finely ground seeds of a kind of grass, and then cooking the mixture in an enclosed space heated by a fire. The translation must not communicate that this "bread" was, or was made out of, such things as bananas or roots.
 
 **Reason this is a translation issue**\\
 Translations must contain only information that is true to the original meaning. The translator needs to include as much of the original meaning, including symbolic meaning, as possible, but he cannot treat items that are not the same as though they were the same.
 
-===== Examples from the Bible =====
+==== Examples from the Bible ====
 
-**I will turn Jerusalem into piles of ruins, a hideout for __jackals__** (Jeremiah 9:11 ULB)\\
+>I will turn Jerusalem into piles of ruins, a hideout for __jackals__ (Jeremiah 9:11 ULB)
+
 Jackals are wild animals like dogs that live in only a few places and so are not known in many places.
 
-**Beware of false prophets, those who come to you in sheep’s clothing, but __are truly ravenous wolves__.** (Matthew 7:15 ULB)\\
+>Beware of false prophets, those who come to you in sheep’s clothing, but are truly ravenous __wolves__. (Matthew 7:15 ULB)
+
 If wolves do not live where the translation will be read, the readers may not understand that they are fierce, wild animals like dogs.
 
-**Judas ... came near to Jesus to __kiss him__** (Luke 22:47 ULB)\\
+>Judas ... came near to Jesus to __kiss him__ (Luke 22:47 ULB)
+
 A man would commonly greet male friends and family with a kiss on the cheek. The translation needs to communicate that this was a normal, friendly greeting without speaking of actions that did not take place or an improper relationship between Jesus and Judas.
 
-**to him who made __great lights__** (Psalm 136:7 ULB)\\
+>to him who made __great lights__ (Psalm 136:7 ULB)
+
 Some languages have terms for things that give light, like the sun and fire, but they have no general term for lights.
 
-**__that which we have seen and heard__ we declare to you** (1 John 1:3 ULB)\\
-The readers may not know what the writer saw and heard.
+>your sins ... will be white like __snow__ (Isaiah 1:18 ULB)
 
-**your sins ... will be white like __snow__** (Isaiah 1:18 ULB)\\
 People in many parts of the world have seen snow in pictures, if at all.
 
-===== Translation Strategies =====
+==== Translation Strategies ====
 
 Here are different ways you might translate a term that is not familiar in your language:
   - Use a phrase that describes the part of the meaning that is important in the particular verse being translated.
@@ -45,7 +49,7 @@ Here are different ways you might translate a term that is not familiar in your 
   - Use a word that is more general in meaning.
   - Use a word or phrase that is more specific in meaning. 
 
-===== Examples of Translation Strategies Applied =====
+==== Examples of Translation Strategies Applied ====
 
 1. Use a phrase that describes the part of the meaning that is important in the particular verse being translated.
   * **Beware of false prophets, those who come to you in sheep’s clothing, but __are truly ravenous wolves__.** (Matthew 7:15 ULB)
@@ -59,6 +63,7 @@ Here are different ways you might translate a term that is not familiar in your 
 3. Use a foreign word from another language, adding a general word or descriptive phrase if needed.
   * **Judas ... came near to Jesus to __kiss him__** (Luke 22:47 ULB)
     * "Judas ... came near to Jesus to __greet him with a kiss__"
+
   * **We have here only five loaves of __bread__ and two fish** (Matthew 14:17 ULB)
     * "We have here only five loaves of __bread__ and two fish" where "bread" is a foreign word that is explained in a note or glossary.
     * "We have here only five loaves of __baked ground seed bread__ and two fish" where "bread" is a foreign word but "baked ground seed" provides enough information that the reader understands what the "bread" is made of and how it is cooked.
@@ -66,14 +71,14 @@ Here are different ways you might translate a term that is not familiar in your 
 4. Use a word that is more general in meaning.
   * **I will turn Jerusalem into piles of ruins, a hideout for __jackals__** (Jeremiah 9:11 ULB)
     * "I will turn Jerusalem into piles of ruins, a hideout for __wild dogs__"
+
   * **Judas ... came near to Jesus to __kiss him__** (Luke 22:47 ULB)
     * "Judas ... came near to Jesus to __give him a friendly greeting__"
 
 5. Use a word or phrase that is more specific in meaning. 
   * **to him who made __great lights__** (Psalm 136:7 ULB)\\
     * "to him who made __the sun and the moon__"
-  * **__that which we have seen and heard__ we declare to you** (1 John 1:3 ULB)
-    * "we declare to you __the actions we have seen God perform and the words we have heard him say__"
+
 ----
 
 https://pad.door43.org/p/ta-translate_unknown
