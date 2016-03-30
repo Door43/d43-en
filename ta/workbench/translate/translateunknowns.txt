@@ -9,23 +9,15 @@ How do I translate words like lion, fig tree, mountain, priest, or temple when p
 
 ==== Description ====
 
-Sometimes as you read the source text, you will see words that you do not understand. If you do not know what a word means, the Translation Words pages and the Translation Notes will help you understand its meaning. 
-
-Unknowns are things that occur in the source text that are not known to the people who will be reading the translation.
+Unknowns are things that occur in the source text that are not known to the people of your culture. The Translation Words pages and the Translation Notes will help you understand what they are. After you understand them, you will need to find ways to refer to those things so that people who read your translation will understand what they are.
 
 >We have here only five loaves of __bread__ and two fish (Matthew 14:17 ULB)\\
 
-Bread is a particular food made by mixing the finely ground seeds of a kind of grass with oil, and then cooking the mixture so that it is dry. In some cultures people do not have bread or know what it is. 
+Bread is a particular food made by mixing finely crushed grains with oil, and then cooking the mixture so that it is dry. (Grains are the seeds of a kind of grass.) In some cultures people do not have bread or know what it is. 
 
 **Reason this is a translation issue**\\
   * Readers may not know some of the things that are in the Bible because those things are not part of their own culture. 
   * Readers may have difficulty understanding a text if they do not know some of the things that are mentioned in it.
-
-=== Translation Principles === 
-[[Work on this]]
-  * Do not change the facts.
-  * When translating parables or figures of speech, it is acceptable to use cultural substitutes.
-  * If a specific idea is not known, a more general one can be used.
 
 ==== Examples from the Bible ====
 
@@ -35,13 +27,12 @@ Jackals are wild animals like dogs that live in only a few parts of the world.  
 
 >Beware of false prophets, those who come to you in sheep’s clothing, but are truly ravenous __wolves__. (Matthew 7:15 ULB)
 
-If wolves do not live where the translation will be read, the readers may not understand that they are fierce, wild animals like dogs.
+If wolves do not live where the translation will be read, the readers may not understand that they are fierce, wild animals like dogs that attack and eat sheep.
 
->Judas ... came near to Jesus to __kiss him__ (Luke 22:47 ULB)
+>Then they tried to give Jesus wine that was mixed with __myrrh__. But he refused to drink it. (Mark 15:23 ULB)
+People may not know what myrrh is and that it was used as a medicine.
 
-A man would commonly greet male friends and family with a kiss on the cheek. The translation needs to communicate that this was a normal, friendly greeting without speaking of actions that did not take place or an improper relationship between Jesus and Judas. [[Maybe change note or delete. I think the kiss was a sign of respect -- what would be given to a leader.]]
-
->to him who made __great lights__ (Psalm 136:7 ULB)
+>to him who made __great lights__ (Psalm 136:7 ULB)  
 
 Some languages have terms for things that give light, like the sun and fire, but they have no general term for lights.
 
@@ -53,36 +44,39 @@ People in many parts of the world have not seen snow, but they may have seen it 
 
 Here are ways you might translate a term that is not known in your language:
   - Use a phrase that describes the part of the meaning that is important in the particular verse being translated.
-  - Substitute something similar from your language if the term does not express a historical fact.
-  - Use a word from another language, adding a general word or descriptive phrase if needed.
+  - Substitute something similar from your language if doing so does not falsely represent a historical fact.
+  - Use a foreign word from another language, along with a general word or descriptive phrase.
   - Use a word that is more general in meaning.
   - Use a word or phrase that is more specific in meaning. 
 
 ==== Examples of Translation Strategies Applied ====
 
 1. Use a phrase that describes the part of the meaning that is important in the particular verse being translated.
-  * **Beware of false prophets, those who come to you in sheep’s clothing, but __are truly ravenous wolves__.** (Matthew 7:15 ULB)
-    * "Beware of false prophets, those who come to you in sheep’s clothing, but __actually only want to destroy you__."
+  * **Beware of false prophets, those who come to you in sheep’s clothing, but are truly __ravenous wolves__.** (Matthew 7:15 ULB)
+    * "Beware of false prophets, those who come to you in sheep’s clothing, but __are truly hungry and dangerous animals__."
 
-2. Substitute something similar from your language if the term does not express a historical fact.
-  * **your sins ... will be white like __snow__** (Isaiah 1:18 ULB)
+  * **We have here only five __loaves of bread__ and two fish** (Matthew 14:17 ULB)
+    * "We have here only five __loaves of baked grain seeds__ and two fish" 
+
+2. Substitute something similar from your language if doing so does not falsely represent a historical fact. 
+  * **your sins ... will be white like __snow__** (Isaiah 1:18 ULB) This verse is not about snow. It uses snow in a figure of speech to help people understand how white something will be.
     * "your sins ... will be white like __milk__"
     * "your sins ... will be white like __the moon__"
 
-3. Use a foreign word from another language, adding a general word or descriptive phrase if needed.
-  * **Judas ... came near to Jesus to __kiss him__** (Luke 22:47 ULB)
-    * "Judas ... came near to Jesus to __greet him with a kiss__"
+3. Use a foreign word from another language, along with a general word or descriptive phrase.
+  * **Then they tried to give Jesus wine that was mixed with __myrrh__. But he refused to drink it.** (Mark 15:23 ULB) - People may understand better what myrrh is if the general word "medicine" is used with it. 
+    * "Then they tried to give Jesus wine that was mixed with __a medicine called myrrh__. But he refused to drink it."
 
-  * **We have here only five loaves of __bread__ and two fish** (Matthew 14:17 ULB)
-    * "We have here only five loaves of __bread__ and two fish" where "bread" is a foreign word that is explained in a note or glossary.
-    * "We have here only five loaves of __baked ground seed bread__ and two fish" where "bread" is a foreign word but "baked ground seed" provides enough information that the reader understands what the "bread" is made of and how it is cooked.
+  * **We have here only five loaves of __bread__ and two fish** (Matthew 14:17 ULB) - People may understand better what bread is if it is used with words that tell what it is made of (crushed seeds) and how it is prepared (baked).
+    * "We have here only five loaves of __baked crushed seed bread__ and two fish"
 
 4. Use a word that is more general in meaning.
   * **I will turn Jerusalem into piles of ruins, a hideout for __jackals__** (Jeremiah 9:11 ULB)
     * "I will turn Jerusalem into piles of ruins, a hideout for __wild dogs__"
 
-  * **Judas ... came near to Jesus to __kiss him__** (Luke 22:47 ULB)
-    * "Judas ... came near to Jesus to __give him a friendly greeting__"
+  * **We have here only five __loaves of bread__ and two fish** (Matthew 14:17 ULB)
+    * "We have here only five __loaves of baked food__ and two fish" 
+
 
 5. Use a word or phrase that is more specific in meaning. 
   * **to him who made __great lights__** (Psalm 136:7 ULB)\\
