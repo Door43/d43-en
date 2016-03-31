@@ -1,64 +1,87 @@
 ===== Translate Unknowns =====
 
-//This page answers the question:// //How do I translate words that I do not know?//
+//This page answers the question:// //How can I translate ideas that my readers are not familiar with?//
 
-==== How to Translate Unknowns ====
+//In order to understand this topic, it would be good to read://
+  * //[[en:ta:vol2:translate:figs_sentences|Sentences]]//
 
-There are times that the source language will use words and ideas that are not familiar. If you do not know what the source word means, the translationNotes and translationWords pages will help you understand its meaning. Sometimes, however, a word in the source text is an object, animal, practice, or other thing that is not known to the people who speak the target language. The following information will help with translating these unknown things or concepts.
+How do I translate words like lion, fig tree, mountain, priest, or temple when people in my culture have never seen these things and we do not have a word for them?
 
-==== Historical facts ====
+==== Description ====
 
-It is very important to remember that if the term expresses a historical fact, then that fact must be kept in a translation. For example, in Mark 11:13, Jesus cursed a fig tree. To substitute any other kind of tree would be untrue to a historical fact. To translate this, follow one of the following options:
-  * Use a general descriptive phrase, such as "a fruit tree."
-  * Use a descriptive phrase with a borrowed word, such as "a tree that bears fruit called 'figs.'"
-  * Use a borrowed word for the name of the tree: "a fig tree."
+Unknowns are things that occur in the source text that are not known to the people of your culture. The Translation Words pages and the Translation Notes will help you understand what they are. After you understand them, you will need to find ways to refer to those things so that people who read your translation will understand what they are.
+>We have here only five loaves of __bread__ and two fish (Matthew 14:17 ULB)
+Bread is a particular food made by mixing finely crushed grains with oil, and then cooking the mixture so that it is dry. (Grains are the seeds of a kind of grass.) In some cultures people do not have bread or know what it is. 
 
-For the last two choices, a footnote would be necessary to explain what "fig" means.
+**Reason this is a translation issue**\\
+  * Readers may not know some of the things that are in the Bible because those things are not part of their own culture. 
+  * Readers may have difficulty understanding a text if they do not know some of the things that are mentioned in it.
 
-Another example is In John 12:14-15 where it says that Jesus rode into Jerusalem on a donkey's colt, which fulfilled a prophecy in the the Old Testament. Since it says that Jesus was sitting on a donkey's colt, which is a young donkey, the translation should not say that he sat on an ox, for example. If the word for "donkey" does not exist in the target language, a borrowed word could be used and explained in the text or in a footnote. For example, the text could say, “riding on the young of a kind of work animal called a ‘donkey.'”
+=== Translation Principles ===  
 
-This is different from the use of an animal as part of a teaching or illustration. In that case, it is not a matter of historical fact. See the example of "wolf" below.
+  * Use words that are already part of your language if possible.
+  * Keep expressions short if possible.
+  * Represent God's commands and historical facts accurately.
 
-=== Food and other objects ===
+==== Examples from the Bible ====
 
-  * plow (vs hand planting)
-      * See the example of translating 'plow' in Luke 9:62, see [[:en:bible:notes:luk:09:61]].
-  * grapes, vineyard
-  * wheat
-  * bread
-  * numbers, numerals
+>I will turn Jerusalem into piles of ruins, a hideout for __jackals__ (Jeremiah 9:11 ULB)
+Jackals are wild animals like dogs that live in only a few parts of the world.  So they are not known in many places.
+>Beware of false prophets, those who come to you in sheep’s clothing, but are truly ravenous __wolves__. (Matthew 7:15 ULB)
+If wolves do not live where the translation will be read, the readers may not understand that they are fierce, wild animals like dogs that attack and eat sheep.
+>Then they tried to give Jesus wine that was mixed with __myrrh__. But he refused to drink it. (Mark 15:23 ULB)
+People may not know what myrrh is and that it was used as a medicine.
+>to him who made __great lights__ (Psalm 136:7 ULB)  
+Some languages have terms for things that give light, like the sun and fire, but they have no general term for lights.
+>your sins ... will be white like __snow__ (Isaiah 1:18 ULB)
+People in many parts of the world have not seen snow, but they may have seen it in pictures.
 
-=== Animals ===
+==== Translation Strategies ====
 
-An example of the use of an animal in the Bible as an illustration is in John 10:12 where the word "wolf" is used as a way to describe a person who is harmful to God's people. There are many things to describe about a wolf but what is important in this verse is that it is a fierce and dangerous animal that frightens and harms the sheep.
+Here are ways you might translate a term that is not known in your language:
+  - Use a phrase that describes the part of the meaning that is important in the particular verse being translated.
+  - Substitute something similar from your language if doing so does not falsely represent a historical fact.
+  - Copy the word from another language, and add a general word or descriptive phrase to help people understand it.
+  - Use a word that is more general in meaning.
+  - Use a word or phrase that is more specific in meaning. 
 
-If a wolf is an unknown animal in your culture, you could substitute an animal that looks similar and that has similar characteristics. For example, large wild dogs are similar to wolves. They attack and eat other animals, such as lambs. So “wolves” could be translated with a generic term like “wild dogs” or “fierce dogs” or with the name of a specific animal like a dog that your people know of, such as “coyotes” or “jackals.” You could also use a general descriptive phrase such as, "a dangerous wild animal" that focuses on the characteristics that are being highlighted in the text.
+==== Examples of Translation Strategies Applied ====
 
-Also see the translationNote at Luke 10:3 for other translation suggestions for wolf.
+1. Use a phrase that describes the part of the meaning that is important in the particular verse being translated.
+  * **Beware of false prophets, those who come to you in sheep’s clothing, but are truly __ravenous wolves__.** (Matthew 7:15 ULB)
+    * "Beware of false prophets, those who come to you in sheep’s clothing, but __are truly hungry and dangerous animals__."
 
-=== Cultural practices ===
+  * **We have here only five __loaves of bread__ and two fish** (Matthew 14:17 ULB)
+    * "We have here only five __loaves of baked grain seeds__ and two fish" 
 
-There might be many differences between the biblical culture and the target language culture. Sometimes a cultural substitute can be used. But be careful not to change any historical facts (see explanation above).
+2. Substitute something similar from your language if doing so does not falsely represent a historical fact. 
+  * **your sins ... will be white like __snow__** (Isaiah 1:18 ULB) This verse is not about snow. It uses snow in a figure of speech to help people understand how white something will be.
+    * "your sins ... will be white like __milk__"
+    * "your sins ... will be white like __the moon__"
 
-The unknown biblical practice could be explained in a footnote or Bible teaching. The explanations could include a known cultural practice that has the same meaning as the one described in the Bible text. For example, in Jewish culture, grief and repentance for sin were shown by wearing a rough type of cloth (sackcloth) and putting ashes on the head. Wailing was another sign of grief. In other cultures grief may be shown in different ways. But if this practice was something that actually happened it needs to be recorded as such, with an explanation that tells what it means, perhaps using a practice from the target culture that has the same meaning.
+3. Copy the word from another language, and add a general word or descriptive phrase to help people understand it.
+  * **Then they tried to give Jesus wine that was mixed with __myrrh__. But he refused to drink it.** (Mark 15:23 ULB) - People may understand better what myrrh is if it is used with the general word "medicine." 
+    * "Then they tried to give Jesus wine that was mixed with __a medicine called myrrh__. But he refused to drink it."
 
-For example, in certain cultures when men greeted other men who were family or friends, they would kiss them on one cheek or both cheeks. This can be translated as “to greet him with a kiss” or “to greet him by kissing him.” If this is not done in your culture, you could explain it with a footnote. If your readers would find it embarrassing or inappropriate to say that a man would kiss another man, you could translate it in a more general way such as, “to give him a friendly greeting.”
+  * **We have here only five loaves of __bread__ and two fish** (Matthew 14:17 ULB) - People may understand better what bread is if it is used with a phrase that tells what it is made of (seeds) and how it is prepared (crushed and baked).
+    * "We have here only five loaves of __baked crushed seed bread__ and two fish"
 
-See the example of 'greet with a kiss' in Luke 22:47, see [[:en:bible:notes:luk:22:47]].
+4. Use a word that is more general in meaning.
+  * **I will turn Jerusalem into piles of ruins, a hideout for __jackals__** (Jeremiah 9:11 ULB)
+    * "I will turn Jerusalem into piles of ruins, a hideout for __wild dogs__"
 
-==== Translation Suggestions ====
+  * **We have here only five __loaves of bread__ and two fish** (Matthew 14:17 ULB)
+    * "We have here only five __loaves of baked food__ and two fish" 
 
-Here are suggestions to keep in mind when translating a term that is not familiar in your language:
-  * Use a descriptive phrase. You will most likely need to use a phrase to explain the meaning of the unknown word. It is important only to describe the part of the meaning which is being used in the particular verse being translated.
-  * Substitute something similar. At times the exact word may be unknown to the people of the target language but there might be something similar that could be used in its place. Only do this if the term does not express a historical fact.
-  * Use a foreign word from another language. Foreign words are words taken from a language that is not the target language. You could also use the foreign word together with a general word or descriptive phrase.
-  * Use a word that is more general in meaning. An example would be "work animal" which is more general than the word "donkey." This is acceptable because a donkey is a kind of work animal.
-  * Use a word or phrase that is more specific in meaning. Sometimes there is no general word in the target language to describe the term, therefore you can give specific examples of the term being referred to. An example would be if there is no word for "lights" to refer to heavenly bodies, you could possibly say, "the sun, the moon, and the stars," using specific words.
- 
+5. Use a word or phrase that is more specific in meaning. 
+  * **to him who made __great lights__** (Psalm 136:7 ULB)\\
+    * "to him who made __the sun and the moon__"
+
+
 
 
 
 //Next we recommend you learn about://
   * //[[en:ta:vol1:translate:translate_transliterate|Copy or Borrow Words]]//
-  * //[[en:ta:vol1:translate:translate_names|Translate Names]]//
+  * //[[en:ta:vol1:translate:translate_names|How to Translate Names]]//
 

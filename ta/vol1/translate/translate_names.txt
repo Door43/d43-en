@@ -1,48 +1,86 @@
-===== Translate Names =====
+===== How to Translate Names =====
 
-//This page answers the question:// //How do I translate names?//
+//This page answers the question:// //How can I translate names that are new to my culture?//
 
 //In order to understand this topic, it would be good to read://
   * //[[en:ta:vol1:translate:translate_unknown|Translate Unknowns]]//
 
-==== Identify Something with a Proper Name: ====
+The Bible has names of many people, groups of people, and places. Some of these names may sound strange and be hard to say. Sometimes readers may not know what a name refers to, and sometimes they may need to understand what a name means. This page will help you see how you can translate these names and how you can help people understand what they need to know about them.
 
-A Proper Name (or Proper Noun) is a specific name for someone or something. In contrast, the word "mountain" is a common name–it is a general term describing a kind of landform. Mount Zion is a specific mountain in Israel; therefore, it is a Proper Name. Understanding this difference will help you as you watch the video (see link below). Within the Bible you will hear many proper names which might be unknown to the reader. It could be unclear what the name is referring to. A Proper Name could refer to a person, a country, a certain landform, a body of water, or something else. In this video you will learn how to identify what kind of thing a particular proper name is referring to.
+==== Description ====
 
-Watch the video: for computer (see http://youtu.be/AL_rkQ8yODk ) or for tablet (see http://youtu.be/i36kf-hyTXE ).
+The Bible has names of many people, groups of people, and places. All names in the Bible have meaning. Most of the time, names in the Bible are used simply to identify the people and places they refer to. But sometimes the meaning of a name is especially important.
+>It was this __Melchizedek__, king of Salem, priest of God Most High, who met Abraham returning from the slaughter of the kings and blessed him. (Hebrews 7:1 ULB)
+Here the writer uses the name "Melchizedek" simply to refer to a man who had that name, and the title "king of Salem" simply to tell us something about Melchizedek.
+>His name "Melchizedek" means "king of righteousness," and also "king of Salem," that is, "king of peace. (Hebrews 7:2 ULB)
+Here the writer explains the meanings of Melchizedek's name and title.
 
-==== Translation Suggestions ====
+=== Reasons this is a translation issue ===  
 
-There are many things to keep in mind when translating a name in the Bible:
-
-  * Proper names sometimes reveal information about the person, place, or thing it refers to.
-  * Proper names of people may reveal something about the origin or history of the family.
-  * Proper names of people may reveal something about a characteristic of the person.
-  * Sometimes people and places have more than one name.
-
-These are the different ways to translate names in the Bible. Discuss these with the translation team, and choose one:
-
-  * Copy the proper name from the source language into the target language with no change. Often, this means using the name as it is spelled in the national language translation.
-  * Use the name from the source language, but make adjustments to the spelling or add whatever is necessary so that it sounds like the right kind of name in the target language.
-  * Pronounce the name as it is pronounced in the source language, and using the target language's spelling system, write the name in a way that people will read it with the source language's pronunciation.
-
-If a person or place has two names, follow one of these two ways. In either case, it may be necessary to add a footnote that explains that the two names refer to the same person or place:
-  * Use the name that occurs in the particular text you are translating.
-  * Use one name most of the time and the other name only when the text talks about that name or the meaning of that name.
+  * Readers may not know some of the names in the Bible. They may not know whether a name refers to a person or place or something else. 
+  * Readers may need to understand the meaning of a name in order to understand the passage. 
+  * Some names may have different sounds or combinations of sounds that are not used in your language or are unpleasant to say in your language. 
+  * Some people and places in the Bible have two names. Readers may not realize that two names refer to the same person or place.
 
 ==== Examples from the Bible ====
 
->“Having carefully investigated everything from the beginning, I also have decided to write a careful account for you, most honorable Theophilus.”  (Luke 1:3)
+>You went over the __Jordan__ and came to __Jericho__. The leaders of Jericho fought against you, along with the __Amorites__ (Joshua 24:11 ULB)
+Readers might not know that "Jordan" is the name of a river, "Jericho" is the name of a city, and "Amorites" is the name of a group of people.
+>she said, "Do I really continue to see, even after he has seen me?"  Therefore the well was called __Beerlahairoi__; (Genesis 16:13-14 ULB)
+Readers may not understand the second sentence if they do not know that "Beerlahairoi" means "Well of the the  Living One who sees me."
+>She named him __Moses__ and said, "Because I drew him from the water." (Exodus 2:11 ULB)
+Readers may not understand why she said this if they do not know that the name Moses sounds like the Hebrew words "pull out."
+>__Saul__ was in agreement with his death (Acts 8:1 ULB)
 
-The word "honorable" describes a person. So "honorable" tells us that Theophilus is the name of a person.
+>It came about in Iconium that __Paul__ and Barnabas entered together into the synagogue (Acts 14:1 ULB) 
+Readers may not know that the names Saul and Paul refer to the same person.
 
->"Jerusalem is where he lives; Mount Zion is his home."  (Psalms 72:2)
+==== Translation Strategies ==== 
+  - If readers cannot easily understand from the context what kind of a thing a name refers to, you can add a word to clarify it.
+  - If readers need to understand the meaning of a name in order to understand what is said about it, copy the name and tell about its meaning either in the text or in a footnote.
+  - Or if readers need to understand the meaning of a name in order to understand what is said about it, and that name is used only once, translate the meaning of the name.
+  - If a person or place has two different names, use one name all of the time and write a footnote when the source text uses the name that is used less frequently.  
+  - Or use whatever name is given in the source text, and add a footnote that explains who or what the name refers to.
 
-The word "Mount" next to "Zion" lets us know that it refers to a mountain landform named "Zion" or "Mount Zion." "Jerusalem" is the name of a city. We know it is a place because it is where someone lives, and this verse also tells us that Jerusalem is located on Mount Zion.
+==== Examples of Translation Strategies Applied ==== 
 
->“Later, Jesus appeared again to the disciples beside the Sea of Galilee.”  (John 21:1)
+1. If readers cannot easily understand from the context what kind of a thing a name refers to, you can add a word to clarify it.
+  * **You went over the __Jordan__ and came to __Jericho__. The leaders of Jericho fought against you, along with the __Amorites__** (Joshua 24:11 ULB) 
+    * “You went over the __Jordan River __ and came to the city of Jericho. The leaders of Jericho fought against you, along with __the tribe of the Amorites__” 
 
-The text refers to a place called the Sea of Galilee. "Sea" is our clue that the Sea of Galilee is a body of water.
+  * **Shortly after, some Pharisees came and said to him, "Go and leave here because __Herod__ wants to kill you."** (Luke 13:31 ULB) 
+    * "Shortly after, some Pharisees came and said to him, "Go and leave here because __King Herod__ wants to kill you." 
+
+2. If readers need to understand the meaning of a name in order to understand what is said about it, copy the name and tell about its meaning either in the text or in a footnote.
+  * **She named him __Moses__ and said, "Because I drew him from the water."** (Exodus 2:11 ULB) 
+    * "She named him __Moses, which sounds like 'drawn out,'__ and said, "Because I drew him from the water." 
+
+3.  Or if readers need to understand the meaning of a name in order to understand what is said about it, and that name is used only once, translate the meaning of the name.
+  * **she said, "Do I really continue to see, even after he has seen me?"  Therefore the well was called __Beerlahairoi__;** (Genesis 16:13-14 ULB) 
+    * "she said, "Do I really continue to see, even after he has seen me?"  Therefore the well was called __Well of the One who sees me__; "
+
+4. If a person or place has two different names, use one name most of the time and the other name only when the text talks about that name. Write a footnote when the source text uses the name that is used less frequently.  
+
+For example, Paul is called "Saul" before Acts 13 and "Paul" after Acts 13. You could translate his name as "Paul" all of the time, except in Acts 13:9 where it talks about him having both names. 
+  * **a young man named __Saul__** (Acts 7:58 ULB) 
+    * "a young man named __Paul__"<sup>1</sup>  
+    * <sup>1</sup>Most versions say Saul here, but most of the time in the Bible he is called Paul.
+
+  * **But __Saul__, who is also called __Paul__, was filled with the Holy Spirit;** (Acts 13:9)
+    * "But __Saul__, who is also called __Paul__, was filled with the Holy Spirit;"
+
+5. Or if a person or place has two names, use whatever name is given in the source text, and add a footnote that explains who or what the name refers to.
+
+For example, you could write "Saul" where the source text has "Saul" and "Paul" where the source text has "Paul." 
+  * **a young man named __Saul__** (Acts 7:58 ULB) 
+    * "a young man named __Saul__" 
+
+  * **But __Saul__, who is also called __Paul__, was filled with the Holy Spirit;** (Acts 13:9)
+    * "But __Saul__, who is also called __Paul__, was filled with the Holy Spirit;"
+
+  * **It came about in Iconium that __Paul__ and Barnabas entered together into the synagogue** (Acts 14:1 ULB)
+    * "It came about in Iconium that __Paul__<sup>1</sup> and Barnabas entered together into the synagogue" (Acts 14:1 ULB)
+    * <sup>1</sup>This is the man that was called Saul before Acts 13.
 
 
 

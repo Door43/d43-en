@@ -15,7 +15,7 @@ Typically a notification will be announced on the laptop screen indicating that 
 
 When using a TRRS mic with a mobile device such as a tablet, the device automatically detects the mic and activates it. It also automatically selects it as the input signal for recording (unless it does not have TRRS compatibility).
 
-When using a TRRS mic with a laptop with a single TRRS jack, the laptop automatically activates it. However, in most recording software, a manual step must be taken within the software to select the TRRS mic as the input signal for recording.
+When using a TRRS mic with a laptop with a single TRRS jack, the laptop automatically activates it. However, in most recording software, a manual step must be taken to select the TRRS mic as the input signal for recording in the software.
 
 
 

@@ -752,6 +752,7 @@ edge [arrowsize=1.4];
 "writing_quotations" -> "figs_quotemarks"
 "figs_rpronouns" [fillcolor="#9999ff"]
 "figs_pronouns" -> "figs_rpronouns"
+"figs_sentences" -> "figs_rpronouns"
 "figs_rquestion" [fillcolor="#9999ff"]
 "figs_intro" -> "figs_rquestion"
 "figs_sentences" -> "figs_rquestion"
@@ -811,9 +812,6 @@ edge [arrowsize=1.4];
 "guidelines_faithful" [fillcolor="#9999ff"]
 "guidelines_intro" -> "guidelines_faithful"
 "translation_guidelines" -> "guidelines_faithful"
-"guidelines_familial" [fillcolor="#9999ff"]
-"guidelines_intro" -> "guidelines_familial"
-"guidelines_faithful" -> "guidelines_familial"
 "guidelines_historical" [fillcolor="#9999ff"]
 "guidelines_intro" -> "guidelines_historical"
 "translation_guidelines" -> "guidelines_historical"
@@ -827,6 +825,10 @@ edge [arrowsize=1.4];
 "guidelines_ongoing" [fillcolor="#9999ff"]
 "guidelines_intro" -> "guidelines_ongoing"
 "translation_guidelines" -> "guidelines_ongoing"
+"guidelines_sonofgod" [fillcolor="#9999ff"]
+"guidelines_faithful" -> "guidelines_sonofgod"
+"guidelines_sonofgodprinciples" [fillcolor="#9999ff"]
+"guidelines_faithful" -> "guidelines_sonofgodprinciples"
 "mast" [fillcolor="#9999ff"]
 "guidelines_intro" -> "mast"
 "translate_whatis" -> "mast"
@@ -946,7 +948,7 @@ edge [arrowsize=1.4];
 "translate_transliterate" [fillcolor="#9999ff"]
 "translate_unknown" -> "translate_transliterate"
 "translate_unknown" [fillcolor="#9999ff"]
-"Translation" -> "translate_unknown"
+"figs_sentences" -> "translate_unknown"
 "translate_versebridge" [fillcolor="#9999ff"]
 "translate_Bibleorg" -> "translate_versebridge"
 "translate_wforw" [fillcolor="#9999ff"]
