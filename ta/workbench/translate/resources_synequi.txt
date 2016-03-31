@@ -1,14 +1,27 @@
-=== Synonyms and Equivalent Phrases ===
+===== Synonyms and Equivalent Phrases =====
 
-Synonyms and equivalent phrases are written in double-quotes. These mean the same as the text in the ULB. \\
+==== Description =====
+
+Synonyms and equivalent phrases are written in double-quotes. These mean the same as the text in the ULB. 
+
+==== Translation Notes Examples ====
 
 In this example, the words "the path" or the words "the road" can replace the words "the way" in the ULB. You decide if it is natural to say path or road in your language.
   * **the way**  - "the path" or "the road"
 In this example, the words "do the same thing" can replace the words "do likewise" in the ULB. You, as the translator, decide what is the natural for your language.
   * **do likewise**  - "do the same thing." 
 
+==== Translation Principles ====  
+  * Use words that are already part of your language if possible.
+  * Keep expressions short if possible.
+  * Represent God's commands and historical facts accurately.
+ 
+==== Translation Strategies ====
 
-Back to [[en:ta:workbench:translate:resources_types]]
+See [[en:ta:vol1:translate:translate_unknown]] for more information on translating words or phrases that are not known in your language.
+
+
 ----
+Back to [[en:ta:workbench:translate:resources_types]]
 
 {{tag>epadn support chris}}~~DISCUSSION~~
