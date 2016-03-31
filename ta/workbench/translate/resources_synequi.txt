@@ -2,14 +2,17 @@
 
 ==== Description =====
 
-Synonyms and equivalent phrases are written in double-quotes. These mean the same as the text in the ULB. 
+There are times that the notes provide a translation suggestion that can replace the word or phrases in the ULB. These replacements can fit into the sentence without changing the meaning of the sentence.  These are synonyms and equivalent phrases and are written in double-quotes. These mean the same as the text in the ULB. 
 
 ==== Translation Notes Examples ====
+> 'Make ready __the way__ of the Lord, (Luke 3:4 ULB)
 
-In this example, the words "the path" or the words "the road" can replace the words "the way" in the ULB. You decide if it is natural to say path or road in your language.
   * **the way**  - "the path" or "the road"
-In this example, the words "do the same thing" can replace the words "do likewise" in the ULB. You, as the translator, decide what is the natural for your language.
+In this example, the words "the path" or the words "the road" can replace the words "the way" in the ULB. You decide if it is natural to say path or road in your language.
+> whoever has food should __do likewise__." (Luke 3:10 ULB)
+
   * **do likewise**  - "do the same thing." 
+In this example, the words "do the same thing" can replace the words "do likewise" in the ULB. You, as the translator, decide what is the natural for your language.
 
 ==== Translation Principles ====  
   * Use words that are already part of your language if possible.
@@ -18,7 +21,7 @@ In this example, the words "do the same thing" can replace the words "do likewis
  
 ==== Translation Strategies ====
 
-See [[en:ta:vol1:translate:translate_unknown]] for more information on translating words or phrases that are not known in your language.
+  - Keep the meaning of the passage in all translations.
 
 
 ----
