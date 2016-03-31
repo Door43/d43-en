@@ -11,6 +11,31 @@ Translation Notes are words or phrases copied from the ULB and then explained. I
 
 There are many different type of notes in the Translation Notes. Each type of note gives the explanation in a different way. Knowing the type of note will help the translator make decisions on the best way to translate the Bible text into their language.
 
+**Definitions** - Sometimes you may not know what a word in the ULB means. Simple definitions of words or phrases are added without quotes or sentence format.
+
+**Explanations** - Simple explanations about words or phrases are in sentence format. 
+
+==== Suggested Translations ====
+There are several types of suggested translations.
+
+**Synonyms and Equivalent Phrases** - Synonyms and equivalent phrases are written in double-quotes. These mean the same as the text in the ULB.
+
+**Alternate Translations** - An alternate translation is a suggested change to the form or content of the ULB because the target language has a different form.
+
+**Clarifying Translation in the UDB** - There may be no note if the UDB provides a good alternate translation for the ULB. However, on occasion there may be text from the UDB as well as a suggested translation. There will be "(UDB)" after the text from the UDB.
+
+**Alternate Meanings** - Alternate meanings refer to when there are multiple ways to express something or when there are different understandings of what the word or phrase means. 
+
+**Probable or Possible Meanings**
+
+**Identify Figures of Speech**
+
+**Indirect to Direct Quote**
+
+**Multiple Notes on Long Phrase**
+
+
+
 ==== Definitions ====
 Sometimes you may not know what a word in the ULB means. Simple definitions of words or phrases are added without quotes or sentence format. Here are examples:\\
 
@@ -70,7 +95,7 @@ If the meaning is given in a way that can be used as a translation, it is in quo
 
   * **fell down at Jesus' knees**  - Possible meanings are 1) "bowed down at Jesus' feet" or 2) "lay down on the ground at Jesus' feet" or 3) "knelt down before Jesus." Peter did not fall accidentally. He did this as a sign of humility and respect for Jesus.
 
- === Probable or Possible Meanings ===
+=== Probable or Possible Meanings ===
 Sometimes Bible scholars do not know for sure, or do not agree on, what a particular phrase or sentence in the Bible means. Some reasons for this include: 
   - There are minor differences in the ancient Bible texts.  
   - A word may have more than one meaning or use. 
