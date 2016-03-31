@@ -1,10 +1,23 @@
 ===== Indirect to Direct Quote =====
 
-When adding the option for a direct quote, preface the alternate with "It can be translated as a direct quote:" followed by the new phrase.
+==== Description =====
 
-  * **to tell no one**  - This can be translated as a direct quote: "Do not tell anyone." The implied information is "that you have been healed." (See: [[en:ta:vol2:translate:figs_quotations|Speech Quotations]], [[en:ta:vol1:translate:figs_explicit|Explicit and Implicit Information]])
+There are two kinds of quotations: direct quotation and indirect quotation. When translating a quotation, translators need to decide whether to translate it as a direct quotation or an indirect quotation.  (See: [[en:ta:vol2:translate:figs_quotations]])
 
-Back to [[en:ta:workbench:translate:resources_types]]
+When there is an indirect quote in the ULB, the notes may have an option for a direct quote. The translation suggestion will start with "It can be translated as a direct quote:" followed by the new phrase.
+
+Notice that there is a link to the tA page with more information about Direct Quotes and translation strategies for the translator to accurately translate the passage according to the form of the target language.
+
+==== Translation Notes Examples ====
+
+  * **to tell no one**  - This can be translated as a direct quote: "Do not tell anyone." The implied information is "that you have been healed." (See: [[en:ta:vol2:translate:figs_quotations]])
+
+Here the translation suggestion is to change the passage with the indirect quote of what Jesus said to a direct quote.  
+
+
 ----
+Back to [[en:ta:workbench:translate:resources_types]]
+
+
 
 {{tag>epadn support chris}}~~DISCUSSION~~
