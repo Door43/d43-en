@@ -19,9 +19,9 @@ There are many different type of notes in the Translation Notes. Each type of no
 === Suggested Translations ===
 There are several types of suggested translations.
 
-  * **Synonyms and Equivalent Phrases** - Synonyms and equivalent phrases are written in double-quotes. These mean the same as the text in the ULB.
+  * **[[en:ta:workbench:translate:resources_synequi]]** - Synonyms and equivalent phrases are written in double-quotes. These mean the same as the text in the ULB.
 
-  * **Alternate Translations** - An alternate translation is a suggested change to the form or content of the ULB because the target language has a different form.
+  * **[[en:ta:workbench:translate:resources_alter]]** - An alternate translation is a suggested change to the form or content of the ULB because the target language has a different form.
 
   * **Clarifying Translation in the UDB** - There may be no note if the UDB provides a good alternate translation for the ULB. However, on occasion there may be text from the UDB as well as a suggested translation. There will be "(UDB)" after the text from the UDB.
 
@@ -46,16 +46,7 @@ There are several types of suggested translations.
 
 
 
-=== Alternate Translation(s) ===
 
-An alternate translation is a suggested change to the form or content of the ULB because the target language has a different form.
-
-Examples include adding implicit information, changing passive voice to active, and stating rhetorical questions as statements. 
-
-The "AT:" indicates that this alternate translation should only be used when the ULB form or content will not fit into the form of your language. Some examples are:
-
-  * **see the salvation of God**  - AT: "learn about how God saves people from sin."
-  * **Follow me**  - AT: “Be my disciple” or “Come, follow me as your teacher.”
 
 
 === Clarifying Translation in the UDB ===
