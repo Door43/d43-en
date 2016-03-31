@@ -18,9 +18,9 @@ There are many different type of notes in the Translation Notes. Each type of no
 === Suggested Translations ===
 There are several types of suggested translations.
 
-  * **[[en:ta:vol1:translate:resources_synequi]]** - Synonyms and equivalent phrases are written in double-quotes. These mean the same as the text in the ULB.
+  * **[[en:ta:vol1:translate:resources_synequi]]** - There are times that the notes provide a translation suggestion that can replace the word or phrases in the ULB. These replacements can fit into the sentence without changing the meaning of the sentence. These are synonyms and equivalent phrases and are written in double-quotes. These mean the same as the text in the ULB. 
 
-  * **[[en:ta:vol1:translate:resources_alter]]** - An alternate translation is a suggested change to the form or content of the ULB because the target language has a different form.
+  * **[[en:ta:vol1:translate:resources_alter]]** - An alternate translation is a suggested change to the form or content of the ULB because the target language has a different form. The alternate translation should only be used when the ULB form or content will not fit into the form of your language. 
 
   * **[[en:ta:vol1:translate:resources_clarify]]** - There may be no note if the UDB provides a good alternate translation for the ULB. However, on occasion there may be text from the UDB as well as a suggested translation. There will be "(UDB)" after the text from the UDB.
 
@@ -28,11 +28,11 @@ There are several types of suggested translations.
 
   * **[[en:ta:vol1:translate:resources_porp]]** - Sometimes Bible scholars do not know for sure, or do not agree on, what a particular phrase or sentence in the Bible means. Some reasons for this include: there are minor differences in the ancient Bible texts, or a word may have more than one meaning or use, or it may not be clear what a word (such as a pronoun) refers to in a particular phrase. 
 
-  * **[[en:ta:vol1:translate:resources_fofs]]**
+  * **[[en:ta:vol1:translate:resources_fofs]]** - In the notes there will be an explanation on how to translate the Figure of Speech that is in the passage. Sometimes an Alternate Translation (AT:) is provided. There will also be a link to the translationAcademy page for additional information and translation strategies to help the translator accurately translate for the meaning of the passage. 
 
-  * **[[en:ta:vol1:translate:resources_iordquote]]**
+  * **[[en:ta:vol1:translate:resources_iordquote]]** - There are two kinds of quotations: direct quotation and indirect quotation. When translating a quotation, translators need to decide whether to translate it as a direct quotation or an indirect quotation.
 
-  * **[[en:ta:vol1:translate:resources_long]]**
+  * **[[en:ta:vol1:translate:resources_long]]** - 
 
 ----
 
