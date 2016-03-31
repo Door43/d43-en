@@ -1,15 +1,40 @@
-===== Alternate Translation(s) =====
+===== translationNotes with Alternate Translations (AT) =====
 
-An alternate translation is a suggested change to the form or content of the ULB because the target language has a different form.
+An alternate translation is a suggested change to the form or content of the ULB because the target language has a different form. The alternate translation should only be used when the ULB form or content will not fit into the form of your language. 
 
-Examples include adding implicit information, changing passive voice to active, and stating rhetorical questions as statements. 
+The alternate translation suggestion may include adding implicit information, changing passive voice to active, or stating rhetorical questions as statements. 
 
-The "AT:" indicates that this alternate translation should only be used when the ULB form or content will not fit into the form of your language. Some examples are:
+==== Translation Notes Examples ====
 
-  * **see the salvation of God**  - AT: "learn about how God saves people from sin."
-  * **Follow me**  - AT: “Be my disciple” or “Come, follow me as your teacher.”
+The "AT:" indicates that this is an alternate translation. Some examples are:
 
-Back to [[en:ta:workbench:translate:resources_types]]
+**Add Implicit Information**
+>  it is the law of the Medes and Persians, that no decree or statute that the king issues can be changed. (Daniel 6:15 ULB)
+
+  * **no decree or statute that the king issues can be changed** - AT: "They must throw Daniel into the pit of lions." 
+
+This translation suggestion provides additional information about the decree that the reader might not know. Translators may need to state some things clearly in the translation that the original speaker or writer left unstated or implicit. 
+
+**Passive to Active**
+> to him who blasphemes against the Holy Spirit, it will not be forgiven. (Luke 12:10 ULB)
+
+  * **it will not be forgiven** - AT: God will consider him guilty forever" 
+Translators whose languages do not have passive sentences will need to know how they can translate passive sentences that they find in the Bible.
+
+
+**Rhetorical Question**
+> Saul, Saul, why are you persecuting me? (Acts 9:4 ULB)
+
+    * **why are you persecuting me?** - AT: "You are persecuting me!" 
+The Lord was rebuking Saul in the form of a question. The translation suggestion provides an alternate (AT) way to translate the rhetorical question if your language does not use rhetorical questions to rebuke.
+
+
+
+
+
 ----
+Back to [[en:ta:workbench:translate:resources_types]]
+
+https://pad.door43.org/p/ta-resources_alter
 
 {{tag>epadn support chris}}~~DISCUSSION~~
