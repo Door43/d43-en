@@ -25,24 +25,15 @@ There are several types of suggested translations.
 
   * **[[en:ta:workbench:translate:resources_clarify]]** - There may be no note if the UDB provides a good alternate translation for the ULB. However, on occasion there may be text from the UDB as well as a suggested translation. There will be "(UDB)" after the text from the UDB.
 
-  * **Alternate Meanings** - Alternate meanings refer to when there are multiple ways to express something or when there are different understandings of what the word or phrase means. 
+  * **[[en:ta:workbench:translate:resources_alterm]]** - Alternate meanings refer to when there are multiple ways to express something or when there are different understandings of what the word or phrase means. 
 
-  * **Probable or Possible Meanings**
+  * **[[en:ta:workbench:translate:resources_prop]]** - Sometimes Bible scholars do not know for sure, or do not agree on, what a particular phrase or sentence in the Bible means. Some reasons for this include: there are minor differences in the ancient Bible texts, or a word may have more than one meaning or use, or it may not be clear what a word (such as a pronoun) refers to in a particular phrase. 
 
-  * **Identify Figures of Speech**
+  * **[[en:ta:workbench:translate:resources_fofs]]**
 
-  * **Indirect to Direct Quote**
+  * **[[en:ta:workbench:translate:resources_iordquote]]**
 
-  * **Multiple Notes on Long Phrase**
-
-
-
-
-
-
-
-==== Suggested Translations ====
-There are several types of suggested translations.
+  * **[[en:ta:workbench:translate:resources_long]]**
 
 
 
@@ -50,46 +41,6 @@ There are several types of suggested translations.
 
 
 
-=== Alternate Meaning(s) ===
-
-Alternate **meanings** refer to 
-  * When there are multiple ways to express something
-  * When there are different understandings of what the word or phrase means. 
- 
-The explanation of the ULB text starts with the words "Possible meanings are" and number the translation suggestions with the preferred meaning first. If the meaning is given as an explanation, it is not in quotes. 
-  * **You are like a young lion ... like a monster in the seas** - Possible meanings are that 1) he was like a lion and a monster or 2) he thought he was like a lion, but he was really only a monster.
-
-  * **like a monster in the seas** - Possible meanings are that 1) he was powerful or 2) he was not doing anything important.
-
-If the meaning is given in a way that can be used as a translation, it is in quotes. 
-
-  * **fell down at Jesus' knees**  - Possible meanings are 1) "bowed down at Jesus' feet" or 2) "lay down on the ground at Jesus' feet" or 3) "knelt down before Jesus." Peter did not fall accidentally. He did this as a sign of humility and respect for Jesus.
-
-=== Probable or Possible Meanings ===
-Sometimes Bible scholars do not know for sure, or do not agree on, what a particular phrase or sentence in the Bible means. Some reasons for this include: 
-  - There are minor differences in the ancient Bible texts.  
-  - A word may have more than one meaning or use. 
-  - It may not be clear what a word (such as a pronoun) refers to in a particular phrase. 
-
-
-See [[en:ta:workbench:translate:resources_prop]] for more information.
-
-=== Identify Figures of Speech ===
-
-When writing a note to identify and explain a figure of speech, use sentence form and put the meaning in quotes.
-
-  * **Make ready the way of the Lord**  - This phrase compares people preparing themselves for the arrival of the Lord to people who are repairing a road for someone to use it. AT: "Repent and be ready for when the Lord comes." (See: [[en:ta:vol1:translate:figs_metaphor|Metaphor]])
-  * **You offspring of poisonous snakes**  - Jesus uses this expression to emphasize how dangerous the Pharisees are. Poisonous snakes are dangerous and represent evil. AT: "You evil poisonous snakes!" or "You are evil like poisonous snakes." (See: [[en:ta:vol1:translate:figs_metaphor|Metaphor]])
-
-If there is a Translation Academy page that deals with a figure of speech, you can include it in the note. You can see the list of topics at: [[en:ta:ta-topics]]
-
-  * Refer to tA topics by writing, for example, "(See: Metonymy)" or "(See: Exclusive)" at the end of the note. You can see these at [[:en:ta:ta-topics|Topics]].
-
-=== Indirect to Direct Quote ===
-
-When adding the option for a direct quote, preface the alternate with "It can be translated as a direct quote:" followed by the new phrase.
-
-  * **to tell no one**  - This can be translated as a direct quote: "Do not tell anyone." The implied information is "that you have been healed." (See: [[en:ta:vol2:translate:figs_quotations|Speech Quotations]], [[en:ta:vol1:translate:figs_explicit|Explicit and Implicit Information]])
 
 
 === Multiple Notes on Long Phrase ===
