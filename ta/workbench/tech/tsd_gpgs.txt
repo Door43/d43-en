@@ -1,0 +1,98 @@
+====== translationStudio Desktop and GOGS =====
+
+Welcome to Etherpad!
+
+
+
+
+This pad text is synchronized as you type, so that everyone viewing this page sees the same text. This allows you to collaborate seamlessly on documents!
+
+
+
+
+Get involved with Etherpad at http://etherpad.org
+
+
+
+
+
+
+
+Rich Mahn [1:07 PM] @christinej: People have started to actually log into Gogs and are forking repos that came from tS (Those with usernames that are MAC) into their own accounts, which is denoted by a username. Eventually tS pushes to Gogs will be done by a regular user name, meaning, a user will be able to log into tS which logs them into Gogs.
+
+
+
+
+[1:08] 
+
+You can sign up on Gogs, make a repo, or fork an existing one so you can work on it.
+
+[1:09] 
+
+You will also notice that is a device with tS has translated and "published" two different projects, that MAC user will have two repos, one for each project.
+
+[1:10] 
+
+And last, a user can also create an "Organization" and invite other users to it, giving different permission to those users, so they can all work on the same repo.
+
+
+
+
+
+
+
+
+
+
+When Publishing, the app needs to fill out the request to publish form via
+
+the tD API. Docs are at http://td.unfoldingword.org/api/.
+
+
+
+
+
+
+
+See unfoldingWord-dev/ts-requirements#10
+
+for more details.
+
+
+
+
+
+
+
+
+
+
+
+
+
+ I will tag you on this and then you can pass it on as needed (perhaps in the helpdesk channel).  In regards to verse markers in ts-desktop, here is how they are designed to work.  First of all, it will only allow you to "drop" them onto an existing word, not between words.  It will then place the marker just in front of the word you released it on.   In Windows (not sure about other OS's), the icon changes when it is dragging over someplace where dropping is allowed versus not.  So you can tell when you are over a word versus over a space between words.   Second, it only saves verse marker locations for completed chunks.  This means that any chunk that is not completed will not remember verse marker locations.  Whether you complete it and then uncomplete it, or just go to a different screen, or reopen the project, verse markers will reset to the beginning of any not completed chunks.  Again, we are looking into ways to make this more user friendly in the future, but for now, this is how they are designed.  Knowing these facts may help with some of the user issues that they are having.  If there are other issues with them "not working" that is not related to these two design facts, then please let me know.  Thanks.
+
+
+
+
+
+
+
+@dima: In response to your issues...1. If you are talking about needing a scroll bar, that will happen in the next release for the book menu.  The list should scroll now with a scroll wheel, but we are aware that it is difficult to scroll with a touch pad.  2. I noticed the bug with the blank chunk in review mode and did a bunch of work that I thought fixed it.  I have not had it happen to me again in v5.0, but since you have, I will look into it again.
+
+[1:21] 
+
+@toddlprice: There is already a "loading" screen set up for the restore function, however, whenever I do it, I never see it because the restore happens so fast.  There is also code that is supposed to refresh the home page properly that also works fine for me.  Please confirm that which version you are using and which OS and any other info that might help me recreate the issue you are having.  Thanks.
+
+[1:25] 
+
+@mxaln: We are aware that the current system for verse markers is very limited and we are working on developing a more robust editing system that will help with that as well as provide support for paragraph markers, bold text, etc.  In the mean time, the reason why you are having the problem you stated is because the screen where you place the verse markers is not recognizing the "line break" and is thinking the last word of one verse is part of the first word of the next verse as far as where verse markers are allowed.  You can "fix" this for now by adding a space at the end of the line before adding the line break.  Then it will allow the verse marker to be placed in that spot.  Sorry for the inconvenience.  A better solution is in the works but may take a month or so before it is released.
+
+
+
+
+[1:26] 
+
+@christinej: See my notes above about several issues.  It may be helpful to understand these things so you can pass them on to other users.
+
+
