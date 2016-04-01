@@ -1,0 +1,85 @@
+===== The Process for Translating the translationQuestions =====
+
+//This page answers the question:// //What steps do I follow when I translate the translationQuestions?//
+
+//In order to understand this topic, it would be good to read://
+  * //[[en:ta:vol2:tech:tsd_intro|translationStudio Desktop Introduction]]//
+  * //[[en:ta:vol2:tech:tsd_install|translationStudio Desktop Installation]]//
+  * //[[en:ta:vol3:gateway:gl_questions|Translate the translationQuestions]]//
+
+Have you read the information in the article on [[en:ta:vol3:gateway:gl_questions]]? It is **very important** to understand the guidelines before translating the translationQuestions.
+
+This module explains the steps to translating the translationQuestions using translationStudio-Desktop.
+
+We want all translations of the Bible to communicate clearly the message that God wants them to communicate. One tool that we are providing so that the OL translators can make sure that their translations are communicating correctly is this set of translationQuestions. The OL translators will use these translationQuestions to conduct community checks of each chapter of the Bible that they translate. 
+
+There is a set of questions for each chapter of the books of the Bible.
+
+=== First, Create a translationQuestion Project ===
+
+From any screen in the program, click on the 3-dot menu icon found in the bottom left corner of the window.
+  * Click on the word "Home."
+    * **Note the ULB should be translated into the Gateway Language before you begin to translate the translationQuestions.** 
+  * Add a new project by clicking on the blue circle with a plus sign in the top right corner of the window.
+    * Choose a target language.
+    * Choose a project type (Open Bible Stories, Old Testament or New Testament) that you have already started.
+    * Choose translationQuestions in the next window.
+      * Click on the square icon with the + and - sign directly under the prompt or at the top right of the source text window.
+      * Click on the empty square box next to the desired source language.
+      * Click on "Confirm" at the bottom of the window to save the selection. Or, click on "Cancel" to close and not save the selected language. There MUST be a source language chosen.
+
+=== Second, Start the translationQuestion Project ===
+
+From any screen in the program, click on the 3-dot menu icon found in the bottom left corner of the window.
+  * Click on the word "Home."
+  * Open the project from the Home or "Your Translation Projects" window.
+The project window opens. The 4 sections displayed are (from left to right):
+  - The source text
+  - The target language translation
+  - The target language questions (tan color)
+  - The resources for the source text.
+
+=== Third, Translate the translationQuestions ===
+
+  * Read a chapter, or story, that has been translated into the Gateway Language.
+  * Go to the first chunk.
+    * In the far right section, click on the 'Questions' tab. 
+  * Click on the plus sign in the center of the Target Language Questions section (tan color) of the chunk.
+  * Type in the translation of the first, or only, question in the Questions section.
+    * Type in the translation on the first line where the words "Add Question Here" are.
+  * Type in the translation of the answer.
+    * Read the expected answer from the source text by clicking on the source text question.
+    * Type in the translation of the answer in the space where the words "Add Answer Here" are.
+  * Add another question.
+    * Click on the plus sign on the top bar of the Target Language Questions section.
+    * Repeat the translating of the question and answers until all are done for that particular chunk.
+
+== What if there are no source text questions for a chunk? == 
+
+The Gateway Language translator should make the decision if there should be a question or if no question for that chunk is the right thing to do.
+  * To add a question - click on the plus sign on the header of the chunk and add the new question and answer in the correct spaces.
+  * To leave the chunk without questions - click on the 'Mark chunk as done' slider to confirm that the chunk is complete. 
+
+=== Finally, Mark the Chunk as Done and go to the Next Chunk ===
+
+When all of the questions and answers have been translated
+  * Click on the slider at the bottom right of the chunk.
+  * Click on 'Confirm' in the pop-up window.
+
+Continue to the next chunk until all of the chunks for a chapter or story are complete. 
+
+=== Repeat these four steps until the entire book is done. ===
+
+
+
+//Next we recommend you learn about://
+  * //[[en:ta:vol2:tech:tsd_navigate|Navigating translationStudio Desktop]]//
+  * //[[en:ta:vol2:tech:tsd_tn|The Process for Translating the translationNotes]]//
+  * //[[en:ta:vol2:tech:tsd_tw|The Process for Translating the translationWords]]//
+  * //[[en:ta:vol2:tech:tsd_ta|The Process for Translating translationAcademy]]//
+
+----
+
+https://pad.door43.org/p/ta-tSd_tQ
+
+{{tag>epady}}
