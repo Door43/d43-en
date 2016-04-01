@@ -1,0 +1,67 @@
+===== The Process for Translating the translationWords =====
+
+//This page answers the question:// //What steps do I follow when I translate the translationWords?//
+
+//In order to understand this topic, it would be good to read://
+  * //[[en:ta:vol2:tech:tsd_intro|translationStudio Desktop Introduction]]//
+  * //[[en:ta:vol2:tech:tsd_install|translationStudio Desktop Installation]]//
+  * //[[en:ta:vol3:gateway:gl_words|Translate the translationWords]]//
+
+Have you read the information in the article on [[en:ta:vol3:gateway:gl_words]]? It is very important to understand the guidelines before translating the translationWords. There is also very important information on decisions that need to be made during the translation process.
+
+This module explains the steps to translating the translationWords using translationStudio-Desktop.
+
+It is important that the Other Language translators understand all of the words that they are translating. But some of the words in the Bible are not used in everyday life in our time or in our cultures, and so the translator may not be familiar with them. Other words are used in everyday life, but they are used in a different way in the Bible. Some of these words have very important or special meanings in the Bible. They tell us a lot about God and his relationship with us. So in order for the Other Language translator to completely understand these words, we have provided the definitions in the translationWords list. When you translate this list into the Gateway Language, it will help all of the Other Language translators who will use it to translate the Bible for their people with good understanding. 
+
+
+==== First, Create a translationWords Project ====
+
+From any screen in the program, click on the 3-dot menu icon found in the bottom left corner of the window.
+  * Click on the word "Home."
+  * Add a new project by clicking on the blue circle with a plus sign in the top right corner of the window.
+    * Choose a target language.
+    * Choose translationWords in the next window. The Project opens.
+
+==== Second, Start the translationWords Project ====
+
+From any screen in the program, click on the 3-dot menu icon found in the bottom left corner of the window.
+  * Click on the word "Home."
+  * Open the project from the Home or "Your Translation Projects" window.
+The project window opens. There are two panels displayed:
+  - The source text in the left panel.
+  - The target language translation will be in the right panel.
+
+==== Third, Translate the translationWords ====
+
+  * Translate the translationWord in the top section on the right panel. 
+    * Left click above the red line on the 'Translate word here' words.
+    * Type in the translation of the translationWord, words or phrase.
+  * Translate the information for the translationWord.
+    * Left click on the words 'Translate definition here' and start typing the translation of the definition.
+
+Write translations that will help the Other Language translators understand how they can determine the best word to use in their language.
+
+Provide **Translation Suggestions** that will help the translator understand different ways to translate the term.
+
+==== Finally, Mark the tW as Done and Go to the Next tW ====
+
+When the translator feels that all the information have been written for the translationWord:
+  * Click on the slider at the bottom right of the term.
+  * Click on 'Confirm' in the pop-up window.
+
+Continue to the next tW until all of the translationWords are complete. 
+
+
+
+
+
+//Next we recommend you learn about://
+  * //[[en:ta:vol2:tech:tsd_navigate|Navigating translationStudio Desktop]]//
+  * //[[en:ta:vol2:tech:tsd_tn|The Process for Translating the translationNotes]]//
+  * //[[en:ta:vol2:tech:tsd_tq|The Process for Translating the translationQuestions]]//
+  * //[[en:ta:vol2:tech:tsd_ta|The Process for Translating translationAcademy]]//
+
+----
+https://pad.door43.org/p/ta-tSd_tW
+
+{{tag>epady}}
