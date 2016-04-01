@@ -7,9 +7,9 @@ The script on this page searches for a string of text anywhere in the notes, the
 //Note: Special characters and symbols must be preceded by a backslash "\".//
 
 <code>
-{{door43pages @:en:bible:notes -r -q="plead the cause" -exclude:home -simpleLineBreak -title -fontsize="90%"}}</code>
+{{door43pages @:en:bible:notes -r -q="obe((:)|(\/))((other)|(kt))((:)|(\/))term" -exclude:home -simpleLineBreak -title -fontsize="90%"}}</code>
 
-Replace the word "obe((:)|(\/))((other)|(kt))((:)|(\/))term" with any OBE name.
+Replace the word "" with any OBE name.
 
 search results:
 
