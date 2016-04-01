@@ -1,0 +1,56 @@
+===== translationStudio Desktop - Settings =====
+
+//This page answers the question:// //What are the settings of the tS-Desktop program and how do I change them?//
+
+//In order to understand this topic, it would be good to read://
+  * //[[en:ta:vol2:tech:tsd_intro|translationStudio Desktop Introduction]]//
+  * //[[en:ta:vol2:tech:tsd_install|translationStudio Desktop Installation]]//
+  * //[[en:ta:vol2:tech:tsd_first|translationStudio Desktop - First Use]]//
+
+==== Open the Settings Menu ====
+
+Tap on the 3 dot menu from any screen.
+Choose 'Settings' on the menu.
+
+
+There are four sections with information about the program's settings.
+
+==== General ====
+
+=== GL Mode ===
+Display additional translation options for gateway languages
+  *Click on the empty square to allow this option.
+    * A blue square with a white check mark means that the option has already been chosen.
+
+=== Font ===
+
+The name of the chosen font is displayed. Click on the word 'Font' to change the displayed font in the text.
+  * Scroll through the names of the fonts and click on the name to select the desired font.
+
+=== Font Size ===
+
+The size of the chosen font is displayed. Click on the words 'Font size' to change the displayed font size in the text.
+  * Choose from 'small', 'normal', medium' and 'large' font sizes by clicking on the size to select.
+
+==== Upload ====
+
+This is important information about the Servers and should not be changed.
+
+==== Advanced ====
+
+This is important information about the location of backups and the refresh settings. This information should not be changed.
+
+==== About ====
+
+Here you will see:
+      * The version number of the program
+      * The Data Path for saving and backups
+
+
+Use the back arrow at the top left of the screen to leave Settings.
+
+
+----
+https://pad.door43.org/p/ta-tSd_settings
+
+{{tag>epady}
