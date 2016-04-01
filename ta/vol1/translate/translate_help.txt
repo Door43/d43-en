@@ -4,8 +4,6 @@
 
 //In order to understand this topic, it would be good to read://
   * //[[en:ta:vol1:translate:translation_difficulty|Choosing What to Translate]]//
-  * //[[en:ta:vol1:translate:first_draft|Make a First Draft]]//
-  * //[[en:ta:vol1:translate:resources_intro|Introduction to Resources]]//
 
 ==== Using translationHelps ====
 To help translators make the best translation possible, **translationNotes**, **translationWords**  and **translationQuestions**  have been created.
@@ -29,7 +27,7 @@ Once you have consulted the translationNotes, translationWords and translationQu
 
 
 //Next we recommend you learn about://
-  * //[[en:ta:vol1:translate:resources_types|translationNotes]]//
+  * //[[en:ta:vol1:translate:resources_types|Using the translationNotes]]//
   * //[[en:ta:vol2:tech:translate_helpd43|Use the translationNotes on Door43]]//
   * //[[en:ta:vol1:tech:translate_helpts|Finding Help for translationStudio]]//
 

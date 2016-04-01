@@ -16,11 +16,11 @@ While it is important to record the project at high quality, these file sizes ar
 Generally speaking, in order to make the file size smaller for distribution, you will need to decrease the quality of the audio. This change is permanent. For example, when creating a standard quality MP3 file from a WAV master file, 80% of the audio quality is permanently deleted. This process cannot be reversed. Before you begin making smaller-sized, lower quality copies for distribution, make sure that you:
 
   * have saved a backup copy of your master files
-  * are following a process that makes a new set of files in the lower quality format. Do not permanently convert your high quality source files to low quality!
+  * are following a process that makes a new, separate set of files in the lower quality format. Do not permanently convert your high quality source files to low quality!
 
 If you did a quality job making decisions during your recording and editing phases, you will have much greater ability to maintain good listening quality even when making the file sizes small for distribution.
 
-Some recording software allows you to “batch process” or “batch convert” a group of files together at one time to a format setting for distribution. This saves a tremendous amount of time over creating a distribution version manually, one file at a time.
+Some recording software allows you to “batch process” or “batch convert” a group of files together at one time. This saves a tremendous amount of time over creating a distribution version of each file one at a time.
 
 MP3 format is the most widely compatible format for distribution. Please refer to the File Format Standards module for the latest information on the file format settings we recommend for distribution.
 
@@ -37,7 +37,7 @@ There may be reasons to rename a copy of an audio resource for distribution purp
   * changing the name to match the file naming convention required by the listening device
   * meeting other needs specific to a culture or location
 
-For instructions on how to rename groups or batches of files, please refer to the Guides section.
+For instructions on how to rename groups or batches of files, please refer the module in the Guides section.
 
 
 

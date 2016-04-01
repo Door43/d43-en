@@ -1,12 +1,12 @@
 ===== Microphones =====
 
-//This page answers the question:// //How is a good microphone identified?//
+//This page answers the question:// //How is a good voice-recording microphone identified?//
 
-A microphone, or mic, is the piece of equipment that captures the character and energy of a sound wave and converts it to an electrical energy.
+A microphone, or mic, is the piece of equipment that captures the character and energy of a sound wave and converts it to an electrical pulse.
 
 ====  Design Types ====
 
-Microphones are available today in many shapes and sizes, but these visible differences are not a clear indicator of how the mic will perform in the recording environment. Instead there are two important design characteristics of microphones that play the biggest role in determining the suitability for voice recording, particularly in sub-optimal conditions. It is worth noting that the visible shape or size of a mic is not a valid indicator of the suitability of a mic. Instead, it is the design properties of internal components that determine the behavior and performance of a mic. Let's take an inside look at the designs for signal transfer method and direction of sensitivity.
+Microphones are available today in many shapes and sizes, but the visible external differences are not a clear indicator of how the mic will perform in the recording environment. Instead, there are some important internal design characteristics of microphones that play the biggest role in determining its characteristic behaviors and its suitability for voice recording, particularly in sub-optimal conditions. Let's take a look at the common designs for signal transfer method and direction of sensitivity.
 
 === Signal Transfer Method ===
 
@@ -14,49 +14,52 @@ Signal transfer method is not a description any microphone manufacturer uses, bu
 
 **Dynamic** - This is a more robust design that relies on sound waves vibrating a thin piece of material, which then moves a coil of wire in close proximity to a magnet, thus generating electrical current in the wires. Dynamic mics are a very solid design that are often characterized as more durable, yet less sensitive than the other common design.
 
-**Condenser** - This is a design that makes use of a thin material (diaphragm) that is always electrically charged. When sound waves cause it to vibrate, it makes small changes to the electric field between the diaphragm and a nearby metal plate, thus creating electrical current. This design requires an external DC power source to electrically charge the diaphragm. While dynamic and condenser designs have some general similarities, the constantly charged diaphragm of the condenser design is much more sensitive to sound waves, including an increase in sensitivity to high frequencies. Condenser mics are considered to be more fragile that dynamic mics. However, many designs are quite durable and condensers have become the design chosen in nearly all consumer electronic devices manufactured today, including mobile phones.
+**Condenser** - This is a design that makes use of a thin material (diaphragm) that is always electrically charged. When sound waves cause it to vibrate, it makes small changes to the electrical field between the diaphragm and a nearby metal plate, thus creating electrical current. This design requires an external DC power source to electrically charge the diaphragm.
+While dynamic and condenser designs have some general similarities, the constantly charged diaphragm of the condenser design is much more sensitive to sound waves, especially in sensitivity to high frequencies. Condenser mics are considered to be more fragile that dynamic mics. However, many designs are quite durable and condensers have become the design chosen in nearly all consumer electronic devices manufactured today, including mobile phones.
 
 === Direction of Sensitivity ===
 
 Often described as a mic's polar pattern, there are many different designs for how strongly a mic senses (hears) or rejects sound from different directions. There are three major classifications for polar patterns, only one of which we recommend using for voice recording.
 
-**Unidirectional** – Sensitive on one side. This design is best for voice recording. Examples of this design include cardiod, hypercardioid, supercardioid patterns.
+**Unidirectional** – Unidirectional mics are sensitive only on one side. This design is best for voice recording. Examples of this design include cardiod, hypercardioid and supercardioid patterns.
 
-**Omnidirectional** – Equally sensitive from all directions. Not good for voice recording.
+**Omnidirectional** – Omnidirectional mics are equally sensitive from all directions. These are not good for voice recording.
 
-**Bi-directional** – Equally sensitive on two opposite sides. Not good for voice recording.
+**Bi-directional** – Bi-directional mics are equally sensitive on two opposite sides. These are also not good for voice recording.
 
 
 ==== Connectivity Types ====
 
-Microphones are available with a variety of connections. The mics are designed to be compatible with the standard electrical specifications of the intended connecting interface or device. Below we will identify the most common types of connections that consistently produce the best results, are the most reliable and versatile, and are the easiest to use for the task of audio recording.
+Microphones are available with a variety of cable connection types. The mics are designed to be compatible with the standard electrical specifications of the intended connecting interface or device. Below we will identify the most common types of connections that consistently produce the best results, are the most reliable and versatile, and are the easiest to use for the task of audio recording.
 
 
 === XLR Connection ===
-This is the most common connection type for professional quality microphones and will typically produce the very best audio quality. Of all the connection types, it is most likely to have the highest cost for required equipment. However, the ease of use and efficiency for the recording projects is unparalleled by other options, which may be a valuable consideration especially for larger projects such as Scripture recording.
+This is the most common connection type for professional microphones. Mics with an XLR connection will typically produce the very best audio quality.
 
-XLR mics cannot connect directly to a laptop or tablet. They require the use of an intermediate device called an audio interface. Audio interfaces typically connect to a laptop by USB connection or Firewire connection. Most interfaces provide the recordist with intuitive analog controls for adjusting mic gain levels and playback listening volume.
+XLR mics cannot connect directly to a laptop or tablet. They require the use of an intermediate device like an audio interface or mixing console to convert the signal and/or cable type to one compatible with a recording device. Audio interfaces typically connect to a laptop by USB connection or Firewire connection. Most interfaces provide the recordist with simple analog controls for adjusting mic gain levels and playback listening volume.
 
 
 === USB Connection ===
-USB Mics have are becoming more popular because of the simplicity of connecting directly to a computer. Originally having poor audio quality, many professional mic manufacturers are beginning to produce USB mics capable of excellent sound quality. Currently, the tradeoff for direct connectivity to a computer can be the loss of simple analog controls for both mic gain and playback volume. For many USB mics, these controls are now contained in digital menus in the mic or in the computer control panel settings. In some cases, recording software includes shortcuts to make adjustments, although sometimes these are actually a secondary adjustment, and if coupled with settings on the USB mic, creates multiple locations where levels are being regulated, which adds complexity.
+USB Mics are becoming more popular because they can simply connect directly to a computer. Originally having poor audio quality, many professional mic manufacturers are beginning to produce USB mics capable of excellent sound quality. Currently, the tradeoff for direct USB connectivity to a computer can be the loss of simple analog controls for both mic gain and playback volume. For many USB mics, these controls are now contained in digital menus in the mic or in the computer control panel settings. In some cases, recording software includes handy shortcuts or features to make level adjustments.
 
-Our testing and research for using USB mics with Android tablets indicates a significant degree of unreliability so we only recommend USB mics be used with laptops at this time. 
+Our testing and research with Android tablets indicates a significant degree of unreliability among most tablets in recognizing a connected USB mic. So we only suggest that USB mics be used dependably with laptops at this time.
 
 
 === 3.5 mm TRRS ===
-TRRS mics are a newer connection style that are typically compatible with mobile devices and some laptops wired with a 4-conductor audio jack. TRRS handles both incoming audio signals and outgoing audio signals through a single jack. These mics will vary in sound quality and design. Most are ill-suited for quality audio recording due to design. However, there is at least one excellent design for voice recording at a very affordable price. The overall caution with TRRS mics is not with the mic itself, but rather with the trend of poor quality audio conversion hardware in most Android devices.
+TRRS mics are a newer connection style that are compatible with many mobile devices and some laptops wired with a 4-conductor audio jack. TRRS wiring handles incoming audio signals and outgoing audio signals through a single jack. TRRS mics will vary in sound quality and design. Most are ill-suited for quality audio recording due to design. However, there is at least one excellent option available for voice recording at a very affordable price.
+
+It is important to be aware that even if a quality TRRS mic, such as an IK Multimedia iRig Mic Cast, is used the quality of the recorded audio may still be poor. The problem is not with the mic itself, but rather with the trend of poor quality audio conversion hardware in most Android devices.
 
 
 ==== Recommended Mics ====
 
-  * Audio Technica AT2020USB+ (USB)
-  * Rode NT-USB (USB)
+  * [[http://www.sweetwater.com/store/detail/AT2020USBP|Audio Technica AT2020USB+]] (USB)
+  * [[http://www.sweetwater.com/store/detail/NTUSB|Rode NT-USB]] (USB)
   * IK Multimedia iRig Studio Mic (USB)
-  * IK Multimedia iRig Mic Cast (TRRS)
+  * [[http://www.sweetwater.com/store/detail/iRigMicCast|IK Multimedia iRig Mic Cast]] (TRRS)
   * Audio Technica AT2020 (XLR)
   * Studio Projects B1 (XLR)
-  * Shure SM57a (XLR)
+  * [[http://www.sweetwater.com/store/detail/SM57|Shure SM57a]] (XLR)
 
 
 

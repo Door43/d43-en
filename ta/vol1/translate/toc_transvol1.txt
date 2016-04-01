@@ -43,13 +43,22 @@
 
 === How to Start Translating === 
   - [[en:ta:vol1:translate:mast]]
-  - [[en:ta:vol1:translate:first_draft]]
-  - [[en:ta:vol1:translate:resources_intro]]
   - [[en:ta:vol1:translate:translate_help]]
-    - [[en:ta:vol1:translate:resources_types]]
-    - [[en:ta:vol1:translate:resources_links]]
+
+=== Use the translationHelps when Translating ===
+  - [[en:ta:vol1:translate:resources_links]]
+  - [[en:ta:vol1:translate:resources_types]]
+    - [[en:ta:vol1:translate:resources_def]]
+    - [[en:ta:vol1:translate:resources_eplain]]
+    - [[en:ta:vol1:translate:resources_synequi]]
+    - [[en:ta:vol1:translate:resources_alter]]
+    - [[en:ta:vol1:translate:resources_clarify]]
+    - [[en:ta:vol1:translate:resources_alterm]]
     - [[en:ta:vol1:translate:resources_porp]]
-    - [[en:ta:vol1:translate:resources_words]]
+    - [[en:ta:vol1:translate:resources_fofs]]
+    - [[en:ta:vol1:translate:resources_iordquote]]
+    - [[en:ta:vol1:translate:resources_long]]
+  - [[en:ta:vol1:translate:resources_words]]
 
 
 === Just-in-Time Learning Volume 1 ===

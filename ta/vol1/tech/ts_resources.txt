@@ -4,7 +4,7 @@
 
 //In order to understand this topic, it would be good to read://
   * //[[en:ta:vol1:tech:ts_create|Create and Edit Text]]//
-  * //[[en:ta:vol1:translate:resources_intro|Introduction to Resources]]//
+  * //[[en:ta:vol1:translate:translate_help|Help with Translating]]//
 
 ==== translationStudio v3 ====
 
@@ -25,5 +25,5 @@ When you are done with the Resources, swipe from left to right to make the pane 
   * //[[en:ta:vol1:tech:ts_translate|Translating in translationStudio]]//
   * //[[en:ta:vol1:tech:ts_create|Create and Edit Text]]//
   * //[[en:ta:vol1:tech:ts_useresources|How to Use the Resources in translationStudio]]//
-  * //[[en:ta:vol1:translate:resources_types|translationNotes]]//
+  * //[[en:ta:vol1:translate:resources_types|Using the translationNotes]]//
 

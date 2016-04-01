@@ -4,7 +4,7 @@
 
 //In order to understand this topic, it would be good to read://
   * //[[en:ta:vol1:tech:ts_create|Create and Edit Text]]//
-  * //[[en:ta:vol1:translate:resources_intro|Introduction to Resources]]//
+  * //[[en:ta:vol1:translate:translate_help|Help with Translating]]//
 
 ==== Resources in tS ====
 
@@ -26,5 +26,5 @@ Once you have consulted the translationHelps, then you are ready to make the bes
   * //[[en:ta:vol1:tech:ts_translate|Translating in translationStudio]]//
   * //[[en:ta:vol1:tech:ts_create|Create and Edit Text]]//
   * //[[en:ta:vol1:tech:ts_resources|Find the Resources in translationStudio]]//
-  * //[[en:ta:vol1:translate:resources_types|translationNotes]]//
+  * //[[en:ta:vol1:translate:resources_types|Using the translationNotes]]//
 

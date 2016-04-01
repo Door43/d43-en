@@ -4,7 +4,6 @@
 
 //In order to understand this topic, it would be good to read://
   * //[[en:ta:vol1:translate:translate_help|Help with Translating]]//
-  * //[[en:ta:vol1:translate:resources_intro|Introduction to Resources]]//
 
 There are two types of links in the translationNotes. Links to a translationAcademy topic page and links for repeated words or phrases within the same book.
 
@@ -43,6 +42,6 @@ If a translation that you have used before for the same phrase does not fit a ne
 
 
 //Next we recommend you learn about://
-  * //[[en:ta:vol1:translate:resources_types|translationNotes]]//
+  * //[[en:ta:vol1:translate:resources_types|Using the translationNotes]]//
   * //[[en:ta:vol1:translate:resources_porp|translationNotes with Probable or Possible Meanings]]//
 

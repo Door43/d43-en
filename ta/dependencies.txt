@@ -103,7 +103,6 @@ edge [arrowsize=1.4];
 "level3" -> "self_assessment"
 "self_check" [fillcolor="#ffff99"]
 "level1" -> "self_check"
-"first_draft" -> "self_check"
 "spelling" [fillcolor="#ffff99"]
 "vol2_intro" -> "spelling"
 "acceptable" -> "spelling"
@@ -350,10 +349,6 @@ edge [arrowsize=1.4];
 "Technology" -> "audio_guides_rename_batch"
 "audio_interfaces" [fillcolor="#99ffff"]
 "Technology" -> "audio_interfaces"
-"audio_interfaces_firewire" [fillcolor="#99ffff"]
-"Technology" -> "audio_interfaces_firewire"
-"audio_interfaces_usb" [fillcolor="#99ffff"]
-"Technology" -> "audio_interfaces_usb"
 "audio_introduction" [fillcolor="#99ffff"]
 "Technology" -> "audio_introduction"
 "audio_logistics" [fillcolor="#99ffff"]
@@ -368,18 +363,12 @@ edge [arrowsize=1.4];
 "Technology" -> "audio_markers"
 "audio_mic_activation" [fillcolor="#99ffff"]
 "Technology" -> "audio_mic_activation"
-"audio_mic_connectivity_types" [fillcolor="#99ffff"]
-"Technology" -> "audio_mic_connectivity_types"
-"audio_mic_design_types" [fillcolor="#99ffff"]
-"Technology" -> "audio_mic_design_types"
 "audio_mic_fine_tuning" [fillcolor="#99ffff"]
 "Technology" -> "audio_mic_fine_tuning"
 "audio_mic_gain_level" [fillcolor="#99ffff"]
 "Technology" -> "audio_mic_gain_level"
 "audio_mic_position" [fillcolor="#99ffff"]
 "Technology" -> "audio_mic_position"
-"audio_mic_recommended" [fillcolor="#99ffff"]
-"Technology" -> "audio_mic_recommended"
 "audio_mic_setup" [fillcolor="#99ffff"]
 "Technology" -> "audio_mic_setup"
 "audio_microphone" [fillcolor="#99ffff"]
@@ -398,28 +387,12 @@ edge [arrowsize=1.4];
 "Technology" -> "audio_quality_standards"
 "audio_recommended_accessories" [fillcolor="#99ffff"]
 "Technology" -> "audio_recommended_accessories"
-"audio_recommended_cables" [fillcolor="#99ffff"]
-"Technology" -> "audio_recommended_cables"
 "audio_recommended_equipment" [fillcolor="#99ffff"]
 "Technology" -> "audio_recommended_equipment"
-"audio_recommended_headphones" [fillcolor="#99ffff"]
-"Technology" -> "audio_recommended_headphones"
-"audio_recommended_laptops" [fillcolor="#99ffff"]
-"Technology" -> "audio_recommended_laptops"
-"audio_recommended_mic_stands" [fillcolor="#99ffff"]
-"Technology" -> "audio_recommended_mic_stands"
-"audio_recommended_monitors" [fillcolor="#99ffff"]
-"Technology" -> "audio_recommended_monitors"
 "audio_recommended_playback_equipment" [fillcolor="#99ffff"]
 "Technology" -> "audio_recommended_playback_equipment"
-"audio_recommended_pop_filters" [fillcolor="#99ffff"]
-"Technology" -> "audio_recommended_pop_filters"
-"audio_recommended_portable_recorders" [fillcolor="#99ffff"]
-"Technology" -> "audio_recommended_portable_recorders"
 "audio_recommended_recording_devices" [fillcolor="#99ffff"]
 "Technology" -> "audio_recommended_recording_devices"
-"audio_recommended_tablets" [fillcolor="#99ffff"]
-"Technology" -> "audio_recommended_tablets"
 "audio_recording" [fillcolor="#99ffff"]
 "Technology" -> "audio_recording"
 "audio_recording_environment" [fillcolor="#99ffff"]
@@ -504,7 +477,7 @@ edge [arrowsize=1.4];
 "d43_intro" -> "d43_links"
 "d43_resources" [fillcolor="#99ffff"]
 "d43_intro" -> "d43_resources"
-"resources_intro" -> "d43_resources"
+"translate_help" -> "d43_resources"
 "d43_switcheditors" [fillcolor="#99ffff"]
 "d43_translateOBS" -> "d43_switcheditors"
 "d43_translateOBS" [fillcolor="#99ffff"]
@@ -557,7 +530,7 @@ edge [arrowsize=1.4];
 "tS_install" -> "tS_request"
 "tS_resources" [fillcolor="#99ffff"]
 "tS_create" -> "tS_resources"
-"resources_intro" -> "tS_resources"
+"translate_help" -> "tS_resources"
 "tS_select" [fillcolor="#99ffff"]
 "tS_install" -> "tS_select"
 "tS_settings" [fillcolor="#99ffff"]
@@ -575,7 +548,7 @@ edge [arrowsize=1.4];
 "tS_share" -> "tS_upload"
 "tS_useresources" [fillcolor="#99ffff"]
 "tS_create" -> "tS_useresources"
-"resources_intro" -> "tS_useresources"
+"translate_help" -> "tS_useresources"
 "tSd_backup" [fillcolor="#99ffff"]
 "tSd_install" -> "tSd_backup"
 "tSd_navigate" -> "tSd_backup"
@@ -595,7 +568,7 @@ edge [arrowsize=1.4];
 "tSd_print" [fillcolor="#99ffff"]
 "tSd_intro" -> "tSd_print"
 "tSd_resources" [fillcolor="#99ffff"]
-"resources_intro" -> "tSd_resources"
+"translate_help" -> "tSd_resources"
 "tSd_settings" [fillcolor="#99ffff"]
 "tSd_intro" -> "tSd_settings"
 "tSd_install" -> "tSd_settings"
@@ -787,10 +760,6 @@ edge [arrowsize=1.4];
 "figs_pronouns" -> "figs_yousingular"
 "file_formats" [fillcolor="#9999ff"]
 "Translation" -> "file_formats"
-"first_draft" [fillcolor="#9999ff"]
-"translation_difficulty" -> "first_draft"
-"translate_source_text" -> "first_draft"
-"writing_decisions" -> "first_draft"
 "guidelines_accurate" [fillcolor="#9999ff"]
 "guidelines_intro" -> "guidelines_accurate"
 "translation_guidelines" -> "guidelines_accurate"
@@ -839,48 +808,40 @@ edge [arrowsize=1.4];
 "choose_team" -> "qualifications"
 "resources_alter" [fillcolor="#9999ff"]
 "translate_help" -> "resources_alter"
-"resources_intro" -> "resources_alter"
 "resources_types" -> "resources_alter"
 "resources_alterm" [fillcolor="#9999ff"]
 "translate_help" -> "resources_alterm"
-"resources_intro" -> "resources_alterm"
 "resources_types" -> "resources_alterm"
 "resources_alter" -> "resources_alterm"
+"resources_clarify" [fillcolor="#9999ff"]
+"translate_help" -> "resources_clarify"
 "resources_def" [fillcolor="#9999ff"]
 "translate_help" -> "resources_def"
-"resources_intro" -> "resources_def"
 "resources_types" -> "resources_def"
 "resources_eplain" [fillcolor="#9999ff"]
 "translate_help" -> "resources_eplain"
-"resources_intro" -> "resources_eplain"
 "resources_types" -> "resources_eplain"
 "resources_fofs" [fillcolor="#9999ff"]
 "translate_help" -> "resources_fofs"
-"resources_intro" -> "resources_fofs"
 "resources_types" -> "resources_fofs"
 "resources_alter" -> "resources_fofs"
-"resources_intro" [fillcolor="#9999ff"]
-"gl_strategy" -> "resources_intro"
-"translate_manual" -> "resources_intro"
-"translation_difficulty" -> "resources_intro"
 "resources_iordquote" [fillcolor="#9999ff"]
 "translate_help" -> "resources_iordquote"
-"resources_intro" -> "resources_iordquote"
 "resources_types" -> "resources_iordquote"
 "resources_links" [fillcolor="#9999ff"]
 "translate_help" -> "resources_links"
-"resources_intro" -> "resources_links"
+"resources_long" [fillcolor="#9999ff"]
+"translate_help" -> "resources_long"
+"resources_alter" -> "resources_long"
+"resources_fofs" -> "resources_long"
 "resources_porp" [fillcolor="#9999ff"]
 "translate_help" -> "resources_porp"
-"resources_intro" -> "resources_porp"
 "resources_types" -> "resources_porp"
 "resources_synequi" [fillcolor="#9999ff"]
 "translate_help" -> "resources_synequi"
-"resources_intro" -> "resources_synequi"
 "resources_types" -> "resources_synequi"
 "resources_types" [fillcolor="#9999ff"]
 "translate_help" -> "resources_types"
-"resources_intro" -> "resources_types"
 "resources_words" [fillcolor="#9999ff"]
 "resources_porp" -> "resources_words"
 "translate_help" -> "resources_words"
@@ -920,8 +881,6 @@ edge [arrowsize=1.4];
 "translate_numbers" -> "translate_fraction"
 "translate_help" [fillcolor="#9999ff"]
 "translation_difficulty" -> "translate_help"
-"first_draft" -> "translate_help"
-"resources_intro" -> "translate_help"
 "translate_levels" [fillcolor="#9999ff"]
 "translate_fandm" -> "translate_levels"
 "translate_discover" -> "translate_levels"

@@ -3,7 +3,7 @@
 //This page answers the question:// //How do I find resources in the translationStudio Desktop program?//
 
 //In order to understand this topic, it would be good to read://
-  * //[[en:ta:vol1:translate:resources_intro|Introduction to Resources]]//
+  * //[[en:ta:vol1:translate:translate_help|Help with Translating]]//
 
 ==== translationStudio Desktop v5 ====
 
@@ -20,5 +20,5 @@ Click on the **Check** icon that looks like a clipboard with a check mark.In the
 
 
 //Next we recommend you learn about://
-  * //[[en:ta:vol1:translate:resources_types|translationNotes]]//
+  * //[[en:ta:vol1:translate:resources_types|Using the translationNotes]]//
 

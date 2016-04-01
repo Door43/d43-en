@@ -36,7 +36,7 @@ Because the translationNotes are part of a set of translation resources that wil
 
 
 //Next we recommend you learn about://
-  * //[[en:ta:vol1:translate:resources_types|translationNotes]]//
+  * //[[en:ta:vol1:translate:resources_types|Using the translationNotes]]//
   * //[[en:ta:vol3:gateway:gl_words|Translate the translationWords]]//
   * //[[en:ta:vol3:gateway:check_notes|Checking the translationNotes]]//
   * //[[en:ta:vol2:tech:tsd_tn|The Process for Translating the translationNotes]]//

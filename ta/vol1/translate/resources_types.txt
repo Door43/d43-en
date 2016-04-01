@@ -1,103 +1,42 @@
-===== translationNotes =====
+===== Using the translationNotes =====
 
 //This page answers the question:// //What are the different types of translationNotes?//
 
 //In order to understand this topic, it would be good to read://
   * //[[en:ta:vol1:translate:translate_help|Help with Translating]]//
-  * //[[en:ta:vol1:translate:resources_intro|Introduction to Resources]]//
 
-==== translationNotes ====
+=== To translate from the ULB.===
 
-The translationNotes are words or phrases copied from the ULB and then explained. In English, the ULB text is in bold.
+  * Read the ULB. Do you understand the meaning of the text so that you can accurately, clearly and naturally translate the meaning into your language?
+    * YES? Start translating.
+  * NO? Look at the UDB. Does the UDB help you understand the meaning of the ULB text?
+    * YES? Start translating.
+  * NO? Read the translation notes for help.
+Translation Notes are words or phrases copied from the ULB and then explained. In English, every note that explains the ULB starts the same. There is a bullet point, the ULB text is in bold followed by a dash, and then there are translation suggestions or information for the translator. For example:
+  * **copied ULB text**  - translation suggestion or information for the translator
+There are many different type of notes in the Translation Notes. Each type of note gives the explanation in a different way. Knowing the type of note will help the translator make decisions on the best way to translate the Bible text into their language.
+  * **[[en:ta:vol1:translate:resources_def]]** - Sometimes you may not know what a word in the ULB means. Simple definitions of words or phrases are added without quotes or sentence format.
 
-There are many different type of notes in the translationNotes. You should read all of the translationNotes for a frame or chunk of text before starting to translate it. You should also read both the ULB and the UDB and the definitions of the translationWords.
-
-==== Types of translationNotes ====
-
-=== Definitions ===
-
-One type of translationNote is the definition of a word. If a word in the ULB seems special or unusual, but not important enough to be included in the translationWords, the translationNotes will have the meaning of the word. Simple definitions of words or phrases are added without quotes or sentence format. Here are examples:
-
-  * **marketplace**  - a large, open-air area where people would come to sell their goods
-  * **flute**  - a long, hollow musical instrument which is played by blowing air in or over one end
-  * **kings' palaces**  - a large, expensive house that a king lives in
-
-=== Explanations ===
-
-Simple explanations about words or phrases are in sentence format. For example:
-  * **washing their nets**  - They were cleaning their fishing nets in order to use them again to catch fish.
-  * **motioned** - They were too far from shore to call so they made gestures, probably waving their arms.
+  * **[[en:ta:vol1:translate:resources_eplain]]** - Simple explanations about words or phrases are in sentence format. 
 
 === Suggested Translations ===
 
-Another type of translationNote is to give you suggestions for different ways you could translate the same meaning. There are several types of suggested translations. 
+There are several types of suggested translations.
+  * **[[en:ta:vol1:translate:resources_synequi]]** - There are times that the notes provide a translation suggestion that can replace the word or phrases in the ULB. These replacements can fit into the sentence without changing the meaning of the sentence. These are synonyms and equivalent phrases and are written in double-quotes. These mean the same as the text in the ULB. 
 
-== Direct Replacements ==
+  * **[[en:ta:vol1:translate:resources_alter]]** - An alternate translation is a suggested change to the form or content of the ULB because the target language has a different form. The alternate translation should only be used when the ULB form or content will not fit into the form of your language. 
 
-Synonyms or equivalent phrases are written in double-quotes. These can replace the text in the ULB. 
+  * **[[en:ta:vol1:translate:resources_clarify]]** - There may be no note if the UDB provides a good alternate translation for the ULB. However, on occasion there may be text from the UDB as well as a suggested translation. There will be "(UDB)" after the text from the UDB.
 
-In this example, the words “the path” or the words “the road” can  replace the words “the way” in the ULB. You can then decide if it is more natural to use a word like "path" or "road" or "way" in your language. 
-  * **the way**  - “the path” or “the road”
+  * **[[en:ta:vol1:translate:resources_alterm]]** - Alternate meanings refer to when there are multiple ways to express something or when there are different understandings of what the word or phrase means. 
 
-In this example, the words “do the same thing” can replace the words “do  likewise” in the ULB. You, as the translator, can decide which is more  natural for your language. 
-  * **do likewise**  - “do the same thing” 
+  * **[[en:ta:vol1:translate:resources_porp]]** - Sometimes Bible scholars do not know for sure, or do not agree on, what a particular phrase or sentence in the Bible means. Some reasons for this include: there are minor differences in the ancient Bible texts, or a word may have more than one meaning or use, or it may not be clear what a word (such as a pronoun) refers to in a particular phrase. 
 
-== Alternate Translation(s) ==
+  * **[[en:ta:vol1:translate:resources_fofs]]** - In the notes there will be an explanation on how to translate the Figure of Speech that is in the passage. Sometimes an Alternate Translation (AT:) is provided. There will also be a link to the translationAcademy page for additional information and translation strategies to help the translator accurately translate for the meaning of the passage. 
 
-An alternate translation is a suggested change to the form or content of the ULB because the target language may use a different form to communicate the same meaning. 
+  * **[[en:ta:vol1:translate:resources_iordquote]]** - There are two kinds of quotations: direct quotation and indirect quotation. When translating a quotation, translators need to decide whether to translate it as a direct quotation or an indirect quotation.
 
-Examples include adding implicit information, changing passive voice to active, and stating rhetorical questions as statements.  
-
-The letters “AT” stand for "Alternate Translation," so "AT:" indicates that what follows is an alternate translation that should only be used when the form or content of the ULB is confusing or is not enough to communicate the meaning in your language.  Some examples are: 
-  * **see the salvation of God**  - AT: “learn about how God saves people from sin.”
-  * **Follow me**  - AT: “Be my disciple” or “Come, follow me as your teacher.”
-
-=== Clarifying Translation in the UDB ===
-
-There may be no note if the UDB provides a good alternate translation for the ULB. However, on occasion there may be text from the UDB as well as a suggested translation. In that case, there will be “(UDB)” after the text from the UDB as below: 
-  * **implored him**  - “begged him” or “pleaded with him” (UDB)
-  * **he fell on his face**  - “he bowed down to the ground” (UDB) or “he knelt and touched the ground with his face”
-
-=== Alternate Meaning(s) ===
-
-The translationNotes will give **alternate meanings** when there are different ways to understand what a word or phrase means. 
-
-This kind of note will start with the words, “Possible meanings  are that,” and then it will number the possible meanings with the preferred or most likely meaning first. If the meaning is given as an explanation, like the following examples, it is not in quotes. 
-  * **You are like a young lion … like a monster in the seas** - Possible meanings are that 1) he was like a lion and a monster or 2) he thought he was like a lion, but he was really only a monster.
-  * **like a monster in the seas** - Possible meanings are that 1) he was powerful or 2) he was not doing anything important.
-
-If the meaning is given in a way that can be used as a translation, like the following examples, it is in quotes.  
-  * **fell down at Jesus knees** - Possible meanings are 1) “bowed down at Jesus feet” or 2) “lay down  on the ground at Jesus feet” or 3) “knelt down before Jesus.” Peter did not fall accidentally. He did this as a sign of humility and respect for Jesus.
-
- === Probable or Possible Meanings ===
-
-Sometimes Bible scholars do not know for sure, or do not agree on, what a particular phrase or sentence in the Bible means. Some reasons for this include: 
-  - There are minor differences in the ancient Bible texts.  
-  - A word may have more than one meaning or use. 
-  - It may not be clear what a word (such as a pronoun) refers to in a particular phrase. 
-
-See [[en:ta:vol1:translate:resources_porp]] for more information.
-
-=== Identify Figures of Speech ===
-
-The purpose of some translationNotes is to alert you to figures of speech in the ULB and to give ideas for how to translate the same meaning in a different way. Notes that identify and explain a figure of speech will use sentence form and put the meaning in quotes. 
-  * **Make ready the way of the Lord** - This phrase compares people preparing themselves for the arrival of the Lord to people who are repairing a road for someone to use it. AT: “Repent and be ready for when the Lord comes.” (See: Metaphor)
-  * **You offspring of poisonous snakes** - Jesus uses this expression to emphasize how dangerous the Pharisees are. Poisonous snakes are dangerous and represent evil. AT: “You evil poisonous snakes!” or “You are evil like poisonous snakes.” (See: Metaphor)
-
-If there is a translationAcademy page that explains a certain kind of figure of speech, the note will identify what kind of figure of speech it is in parentheses at the end of the note. For example, (See: Metaphor). You can then look up that kind of figure of speech in translationAcademy for more explanation. 
-
-=== Indirect to Direct Quote ===
-
-When a translationNote is giving a direct quote as an alternative translation for an indirect quote, it will say, “This can be translated as a direct quote:” and then it will give a suggestion for how to translate it as a direct quote. For example:
-  * **to tell no one** -  This can be translated as a direct quote: “Do not tell anyone.” The implied information is “that you have been healed.” (See: Speech Quotations, Explicit and Implicit Information)
-
-Whenever a translationNote says "See:" in parentheses at the end of the note, the words that follow are topics that you can look up in translationAcademy that will further explain the issue that the translationNote talks about.
-
-=== Multiple Notes on Long Phrase ===
-
-Sometimes there are notes for a phrase and also separate notes for portions of that same phrase. In that case, the larger phrase is first, and its parts come afterward. For example: 
-  * **you say, 'Behold, he is a gluttonous man** - This can be translated as an indirect quote: “you say that he is a  gluttonous man” or “you accuse him of being a gluttonous man.”
-  * **he is a gluttonous man** - “he is a greedy eater” or “he habitually eats too much food”
+  * **[[en:ta:vol1:translate:resources_long]]** - Sometimes there are notes for a phrase and separate notes for portions of that phrase. In that case, the larger phrase is first, and its parts afterward. The longer phrase is broken down so that translation suggestions for parts of the phrase can be explained for each part.
 
 
 
