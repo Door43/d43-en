@@ -1,0 +1,67 @@
+===== translationStudio Desktop - First Use =====
+
+//This page answers the question:// //How do I use translationStudio-Desktop for the first time?//
+
+//In order to understand this topic, it would be good to read://
+  * //[[en:ta:vol2:tech:tsd_intro|translationStudio Desktop Introduction]]//
+  * //[[en:ta:vol2:tech:tsd_install|translationStudio Desktop Installation]]//
+
+==== Open the Program ====
+
+  * Double left click on the translationStudio-Desktop icon. The program will open.
+  * The 'Home Screen' opens with the following information:
+     * Explaining that you will see the list of translation projects on this screen.
+     * You can start a new project anytime by tapping on the blue button in the top right of the screen.
+  * Tap on the "Start a New Project" button.
+
+=== Choose a Target Language  ===
+
+The 'target language' is the language into which the translation is being done.
+  * You may use the scroll bar to the right of the languages to find the target language.
+  * You may tap on the the words 'Choose target language' to lookup the target language.
+  * The choose a language window closes.
+
+=== Choose a Project ===
+
+Choose between 5 types of projects to start:
+  * Open Bible Stories
+  * Old Testament
+  * New Testament
+  * translationWords
+  * translationAcademy Volume 1 or Volume 2
+
+**Note**: Only if the program is set up to do Gateway Languages will you see the project 'translationWords.' See: [[ en:ta:vol2:tech:tSd_settings]] for more information.
+
+=== Set up a Project ===
+
+== Open Bible Stories ==
+
+  * Choose the target language.
+  * Choose the type of project from: Text, Notes or Questions. You will need to have a text project started before you can start a Notes or Questions project.
+    - Click on the square icon with the + and - sign directly under the prompt or at the top right of the source text window.
+    - Click on the empty square box next to the desired source language.
+    - Click on "Confirm" at the bottom of the window to save the selection. Or, click on "Cancel" to close and not save the selected language. There MUST be a source language chosen.
+
+== Old Testament  or New Testament ==
+
+  * Choose the target language.
+  * Choose the type of project from: Text - Unlocked Literal Bible, Text - Unlocked Dynamic Bible, Notes or Questions. You will need to have a text project started before you can start a Notes or Questions project.
+    - Click on the square icon with the + and - sign directly under the prompt or at the top right of the source text window.
+    - Click on the empty square box next to the desired source language.
+    - Click on "Confirm" at the bottom of the window to save the selection. Or, click on "Cancel" to close and not save the selected language. There MUST be a source language chosen.
+
+
+Go to the following to learn how to translate the necessary resources:
+
+
+
+//Next we recommend you learn about://
+  * //[[en:ta:vol2:tech:tsd_navigate|Navigating translationStudio Desktop]]//
+  * //[[en:ta:vol2:tech:tsd_tw|The Process for Translating the translationWords]]//
+  * //[[en:ta:vol2:tech:tsd_tn|The Process for Translating the translationNotes]]//
+  * //[[en:ta:vol2:tech:tsd_tq|The Process for Translating the translationQuestions]]//
+
+----
+https://pad.door43.org/p/ta-tSd_first
+
+{{tag>epady}}
