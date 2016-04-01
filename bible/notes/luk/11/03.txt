@@ -24,8 +24,13 @@
 ===== ULB: =====
 
 <usfm>
+\q
 \v 3 Give us each day our daily bread.
-\v 4  Forgive us our sins, for we ourselves forgive everyone who is in debt to us. Do not lead us into temptation.'"
+\q 
+\v 4  Forgive us our sins, 
+\q2 as we ourselves forgive everyone 
+\q2 who is in debt to us.
+\q Do not lead us into temptation.'"
 </usfm>
 
 

@@ -14,7 +14,7 @@ Example: //Ocenaudio (v3.0.6.0)//
   - File Bin
   - Time Display
   - Speaker Volume
-  - Display Range Indicator (v3.0.6.0 and older)
+  - Navigator
   - Amplitude Scale
   - Level Meter
   - Waveform (sound wave)
@@ -29,7 +29,7 @@ Example: //WavePad Free//
 {{https://test.unfoldingword.org/assets/img/ta/audio_wavepad_workspace_labeled.jpg}}
 
   - Menu and Toolbar Buttons
-  - Display Range Indicator
+  - Navigator
   - Time Display
   - Amplitude Scale
   - Play Cue

@@ -6,7 +6,7 @@ One of the common editing procedures is making adjustments to the pauses between
 
 Instead of using the silence feature, we recommend a technique that maintains the natural feel of the recording.
 
-  - In the recorded file, simply find a quiet pause in the audio that represents the natural ambient sound and is free of any random sounds such as the narrator moving in his chair or taking a breath.
+  - In the recorded file, simply find a quiet section in the audio that represents the natural ambient sound and is free of any random sounds such as the narrator moving in his chair or taking a breath.
   - Copy this section and paste it in place where you need more pause or silence.
   - Playback again to make sure the amount added gave the right length of natural pause. Adjust as needed by pasting more or deleting excess.
 

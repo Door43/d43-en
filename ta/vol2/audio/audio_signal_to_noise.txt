@@ -6,9 +6,12 @@ One characteristic of a quality recording that will have many years of usefulnes
 
 //What is a signal to noise ratio?//
 
-Signal to noise ratio (SNR) is not exactly a ratio in the sense of a mathematical ratio, but rather a way of expressing how loud the good sound (narrator's voice) is compared to bad sound (specifically electronic noise, hiss and hum, but could also include unwanted ambient noise). An audio recording with an excellent signal to noise ratio will have the narrator's voice clear in the foreground of the audio track, with little or no hiss or static noise in the background. By contrast, a poor signal to noise ratio will be characterized by very noticeable static noise and hiss competing with the narrator's voice. A recording with a significant amount of distracting background noise from the local environment could also be considered an example of poor signal to noise ratio.
+Signal to noise ratio (SNR) is not exactly a ratio in the sense of a mathematical ratio, but rather a way of expressing how loud the good sound (narrator's voice) is compared to bad sound (specifically electronic noise, hiss and hum, but could also include unwanted ambient noise). An audio recording with an excellent signal to noise ratio will have the narrator's voice very clear in the foreground of the audio track, with little or no hiss or static noise in the background. By contrast, a poor signal to noise ratio will be characterized by very noticeable static noise and hiss competing with the narrator's voice. A recording with a significant amount of distracting background noise from the local environment could also be considered an example of poor signal to noise ratio.
 
 Our goal is to record the narrator's voice (signal) at a quality level (-6dB) while having the background noise as quiet of possible. The term that refers to that background noise level and the measurements we want to achieve are discussed in the next module called Noise Floor.
 
 
+
+//Next we recommend you learn about://
+  * //[[en:ta:vol2:audio:audio_noise_floor|Noise Floor]]//
 

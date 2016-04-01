@@ -837,16 +837,47 @@ edge [arrowsize=1.4];
 "writing_decisions" -> "mast"
 "qualifications" [fillcolor="#9999ff"]
 "choose_team" -> "qualifications"
+"resources_alter" [fillcolor="#9999ff"]
+"translate_help" -> "resources_alter"
+"resources_intro" -> "resources_alter"
+"resources_types" -> "resources_alter"
+"resources_alterm" [fillcolor="#9999ff"]
+"translate_help" -> "resources_alterm"
+"resources_intro" -> "resources_alterm"
+"resources_types" -> "resources_alterm"
+"resources_alter" -> "resources_alterm"
+"resources_def" [fillcolor="#9999ff"]
+"translate_help" -> "resources_def"
+"resources_intro" -> "resources_def"
+"resources_types" -> "resources_def"
+"resources_eplain" [fillcolor="#9999ff"]
+"translate_help" -> "resources_eplain"
+"resources_intro" -> "resources_eplain"
+"resources_types" -> "resources_eplain"
+"resources_fofs" [fillcolor="#9999ff"]
+"translate_help" -> "resources_fofs"
+"resources_intro" -> "resources_fofs"
+"resources_types" -> "resources_fofs"
+"resources_alter" -> "resources_fofs"
 "resources_intro" [fillcolor="#9999ff"]
 "gl_strategy" -> "resources_intro"
 "translate_manual" -> "resources_intro"
 "translation_difficulty" -> "resources_intro"
+"resources_iordquote" [fillcolor="#9999ff"]
+"translate_help" -> "resources_iordquote"
+"resources_intro" -> "resources_iordquote"
+"resources_types" -> "resources_iordquote"
 "resources_links" [fillcolor="#9999ff"]
 "translate_help" -> "resources_links"
 "resources_intro" -> "resources_links"
 "resources_porp" [fillcolor="#9999ff"]
 "translate_help" -> "resources_porp"
 "resources_intro" -> "resources_porp"
+"resources_types" -> "resources_porp"
+"resources_synequi" [fillcolor="#9999ff"]
+"translate_help" -> "resources_synequi"
+"resources_intro" -> "resources_synequi"
+"resources_types" -> "resources_synequi"
 "resources_types" [fillcolor="#9999ff"]
 "translate_help" -> "resources_types"
 "resources_intro" -> "resources_types"

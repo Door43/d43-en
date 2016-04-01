@@ -2,7 +2,7 @@
 
 //This page answers the question:// //What are audio markers?//
 
-A handy feature found in some audio recording software programs is the capability to place markers (or flags or cues) in the audio. These markers are used to indicate special points or boundaries in the audio track.
+A handy feature found in some audio recording software programs is the ability to place markers (or flags or cues) in the audio waveform. These markers are used to indicate special points or boundaries in the audio.
 
 Markers can be used for any purpose that the recordist believes will be helpful. These are some common uses:
 
@@ -36,12 +36,12 @@ The location of point markers can be adjusted by clicking on the yellow flag and
 
 
 ==== Deleting Markers ====
-Caution must be used when choosing to delete point markers in Ocenaudio because the auto-numbering system will continue advancing to the next sequential number, even if a marker number is deleted. It is recommended to move markers to the correct location rather than delete them. To delete a point marker, simply right click on the yellow flag and select "Delete Marker".
+Caution must be used when choosing to delete point markers in Ocenaudio because the auto-numbering system will continue advancing to the next sequential number, even if a marker number is deleted. To preserve a numbering sequence it is recommended to move markers to the correct location rather than delete them. To delete a point marker, simply right click on the yellow flag and select "Delete Marker".
 
-To delete a region marker, simply right click on the red flag and select “Delete Region”. In Ocenaudio, region markers are not related to the auto-numbering of point markers.
+To delete a region marker, simply right click on the red flag and select “Delete Region”. In Ocenaudio, region markers do not share a relationship or have an impact on the auto-numbering of point markers.
 
 ==== Naming Markers ====
-Many software programs auto-name point markers. For example, Ocenaudio automatically names markers as they are placed as Marker 1, Marker 2, Marker 3, etc. The name of the marker can be viewed by moving the cursor over the flag on the marker. We recommend using the auto-naming to your advantage for a simple way to identify verses or OBS frames. This saves time manually naming the markers. If necessary, you can rename a marker by hovering the cursor over the marker name and clicking on it.
+Many software programs auto-name point markers. For example, Ocenaudio automatically names markers as they are placed as Marker 1, Marker 2, Marker 3, etc. The name of the marker can be viewed by moving the cursor over the flag on the marker. We recommend using the auto-naming function to your advantage as a simple way to identify verses or OBS frames. This saves time spent manually naming the markers on a lot of content types that only need sections marked intuitively, not specific descriptions in the marker name. If necessary, you can rename a marker by hovering the cursor over the marker name and clicking on it.
 
 {{https://test.unfoldingword.org/assets/img/ta/audio_ocenaudio_marker_label_name_edit.jpg}}
 
