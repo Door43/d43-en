@@ -34,10 +34,10 @@ There are several types of suggested translations.
 
   * **[[en:ta:vol1:translate:resources_iordquote]]** - There are two kinds of quotations: direct quotation and indirect quotation. When translating a quotation, translators need to decide whether to translate it as a direct quotation or an indirect quotation.
 
-  * **[[en:ta:vol1:translate:resources_long]]** - 
+  * **[[en:ta:vol1:translate:resources_long]]** - Sometimes there are notes for a phrase and separate notes for portions of that phrase. In that case, the larger phrase is first, and its parts afterward. The longer phrase is broken down so that translation suggestions for parts of the phrase can be explained for each part.
 
 ----
 
 [[https://pad.door43.org/p/ta-resources_types|https://pad.door43.org/p/ta-resources_types]]
 
-{{tag>epadn support chris}}~~DISCUSSION~~
+{{tag>epady support}}~~DISCUSSION~~
