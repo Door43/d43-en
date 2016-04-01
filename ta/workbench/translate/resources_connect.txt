@@ -1,0 +1,74 @@
+====== translationNotes Connecting Statement and General Statement ======
+question: Why do some translationNotes not have any ULB text at the beginning?
+manual: translate
+volume: 1
+slug: resources_connect
+dependencies:  ["translate_help", "resources_intro", "resources_alter", "resources_fofs"]
+status:  review
+tags: 
+recommended: ["resources_types"]
+original url: 
+credits: 
+---
+
+==== Description =====
+======  ======
+
+  * [[:en:phase1:team-info:training:topics:discourse:home|Back to Discourse Information]]
+
+
+=== Purpose ===
+
+The Connecting Statement & General Statement are to address discourse level text issues. These include:
+  * Participant references (pronoun identification)
+  * Highlighting background or implied information. Including information that was moved to the background of the text.
+  * Logical arguments and conclusions
+  * Episode Identification (start, end, and continuation across chapters) 
+
+  * **Connecting Statement:** - This is a note that relates the current chunk to the current discourse. When present, it must be the first note and separated by a blank line from the rest of the notes unless there is also a general statement. There is only one connecting statement used per chunk.
+  * **General Statement:** - this is a note that addresses other discourse topics not mentioned in the connecting statement. When present, it must must immediately follow the connecting statement and be separated by a blank line from the rest of the notes. There can be one or more connecting statements in a chunk.
+
+=== Format ===
+
+  * **Connecting Statement:** - Explanation
+  * **General Statement:** - Explanation
+
+  * Follow Standard Punctuation. Phrases do not use periods. Sentences do.
+  * Follow Standard formatting for ta-topic links. Ex. (See: Metaphor_link)
+  * Where reasonable express connecting sentence in present tense.
+
+=== Bible Example ===
+
+Luke1:1
+  * **Connecting Statement:** - Luke explains why he is writing to Theophilus.
+
+  * **accounts**  - "reports" or "true stories"
+  * **[phrase]** - [explanation]
+  * **[phrase]** - [explanation]
+
+Episode/Speech Continuation (Acts 1:17)
+    * **Connecting Statement:** - Peter continues his speech to the believers that he began in [[:en:bible:notes:act:01:15|1:16]]. 
+  
+Background Information (Acts 1:17)  
+  * **General Statement:** - Verses 18-19 give background information about what Judas had done and how he died. (See: [[en:ta:vol2:translate:writing_background]])
+
+Passage Recollection (Acts 2:25)
+  * **General Statement:** - Here Peter recalls a passage spoken by David that relates to Jesus having been crucified and risen from the grave.
+
+
+
+==== Translation Notes Examples ====
+
+> But it is to the extent of your hardness and unrepentant heart that you are storing up for yourself wrath in the day of wrath (Romans 2:5 ULB)
+
+  * **But it is to the extent of your hardness and unrepentant heart** - Paul compares a person who refuses to listen and obey God to something hard, like a stone. The heart represents the whole person. AT: "It is because you refuse to listen and repent" (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_metonymy]])
+  * **hardness and unrepentant heart** - The phrase "unrepentant heart" explains the word "hardness" (See: [[:en:ta:vol2:translate:figs_doublet]])
+In this example the translation suggestion first explains about the Figures of Speech and then explains about the Doublet in the same passage.  
+
+----
+
+https://pad.door43.org/p/ta-resources_connect
+
+
+{{tag>epadn draftcj}}
+
