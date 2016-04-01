@@ -1,0 +1,49 @@
+===== Navigating translationStudio Desktop =====
+
+//This page answers the question:// //How do I go from one part to another in translationStudio Desktop?//
+
+//In order to understand this topic, it would be good to read://
+  * //[[en:ta:vol2:tech:tsd_intro|translationStudio Desktop Introduction]]//
+  * //[[en:ta:vol2:tech:tsd_install|translationStudio Desktop Installation]]//
+
+==== Layout ====
+
+The navigation and menu icons are on the left side of the window. The three dots at the bottom left of the window is the main menu. In the project window there are three working view icons. 
+
+==== Working View Icons ====
+
+The **Chapter or Story** icon is the top left and looks like full sheets of paper. Use the scroll bar on the right to read the entire chapter or story in the source language. There is a small portion of what looks like a piece of paper under this paper, showing on the right side. Click on the paper behind for a blank page to type in the target language translation of the text. (See: [[en:ta:vol1:tech:ts_create]] for more information.)
+
+The **Chunk** icon is the middle icon on the left and looks like a solid line square over a dotted line square. Scroll down or up to move from chunk to chunk (a small section of the story or chapter). Click on the piece of paper showing behind for a blank page to type in the target language translation of the text.
+
+The **Check** icon is the bottom icon on the left and looks like a clipboard with a check mark. In this view the source text is on the left, the translation work is in the middle. If necessary, scroll from the left to the right side to show the resources for that chunk. (See: [[en:ta:vol1:tech:ts_resources]] for more information.) Scroll up or down to move from chunk to chunk.
+
+
+==== Three Dots Menu ====
+
+Click on the **three dots** to open the working menu. The edit screen and the Your Translation Projects screen has two different menus.
+
+From the Project Edit window the menu has:
+  * Home (See: [[en:ta:vol2:tech:tsd_open]])
+  * Publish (See: [[en:ta:vol2:tech:tsd_publish]])
+  * Backup (See: [[en:ta:vol2:tech:tsd_share]])
+  * Print (See: [[en:ta:vol2:tech:tsd_print]])
+  * translationAcademy - Opens the full information from the translationAcademy in another window. The links are not yet working. 
+  * Feedback (See: [[en:ta:vol2:tech:tsd_problem]])
+  * Settings 
+On the Home or Your Translation Projects window the menu has:
+  * Restore (See: [[en:ta:vol1:tech:tsd_restore]])
+  * translationAcademy - Opens the full information from the translationAcademy in another window. The links are not yet working. 
+  * Feedback (See: [[en:ta:vol1:tech:tsd_problem]])
+  * Settings
+
+
+
+
+//Next we recommend you learn about://
+  * //[[en:ta:vol2:tech:tsd_settings|translationStudio Desktop - Settings]]//
+
+----
+https://pad.door43.org/p/ta-tSd_navigate
+
+{{tag>epady}}
