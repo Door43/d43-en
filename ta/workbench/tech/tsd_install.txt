@@ -1,0 +1,109 @@
+===== translationStudio Desktop Installation =====
+
+//This page answers the question:// //How do I install the translationStudio-Desktop program?//
+
+//In order to understand this topic, it would be good to read://
+  * //[[en:ta:vol2:tech:tsd_intro|translationStudio Desktop Introduction]]//
+
+The translationStudio Desktop program works on Windows 32-bit, Windows 64-bit, OSX 64-bit, Linux 32-bit and Linus 64-bit. It is best to know the version of the computer before downloading the zip file.
+
+==== tS-Desktop Version 5 ====
+
+Go to https://github.com/unfoldingWord-dev/ts-desktop/releases to download the zip file for the computer. 
+  * Find the latest program released at the top of the list. Look for the red button with the words 'Pre-release.'
+  * Decide if you need the file for Windows OS (version 7 or version 10) or Mac OS.
+
+=== Windows Installation: ===
+  * Click on the setup_tS_5.0_win_x64.exe file. 
+  * Allow the file to be downloaded to the computer.
+  * Click on the file to start the install.
+    * Choose the language that will be used during the installation.
+    * Click Next on the 'Welcome to the translationStudio Setup Wizard' window.
+    * Accept the agreement for the software license. Click the Next button.
+    * Keep the choice to 'create a desktop icon' if you wish. Click the Next button.
+    * Click the Install button. Please wait for a minute for the program to be installed
+    * At the 'Completing the translationStudio Setup Wizard' window, you may opt to have the program open.
+    * Click the Finish button to complete the installation.
+  * Open translationStudio from the desktop icon.
+
+
+=== Macintosh Installation: ===
+
+  * Click on the tS_5.0_osx_x64.zip file and download it to the hard drive of the computer.
+  * Extract or un-zip the file to a folder.
+  * Open the executable file that was unzipped. This will install the program.
+
+**Note**: You might want to add a shortcut to the program onto the computer's desktop.
+
+
+==== tS-Desktop Version 4.1 ====
+
+Go to https://github.com/unfoldingWord-dev/ts-desktop/releases to download the zip file for the computer. 
+  * Find the latest program released at the top of the list. Look for the green button with the words 'Latest Release.'
+  * Decide if you need the file for Windows OS (version 7 or version 10) or Mac OS.
+
+=== Windows Installation: ===
+  * Click on the .exe file. 
+  * Allow the file to be downloaded to the computer.
+  * Click on the file to start the install.
+    * Choose the language that will be used during the installation.
+    * Click Next on the 'Welcome to the translationStudio Setup Wizard' window.
+    * Accept the agreement for the software license. Click the Next button.
+    * Keep the choice to 'create a desktop icon' if you wish. Click the Next button.
+    * Click the Install button. Please wait for a minute for the program to be installed
+    * At the 'Completing the translationStudio Setup Wizard' window, you may opt to have the program open.
+    * Click the Finish button to complete the installation.
+  * There may be a System Error reported - 'missing MSVCP120.dll' - close the error window
+    * Go to https://www.microsoft.com/en-us/download/details.aspx?id=40784 to download the Microsoft Visual C++ Redistributable package for the missing .dll.
+    * Click the red 'Download' button.
+    * Choose the program for your computer (arm, x64 or x86).
+    * Run the program from the website. (You may need to allow pop-ups.)
+    * Accept all the installation defaults.
+    * Close the installation screen when complete.
+  * Open translationStudio from the desktop icon.
+
+
+=== Macintosh Installation: ===
+  * Click on the desired file to download the zip file to the hard drive of the computer.
+  * Extract or un-zip the file to a folder.
+  * Open the executable file that was unzipped. This will install the program.
+
+**Note**: You might want to add a shortcut to the program onto the computer's desktop.
+
+=== Linux Installation: ===
+
+== From Source ==
+
+These instructions assume you have a Debian-based system (like Ubuntu).
+
+Run this command:
+<code>
+ wget -qO- https://www.dropbox.com/s/5ouyusb8xr8vr1q/setup.sh?dl=1 | bash 
+</code>
+
+This will download all the environment pre-reqs and create a folder called 'ts-desktop' on your Desktop. You can then run:
+<code>
+ cd ~/Desktop/ts-desktop && gulp test 
+</code>
+
+If everything looks good, you can either run the app from the source by doing  npm start , or you can build a release using  gulp build.
+
+== Install translationStudio ==
+
+  - Download the latest version of translationStudio for desktop from https://github.com/unfoldingWord-dev/ts-desktop/releases 
+  - Extract the zipped archive to any location on your computer.
+  - You may now start translationStudio by double clicking the executable
+
+**Note**: You might want to add a shortcut to the program onto the computer's desktop.
+
+
+
+//Next we recommend you learn about://
+  * //[[en:ta:vol2:tech:tsd_first|translationStudio Desktop - First Use]]//
+
+
+
+----
+https://pad.door43.org/p/ta-tSd_install
+
+{{tag>epady}}
