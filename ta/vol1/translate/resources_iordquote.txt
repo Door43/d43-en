@@ -1,0 +1,34 @@
+===== translationNotes that Identify Indirect and Direct Quotes =====
+
+//This page answers the question:// //How will translationNotes help me translate indirect and direct quotes?//
+
+//In order to understand this topic, it would be good to read://
+  * //[[en:ta:vol1:translate:translate_help|Help with Translating]]//
+  * //[[en:ta:vol1:translate:resources_types|Using the translationNotes]]//
+
+==== Description =====
+
+There are two kinds of quotations: direct quotation and indirect quotation. When translating a quotation, translators need to decide whether to translate it as a direct quotation or an indirect quotation.  (See: [[en:ta:vol2:translate:figs_quotations]])
+
+When there is an indirect quote in the ULB, the notes may have an option for a direct quote. The translation suggestion will start with "It can be translated as a direct quote:" followed by the new phrase.
+
+Also, sometimes when a direct quote is in an indirect quote in the ULB, the notes may have an option for an indirect quote. The translation suggestion will start with "It can be translated as an indirect quote:" followed by the new phrase. 
+
+Notice that there is a link to the tA page with more information about Direct Quotes and translation strategies for the translator to accurately translate the passage according to the form of the target language.
+
+==== Translation Notes Examples ====
+> __He instructed him__ to tell no one (Luke 5:14 ULB)
+
+  * **to tell no one**  - This can be translated as a direct quote: "Do not tell anyone." The implied information is "that you have been healed." (See: [[en:ta:vol2:translate:figs_quotations]])
+Here the translation suggestion is to change the passage with the indirect quote of what Jesus said to a direct quote.  
+
+> At the time of the harvest __I will say to the reapers__, "First pull out the weeds and tie them in bundles to burn them, but gather the wheat into my barn."'" (Matthew 13:30 ULB)
+
+  * **I will say to the reapers, "First pull out the weeds and tie them in bundles to burn them, but gather the wheat into my barn"** - You can translate this as an indirect quote: "__I will tell the reapers__ to first gather up the weeds and tie them in bundles to burn them, then gather the wheat into my barn." (See: [[en:ta:vol2:translate:figs_quotations]])
+This example is a translation suggestion of a direct quote translated as an indirect quote. It is the decision of you, the translator, to translate indirect quotes as the form of your language will allow.
+
+
+
+//Next we recommend you learn about://
+  * //[[en:ta:vol1:translate:resources_types|Using the translationNotes]]//
+
