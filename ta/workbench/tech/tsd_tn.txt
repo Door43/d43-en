@@ -1,0 +1,91 @@
+===== The Process for Translating the translationNotes =====
+
+//This page answers the question:// //What steps do I follow when I translate the translationNotes?//
+
+//In order to understand this topic, it would be good to read://
+  * //[[en:ta:vol2:tech:tsd_intro|translationStudio Desktop Introduction]]//
+  * //[[en:ta:vol2:tech:tsd_install|translationStudio Desktop Installation]]//
+  * //[[en:ta:vol3:gateway:gl_notes|Translate the translationNotes]]//
+
+Have you read the information in the article on [[en:ta:vol3:gateway:gl_notes]]? It is **very important** to understand the guidelines before translating the translationNotes.
+
+This module explains the steps to translating the translationNotes using translationStudio-Desktop.
+
+You must have the ULB available so that you can copy the part of the ULB text that the translationNote is talking about directly into the translationNote. You must also have the UDB text already translated and available
+
+Do not use the method of blind drafting to translate the translationNotes. Always translate the translationNotes with the Gateway Language ULB and UDB in front of you, and the English translationNotes also visible. This is because you must copy the ULB phrase into the translationNote exactly as it is in the ULB, and you must also copy the UDB phrase if the translationNote also quotes the UDB.
+
+
+=== First, Create a translationNotes Project ===
+
+From any screen in the program, click on the 3-dot menu icon found in the bottom left corner of the window.
+  * Click on the word "Home."
+    * **Note the ULB and the UDB should be translated into the Gateway Language before you begin to translate the translationNotes.** 
+  * Add a new project by clicking on the blue circle with a plus sign in the top right corner of the window.
+    * Choose a target language.
+    * Choose a project type (Open Bible Stories, Old Testament or New Testament) that you have completed.
+    * Choose translationNotes in the next window.
+      * Click on the square icon with the + and - sign directly under the prompt or at the top right of the source text window.
+      * Click on the empty square box next to the desired source language.
+      * Click on "Confirm" at the bottom of the window to save the selection. Or, click on "Cancel" to close and not save the selected language. There MUST be a source language chosen.
+
+=== Second, Start the translationNotes Project ===
+
+From any screen in the program, click on the 3-dot menu icon found in the bottom left corner of the window.
+  * Click on the word "Home."
+  * Open the project from the Home or "Your Translation Projects" window.
+The project window opens. The 4 sections displayed are (from left to right):
+  - The source text
+  - The target language translation
+  - The target language notes (tan color)
+  - The resources for the source text with tabs for Notes, Words, Questions, and UDB.
+
+=== Third, Translate the translationNotes ===
+
+  * Read a chapter, or story, that has been translated into the Gateway Language.
+  * Go to the first chunk.
+    * In the far right section, click on the 'Notes' tab. 
+  * Click on the plus sign in the center of the Target Language Notes section (tan color) of the chunk.
+  * Look at the first source text note.
+    * Does the target language need a note to understand the cooresponding phrase in the Gateway Language ULB?
+    * Type the exact words from the ULB GL translation on the first line where the words "reference text" are.
+  * Type in the translation of the answer.
+    * Read the explanation of the source text by clicking on the source text in the resource section.
+    * Type in an explanation of the reference text or type in a suggested translation where the words "note text" are.
+  * Continue adding notes.
+    * Click on the plus sign on the top bar of the Target Language Notes section.
+    * Repeat the copying of the reference text and the writing of the explanation of the text.
+
+**Note: In order for the translationNote to be useful in the target Gateway Language, you will need to adapt the translationNote so that it talks about the text of the ULB as it is in the Gateway Language translation.**
+
+== What if there are no source text notes for a chunk? == 
+
+The Gateway Language translator should make the decision if there should be a note or if no note for that chunk is the right thing to do.
+  * To add a note - click on the plus sign on the header of the chunk and add the new question and answer in the correct spaces.
+  * For a chunk that has no source text notes - click on the 'Mark chunk as done' slider to confirm that the chunk is complete. 
+  * For a chunk that has source text notes but the GL does not need notes - type in the words "No Notes" on both the reference text and note text lines. 
+
+=== Finally, Mark the Chunk as Done and Go to the Next Chunk ===
+
+When the translator feels that all the notes have been written for the chunk:
+  * Click on the slider at the bottom right of the chunk.
+  * Click on 'Confirm' in the pop-up window.
+
+Continue to the next chunk until all of the chunks for a chapter or story are complete. 
+
+=== Repeat these four steps until the entire book is done. ===
+
+
+
+
+
+//Next we recommend you learn about://
+  * //[[en:ta:vol2:tech:tsd_navigate|Navigating translationStudio Desktop]]//
+  * //[[en:ta:vol2:tech:tsd_tw|The Process for Translating the translationWords]]//
+  * //[[en:ta:vol2:tech:tsd_tq|The Process for Translating the translationQuestions]]//
+  * //[[en:ta:vol2:tech:tsd_ta|The Process for Translating translationAcademy]]//
+
+----
+https://pad.door43.org/p/ta-tSd_tN
+
+{{tag>epady}}
