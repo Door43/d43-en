@@ -8,10 +8,10 @@ The alternate translation suggestion may include adding implicit information, ch
 
 The "AT:" indicates that this is an alternate translation. Some examples are:
 
-**Add Implicit Information**
+**Making Implicit Information Clear**
 >  it is the law of the Medes and Persians, that no decree or statute that the king issues can be changed. (Daniel 6:15 ULB)
 
-  * **no decree or statute that the king issues can be changed** - AT: "...can be changed. They must throw Daniel into the pit of lions." 
+  * **no decree or statute that the king issues can be changed** - An additional sentence may be added here to aid in understanding. AT: "They must throw Daniel into the pit of lions." (See: [[:en:ta:vol1:translate:figs_explicitinfo]]) 
 
 This translation suggestion provides additional information about the decree that the reader might not know. Translators may need to state some things clearly in the translation that the original speaker or writer left unstated or implicit. 
 
