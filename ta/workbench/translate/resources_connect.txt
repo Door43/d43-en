@@ -1,21 +1,7 @@
 ====== translationNotes Connecting Statement and General Statement ======
 question: Why do some translationNotes not have any ULB text at the beginning?
-manual: translate
-volume: 1
-slug: resources_connect
-dependencies:  ["translate_help", "resources_intro", "resources_alter", "resources_fofs"]
-status:  review
-tags: 
-recommended: ["resources_types"]
-original url: 
-credits: 
----
 
 ==== Description =====
-======  ======
-
-  * [[:en:phase1:team-info:training:topics:discourse:home|Back to Discourse Information]]
-
 
 === Purpose ===
 
