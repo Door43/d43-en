@@ -1,12 +1,16 @@
 ====== translationNotes Connecting Statement and General Statement ======
 question: Why do some translationNotes not have any ULB text at the beginning?
 
+Depend: inclusive we ; pronouns
+
 ==== Description =====
+
+Sometimes there is a translationNote, at the top of the list of notes, that may not include any ULB text. These notes are 'Connecting Statements' or 'General Statements.'
 
 === Purpose ===
 
-The Connecting Statement & General Statement are to address discourse level text issues. These include:
-  * Participant references (pronoun identification)
+The Connecting Statement & General Statement provide the following information:
+  * Describe the use of pronouns. If all of the times the pronoun 'you' in the passage is a plural you or singular you. It will also  if the pronouns are inclusive or exclusive.
   * Highlighting background or implied information. Including information that was moved to the background of the text.
   * Logical arguments and conclusions
   * Episode Identification (start, end, and continuation across chapters) 
@@ -56,5 +60,5 @@ In this example the translation suggestion first explains about the Figures of S
 https://pad.door43.org/p/ta-resources_connect
 
 
-{{tag>epadn draftcj}}
+{{tag>epadn chris}}
 
