@@ -5,18 +5,22 @@ Depend: inclusive we ; pronouns
 
 ==== Description =====
 
-Sometimes there is a translationNote, at the top of the list of notes, that may not include any ULB text. These notes are 'Connecting Statements' or 'General Statements.'
+Sometimes there is a translationNote, at the top of the list of notes, that may not include any ULB text. They may be separated from the other notes by a blank line. These notes are 'Connecting Statements' or 'General Statements.'
+
+  * **Connecting Statement:** - This is a note that relates the current chunk to the entire passage from the Bible. There is only one connecting statement per chunk.
+
+  * **General Statement:** - this is a note that addresses other writing style topics not mentioned in the connecting statement. There can be one or more General Statements in a chunk.
 
 === Purpose ===
 
-The Connecting Statement & General Statement provide the following information:
-  * Describe the use of pronouns. If all of the times the pronoun 'you' in the passage is a plural you or singular you. It will also  if the pronouns are inclusive or exclusive.
-  * Highlighting background or implied information. Including information that was moved to the background of the text.
+The Connecting Statement and General Statement provide the following information:
+  * Describe the use of pronouns in the chunk. There will be a 'General Statement' if every time the pronoun 'you' in the passage is a plural you or singular you, or if the pronouns are inclusive or exclusive.
+  * Important background or implied information that is not in the chunk. 
   * Logical arguments and conclusions
   * Episode Identification (start, end, and continuation across chapters) 
 
-  * **Connecting Statement:** - This is a note that relates the current chunk to the current discourse. When present, it must be the first note and separated by a blank line from the rest of the notes unless there is also a general statement. There is only one connecting statement used per chunk.
-  * **General Statement:** - this is a note that addresses other discourse topics not mentioned in the connecting statement. When present, it must must immediately follow the connecting statement and be separated by a blank line from the rest of the notes. There can be one or more connecting statements in a chunk.
+
+
 
 === Format ===
 
