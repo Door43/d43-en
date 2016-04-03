@@ -9,7 +9,7 @@ Below we will describe how to add a suffix to an audio file name.
 {{https://test.unfoldingword.org/assets/img/ta/audio_bru_suffix_labeled.jpg}}
 
   - Navigate to the folder containing the files you would like to rename.
-  - Select all the files in the BRU window
+  - Select all the files you would like to rename
   - In the suffix field, enter _128kbps
   - Click Rename
 
