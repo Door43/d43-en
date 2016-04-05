@@ -343,6 +343,8 @@
 {{changes>ns=mur:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:muv:obs|muv OBS]]**
 {{changes>ns=muv:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
+**[[:muz:obs|muz OBS]]**
+{{changes>ns=muz:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:mvp:obs|mvp OBS]]**
 {{changes>ns=mvp:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:mwc:obs|mwc OBS]]**

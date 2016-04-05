@@ -514,6 +514,9 @@
 **[[:muv:obs|muv OBS]]**
 {{changes>ns=muv:obs&maxage=604800&render=pagelist(header,date,user,nocomments)}}
 
+**[[:muz:obs|muz OBS]]**
+{{changes>ns=muz:obs&maxage=604800&render=pagelist(header,date,user,nocomments)}}
+
 **[[:mvp:obs|mvp OBS]]**
 {{changes>ns=mvp:obs&maxage=604800&render=pagelist(header,date,user,nocomments)}}
 
