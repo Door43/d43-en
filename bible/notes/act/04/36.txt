@@ -28,12 +28,12 @@
 
 ===== translationWords: =====
 
-  * [[en:obe:other:barnabas]]
-  * [[en:obe:other:levite]]
-  * [[en:obe:other:cyprus]]
-  * [[en:obe:other:jew]]
-  * [[en:obe:kt:apostle]]
-  * [[en:obe:kt:believer]]
+  * [[:en:obe:other:barnabas]]
+  * [[:en:obe:other:levite]]
+  * [[:en:obe:other:cyprus]]
+  * [[:en:obe:other:jew]]
+  * [[:en:obe:kt:apostle]]
+  * [[:en:obe:kt:believer]]
  
 ===== Translation Notes: =====
 
@@ -42,7 +42,7 @@
 
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:act:04|Acts Chapter 04 Comprehension Questions]]**
+  * **[[:en:bible:questions:comprehension:act:04|Acts Chapter 04 Comprehension Questions]]**
 **[[:en:bible:notes:act:04:34|<<]] | [[:en:bible:notes:act:05:01|>>]]**
 
 ~~DISCUSSION~~{{tag>publish barnabas levite cyprus }}

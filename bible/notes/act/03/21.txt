@@ -30,13 +30,13 @@
 
 ===== translationWords: =====
 
-  * [[en:obe:kt:heaven]]
-  * [[en:obe:kt:restore]]
-  * [[en:obe:kt:god]]
-  * [[en:obe:kt:holy]]
-  * [[en:obe:kt:prophet]]
-  * [[en:obe:other:Moses]]
-  * [[en:obe:kt:brother]]
+  * [[:en:obe:kt:heaven]]
+  * [[:en:obe:kt:restore]]
+  * [[:en:obe:kt:god]]
+  * [[:en:obe:kt:holy]]
+  * [[:en:obe:kt:prophet]]
+  * [[:en:obe:other:Moses]]
+  * [[:en:obe:kt:brother]]
 
  
 
@@ -54,7 +54,7 @@
 
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:act:03|Acts Chapter 03 Comprehension Questions]]**
+  * **[[:en:bible:questions:comprehension:act:03|Acts Chapter 03 Comprehension Questions]]**
 **[[:en:bible:notes:act:03:19|<<]] | [[:en:bible:notes:act:03:24|>>]]**
 
 ~~DISCUSSION~~{{tag>publish restore }}

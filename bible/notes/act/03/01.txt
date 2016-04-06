@@ -30,14 +30,14 @@
 
 ===== translationWords: =====
 
-  * [[en:obe:other:peter]]
-  * [[en:obe:other:johntheapostle]]
-  * [[en:obe:kt:temple]]
-  * [[en:obe:other:pray]]
+  * [[:en:obe:other:peter]]
+  * [[:en:obe:other:johntheapostle]]
+  * [[:en:obe:kt:temple]]
+  * [[:en:obe:other:pray]]
 
 ===== Translation Notes: =====
 
-  * **General Statement** - This is a new day; Peter and John are going up to the temple. Verse 3 gives background information about the lame man. (See: [[en:ta:vol2:translate:writing_background]])
+  * **General Statement** - This is a new day; Peter and John are going up to the temple. Verse 3 gives background information about the lame man. (See: [[:en:ta:vol2:translate:writing_background]])
   
   * **into the temple** - "into the temple area" or "to the temple." They did not go into the inner building where only the serving priests were allowed.
   * **the ninth hour** - "three o'clock in the afternoon" (UDB). (See: [[:en:obe:other:biblicaltime]])
@@ -45,7 +45,7 @@
 
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:act:03|Acts Chapter 03 Comprehension Questions]]**
+  * **[[:en:bible:questions:comprehension:act:03|Acts Chapter 03 Comprehension Questions]]**
 **[[:en:bible:notes:act:02:46|<<]] | [[:en:bible:notes:act:03:04|>>]]**
 
 ~~DISCUSSION~~{{tag>publish temple}}
