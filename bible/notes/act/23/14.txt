@@ -35,11 +35,11 @@
 
 ===== translationWords: =====
 
-  * [[en:obe:other:chiefpriests]]
-  * [[en:obe:other:elder]]
-  * [[en:obe:kt:curse]]
-  * [[en:obe:other:paul]]
-  * [[en:obe:other:council]]
+  * [[:en:obe:other:chiefpriests]]
+  * [[:en:obe:other:elder]]
+  * [[:en:obe:kt:curse]]
+  * [[:en:obe:other:paul]]
+  * [[:en:obe:other:council]]
  
 
 ===== Translation Notes: =====
@@ -50,7 +50,7 @@
 
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:act:23|Acts Chapter 23 Comprehension Questions]]**
+  * **[[:en:bible:questions:comprehension:act:23|Acts Chapter 23 Comprehension Questions]]**
 **[[:en:bible:notes:act:23:12|<<]] | [[:en:bible:notes:act:23:16|>>]]**
 
 ~~DISCUSSION~~{{tag>publish chiefprests }}
