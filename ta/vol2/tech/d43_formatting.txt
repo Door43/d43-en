@@ -22,7 +22,12 @@ Every page has a heading. The title of the page determines the displayed name in
 
 **The above code creates this formatting:**
 
-====== Page Header ======
+======   ======
+
+<file>
+Page Header
+</file>
+
 ===== Section Header =====
 
 ----
