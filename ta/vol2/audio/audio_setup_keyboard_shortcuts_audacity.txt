@@ -6,46 +6,52 @@ The following keyboard shortcuts are helpful for many routine operations of reco
 
 ==== Basic Functions ====
 
-Record = R
-Play/Stop = Space Bar
-Pause = P
-Delete = Delete or Backspace
-Copy = Ctrl + C
-Paste = Ctrl + V
-Undo = Ctrl + Z
-Redo = Ctrl + Y
-Select All = Ctrl + A
-Skip to Start = Home
-Skip to End = End
+  * Record = R
+  * Play/Stop = Space Bar
+  * Pause = P
+  * Delete = Delete or Backspace
+  * Copy = Ctrl + C
+  * Paste = Ctrl + V
+  * Undo = Ctrl + Z
+  * Redo = Ctrl + Y
+  * Select All = Ctrl + A
+  * Skip to Start = Home
+  * Skip to End = End
 
 
 ==== Zoom In/Out ====
 
 There are several ways to accomplish zooming in/out of tracks:
 
-Zoom In/Out = Ctrl + mouse scroll wheel. Zooming will occur at the location of cursor.
-Zoom In = Ctrl + 1
-Zoom Out = Ctrl +3
-Zoom to default view = Ctrl + 2
-Zoom to full view of track(s) horizontally = Ctrl + F
-Zoom to full view of track(s) vertically = Ctrl + Shift + F
+  * Zoom In/Out = Ctrl + mouse scroll wheel. Zooming will occur at the location of cursor.
+  * Zoom In = Ctrl + 1
+  * Zoom Out = Ctrl +3
+  * Zoom to default view = Ctrl + 2
+  * Zoom to full view of track(s) horizontally = Ctrl + F
+  * Zoom to full view of track(s) vertically = Ctrl + Shift + F
 
 
 ==== Timeline Navigation ====
 
-Move ahead/back = Shift key + mouse scroll wheel
-Move to start = J
-Move to end = K
+  * Move ahead/back = Shift key + mouse scroll wheel
+  * Move to start = J
+  * Move to end = K
 
 
 ==== Labels (Single location and Regional) ====
 
-Labels can be added to mark important locations or entire sections of recorded audio. Click at the location (or select a section) that you want to identify with a label. Then press Ctrl + B.
+Labels can be added to mark important locations or entire sections of recorded audio.
+  - Click at the location (or select a section) that you want to identify with a label.
+  - Then press Ctrl + B.
 
 
 ==== Moving Sections of Audio Within Timeline ====
 
-To move/align a section of audio within a track (for example, if you are pasting together separate audio track into one full tracks), click on the Time Shift Tool [ ↔ ], then click & drag sections of audio to the right location in the timeline. Remember to return to the Selection Tool [ I ] when you are finished aligning sections.
+To move/align a section of audio within a track (for example, if you are pasting together separate audio track into one full tracks)
+
+  - Click on the Time Shift Tool [ ↔ ], 
+  - Then click & drag sections of audio to the right location in the timeline.
+  - Remember to return to the Selection Tool [ I ] when you are finished aligning sections.
 
 
 ==== Exporting (Saving) Your Files ====

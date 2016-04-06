@@ -6,16 +6,16 @@ This guide describes helpful keyboard shortcut keys for recording and editing au
 
 ==== Shortcut Keys ====
 
-Record/Stop Record = R
-Play/Stop = Space Bar
-Delete = Delete or Backspace
-Copy = Ctrl + C
-Paste = Ctrl + V
-Undo = Ctrl + Z
-Redo = Ctrl + Y
-Select All = Ctrl + A
-Create Marker = Ctrl + K
-Zoom = Use mouse scroll wheel to zoom at cursor location
+  * Record/Stop Record = R
+  * Play/Stop = Space Bar
+  * Delete = Delete or Backspace
+  * Copy = Ctrl + C
+  * Paste = Ctrl + V
+  * Undo = Ctrl + Z
+  * Redo = Ctrl + Y
+  * Select All = Ctrl + A
+  * Create Marker = Ctrl + K
+  * Zoom = Use mouse scroll wheel to zoom at cursor location
 
 
 ==== Customizing Shortcut Keys ====

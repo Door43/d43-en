@@ -105,6 +105,8 @@
 {{changes>ns=ceb:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:cmn:obs|cmn OBS]]**
 {{changes>ns=cmn:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
+**[[:cmn-x-omc:obs|cmn-x-omc OBS]]**
+{{changes>ns=cmn-x-omc:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:cnh:obs|cnh OBS]]**
 {{changes>ns=cnh:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:de:obs|de OBS]]**
