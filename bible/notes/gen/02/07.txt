@@ -27,9 +27,9 @@
 
 ===== translationWords: =====
 
-  * [[en:obe:kt:yahweh]]
-  * [[en:obe:kt:life]]
-  * [[en:obe:other:eden]]
+  * [[:en:obe:kt:yahweh]]
+  * [[:en:obe:kt:life]]
+  * [[:en:obe:other:eden]]
  
 ===== Translation Notes: =====
 
@@ -41,7 +41,7 @@
 
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:gen:02|Genesis Chapter 02 Comprehension Questions]]**
+  * **[[:en:bible:questions:comprehension:gen:02|Genesis Chapter 02 Comprehension Questions]]**
 **[[:en:bible:notes:gen:02:04|<<]] | [[:en:bible:notes:gen:02:09|>>]]**
 
 ~~DISCUSSION~~{{tag>publish  life eden}}
