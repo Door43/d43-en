@@ -46,15 +46,15 @@
 
 ===== translationWords: =====
 
-  * [[en:obe:other:isaiah]]
-  * [[en:obe:kt:prophet]]
-  * [[en:obe:other:zebulun]]
-  * [[en:obe:other:jordanriver]]
-  * [[en:obe:other:galilee]]
-  * [[en:obe:other:gentile]]
-  * [[en:obe:kt:darkness]]
-  * [[en:obe:kt:light]]
-  * [[en:obe:kt:death]]
+  * [[:en:obe:other:isaiah]]
+  * [[:en:obe:kt:prophet]]
+  * [[:en:obe:other:zebulun]]
+  * [[:en:obe:other:jordanriver]]
+  * [[:en:obe:other:galilee]]
+  * [[:en:obe:other:gentile]]
+  * [[:en:obe:kt:darkness]]
+  * [[:en:obe:kt:light]]
+  * [[:en:obe:kt:death]]
 
 ===== Translation Notes: =====
 
@@ -63,7 +63,7 @@ This continues the account of the beginning of Jesus' ministry in Galilee.
 
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:mat:04|Matthew Chapter 04 Comprehension Questions]]**
+  * **[[:en:bible:questions:comprehension:mat:04|Matthew Chapter 04 Comprehension Questions]]**
 **[[:en:bible:notes:mat:04:12|<<]] | [[:en:bible:notes:mat:04:17|>>]]**
 
 ~~DISCUSSION~~{{tag>publish isaiah zebulun jordanriver }}
