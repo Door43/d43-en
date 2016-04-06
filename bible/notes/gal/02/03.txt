@@ -26,13 +26,13 @@
 
 ===== translationWords: =====
 
-  * [[en:obe:other:titus]]
-  * [[en:obe:other:greek]]
-  * [[en:obe:other:jew]]
-  * [[en:obe:kt:circumcise]]
-  * [[en:obe:kt:inchrist]]
-  * [[en:obe:other:servant]]
-  * [[en:obe:kt:lawofmoses]]
+  * [[:en:obe:other:titus]]
+  * [[:en:obe:other:greek]]
+  * [[:en:obe:other:jew]]
+  * [[:en:obe:kt:circumcise]]
+  * [[:en:obe:kt:inchrist]]
+  * [[:en:obe:other:servant]]
+  * [[:en:obe:kt:lawofmoses]]
  
 ===== Translation Notes: =====
 
@@ -40,14 +40,14 @@
   * **spy** - This means to secretly look at people to see what they are doing in order to harm them.
   * **liberty** - freedom (see UDB)
   * **They desired** - AT: "These spies desired" or "These false brothers desired"
-  * **to make us slaves to the law** - "The law" here refers to following Jewish rituals, most importantly circumcision. AT: "to force us to obey the law" (See [[en:ta:vol1:translate:figs_metaphor]])
+  * **to make us slaves to the law** - "The law" here refers to following Jewish rituals, most importantly circumcision. AT: "to force us to obey the law" (See [[:en:ta:vol1:translate:figs_metaphor]])
   * **yield in submission** - AT: "submit" or "listen"
   * **might remain unchanged for you** - AT: "will continue in you" or "will remain unchanged for you" or "will stay unchanged for you"
-  * **you** - plural (See: [[en:ta:vol1:translate:figs_you]])
+  * **you** - plural (See: [[:en:ta:vol1:translate:figs_you]])
 
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:gal:02|Galatians Chapter 02 Comprehension Questions]]**
+  * **[[:en:bible:questions:comprehension:gal:02|Galatians Chapter 02 Comprehension Questions]]**
 **[[:en:bible:notes:gal:02:01|<<]] | [[:en:bible:notes:gal:02:06|>>]]**
 
 ~~DISCUSSION~~{{tag>publish titus greek}}

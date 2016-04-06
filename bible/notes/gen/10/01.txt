@@ -22,12 +22,12 @@
 
 ===== translationWords: =====
 
-  * [[en:obe:other:descendant]]
-  * [[en:obe:other:noah]]
-  * [[en:obe:other:shem]]
-  * [[en:obe:other:ham]]
-  * [[en:obe:other:japheth]]
-  * [[en:obe:other:flood]]
+  * [[:en:obe:other:descendant]]
+  * [[:en:obe:other:noah]]
+  * [[:en:obe:other:shem]]
+  * [[:en:obe:other:ham]]
+  * [[:en:obe:other:japheth]]
+  * [[:en:obe:other:flood]]
 
 ===== Translation Notes: =====
 
@@ -35,7 +35,7 @@
 
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:gen:10|Genesis Chapter 10 Comprehension Questions]]**
+  * **[[:en:bible:questions:comprehension:gen:10|Genesis Chapter 10 Comprehension Questions]]**
 **[[:en:bible:notes:gen:09:28|<<]] | [[:en:bible:notes:gen:10:02|>>]]**
 
 ~~DISCUSSION~~{{tag>publish descendant  shem ham japheth }}

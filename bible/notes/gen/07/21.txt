@@ -27,10 +27,10 @@
 
 ===== translationWords: =====
 
-  * [[en:obe:kt:life]]
-  * [[en:obe:kt:breath]]
-  * [[en:obe:kt:spirit]]
-  * [[en:obe:kt:death]]
+  * [[:en:obe:kt:life]]
+  * [[:en:obe:kt:breath]]
+  * [[:en:obe:kt:spirit]]
+  * [[:en:obe:kt:death]]
 ===== Translation Notes: =====
 
   * **moved** - "moved about" or "roamed"
@@ -43,7 +43,7 @@
 
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:gen:07|Genesis Chapter 07 Comprehension Questions]]**
+  * **[[:en:bible:questions:comprehension:gen:07|Genesis Chapter 07 Comprehension Questions]]**
 **[[:en:bible:notes:gen:07:19|<<]] | [[:en:bible:notes:gen:07:23|>>]]**
 
 ~~DISCUSSION~~{{tag>publish spirit life}}
