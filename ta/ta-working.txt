@@ -2,15 +2,13 @@
 
 ====== DO NOT LINK TO THESE PAGES ======
 
-<nspages en:ta:workbench:translate: -title -exclude:home -nbCol=2 -textPages="List of tA Pages about How to Translate:"> 
+<nspages en:ta:workbench:translate -title -exclude:home -nbCol=2 -textPages="How to Translate Pages:"> 
 
+<nspages en:ta:workbench:gateway -title -exclude:home -nbCol=2 -textPages="Gateway Language Pages:"> 
 
-<nspages en:ta:workbench:tech: -title -exclude:home -nbCol=2 -textPages="List of tA Pages about Technology:">
+<nspages en:ta:workbench:tech -title -exclude:home -nbCol=2 -textPages="Technology Pages:"> 
 
-=== translate section ===
-{{door43pages @en:ta:workbench:translate -r -showcount -title -simpleLineBreak}} 
-=== tech section ===
-{{door43pages @en:ta:workbench:tech -r -showcount -title -simpleLineBreak}}
+<nspages en:ta:workbench:translation -title -exclude:home -nbCol=2 -textPages="Checking and Guidelines Pages:"> 
 
 ~~NOCACHE~~
 
