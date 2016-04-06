@@ -12,7 +12,7 @@ The Connecting Statement & General Statement are to address discourse level text
   * Episode Identification (start, end, and continuation across chapters) 
 
   * **Connecting Statement:** - This is a note that relates the current chunk to the current discourse. When present, it must be the first note and separated by a blank line from the rest of the notes unless there is also a general statement. There is only one connecting statement used per chunk.
-  * **General Statement:** - this is a note that addresses other discourse topics not mentioned in the connecting statement. When present, it must must immediately follow the connecting statement and be separated by a blank line from the rest of the notes. There can be one or more connecting statements in a chunk.
+  * **General Statement:** - This is a note that addresses other discourse topics not mentioned in the connecting statement. When present, it must must immediately follow the connecting statement and be separated by a blank line from the rest of the notes. There can be one or more general statements in a chunk.
 
 === Format ===
 
