@@ -39,17 +39,17 @@
 
 ===== translationWords: =====
 
-  * [[en:obe:other:ruler]]
-  * [[en:obe:other:elder]]
-  * [[en:obe:other:scribe]]
-  * [[en:obe:other:chiefpriests]]
-  * [[en:obe:other:jerusalem]]
-  * [[en:obe:other:annas]]
-  * [[en:obe:other:caiaphas]]
-  * [[en:obe:other:peter]]
-  * [[en:obe:other:johntheapostle]]
-  * [[en:obe:kt:power]]
-  * [[en:obe:kt:name]]
+  * [[:en:obe:other:ruler]]
+  * [[:en:obe:other:elder]]
+  * [[:en:obe:other:scribe]]
+  * [[:en:obe:other:chiefpriests]]
+  * [[:en:obe:other:jerusalem]]
+  * [[:en:obe:other:annas]]
+  * [[:en:obe:other:caiaphas]]
+  * [[:en:obe:other:peter]]
+  * [[:en:obe:other:johntheapostle]]
+  * [[:en:obe:kt:power]]
+  * [[:en:obe:kt:name]]
  
 ===== Translation Notes: =====
 
@@ -58,7 +58,7 @@
 
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:act:04|Acts Chapter 04 Comprehension Questions]]**
+  * **[[:en:bible:questions:comprehension:act:04|Acts Chapter 04 Comprehension Questions]]**
 **[[:en:bible:notes:act:04:01|<<]] | [[:en:bible:notes:act:04:08|>>]]**
 
 ~~DISCUSSION~~{{tag>publish  scribe annas caiaphas name}}

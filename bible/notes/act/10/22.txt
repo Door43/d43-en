@@ -32,14 +32,14 @@
 
 ===== translationWords: =====
 
-  * [[en:obe:other:centurion]]
-  * [[en:obe:other:cornelius]]
-  * [[en:obe:kt:righteous]]
-  * [[en:obe:kt:worship]]
-  * [[en:obe:other:jew]]
-  * [[en:obe:kt:holy]]
-  * [[en:obe:kt:angel]]
-  * [[en:obe:kt:God]]
+  * [[:en:obe:other:centurion]]
+  * [[:en:obe:other:cornelius]]
+  * [[:en:obe:kt:righteous]]
+  * [[:en:obe:kt:worship]]
+  * [[:en:obe:other:jew]]
+  * [[:en:obe:kt:holy]]
+  * [[:en:obe:kt:angel]]
+  * [[:en:obe:kt:God]]
 
 ===== Translation Notes: =====
 
@@ -50,7 +50,7 @@
 
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:act:10|Acts Chapter 10 Comprehension Questions]]**
+  * **[[:en:bible:questions:comprehension:act:10|Acts Chapter 10 Comprehension Questions]]**
 **[[:en:bible:notes:act:10:19|<<]] | [[:en:bible:notes:act:10:24|>>]]**
 
 ~~DISCUSSION~~{{tag>publish centurion cornelius  }}

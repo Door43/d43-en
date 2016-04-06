@@ -31,13 +31,13 @@
 
 ===== translationWords: =====
 
-  * [[en:obe:kt:light]]
-  * [[en:obe:other:lamp]]
-  * [[en:obe:other:lampstand]]
-  * [[en:obe:kt:works]]
-  * [[en:obe:other:praise]]
-  * [[en:obe:kt:godthefather]]
-  * [[en:obe:kt:heaven]]
+  * [[:en:obe:kt:light]]
+  * [[:en:obe:other:lamp]]
+  * [[:en:obe:other:lampstand]]
+  * [[:en:obe:kt:works]]
+  * [[:en:obe:other:praise]]
+  * [[:en:obe:kt:godthefather]]
+  * [[:en:obe:kt:heaven]]
 
 ===== Translation Notes: =====
 
@@ -49,7 +49,7 @@ Jesus continues to teach his disciples.
   * **your Father who is in heaven** - God the Father in heaven is a Person of God along with God the Son and God the Spirit. Translating with your best word for "Father" to maintain the original meaning of the Scriptures.
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:mat:05|Matthew Chapter 05 Comprehension Questions]]**
+  * **[[:en:bible:questions:comprehension:mat:05|Matthew Chapter 05 Comprehension Questions]]**
 **[[:en:bible:notes:mat:05:13|<<]] | [[:en:bible:notes:mat:05:17|>>]]**
 
 ~~DISCUSSION~~{{tag>publish light lamp lampstand godthefather }}

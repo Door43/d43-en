@@ -39,20 +39,20 @@
 
 ===== translationWords: =====
 
-  * [[en:obe:kt:angel]]
-  * [[en:obe:kt:lord]]
-  * [[en:obe:other:philip]]
-  * [[en:obe:other:jerusalem]]
-  * [[en:obe:other:gaza]]
-  * [[en:obe:other:desert]]
-  * [[en:obe:other:ethiopia]]
-  * [[en:obe:other:eunuch]]
-  * [[en:obe:other:queen]]
-  * [[en:obe:other:chariot]]
-  * [[en:obe:kt:prophet]]
-  * [[en:obe:other:isaiah]]
+  * [[:en:obe:kt:angel]]
+  * [[:en:obe:kt:lord]]
+  * [[:en:obe:other:philip]]
+  * [[:en:obe:other:jerusalem]]
+  * [[:en:obe:other:gaza]]
+  * [[:en:obe:other:desert]]
+  * [[:en:obe:other:ethiopia]]
+  * [[:en:obe:other:eunuch]]
+  * [[:en:obe:other:queen]]
+  * [[:en:obe:other:chariot]]
+  * [[:en:obe:kt:prophet]]
+  * [[:en:obe:other:isaiah]]
 ===== Translation Notes: =====
-  * **General Statement:** - This is the beginning of the part of the story about Philip and the man from Ethiopia. Verse 27 gives background information about the man from Ethiopia. (See: [[en:ta:vol2:translate:writing_background]])
+  * **General Statement:** - This is the beginning of the part of the story about Philip and the man from Ethiopia. Verse 27 gives background information about the man from Ethiopia. (See: [[:en:ta:vol2:translate:writing_background]])
 
   * **Now** - This marks a transition in the story.
   * **Behold** - The word "behold" alerts us to a new person in the story. Your language may have a way of doing this. English uses "There was a man who was."
@@ -62,7 +62,7 @@
   * **reading the prophet Isaiah** - This is the Old Testament book Isaiah. AT: "reading from the book of the prophet Isaiah."
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:act:08|Acts Chapter 08 Comprehension Questions]]**
+  * **[[:en:bible:questions:comprehension:act:08|Acts Chapter 08 Comprehension Questions]]**
 **[[:en:bible:notes:act:08:25|<<]] | [[:en:bible:notes:act:08:29|>>]]**
 
 ~~DISCUSSION~~{{tag>publish gaza ethiopia eunuch queen }}
