@@ -1,4 +1,4 @@
-====== Introduction to Resources ======
+====== zzz - DO NOT USE - Introduction to Resources ======
 
 Resources are available for all projects in translationStudio and Door43. \\
 ==== Things to Know ====
@@ -16,7 +16,9 @@ See [[en:ta:workbench:translate:resources_introts]] for more information.\\
 translationWords are links listed under the Heading of Important Terms.\\
 translationNotes are under the Heading of Translation Notes.\\
 Each page of the Bible text has both the tW and tN information.\\
-See [[en:ta:workbench:translate:resources_introd43]] for more information.
+See [[en:ta:workbench:tech:resources_introd43]] for more information.
 
+----
+https://door43.org/en/ta/workbench/tech/resources_introd43 is used instead
 
-~~DISCUSSION~~
+{{tag>epadr}}~~DISCUSSION~~

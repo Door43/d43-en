@@ -32,15 +32,18 @@
 ===== translationWords: =====
 
 
-    * [[:en:obe:other:honor]]
-    * [[:en:obe:other:parable]]
-    * [[:en:obe:other:feast]]
-    * [[:en:obe:other:shame]]
+  * [[:en:obe:other:honor]]
+  * [[:en:obe:other:parable]]
+  * [[:en:obe:other:feast]]
+  * [[:en:obe:other:shame]]
 
 
 ===== Translation Notes: =====
 Jesus continues to speak to the people at the Pharisee's house.
-  * **the seats of honor** - the seats for people who were given honor
+  * **those who were invited** - AT: "those whom the leader of the Pharisees had invited to the meal" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **the seats of honor** - "the seats for honored people" or "the seats for important people"
+  * **When you are invited by someone** - AT: "When someone invites you" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **because someone may have been invited who is more honored than you** - AT: "because someone may have invited a person who is more important than you are" (See: [[:en:ta:vol2:translate:figs_activepassive]])
   * **and then in shame** - "Then you will feel ashamed and"
 
 
@@ -49,6 +52,6 @@ Jesus continues to speak to the people at the Pharisee's house.
   * **[[:en:bible:questions:comprehension:luk:14|Luke Chapter 14 Comprehension Questions]]**
 **[[:en:bible:notes:luk:14:04|<<]] | [[:en:bible:notes:luk:14:10|>>]]**
 
-~~DISCUSSION~~{{tag>publish  feast}}
+~~DISCUSSION~~{{tag>publish  feast text}}
 
 ~~NOCACHE~~

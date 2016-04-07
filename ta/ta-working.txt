@@ -4,11 +4,10 @@
 
 <nspages en:ta:workbench:translate -title -exclude:home -nbCol=2 -textPages="How to Translate Pages:"> 
 
-<nspages en:ta:workbench:gateway -title -exclude:home -nbCol=2 -textPages="Gateway Language Pages:"> 
-
 <nspages en:ta:workbench:tech -title -exclude:home -nbCol=2 -textPages="Technology Pages:"> 
 
 <nspages en:ta:workbench:translation -title -exclude:home -nbCol=2 -textPages="Checking and Guidelines Pages:"> 
 
+<nspages en:ta:workbench:gateway -title -exclude:home -nbCol=2 -textPages="Gateway Language Pages:"> 
 ~~NOCACHE~~
 

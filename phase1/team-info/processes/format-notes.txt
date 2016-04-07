@@ -102,7 +102,7 @@ If there is a Translation Academy page that deals with a figure of speech, you c
 
 When adding the option for a direct quote, preface the alternate with "This can be translated as a direct quote:" followed by the new phrase.
 
-  * **to tell no one**  - This can be translated as a direct quote: "Do not tell anyone." The implied information is "that you have been healed." (See: Speech Quotations and Explicit and Implicit)
+  * **to tell no one**  - This can be translated as a direct quote: "Do not tell anyone." The implied information is "that you have been healed." (See: Direct and Indirect Quotes and Making Assumed Knowledge and Implicit Information Explicit)
 
 === Explanation of Source Language ===
 
@@ -132,8 +132,7 @@ There are two special types of notes that contain fixed text for the ULB phrase.
   * **Connecting Statement:**  - This is a note that relates the current chunk to the current discourse. When present, it must be the first note and separated by a blank line from the rest of the notes unless there is also a general statement. There is only one connecting statement used per chunk.
   * **General Statement:**  - This is a note that addresses other discourse topics not mentioned in the connecting statement. When present, it must must immediately follow the connecting statement and be separated by a blank line from the rest of the notes. There can be one or more connecting statements in a chunk.
 <code>
-  * **Connecting Statement:**
- - [explanation]
+  * **Connecting Statement:** - [explanation]
   * **General Statement:** - [explanation]
   [blank line]
   * **[Phrase]** - [Explanation]
