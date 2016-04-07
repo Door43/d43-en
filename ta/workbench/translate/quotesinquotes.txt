@@ -9,34 +9,45 @@
 
 A quotation may have a quote within it, and quotes that are inside of other quotes can also have quotes within them.  When there are many layers of quotes inside of quotes, it can be hard for listeners and readers to understand who is saying what. Some languages use a combination of direct quotes and indirect quotes to make it easier.
 
-===== Description =====
+==== Description ====
 
-A quotation may have a quote within it, and quotes that are inside of other quotes can also have quotes within them.  When there are many layers of quotes inside of quotes, it can be hard for listeners and readers to understand who is saying what. Some languages use a combination of direct quotes and indirect quotes to make it easier. 
+A quotation may have a quote within it, and quotes that are inside of other quotes can also have quotes within them. When a quote has quotes within it, we can talk about it having layers of quotation, and each of the quotes is a layer.  When there are many layers of quotes inside of quotes, it can be hard for listeners and readers to know who is saying what. Some languages use a combination of direct quotes and indirect quotes to make it easier. 
 
-===== Examples from the Bible =====
+**Reason this is a translation issue** - When someone quotes someone else, the listener needs to know who the pronouns refer to. For example if a quote that is inside a quote has the word "I," the listener needs to know whether "I" refers to the speaker of the inner quote or the outer quote.
 
-When a quote has quotes within it, we can talk about it having layers of quotation, and each of those quotes is a level. 
+==== Examples from the Bible ====
 
-=== Example of a one-layered quotation === 
+=== Example of a quotation with only one layer === 
 
-> So the king replied, "That is Elijah the Tishbite." (2 Kings 1:8 ULB)
+> But Paul said, "I was born a Roman citizen." (Acts 22:28 ULB)
 
-=== Examples of two-layered quotations === 
+The word "I" here refers to Paul.
 
-> They asked him, “Who is the man that said to you, __‘Pick up your bed and walk’__?” (John 5:12 ULB)
+=== Examples of a quotation with two layers === 
 
-=== Example of a three-layered quotation ===
+>Jesus answered and said to them, "Be careful that no one leads you astray. For many will come in my name. They will say, 'I am the Christ,' and will lead many astray.  Matthew 24:4-5 ULB
 
-> Abimelech said to Abraham, “What prompted you to do this thing?” Abraham said, “Because I thought, ‘Surely there is no fear of God in this place, and they will kill me because of my wife.’ Besides, she is indeed my sister, the daughter of my father, but not the daughter of my mother; and she became my wife. When God caused me to leave my father’s house and travel from place to place, I said to her, ‘You must show me this faithfulness as my wife: At every place where we go, say about me, __“He is my brother.”__ ’ ”   (Genesis 20:10-13 ULB)
+The outermost layer is what Jesus said to his disciples. This is a direct quote. The second layer is what other people will say. This is also a direct quote. The word "I" refers to those other people. 
 
-=== Example of a four-layered quotation ===
+>Pilate then said to him, “Are you a king then?” Jesus answered, “You say that I am a king." (John 18:37 ULB)
+
+The outermost layer is what Jesus said to Pilate. This is a direct quote. The second layer is what Pilate said about Jesus. This is an indirect quote. The word  "I" refers to Jesus, not to Pilate, the one who said that Jesus is a king.
+
+=== Example of a quotation with three layers ===
+
+> Abimelech said to Abraham, “What prompted you to do this thing?” Abraham said, “... I said to her, ‘You must show me this faithfulness as my wife: At every place where we go, say about me, __“He is my brother.”__ ’ ”   (Genesis 20:10-13 ULB)
+
+The outermost layer is what Abraham said to Abimelech. The second layer is what Abraham had told his wife. The third layer is what he wanted his wife to say.
+
+=== Example of a quotation with four layers ===
 
 >When the messengers returned to Ahaziah, he said to them, “Why have you returned?” They said to him, “A man came to meet us who said to us, ‘Go back to the king who sent you, and say to him, “Yahweh says this: __‘Is it because there is no God in Israel that you sent men to consult with Baal Zebub, the god of Ekron? Therefore you will not come down from the bed to which you have gone up; instead, you will certainly die.’__ ” ’ ”  (2 Kings 1:5-6 ULB)
 
+The outermost layer is what the messengers said to Ahaziah. The second layer is what the man who had met them told them. The third is what that man wanted the messengers to say to Ahaziah. The fourth is what Yahweh said.
 
 ==== Translation Strategies ====
 
-In some languages it would sound strange and perhaps even be confusing it there hare many levels of embedded direct quotes. Some use only direct quotes and others use only indirect ones. Here are ways to indicate quotes within quotes:
+In some languages it would sound strange and perhaps even be confusing if there are many layers of direct quotes. Some languages use only direct quotes and others use both direct and indirect quotes. Here are ways to show quotes within quotes:
 
   - Use double quote marks and single quote marks for direct quotations within quotations as shown in the examples above.
   - Translate one or some of the quotes as indirect quotes. (See: [[en:ta:vol2:translate:figs_quotations]])
