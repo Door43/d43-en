@@ -9,7 +9,7 @@
 
 You might want a printed copy of the page. {{:en:ta:dokuwiki_editor_codes.pdf|Simplified DoKuWiki Code}}
 
-===== Basic Text Formatting =====
+==== Basic Text Formatting ====
 
 ==== Headings ====
 
@@ -20,15 +20,6 @@ Every page has a heading. The title of the page determines the displayed name in
 ===== Section Header ===== is 5 equal signs, space, title, space, 5 equal signs
 </code>
 
-**The above code creates this formatting:**
-
-======   ======
-
-<file>
-Page Header
-</file>
-
-===== Section Header =====
 
 ----
 
