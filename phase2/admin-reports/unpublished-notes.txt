@@ -1,0 +1,18 @@
+====== Search 015: Unpublished Notes ======
+
+~~NOCACHE~~
+
+==== Check for Missing Tags ====
+
+This list catches missing status tags, but __not__ corrupted tag code.
+
+{{door43pages @:en:bible:notes -r -q="\{\{tag>(?![^}]*draft)(?![^}]*check)(?![^}]*review)(?![^}]*text)(?![^}]*discuss)(?![^}]*inspect)(?![^}]*fixed)(?![^}]*publish)[^}]*\}\}" -exclude:home -simpleLineBreak -title -fontsize="90%"}}
+
+
+
+==== Full Comparison ====
+
+Chunks that appear in the right column, but not the left, are unpublished.
+
+^  All published chunks  ^  All chunks  ^
+|{{door43pages @en:bible:notes -r -q="\{\{tag>[^}]*publish[^}]*\}\}" -exclude:home -exclude:intro -exclude:00 -exclude:tatopics -exclude:words -exclude:bible-notes -simpleLineBreak -title -fontsize="90%"}}  |{{door43pages @en:bible:notes -r -exclude:home -exclude:intro -exclude:00  -exclude:tatopics -exclude:words -exclude:bible-notes -simpleLineBreak -title -fontsize="90%"}}  |
