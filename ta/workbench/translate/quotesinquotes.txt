@@ -23,7 +23,7 @@ A quotation may have a quote within it, and quotes that are inside of other quot
 
 The word "I" here refers to Paul.
 
-=== Examples of a quotation with two layers === 
+=== Examples of quotations with two layers === 
 
 >Jesus answered and said to them, "Be careful that no one leads you astray. For many will come in my name. They will say, 'I am the Christ,' and will lead many astray.  Matthew 24:4-5 ULB
 
@@ -47,27 +47,21 @@ The outermost layer is what the messengers said to Ahaziah. The second layer is 
 
 ==== Translation Strategies ====
 
-In writing, some languages use quotation marks to show that a quote is a direct quote. When a direct quote has another direct quote inside of it, they use two different kinds of quotation marks. 
+Some languages use only direct quotes. Other languages use a combination of direct quotes and indirect quotes. In those languages it might sound strange and perhaps even be confusing if there are many layers of direct quotes. 
 
-> Abimelech said to Abraham, “What prompted you to do this thing?” Abraham said, “... I said to her, ‘You must show me this faithfulness as my wife: At every place where we go, say about me, __“He is my brother.”__ ’ ”   (Genesis 20:10-13 ULB)
+  - Translate all of the quotes as direct quotes. 
+  - Translate one or some of the quotes as indirect quotes. (See: [[en:ta:vol2:translate:figs_quotations]])
 
-In this example, everything following the words "Abraham said" is what Abraham said to Abmilech. This has double quote marks (" ") around it. Inside of that is what Abraham had said earlier to his wife. This has single quote marks (' ') around it. Inside of that is what he wanted his wife to say. This has double quote marks around it. When there are quotes within quotes, alternating two different kinds of quote marks  can help readers know who said what.
-
-In some languages it would sound strange and perhaps even be confusing if there are many layers of direct quotes. So they  may use both direct quotes and indirect quotes. Here are ways to show quotes within quotes:
-
-  - Translate all of the quotes as direct quotes. Use two different kinds of quote marks to distinguish a quote from the quotes inside of it.
-  - Translate one or some of the quotes as indirect quotes. Do not put quote marks around the indirect quotes. (See: [[en:ta:vol2:translate:figs_quotations]])
-  - If a quotation is very long and has many quotations within it, do not use quote marks on the main, overall quotation. Instead indent it, and use quote marks only for the quotations within it.
 
 ==== Examples of Translation Strategies Applied ====
 
-1) Translate all of the quotes as direct quotes. Use two different kinds of quote marks to distinguish a quote from the quotes inside of it. In the example below, we have underlined the indirect quotes in the ULB and the direct quotes that are inside the main direct quote in the example.
+1) Translate all of the quotes as direct quotes. 
 
   * **Festus presented Paul’s case to the king; he said, "A certain man was left behind here by Felix as a prisoner. ...I was puzzled about how to investigate this matter, and I asked him __if he would go to Jerusalem to be judged there about these things__. But when Paul called __to be kept under guard for the Emperor’s decision__, I ordered him __to be kept until I send him to Caesar__.”** (Acts 25:14-21 ULB)
     *Festus presented Paul’s case to the king; he said, "A certain man was left behind here by Felix as a prisoner. ...I was puzzled about how to investigate this matter, and I asked him __'Will you  go to Jerusalem to be judged there about these things?'__ But when Paul said __'I want to be kept under guard for the Emperor’s decision,'__ I told the guard __'Keep him under guard until I send him to Caesar.'__”  
 
 
-2) Translate one or some of the quotes as indirect quotes. Do not put quote marks around the indirect quotes. In English the word "that" can come before indirect quotes. It is underlined in the examples below. The pronouns that changed because of the indirect quote are also underlined.
+2) Translate one or some of the quotes as indirect quotes. In English the word "that" can come before indirect quotes. It is underlined in the examples below. The pronouns that changed because of the indirect quote are also underlined.
 
   * **Then Yahweh spoke to Moses and said, “I have heard the grumbling of the Israelites. Tell them, ‘At twilight you will eat meat, and in the morning you will be filled with bread. Then you will know that I am the Lord your God.’ ” **  (Exodus 16:11-12 ULB)
     * Then Yahweh spoke to Moses and said, “I have heard the grumbling of the Israelites. Tell them __that__ at twilight __they__ will eat meat, and in the morning __they__ will be filled with bread. Then __they__ will know that I am the Lord their God.”
@@ -75,10 +69,8 @@ In some languages it would sound strange and perhaps even be confusing if there 
   * **They said to him, "A man came to meet us who said to us, 'Go back to the king who sent you, and say to him, "Yahweh says this: 'Is it because there is no God in Israel that you sent men to consult with Baal Zebub, the god of Ekron? Therefore you will not come down from the bed to which you have gone up; instead, you will certainly die.' " ' " **  (2 Kings 1:6 ULB) 
     * They told him __that__ a man had come to meet __them__ who said to __them__, “Go back to the king who sent you, and tell him __that__ Yahweh says this:  'Is it because there is no God in Israel that you sent men to consult with Baal Zebub, the god of Ekron? Therefore you will not come down from the bed to which you have gone up; instead, you will certainly die.’ "
 
-3) If a quotation is very long and has many quotations within it, do not use quote marks on the main, overall quotation. Instead indent it, and use quote marks only for the quotations within it.
-  * **They said to him, "A man came to meet us who said to us, 'Go back to the king who sent you, and say to him, "Yahweh says this: 'Is it because there is no God in Israel that you sent men to consult with Baal Zebub, the god of Ekron? Therefore you will not come down from the bed to which you have gone up; instead, you will certainly die.' " ' " **  (2 Kings 1:6 ULB)
-    * They said to him,
-      * A man came to meet us who said to us, "Go back to the king who sent you, and say to him, 'Yahweh says this: "Is it because there is no God in Israel that you sent men to consult with Baal Zebub, the god of Ekron? Therefore you will not come down from the bed to which you have gone up; instead, you will certainly die." ' "
+Next we recommend you read
+  * [[en:ta:vol2:translate:figs_quotemarks]]
 
 ----
 this page needs to be recommended from [[en:ta:vol2:translate:figs_quotations]]
