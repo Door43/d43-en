@@ -1,13 +1,18 @@
-====== Search 015: Topic ======
+====== Search 015: Unpublished Notes ======
 
 ~~NOCACHE~~
 
-The script on this page searches for a string of text anywhere in the notes, the ULB, and the UDB. To modify the search, open in edit view and change the text between the quotation marks following the -q.  
+==== Check for Missing Tags ====
 
-//Note: Special characters and symbols must be preceded by a backslash "\".//
+This list catches missing status tags, but __not__ corrupted tag code.
+
+{{door43pages @:en:bible:notes -r -q="\{\{tag>(?![^}]*draft)(?![^}]*check)(?![^}]*review)(?![^}]*text)(?![^}]*discuss)(?![^}]*inspect)(?![^}]*fixed)(?![^}]*publish)[^}]*\}\}" -exclude:home -simpleLineBreak -title -fontsize="90%"}}
 
 
-search results:
 
+==== Full Comparison ====
 
-{{door43pages @:en:bible -r -q="\<\<\<\< HEAD" -exclude:home -simpleLineBreak -title -fontsize="90%"}}
+Chunks that appear in the right column, but not the left, are unpublished.
+
+^  All published chunks  ^  All chunks  ^
+|{{door43pages @en:bible:notes -r -q="\{\{tag>[^}]*publish[^}]*\}\}" -exclude:home -exclude:intro -exclude:00 -exclude:tatopics -exclude:words -simpleLineBreak -title -fontsize="90%"}}  |{{door43pages @en:bible:notes -r -exclude:home -exclude:intro -exclude:00  -exclude:tatopics -exclude:words -simpleLineBreak -title -fontsize="90%"}}  |
