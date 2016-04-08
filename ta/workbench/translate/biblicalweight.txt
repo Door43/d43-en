@@ -1,6 +1,6 @@
-====== biblical weight ======
+====== Biblical Weight ======
 
-===== Definition: =====
+===== Description =====
 
 The following terms are the most common units of weight in the Bible. The term "shekel" means "weight" and many other weights are described in terms of the shekel. Some of these weights were used for money. The exact weights are uncertain, but the approximate amounts are:
 
@@ -11,16 +11,17 @@ The following terms are the most common units of weight in the Bible. The term "
   * Mina - 600 grams (50 shekels)
   * Talent - 34 kilograms (60 minas, 3000 shekels)
 
-How to translate Biblical units for measuring weights:
+=== Translation Principles === 
 
-  - Keep the Bible term, spelling it in a way that is similar to the way it sounds or is spelled in the Bible.
-  - An important reason for using words that closely resemble the Biblical terms for measuring weights is to show that the Bible is an historical document and that real people used these units of measurement during that time period.
-  - If it doesn't work to use the Bible term, then instead, state the same amount of weight using a unit of measure that is known.
-  - These methods could be combined, using the Bible term but then also giving the equivalent amount in the text or a note.
+  - Using words that closely resemble the Biblical terms for measuring weights shows that the Bible is a historical document and that real people used these units of measurement during that time period.
 
-===== Bible References: =====
+==== Translation Strategies ==== 
 
-{{topic>:en:bible?biblicalweight&nocomments}}
+  - Keep the Bible term and spell it in a way that is similar to the way it sounds or is spelled in the Bible.
+  - State the same amount of weight using a unit of measure that is known.
+  - Use the Bible term and give the equivalent amount in the text or a note.
+
+
 ~~DISCUSSION~~
 {{tag>draftsq epadn}}
 
