@@ -5,7 +5,7 @@
 //In order to understand this page, it would be good to read://
 
   * //[[en:ta:vol2:translate:figs_quotations]]//
-  * //[[en:ta:vol2:translate:writing_quotations]]//
+
 
 A quotation may have a quote within it, and quotes that are inside of other quotes can also have quotes within them.  When there are many layers of quotes inside of quotes, it can be hard for listeners and readers to understand who is saying what. Some languages use a combination of direct quotes and indirect quotes to make it easier.
 
@@ -75,7 +75,8 @@ Next we recommend you read
 ----
 this page needs to be recommended from [[en:ta:vol2:translate:figs_quotations]]
 
-this page is linked from [[en:ta:vol2:translate:figs_quotemarks]] and depended on by [[en:ta:vol2:translate:figs_quotemarks]] see workbench page [[https://door43.org/en/ta/workbench/translate/quotemarks]]
+this page is linked from [[en:ta:vol2:translate:figs_quotemarks]] and depended on by [[en:ta:vol2:translate:figs_quotemarks]] see workbench page [[https://door43.org/en/ta/workbench/translate/quotemarks]]\\
+Chris, I was wrong. People do not need to read this page in order to understand Quote Markings. 
 
 There should be a link to this page on the 3rd bullet point under **Quotations** on [[en:ta:workbench:translate:grammar]]
 
