@@ -13,10 +13,10 @@ A quotation may have a quote within it, and quotes that are inside of other quot
 
 A quotation may have a quote within it, and quotes that are inside of other quotes can also have quotes within them. When a quote has quotes within it, we can talk about it having layers of quotation, and each of the quotes is a layer.  When there are many layers of quotes inside of quotes, it can be hard for listeners and readers to know who is saying what. Some languages use a combination of direct quotes and indirect quotes to make it easier. 
 
-=== Reasons this is a translation issue** === 
-1. When there  is a quote within a quote, the listener needs to know who the pronouns refer to. For example if a quote that is inside a quote has the word "I," the listener needs to know whether "I" refers to the speaker of the inner quote or the outer quote.
-2. Some languages make this clear by using different kinds of quotes when there are quotes within quotes. They may use direct quotes for some and indirect quotes for others.
-3. Some languages do not use indirect quotes.
+=== Reasons this is a translation issue === 
+  - When there  is a quote within a quote, the listener needs to know who the pronouns refer to. For example if a quote that is inside a quote has the word "I," the listener needs to know whether "I" refers to the speaker of the inner quote or the outer quote.
+  - Some languages make this clear by using different kinds of quotes when there are quotes within quotes. They may use direct quotes for some and indirect quotes for others.
+  - Some languages do not use indirect quotes.
 ==== Examples from the Bible ====
 
 === Example of a quotation with only one layer === 
