@@ -2,17 +2,12 @@
 
 ~~NOCACHE~~
 
-==== Check for Missing Tags ====
+The script on this page searches for a string of text anywhere in the notes, the ULB, and the UDB. To modify the search, open in edit view and change the text between the quotation marks following the -q.  
 
-This list catches missing status tags, but __not__ corrupted tag code.
-
-{{door43pages @:en:bible:notes -r -q="\{\{tag>(?![^}]*draft)(?![^}]*check)(?![^}]*review)(?![^}]*text)(?![^}]*discuss)(?![^}]*inspect)(?![^}]*fixed)(?![^}]*publish)[^}]*\}\}" -exclude:home -simpleLineBreak -title -fontsize="90%"}}
+//Note: Special characters and symbols must be preceded by a backslash "\".//
 
 
+search results:
 
-==== Full Comparison ====
 
-Chunks that appear in the right column, but not the left, are unpublished.
-
-^  All published chunks  ^  All chunks  ^
-|{{door43pages @en:bible:notes -r -q="\{\{tag>[^}]*publish[^}]*\}\}" -exclude:home -exclude:intro -exclude:00 -exclude:tatopics -exclude:words -exclude:bible-notes -simpleLineBreak -title -fontsize="90%"}}  |{{door43pages @en:bible:notes -r -exclude:home -exclude:intro -exclude:00  -exclude:tatopics -exclude:words -exclude:bible-notes -simpleLineBreak -title -fontsize="90%"}}  |
+{{door43pages @:en:bible:notes -r -q="his son became king" -exclude:home -simpleLineBreak -title -fontsize="90%"}}
