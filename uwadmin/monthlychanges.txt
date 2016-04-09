@@ -101,6 +101,8 @@
 {{changes>ns=bwo:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:bzs:obs|bzs OBS]]**
 {{changes>ns=bzs:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
+**[[:cdf:obs|cdf OBS]]**
+{{changes>ns=cdf:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:ceb:obs|ceb OBS]]**
 {{changes>ns=ceb:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:cmn:obs|cmn OBS]]**
