@@ -1,0 +1,10 @@
+====== Count Book Chunks ======
+
+~~NOCACHE~~
+
+Change book code to check book.
+
+search results:
+
+
+{{door43pages @en:bible:notes:1ch -r -exclude:home -exclude:intro -exclude:00  -exclude:tatopics -exclude:words -exclude:bible-notes -simpleLineBreak -title -fontsize="90%"}}
