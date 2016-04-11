@@ -580,6 +580,9 @@
 **[[:or:obs|or OBS]]**
 {{changes>ns=or:obs&maxage=604800&render=pagelist(header,date,user,nocomments)}}
 
+**[[:oso:obs|oso OBS]]**
+{{changes>ns=oso:obs&maxage=604800&render=pagelist(header,date,user,nocomments)}}
+
 **[[:otr:obs|otr OBS]]**
 {{changes>ns=otr:obs&maxage=604800&render=pagelist(header,date,user,nocomments)}}
 

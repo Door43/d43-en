@@ -387,6 +387,8 @@
 {{changes>ns=om:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:or:obs|or OBS]]**
 {{changes>ns=or:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
+**[[:oso:obs|oso OBS]]**
+{{changes>ns=oso:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:otr:obs|otr OBS]]**
 {{changes>ns=otr:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:p-br:obs|p-br OBS]]**
