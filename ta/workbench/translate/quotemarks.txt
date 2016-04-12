@@ -70,7 +70,26 @@ In some languages it would sound strange and perhaps even be confusing it there 
 
 ==== Examples of Translation Strategies Applied ====
 
-This page does not have any Translation Strategies Applied. See [[Quotes Within Quotes]] for examples.
+
+1) Use double quote marks and single quote marks for direct quotations within quotations as shown in the examples above and the ULB example below.
+
+  * **Then Yahweh spoke to Moses and said, “I have heard the grumbling of the Israelites. Tell them, ‘At twilight you will eat meat, and in the morning you will be filled with bread. Then you will know that I am the Lord your God.’ ”**  (Exodus 16:11-12 ULB)
+
+2) Translate one or some of the quotes as indirect quotes. The indirect quotes do not have quote marks around them. 
+
+
+  * **Then Yahweh spoke to Moses and said, “I have heard the grumbling of the Israelites. Tell them, ‘At twilight you will eat meat, and in the morning you will be filled with bread. Then you will know that I am the Lord your God.’ ” **  (Exodus 16:11-12 ULB)
+    * Then Yahweh spoke to Moses and said, “I have heard the grumbling of the Israelites. Tell them that at twilight they will eat meat, and in the morning they will be filled with bread. Then they will know that I am the Lord their God.”
+
+  * **They said to him, "A man came to meet us who said to us, 'Go back to the king who sent you, and say to him, "Yahweh says this: 'Is it because there is no God in Israel that you sent men to consult with Baal Zebub, the god of Ekron? Therefore you will not come down from the bed to which you have gone up; instead, you will certainly die.' " ' " **  (2 Kings 1:6 ULB) 
+    * They told to him __that__ a man came to meet __them__  who said to __them__, “Go back to the king who sent you, and say to him, ‘Yahweh says this: “Is it because there is no God in Israel that you sent men to consult with Baal Zebub, the god of Ekron? Therefore you will not come down from the bed to which you have gone up; instead, you will certainly die." ’ "
+
+3) If a quotation is very long and has many quotations within it, do not use quote marks on the main, overall quotation. Instead indent it, and use quote marks only for the quotations within it.
+  * **They said to him, "A man came to meet us who said to us, 'Go back to the king who sent you, and say to him, "Yahweh says this: 'Is it because there is no God in Israel that you sent men to consult with Baal Zebub, the god of Ekron? Therefore you will not come down from the bed to which you have gone up; instead, you will certainly die.' " ' " **  (2 Kings 1:6 ULB) 
+
+They said to him,
+> A man came to meet us who said to us, "Go back to the king who sent you, and say to him, 'Yahweh says this: "Is it because there is no God in Israel that you sent men to consult with Baal Zebub, the god of Ekron? Therefore you will not come down from the bed to which you have gone up; instead, you will certainly die." ' "
+
 
 ----
 https://pad.door43.org/p/ta-figs_quotemarks
