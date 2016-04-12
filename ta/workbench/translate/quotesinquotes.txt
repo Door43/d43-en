@@ -19,11 +19,11 @@ A quotation may have a quote within it, and quotes that are inside of other quot
   - Some languages do not use indirect quotes.
 ==== Examples from the Bible ====
 
-=== Example of a quotation with only one layer === 
+=== A quotation with only one layer === 
 
 > But Paul said, "I was born a Roman citizen." (Acts 22:28 ULB)
 
-=== Examples of quotations with two layers === 
+=== Quotations with two layers === 
 
 >Jesus answered and said to them, "Be careful that no one leads you astray. For many will come in my name. They will say, 'I am the Christ,' and will lead many astray.  Matthew 24:4-5 ULB
 
@@ -33,13 +33,13 @@ The outermost layer is what Jesus said to his disciples.  The second layer is wh
 
 The outermost layer is what Jesus said to Pilate. The second layer is what Pilate said about Jesus. 
 
-=== Example of a quotation with three layers ===
+=== A quotation with three layers ===
 
 > Abraham said, “... I said to her, ‘You must show me this faithfulness as my wife: At every place where we go, say about me, __“He is my brother.”__ ’ ”   (Genesis 20:10-13 ULB)
 
 The outermost layer is what Abraham said to Abimelech. The second layer is what Abraham had told his wife. The third layer is what he wanted his wife to say. (We have underlined the third layer.)
 
-=== Example of a quotation with four layers ===
+=== A quotation with four layers ===
 
 >They said to him, “A man came to meet us who said to us, ‘Go back to the king who sent you, and say to him, “Yahweh says this: __‘Is it because there is no God in Israel that you sent men to consult with Baal Zebub, the god of Ekron? Therefore you will not come down from the bed to which you have gone up; instead, you will certainly die.’__ ” ’ ”  (2 Kings 1:6 ULB)
 
@@ -69,7 +69,7 @@ Some languages use only direct quotes. Other languages use a combination of dire
   * **They said to him, "A man came to meet us who said to us, 'Go back to the king who sent you, and say to him, "Yahweh says this: 'Is it because there is no God in Israel that you sent men to consult with Baal Zebub, the god of Ekron? Therefore you will not come down from the bed to which you have gone up; instead, you will certainly die.' " ' " **  (2 Kings 1:6 ULB) 
     * They told him __that__ a man had come to meet __them__ who said to __them__, “Go back to the king who sent you, and tell him __that__ Yahweh says this:  'Is it because there is no God in Israel that you sent men to consult with Baal Zebub, the god of Ekron? Therefore you will not come down from the bed to which you have gone up; instead, you will certainly die.’ "
 
-Next we recommend you read
+Next we recommend you read:
   * [[en:ta:vol2:translate:figs_quotemarks]]
 
 ----
