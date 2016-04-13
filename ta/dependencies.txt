@@ -798,6 +798,7 @@ edge [arrowsize=1.4];
 "guidelines_faithful" -> "guidelines_sonofgod"
 "guidelines_sonofgodprinciples" [fillcolor="#9999ff"]
 "guidelines_faithful" -> "guidelines_sonofgodprinciples"
+"guidelines_sonofgod" -> "guidelines_sonofgodprinciples"
 "mast" [fillcolor="#9999ff"]
 "guidelines_intro" -> "mast"
 "translate_whatis" -> "mast"
