@@ -778,6 +778,9 @@ edge [arrowsize=1.4];
 "guidelines_faithful" [fillcolor="#9999ff"]
 "guidelines_intro" -> "guidelines_faithful"
 "translation_guidelines" -> "guidelines_faithful"
+"guidelines_historical" [fillcolor="#9999ff"]
+"guidelines_intro" -> "guidelines_historical"
+"translation_guidelines" -> "guidelines_historical"
 "guidelines_intro" [fillcolor="#9999ff"]
 "translation_guidelines" -> "guidelines_intro"
 "translate_manual" -> "guidelines_intro"
