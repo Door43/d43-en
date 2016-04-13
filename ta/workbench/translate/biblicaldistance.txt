@@ -3,33 +3,59 @@
 //This page answers the question: How can I translate the distances that are in the Bible.//
 
 //In order to understand this page, it would be good to read//
+  * [[en:ta:vol2:translate:translate_decimal]]
 
 ===== Description =====
 
-The following terms are the most common Biblical units that were used to measure distance or the length of something.
+The following terms are the most common Biblical units that were used to measure distance or the length of something. Most of these are based on the size of body parts.
 
+  * The **handbreadth** was the width of the palm of a man's hand. 
   * The **span** or handspan was the width of a man's hand with the fingers spread out.
   * The **cubit**  was the length of a man's forearm, from the elbow to the tip of the longest finger.
   * The **"long" cubit**  is used only in Ezekiel 40-48. It is the length of a normal cubit plus a span.
   * The **stadium**  (plural, **stadia**) referred to a certain footrace that was about 185 meters in length. Some older English versions translated this word as "furlong", which referred to the average length of a plowed field.
 
-^  Distance ^  Value ^  Units |
-|  handbreadth  |  8? |  centimeters |
-|  span  |  23 |  centimeters |
-|  cubit  |  46 |  centimeters |
-|  "long" cubit  |  54 |  centimeters |
-|  stadia  |  185 |  meters |
+^  Distance ^  Value ^  Units ^ Units |
+|  handbreadth  |  8|  centimeters | .08 meters |
+|  span  |  23 |  centimeters | .23 meters |
+|  cubit  |  46 |  centimeters | .46 meters |
+|  "long" cubit  |  54 |  centimeters | .54 meters |
+|  stadia  |  185 | - | meters |
 
 === Translation Principles === 
 
   - Using the Bible terms can show that the Bible is true and that people actually used these unites of measure during that time period.
+  - If you use a different kind of measurement, it would be good to tell about the biblical measure in a footnote or Bible study note.
+
 ==== Translation Strategies ==== 
 
-  - Keep the Bible term, spelling it in a way that is similar to the way it sounds or is spelled in the Bible. (See: [[en:ta:vol1:translate:translate_transliterate]])
-  - State the same distance or length in terms of a unit of measure that is known. In a footnote or Bible study note it should be explained what the original unit of length was in order to be historically accurate.
-  - Use the Bible term and give the equivalent amount in the text or a note.
+  - Use the measurements from the ULB. These are the same kinds of measurements that the original writers used. Spell them in a way that is similar to the way they sound or are spelled in the ULB. (See: [[en:ta:vol1:translate:translate_transliterate]])
+  - Use the metric measurements given in the UDB. The translators of the UDB have already figured how to represent the amounts in the metric system.
+  - Use measurements that are already used in your language. In order to do this you would need to know how your measurements relate to the metric system and figure out each measurement.
+  - Use the measurements from the ULB and include the measurement that your people know in the text or a note. 
+
+==== Translation Strategies Applied
+
+The strategies below are all applied to Exodus 25:10.
+  * **They are to make an ark of acacia wood. Its length must be two and a half cubits; its width will be one cubit and a half; and its height will be one cubit and a half.** (Exodus 25:10 ULB)
+
+1. Use the measurements given in the ULB. These are the same kinds of measurements that the original writers used. Spell them in a way that is similar to the way they sound or are spelled in the ULB. (See: [[en:ta:vol1:translate:translate_transliterate]])
+  * "They are to make an ark of acacia wood. Its length must be __two and a half kubits__; its width will be __one kubit and a half__; and its height will be __one kubit and a half__."
+
+2.  Use the metric measurements given in the UDB. The translators of the UDB have already figured how to represent the amounts in the metric system.
+   * "They are to make an ark of acacia wood. Its length must be __one meter__; its width will be __0.7 meter__; and its height will be __0.7 meter__." 
+
+3.  Use measurements that are already used in your language. In order to do this you would need to know how your measurements relate to the metric system and figure out each measurement. For example, if you measure things using the standard foot length, you could write it as below.
+  * "They are to make an ark of acacia wood. Its length must be__ 3 3/4 feet__; its width will be __2 1/4 feet__; and its height will be __2 1/4 feet__. 
+
+4. Use the measurements from the ULB and include the measurement that your people know in the text or a note. 
+
+
+Next we suggest you read:
+  * [[en:ta:vol2:translate:translate_fraction]]
 
 ~~DISCUSSION~~{{tag>draftsq discuss epadn}}
+
 
 ~~NOCACHE~~
 
