@@ -763,6 +763,9 @@ edge [arrowsize=1.4];
 "guidelines_accurate" [fillcolor="#9999ff"]
 "guidelines_intro" -> "guidelines_accurate"
 "translation_guidelines" -> "guidelines_accurate"
+"guidelines_authoritative" [fillcolor="#9999ff"]
+"guidelines_intro" -> "guidelines_authoritative"
+"translation_guidelines" -> "guidelines_authoritative"
 "guidelines_church_approved" [fillcolor="#9999ff"]
 "guidelines_intro" -> "guidelines_church_approved"
 "translation_guidelines" -> "guidelines_church_approved"
