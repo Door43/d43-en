@@ -6,32 +6,15 @@
 
 ==== Description: ====
 
-The following terms are some of the most well-known units of money that are used in the Bible. Unless otherwise noted, these are the units of money used only by the Hebrew people.
+The following tables show some of the most well-known units of money found in the Old Testament (OT) and the New Testament (NT). The table for Old Testament units shows what kind of metal it was made of, how much it weighted, and which culture used it. The table for New Testament units shows what kind of metal it was made of, how much it was worth in terms of a day's wage, and which culture it originated from.
 
-[Note: In the Old Testament, the "shekel" referred to a type of weight (made of gold, silver, bronze, brass or iron) that was used for money and trade. In the New Testament, a "shekel" was a type of silver coin.]
-
-  * shekel
-      * In the Old Testament (11 grams weight of various materials)
-      * In the New Testament (Jewish silver coin = 4 days' wages)
-  * talent
-      * In the Old Testament (33 kilograms weight of various materials)
-      * In the New Testament (weight measurement of Roman or Greek silver = 6000 days' wages)
-  * daric (Persian coin made of gold or silver)
-  * denarius (Roman silver coin = one day's wages; plural= denarii)
-  * drachma (Greek silver coin = one day's wages) - Not in ULB
-  * mite/lepton (Jewish copper coin = 1/64 day's wages) - Mite in ULB, not lepton.
-
-
-
-The following tables show the kinds of money used in the Old Testament (OT) and the New Testament (NT).
-
-^  Terms in OT ^  Material ^ Weight ^  Culture |
+^  Unit in OT ^  Metal ^ Weight ^  Culture |
 | daric  | gold coin |  8.4 grams | Persian |
 | shekel | various metals |  11 grams | Hebrew |
 | talent | various metals | 33 kilograms | Hebrew |
 
-^  Terms in NT ^  Material ^  Value in Day's Wage ^  Culture|
-| denarius | silver coin |  1 day | Roman  |
+^  Unit in NT ^  Metal ^  Value in Day's Wage ^  Culture|
+| denarius/denarii | silver coin |  1 day | Roman  |
 | drachma | silver coin |  1 day | Greek |
 | mite | copper coin|  1/64 day | Jewish |
 | shekel | silver coin |  4 days| Jewish |
