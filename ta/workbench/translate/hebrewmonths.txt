@@ -1,32 +1,18 @@
-====== Months ======
+====== Hebrew Months ======
 
-===== Explanation: =====
+This page answers the question:
 
-We have a Translation Academy Topic page for biblical months. It explains solar and lunar calendars and gives the approximate length of a month. If a verse mentions a month as a measurement of time, all that is needed is a link to the "biblical month" page:
+In order to understand this page, it would be good to read
 
-  * **for seven months** - "for 7 months" (See: [[en:obe:other:biblicaltimemonth]] and [[:en:ta:vol2:translate:translate_numbers]])
+  * [[en:obe:other:biblicaltimemonth]]
+  * [[:en:ta:vol2:translate:translate_ordinal]])
+===== Description =====
 
-But if the verse refers to a specific month, then we need to provide information in the translation notes that will help translators relate the biblical months to their own months and seasons. These notes should include:
+The Hebrew calendar used in the Bible has twelve months.  Sometimes the name of the month is used (Abib, Ziv, Sivan) and sometimes it is called by its order in the calendar year (first month, second month, third month). 
 
-  - Equivalent months on western calendars
-  - Seasonal and agricultural information if it is relevant to the context
+=== Translation Principles === 
 
-===== Standard Notes: =====
-
-Months are identified in different ways in the Bible. Sometimes the name of the month is used (e.g. Abib, Ziv, Sivan), sometimes it is called by its order in the calendar year (e.g. first month, second month, third month), and sometimes a specific day is included (e.g. "the fifteenth day of the first month"). The notes should be adjusted for each situation and include to all relevant Translation Academy pages.
-
-  * **the month of Abib** - This is the name of the first month of the Hebrew calendar. It marks the beginning of the spring season when the late rains come and people begin to harvest their crops. Abib is during the last part of March and the first part of April on western calendars. (See: [[en:obe:other:biblicaltimemonth]] and [[:en:ta:vol1:translate:translate_names]])
-
-You only need to mention seasonal or agricultural information if it is relevant to the text.
-
-  * **In the eighth month** - This is the eighth month of the Hebrew calendar. It is during the last part of October and the first part of November on western calendars. (See: [[en:obe:other:biblicaltimemonth]] and [[:en:ta:vol2:translate:translate_ordinal]])
-
-When the text provides the day of the month, the note may be a little more specific.
-
-  * **in the third month, on the first day of the month** - This is the third month of the Hebrew calendar. The first day is near the middle of May on western calendars. (See: [[en:obe:other:biblicaltime]] and [[:en:ta:vol2:translate:translate_ordinal]])
-
-===== Biblical Month Information: =====
-
+==== List of Hebrew Months ==== 
 This is a list of the biblical months with information that may be helpful in the notes. Be sure to adjust the note to be helpful in the context of each verse.
 
 **Abib** - (This month is called **Nisan** after the Babylonian exile) - This is the first month of the Hebrew calendar. It marks when God brought the people of Israel out of Egypt. It is at the beginning of the spring season when the late rains come and people begin to harvest their crops. It is during the last part of March and the first part April on western calendars.
@@ -53,7 +39,11 @@ This is a list of the biblical months with information that may be helpful in th
 
 **Adar** - This is the twelfth and last month of the Hebrew calendar. This is during the cold season. It is during the last part of February and the first part of March on western calendars.
 
-(John H drafted this to be standard notes page.)
+==== Examples from the Bible ==== 
+
+==== Translation Strategies ==== 
+
+==== Examples of Translation Strategies Applied ====
 
 ~~DISCUSSION~~
 
