@@ -861,8 +861,7 @@ edge [arrowsize=1.4];
 "translate_bibleorg" [fillcolor="#9999ff"]
 "translate_source_text" -> "translate_bibleorg"
 "translate_bmoney" [fillcolor="#9999ff"]
-"translate_decimal" -> "translate_bmoney"
-"translate_fraction" -> "translate_bmoney"
+"Translation" -> "translate_bmoney"
 "translate_chapverse" [fillcolor="#9999ff"]
 "translate_bibleorg" -> "translate_chapverse"
 "translate_decimal" [fillcolor="#9999ff"]
