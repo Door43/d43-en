@@ -125,16 +125,16 @@ Sometimes a phrase is used multiple times in a book. We can make it easier for t
   * **everything that creeps along the ground**  - This includes all types of small animals. See how you translated this in [[:en:bible:notes:gen:01:24|1:25]].
   * **will be blessed in him**  - AT: "will be blessed because of Abraham" or "will be blessed because I have blessed Abraham." For translating "in him," see how you translated "through you" in [[:en:bible:notes:gen:12:01|12:3]].
 
-=== Connecting Statement & General Statement (under development) ===
+=== Connecting Statement & General Information (under development) ===
 
-There are two special types of notes that contain fixed text for the ULB phrase. they are **Connecting Statement:**  and **General Statement:**.
+There are two special types of notes that contain fixed text for the ULB phrase. they are **Connecting Statement:**  and **General Information:**.
 
-  * **Connecting Statement:**  - This is a note that relates the current chunk to the current discourse. When present, it must be the first note and separated by a blank line from the rest of the notes unless there is also a general statement. There is only one connecting statement used per chunk.
-  * **General Statement:**  - This is a note that addresses other discourse topics not mentioned in the connecting statement. General statements can occur alone or immediately following the connecting statement and are separated by a blank line from the rest of the notes. There can be one or more general statements in a chunk.
+  * **Connecting Statement:**  - This is a note that relates the current chunk to the current discourse. When present, it must be the first note and separated by a blank line from the rest of the notes unless there is also a general information note. There is only one connecting statement used per chunk.
+  * **General Information:**  - This is a note that addresses other discourse topics not mentioned in the connecting statement. General information notes can occur alone or immediately following the connecting statement and are separated by a blank line from the rest of the notes. There can be one or more general information notes in a chunk.
 
 <code>
   * **Connecting Statement:** - [explanation]
-  * **General Statement:** - [explanation]
+  * **General Information:** - [explanation]
   [blank line]
   * **[Phrase]** - [Explanation]
 </code>
