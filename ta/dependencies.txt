@@ -855,13 +855,13 @@ edge [arrowsize=1.4];
 "translate_alphabet" [fillcolor="#9999ff"]
 "choose_team" -> "translate_alphabet"
 "translate_source_text" -> "translate_alphabet"
+"translate_bdistance" [fillcolor="#9999ff"]
+"translate_decimal" -> "translate_bdistance"
+"translate_fraction" -> "translate_bdistance"
 "translate_bibleorg" [fillcolor="#9999ff"]
 "translate_source_text" -> "translate_bibleorg"
 "translate_chapverse" [fillcolor="#9999ff"]
 "translate_bibleorg" -> "translate_chapverse"
-"translate_decimal" [fillcolor="#9999ff"]
-"translate_decimal" -> "translate_decimal"
-"translate_fraction" -> "translate_decimal"
 "translate_decimal" [fillcolor="#9999ff"]
 "translate_numbers" -> "translate_decimal"
 "translate_fraction" -> "translate_decimal"
