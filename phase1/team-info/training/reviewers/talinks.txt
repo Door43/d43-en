@@ -24,6 +24,31 @@ Apostrophe
 [[:en:ta:vol2:translate:figs_apostrophe]]
 </code>
 
+Biblical Distance
+
+<code>
+[[:en:ta:vol2:translate:translate_bdistance]]
+</code>
+
+Biblical Money
+
+<code>
+[[:en:ta:vol2:translate:translate_bmoney]]
+</code>
+
+Biblical Volume
+
+<code>
+[[en:ta:vol2:translate:translate_bvolume]]
+</code>
+
+Biblical Weight
+
+<code>
+[[en:ta:vol2:translate:translate_bweight]]
+</code>
+
+
 Chapter and Verse Numbers
 
 <code>
