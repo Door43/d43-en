@@ -1,35 +1,40 @@
-===== Writing Styles - Pronoun Reference Systems Phase 2 =====
-This module answers the questions: How do I understand the pronouns in the Bible and how to  find out how to use pronouns in my translation?
+===== Writing Styles - Pronoun Reference Systems =====
 
-In order to understand this page, it would be good to read
+This module answers the questions: How do I decide whether to use a pronoun or not?
+
+//In order to understand this page, it would be good to read//
   * [[en:ta:vol2:translate:figs_pronouns]]
-===== Description =====
+  * [[en:ta:vol2:translate:figs_sentences]]
 
-Summary \\ 
 When you handle pronouns in the way your language likes, people will easily understand who and what your translation is about.\\  
 
-Definition \\ 
-Pronouns are used to keep track of people or things without having to always repeat the noun. Usually a new person in a story will be first mentioned with a descriptive phrase, then the second time he will be mentioned with a simple name or noun but after that he will be referred to by a pronoun as long as it is clear who is being spoken of.\\  
-Example \\ 
-Now there was a Pharisee whose name was Nicodemus, a member of the Jewish Council. This man came to Jesus … Jesus replied to him \\ 
+==== Description ====
 
-But each language has its particular rules and exceptions to this usual way of doing it. In languages in which the subject is marked in the verb, frequently pronouns are only used if the reference is unclear or is emphatic. In some language the main character is always referred to by a pronoun but in others he is only referred to by a name or noun and some languages have special pronouns for the main character. In many languages a noun is used instead of  pronouns when starting a new story or even a new paragraph. Most pronouns refer to something or someone already mentioned, however some languages allow a pronoun to precede the noun it replaces.
+When we talk or write, we use pronouns to refer to people or things without always having to repeat the noun or name. Usually the first time we refer to someone in a story, we use a descriptive phrase or his name if we think people will know who we are talking about. The next time we might refer to him with a simple noun or by name. After that we might refer to him simply with a pronoun, as long as we think that our listeners will be able to figure out easily who the pronoun refers to.
 
-==== Reason this could be a translation issue ==== 
+> Now there was __a Pharisee whose name was Nicodemus, a member of the Jewish Council__. __This man__ came to Jesus … Jesus replied to __him__ (John 3:1-3 ULB)
+
+But each language has its rules and exceptions to this usual way of referring to people in things. 
+  * In some languages a noun is used instead of a pronoun when starting a new paragraph. 
+  * In some language the main character is frequently referred to by a noun or name, but in others he is usually referred to by a pronoun. Some languages have special pronouns that refer only to the main character. 
+  * In some languages, something about the subject is shown on the verb. Ins sone of these languages, subject pronouns are only used to emphasize who the subject is, or to clarify who the subject is if it would not be clear without the pronoun.
+  * We usually use pronouns to refer to something or someone that we have  already mentioned. However some languages allow a pronoun to refer to something or someone that will be identified later in the sentence.
+
+==== Reason this is a translation issue ==== 
 Understand pronouns in the Bible and knowing how to use pronouns in your translation are crucial for producing a translation that will be clearly understood.
 
 
 ===== Examples from the Bible =====
 
-**Again Jesus walked into the synagogue, and a man with a withered hand was there. __They__ watched __him__ to see if __he__ would heal __him__ on the Sabbath.** (Mark 3:1-2) \\ 
-It is not clear to whom the pronouns "they," "he" and "him" refer. \\ 
+> Again Jesus walked into the synagogue, and a man with a withered hand was there. __They__ watched __him__ to see if __he__ would heal __him__ on the Sabbath. (Mark 3:1-2 ULB) 
+In some languages it may not be clear who the pronouns "they," "he" and "him" refer to. 
 
-**Certain men came down from Judea and taught __the brothers__, saying, "Unless __you__ are circumcised after the custom of Moses, __you__ cannot be saved." When Paul and Barnabas had a confrontation and debate with them,** (Acts 15:1-2) \\ 
-The two groups of people are kept separate by putting one inside a direct quotation so that you plural can be used for one group. \\ 
+> Certain men came down from Judea and taught __the brothers__, saying, "Unless __you__ are circumcised after the custom of Moses, __you__ cannot be saved." When Paul and Barnabas had a confrontation and debate with them, (Acts 15:1-2)  
+The two groups of people are kept separate by putting one inside a direct quotation so that you plural can be used for one group. [[I don't get this one.]]
 
 The pronoun precedes what it refers to. \\
-**By __this__ we know that we know him, if __we keep his commandments__.** (1 John 2:3) \\ 
-**__Who__ is the liar but __he__ who denies that Jesus is the Christ?** (1 John 2:22)
+>By __this__ we know that we know him, if __we keep his commandments__. (1 John 2:3 ULB) \\ 
+
 
 
 
