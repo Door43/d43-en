@@ -11,8 +11,8 @@ The Connecting Statement & General Information are to address discourse level te
   * Logical arguments and conclusions
   * Episode Identification (start, end, and continuation across chapters) 
 
-  * **Connecting Statement:** - This is a note that relates the current chunk to the current discourse. When present, it must be the first note and separated by a blank line from the rest of the notes unless there is also a general statement. There is only one connecting statement used per chunk.
-  * **General Information:** - This is a note that addresses other discourse topics not mentioned in the connecting statement. General Information can occur alone or immediately following the connecting statement and are separated by a blank line from the rest of the notes. There can be one or more general Information notes in a chunk.
+  * **Connecting Statement:** - This is a note that relates the current chunk to the current discourse. When present, it must be the first note and separated by a blank line from the rest of the notes unless there is also a general information note. There is only one connecting statement used per chunk.
+  * **General Information:** - This is a note that addresses other discourse topics not mentioned in the connecting statement. General information notes can occur alone or immediately following the connecting statement and are separated by a blank line from the rest of the notes. There can be one or more general Information notes in a chunk.
 
 === Format ===
 
