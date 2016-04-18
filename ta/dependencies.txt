@@ -862,6 +862,9 @@ edge [arrowsize=1.4];
 "translate_decimal" [fillcolor="#9999ff"]
 "translate_numbers" -> "translate_decimal"
 "translate_fraction" -> "translate_decimal"
+"translate_decimal" [fillcolor="#9999ff"]
+"translate_numbers" -> "translate_decimal"
+"translate_fraction" -> "translate_decimal"
 "translate_discover" [fillcolor="#9999ff"]
 "translate_process" -> "translate_discover"
 "translate_dynamic" [fillcolor="#9999ff"]
