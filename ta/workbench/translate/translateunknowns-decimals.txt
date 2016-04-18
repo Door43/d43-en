@@ -36,7 +36,7 @@ In the Unlocked Dynamic Bible (UDB) parts of a number are written as decimals or
 
 ==== Examples from the Bible ====
 
-For telling about parts of a number, the Unlocked Literal Bible (ULB) uses fractions, and the Unlocked Dynamic Bible (UDB) uses mostly decimals when the number is used with a measurement. Another difference between the ULB and the UDB is that when measuring [[en:ta:vol2:translate:translate_bdistance]], [[en:obe:other:biblicalweight]], and [[en:obe:other:biblicalvolume]], they use different systems, so the numbers in the ULB and the UDB are not the same for these measures.
+For telling about parts of a number, the Unlocked Literal Bible (ULB) uses fractions, and the Unlocked Dynamic Bible (UDB) uses mostly decimals when the number is used with a measurement. Another difference between the ULB and the UDB is that when measuring [[en:ta:vol2:translate:translate_bdistance]], [[en:ta:vol2:translate:translate_bweight]], and [[en:obe:other:biblicalvolume]], they use different systems, so the numbers in the ULB and the UDB are not the same for these measures.
 
 >They are to make an ark of acacia wood. Its length must be __two and a half cubits__; its width will be __one cubit and a half__; and its height will be __one cubit and a half__.  (Exodus 25:10 ULB)
 The ULB uses the fraction "half." This can also be written as a decimal: .5. 
