@@ -1,20 +1,21 @@
-====== translationNotes Connecting Statement and General Statement ======
+====== translationNotes Connecting Statement and General Information ======
+
 question: Why do some translationNotes not have any ULB text at the beginning?
 
 Depend: inclusive we ; pronouns
 
 ==== Description =====
 
-Sometimes there is a translationNote, at the top of the list of notes, that may not include any ULB text. They may be separated from the other notes by a blank line. These notes are 'Connecting Statements' or 'General Statements.'
+Sometimes there is a translationNote, at the top of the list of notes, that may not include any ULB text. They may be separated from the other notes by a blank line. These notes are 'Connecting Statements' or 'General Information.'
 
   * **Connecting Statement:** - This is a note that relates the current chunk to the entire passage from the Bible. There is only one connecting statement per chunk.
 
-  * **General Statement:** - This is a note that addresses other writing style topics not mentioned in the connecting statement. There can be one or more General Statements in a chunk.
+  * **General Information:** - This is a note that addresses other writing style topics not mentioned in the connecting statement. There can be one or more general information note in a chunk.
 
 === Purpose ===
 
-The Connecting Statement and General Statement provide the following information:
-  * Describe the use of pronouns in the chunk. There will be a 'General Statement' if every time the pronoun 'you' in the passage is a plural you or singular you, or if the pronouns are inclusive or exclusive.
+The Connecting Statement and General Information provide the following information:
+  * Describe the use of pronouns in the chunk. There will be a 'General Information' if every time the pronoun 'you' in the passage is a plural you or singular you, or if the pronouns are inclusive or exclusive.
   * Important background or implied information that is not in the chunk. 
   * Logical arguments and conclusions
   * Episode Identification (start, end, and continuation across chapters) 
@@ -25,7 +26,7 @@ The Connecting Statement and General Statement provide the following information
 === Format ===
 
   * **Connecting Statement:** - Explanation
-  * **General Statement:** - Explanation
+  * **General Information:** - Explanation
 
   * Follow Standard Punctuation. Phrases do not use periods. Sentences do.
   * Follow Standard formatting for ta-topic links. Ex. (See: Metaphor_link)
@@ -44,10 +45,10 @@ Episode/Speech Continuation (Acts 1:17)
     * **Connecting Statement:** - Peter continues his speech to the believers that he began in [[:en:bible:notes:act:01:15|1:16]]. 
   
 Background Information (Acts 1:17)  
-  * **General Statement:** - Verses 18-19 give background information about what Judas had done and how he died. (See: [[en:ta:vol2:translate:writing_background]])
+  * **General Information:** - Verses 18-19 give background information about what Judas had done and how he died. (See: [[en:ta:vol2:translate:writing_background]])
 
 Passage Recollection (Acts 2:25)
-  * **General Statement:** - Here Peter recalls a passage spoken by David that relates to Jesus' having been crucified and risen from the grave.
+  * **General Information:** - Here Peter recalls a passage spoken by David that relates to Jesus' having been crucified and risen from the grave.
 
 
 
