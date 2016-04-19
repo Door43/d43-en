@@ -9,8 +9,8 @@ The “translationAcademy” is intended to enable anyone, anywhere to equip the
 translationAcademy contains the following sections:
   * Introduction - introduces the unfoldingWord project (see [[en:ta:vol1:intro:ta_intro]])
   * Process Manual - answer the question "what next?" (see [[:en:ta:vol1:process:process_manual]]) 
-  * Translation Manual - explains the basics of translation theory and practical translation helps (see [[:en:ta:vol1:translate:toc_transvol1_2]])
-  * Checking Manual - explains the basics of checking theory and best practices (see [[:en:ta:vol1:checking:toc_checkvol1_2]])
+  * Translation Manual - explains the basics of translation theory and practical translation helps (see [[:en:ta:vol1:translate:translate_manual]])
+  * Checking Manual - explains the basics of checking theory and best practices (see [[:en:ta:vol1:checking:intro_check]])
   * Technology Manual - explains how to use the different technology tools (see [[:en:ta:vol1:tech:toc_techvol1_2]])
   * Audio Manual - How to do high quality audio recordings (see [[:en:ta:vol2:audio:toc_audiovol2]])
   * Gateway Languages Manual - explains issues specific to the Gateway Languages (see [[:en:ta:vol3:gateway:toc_gatewayvol3]])
