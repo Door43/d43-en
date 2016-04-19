@@ -93,8 +93,8 @@ For example, you could write "Saul" where the source text has "Saul" and "Paul" 
     * "But __Saul__, who is also called __Paul__, was filled with the Holy Spirit;"
 
   * **It came about in Iconium that __Paul__ and Barnabas entered together into the synagogue** (Acts 14:1 ULB)
-    * "It came about in Iconium that __Paul__<sup>1</sup> and Barnabas entered together into the synagogue" (Acts 14:1 ULB)
-    * <sup>1</sup>This is the man that was called Saul before Acts 13.
+    * "It came about in Iconium that __Paul__<sup>1</sup> and Barnabas entered together into the synagogue" (Acts 14:1 ULB) The footnote would look like:
+      * <sup>[1]</sup>This is the man that was called Saul before Acts 13.
 
 //Next we suggest you read//
   * //[[en:ta:vol1:translate:translate_transliterate]]//
