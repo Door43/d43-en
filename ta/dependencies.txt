@@ -722,7 +722,7 @@ edge [arrowsize=1.4];
 "figs_verbs" -> "figs_quotations"
 "writing_quotations" -> "figs_quotations"
 "figs_quotemarks" [fillcolor="#9999ff"]
-"writing_quotations" -> "figs_quotemarks"
+"figs_quotations" -> "figs_quotemarks"
 "figs_quotesinquotes" [fillcolor="#9999ff"]
 "figs_quotations" -> "figs_quotesinquotes"
 "figs_rpronouns" [fillcolor="#9999ff"]
