@@ -4,7 +4,7 @@ question: Why do some translationNotes not have any ULB text at the beginning?
 
 Depend: inclusive we ; pronouns
 
-==== Description =====
+==== Description ====
 
 Sometimes there is a translationNote, at the top of the list of notes, that may not include any ULB text. They may be separated from the other notes by a blank line. These notes are 'Connecting Statements' or 'General Information.'
 
@@ -19,9 +19,6 @@ The Connecting Statement and General Information provide the following informati
   * Important background or implied information that is not in the chunk. 
   * Logical arguments and conclusions
   * Episode Identification (start, end, and continuation across chapters) 
-
-
-
 
 === Format ===
 
@@ -49,8 +46,6 @@ Background Information (Acts 1:17)
 
 Passage Recollection (Acts 2:25)
   * **General Information:** - Here Peter recalls a passage spoken by David that relates to Jesus' having been crucified and risen from the grave.
-
-
 
 ==== Translation Notes Examples ====
 
