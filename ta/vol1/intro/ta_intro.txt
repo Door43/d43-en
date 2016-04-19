@@ -11,7 +11,7 @@ translationAcademy contains the following sections:
   * Process Manual - answer the question "what next?" (see [[:en:ta:vol1:process:process_manual]]) 
   * Translation Manual - explains the basics of translation theory and practical translation helps (see [[:en:ta:vol1:translate:translate_manual]])
   * Checking Manual - explains the basics of checking theory and best practices (see [[:en:ta:vol1:checking:intro_check]])
-  * Technology Manual - explains how to use the different technology tools (see [[:en:ta:vol1:tech:ts_intro]])
+  * Technology Manual - explains how to use the different technology tools (see (Technology Manual)[[:en:ta:vol1:tech:ts_intro]])
   * Audio Manual - How to do high quality audio recordings (see [[:en:ta:vol2:audio:audio_introduction]])
   * Gateway Languages Manual - explains issues specific to the Gateway Languages (see [[:en:ta:vol3:gateway:gl_translate]])
 
