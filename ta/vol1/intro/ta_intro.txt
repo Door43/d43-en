@@ -7,8 +7,8 @@
 The “translationAcademy” is intended to enable anyone, anywhere to equip themselves so that they will be able to make high-quality translations of Biblical content into their own language. translationAcademy is designed to be highly flexible. It can be used in a systematic, in-advance approach or it can be used for just-in-time learning (or both, as needed). It is modular in structure. 
 
 translationAcademy contains the following sections:
-  * Introduction - introduces the unfoldingWord project (see [[en:ta:vol1:intro:toc_intro]])
-  * Process Manual - answer the question "what next?" (see [[:en:ta:vol1:process:toc_processvol1_2]]) 
+  * Introduction - introduces the unfoldingWord project (see [[en:ta:vol1:intro:ta_intro]])
+  * Process Manual - answer the question "what next?" (see [[:en:ta:vol1:process:process_manual]]) 
   * Translation Manual - explains the basics of translation theory and practical translation helps (see [[:en:ta:vol1:translate:toc_transvol1_2]])
   * Checking Manual - explains the basics of checking theory and best practices (see [[:en:ta:vol1:checking:toc_checkvol1_2]])
   * Technology Manual - explains how to use the different technology tools (see [[:en:ta:vol1:tech:toc_techvol1_2]])
