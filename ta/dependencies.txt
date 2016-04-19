@@ -817,6 +817,10 @@ edge [arrowsize=1.4];
 "resources_clarify" [fillcolor="#9999ff"]
 "resources_types" -> "resources_clarify"
 "translate_help" -> "resources_clarify"
+"resources_connect" [fillcolor="#9999ff"]
+"translate_help" -> "resources_connect"
+"figs_inclusive" -> "resources_connect"
+"figs_pronouns" -> "resources_connect"
 "resources_def" [fillcolor="#9999ff"]
 "translate_help" -> "resources_def"
 "resources_types" -> "resources_def"
