@@ -815,6 +815,7 @@ edge [arrowsize=1.4];
 "resources_types" -> "resources_alterm"
 "resources_alter" -> "resources_alterm"
 "resources_clarify" [fillcolor="#9999ff"]
+"resources_types" -> "resources_clarify"
 "translate_help" -> "resources_clarify"
 "resources_def" [fillcolor="#9999ff"]
 "translate_help" -> "resources_def"
