@@ -37,32 +37,33 @@ Adjectival noun - I have deleted this. We will not have a tA page for it. SRQ.
 [[en:ta:vol2:translate:writing_background]]
 </code>
 
-Biblical Distance
+[[:en:ta:vol2:translate:translate_bdistance]]
 
 <code>
 [[:en:ta:vol2:translate:translate_bdistance]]
 </code>
 
-Biblical Money
+[[:en:ta:vol2:translate:translate_bmoney]]
 
 <code>
 [[:en:ta:vol2:translate:translate_bmoney]]
 </code>
 
-Biblical Volume
+[[en:ta:vol2:translate:translate_bvolume]]
 
 <code>
 [[en:ta:vol2:translate:translate_bvolume]]
 </code>
 
-Biblical Weight
+[[en:ta:vol2:translate:translate_bweight]]
 
 <code>
 [[en:ta:vol2:translate:translate_bweight]]
 </code>
 
 
-Chapter and Verse Numbers
+[[en:ta:vol2:translate:translate_chapverse]] \\ 
+[[We have not used this. It would be good to use in book and chapter introductions.]]
 
 <code>
 [[en:ta:vol2:translate:translate_chapverse]]
