@@ -61,6 +61,12 @@ Deictic
 [[:en:ta:vol2:translate:figs_deictics]]
 </code>
 
+Direct and Indirect Quotes
+
+<code>
+[[:en:ta:vol2:translate:figs_quotations]]
+</code>
+
 Distinguishing versus Informing or Reminding
 
 <code>
@@ -219,12 +225,17 @@ Pronouns
 [[:en:ta:vol2:translate:figs_pronouns]]
 </code>
 
+Quotations and Quote Margins
+
+<code>
+[[en:ta:vol2:translate:writing_quotations]]
+</code>
+
 Reflexive Pronouns
 
 <code>
 [[:en:ta:vol2:translate:figs_rpronouns]]
 </code>
-
 
 Rhetorical question
 
@@ -250,12 +261,6 @@ Son of God and God the Father
 
 <code>
 [[:en:ta:vol2:translate:guidelines_sonofgodprinciples]]
-</code>
-
-Speech Quotations
-
-<code>
-[[:en:ta:vol2:translate:figs_quotations]]
 </code>
 
 Symbolic Action
@@ -339,13 +344,6 @@ Writing Styles - Proverbs
 
 <code>
 [[en:ta:vol2:translate:writing_proverbs]]
-</code>
-
-
-Writing Styles - Quotations
-
-<code>
-[[en:ta:vol2:translate:writing_quotations]]
 </code>
 
 
