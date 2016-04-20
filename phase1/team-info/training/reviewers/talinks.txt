@@ -140,13 +140,13 @@ Adjectival noun - I have deleted this. We will not have a tA page for it. SRQ.
 [[en:ta:vol2:translate:figs_genericnoun]]
 </code>
 
-Hendiadys
+[[:en:ta:vol2:translate:figs_hendiadys]]
 
 <code>
 [[:en:ta:vol2:translate:figs_hendiadys]]
 </code>
 
-Hyperbole
+[[:en:ta:vol2:translate:figs_hyperbole]]
 
 <code>
 [[:en:ta:vol2:translate:figs_hyperbole]]
@@ -158,47 +158,74 @@ Hypothetical Situation
 [[:en:ta:vol1:translate:figs_hypo]]
 </code>
 
-Idiom
+[[:en:ta:vol1:translate:figs_idiom]]
 
 <code>
 [[:en:ta:vol1:translate:figs_idiom]]
 </code>
 
-Inclusive
+[[:en:ta:vol2:translate:figs_inclusive]]
 
 <code>
 [[:en:ta:vol2:translate:figs_inclusive]]
 </code>
 
-Irony
+
+[[en:ta:vol2:translate:writing_newevent]]\\
+[[We just started using this in Luke.]]
+
+<code>
+[[en:ta:vol2:translate:writing_newevent]]
+</code>
+
+[[en:ta:vol2:translate:writing_participants]] \\ 
+[[We just started using this in Luke.]]
+<code>
+[[en:ta:vol2:translate:writing_participants]]
+</code>
+
+[[:en:ta:vol1:translate:figs_irony]]
 
 <code>
 [[:en:ta:vol1:translate:figs_irony]]
 </code>
 
-Litotes
+[[:en:ta:vol2:translate:figs_litotes]]
 
 <code>
 [[:en:ta:vol2:translate:figs_litotes]]
 </code>
 
 
-Merism
+[[:en:ta:vol2:translate:figs_merism]]
 
 <code>
 [[:en:ta:vol2:translate:figs_merism]]
 </code>
 
-Metaphor
+[[:en:ta:vol1:translate:figs_metaphor]]
 
 <code>
 [[:en:ta:vol1:translate:figs_metaphor]]
 </code>
 
-Metonymy
+[[:en:ta:vol2:translate:figs_metonymy]]
 
 <code>
 [[:en:ta:vol2:translate:figs_metonymy]]
+</code>
+
+[[en:ta:vol2:translate:figs_nominaladj]]\\
+[[We have given synonymous phrases. We have not used this link.]]
+
+<code>
+[[en:ta:vol2:translate:figs_nominaladj]]
+</code>
+
+[[en:ta:vol2:translate:translate_numbers]]
+
+<code>
+[[en:ta:vol2:translate:translate_numbers]]
 </code>
 
 [[en:ta:vol1:translate:figs_events]]\\
@@ -208,7 +235,7 @@ Metonymy
 [[en:ta:vol1:translate:figs_events]]
 </code>
 
-Ordinal Numbers
+[[en:ta:vol2:translate:translate_ordinal]]
 
 <code>
 [[:en:ta:vol2:translate:translate_ordinal]]
@@ -220,13 +247,14 @@ Parables
 [[:en:ta:vol1:translate:figs_parables]]
 </code>
 
-Parallelism
+[[:en:ta:vol2:translate:figs_parallelism]]
+[[Use this link. Do not use Parallelism with the Same Meaning.]]
 
 <code>
 [[:en:ta:vol2:translate:figs_parallelism]]
 </code>
 
-Personification
+[[:en:ta:vol2:translate:figs_personification]]
 
 <code>
 [[:en:ta:vol2:translate:figs_personification]]
