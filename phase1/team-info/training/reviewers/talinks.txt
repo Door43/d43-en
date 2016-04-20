@@ -61,12 +61,6 @@ Deictic
 [[:en:ta:vol2:translate:figs_deictics]]
 </code>
 
-Direct and Indirect Quotes
-
-<code>
-[[:en:ta:vol2:translate:figs_quotations]]
-</code>
-
 Distinguishing versus Informing or Reminding
 
 <code>
@@ -229,6 +223,17 @@ Quotations and Quote Margins
 
 <code>
 [[en:ta:vol2:translate:writing_quotations]]
+</code>
+
+Quotate Marking
+<code>
+[[en:ta:vol2:translate:figs_quotemarks]]
+</code>
+
+Quotation - Direct and Indirect Quotes
+
+<code>
+[[:en:ta:vol2:translate:figs_quotations]]
 </code>
 
 Reflexive Pronouns
