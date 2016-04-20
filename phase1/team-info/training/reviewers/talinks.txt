@@ -268,8 +268,8 @@ See [[en:phase1:team-info:training:reviewers:chunklinks]] for code to create ver
 [[en:ta:vol2:translate:figs_possession]]
 </code>
 
-[[:en:ta:vol2:translate:figs_pronouns]]
-[[Use this only when the other prone
+[[:en:ta:vol2:translate:figs_pronouns]] \\ 
+[[Use this only when the other pronoun links on this page would not be appropriate -- such as unexpected plurals, and distinguishing dual from plural]]
 
 <code>
 [[:en:ta:vol2:translate:figs_pronouns]]
