@@ -275,69 +275,88 @@ See [[en:phase1:team-info:training:reviewers:chunklinks]] for code to create ver
 [[:en:ta:vol2:translate:figs_pronouns]]
 </code>
 
-Quotations and Quote Margins
+[[en:ta:vol2:translate:writing_proverbs]]
+
+
+<code>
+[[en:ta:vol2:translate:writing_proverbs]]
+</code>
+
+[[en:ta:vol2:translate:writing_quotations]]
+[[We have not used this yet. It would be helpful for ATs that suggest moving the quote margin -- especially when the margin is between two parts of a quote.]]
 
 <code>
 [[en:ta:vol2:translate:writing_quotations]]
 </code>
 
-[[en:ta:vol2:translate:figs_quotemarks]]
 
-<code>
-[[en:ta:vol2:translate:figs_quotemarks]]
-</code>
-
-Quotation [[:en:ta:vol2:translate:figs_quotations]]
+Quotation [[:en:ta:vol2:translate:figs_quotations]] \\ 
+[[Good for when note suggests a shift between direct and indirect.  We should probably check the backlinks.]]
 
 <code>
 [[:en:ta:vol2:translate:figs_quotations]]
 </code>
 
-Reflexive Pronouns
+[[en:ta:vol2:translate:figs_quotesinquotes]] \\ 
+[[We have not used this yet. I think it would be good when there is multiple embedding of quotes.]]
+
+[[en:ta:vol2:translate:figs_quotesinquotes]]
+
+[[:en:ta:vol2:translate:figs_rpronouns]]
 
 <code>
 [[:en:ta:vol2:translate:figs_rpronouns]]
 </code>
 
-Rhetorical question
+[[:en:ta:vol1:translate:figs_rquestion]]
 
 <code>
 [[:en:ta:vol1:translate:figs_rquestion]]
 </code>
 
-Sentences
+[[:en:ta:vol2:translate:figs_sentences]]
+[[We've used it 14 times. I need to check the content. May divide into two pages.]]
 
 <code>
 [[:en:ta:vol2:translate:figs_sentences]]
 </code>
 
 
-Simile
+[[:en:ta:vol1:translate:figs_simile]]
 
 <code>
 [[:en:ta:vol1:translate:figs_simile]]
 </code>
 
 
-Son of God and God the Father
+[[:en:ta:vol2:translate:guidelines_sonofgodprinciples]] \\ 
+[[Use occasionally. Do not link to the other page.]] 
 
 <code>
 [[:en:ta:vol2:translate:guidelines_sonofgodprinciples]]
 </code>
 
-Symbolic Action
+[[:en:ta:vol2:translate:translate_symaction]]
 
 <code>
 [[:en:ta:vol2:translate:translate_symaction]]
 </code>
 
-Synecdoche
+[[en:ta:vol2:translate:writing_symlanguage]]
+[[Used only twice. Maybe good on intro pages to books that have a lot of it.]]
+
+<code>
+[[en:ta:vol2:translate:writing_symlanguage]]
+</code>
+
+[[:en:ta:vol2:translate:figs_synecdoche]]
 
 <code>
 [[:en:ta:vol2:translate:figs_synecdoche]]
 </code>
 
-Textual Variants
+[[:en:ta:vol2:translate:translate_textvariants]] \\ 
+Check this page. [[en:bible:notes:job]] Is this really a text. var.?
 
 <code>
 [[:en:ta:vol2:translate:translate_textvariants]]
@@ -361,59 +380,20 @@ Translate Unknowns
 [[:en:ta:vol1:translate:translate_unknown]]
 </code>
 
+Verbs
+[[We have tow notes linked to this. Should they be?]]
+
+[[:en:ta:vol2:translate:translate_textvariants]]
+
 Verse Bridges
 
 <code>
 [[:en:ta:vol2:translate:translate_versebridge]]
 </code>
 
-Writing Styles - Background Information
-
-<code>
-[[en:ta:vol2:translate:writing_background]]
-</code>
 
 
-Writing Styles - Connecting Words
 
-<code>
-[[en:ta:vol2:translate:writing_connectingwords]]
-</code>
-
-
-Writing Styles - Introduction of a New Event
-
-<code>
-[[en:ta:vol2:translate:writing_newevent]]
-</code>
-
-
-Writing Styles - Introduction of New and Old Participants
-
-<code>
-[[en:ta:vol2:translate:writing_participants]]
-</code>
-
-
-Writing Styles - Poetry
-
-<code>
-[[en:ta:vol2:translate:writing_poetry]]
-</code>
-
-
-Writing Styles - Proverbs
-
-<code>
-[[en:ta:vol2:translate:writing_proverbs]]
-</code>
-
-
-Writing Styles - Symbolic Lanugage
-
-<code>
-[[en:ta:vol2:translate:writing_symlanguage]]
-</code>
 
 
 
