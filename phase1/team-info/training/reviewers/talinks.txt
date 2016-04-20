@@ -4,13 +4,13 @@ See [[en:phase1:team-info:training:reviewers:chunklinks]] for code to create ver
 
 ==== These are tA links that we include in pages: ====
 
-Abstract Nouns
+[[en:ta:vol2:translate:figs_abstractnouns]]
 
 <code>
 [[:en:ta:vol2:translate:figs_abstractnouns]]
 </code>
 
-Active/Passive
+[[en:ta:vol2:translate:figs_activepassive]]
 
 <code>
 [[:en:ta:vol2:translate:figs_activepassive]]
@@ -18,10 +18,23 @@ Active/Passive
 
 Adjectival noun - I have deleted this. We will not have a tA page for it. SRQ.
 
-Apostrophe
+[[en:ta:vol2:translate:figs_apostrophe]]
 
 <code>
 [[:en:ta:vol2:translate:figs_apostrophe]]
+</code>
+
+[[:en:ta:vol1:translate:figs_explicit]] \\ 
+(Link to this page. Do not link to Making Explicit Info Implicit)
+
+<code>
+[[:en:ta:vol1:translate:figs_explicit]]
+</code>
+
+[[en:ta:vol2:translate:writing_background]]
+
+<code>
+[[en:ta:vol2:translate:writing_background]]
 </code>
 
 Biblical Distance
@@ -55,72 +68,82 @@ Chapter and Verse Numbers
 [[en:ta:vol2:translate:translate_chapverse]]
 </code>
 
+[[en:ta:vol2:translate:writing_connectingwords]] \\ 
+[[We have only two notes pages linked to this. Do we want to use it?]]
+
+<code>
+[[en:ta:vol2:translate:writing_connectingwords]]
+</code>
+
 Deictic
 
 <code>
 [[:en:ta:vol2:translate:figs_deictics]]
 </code>
 
-Distinguishing versus Informing or Reminding
+[[:en:ta:vol2:translate:figs_distinguish]] \\
+[[Used only once. Probably needed more]]
 
 <code>
 [[:en:ta:vol2:translate:figs_distinguish]]
 </code>
 
-Double negatives
+[[:en:ta:vol2:translate:figs_doublenegatives]]
 
 <code>
 [[:en:ta:vol2:translate:figs_doublenegatives]]
 </code>
 
-Doublet
+[[:en:ta:vol2:translate:figs_doublet]]
 
 <code>
 [[:en:ta:vol2:translate:figs_doublet]]
 </code>
 
-Ellipsis
+[[:en:ta:vol2:translate:figs_ellipsis]]
 
 <code>
 [[:en:ta:vol2:translate:figs_ellipsis]]
 </code>
 
-Euphemism
+[[:en:ta:vol2:translate:figs_euphemism]]
 
 <code>
 [[:en:ta:vol2:translate:figs_euphemism]]
 </code>
 
-Exclusive
+[[:en:ta:vol2:translate:figs_exclusive]]
 
 <code>
 [[:en:ta:vol2:translate:figs_exclusive]]
 </code>
 
-Explicit/Implicit
 
-<code>
-[[:en:ta:vol1:translate:figs_explicit]]
-</code>
 
-First, second, or third person
+[[:en:ta:vol2:translate:figs_123person]]
 
 <code>
 [[:en:ta:vol2:translate:figs_123person]]
 </code>
 
-Forms of "you"
+[[:en:ta:vol1:translate:figs_you]]
 
 <code>
 [[:en:ta:vol1:translate:figs_you]]
 </code>
 
-Fractions
+[[:en:ta:vol2:translate:translate_fraction]]
 
 <code>
 [[:en:ta:vol2:translate:translate_fraction]]
 </code>
 
+[[en:ta:vol2:translate:figs_genericnoun]] \\ 
+[[We have not used this yet. It would be good to use it.]]
+
+<code>
+[[en:ta:vol2:translate:figs_genericnoun]]
+</code>
 
 Hendiadys
 
@@ -183,6 +206,13 @@ Metonymy
 [[:en:ta:vol2:translate:figs_metonymy]]
 </code>
 
+[[en:ta:vol1:translate:figs_events]]\\
+[[Used in only 6 notes. Probably needed more.]]
+
+<code>
+[[en:ta:vol1:translate:figs_events]]
+</code>
+
 Ordinal Numbers
 
 <code>
@@ -225,12 +255,13 @@ Quotations and Quote Margins
 [[en:ta:vol2:translate:writing_quotations]]
 </code>
 
-Quotate Marking
+[[en:ta:vol2:translate:figs_quotemarks]]
+
 <code>
 [[en:ta:vol2:translate:figs_quotemarks]]
 </code>
 
-Quotation - Direct and Indirect Quotes
+Quotation [[:en:ta:vol2:translate:figs_quotations]]
 
 <code>
 [[:en:ta:vol2:translate:figs_quotations]]
