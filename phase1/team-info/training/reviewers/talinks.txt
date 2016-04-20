@@ -175,6 +175,7 @@ See [[en:phase1:team-info:training:reviewers:chunklinks]] for code to create ver
 
 [[en:ta:vol2:translate:writing_participants]] \\ 
 [[We just started using this in Luke.]]
+
 <code>
 [[en:ta:vol2:translate:writing_participants]]
 </code>
@@ -242,7 +243,7 @@ See [[en:phase1:team-info:training:reviewers:chunklinks]] for code to create ver
 [[:en:ta:vol1:translate:figs_parables]]
 </code>
 
-[[:en:ta:vol2:translate:figs_parallelism]]
+[[:en:ta:vol2:translate:figs_parallelism]] \\ 
 [[Use this link. Do not use Parallelism with the Same Meaning.]]
 
 <code>
@@ -282,8 +283,8 @@ See [[en:phase1:team-info:training:reviewers:chunklinks]] for code to create ver
 [[en:ta:vol2:translate:writing_proverbs]]
 </code>
 
-[[en:ta:vol2:translate:writing_quotations]]
-[[We have not used this yet. It would be helpful for ATs that suggest moving the quote margin -- especially when the margin is between two parts of a quote.]]
+[[en:ta:vol2:translate:writing_quotations]] \\ 
+[[We have not used this yet. It would be good for ATs that suggest moving the quote margin -- especially when the margin is between two parts of a quote.]]
 
 <code>
 [[en:ta:vol2:translate:writing_quotations]]
@@ -300,7 +301,9 @@ Quotation [[:en:ta:vol2:translate:figs_quotations]] \\
 [[en:ta:vol2:translate:figs_quotesinquotes]] \\ 
 [[We have not used this yet. I think it would be good when there is multiple embedding of quotes.]]
 
+<code>
 [[en:ta:vol2:translate:figs_quotesinquotes]]
+</code>
 
 [[:en:ta:vol2:translate:figs_rpronouns]]
 
@@ -314,7 +317,7 @@ Quotation [[:en:ta:vol2:translate:figs_quotations]] \\
 [[:en:ta:vol1:translate:figs_rquestion]]
 </code>
 
-[[:en:ta:vol2:translate:figs_sentences]]
+[[:en:ta:vol2:translate:figs_sentences]] \\ 
 [[We've used it 14 times. I need to check the content. May divide into two pages.]]
 
 <code>
@@ -342,7 +345,7 @@ Quotation [[:en:ta:vol2:translate:figs_quotations]] \\
 [[:en:ta:vol2:translate:translate_symaction]]
 </code>
 
-[[en:ta:vol2:translate:writing_symlanguage]]
+[[en:ta:vol2:translate:writing_symlanguage]] \\ 
 [[Used only twice. Maybe good on intro pages to books that have a lot of it.]]
 
 <code>
@@ -380,8 +383,8 @@ Translate Unknowns
 [[:en:ta:vol1:translate:translate_unknown]]
 </code>
 
-Verbs
-[[We have tow notes linked to this. Should they be?]]
+Verbs \\ 
+[[We have two notes linked to this. Should they be linked?]]
 
 [[:en:ta:vol2:translate:translate_textvariants]]
 
