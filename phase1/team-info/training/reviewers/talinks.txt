@@ -16,8 +16,6 @@ See [[en:phase1:team-info:training:reviewers:chunklinks]] for code to create ver
 [[:en:ta:vol2:translate:figs_activepassive]]
 </code>
 
-Adjectival noun - I have deleted this. We will not have a tA page for it. SRQ.
-
 [[en:ta:vol2:translate:figs_apostrophe]]
 
 <code>
@@ -113,8 +111,6 @@ Adjectival noun - I have deleted this. We will not have a tA page for it. SRQ.
 [[:en:ta:vol2:translate:figs_exclusive]]
 </code>
 
-
-
 [[:en:ta:vol2:translate:figs_123person]]
 
 <code>
@@ -152,7 +148,7 @@ Adjectival noun - I have deleted this. We will not have a tA page for it. SRQ.
 [[:en:ta:vol2:translate:figs_hyperbole]]
 </code>
 
-Hypothetical Situation
+[[:en:ta:vol1:translate:figs_hypo]]
 
 <code>
 [[:en:ta:vol1:translate:figs_hypo]]
@@ -169,7 +165,6 @@ Hypothetical Situation
 <code>
 [[:en:ta:vol2:translate:figs_inclusive]]
 </code>
-
 
 [[en:ta:vol2:translate:writing_newevent]]\\
 [[We just started using this in Luke.]]
@@ -241,7 +236,7 @@ Hypothetical Situation
 [[:en:ta:vol2:translate:translate_ordinal]]
 </code>
 
-Parables
+[[:en:ta:vol1:translate:figs_parables]]
 
 <code>
 [[:en:ta:vol1:translate:figs_parables]]
@@ -260,8 +255,21 @@ Parables
 [[:en:ta:vol2:translate:figs_personification]]
 </code>
 
+[[en:ta:vol2:translate:writing_poetry]]
 
-Pronouns
+<code>
+[[en:ta:vol2:translate:writing_poetry]]
+</code>
+
+[[en:ta:vol2:translate:figs_possession]]\\
+[[We have not used it yet. It would probably be most helpful when an AT uses a verb to show how the two nouns are related, and when an AT suggests replacing an abstract noun in a possessive construction with a verb.]]
+
+<code>
+[[en:ta:vol2:translate:figs_possession]]
+</code>
+
+[[:en:ta:vol2:translate:figs_pronouns]]
+[[Use this only when the other prone
 
 <code>
 [[:en:ta:vol2:translate:figs_pronouns]]
