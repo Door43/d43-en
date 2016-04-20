@@ -1,4 +1,4 @@
-====== Formatting Signals Phase 2======
+====== ULB and UDB Formatting Signals ======
 
 This module answers the question:  \\
 In order to understand this module, it would be good to read 
@@ -7,9 +7,11 @@ In order to understand this module, it would be good to read
 [[Summary of 100 words or less]]
 
  
-===== Description =====
+==== Description ====
 
 As part of a discourse  (Writing Styles) page that tells about things that are off-topic 
+
+[[Should it be about all formatting signals, or just when they are used to tell about things that are off-topic?]]
  
  
 The ULB and UDB use the following: \\  
