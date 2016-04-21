@@ -23,11 +23,13 @@
 
 ===== translationWords: =====
 
+  * [[en:obe:other:reign]]
   * [[:en:obe:other:judea]]
   * [[:en:obe:other:herodthegreat]]
   * [[:en:obe:other:dream]]
   * [[:en:obe:other:galilee]]
   * [[:en:obe:other:nazareth]]
+  * [[en:obe:other:fulfill]]
   * [[:en:obe:kt:prophet]]
 
 ===== Translation Notes: =====
@@ -35,9 +37,11 @@
 This continues the account of what happened when Jesus was born as the King of the Jews.
 
   * **But when he heard** - "But when Joseph heard"
-  * **his father Herod** - This is Archelaus' father.
-  * **he was afraid to go there** - The "he" refers to Joseph.
-  * **he would be called a Nazarene** - The "he" refers to Jesus.
+  * **Archelaus** - This is the name of Herod's son. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **he was afraid** - "Joseph was afraid"
+  * **what had been spoken through the prophets** - AT: "what the Lord spoke long ago through the prophets" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **he would be called a Nazarene** - AT: "people would say that the Christ is a Nazarene" (See: [[:en:ta:vol1:translate:translate_names]])
+
 ===== Links: =====
 
   * [[:en:bible:notes:mat:00:intro]]
@@ -45,6 +49,6 @@ This continues the account of what happened when Jesus was born as the King of t
   * [[:en:bible:questions:comprehension:mat:02]]
 **[[:en:bible:notes:mat:02:19|<<]] | [[:en:bible:notes:mat:03:01|>>]]**
 
-~~DISCUSSION~~{{tag>publish judea herodthegreat  nazareth }}
+~~DISCUSSION~~{{tag>publish judea herodthegreat  nazareth p2check }}
 
 ~~NOCACHE~~
