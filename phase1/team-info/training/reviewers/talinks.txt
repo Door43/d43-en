@@ -2,7 +2,9 @@
 
 See [[en:phase1:team-info:training:reviewers:chunklinks]] for code to create verse links.
 
-==== These are tA links that we include in pages: ====
+==== These are tA links that we include on notes pages: ====
+
+If there is a tA page the that  you want to link to, but it is not listed on this page, please contact Susan or Chris. Either we forgot to put it here, or there is another page that we expected to be used instead.
 
 [[en:ta:vol2:translate:figs_abstractnouns]]
 
@@ -359,25 +361,26 @@ Quotation [[:en:ta:vol2:translate:figs_quotations]] \\
 </code>
 
 [[:en:ta:vol2:translate:translate_textvariants]] \\ 
-Check this page. [[en:bible:notes:job]] Is this really a text. var.?
+Check this page. [[en:bible:notes:job:24:24]] Is this really a text. variant?
 
 <code>
 [[:en:ta:vol2:translate:translate_textvariants]]
 </code>
 
-Translate Names
+[[:en:ta:vol1:translate:translate_names]]
 
 <code>
 [[:en:ta:vol1:translate:translate_names]]
 </code>
 
-Translate Numbers
+[[:en:ta:vol2:translate:translate_numbers]]
+There are also pages that deals specifically with fractions and ordinal numbers.
 
 <code>
 [[:en:ta:vol2:translate:translate_numbers]]
 </code>
 
-Translate Unknowns
+[[:en:ta:vol1:translate:translate_unknown]]
 
 <code>
 [[:en:ta:vol1:translate:translate_unknown]]
@@ -388,16 +391,17 @@ Verbs \\
 
 [[:en:ta:vol2:translate:translate_textvariants]]
 
-Verse Bridges
+[[:en:ta:vol2:translate:translate_versebridge]]
 
 <code>
 [[:en:ta:vol2:translate:translate_versebridge]]
 </code>
 
+[[en:ta:vol2:translate:figs_gendernotations]]
 
-
-
-
+<code>
+[[en:ta:vol2:translate:figs_gendernotations]]
+</code>
 
 
 Topic
