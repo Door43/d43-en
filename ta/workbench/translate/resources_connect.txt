@@ -10,8 +10,9 @@ Sometimes at the top of the list of notes, there are notes that start with **Con
 
 A connecting statement tells how the scripture text in a chunk is related to text in earlier chunks.  The following are some of the kinds of information in the connecting statements.
 
-  * whether this chunk is a the beginning of a passage, a continuation of a passage, or the end of a passage.
+  * whether this chunk is at the beginning, middle or end of a passage
   * who is speaking
+  * who the speaker is speaking to
 
 A general information note tells about issues in the chunk that cover more than one phrase.  The following are some of the kinds of information that appear in a general information statement.
  
@@ -23,16 +24,11 @@ A general information note tells about issues in the chunk that cover more than 
 ==== Examples ====
 
 
-=== Whether this chunk is a the beginning, continuation, or end of a passage === 
+=== Whether this chunk is at the beginning, continuation, or end of a passage === 
 
 > 26Now an angel of the Lord spoke to Philip and said, “Arise and go toward the south to the road that goes down from Jerusalem to Gaza.” (This road is in a desert.) 27He arose and went. Behold, there was a man from Ethiopia, a eunuch of great authority under Candace, queen of the Ethiopians. He was in charge of all her treasure. He had come to Jerusalem to worship. 28He was returning and sitting in his chariot, and was reading the prophet Isaiah. (Acts 8:26-28 ULB)
 
   * **General Information:** - This is the beginning of the part of the story about Philip and the man from Ethiopia. Verse 27 gives background information about the man from Ethiopia. (See: Background Information)
-
-> 1Jesus said to his disciples, “It is certain there will be things that can cause us to sin, but woe to that person through whom they come! 2It would be better for him if a millstone were put around his neck and he were thrown into the sea, than that he should cause one of these little ones to stumble. (Luke 17:1-2 ULB)
-
-  * **Connecting Statement:** - Jesus continues teaching, but he directs his attention back to his disciples. This is still the same part of the story and the same day that begin in 15:3.
-
 
 
 === Who is speaking === 
@@ -41,8 +37,11 @@ A general information note tells about issues in the chunk that cover more than 
 
   * **Connecting Statement:** - Peter continues his speech to the believers that he began in [[:en:bible:notes:act:01:15|1:16]]. 
 
-The connecting statement above reminds us who was speaking in the previous verse and lets us know that Peter is still speaking in verse 17. 
+=== Who the speaker is speaking to === 
 
+> 1Jesus said to his disciples, “It is certain there will be things that can cause us to sin, but woe to that person through whom they come! 2It would be better for him if a millstone were put around his neck and he were thrown into the sea, than that he should cause one of these little ones to stumble. (Luke 17:1-2 ULB)
+
+  * **Connecting Statement:** - Jesus continues teaching, but he directs his attention back to his disciples. This is still the same part of the story and the same day that begin in 15:3.
 
 === Who pronouns refer to ===
 
@@ -52,6 +51,11 @@ The connecting statement above reminds us who was speaking in the previous verse
 >21But to Israel he says, "All the day long I reached out my hands >to a disobedient and resistant people." (Romans 10:20-21 ULB)
 
   * **General Information:** - Here the words “I,” “me,” and “my” refer to God.
+
+23You should no longer drink water, but rather you should take a little wine for the stomach and your frequent sicknesses. 24The sins of some people are openly known, and they go before them into judgment. But some follow later. 25Likewise, some good works are openly known, but even the others cannot be hidden. (1 Timothy 5:23-25 ULB)
+
+  * **General Information:** - Verse 23 seems to be a personal note inserted here to Timothy. Then in verse 24, Paul continues what he was saying in verse 22.
+
 
 === Important background or implied information ===
 
@@ -75,31 +79,10 @@ The connecting statement above reminds us who was speaking in the previous verse
 ><sup>26</sup>Therefore my heart was glad and my tongue rejoiced.
 >Also, my flesh will live in confidence. (Acts 2:25-26 ULB)\\
 
-  * **Connecting Statement:** - Peter continues his speech to the Jews.
   * **General Information:** - Here Peter recalls a passage spoken by David that relates to Jesus' having been crucified and risen from the grave.
 
 The general information note above explains why Peter tells what David had said. 
 
-
-
-> 1Jesus said to his disciples, "It is certain there will be things that can cause us to sin, but woe to that person through whom they come! 2It would be better for him if a millstone were put around his neck and he were thrown into the sea, than that he should cause one of these little ones to stumble. (Luke 17:1-2 ULB)
-
-  * Connecting Statement: - Jesus continues teaching, but he directs his attention back to his disciples. This is still the same part of the story and the same day that begin in 15:3.
-
-1But Saul, still speaking threats even of murder against the disciples of the Lord, went to the high priest 2and asked him for letters for the synagogues in Damascus, so that if he found any who belonged to the Way, whether men or women, he might bring them bound to Jerusalem. (Acts 9:1-2 ULB)
-
-General Information: - The story shifts back to Saul. These verses give background information telling us what Saul has been doing since the stoning of Stephen. (See: Background Information)
-
-
-
-> 26Now an angel of the Lord spoke to Philip and said, "Arise and go toward the south to the road that goes down from Jerusalem to Gaza." (This road is in a desert.) 27He arose and went. Behold, there was a man from Ethiopia, a eunuch of great authority under Candace, queen of the Ethiopians. He was in charge of all her treasure. He had come to Jerusalem to worship. 28He was returning and sitting in his chariot, and was reading the prophet Isaiah. (Acts 8:26-28 ULB)
-
-General Information: - This is the beginning of the part of the story about Philip and the man from Ethiopia. Verse 27 gives background information about the man from Ethiopia. (See: Background Information)
-
-
-23You should no longer drink water, but rather you should take a little wine for the stomach and your frequent sicknesses. 24The sins of some people are openly known, and they go before them into judgment. But some follow later. 25Likewise, some good works are openly known, but even the others cannot be hidden. (1 Timothy 5:23-25 ULB)
-
-  * **General Information:** - Verse 23 seems to be a personal note inserted here to Timothy. Then in verse 24, Paul continues what he was saying in verse 22.
 
 
 ----
