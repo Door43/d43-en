@@ -10,7 +10,7 @@ Sometimes at the top of the list of notes, there are notes that start with **Con
 
 A connecting statement tells how the scripture text in a chunk is related to text in earlier chunks.  The following are some of the kinds of information in the connecting statements.
 
-  * whether this chunk is a the start of a passage, a continuation of a passage, or the end of a passage.
+  * whether this chunk is a the beginning of a passage, a continuation of a passage, or the end of a passage.
   * who is speaking
 
 A general information note tells about issues in the chunk that cover more than one phrase.  The following are some of the kinds of information that appear in a general information statement.
@@ -22,20 +22,52 @@ A general information note tells about issues in the chunk that cover more than 
 
 ==== Examples ====
 
-> <sup>1</sup> Many have tried to set in order a narrative about those matters that have been fulfilled among us, <sup>2</sup>just as they handed them to us, who from the beginning have been eyewitnesses and servants of the message. <sup>3</sup>So to me also, having accurately investigated the course of all these things from the start—it seemed good to me to write them down in their order—most excellent Theophilus. <sup>4</sup>This is so that you might know the truth about the things that you were taught. (Luke 1:1-4 ULB)
 
-  * **General Information:** - Luke explains why he is writing to Theophilus.
+=== Whether this chunk is a the beginning, continuation, or end of a passage === 
 
-The general information note above briefly explains the content of the chunk.
+> 26Now an angel of the Lord spoke to Philip and said, “Arise and go toward the south to the road that goes down from Jerusalem to Gaza.” (This road is in a desert.) 27He arose and went. Behold, there was a man from Ethiopia, a eunuch of great authority under Candace, queen of the Ethiopians. He was in charge of all her treasure. He had come to Jerusalem to worship. 28He was returning and sitting in his chariot, and was reading the prophet Isaiah. (Acts 8:26-28 ULB)
+
+  * **General Information:** - This is the beginning of the part of the story about Philip and the man from Ethiopia. Verse 27 gives background information about the man from Ethiopia. (See: Background Information)
+
+> 1Jesus said to his disciples, “It is certain there will be things that can cause us to sin, but woe to that person through whom they come! 2It would be better for him if a millstone were put around his neck and he were thrown into the sea, than that he should cause one of these little ones to stumble. (Luke 17:1-2 ULB)
+
+  * **Connecting Statement:** - Jesus continues teaching, but he directs his attention back to his disciples. This is still the same part of the story and the same day that begin in 15:3.
+
+
+
+=== Who is speaking === 
 
 > <sup>17</sup>For he was one of us and received his share of the benefits of this ministry." <sup>18</sup>(Now this man bought a field with the earnings of his evil act. Then he fell head first, and his body burst wide open, and all his bowels poured out. <sup>19</sup>It became known to all those living in Jerusalem that the field was called in their own language Akeldama, that is, The field of blood.) (Acts 1:17-19 ULB)
 
   * **Connecting Statement:** - Peter continues his speech to the believers that he began in [[:en:bible:notes:act:01:15|1:16]]. 
-  * **General Information:** - Verses 18-19 give background information about what Judas had done and how he died. (See: [[en:ta:vol2:translate:writing_background]])
 
 The connecting statement above reminds us who was speaking in the previous verse and lets us know that Peter is still speaking in verse 17. 
 
-The general information note above explains that verses 18-19 are background information about Judas. 
+
+=== Who pronouns refer to ===
+
+>20And Isaiah is very bold and says,
+>"I was found by those who did not seek me.  
+>I appeared to those who did not ask for me."
+>21But to Israel he says, "All the day long I reached out my hands >to a disobedient and resistant people." (Romans 10:20-21 ULB)
+
+  * **General Information:** - Here the words “I,” “me,” and “my” refer to God.
+
+=== Important background or implied information ===
+
+> 1But Saul, still speaking threats even of murder against the disciples of the Lord, went to the high priest 2and asked him for letters for the synagogues in Damascus, so that if he found any who belonged to the Way, whether men or women, he might bring them bound to Jerusalem. (Acts 9:1-2 ULB)
+
+  * **General Information:** - The story shifts back to Saul. These verses give background information telling us what Saul has been doing since the stoning of Stephen. (See: Background Information)
+
+> 6Jesus told this parable, “Someone had a fig tree planted in his vineyard and he came and looked for fruit on it but found none. 7The man said to the gardener, 'Look, for three years I came and tried to find fruit on this fig tree and found none. Cut it down. Why let it waste the ground?' (Luke 13:6-7 ULB)
+
+  * **General Information:** - Jesus begins to tell a parable to explain his last statement, “But if you do not repent, all of you will also perish.” (See: Parables)
+
+> 7Now Herod, the tetrarch, heard about all that was happening and he was very disturbed, because it was said by some that John the Baptist had risen from the dead, 8and by some that Elijah had appeared, and by others that one of the ancient prophets had risen to life again. 9Herod said, "I beheaded John, but who is this about whom I hear such things?" And Herod tried to find a way to see Jesus.  (Luke 9:7-9 ULB)
+
+  * **General Information:** - These verses are not part of the main storyline; they give information about Herod.
+
+=== Logical arguments and conclusions === 
 
 ><sup>25</sup>For David says about him,
 >'I saw the Lord always before my face,
@@ -46,14 +78,9 @@ The general information note above explains that verses 18-19 are background inf
   * **Connecting Statement:** - Peter continues his speech to the Jews.
   * **General Information:** - Here Peter recalls a passage spoken by David that relates to Jesus' having been crucified and risen from the grave.
 
-The connecting statement above tells how this chunk is related to the previous chunk. It lets us know that Peter is still speaking.
-
 The general information note above explains why Peter tells what David had said. 
 
 
-> But it is to the extent of your hardness and unrepentant heart that you are storing up for yourself wrath in the day of wrath (Romans 2:5 ULB)
-
-  * **Connecting Statement:** - Paul continues to remind the people that all people are wicked.
 
 > 1Jesus said to his disciples, "It is certain there will be things that can cause us to sin, but woe to that person through whom they come! 2It would be better for him if a millstone were put around his neck and he were thrown into the sea, than that he should cause one of these little ones to stumble. (Luke 17:1-2 ULB)
 
@@ -63,24 +90,11 @@ The general information note above explains why Peter tells what David had said.
 
 General Information: - The story shifts back to Saul. These verses give background information telling us what Saul has been doing since the stoning of Stephen. (See: Background Information)
 
-> 7Now Herod, the tetrarch, heard about all that was happening and he was very disturbed, because it was said by some that John the Baptist had risen from the dead, 8and by some that Elijah had appeared, and by others that one of the ancient prophets had risen to life again. 9Herod said, "I beheaded John, but who is this about whom I hear such things?" And Herod tried to find a way to see Jesus.  (Luke 9:7-9 ULB)
 
-General Information: - These verses are not part of the main storyline; they give information about Herod.
 
 > 26Now an angel of the Lord spoke to Philip and said, "Arise and go toward the south to the road that goes down from Jerusalem to Gaza." (This road is in a desert.) 27He arose and went. Behold, there was a man from Ethiopia, a eunuch of great authority under Candace, queen of the Ethiopians. He was in charge of all her treasure. He had come to Jerusalem to worship. 28He was returning and sitting in his chariot, and was reading the prophet Isaiah. (Acts 8:26-28 ULB)
 
 General Information: - This is the beginning of the part of the story about Philip and the man from Ethiopia. Verse 27 gives background information about the man from Ethiopia. (See: Background Information)
-
-> 6Jesus told this parable, "Someone had a fig tree planted in his vineyard and he came and looked for fruit on it but found none. 7The man said to the gardener, 'Look, for three years I came and tried to find fruit on this fig tree and found none. Cut it down. Why let it waste the ground?' (Luke 13:6-7 ULB)
-
-General Information: - Jesus begins to tell a parable to explain his last statement, “But if you do not repent, all of you will also perish.” (See: Parables)
-
->20And Isaiah is very bold and says,
->"I was found by those who did not seek me.  
->I appeared to those who did not ask for me."
->21But to Israel he says, "All the day long I reached out my hands >to a disobedient and resistant people." (Romans 10:20-21 ULB)
-
-  * **General Information:** - Here the words “I,” “me,” and “my” refer to God.
 
 
 23You should no longer drink water, but rather you should take a little wine for the stomach and your frequent sicknesses. 24The sins of some people are openly known, and they go before them into judgment. But some follow later. 25Likewise, some good works are openly known, but even the others cannot be hidden. (1 Timothy 5:23-25 ULB)
