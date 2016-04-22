@@ -1,6 +1,6 @@
 ====== Connecting Statement and General Information in the Notes ======
 
-question: What are Connecting Statements and General Information?
+//This page answers the question: What are Connecting Statements and General Information?//
 
 Depend: inclusive we ; pronouns
 
@@ -8,7 +8,7 @@ Depend: inclusive we ; pronouns
 
 Sometimes at the top of the list of notes, there are notes that start with **Connecting Statement** or **General Information**. 
 
-A connecting statement tells how the scripture text in a chunk is related to text in earlier chunks.  The following are some of the kinds of information in the connecting statements.
+A connecting statement tells how the scripture in a chunk is related to scripture in earlier chunks.  The following are some of the kinds of information in the connecting statements.
 
   * whether this chunk is at the beginning, middle or end of a passage
   * who is speaking
@@ -20,9 +20,9 @@ A general information note tells about issues in the chunk that cover more than 
   * important background or implied information that is needed to understand the text in the chunk
   * Logical arguments and conclusions
 
+These notes are to help you understand the passage better and be aware of issues that you might need to address in translation. 
 
 ==== Examples ====
-
 
 === Whether this chunk is at the beginning, continuation, or end of a passage === 
 
@@ -30,12 +30,16 @@ A general information note tells about issues in the chunk that cover more than 
 
   * **General Information:** - This is the beginning of the part of the story about Philip and the man from Ethiopia. Verse 27 gives background information about the man from Ethiopia. (See: Background Information)
 
+This note alerts you to the beginning of a new part of a story and to some background information so you can translate this be aware of it and use your language's ways of showing these things.
+
 
 === Who is speaking === 
 
 > <sup>17</sup>For he was one of us and received his share of the benefits of this ministry." <sup>18</sup>(Now this man bought a field with the earnings of his evil act. Then he fell head first, and his body burst wide open, and all his bowels poured out. <sup>19</sup>It became known to all those living in Jerusalem that the field was called in their own language Akeldama, that is, The field of blood.) (Acts 1:17-19 ULB)
 
   * **Connecting Statement:** - Peter continues his speech to the believers that he began in [[:en:bible:notes:act:01:15|1:16]]. 
+
+This note let's you know that it is still Peter speaking, and n
 
 === Who the speaker is speaking to === 
 
