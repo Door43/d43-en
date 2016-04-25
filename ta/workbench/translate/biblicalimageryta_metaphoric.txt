@@ -1,32 +1,14 @@
-====== 4/1 Biblical Imagery - tA - Master Metaphorical Patterns ======
+====== BI Master Metaphorical Patterns ======
 
 ===== Description =====
 
 
 
 
-===== Examples from the Bible =====
-
-
-
-
-----
-
-Overview
-
-==== Description: =====
-
-==== Translation Suggestions: ====
-
-
-==== Examples from the Bible: ====
-
-
-
 
 These patterns often overlay other metaphorical patterns, so they can be called master patterns.
 
-=== ABSTRACT CONCEPTS ARE PERSONS (Personification) ===
+=== ABSTRACT CONCEPTS are represented as PERSONS (Personification) ===
 
 **they will suck the abundance of the seas**  (Check wording in ULB)  (Deuteronomy 33:19)
 The seas refers to trade with countries along the seas. The seas (or trade) is represented as a mother
@@ -35,18 +17,30 @@ drink the milk of the nations and will nurse the breasts of kings (Isaiah 60:16)
 
 by grace you have been saved. (nouns that encode concepts that are not verbal - maybe be adjectival, adverbial, logical relationship ("concession" "relationship")
 
+(See: [[:en:ta:vol2:translate:figs_personification]])
+
 
 === CONCRETE CONCEPTS ARE PERSONS (Personification) ===
 
 
+(See: [[:en:ta:vol2:translate:figs_personification]])
 
-=== PAST TENSE IS FUTURE TIME (in predictive prophecy) ===
+
 
 === NON-NOMINAL ENTITIES ARE NOMINAL ENTITIES (Abstract nouns) ===
-(concepts that are inherently non-nouns by nature are manipulated both conceptually and syntactically as nouns)
+Concepts that are inherently non-nouns are treated both conceptually and in the grammar as nouns.
 
-The speed with which you came
+  * **Above all these things, have __love__, which is the __bond__ of __perfection__.** (Colossians 3:14 ULB)
 
+In the example above, "love" and "bond" are actions, which are normally represented by verbs. But here they are treated as things and are represented by nouns. "Perfection" refers to a quality, and here it describes how something is done. This could be represented by an adverb, but here it is treated as a noun.  
+  * "Above all these things, love one another, and doing this will bond you together perfectly."
+
+
+See: [[:en:ta:vol2:translate:figs_abstractnouns]]
+
+=== PAST TENSE is used to represent events in FUTURE TIME (in predictive prophecy) ===
+
+This is often done in prophecy that tells about things that will happen in the future.
 
 
 
