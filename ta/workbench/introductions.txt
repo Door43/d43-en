@@ -8,6 +8,8 @@
   * Provide an overview or short 'review' of the topic as a refresher for those who already may know the topic.
 2. Change the tag to introsq 
 
+^ Jodi ^ Carli ^ 
+|{{door43pages @en:ta:workbench -q="\{\{tag>[^}]*introjg[^}]*\}\}" -r -showcount -title -simpleLineBreak}}|{{door43pages  @en:ta:workbench -q="\{\{tag>[^}]*introcs[^}]*\}\}" -r -showcount -title -simpleLineBreak}} |
 
 === Step Two: ===
 **The assignment of the page to Susan.**\\
@@ -16,6 +18,8 @@
   * Make minor changes and then submit to Chris - change tag to introcj
   * Tag the page with reviewjg (for Jodi) or reviewcs (for Carli) and add comments to the discussion area.
 
+^ Susan ^ Chris ^ 
+|{{door43pages @en:ta:workbench -q="\{\{tag>[^}]*introsq[^}]*\}\}" -r -showcount -title -simpleLineBreak}}|{{door43pages  @en:ta:workbench -q="\{\{tag>[^}]*introcj[^}]*\}\}" -r -showcount -title -simpleLineBreak}} |
 
 ===Step Three: ===
 **The assignment of the page to Chris.**\\
