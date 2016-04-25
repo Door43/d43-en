@@ -19,19 +19,20 @@ Here is the summary of a 45 second [[http://youtu.be/dpsJRDAa3I8|video]] on how 
 
 ===== 2. Are you Logged On? =====
 
-{{:en:bible:team-info:processes:permission_denied.png?nolink&320x135}} \\ When you are logged into your account you will be able to edit pages and participate in discussions. Three ways to know you are logged into your account:
+{{:en:phase1:team-info:processes:permission_denied.png?nolink&320x135}} \\ When you are logged into your account you will be able to edit pages and participate in discussions. Three ways to know you are logged into your account:
 
   - Your name is at the top of the page. Your name will be at the top and the word "logout" will be on the far right at the top.
   - You will have the pencil icon on pages that you can edit.
   - You will see the discussion panel. (See #5 below for more information.)
 
-{{:en:bible:team-info:processes:loggedin.png?nolink&350x250}}
+{{:en:phase1:team-info:processes:loggedin.png?nolink&350x250}}
+
 
 ===== 3. Go to your assigned Book or Chapter. =====
 
 ==== Namespace ====
 
-Namespace is the term for the directory, or folder, of the pages. Most of the pages that you will work on are in the en:bible namespace. (The "en" namespace means English, the "bible" namespace is the working namespace and the "bible" namespace is where the pages will go when they are finally done.) {{:en:bible:team-info:processes:namespaces.png?nolink&350x150}}
+Namespace is the term for the directory, or folder, of the pages. Most of the pages that you will work on are in the en:bible namespace. (The "en" namespace means English, the "bible" namespace is the working namespace and the "bible" namespace is where the pages will go when they are finally done.) {{:en:phase1:team-info:processes:namespaces.png?nolink&350x150}}
 
 Click on the blue name of the namespace (has a gray triangle to the left of the name) to open the namespace (directory.)
 
