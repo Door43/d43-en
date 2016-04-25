@@ -2,10 +2,10 @@
 
 === Step One: ===
 **The assignment of the page to Jody and Carli.**\\
-1. At this point Jody and Carli will work together to create a 100 words, or less, introduction to the topic covered on the page. These introductions should provide the following:
-  * Entice the learner to want to learn about the topic.
-  * Provide a preview of the topic that can also function as a refresher for those who already may know it.
-2. Change the tag to introsq 
+  * At this point Jody and Carli will work together to create a 100 words, or less, introduction to the topic covered on the page. These introductions should provide the following:
+    * Entice the learner to want to learn about the topic.
+    * Provide a preview of the topic that can also function as a refresher for those who already may know it.
+  * Change the tag to introsq 
 
 ^ Jody ^ Carli ^ 
 |{{door43pages @en:ta:workbench -q="\{\{tag>[^}]*introjg[^}]*\}\}" -r -showcount -title -simpleLineBreak}}|{{door43pages  @en:ta:workbench -q="\{\{tag>[^}]*introcs[^}]*\}\}" -r -showcount -title -simpleLineBreak}} |
