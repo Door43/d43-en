@@ -1,14 +1,14 @@
 ====== Introductions to the translationAcademy Just-In-Time Pages ======
 
 === Step One: ===
-**The assignment of the page to Jodi and Carli.**\\
-1. At this point Jodi and Carli will work together to create a 100 words, or less, introduction to the topic covered on the page. These introductions should provide the following:
+**The assignment of the page to Jody and Carli.**\\
+1. At this point Jody and Carli will work together to create a 100 words, or less, introduction to the topic covered on the page. These introductions should provide the following:
   * Entice the learner to want to know the information
   * Encourage the learner to want to learn more about the topic
   * Provide an overview or short 'review' of the topic as a refresher for those who already may know the topic.
 2. Change the tag to introsq 
 
-^ Jodi ^ Carli ^ 
+^ Jody ^ Carli ^ 
 |{{door43pages @en:ta:workbench -q="\{\{tag>[^}]*introjg[^}]*\}\}" -r -showcount -title -simpleLineBreak}}|{{door43pages  @en:ta:workbench -q="\{\{tag>[^}]*introcs[^}]*\}\}" -r -showcount -title -simpleLineBreak}} |
 
 === Step Two: ===
@@ -16,7 +16,7 @@
 1. At this point Susan will read over the introductions and will either:
   * Submit to Chris to make the change on the Vol 1 or Vol 2 page - change tag to introcj
   * Make minor changes and then submit to Chris - change tag to introcj
-  * Tag the page with reviewjg (for Jodi) or reviewcs (for Carli) and add comments to the discussion area.
+  * Tag the page with reviewjg (for Jody) or reviewcs (for Carli) and add comments to the discussion area.
 
 ^ Susan ^ Chris ^ 
 |{{door43pages @en:ta:workbench -q="\{\{tag>[^}]*introsq[^}]*\}\}" -r -showcount -title -simpleLineBreak}}|{{door43pages  @en:ta:workbench -q="\{\{tag>[^}]*introcj[^}]*\}\}" -r -showcount -title -simpleLineBreak}} |
