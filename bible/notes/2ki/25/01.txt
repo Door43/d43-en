@@ -32,7 +32,9 @@
 
 ===== translationWords: =====
 
+  * [[:en:obe:other:biblicaltimeyear]]
   * [[:en:obe:other:reign]]
+  * [[en:obe:other:biblicaltimeday]]
   * [[:en:obe:other:king]]
   * [[:en:obe:other:zedekiah]]
   * [[:en:obe:other:nebuchadnezzar]]
@@ -44,10 +46,10 @@
 
 ===== Translation Notes: =====
 
-  * **in the ninth year** - (See: [[:en:obe:other:biblicaltimeyear]] and [[:en:ta:vol2:translate:translate_ordinal]])
-  * **in the tenth month, and on the tenth day of the month** - This is the tenth month of the Hebrew calendar. The tenth day is near the end of December on western calendars. This is during the cold season when there may be rain and snow. (See: [[:en:obe:other:biblicaltimemonth]] and [[:en:ta:vol2:translate:translate_ordinal]])
+  * **in the ninth year** - (See: [[:en:ta:vol2:translate:translate_ordinal]])
+  * **in the tenth month, and on the tenth day of the month** - This is the tenth month of the Hebrew calendar. The tenth day is near the end of December on western calendars. This is during the cold season when there may be rain and snow. (See: [[talink Hebrew Months]] and [[:en:ta:vol2:translate:translate_ordinal]])
   * **came with all his army against Jerusalem** - AT: "came with his whole army to fight against the people of Jerusalem." or "came with his whole army to conquer Jerusalem."
-  * **the ninth day of the fourth month** - This is the fourth month of the Hebrew calendar. The ninth day is near the end of June on western calendars. This is during the dry season when there is very little or no rain. (See: [[:en:obe:other:biblicaltimemonth]] and [[:en:ta:vol2:translate:translate_ordinal]])
+  * **the ninth day of the fourth month** - This is the fourth month of the Hebrew calendar. The ninth day is near the end of June on western calendars. This is during the dry season when there is very little or no rain. (See: [[talink Hebrew Months]] and [[:en:ta:vol2:translate:translate_ordinal]])
   * **the people of the land** - These are the inhabitants of Jerusalem, including refugees from the surrounding villages that fled to Jerusalem when the war started.
 ===== Links: =====
 
@@ -62,6 +64,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2edit talink}}
 
 ~~NOCACHE~~
