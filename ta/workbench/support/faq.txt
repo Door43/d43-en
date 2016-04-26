@@ -9,6 +9,9 @@ Below are frequently asked questions relating to translationStudio
   * What specifications are needed to run translationStudio on a tablet?
     * Micro SD card reader
     * Android OS 4.0.3 and up
+  * What is the data storage path to the tStudio files on the Android tablet?
+    * Device\tranlationStudio\translations
+    * using ES Explorer...SD\Home or 0\translationStudio\translations.  I also like to set the ES File Explorer: Display Settings\Others to "Show SD card on status bar".  That provides nice shortcut to the file structure
 
 
 
