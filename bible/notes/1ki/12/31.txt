@@ -29,6 +29,7 @@
   * [[:en:obe:other:levite]]
   * [[:en:obe:other:ordain]]
   * [[:en:obe:other:feast]]
+  * [[en:obe:other:biblicaltimeday]]
   * [[:en:obe:other:altar]]
 
 ===== Translation Notes: =====
@@ -36,7 +37,7 @@
   * **Jeroboam made temples** - AT: "Jeroboam's workers made temples" (See: [[:en:ta:vol2:translate:figs_metonymy]])
   * **made priests** - AT: "appointed men to be priests"
   * **all the people** - AT: "all the people of the ten northern tribes" (See: [[:en:ta:vol1:translate:figs_explicit]])
-  * **in the eighth month, on the fifteenth day of the month** - This is the eighth month of the Hebrew calendar. The fifteenth day is near the beginning of November on western calendars. AT: "on the fifteenth day of the eighth month." (See: [[:en:obe:other:biblicaltimemonth]] and [[:en:ta:vol2:translate:translate_ordinal]])
+  * **in the eighth month, on the fifteenth day of the month** - This is the eighth month of the Hebrew calendar. The fifteenth day is near the beginning of November on western calendars. AT: "on the fifteenth day of the eighth month." (See: [[talink Hebrew Months]] and [[:en:ta:vol2:translate:translate_ordinal]])
   * **went up to the altar** - AT: "offered sacrifices on the altar" (See: [[:en:ta:vol1:translate:figs_idiom]])
 
 ===== Links: =====
@@ -46,6 +47,6 @@
   * [[:en:bible:questions:comprehension:1ki:12]]
 **[[:en:bible:notes:1ki:12:28|<<]] | [[:en:bible:notes:1ki:12:33|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2edit talink}}
 
 ~~NOCACHE~~
