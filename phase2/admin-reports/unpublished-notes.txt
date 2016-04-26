@@ -12,7 +12,7 @@ This list catches missing status tags, but __not__ corrupted tag code.
 
 ==== Full Comparison ====
 
-Chunks that appear in the right column, but not the left, are unpublished.
+Chunks that are missing from one of the columns are unpublished.
 
 ^  Published chunks  ^  Chunks with tag code  ^  Chunks with tag text  ^
 |{{door43pages @en:bible:notes -r -q="\{\{tag>[^}]*publish[^}]*\}\}" -exclude:home -exclude:intro -exclude:00 -exclude:tatopics -exclude:words -exclude:bible-notes -simpleLineBreak -title -fontsize="90%"}}  |{{door43pages @en:bible:notes -r -exclude:home -exclude:intro -exclude:00  -exclude:tatopics -exclude:words -exclude:bible-notes -simpleLineBreak -title -fontsize="90%"}}  |{{door43pages @en:bible:notes -r -q="tag>" -exclude:home -exclude:intro -exclude:00  -exclude:tatopics -exclude:words -exclude:bible-notes -simpleLineBreak -title -fontsize="90%"}}  |
