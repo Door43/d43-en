@@ -38,15 +38,16 @@
   * [[en:obe:kt:houseofgod]]
   * [[:en:obe:kt:temple]]
   * [[:en:obe:other:courtyard]]
+  * [[en:obe:other:biblicaltimeday]]
   * [[:en:obe:other:dedicate]]
 
 ===== Translation Notes: =====
 
   * **brook Kidron** - A smallbody of water that flows on the east side of Jerusalem. At times it was used as a trash dump. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **the first day of the first month** - This is the first month of the Hebrew calendar. The first day marks the day when Yahweh brought the people out of Egypt. This is near the middle of March on western calendars. (See: [[:en:obe:other:biblicaltimemonth]] and [[:en:ta:vol2:translate:translate_ordinal]])
-  * **the eighth day of the month** - This is near the end of March on western calendars.
-  * **in eight days** - "in 8 days" (See: [[:en:obe:other:biblicaltimeday]] and [[:en:ta:vol2:translate:translate_numbers]])
-  * **sixteenth day of the first month** - This is near the beginning of April on western calendars.
+  * **the first day of the first month** - This is the first month of the Hebrew calendar. The first day marks the day when Yahweh brought the people out of Egypt. This is near the middle of March on western calendars. (See: [[talink Hebrew Months]] and [[:en:ta:vol2:translate:translate_ordinal]])
+  * **the eighth day of the month** - This is near the end of March on western calendars. (See: [[talink Hebrew Months]] and [[:en:ta:vol2:translate:translate_ordinal]])
+  * **in eight days** - "in 8 days" (See: [[:en:ta:vol2:translate:translate_numbers]])
+  * **sixteenth day of the first month** - This is near the beginning of April on western calendars. (See: [[talink Hebrew Months]] and [[:en:ta:vol2:translate:translate_ordinal]]
 
 ===== Links: =====
 
@@ -55,6 +56,6 @@
   * [[:en:bible:questions:comprehension:2ch:29]]
 **[[:en:bible:notes:2ch:29:12|<<]] | [[:en:bible:notes:2ch:29:18|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit text}}
+~~DISCUSSION~~{{tag>publish p2edit text talink}}
 
 ~~NOCACHE~~
