@@ -4,7 +4,7 @@
 
 ==== Check for Missing Tags ====
 
-This list catches missing status tags, but __not__ corrupted tag code.
+This section lists chunks (if any) with missing status tags.
 
 {{door43pages @:en:bible:notes -r -q="\{\{tag>(?![^}]*draft)(?![^}]*check)(?![^}]*review)(?![^}]*text)(?![^}]*discuss)(?![^}]*inspect)(?![^}]*fixed)(?![^}]*publish)[^}]*\}\}" -exclude:home -simpleLineBreak -title -fontsize="90%"}}
 
