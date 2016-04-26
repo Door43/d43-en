@@ -31,7 +31,9 @@
 
 ===== translationWords: =====
 
+  * [[:en:obe:other:biblicaltimeyear]]
   * [[:en:obe:other:reign]]
+  * [[en:obe:other:biblicaltimemonth]]
   * [[:en:obe:other:jerusalem]]
   * [[:en:obe:kt:evil]]
   * [[:en:obe:other:hamath]]
@@ -41,7 +43,7 @@
 ===== Translation Notes: =====
 
 
-  * **twenty-three years old** - "23 years old" (See: [[:en:obe:other:biblicaltimeyear]] and [[:en:ta:vol2:translate:translate_numbers]])
+  * **twenty-three years old** - "23 years old" (See: [[:en:ta:vol2:translate:translate_numbers]])
   * **Hamutal** - This is a woman's name. (See: [[:en:ta:vol1:translate:translate_names]])
   * **Libnah...Riblah...Hamath** - These are names of places. (See: [[:en:ta:vol1:translate:translate_names]])
   * **evil in the sight of Yahweh** - See how you translated this in [[:en:bible:notes:2ki:03:01|3:2]]
