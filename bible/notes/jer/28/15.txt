@@ -36,11 +36,12 @@
   * [[:en:obe:kt:believe]]
   * [[:en:obe:other:earth]]
   * [[:en:obe:kt:death]]
+  * [[en:obe:other:biblicaltimeyear]]
   * [[:en:obe:other:rebel]]
 
 ===== Translation Notes: =====
 
-  * **in the seventh month** - This is the seventh month of the Hebrew calendar. It is during the last part of September and the first part of October on western calendars. (See: [[:en:obe:other:biblicaltimemonth]] and [[:en:ta:vol2:translate:translate_ordinal]])
+  * **in the seventh month** - This is the seventh month of the Hebrew calendar. It is during the last part of September and the first part of October on western calendars. (See: [[talink Hebrew Months]] and [[:en:ta:vol2:translate:translate_ordinal]])
 
 ===== Links: =====
 
@@ -49,6 +50,6 @@
   * [[:en:bible:questions:comprehension:jer:28]]
 **[[:en:bible:notes:jer:28:12|<<]] | [[:en:bible:notes:jer:29:01|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2edit talink}}
 
 ~~NOCACHE~~
