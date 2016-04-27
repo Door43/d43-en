@@ -30,6 +30,7 @@
 
   * [[:en:obe:kt:yahweh]]
   * [[:en:obe:other:moses]]
+  * [[en:obe:other:biblicaltimeday]]
   * [[:en:obe:kt:atonement]]
   * [[:en:obe:kt:assembly]]
   * [[:en:obe:other:dedicate]]
@@ -40,7 +41,7 @@
 
 ===== Translation Notes: =====
 
-  * **tenth day of this seventh month** - (See: [[:en:obe:other:biblicaltimemonth]] and [[:en:ta:vol2:translate:translate_ordinal]])
+  * **tenth day of this seventh month** - This is the seventh month of the Hebrew calendar. The tenth day is near the beginning of October on western calendars. (See: [[talink Hebrew Months]] and [[:en:ta:vol2:translate:translate_ordinal]])
   * **Day of Atonement** - On this one day the high priest made an offering to Yahweh in the most holy place for all of the sins of the people of Israel.
   * **It must be an assembly that is dedicated to Yahweh** - AT: "You must gather to worship and honor Yahweh"
   
@@ -57,6 +58,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2edit talink}}
 
 ~~NOCACHE~~
