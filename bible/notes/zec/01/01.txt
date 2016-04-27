@@ -33,6 +33,7 @@ of Iddo the prophet, saying,
 
 ===== translationWords: =====
 
+  * [[:en:obe:other:biblicaltimeyear]]
   * [[:en:obe:other:darius]]
   * [[:en:obe:other:reign]]
   * [[:en:obe:kt:wordofgod]]
@@ -43,8 +44,8 @@ of Iddo the prophet, saying,
 ===== Translation Notes: =====
 
 
-  * **In the eighth month** - This is the eighth month of the Hebrew calendar. It is during the last part of October and the first part of November on western calendars. (See: [[:en:obe:other:biblicaltimemonth]] and [[:en:ta:vol2:translate:translate_ordinal]])
-  * **second year of Darius' reign** - "second year since Darius became king" (See: [[:en:obe:other:biblicaltimeyear]] and [[:en:ta:vol2:translate:translate_ordinal]])
+  * **In the eighth month** - This is the eighth month of the Hebrew calendar. It is during the last part of October and the first part of November on western calendars. (See: [[talink Hebrew Months]] and [[:en:ta:vol2:translate:translate_ordinal]])
+  * **second year of Darius' reign** - "second year since Darius became king" (See: [[:en:ta:vol2:translate:translate_ordinal]])
   * **Berechiah...Iddo** - These are the names of males. (See: [[:en:ta:vol1:translate:translate_names]])
   * **exceedingly angry with your fathers** - "very angry with your forefathers" 
   * **Turn to me** - The word "turn" is used to refer to a change.  Yahweh is telling the people of Israel to change from not obeying him to obeying him. (See: [[:en:ta:vol1:translate:figs_idiom]])
@@ -57,6 +58,6 @@ of Iddo the prophet, saying,
   * [[:en:bible:questions:comprehension:zec:01]]
 **| [[:en:bible:notes:zec:01:04|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2edit talink}}
 
 ~~NOCACHE~~
