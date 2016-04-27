@@ -32,7 +32,10 @@ the hand of Haggai the prophet to the governor of Judah, Zerubbabel the son of S
 
 ===== translationWords: =====
 
+  * [[:en:obe:other:biblicaltimeyear]]
+  * [[en:obe:other:darius]]
   * [[:En:obe:other:king]]
+  * [[en:obe:other:biblicaltimeday]]
   * [[:en:obe:kt:Yahweh]]
   * [[:en:obe:kt:prophet]]
   * [[:en:obe:other:governor]]
@@ -43,9 +46,9 @@ the hand of Haggai the prophet to the governor of Judah, Zerubbabel the son of S
 
 ===== Translation Notes: =====
 
-  * **second year of Darius the king** - "second year of the reign of Darius the king" (See: [[:en:obe:other:biblicaltimeyear]] and [[:en:ta:vol2:translate:translate_ordinal]])
+  * **second year of Darius the king** - "second year of the reign of Darius the king" (See: [[:en:ta:vol2:translate:translate_ordinal]])
   * **Darius...Haggai...Zerubbabel...Shealtiel...Jehozadak** - These are all names of men. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **in the sixth month, on the first day of the month** - "on the first day of the sixth month." This is the sixth month of the Hebrew calendar. The first day is near the middle of August on western calendars. (See: [[:en:obe:other:biblicaltimemonth]] and [[:en:ta:vol2:translate:translate_ordinal]])
+  * **in the sixth month, on the first day of the month** - "on the first day of the sixth month." This is the sixth month of the Hebrew calendar. The first day is near the middle of August on western calendars. (See: [[talink Hebrew Months]] and [[:en:ta:vol2:translate:translate_ordinal]])
   * **came by the hand of Haggai** - Haggai was the messenger. (See: [[:en:ta:vol2:translate:figs_synecdoche]])
 ===== Links: =====
 
@@ -54,6 +57,6 @@ the hand of Haggai the prophet to the governor of Judah, Zerubbabel the son of S
   * [[:en:bible:questions:comprehension:hag:01]]
 **| [[:en:bible:notes:hag:01:03|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2edit talink}}
 
 ~~NOCACHE~~
