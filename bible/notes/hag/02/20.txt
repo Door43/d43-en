@@ -35,6 +35,7 @@
 ===== translationWords: =====
 
   * [[:en:obe:kt:wordofgod]]
+  * [[en:obe:other:biblicaltimeday]]
   * [[:En:obe:other:governor]]
   * [[:en:obe:other:Judah]]
   * [[:en:obe:kt:heaven]]
@@ -48,7 +49,7 @@
 ===== Translation Notes: =====
 
   * **Haggai...Zerubbabel** - These are names of men. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **on the twenty-fourth day of the month** - AT: "on the twenty-fourth day of the ninth month" (See: [[:en:obe:other:biblicaltimemonth]] and [[:en:ta:vol2:translate:translate_ordinal]] and [[:en:ta:vol2:translate:figs_ellipsis]])
+  * **on the twenty-fourth day of the month** - AT: "on the twenty-fourth day of the ninth month" (See: [[talink Hebrew Months]] and [[:en:ta:vol2:translate:translate_ordinal]] and [[:en:ta:vol2:translate:figs_ellipsis]])
   * **I will shake the heavens and the earth** - Yahweh will cause disruption in their world.
   * **the heavens and the earth** - AT: "the whole universe" 
   * **for I will overthrow the throne of kingdoms** - Governments will fall apart in the chaos.
@@ -62,6 +63,6 @@
   * [[:en:bible:questions:comprehension:hag:02]]
 **[[:en:bible:notes:hag:02:18|<<]] | [[:en:bible:notes:hag:02:23|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2edit talink}}
 
 ~~NOCACHE~~
