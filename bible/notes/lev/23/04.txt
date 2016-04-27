@@ -29,13 +29,14 @@
 
   * [[:en:obe:kt:appoint]]
   * [[:en:obe:kt:assembly]]
+  * [[en:obe:other:biblicaltimeday]]
   * [[:en:obe:kt:passover]]
   * [[:en:obe:kt:unleavenedbread]]
 
 ===== Translation Notes: =====
 
   * **at their appointed times** - "at their proper times"
-  * **first month, on the fourteenth day of the month...the fifteenth day of the same month** - The first month of the Hebrew calendar marks when Yahweh brought the Israelites out of Egypt. The fourteenth day and fifteenth day are around the beginning of April on the western calendar. (See: [[:en:obe:other:biblicaltimemonth]] and [[:en:ta:vol2:translate:translate_ordinal]])
+  * **first month, on the fourteenth day of the month...the fifteenth day of the same month** - The first month of the Hebrew calendar marks when Yahweh brought the Israelites out of Egypt. The fourteenth day and fifteenth day are around the beginning of April on the western calendar. (See: [[talink Hebrew Months]] and [[:en:ta:vol2:translate:translate_ordinal]])
   * **at twilight** - "at sunset"
 
 ===== Links: =====
@@ -45,6 +46,6 @@
   * [[:en:bible:questions:comprehension:lev:23]]
 **[[:en:bible:notes:lev:23:03|<<]] | [[:en:bible:notes:lev:23:07|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit passover}}
+~~DISCUSSION~~{{tag>publish p2edit passover talink}}
 
 ~~NOCACHE~~
