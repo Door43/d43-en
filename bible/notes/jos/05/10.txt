@@ -31,6 +31,7 @@
   * [[:En:obe:other:israel]]
   * [[:en:obe:other:gilgal]]
   * [[:En:obe:kt:passover]]
+  * [[en:obe:other:biblicaltimeday]]
   * [[:en:obe:other:jericho]]
   * [[:en:obe:kt:unleavenedbread]]
  
@@ -38,7 +39,7 @@
 ===== Translation Notes: =====
 
 
-  * **the fourteenth day of the month** - This is near the end of March on western calendars. AT: "the fourteenth day of the first month"  (See: [[:en:obe:other:biblicaltimemonth]] and [[:en:ta:vol2:translate:translate_ordinal]] and [[:en:ta:vol1:translate:figs_explicit]])
+  * **the fourteenth day of the month** - This is near the end of March on western calendars. AT: "the fourteenth day of the first month"  (See: [[talink Hebrew Months]] and [[:en:ta:vol2:translate:translate_ordinal]] and [[:en:ta:vol1:translate:figs_explicit]])
     
  
   
@@ -55,6 +56,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit passover}}
+{{tag>publish p2edit passover talink}}
 
 ~~NOCACHE~~
