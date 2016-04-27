@@ -28,6 +28,12 @@ Find KT pages with "drewc" tag __and__ with "ktobs" tag:
 {{door43pages @:en:obe:kt -r -q="\{\{tag>(?=[^}]*drewc)(?=[^}]*ktobs)[^}]*\}\}" -exclude:home -simpleLineBreak -title -fontsize="90%"}}
 </code>
 
+Find pages __without__ "p2edit" tag:
+
+<code>
+{{door43pages @:en:bible:notes -r -q="\{\{tag>(?![^}]*p2edit)[^}]*\}\}" -exclude:home -simpleLineBreak -title -fontsize="90%"}}
+</code>
+
 
 Find KT pages with "drewc" tag __but not__ "ktobs" tag:
 
