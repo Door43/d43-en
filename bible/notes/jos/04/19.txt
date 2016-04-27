@@ -32,6 +32,7 @@
 ===== translationWords: =====
 
   * [[:en:obe:other:jordanriver]]
+  * [[en:obe:other:biblicaltimeday]]
   * [[:En:obe:other:gilgal]]
   * [[:En:obe:other:jericho]]
   * [[:En:obe:other:joshua]]
@@ -44,7 +45,7 @@
 ===== Translation Notes: =====
 
 
-  * **on the tenth day of the first month** - This is the first month of the Hebrew calendar. The tenth day is near the end of March on western calendars. (See: [[:en:obe:other:biblicaltimemonth]] and [[:en:ta:vol2:translate:translate_ordinal]])
+  * **on the tenth day of the first month** - This is the first month of the Hebrew calendar. The tenth day is near the end of March on western calendars. (See: [[talink Hebrew Months]] and [[:en:ta:vol2:translate:translate_ordinal]])
    
   
 ===== Links: =====
@@ -60,6 +61,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2edit talink}}
 
 ~~NOCACHE~~
