@@ -28,6 +28,8 @@
 
 ===== translationWords: =====
 
+  * [[:en:obe:other:biblicaltimeday]]
+  * [[:en:obe:other:biblicaltimeyear]]
   * [[:en:obe:other:grainoffering]]
   * [[:en:obe:other:drinkoffering]]
   * [[:en:obe:other:sinoffering]]
@@ -35,9 +37,9 @@
 
 ===== Translation Notes: =====
 
-  * **third day** - See: [[:en:ta:vol2:translate:translate_ordinal]] and [[:en:obe:other:biblicaltimeday]]
+  * **third day** - See: [[:en:ta:vol2:translate:translate_ordinal]]
   * **eleven...fourteen** - "11...14" (See: [[:en:ta:vol2:translate:translate_numbers]]) 
-  * **a year old** - "each a year old" (See: [[:en:obe:other:biblicaltimeyear]])
+  * **a year old** - "each a year old"
   * **as were commanded** - "as Yahweh commanded" (See: [[:en:ta:vol2:translate:figs_activepassive]])
 
 ===== Links: =====
