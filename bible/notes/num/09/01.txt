@@ -36,6 +36,7 @@
   * [[:en:obe:other:moses]]
   * [[:en:obe:other:desert]]
   * [[:en:obe:other:sinai]]
+  * [[en:obe:other:biblicaltimeyear]]
   * [[:en:obe:other:egypt]]
   * [[:en:obe:other:peoplegroup]]
   * [[:en:obe:other:israel]]
@@ -45,8 +46,8 @@
 
 ===== Translation Notes: =====
 
-  * **in the first month** - This is the first month of the Hebrew calendar. It marks when God brought the people of Israel out of Egypt. It is during the last part of March and the first part April on western calendars. (See: [[:en:obe:other:biblicaltimemonth]] and [[:en:ta:vol2:translate:translate_ordinal]])
-  * **the second year** - (See: [[:en:obe:other:biblicaltimeyear]] and [[:en:ta:vol2:translate:translate_ordinal]])
+  * **in the first month** - This is the first month of the Hebrew calendar. It marks when God brought the people of Israel out of Egypt. It is during the last part of March and the first part April on western calendars. (See: [[talink Hebrew Months]] and [[:en:ta:vol2:translate:translate_ordinal]])
+  * **the second year** - (See: [[:en:ta:vol2:translate:translate_ordinal]])
   * **after they came out from the land of Egypt** - Here the word "they" refers to the people of Israel.
   * **On the fourteenth day of this month** - The fourteenth day of the first month is near the end of March on western calendars. (See: [[:en:obe:other:biblicaltimemonth]] and [[:en:ta:vol2:translate:translate_ordinal]])
   * **at its fixed time of year** - AT: "at the time of each year that I have determined"
@@ -59,6 +60,6 @@
   * [[:en:bible:questions:comprehension:num:09]]
 **[[:en:bible:notes:num:08:25|<<]] | [[:en:bible:notes:num:09:04|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit passover}}
+~~DISCUSSION~~{{tag>publish p2edit passover talink}}
 
 ~~NOCACHE~~
