@@ -31,13 +31,15 @@
   * [[:en:obe:kt:yahweh]]
   * [[:en:obe:other:command]]
   * [[:en:obe:kt:death]]
+  * [[:en:obe:other:biblicaltimeyear]]
   * [[:en:obe:other:israel]]
   * [[:en:obe:other:egypt]]
+  * [[en:obe:other:biblicaltimeday]]
 
 ===== Translation Notes: =====
 
-  * **in the fortieth year after** - AT: "40 years after" (See: [[:en:obe:other:biblicaltimeyear]] and [[:en:ta:vol2:translate:translate_ordinal]])
-  * **in the fifth month, on the first day of the month** - This is the fifth month of the Hebrew calendar. The first day is near the middle of July on western calendars. (See: [[:en:obe:other:biblicaltimemonth]] and [[:en:ta:vol2:translate:translate_ordinal]])
+  * **in the fortieth year after** - AT: "40 years after" (See: [[:en:ta:vol2:translate:translate_ordinal]])
+  * **in the fifth month, on the first day of the month** - This is the fifth month of the Hebrew calendar. The first day is near the middle of July on western calendars. (See: [[talink Hebrew Months]] and [[:en:ta:vol2:translate:translate_ordinal]])
 
 ===== Links: =====
 
@@ -46,6 +48,6 @@
   * [[:en:bible:questions:comprehension:num:33]]
 **[[:en:bible:notes:num:33:35|<<]] | [[:en:bible:notes:num:33:40|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2edit talink}}
 
 ~~NOCACHE~~
