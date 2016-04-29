@@ -83,8 +83,9 @@ Link to this rather than to Phrases that Inform or Remind. We have only two note
 [[:en:ta:vol2:translate:figs_distinguish]]
 </code>
 
-[[:en:ta:vol2:translate:figs_doublenegatives]]
-
+[[:en:ta:vol2:translate:figs_doublenegatives]]\\
+This is good for when a clause has "no" or "not" or some word with "no" (none, nothing, nowhere, etc) twice. Be cautious about treating the affixes un-, in- and -less as negatives. It's possible that they function only on the word level and not the clause level.
+ 
 <code>
 [[:en:ta:vol2:translate:figs_doublenegatives]]
 </code>
