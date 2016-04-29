@@ -1,24 +1,24 @@
 ====== tA Link Code ======
 
-See [[en:phase1:team-info:training:reviewers:chunklinks]] for code to create verse links.
+See [[:en:phase1:team-info:training:reviewers:chunklinks]] for code to create verse links.
 
 ==== These are tA links that we include on notes pages: ====
 
 If there is a tA page the that  you want to link to, but it is not listed on this page, please contact Susan or Chris. Either we forgot to put it here, or there is another page that we expected to be used instead.
 
-[[en:ta:vol2:translate:figs_abstractnouns]]
+[[:en:ta:vol2:translate:figs_abstractnouns]]
 
 <code>
 [[:en:ta:vol2:translate:figs_abstractnouns]]
 </code>
 
-[[en:ta:vol2:translate:figs_activepassive]]
+[[:en:ta:vol2:translate:figs_activepassive]]
 
 <code>
 [[:en:ta:vol2:translate:figs_activepassive]]
 </code>
 
-[[en:ta:vol2:translate:figs_apostrophe]]
+[[:en:ta:vol2:translate:figs_apostrophe]]
 
 <code>
 [[:en:ta:vol2:translate:figs_apostrophe]]
@@ -31,10 +31,10 @@ Link to this page. Do not link to Making Explicit Info Implicit.
 [[:en:ta:vol1:translate:figs_explicit]]
 </code>
 
-[[en:ta:vol2:translate:writing_background]]
+[[:en:ta:vol2:translate:writing_background]]
 
 <code>
-[[en:ta:vol2:translate:writing_background]]
+[[:en:ta:vol2:translate:writing_background]]
 </code>
 
 [[:en:ta:vol2:translate:translate_bdistance]]
@@ -49,31 +49,30 @@ Link to this page. Do not link to Making Explicit Info Implicit.
 [[:en:ta:vol2:translate:translate_bmoney]]
 </code>
 
-[[en:ta:vol2:translate:translate_bvolume]]
+[[:en:ta:vol2:translate:translate_bvolume]]
 
 <code>
-[[en:ta:vol2:translate:translate_bvolume]]
+[[:en:ta:vol2:translate:translate_bvolume]]
 </code>
 
-[[en:ta:vol2:translate:translate_bweight]]
+[[:en:ta:vol2:translate:translate_bweight]]
 
 <code>
-[[en:ta:vol2:translate:translate_bweight]]
+[[:en:ta:vol2:translate:translate_bweight]]
 </code>
 
-
-[[en:ta:vol2:translate:translate_chapverse]] \\ 
-This would be good in book and chapter introductions where there is an issue. I guess it would also be good on ordinary notes where there is a footnote in the ULB about it.
+[[:en:ta:vol2:translate:translate_chapverse]] \\ 
+This would be good in book and chapter introductions where some Bibles mark the verses one way and others mark it differently. I guess it would also be good on ordinary notes where there is a footnote in the ULB about it.
 
 <code>
-[[en:ta:vol2:translate:translate_chapverse]]
+[[:en:ta:vol2:translate:translate_chapverse]]
 </code>
 
-[[en:ta:vol2:translate:writing_connectingwords]] \\ 
+[[:en:ta:vol2:translate:writing_connectingwords]] \\ 
 We have only three notes linked to this (for Therefore and But). We might want to look at this after Phase 2.
 
 <code>
-[[en:ta:vol2:translate:writing_connectingwords]]
+[[:en:ta:vol2:translate:writing_connectingwords]]
 </code>
 
 [[:en:ta:vol2:translate:figs_distinguish]] \\
@@ -102,7 +101,7 @@ This is good for when a clause has "no" or "not" or some word with "no" (none, n
 [[:en:ta:vol2:translate:figs_ellipsis]]
 </code>
 
-[[en:ta:workbench:translate:writingstyles_endofepisode]] Workbench page \\
+[[:en:ta:workbench:translate:writingstyles_endofepisode]] Workbench page \\
 This would probably be most useful in connecting or general info notes.\\
 [[There will be a Volume 2 page for this. Until then, use the fake link below and add talink to the tags at the bottom of the page.]]
 
@@ -142,14 +141,14 @@ This is only for when there is something odd about the person of the pronoun, su
 [[:en:ta:vol2:translate:translate_fraction]]
 </code>
 
-[[en:ta:vol2:translate:figs_genericnoun]] \\ 
+[[:en:ta:vol2:translate:figs_genericnoun]] \\ 
 This is for when someone says "the X" when referring to Xs in general. We have not used this yet. We might want to look at this more after Phase 2. 
 
 <code>
-[[en:ta:vol2:translate:figs_genericnoun]]
+[[:en:ta:vol2:translate:figs_genericnoun]]
 </code>
 
-[[en:ta:workbench:translate:hebrewmonths]] Workbench page \\
+[[:en:ta:workbench:translate:hebrewmonths]] Workbench page \\
 This is for when the text refers to a particular month of the year, such as "the first month" or "the month of Abib."
 
 [[There will be a Volume 2 page for this. Until then, use the fake link below and add talink to the tags at the bottom of the page.]]
@@ -189,18 +188,18 @@ This is for first person plural when it includes the addressee.
 [[:en:ta:vol2:translate:figs_inclusive]]
 </code>
 
-[[en:ta:vol2:translate:writing_newevent]]\\
+[[:en:ta:vol2:translate:writing_newevent]]\\
 This is especially useful on notes for "It came about that" and "it happened that."
 
 <code>
-[[en:ta:vol2:translate:writing_newevent]]
+[[:en:ta:vol2:translate:writing_newevent]]
 </code>
 
-[[en:ta:vol2:translate:writing_participants]] \\ 
+[[:en:ta:vol2:translate:writing_participants]] \\ 
 We just started using this in Luke.
 
 <code>
-[[en:ta:vol2:translate:writing_participants]]
+[[:en:ta:vol2:translate:writing_participants]]
 </code>
 
 [[:en:ta:vol1:translate:figs_irony]]
@@ -234,26 +233,26 @@ We just started using this in Luke.
 [[:en:ta:vol2:translate:figs_metonymy]]
 </code>
 
-[[en:ta:vol2:translate:figs_nominaladj]]\\
+[[:en:ta:vol2:translate:figs_nominaladj]]\\
 "the strong" "the rich":  We have given synonymous phrases, but we have not used this link yet. 
 
 <code>
-[[en:ta:vol2:translate:figs_nominaladj]]
+[[:en:ta:vol2:translate:figs_nominaladj]]
 </code>
 
-[[en:ta:vol2:translate:translate_numbers]]
+[[:en:ta:vol2:translate:translate_numbers]]
 
 <code>
-[[en:ta:vol2:translate:translate_numbers]]
+[[:en:ta:vol2:translate:translate_numbers]]
 </code>
 
-[[en:ta:vol1:translate:figs_events]]\\
+[[:en:ta:vol1:translate:figs_events]]\\
 
 <code>
-[[en:ta:vol1:translate:figs_events]]
+[[:en:ta:vol1:translate:figs_events]]
 </code>
 
-[[en:ta:vol2:translate:translate_ordinal]]
+[[:en:ta:vol2:translate:translate_ordinal]]
 
 <code>
 [[:en:ta:vol2:translate:translate_ordinal]]
@@ -279,21 +278,21 @@ Use this link. Do not use Parallelism with the Same Meaning.
 [[:en:ta:vol2:translate:figs_personification]]
 </code>
 
-[[en:ta:vol2:translate:writing_poetry]] \\
+[[:en:ta:vol2:translate:writing_poetry]] \\
 This would probably be most useful in the book and chapter intros or in the connecting or general info notes.
 
 <code>
-[[en:ta:vol2:translate:writing_poetry]]
+[[:en:ta:vol2:translate:writing_poetry]]
 </code>
 
-[[en:ta:vol2:translate:figs_possession]]\\
+[[:en:ta:vol2:translate:figs_possession]]\\
 This would probably be most helpful when an AT uses a verb to show how the two nouns are related, and when an AT suggests replacing an abstract noun in a possessive construction with a verb. We have not used it yet. 
 
 <code>
-[[en:ta:vol2:translate:figs_possession]]
+[[:en:ta:vol2:translate:figs_possession]]
 </code>
 
-[[en:ta:workbench:translate:pastforfuture]] Workbench page \\ 
+[[:en:ta:workbench:translate:pastforfuture]] Workbench page \\ 
 When the past tense is used to refer to future events, there are usually clauses nearby that do not use the past tense. So this would probably be most useful in notes about specific clauses.
 
 [[There will be a Volume 2 page for this. Until then, use the fake link below and add talink to the tags at the bottom of the page.]]
@@ -309,18 +308,18 @@ Use this only when the other pronoun tA pages do not have what is needed -- such
 [[:en:ta:vol2:translate:figs_pronouns]]
 </code>
 
-[[en:ta:vol2:translate:writing_proverbs]]
+[[:en:ta:vol2:translate:writing_proverbs]]
 This could be helpful any time there is a Proverb outside of the book of Proverbs.
 
 <code>
-[[en:ta:vol2:translate:writing_proverbs]]
+[[:en:ta:vol2:translate:writing_proverbs]]
 </code>
 
-[[en:ta:vol2:translate:writing_quotations]] \\ 
+[[:en:ta:vol2:translate:writing_quotations]] \\ 
 This is good for ATs that suggest moving the quote margin (the "he said") -- especially when the margin is between two parts of a quote. 
 
 <code>
-[[en:ta:vol2:translate:writing_quotations]]
+[[:en:ta:vol2:translate:writing_quotations]]
 </code>
 
 
@@ -331,11 +330,11 @@ This is good for when a note suggests a shift between direct and indirect quotes
 [[:en:ta:vol2:translate:figs_quotations]]
 </code>
 
-[[en:ta:vol2:translate:figs_quotesinquotes]] \\ 
+[[:en:ta:vol2:translate:figs_quotesinquotes]] \\ 
 This would be good when there is multiple embedding of quotes.
 
 <code>
-[[en:ta:vol2:translate:figs_quotesinquotes]]
+[[:en:ta:vol2:translate:figs_quotesinquotes]]
 </code>
 
 [[:en:ta:vol2:translate:figs_rpronouns]] \\ 
@@ -379,11 +378,11 @@ Use occasionally. Do not link to the other page "Son of God" page.
 [[:en:ta:vol2:translate:translate_symaction]]
 </code>
 
-[[en:ta:vol2:translate:writing_symlanguage]] \\ 
+[[:en:ta:vol2:translate:writing_symlanguage]] \\ 
 This would be good on intro pages to books that have a lot of it, and perhaps occasionally in notes.
 
 <code>
-[[en:ta:vol2:translate:writing_symlanguage]]
+[[:en:ta:vol2:translate:writing_symlanguage]]
 </code>
 
 [[:en:ta:vol2:translate:figs_synecdoche]]
@@ -431,10 +430,10 @@ This is useful for when there is a verse bridge in the ULB, or when a note sugge
 [[:en:ta:vol2:translate:translate_versebridge]]
 </code>
 
-[[en:ta:vol2:translate:figs_gendernotations]]
+[[:en:ta:vol2:translate:figs_gendernotations]]
 
 <code>
-[[en:ta:vol2:translate:figs_gendernotations]]
+[[:en:ta:vol2:translate:figs_gendernotations]]
 </code>
 
 
