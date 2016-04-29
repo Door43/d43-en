@@ -54,10 +54,10 @@ In the beginning, these boxes will be blank until they are filled the selected s
    * Select the Default and Shift characters desired or the corresponding UTF-8 or Unicode string for the character.
    * Press "Save Changes"
    * If additional characters are desired for that key
-      * Select the key again and press the “Longpress Character” key once for each additional character desired. You will not be able to enter characters into the long keys until the long key boxes are saved.
+      * Select the key again and press the "Longpress Character" key once for each additional character desired. You will not be able to enter characters into the long keys until the long key boxes are saved.
       * Go back and enter the desired character or UTF-8 or Unicode string. 
-   * **Press “Save Changes”**
-   * Note: Unicode U+00xx usually translates to UTF-8 “xx”. For example: Unicode “U+0d38” is equal to UTF-8 “d38”. ADD: If you can find the correct unicode chart or symbol set for the language, you may be able to copy and paste symbols or codes from a Word document, Excel spreadsheet or Adobe PDF file into the keyboard keys in the "Edit" mode.
+   * **Press "Save Changes"**
+   * Note: Unicode U+00xx usually translates to UTF-8 "xx". For example: Unicode "U+0d38" is equal to UTF-8 "d38". ADD: If you can find the correct unicode chart or symbol set for the language, you may be able to copy and paste symbols or codes from a Word document, Excel spreadsheet or Adobe PDF file into the keyboard keys in the "Edit" mode.
 
 
 
