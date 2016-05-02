@@ -19,7 +19,7 @@ Manage teams that will be creating resources to support Wycliffe Associates' str
   - Use the {{:en:bible:team-info:manager_s_checklist.pdf|checklist}}  to assess the work.
   - Make sure references to translationAcademy topics are present as needed:
       * Add "(See: talink)" for existing tA topics when missing from the notes
-      * Add tA links when missing. Go [[en:bible:team-info:processes:add-ta|here]] for instructions on adding a tA link.
+      * Add tA links when missing. Go [[:en:bible:team-info:processes:add-ta|here]] for instructions on adding a tA link.
       * Suggest to the tA team the need of a new topic, by adding the "talink" tag and putting an explanation of the need in the Notes Discussion section.
   - Respond to the team's work on Important Terms in the following ways:
       * For existing Important Term pages - Create links as needed by referring to the [[:en:obe:home|Complete list of Important Terms]], taking care to link them correctly.
@@ -44,12 +44,12 @@ We want to make sure that everyone that works with the source text has full conf
 
 It would be good for all Managers to be familiar with the information on these pages.
 
-[[en:bible:team-info:training:topics:original-source]]\\ 
-[[en:bible:team-info:processes:edit-udb]]\\ 
-[[en:bible:team-info:processes:edit-ulb]]\\ 
+[[:en:bible:team-info:training:topics:original-source]]\\ 
+[[:en:bible:team-info:processes:edit-udb]]\\ 
+[[:en:bible:team-info:processes:edit-ulb]]\\ 
 
 ADDITIONAL INFORMATION ---
-Jim Pohlig has suggested that the [[en:bible:team-info:training:teunewsletter]] might be good background information to read also.
+Jim Pohlig has suggested that the [[:en:bible:team-info:training:teunewsletter]] might be good background information to read also.
 
 === Quote from Text Team Member Responsibilities Page ===
 Please note that The purpose of the Text team is to create two source texts for Bible translation: 
