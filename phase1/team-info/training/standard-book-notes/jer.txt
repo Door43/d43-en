@@ -6,19 +6,19 @@ When a standard note includes brackets (see examples below), replace the bracket
 
 ==== Put this note on the first chunk of each chapter.====
 
-See: [[en:ta:workbench:translate:poetry]] and [[:en:ta:vol2:translate:figs_parallelism]] \\ 
+See: [[:en:ta:workbench:translate:poetry]] and [[:en:ta:vol2:translate:figs_parallelism]] \\ 
 (Please add a talink tag on the chunk. The tA team will put in the link to "Translating Poetry" once that page is completed.)
 
 <code>
-See: [[en:ta:workbench:translate:poetry]] and [[:en:ta:vol2:translate:figs_parallelism]]
+See: [[:en:ta:workbench:translate:poetry]] and [[:en:ta:vol2:translate:figs_parallelism]]
 </code>
 
 ==== Other Notes: ==== 
 
-**This is Yahweh's declaration** - See how you translated this in [[en:bible:notes:jer:01:07|01:8]].
+**This is Yahweh's declaration** - See how you translated this in [[:en:bible:notes:jer:01:07|01:8]].
 
 <code>
-  * **This is Yahweh's declaration** - See how you translated this in [[en:bible:notes:jer:01:07|1:8]].
+  * **This is Yahweh's declaration** - See how you translated this in [[:en:bible:notes:jer:01:07|1:8]].
 </code>
 
 
@@ -35,10 +35,10 @@ See: [[en:ta:workbench:translate:poetry]] and [[:en:ta:vol2:translate:figs_paral
 </code>
 
 
-**house of Jacob** - See how you translated this in [[en:bible:notes:jer:02:04|2:4]].
+**house of Jacob** - See how you translated this in [[:en:bible:notes:jer:02:04|2:4]].
 
 <code>
-  * **house of Jacob** - See how you translated this in [[en:bible:notes:jer:02:04|2:4]].
+  * **house of Jacob** - See how you translated this in [[:en:bible:notes:jer:02:04|2:4]].
 </code>
 
 
@@ -50,7 +50,7 @@ See: [[en:ta:workbench:translate:poetry]] and [[:en:ta:vol2:translate:figs_paral
 
 
 
-[[en:bible:notes:psa:home|Return to Jeremiah Home ]]
+[[:en:bible:notes:psa:home|Return to Jeremiah Home ]]
 
 
 ~~DISCUSSION~~{{tag>publish}}
