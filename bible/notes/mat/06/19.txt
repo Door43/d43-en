@@ -36,6 +36,7 @@
 
 ===== translationWords: =====
 
+  * [[en:obe:other:consume]]
   * [[:en:obe:kt:heaven]]
   * [[:en:obe:other:heart]]
 
@@ -45,6 +46,11 @@
   * **General Information:** - Jesus is talking to a group of people about what might happen to them as individuals. The instances of "you" and "your" are plural, except in verse 21, where they are singular. (See: [[en:ta:vol1:translate:figs_you]])
 
   * **treasures** - AT: "physical objects that please you"
+  * **where moth and rust consume** - "where moth and rust ruin treasures"
+  * **moth** - a small, flying insect that destroys cloth
+  * **rust** - a brown substance that forms on metals
+  * **store up for yourselves treasures in heaven** - This is a metaphor that means do good things on earth so God will bless you in heaven. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **there will your heart be also** - Here "heart" means a persons thoughts and interests. (See: [[:en:ta:vol2:translate:figs_metonymy]])
 
 ===== Links: =====
 
@@ -53,6 +59,6 @@
   * [[:en:bible:questions:comprehension:mat:06]]
 **[[:en:bible:notes:mat:06:16|<<]] | [[:en:bible:notes:mat:06:22|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit }}
+~~DISCUSSION~~{{tag>publish p2check }}
 
 ~~NOCACHE~~
