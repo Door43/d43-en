@@ -19,17 +19,17 @@ Do not use the method of blind drafting to translate the translationNotes. Alway
 
 From any screen in the program, click on the 3-dot menu icon found in the bottom left corner of the window.
 
-  * Click on the word "Home"
+  * Click on the word "Home."
 
-**Note: the ULB and the UDB should be translated into the Gateway Language before you begin to translate the translationNotes.**
+**Note the ULB and the UDB should be translated into the Gateway Language before you begin to translate the translationNotes.**
 
-  * Add a new project by clicking on the blue circle with a plus sign in the top right corner of the window
-  * Choose a target language
-  * Choose a project type (Open Bible Stories, Old Testament or New Testament) that you have completed
-  * Choose translationNotes in the next window
-  * Click on "Confirm" at the bottom of the window to save the selection, or click on "Cancel" to close and not save the selected language. There MUST be a source language chosen.
-  * Click on the empty square box next to the desired source language.
-  * Click on the square icon with the + and - sign directly under the prompt or at the top right of the source text window.
+  * Add a new project by clicking on the blue circle with a plus sign in the top right corner of the window.
+      * Choose a target language.
+      * Choose a project type (Open Bible Stories, Old Testament or New Testament) that you have completed.
+      * Choose translationNotes in the next window.
+        * Click on the square icon with the + and - sign directly under the prompt or at the top right of the source text window.
+        * Click on the empty square box next to the desired source language.
+        * Click on "Confirm" at the bottom of the window to save the selection. Or, click on "Cancel" to close and not save the selected language. There MUST be a source language chosen.
 
 === Second, Start the translationNotes Project ===
 
