@@ -25,14 +25,17 @@
 ===== translationWords: =====
 
   * [[:en:obe:kt:jesus]]
+  * [[en:obe:kt:word]]
   * [[:en:obe:other:amazed]]
-  * [[:en:obe:other:scribe]]
   * [[:en:obe:kt:authority]]
+  * [[:en:obe:other:scribe]]
 
 ===== Translation Notes: =====
 
   * **General Information:** - These verses describe how the people in the crowds reacted to Jesus' teaching in the Sermon on the Mount. (See: [[End of Story]])
 
+  * **It came about that when** - This phrase marks the conclusion of the Sermon on the Mount. AT: "After."
+  * **were astonished by his teaching** - It is clear in 7:29 that they were amazed not just at what Jesus taught but also the way he taught it. AT: "were amazed because of the way he taught."
 ===== Links: =====
 
   * [[:en:bible:notes:mat:00:intro]]
@@ -40,6 +43,6 @@
   * [[:en:bible:questions:comprehension:mat:07]]
 **[[:en:bible:notes:mat:07:26|<<]] | [[:en:bible:notes:mat:08:01|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit talink amazed scribe}}
+~~DISCUSSION~~{{tag>publish p2check talink amazed scribe}}
 
 ~~NOCACHE~~
