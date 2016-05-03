@@ -23,14 +23,15 @@ As you translate, be sure that you:
 
 ==== Create Translation Text ====
 
-**Note:**  "Source Language" refers to the language from which the translation is being done. "Target Language" refers to the language into which the translation is being done.''
+**Note:** "Source Language" refers to the language from which the translation is being done. "Target Language" refers to the language into which the translation is being done.''
 
 To write the translation in your language:
 
-  * Go to the book that is being translated.
-  * In the **Chapter**  view, read the source text.
-      * Scroll down to read the entire chapter or story. Click on the 'paper' behind the text page for a blank page to type in the target language translation of the text.
-      * The app is organized to work with blind drafting. You may want to read [[:en:ta:vol1:translate:mast|MAST Core Concepts]] to understand the steps of blind drafting translation.
+  * Go to the book that is being translated
+  * In the **Chapter**  view, read the source text
+      * Scroll down to read the entire chapter or story
+      * Click on the 'paper' behind the text page for a blank page to type in the target language translation of the text
+      * The app is organized to work with blind drafting (You may want to read [[:en:ta:vol1:translate:mast|MAST Core Concepts]] to understand the steps of blind drafting translation.)
   * Click on the **Begin Translating**  icon. The icon will disappear, and the **Chunk**  view opens with a blank page.
       * The **Chunk**  icon is the middle icon on the left and looks like a solid line square over a dotted line square.
       * Scroll down or up to move from chunk to chunk (a small section of the story or chapter). Click on the 'paper' behind the text page for a blank page to type in the target language translation of the text.
