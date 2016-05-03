@@ -21,7 +21,7 @@ From any screen in the program, click on the 3-dot menu icon found in the bottom
 
   * Click on the word "Home"
 
-**Note the ULB and the UDB should be translated into the Gateway Language before you begin to translate the translationNotes.**
+**Note: the ULB and the UDB should be translated into the Gateway Language before you begin to translate the translationNotes.**
 
   * Add a new project by clicking on the blue circle with a plus sign in the top right corner of the window
   * Choose a target language
