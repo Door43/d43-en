@@ -1,11 +1,10 @@
-===== Use translationStudio for the First Time =====
+===== How to Use translationStudio-Android for the First Time =====
 
 //This answers the question:// //How do I use translationStudio for the first time?//
 
 //In order to understand this topic, it would be good to read://
   * //[[en:ta:vol1:tech:ts_install|Install translationStudio-Android]]//
 
-==== First Use of tS ====
 Complete these steps to use translationStudio for the first time:
    * To turn on the tablet, press the button on the side.
    * Find the translationStudio icon on the tablet.
