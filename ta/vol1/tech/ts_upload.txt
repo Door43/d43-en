@@ -12,8 +12,8 @@ When you work in translationStudio, your text is saved every five minutes to you
 
 
 //Next we recommend you learn about://
-  * //[[en:ta:vol1:tech:ts_intro|translationStudio]]//
-  * //[[en:ta:vol1:tech:ts_install|Install translationStudio on an Android Device]]//
+  * //[[en:ta:vol1:tech:ts_intro|Introduction to the translationStudio-Android Program]]//
+  * //[[en:ta:vol1:tech:ts_install|Install translationStudio-Android]]//
   * //[[en:ta:vol1:tech:ts_first|Use translationStudio for the First Time]]//
   * //[[en:ta:vol1:tech:ts_select|Select Source and Target Languages]]//
   * //[[en:ta:vol1:tech:ts_open|Opening a Translation Project]]//

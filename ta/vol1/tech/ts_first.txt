@@ -3,7 +3,7 @@
 //This answers the question:// //How do I use translationStudio for the first time?//
 
 //In order to understand this topic, it would be good to read://
-  * //[[en:ta:vol1:tech:ts_install|Install translationStudio on an Android Device]]//
+  * //[[en:ta:vol1:tech:ts_install|Install translationStudio-Android]]//
 
 ==== First Use of tS ====
 Complete these steps to use translationStudio for the first time:
@@ -25,8 +25,8 @@ You can view the License Agreement, Statement of Faith, Translation Guidelines a
 
 
 //Next we recommend you learn about://
-  * //[[en:ta:vol1:tech:ts_intro|translationStudio]]//
-  * //[[en:ta:vol1:tech:ts_install|Install translationStudio on an Android Device]]//
+  * //[[en:ta:vol1:tech:ts_intro|Introduction to the translationStudio-Android Program]]//
+  * //[[en:ta:vol1:tech:ts_install|Install translationStudio-Android]]//
   * //[[en:ta:vol1:tech:ts_select|Select Source and Target Languages]]//
   * //[[en:ta:vol1:tech:ts_open|Opening a Translation Project]]//
   * //[[en:ta:vol1:tech:ts_navigate|Navigate in translationStudio]]//
