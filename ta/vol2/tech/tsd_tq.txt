@@ -43,16 +43,16 @@ The project window opens. The 4 sections displayed are (from left to right):
 
   * Read a chapter, or story, that has been translated into the Gateway Language.
   * Go to the first chunk.
-    * In the far right section, click on the 'Questions' tab. 
+  * In the far right section, click on the 'Questions' tab. 
   * Click on the plus sign in the center of the Target Language Questions section (tan color) of the chunk.
   * Type in the translation of the first, or only, question in the Questions section.
-    * Type in the translation on the first line where the words "Add Question Here" are.
+  * Type in the translation on the first line where the words "Add Question Here" are.
   * Type in the translation of the answer.
-    * Read the expected answer from the source text by clicking on the source text question.
-    * Type in the translation of the answer in the space where the words "Add Answer Here" are.
+  * Read the expected answer from the source text by clicking on the source text question.
+  * Type in the translation of the answer in the space where the words "Add Answer Here" are.
   * Add another question.
-    * Click on the plus sign on the top bar of the Target Language Questions section.
-    * Repeat the translating of the question and answers until all are done for that particular chunk.
+   * Click on the plus sign on the top bar of the Target Language Questions section.
+   * Repeat the translating of the question and answers until all are done for that particular chunk.
 
 == What if there are no source text questions for a chunk? == 
 
