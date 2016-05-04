@@ -18,7 +18,7 @@ In the Unlocked Dynamic Bible (UDB) parts of a number are written as decimals or
 
 === Decimal Numbers in the UDB ===
 
-^ Decimal ^ Fraction ^ Simpler Fraction^ \\ 
+^ Decimal ^ Fraction ^ Simpler Fraction^  
 |.1 |one tenth |  | 
 |.2 |two tenths | one fifth | 
 |.3 |three tenths |  | 
@@ -29,7 +29,8 @@ In the Unlocked Dynamic Bible (UDB) parts of a number are written as decimals or
 |.8 |eight tenths | four fifths | 
 |.9 |nine tenths |  | 
 |.25 |twenty-five one hundredths | one fourth | 
-|.75 |seventy-five one hundredths | three fourths|\\
+|.75 |seventy-five one hundredths | three fourths|
+
 
 === Reasons this is a translation issue ===
 
@@ -41,10 +42,11 @@ In the Unlocked Dynamic Bible (UDB) parts of a number are written as decimals or
 For telling about parts of a number, the Unlocked Literal Bible (ULB) uses fractions, and the Unlocked Dynamic Bible (UDB) uses mostly decimals when the number is used with a measurement. Another difference between the ULB and the UDB is that when measuring [[en:obe:other:biblicaldistance]], [[en:obe:other:biblicalweight]], and [[en:obe:other:biblicalvolume]], they use different systems, so the numbers in the ULB and the UDB are not the same for these measures.
 >They are to make an ark of acacia wood. Its length must be __two and a half cubits__; its width will be __one cubit and a half__; and its height will be __one cubit and a half__.  (Exodus 25:10 ULB)
 The ULB uses the fraction "half." This can also be written as a decimal: .5. 
->Tell the people to make a sacred chest from acacia wood. It is to be __one meter__ long, __0.7 meter wide__, and __0.7 meter__ high.(Exodus 25:10 UDB)\\ 
+>Tell the people to make a sacred chest from acacia wood. It is to be __one meter__ long, __0.7 meter wide__, and __0.7 meter__ high.(Exodus 25:10 UDB)
 The UDB uses the decimal 0.7. This equals seven tenths.
 
-Two and a half cubits is about one meter.\\ 
+Two and a half cubits is about one meter.
+
 One and a half cubits is about .7 meter or seven tenths of a meter.
 
 ==== Translation Strategies ====
@@ -60,10 +62,10 @@ One and a half cubits is about .7 meter or seven tenths of a meter.
 
 1. If you decide to use decimals and the measures in the ULB, you will need to change the fractions in the ULB to decimals.
   * ** __three tenths of an ephah__ of fine flour mixed with oil as a grain offering, and __one log__ of oil.** (Leviticus 14:10 ULB)
-   * " __0.3 ephah__ of fine flour mixed with oil as a grain offering, and __one log__ of oil."\\
+   * " __0.3 ephah__ of fine flour mixed with oil as a grain offering, and __one log__ of oil."
 
 2. If you decide to use fractions and the measures in the UDB, you will need to change the decimals in the UDB to fractions.
-  * ** __about 6.5 liters__ of a fine flour offering, mixed with olive oil, to be an offering, and about __one third liter__ of olive oil.** (Leviticus 14:10 UDB)\\
+  * ** __about 6.5 liters__ of a fine flour offering, mixed with olive oil, to be an offering, and about __one third liter__ of olive oil.** (Leviticus 14:10 UDB)
     * "__about six and a half liters__ of a fine flour offering, mixed with olive oil, to be an offering, and about __one third liter__ of olive oil."
 
 
