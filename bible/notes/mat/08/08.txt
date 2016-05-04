@@ -29,19 +29,26 @@
   * [[:en:obe:other:centurion]]
   * [[:en:obe:kt:lord]]
   * [[:en:obe:kt:worthy]]
+  * [[en:obe:kt:word]]
+  * [[en:obe:other:heal]]
   * [[:en:obe:kt:authority]]
+  * [[en:obe:other:warrior]]
   * [[:en:obe:other:amazed]]
   * [[:en:obe:kt:true]]
   * [[:en:obe:kt:amen]]
-  * [[:en:obe:other:israel]]
   * [[:en:obe:kt:faith]]
+  * [[:en:obe:other:israel]]
 
 ===== Translation Notes: =====
 
-  * **you should enter under my roof** - AT: "you should enter my home" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **say the word** - AT: "give the command"
+  * **you should enter under my roof** - The phrase "under my roof" means "my house." (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **say the word** - Here "word" means speak a command. AT: "give the command." (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **will be healed** - This can be stated in active form. AT: "will become well." (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **who is placed under authority** - This can be stated in active form. AT: "who is under the authority of someone else." (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **under authority...under me** - To be "under" someone means to be less important and to obey the commands of someone more important. (See: [[:en:ta:vol1:translate:figs_idiom]]) 
   * **soldiers** - "skilled fighters"
-  * **I have not found such faith with anyone in Israel** - Jesus' hearers would have thought that the Jews in Israel, who claim to be children of God, would have greater faith than anyone. Jesus is saying they are wrong and that the centurion's faith was greater.
+  * **truly I say to you** - "I tell you the truth." This phrase adds emphasis to what Jesus says next.
+  * **I have not found such faith with anyone in Israel** - Jesus' hearers would have thought that the Jews in Israel, who claim to be children of God, would have greater faith than anyone. Jesus is saying they are wrong and that the centurion's faith was greater. (See: [[:en:ta:vol1:translate:figs_explicit]])
 
 ===== Links: =====
 
@@ -50,6 +57,6 @@
   * [[:en:bible:questions:comprehension:mat:08]]
 **[[:en:bible:notes:mat:08:05|<<]] | [[:en:bible:notes:mat:08:11|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit authority true }}
+~~DISCUSSION~~{{tag>publish p2check authority true }}
 
 ~~NOCACHE~~
