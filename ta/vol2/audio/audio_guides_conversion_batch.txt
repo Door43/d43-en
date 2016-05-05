@@ -25,7 +25,7 @@ There are 2 ways to reach the location where the output format can be changed.
 
 {{https://test.unfoldingword.org/assets/img/ta/audio_MHAC_format_buttons.jpg}}
 
-From the drop down menu boxes, select the desired format settings. In this example, we are selecting MP3 format, 44100Hz, 128kbps. By default, MediaHuman offers this setting in stereo format, even though our source files are mono. We can either leave the setting as stereo, or we can make a custom setting for mono by choosing “Custom” from the format settings.
+From the drop-down menu boxes, select the desired format settings. In this example, we are selecting MP3 format, 44100Hz, 128kbps. By default, MediaHuman offers this setting in stereo format, even though our source files are mono. We can either leave the setting as stereo, or we can make a custom setting for mono by choosing "Custom" from the format settings.
 
 {{https://test.unfoldingword.org/assets/img/ta/audio_MHAC_output_settings.jpg}}
 

@@ -14,7 +14,7 @@ Fortunately, setting a proper gain level is one of the easiest things to do and 
 
 Every mic is paired with a preamp, which may be in the form of a dedicated external preamp device, an audio interface, a mixing console channel preamp, a computer sound card or built into the mic. On a practical level, adjusting the gain level will be done either with an analog control knob on a device, by adjusting the sound settings in the computer control panel settings, or both. It is generally good advice to never set any preamp level to 100%, as it can add electronic noise into the recorded signal. If it seems that setting at 100% is necessary, it may be an indicator that one of the other three variables is not set right or that you are using equipment not designed for voice recording applications.
 
-By contrast, if you find the need to set a level at 10% or “slightly on”, you are probably using a setup with multiple gain staging and at a different stage in the signal path the gain is set too high. 
+By contrast, if you find the need to set a level at 10% or "slightly on", you are probably using a setup with multiple gain staging and at a different stage in the signal path the gain is set too high. 
 Operating at either of these extreme volume settings is not a good idea, with risk of added noise or a recorded signal that is thin and does not replicate the quality produced in the live environment. Multi-gain level systems should be avoided if possible due to the added complexity, the exception being a mic such as the Zoom H2n (please read module on setting up the Zoom H2n).
 
 Our recommendation is to operate within the range of 25%-75% on equipment level settings.

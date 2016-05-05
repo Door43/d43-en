@@ -9,7 +9,7 @@ Normalizing is the process of setting the loudest point of an audio track to a s
 {{https://test.unfoldingword.org/assets/img/ta/audio_ocenaudio_normalize.jpg}}
 
   - Make sure the file you would like to normalize is the active track in the waveform editor.
-  - Click on Edit → Amplitude → Normalize…  (or press the shortcut key, we assigned “N”)
+  - Click on Edit → Amplitude → Normalize…  (or press the shortcut key, we assigned "N")
   - In the Normalize window, set the target to -3.0 dB and click Apply
 
 {{https://test.unfoldingword.org/assets/img/ta/audio_ocenaudio_normalize_-3.jpg}}
