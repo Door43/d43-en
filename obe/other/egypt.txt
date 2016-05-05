@@ -2,13 +2,16 @@
 
 ===== Facts: =====
 
-Egypt is a country in the northeast part of Africa, to the south and west of the land of Canaan.
+Egypt is a country in the northeast part of Africa, to the southwest of the land of Canaan. An Egyptian is a person who is from the country of Egypt.
 
-  * An Egyptian is a person who was born in Egypt and whose ancestors were from Egypt.
   * In ancient times, Egypt was a powerful and wealthy country.
-  * Ancient Egypt was divided into two parts, Lower and Upper. "Lower Egypt" was where the Nile River flowed down into the Mediterranean Sea.
-  * Joseph and Mary went down to Egypt with the young child Jesus, to flee Herod.
+  * Ancient Egypt was divided into two parts, Lower Egypt (northern part where the Nile River flowed downward into the sea) and Upper Egypt (southern part). In the Old Testament, these parts are referred to as "Egypt" and "Pathros" in the original language text.
+  * Joseph and Mary went down to Egypt with the young child Jesus, to escape Herod's
   * Several times when there was little food in Canaan, Israel's patriarchs traveled to Egypt to buy food for their families.
+
+(Translation suggestions: [[:en:ta:vol1:translate:translate_names]])
+
+(See also:  [[:en:obe:other:josephnt]],  [[:en:obe:other:nileriver]], [[:en:obe:other:patriarchs]])
 
 
 ===== Bible References: =====
@@ -23,6 +26,6 @@ Egypt is a country in the northeast part of Africa, to the south and west of the
   * **[[:en:obs:notes:frames:08-14|[08-14]]]** Even though Jacob was an old man, he moved to **Egypt**  with all of his family, and they all lived there.
   * **[[:en:obs:notes:frames:09-01|[09-01]]]** After Joseph died, all of his relatives stayed in **Egypt**.
 
-~~DISCUSSION~~{{tag>publish ktobs}}
+~~DISCUSSION~~{{tag>publish ktobs ktlink}}
 
 ~~NOCACHE~~
