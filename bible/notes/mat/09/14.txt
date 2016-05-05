@@ -33,17 +33,17 @@
   * [[:en:obe:other:Pharisee]]
   * [[:en:obe:other:fast]]
   * [[:en:obe:other:bridegroom]]
+  * [[en:obe:other:biblicaltimeday]]
 
 ===== Translation Notes: =====
 
   * **Connecting Statement:** - The disciples of John the Baptist question the fact that Jesus' disciples do not fast.
 
   * **do not fast** - "continue to eat regularly" 
-  * **Can wedding attendants be sorrowful...them?** - No one would expect the wedding attendants to fast while the bridegroom was with them. (See [[:en:ta:vol1:translate:figs_rquestion]])
-  * **wedding attendants** - This is a metaphor for Jesus' disciples. (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **the bridegroom is still with them...when the bridegroom will be taken away** - The "bridegroom" is Jesus, who is still alive and so "is still with" his disciples. (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **the bridegroom will be taken away** - AT: "someone will take the bridegroom away." This is a metaphor for being killed. (See: [[:en:ta:vol1:translate:figs_metaphor]], [[:en:ta:vol2:translate:figs_activepassive]])
-  * **be sorrowful** - "mourn" or "be sad" (UDB)
+  * **Can wedding attendants be sorrowful while the bridegroom is still with them?** - Jesus uses a question to answer John's disciples. They all knew that people do not mourn and fast at a wedding celebration. Jesus uses this proverb to mean that his disciples do not mourn because he is still there with them. (See: [[:en:ta:vol1:translate:figs_rquestion]] and [[:en:ta:vol2:translate:writing_proverbs]])
+  * **But the days** - "But the time"
+  * **the bridegroom will be taken away from them** - This can be stated in active form. AT: "the bridegroom will not be able to be with them any longer" or "someone will take the bridegroom away from them." (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **will be taken away** - Jesus is probably referring to his own death, but this should not be made explicit here in the translation. To maintain the imagery of a wedding, it is best to just state that the bridegroom will not be there any longer.
 
 ===== Links: =====
 
@@ -52,6 +52,6 @@
   * [[:en:bible:questions:comprehension:mat:09]]
 **[[:en:bible:notes:mat:09:12|<<]] | [[:en:bible:notes:mat:09:16|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit fast bridegroom}}
+~~DISCUSSION~~{{tag>publish p2check fast bridegroom}}
 
 ~~NOCACHE~~
