@@ -23,7 +23,7 @@ The following suggestions are steps that can be taken for no cost.
 **Scan for viruses and malware** - If you have viruses or malware busy in the background they can steal valuable power that you need for audio processing. Install and run excellent, free, light-weight programs such as BitDefender Free and Malwarebytes to remove any issues from your computer.
 
 
-**Uninstall unnecessary programs** - Get rid of unnecessary programs and other items if you don't need them on your hard drive. Beside the possibility of those programs running in the background or wanting to update, they take up hard drive space. Most hard drives begin to lose speed and performance when more than 2/3's full. So maximizing space for your new audio material and “empty” space will yield the best performance.
+**Uninstall unnecessary programs** - Get rid of unnecessary programs and other items if you don't need them on your hard drive. Beside the possibility of those programs running in the background or wanting to update, they take up hard drive space. Most hard drives begin to lose speed and performance when more than 2/3's full. So maximizing space for your new audio material and "empty" space will yield the best performance.
 
 
 **Log out of online services** - Online services (email, IM, Facebook, media streaming, etc.) draw processing power and can give distracting notification messages and sound effects. Log out of those and close the programs. To be even more efficient, disconnect from the LAN or wireless network while recording.
@@ -32,8 +32,8 @@ The following suggestions are steps that can be taken for no cost.
 **Turn off Aero** - Windows Aero is a feature that adds luxury to visual experience of using Windows. To do this Aero reduces the speed and performance of your laptop slightly. It is easy to turn off Aero so that that more processing power can be devoted toward your audio project. Follow these steps:
 
   - Right click anywhere on the desktop screen.
-  - Select “Personalize” from the menu that appears.
-  - Scroll to find the category called “Basic” themes and select one.
+  - Select "Personalize" from the menu that appears.
+  - Scroll to find the category called "Basic" themes and select one.
 
 
 ==== Low-cost Hardware Improvements ====
