@@ -5,12 +5,12 @@ Return to: [[:en:phase1:team-info:processes:create-notes|How to Create Translati
 ===== General Principles for Formatting Notes: =====
 
   * Select a portion from the ULB that needs a note and write it in bold by one of the bullets under "Translation Notes."
-  * Write a translation suggestion that can be used in place of the portion you have selected.
-    * Put the suggestion in quotes.
-    * If there is more than one suggestion, separate them with the word "or."
-      * "X" or "Y" (See: TA-LINK)
+  * Write a translation suggestion that can be used in place of the portion you have selected. It must fit the context exactly.
+    * Put the suggestion in quotes. Do not use bold. Do not use italics.
+    * If there is more than one suggestion, separate them with the word "or." Do not ever use "Or" capped.
+      * "X" or "Y" (See: TA-LINK) Example: ** matters** - “reports” or “true stories” Exaple: **before God** - “in God's sight” or “in God's opinion” (See: Idiom)
       * [explanation]. AT: "X" or "Y" //(when this is the only item in the note)//
-      * ...AT: "X" or "Y." //(when it follows other text in the note)//
+      * ...AT: "X" or "Y." //(when it follows other text in the note)// Example: **servants of the message** - You may need to specify what the message is. AT: “had served God by telling people his message” or “had taught people the good news about Jesus.” (See: Assumed Knowledge and Implicit Information)
     * When the suggestions are mixed, separate them with a period.
       * "X." AT: "Y." (See: TA-LINK)
   * Write an explanation if needed.
