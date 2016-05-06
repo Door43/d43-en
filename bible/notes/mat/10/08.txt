@@ -31,6 +31,8 @@
   * [[:en:obe:other:leprosy|lepers]]
   * [[:en:obe:other:castout|cast out]]
   * [[:en:obe:kt:demon|demons]]
+  * [[en:obe:other:gold]]
+  * [[en:obe:other:silver]]
   * [[:en:obe:other:tunic]]
   * [[:en:obe:other:sandal|sandals]]
   * [[:en:obe:other:staff|staff]]
@@ -40,13 +42,14 @@
 
   * **Connecting Statement:** - Jesus continues to instruct his disciples about what they should do when they go to preach.
 
-  * **you...your** - This refers to the twelve apostles.
+  * **you...your** - These are plural and refer to the twelve apostles. (See: [[:en:ta:vol1:translate:figs_you]])
+  * **Freely you have received, freely give** - There is information here that is not stated but it is understood. AT: "I helped you and taught you God's truth for free. Therefore, you should not make other people pay for you to help them or to teach them God's truth." (See: [[:en:ta:vol2:translate:figs_ellipsis]])
   * **gold, silver, or brass** - These are metals out of which coins were made. This list is a metonym for money, so if the metals are unknown in your area, translate the list as "money." (See: [[:en:ta:vol2:translate:figs_metonymy]])
   * **purses** - This means "belts" or "money belts," but it can refer to whatever might be used to carry money. A belt is a long strip of cloth or leather worn around the waist. It was often wide enough that it could be folded and used to carry money.
   * **traveling bag** - This could either be any bag used to carry things on a journey, or a bag used by someone to collect food or money.
   * **an extra tunic** - Use the same word you used for "tunic" in [[:en:bible:notes:mat:05:40|5:40]].
   * **laborer** - "worker"
-  * **his food** - AT: "what he needs"
+  * **his food** - Here "food" refers to anything a person needs. AT: "what he needs." (See: [[:en:ta:vol2:translate:figs_synecdoche]])
 ===== Links: =====
 
   * [[:en:bible:notes:mat:00:intro]]
@@ -54,6 +57,6 @@
   * [[:en:bible:questions:comprehension:mat:10]]
 **[[:en:bible:notes:mat:10:05|<<]] | [[:en:bible:notes:mat:10:11|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit staff}}
+~~DISCUSSION~~{{tag>publish p2check staff}}
 
 ~~NOCACHE~~
