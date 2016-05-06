@@ -60,7 +60,7 @@ Audacity will want to save your audio file in their own proprietary format (.aup
 
   - go to File → Export.  
   - Name your file.
-  - In the “Save as type” drop down menu, select either WAV or MP3.
+  - In the "Save as type" drop down menu, select either WAV or MP3.
   - Click the Options button if you are saving as MP3. Choose these settings:
     * Bit Rate Mode: Constant
     * Quality: 128 kbps
