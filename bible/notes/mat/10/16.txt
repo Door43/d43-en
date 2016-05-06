@@ -27,6 +27,7 @@
 
 ===== translationWords: =====
 
+  * [[en:obe:other:send]]
   * [[:en:obe:other:sheep]]
   * [[:en:obe:other:wolf]]
   * [[:en:obe:kt:wise]]
@@ -44,19 +45,17 @@
 
   * **Connecting Statement:** - Jesus continues to instruct his disciples. Here he begins to tell them about the persecution they will endure when they go out to preach.
 
-  * **See** - The word "See" here adds emphasis to what follows. AT: "Look" or "Listen" or "Pay attention to what I am about to tell you"
+  * **See** - The word "See" here adds emphasis to what follows. AT: "Look" or "Listen" or "Pay attention to what I am about to tell you."
   * **I send you out** - Jesus is sending them out for a particular purpose.
-  * **as sheep in the midst of wolves** - Jesus compares the disciples he is sending out to defenseless animals going to where wild animals are likely to attack them. (See: [[:en:ta:vol1:translate:figs_simile]])
-  * **as sheep** - Sheep are defenseless. (See: [[:en:ta:vol1:translate:figs_simile]])
-  * **in the midst of wolves** - AT: "among people who are like dangerous wolves" or "among people who act the way dangerous animals act" or "among people who will attack you" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **be as wise as serpents and harmless as doves** - It might be better not to state the similes. AT: "act with understanding and caution, as well as with innocence and virtue." (See: [[:en:ta:vol1:translate:figs_simile]])
-  * **They will deliver you up to councils** - AT: "Because they will hand you over to their courts"
-  * **deliver you up to** - This is what Judas did to Jesus. AT: "betray you to" or "give you up to" or "have you arrested and tried by."
-  * **councils** - These are local religious leaders or elders who together keep peace in the community. AT: "courts."
-  * **whip you** - AT: "beat you with a whip"
-  * **you will be brought** - "they will bring you" or "they will drag you" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **for my sake** - AT: "because you belong to me" (UDB) or "because you follow me"
-  * **to them and to the Gentiles** - The pronoun "them" refers either to the "governors and kings" or to the Jewish accusers (10:17).
+  * **as sheep in the midst of wolves** - Sheep are defenseless animals that wolves often attack. Jesus is stating that the people may harm the disciples. AT: "as sheep among people who are like dangerous wolves" or "as sheep among people who act the way dangerous animals act." (See: [[:en:ta:vol1:translate:figs_simile]])
+  * **be as wise as serpents and harmless as doves** - Jesus is telling the disciples they must be cautious and harmless among the people. If comparing the disciples to serpents or doves is confusing, it might be better not to state the similes. AT: "act with understanding and caution, as well as with innocence and virtue." (See: [[:en:ta:vol1:translate:figs_simile]])
+  * **Watch out for people! They will** - You can translate with "because" to show how these two statements relate. AT: "Watch out for people, because they will." (See: [[:en:ta:vol2:translate:writing_connectingwords]])
+  * **deliver you up to** - "betray you to" or "give you up to" or "have you arrested and tried by"
+  * **councils** - "courts." These are local religious leaders or elders who together keep peace in the community.
+  * **whip you** - "beat you with a whip"
+  * **you will be brought** - This can be stated in active form. AT: "they will bring you" or "they will drag you." (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **for my sake** - "because you belong to me" (UDB) or "because you follow me"
+  * **to them and to the Gentiles** - The pronoun "them" refers either to the "governors and kings" or to the Jewish accusers.
 
 ===== Links: =====
 
@@ -65,6 +64,6 @@
   * [[:en:bible:questions:comprehension:mat:10]]
 **[[:en:bible:notes:mat:10:14|<<]] | [[:en:bible:notes:mat:10:19|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~
