@@ -120,8 +120,6 @@ edge [arrowsize=1.4];
 "alphabet" -> "verses"
 "vol2_backtranslation" [fillcolor="#ffff99"]
 "vol2_steps" -> "vol2_backtranslation"
-"vol2_backtranslation_guidelines" [fillcolor="#ffff99"]
-"vol2_backtranslation_written" -> "vol2_backtranslation_guidelines"
 "vol2_backtranslation_kinds" [fillcolor="#ffff99"]
 "vol2_backtranslation_who" -> "vol2_backtranslation_kinds"
 "vol2_backtranslation_purpose" [fillcolor="#ffff99"]
