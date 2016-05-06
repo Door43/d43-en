@@ -7,9 +7,11 @@ Return to: [[:en:phase1:team-info:processes:create-notes|How to Create Translati
   * Select a portion from the ULB that needs a note and write it in bold by one of the bullets under "Translation Notes."
   * Write a translation suggestion that can be used in place of the portion you have selected. It must fit the context exactly.
     * Put the suggestion in quotes. Do not use bold. Do not use italics.
+
     * If there is more than one suggestion, separate them with the word "or." Do not ever use "Or" capped.
-      * "X" or "Y" (See: TA-LINK) Example: ** matters** - “reports” or “true stories” Example: **before God** - “in God's sight” or “in God's opinion” (See: Idiom)
-      * [explanation]. AT: "X" or "Y" //(when this is the only item in the note)//
+      * "X" or "Y" (See: TA-LINK) Example: ** matters** - “reports” or “true stories” Example: **before God** - “in God's sight” or “in God's opinion” (See: Idiom) Example: AT: "You evil, poisonous snakes!" or "You are evil like poisonous snakes."
+
+      <del>* [explanation]. AT: "X" or "Y" //(when this is the only item in the note)//</del>
       * ...AT: "X" or "Y." //(when it follows other text in the note)// Example: **servants of the message** - You may need to specify what the message is. AT: “had served God by telling people his message” or “had taught people the good news about Jesus.” (See: Assumed Knowledge and Implicit Information)
     * When the suggestions are mixed, separate them with a period.
       * "X." AT: "Y." (See: TA-LINK)
@@ -91,12 +93,12 @@ If the meaning is given in a way that can be used as a translation, put it in qu
 
 === Identify Figures of Speech ===
 
-When writing a note to identify and explain a figure of speech, use full sentences and put the meaning in quotes.
+When writing a note to identify and explain a figure of speech, use full sentences and then put the alternate translation in quotes, as usual.
 
   * **Make ready the way of the Lord**  - This phrase compares people preparing themselves for the arrival of the Lord to people who are repairing a road for someone to use it. AT: "Repent and be ready for when the Lord comes." (See: Metaphor)
   * **You offspring of poisonous snakes**  - Jesus uses this expression to emphasize how dangerous the Pharisees are. Poisonous snakes are dangerous and represent evil. AT: "You evil, poisonous snakes!" or "You are evil like poisonous snakes." (See: Metaphor)
 
-  * **Their mouths are full of cursing and bitterness** - "full" here is an exaggeration and the word "mouths" here represents the people's thoughts. AT: "Much of what people say is harmful and meant to hurt other people." (See: Hyperbole and Synecdoche)
+  * **Their mouths are full of cursing and bitterness** - Here "full" is an exaggeration and the word "mouths" here represents the people's thoughts. AT: "Much of what people say is harmful and meant to hurt other people." (See: Hyperbole and Synecdoche)
 
 If there is a Translation Academy page that deals with a figure of speech, you can include it in the note. You can see the list of topics at: [[:en:ta:ta-topics|translationAcademy Topics]]
 
@@ -104,26 +106,26 @@ If there is a Translation Academy page that deals with a figure of speech, you c
 
 === Indirect to Direct Quote ===
 
-When adding the option for a direct quote, preface the alternate with "This can be translated as a direct quote:" followed by the new phrase.
+When adding the option for a direct quote, preface the alternate translation with "This can be translated as a direct quote:" followed by the new phrase.
 
   * **to tell no one**  - This can be translated as a direct quote: "Do not tell anyone." The implied information is "that you have been healed." (See: Direct and Indirect Quotes and Making Assumed Knowledge and Implicit Information Explicit)
 
 === Explanation of Source Language ===
 
-In general, we want to downplay the original languages because most of the users of the notes will not have had any training in them. This does not mean we avoid the content. Rather, we should look for simple ways to express it. When possible, use plain-language explanations in English.
+In general, we want to downplay the original languages because most of the notes users will not have had any training in them. This does not mean we avoid the content. Rather, we should look for simple ways to express it. When possible, use plain-language explanations in English.
 
   * **sinful man**  - The word here for "man" means "adult male" and not the more general "human being."
-  * **Master**  - The word that is translated here as "Master" is not the normal word for "Master." This one refers to someone who has authority, and not to someone who owns someone else. AT: "Boss" or "Foreman" or use a word that is commonly used to address a person in authority, such as "Sir."
+  * **Master**  - The word that is translated here as "Master" is not the normal word for "Master." This one refers to someone who has authority and not to someone who owns someone else. AT: "Boss" or "Foreman" or use a word that is commonly used to address a person in authority, such as "Sir."
 
 === Multiple Notes on Long Phrases ===
 
-Sometimes we need notes for a phrase and separate notes for portions of that phrase. In that case, we list the larger phrase first, and its parts afterward, unless there is a compelling reason to reverse them.
+Sometimes we need notes for a phrase or sentence and separate notes for portions of it. In that case, we list the larger phrase first, and its parts afterward, unless there is a compelling reason to reverse them.
 
   * **you say, 'Behold, he is a gluttonous man**  - This can be translated as an indirect quote: "you say that he is a gluttonous man" or "you accuse him of being a gluttonous man."
   * **he is a gluttonous man**  - "he is a greedy eater" or "he habitually eats too much food"
 === Repeated Phrases in a Book ===
 
-Sometimes a phrase is used multiple times in a book. We can make it easier for the translators by reminding them of where they have already translated that phrase so they can translate it the same way. We point them back to notes only in the book they are working on.
+Sometimes a phrase is used multiple times in a book. We can make it easier for the translators by reminding them of where they have already translated that phrase so they can now translate it the same way. We point them back to notes only in the book they are working on.
 
   * **be fruitful and multiply**  - See how you translated these commands in [[:en:bible:notes:gen:01:28|1:28]].
   * **everything that creeps along the ground**  - This includes all types of small animals. See how you translated this in [[:en:bible:notes:gen:01:24|1:25]].
@@ -131,10 +133,10 @@ Sometimes a phrase is used multiple times in a book. We can make it easier for t
 
 === Connecting Statement & General Information (under development) ===
 
-There are two special types of notes that contain fixed text for the ULB phrase. they are **Connecting Statement:**  and **General Information:**.
+There are two special types of notes that contain fixed text for the ULB phrase. They are **Connecting Statement:**  and **General Information:**.
 
-  * **Connecting Statement:**  - This is a note that relates the current chunk to the current discourse. When present, it must be the first note and separated by a blank line from the rest of the notes unless there is also a general information note. There is only one connecting statement used per chunk.
-  * **General Information:**  - This is a note that addresses other discourse topics not mentioned in the connecting statement. General information notes can occur alone or immediately following the connecting statement and are separated by a blank line from the rest of the notes. There can be one or more general information notes in a chunk.
+  * **Connecting Statement:**  - This is a note that relates the current chunk to the current discourse. When present, it must be the first note and separated by a line space from the rest of the notes unless there is also a general information note. There is only one connecting statement used per chunk.
+  * **General Information:**  - This is a note that addresses other discourse topics not mentioned in the connecting statement. General information notes can occur alone or immediately following the connecting statement and are separated by a line space from the rest of the notes. There can be one or more general information notes in a chunk.
 
 <code>
   * **Connecting Statement:** - [explanation]
