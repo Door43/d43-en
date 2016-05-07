@@ -61,7 +61,9 @@ There are two special types of notes that are used that contain fixed text for t
   * **General Information:** - This is a note that addresses other discourse topics not mentioned in the connecting statement. General information notes can occur alone or immediately following the connecting statement and are separated by a blank line from the rest of the notes. There can be one or more general information notes in a chunk.
 
 ==== Format ====
+
   * **Connecting Statement:** - Explanation
+
   * **General Information:** - Explanation
 
 === Bible Example ===
