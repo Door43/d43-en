@@ -28,7 +28,6 @@ Create notes as follows:
       - restating the phrase and making implicit information explicit
   - **(Optional)**  Add TA Link
   * **(1) ULB Text**  - **(2)**  Clarifying translation. **(3)**  Text meaning. **(4)**  Alternate translation suggestion. **(5)**  (See: Translation Academy Topic)
-
 ==== Comments ====
 
   * All Notes require **(1)**  a phrase from the ULB Text. Try to avoid single word entries. Please include the context. (Ex. for pronouns like "he", "he has promised" is better than "he")
@@ -62,30 +61,25 @@ There are two special types of notes that are used that contain fixed text for t
   * **General Information:** - This is a note that addresses other discourse topics not mentioned in the connecting statement. General information notes can occur alone or immediately following the connecting statement and are separated by a blank line from the rest of the notes. There can be one or more general information notes in a chunk.
 
 ==== Format ====
+  * **Connecting Statement:** - Explanation
+  * **General Information:** - Explanation
 
+=== Bible Example ===
+
+Luke1:1
+  * **Connecting Statement:** - Luke explains why he is writing to Theophilus.
+
+  * **accounts**  - "reports" or "true stories"
+ 
 Mark 1:1 
 
   * **Connecting Statement:** - The book begins with the prophet Isaiah's statement which foretold the coming of John the baptist who baptizes Jesus.
 
   * **General Information:** - The author is Mark, also called John Mark, who is the son of one of the Marys mentioned in the four gospels as well as the nephew of Barnabas.
 
-=== Bible Example ===
-
-Luke1:1
-  * **Connecting Statement:** - Luke explains why he is writing to Theophilus.
- 
-=== Bible Example ===
-
-James 1:1 
-
-  * **Connecting Statement:** - After his opening greeting, James tells the believers that the purpose of trouble is to test faith.
-
-=== Bible Example ===
-
 I Timothy 5:1
 
   * **Connecting Statement:** - Paul continues to tell Timothy how to treat the men, women, widows, and younger women in the church.
-
   * **General Information:** - Paul was giving these commands to one person, Timothy. Languages that have different forms of “you” or different forms for commands would use the singular form here. (See: Forms of You)
 
   * **[Other notes]** - [note comments]
