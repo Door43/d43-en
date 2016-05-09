@@ -40,6 +40,7 @@
   * [[:en:obe:other:preach|preach]]
   * [[:en:obe:other:johnthebaptist|John]]
   * [[:en:obe:other:prison|prison]]
+  * [[en:obe:kt:works]]
   * [[:en:obe:kt:christ|Christ]]
 
 ===== Translation Notes: =====
@@ -48,12 +49,13 @@
 
   * **It came about that when** - This phrase introduces a summary of what Jesus did after teaching the disciples. AT: "After."
   * **instructing** - "teaching" or "commanding."
-  * **his twelve disciples** - This refers to the twelve chosen apostles of Jesus.
-  * **Now** - "At that time." This can also be omitted.
-  * **when John heard in the prison about** - Alternative translations: "When John, who was in prison, heard about" or "When someone told John, who was in prison, about"
+  * **his twelve disciples** - This refers to the 12 chosen apostles of Jesus. (See: [[:en:ta:vol2:translate:translate_numbers]])
+  * **in their cities** - Here "their" refers to all the Jews in general.
+  * **Now** - This word is used here to mark a break in the main storyline. Here Matthew starts to tell a new part of the story.
+  * **when John heard in the prison about** - "When John, who was in prison, heard about" or "When someone told John, who was in prison, about." Matthew has not told the reader yet that King Herod put John the Baptist in prison. Matthew will explain this in 14:3-4.
   * **he sent a message by his disciples** - John the Baptist sent his own disciples with a message to Jesus.
   * **and said to him** - The pronoun "him" refers to Jesus.
-  * **Are you the Coming One** - Whether translated "Coming One" or "the one whom we are expecting to come," this is a euphemism for the Messiah or Christ. (See: [[:en:ta:vol2:translate:figs_euphemism]])
+  * **Are you the Coming One** - "Are you the one whom we are expecting to come." The phrase "the Coming One" is another way to refer to the Messiah or Christ.
   * **we should be looking for** - "we should be expecting." The pronoun "we" refers to all Jews, not only John's disciples.
 
 ===== Links: =====
@@ -63,6 +65,6 @@
   * [[:en:bible:questions:comprehension:mat:11]]
 **[[:en:bible:notes:mat:10:42|<<]] | [[:en:bible:notes:mat:11:04|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit disciple}}
+~~DISCUSSION~~{{tag>publish p2check disciple}}
 
 ~~NOCACHE~~
