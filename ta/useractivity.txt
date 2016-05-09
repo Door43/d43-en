@@ -2,14 +2,14 @@
 
 
 user for the last *96 hours
-{{changes>en:bible:notes &user=user&count=1000&render=pagelist(header,date,user,nocomments)&maxage=345600}} 
+{{changes>en:ta &user=drglovier&count=1000&render=pagelist(header,date,user,nocomments)&maxage=345600}} 
 
 
 
 Activity - Check
 
 
-{{changes>en:bible:notes &user=username&count=1000&render=pagelist(header,date,user,nocomments)&maxage=25920000}} 
+{{changes>en:ta &user=drglovier&count=1000&render=pagelist(header,date,user,nocomments)&maxage=25920000}} 
 
 Changes this week
 
