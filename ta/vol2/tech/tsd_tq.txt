@@ -58,6 +58,7 @@ Add another question.
 The Gateway Language translator should make the decision if there should be a question or if no question for that chunk is the right thing to do.
   * To add a question - click on the plus sign on the header of the chunk and add the new question and answer in the correct spaces.
   * To leave the chunk without questions - click on the 'Mark chunk as done' slider to confirm that the chunk is complete. 
+  * To remove a question - click on the X at the top right of the Question box.
 
 === Finally, Mark the Chunk as Done and go to the Next Chunk ===
 
