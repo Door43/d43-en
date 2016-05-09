@@ -2,6 +2,12 @@
 
 ~~NOCACHE~~
 
+==== Published chunks without P2 tag ====
+
+{{door43pages @:en:bible:notes:luk -r -q="\{\{tag>((?![^}]*p2review)|(?![^}]*p2check)|(?![^}]*p2pass))((?=[^}]*publish)|(?=[^}]*review))[^}]*\}\}" -exclude:home -simpleLineBreak -title -fontsize="90%"}}
+
+
+
 ==== Luke status: ====
 
 ^  p2edit  ^  p2check  ^  p2review  ^  p2pass  ^
