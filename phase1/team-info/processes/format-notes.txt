@@ -7,7 +7,7 @@ Return to: [[:en:phase1:team-info:processes:create-notes|How to Create Translati
   * Select a portion from the ULB that needs a note and copy it in bold, preceded by a bullet under "Translation Notes."
   * Write a translation suggestion that can be used in place of the portion you have selected. It must fit the context exactly.
     * Put the suggestion in quotes. Do not use bold. Do not use italics.
-    * Example:**from the daughters of Aaron** - “descended from Aaron”
+    * Example: **from the daughters of Aaron** - “descended from Aaron”
 
     * If there is more than one suggestion, separate them with the word "or." Do not ever use "Or" capped.
     * Examples:
@@ -15,37 +15,42 @@ Return to: [[:en:phase1:team-info:processes:create-notes|How to Create Translati
       * "X" or "Y" **before God** - “in God's sight” or “in God's opinion” (See: Idiom) 
       * "X" or "Y" AT: "You evil, poisonous snakes!" or "You are evil like poisonous snakes."
 
-      * ...AT: "X" or "Y." Whenever an AT follows other explanatory text in the note, a period is needed at the end of the AT. Example: **servants of the message** - You may need to specify what the message is. AT: “had served God by telling people his message” or “had taught people the good news about Jesus.” (See: Assumed Knowledge and Implicit Information)
+      * ...AT: "X" or "Y." Whenever an AT follows other explanatory text in the note, a period is needed at the end of the AT.
+      * Example: 
+        * **servants of the message** - You may need to specify what the message is. AT: “had served God by telling people his message” or “had taught people the good news about Jesus.” (See: Assumed Knowledge and Implicit Information)
 
     * Also, whenever the suggestions are mixed (a similar word or expression plus an AT), separate them with a period.
-      * "X." AT: "Y." (See: TA-LINK) Example: **looked at me with favor** - “to look at” is an idiom that means “to treat” or “to deal with.” AT: “regarded me kindly” or “had pity on me” (See: Idiom)
+      * "X." AT: "Y." (See: TA-LINK) 
+      * Example: **looked at me with favor** - “to look at” is an idiom that means “to treat” or “to deal with.” AT: “regarded me kindly” or “had pity on me” (See: Idiom)
 
   * Write a sentence explanation if needed. All occurrences of "AT" need an explanation.
   * Refer the translators to a Translation Academy page, if needed, at the end of the note. Example: (See: Metaphor)
-  * Normally we do not need to write notes for terms that are in the Important Terms list. When an important term has multiple senses, however, you may need to write a note telling which sense is meant in the text.
+  * Normally we do not need to write notes for terms that are in the Important Terms list. But if an important term has multiple senses, you may need to write a note telling which sense is meant in the text.
 
 
 ===== Formats for Specific Types of Notes: =====
 
-There are several ways to write translation notes. We would like them to fit into one of the following formats so we can easily train the translators and so they will recognize the purpose of each note.
+There are several ways to write translation notes. We would like them to fit into one of the following formats, so we can easily train the translators and so they will recognize the purpose of each note.
 
 === Definitions ===
 
-Simple definitions of words or phrases can be added without quotes or sentence format. Note no period is needed at the end.
+Simple definitions of words or phrases can be added without quotes or sentence format. Note no period is needed at the end of such notes.
 
   * **marketplace**  - a large, open-air area where people would come to sell their goods
   * **flute**  - a long, hollow musical instrument that is played by blowing air in or over one end
   * **kings' palaces**  - a large, expensive house that a king lives in
 === Explanations ===
 
-Simple explanations about words or phrases should be in full sentence format.
+Simple explanations about words or phrases should be in full-sentence format.
 
   * **washing their nets**  - They were cleaning their fishing nets in order to use them again to catch fish.
   * **motioned**  - They were too far from shore to call, so they made gestures, probably waving their arms.
+  * **behold** - The word “behold” alerts us to a new person in the story.
+  * **the gospel of the kingdom** - Here “kingdom” refers to God's rule as king. 
 
 === Synonyms and Equivalent Phrases ===
 
-Synonyms and equivalent phrases should simply be written in double quotes. They do not need to be full sentences and should not normally be punctuated. However, if they are followed by another sentence, they should have a final period to set them off from the following sentence.
+Synonyms and equivalent phrases should simply be written in double quotes. They do not need to be full sentences and should not normally be punctuated. However, if they are followed by another sentence, they should have a final period to set them off from the following sentence (see last example).
 
   * **the way**  - "the path" or "the road"
   * **He went out**  - "Moses went out"
@@ -56,7 +61,7 @@ Synonyms and equivalent phrases should simply be written in double quotes. They 
 
 "Alternate Translations" are translation suggestions that have a different structure or that appear to have different content from the ULB. We give these suggestions because translators of some languages may not be able to use the structure in the ULB, or they may need to make certain information clear. 
 
-First give a reason for the alternate translation so that the MTT can understand why it is acceptable. For example, when you come across an active/passive note, add "This can be stated in active form." Then write "AT:"  followed by the translation. The need for alternate translations include making information explicit, changing passive voice to active, explaining metaphors, and stating rhetorical questions as statements. 
+First give a reason for the alternate translation so that the MTT can understand why it is acceptable. For example, when you come across an active/passive note, add "This can be stated in active form." Then write "AT:"  followed by the translation and the TAlink to Active/Passive. The need for alternate translations include making information explicit, changing passive voice to active, explaining metaphors, stating rhetorical questions as statements, and more. Note the requisite period following the AT in these examples below.
 
   * **see the salvation of God**  - This can be reworded so that it uses the verb "save" rather than the noun "salvation."  AT: "learn about how God saves people from sin." (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
   * **Follow me**  - When Jesus said this, he meant more than "Walk behind me for a little bit." He was telling the man to be his disciple. AT: "Be my disciple" or "Come, follow me as your teacher." (See: [[:en:ta:vol1:translate:figs_explicit]])
@@ -64,25 +69,27 @@ First give a reason for the alternate translation so that the MTT can understand
 
 === Translation Suggestion from the UDB ===
 
-If the UDB provides a good translation that clarifies what is in the ULB, it is normally not necessary to include a note. However, on occasion it may be helpful to write a note or translation suggestion and also include text from the UDB. In that case, append "(UDB)" after the text from the UDB //before the period// as below:
+If the UDB provides a good translation that clarifies what is in the ULB, it is normally not necessary to include a note. However, on occasion it may be helpful to write a note or translation suggestion and also include text from the UDB. In that case, append "(UDB)" after the text from the UDB 
 
   * **implored him**  - "begged him" or "pleaded with him" (UDB)
   * **he fell on his face**  - "he bowed down to the ground" (UDB) or "he knelt and touched the ground with his face"
   * **the sons of Heth**  - "the descendants of Heth" (UDB). AT: "the Hittites." (See: Translate Names)
-  * **you will conceive in your womb and bear a son…Jesus…the Son of the Most High** - Mary will bear “a son” who will be called “the Son of the Most High” (UDB). Jesus is therefore a human son born of a human mother, and he is also the Son of God. These terms should be translated very carefully.
+
+If the UDB mention occurs at the end of a full sentence, put "(UDB)" //before// the final period:
+  * **you will conceive in your womb and bear a son…Jesus…the Son of the Most High** - Mary will bear “a son” who will be called “the Son of the Most High” (UDB).
 
 Please do not write notes that only say "See UDB."
 
 === Alternate Meaning(s) ===
 
-Alternate meanings refer to different understandings of what the phrase means. In this case, prefix the meanings with "Possible meanings are" and number them with the preferred meaning first (This should be the same meaning as what is in the ULB and UDB).
+Alternate meanings refer to different understandings of what the phrase means. In this case, prefix the meanings with "Possible meanings are" and number (use number followed by a right parenthesis) them with the preferred meaning first, which would be the meaning used in the ULB and/or UDB.
 
 If the meaning is given as an explanation, do not put it in quotes.
 
   * **You are like a young lion…like a monster in the seas**  - Possible meanings are 1) he was like a lion and a monster or 2) he thought he was like a lion, but he was really only a monster.
   * **like a monster in the seas**  - Possible meanings are 1) he was powerful or 2) he was not doing anything important.
 
-If the meaning is given in a way that can be used as a translation, put it in quotes:
+If the meaning is given in a way that can be used as a translation suggestion, put it in quotes:
 
   * **fell down at Jesus' knees**  - Possible meanings are 1) "bowed down at Jesus' feet" or 2) "lay down on the ground at Jesus' feet" or 3) "knelt down before Jesus." Peter did not fall accidentally. He did this as a sign of humility and respect for Jesus.
 
@@ -90,10 +97,13 @@ If the meaning is given in a way that can be used as a translation, put it in qu
 
   * Ellipses in our notes are written as three periods "…".
   * We do not put spaces between ellipses and text.
-      * "I completely understand the Bible." becomes "I…understand the Bible."
-  * Do NOT use an ellipsis at the end of a quote.
-      * "<del>I completely understand…</del>" This is incorrect. Do not use ellipses this way!
-  * The only exception is when you need to include the final punctuation for showing contrast in the alternate translation. If that punctuation is a period, then include also the last word in the sentence. Otherwise, end it with an ellipsis and punctuation only ("!", "?" or ",").
+      * He who loves father or mother more than me is not worthy of me. becomes in the note **He who...worthy of me**
+  * 
+  * As a rule, do NOT use an ellipsis at the end of a quote.
+      * "<del>**I completely understand…**</del>" This is incorrect. Do not use ellipses this way!
+  * The only exception is when you need to include the final punctuation for showing contrast in the alternate translation. If that punctuation is a period, then include also the word preceding it in the sentence. 
+  * 
+  * Otherwise, end it with an ellipsis and punctuation only ("!", "?" or ",").
       * "Do I understand the Bible?" becomes "Do I understand…?" The alternate translation suggestion would be "I do indeed understand…!"
       * "Do I understand the Bible?" becomes "Do I…?" An alternate translation suggestion would be "I do…Bible."
 
