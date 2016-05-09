@@ -4,11 +4,11 @@ Return to: [[:en:phase1:team-info:processes:create-notes|How to Create Translati
 
 ===== General Principles for Formatting Notes: =====
 
-  * Select a portion from the ULB that needs a note and write it in bold by one of the bullets under "Translation Notes."
+  * Select a portion from the ULB that needs a note and copy it in bold preceded by a bullet under "Translation Notes."
   * Write a translation suggestion that can be used in place of the portion you have selected. It must fit the context exactly.
     * Put the suggestion in quotes. Do not use bold. Do not use italics.
-
     * If there is more than one suggestion, separate them with the word "or." Do not ever use "Or" capped.
+
       * "X" or "Y" (See: TA-LINK) Example: ** matters** - “reports” or “true stories” Example: **before God** - “in God's sight” or “in God's opinion” (See: Idiom) Example: AT: "You evil, poisonous snakes!" or "You are evil like poisonous snakes."
 
       * [explanation]. AT: "X" or "Y" //(when this is the only item in the note)//
