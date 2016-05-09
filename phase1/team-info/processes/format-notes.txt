@@ -4,21 +4,25 @@ Return to: [[:en:phase1:team-info:processes:create-notes|How to Create Translati
 
 ===== General Principles for Formatting Notes: =====
 
-  * Select a portion from the ULB that needs a note and copy it in bold preceded by a bullet under "Translation Notes."
+  * Select a portion from the ULB that needs a note and copy it in bold, preceded by a bullet under "Translation Notes."
   * Write a translation suggestion that can be used in place of the portion you have selected. It must fit the context exactly.
     * Put the suggestion in quotes. Do not use bold. Do not use italics.
+    * Example:**from the daughters of Aaron** - “descended from Aaron”
+
     * If there is more than one suggestion, separate them with the word "or." Do not ever use "Or" capped.
+    * Examples:
+      * "X" or "Y" (See: TA-LINK) ** matters** - “reports” or “true stories” 
+      * "X" or "Y" **before God** - “in God's sight” or “in God's opinion” (See: Idiom) 
+      * "X" or "Y" AT: "You evil, poisonous snakes!" or "You are evil like poisonous snakes."
 
-      * "X" or "Y" (See: TA-LINK) Example: ** matters** - “reports” or “true stories” Example: **before God** - “in God's sight” or “in God's opinion” (See: Idiom) Example: AT: "You evil, poisonous snakes!" or "You are evil like poisonous snakes."
+      * ...AT: "X" or "Y." Whenever an AT follows other explanatory text in the note, a period is needed at the end of the AT. Example: **servants of the message** - You may need to specify what the message is. AT: “had served God by telling people his message” or “had taught people the good news about Jesus.” (See: Assumed Knowledge and Implicit Information)
 
-      * [explanation]. AT: "X" or "Y" //(when this is the only item in the note)//
-      * ...AT: "X" or "Y." //(when it follows other text in the note)// Example: **servants of the message** - You may need to specify what the message is. AT: “had served God by telling people his message” or “had taught people the good news about Jesus.” (See: Assumed Knowledge and Implicit Information)
-    * When the suggestions are mixed, separate them with a period.
-      * "X." AT: "Y." (See: TA-LINK)
-  * Write an explanation if needed. All occurrences of "AT" need an explanation.
-  * Refer the translators to a Translation Academy page, if needed, at end of note.
-    * (See: Metaphor)
-  * Normally we do not need to write notes for terms that are in the Important Terms list. However, when an important term has multiple senses, you may need to write a note telling which sense is meant in the text.
+    * Also, whenever the suggestions are mixed (a similar word or expression plus an AT), separate them with a period.
+      * "X." AT: "Y." (See: TA-LINK) Example: **looked at me with favor** - “to look at” is an idiom that means “to treat” or “to deal with.” AT: “regarded me kindly” or “had pity on me” (See: Idiom)
+
+  * Write a sentence explanation if needed. All occurrences of "AT" need an explanation.
+  * Refer the translators to a Translation Academy page, if needed, at the end of the note. Example: (See: Metaphor)
+  * Normally we do not need to write notes for terms that are in the Important Terms list. When an important term has multiple senses, however, you may need to write a note telling which sense is meant in the text.
 
 
 ===== Formats for Specific Types of Notes: =====
