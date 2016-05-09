@@ -4,14 +4,14 @@ Return to: [[:en:phase1:team-info:processes:create-notes|How to Create Translati
 
 ===== General Principles for Formatting Notes: =====
 
-  * Select a portion from the ULB that needs a note and copy it in bold, preceded by a bullet under "Translation Notes."
+  * Select a portion from the ULB that needs a note and copy it in bold, preceded by a bullet under "Translation Notes." The portion should be long enough to make the context clear for a targeted word. If there are multiple occurrences of the targeted word in the chunk, which have the same meaning throughout, copy the first one and then explain that all occurrences have the same meaning.
   * Write a translation suggestion that can be used in place of the portion you have selected. It must fit the context exactly.
     * Put the suggestion in quotes. Do not use bold. Do not use italics.
     * Example: **from the daughters of Aaron** - “descended from Aaron”
 
     * If there is more than one suggestion, separate them with the word "or." Do not ever use "Or" capped.
     * Examples:
-      * "X" or "Y" (See: TA-LINK) ** matters** - “reports” or “true stories” 
+      * "X" or "Y" **matters** - “reports” or “true stories” 
       * "X" or "Y" **before God** - “in God's sight” or “in God's opinion” (See: Idiom) 
       * "X" or "Y" AT: "You evil, poisonous snakes!" or "You are evil like poisonous snakes."
 
@@ -23,7 +23,7 @@ Return to: [[:en:phase1:team-info:processes:create-notes|How to Create Translati
       * "X." AT: "Y." (See: TA-LINK) 
       * Example: **looked at me with favor** - “to look at” is an idiom that means “to treat” or “to deal with.” AT: “regarded me kindly” or “had pity on me” (See: Idiom)
 
-  * Write a sentence explanation if needed. All occurrences of "AT" need an explanation.
+  * Write a sentence explanation if needed. It is preferred that all full sentences start with a capped word rather than the portion with a lowercased word, but starting with the lowercased first word of the portion is allowed. Examples: Here "fear God" means to respect God. Or: "fear God" means to respect God. All occurrences of "AT" need an explanation.
   * Refer the translators to a Translation Academy page, if needed, at the end of the note. Example: (See: Metaphor)
   * Normally we do not need to write notes for terms that are in the Important Terms list. But if an important term has multiple senses, you may need to write a note telling which sense is meant in the text.
 
@@ -63,13 +63,13 @@ Synonyms and equivalent phrases should simply be written in double quotes. They 
 
 First give a reason for the alternate translation so that the MTT can understand why it is acceptable. For example, when you come across an active/passive note, add "This can be stated in active form." Then write "AT:"  followed by the translation and the TAlink to Active/Passive. The need for alternate translations include making information explicit, changing passive voice to active, explaining metaphors, stating rhetorical questions as statements, and more. Note the requisite period following the AT in these examples below.
 
-  * **see the salvation of God**  - This can be reworded so that it uses the verb "save" rather than the noun "salvation."  AT: "learn about how God saves people from sin." (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
+  * **see the salvation of God**  - This can be reworded so that the abstract noun "salvation" is expressed as the verb "save." AT: "learn about how God saves people from sin." (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
   * **Follow me**  - When Jesus said this, he meant more than "Walk behind me for a little bit." He was telling the man to be his disciple. AT: "Be my disciple" or "Come, follow me as your teacher." (See: [[:en:ta:vol1:translate:figs_explicit]])
   * **do likewise**  - "do the same thing." What Jesus was referring to when he said "do likewise" can be stated clearly. AT: "give food to someone who does not have any." (See: [[:en:ta:vol1:translate:figs_explicit]])
 
 === Translation Suggestion from the UDB ===
 
-If the UDB provides a good translation that clarifies what is in the ULB, it is normally not necessary to include a note. However, on occasion it may be helpful to write a note or translation suggestion and also include text from the UDB. In that case, append "(UDB)" after the text from the UDB 
+If the UDB provides a good translation that clarifies what is in the ULB, it is normally not necessary to include a note. However, on occasion it may be helpful to write a note or translation suggestion and also include text from the UDB, depending on the perceived need for clarity. In that case, append "(UDB)" after the text from the UDB 
 
   * **implored him**  - "begged him" or "pleaded with him" (UDB)
   * **he fell on his face**  - "he bowed down to the ground" (UDB) or "he knelt and touched the ground with his face"
