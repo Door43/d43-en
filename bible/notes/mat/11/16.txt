@@ -24,18 +24,20 @@
 ===== translationWords: =====
 
   * [[:en:obe:other:generation]]
+  * [[en:obe:other:flute]]
+  * [[en:obe:other:mourn]]
 
 ===== Translation Notes: =====
 
   * **Connecting Statement:** - Jesus continues to talk to the crowds about John the Baptist.
 
-  * **To what should I compare** - This is the start of a rhetorical question. Jesus used it to introduce a comparison between the people of that day and what children might say in the marketplace. He begins with a rhetorical question. (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **It is like children playing in the marketplace, who sit and call to one another** - This simile can mean 1) Jesus "played the flute" and John "mourned," but "this generation" refused to dance or weep, metaphors for obedience, or 2) the Pharisees and other religious leaders criticized the common people for not obeying the laws they added to the Law of Moses. (See: [[:en:ta:vol1:translate:figs_simile]], [[:en:ta:vol1:translate:figs_metaphor]])
+  * **To what should I compare this generation?** - Jesus uses a question to introduce a comparison between the people of that day and what children might say in the marketplace. AT: "This is what this generation is like." (See: [[:en:ta:vol1:translate:figs_rquestion]])
   * **this generation** - "the people living now" or "these people" or "you people of this generation"
+  * **It is like children playing in the marketplace...and you did not weep** - Jesus uses a parable to describe the people who were alive at that time. He compares them to a group of children who are trying to get the other children to play with them. But, no matter way they do, the other children will not join them. Jesus means that it does not matter if God sends someone like John the Baptist, who lives in the desert and fasts, or someone like Jesus, who celebrates with sinners and does not fast. The people, most specifically the Pharisees and religious leaders, still refuse to accept God's truth. (See: [[:en:ta:vol1:translate:figs_parables]] and [[:en:ta:vol1:translate:figs_simile]])
   * **marketplace** - This was a large, open-air area where people would come to sell their goods.
-  * **We played a flute for you** - "We" refers to the children sitting in the marketplace. "You" refers to "this generation" or the crowd who hears the music and does not respond.
-  * **flute** - This is a long, hollow musical instrument, which is played by blowing air in or over one end.
-  * **and you did not dance** - "but you did not dance to the music"
+  * **We played a flute for you** - "We" refers to the children sitting in the marketplace. Here "you" is plural and refers to the other group of children. (See: [[:en:ta:vol1:translate:figs_you]])
+  * **and you did not dance** - "but you did not dance to the happy music"
+  * **We mourned** - This means they sang sad songs like women did at funerals. (See: [[:en:ta:vol2:translate:figs_activepassive]])
   * **and you did not weep** - "but you did not cry with us"
 
 ===== Links: =====
@@ -45,6 +47,6 @@
   * [[:en:bible:questions:comprehension:mat:11]]
 **[[:en:bible:notes:mat:11:13|<<]] | [[:en:bible:notes:mat:11:18|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~
