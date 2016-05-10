@@ -11,8 +11,8 @@
 
 ==== John status: ====
 
-^  p2edit  ^  p2check  ^  p2review  ^  p2pass  ^
-|{{door43pages @en:bible:notes:jhn -r -q="\{\{tag>[^}]*p2edit[^}]*\}\}" -exclude:home -simpleLineBreak -title -fontsize="90%"}}  |{{door43pages @en:bible:notes:jhn -r -q="\{\{tag>[^}]*p2check[^}]*\}\}" -exclude:home -simpleLineBreak -title -fontsize="90%"}}  |{{door43pages @en:bible:notes:jhn -r -q="\{\{tag>[^}]*p2review[^}]*\}\}" -exclude:home -simpleLineBreak -title -fontsize="90%"}}  |{{door43pages @en:bible:notes:jhn -r -q="\{\{tag>[^}]*p2pass[^}]*\}\}" -exclude:home -simpleLineBreak -title -fontsize="90%"}}  |
+^  publish  ^  p2edit  ^  p2check  ^  p2review  ^  p2pass  ^
+|{{door43pages @en:bible:notes:jhn -r -q="\{\{tag>[^}]*publish[^}]*\}\}" -exclude:home -simpleLineBreak -title -fontsize="90%"}}  |{{door43pages @en:bible:notes:jhn -r -q="\{\{tag>[^}]*p2edit[^}]*\}\}" -exclude:home -simpleLineBreak -title -fontsize="90%"}}  |{{door43pages @en:bible:notes:jhn -r -q="\{\{tag>[^}]*p2check[^}]*\}\}" -exclude:home -simpleLineBreak -title -fontsize="90%"}}  |{{door43pages @en:bible:notes:jhn -r -q="\{\{tag>[^}]*p2review[^}]*\}\}" -exclude:home -simpleLineBreak -title -fontsize="90%"}}  |{{door43pages @en:bible:notes:jhn -r -q="\{\{tag>[^}]*p2pass[^}]*\}\}" -exclude:home -simpleLineBreak -title -fontsize="90%"}}  |
 
 
 \\
