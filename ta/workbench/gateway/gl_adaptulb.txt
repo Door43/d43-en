@@ -37,8 +37,8 @@ After you do these things so that the text is ready to use as the Gateway Langua
 
 ==== Back Translation ====
 
-**How do we ensure the translation conforms to these guidelines?
-**
+**How do we ensure the translation conforms to these guidelines?**
+
 Because the ULB is part of a set of translation resources that will be used by many OL translators, we need to ensure that it conforms to these guidelines as closely as possible. To do this, we need to add an extra layer of checking to the process. This extra layer is a written back translation. This means that you need to have someone on the GL translation team who can translate the adapted GL ULB into English in a literal way, following the structure and vocabulary of the GL ULB. Then experienced translators and exegetes can read the back translation and see where there might be places that need fixing. If you are using the checking steps of MAST methodology, the back translation could be done after the key term check or after the verse-by-verse check. If the back translation is made after the key term check, then it will need to be revised to conform to any changes that are made in the verse-by-verse check. A reason to make the back translation after the key term check, however, is that it could be very helpful to a facilitator who speaks English, and could greatly speed up the verse-by-verse check since the facilitator can read the back translation before meeting with the team and already know which places they need to discuss when they meet together. This would also make it possible to eliminate some of the oral back translation that would otherwise be necessary for the verse-by-verse check. For information about how to do a back translation, see [[en:ta:vol2:checking:vol2_backtranslation]] and following modules.
 
 
