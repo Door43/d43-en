@@ -98,12 +98,13 @@ If the meaning is given in a way that can be used as a translation suggestion, p
   * Ellipses in our notes are written as three periods "…".
   * We do not put spaces between ellipses and text.
       * He who loves father or mother more than me is not worthy of me. becomes in the note **He who...worthy of me**
-  * 
-  * As a rule, do NOT use an ellipsis at the end of a quote.
+  * Sentences that are short probably do not need ellipses in the notes.
+  * As a rule, do NOT end a quote/portion with an ellipsis.
       * "<del>**I completely understand…**</del>" This is incorrect. Do not use ellipses this way!
-  * The only exception is when you need to include the final punctuation for showing contrast in the alternate translation. If that punctuation is a period, then include also the word preceding it in the sentence. 
-  * 
-  * Otherwise, end it with an ellipsis and punctuation only ("!", "?" or ",").
+  * The only exception is when you need to include the final punctuation for showing contrast in the alternate translation. 
+  * Example: Jesus said to them, "Why are you afraid, you of little faith?" The note would be written: **Why are you afraid…faith?** - Jesus was rebuking the disciples with this rhetorical question. AT: “You should not be afraid…faith!” or “There is nothing for you to be afraid of…faith.” (See: Rhetorical Question) The question mark in the original text is replaced by a period or an exclamation point in the alternate translation.
+  * If that final punctuation in the portion is a period, then including the word preceding it helps visually. 
+  * Otherwise, you can end the portion with an ellipsis followed directly and only by the punctuation ("!", "?" or ",").
       * "Do I understand the Bible?" becomes "Do I understand…?" The alternate translation suggestion would be "I do indeed understand…!"
       * "Do I understand the Bible?" becomes "Do I…?" An alternate translation suggestion would be "I do…Bible."
 
