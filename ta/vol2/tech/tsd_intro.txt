@@ -1,4 +1,4 @@
-===== translationStudio Desktop Introduction =====
+===== translationStudio-Desktop Introduction =====
 
 //This answers the question:// //What is the translationStudio-Desktop program?//
 
@@ -10,5 +10,5 @@ It can be downloaded on Windows, Macintosh and Linux operating systems. While th
 
 
 //Next we recommend you learn about://
-  * //[[en:ta:vol2:tech:tsd_install|translationStudio Desktop Installation]]//
+  * //[[en:ta:vol2:tech:tsd_install|translationStudio-Desktop v7 Installation]]//
 

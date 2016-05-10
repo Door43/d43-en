@@ -558,12 +558,15 @@ edge [arrowsize=1.4];
 "tSd_first" [fillcolor="#99ffff"]
 "tSd_intro" -> "tSd_first"
 "tSd_install" -> "tSd_first"
+"tSd_login" -> "tSd_first"
 "tSd_install" [fillcolor="#99ffff"]
 "tSd_intro" -> "tSd_install"
 "tSd_intro" [fillcolor="#99ffff"]
 "Technology" -> "tSd_intro"
+"tSd_login" [fillcolor="#99ffff"]
+"tSd_intro" -> "tSd_login"
+"tSd_install" -> "tSd_login"
 "tSd_navigate" [fillcolor="#99ffff"]
-"tSd_intro" -> "tSd_navigate"
 "tSd_install" -> "tSd_navigate"
 "tSd_print" [fillcolor="#99ffff"]
 "tSd_intro" -> "tSd_print"
@@ -588,6 +591,10 @@ edge [arrowsize=1.4];
 "tSd_intro" -> "tSd_tW"
 "tSd_install" -> "tSd_tW"
 "gl_words" -> "tSd_tW"
+"tSd_translate" [fillcolor="#99ffff"]
+"tSd_install" -> "tSd_translate"
+"tSd_login" -> "tSd_translate"
+"tSd_first" -> "tSd_translate"
 "toc_audiovol2" [fillcolor="#99ffff"]
 "Technology" -> "toc_audiovol2"
 "toc_techvol1" [fillcolor="#99ffff"]

@@ -1,63 +1,33 @@
-===== translationStudio Desktop - First Use =====
+===== translationStudio-Desktop v7 - Terms of Use =====
 
-//This answers the question:// //How do I use translationStudio-Desktop for the first time?//
+//This answers the question:// //What are the terms of use for translating in translationStudio-Desktop?//
 
 //In order to understand this topic, it would be good to read://
-  * //[[en:ta:vol2:tech:tsd_intro|translationStudio Desktop Introduction]]//
-  * //[[en:ta:vol2:tech:tsd_install|translationStudio Desktop Installation]]//
+  * //[[en:ta:vol2:tech:tsd_intro|translationStudio-Desktop Introduction]]//
+  * //[[en:ta:vol2:tech:tsd_install|translationStudio-Desktop v7 Installation]]//
+  * //[[en:ta:vol2:tech:tsd_login|translationStudio-Desktop v7 - Login Options]]//
 
-==== Open the Program ====
+After the translator has set-up the User Account they will need to agree to the Terms of Use.
 
-  * Double left click on the translationStudio-Desktop icon. The program will open.
-  * The 'Home Screen' opens with the following information:
-     * Explaining that you will see the list of translation projects on this screen.
-     * You can start a new project anytime by tapping on the blue button in the top right of the screen.
-  * Tap on the "Start a New Project" button.
+unfoldingWord has a goal of making disciples of all nations by helping to provide unrestricted biblical content in every language of the world. There are three agreements that every translator must read, understand, and agree with. They are:
+  * [[en:ta:vol1:intro:statement_of_faith]] - Work with people and organizations who have the same beliefs  
+  * [[en:ta:vol1:intro:translation_guidelines]] - Use a common translation theory
+  * [[en:ta:vol1:intro:open_license]] - Release everything created under an open license
 
-=== Choose a Target Language  ===
+The first time you sign into the program you will see the **Terms of Use** screen.
+   * You will need to read and agree with each of the statements and the Terms of Use.
+      * Click on each statement.
+      * Read the entire statement.
+      * Click on "Close" for each statement.
+      * If these statements reflect your beliefs, click on the "I Agree" button.
+Note: clicking on the "No Thanks" link will close the screen and open the Login screen.
 
-The 'target language' is the language into which the translation is being done.
-  * You may use the scroll bar to the right of the languages to find the target language.
-  * You may tap on the the words 'Choose target language' to lookup the target language.
-  * The choose a language window closes.
+You can view the License Agreement, Statement of Faith, Translation Guidelines and the Software Licenses information from the Settings Menu.
 
-=== Choose a Project ===
-
-Choose between 5 types of projects to start:
-  * Open Bible Stories
-  * Old Testament
-  * New Testament
-  * translationWords
-  * translationAcademy Volume 1 or Volume 2
-
-**Note**: Only if the program is set up to do Gateway Languages will you see the project 'translationWords.' See: [[ en:ta:vol2:tech:tSd_settings]] for more information.
-
-=== Set up a Project ===
-
-== Open Bible Stories ==
-
-  * Choose the target language.
-  * Choose the type of project from: Text, Notes or Questions. You will need to have a text project started before you can start a Notes or Questions project.
-    - Click on the square icon with the + and - sign directly under the prompt or at the top right of the source text window.
-    - Click on the empty square box next to the desired source language.
-    - Click on "Confirm" at the bottom of the window to save the selection. Or, click on "Cancel" to close and not save the selected language. There MUST be a source language chosen.
-
-== Old Testament  or New Testament ==
-
-  * Choose the target language.
-  * Choose the type of project from: Text - Unlocked Literal Bible, Text - Unlocked Dynamic Bible, Notes or Questions. You will need to have a text project started before you can start a Notes or Questions project.
-    - Click on the square icon with the + and - sign directly under the prompt or at the top right of the source text window.
-    - Click on the empty square box next to the desired source language.
-    - Click on "Confirm" at the bottom of the window to save the selection. Or, click on "Cancel" to close and not save the selected language. There MUST be a source language chosen.
-
-
-Go to the following to learn how to translate the necessary resources:
 
 
 
 //Next we recommend you learn about://
-  * //[[en:ta:vol2:tech:tsd_navigate|Navigating translationStudio Desktop]]//
-  * //[[en:ta:vol2:tech:tsd_tw|The Process for Translating the translationWords]]//
-  * //[[en:ta:vol2:tech:tsd_tn|The Process for Translating the translationNotes]]//
-  * //[[en:ta:vol2:tech:tsd_tq|The Process for Translating the translationQuestions]]//
+  * //[[en:ta:vol2:tech:tsd_navigate|Navigating translationStudio-Desktop v7]]//
+  * //[[en:ta:vol2:tech:tsd_translate|translationStudio-Desktop v7 - Start a Project]]//
 
