@@ -3,7 +3,7 @@
 //The status of development for Open Bible Stories// 
 
 
-publish date: 2016-03-15
+publish date: 2016-05-10
 
 
 version: 4.1
@@ -24,10 +24,16 @@ contributors:
   * Emmanuel Dossa Luc DOSSO
 
 
-checking entity: 
+checking entity: Leadership check
+
+  * Apostle AKAKPO ADOTE
+  * Pasor AHOA N'DAH Ferdinand
+  * Pastor ANDRE THERA
+  * Rev. Peter Tapoayi
+  * Josue MOUICHE
 
 
-checking level: 2
+checking level: 3
 
 
 source text: en
@@ -39,4 +45,4 @@ source text version: 4
 comments: 
 
 
-Progress Notes: 
+Progress Notes: Published level 3, 2016-05-10

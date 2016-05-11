@@ -76,10 +76,22 @@
 ^Language   ^Publish Date   ^Version    ^Checking Level ^
 |  [[:en:uwadmin:ne:obs:status|नेपाली]]  |  2016-01-22  |  4.1  |  {{https://api.unfoldingword.org/obs/jpg/1/checkinglevels/uW-Level2-32px.png}}  |
 
-===== fr =====
-^Language   ^Publish Date   ^Version    ^Checking Level ^
-|  [[:en:uwadmin:fr:obs:status|français]]  |  2016-03-15  |  4.1  |  {{https://api.unfoldingword.org/obs/jpg/1/checkinglevels/uW-Level2-32px.png}}  |
-
 ===== vi =====
 ^Language   ^Publish Date   ^Version    ^Checking Level ^
 |  [[:en:uwadmin:vi:obs:status|Việtnam]]  |  2016-03-24  |  4.1  |  {{https://api.unfoldingword.org/obs/jpg/1/checkinglevels/uW-Level3-32px.png}}  |
+
+===== fr =====
+^Language   ^Publish Date   ^Version    ^Checking Level ^
+|  [[:en:uwadmin:fr:obs:status|français]]  |  2016-05-10  |  4.1  |  {{https://api.unfoldingword.org/obs/jpg/1/checkinglevels/uW-Level3-32px.png}}  |
+
+===== ceb =====
+^Language   ^Publish Date   ^Version    ^Checking Level ^
+|  [[:en:uwadmin:ceb:obs:status|Cebuano]]  |  2016-05-10  |  4.1  |  {{https://api.unfoldingword.org/obs/jpg/1/checkinglevels/uW-Level1-32px.png}}  |
+
+===== lpx =====
+^Language   ^Publish Date   ^Version    ^Checking Level ^
+|  [[:en:uwadmin:lpx:obs:status|Lopit]]  |  2016-05-10  |  4.1  |  {{https://api.unfoldingword.org/obs/jpg/1/checkinglevels/uW-Level2-32px.png}}  |
+
+===== gof =====
+^Language   ^Publish Date   ^Version    ^Checking Level ^
+|  [[:en:uwadmin:gof:obs:status|Gofa]]  |  2016-05-10  |  4.1  |  {{https://api.unfoldingword.org/obs/jpg/1/checkinglevels/uW-Level1-32px.png}}  |

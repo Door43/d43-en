@@ -5,10 +5,6 @@
 //In order to understand this topic, it would be good to read://
   * //[[en:ta:vol2:tech:tsd_intro|translationStudio-Desktop Introduction]]//
 
- To print in translationStudio Desktop you will first need to save the translation as a PDF.  
- 
-**Note**: In version 4.1 - ONLY OBS projects can be saved to PDF/printed. 
-
 === From the Project Editing window: ===
 
   - Click the 3 dot menu. 

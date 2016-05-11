@@ -1,28 +1,28 @@
 //The status of development for Open Bible Stories// 
 
 
-publish date: 
+publish date: 2016-05-10
 
 
-version: 
+version: 4.1
 
 
-contributors: 
+contributors: John Kerim; Achaha Samuel; Ahatar Paul; Valente Otwari; Tito Abaha; Philip Oriho
 
 
-checking entity: translation team
+checking entity: PTS
 
 
-checking level: 
+checking level: 2
 
 
 source text: en
 
 
-source text version: 3.1.1
+source text version: 4
 
 
 comments: 
 
 
-Progress Notes: Initial setup 2015-11-25
+Progress Notes: Publish level 2, 2016-05-10
