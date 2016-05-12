@@ -1,0 +1,55 @@
+===== tsd The Process for Translating the UDB into the Gateway Language =====
+
+//This answers the question:// //How do I translate the UDB into the Gateway Language?//
+
+//In order to understand this topic, it would be good to read://
+  * //[[en:ta:vol3:gateway:gl_udb|Translating the UDB]]//
+  * //[[en:ta:vol2:tech:tsd_install|translationStudio-Desktop v7 Installation]]//
+
+It is important that you have read and understood the information about [[en:ta:vol3:gateway:gl_udb]] before continuing. 
+
+**Note**: Only the Gateway Languages need to create a separate Unlocked Dynamic Bible.
+
+==== Translating the Text ====
+
+As you translate, be sure that you:
+  * pray that God would help you make an easily-understandable, Scripturally-accurate translation
+  * always do your translation according to the Translation Guidelines (see [[:en:ta:vol1:intro:translation_guidelines]])
+  * always do your translation according to the Statement of Faith (see [[:en:ta:vol1:intro:statement_of_faith]])
+  * use the translationNotes, the translationWords, the translationQuestions, and the Unlocked Literal Bible  to help you make a better translation
+
+==== Create Translation Text ====
+
+Creating an UDB in the Gateway Language is much like creating an ULB translation. Please see:  [[en:ta:vol2:tech:tsd_create]] and [[en:ta:vol2:tech:tsd_translate]] for more information.
+
+=== There are several differences: ===
+
+The translator can choose between **two source** translations. The ULB or the UDB. You might want to choose both by clicking in the empty square. Click on 'Confirm' to close the window.
+  * At any time either souce text can be viewed. Click the tab of  the UDB or the ULB tab to view that text.
+
+In the **Check** view the source text is on the left, the translation work is in the middle. 
+  * When viewing the ULB as the source text - the UDB and all of the translationNotes, translationWords and translationQuestions are shown in the translation helps. See [[en:ta:vol2:tech:tsd_resources]] for more information.
+  * When viewing the UDB as the source text - all of the **ULB** translationNotes, translationWords and translationQuestions are shown in the translation helps. 
+
+==== Save Translation Text ====
+
+Go to [[en:ta:vol2:tech:tsd_backup]] to learn how to manually save the translation work to the computer.
+
+Your work is not saved on unfoldingWord until you upload your work. (See: [[en:ta:vol2:tech:tsd_d43publish]])
+
+==== Delete Translation Text ====
+
+If you accidentally delete a large amount of work, contact [[help@door43.org]].
+
+
+//Next we recommend you learn about://
+  * //[[en:ta:vol3:gateway:check_udb|Checking the UDB]]//
+  * //[[en:ta:vol2:tech:tsd_tn|The Process for Translating the translationNotes]]//
+  * //[[en:ta:vol2:tech:tsd_tq|The Process for Translating the translationQuestions]]//
+  * //[[en:ta:vol2:tech:tsd_ta|The Process for Translating translationAcademy]]//
+
+----
+https://pad.door43.org/p/ta-tSd_UDB
+
+{{tag>epday}}  ~~DISCUSSIONS~~
+
