@@ -32,21 +32,24 @@
 ===== translationWords: =====
 
   * [[:en:obe:other:parable]]
+  * [[en:obe:other:understand]]
   * [[:en:obe:kt:prophet]]
   * [[:en:obe:other:isaiah]]
+  * [[en:obe:kt:fulfill]]
 
 ===== Translation Notes: =====
 
   * **Connecting Statement:** - Jesus continues to explain to his disciples why he teaches in parables.
   * **General Information:** - In verse 14, Jesus quotes the prophet Isaiah to show that the people's failure to understand Jesus' teaching is a fulfillment of prophecy.
 
-  * **I talk to them** - Here "them" in these two verses refers to the people in the crowd.
-  * **because although they see, they do not really see. And although they hear, they do not really hear** - Jesus uses this parallelism to tell and emphasize to the disciples that the crowd refuses to understand. (See: [[:en:ta:vol2:translate:figs_parallelism]])
-  * **although they see, they do not really see** - "though they see things, they do not understand them." The second use of "see" here means understand.
-  * **although they hear, they do not really hear, neither do they understand** - Exactly what they hear can be stated clearly. AT: "though they hear instruction, they do not understand the truth." (See: [[:en:ta:vol1:translate:figs_explicit]])
-  * **While hearing you will hear, but you will in no way understand; while seeing you will see, but you will in no way perceive** - This begins a quote from the prophet Isaiah about the unbelieving people of Isaiah's day. Jesus is using this quote to describe the very crowd that was listening to him. This is another parallelism. (See: [[:en:ta:vol2:translate:figs_parallelism]])
-  * **While hearing you will hear, but you will in no way understand** - "You will hear things, but you will not understand them." Exactly what they hear can be stated clearly. AT: "You will hear instruction, but you will not understand the truth." (See: [[:en:ta:vol1:translate:figs_explicit]])
-  * **while seeing you will see, but you will in no way perceive** - "you will see things, but you will not understand them."
+  * **to them...they** - All occurrences of "them" and "they" refer to the people in the crowd.
+  * **because although they see, they do not really see. And although they hear, they do not really hear** - Jesus uses this parallelism to tell and emphasize to the disciples that the crowd refuses to understand God's truth. (See: [[:en:ta:vol2:translate:figs_parallelism]])
+  * **although they see, they do not really see** - The second use of "see" here means understand. It can be made explicit what they see. AT: "though they see the things I do, they do not understand them." (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **although they hear, they do not really hear, neither do they understand** - It can be made explicit what the people hear. AT: "though they hear what I say, they do not understand what I truly mean." (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **To them the prophecy of Isaiah is fulfilled, that which says** - This can be stated in active form. AT: "They are fulfilling what God said long ago through the prophet Isaiah"
+  * **While hearing you will hear, but you will in no way understand; while seeing you will see, but you will in no way perceive** - This begins a quote from the prophet Isaiah about the unbelieving people of Isaiah's day. Jesus is using this quote to describe the very crowd that was listening to him. These statements are again parallel and emphasize that the people refuse to understand God's truth. (See: [[:en:ta:vol2:translate:figs_parallelism]])
+  * **While hearing you will hear, but you will in no way understand** - "You will hear things, but you will not understand them." You can make explicit what the people will hear. AT: "You will hear what God says through the prophets, but you will not understand their true meaning." (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **while seeing you will see, but you will in no way perceive** - You can make explicit what the people will see. AT: "you will see what God does through the prophets, but you will not understand them." (See: [[:en:ta:vol1:translate:figs_explicit]])
 ===== Links: =====
 
   * [[:en:bible:notes:mat:00:intro]]
@@ -54,6 +57,6 @@
   * [[:en:bible:questions:comprehension:mat:13]]
 **[[:en:bible:notes:mat:13:10|<<]] | [[:en:bible:notes:mat:13:15|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit isaiah}}
+~~DISCUSSION~~{{tag>publish p2check isaiah}}
 
 ~~NOCACHE~~
