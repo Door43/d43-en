@@ -32,6 +32,7 @@
 ===== translationWords: =====
 
   * [[:en:obe:kt:judgmentday]]
+  * [[en:obe:kt:word]]
   * [[:en:obe:kt:justify]]
   * [[:en:obe:kt:condemn]]
 
@@ -39,11 +40,10 @@
 
   * **Connecting Statement:** - Jesus concludes his response to the Pharisees' accusation that he healed the man by the power of Satan.
 
-  * **you...your** - These refer to the Pharisees.
-  * **people will give an account for** - "God will ask people about" or "God will judge the value of"
-  * **idle** - This could mean "useless" or "harmful."
-  * **they** - This refers to "people."
-  * **you will be justified...you will be condemned** - This passive can be translated as an active statement. AT: "God will justify you...God will condemn you." (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **I say to you** - This adds emphasis to what Jesus says next.
+  * **people will give an account for** - "God will ask people about" or "people will have to explain to God"
+  * **every idle word they will have said** - Here "word" refers to something that someone says. AT: "every harmful thing they will have said." (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **you will be justified...you will be condemned** - This can be stated in active form. AT: "God will justify you...God will condemn you." (See: [[:en:ta:vol2:translate:figs_activepassive]])
 ===== Links: =====
 
   * [[:en:bible:notes:mat:00:intro]]
@@ -51,6 +51,6 @@
   * [[:en:bible:questions:comprehension:mat:12]]
 **[[:en:bible:notes:mat:12:33|<<]] | [[:en:bible:notes:mat:12:38|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit judgmentday}}
+~~DISCUSSION~~{{tag>publish p2check judgmentday}}
 
 ~~NOCACHE~~
