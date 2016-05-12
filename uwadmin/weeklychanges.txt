@@ -274,6 +274,9 @@
 **[[:ha:obs|ha OBS]]**
 {{changes>ns=ha:obs&maxage=604800&render=pagelist(header,date,user,nocomments)}}
 
+**[[:hae:obs|hae OBS]]**
+{{changes>ns=hae:obs&maxage=604800&render=pagelist(header,date,user,nocomments)}}
+
 **[[:hch:obs|hch OBS]]**
 {{changes>ns=hch:obs&maxage=604800&render=pagelist(header,date,user,nocomments)}}
 

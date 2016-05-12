@@ -550,7 +550,11 @@ edge [arrowsize=1.4];
 "tS_create" -> "tS_useresources"
 "translate_help" -> "tS_useresources"
 "tSd_D43Publish" [fillcolor="#99ffff"]
+"publishing_prereqs" -> "tSd_D43Publish"
 "tSd_navigate" -> "tSd_D43Publish"
+"tSd_UDB" [fillcolor="#99ffff"]
+"gl_UDB" -> "tSd_UDB"
+"tSd_install" -> "tSd_UDB"
 "tSd_backup" [fillcolor="#99ffff"]
 "tSd_navigate" -> "tSd_backup"
 "tSd_bibletxt" [fillcolor="#99ffff"]
@@ -559,6 +563,8 @@ edge [arrowsize=1.4];
 "tSd_create" [fillcolor="#99ffff"]
 "tSd_install" -> "tSd_create"
 "tSd_navigate" -> "tSd_create"
+"tSd_feedback" [fillcolor="#99ffff"]
+"tSd_navigate" -> "tSd_feedback"
 "tSd_install" [fillcolor="#99ffff"]
 "tSd_intro" -> "tSd_install"
 "tSd_intro" [fillcolor="#99ffff"]
@@ -569,9 +575,11 @@ edge [arrowsize=1.4];
 "tSd_navigate" [fillcolor="#99ffff"]
 "tSd_install" -> "tSd_navigate"
 "tSd_print" [fillcolor="#99ffff"]
-"tSd_intro" -> "tSd_print"
+"tSd_navigate" -> "tSd_print"
 "tSd_resources" [fillcolor="#99ffff"]
 "translate_help" -> "tSd_resources"
+"tSd_restore" [fillcolor="#99ffff"]
+"tSd_navigate" -> "tSd_restore"
 "tSd_settings" [fillcolor="#99ffff"]
 "tSd_install" -> "tSd_settings"
 "tSd_navigate" -> "tSd_settings"

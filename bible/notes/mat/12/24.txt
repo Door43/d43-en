@@ -10,7 +10,7 @@
 ===== UDB: =====
 
 <usfm>
-\v 24 Because the Pharisees heard about this miracle,  they said, "It is not God, but Beelzebub, the ruler of the demons, who enables this man to drive demons from people!"
+\v 24 Because the Pharisees heard about this miracle, they said, "It is not God, but Beelzebub, the ruler of the demons, who enables this man to drive demons from people!"
 \v 25 But Jesus knew what the Pharisees were thinking. So he said to them, "If the people in one nation fight against each other, they will destroy their nation. If people who live in the same city or house fight each other, they will certainly not remain as one group or family.
 </usfm>
 
@@ -27,7 +27,9 @@
   * [[:en:obe:kt:miracle]]
   * [[:en:obe:other:castout]]
   * [[:en:obe:other:beelzebul]]
+  * [[en:obe:other:prince]]
   * [[:en:obe:other:kingdom]]
+  * [[:en:obe:other:desolate]]
 
 ===== Translation Notes: =====
 
@@ -36,7 +38,10 @@
   * **this miracle** - This refers to the miracle of the healing of a blind, deaf, and demon-possessed man.
   * **This man does not cast out demons except by Beelzebub** - "This man is only able to cast out the demon because he is a servant of Beelzebub"
   * **This man** - The Pharisees avoid calling Jesus by name to show they reject him.
-  * **their...them** - These refer to the Pharisees.
+  * **the prince of the demons** - "the chief of the demons"
+  * **Every kingdom divided against itself is made desolate, and every city or house divided against itself will not stand** - Jesus uses a proverb to respond to the Pharisees. Both of these statements mean the same thing. They emphasize that it would not make sense for Beelzebul to use his power to fight other demons. (See: [[:en:ta:vol2:translate:writing_proverbs]] and [[:en:ta:vol2:translate:figs_parallelism]])
+  * **Every kingdom divided against itself is made desolate** - Here "kingdom" refers to those who live in the kingdom. This can be translated in active form. AT: "A kingdom will not last when its people fight among themselves." (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol2:translate:figs_activepassive]])
+  * **every city or house divided against itself will not stand** - Here "city" refers to the people who live there. And, "house" refers to a family. AT: "it ruins a city or a family when the people fight each other." (See: [[:en:ta:vol2:translate:figs_metonymy]])
 
 ===== Links: =====
 
@@ -45,6 +50,6 @@
   * [[:en:bible:questions:comprehension:mat:12]]
 **[[:en:bible:notes:mat:12:22|<<]] | [[:en:bible:notes:mat:12:26|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit p2review castout beelzebul }}
+~~DISCUSSION~~{{tag>publish p2check p2review castout beelzebul }}
 
 ~~NOCACHE~~

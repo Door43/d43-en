@@ -24,10 +24,10 @@
 
 ===== translationWords: =====
 
-  * [[en:obe:kt:word]]
+  * [[:en:obe:kt:word]]
   * [[:en:obe:other:obey]]
   * [[:en:obe:kt:wise]]
-  * [[en:obe:other:flood]]
+  * [[:en:obe:other:flood]]
 
 ===== Translation Notes: =====
 
@@ -43,6 +43,6 @@
   * [[:en:bible:questions:comprehension:mat:07]]
 **[[:en:bible:notes:mat:07:21|<<]] | [[:en:bible:notes:mat:07:26|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check wise }}
+~~DISCUSSION~~{{tag>publish p2check wise flood}}
 
 ~~NOCACHE~~

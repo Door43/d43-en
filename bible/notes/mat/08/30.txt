@@ -26,10 +26,10 @@
 
 ===== translationWords: =====
 
-  * [[en:obe:other:flock]]
-  * [[en:obe:other:pig]]
+  * [[:en:obe:other:flock]]
+  * [[:en:obe:other:pig]]
   * [[:en:obe:kt:demon]]
-  * [[en:obe:other:castout]]
+  * [[:en:obe:other:castout]]
 
 ===== Translation Notes: =====
 
@@ -48,6 +48,6 @@
   * [[:en:bible:questions:comprehension:mat:08]]
 **[[:en:bible:notes:mat:08:28|<<]] | [[:en:bible:notes:mat:08:33|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check}}
+~~DISCUSSION~~{{tag>publish p2check flock pig}}
 
 ~~NOCACHE~~

@@ -34,6 +34,7 @@
 
   * [[:en:obe:kt:jesus]]
   * [[:en:obe:other:heal]]
+  * [[en:obe:other:command]]
   * [[:en:obe:kt:true]]
   * [[:en:obe:other:isaiah]]
   * [[:en:obe:kt:prophet]]
@@ -42,10 +43,11 @@
 
   * **General Information:** - This account explains how the actions of Jesus fulfilled one of the prophecies of Isaiah.
 
-  * **perceived this** - "perceived that the Pharisees were planning to kill him"
-  * **withdrew from** - "left"
+  * **As Jesus perceived this, he** - "Jesus was aware of what the Pharisees were planning, so he"
+  * **withdrew from** - "departed from" or "left"
   * **not to make him known to others** - "not to tell anyone else about him"
-  * **what had been said through Isaiah the prophet, saying** - "what God had said through what Isaiah the prophet had written"
+  * **that it might come true, what** - This can be translated as a new sentence. AT: "This fulfilled what."
+  * **what had been said through Isaiah the prophet, saying** - This can be stated in active form. AT: "what God had said long ago through the prophet Isaiah."
 ===== Links: =====
 
   * [[:en:bible:notes:mat:00:intro]]
@@ -53,6 +55,6 @@
   * [[:en:bible:questions:comprehension:mat:12]]
 **[[:en:bible:notes:mat:12:13|<<]] | [[:en:bible:notes:mat:12:18|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit true}}
+~~DISCUSSION~~{{tag>publish p2check true}}
 
 ~~NOCACHE~~

@@ -43,12 +43,17 @@
 <usfm>
 \v 22 Kohath's descendants were his son Amminadab. 
 \q His son was Korah. 
+<<<<<<< HEAD
 \q His son was  Assir.
 \q   
+=======
+\q His son was Assir.
+\q 
+>>>>>>> 29d96c24604e8c37630c81419086967acd729f7b
 \v 23 His son was Elkanah.
 \q His son was Ebiasaph.
 \q His son was Assir.
-\q  
+\q 
 \v 24 His son was Tahath. 
 \q His son was Uriel.
 \q His son was Uzziah.

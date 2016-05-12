@@ -36,14 +36,13 @@
 
 ===== Translation Notes: =====
 
-  * **the man** - the man with the dried-up hand
+  * **Then Jesus said to the man, "Stretch out your hand."** - This can be translated as an indirect quotation. AT: "Then Jesus commanded the man to stretch out his hand." (See: [[:en:ta:vol2:translate:figs_quotations]])
+  * **to the man** - "to the man with the paralyzed hand" or "to the man with the crippled hand"
   * **Stretch out your hand** - "Hold out your hand" or "Extend your hand"
-  * **He** - The man
-  * **it...it** - These refer to the man's hand.
-  * **restored to health** - "fully healed" or "healthy again"
-  * **plotted against** - "planned to harm"
-  * **seeking how they might** - "looking for ways to"
-  * **put him to death** - put Jesus to death
+  * **He stretched** - "The man stretched"
+  * **it was restored to health** - This can be stated in active form. AT: "it was healthy again" or "it became well again." (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **plotted against him** - "planned to harm Jesus"
+  * **were seeking how they might put him to death** - "were discussing how they might kill Jesus"
 ===== Links: =====
 
   * [[:en:bible:notes:mat:00:intro]]
@@ -51,6 +50,6 @@
   * [[:en:bible:questions:comprehension:mat:12]]
 **[[:en:bible:notes:mat:12:11|<<]] | [[:en:bible:notes:mat:12:15|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit  restore}}
+~~DISCUSSION~~{{tag>publish p2check restore}}
 
 ~~NOCACHE~~

@@ -32,8 +32,8 @@
 ===== translationWords: =====
 
   * [[:en:obe:other:johnthebaptist]]
-  * [[en:obe:other:bread]]
-  * [[en:obe:other:wine]]
+  * [[:en:obe:other:bread]]
+  * [[:en:obe:other:wine]]
   * [[:en:obe:kt:demon]]
   * [[:en:obe:kt:sonofman]]
   * [[:en:obe:other:drunk]]
@@ -41,7 +41,7 @@
   * [[:en:obe:kt:sin]]
   * [[:en:obe:kt:wise]]
   * [[:en:obe:kt:justify]]
-  * [[en:obe:kt:works]]
+  * [[:en:obe:kt:works]]
 
 ===== Translation Notes: =====
 
@@ -65,6 +65,6 @@
   * [[:en:bible:questions:comprehension:mat:11]]
 **[[:en:bible:notes:mat:11:16|<<]] | [[:en:bible:notes:mat:11:20|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check  taxcollector justify}}
+~~DISCUSSION~~{{tag>publish p2check taxcollector justify}}
 
 ~~NOCACHE~~

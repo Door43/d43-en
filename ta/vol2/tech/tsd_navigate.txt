@@ -26,17 +26,17 @@ Click on the **three dots** to open the menu. The project editing screen and the
 
 From the Project Editing window the menu has:
   * Home (See: [[en:ta:vol2:tech:tsd_translate]])
-  * Publish (See: [[en:ta:vol2:tech:tsd_publish]])
+  * Publish (See: [[en:ta:vol2:tech:tsd_d43publish]])
   * Backup (See: [[en:ta:vol2:tech:tsd_backup]])
   * Print (See: [[en:ta:vol2:tech:tsd_print]])
   * translationAcademy - Opens the full translationAcademy in another window. 
-  * Feedback (See: [[en:ta:vol2:tech:tsd_problem]])
+  * Feedback (See: [[en:ta:vol2:tech:tsd_feedback]])
   * Settings (See: [[en:ta:vol2:tech:tsd_settings]])
 On the Home or Your Translation Projects window the menu has:
   * Logout (See: [[en:ta:vol2:tech:tsd_login]])
   * Restore (See: [[en:ta:vol2:tech:tsd_restore]])
   * translationAcademy - Opens the full translationAcademy in another window. 
-  * Feedback (See: [[en:ta:vol2:tech:tsd_problem]])
+  * Feedback (See: [[en:ta:vol2:tech:tsd_feedback]])
   * Settings (See: [[en:ta:vol2:tech:tsd_settings]])
 
 === Working View Icons ===

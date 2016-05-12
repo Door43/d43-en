@@ -47,19 +47,27 @@
 
 ===== translationWords: =====
 
+  * [[en:obe:other:voice]]
+  * [[en:obe:other:reed]]
   * [[:en:obe:kt:judge]]
   * [[:en:obe:other:gentile]]
+  * [[en:obe:kt:confidence]]
+  * [[en:obe:kt:name]]
 
 ===== Translation Notes: =====
 
   * **Connecting Statement:** - The writer continues to quote the prophet Isaiah.
 
-  * **He will not break any bruised reed** - "He will not beat down weak people" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **bruised** - "partially broken or damaged"
-  * **smoking flax** - This refers to a lamp wick after the flame has been blown out, representing people who are helpless or doomed. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **neither will anyone hear his voice in** - Here "voice" refers to the whole person. AT: "And he will not speak loudly." (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **his...He** - All occurrences of these words refer to God's chosen servant.
+  * **in the streets** - This is an idiom that means "publicly." AT: "in the cities and towns." (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **He will not break any bruised reed; he will not quench any smoking flax** - Both of these statements mean the same thing. They are metaphors emphasizing that God's servant will be gentle and kind. Both "bruised reed" and "smoking flax" represent weak and hurting people. If the metaphor is confusing, you could translate the literal meaning. AT: "He will be kind to weak people, and he will be gentle to those who are hurting." (See: [[:en:ta:vol2:translate:figs_parallelism]] and [[:en:ta:vol1:translate:figs_metaphor]])
+  * **bruised reed** - "damaged plant"
+  * **he will not quench** - "he will not put out"
+  * **smoking flax** - This refers to a lamp wick after the flame has gone out and is only smoking.
   * **flax, until** - This can be translated with a new sentence: "flax. This is what he will do until"
-  * **he sends out judgment to victory** - "he convinces people that I am just"
-  * **in his name** - AT: "in him" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **he sends out judgment to victory** - "until he succeeds in bringing my justice and salvation to the people." The meaning of the abstract noun "judgment" can be translated as "just" or "save." AT: "the people know that I am just and I will save them." (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
+  * **in his name** - Here "name" refers to the whole person. AT: "in him." (See: [[:en:ta:vol2:translate:figs_synecdoche]])
 
 ===== Links: =====
 
@@ -68,6 +76,6 @@
   * [[:en:bible:questions:comprehension:mat:12]]
 **[[:en:bible:notes:mat:12:18|<<]] | [[:en:bible:notes:mat:12:22|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit }}
+~~DISCUSSION~~{{tag>publish p2check }}
 
 ~~NOCACHE~~

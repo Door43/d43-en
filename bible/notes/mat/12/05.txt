@@ -23,6 +23,7 @@
 
 ===== translationWords: =====
 
+  * [[en:obe:kt:lawofmoses]]
   * [[:en:obe:kt:sabbath]]
   * [[:en:obe:kt:temple]]
   * [[:en:obe:other:profane]]
@@ -31,11 +32,11 @@
 
   * **Connecting Statement:** - Jesus continues to respond to the Pharisees.
 
-  * **you...you** - These refers to the Pharisees.
-  * **have you not read in the law...are guiltless?** - This question can be changed to a statement, if needed. AT: "You have read the law, so you know that it says that...are guiltless." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **And have you not read in the law...but are guiltless?** - Jesus uses a question to respond to the criticism of the Pharisees. Jesus is challenging them to think about the meaning of what they have read in the scriptures. AT: "And, you have read in the law of Moses...but are guiltless." (See: [[:en:ta:vol1:translate:figs_rquestion]])
   * **profane the Sabbath** - "do on the Sabbath what they would do on any other day"
-  * **are guiltless** - "God will not punish them"
-  * **one greater than the temple** - "someone who is more important than the temple." Jesus was referring to himself as the one greater.
+  * **are guiltless** - "God will not punish them" or "God does not consider them guilty"
+  * **I say to you** - This adds emphasis to what Jesus says next.
+  * **one greater than the temple** - "someone who is more important than the temple." Jesus was referring to himself as the one greater. (See: [[:en:ta:vol2:translate:figs_123person]])
 ===== Links: =====
 
   * [[:en:bible:notes:mat:00:intro]]
@@ -43,6 +44,6 @@
   * [[:en:bible:questions:comprehension:mat:12]]
 **[[:en:bible:notes:mat:12:03|<<]] | [[:en:bible:notes:mat:12:07|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit  profane}}
+~~DISCUSSION~~{{tag>publish p2check profane}}
 
 ~~NOCACHE~~
