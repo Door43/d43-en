@@ -33,8 +33,10 @@
   * [[:en:obe:kt:teacher]]
   * [[:en:obe:kt:miracle]]
   * [[:en:obe:kt:adultery]]
+  * [[en:obe:other:generation]]
   * [[:en:obe:other:jonah]]
   * [[:en:obe:kt:prophet]]
+  * [[en:obe:other:biblicaltimeday]]
 
 ===== Translation Notes: =====
 
@@ -42,9 +44,14 @@
   * **General Information:** - In verse 39, Jesus begins to rebuke the scribes and Pharisees.
 
   * **wish** - "want"
-  * **evil and adulterous generation** - People living at this time loved doing evil and were unfaithful to God.
-  * **no sign will be given to it** - This passive can be translated as an active statement. AT: "God will not give a sign to this evil and adulterous generation." (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **the sign of Jonah** - This is a metaphor for what happened to Jonah. AT:"what happened to Jonah" or "the miracle that God did for Jonah." (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **to see a sign from you** - You can make explicit why they want to see a sign. AT: "to see a sign from you that proves what you say is true." (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **An evil and adulterous generation seeks for a sign...given to it** - Jesus is speaking to his present generation. AT: "You are an evil and adulterous generation who demands signs from me...given to you." (See: [[:en:ta:vol2:translate:figs_123person]])
+  * **adulterous generation** - Here "adulterous" is a metaphor for people who are not faithful to God. AT: "unfaithful generation" or "godless generation." (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **seeks for a sign** - This request angers Jesus because of the religious leaders skeptical attitude about Jesus. He had already performed many miracles, but they still did not believe him. (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **no sign will be given** - This can be stated in active form. AT: "God will not give a sign." (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **except the sign of Jonah the prophet** - "except the same sign God gave to Jonah the prophet"
+  * **three days and three nights** - Here "day" and "night" mean a complete 24 hour periods. AT: "3 complete days." (See: [[:en:ta:vol2:translate:figs_merism]])
+  * **the Son of Man** - Jesus is speaking about himself. (See: [[:en:ta:vol2:translate:figs_123person]])
   * **in the heart of the earth** - This means inside a physical grave. (See: [[:en:ta:vol1:translate:figs_idiom]])
 ===== Links: =====
 
@@ -53,6 +60,6 @@
   * [[:en:bible:questions:comprehension:mat:12]]
 **[[:en:bible:notes:mat:12:36|<<]] | [[:en:bible:notes:mat:12:41|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit scribe pharisee teacher adultery jonah}}
+~~DISCUSSION~~{{tag>publish p2check scribe pharisee teacher adultery jonah}}
 
 ~~NOCACHE~~
