@@ -1,0 +1,41 @@
+===== Back Up Translation Work in translationStudio-Desktop =====
+
+//This answers the question:// //How can I backup or save my translation work?//
+
+//In order to understand this topic, it would be good to read://
+  * //[[en:ta:vol2:tech:tsd_navigate|Navigating translationStudio-Desktop v7]]//
+
+=== You should save your translation work on a regular schedule. ===
+
+
+== From the Translation Project window: ==
+
+  * Click on the 3-dot menu icon.
+  * Click on to choose the word "Backup." The file menu will open to save the document.
+  * Note the location of the file.
+  * Change the file name if desired. The file name has the language code, book or story, and project type. The file extension is tstudio.
+  * Click the 'Save' button.
+  * You may receive a message to confirm to overwrite the file. 
+    * Confirm and the file is saved with the same name. Overwriting the previous file.
+    * Click 'No' to rename the file. (You will need to return to the Backup menu and start again.)
+
+
+== From the Home window: ==
+
+  * Click on the circle with the 'i' next to the progress chart of any project.
+  * The information window about the project opens.
+  * Click on the up-arrow.The file menu will open to save the document.
+  * Note the location of the file.
+  * Change the file name if desired. The file name has the language code, book or story, and project type. The file extension is tstudio.
+  * Click the 'Save' button.
+  * You may receive a message to confirm to overwrite the file. 
+    * Confirm and the file is saved with the same name. Overwriting the previous file.
+    * Click 'No' to rename the file. (You will need to return to the information menu and start again.)
+
+//Next we recommend you learn about://
+  * //[[en:ta:vol2:tech:tsd_settings|Settings in translationStudio Desktop v7]]//
+
+----
+https://pad.door43.org/p/ta-tSd_backup
+
+{{tag>epady}} ~~DISCUSSIONS~~
