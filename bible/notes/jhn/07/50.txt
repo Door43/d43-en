@@ -34,11 +34,13 @@
 
 ===== Translation Notes: =====
 
-  * (**he who came to Jesus before, being one of the Pharisees**) - John provides this background information to remind us of who Nicodemus is. Your language may have a special way to mark background information. (See: [[:en:ta:vol2:translate:writing_background]])
-  * **our law judge a man** - Nicodemus means that those who follow the law do not judge a man before a trial. (See: [[:en:ta:vol2:translate:figs_personification]])
-  * **Does our law judge a man...does?** - AT: "Our Jewish law does not allow us to judge a man...does." (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **Are you also from Galilee?** - AT: "You must also be one of those inferior persons from Galilee!" (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **no prophet comes from Galilee** - This is probably refers to a belief that the Messiah was not born in Galilee.
+  * (**he who came to Jesus before, being one of the Pharisees**) - John provides this information to remind us of who Nicodemus is. Your language may have a special way to mark background information. (See: [[:en:ta:vol2:translate:writing_background]])
+  * **Does our law judge a man...what he does does?** - This remark appears in the form of a question to add emphasis. This can be translated as a statement. AT: "Our Jewish law does not allow us to judge a man...what he does." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **Does our law judge a man** - Here Nicodemus speaks of the law as if it were a person. If this is not natural in your language, you may translate it with a personal subject. AT: "Do we judge a man" or "we do not judge a man" (See: [[:en:ta:vol2:translate:figs_personification]])  
+  * **Are you also from Galilee?** - The Jewish leaders know that Nicodemus is not from Galilee. They ask this question as a way of scoffing at him. AT: "You must also be one of those inferior persons from Galilee!" (See: [[:en:ta:vol1:translate:figs_rquestion]] and [[:en:ta:vol1:translate:figs_explicitinfo]])
+  * **Search and see** - This is an ellipsis. You may wish to include the information that does not appear. AT: "Search carefully and read what it written in the Scriptures" (See: [[:en:ta:vol2:translate:figs_ellipsis]])
+  * **no prophet comes from Galilee** - This probably refers to the belief that Jesus was born in Galilee.
+
 ===== Links: =====
 
   * [[:en:bible:notes:jhn:00:intro]]
@@ -46,6 +48,6 @@
   * [[:en:bible:questions:comprehension:jhn:07]]
 **[[:en:bible:notes:jhn:07:47|<<]] | [[:en:bible:notes:jhn:07:53|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~
