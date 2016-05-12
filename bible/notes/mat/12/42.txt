@@ -29,6 +29,9 @@
 
 ===== translationWords: =====
 
+  * [[en:obe:other:queen]]
+  * [[en:obe:kt:judgmentday]]
+  * [[en:obe:other:generation]]
   * [[:en:obe:kt:wise]]
   * [[:en:obe:other:solomon]]
 
@@ -36,11 +39,15 @@
 
   * **Connecting Statement:** - Jesus continues to rebuke the scribes and Pharisees.
 
-  * **The Queen of the South will rise up...with the men of this generation and condemn it** - Here more facts can be brought out, making this more explicit. AT: "The Queen of the South will accuse this generation...and God will hear her accusation and condemn you" or "God will judge both the Queen of the South...and this generation guilty of sin, but because she came to listen to King Solomon and you did not listen to me, God will condemn only you" (See: [[:en:ta:vol1:translate:figs_explicit]])
-  * **Queen of the South** - This refers to the Queen of Sheba, a Gentile kingdom. (See: [[:en:ta:vol1:translate:translate_names]], [[:en:ta:vol1:translate:translate_unknown]])
-  * **She came from the ends of the earth** - "She came from very far away" (See: [[:en:ta:vol1:translate:figs_idiom]])
-  * **this generation** - the people living during the time Jesus was preaching (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **Queen of the South** - This refers to the Queen of Sheba. Sheba is a land south of Israel. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **will rise up at the judgment with the men of this generation and condemn it** - See how you translated a similar statement in [[en:bible:notes:mat:12:41|12:41]].
+  * **this generation** - This means the people living during the time Jesus was preaching.
+  * **She came from the ends of the earth** - Here "ends of the earth" is an idiom that means "far away." AT: "She came from very far away." (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **She came** - This statement explains why the Queen of the South will condemn Jesus' generations. AT: "For she came." (See: [[:en:ta:vol2:translate:writing_connectingwords]])
+  * **and see** - "and look." This adds emphasis to what Jesus says next.
   * **someone greater** - "someone more important"
+  * **someone** - Jesus is speaking about himself. (See: [[:en:ta:vol2:translate:figs_123person]])
+  * **than Solomon is here** - You can make explicit the implicit meaning of Jesus' statement. AT: "than Solomon is hear, yet you do not listen. That is why God will condemn you." (See: [[:en:ta:vol1:translate:figs_explicit]])
 
 ===== Links: =====
 
@@ -49,6 +56,6 @@
   * [[:en:bible:questions:comprehension:mat:12]]
 **[[:en:bible:notes:mat:12:41|<<]] | [[:en:bible:notes:mat:12:43|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit solomon}}
+~~DISCUSSION~~{{tag>publish p2check solomon}}
 
 ~~NOCACHE~~
