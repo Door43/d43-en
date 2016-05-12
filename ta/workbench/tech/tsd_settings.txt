@@ -1,6 +1,59 @@
 ===== tsd translationStudio Desktop - Settings =====
 
 
+//This answers the question:// //What are the settings of the tS-Desktop program and how do I change them?//
+
+//In order to understand this topic, it would be good to read://
+  * //[[en:ta:vol2:tech:tsd_install|translationStudio-Desktop v7 Installation]]//
+  * //[[en:ta:vol2:tech:tsd_navigate|Navigating translationStudio-Desktop v7]]//
+
+==== Open the Settings Menu ====
+
+Tap on the 3 dot menu from any screen.
+Choose 'Settings' on the menu.
+
+=== GL Mode ===
+
+Display additional translation options for gateway languages
+  *Click on the empty square to allow this option.
+Note: A blue square with a white check mark means that the option has already been chosen.
+
+=== Font ===
+
+The name of the chosen font is displayed. Click on the word 'Font' to change the displayed font in the text.
+  * Scroll through the names of the fonts and click on the name to select the desired font.
+  * Select the font and click on 'Confirm' to save.
+
+=== Font Size ===
+
+The size of the chosen font is displayed. Click on the words 'Font size' to change the displayed font size in the text.
+  * Choose from 'small', 'normal', and 'large' font sizes by clicking on the size to select.
+  * Select the size and click on 'Confirm' to save. Or click on 'Cancel' to not change the font size.
+
+Use the back arrow at the top left of the screen to leave Settings.
+
+=== The rest of the settings control the program and should not be changed. ===
+
+-----
+
+=== Upload ===
+
+This is important information about the Servers and cannot be changed.
+
+=== Advanced ===
+
+This is important information about the location of backups, developer tools, and the refresh settings.
+
+=== About ===
+
+Here you will see the version number of the program.
+
+
+
+//Next we recommend you learn about://
+  * //[[en:ta:vol2:tech:tsd_navigate|Navigating translationStudio-Desktop v7]]//
+
+
 ----
 
 [[https://pad.door43.org/p/ta-tSd_settings|https://pad.door43.org/p/ta-tSd_settings]]
