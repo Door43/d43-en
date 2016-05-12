@@ -7,8 +7,8 @@ Please refer to the links on this page for a quick summary of the format and con
   * [[:en:phase1:team-info:processes:create-notes|How to Create Translation Notes]]
   * [[:en:phase1:team-info:processes:format-notes|How to Format Translation Notes]]
   * [[:en:phase1:team-info:training:topics:kt-yes-no]]
-
   * [[:en:phase1:team-info:training:quick-reference:template]]
+  * [[:en:phase1:team-info:training:reviewers:talinks]]
 ==== Discourse ====
 
 {{door43pages @en:phase1:team-info:training:quick-reference:discourse -r -q="\{\{tag>[^}]*publish[^}]*\}\}" -exclude:home -simpleLineBreak -title}}
