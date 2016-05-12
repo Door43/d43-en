@@ -25,6 +25,8 @@
 
 ===== translationWords: =====
 
+  * [[en:obe:other:biblicaltimeday]]
+  * [[en:obe:other:seaofgalilee]]
   * [[:en:obe:kt:jesus]]
 
 ===== Translation Notes: =====
@@ -33,7 +35,7 @@
 
   * **On that day** - These events happened on the same day as the previous chapter.
   * **out of the house** - It is not mentioned at whose house Jesus was staying.
-  * **got into a boat** - This was probably an open wooden fishing boat with a sail.
+  * **got into a boat** - This was probably an open wooden fishing boat with a sail. (See: [[:en:ta:vol1:translate:translate_unknown]])
 
 ===== Links: =====
 
@@ -42,6 +44,6 @@
   * [[:en:bible:questions:comprehension:mat:13]]
 **[[:en:bible:notes:mat:12:48|<<]] | [[:en:bible:notes:mat:13:03|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit }}
+~~DISCUSSION~~{{tag>publish p2check }}
 
 ~~NOCACHE~~
