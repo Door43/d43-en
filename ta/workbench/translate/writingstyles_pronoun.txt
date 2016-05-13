@@ -1,6 +1,6 @@
 ===== Writing Styles - Pronoun Reference Systems =====
 
-This module answers the questions: How do I decide whether or not to use a pronoun?
+This answers the questions: How do I decide whether or not to use a pronoun?
 
 //In order to understand this page, it would be good to read//
   * [[en:ta:vol2:translate:figs_pronouns]]
@@ -20,35 +20,30 @@ Each language has its rules and exceptions to this usual way of referring to peo
   * In some languages the first time something is referred to in a paragraph, it is referred to with a noun rather than a pronoun.
   * In some language the main character is frequently referred to with a noun or name, but in other languages he is usually referred to with a pronoun. Some languages have special pronouns that refer only to the main character. 
   * In some languages, something about the subject is shown on the verb. In some of these languages, subject pronouns are only used to emphasize who the subject is, or to clarify who the subject is if it would not be clear without the pronoun.
-  * We usually use pronouns to refer to something or someone that we have  already mentioned. However some languages allow a pronoun to refer to something or someone that will be identified later in the sentence.
+  * Some languages allow a pronoun to refer to something or someone that will be identified later in the sentence.
 
 ==== Reason this is a translation issue ==== 
   * If pronouns are used at the wrong time, people might not know who they refer to. 
-  * If names and nouns are used at the wrong time, people might not know whether or not someone is a main character. 
   * If pronouns, names or nouns are used at the wrong time, people might think that there is some special emphasis on it in the sentence.
+  * If names and nouns are used at the wrong time, people might not know whether or not someone is a main character. 
   * If names and nouns are used at the wrong time, the translation might sound like it was done by a child or a foreigner.
-
 
 ===== Examples from the Bible =====
 
+The two examples below occur at the beginning of a chapter. It some languages it might not be clear who the pronouns refer to.
 > Again Jesus walked into the synagogue, and a man with a withered hand was there. __They__ watched __him__ to see if __he__ would heal __him__ on the Sabbath. (Mark 3:1-2 ULB) 
 In some languages it may not be clear who the pronouns "they," "he" and "him" refer to. 
 
-The Pharisees and Sadducees came and tested him by asking him to show them a sign from heaven. (Matthew 16:1 ULB)
+> The Pharisees and Sadducees came and tested __him__ by asking him to show them a sign from heaven. (Matthew 16:1 ULB)
 
+In the example below, two men are named in the first sentence. It might not be clear who "he" refers to.
 > Now after some days, King Agrippa and Bernice arrived at Caesarea to pay an official visit to Festus. After __he__ had been there for many days, Festus presented Paul’s case to the king;  (Acts 25:13-14 ULB)
 
-When people first read the pronoun "he," they may not know which of the two men it refers to: King Agrippa or Festus. Since the subject of the next clause is Festus, people who speak some languages might expect that the word "he" refers to Festus. However, the first sentence talks about King Agrippa arriving in Caesarea. When we read "After he had been there for many days" we can expect that "he" refers to the one who had arrived, King Agrippa. In some languages, it would be more clear to use a noun or name here instead of the pronoun "he."
-
-The pronoun precedes what it refers to. \\
-
+The first two sentences below refer to two Jesus and John. In some languages it might not be clear who "he" refers to. \\
 > Jesus responded and said to him, "Permit it now, for it is right for us to fulfill all righteousness." Then John permitted him. After __he__ was baptized, Jesus came up immediately from the water, and behold, the heavens were opened to him. (Matthew 3:15-16 ULB)
 
-
->By __this__ we know that we know him, if __we keep his commandments__. (1 John 2:3 ULB) \\ 
-
 Often we know who a pronoun refers to, not because of he grammar, but because we know something about the people it could refer to.
-"Brothers and fathers, listen to me: The God of glory appeared to our father Abraham when he was in Mesopotamia, before he lived in Haran; 3he said to him, 'Leave your land and your relatives, and go into the land that I will show you.'
+>"Brothers and fathers, listen to me: The God of glory appeared to our father Abraham when he was in Mesopotamia, before he lived in Haran; 3he said to him, 'Leave your land and your relatives, and go into the land that I will show you.'
 
 
 ===== Translation Strategies =====
@@ -57,17 +52,15 @@ Often we know who a pronoun refers to, not because of he grammar, but because we
 
 
 ===== Examples of Translation Strategies Applied =====
-1. Study how your language uses pronouns and use them in the same way. \\ 
-In English, the pronoun usually follows the noun it refers to.\\ 
-** Who is the liar but he who denies that Jesus is the Christ?** (1 John 2:22) \\ 
-The person who denies that Jesus in the Christ is the real liar! \\ 
-In English, in a new chapter a noun phrase, not a pronoun, must be used the first time a person is referred to.\\  
+
+
+  
 **They watched him to see if he would heal him on the Sabbath.** (Mark 3:2)\\ 
 This is the beginning of a new chapter and there is no noun to tell who the “they” refers to. 
 Some men of the Pharisee sect watched him carefully in order to see whether he would heal the man on the Sabbath (UDB) The “they” is explained. \\
 
 2. If there are two people or things or two groups of people or things make sure that your translation makes it clear which one is being referred to. \\  
-**They watched him to see if he would heal him on the Sabbath.** (Mark 3:2) \\  
+  * **They watched him to see if he would heal him on the Sabbath.** (Mark 3:2) 
 There are two “he/him” pronouns referring to two different people. It is not clear who is being spoken of. \\ 
 Some men of the Pharisee sect watched him carefully in order to see whether he would __heal the man__ on the Sabbath (UDB) One of the “he” has been replaced by “the man.”
 
