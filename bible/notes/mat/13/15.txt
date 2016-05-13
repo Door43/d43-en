@@ -40,18 +40,20 @@
 ===== translationWords: =====
 
   * [[:en:obe:other:heart]]
+  * [[en:obe:kt:turn]]
   * [[:en:obe:other:heal]]
 
 ===== Translation Notes: =====
 
   * **Connecting Statement:** - Jesus finishes quoting the prophet Isaiah.
 
-  * **this people's heart has become dull** - "these people can no longer learn"
-  * **they are hard of hearing** - "they no longer desire to listen"
-  * **they have closed their eyes** - "they refuse to see"
-  * **so they should not see with their eyes, or hear with their ears, or understand with their hearts, so they would turn again** - "so that they will not be able to see with their eyes, hear with their ears, or understand with their heart, and as a result turn again."
-  * **turn again** - "turn back" or "repent"
-  * **I would heal them** - "have me heal them." AT: "have me receive them again." (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **For this people's heart...I would heal them** - In 13:15 God describes the people of Israel as if they have physical diseases that cause them to be unable to learn, to see, and to hear. God wants them to come to him so he will heal them. This is all a metaphor describing the people's spiritual condition. It means the people refuse to receive and understand God's truth. If they would, then they would repent and God would forgive them and welcome them back as his people. If the meaning is clear, keep the metaphor in your translation. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **this people's heart has become dull** - Here "heart" refers to the mind. AT: "these people's minds are slow to learn" or "these people can no longer learn." (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **they are hard of hearing** - They are not physically deaf. Here "hard of hearing" means they refuse to listen and learn God's truth. AT: "they refuse to use their ears to listen." (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **they have closed their eyes** - They have not literally closed their eyes. This means they refuse to understand. AT: "they refuse to use their eyes to see." (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **so they should not see with their eyes, or hear with their ears, or understand with their hearts, so they would turn again** - "so that they are not be able to see with their eyes, hear with their ears, or understand with their heart, and as a result turn again."
+  * **turn again** - "turn back to me" or "repent"
+  * **I would heal them** - "have me heal them." This means God would heal them spiritually by forgiving their sins and receiving them again as his people.  AT: "have me receive them again." (See: [[:en:ta:vol1:translate:figs_metaphor]])
 
 
 ===== Links: =====
@@ -61,6 +63,6 @@
   * [[:en:bible:questions:comprehension:mat:13]]
 **[[:en:bible:notes:mat:13:13|<<]] | [[:en:bible:notes:mat:13:16|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit }}
+~~DISCUSSION~~{{tag>publish p2check }}
 
 ~~NOCACHE~~
