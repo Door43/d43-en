@@ -17,22 +17,19 @@ When we talk or write, we use pronouns to refer to people or things without alwa
 In John 3, Nicodemus is first referred to with noun phrases and his name. Then he is referred to with the noun phrase "this man." Then he is referred to with the pronoun "him."
 
 Each language has its rules and exceptions to this usual way of referring to people and things. 
-  * In some languages the first time something is referred to in a paragraph, it is referred to with a noun rather than a pronoun.
-  * In some language the main character is frequently referred to with a noun or name, but in other languages he is usually referred to with a pronoun. Some languages have special pronouns that refer only to the main character. 
-  * In some languages, something about the subject is shown on the verb. In some of these languages, subject pronouns are only used to emphasize who the subject is, or to clarify who the subject is if it would not be clear without the pronoun.
-  * Some languages allow a pronoun to refer to something or someone that will be identified later in the sentence.
+  * In some languages the first time something is referred to in a paragraph or chapter, it is referred to with a noun rather than a pronoun.
+  * The **main character** is who a story is about. In some languages, after a main character is introduced in a story, he is usually referred to with a pronoun. Some languages have special pronouns that refer only to the main character.
+  * In some languages, a change on the verb helps people know who the subject is. (For example in English, //-s// is put on the end of the verb only when the subject is third person singular: "He come__s__." " See: [[en:ta:vol2:translate:figs_pronouns]].) In some of these languages, speakers do not use pronouns much, and listeners rely on the additions to the verb to help them figure out who the subject is. Speakers use a pronoun only when they want to emphasize or clarify who the subject is. 
 
 ==== Reason this is a translation issue ==== 
-  * If pronouns are used at the wrong time, people might not know who they refer to. 
-  * If pronouns, names or nouns are used at the wrong time, people might think that there is some special emphasis on it in the sentence.
-  * If names and nouns are used at the wrong time, people might not know whether or not someone is a main character. 
-  * If names and nouns are used at the wrong time, the translation might sound like it was done by a child or a foreigner.
+  * If translators use a pronoun at the wrong time, readers might not know who the pronoun refers to. 
+  * If translators frequently refer to a main character by  name, listeners might not realize that the person is a main character.
+  * If translators use pronouns, names or nouns at the wrong time, people might think that there is some special emphasis on it in the sentence.
 
 ===== Examples from the Bible =====
 
 The two examples below occur at the beginning of a chapter. It some languages it might not be clear who the pronouns refer to.
-> Again Jesus walked into the synagogue, and a man with a withered hand was there. __They__ watched __him__ to see if __he__ would heal __him__ on the Sabbath. (Mark 3:1-2 ULB) 
-In some languages it may not be clear who the pronouns "they," "he" and "him" refer to. 
+> Again Jesus walked into the synagogue, and a man with a withered hand was there. __They__ watched __him__ to see if __he__ would heal __him__ on the Sabbath. (Mark 3:1-2 ULB)
 
 > The Pharisees and Sadducees came and tested __him__ by asking him to show them a sign from heaven. (Matthew 16:1 ULB)
 
@@ -42,37 +39,26 @@ In the example below, two men are named in the first sentence. It might not be c
 The first two sentences below refer to two Jesus and John. In some languages it might not be clear who "he" refers to. \\
 > Jesus responded and said to him, "Permit it now, for it is right for us to fulfill all righteousness." Then John permitted him. After __he__ was baptized, Jesus came up immediately from the water, and behold, the heavens were opened to him. (Matthew 3:15-16 ULB)
 
-Often we know who a pronoun refers to, not because of he grammar, but because we know something about the people it could refer to.
->"Brothers and fathers, listen to me: The God of glory appeared to our father Abraham when he was in Mesopotamia, before he lived in Haran; 3he said to him, 'Leave your land and your relatives, and go into the land that I will show you.'
 
 
 ===== Translation Strategies =====
-  - If  
   - If it would not be clear to your readers who or what a pronoun refers to, use a noun or name. 
 
 
 ===== Examples of Translation Strategies Applied =====
 
+1. If it would not be clear to your readers who or what a pronoun refers to, use a noun or name.
+  * **Again Jesus walked into the synagogue, and a man with a withered hand was there. __They__ watched __him__ to see if __he__ would heal __him__ on the Sabbath.** (Mark 3:1-2 ULB) 
+    * "Again Jesus walked into the synagogue, and a man with a withered hand was there. __Some Pharisees__ watched __Jesus__ to see if he would heal __the man__ on the Sabbath (UDB)
 
-  
-**They watched him to see if he would heal him on the Sabbath.** (Mark 3:2)\\ 
-This is the beginning of a new chapter and there is no noun to tell who the “they” refers to. 
-Some men of the Pharisee sect watched him carefully in order to see whether he would heal the man on the Sabbath (UDB) The “they” is explained. \\
+  * **Now after some days, King Agrippa and Bernice arrived at Caesarea to pay an official visit to Festus. After __he__ had been there for many days, Festus presented Paul’s case to the king.**  (Acts 25:13-14 ULB)
+    * "Now after some days, King Agrippa and Bernice arrived at Caesarea to pay an official visit to Festus. After __the king__ had been there for many days, Festus presented Paul’s case to him."
+    * "Now after some days, King Agrippa and Bernice arrived at Caesarea to pay an official visit to Festus. After __King Agrippa__ had been there for many days, Festus presented Paul’s case to him."
 
-2. If there are two people or things or two groups of people or things make sure that your translation makes it clear which one is being referred to. \\  
-  * **They watched him to see if he would heal him on the Sabbath.** (Mark 3:2) 
-There are two “he/him” pronouns referring to two different people. It is not clear who is being spoken of. \\ 
-Some men of the Pharisee sect watched him carefully in order to see whether he would __heal the man__ on the Sabbath (UDB) One of the “he” has been replaced by “the man.”
+2. If repeating a name or noun more too much would lead people to think that  an important person in the story is not very important in the story, than use a pronoun instead.
 
-2. In some languages pronouns at the beginning of a chapter  may need to be translated as nouns or names.
-  * **The Pharisees and Sadducees came and tested __him__ by asking him to show them a sign from heaven.** (Matthew 16:1 ULB)
-    * "The Pharisees and Sadducees came and tested __Jesus__ by asking him to show them a sign from heaven."
-
-3. If it would not be clear to your readers who or what a pronoun refers to, use a noun or name. 
-
-  * **Now after some days, King Agrippa and Bernice arrived at Caesarea to pay an official visit to Festus. After __he__ had been there for many days, Festus presented Paul’s case to the king;**  (Acts 25:13-14 ULB)
-    * Now after some days, King Agrippa and Bernice arrived at Caesarea to pay an official visit to Festus. After __the king__ had been there for many days, Festus presented Paul’s case to him;
-    * Now after some days, King Agrippa and Bernice arrived at Caesarea to pay an official visit to Festus. After __King Agrippa__ had been there for many days, Festus presented Paul’s case to him;
+  * __Jesus__ entered a boat, crossed over, and came into his own city. Behold, they brought to him a paralyzed man lying on a mat. Seeing their faith, __Jesus__ said to the paralyzed man, "Son, be of good cheer. Your sins have been forgiven."  (Matthew 9:1-2)
+    * "__Jesus__ entered a boat, crossed over, and came into his own city. Behold, they brought to him a paralyzed man lying on a mat. Seeing their faith, __he__ said to the paralyzed man, "Son, be of good cheer. Your sins have been forgiven."  (Matthew 9:1-2)
 ----
 
 Page [[en:ta:vol2:translate:writing_participants]] should have this page as a 'Recommend'. cj 3-28
