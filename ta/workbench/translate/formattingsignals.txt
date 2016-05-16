@@ -1,6 +1,6 @@
 ====== ULB and UDB Formatting Signals ======
 
-This module answers the question: What are some things that are shown by formatting in the ULB and UDB? \\
+This module answers the question: What do some of the formatting signals in the ULB and UDB show?  \\
 
 In order to understand this module, it would be good to read 
   * [[link]]  (We need the bullet because of the app.)
