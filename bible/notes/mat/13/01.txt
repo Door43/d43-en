@@ -25,7 +25,6 @@
 
 ===== translationWords: =====
 
-  * [[en:obe:other:biblicaltimeday]]
   * [[en:obe:other:seaofgalilee]]
   * [[:en:obe:kt:jesus]]
 
@@ -33,7 +32,7 @@
 
   * **General Information:** - This is the beginning of a new part of the story where Jesus begins to teach the crowds about the kingdom of heaven using parables.
 
-  * **On that day** - These events happened on the same day as the previous chapter.
+  * **On that day** - These events happened on the same day as the previous chapter. (See: [[:en:obe:other: biblicaltimeday]])
   * **sat beside the sea** - It is implied that he sat down to teach the people. (See: [[:en:ta:vol1:translate:figs_explicit]])
   * **out of the house** - It is not mentioned at whose house Jesus was staying.
   * **so he got into the boat** - It is implied that Jesus got into the boat because it would make it easier to teach all the people. (See: [[:en:ta:vol1:translate:figs_explicit]])
@@ -46,6 +45,6 @@
   * [[:en:bible:questions:comprehension:mat:13]]
 **[[:en:bible:notes:mat:12:48|<<]] | [[:en:bible:notes:mat:13:03|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check }}
+~~DISCUSSION~~{{tag>publish p2check seaofgalilee}}
 
 ~~NOCACHE~~
