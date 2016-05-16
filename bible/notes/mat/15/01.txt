@@ -43,8 +43,10 @@
 
   * **General Information:** - The scene shifts to events that occurred some time after events of the previous chapter. Here Jesus responds to the criticisms of the Pharisees. (See: [[en:ta:vol2:translate:writing_newevent]])
 
-  * **violate the traditions of the elders** - "do not respect the rules given by the older religious leaders"
-  * **they do not wash their hands** - "they do not wash their hands in the ceremony required by our law" (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **Why do your disciples violate the traditions of the elders?** - The Pharisees and scribes use this question to criticize Jesus and his disciples. AT: "Your disciples do not respect the rules that our ancestors have given us." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **traditions of the elders** - This is not the same as the law of Moses. This refers to later teachings and interpretations of the law given by religious leaders after Moses.
+  * **they do not wash their hands** - This washing is not just to have clean hands. This refers to a ceremonial washing according to the tradition of the elders. AT: "they do not wash their hands properly." (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **And you—why do you violate the commandment of God for the sake of your traditions?** - Jesus answers with a question to criticize what the religious leaders do. AT: "And I see that you refuse to obey God's commands just so that you can follow what your ancestors taught you!" (UDB) (See: [[:en:ta:vol1:translate:figs_rquestion]])
 ===== Links: =====
 
   * [[:en:bible:notes:mat:00:intro]]
@@ -52,4 +54,4 @@
   * [[:en:bible:questions:comprehension:mat:15]]
 **[[:en:bible:notes:mat:14:34|<<]] | [[:en:bible:notes:mat:15:04|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit tradition}}
+~~DISCUSSION~~{{tag>publish p2check tradition}}
