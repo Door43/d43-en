@@ -26,8 +26,10 @@
 
 ===== translationWords: =====
 
+  * [[en:obe:other:biblicaltimewatch]]
   * [[:en:obe:kt:jesus]]
   * [[:en:obe:kt:disciple]]
+  * [[en:obe:other:terror]]
   * [[:en:obe:kt:fear]]
 
 ===== Translation Notes: =====
@@ -43,4 +45,4 @@
   * [[:en:bible:questions:comprehension:mat:14]]
 **[[:en:bible:notes:mat:14:22|<<]] | [[:en:bible:notes:mat:14:28|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
