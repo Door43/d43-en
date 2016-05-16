@@ -11,7 +11,9 @@
 
 <usfm>
 \v 22 All this happened to make come true what the Lord told the prophet Isaiah to write long ago. Isaiah wrote,
-\v 23 "Listen, a virgin will become pregnant and will give birth to a son. They will call him Immanuel," which means 'God is with us.'"
+\v 23 "Listen, a virgin will become pregnant and will give birth to a son. 
+\q They will call him Immanuel"—
+\q which means, "God is with us."
 </usfm>
 
 ===== ULB: =====
@@ -20,8 +22,8 @@
 \v 22 All this happened to fulfill what was spoken by the Lord through the prophet, saying,
 \q
 \v 23 "Behold, the virgin will conceive and give birth to a son,
-\q and they will call his name Immanuel,
-\m which means 'God with us.'"
+\q and they will call his name Immanuel"—
+\q which means, "God with us."
 </usfm>
 
 ===== translationWords: =====
@@ -50,6 +52,6 @@
   * [[:en:bible:questions:comprehension:mat:01]]
 **[[:en:bible:notes:mat:01:20|<<]] | [[:en:bible:notes:mat:01:24|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check text fulfill prophet virgin}}
+~~DISCUSSION~~{{tag>publish p2check fulfill prophet virgin}}
 
 ~~NOCACHE~~
