@@ -1,6 +1,7 @@
 ====== ULB and UDB Formatting Signals ======
 
-This module answers the question:  \\
+This module answers the question: What are some things that are shown by formatting in the ULB and UDB? \\
+
 In order to understand this module, it would be good to read 
   * [[link]]  (We need the bullet because of the app.)
 
@@ -9,31 +10,31 @@ In order to understand this module, it would be good to read
  
 ==== Description ====
 
-As part of a discourse  (Writing Styles) page that tells about things that are off-topic 
+The ULB and UDB use long dashes, parentheses, and indentation to show how information in the text is related to what is around it. \\ 
 
-[[Should it be about all formatting signals, or just when they are used to tell about things that are off-topic?]]
- 
- 
-The ULB and UDB use the following: \\  
-**Long dashes** introduce information that is immediately relevant to what came before it. 
+===Long Dashes=== 
+Long dashes introduce information that is immediately relevant to what came before it. 
 
 >Then two men will be in a field—one will be taken, and one will be left behind. Two women will be grinding with a mill—one will be taken, and one will be left. Therefore be on your guard, for you do not know on what day your Lord will come. (Matthew 24:40-41 ULB)
- 
-**Parentheses** are used to show that some information is an explanation or afterthought. It does not contribute as well to the point of the passage.
 
-John wrote the book called John. In verse 6 he interrupted the story he was telling to explain that Jesus already know what he was going to do. This is put in parentheses.
+===Parentheses=== 
+ 
+Parentheses are used to show that some information is an explanation or afterthought. It does not contribute as well as the material around it to the point of the passage.
+
+In verse John 6:6, John he interrupted the story he was writing to explain that Jesus already knew what he was going to do. This is put in parentheses.
 
 ><sup>5</sup>When Jesus looked up and saw a great crowd coming to him, he said to Philip, "Where are we going to buy bread so that these may eat?" <sup>6</sup>(Now Jesus said this to test Philip, for he himself knew what he was going to do.)<sup>7</sup>Philip answered him, "Two hundred denarii worth of bread would not be sufficient for each one to have even a little." (John 6:5-7 ULB)
 
-
-Matthew wrote the book called Mathew. In Matthew 24:4-51 he quoted what Jesus was saying. The words in the parentheses below are not what Jesus was saying, but what Matthew was saying to the reader. 
+In Matthew 24:4-51 quoted what Jesus was saying. The words in the parentheses below are not what Jesus was saying, but what Matthew was saying to the reader. 
 
 >Therefore, when you see the abomination of desolation, which was spoken of by Daniel the prophet, standing in the holy place __(let the reader understand)__, let those who are in Judea flee to the mountains, let him who is on the housetop not go down to take out anything that is in his house, 18and let him who is in the field not return to take his cloak.  (Matthew 24:15-18 ULB)
 
 
 >Now an angel of the Lord spoke to Philip and said, "Arise and go toward the south to the road that goes down from Jerusalem to Gaza." (This road is in a desert.) He arose and went. (Acts 8:26 ULB)
+
+==== Indentation===
  
-**Indentation** is used to show 1) poetic lines, 2) the start of a new paragraph, and 3) that a paragraph is quoted material. 
+Indentation is used to show 1) poetic lines, 2) the start of a new paragraph, and 3) that a paragraph is quoted material. 
 
 The lines in poetry are indented.
 ><sup>1</sup>Blessed is the man who does not walk in the advice of the wicked,
@@ -42,13 +43,8 @@ The lines in poetry are indented.
 ><sup>2</sup>But his delight is in the law of Yahweh,
 and on his law he meditates day and night. (Psalm 1:1-2 ULB)
 
-In the ULB, the first line of a paragraph is often indented to the right.
+In the ULB, the first line of a paragraph is indented to the right.
 >When Jesus had come into Peter's house, he saw Peter's mother-in-law lying sick with a fever. Jesus touched her hand, and the fever left her. Then she got up and started serving him.  (Matthew 8:14 ULB)
-
-
-
-
-
 
 Sometimes a whole paragraphs is indented to show that it is quoted. Verse 6 below is a quote from the Old Testament, and it is indented to the right in the ULB.
 
@@ -58,6 +54,22 @@ Sometimes a whole paragraphs is indented to show that it is quoted. Verse 6 belo
 >for from you will come a ruler
 >who will shepherd my people Israel.'"\\ 
 ><sup>7</sup>Then Herod secretly called the learned men to ask them exactly what time the star had appeared. (Matthew 2:4-7 ULB)
+
+
+Indentation is also used in some long lists.
+>5These are the names of the leaders who must fight with you:
+>From the tribe of Reuben, Elizur son of Shedeur;
+>6from the tribe of Simeon, Shelumiel son of Zurishaddai;
+>7from the tribe of Judah, Nahshon son of Amminadab;
+>8from the tribe of Issachar, Nethanel son of Zuar;
+>9from the tribe of Zebulun, Eliab son of Helon;
+>10from the tribe of Ephraim son of Joseph, Elishama son of Ammihud;
+>from the tribe of Manasseh, Gamaliel son of Pedahzur;
+>11from the tribe of Benjamin son of Joseph, Abidan son of Gideoni;
+>12from the tribe of Dan, Ahiezer son of Ammishaddai;
+>13from the tribe of Asher, Pagiel son of Ochran;
+>14from the tribe of Gad, Eliasaph son of Deuel;
+>15and from the tribe of Naphtali, Ahira son of Enan. (Numbers 1:5-15 ULB)
 
 
 
