@@ -17,37 +17,47 @@ As part of a discourse  (Writing Styles) page that tells about things that are o
 The ULB and UDB use the following: \\  
 **Long dashes** - for information that is immediately relevant to the rest of the passage and to separate a general topic from a statement about it that follows.  (We may need to ask Jim more about this. I'm not sure if these are two different uses or the same use described in two ways.) 
 
->Then two men will be in a field–one will be taken, and one will be left behind. Two women will be grinding with a mill–one will be taken, and one will be left. Therefore be on your guard, for you do not know on what day your Lord will come. (Matthew 24:40-41 ULB)
+>Then two men will be in a field—one will be taken, and one will be left behind. Two women will be grinding with a mill—one will be taken, and one will be left. Therefore be on your guard, for you do not know on what day your Lord will come. (Matthew 24:40-41 ULB)
  
-**Parentheses** - To show that some information is off-topic 
+**Parentheses** are used to show that some information is off-topic.
+
+Matthew wrote the book called Mathew. In Matthew 24:4=-51 he quoted what Jesus was saying. The words in the parentheses below are not what Jesus was saying, but what Matthew was saying to the reader. 
+
+>Therefore, when you see the abomination of desolation, which was spoken of by Daniel the prophet, standing in the holy place __(let the reader understand)__, let those who are in Judea flee to the mountains, let him who is on the housetop not go down to take out anything that is in his house, 18and let him who is in the field not return to take his cloak.  (Matthew 24:15-18 ULB)
 
 
->Therefore, when you see the abomination of desolation, which was spoken of by Daniel the prophet, standing in the holy place __(let the reader understand)__, 16let those who are in Judea flee to the mountains, let him who is on the housetop not go down to take out anything that is in his house, 18and let him who is in the field not return to take his cloak.  (Matthew 24:15-18 ULB)
-
-Matthew wrote the book called Mathew. In Matthew he quoted what Jesus was saying.The words in the parentheses are not what Jesus was saying, but what Matthew was saying to the reader. 
 
 >He appointed the Twelve (whom he named apostles), so that they might be with him and he might send them to preach, (Mark 3:14 ULB)
 
 >Now an angel of the Lord spoke to Philip and said, "Arise and go toward the south to the road that goes down from Jerusalem to Gaza." (This road is in a desert.) He arose and went. (Acts 8:26 ULB)
  
-**Indentation** - To show that certain lines in poetry are parallel, or to show that a paragraph is quoted material. 
- 
+**Indentation** is used to show 1) the start of a new paragraph, 2) that certain lines in poetry are parallel, or 3) that a paragraph is quoted material. 
+
+In the ULB, the first line of a paragraph is indented to the right.
+>When Jesus had come into Peter's house, he saw Peter's mother-in-law lying sick with a fever. Jesus touched her hand, and the fever left her. Then she got up and started serving him.  (Matthew 8:14 ULB)
+
+Indentations are used in poetry to show that lines are parallel. The three lines in verse 1 are parallel, and the lines in verse 2 are parallel.  
+><sup>1</sup>Blessed is the man who does not walk in the advice of the wicked,
+>or stand in the pathway with sinners,
+>or sit in the assembly of mockers.
+><sup>2</sup>But his delight is in the law of Yahweh,
+and on his law he meditates day and night. (Psalm 1:1-2 ULB)
 
 
+[[The indentations below makes it look like the four lines are parallel. But it meaning leads me to think that lines 2 and 3 are parallel to the final part of line 1, and line 4 is parallel to line 1.  
+>3He will be like a tree planted by the streams of water
+>that produces its fruit in its season,
+>whose leaves do not wither;
+>whatever he does will prosper. (Psalm 1:3 ULB)
 
-[[This might just be an info page. We may not need the stuff below.]]
+Sometimes a whole paragraphs is indented to show that it is quoted. Verse 6 below is a quote from the Old Testament, and it is indented to the right in the ULB.
 
-**Reason this is a translation issue:** (recommended) \\
-
-==== Translation Principles  (optional) ====
-
-===== Examples from the Bible =====
-
-
-===== Translation Strategies =====
-
-===== Examples of Translation Strategies Applied =====
-
+><sup>4</sup>Herod brought together all the chief priests and scribes of the people, and he asked them, "Where is the Christ to be born?" <sup>5</sup> They said to him, "In Bethlehem of Judea, for this is what was written by the prophet, \\ 
+><sup>6</sup>'And you, Bethlehem, in the land of Judah,
+>are not the least among the leaders of Judah,
+>for from you will come a ruler
+>who will shepherd my people Israel.'"\\ 
+><sup>7</sup>Then Herod secretly called the learned men to ask them exactly what time the star had appeared. (Matthew 2:4-7 ULB)
 
 
 
