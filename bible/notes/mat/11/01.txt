@@ -34,14 +34,14 @@
 
 ===== translationWords: =====
 
-  * [[:en:obe:kt:jesus|Jesus]]
+  * [[:en:obe:kt:jesus]]
   * [[:en:obe:other:instruct]]
-  * [[:en:obe:kt:disciple|disciples]]
-  * [[:en:obe:other:preach|preach]]
-  * [[:en:obe:other:johnthebaptist|John]]
-  * [[:en:obe:other:prison|prison]]
+  * [[:en:obe:kt:disciple]]
+  * [[:en:obe:other:preach]]
+  * [[:en:obe:other:johnthebaptist]]
+  * [[:en:obe:other:prison]]
   * [[:en:obe:kt:works]]
-  * [[:en:obe:kt:christ|Christ]]
+  * [[:en:obe:kt:christ]]
 
 ===== Translation Notes: =====
 
@@ -65,6 +65,6 @@
   * [[:en:bible:questions:comprehension:mat:11]]
 **[[:en:bible:notes:mat:10:42|<<]] | [[:en:bible:notes:mat:11:04|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check disciple}}
+~~DISCUSSION~~{{tag>publish p2check disciple instruct}}
 
 ~~NOCACHE~~
