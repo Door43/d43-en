@@ -5,8 +5,6 @@
 
 ==== P2review Tagged Issues ====
 
-{{count>p2review}}
-
 |P2REVIEW  |
 |{{door43pages @en:bible:notes -r -q="\{\{tag>[^}]*p2review[^}]*\}\}" -exclude:home -simpleLineBreak -title -fontsize="90%"}}  |
 
