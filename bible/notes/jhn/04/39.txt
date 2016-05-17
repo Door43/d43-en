@@ -5,6 +5,7 @@
 
 <usfm>
 \v 39 Many of the Samaria \add district\add* people who \add lived\add* in that town believed that Jesus \add was the Messiah\add* because they heard what that woman said \add about Jesus\add*, "That man \add was able to\add* tell me all about my past life \f + \ft hyperbole \f*!"
+\v 39 Many of the Samaria \add district\add* people who \add lived\add* in that town believed that Jesus \add was the Messiah\add* because they heard what that woman said \add about Jesus\add*, "That man \add was able to\add* tell me all about my past life \f + \ft hyperbole \f*!"
 \v 40 So when those people of Samaria came to him, they urged him to stay with them. So we stayed there two days.
 </usfm>
 
@@ -12,6 +13,7 @@
 ===== UDB: =====
 
 <usfm>
+\v 39 Many Samaritans who lived in the town of Sychar put their trust in Jesus because of what they heard about him from all the woman told them. She said, "He told me everything I have ever done."
 \v 39 Many Samaritans who lived in the town of Sychar put their trust in Jesus because of what they heard about him from all the woman told them. She said, "He told me everything I have ever done."
 \v 40 When the Samaritans came to Jesus, they urged him to stay a longer time with them. So he stayed there two more days.
 </usfm>
@@ -21,7 +23,11 @@
 
 <usfm>
 \p
+<<<<<<< HEAD
+\v 39 Many of the Samaritans in that city believed in him because of the report of the woman who was testifying, "He told me everything that I have ever done."
+=======
 \v 39 Many of the Samaritans in that city believed in him because of the woman's report, she who was testifying, "He told me everything that I have ever done."
+>>>>>>> origin/master
 \v 40 So when the Samaritans came to him, they implored him to stay with them, and he stayed there two days.
 </usfm>
 
