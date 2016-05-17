@@ -1,0 +1,18 @@
+====== P2 Status: 2 Timothy ======
+
+~~NOCACHE~~
+
+==== Chunks without P2 tag: ====
+
+(This list should be empty)
+
+{{door43pages @:en:bible:notes:2ti -r -q="\{\{tag>(?![^}]*p2edit)(?![^}]*p2check)(?![^}]*p2pass)[^}]*\}\}" -exclude:home -exclude:00 -exclude:intro -simpleLineBreak -title -fontsize="80%"}}
+
+
+==== 2 Timothy status: ====
+
+^  publish  ^  p2edit  ^  p2check  ^  p2review  ^  p2pass  ^
+|{{door43pages @en:bible:notes:2ti -r -q="\{\{tag>[^}]*publish[^}]*\}\}" -exclude:home -exclude:00 -exclude:intro -simpleLineBreak -title -fontsize="80%"}}  |{{door43pages @en:bible:notes:2ti -r -q="\{\{tag>[^}]*p2edit[^}]*\}\}" -exclude:home -simpleLineBreak -title -fontsize="80%"}}  |{{door43pages @en:bible:notes:2ti -r -q="\{\{tag>[^}]*p2check[^}]*\}\}" -exclude:home -simpleLineBreak -title -fontsize="80%"}}  |{{door43pages @en:bible:notes:2ti -r -q="\{\{tag>[^}]*p2review[^}]*\}\}" -exclude:home -simpleLineBreak -title -fontsize="80%"}}  |{{door43pages @en:bible:notes:2ti -r -q="\{\{tag>[^}]*p2pass[^}]*\}\}" -exclude:home -simpleLineBreak -title -fontsize="80%"}}  |
+
+
+\\
