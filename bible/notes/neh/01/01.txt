@@ -25,7 +25,7 @@
 <usfm>
 \c 1
 \p
-\v 1 The words of Nehemiah the son of Hacaliah:
+\v 1 The words of Nehemiah son of Hacaliah:
 \p Now it happened in the month of Kislev, in the twentieth year, as I was in fortress city of Susa,
 \v 2 that one of my brothers, Hanani, came with some people from Judah, and I asked them about the Jews who had escaped, the remnant of the Jews who were there, and about Jerusalem.
 </usfm>
@@ -44,7 +44,7 @@
 ===== Translation Notes: =====
 
   * **Nehemiah...Hacaliah...Hanani** - These are names of men. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **in the month of Kislev** - "Kislev" is the ninth month of the Hebrew calendar. It is during the last part November and the first part December on western calendars. (See: [[Hebrew Months]] and [[:en:ta:vol1:translate:translate_names]])
+  * **in the month of Kislev** - "Kislev" is the ninth month of the Hebrew calendar. It is during the last part November and the first part December on western calendars. (See: [[en:ta:workbench:translate:hebrewmonths]] and [[:en:ta:vol1:translate:translate_names]])
   * **in the twentieth year** - "in the twentieth year of the reign of Artaxerxes, King of Persia" (See: [[:en:ta:vol2:translate:translate_ordinal]])
   * **fortress city of Susa** - This was a royal city of Persian kings, located in the country of Elam, far away from Judah. It was a large city with walls.
   * **one of my brothers** - "one of my fellow Jews"
