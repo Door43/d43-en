@@ -31,14 +31,17 @@
   * [[:en:obe:other:sheep]]
   * [[:en:obe:other:house]]
   * [[:en:obe:other:israel]]
+  * [[en:obe:kt:bow]]
   * [[:en:obe:other:bread]]
 ===== Translation Notes: =====
 
-  * **I was not sent to anyone** - This can be stated in active form. AT: "God did send me to anyone." (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **I was not sent to anyone** - This can be stated in active form. AT: "God did not send me to anyone." (See: [[:en:ta:vol2:translate:figs_activepassive]])
   * **to the lost sheep of the house of Israel** - See how you translated this in [[en:bible:notes:mat:10:05|10:6]].
   * **she came** - "the Canaanite woman came"
-  * **the children's bread** - AT: "what properly belongs to the Jews" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **the little dogs** - AT: "the Gentiles" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **bowed down before him** - This shows that the woman is humbling herself before Jesus. (See: [[:en:ta:vol2:translate:translate_symaction]])
+  * **It is not right to take the children's bread and throw it to the little dogs** - Jesus responds to the woman with a proverb. The basic meaning is that it is not right to take what is supposed to belong to the Jews and give it to non-Jews. (See: [[:en:ta:vol2:translate:writing_proverbs]])
+  * **the children's bread** - Here "bread" refers to food in general. AT: "the children's food." (See: [[:en:ta:vol2:translate:figs_synecdoche]]) 
+  * **the little dogs** - The Jews considered dogs to be unclean animals. Here it is used as an image for non-Jews.
 ===== Links: =====
 
   * [[:en:bible:notes:mat:00:intro]]
@@ -46,4 +49,4 @@
   * [[:en:bible:questions:comprehension:mat:15]]
 **[[:en:bible:notes:mat:15:21|<<]] | [[:en:bible:notes:mat:15:27|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit house}}
+~~DISCUSSION~~{{tag>publish p2check house}}
