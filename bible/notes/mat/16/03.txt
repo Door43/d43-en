@@ -29,6 +29,7 @@
 
 ===== translationWords: =====
 
+  * [[en:obe:kt:sign]]
   * [[:en:obe:kt:adultery]]
   * [[:en:obe:kt:evil]]
   * [[:en:obe:other:generation]]
@@ -39,9 +40,12 @@
 
   * **Connecting Statement:** - Jesus continues his response to the Pharisees and Sadducees.
 
+  * **in the morning** - "when the sun is coming up"
   * **foul weather** - "cloudy, stormy weather"
-  * **lowering** - "dark and threatening"
-  * **no sign will be given to it** - This can be stated in active form. AT: "God will give to you people no sign." (See: [[:en:ta:vol2:translate:figs_activepassive]]
+  * **red and lowering** - "red and threatening"
+  * **You know how to interpret the appearance of the sky** - "You know how to look at the sky and understand what kind of weather you will have"
+  * **but you cannot interpret the signs of the times** - "but you do not know how to look at what is happening right now and understand what it means"
+  * **An evil and adulterous generation seeks for a sign, but no sign will be given to it except the sign of Jonah** - See how you translated this in [[en:bible:notes:mat:12:38|12:39]].
 ===== Links: =====
 
   * [[:en:bible:notes:mat:00:intro]]
@@ -49,4 +53,4 @@
   * [[:en:bible:questions:comprehension:mat:16]]
 **[[:en:bible:notes:mat:16:01|<<]] | [[:en:bible:notes:mat:16:05|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit jonah}}
+~~DISCUSSION~~{{tag>publish p2check jonah}}
