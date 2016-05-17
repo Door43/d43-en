@@ -29,15 +29,17 @@
 
 ===== translationWords: =====
 
-  * [[:en:obe:kt:lordgod]]
+  * [[:en:obe:kt:lord]]
   * [[:en:obe:kt:jesus]]
   * [[:en:obe:kt:faith]]
+  * [[en:obe:kt:hour]]
 
 ===== Translation Notes: =====
 
-  * **even the little dogs eat some of the crumbs that fall from their masters' tables** - The Gentiles should be able to have a small amount of the good things the Jews are throwing away. (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **her daughter was healed** - This can be stated in active form. AT: "Jesus healed her daughter" or "Jesus made her daughter well." (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **at that hour** - "at exactly the same time" or "immediately"
+  * **even the little dogs eat some of the crumbs that fall from their masters' tables** - The woman responds using the same imagery as Jesus used in the proverb he just spoke. She means non-Jews should be able to have a small amount of the good things the Jews are throwing away. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **Let it be done** - This can be stated in active form. AT: "I will do." (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **her daughter was healed** - This can be stated in active form. AT: "Jesus healed her daughter" or "her daughter became well." (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **at that hour** - This is an idiom. AT: "at exactly the same time" or "immediately." (See: [[:en:ta:vol1:translate:figs_idiom]])
 ===== Links: =====
 
   * [[:en:bible:notes:mat:00:intro]]
@@ -45,4 +47,4 @@
   * [[:en:bible:questions:comprehension:mat:15]]
 **[[:en:bible:notes:mat:15:24|<<]] | [[:en:bible:notes:mat:15:29|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
