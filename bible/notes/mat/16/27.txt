@@ -23,22 +23,26 @@
 
 ===== translationWords: =====
 
-  * [[:en:obe:kt:amen]]
   * [[:en:obe:kt:sonofman]]
   * [[:en:obe:kt:glory]]
   * [[:en:obe:kt:godthefather]]
   * [[:en:obe:kt:angel]]
   * [[:en:obe:kt:works]]
+  * [[:en:obe:kt:amen]]
   * [[:en:obe:kt:death]]
   * [[:en:obe:other:kingdom]]
 
 ===== Translation Notes: =====
 
-  * **the Son of Man...his Father** - Jesus was referring to himself in the third person as "the Son of Man" and as "his." AT: "I, the Son of man...my Father." (See: [[:en:ta:vol2:translate:figs_123person]])
+  * **the Son of Man...his Father...Then he** - Here Jesus refers to himself in the third person. AT: "I, the Son of man...my Father...Then I" (See: [[:en:ta:vol2:translate:figs_123person]])
+  * **in the glory of his Father** - "having the same glory as his Father"
+  * **with his angels** - "and the angels will be with him." If you translate the first part of the sentence with Jesus speaking in the first person, you can translate this as "and my Father's angels will be with me." (See: [[:en:ta:vol2:translate:figs_123person]])
   * **his Father** - This is an important title for God that describes the relationship between God and the Son of Man, Jesus. (See: [[:en:ta:vol2:translate:guidelines_sonofgodprinciples]])
-  * **will not taste death until they see the Son of Man coming in his kingdom** - "will see the Son of Man coming in his kingdom before they die"
-  * **will not taste death** - "will not experience death" or" will not die"
-  * **the Son of Man coming in his kingdom** - Jesus was referring to himself in the third person. AT: "me coming in my kingdom." (See: [[:en:ta:vol2:translate:figs_123person]])
+  * **Truly I say to you** - "I tell you the truth." This phrase adds emphasis to what Jesus says next.
+  * **you** - All occurrences of this word are plural and refer to the disciples. (See: [[:en:ta:vol1:translate:figs_you]])
+  * **will not taste death** - Here "taste" means to experience. AT: "will not experience death" or" will not die." (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **until they see the Son of Man coming in his kingdom** - Here "kingdom" refers to the Son of Man ruling as king. AT: "until they see the Son of Man coming to rule as king." (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **until they see** - Jesus is still talking about the disciples. AT: "until you see."
 
 ===== Links: =====
 
@@ -47,4 +51,4 @@
   * [[:en:bible:questions:comprehension:mat:16]]
 **[[:en:bible:notes:mat:16:24|<<]] | [[:en:bible:notes:mat:17:01|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit death works kingdom}}
+~~DISCUSSION~~{{tag>publish p2check death works kingdom}}
