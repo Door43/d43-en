@@ -23,8 +23,8 @@
 <usfm>
 \c 1
 \p
-\v 1 In the eighth month of the second year of Darius' reign, the word of Yahweh came to Zechariah the son of Berechiah, the son
-of Iddo the prophet, saying,
+\v 1 In the eighth month of the second year of Darius' reign, the word of Yahweh came to Zechariah son of Berechiah son
+of Iddo, the prophet, saying,
 \v 2 "Yahweh was exceedingly angry with your fathers!
 \v 3 Say to them, 'Yahweh of hosts says this: 
 \q "Turn to me!"—this is Yahweh of hosts' declaration—
@@ -44,7 +44,7 @@ of Iddo the prophet, saying,
 ===== Translation Notes: =====
 
 
-  * **In the eighth month** - This is the eighth month of the Hebrew calendar. It is during the last part of October and the first part of November on western calendars. (See: [[Hebrew Months]] and [[:en:ta:vol2:translate:translate_ordinal]])
+  * **In the eighth month** - This is the eighth month of the Hebrew calendar. It is during the last part of October and the first part of November on western calendars. (See: [[:en:ta:workbench:translate:hebrewmonths]] and [[:en:ta:vol2:translate:translate_ordinal]])
   * **second year of Darius' reign** - "second year since Darius became king" (See: [[:en:ta:vol2:translate:translate_ordinal]])
   * **Berechiah...Iddo** - These are the names of males. (See: [[:en:ta:vol1:translate:translate_names]])
   * **exceedingly angry with your fathers** - "very angry with your forefathers" 
