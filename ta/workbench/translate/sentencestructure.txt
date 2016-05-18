@@ -1,46 +1,64 @@
 ====== Sentence Structure ======
 
-//This answers the question:// //What are the different parts of a sentence?//
+//This answers the question:// //What are the parts of a sentence?//
 
 //In order to understand this topic, it would be good to read://
-  * //[[en:ta:vol2:translate:figs_partsofspeech]]//
+  * //[[:en:ta:vol2:translate:figs_partsofspeech]]//
 
 ===== Description =====
 
-The simplest sentence structure in English includes a  //  ** subject  **  // and an  //  ** action  **  // word. '  // The boy ran.'  //
+The simplest sentence structure in English includes a  //  **subject**  // and an  //  **action**  // word. // 'The boy ran.'  //
 
 ==== Subject ====
 
 The //**subject**// is who or what the sentence is about. In these examples, the subject is underlined: 1) //'__The boy__  is running.'//  2) //'__He__  is running.'//
 
-Subjects are typically typically noun phrases or pronouns. (See: [[parts-of-speech|English Parts of Speech]] for more information.) In the examples above, "the boy" is a noun phrase that has the noun 'boy,' and "he" is a pronoun.
+Subjects are typically noun phrases or pronouns. (See: [[:en:ta:workbench:translate:parts-of-speech]] for more information.) In the examples above, "the boy" is a noun phrase that has the noun 'boy,' and "he" is a pronoun.
 
-Sometimes a subject is not stated but is implied. For example, //'Close the door//.' The verb is 'close'; the subject is implied to be 'you.' See [[:en:ta:vocabulary:implicitexplicit|Explicit and Implicit Information]] for more information.
+Sometimes a subject is not stated but is implied. For example, //'Close the door//.' The verb is 'close'; the subject is implied to be 'you.' See [[:en:ta:vol1:translate:figs_explicit]] for more information.
 
 ==== Predicate ====
 
-The predicate is the part of a sentence which tells something about the subject. It usually has a [[verbs|verb]].
+The predicate is the part of a sentence that tells something about the subject. It usually has a verb. (See: [[:en:ta:vol2:translate:figs_verbs]])
 
-Here are some examples: \\ '//The man is strong//.' - The subject is '//the man//' and the predicate is '//is strong//' (It describes the man.) \\ '//He worked hard//.' - The subject is '//he//' and the predicate is '//worked hard//' (It is something the man did.)
 
-The verb may have an object or a complement: \\ //'The man made a garden.'//  "The man" is the subject. "Made" is the verb. "A garden" is the object. \\ //'The man is strong.'//  "The man" is the subject. "Is" is the verb. "Strong" is the complement.
+>'//The man is strong//.' 
 
-==== Clause ====
+The subject is '//the man//' and the predicate is '//is strong//' (It describes the man.)
 
-A sentence can have more than one set of subjects and predicates. Such sentences are compound sentences, Compound sentences are separated by a comma and a conjunction (i.e. but, and, or). Here is an example:
+>'//He worked hard//.'
 
-'//__He planted the yams__ and __his wife planted the corn__//.'\\
-'//He planted the yams//' is one clause. '//His wife planted the corn//' is another clause.
+The subject is '//he//' and the predicate is '//worked hard//' (It is something the man did.)
 
-'//He planted the yams//' is a complete thought/sentence. '//His wife planted the corn//' is also a complete thought/sentence.
+The verb may have an object or a complement:
 
-Sentences can also include **CLAUSES**. A clause is an incomplete thought that supports the full sentence. A clause is not a full sentence.
+>//'The man made a garden.'// 
 
-'//__When the corn was ready__, his wife picked it//.'
+The subject is "the man". The verb is "made." The object is "a garden."
 
-The clause “when the corn was ready” is a clause, but it is not a full sentence. “His wife picked it up” is a complete sentence.
+>//'The man is strong.'//  
 
-In some languages, clauses can tell about something in the sentence. These are called **relative** clauses.
+The subject is "the man." The verb is "is". The complement is "strong." (A complement is a phrase that completes the sentence, and says something about the subject.)
+
+==== Independent and Dependent Clauses ====
+
+A sentence can have more than one set of subjects and predicates. Each set of subjects and predicates is a clause. Clauses are separated from each other by a comma and a conjunction (i.e. but, and, or). Here is an example:
+
+>'//__He planted the yams__ and __his wife planted the corn__//.'
+
+'//He planted the yams//' is one clause. '//His wife planted the corn//' is another clause. Each of these clauses is a complete thought, and can stand alone as a full sentence. So they are called **independent clauses**.
+
+>'//He planted the yams.//' 
+>'//His wife planted the corn.//'
+
+Some clauses are not complete thoughts. They cannot stand alone, so they are called **dependent clauses**. 
+
+>'//__When the corn was ready__, his wife picked it//.'
+
+The clause “when the corn was ready” is a dependent clause, because it cannot stand alone.  It must be used with an independent clause, such as "his wife picked it."
+
+====Relative Clauses====
+In some languages, clauses can tell about  in the sentence. These are called **relative** clauses.
 
    * Relative clauses can **define **  which thing is being talked about. For example: '//She put a little food in her own bag and a lot of food in the bag __that belonged to her sister__//.' This relative clause '//that belonged to her sister//' defines which bag.
   * Relative clauses can **describe**  or tell some more information. For example: '//She gave some of the food to her only sister, __who was very thankful__.//' The clause “//who was very thankful//” tells something about the sister. Since she had only one sister, it does not tell which sister. It simply tells how her sister responded.
