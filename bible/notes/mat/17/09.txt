@@ -25,6 +25,7 @@
 ===== translationWords: =====
 
   * [[:en:obe:kt:jesus]]
+  * [[en:obe:other:command]]
   * [[:en:obe:other:vision]]
   * [[:en:obe:kt:sonofman]]
   * [[:en:obe:kt:raise]]
@@ -38,6 +39,8 @@
   * **Connecting Statement:** - The following events happen immediately after the three disciples witness Jesus' transfiguration.
 
   * **As they** - "As Jesus and the disciples"
+  * **the Son of Man** - Jesus is speaking about himself. (See: [[:en:ta:vol2:translate:figs_123person]])
+  * **Why then do the scribes say that Elijah must come first?** - The disciples are referring to the belief that Elijah will come back to life and return to the people of Israel before the Messiah comes. (See: [[:en:ta:vol1:translate:figs_explicit]])
 
 ===== Links: =====
 
@@ -46,4 +49,4 @@
   * [[:en:bible:questions:comprehension:mat:17]]
 **[[:en:bible:notes:mat:17:05|<<]] | [[:en:bible:notes:mat:17:11|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit vision}}
+~~DISCUSSION~~{{tag>publish p2check vision}}
