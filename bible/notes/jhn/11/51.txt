@@ -39,10 +39,13 @@
 
 ===== Translation Notes: =====
 
-  * **General Information:** - In verses 51 and 52 the author explains that Caiaphus was prophesying even though he did not realize it at the time. This is background information. (See: [[:en:ta:vol2:translate:writing_background]])
+  * **General Information:** - In verses 51 and 52 the John explains that Caiaphus was prophesying even though he did not realize it at the time. This is background information. (See: [[:en:ta:vol2:translate:writing_background]])
 
-  * **die for the nation** - The word "nation" is used to refer to the people of the nation of Israel. (See [[:en:ta:vol2:translate:figs_metonymy]])
-  * **children of God** - This refers to people who belong to God through faith in Jesus and are spiritually his children.
+
+  * **die for the nation** - The word "nation" is a synecdoche and refers to the people of the nation of Israel. (See [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **that Jesus might also gather together into one** - This is an ellipsis. The word "people" is implied by the context. AT: "that Jesus might also gather into one people" (See: [[:en:ta:vol2:translate:figs_ellipsis]])
+  * **children of God** - This refers to people who belong to God through faith in Jesus and are spiritually God's children.
+
 ===== Links: =====
 
   * [[:en:bible:notes:jhn:00:intro]]
@@ -50,6 +53,6 @@
   * [[:en:bible:questions:comprehension:jhn:11]]
 **[[:en:bible:notes:jhn:11:49|<<]] | [[:en:bible:notes:jhn:11:54|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~
