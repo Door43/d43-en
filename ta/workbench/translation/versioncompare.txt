@@ -22,8 +22,8 @@ There are various ways in which we can represent the ideas in a source text: we 
 ==== What do we mean by "tension" in texts? ====
 Examples of tension occur when a reader wonders what will happen next to the participants in a story, or when a reader follows the argument, encouragement, and warnings of an epistle writer or of a conversation that is reported in the text. A reader can feel tension when reading a psalm, for example, since the praises of God affect the psalmist in various ways. When reading an Old Testament prophetic book, the reader can feel tension rise as the prophet condemns people for their sin, or as he warns them to turn back to God. And the reader can feel tension as he reads about God's promises for the future, and as he tries to learn about when God fulfilled those promises, or when he will fulfill them. Good translators study the kinds of tension in the source documents, and they try to reproduce those tensions in the project language.
 
-==== How should translators use the ULB and UDB in translating the Bible? ====
-Translators can best use these two versions by remembering the following points:
+==== How can translators best use the ULB and UDB in translating the Bible? ====
+Translators can best use the ULB and UDB by remembering the following points:
 
   * The ULB tries to present ideas **in the same order** as they appear in the source text. However, the UDB tries to present ideas in an order that is more natural in English. (As a translator, you should put ideas into an order that is natural in the project language.)
 
@@ -57,6 +57,10 @@ However, sometimes you do not have to represent an idea in your translation, if 
 >(Mal. 1:8 UDB) You would not dare to offer such gifts to your own governor! You know that he would not take them. You know that he would be displeased with you!
 
 Here the biblicaL idea "lift up someone's face," represented in this way in the ULB, is presented as another idea in the UDB: "he would be displeased with you and would not welcome you."
+
+  * The ULB uses a wider variety of verb forms than does the UDB. Languages differ enormously from each other in how they express actions, events, and conditions. For example, both Biblical Hebrew and Greek often use passive verb forms, while many other languages do not have that possibility. So while the ULB features passive verb forms, the UDB usually does not. As a result, the UDB must **restructure** many phrases. (As a translator, you must decide whether the project language can present events or states using a passive expression, as in the following examples. If you decide that your translation cannot use passive expressions, then you may find in the UDB one possible way to restructure the phrases.)
+>
+> 
 
 
 {{tag>epadn jimp}}
