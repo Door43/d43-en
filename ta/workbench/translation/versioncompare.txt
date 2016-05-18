@@ -35,11 +35,11 @@ As a translator, you should decide which implied ideas will be understood by you
 Here the UDB reminds the reader that Simon was a fisherman by trade. It also make clear the similarity that Jesus was drawing between Simon's previous work and his future work.
 In addition, the UDB makes it clear why Jesus wanted Simon to "catch men" (ULB): "to become my disciples" (UDB).
 
-> When [a certain victim of leprosy] saw Jesus, he fell on his face and begged him, saying, "Lord, if you are willing, you can make me clean." (Luke 5:12 ULB)
+> When he saw Jesus, he fell on his face and begged him, saying, "Lord, if you are willing, you can make me clean." (Luke 5:12 ULB)
 
->When [a certain victim of leprosy] saw Jesus, he bowed down to the ground in front of him and pleaded with him, "Lord, please heal me, because you are able to heal me if you are willing!"  (Luke 5:12 UDB) 
+>When he saw Jesus, he bowed down to the ground in front of him and pleaded with him, "Lord, please heal me, because you are able to heal me if you are willing!"  (Luke 5:12 UDB) 
 
-Here the UDB makes it clear that the man did not fall to the ground by accident; instead, he deliberately bowed down to the ground. Also, the UDB makes it clear that he is asking Jesus to heal him. He only implies this request in the ULB.
+Here the UDB makes it clear that the man who had leprosy did not fall to the ground by accident; instead, he deliberately bowed down to the ground. Also, the UDB makes it clear that he is asking Jesus to heal him. He only implies this request in the ULB.
 
 ==== Figures of Speech and Symbolic Actions ====
 The ULB often presents ideas that **mean** other ideas without saying what those other ideas are. \\
@@ -49,15 +49,15 @@ As a translator, you should decide whether your audience will understand correct
 
 > The high priest tore his garments (Mark 14:63 ULB)
 
-> In response to Jesus' words, the high priest was so shocked that he tore his outer garment.  (Mark 14:63 UDB)
+> In response to Jesus' words, the high priest __was so shocked__ that he tore his outer garment.  (Mark 14:63 UDB)
 
 Here the UDB makes it clear that it was not by accident that the high priest tore his garment. It also makes clear that it was probably only his outer garment that he tore, and that he did so because he wanted to show that he was sad or angry or both. In this case, because the high priest actually tore his garment, the UDB must of course say that he did.
 
 However, sometimes you do not have to represent an idea in your translation, if it means another idea without referencing an actual historical action.
 
->Present [a defective animal like] that to your governor; will he accept you or will he lift up your face?" (Malachi 1:8 ULB) 
+>Present that to your governor; will he accept you or __will he lift up your face__?" (Malachi 1:8 ULB) 
 
->You would not dare to offer such gifts to your own governor! You know that he would not take them. You know that he would be displeased with you! (Malachi 1:8 UDB) 
+>You would not dare to offer such gifts to your own governor! You know that he would not take them. You know that __he would be displeased with you!__ (Malachi 1:8 UDB) 
 
 Here the biblical idea "lift up someone's face," represented in this way in the ULB, is presented as another idea in the UDB: "he would be displeased with you and would not welcome you."
 
@@ -69,13 +69,13 @@ The UDB usually does not. As a result, the UDB must **restructure** many phrases
 
 As a translator, you must decide whether the project language can present events or states using a passive expression, as in the following examples. If you decide that your translation cannot use passive expressions, then you may find in the UDB one possible way to restructure the phrases. (See: [[:en:ta:vol2:translate:figs_activepassive]])
 
->For [Simon Peter] was amazed, and all who were with him, at the catch of fish which they had taken. (Luke 5:9 ULB) 
+>For __he was amazed__, and all who were with him, at the catch of fish which they had taken. (Luke 5:9 ULB) 
 
->[Simon Peter] said this because he marveled at the huge number of fish that they had caught. All the men who were with him also marveled. (Luke 5:9 UDB) 
+>He said this because he marveled at the huge number of fish that they had caught. All the men who were with him also marveled. (Luke 5:9 UDB) 
 
 Here the UDB uses a verb in the active voice ("he marveled") instead of the ULB's verb in the passive voice ("was amazed").
 
-> Large crowds of people came together to hear him teach and to be healed of their sicknesses. (Luke 5:15 ULB)
+> Large crowds of people came together to hear him teach and __to be healed__ of their sicknesses. (Luke 5:15 ULB)
 
 >The result was that large crowds came to Jesus to hear him teach and to have him heal them from their sicknesses. (Luke 5:15 UDB) 
 
@@ -87,9 +87,9 @@ The UDB often presents the meaning of these ideas in other ways.
 
 As a translator, you will have to decide whether the readers in the project language will understand a metaphor with little effort, with some effort, or not at all. In the last case, you will have to present the essential meaning of the metaphor using other words.
 
->[Christ] has made you rich in every way, in all speech and with all knowledge. (1 Corinthians 1:5 ULB) 
+>He has __made you rich in every way__, in all speech and with all knowledge. (1 Corinthians 1:5 ULB) 
 
-> Christ has given you so many things. He helped you to speak his truth and to know God. (1 Corinthians 1:5 UDB)
+>Christ has given you so many things. He helped you to speak his truth and to know God. (1 Corinthians 1:5 UDB)
 
 Paul uses a metaphor of material wealth, expressed in the word "rich." Even though he immediately explains what he means ("in all speech and with all knowledge"), some readers might not understand. The UDB presents the idea in a different way, without using the metaphor of material wealth. (See: [[:en:ta:vol1:translate:figs_metaphor]])
 
@@ -100,9 +100,9 @@ The UDB tries not to use such abstract expressions.
 
 As a translator, you will have to decide how the project language prefers to present these ideas. (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
 
->[Christ] has made you rich in every way, in all speech and with all knowledge. (1 Corinthians 1:5 ULB)
+>He has made you rich in every way, in __all speech__ and with __all knowledge__. (1 Corinthians 1:5 ULB)
 
-> Christ has given you so many things. He helped you to speak his truth and to know God. (1 Corinthians 1:5 UDB)
+>Christ has given you so many things. He helped you to speak his truth and to know God. (1 Corinthians 1:5 UDB)
 
 Here the ULB expressions "all speech" and "all knowledge" are abstract noun expressions. One problem with them is that readers might not know who is supposed to do the speaking, or who is doing the knowing. The UDB makes these questions clear.
 
