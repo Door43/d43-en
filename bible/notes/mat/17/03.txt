@@ -27,14 +27,16 @@
   * [[:en:obe:other:moses]]
   * [[:en:obe:other:elijah]]
   * [[:en:obe:other:peter]]
-  * [[:en:obe:kt:jesus]] 
+  * [[:en:obe:kt:jesus]]
+  * [[en:obe:kt:lord]]
 
 ===== Translation Notes: =====
 
   * **Behold** - This word alerts us to pay attention to the surprising information that follows. 
-  * **to them** - to the disciples who were with Jesus
+  * **to them** - This refer to Peter, James, and John.
+  * **with him** - "with Jesus"
   * **answered and said** - "said." Peter is not responding to a question. 
-  * **it is good for us to be here** - Possible meanings are: 1) "it is good that we disciples are here with you, Moses, and Elijah" or 2) "it is good that you, Moses, Elijah, and we disciples are all here together." (See: [[:en:ta:vol2:translate:figs_exclusive]])
+  * **it is good for us to be here** - It is not clear whether "us" refers only to Peter, James, and John, or if it refers to everyone there including Jesus, Elijah, and Moses. If possible, translate so that both options are possible. (See: [[:en:ta:vol2:translate:figs_exclusive]]) and [[:en:ta:vol2:translate:figs_inclusive]] 
   * **shelters** - Possible meanings are: 1) places for people to come for worship or 2) temporary places for people to sleep.
 ===== Links: =====
 
@@ -43,4 +45,4 @@
   * [[:en:bible:questions:comprehension:mat:17]]
 **[[:en:bible:notes:mat:17:01|<<]] | [[:en:bible:notes:mat:17:05|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit moses}}
+~~DISCUSSION~~{{tag>publish p2check moses text}}
