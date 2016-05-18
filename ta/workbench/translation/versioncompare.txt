@@ -7,9 +7,6 @@
   * [[:en:ta:vol1:translate:translate_why]]
   * [[en:ta:workbench:translation:translation-moreabout]] [[Workbench page]]
 
-
-[[Translators can best use the ULB and UDB by remembering the following points:]]
-
 Translators can best use the ULB and UDB by remembering the following differences between the ULB and UDB and knowing how the target language deals with these issues.
 
 ====Order of Ideas==== 
@@ -17,7 +14,7 @@ Translators can best use the ULB and UDB by remembering the following difference
 The ULB tries to present ideas **in the same order** as they appear in the source text. \\
 The UDB tries to present ideas in an order that is more natural in English.
  
-As a translator, you should put ideas into an order that is natural in the project language.
+As a translator, you should put ideas into an order that is natural in the project language. (See: [[en:ta:vol1:translate:figs_events]])
 
 > Paul, a servant of Jesus Christ, called to be an apostle, and set apart for the gospel of God...This letter is to all who are in Rome, the beloved of God. (Romans 1:1,7 ULB)
 
@@ -29,7 +26,7 @@ The ULB shows Paul's style of beginning his letters. He does not say who his aud
 The ULB often presents ideas that only **imply** other ideas.\\
 The UDB often makes those other ideas explicit.
 
-As a translator, you should decide which implied ideas will be understood by your audience. You probably do not need to make implied ideas explicit in your translation if your audience understands them without too much effort. Remember also that you might offend your audience if you needlessly present implied ideas that they would understand anyway.
+As a translator, you should decide which implied ideas will be understood by your audience. You probably do not need to make implied ideas explicit in your translation if your audience understands them without too much effort. Remember also that you might offend your audience if you needlessly present implied ideas that they would understand anyway. (See: [[:en:ta:vol1:translate:figs_explicit]])
 
 >And Jesus said to Simon, "Do not be afraid, because from now on you will catch men." (Luke 5:10 ULB) 
 
@@ -44,11 +41,11 @@ In addition, the UDB makes it clear why Jesus wanted Simon to "catch men" (ULB):
 
 Here the UDB makes it clear that the man did not fall to the ground by accident; instead, he deliberately bowed down to the ground. Also, the UDB makes it clear that he is asking Jesus to heal him. He only implies this request in the ULB.
 
-==== Figures of Speech and Symbols ====
+==== Figures of Speech and Symbolic Actions ====
 The ULB often presents ideas that **mean** other ideas without saying what those other ideas are. \\
 The UDB often presents those other ideas as well. 
 
-As a translator, you should decide whether your audience will understand correctly when one idea actually means another idea. If your audience will not understand, then you must do as the UDB does.
+As a translator, you should decide whether your audience will understand correctly when one idea actually means another idea. If your audience will not understand, then you must do as the UDB does. (See: [[:en:ta:vol2:translate:translate_symaction]])
 
 > The high priest tore his garments (Mark 14:63 ULB)
 
@@ -70,7 +67,7 @@ The ULB uses a wider variety of verb forms than the UDB does. Languages differ e
 The ULB features passive verb forms. \\ 
 The UDB usually does not. As a result, the UDB must **restructure** many phrases. 
 
-As a translator, you must decide whether the project language can present events or states using a passive expression, as in the following examples. If you decide that your translation cannot use passive expressions, then you may find in the UDB one possible way to restructure the phrases.
+As a translator, you must decide whether the project language can present events or states using a passive expression, as in the following examples. If you decide that your translation cannot use passive expressions, then you may find in the UDB one possible way to restructure the phrases. (See: [[:en:ta:vol2:translate:figs_activepassive]])
 
 >For [Simon Peter] was amazed, and all who were with him, at the catch of fish which they had taken. (Luke 5:9 ULB) 
 
@@ -94,14 +91,14 @@ As a translator, you will have to decide whether the readers in the project lang
 
 > Christ has given you so many things. He helped you to speak his truth and to know God. (1 Corinthians 1:5 UDB)
 
-Paul uses a metaphor of material wealth, expressed in the word "rich." Even though he immediately explains what he means ("in all speech and with all knowledge"), some readers might not understand. The UDB presents the idea in a different way, without using the metaphor of material wealth.
+Paul uses a metaphor of material wealth, expressed in the word "rich." Even though he immediately explains what he means ("in all speech and with all knowledge"), some readers might not understand. The UDB presents the idea in a different way, without using the metaphor of material wealth. (See: [[:en:ta:vol1:translate:figs_metaphor]])
 
 
 ==== Abstract Expressions ==== 
 The ULB often uses abstract nouns, adjectives, and other parts of speech, because it tries to closely resemble the biblical texts. \\
 The UDB tries not to use such abstract expressions. 
 
-As a translator, you will have to decide how the project language prefers to present these ideas.
+As a translator, you will have to decide how the project language prefers to present these ideas. (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
 
 >[Christ] has made you rich in every way, in all speech and with all knowledge. (1 Corinthians 1:5 ULB)
 
@@ -113,7 +110,7 @@ Here the ULB expressions "all speech" and "all knowledge" are abstract noun expr
 
 In summary, the ULB will help you translate, because it can help you understand to a significant degree what form the original biblical texts have. The UDB can help you translate, because it can help make the ULB text's meaning clear, and also because it can give you various possible solutions to adopt in your own translation. 
 
-{{tag>epadn jimp}}
+{{tag>epadn review}}
 
 ~~DISCUSSION~~
  ~~NOCACHE~~ 
