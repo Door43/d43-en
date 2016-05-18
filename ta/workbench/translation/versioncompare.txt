@@ -19,7 +19,7 @@ What do we mean by "tension" in texts? Examples of tension occur when a reader w
 
 How should translators use the ULB and UDB in translating the Bible? Translators can best use these two versions by remembering the following points:
 
-  * The ULB tries to present ideas in the same order as they appear in the source text. However, the UDB tries to present ideas in an order that is more natural in English. (As a translator, you should use orders that are natural in the project language.)
+  * The ULB tries to present ideas in the same order as they appear in the source text. However, the UDB tries to present ideas in an order that is more natural in English. (As a translator, you should put ideas into an order that is natural in the project language.)
 
 >(Romans 1:1,7 ULB) Paul, a servant of Jesus Christ, called to be an apostle, and set apart for the gospel of God...This letter is to all who are in Rome, the beloved of God.
 >(Romans 1:1 UDB) I, Paul, who serve Christ Jesus, am writing this letter to all of you believers in the city of Rome. 
@@ -39,6 +39,16 @@ In addition, the UDB makes it clear why Jesus wanted Simon to "catch men" (ULB):
 
 Here the UDB makes it clear that the man did not fall to the ground by accident; instead, he deliberately bowed down to the ground. Also, the UDB makes it clear that he is asking Jesus to heal him. He only implies this request in the ULB.
 
+  * The ULB often presents ideas that **mean** other ideas without saying what those other ideas are. However, the UDB often presents those other ideas as well. (As a translator, you should decide whether your audience will understand correctly when one idea actually means another idea. If your audience will not understand, then you must do as the UDB does.)
+
+>(Mark 14:63 ULB) The high priest tore his garments 
+>(Mark 14:63 UDB) In response to Jesus' words, the high priest was so shocked that he tore his outer garment. 
+
+Here the UDB makes it clear that it was not by accident that the high priest tore his garment, that it was probably only his outer garment that he tore, and that he did so because he wanted to show that he was sad or angry or both. In this case, because the high priest actually tore his garment, the UDB must of course say that he did.
+
+However, sometimes you do not have to represent an idea in your translation, if it means another idea without referencing an actual historical action.
+>
+>
 {{tag>epadn jimp}}
 
 ~~DISCUSSION~~
