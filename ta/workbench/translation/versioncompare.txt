@@ -2,85 +2,110 @@
 
 //This answers the question: What is the best way to use the ULB and UDB in translating the Bible? //
 
-
-
 //In order to understand this page, it would be good to read//
   * [[:en:ta:vol1:translate:translate_whatis]]
   * [[:en:ta:vol1:translate:translate_why]]
-==== What is translation? ====
+  * [[en:ta:workbench:translation:translation-moreabout]] [[Workbench page]]
 
+
+[[Translators can best use the ULB and UDB by remembering the following points:]]
+
+Translators can best use the ULB and UDB by remembering the following differences between the ULB and UDB and knowing how the target language deals with these issues.
+
+====Order of Ideas==== 
+
+The ULB tries to present ideas **in the same order** as they appear in the source text. \\
+The UDB tries to present ideas in an order that is more natural in English.
  
-Translation is the process of representing in one language (the "project language") the ideas found in a document (the "source text") written in a different language.
+As a translator, you should put ideas into an order that is natural in the project language.
 
-==== Why do people translate texts? ====
- 
-Translators in general have different reasons for doing their work. Their reasons depend on the kind of document they are translating, and on the needs of the person who has asked them to translate it. In the case of Bible translation, people usually do their work because they want the Bible's ideas to affect the project language readers in the same way that the original readers and hearers of the biblical texts were affected. Because God's ideas in the Bible lead us to eternal life with him through Jesus Christ, translators also want project language readers to know his ideas.
+> Paul, a servant of Jesus Christ, called to be an apostle, and set apart for the gospel of God...This letter is to all who are in Rome, the beloved of God. (Romans 1:1,7 ULB)
 
-==== How do we as Bible translators usually expect to represent the biblical ideas? ====
-There are various ways in which we can represent the ideas in a source text: we can put them into a list, we can summarize them using far less space on the written page, we can simplify them (as we often do in children's Bible story books and in other kinds of Bible helps), or we can even put them into diagrams or charts. However, Bible translators usually try to present the biblical ideas as completely as possible. This also means that they try to produce in translation the same kinds of documents as the original documents (a prophecy for a prophecy, a letter for a letter, a book of history for a book of history, etc.) Also, they try to create the same **tensions** in the translation that exist in the source texts.
-
-==== What do we mean by "tension" in texts? ====
-Examples of tension occur when a reader wonders what will happen next to the participants in a story, or when a reader follows the argument, encouragement, and warnings of an epistle writer or of a conversation that is reported in the text. A reader can feel tension when reading a psalm, for example, since the praises of God affect the psalmist in various ways. When reading an Old Testament prophetic book, the reader can feel tension rise as the prophet condemns people for their sin, or as he warns them to turn back to God. And the reader can feel tension as he reads about God's promises for the future, and as he tries to learn about when God fulfilled those promises, or when he will fulfill them. Good translators study the kinds of tension in the source documents, and they try to reproduce those tensions in the project language.
-
-==== How can translators best use the ULB and UDB in translating the Bible? ====
-Translators can best use the ULB and UDB by remembering the following points:
-
-  * The ULB tries to present ideas **in the same order** as they appear in the source text. However, the UDB tries to present ideas in an order that is more natural in English. (As a translator, you should put ideas into an order that is natural in the project language.)
-
->(Romans 1:1,7 ULB) Paul, a servant of Jesus Christ, called to be an apostle, and set apart for the gospel of God...This letter is to all who are in Rome, the beloved of God.
->(Romans 1:1 UDB) I, Paul, who serve Christ Jesus, am writing this letter to all of you believers in the city of Rome. 
+>I, Paul, who serve Christ Jesus, am writing this letter to all of you believers in the city of Rome. (Romans 1:1 UDB) 
 
 The ULB shows Paul's style of beginning his letters. He does not say who his audience is until verse 7. However, the UDB follows a style that is much more natural in English and most other languages today.
 
-  * The ULB often presents ideas that only **imply** other ideas. However, the UDB often makes those other ideas explicit. (As a translator, you should decide which implied ideas will be understood by your audience. You probably do not need to make implied ideas explicit in your translation if your audience understands them without too much effort. Remember also that you might offend your audience if you needlessly present implied ideas that they would understand anyway.)
+==== Implied Information====
+The ULB often presents ideas that only **imply** other ideas.\\
+The UDB often makes those other ideas explicit.
 
->(Luke 5:10 ULB) And Jesus said to Simon, "Do not be afraid, because from now on you will catch men."
->(Luke 5:10 UDB) But Jesus said to Simon, "Do not be afraid! Until now you gathered in fish, but from now on you will gather in people to become my disciples." 
+As a translator, you should decide which implied ideas will be understood by your audience. You probably do not need to make implied ideas explicit in your translation if your audience understands them without too much effort. Remember also that you might offend your audience if you needlessly present implied ideas that they would understand anyway.
+
+>And Jesus said to Simon, "Do not be afraid, because from now on you will catch men." (Luke 5:10 ULB) 
+
+> But Jesus said to Simon, "Do not be afraid! Until now you gathered in fish, but from now on you will gather in people to become my disciples." (Luke 5:10 UDB)
 
 Here the UDB reminds the reader that Simon was a fisherman by trade. It also make clear the similarity that Jesus was drawing between Simon's previous work and his future work.
 In addition, the UDB makes it clear why Jesus wanted Simon to "catch men" (ULB): "to become my disciples" (UDB).
 
->(Luke 5:12 ULB) When [a certain victim of leprosy] saw Jesus, he fell on his face and begged him, saying, "Lord, if you are willing, you can make me clean."
->(Luke 5:12 UDB) When [a certain victim of leprosy] saw Jesus, he bowed down to the ground in front of him and pleaded with him, "Lord, please heal me, because you are able to heal me if you are willing!" 
+> When [a certain victim of leprosy] saw Jesus, he fell on his face and begged him, saying, "Lord, if you are willing, you can make me clean." (Luke 5:12 ULB)
+
+>When [a certain victim of leprosy] saw Jesus, he bowed down to the ground in front of him and pleaded with him, "Lord, please heal me, because you are able to heal me if you are willing!"  (Luke 5:12 UDB) 
 
 Here the UDB makes it clear that the man did not fall to the ground by accident; instead, he deliberately bowed down to the ground. Also, the UDB makes it clear that he is asking Jesus to heal him. He only implies this request in the ULB.
 
-  * The ULB often presents ideas that **mean** other ideas without saying what those other ideas are. However, the UDB often presents those other ideas as well. (As a translator, you should decide whether your audience will understand correctly when one idea actually means another idea. If your audience will not understand, then you must do as the UDB does.)
+==== Figures of Speech and Symbols ====
+The ULB often presents ideas that **mean** other ideas without saying what those other ideas are. \\
+The UDB often presents those other ideas as well. 
 
->(Mark 14:63 ULB) The high priest tore his garments 
->(Mark 14:63 UDB) In response to Jesus' words, the high priest was so shocked that he tore his outer garment. 
+As a translator, you should decide whether your audience will understand correctly when one idea actually means another idea. If your audience will not understand, then you must do as the UDB does.
+
+> The high priest tore his garments (Mark 14:63 ULB)
+
+> In response to Jesus' words, the high priest was so shocked that he tore his outer garment.  (Mark 14:63 UDB)
 
 Here the UDB makes it clear that it was not by accident that the high priest tore his garment. It also makes clear that it was probably only his outer garment that he tore, and that he did so because he wanted to show that he was sad or angry or both. In this case, because the high priest actually tore his garment, the UDB must of course say that he did.
 
 However, sometimes you do not have to represent an idea in your translation, if it means another idea without referencing an actual historical action.
->(Mal. 1:8 ULB) Present [a defective animal like] that to your governor; will he accept you or will he lift up your face?"
->(Mal. 1:8 UDB) You would not dare to offer such gifts to your own governor! You know that he would not take them. You know that he would be displeased with you!
+
+>Present [a defective animal like] that to your governor; will he accept you or will he lift up your face?" (Malachi 1:8 ULB) 
+
+>You would not dare to offer such gifts to your own governor! You know that he would not take them. You know that he would be displeased with you! (Malachi 1:8 UDB) 
 
 Here the biblicaL idea "lift up someone's face," represented in this way in the ULB, is presented as another idea in the UDB: "he would be displeased with you and would not welcome you."
 
-  * The ULB uses a wider variety of verb forms than does the UDB. Languages differ enormously from each other in how they express actions, events, and conditions. For example, both Biblical Hebrew and Greek often use passive verb forms, while many other languages do not have that possibility. So while the ULB features passive verb forms, the UDB usually does not. As a result, the UDB must **restructure** many phrases. (As a translator, you must decide whether the project language can present events or states using a passive expression, as in the following examples. If you decide that your translation cannot use passive expressions, then you may find in the UDB one possible way to restructure the phrases.)
+==== Passive Verb Forms  ====
+The ULB uses a wider variety of verb forms than the UDB does. Languages differ enormously from each other in how they express actions, events, and conditions. For example, both Biblical Hebrew and Greek often use passive verb forms, while many other languages do not have that possibility. 
 
->(Luke 5:9 ULB) For [Simon Peter] was amazed, and all who were with him, at the catch of fish which they had taken.
->(Luke 5:9 UDB) [Simon Peter] said this because he marveled at the huge number of fish that they had caught. All the men who were with him also marveled.
+The ULB features passive verb forms. \\ 
+The UDB usually does not. As a result, the UDB must **restructure** many phrases. 
+
+As a translator, you must decide whether the project language can present events or states using a passive expression, as in the following examples. If you decide that your translation cannot use passive expressions, then you may find in the UDB one possible way to restructure the phrases.
+
+>For [Simon Peter] was amazed, and all who were with him, at the catch of fish which they had taken. (Luke 5:9 ULB) 
+
+>[Simon Peter] said this because he marveled at the huge number of fish that they had caught. All the men who were with him also marveled. (Luke 5:9 UDB) 
 
 Here the UDB uses a verb in the active voice ("he marveled") instead of the ULB's verb in the passive voice ("was amazed").
 
->(Luke 5:15 ULB) ...Large crowds of people came together to hear him teach and to be healed of their sicknesses.
->(Luke 5:15 UDB) The result was that large crowds came to Jesus to hear him teach and to have him heal them from their sicknesses.
+> Large crowds of people came together to hear him teach and to be healed of their sicknesses. (Luke 5:15 ULB)
+
+>The result was that large crowds came to Jesus to hear him teach and to have him heal them from their sicknesses. (Luke 5:15 UDB) 
 
 Here the UDB avoids the ULB's passive verb form "to be healed." It does this by restructuring the phrase. It says who the healer is: "to have him [Jesus] heal them."
 
-  * The ULB often represents as closely as possible metaphorical ideas found in the biblical texts. The UDB often presents the meaning of these ideas in other ways. (As a translator, you will have to decide whether the readers in the project language will understand a metaphor with little effort, with some effort, or not at all. In the last case, you will have to present the essential meaning of the metaphor using other words.)
+====Metaphors ==== 
+The ULB often represents as closely as possible metaphorical ideas found in the biblical texts. \\ 
+The UDB often presents the meaning of these ideas in other ways. 
 
->(1 Cor. 1:5 ULB) [Christ] has made you rich in every way, in all speech and with all knowledge.
->(1 Cor. 1:5 UDB) Christ has given you so many things. He helped you to speak his truth and to know God.
+As a translator, you will have to decide whether the readers in the project language will understand a metaphor with little effort, with some effort, or not at all. In the last case, you will have to present the essential meaning of the metaphor using other words.
+
+>[Christ] has made you rich in every way, in all speech and with all knowledge. (1 Corinthians 1:5 ULB) 
+
+> Christ has given you so many things. He helped you to speak his truth and to know God. (1 Corinthians 1:5 UDB)
 
 Paul uses a metaphor of material wealth, expressed in the word "rich." Even though he immediately explains what he means ("in all speech and with all knowledge"), some readers might not understand. The UDB presents the idea in a different way, without using the metaphor of material wealth.
 
-  * The ULB often uses abstract nouns, adjectives, and other parts of speech, because it tries to closely resemble the biblical texts. In contrast, the UDB tries not to use such abstract expressions. (As a translator, you will have to decide who the project language prefers to present these ideas.)
 
->(1 Cor. 1:5 ULB) [Christ] has made you rich in every way, in all speech and with all knowledge.
->(1 Cor. 1:5 UDB) Christ has given you so many things. He helped you to speak his truth and to know God.
+==== Abstract Expressions ==== 
+The ULB often uses abstract nouns, adjectives, and other parts of speech, because it tries to closely resemble the biblical texts. \\
+The UDB tries not to use such abstract expressions. 
+
+As a translator, you will have to decide how the project language prefers to present these ideas.
+
+>[Christ] has made you rich in every way, in all speech and with all knowledge. (1 Corinthians 1:5 ULB)
+
+> Christ has given you so many things. He helped you to speak his truth and to know God. (1 Corinthians 1:5 UDB)
 
 Here the ULB expressions "all speech" and "all knowledge" are abstract noun expressions. One problem with them is that readers might not know who is supposed to do the speaking, or who is doing the knowing. The UDB makes these questions clear.
 
