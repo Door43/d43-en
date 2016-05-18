@@ -35,14 +35,20 @@
 
 ===== translationWords: =====
 
+  * [[en:obe:other:voice]]
+  * [[en:obe:kt:beloved]]
   * [[:en:obe:kt:sonofgod]]
   * [[:en:obe:kt:disciple]]
+  * [[en:obe:kt:fear]]
   * [[:en:obe:kt:jesus]]
 
 ===== Translation Notes: =====
 
   * **behold** - This alerts the reader to pay attention to the surprising information that follows.
-  * **they fell on their face** - "the disciples bowed with their faces on the ground"
+  * **overshadowed them** - "came over them" (UDB)
+  * **there was a voice out of the cloud** - Here "voice" refers to God speaking. AT: "God spoke to them from out of the cloud." (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **the disciples heard it** - "the disciples heard God speak"
+  * **they fell on their face** - "they fell to the ground"
 
 ===== Links: =====
 
@@ -51,4 +57,4 @@
   * [[:en:bible:questions:comprehension:mat:17]]
 **[[:en:bible:notes:mat:17:03|<<]] | [[:en:bible:notes:mat:17:09|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
