@@ -59,8 +59,13 @@ However, sometimes you do not have to represent an idea in your translation, if 
 Here the biblicaL idea "lift up someone's face," represented in this way in the ULB, is presented as another idea in the UDB: "he would be displeased with you and would not welcome you."
 
   * The ULB uses a wider variety of verb forms than does the UDB. Languages differ enormously from each other in how they express actions, events, and conditions. For example, both Biblical Hebrew and Greek often use passive verb forms, while many other languages do not have that possibility. So while the ULB features passive verb forms, the UDB usually does not. As a result, the UDB must **restructure** many phrases. (As a translator, you must decide whether the project language can present events or states using a passive expression, as in the following examples. If you decide that your translation cannot use passive expressions, then you may find in the UDB one possible way to restructure the phrases.)
+
 >(Luke 5:9 ULB) For [Simon Peter] was amazed, and all who were with him, at the catch of fish which they had taken.
 >(Luke 5:9 UDB) [Simon Peter] said this because he marveled at the huge number of fish that they had caught. All the men who were with him also marveled.
+
+Here the UDB uses a verb in the active voice ("he marveled") instead of the ULB's verb in the passive voice ("was amazed").
+
+
 
 
 {{tag>epadn jimp}}
