@@ -25,6 +25,7 @@
 
 ===== translationWords: =====
 
+  * [[en:obe:other:biblicaltimeday]]
   * [[:en:obe:kt:jesus]]
   * [[:en:obe:other:like]]
   * [[:en:obe:other:peter]]
@@ -36,9 +37,9 @@
   * **General Information:** - This begins the account of Jesus' transfiguration.
 
   * **Peter, and James, and John his brother** - "Peter, James, and James's brother John"
-  * **He was transfigured** - This can be stated in active form. AT: "God completely changed Jesus' appearance" (See: [[:en:ta:vol2:translate:figs_activepassive]]) 
+  * **He was transfigured** - This can be stated in active form. AT: "God completely changed Jesus' appearance." (See: [[:en:ta:vol2:translate:figs_activepassive]]) 
   * **garments** - "clothing"
-  * **became as brilliant as the light** - "shone brightly like light" (See: [[:en:ta:vol1:translate:figs_simile]])
+  * **became as brilliant as the light** - This is a simile that emphasizes bright Jesus became. AT: "shone brightly like light." (See: [[:en:ta:vol1:translate:figs_simile]])
 ===== Links: =====
 
   * [[:en:bible:notes:mat:00:intro]]
@@ -46,4 +47,4 @@
   * [[:en:bible:questions:comprehension:mat:17]]
 **[[:en:bible:notes:mat:16:27|<<]] | [[:en:bible:notes:mat:17:03|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit jamessonofzebedee like}}
+~~DISCUSSION~~{{tag>publish p2check jamessonofzebedee like}}
