@@ -2,20 +2,18 @@
 
 ~~NOCACHE~~
 
-  * [[en:phase1:admin-reports:check-tags-notes|Check Tags]]
-  * [[en:ta:ta-needed]]
+  * [[:en:phase1:admin-reports:check-tags-notes|Check Tags]]
+  * [[:en:ta:ta-needed|translationAcademy Topics to Do]]
   * [[:en:phase2:admin-reports:jim-to-do#ch-intro-status|Jump to CH section]]
-
 
 ==== TN, TA, TW Issues ====
 
-^  "Text"  ^  "jimp"  ^  "Discuss" issues  ^
-|{{door43pages @en:bible:notes -r -q="\{\{tag>[^}]*text[^}]*\}\}" -exclude:home -simpleLineBreak -title -fontsize="90%"}} |{{door43pages @en:bible:notes -r -q="\{\{tag>[^}]*jimp[^}]*\}\}" -exclude:home -simpleLineBreak -title -fontsize="90%"}}  |Bible: {{door43pages @en:bible:notes -r -q="\{\{tag>[^}]*discuss[^}]*\}\}" -exclude:home -simpleLineBreak -title -fontsize="90%"}} Terms: {{door43pages @en:obe -r -q="\{\{tag>[^}]*discuss[^}]*\}\}" -exclude:home -simpleLineBreak -title -fontsize="90%"}} Training: {{door43pages @en:phase1:team-info:training -r -q="\{\{tag>[^}]*discuss[^}]*\}\}" -exclude:home -simpleLineBreak -title -fontsize="90%"}}  |
+^  "Text"  ^  "jimp"  ^  "Discuss" issues  |
+|{{door43pages @en:bible:notes -r -q="\{\{tag>[^}]*text[^}]*\}\}" -exclude:home -simpleLineBreak -title -fontsize="90%"}} |{{door43pages @en:bible:notes -r -q="\{\{tag>[^}]*jimp[^}]*\}\}" -exclude:home -simpleLineBreak -title -fontsize="90%"}} |Bible: {{door43pages @en:bible:notes -r -q="\{\{tag>[^}]*discuss[^}]*\}\}" -exclude:home -simpleLineBreak -title -fontsize="90%"}} Terms: {{door43pages @en:obe -r -q="\{\{tag>[^}]*discuss[^}]*\}\}" -exclude:home -simpleLineBreak -title -fontsize="90%"}} Training: {{door43pages @en:phase1:team-info:training -r -q="\{\{tag>[^}]*discuss[^}]*\}\}" -exclude:home -simpleLineBreak -title -fontsize="90%"}} |
 
 ==== CH Intro status ====
 
-^  draft  ^  review  ^  publish  ^
-|{{door43pages @en:bible:notes -r -q="\{\{tag>(?=[^}]*CHteam)(?=[^}]*draft)[^}]*\}\}" -exclude:home -simpleLineBreak -title -fontsize="90%"}}  |{{door43pages @en:bible:notes -r -q="\{\{tag>(?=[^}]*CHteam)(?=[^}]*review)[^}]*\}\}" -exclude:home -simpleLineBreak -title -fontsize="90%"}}  |{{door43pages @en:bible:notes -r -q="\{\{tag>(?=[^}]*CHteam)(?=[^}]*publish)[^}]*\}\}" -exclude:home -simpleLineBreak -title -fontsize="90%"}}  |
-
+^  draft  ^  review  ^  publish  |
+|{{door43pages @en:bible:notes -r -q="\{\{tag>(?=[^}]*CHteam)(?=[^}]*draft)[^}]*\}\}" -exclude:home -simpleLineBreak -title -fontsize="90%"}} |{{door43pages @en:bible:notes -r -q="\{\{tag>(?=[^}]*CHteam)(?=[^}]*review)[^}]*\}\}" -exclude:home -simpleLineBreak -title -fontsize="90%"}} |{{door43pages @en:bible:notes -r -q="\{\{tag>(?=[^}]*CHteam)(?=[^}]*publish)[^}]*\}\}" -exclude:home -simpleLineBreak -title -fontsize="90%"}} |
 
 \\
