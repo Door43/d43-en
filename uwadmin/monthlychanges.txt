@@ -63,6 +63,8 @@
 {{changes>ns=bcq:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:bgw:obs|bgw OBS]]**
 {{changes>ns=bgw:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
+**[[:bha:obs|bha OBS]]**
+{{changes>ns=bha:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:bhd:obs|bhd OBS]]**
 {{changes>ns=bhd:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:bhj:obs|bhj OBS]]**
@@ -301,6 +303,8 @@
 {{changes>ns=lua:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:luc:obs|luc OBS]]**
 {{changes>ns=luc:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
+**[[:lus:obs|lus OBS]]**
+{{changes>ns=lus:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:lv:obs|lv OBS]]**
 {{changes>ns=lv:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:mas:obs|mas OBS]]**
