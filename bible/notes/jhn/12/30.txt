@@ -29,12 +29,15 @@
   * [[:en:obe:kt:world]]
   * [[:en:obe:other:prince]]
   * [[:en:obe:other:castout]]
+
 ===== Translation Notes: =====
 
   * **General Information:** - Jesus explains why the voice spoke from heaven.
 
-  * **prince** - Here this means Satan.
-  * **world** - This refers to all the people in the world. (See: [[:en:ta:vol2:translate:figs_metonymy]])
+
+  * **Now is the judgment of this world** - Here "this world" is a metonym that refers to all the people in the world. AT: "Now is the time for God to judge all of the people." (UDB) (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **Now will the prince of this world be driven out** - Here "prince" refers to Satan. You can translate this in a positive form. AT: "Now is the time when I will destroy the power of Satan who rules this world." (See: [[:en:ta:vol2:translate:figs_activepassive]])
+
 ===== Links: =====
 
   * [[:en:bible:notes:jhn:00:intro]]
@@ -42,6 +45,6 @@
   * [[:en:bible:questions:comprehension:jhn:12]]
 **[[:en:bible:notes:jhn:12:27|<<]] | [[:en:bible:notes:jhn:12:32|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~
