@@ -44,11 +44,13 @@
 
 ===== Translation Notes: =====
 
-  * **what should I say? 'Father, save me from this hour'?** - Jesus is expressing that though his desire is to bypass the crucifixion, he chooses to be obedient to God to be killed. AT: "I will not pray, 'Father, save me from this hour.'" (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **what should I say? 'Father, save me from this hour'?** - This remark appears in the form of a rhetorical question. Although Jesus desires to avoid crucifixion, he chooses to be obedient to God and to be killed. AT: "I will not pray, 'Father, save me from this hour.'" (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **this hour** - Here "this hour" is a metonym that represents when Jesus would suffer and die on the cross. (See: [[:en:ta:vol2:translate:figs_metonymy]])
   * **Father** - This is an important title for God. (See: [[:en:ta:vol2:translate:guidelines_sonofgodprinciples]])
-  * **glorify your name** - Here the word "name" refers to God. AT: "make your glory known" or "reveal your glory." (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **Father...for this reason I came...Father, glorify your name** - The eternal intimacy and compassion shared between God the Father and God the Son is seen in this prayer by Jesus. The Father and Son glorify one another here and always have.
-  * **a voice came out of heaven...I have both glorified it...the crowd...said that it had thundered** - The Father answers the Son with a voice as strong as thunder.
+  * **glorify your name** - Here the word "name" is a metonym that refers to God. AT: "make your glory known" or "reveal your glory." (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **Father, glorify your name** - Here "Father" is an important title for God. (See: [[:en:ta:vol2:translate:guidelines_sonofgodprinciples]])
+  * **a voice came out of heaven** - This refers to the voice of God, which some people thought was thunder. AT: "Then God spoke from heaven" (See: [[:en:ta:vol2:translate:figs_euphemism]])
+ 
 ===== Links: =====
 
   * [[:en:bible:notes:jhn:00:intro]]
@@ -58,6 +60,6 @@
 
 ~~DISCUSSION~~
 
-{{tag>publish p2edit glorify}}
+{{tag>publish p2check glorify}}
 
 ~~NOCACHE~~
