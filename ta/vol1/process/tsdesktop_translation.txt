@@ -1,8 +1,8 @@
 ===== How to Translate in translationStudio-Desktop =====
 
-//This answers the question:// //How can I translate in translationStudio-Desktop?//
+This module answers the question: //How can I translate in translationStudio-Desktop?//
 
-//In order to understand this topic, it would be good to read://
+Before you start this module have you learned about:
   * //[[en:ta:vol1:process:pretranslation_training|Training Before Translation Begins]]//
   * //[[en:ta:vol1:process:setup_tsdesktop|Setting Up translationStudio-Desktop]]//
 
@@ -36,7 +36,7 @@ translationStudio-Desktop is designed to work in much the same way as translatio
 
 
 
-//Next we recommend you learn about://
+Next we recommend you learn about:
   * //[[en:ta:vol1:process:upload_merge|Merging an Upload Into Door43]]//
   * //[[en:ta:vol1:process:prechecking_training|Training Before Checking Begins]]//
   * //[[en:ta:vol1:process:required_checking|How to Check]]//

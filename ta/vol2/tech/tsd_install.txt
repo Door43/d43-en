@@ -1,8 +1,8 @@
 ===== translationStudio-Desktop v7 Installation =====
 
-//This answers the question:// //How do I install the translationStudio-Desktop program?//
+This module answers the question: //How do I install the translationStudio-Desktop program?//
 
-//In order to understand this topic, it would be good to read://
+Before you start this module have you learned about:
   * //[[en:ta:vol2:tech:tsd_intro|translationStudio-Desktop Introduction]]//
 
 The translationStudio Desktop program works on Windows 64-bit, OSX 64-bit  and Linux.debian 64-bit. It is best to know the version of the computer before downloading the zip file.
@@ -45,7 +45,7 @@ Go to [[https://github.com/unfoldingWord-dev/ts-desktop/releases]] to download t
 
 
 
-//Next we recommend you learn about://
+Next we recommend you learn about:
   * //[[en:ta:vol2:tech:tsd_login|translationStudio-Desktop v7 - Login Options]]//
   * //[[en:ta:vol2:tech:tsd_termsofuse|translationStudio-Desktop v7 - Terms of Use]]//
 

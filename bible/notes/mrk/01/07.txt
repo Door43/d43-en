@@ -24,20 +24,21 @@
 
 <usfm>
 \p
-\v 7  He preached and said, "Someone is coming after me who is more powerful than I, and I am not worthy even to stoop down to untie the strap of his sandals.
+\v 7 He preached and said, "Someone is coming after me who is more powerful than I, and I am not worthy even to stoop down to untie the strap of his sandals.
 \v 8 I baptized you with water, but he will baptize you with the Holy Spirit."
 </usfm>
 
 ===== translationWords: =====
 
+  * [[en:obe:other:preach]]
   * [[:en:obe:kt:worthy]]
   * [[:en:obe:kt:baptize]]
   * [[:en:obe:kt:holyspirit]]
-
 ===== Translation Notes: =====
 
   * **He preached** - "John preached" See ([[:en:bible:notes:mrk:01:01|1:2-3]]).
-  * **I am not worthy even to stoop down to untie the strap of his sandals** - John is comparing himself to a servant to show how great Jesus is. AT: "I am not worthy to even do the most unpleasant work of a servant." (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **I am not worthy even to stoop down to untie the strap of his sandals** - John is comparing himself to a servant to show how great Jesus is. AT: "I am not even worthy to do the lowly task of removing his shoes" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **the strap of his sandals** - At the time Jesus was alive, people wore sandals that were often made of leather and tied to the foot with leather straps.
   * **stoop down** - "bend down"
   * **baptize you with the Holy Spirit** - Spiritual baptism is here compared to water baptism. Spiritual baptism brings people into contact with the Holy Spirit like water baptism brings people into contact with water. AT: "identify you with the Holy Spirit." (See: [[:en:ta:vol1:translate:figs_metaphor]])
 
@@ -48,6 +49,6 @@
   * [[:en:bible:questions:comprehension:mrk:01]]
 **[[:en:bible:notes:mrk:01:04|<<]] | [[:en:bible:notes:mrk:01:09|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit worthy}}
+~~DISCUSSION~~{{tag>publish p2check worthy}}
 
 ~~NOCACHE~~

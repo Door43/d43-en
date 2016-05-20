@@ -1,6 +1,6 @@
 ===== Measuring Length of Audio Selection =====
 
-//This answers the question:// //How can I measure how long a selection of audio is?//
+This module answers the question: //How can I measure how long a selection of audio is?//
 
 At times it will be helpful to know the length of a section of audio. In most editing software, this can be measured by selecting that section of audio and observing the value displayed in the time clock.
 

@@ -1,8 +1,8 @@
 ===== Create and Edit Text =====
 
-//This answers the question:// //How do I create and edit text?//
+This module answers the question: //How do I create and edit text?//
 
-//In order to understand this topic, it would be good to read://
+Before you start this module have you learned about:
   * //[[en:ta:vol1:tech:ts_install|Install translationStudio-Android]]//
 
 ==== Create Translation Text ====
@@ -36,7 +36,7 @@ If you accidentally delete a large amount of work, contact [[help@door43.org]].
 
 
 
-//Next we recommend you learn about://
+Next we recommend you learn about:
   * //[[en:ta:vol1:tech:ts_intro|Introduction to the translationStudio-Android Program]]//
   * //[[en:ta:vol1:tech:ts_install|Install translationStudio-Android]]//
   * //[[en:ta:vol1:tech:ts_first|How to Use translationStudio-Android for the First Time]]//

@@ -1,8 +1,8 @@
 ===== Update translationKeyboard =====
 
-//This answers the question:// //How do I update translationKeyboard?//
+This module answers the question: //How do I update translationKeyboard?//
 
-//In order to understand this topic, it would be good to read://
+Before you start this module have you learned about:
   * //[[en:ta:vol1:tech:tk_intro|translationKeyboard]]//
 
 ==== Updating tK ====
@@ -16,7 +16,7 @@ Sometimes you may need to update the keyboard.
 
 
 
-//Next we recommend you learn about://
+Next we recommend you learn about:
   * //[[en:ta:vol1:tech:tk_install|Install translationKeyboard on an Android Device]]//
   * //[[en:ta:vol1:tech:tk_start|Setting Up the translationKeyboard APP on an Android device]]//
   * //[[en:ta:vol1:tech:tk_enable|Enable translationKeyboard on an Android Device]]//

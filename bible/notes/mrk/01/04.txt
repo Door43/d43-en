@@ -19,9 +19,9 @@
 ===== ULB: =====
 
 <usfm>
-\v 4 As John came, he was baptizing in the wilderness and was preaching a baptism of repentance for the forgiveness of sins.
-\v 5 All the country of Judea and all the people of Jerusalem were going out to him. They were being baptized by him in the Jordan River, as they confessed their sins.
-\v 6 John wore a coat of camel's hair, he had a leather belt about his waist, and he was eating locusts and wild honey.
+\v 4 John came, baptizing in the wilderness and preaching a baptism of repentance for the forgiveness of sins.
+\v 5 The whole country of Judea and all the people of Jerusalem went out to him. They were baptized by him in the Jordan River, confessing their sins.
+\v 6 John was wearing a coat of camel's hair and a leather belt about his waist, and he was eating locusts and wild honey.
 </usfm>
 
 ===== translationWords: =====
@@ -37,14 +37,16 @@
   * [[:en:obe:other:jerusalem]]
   * [[:en:obe:other:jordanriver]]
   * [[:en:obe:kt:confess]]
+  * [[en:obe:other:locust]]
   * [[:en:obe:other:honey]]
 
 ===== Translation Notes: =====
 
-  * **As John came** - Be sure your reader understands that John was the one spoken of in [[:en:bible:notes:mrk:01:01|1:2-3]].
-  * **he...him...his** - These words all refer to John.
-  * **All the country of Judea and all the people of Jerusalem** - The word "all" here is an exaggeration for emphasis. AT: "Many people from Judea and Jerusalem." (See: [[:en:ta:vol2:translate:figs_hyperbole]])
+  * **General Information:** - In these verses the words "he," "him," and "his" refer to john.
 
+  * **John came** - Be sure your reader understands that John was the messenger spoken of by the prophet Isaiah in the previous verse.
+  * **The whole country of Judea and all the people of Jerusalem** - The words "whole" and "all" here are a hyperbole used to emphasize that there was a very large number of people. AT: "Many people from Judea and Jerusalem." (See: [[:en:ta:vol2:translate:figs_hyperbole]])
+  * **They were baptized by him...confessing their sins** - AT: "When they repented of their sins, they were baptized by him in the Jordan River." These two things, the confessing of sins and being baptized, happened together. The people were baptized because they repented of their sins. 
 
 ===== Links: =====
 
@@ -53,6 +55,6 @@
   * [[:en:bible:questions:comprehension:mrk:01]]
 **[[:en:bible:notes:mrk:01:01|<<]] | [[:en:bible:notes:mrk:01:07|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

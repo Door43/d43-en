@@ -24,7 +24,7 @@
 
 <usfm>
 \p
-\v 14 Now after John was arrested, Jesus came into Galilee and proclaimed the gospel of God, 
+\v 14 Now after John was arrested, Jesus came into Galilee proclaiming the gospel of God,
 \v 15 and saying, "The time is fulfilled, and the kingdom of God is near. Repent and believe in the gospel."
 </usfm>
 
@@ -33,17 +33,17 @@
   * [[:en:obe:other:johnthebaptist]]
   * [[:en:obe:kt:jesus]]
   * [[:en:obe:other:galilee]]
+  * [[en:obe:other:proclaim]]
   * [[:en:obe:kt:goodnews]]
   * [[:en:obe:kt:god]]
   * [[:en:obe:kt:fulfill]]
   * [[:en:obe:kt:kingdomofgod]]
   * [[:en:obe:kt:repent]]
   * [[:en:obe:kt:believe]]
-
 ===== Translation Notes: =====
 
   * **after John was arrested** - "after John was placed in prison." AT: "after they arrested John." (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **proclaimed the gospel of God** - "preached the good news that came from God"
+  * **proclaiming** - "preaching"
   * **The time is fulfilled** - "It is now time"
 
 ===== Links: =====
@@ -53,6 +53,6 @@
   * [[:en:bible:questions:comprehension:mrk:01]]
 **[[:en:bible:notes:mrk:01:12|<<]] | [[:en:bible:notes:mrk:01:16|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit goodnews repent believe}}
+~~DISCUSSION~~{{tag>publish p2check text goodnews repent believe}}
 
 ~~NOCACHE~~

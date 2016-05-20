@@ -1,6 +1,6 @@
 ===== Signal to Noise Ratio =====
 
-//This answers the question:// //What is the signal to noise ratio?//
+This module answers the question: //What is the signal to noise ratio?//
 
 One characteristic of a quality recording that will have many years of usefulness, and require the least amount of additional work during editing and post-production, is a recording with an excellent signal to noise ratio.
 
@@ -12,6 +12,6 @@ Our goal is to record the narrator's voice (signal) at a quality level (-6dB) wh
 
 
 
-//Next we recommend you learn about://
+Next we recommend you learn about:
   * //[[en:ta:vol2:audio:audio_noise_floor|Noise Floor]]//
 

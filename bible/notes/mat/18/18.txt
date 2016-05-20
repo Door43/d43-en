@@ -42,12 +42,17 @@
 
 ===== Translation Notes: =====
 
+  * **Truly I say to you** - "I tell you the truth." This adds emphasis to what Jesus says next.
+  * **you** - All occurrences of this word are plural. (See: [[:en:ta:vol1:translate:figs_you]])
   * **bind...bound...loose...loosed** - See how you translated these in [[:en:bible:notes:mat:16:19|16:19]].
   * **will be bound...shall be loosed** - This can be stated in active form. AT: "God will bind...God will loose." (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **they...them** - These refer to the "two of you."
-  * **two or three** - "two or more" or "at least two"
-  * **are gathered** - "meet"
+  * **I say to you** - This adds emphasis to what Jesus says next.
+  * **if two of you** - It is implied that Jesus means "if at least two of you" or "if two or more of you." (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **they...them** - These refer to the "two of you." AT: "you...you."
   * **my Father** - This is an important title for God that describes the relationship between God and Jesus. (See: [[:en:ta:vol2:translate:guidelines_sonofgodprinciples]])
+  * **two or three** - It is implied that Jesus means "two or more" or "at least two." (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **are gathered** - "meet"
+  * **in my name** - Here "name" refers to the entire person. AT: "because of me" or "because they are my disciples." (See: [[:en:ta:vol2:translate:figs_metonymy]])
 ===== Links: =====
 
   * [[:en:bible:notes:mat:00:intro]]
@@ -55,4 +60,4 @@
   * [[:en:bible:questions:comprehension:mat:18]]
 **[[:en:bible:notes:mat:18:17|<<]] | [[:en:bible:notes:mat:18:21|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}

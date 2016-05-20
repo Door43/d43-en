@@ -1,6 +1,6 @@
 ===== Modifying Pauses =====
 
-//This answers the question:// //What is the best way to adjust the length of pauses?//
+This module answers the question: //What is the best way to adjust the length of pauses?//
 
 One of the common editing procedures is making adjustments to the pauses between sentences or sections in order to ensure a natural flow. Recordings should also have approximately 1 second of silence at the beginning and end of the recording. While many software programs offer an effect that places an adjustable amount of absolute silence where you would like to in the timeline, we recommend against using this feature. The reason is that these "silence" areas will not match the general feel of the rest of the recording. Those spots will seem awkward, almost as if a vacuum sucked all of the sound away momentarily.
 

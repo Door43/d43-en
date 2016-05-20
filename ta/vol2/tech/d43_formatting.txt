@@ -1,8 +1,8 @@
 ===== Formatting Content in Door43 =====
 
-//This answers the question:// //How do I format a page in Door43?//
+This module answers the question: //How do I format a page in Door43?//
 
-//In order to understand this topic, it would be good to read://
+Before you start this module have you learned about:
   * //[[en:ta:vol2:tech:d43_translateobs|How to Tanslate the Open Bible Stories in Door43]]//
 
 **DokuWiki** supports some simple markup language, which tries to make the files to be as readable as possible. This page contains the possible syntax you may use when editing the pages. The syntax for the described formatting is in the box below the examples. If you want to try something, just use the [[:playground:playground|playground]] page.

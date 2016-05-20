@@ -1,8 +1,8 @@
 ===== Find the Resources in translationStudio =====
 
-//This answers the question:// //How do I find Resources in translationStudio?//
+This module answers the question: //How do I find Resources in translationStudio?//
 
-//In order to understand this topic, it would be good to read://
+Before you start this module have you learned about:
   * //[[en:ta:vol1:tech:ts_create|Create and Edit Text]]//
   * //[[en:ta:vol1:translate:translate_help|Help with Translating]]//
 
@@ -21,7 +21,7 @@ When you are done with the Resources, swipe from left to right to make the pane 
 
 
 
-//Next we recommend you learn about://
+Next we recommend you learn about:
   * //[[en:ta:vol1:tech:ts_translate|Translating in translationStudio]]//
   * //[[en:ta:vol1:tech:ts_create|Create and Edit Text]]//
   * //[[en:ta:vol1:tech:ts_useresources|How to Use the Resources in translationStudio]]//

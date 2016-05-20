@@ -1,6 +1,6 @@
 ===== Setting the Mic Gain Level =====
 
-//This answers the question:// //How is the mic gain level set properly?//
+This module answers the question: //How is the mic gain level set properly?//
 
 Properly setting the gain level is an extremely important step that will have profound positive impacts on the recording. Improper gain level setting creates editing and production challenges that in many cases are not repairable.
 
@@ -43,6 +43,6 @@ Create a new file and begin recording. Have the narrator practice speaking at th
 
 
 
-//Next we recommend you learn about://
+Next we recommend you learn about:
   * //[[en:ta:vol2:audio:audio_setup_h2n|Zoom H2n Setup (USB mode recording)]]//
 

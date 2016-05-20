@@ -20,9 +20,9 @@
 
 <usfm>
 \p
-\v 9 It happened in those days that Jesus came from Nazareth of Galilee, and he was baptized by John in the Jordan River.
-\v 10 As Jesus came up out of the water, he saw the heavens split open and the Spirit coming down on him like a dove,
-\v 11 while a voice came out of the heavens, "You are my beloved Son. I am very pleased with you."
+\v 9 It happened in those days that Jesus came from Nazareth in Galilee, and he was baptized by John in the Jordan River.
+\v 10 As Jesus came up out of the water, he saw the heavens split open and the Spirit coming down on him like a dove.
+\v 11 And a voice came out of the heavens, "You are my beloved Son. I am very pleased with you."
 </usfm>
 
 ===== translationWords: =====
@@ -40,9 +40,12 @@
 
 ===== Translation Notes: =====
 
-  * **You are my beloved Son** - The Father, Son, and Spirit all appear here together, at the same time. 
+  * **It happened in those days** - This marks the beginning of a new event in the storyline.  (See: [[en:ta:vol2:translate:writing_newevent]])
+  * **he was baptized by John** - This can be stated as an active sentence. AT: "John baptized him" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **the Spirit coming down on him like a dove** - Possible meanings: 1) This is a simile and the Spirit descended upon Jesus like a bird descends from the sky towards the ground, or 2) The Spirit literally looked like a dove as it descended upon Jesus. (See: [[:en:ta:vol1:translate:figs_simile]])
+  * ** a voice came out of the heavens** - Here the "voice" from heaven is a metonymy for God. (See: [[:en:ta:vol2:translate:figs_metonymy]])
   * **beloved Son** - This is an important title for Jesus. The Father calls Jesus his "beloved Son" because of his eternal love for him. (See: [[:en:ta:vol2:translate:guidelines_sonofgodprinciples]])
-  
+ 
 ===== Links: =====
 
   * [[:en:bible:notes:mrk:00:intro]]
@@ -50,6 +53,6 @@
   * [[:en:bible:questions:comprehension:mrk:01]]
 **[[:en:bible:notes:mrk:01:07|<<]] | [[:en:bible:notes:mrk:01:12|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit dove beloved}}
+~~DISCUSSION~~{{tag>publish p2check dove beloved}}
 
 ~~NOCACHE~~

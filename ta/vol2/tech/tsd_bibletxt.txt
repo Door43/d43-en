@@ -1,8 +1,8 @@
 ===== The Process for Translating the Bible =====
 
-//This answers the question:// //What steps do I follow when I translate the Bible into the target language?//
+This module answers the question: //What steps do I follow when I translate the Bible into the target language?//
 
-//In order to understand this topic, it would be good to read://
+Before you start this module have you learned about:
   * //[[en:ta:vol2:tech:tsd_intro|translationStudio-Desktop Introduction]]//
   * //[[en:ta:vol2:tech:tsd_install|translationStudio-Desktop v7 Installation]]//
 
@@ -56,7 +56,7 @@ If you accidentally delete a large amount of work, contact [[help@door43.org]].
 
 
 
-//Next we recommend you learn about://
+Next we recommend you learn about:
   * //[[en:ta:vol2:tech:tsd_navigate|Navigating translationStudio-Desktop v7]]//
   * //[[en:ta:vol2:tech:tsd_tn|The Process for Translating the translationNotes]]//
   * //[[en:ta:vol2:tech:tsd_tq|The Process for Translating the translationQuestions]]//

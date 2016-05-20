@@ -1,12 +1,12 @@
 ===== Introduction to the translationStudio-Android Program =====
 
-//This answers the question:// //What is the translationStudio App?//
+This module answers the question: //What is the translationStudio App?//
 
 The translationStudio-Android is a mobile app where translators can do offline translating. It can be downloaded for Android (see https://play.google.com/store/apps/details?id=com.translationstudio.androidapp&hl=en ) devices. It contains the content that needs to be translated as well as translationHelps (See: [[:en:ta:vol1:translate:translate_help]]). Information can be shared directly from device to device and finished content can be uploaded to Door43 and digitally published.
 
 
 
 
-//Next we recommend you learn about://
+Next we recommend you learn about:
   * //[[en:ta:vol1:tech:ts_install|Install translationStudio-Android]]//
 

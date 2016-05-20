@@ -1,8 +1,8 @@
 ===== Update unfoldingWord on an Android Device =====
 
-//This answers the question:// //How do I update unfoldingWord on an Android device?//
+This module answers the question: //How do I update unfoldingWord on an Android device?//
 
-//In order to understand this topic, it would be good to read://
+Before you start this module have you learned about:
   * //[[en:ta:vol1:tech:uw_app|unfoldingWord Mobile App]]//
 
 ==== How can I get new content? ====
@@ -17,7 +17,7 @@ To update the content of the unfoldingWord app:
 
 
 
-//Next we recommend you learn about://
+Next we recommend you learn about:
   * //[[en:ta:vol1:tech:uw_install|Install unfoldingWord on an Android Device]]//
   * //[[en:ta:vol1:tech:uw_first|Use unfoldingWord for the First Time]]//
   * //[[en:ta:vol1:tech:uw_checking|About Checking Levels]]//

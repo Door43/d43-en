@@ -1,8 +1,8 @@
 ===== Upload Your Work =====
 
-//This answers the question:// //How do I upload my work?//
+This module answers the question: //How do I upload my work?//
 
-//In order to understand this topic, it would be good to read://
+Before you start this module have you learned about:
   * //[[en:ta:vol1:tech:ts_share|Backup and Share Your Work]]//
 
 ==== Uploading ====
@@ -11,7 +11,7 @@ When you work in translationStudio, your text is saved every five minutes to you
 
 
 
-//Next we recommend you learn about://
+Next we recommend you learn about:
   * //[[en:ta:vol1:tech:ts_intro|Introduction to the translationStudio-Android Program]]//
   * //[[en:ta:vol1:tech:ts_install|Install translationStudio-Android]]//
   * //[[en:ta:vol1:tech:ts_first|How to Use translationStudio-Android for the First Time]]//

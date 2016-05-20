@@ -1,6 +1,6 @@
 ===== How to Rename Files with Bulk Rename Utility =====
 
-//This answers the question:// //How do I rename groups of files?//
+This module answers the question: //How do I rename groups of files?//
 
 Before proceeding with renaming files, make sure you have made a backup copy of your files. We also recommend using Mp3Tag to create metadata tags that clearly identify every audio track by its official name according to the File Naming Standards. This will allow you to always be sure of what the original file was, even if the file name has been changed.
 

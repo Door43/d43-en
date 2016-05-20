@@ -1,8 +1,8 @@
 ===== Backup and Share Your Work =====
 
-//This answers the question:// //How do I backup and share my work?//
+This module answers the question: //How do I backup and share my work?//
 
-//In order to understand this topic, it would be good to read://
+Before you start this module have you learned about:
   * //[[en:ta:vol1:tech:ts_create|Create and Edit Text]]//
   * //[[en:ta:vol1:tech:ts_navigate|Navigate in translationStudio]]//
 
@@ -36,7 +36,7 @@ To share, move, or store your work, complete these steps:
 
 
 
-//Next we recommend you learn about://
+Next we recommend you learn about:
   * //[[en:ta:vol1:tech:ts_upload|Upload Your Work]]//
   * //[[en:ta:vol1:tech:ts_update|Update translationStudio Projects]]//
   * //[[en:ta:vol1:tech:ts_publish|Publish Content to unfoldingWord]]//

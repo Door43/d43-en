@@ -1,6 +1,6 @@
 ===== Creating a New File =====
 
-//This answers the question:// //How is a new file created?//
+This module answers the question: //How is a new file created?//
 
 During the recording phase, you will capture the sounds as an audio file and give it a name (see File Naming Standards). In most software and on most hardware devices, you will create a new file in one of these ways:
 
@@ -18,7 +18,7 @@ Note: Some software may not prompt you to choose a format until you Save the fil
 
 
 
-//Next we recommend you learn about://
+Next we recommend you learn about:
   * //[[en:ta:vol2:audio:audio_standard_format|Format]]//
   * //[[en:ta:vol2:audio:audio_standard_file_naming|File Naming Standard]]//
 

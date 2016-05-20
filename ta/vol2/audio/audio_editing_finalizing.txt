@@ -1,6 +1,6 @@
 ===== Finalizing =====
 
-//This answers the question:// //How are audio files finalized?//
+This module answers the question: //How are audio files finalized?//
 
 Once you have completed all the necessary checking and editing of the files, it is time to finalize your recorded audio. We are choosing to use the term "finalizing" rather than "mastering" because, in the professional audio industry, mastering often includes many steps that are not included in this manual. Many aspects of mastering are not necessary or are simply quite impossible for the sub-optimal context in which we must work, especially without high-end equipment or specialized skills in how to do mastering properly.
 
@@ -18,6 +18,6 @@ Criteria for finished audio files include:
 
 
 
-//Next we recommend you learn about://
+Next we recommend you learn about:
   * //[[en:ta:vol2:audio:audio_guides_normalizing|How to Normalize an Audio Track]]//
 
