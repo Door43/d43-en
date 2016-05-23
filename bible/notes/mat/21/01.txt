@@ -27,10 +27,10 @@
 ===== translationWords: =====
 
   * [[:en:obe:kt:jesus]]
+  * [[:en:obe:kt:disciple]]
   * [[:en:obe:other:jerusalem]]
   * [[:en:obe:other:mountofolives]]
   * [[:en:obe:other:send]]
-  * [[:en:obe:kt:disciple]]
   * [[:en:obe:other:donkey]]
   * [[:en:obe:kt:lord]]
 
@@ -38,7 +38,8 @@
 
   * **Connecting Statement:** - This begins the account of Jesus' entry into Jerusalem. Here he gives his disciples instructions about what they are to do.
 
-  * **Bethphage** - a village (See: [[:en:ta:vol1:translate:translate_names]])
+  * **Bethphage** - This is a village near Jerusalem. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **tied up there** - You can make explicit the donkey is tied. AT: "tied up there to a post" or "tied up there to a tree." (See: [[:en:ta:vol1:translate:figs_explicit]])
   * **colt** - "young male donkey"
 
 ===== Links: =====
@@ -48,6 +49,6 @@
   * [[:en:bible:questions:comprehension:mat:21]]
 **[[:en:bible:notes:mat:20:32|<<]] | [[:en:bible:notes:mat:21:04|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit mountofolives donkey send}}
+~~DISCUSSION~~{{tag>publish p2check mountofolives donkey send}}
 
 ~~NOCACHE~~
