@@ -27,9 +27,13 @@
 ===== translationWords: =====
 
   * [[:en:obe:other:manager]]
+  * [[en:obe:other:biblicaltimehour]]
 
 ===== Translation Notes: =====
+  * **Connecting Statement:** - Jesus continues telling a parable. (See: [[:en:ta:vol1:translate:figs_parables]])
 
+  * **beginning from the last to the first** - You can make clear the understood information. AT: "begin with the workers I hired last, then pay the workers I hired first." (See: [[:en:ta:vol2:translate:figs_ellipsis]])
+  * **who had been hired** - This can be stated in active form. AT: "whom the landowner hired." (See: [[:en:ta:vol2:translate:figs_activepassive]])
   * **each of them** - "each of the workers who had begun work at the eleventh hour"
   * **a denarius** - "one day's wages" (See: [[:en:ta:vol2:translate:translate_bmoney]])
   * **they thought** - "the workers who had worked the longest thought"
@@ -40,6 +44,6 @@
   * [[:en:bible:questions:comprehension:mat:20]]
 **[[:en:bible:notes:mat:20:05|<<]] | [[:en:bible:notes:mat:20:11|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit manager}}
+~~DISCUSSION~~{{tag>publish p2check manager}}
 
 ~~NOCACHE~~
