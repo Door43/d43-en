@@ -23,12 +23,16 @@
 
 ===== translationWords: =====
 
-  * [[:en:obe:other:vineyard|vineyard]]
   * [[:en:obe:other:Biblicaltimehour]]
+  * [[:en:obe:other:vineyard|vineyard]]
+
 ===== Translation Notes: =====
 
+  * **Connecting Statement:** - Jesus continues telling a parable. (See: [[:en:ta:vol1:translate:figs_parables]])
+
   * **He went out again** - "The landowner went out again"
-  * **standing idle** - "not doing anything" or "who had no work"
+  * **standing idle in the marketplace** - "standing in the marketplace not doing anything" or "standing in the marketplace who had no work"
+  * **marketplace** - a large, open-air area where people buy and sell items
 
 ===== Links: =====
 
@@ -37,6 +41,6 @@
   * [[:en:bible:questions:comprehension:mat:20]]
 **[[:en:bible:notes:mat:20:01|<<]] | [[:en:bible:notes:mat:20:05|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~
