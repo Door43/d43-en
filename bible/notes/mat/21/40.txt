@@ -24,10 +24,12 @@
 ===== translationWords: =====
 
   * [[:en:obe:other:vineyard]]
+  * [[en:obe:other:grape]]
 
 ===== Translation Notes: =====
 
-  * **The people said to him** - "The people said to Jesus"
+  * **Now** - Here Jesus ends the parable and begins asking the people what they think will happen next in the story.
+  * **The people said to him** - "The people said to Jesus." It is not clear who answered Jesus. It may have been the people there listening (ULB) or it may have been the chief priests and elders (UDB).
 
 ===== Links: =====
 
@@ -36,6 +38,6 @@
   * [[:en:bible:questions:comprehension:mat:21]]
 **[[:en:bible:notes:mat:21:38|<<]] | [[:en:bible:notes:mat:21:42|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit vineyard}}
+~~DISCUSSION~~{{tag>publish p2check vineyard}}
 
 ~~NOCACHE~~
