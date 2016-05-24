@@ -1,38 +1,39 @@
 ====== Biblical Money ======
 
 //This page answers the question: How can I translate the values of money in the Bible?//
-
 ==== Introduction ====
 
+Nearly every existing country has its own form of currency, so it’s no surprise that those in biblical times had their own as well. One must understand the terminology of this currency to understand many parts of the Bible, including David’s buying of the threshing floor, Abraham’s servant’s gift to Rebecca, and several of Jesus’ parables to mention a few. Translating the meaning of currency requires a strong understanding of how much that money was worth to people back then, what it is worth to your audience now, and how best to communicate that value. This article should assist you in gaining that understanding.
 
 ==== Description: ====
 
-In early Old Testament times, people weighed their metals such as silver and gold in order to buy things. Later people started to make coins. The daric is one such coin.  In New Testament times, people used silver and copper coins.
+In early Old Testament times, people weighed their metals such as silver and gold in order to buy things. Later people started to make coins. The daric is one such coin. In New Testament times, people used silver and copper coins.
 
 The two tables below show some of the most well-known units of money found in the Old Testament (OT) and New Testament (NT). The table for Old Testament units shows what kind of metal was used and how much it weighed. The table for New Testament units shows what kind of metal was used and how much it was worth in terms of a day's wage.
 
-^ Unit in OT ^ Metal ^ Weight |
-| daric  | gold coin |  8.4 grams |
-| shekel | various metals |  11 grams |
-| talent | various metals |  33 kilograms |
+^Unit in OT ^Metal ^Weight |
+|daric |gold coin |  8.4 grams |
+|  shekel |  various metals |  11 grams |
+|  talent |  various metals |  33 kilograms |
 
-^ Unit in NT ^ Metal ^ Day's Wage |
-| denarius/denarii | silver coin |  1 day |
-| drachma | silver coin |  1 day |
-| mite | copper coin|  1/64 day |
-| shekel | silver coin |  4 days |
-| talent | silver |  6000 days |
+^  Unit in NT ^  Metal ^  Day's Wage |
+|  denarius/denarii |  silver coin |  1 day |
+|  drachma |  silver coin |  1 day |
+|  mite |  copper coin |  1/64 day |
+|  shekel |  silver coin |  4 days |
+|  talent |  silver |  6000 days |
 
 === Translation Principle ===
+
 Do not use modern money values since these change from year to year. Using them will cause the Bible translation to become outdated and inaccurate.
 
 ==== Translation Strategies ====
 
-The value of most money in the Old Testament was based on its weight. So when translating these weights in the Old Testament, see [[Biblical Weights]]. 
+The value of most money in the Old Testament was based on its weight. So when translating these weights in the Old Testament, see [[:en:ta:workbench:translate:biblical-weights|Biblical Weights]].
 
 The strategies below are for translating the value of money in the New Testament
 
-  - Use the Bible term and spell it in a way that is similar to the way it sounds. (See: [[en:ta:vol1:translate:translate_transliterate]])
+  - Use the Bible term and spell it in a way that is similar to the way it sounds. (See: [[:en:ta:vol1:translate:translate_transliterate|Copy or Borrow Words]])
   - Describe the value of the money in terms of what kind of metal it was made of and how many coins were used.
   - Describe the value of the money in terms of what people in Bible times could earn in one day of work.
   - Use the Bible term and give the equivalent amount in the text or a note.
@@ -41,36 +42,40 @@ The strategies below are for translating the value of money in the New Testament
 ==== Translation Strategies ====
 
 The translations strategies are all applied to Luke 7:41 below.
-  * **The one owed five hundred denarii, and the other owed fifty denarii.** (Luke 7:41 ULB)
 
-1. Use the Bible term and spell it in a way that is similar to the way it sounds. (See: [[en:ta:vol1:translate:translate_transliterate]])
+  * **The one owed five hundred denarii, and the other owed fifty denarii.**  (Luke 7:41 ULB)
+1. Use the Bible term and spell it in a way that is similar to the way it sounds. (See: [[:en:ta:vol1:translate:translate_transliterate|Copy or Borrow Words]])
 
-  *  "The one owed __five hundred denali__, and the other owed __fifty denali__." (Luke 7:41 ULB)
+  * "The one owed __five hundred denali__, and the other owed __fifty denali__." (Luke 7:41 ULB)
 
 2. Describe the value of the money in terms of what kind of metal it was made of and how many pieces or coins were used.
 
-  *  "The one owed __five hundred silver coins__, and the other owed __fifty silver coins__." (Luke 7:41 ULB)
+  * "The one owed __five hundred silver coins__, and the other owed __fifty silver coins__." (Luke 7:41 ULB)
 
 3. Describe the value of the money in terms of what people in Bible times could earn in one day of work.
 
-  *  "The one owed __five hundred days' wages__, and the other owed __fifty days' wages__." 
+  * "The one owed __five hundred days' wages__, and the other owed __fifty days' wages__."
 
 4. Use the Bible term and give the equivalent amount in the text or a footnote.
 
-  *  "The one owed __five hundred denarii__<sup>1</sup>, and the other owed __fifty denarii__.<sup>2</sup>" (Luke 7:41 ULB). The footnotes would look like:
-    * <sup>[1]</sup> five hundred days's wages
-    * <sup>[2]</sup> fifty day's wages
+  * "The one owed __five hundred denarii__ <sup>1</sup> , and the other owed __fifty denarii__.<sup>2</sup> " (Luke 7:41 ULB). The footnotes would look like:
+      * <sup>[1]</sup>   five hundred days's wages
+      * <sup>[2]</sup>   fifty day's wages
 
 5. Use the Bible term and explain it in a footnote.
 
-  * "The one owed __five hundred denarii__<sup>1</sup>, and the other owed __fifty denarii__." (Luke 7:41 ULB)
-    * <sup>[1]</sup> A denarius was the amount of silver that people could earn in one day of work.
+  * "The one owed __five hundred denarii__ <sup>1</sup> , and the other owed __fifty denarii__." (Luke 7:41 ULB)
+      * <sup>[1]</sup>   A denarius was the amount of silver that people could earn in one day of work.
 
-Next we suggest you read \\ 
-  * [[en:ta:vol1:translate:translate_transliterate]]
-  * [[en:ta:vol1:translate:translate_unknown]]
+Next we suggest you read
+
+  * [[:en:ta:vol1:translate:translate_transliterate|Copy or Borrow Words]]
+  * [[:en:ta:vol1:translate:translate_unknown|Translate Unknowns]]
 
 ----
-https://pad.door43.org/p/ta-translate_bmoney
+
+[[https://pad.door43.org/p/ta-translate_bmoney|https://pad.door43.org/p/ta-translate_bmoney]]
 
 ~~DISCUSSION~~{{tag>epady introjg introcs}}
+
+\\
