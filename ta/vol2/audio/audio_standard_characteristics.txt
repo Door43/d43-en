@@ -1,6 +1,6 @@
 ===== Characteristics =====
 
-This module answers the question: //What are the characteristics of unfoldingWord audio?//
+//This answers the question:// //What are the characteristics of unfoldingWord audio?//
 
 The following are important characteristics of audio files.
 
@@ -39,7 +39,7 @@ A minimum of 1 native speaker of the language must be present during the recordi
 
 
 
-Next we recommend you learn about:
+//Next we recommend you learn about://
   * //[[en:ta:vol2:audio:audio_mic_gain_level|Setting the Mic Gain Level]]//
   * //[[en:ta:vol2:audio:audio_noise_floor|Noise Floor]]//
   * //[[en:ta:vol2:audio:audio_editing_finalizing|Finalizing]]//

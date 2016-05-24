@@ -1,6 +1,6 @@
 ===== Uploading to door43 =====
 
-This module answers the question: //How are audio files uploaded to door43?//
+//This answers the question:// //How are audio files uploaded to door43?//
 
 A system is in development that will make it possible to upload audio content directly to our file storage server, clearly identified and connected with the language and type of content that it is. At the time of this writing, the system is not complete. Please contact help@door43.org for more information.
 

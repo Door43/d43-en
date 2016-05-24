@@ -1,8 +1,8 @@
 ===== Settings in translationStudio Desktop v7 =====
 
-This module answers the question: //What are the settings of the tS-Desktop program and how do I change them?//
+//This answers the question:// //What are the settings of the tS-Desktop program and how do I change them?//
 
-Before you start this module have you learned about:
+//In order to understand this topic, it would be good to read://
   * //[[en:ta:vol2:tech:tsd_install|translationStudio-Desktop v7 Installation]]//
   * //[[en:ta:vol2:tech:tsd_navigate|Navigating translationStudio-Desktop v7]]//
 
@@ -51,6 +51,6 @@ Here you will see the version number of the program.
 
 
 
-Next we recommend you learn about:
+//Next we recommend you learn about://
   * //[[en:ta:vol2:tech:tsd_navigate|Navigating translationStudio-Desktop v7]]//
 

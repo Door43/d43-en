@@ -1,6 +1,6 @@
 ===== WIFI Hotspot =====
 
-This module answers the question: //How is content distributed and listened to offline?//
+//This answers the question:// //How is content distributed and listened to offline?//
 
 An excellent way to distribute multimedia resources to people with mobile devices is by using WIFI or Bluetooth. This can be done using an existing network or from device to device. However, a device such as the LightStream designed by Renew Outreach creates its own local WIFI and Bluetooth radio transmission signal. Multiple end-users can simultaneously connect to these signals and download content from the LightStream to their mobile phone quite rapidly. In addition, the LightStream includes USB ports that can be used to copy content to USB sticks or microSD cards (adapters included).
 

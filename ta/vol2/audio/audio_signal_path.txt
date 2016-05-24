@@ -1,6 +1,6 @@
 ===== The Signal Path =====
 
-This module answers the question: //What is the signal path?//
+//This answers the question:// //What is the signal path?//
 
 An important skill in setting up recording equipment (and in troubleshooting if there are problems) is to have a very good understanding of the signal path, or the way the audio signal flows from one piece of equipment to another. Some connections are physical, such as connecting a cable to a jack. Other connections are digital, such as settings selected in software (discussed in software setup section).
 
@@ -15,6 +15,6 @@ Many portable handheld recording devices combine the entire signal path process 
 
 
 
-Next we recommend you learn about:
+//Next we recommend you learn about://
   * //[[en:ta:vol2:audio:audio_mic_activation|Activating the Mic]]//
 

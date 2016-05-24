@@ -1,8 +1,8 @@
 ===== Find my Language =====
 
-This module answers the question: //What do I do when I cannot find my language?//
+//This answers the question:// //What do I do when I cannot find my language?//
 
-Before you start this module have you learned about:
+//In order to understand this topic, it would be good to read://
   * //[[en:ta:vol1:tech:ts_install|Install translationStudio-Android]]//
 
 ==== Finding my Language ====
@@ -24,7 +24,7 @@ Go back to the translationStudio page (see [[en:ta:vol1:tech:ts_intro]]).
 
 
 
-Next we recommend you learn about:
+//Next we recommend you learn about://
   * //[[en:ta:vol1:tech:ts_intro|Introduction to the translationStudio-Android Program]]//
   * //[[en:ta:vol1:tech:ts_install|Install translationStudio-Android]]//
   * //[[en:ta:vol1:tech:ts_first|How to Use translationStudio-Android for the First Time]]//

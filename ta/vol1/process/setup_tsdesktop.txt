@@ -1,8 +1,8 @@
 ===== Setting Up translationStudio-Desktop =====
 
-This module answers the question: //How do I set up translationStudio-Desktop?//
+//This answers the question:// //How do I set up translationStudio-Desktop?//
 
-Before you start this module have you learned about:
+//In order to understand this topic, it would be good to read://
   * //[[en:ta:vol1:process:platforms|Selecting a Platform]]//
 
 ==== Installing the Program ====
@@ -17,6 +17,6 @@ Once installed, translationStudio-Desktop is designed to work very similarly to 
 
 
 
-Next we recommend you learn about:
+//Next we recommend you learn about://
   * //[[en:ta:vol1:process:tsdesktop_translation|How to Translate in translationStudio-Desktop]]//
 

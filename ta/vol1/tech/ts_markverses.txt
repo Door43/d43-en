@@ -1,8 +1,8 @@
 ===== Marking Verses in the translationStudio APP =====
 
-This module answers the question: //How do I mark verses in the APP?//
+//This answers the question:// //How do I mark verses in the APP?//
 
-Before you start this module have you learned about:
+//In order to understand this topic, it would be good to read://
   * //[[en:ta:vol1:tech:ts_create|Create and Edit Text]]//
 
 ==== Mark Verses in 'Check' ====
@@ -37,7 +37,7 @@ Sometimes a verse bridge may need to put 2 verses together that are not on the s
 
 
 
-Next we recommend you learn about:
+//Next we recommend you learn about://
   * //[[en:ta:vol1:tech:ts_navigate|Navigate in translationStudio]]//
   * //[[en:ta:vol1:tech:ts_request|Find my Language]]//
   * //[[en:ta:vol1:tech:ts_translate|Translating in translationStudio]]//

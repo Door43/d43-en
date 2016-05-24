@@ -1,8 +1,8 @@
 ===== Update translationStudio Projects =====
 
-This module answers the question: //How do I update translationStudio projects?//
+//This answers the question:// //How do I update translationStudio projects?//
 
-Before you start this module have you learned about:
+//In order to understand this topic, it would be good to read://
   * //[[en:ta:vol1:tech:ts_install|Install translationStudio-Android]]//
 
 The translationStudio program is updated each time you open the app. You need to download and update the information in the app manually. To update project information on your device, complete the steps below. 
@@ -33,7 +33,7 @@ Tap the back arrow at the top left of the screen to return to the **Translation 
 
 
 
-Next we recommend you learn about:
+//Next we recommend you learn about://
   * //[[en:ta:vol1:tech:ts_translate|Translating in translationStudio]]//
   * //[[en:ta:vol1:tech:ts_create|Create and Edit Text]]//
   * //[[en:ta:vol1:tech:ts_resources|Find the Resources in translationStudio]]//

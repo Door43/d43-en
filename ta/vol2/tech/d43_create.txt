@@ -1,8 +1,8 @@
 ===== Create an Account in Door43 =====
 
-This module answers the question: //How do I create a user account in Door 43?//
+//This answers the question:// //How do I create a user account in Door 43?//
 
-Before you start this module have you learned about:
+//In order to understand this topic, it would be good to read://
   * //[[en:ta:vol2:tech:d43_getstarted|How to Get Started in Door43]]//
 
 To start translating content, you will need a user account on Door43. When you are logged into Door43 you will see your name in the top area below the browser menu bar. If you do not have an account,  you will need to create one on this page **[[:en:get-started?do=register]]**, so then you can login.

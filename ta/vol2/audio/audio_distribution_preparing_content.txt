@@ -1,6 +1,6 @@
 ===== Preparing the Audio Content =====
 
-This module answers the question: //How is audio content prepared for distribution?//
+//This answers the question:// //How is audio content prepared for distribution?//
 
 In most cases, a small amount of additional processing must be done to the audio content to optimize it for various local distribution opportunities. Optimizing an audio resource for local distribution may involve three things:
 
@@ -41,7 +41,7 @@ For instructions on how to rename groups or batches of files, please refer the m
 
 
 
-Next we recommend you learn about:
+//Next we recommend you learn about://
   * //[[en:ta:vol2:audio:audio_standard_format|Format]]//
   * //[[en:ta:vol2:audio:audio_guides_conversion_batch|How to Convert File Format (Batch Process)]]//
   * //[[en:ta:vol2:audio:audio_guides_rename_batch|How to Rename Files with Bulk Rename Utility]]//

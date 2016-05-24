@@ -1,8 +1,8 @@
 ===== Finding Linked Pages =====
 
-This module answers the question: //How can I find pages that are linked to the page I am on?//
+//This answers the question:// //How can I find pages that are linked to the page I am on?//
 
-Before you start this module have you learned about:
+//In order to understand this topic, it would be good to read://
   * //[[en:ta:vol2:tech:d43_intro|Using Door43]]//
 
 Pages that are linked //from// a page are called 'links.'

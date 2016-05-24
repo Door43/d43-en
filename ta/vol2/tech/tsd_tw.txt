@@ -1,10 +1,11 @@
 ===== The Process for Translating the translationWords =====
 
-This module answers the question: //What steps do I follow when I translate the translationWords?//
+//This answers the question:// //What steps do I follow when I translate the translationWords?//
 
-Before you start this module have you learned about:
+//In order to understand this topic, it would be good to read://
   * //[[en:ta:vol2:tech:tsd_intro|translationStudio-Desktop Introduction]]//
   * //[[en:ta:vol2:tech:tsd_install|translationStudio-Desktop v7 Installation]]//
+  * //[[en:ta:vol3:gateway:gl_words|Translate the translationWords]]//
 
 Have you read the information in the article on [[en:ta:vol3:gateway:gl_words]]? It is very important to understand the guidelines before translating the translationWords. There is also very important information on decisions that need to be made during the translation process.
 
@@ -54,7 +55,7 @@ Continue to the next tW until all of the translationWords are complete.
 
 
 
-Next we recommend you learn about:
+//Next we recommend you learn about://
   * //[[en:ta:vol2:tech:tsd_navigate|Navigating translationStudio-Desktop v7]]//
   * //[[en:ta:vol2:tech:tsd_tn|The Process for Translating the translationNotes]]//
   * //[[en:ta:vol2:tech:tsd_tq|The Process for Translating the translationQuestions]]//

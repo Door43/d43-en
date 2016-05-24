@@ -1,6 +1,6 @@
 ===== Noise Floor =====
 
-This module answers the question: //What is the noise floor?//
+//This answers the question:// //What is the noise floor?//
 
 The noise floor is the constant level of background noise in a recording. Once the process of setting the mic gain level has been completed, we need to make sure the noise floor is still below -45 dB before proceeding with the recording session. If you are using the right kind of equipment and have followed the steps above, you should find yourself with a sufficiently quiet noise floor, preferably -55 dB or less. If the noise floor is louder than -45 dB, you have:
 

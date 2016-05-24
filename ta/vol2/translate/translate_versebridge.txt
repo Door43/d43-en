@@ -1,8 +1,8 @@
 ===== Verse Bridges =====
 
-This module answers the question: //Why are some verse numbers combined, such as "3-5" or "17-18"?//
+//This answers the question:// //Why are some verse numbers combined, such as "3-5" or "17-18"?//
 
-Before you start this module have you learned about:
+//In order to understand this topic, it would be good to read://
   * //[[en:ta:vol2:translate:translate_bibleorg|Structure of the Bible]]//
 
 Sometimes in the ULB or UDB (an in other versions, too) two or more verse numbers are combined, such as 17-18. This is called a verse bridge. The numbers are written like this because the information in the verses was rearranged.
@@ -46,6 +46,6 @@ See: [[en:ta:vol1:tech:ts_markverses]]
 
 
 
-Next we recommend you learn about:
+//Next we recommend you learn about://
   * //[[en:ta:vol2:translate:translate_chapverse|Chapter and Verse Numbers]]//
 

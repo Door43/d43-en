@@ -1,6 +1,6 @@
 ===== Offline Distribution and Listening =====
 
-This module answers the question: //How is content distributed and listened to offline?//
+//This answers the question:// //How is content distributed and listened to offline?//
 
 There are many ways to share and distribute audio resources in a local setting. Our focus is specifically on offline distribution and listening because the vast majority of people in the world:
     * do not have internet access,

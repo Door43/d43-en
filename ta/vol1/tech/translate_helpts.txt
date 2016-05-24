@@ -1,6 +1,6 @@
 ===== Finding Help for translationStudio =====
 
-This module answers the question: //How do I find help for translationStudio?//
+//This answers the question:// //How do I find help for translationStudio?//
 
 ==== Slack ====
 
@@ -20,7 +20,7 @@ You may want to give a comment on the program or content. For this you should us
 
 
 
-Next we recommend you learn about:
+//Next we recommend you learn about://
   * //[[en:ta:vol1:tech:ts_share|Backup and Share Your Work]]//
   * //[[en:ta:vol1:tech:ts_upload|Upload Your Work]]//
   * //[[en:ta:vol1:tech:ts_update|Update translationStudio Projects]]//

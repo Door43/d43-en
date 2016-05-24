@@ -1,8 +1,8 @@
 ===== Navigate in translationStudio =====
 
-This module answers the question: //How do I move around in translationStudio?//
+//This answers the question:// //How do I move around in translationStudio?//
 
-Before you start this module have you learned about:
+//In order to understand this topic, it would be good to read://
   * //[[en:ta:vol1:tech:ts_install|Install translationStudio-Android]]//
 
 ==== Layout ====
@@ -42,7 +42,7 @@ On the Translation Projects screen the menu has:
 
 
 
-Next we recommend you learn about:
+//Next we recommend you learn about://
   * //[[en:ta:vol1:tech:ts_first|How to Use translationStudio-Android for the First Time]]//
   * //[[en:ta:vol1:tech:ts_select|Select Source and Target Languages]]//
   * //[[en:ta:vol1:tech:ts_open|Opening a Translation Project]]//

@@ -1,8 +1,8 @@
 ===== Back Up Translation Work in translationStudio-Desktop =====
 
-This module answers the question: //How can I backup or save my translation work?//
+//This answers the question:// //How can I backup or save my translation work?//
 
-Before you start this module have you learned about:
+//In order to understand this topic, it would be good to read://
   * //[[en:ta:vol2:tech:tsd_navigate|Navigating translationStudio-Desktop v7]]//
 
 === You should save your translation work on a regular schedule. ===
@@ -35,6 +35,6 @@ Before you start this module have you learned about:
 
 
 
-Next we recommend you learn about:
+//Next we recommend you learn about://
   * //[[en:ta:vol2:tech:tsd_settings|Settings in translationStudio Desktop v7]]//
 

@@ -18,13 +18,14 @@
 ===== UDB: =====
 
 <usfm>
-\v 5 Dear friend, you are serving Jesus loyally whenever you do things to help fellow believers, even strangers whom you do not know, who are traveling around doing God's work.
+\v 5 Dear friend, you are serving Jesus loyally whenever you do things to help fellow believers, helping strangers whom you do not know, who are traveling around doing God's work.
+=======
 \v 6 Some of them have reported before the congregation here how you have showed that you love them. You should continue to help such people do their work in a way that honors God.
-
-
 \p
 \v 7 When those fellow believers went out to tell people about Jesus, they received no money from people who do not believe in Christ.
 \v 8 So we who believe in Christ ought to give food and money to such people as these, to work with them to help others know God's true message.
+
+
 \p
 </usfm>
 
@@ -33,7 +34,7 @@
 <usfm>
 \p
 \v 5 Beloved, you practice faithfulness whenever you work for the brothers and for strangers,
-\v 6 who have borne witness of your love in the presence of the church. You will do well to send them forward on their journey worthy of God,
+\v 6 who have borne witness of your love in the presence of the church. You do well to send them off on their journey in a manner worthy of God,
 \v 7 because for the sake of the Name they went out, taking nothing from the Gentiles.
 \v 8 We therefore ought to welcome such as these, so that we may be fellow workers for the truth.
 </usfm>
@@ -72,6 +73,6 @@
   * [[:en:bible:questions:comprehension:3jn:01]]
 **[[:en:bible:notes:3jn:01:01|<<]] | [[:en:bible:notes:3jn:01:09|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit faithful true}}
+~~DISCUSSION~~{{tag>publish p2check faithful true}}
 
 ~~NOCACHE~~

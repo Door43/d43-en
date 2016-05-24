@@ -1,8 +1,8 @@
 ===== Navigating translationStudio-Desktop v7 =====
 
-This module answers the question: //How do I go from one part to another in translationStudio Desktop?//
+//This answers the question:// //How do I go from one part to another in translationStudio Desktop?//
 
-Before you start this module have you learned about:
+//In order to understand this topic, it would be good to read://
   * //[[en:ta:vol2:tech:tsd_install|translationStudio-Desktop v7 Installation]]//
 
 === 'Home' or 'Your Translation Projects' Window ===
@@ -52,6 +52,6 @@ The **Check** icon is the bottom icon on the left and looks like a clipboard wit
 
 
 
-Next we recommend you learn about:
+//Next we recommend you learn about://
   * //[[en:ta:vol2:tech:tsd_settings|Settings in translationStudio Desktop v7]]//
 

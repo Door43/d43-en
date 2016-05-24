@@ -1,10 +1,11 @@
 ===== The Process for Translating the translationQuestions =====
 
-This module answers the question: //What steps do I follow when I translate the translationQuestions?//
+//This answers the question:// //What steps do I follow when I translate the translationQuestions?//
 
-Before you start this module have you learned about:
+//In order to understand this topic, it would be good to read://
   * //[[en:ta:vol2:tech:tsd_intro|translationStudio-Desktop Introduction]]//
   * //[[en:ta:vol2:tech:tsd_install|translationStudio-Desktop v7 Installation]]//
+  * //[[en:ta:vol3:gateway:gl_questions|Translate the translationQuestions]]//
 
 Have you read the information in the article on [[en:ta:vol3:gateway:gl_questions]]? It is **very important** to understand the guidelines before translating the translationQuestions.
 
@@ -71,7 +72,7 @@ Continue to the next chunk until all of the chunks for a chapter or story are co
 
 
 
-Next we recommend you learn about:
+//Next we recommend you learn about://
   * //[[en:ta:vol2:tech:tsd_navigate|Navigating translationStudio-Desktop v7]]//
   * //[[en:ta:vol2:tech:tsd_tn|The Process for Translating the translationNotes]]//
   * //[[en:ta:vol2:tech:tsd_tw|The Process for Translating the translationWords]]//

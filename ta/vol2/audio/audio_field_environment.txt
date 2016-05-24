@@ -1,6 +1,6 @@
 ===== Field Recording Environment =====
 
-This module answers the question: //What is a field recording environment?//
+//This answers the question:// //What is a field recording environment?//
 
 We consider the field recording environment to be any temporary setup that creates a quality recording environment where a suitable one did not previously exist.
 
@@ -34,7 +34,7 @@ Disadvantages of field recording can be:
 
 
 
-Next we recommend you learn about:
+//Next we recommend you learn about://
   * //[[en:ta:vol2:audio:audio_assessing_recording_space|Assessing the Recording Space]]//
   * //[[en:ta:vol2:audio:audio_acoustical_treatments|Simple Acoustical Treatments]]//
 

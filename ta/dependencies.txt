@@ -137,6 +137,56 @@ edge [arrowsize=1.4];
 "vol2_intro" -> "vol2_steps"
 "vol2_things_to_check" [fillcolor="#ffff99"]
 "vol2_steps" -> "vol2_things_to_check"
+"check_Notes" [fillcolor="#cccccc"]
+"vol2_steps" -> "check_Notes"
+"vol2_things_to_check" -> "check_Notes"
+"gl_Notes" -> "check_Notes"
+"check_UDB" [fillcolor="#cccccc"]
+"vol2_steps" -> "check_UDB"
+"vol2_things_to_check" -> "check_UDB"
+"gl_UDB" -> "check_UDB"
+"check_ULB" [fillcolor="#cccccc"]
+"vol2_steps" -> "check_ULB"
+"vol2_things_to_check" -> "check_ULB"
+"gl_adaptULB" -> "check_ULB"
+"gl_ULB" -> "check_ULB"
+"gl_Academy" [fillcolor="#cccccc"]
+"ta_intro" -> "gl_Academy"
+"gl_strategy" -> "gl_Academy"
+"gl_Notes" -> "gl_Academy"
+"gl_ULB" -> "gl_Academy"
+"gl_Notes" [fillcolor="#cccccc"]
+"gl_adaptULB" -> "gl_Notes"
+"gl_ULB" -> "gl_Notes"
+"gl_Questions" [fillcolor="#cccccc"]
+"mast" -> "gl_Questions"
+"gl_Words" -> "gl_Questions"
+"gl_Notes" -> "gl_Questions"
+"gl_ULB" -> "gl_Questions"
+"gl_UDB" [fillcolor="#cccccc"]
+"gl_strategy" -> "gl_UDB"
+"gl_translate" -> "gl_UDB"
+"gl_ULB" -> "gl_UDB"
+"gl_ULB" [fillcolor="#cccccc"]
+"gl_strategy" -> "gl_ULB"
+"gl_translate" -> "gl_ULB"
+"gl_Words" [fillcolor="#cccccc"]
+"gl_Notes" -> "gl_Words"
+"gl_ULB" -> "gl_Words"
+"gl_adaptULB" -> "gl_Words"
+"gl_adaptULB" [fillcolor="#cccccc"]
+"gl_ULB" -> "gl_adaptULB"
+"gl_UDB" -> "gl_adaptULB"
+"gl_translate" -> "gl_adaptULB"
+"gl_done_checking" [fillcolor="#cccccc"]
+"gl_translate" -> "gl_done_checking"
+"vol2_steps" -> "gl_done_checking"
+"vol2_things_to_check" -> "gl_done_checking"
+"gl_translate" [fillcolor="#cccccc"]
+"gl_strategy" -> "gl_translate"
+"open_license" -> "gl_translate"
+"toc_gatewayvol3" [fillcolor="#cccccc"]
+"GATEWAY LANGUAGES MANUAL" -> "toc_gatewayvol3"
 "finding_answers" [fillcolor="#ff9999"]
 "ta_intro" -> "finding_answers"
 "gl_strategy" [fillcolor="#ff9999"]
@@ -618,8 +668,6 @@ edge [arrowsize=1.4];
 "figs_events" [fillcolor="#9999ff"]
 "writing_intro" -> "figs_events"
 "figs_verbs" -> "figs_events"
-"figs_exclusive" [fillcolor="#9999ff"]
-"figs_pronouns" -> "figs_exclusive"
 "figs_explicit" [fillcolor="#9999ff"]
 "Translation" -> "figs_explicit"
 "figs_explicitinfo" [fillcolor="#9999ff"]

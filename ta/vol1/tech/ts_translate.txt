@@ -1,8 +1,8 @@
 ===== Translating in translationStudio =====
 
-This module answers the question: //How do I translate in translationStudio?//
+//This answers the question:// //How do I translate in translationStudio?//
 
-Before you start this module have you learned about:
+//In order to understand this topic, it would be good to read://
   * //[[en:ta:vol1:tech:ts_install|Install translationStudio-Android]]//
 
 A basic translation process for any unfoldingWord project is explained here.
@@ -41,7 +41,7 @@ See [[en:ta:vol1:tech:ts_create]] for more information.
 
 
 
-Next we recommend you learn about:
+//Next we recommend you learn about://
   * //[[en:ta:vol1:tech:ts_intro|Introduction to the translationStudio-Android Program]]//
   * //[[en:ta:vol1:tech:ts_install|Install translationStudio-Android]]//
   * //[[en:ta:vol1:tech:ts_first|How to Use translationStudio-Android for the First Time]]//

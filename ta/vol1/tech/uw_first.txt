@@ -1,8 +1,8 @@
 ===== Use unfoldingWord for the First Time =====
 
-This module answers the question: //How do I use unfoldingWord for the first time?//
+//This answers the question:// //How do I use unfoldingWord for the first time?//
 
-Before you start this module have you learned about:
+//In order to understand this topic, it would be good to read://
   * //[[en:ta:vol1:tech:uw_app|unfoldingWord Mobile App]]//
   * //[[en:ta:vol1:tech:uw_install|Install unfoldingWord on an Android Device]]//
 
@@ -21,7 +21,7 @@ To view the checking status of each language translation, tap the **  // i  //  
 
 
 
-Next we recommend you learn about:
+//Next we recommend you learn about://
   * //[[en:ta:vol1:tech:uw_checking|About Checking Levels]]//
   * //[[en:ta:vol1:tech:uw_language|Language Information]]//
   * //[[en:ta:vol1:tech:uw_select|Select a Language]]//

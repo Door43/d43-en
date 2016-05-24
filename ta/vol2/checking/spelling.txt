@@ -1,8 +1,8 @@
 ===== Consistent Spelling =====
 
-This module answers the question: //Are words in the translation spelled consistently?//
+//This answers the question:// //Are words in the translation spelled consistently?//
 
-Before you start this module have you learned about:
+//In order to understand this topic, it would be good to read://
   * //[[en:ta:vol2:checking:vol2_intro|Introduction to Translation Checking - Part 2]]//
   * //[[en:ta:vol1:checking:acceptable|Acceptable Style]]//
   * //[[en:ta:vol1:translate:translate_alphabet|Alphabet/Orthography]]//
@@ -20,6 +20,6 @@ Computers can be a great help for checking spelling. If you are using MS Word fo
 
 
 
-Next we recommend you learn about:
+//Next we recommend you learn about://
   * //[[en:ta:vol2:checking:punctuation|Consistent Punctuation]]//
 

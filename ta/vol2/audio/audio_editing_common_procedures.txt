@@ -1,6 +1,6 @@
 ===== Common Editing Procedures =====
 
-This module answers the question: //What are common editing procedures?//
+//This answers the question:// //What are common editing procedures?//
 
 There are a handful of editing procedures that will be utilized over and over through out a project. These include:
 
@@ -14,7 +14,7 @@ For information on keyboard shortcuts for these common procedures, please see th
 
 
 
-Next we recommend you learn about:
+//Next we recommend you learn about://
   * //[[en:ta:vol2:audio:audio_setup_keyboard_shortcuts_ocenaudio|Keyboard Shortcuts - Ocenaudio]]//
   * //[[en:ta:vol2:audio:audio_setup_keyboard_shortcuts_audacity|Keyboard & Mouse Shortcuts for Audacity]]//
 
