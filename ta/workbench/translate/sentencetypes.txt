@@ -1,50 +1,37 @@
 ===== Sentence Types =====
 
 //This answers the question:// //What are the different types of sentences?//
-
 ==== Description ====
 
 A **sentence** is a group of words that expresses a complete thought. The basic types of sentences are:
-  * **Statement** - These are usually used to give information. '//This is a fact.//'
-  * **Question** - These are usually used to ask for information. '//Do you know him?//'
-  * **Exclamation** - These are usually used to express a strong feeling. 'Ouch, that hurt!'
-  * **Command** - These are usually used to make something happen. '//Pick that up.//'
 
+   * **Statement**  - These are usually used to give information. '//This is a fact.//'
+  * **Question**  - These are usually used to ask for information. '//Do you know him?//'
+  * **Exclamation**  - These are usually used to express a strong feeling. 'Ouch, that hurt!'
+  * **Command**  - These are usually used to make something happen. '//Pick that up.//'
 **Reasons this is a translation Issue**
-  * In some languages some of  these sentence types can be used for some of the purposes of the other types. For example, in some languages questions can also be used as a statement or an exclamation. (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * Languages have different ways of showing that a statement is an exclamation. 
 
+  * In some languages some of these sentence types can be used for some of the purposes of the other types. For example, in some languages questions can also be used as a statement or an exclamation. (See: [[:en:ta:vol1:translate:figs_rquestion|Rhetorical Question]])
+  * Languages have different ways of showing that a statement is an exclamation.
 
-====Examples from the Bible====
+==== Examples from the Bible ====
 
 **Examples of Exclamations**
 
 The word "Oh" is often used at the beginning of an exclamation.
 
->"__Oh__ foolish men and slow of heart to believe in all that the prophets have spoken! (Luke 24:25 ULB)
-
-Exclamations often are not full sentences with a subject and predicate. The exclamation below has only nouns and prepositions, but no verb. 
->Oh, the depth of the riches both of the wisdom and the knowledge of God! (Romans 11:33 ULB)
-
-Exclamations in English often have a question word.
->__How__ unsearchable are his judgments, and his ways beyond discovering! (Romans 11:33 ULB)
+_QUOT__ckgedit_QUOT___Oh__ foolish men and slow of heart to believe in all that the prophets have spoken! (Luke 24:25 ULB) Exclamations often are not full sentences with a subject and predicate. The exclamation below has only nouns and prepositions, but no verb. >Oh, the depth of the riches both of the wisdom and the knowledge of God! (Romans 11:33 ULB) Exclamations in English often have a question word. _QUOT___How__ unsearchable are his judgments, and his ways beyond discovering! (Romans 11:33 ULB)
 
 **Examples of Commands**
 
-Some commands are not spoken directly to the one being commanded. In English these have the word "let" or "may".
-'Whoever sends his wife away, let him give her a certificate of divorce.'  (Matthew 5:31 ULB)
+Some commands are not spoken directly to the one being commanded. In English these have the word "let" or "may". 'Whoever sends his wife away, let him give her a certificate of divorce.' (Matthew 5:31 ULB)
 
-
-====Translation Strategies====
+==== Translation Strategies ====
 
 1. Use your language's ways to show whether a sentence is a statement, question, exclamation, or command.
 
-====Examples of Translation Strategies Applied====
+==== Examples of Translation Strategies Applied ====
 
-
-{{tag>review epadn}}
-
-
-~~DISCUSSIONS~~
+{{tag>review epadn}}~~DISCUSSIONS~~
 
 ~~NOCACHE~~
