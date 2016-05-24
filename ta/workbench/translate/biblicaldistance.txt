@@ -1,81 +1,80 @@
 ====== Biblical Distance ======
 
-//This page answers the question: How can I translate the lengths and  distances that are in the Bible.//
+//This page answers the question: How can I translate the lengths and distances that are in the Bible.//
 
 //In order to understand this page, it would be good to read//
+==== Introduction  ====
 
-==== Introduction ====
+In most of the world today, distance is measured by a quantitative standard, usually a metric standard. In biblical times, they also had standard measurements, but their standards were a bit more variable, depending on the size of a person’s hand or the length of his arm. This presents an interesting choice for translators as they have to decide whether to use the original biblical terms for measurements or terms that their audiences will find more understandable.
 
-
-
-===== Description =====
+==== Description  ====
 
 The following terms are the most common measures for distance or length that were originally used in the Bible. Most of these are based on the sizes of the hand and forearm.
 
-  * The **handbreadth** was the width of the palm of a man's hand. 
-  * The **span** or handspan was the width of a man's hand with the fingers spread out.
+  * The **handbreadth**  was the width of the palm of a man's hand.
+  * The **span**  or handspan was the width of a man's hand with the fingers spread out.
   * The **cubit**  was the length of a man's forearm, from the elbow to the tip of the longest finger.
   * The **"long" cubit**  is used only in Ezekiel 40-48. It is the length of a normal cubit plus a span.
   * The **stadium**  (plural, **stadia**) referred to a certain footrace that was about 185 meters in length. Some older English versions translated this word as "furlong", which referred to the average length of a plowed field.
 
-^  Original Measure ^  Centimeters ^ Meters |
-|  handbreadth  |  8 centimeters | .08 meters |
-|  span  | 23 centimeters | .23 meters |
-|  cubit  | 46 centimeters | .46 meters |
-|  "long" cubit  |  54 centimeters | .54 meters |
-|  stadia  | - | 185 meters |
+^  Original Measure ^  Centimeters ^  Meters |
+|  handbreadth  |  8 centimeters |  .08 meters |
+|  span  |23 centimeters |.23 meters |
+|  cubit  |46 centimeters |.46 meters |
+|  "long" cubit  |  54 centimeters |  .54 meters |
+|  stadia  |- |185 meters |
 
-=== Translation Principles === 
+=== Translation Principles ===
 
   - The people in the Bible did not use modern measures such as meters, liters, and kilograms. Using the original measures can help readers know that the Bible really was written long ago in a time when people used those measures.
   - Using modern measures can help readers understand the text more easily.
   - Whatever measure you use, it would be good, if possible, to tell about the other kind of measure in the text or a footnote.
 
-==== Translation Strategies ==== 
+==== Translation Strategies ====
 
-  - Use the measurements from the ULB. These are the same kinds of measurements that the original writers used. Spell them in a way that is similar to the way they sound or are spelled in the ULB. (See: [[en:ta:vol1:translate:translate_transliterate]])
+  - Use the measurements from the ULB. These are the same kinds of measurements that the original writers used. Spell them in a way that is similar to the way they sound or are spelled in the ULB. (See: [[:en:ta:vol1:translate:translate_transliterate|Copy or Borrow Words]])
   - Use the metric measurements given in the UDB. The translators of the UDB have already figured how to represent the amounts in the metric system.
   - Use measurements that are already used in your language. In order to do this you would need to know how your measurements relate to the metric system and figure out each measurement.
-  - Use the measurements from the ULB and include measurements that your people know in the text or a note. 
-  - Use measurements that your people know, and include the measurements from the ULB in the text or in a note. 
+  - Use the measurements from the ULB and include measurements that your people know in the text or a note.
+  - Use measurements that your people know, and include the measurements from the ULB in the text or in a note.
 
-==== Translation Strategies Applied ==== 
+==== Translation Strategies Applied ====
 
 The strategies are all applied to Exodus 25:10 below.
 
-  * **They are to make an ark of acacia wood. Its length must be two and a half cubits; its width will be one cubit and a half; and its height will be one cubit and a half.** (Exodus 25:10 ULB)
+  * **They are to make an ark of acacia wood. Its length must be two and a half cubits; its width will be one cubit and a half; and its height will be one cubit and a half.**  (Exodus 25:10 ULB)
+1. Use the measurements given in the ULB. These are the same kinds of measurements that the original writers used. Spell them in a way that is similar to the way they sound or are spelled in the ULB. (See: [[:en:ta:vol1:translate:translate_transliterate|Copy or Borrow Words]])
 
-1. Use the measurements given in the ULB. These are the same kinds of measurements that the original writers used. Spell them in a way that is similar to the way they sound or are spelled in the ULB. (See: [[en:ta:vol1:translate:translate_transliterate]])
   * "They are to make an ark of acacia wood. Its length must be __two and a half kubits__; its width will be __one kubit and a half__; and its height will be __one kubit and a half__."
 
-2.  Use the metric measurements given in the UDB. The translators of the UDB have already figured how to represent the amounts in the metric system.
-   * "They are to make an ark of acacia wood. Its length must be __one meter__; its width will be __0.7 meter__; and its height will be __0.7 meter__." 
+2. Use the metric measurements given in the UDB. The translators of the UDB have already figured how to represent the amounts in the metric system.
 
-3.  Use measurements that are already used in your language. In order to do this you would need to know how your measurements relate to the metric system and figure out each measurement. For example, if you measure things using the standard foot length, you could translate it as below.
-  * "They are to make an ark of acacia wood. Its length must be__ 3 3/4 feet__; its width will be __2 1/4 feet__; and its height will be __2 1/4 feet__. 
+  * "They are to make an ark of acacia wood. Its length must be __one meter__; its width will be __0.7 meter__; and its height will be __0.7 meter__."
+
+3. Use measurements that are already used in your language. In order to do this you would need to know how your measurements relate to the metric system and figure out each measurement. For example, if you measure things using the standard foot length, you could translate it as below.
+
+  * "They are to make an ark of acacia wood. Its length must be__ 3 3/4 feet__; its width will be __2 1/4 feet__; and its height will be __2 1/4 feet__.
 
 4. Use the measurements from the ULB and include measurements that your people know in the text or a note. The following shows both measurements in the text.
+
   * "They are to make an ark of acacia wood. Its length must be __two and a half cubits (one meter)__; its width will be __one cubit and a half (0.7 meter)__; and its height will be __one cubit and a half (0.7 meter)__."
 
+5. Use measurements that your people know, and include the measurements from the ULB in the text or in a note. The following shows the ULB measurements in notes.
 
-5. Use measurements that your people know, and include the measurements from the ULB in the text or in  a note. The following shows the ULB measurements in notes.
-  * "They are to make an ark of acacia wood. Its length must be __one meter__<sup>1</sup>; its width will be __0.7 meter__ <sup>2</sup>; and its height will be __0.7 meter__." The footnotes would look like:
-    * <sup>[1]</sup> one meter two and a half cubits
-    * <sup>[2]</sup>  one cubit and a half
-
-
-
+  * "They are to make an ark of acacia wood. Its length must be __one meter__ <sup>1</sup> ; its width will be __0.7 meter__ <sup>2</sup> ; and its height will be __0.7 meter__." The footnotes would look like:
+      * <sup>[1]</sup>   one meter two and a half cubits
+      * <sup>[2]</sup>   one cubit and a half
 
 Next we suggest you read:
-  * [[en:ta:vol2:translate:translate_decimal]]
-  * [[en:ta:vol2:translate:translate_fraction]]
+
+  * [[:en:ta:vol2:translate:translate_decimal|Decimal Numbers]]
+  * [[:en:ta:vol2:translate:translate_fraction|Fractions]]
 
 ----
 
-https://pad.door43.org/p/ta-translate_bdistance
+[[https://pad.door43.org/p/ta-translate_bdistance|https://pad.door43.org/p/ta-translate_bdistance]]
 
 ~~DISCUSSION~~{{tag>epady introjg introcs}}
-
 
 ~~NOCACHE~~
 
