@@ -11,75 +11,80 @@ The simplest sentence structure in English includes a  //  **subject**  // and a
 
 ==== Subject ====
 
-The //**subject**// is who or what the sentence is about. In these examples, the subject is underlined: 1) //'__The boy__  is running.'//  2) //'__He__  is running.'//
+The //**subject**// is who or what the sentence is about. In these examples, the subject is underlined: 
+  * __The boy__  is running.
+  * __He__ is running.
 
-Subjects are typically noun phrases or pronouns. (See: [[:en:ta:workbench:translate:parts-of-speech]] for more information.) In the examples above, "the boy" is a noun phrase that has the noun 'boy,' and "he" is a pronoun.
+Subjects are typically noun phrases or pronouns. (See: [[en:ta:vol2:translate:figs_partsofspeech]] to learn about nouns and pronouns.) In the examples above, "the boy" is a noun phrase that has the noun 'boy,' and "he" is a pronoun.
 
-Sometimes a subject is not stated but is implied. For example, //'Close the door//.' The verb is 'close'; the subject is implied to be 'you.' See [[:en:ta:vol1:translate:figs_explicit]] for more information.
+When the sentence is a command, it usually does not have a subject pronoun. People understand that the subject is "you." 
+  * Close the door.
 
 ==== Predicate ====
 
-The predicate is the part of a sentence that tells something about the subject. It usually has a verb. (See: [[:en:ta:vol2:translate:figs_verbs]])
+The predicate is the part of a sentence that tells something about the subject. It usually has a verb. (See: [[:en:ta:vol2:translate:figs_verbs]])  In the sentences below, the subjects are "the man" and "he." The predicates are underlined and the verbs are in bold.
 
-
->'//The man is strong//.' 
-
-The subject is '//the man//' and the predicate is '//is strong//' (It describes the man.)
-
->'//He worked hard//.'
-
-The subject is 'he' and the predicate is 'worked hard' (It is something the man did.)
-
-The verb may have an object or a complement:
-
->//'The man made a garden.'// 
-
-In the sentence above, the subject is "the man," the verb is "made," and the object is "a garden."
-
->//'The man is strong.'//  
-
-In the sentence above, the subject is "the man," the verb is "is," and the complement is "strong." (A complement is a phrase that completes the sentence, and says something about the subject.)
+  * The man __**is** strong__.
+  * He __**worked** hard__.
+  * He __**made** a garden__.
 
 ====Compound Sentences====
 
 A sentence can be made up of more than one sentence. Each of the two lines below has a subject and a predicate and is a full sentence.
-> '//He planted the yams.//'
-> '//His wife planted the corn.//'
+  * He planted the yams.
+  * His wife planted the corn.
 
-The compound sentence below has the two sentences above.
+The compound sentence below has the two sentences above. In English, compound sentences are joined with a conjunction such as "and," "but," or "or".
 
->'//__He planted the yams__ and __his wife planted the corn__//.'
-
-Compound sentences are joined by a conjunction such as "and," "but," and "or".
+  * He planted the yams __and__ his wife planted the corn.
 
 ==== Clauses ====
 
-Clauses are like sentences in that they have a subject and a predicate, but they are only part of a sentence. They do not normally occur by themselves. 
+Clauses are like sentences because they have a subject and a predicate, but they do not normally occur by themselves. Here are some examples of clauses. The subjects are in bold, and the predicates are underlined.
 
+  * when **the corn** __was ready__
+  * after **she** __picked it__
+  * because **it** __tasted so good__
+
+Clauses are usually only part of a sentence. The clauses are underlined in the sentences below.
   * __When the corn was ready__, his wife picked it.
+  * __After she picked it__, she carried it home and cooked it.
+  * Then they ate it all, __because it tasted so good__.
+
+The following phrases can be a whole sentence.
+
   * His wife picked it.
+  * She carried it home and cooked it.
+  * Then they ate it all.
 
-The long sentence above has two parts: The phrase "When the corn was ready" is not a full sentence; it is a clause. The phrase "his wife picked it" can occur by itself, so we call it a sentence.
+Note: We are using the word **clause** for 'dependent clause' and **sentence** for 'independent clause.' 
 
->'//His wife picked it.
-
-Note: We are using the word //clause// for 'dependent clause' and //sentence// for 'independent clause' and for utterances that have at least one independent clause.
 ====Relative Clauses====
-In some languages, clauses can tell about  in the sentence. These are called **relative** clauses.
 
-   * Relative clauses can **distinguish**  which thing is being talked about. For example: '//She put a little food in her own bag and a lot of food in the bag __that belonged to her sister__//.' This relative clause '//that belonged to her sister//' defines which bag.
-  * Relative clauses can **inform**  or **remind** the people about something. For example: '//She gave some of the food to her only sister, __who was very thankful__.//' The clause “//who was very thankful//” tells how her sister responded to her. Since she had only one sister, it does not tell which sister. 
+In some languages, clauses can be used with a noun that is part of another sentences. These are called **relative clauses**.
 
-Some languages can use relative clauses both to distinguish and inform or remind. Other languages only use them for defining.
+In the sentence below, "the corn that he had planted" is part of the predicate of the whole sentence. The relative clause "that he had planted" is used with the noun "corn" to tell which corn she picked.
 
-===== Translation Suggestions =====
+  * His wife picked **the corn** __that he had planted__.
+
+In the sentence below "his mother, who was very annoyed" is part of the predicate of the whole sentence. The relative clause "who was very annoyed" is used with the noun "mother" to tell how his mother felt.
+  * She did not give any corn to **his mother,** __who was very annoyed__.
+
+See [[:en:ta:vol2:translate:figs_distinguish]] to learn about different functions of relative clauses.
+
+====Order of parts of a sentence or clause ==== 
+
+A language may have a preferred word order for its subject, verb, and object or complement. (See: [[wordorder]])
+
+===== Order of clauses and sentences =====
 
 Many sentences in the Bible have more than one clause. And each clause can have phrases in addition to the subject and verb.
 
 A language may have a preferred order for its clauses and other phrases. For example some languages may prefer the order in the first example, while others may prefer the order in the second.
 
-  - //She went to the garden to pick some tomatoes.//
-  - //In order to pick some tomatoes, she went to the garden.//
+  * She went to the garden to pick some tomatoes.
+  * In order to pick some tomatoes, she went to the garden.
+
 A language may have a preferred word order for its subject, verb, and object or complement. (See: [[wordorder]]) For example, English and French normally put the object after the verb. But if the object is a pronoun, French puts it before the verb.
 
   * English: //The man sees __the house__.//
