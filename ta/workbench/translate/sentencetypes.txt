@@ -1,54 +1,95 @@
 ===== Sentence Types =====
 
 //This answers the question:// //What are the different types of sentences?//
+
+//In order to understand this topic, would be good to read//
+  * //[[en:ta:vol2:translate:figs_sentences]] (workbench page [[Sentence Structure]])//
 ==== Description ====
 
 A **sentence** is a group of words that expresses a complete thought. The basic types of sentences are:
 
-   * **Statement**  - These are usually used to give information. '//This is a fact.//'
-  * **Question**  - These are usually used to ask for information. '//Do you know him?//'
-  * **Exclamation**  - These are usually used to express a strong feeling. 'Ouch, that hurt!'
-  * **Command**  - These are usually used to make something happen. '//Pick that up.//'
-**Reasons this is a translation Issue**
+  * **Declarative Sentence** or **Statement**  - These are mainly used to give information. '//This is a fact.//'
+  * **Interrogative Sentence** or **Question**  - These are mainly used to ask for information. '//Do you know him?//'
+  * **Exclamatory Sentence** or **Exclamation**  - These are mainly used to express a strong feeling. 'Ouch, that hurt!'
+  * **Imperative Sentence**  - These are mainly used to make something happen, as in a command or instruction. '//Pick that up.//'
 
-  * In some languages some of these sentence types can be used for some of the purposes of the other types. For example, in some languages questions can also be used as a statement or an exclamation. (See: [[:en:ta:vol1:translate:figs_rquestion|Rhetorical Question]])
-  * Languages have different ways of showing that a statement is an exclamation.
+**Reasons this is a translation Issue**
+  * Languages have different ways of showing that a sentence is declarative, interrogative, exclamatory, or imperative.
+  * Some languages use these sentence types for more than one function.  For example, some languages also use questions for expressing  strong feelings. (See: [[:en:ta:vol1:translate:figs_rquestion]])
 
 ==== Examples from the Bible ====
 
-**Exclamations**
+The examples below show each of these types used for their main functions.
 
-The word "Oh" is often used at the beginning of an exclamation.
->Oh, the depth of the riches both of the wisdom and the knowledge of God! (Romans 11:33 ULB)
+**Declarative Sentence** or **Statement** 
 
-Exclamations often are not full sentences with a subject and predicate. The exclamation below has only nouns and prepositions, but no verb.
+>In the beginning God created the heavens and the earth. (Genesis 1:1 ULB)
 
->__O__ foolish men and slow of heart to believe in all that the prophets have spoken! (Luke 24:25 ULB)
+**Interrogative Sentence** or **Question**
+The speakers below used these questions to get information, and the people they were speaking to answered their questions.
 
-Exclamations in English often have a question word such as "how" or "why"?
+Jesus said to them, "__Do you believe that I can do this?__" They said to him, "Yes, Lord." (Matthew 9:28 ULB)
+
+The jailer...said, "Sirs, __what must I do to be saved?__" They said, "Believe in the Lord Jesus, and you will be saved, you and your house." (Acts 16:29-31 ULB)
+
+**Exclamatory Sentence** or **Exclamation**
+
+Exclamations express strong feeling. In the ULB and UDB, they usually have an exclamation mark at the end. The exclamation mark is underlined below.
+>Save us, Lord; we are about to die__!__ (Matthew 8:25 ULB)
+
+Some exclamations in the Bible often do not have a main verb. The sentence below does not have a verb.
+
+>You worthless person! (Matthew 5:22 ULB)
+
+Some exclamations have the word that shows feeling. The sentence below have "Oh" and "Ah".
+
+>__Oh__, the depth of the riches both of the wisdom and the knowledge of God! (Romans 11:33 ULB)
+
+>Gideon understood that this was the angel of Yahweh. Gideon said, "__Ah__, Lord Yahweh! For I have seen the angel of Yahweh face to face!" (Judges 6:22 ULB)
+
+Exclamations often start with a question word such as "how" or "why."
 
 >__How__ unsearchable are his judgments, and his ways beyond discovering! (Romans 11:33 ULB)
 
-**Commands**
+**Imperative Sentence** 
 
-Commands are usually spoken to the person  or people that are expected to follow the command. Even though a speaker would call the person he is speaking to "you," many languages do not normally use the pronoun "you" in a command.
+There are different kinds of imperative sentences: command, request, instruction, and invitation.
+
+With a **command**, the speaker uses his authority and tells someone to do something.
+>Rise up, Balak, and hear. Listen to me, you son of Zippor. (Numbers 23:18 ULB)
+
+With a **request**, the speaker uses politeness to say that he wants someone to do something. This may include the word 'please' to make it clear that it is a request and not a command.
+>Give us today our daily bread. The speaker is asking for something. (Matthew 6:11 ULB)
+
+>Please excuse me. (Luke 14:18 ULB)
+
+With an **invitation**, the speaker says uses politeness or friendliness to suggest that someone do something if he wants to do it.
+>Come with us and we will do you good. (Numbers 10:29)
+
+With an **instruction**, the speaker tells someone how to do something. 
+>...but if you want to enter into life, __keep the commandments__. ... If you wish to be perfect, __go, sell what you have, and give it to the poor,__ and you will have treasure in heaven. (Matthew 19:17, 21 ULB)
+
+Imperative sentences are usually spoken to the person or people who are expected to do something. Even though a speaker would call the person he is speaking to "you," many languages do not normally use the pronoun "you" in a command.
 
 >I say to this one, '__Go__,' and he goes, and to another one, '__Come__,' and he comes, and to my servant, '__Do this__,' and he does it." (Matthew 8:9 ULB)
 
-However, sometimes the pronoun "you" and even a noun that clarifies who is being spoken to is included. In the example below, the ULB has "you people" to clarify that the king wanted the group of servants to do this.  [[This shouldn't be necessary, since the quote margin has "his servants" as the addressee. Look for a better example -- especially one that has the pronoun in Hebrew or Greek.]]
-
->The king of Israel said to some servants, "__You people seize__ Micaiah and take him to Amon, the governor of the city, and to Joash, my son. 2 Chronicles 18:25
-
-Some commands are not spoken to the person or thing that is commanded to do something. In English these commands often have "let." or "may"
+Some imperative sentences are not spoken to the person or thing that is expected to do something. In English these commands often start with "let" or "may."
 
 >Whoever sends his wife away,__ let him give__ her a certificate of divorce. (Matthew 5:31 ULB)
 
-Jesus said to the centurion, "Depart! As you have believed, so __may it be done__ for you." And the servant was healed at that very hour. (Matthew 8:13 ULB)
+>Jesus said to the centurion, "Depart! As you have believed, so __may it be done__ for you." And the servant was healed at that very hour. (Matthew 8:13 ULB)
+
 ==== Translation Strategies ====
 
-1. Use your language's ways to show whether a sentence is a statement, question, exclamation, or command.
+  - Use your language's ways to show whether the speaker is giving information, asking for information, expressing a strong feeling, or saying that he wants something to happen.
+  - See the topics listed below for more specific translation strategies for each of these sentence types.
 
-==== Examples of Translation Strategies Applied ====
+  * [[Declarative Sentences]]
+  * [[Interrogative Sentences]]
+  * [[Exclamatory Sentences]]
+  * [[Imperative Sentences]]
+
+See the pages 
 
 {{tag>review epadn}}~~DISCUSSIONS~~
 

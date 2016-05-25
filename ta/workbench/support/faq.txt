@@ -2,6 +2,7 @@
 
 Below are frequently asked questions relating to translationStudio
 
+Tablet FAQ
   * What is the minimum Android OS requirements for tS?  
     * 4.0.3 and up 
   * Where can I get the translationStudios app?  
@@ -12,6 +13,11 @@ Below are frequently asked questions relating to translationStudio
   * What is the data storage path to the tStudio files on the Android tablet?
     * Device\tranlationStudio\translations
     * using ES Explorer...SD\Home or 0\translationStudio\translations.  I also like to set the ES File Explorer: Display Settings\Others to "Show SD card on status bar".  That provides nice shortcut to the file structure
+
+Mac FAQ
+  * How can I install tS on my MacBook when security preferences only allow installation of apps from the Mac App Store and identified developers?
+    * Go to apple, top left on desktop screen, select system preferences.  Then select "security & privacy", from general tab check "allow apps downloaded from anywhere.  Note: If radial button grayed out, click on padlock to unlock. After the tS install, you may want to change the security setting back to the original setting.
+
 
 
 
