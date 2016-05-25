@@ -6,7 +6,7 @@ Before adding a tA link to a page, check here to see if it already exists in [[:
   * Add the link to the page using the correct link syntax.
   * If the topic exists, add the link to the page using the correct link syntax.
     * Right click on the link and choose open in a new window.
-    * Click-and-Drag to select the letters on the tab of the topic’s window.
+    * Click-and-Drag to select the letters on the tab of the topic"s window.
 {{en:bible:team-info:select_the_tab_no_number.png?nolink&600x209}}
   * Return to the Translation Notes editor window.
   * Select to highlight the word "//topic//" or the words "//talink topic//".  
