@@ -7,7 +7,8 @@
 
 ===== Description =====
 
-The simplest sentence structure in English includes a  //  **subject**  // and an  //  **action**  // word. // 'The boy ran.'  //
+The simplest sentence structure in English includes a  **subject** and an **action** word: 
+  * The boy ran.
 
 ==== Subject ====
 
@@ -15,9 +16,9 @@ The //**subject**// is who or what the sentence is about. In these examples, the
   * __The boy__  is running.
   * __He__ is running.
 
-Subjects are typically noun phrases or pronouns. (See: [[en:ta:vol2:translate:figs_partsofspeech]] to learn about nouns and pronouns.) In the examples above, "the boy" is a noun phrase that has the noun 'boy,' and "he" is a pronoun.
+Subjects are typically noun phrases or pronouns. (See: [[en:ta:vol2:translate:figs_partsofspeech]]) In the examples above, "the boy" is a noun phrase that has the noun 'boy,' and "he" is a pronoun.
 
-When the sentence is a command, it usually does not have a subject pronoun. People understand that the subject is "you." 
+When the sentence is a command, it usually does not have a subject pronoun. People understand that the subject is "you."
   * Close the door.
 
 ==== Predicate ====
@@ -27,6 +28,15 @@ The predicate is the part of a sentence that tells something about the subject. 
   * The man __**is** strong__.
   * He __**worked** hard__.
   * He __**made** a garden__.
+
+====Other phrases==== 
+
+Sentence may also have other phrases besides the subject and predicate. They may tell when, where, why, or how someone did something. These phrase are underlined below.
+
+  * __Last week__ she went __to the garden__.
+  * She went  __to pick some corn__.
+  * She picked the corn __quickly__.
+  * She carried it __in her string bag__.
 
 ====Compound Sentences====
 
@@ -40,7 +50,7 @@ The compound sentence below has the two sentences above. In English, compound se
 
 ==== Clauses ====
 
-Clauses are like sentences because they have a subject and a predicate, but they do not normally occur by themselves. Here are some examples of clauses. The subjects are in bold, and the predicates are underlined.
+Sentences can also have clauses and other phrases. Clauses are like sentences because they have a subject and a predicate, but they do not normally occur by themselves. Here are some examples of clauses. The subjects are in bold, and the predicates are underlined.
 
   * when **the corn** __was ready__
   * after **she** __picked it__
@@ -72,27 +82,9 @@ In the sentence below "his mother, who was very annoyed" is part of the predicat
 
 See [[:en:ta:vol2:translate:figs_distinguish]] to learn about different functions of relative clauses and translation issues.
 
-====Order of parts of a sentence or clause ==== 
-
-A language may have a preferred word order for its subject, verb, and object. (See: [[wordorder]])
-
-==== Order of clauses and sentences ====
-
-A language may have a preferred order for clauses and other phrases in sentences. For example some languages may prefer the order in the first example, while others may prefer the order in the second.
-
-  * They ate all the corn __because it tasted so good__.
-  * __Because the corn tasted so good,__ they ate all of it.
-
-And some languages may prefer the order in the first example, while others may prefer the order in the second.
-
-  * She went to the garden __to pick some tomatoes__.
-  * __In order to pick some tomatoes,__ she went to the garden.
-
-
-==== Translation Strategies ====
-Translators should become aware of the following things in their language: the normal orders of clauses in sentences, the normal order of phrases in clauses, and the normal order of words in phrases. If their language allows variety, translators should learn what each variety is used to communicate.
-
-Translators should became aware of the kinds of clauses their language has and their functions. They should understand the purposes of the clauses in the language they are translating from. When they are translating into their language, they should use the types of clauses and the clause orders that are natural in their own language and that have the same meaning as that of the language they are translating form 
+==== Translation Issues ====
+  * Languages have different orders for the parts of a sentence. See  [[:en:ta:workbench:translate:wordorder]].
+  * Some languages do not have relative clauses, or they do not use relative clauses for certain purposes. (See:  [[:en:ta:vol2:translate:figs_distinguish]])
 
 ----
 
