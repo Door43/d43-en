@@ -1,6 +1,6 @@
 ====== Writing Translation Notes ======
 
-  * Recognize how a word, phrase, sentence, or paragraph might be hard to understand for people who don’t know English well, who don’t understand the cultures of the Bible, or who don’t know the passage well.
+  * Recognize how a word, phrase, sentence, or paragraph might be hard to understand for people who don"t know English well, who don"t understand the cultures of the Bible, or who don"t know the passage well.
   * Consult other versions of the Bible, Hebrew or Greek texts and helps, and commentaries to find out the meaning of words and phrases in the passage.
   * Find a simple way to explain a word or phrase to the translator. Suggest ways for a translator to reword a phrase or restructure a complex sentence because his language is different.
   * Recognize the different kinds of information we give in a note and write the note according to our guidelines for different kinds of information.
@@ -14,7 +14,7 @@
   - If the meaning of a word is unclear, see if there is a page explaining that word. You can view the full list of important terms [[:en:obe:home|here]].
       - If there is a page, and if the page clarifies the meaning of the word, then do __not__  write a note.
       - If the term has different senses, write a note telling which sense is intended on that chunk.
-      - If a word is not clear and it does not have (or need) a page, write a translation suggestion using a simpler word or phrase. If you can’t write a translation suggestion, explain what the word means.
+      - If a word is not clear and it does not have (or need) a page, write a translation suggestion using a simpler word or phrase. If you can"t write a translation suggestion, explain what the word means.
 
 ==== Things to look for in the text - Find the Five ====
 
@@ -22,7 +22,7 @@
   * **Implicit information**  - This is information that the speaker or writer did not actually say, but the original audience would have understood and needed in order to understand what the speaker or writer meant.
   * **Figures of speech**  such as rhetorical questions, metaphors, similes that may be hard for people of other cultures to understand.
   * **Pronouns**  that might not be easy to understand who or what they refer to in the text.
-  * **Verbal nouns**  that may be difficult to translate into other languages. For example, they may not have a noun meaning ‘forgiveness’, but they may have a verb meaning ‘forgive.’
+  * **Verbal nouns**  that may be difficult to translate into other languages. For example, they may not have a noun meaning "forgiveness", but they may have a verb meaning "forgive."
 
 ==== Important Terms ====
 
@@ -58,7 +58,7 @@ ULB //at the time of the deportation to Babylon.//
 
   * Translators may not know the word "deportation." Since the verb "deport" is not used in the UDB, and since the UDB includes phrases that are not in the ULB ("Babylonian army" and "captives") it may be help the translators to have a note explaining what the deportation was.
 
-  * **at the time of the deportation to Babylon** - AT: “when they were forced to move to Babylon” or “when the Babylonians made the them leave Judah and go live in Babylon.”  If your language needs to specify who went to Babylon, you could say “the Israelites” or “the Israelites who lived in Judah.”
+  * **at the time of the deportation to Babylon** - AT: "when they were forced to move to Babylon" or "when the Babylonians made the them leave Judah and go live in Babylon."  If your language needs to specify who went to Babylon, you could say "the Israelites" or "the Israelites who lived in Judah."
 
 ==== 2. Give implicit information ====
 
@@ -69,7 +69,7 @@ ULB: //we would have been like Sodom, we would have been like Gomorrah.//
 
   * The translator might think that either the UDB or ULB is wrong because the UDB has the extra phrases "we would have all been destroyed" and "were destroyed." This note explains why it is acceptable for those phrases to be there.
 
-  * **we would have been like Sodom, we would have been like Gomorrah** - How Judah would have been like Sodom and Gomorrah can be made explicit: “we would have all been destroyed, like the cities of Sodom and Gomorrah were destroyed.” (UDB) (See: Explicit and Implicit Information)
+  * **we would have been like Sodom, we would have been like Gomorrah** - How Judah would have been like Sodom and Gomorrah can be made explicit: "we would have all been destroyed, like the cities of Sodom and Gomorrah were destroyed." (UDB) (See: Explicit and Implicit Information)
 
 Joshua 1:15 \\ 
 UDB: //the land that Moses, Yahweh's servant, gave you here on the east side of the Jordan River.// \\ 
@@ -77,7 +77,7 @@ ULB: //the land that Moses the servant of Yahweh gave you beyond the Jordan, whe
 
   * Translators might wonder why the ULB has "beyond" but the  UDB has "here" and "east." The note below can help the translators understand the implicit information that "beyond the Jordan" means "east of the Jordan" and that the Israelites were still east of the Jordan.
 
-  * **beyond the Jordan** - This refers to the east side of the Jordan River. Later most of the Israelites would live west of the Jordan, so they called the east side “beyond the Jordan.” But at this time they were all still on the east side. AT: “east of the Jordan River” or "here on the east side of the Jordan River"  (See: implicit/explicit)
+  * **beyond the Jordan** - This refers to the east side of the Jordan River. Later most of the Israelites would live west of the Jordan, so they called the east side "beyond the Jordan." But at this time they were all still on the east side. AT: "east of the Jordan River" or "here on the east side of the Jordan River"  (See: implicit/explicit)
 
 
 ==== 3. Identify a figure of speech and tell what it means. ====
@@ -89,7 +89,7 @@ ULB //She instantly fell down at his feet, and breathed her last//
 
   * Translators may not know the meaning of "breathed her last." Since the UDB is worded quite differently from the ULB, translators might need help with understanding the phrase.
 
-  * **breathed her last** - "took her last breath." This is a more gentle way of saying “she died.” (See: Euphemism)
+  * **breathed her last** - "took her last breath." This is a more gentle way of saying "she died." (See: Euphemism)
 
 Genesis 20:9 \\ 
 ULB //What have you done to us?// \\ 
@@ -97,7 +97,7 @@ UDB //You should not have done that to us!//
 
   * Rhetorical questions have different purposes. Some languages use them for some purposes but not for others. Translators need to understand the purpose so they can express the attitude the speaker or author intended.
 
-  * **What have you done to us?**  - Abimelech used this question to accuse Abraham. It can also be translated as “You have done something bad to us!” or “Look what you have done to us!”  (See: rhetorical question)
+  * **What have you done to us?**  - Abimelech used this question to accuse Abraham. It can also be translated as "You have done something bad to us!" or "Look what you have done to us!"  (See: rhetorical question)
 
 Acts 1:37b-38 \\ 
 UDB //I am surprised that you can speak Greek! I thought that you were that fellow from Egypt who wanted to rebel against the government not long ago, and who took four thousand violent men with him out into the desert, so that we could not catch him.// \\ 
@@ -119,7 +119,7 @@ ULB: //The Lord God will give him the throne of his father, David.//
 
   * A translator who does not know about God and the Old Testament might not know whether the word "his" refers to the Lord God or to Mary's son.
 
-  * **his father** - The Bible often uses the word “fathers” to refer to ancestors and the word “sons” to refer to descendants. The word “his” refers to Mary's son.
+  * **his father** - The Bible often uses the word "fathers" to refer to ancestors and the word "sons" to refer to descendants. The word "his" refers to Mary's son.
 
 Luke 22:32 \\ 
 UDB: //But I have prayed for you, Simon, that you will not completely stop believing in me.// \\ 
@@ -127,7 +127,7 @@ ULB: //But I have prayed for you, that your faith may not fail.//
 
   * In the previous chunks Jesus was speaking to his disciples. Here he speaks to Simon. However, translators might not know whether "you" refers to Simon and the rest of the disciples or only to Simon. Languages that have singular and plural forms of "you" would need to choose the singular form.
 
-  * **But I have prayed for you** - The word “you” here refers specifically to Simon. (See: Forms of You)
+  * **But I have prayed for you** - The word "you" here refers specifically to Simon. (See: Forms of You)
 
 ==== 5. Give a translation suggestion for a phrase with a verbal noun ====
 Hebrew, Greek and English have many nouns that are related to verbs. Other languages may not have noun forms for some of these ideas. They may need to use a verb instead. So we can help them by suggesting a way of translating the idea with a verb.
@@ -138,7 +138,7 @@ ULB: //When you hear of wars and riots, do not be terrified, for these things mu
 
   * Translators may have difficulty translating "the end" if they do not  realize that they can use a verb instead. When they use "end" as a verb, they will need to supply a subject - "the world."
 
-  * **the end will not happen immediately** - “the end of the world will not happen immediately.” The noun “the end” can also be translated as a verb: “the world will not end immediately” (See: Abstract Nouns)
+  * **the end will not happen immediately** - "the end of the world will not happen immediately." The noun "the end" can also be translated as a verb: "the world will not end immediately" (See: Abstract Nouns)
 
 Luke 19:9b \\ 
 UDB //Today God has saved this household,// \\ 
@@ -146,7 +146,7 @@ ULB //Today salvation has come to this house//
 
   * Even though the UDB provides a good translation alternative, translators might need the explanation about abstract nouns to help them see that the UDB and ULB mean the same thing.
 
-  * **salvation has come to this house** - The abstract noun “salvation” can be translated with the verb “save”: “God has saved this household” (UDB). (See: Abstract Nouns) 
+  * **salvation has come to this house** - The abstract noun "salvation" can be translated with the verb "save": "God has saved this household" (UDB). (See: Abstract Nouns) 
 ==== 6. Tell how the current chunk is a continuation of a previous chunk.  ====
 
 At the beginning of some chunks, translators may need a connecting note to remind them of what was in the preceding chunks. Write this connecting note before the bulleted notes. (I used bullets below just to make it clear on this page. Do not use bullets on the notes pages.)
