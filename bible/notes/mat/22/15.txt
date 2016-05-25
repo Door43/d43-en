@@ -31,6 +31,8 @@
   * [[:en:obe:kt:disciple]]
   * [[:en:obe:kt:teacher]]
   * [[:en:obe:kt:true]]
+  * [[:en:obe:other:partial]]
+  * [[:en:obe:other:lawful]]
   * [[:en:obe:other:tax]]
   * [[:en:obe:other:caesar]]
 
@@ -38,9 +40,11 @@
 
   * **Connecting Statement:** - This begins an account of the religious leaders trying to trap Jesus with several difficult questions. Here the Pharisees ask him about paying taxes to Caesar.
 
-  * **how they might entrap Jesus in his own talk** - "how they could cause Jesus to say something they could use against him"
-  * **Herodians** - These were officials and followers of the Jewish king Herod, who was friendly to the Roman empire. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **how they might entrap Jesus in his own talk** - "how they could cause Jesus to say something wrong so they could arrest him"
+  * **their disciples...Herodians** - The disciples of the Pharisees supported only taxes to Jewish authorities. The Herodians supported taxes to the Roman authorities. It is implied that the Pharisees believed that no matter what Jesus said, he would offend one of these groups. (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **Herodians** - These were officials and followers of the Jewish king Herod. He was friends with Roman authorities. (See: [[:en:ta:vol1:translate:translate_names]])
   * **you do not show partiality between people** - "you do not show special honor to some people" or "you do not pay attention to more important people"
+  * **to pay taxes to Caesar** - People did not pay taxes directly to Caesar but to one of his tax collectors. AT: "to pay the taxes that Caesar required." (See: [[:en:ta:vol1:translate:figs_explicit]])
 
 ===== Links: =====
 
@@ -49,6 +53,6 @@
   * [[:en:bible:questions:comprehension:mat:22]]
 **[[:en:bible:notes:mat:22:13|<<]] | [[:en:bible:notes:mat:22:18|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit caesar}}
+~~DISCUSSION~~{{tag>publish p2check caesar}}
 
 ~~NOCACHE~~
