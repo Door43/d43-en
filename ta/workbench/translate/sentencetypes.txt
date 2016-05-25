@@ -2,11 +2,11 @@
 
 //This answers the question:// //What are the different types of sentences?//
 
-//In order to understand this topic, would be good to read//
+//In order to understand this topic, it would be good to read//
   * //[[en:ta:vol2:translate:figs_sentences]] (workbench page [[Sentence Structure]])//
 ==== Description ====
 
-A **sentence** is a group of words that expresses a complete thought. The basic types of sentences are:
+A **sentence** is a group of words that expresses a complete thought. The basic types of sentences are listed below with the functions they are used for.
 
   * **Declarative Sentence** or **Statement**  - These are mainly used to give information. '//This is a fact.//'
   * **Interrogative Sentence** or **Question**  - These are mainly used to ask for information. '//Do you know him?//'
@@ -14,8 +14,8 @@ A **sentence** is a group of words that expresses a complete thought. The basic 
   * **Imperative Sentence**  - These are mainly used to make something happen, as in a command or instruction. '//Pick that up.//'
 
 **Reasons this is a translation Issue**
-  * Languages have different ways of showing that a sentence is declarative, interrogative, exclamatory, or imperative.
-  * Some languages use these sentence types for more than one function.  For example, some languages also use questions for expressing  strong feelings. (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * Languages have different ways of showing that a sentence has a particular function. 
+  * Some languages use these sentence types for more than one function.  For example, some languages also use questions for expressing strong feelings. (See: [[:en:ta:vol1:translate:figs_rquestion]])
 
 ==== Examples from the Bible ====
 
@@ -89,7 +89,7 @@ Some imperative sentences are not spoken to the person or thing that is expected
   * [[Exclamatory Sentences]]
   * [[Imperative Sentences]]
 
-
+The jailer…said, “Sirs, what must I do to be saved?” 
 {{tag>review epadn}}~~DISCUSSIONS~~
 
 ~~NOCACHE~~
