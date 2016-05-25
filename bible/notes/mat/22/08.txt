@@ -27,10 +27,16 @@
 ===== translationWords: =====
 
   * [[:en:obe:other:servant]]
+  * [[:en:obe:kt:worthy]]
+  * [[:en:obe:other:feast]]
 
 ===== Translation Notes: =====
 
-  * **the highway crossings** - "where the roads cross" 
+  * **Connecting Statement:** - Jesus continues telling a parable. (See: [[:en:ta:vol1:translate:figs_parables]])
+
+  * **those who were invited** - This can be stated in active form. AT: "those whom I invited." (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **the highway crossings** - "where the main roads of the city cross." The king is sending the servants to the place where they are most likely to find people.
+  * **So the wedding hall was filled with guests** - This can be stated in active form. AT: "So the guests filled the wedding hall." (See: [[:en:ta:vol2:translate:figs_activepassive]])
   * **hall** - a large room
 ===== Links: =====
 
@@ -39,6 +45,6 @@
   * [[:en:bible:questions:comprehension:mat:22]]
 **[[:en:bible:notes:mat:22:05|<<]] | [[:en:bible:notes:mat:22:11|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~
