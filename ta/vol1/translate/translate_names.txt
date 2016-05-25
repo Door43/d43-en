@@ -3,8 +3,8 @@
 //This answers the question:// //How can I translate names that are new to my culture?//
 
 //In order to understand this topic, it would be good to read://
+  * //[[en:ta:vol1:translate:translate_unknown|Translate Unknowns]]//
 
-   * //[[:en:ta:vol1:translate:translate_unknown|Translate Unknowns]]//
 The Bible has names of many people, groups of people, and places. Some of these names may sound strange and be hard to say. Sometimes readers may not know what a name refers to, and sometimes they may need to understand what a name means. This page will help you see how you can translate these names and how you can help people understand what they need to know about them.
 
 ==== Description ====
@@ -47,49 +47,49 @@ Readers may not know that the names Saul and Paul refer to the same person.
   - If a person or place has two different names, use one name all of the time and write a footnote when the source text uses the name that is used less frequently.  
   - Or use whatever name is given in the source text, and add a footnote that explains who or what the name refers to.
 
-==== Examples of Translation Strategies Applied ==== 
+==== Examples of Translation Strategies Applied ====
 
 1. If readers cannot easily understand from the context what kind of a thing a name refers to, you can add a word to clarify it.
-  * **You went over the __Jordan__ and came to __Jericho__. The leaders of Jericho fought against you, along with the __Amorites__** (Joshua 24:11 ULB) 
-    * "You went over the __Jordan River __ and came to the city of Jericho. The leaders of Jericho fought against you, along with __the tribe of the Amorites__"
 
-  * **Shortly after, some Pharisees came and said to him, "Go and leave here because __Herod__ wants to kill you."** (Luke 13:31 ULB) 
-    * "Shortly after, some Pharisees came and said to him, "Go and leave here because __King Herod__ wants to kill you." 
+  * **You went over the __Jordan__  and came to __Jericho__. The leaders of Jericho fought against you, along with the __Amorites__** (Joshua 24:11 ULB)
+      * "You went over the __Jordan River __  and came to the city of Jericho. The leaders of Jericho fought against you, along with __the tribe of the Amorites__"
+
+  * **Shortly after, some Pharisees came and said to him, "Go and leave here because __Herod__  wants to kill you."**  (Luke 13:31 ULB)
+      * "Shortly after, some Pharisees came and said to him, "Go and leave here because __King Herod__  wants to kill you."
 
 2. If readers need to understand the meaning of a name in order to understand what is said about it, copy the name and tell about its meaning either in the text or in a footnote.
-  * **She named him __Moses__ and said, "Because I drew him from the water."** (Exodus 2:11 ULB) 
-    * "She named him __Moses, which sounds like 'drawn out,'__ and said, "Because I drew him from the water." 
 
-3.  Or if readers need to understand the meaning of a name in order to understand what is said about it, and that name is used only once, translate the meaning of the name.
-  * **she said, "Do I really continue to see, even after he has seen me?"  Therefore the well was called __Beerlahairoi__;** (Genesis 16:13-14 ULB) 
-    * "she said, "Do I really continue to see, even after he has seen me?"  Therefore the well was called __Well of the One who sees me__; "
+  * **She named him __Moses__  and said, "Because I drew him from the water."**  (Exodus 2:11 ULB)
+      * "She named him __Moses, which sounds like 'drawn out,'__  and said, "Because I drew him from the water."
 
-4. If a person or place has two different names, use one name most of the time and the other name only when the text talks about that name. Write a footnote when the source text uses the name that is used less frequently.  
+3. Or if readers need to understand the meaning of a name in order to understand what is said about it, and that name is used only once, translate the meaning of the name.
 
-For example, Paul is called "Saul" before Acts 13 and "Paul" after Acts 13. You could translate his name as "Paul" all of the time, except in Acts 13:9 where it talks about him having both names. 
-  * **a young man named __Saul__** (Acts 7:58 ULB) 
-    * "a young man named __Paul__"<sup>1</sup>  The footnote would look like:
-      * <sup>[1]</sup>Most versions say Saul here, but most of the time in the Bible he is called Paul.
+  * **she said, "Do I really continue to see, even after he has seen me?" Therefore the well was called __Beerlahairoi__;**  (Genesis 16:13-14 ULB)
+      * "she said, "Do I really continue to see, even after he has seen me?" Therefore the well was called __Well of the One who sees me__; "
 
-  * **But __Saul__, who is also called __Paul__, was filled with the Holy Spirit;** (Acts 13:9)
-    * "But __Saul__, who is also called __Paul__, was filled with the Holy Spirit;"
+4. If a person or place has two different names, use one name most of the time and the other name only when the text talks about that name. Write a footnote when the source text uses the name that is used less frequently.
+
+For example, Paul is called "Saul" before Acts 13 and "Paul" after Acts 13. You could translate his name as "Paul" all of the time, except in Acts 13:9 where it talks about him having both names.
+
+  * **a young man named __Saul__** (Acts 7:58 ULB)
+      * "a young man named __Paul__"<sup>1</sup>   The footnote would look like:
+        * <sup>[1]</sup>  Most versions say Saul here, but most of the time in the Bible he is called Paul.
+
+  * **But __Saul__, who is also called __Paul__, was filled with the Holy Spirit;**  (Acts 13:9)
+      * "But __Saul__, who is also called __Paul__, was filled with the Holy Spirit;"
 
 5. Or if a person or place has two names, use whatever name is given in the source text, and add a footnote that explains who or what the name refers to.
 
-For example, you could write "Saul" where the source text has "Saul" and "Paul" where the source text has "Paul." 
-  * **a young man named __Saul__** (Acts 7:58 ULB) 
-    * "a young man named __Saul__" 
+For example, you could write "Saul" where the source text has "Saul" and "Paul" where the source text has "Paul."
 
-  * **But __Saul__, who is also called __Paul__, was filled with the Holy Spirit;** (Acts 13:9)
-    * "But __Saul__, who is also called __Paul__, was filled with the Holy Spirit;"
+  * **a young man named __Saul__** (Acts 7:58 ULB)
+      * "a young man named __Saul__"
 
-  * **It came about in Iconium that __Paul__ and Barnabas entered together into the synagogue** (Acts 14:1 ULB)
-    * "It came about in Iconium that __Paul__<sup>1</sup> and Barnabas entered together into the synagogue" (Acts 14:1 ULB) The footnote would look like:
-      * <sup>[1]</sup>This is the man that was called Saul before Acts 13.
+  * **But __Saul__, who is also called __Paul__, was filled with the Holy Spirit;**  (Acts 13:9)
+      * "But __Saul__, who is also called __Paul__, was filled with the Holy Spirit;"
 
-
-
-
-//Next we recommend you learn about://
-  * //[[en:ta:vol1:translate:translate_transliterate|Copy or Borrow Words]]//
-
+  * **It came about in Iconium that __Paul__  and Barnabas entered together into the synagogue**  (Acts 14:1 ULB)
+      * "It came about in Iconium that __Paul__ <sup>1</sup>   and Barnabas entered together into the synagogue" (Acts 14:1 ULB) The footnote would look like:
+        * <sup>[1]</sup>  This is the man that was called Saul before Acts 13.
+  * //Next we recommend you learn about://
+  * //[[:en:ta:vol1:translate:translate_transliterate|Copy or Borrow Word]]s//
