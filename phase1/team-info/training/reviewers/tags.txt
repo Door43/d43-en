@@ -18,7 +18,7 @@ The "status" tags show the condition of a page. They cause the chunks to appear 
   * **mgr** - new message or reply to manager in the discussion section
   * **ktlink** - altert KT team lead that there is a request for a new KT page
 
-If the trainer has a message or reply to a reviewer, the trainer will tag the page with the reviewer’s name. Once the reviewer has read the thread, he can delete the tag with his name.
+If the trainer has a message or reply to a reviewer, the trainer will tag the page with the reviewer"s name. Once the reviewer has read the thread, he can delete the tag with his name.
 
 The order of the tags is optional, but it if the "review" or "publish" tags exist, it is preferred that they be the initial tags.
 ==== "Text" tag ====
@@ -27,7 +27,7 @@ The "text" tag indicates a problem in the ULB or UDB text. It can also be used i
 
   * **text** - The "text" tag alone indicates that the notes are done, but the chunk is not published due to a ULB text issue. RTL will fix the text, check the notes, and publish. 
   * **publish + text** - There is a minor UDB issue, but notes are done. RTL will fix UDB and leave published.
-  * **review + text** - There is a text issue that is putting review on hold. RTL will fix text and leave as “review” so notes can be finished.
+  * **review + text** - There is a text issue that is putting review on hold. RTL will fix text and leave as "review" so notes can be finished.
   * **text + discuss** - There is a text issue and also a larger problem in the notes. RTL will fix the text, and then tackle the other issue. RTL will publish when done.
 
 
