@@ -6,33 +6,34 @@
   * //[[en:ta:vol2:translate:figs_sentences]] (workbench page [[Sentence Structure]])//
 ==== Description ====
 
-A **sentence** is a group of words that expresses a complete thought. The basic types of sentences are listed below with the functions they are used for.
+A **sentence** is a group of words that expresses a complete thought. The basic types of sentences are listed below with the functions they are mainly used for.
 
   * **Declarative Sentence** or **Statement**  - These are mainly used to give information. '//This is a fact.//'
   * **Interrogative Sentence** or **Question**  - These are mainly used to ask for information. '//Do you know him?//'
   * **Exclamatory Sentence** or **Exclamation**  - These are mainly used to express a strong feeling. 'Ouch, that hurt!'
-  * **Imperative Sentence**  - These are mainly used to make something happen, as in a command or instruction. '//Pick that up.//'
+  * **Imperative Sentence**  - These are mainly used for commands or instructions. '//Pick that up.//'
 
 **Reasons this is a translation Issue**
   * Languages have different ways of showing that a sentence has a particular function. 
-  * Some languages use these sentence types for more than one function.  For example, some languages also use questions for expressing strong feelings. (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * Some languages use these sentence types for more than one function. For example, some languages also use questions for expressing strong feelings. (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * A sentence in the Bible may have a certain sentence type and function, but some languages would not use that type for that function.
 
 ==== Examples from the Bible ====
 
 The examples below show each of these types used for their main functions.
 
-**Declarative Sentence** or **Statement** 
+=== Declarative Sentences or Statements===
 
 >In the beginning God created the heavens and the earth. (Genesis 1:1 ULB)
 
-**Interrogative Sentence** or **Question**
+=== Interrogative Sentences or Questions ===
 The speakers below used these questions to get information, and the people they were speaking to answered their questions.
 
 Jesus said to them, "__Do you believe that I can do this?__" They said to him, "Yes, Lord." (Matthew 9:28 ULB)
 
 The jailer...said, "Sirs, __what must I do to be saved?__" They said, "Believe in the Lord Jesus, and you will be saved, you and your house." (Acts 16:29-31 ULB)
 
-**Exclamatory Sentence** or **Exclamation**
+===Exclamatory Sentences or Exclamations===
 
 Exclamations express strong feeling. In the ULB and UDB, they usually have an exclamation mark at the end. The exclamation mark is underlined below.
 >Save us, Lord; we are about to die__!__ (Matthew 8:25 ULB)
@@ -51,7 +52,7 @@ Exclamations often start with a question word such as "how" or "why."
 
 >__How__ unsearchable are his judgments, and his ways beyond discovering! (Romans 11:33 ULB)
 
-**Imperative Sentence** 
+===Imperative Sentences or Commands and Instructions===
 
 There are different kinds of imperative sentences: command, request, instruction, and invitation.
 
@@ -69,10 +70,6 @@ With an **invitation**, the speaker says uses politeness or friendliness to sugg
 With an **instruction**, the speaker tells someone how to do something. 
 >...but if you want to enter into life, __keep the commandments__. ... If you wish to be perfect, __go, sell what you have, and give it to the poor,__ and you will have treasure in heaven. (Matthew 19:17, 21 ULB)
 
-Imperative sentences are usually spoken to the person or people who are expected to do something. Even though a speaker would call the person he is speaking to "you," many languages do not normally use the pronoun "you" in a command.
-
->I say to this one, '__Go__,' and he goes, and to another one, '__Come__,' and he comes, and to my servant, '__Do this__,' and he does it." (Matthew 8:9 ULB)
-
 Some imperative sentences are not spoken to the person or thing that is expected to do something. In English these commands often start with "let" or "may."
 
 >Whoever sends his wife away,__ let him give__ her a certificate of divorce. (Matthew 5:31 ULB)
@@ -81,15 +78,16 @@ Some imperative sentences are not spoken to the person or thing that is expected
 
 ==== Translation Strategies ====
 
-  - Use your language's ways to show whether the speaker is giving information, asking for information, expressing a strong feeling, or saying that he wants something to happen.
-  - See the topics listed below for more specific translation strategies for each of these sentence types.
+  - Use your language's ways of showing that a sentence has a particular function.
+  - When a sentence in the Bible has a sentence type that your language would not use for the sentence's function, see the pages below for translation strategies.
+ 
 
   * [[Declarative Sentences]]
-  * [[:en:ta:vol1:translate:figs_rquestion]]
+  * [[:en:ta:vol1:translate:figs_rquestion]] (for interrogative sentences) 
   * [[Exclamatory Sentences]]
   * [[Imperative Sentences]]
 
-The jailer…said, “Sirs, what must I do to be saved?” 
+
 {{tag>review epadn}}~~DISCUSSIONS~~
 
 ~~NOCACHE~~
