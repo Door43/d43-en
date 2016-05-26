@@ -4,7 +4,7 @@
 
 We will point translators to the tA page on numbers that can help them figure out how to represent numbers in their language: [[en:ta:vol2:translate:translate_numbers]]
 
-For determining whether to write a number with words or numerals, the ULB and UDB text team generally used the two-word rule. If a word could be written with only two words then words were used. If it required more than two words, then  numerals were written.  Words that are hyphenated (twenty-one) are counted as one word. However there are times that the two-word rule was not followed.
+For determining whether to write a number with words or numerals, the ULB and UDB text team generally used the two-word rule. If a word could be written with only two words then words were used. If it required more than two words, then numerals were written. Words that are hyphenated (twenty-one) are counted as one word. However there are times that the two-word rule was not followed.
 
 
 
@@ -15,8 +15,8 @@ We will need to decide whether or not to write notes for cardinal and ordinal nu
 
 === Non-bulleted Notes ===
 
-At the beginning of a chunk. This does not need to be written on every chunk that has numbers, but just the first in a chapter or section.  \\ 
-See: [[en:ta:vol2:translate:translate_numbers]] \\   
+At the beginning of a chunk. This does not need to be written on every chunk that has numbers, but just the first in a chapter or section. \\ 
+See: [[en:ta:vol2:translate:translate_numbers]] \\ 
 
 
 === Cardinal Numbers ===
@@ -47,7 +47,7 @@ Possible policies:
 
 Because most fractions have the same form as ordinal numbers, and because they may be harder to understand, we will probably need notes. 
   * **two thirds** - "two of three equal parts" or "2/3"
-  * **one fifth**  - "one of five equal parts" or "1/5"
+  * **one fifth** - "one of five equal parts" or "1/5"
 
 
 ~~DISCUSSION~~{{tag>draft}}
