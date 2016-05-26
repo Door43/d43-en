@@ -29,15 +29,26 @@
 
 ===== translationWords: =====
 
+  * [[:en:obe:other:mede]]
+  * [[:en:obe:other:elam]]
+  * [[:en:obe:other:mesopotamia]]
   * [[:en:obe:other:judea]]
-  * [[:en:obe:other:jew]]
+  * [[:en:obe:other:pontus]]
+  * [[:en:obe:other:asia]]
+  * [[:en:obe:other:egypt]]
+  * [[:en:obe:other:cyrene]]
+  * [[en:obe:other:rome]]
+  * [[:en:obe:other:crete]]
+  * [[:en:obe:other:arabia]]
+  * [[:en:obe:other:mighty]]
   * [[:en:obe:kt:works]]
   * [[:en:obe:kt:god]]
 
 ===== Translation Notes: =====
 
-  * **Why is it that we are hearing them** - Possible meanings are 1) a real question that the people wanted an answer to or 2) a rhetorical question that expressed how amazed they were. The UDB translates it as a statement showing how surprised they were. (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **Parthians...Elamites** - "people from Parthia, Media, and Elam" (See: [[:en:ta:vol1:translate:translate_names]])
+  * **Why is it that we are hearing them, each in our own language in which we were born?** - Possible meanings are 1) this is a rhetorical question that expresses how amazed they were (See UDB), or 2) this is a real question for which the people wanted an answer. (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **in our own language in which we were born** - "in our own languages that we have learned from birth."
+  * **Parthians...Arabians** - The people list some of the many nations, regions, and cities from which they have come. (See: [[:en:ta:vol1:translate:translate_names]])
   * **proselytes** - "non-Jewish people who have become Jews" or "converts to the Jewish religion"
 
 ===== Links: =====
@@ -47,4 +58,4 @@
   * [[:en:bible:questions:comprehension:act:02]]
 **[[:en:bible:notes:act:02:05|<<]] | [[:en:bible:notes:act:02:12|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit works}}
+~~DISCUSSION~~{{tag>publish p2check works}}
