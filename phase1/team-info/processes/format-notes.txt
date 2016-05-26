@@ -31,6 +31,8 @@ Return to: [[:en:phase1:team-info:processes:create-notes|How to Create Translati
 
   *tA links formatting may be found here: [[:en:phase1:team-info:training:reviewers:talinks]]. Be sure that every link includes an initial colon. If this colon is missing, then global searches are hindered.
 
+  *Avoid smart (curved) quote marks. Be careful about copying and pasting text from an external source (Notepad, Word, or even from another chunk). This may create "smart" quotes that hinder the system from working correctly. Make sure the quotation marks you see in edit mode are straight up and down and not curved at all.
+
 
 ===== Formats for Specific Types of Notes: =====
 
