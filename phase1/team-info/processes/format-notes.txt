@@ -29,6 +29,8 @@ Return to: [[:en:phase1:team-info:processes:create-notes|How to Create Translati
   * Refer the translators to a Translation Academy page, if needed, at the end of the note. Example: (See: Metaphor)
   * Normally we do not need to write notes for terms that are in the Important Terms list. But if an important term has multiple senses, you may need to write a note telling which sense is meant in the text.
 
+  *tA links formatting may be found here: [[:en:phase1:team-info:training:reviewers:talinks]]. Be sure that every link includes an initial colon, as here: [[:en... If this colon is missing, then global searches are hindered.
+
 
 ===== Formats for Specific Types of Notes: =====
 
