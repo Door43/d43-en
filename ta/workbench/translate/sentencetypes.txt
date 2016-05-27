@@ -6,10 +6,10 @@
 
 A **sentence** is a group of words that expresses a complete thought. The basic types of sentences are listed below with the functions they are mainly used for.
 
-  * **Declarative Sentence** or **Statement**  - These are mainly used to give information. '//This is a fact.//'
-  * **Interrogative Sentence** or **Question**  - These are mainly used to ask for information. '//Do you know him?//'
-  * **Imperative Sentence**  - These are mainly used for commands or instructions. '//Pick that up.//'
-  * **Exclamatory Sentence** or **Exclamation**  - These are mainly used to express a strong feeling. '//Ouch, that hurt!//'
+  * **Statements**  - These are mainly used to give information. '//This is a fact.//'
+  * **Questions**  - These are mainly used to ask for information. '//Do you know him?//'
+  * **Imperative Sentences**  - These are mainly used for commands or instructions. '//Pick that up.//'
+  * **Exclamations**  - These are mainly used to express a strong feeling. '//Ouch, that hurt!//'
 
 
 **Reasons this is a translation Issue**
@@ -21,22 +21,22 @@ A **sentence** is a group of words that expresses a complete thought. The basic 
 
 The examples below show each of these types used for their main functions.
 
-=== Declarative Sentences or Statements===
+=== Statements===
 
 >In the beginning God created the heavens and the earth. (Genesis 1:1 ULB)
 
-Declarative sentences can also have other functions. (See [[Statements]])  ([[en:ta:workbench:translate:declarativefunctions]] workbench)
+Statements can also have other functions. (See [[Statements - Functions]])  ([[en:ta:workbench:translate:declarativefunctions]] workbench)
 
-=== Interrogative Sentences or Questions ===
+=== Questions ===
 The speakers below used these questions to get information, and the people they were speaking to answered their questions.
 
 >Jesus said to them, "__Do you believe that I can do this?__" They said to him, "Yes, Lord." (Matthew 9:28 ULB)
 
 >The jailer...said, "Sirs, __what must I do to be saved?__" They said, "Believe in the Lord Jesus, and you will be saved, you and your house." (Acts 16:29-31 ULB)
 
-Interrogative sentences also have other functions. (See: [[:en:ta:vol1:translate:figs_rquestion]])
+Questions can also have other functions. (See: [[:en:ta:vol1:translate:figs_rquestion]])
 
-===Imperative Sentences or Commands and Instructions===
+===Imperative Sentences===
 
 There are different kinds of imperative sentences: commands, requests, instructions, and invitations.
 
@@ -54,9 +54,9 @@ With an **invitation**, the speaker uses politeness or friendliness to suggest t
 With an **instruction**, the speaker tells someone how to do something. 
 >...but if you want to enter into life, __keep the commandments__. ... If you wish to be perfect, __go, sell what you have, and give it to the poor,__ and you will have treasure in heaven. (Matthew 19:17, 21 ULB)
 
-Imperative sentences also have other functions. (See: [[Imperative Sentence]])  [[en:ta:workbench:translate:imperativefunctions]] workbench)
+Imperative sentences also have other functions. (See: [[Commands - Functions]])  [[en:ta:workbench:translate:imperativefunctions]] workbench)
 
-===Exclamatory Sentences or Exclamations===
+===Exclamations===
 
 Exclamations express strong feeling. In the ULB and UDB, they usually have an exclamation mark (!) at the end. 
 >Save us, Lord; we are about to die! (Matthew 8:25 ULB)
