@@ -10,8 +10,9 @@ A **sentence** is a group of words that expresses a complete thought. The basic 
 
   * **Declarative Sentence** or **Statement**  - These are mainly used to give information. '//This is a fact.//'
   * **Interrogative Sentence** or **Question**  - These are mainly used to ask for information. '//Do you know him?//'
-  * **Exclamatory Sentence** or **Exclamation**  - These are mainly used to express a strong feeling. '//Ouch, that hurt!//'
   * **Imperative Sentence**  - These are mainly used for commands or instructions. '//Pick that up.//'
+  * **Exclamatory Sentence** or **Exclamation**  - These are mainly used to express a strong feeling. '//Ouch, that hurt!//'
+
 
 **Reasons this is a translation Issue**
   * Languages have different ways of showing that a sentence has a particular function. 
@@ -37,25 +38,6 @@ The jailer...said, "Sirs, __what must I do to be saved?__" They said, "Believe i
 
 Interrogative sentences also have other functions. (See: [[:en:ta:vol1:translate:figs_rquestion]])
 
-===Exclamatory Sentences or Exclamations===
-
-Exclamations express strong feeling. In the ULB and UDB, they usually have an exclamation mark at the end. The exclamation mark is underlined below.
->Save us, Lord; we are about to die__!__ (Matthew 8:25 ULB)
-
-Some exclamations in the Bible often do not have a main verb. The sentence below does not have a verb.
-
->You worthless person! (Matthew 5:22 ULB)
-
-Some exclamations have the word that shows feeling. The sentence below have "Oh" and "Ah".
-
->__Oh__, the depth of the riches both of the wisdom and the knowledge of God! (Romans 11:33 ULB)
-
->Gideon understood that this was the angel of Yahweh. Gideon said, "__Ah__, Lord Yahweh! For I have seen the angel of Yahweh face to face!" (Judges 6:22 ULB)
-
-Exclamations often start with a question word such as "how" or "why."
-
->__How__ unsearchable are his judgments, and his ways beyond discovering! (Romans 11:33 ULB)
-
 ===Imperative Sentences or Commands and Instructions===
 
 There are different kinds of imperative sentences: command, request, instruction, and invitation.
@@ -75,6 +57,27 @@ With an **instruction**, the speaker tells someone how to do something.
 >...but if you want to enter into life, __keep the commandments__. ... If you wish to be perfect, __go, sell what you have, and give it to the poor,__ and you will have treasure in heaven. (Matthew 19:17, 21 ULB)
 
 Imperative sentences also have other functions. (See: [[Imperative Sentence]])  [[en:ta:workbench:translate:imperativefunctions]] workbench)
+
+===Exclamatory Sentences or Exclamations===
+
+Exclamations express strong feeling. In the ULB and UDB, they usually have an exclamation mark (!) at the end. 
+>Save us, Lord; we are about to die! (Matthew 8:25 ULB)
+
+Some exclamations have the word that shows feeling. The sentence below have "Oh" and "Ah".
+
+>__Oh__, the depth of the riches both of the wisdom and the knowledge of God! (Romans 11:33 ULB)
+
+>Gideon understood that this was the angel of Yahweh. Gideon said, "__Ah__, Lord Yahweh! For I have seen the angel of Yahweh face to face!" (Judges 6:22 ULB)
+
+Some exclamations start with a question word such as "how" or "why," but they are not used for asking a question.
+
+>__How__ unsearchable are his judgments, and his ways beyond discovering! (Romans 11:33 ULB)
+
+Some exclamations in the Bible do not have a main verb. 
+
+>You worthless person! (Matthew 5:22 ULB)
+
+
 
 ==== Translation Strategies ====
 
