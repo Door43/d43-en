@@ -1,6 +1,6 @@
 ===== Sentence Types =====
 
-//This answers the question:// //What are the different types of sentences?//
+//This answers the question:// //What are the different types of sentences and what are they used for?//
 
 //In order to understand this topic, it would be good to read//
   * //[[en:ta:vol2:translate:figs_sentences]] (workbench page [[Sentence Structure]])//
@@ -10,12 +10,12 @@ A **sentence** is a group of words that expresses a complete thought. The basic 
 
   * **Declarative Sentence** or **Statement**  - These are mainly used to give information. '//This is a fact.//'
   * **Interrogative Sentence** or **Question**  - These are mainly used to ask for information. '//Do you know him?//'
-  * **Exclamatory Sentence** or **Exclamation**  - These are mainly used to express a strong feeling. 'Ouch, that hurt!'
+  * **Exclamatory Sentence** or **Exclamation**  - These are mainly used to express a strong feeling. '//Ouch, that hurt!//'
   * **Imperative Sentence**  - These are mainly used for commands or instructions. '//Pick that up.//'
 
 **Reasons this is a translation Issue**
   * Languages have different ways of showing that a sentence has a particular function. 
-  * Some languages use these sentence types for more than one function. For example, some languages also use questions for expressing strong feelings. (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * Some languages use these sentence types for more than one function. 
   * A sentence in the Bible may have a certain sentence type and function, but some languages would not use that type for that function.
 
 ==== Examples from the Bible ====
@@ -26,12 +26,16 @@ The examples below show each of these types used for their main functions.
 
 >In the beginning God created the heavens and the earth. (Genesis 1:1 ULB)
 
+Declarative sentences can also have other functions. (See [[Statements]])  ([[en:ta:workbench:translate:declarativefunctions]] workbench)
+
 === Interrogative Sentences or Questions ===
 The speakers below used these questions to get information, and the people they were speaking to answered their questions.
 
 Jesus said to them, "__Do you believe that I can do this?__" They said to him, "Yes, Lord." (Matthew 9:28 ULB)
 
 The jailer...said, "Sirs, __what must I do to be saved?__" They said, "Believe in the Lord Jesus, and you will be saved, you and your house." (Acts 16:29-31 ULB)
+
+Interrogative sentences also have other functions. (See: [[:en:ta:vol1:translate:figs_rquestion]]
 
 ===Exclamatory Sentences or Exclamations===
 
@@ -64,17 +68,13 @@ With a **request**, the speaker uses politeness to say that he wants someone to 
 
 >Please excuse me. (Luke 14:18 ULB)
 
-With an **invitation**, the speaker says uses politeness or friendliness to suggest that someone do something if he wants to do it.
+With an **invitation**, the speaker uses politeness or friendliness to suggest that someone do something if he wants.
 >Come with us and we will do you good. (Numbers 10:29)
 
 With an **instruction**, the speaker tells someone how to do something. 
 >...but if you want to enter into life, __keep the commandments__. ... If you wish to be perfect, __go, sell what you have, and give it to the poor,__ and you will have treasure in heaven. (Matthew 19:17, 21 ULB)
 
-Some imperative sentences are not spoken to the person or thing that is expected to do something. In English these commands often start with "let" or "may."
-
->Whoever sends his wife away,__ let him give__ her a certificate of divorce. (Matthew 5:31 ULB)
-
->Jesus said to the centurion, "Depart! As you have believed, so __may it be done__ for you." And the servant was healed at that very hour. (Matthew 8:13 ULB)
+Imperative sentences also have other functions. (See: [[Imperative Sentence]])
 
 ==== Translation Strategies ====
 
@@ -82,10 +82,9 @@ Some imperative sentences are not spoken to the person or thing that is expected
   - When a sentence in the Bible has a sentence type that your language would not use for the sentence's function, see the pages below for translation strategies.
  
 
-  * [[Declarative Sentences]]
+  * [[Declarative Sentence]]  
   * [[:en:ta:vol1:translate:figs_rquestion]] (for interrogative sentences) 
-  * [[Exclamatory Sentences]]
-  * [[Imperative Sentences]]
+  * [[Imperative Sentence]]
 
 
 {{tag>review epadn}}~~DISCUSSIONS~~
