@@ -668,6 +668,8 @@ edge [arrowsize=1.4];
 "figs_events" [fillcolor="#9999ff"]
 "writing_intro" -> "figs_events"
 "figs_verbs" -> "figs_events"
+"figs_exclusive" [fillcolor="#9999ff"]
+"figs_pronouns" -> "figs_exclusive"
 "figs_explicit" [fillcolor="#9999ff"]
 "Translation" -> "figs_explicit"
 "figs_explicitinfo" [fillcolor="#9999ff"]
