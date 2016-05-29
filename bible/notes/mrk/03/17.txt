@@ -40,14 +40,15 @@
   * [[:en:obe:other:matthew]]
   * [[:en:obe:other:thomas]]
   * [[:en:obe:other:jamessonofalphaeus]]
-  * [[:en:obe:other:peter]]
+  * [[:en:obe:other:simonthezealot]]
   * [[:en:obe:other:judasiscariot]]
 
-===== Translation Notes: =====
+===== translationNotes: =====
 
-  * **Thaddaeus** - "Thaddeus" is a man who was chosen as one of Jesus' 12 apostles. (See: [[:en:ta:vol1:translate:translate_names]])
-
-
+  * **to whom he gave** - The phrase "to whom" refers to both James son of Zebedee and his brother James.
+  * **the name Boanerges, that is, sons  of thunder** - "the name Boanerges, which means, "sons of thunder."" The word "Boanerges" is a name. The meaning of this name can be made more explicit. AT: "the new name, 'Men who are like Thunder'" (UDB) (See: [[:en:ta:vol1:translate:translate_names]])
+  * **Thaddaeus** - This is the name of a man. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **who would betray him.** - "who would betray Jesus." The word "who" refers to Judas Iscariot.
 ===== Links: =====
 
   * [[:en:bible:notes:mrk:00:intro]]
@@ -57,6 +58,6 @@
 
 ~~DISCUSSION~~
 
-{{tag>publish p2edit jamessonofzebedee johntheapostle andrew philiptheapostle bartholomew matthew thomas jamessonofalpheus judasiscariot}}
+{{tag>publish p2check jamessonofzebedee johntheapostle andrew philiptheapostle bartholomew matthew thomas jamessonofalpheus judasiscariot}}
 
 ~~NOCACHE~~

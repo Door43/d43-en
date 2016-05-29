@@ -33,17 +33,21 @@
 
 ===== translationWords: =====
 
+  * [[:en:obe:other:angry]]
   * [[:en:obe:other:heart]]
   * [[:en:obe:other:pharisee]]
   * [[:en:obe:kt:death]]
 
-===== Translation Notes: =====
+===== translationNotes: =====
 
+  * **He looked around** - "Jesus looked around"
+  * **grieving** - "deeply saddened" 
+  * **the hardness of their hearts** - This metaphor describes how the Pharisees were unwilling to have compassion on the man with the withered hand. AT: "they were unwilling to have compassion on the man" (See: [[:en:ta:vol1:translate:figs_metaphor]])
   * **Stretch out your hand** - "Reach out with your hand"
   * **Jesus restored his hand** - "Jesus healed his hand" or "Jesus made his hand the way it was before"
+  * **formed a plot** - "made a plan"
   * **the Herodians** - This is the name of an informal political party that supported Herod Antipas.
   * **against him to put him to death** - The word "him" here refers to Jesus.
-
 ===== Links: =====
 
   * [[:en:bible:notes:mrk:00:intro]]
@@ -51,6 +55,6 @@
   * [[:en:bible:questions:comprehension:mrk:03]]
 **[[:en:bible:notes:mrk:03:03|<<]] | [[:en:bible:notes:mrk:03:07|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~
