@@ -10,49 +10,56 @@
 
 ==== Description ====
 
-Sometimes there is a translationNote, at the top of the list of notes, that may not include any ULB text. They may be separated from the other notes by a blank line. These notes are 'Connecting Statements' or 'General Information.'
-  * **Connecting Statement:** - This is a note that relates the current chunk to the entire passage from the Bible. There is only one connecting statement per chunk.
-  * **General Information:** - This is a note that addresses other writing style topics not mentioned in the connecting statement. There can be one or more general information note in a chunk.
+Sometimes at the top of the list of notes, there are notes that start with **Connecting Statement** or **General Information**. 
 
-=== Purpose ===
+A connecting statement tells how the scripture in a chunk is related to scripture in earlier chunks.  The following are some of the kinds of information in the connecting statements.
 
-The Connecting Statement and General Information provide the following information:
-  * Describe the use of pronouns in the chunk. There will be a 'General Information' if every time the pronoun 'you' in the passage is a plural you or singular you, or if the pronouns are inclusive or exclusive.
-  * Important background or implied information that is not in the chunk. 
+  * whether this chunk is at the beginning, middle or end of a passage
+  * who is speaking
+  * who the speaker is speaking to
+
+A general information note tells about issues in the chunk that cover more than one phrase.  The following are some of the kinds of information that appear in a general information statement.
+ 
+  * who pronouns refer to
+  * important background or implied information that is needed to understand the text in the chunk
   * Logical arguments and conclusions
-  * Episode Identification (start, end, and continuation across chapters) 
 
-=== Format ===
+These notes are to help you understand the passage better and be aware of issues that you might need to address in translation. 
 
-  * **Connecting Statement:** - Explanation
-  * **General Information:** - Explanation
-  * Follow Standard Punctuation. Phrases do not use periods. Sentences do.
-  * Follow Standard formatting for ta-topic links. Ex. (See: Metaphor_link)
-  * Where reasonable express connecting sentence in present tense.
+==== Examples ====
 
-=== Bible Example ===
+=== Whether this chunk is at the beginning, continuation, or end of a passage === 
 
-Luke1:1
-  * **Connecting Statement:** - Luke explains why he is writing to Theophilus.
-  * **accounts**  - "reports" or "true stories"
-  * **[phrase]** - [explanation]
-  * **[phrase]** - [explanation]
-Episode/Speech Continuation (Acts 1:17)
-    * **Connecting Statement:** - Peter continues his speech to the believers that he began in [[:en:bible:notes:act:01:15|1:16]]. 
+<sup>1</sup>It came about that when Jesus had finished instructing his twelve disciples, he departed from there to teach and preach in their cities. <sup>2</sup>Now when John heard in the prison about the deeds of the Christ, he sent a message by his disciples 3and said to him, "Are you the Coming One, or is there another person we should be looking for?" (Matthew 11:1 ULB)
 
-Background Information (Acts 1:17)  
-  * **General Information:** - Verses 18-19 give background information about what Judas had done and how he died. (See: [[en:ta:vol2:translate:writing_background]])
+  * **General Information**: - This is the beginning of a new part of the story where the writer tells of how Jesus responded to disciples of John the Baptist. (See: [[:en:ta:vol2:translate:writing_newevent]])
 
-Passage Recollection (Acts 2:25)
-  * **General Information:** - Here Peter recalls a passage spoken by David that relates to Jesus' having been crucified and risen from the grave.
-
-==== Translation Notes Examples ====
-
-> But it is to the extent of your hardness and unrepentant heart that you are storing up for yourself wrath in the day of wrath (Romans 2:5 ULB)
-  * **But it is to the extent of your hardness and unrepentant heart** - Paul compares a person who refuses to listen and obey God to something hard, like a stone. The heart represents the whole person. AT: "It is because you refuse to listen and repent" (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_metonymy]])
-  * **hardness and unrepentant heart** - The phrase "unrepentant heart" explains the word "hardness" (See: [[:en:ta:vol2:translate:figs_doublet]])
-In this example the translation suggestion first explains about the Figures of Speech and then explains about the Doublet in the same passage.  
+This note alerts you to the beginning of a new part of a story and gives you a link to a page that tells more about new events and issues concerning translating them.
 
 
+=== Who is speaking === 
 
+> <sup>17</sup>For he was one of us and received his share of the benefits of this ministry." <sup>18</sup>(Now this man bought a field with the earnings of his evil act. Then he fell head first, and his body burst wide open, and all his bowels poured out. <sup>19</sup>It became known to all those living in Jerusalem that the field was called in their own language Akeldama, that is, The field of blood.) (Acts 1:17-19 ULB)
 
+  * **Connecting Statement:** - Peter continues his speech to the believers that he began in [[:en:bible:notes:act:01:15|1:16]]. 
+
+This note tells you that it is still Peter speaking in verse 17 so you can mark that clearly in  your language.
+
+=== Who pronouns refer to ===
+
+><sup>20</sup>And Isaiah is very bold and says,
+>"I was found by those who did not seek me.  
+>I appeared to those who did not ask for me."
+><sup>21</sup>But to Israel he says, "All the day long I reached out my hands >to a disobedient and resistant people." (Romans 10:20-21 ULB)
+
+  * **General Information:** - Here the words “I,” “me,” and “my” refer to God.
+
+This note lets you know how the pronouns refer to. You may need to add something so that readers will know that Isaiah is not speaking for himself, but is quoting what God said.
+
+=== Important background or implied information ===
+
+> <sup>26</sup>Now an angel of the Lord spoke to Philip and said, “Arise and go toward the south to the road that goes down from Jerusalem to Gaza.” (This road is in a desert.) <sup>27</sup>He arose and went. Behold, there was a man from Ethiopia, a eunuch of great authority under Candace, queen of the Ethiopians. He was in charge of all her treasure. He had come to Jerusalem to worship. <sup>28</sup>He was returning and sitting in his chariot, and was reading the prophet Isaiah. (Acts 8:26-28 ULB)
+
+  * **General Information:** - This is the beginning of the part of the story about Philip and the man from Ethiopia. Verse 27 gives background information about the man from Ethiopia. (See [[:en:ta:vol2:translate:writing_background]])
+
+This note alerts you to the beginning of a new part of a story and to some background information so you can be aware of them and use your language's ways of showing these things. The note includes a link to the page on background information so you can learn more about translating it.
