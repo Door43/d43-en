@@ -42,7 +42,7 @@ The welcome screen will be displayed with a request to create an user account.
 
 === Note: This screen can be accessed (to change login or translator settings) by following these steps: ===
 
-  * From the ‘Your Translation Projects’ screen:
+  * From the 'Your Translation Projects' screen:
     * Click the 3-dot menu
     * Choose Logout
 
