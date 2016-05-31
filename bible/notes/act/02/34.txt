@@ -51,20 +51,23 @@
 
   * [[:en:obe:other:david]]
   * [[:en:obe:kt:heaven]]
-  * [[:en:obe:kt:lord]]
+  * [[:en:obe:kt:lordgod]]
   * [[:en:obe:kt:righthand]]
+  * [[:en:obe:other:adversary]]
+  * [[:en:obe:other:footstool]]
+  * [[:en:obe:other:house]]
   * [[:en:obe:other:israel]]
-  * [[:en:obe:kt:god]]
   * [[:en:obe:kt:christ]]
   * [[:en:obe:kt:jesus]]
   * [[:en:obe:kt:crucify]]
+
 ===== translationNotes: =====
 
   * **Connecting Statement:** - Peter finishes his speech to the Jews that he began in [[:en:bible:notes:act:01:15|1:16]].
 
-  * **The Lord said to my Lord** - "The Lord (God) said to my Lord (Christ)"
-  * **Sit at my right hand** - "take your place of honor, trust, privileges, and power by my side" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **until I make your enemies the stool for your feet** - "until I put your enemies in a position or place of defeat" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **The Lord said to my Lord** - Here "The Lord" refers to God, "my" refers to David, and "my Lord" refers to the Messiah.
+  * **until I make your enemies the stool for your feet** - This means that God will completely defeat the Messiah's enemies and make them subject to him. AT: "until I make you victorious over all of your enemies." (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **all the house of Israel** - This refers to the entire nation of Israel. AT: "ever Israelite." (See: [[:en:ta:vol1:translate:figs_idiom]])
 
 ===== Links: =====
 
@@ -73,6 +76,6 @@
   * [[:en:bible:questions:comprehension:act:02]]
 **[[:en:bible:notes:act:02:32|<<]] | [[:en:bible:notes:act:02:37|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit israel christ}}
+~~DISCUSSION~~{{tag>publish p2check israel christ}}
 
 ~~NOCACHE~~
