@@ -151,7 +151,7 @@ This is for when someone says "the X" when referring to Xs in general. We have n
 [[:en:ta:workbench:translate:hebrewmonths]] Workbench page \\
 This is for when the text refers to a particular month of the year, such as "the first month" or "the month of Abib."
 
-[[There will be a Volume 2 page for this. Until then, use the fake link below and add talink to the tags at the bottom of the page.]]
+[[There will be a Volume 2 page for this. Until then, use the fake link below and add "talink" to the tags at the bottom of the page.]]
 
 <code>
 (See: [[Hebrew Months]])
@@ -295,7 +295,7 @@ This would probably be most helpful when an AT uses a verb to show how the two n
 [[:en:ta:workbench:translate:pastforfuture]] Workbench page \\ 
 When the past tense is used to refer to future events, there are usually clauses nearby that do not use the past tense. So this would probably be most useful in notes about specific clauses.  (Do not use the workbench link.)
 
-[[There will be a Volume 2 page for this. Until then, use the fake link below and add talink to the tags at the bottom of the page.]]
+[[There will be a Volume 2 page for this. Until then, use the fake link below and add "talink" to the tags at the bottom of the page.]]
 
 <code>
 (See: [[PastforFuture]])
@@ -351,7 +351,6 @@ This would be especially helpful anytime a reflexive pronoun is used not simply 
 </code>
 
 [[:en:ta:vol2:translate:figs_sentences]] \\ 
-[[We've used it 14 times. I need to check the content. I may divide it into two pages.]]
 
 <code>
 (See: [[:en:ta:vol2:translate:figs_sentences]])
