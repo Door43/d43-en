@@ -25,7 +25,7 @@ If there is a tA page the that  you want to link to, but it is not listed on thi
 </code>
 
 [[:en:ta:vol1:translate:figs_explicit]] \\ 
-Link to this page. Do not link to Making Explicit Info Implicit.
+Link to this page. (Do not link to the related page called "Making Explicit Info Implicit.")
 
 <code>
 (See: [[:en:ta:vol1:translate:figs_explicit]])
@@ -266,7 +266,7 @@ I expect this would be most useful in the connecting notes or general info notes
 </code>
 
 [[:en:ta:vol2:translate:figs_parallelism]] \\ 
-Use this link. Do not use Parallelism with the Same Meaning.
+Use this link. (Do not use the related page called "Parallelism with the Same Meaning.")
 
 <code>
 (See: [[:en:ta:vol2:translate:figs_parallelism]])
@@ -293,7 +293,7 @@ This would probably be most helpful when an AT uses a verb to show how the two n
 </code>
 
 [[:en:ta:workbench:translate:pastforfuture]] Workbench page \\ 
-When the past tense is used to refer to future events, there are usually clauses nearby that do not use the past tense. So this would probably be most useful in notes about specific clauses.
+When the past tense is used to refer to future events, there are usually clauses nearby that do not use the past tense. So this would probably be most useful in notes about specific clauses.  (Do not use the link above. Use the link that will be written below.)
 
 [[There will be a Volume 2 page for this. Until then, use the fake link below and add talink to the tags at the bottom of the page.]]
 
@@ -366,7 +366,7 @@ This would be especially helpful anytime a reflexive pronoun is used not simply 
 
 
 [[:en:ta:vol2:translate:guidelines_sonofgodprinciples]] \\ 
-Use occasionally. Do not link to the other page "Son of God" page. 
+Use occasionally. (Do not link to the related page  called "Son of God.") 
 
 <code>
 (See: [[:en:ta:vol2:translate:guidelines_sonofgodprinciples]])
