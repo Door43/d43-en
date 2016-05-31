@@ -39,20 +39,24 @@
   * [[:en:obe:kt:brother]]
   * [[:en:obe:kt:repent]]
   * [[:en:obe:kt:baptize]]
-  * [[:en:obe:kt:jesus]]
+  * [[:en:obe:kt:name]]
   * [[:en:obe:kt:forgive]]
   * [[:en:obe:kt:sin]]
+  * [[:en:obe:kt:gift]]
   * [[:en:obe:kt:holyspirit]]
   * [[:en:obe:kt:promise]]
-  * [[:en:obe:kt:lord]]
-  * [[:en:obe:kt:god]]
+  * [[:en:obe:kt:call]]
 
 ===== translationNotes: =====
 
   * **Connecting Statement:** - The Jews respond to Peter's speech and Peter answers them.
 
-  * **pierced in their heart** - Luke uses the metaphor of piercing to emphasize how painful it was for them to hear this statement. (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **For to you is the promise** - "The promise is for you"
+  * **when they heard this** - Here the word "they" refers to the people in the crowd whom Peter was addressing. AT: "when the people heard what Peter had said."
+  * **they were pierced in their heart** - This can be stated in active form. AT: "Peter's words pierced their hearts." (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **pierced in their heart** - This means that the people felt guilty and became very sad. AT: "deeply troubled." (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **be baptized** - This can be stated in active form. AT: "allow us to baptize you." (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **For to you is the promise** - "Because the promise is for you"
+  * **all that are far off** - "all people who live far away"
  
 ===== Links: =====
 
@@ -61,6 +65,6 @@
   * [[:en:bible:questions:comprehension:act:02]]
 **[[:en:bible:notes:act:02:34|<<]] | [[:en:bible:notes:act:02:40|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit baptize }}
+~~DISCUSSION~~{{tag>publish p2check baptize }}
 
 ~~NOCACHE~~
