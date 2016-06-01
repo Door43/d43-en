@@ -35,15 +35,14 @@
 
 ===== translationWords: =====
 
-  * [[:en:obe:other:peter]]
-  * [[:en:obe:kt:righthand]]
-  * [[:en:obe:other:johntheapostle]]
+  * [[:en:obe:kt:raise]]
+  * [[:en:obe:other:strength]]
   * [[:en:obe:kt:temple]]
   * [[:en:obe:other:praise]]
  
 ===== translationNotes: =====
 
-  * **he entered...into the temple** - The men entered into the temple courtyard. Only the priests were allowed to enter the actual temple building.
+  * **he entered...into the temple** - "he entered...the temple area" (UDB) or "he entered...into the temple courtyard." He did not go into the temple building where only the priests were allowed.
 
 ===== Links: =====
 
@@ -52,4 +51,4 @@
   * [[:en:bible:questions:comprehension:act:03]]
 **[[:en:bible:notes:act:03:04|<<]] | [[:en:bible:notes:act:03:09|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit temple}}
+~~DISCUSSION~~{{tag>publish p2check temple}}
