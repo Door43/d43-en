@@ -31,17 +31,19 @@
 ===== translationWords: =====
 
   * [[:en:obe:kt:curse]]
+  * [[:en:obe:kt:eternity]]
   * [[:en:obe:kt:hell]]
   * [[:en:obe:kt:satan]]
   * [[:en:obe:kt:angel]]
 
 ===== translationNotes: =====
 
+  * **Then he will** - "Then the King will." Jesus is speaking about himself in the third person. (See: [[:en:ta:vol2:translate:figs_123person]])
   * **you cursed** - "you people whom God has cursed"
   * **the eternal fire that has been prepared** - This can be stated in active form. AT: "the eternal fire that God has prepared." (See: [[:en:ta:vol2:translate:figs_activepassive]])
   * **his angels** - his helpers
-  * **naked but you did not clothe me** - "I was naked but you did not give me clothes" (See: [[:en:ta:vol2:translate:figs_ellipsis]])
-  * **sick and in prison** - "I was sick and in prison" (See: [[:en:ta:vol2:translate:figs_ellipsis]])
+  * **naked but you did not clothe me** - The words "I was" are understood. AT: "I was naked but you did not give me clothes." (See: [[:en:ta:vol2:translate:figs_ellipsis]])
+  * **sick and in prison** - The words "I was" are understood. AT: "I was sick and in prison." (See: [[:en:ta:vol2:translate:figs_ellipsis]])
 ===== Links: =====
 
   * [[:en:bible:notes:mat:00:intro]]
@@ -49,6 +51,6 @@
   * [[:en:bible:questions:comprehension:mat:25]]
 **[[:en:bible:notes:mat:25:37|<<]] | [[:en:bible:notes:mat:25:44|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit hell}}
+~~DISCUSSION~~{{tag>publish p2check hell}}
 
 ~~NOCACHE~~
