@@ -19,10 +19,6 @@
 \v 3 I pray that God, our Father, and the Lord Jesus Christ will kindly help you and give you peace.
 \v 4 Christ sacrificed himself to God for our sins, in order to take us away from this world in which people act in such evil ways. He did this because God, our Father, wanted him to.
 \v 5 Let us now praise God forever and ever. It is true!
-
-
-
-
 \p
 </usfm>
 
@@ -53,8 +49,8 @@
 
 ===== translationNotes: =====
 
-  * **for our sins** - AT: "to take the punishment we deserved because of our sins"
-  * **that he might deliver us from this present evil age** - AT: "that he might set us free from the evil powers at work in the world today"
+  * **for our sins** - AT: "to take the punishment we deserved because of our sins" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **that he might deliver us from this present evil age** - AT: "that he might set us free from the evil powers at work in the world today" (See: [[:en:ta:vol2:translate:figs_metonymy]])
   * **our God and Father** - This refers to "God our Father." He is our God and our Father.
 
 ===== Links: =====
@@ -64,6 +60,6 @@
   * [[:en:bible:questions:comprehension:gal:01]]
 **[[:en:bible:notes:gal:01:01|<<]] | [[:en:bible:notes:gal:01:06|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit deliverer }}
+~~DISCUSSION~~{{tag>publish p2check deliverer }}
 
 ~~NOCACHE~~
