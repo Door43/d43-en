@@ -31,18 +31,20 @@
 ===== translationWords: =====
 
   * [[:en:obe:other:peter]]
-  * [[:en:obe:kt:temple]]
-  * [[:en:obe:other:pray]]
-  * [[:en:obe:other:biblicaltimehour]]
   * [[:en:obe:other:johntheapostle]]
+  * [[:en:obe:kt:temple]]
+  * [[:en:obe:other:biblicaltimehour]]
+  * [[:en:obe:other:pray]]
+  * [[:en:obe:other:beg]]
+  * [[:en:obe:other:alms]]
 
 ===== translationNotes: =====
 
   * **General Information:** - This is a new day; Peter and John are going up to the temple. Verse 2 gives background information about the lame man. (See: [[:en:ta:vol2:translate:writing_background]])
  
-  * **into the temple** - "into the temple area" or "to the temple." They did not go into the inner building where only the serving priests were allowed.
-  * **the ninth hour** - "three o'clock in the afternoon" (UDB)
-  * **alms** - The word "alms" refers to money that people give to the poor.
+  * **into the temple** - "to the temple courtyard" (UDB) or "into the temple area." They did not go into the temple building where only the priests were allowed.
+  * **A certain man...was carried every day and was laid** - This can be stated in active form. AT: "People carried a certain man every day and laid him." (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **the door of the temple called Beautiful** - This can be stated in active form. AT: "the door of the temple, which people called Beautiful." (See: [[:en:ta:vol2:translate:figs_activepassive]])
 
 ===== Links: =====
 
@@ -51,4 +53,4 @@
   * [[:en:bible:questions:comprehension:act:03]]
 **[[:en:bible:notes:act:02:46|<<]] | [[:en:bible:notes:act:03:04|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit temple}}
+~~DISCUSSION~~{{tag>publish p2check temple}}
