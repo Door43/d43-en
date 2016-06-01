@@ -52,7 +52,7 @@ In a simile something is compared to something else of a different kind in order
 
 ==== Standard Notes - General ====
 
-{{door43pages @:en:phase1:team-info:training:quick-reference:standard-notes -r -q="\{\{tag>[^}]*publish[^}]*\}\}" -exclude:home -simpleLineBreak -title}}
+{{door43pages @:en:phase1:team-info:training:quick-reference:standard-notes -r -q="\{\{tag>[^}]*edit[^}]*\}\}" -exclude:home -simpleLineBreak -title}}
 
 ==== Standard Connecting Notes ====
 
