@@ -31,9 +31,12 @@
   * [[:en:obe:other:abraham]]
   * [[:en:obe:other:isaac]]
   * [[:en:obe:other:jacob]]
+  * [[:en:obe:other:father]]
   * [[:en:obe:kt:glorify]]
   * [[:en:obe:other:servant]]
   * [[:en:obe:kt:jesus]]
+  * [[:en:obe:kt:deliverer]]
+  * [[:en:obe:kt:face]]
   * [[:en:obe:other:pilate]]
   * [[:en:obe:kt:holyone]]
   * [[:en:obe:kt:righteous]]
@@ -43,10 +46,10 @@
 
   * **Connecting Statement:** - Peter continues his speech to the Jews that he began in [[:en:bible:notes:act:03:11|3:12]].
 
-  * **whom you delivered up** - "whom you brought to Pilate"
-  * **rejected before the face of Pilate** - "you rejected him in Pilate's presence"
-  * **when he had decided to release him** - "when Pilate had decided to set Jesus free"
-  * **for a murderer to be released to you** - AT: "for Pilate to set free a murderer"
+  * **whom you delivered up** - "whom you handed over to Pilate"
+  * **rejected before the face of Pilate** - Here the phrase "before the face of" means "in the presence of." AT: "rejected in Pilate's presence." (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **when he had decided to release him** - "when Pilate had decided to release Jesus"
+  * **for a murderer to be released to you** - This can be stated in active form. AT: "for Pilate to release a murderer." (See: [[:en:ta:vol2:translate:figs_activepassive]])
 
 ===== Links: =====
 
@@ -55,6 +58,6 @@
   * [[:en:bible:questions:comprehension:act:03]]
 **[[:en:bible:notes:act:03:11|<<]] | [[:en:bible:notes:act:03:15|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit glorify holyone righteous}}
+~~DISCUSSION~~{{tag>publish p2check glorify holyone righteous}}
 
 ~~NOCACHE~~
