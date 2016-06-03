@@ -33,7 +33,7 @@ The image here is "fruits". The topic is not stated, but it is actions or behavi
   * Often metaphors are the favorite way for speakers of a language to talk about something. In this case, the speakers are usually not aware that they are using metaphors. For example, when English speakers talk about the amount of something changing, they often say that it is going up or down. ("The literacy rate is going up." "The price of bread has gone up.") Or, when English speakers say, "This road goes to the next town," they are unaware that they are speaking as if the road were in motion. Other languages require their speakers to use other expressions, for example, "Bread is eating more of our money," "This road connects us to the next town."
 
 === Reasons this is a translation issue  ===
-  * People may not realize that that a word is being used as an image in a metaphor.
+  * People may not realize that a word is being used as an image in a metaphor.
   * People may not be familiar with the thing that is used as an image. 
   * If the topic is not stated, people may not know what the topic is.
   * People may not know how the topic and the image are alike.
@@ -74,7 +74,7 @@ If people would understand the metaphor in the same way that the original reader
 2. If the target audience would not know the **image**, see [[en:ta:vol1:translate:translate_unknown]] for ideas on how to translate that image.
 
   * **Saul, Saul, why do you persecute me? It is hard for you __to kick a goad__.** (Acts 26:14 ULB)
-    * "Saul, Saul, why do you persecute me? It is hard for you to kick against a pointed stick."
+    * "Saul, Saul, why do you persecute me? It is hard for you __to kick against a pointed stick__."
 
 3. If the target audience would not [[use that **image** for that meaning]], use an image from your own culture instead. Be sure that it is an image that could have been possible in Bible times. 
 
@@ -85,19 +85,20 @@ If people would understand the metaphor in the same way that the original reader
 
 4. Or, if the target audience would not [[use that **image** for that meaning]], simply state the truth that the metaphor was used to communicate.
 
-  * **I will make you become __fishers__ of men.** (Mark 1:17 [[ULB]] )
-    * "I will make you become __people who gather__ men"
-    * "Now you gather fish. I will make you gather people."
+  * **I will make you become __fishers of men__.** (Mark 1:17 [[ULB]] )
+    * "I will make you become __people who gather men__."
+    * "Now you gather fish. I will make you __gather people__."
 
 5. If the target audience would not know what the **topic** is, then state the topic clearly. (However, do not do this if the original audience did not know what the topic was.)
 
-  * **Produce __fruits__ that are worthy of repentance** (Luke 3:8 ULB)
-      * "Produce __actions__ that are worthy of repentance" 
+[[Chris, please remove the "fruits" example, and replace it with the one below. "Fruits" belongs to a metaphorical pattern.]]
+  * **Yahweh lives; may __my rock__ be praised. May the God of my salvation be exalted.** (Psalm 18:46 ULB)
+  * "Yahweh lives; __He is my rock__. May he be praised. May the God of my salvation be exalted.
 
 6. If the target audience would not know how the topic is like the image, state it clearly.
-  * [[Chris, please remove "the light of the world" example and add the good shepherd example below - I tried to use the brackets, but it doesn't work well.]]
-  * **I am the good shepherd.** (John 10:11 ULB)
-    * "I am the one who __cares for__ God's people as a shepherd cares for sheep."
+  * [[Chris, please remove "the light of the world" example and add the example below - I tried to use the brackets, but it doesn't work well.]]
+  * **Yahweh lives; may __my rock__ be praised. May the God of my salvation be exalted.** (Psalm 18:46 ULB)
+    * "Yahweh lives; may he be praised because like a huge rock, __he shields me from my enemies__. May the God of my salvation be exalted." 
   * **Saul, Saul, why do you persecute me? It is hard for you __to kick a goad__.** (Acts 26:14 ULB)
     * "Saul, Saul, why do you persecute me? You __fight against me and hurt yourself__ like an ox that kicks against its owner's pointed stick."  [[I changed the underlining.]]
 
