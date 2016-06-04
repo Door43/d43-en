@@ -7,31 +7,30 @@ Return to: [[:en:phase1:team-info:processes:create-notes|How to Create Translati
   * Select a portion from the ULB that needs a note and copy it in bold, preceded by a bullet under "Translation Notes." The portion should be long enough to make the context clear for a targeted word. If there are multiple occurrences of the targeted word in the chunk, which have the same meaning throughout, copy the first one and then explain that all occurrences have the same meaning.
   * Write a translation suggestion that can be used in place of the portion you have selected. It must fit the context exactly.
     * Put the suggestion in quotes. Do not use bold. Do not use italics.
-    * Example: **from the daughters of Aaron** - "descended from Aaron"
-
+      * **from the daughters of Aaron** - "descended from Aaron"
     * If there is more than one suggestion, separate them with the word "or." 
-    * Examples:
-      * "X" or "Y" **matters** - "reports" or "true stories" 
-      * "X" or "Y" **before God** - "in God's sight" or "in God's opinion" (See: Idiom) 
-      * "X" or "Y" AT: "You evil, poisonous snakes!" or "You are evil like poisonous snakes."
-      * Do not ever use "Or" capped unless it begins another full explantory sentence. 
-      * Example: **Do you not see all these things?** - Possible meanings are 1) Jesus is talking about the temple buildings. AT: "Let me tell you something about all these buildings." Or 2) Jesus is talking about the destruction he has just described. AT: "You should have understood what I just told you, but you do not!" (See: Rhetorical Question)
-
-      * ...AT: "X" or "Y." Whenever an AT follows other explanatory text in the note, a period is needed at the end of the AT.
-      * Example: 
-        * **servants of the message** - You may need to specify what the message is. AT: "had served God by telling people his message" or "had taught people the good news about Jesus." (See: Assumed Knowledge and Implicit Information)
-
-    * Also, whenever the suggestions are mixed (a similar word or expression plus an AT), separate them with a period.
-      * "X." AT: "Y." (See: TA-LINK) 
-      * Example: **looked at me with favor** - "to look at" is an idiom that means "to treat" or "to deal with." AT: "regarded me kindly" or "had pity on me" (See: Idiom)
 
   * Write a sentence explanation if needed. It is preferred that all full sentences start with a capped word rather than the portion with a lowercased word, but starting with the lowercased first word of the portion is allowed. Examples: Here "fear God" means to respect God. Or: "fear God" means to respect God. All occurrences of "AT" need an explanation.
   * Refer the translators to a Translation Academy page, if needed, at the end of the note. Example: (See: Metaphor)
   * Normally we do not need to write notes for terms that are in the Important Terms list. But if an important term has multiple senses, you may need to write a note telling which sense is meant in the text.
-
   *tA links formatting may be found here: [[:en:phase1:team-info:training:reviewers:talinks]]. Be sure that every link includes an initial colon. If this colon is missing, then global searches are hindered.
-
   *Avoid smart (curved) quote marks. Be careful about copying and pasting text from an external source (Notepad, Word, or even from another chunk). This may create "smart" quotes that hinder the system from working correctly. Make sure the quotation marks you see in edit mode are straight up and down and not curved at all.
+
+  * Examples:
+    * "X" or "Y" 
+      * **matters** - "reports" or "true stories" 
+    * "X" or "Y" (ta-link)
+        * **before God** - "in God's sight" or "in God's opinion" (See: Idiom) 
+    * "X" or "Y" 
+        * AT: "You evil, poisonous snakes!" or "You are evil like poisonous snakes"
+    * Do not ever use "Or" capped unless it begins another full explantory sentence. 
+        * **Do you not see all these things?** - Possible meanings are 1) Jesus is talking about the temple buildings. AT: "Let me tell you something about all these buildings." Or 2) Jesus is talking about the destruction he has just described. AT: "You should have understood what I just told you, but you do not!" (See: Rhetorical Question)
+    * ...AT: "X" or "Y." Whenever an AT follows other explanatory text in the note, a period is needed at the end of the AT.
+        * **servants of the message** - You may need to specify what the message is. AT: "had served God by telling people his message" or "had taught people the good news about Jesus." (See: Assumed Knowledge and Implicit Information)
+  * Also, whenever the suggestions are mixed (a similar word or expression plus an AT), separate them with a period.
+    * "X." AT: "Y." (See: TA-LINK) 
+      * **looked at me with favor** - "to look at" is an idiom that means "to treat" or "to deal with." AT: "regarded me kindly" or "had pity on me" (See: Idiom)
+
 
 
 ===== Formats for Specific Types of Notes: =====
