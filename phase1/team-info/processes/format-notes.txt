@@ -15,15 +15,16 @@ Return to: [[:en:phase1:team-info:processes:create-notes|How to Create Translati
   *tA links formatting may be found here: [[:en:phase1:team-info:training:reviewers:talinks]]. Be sure that every link includes an initial colon. If this colon is missing, then global searches are hindered.
   *Avoid smart (curved) quote marks. Be careful about copying and pasting text from an external source (Notepad, Word, or even from another chunk). This may create "smart" quotes that hinder the system from working correctly. Make sure the quotation marks you see in edit mode are straight up and down and not curved at all.
 
-  * Examples:
+  * Examples of notes:
+    * "X"
     * "X" or "Y" 
       * **matters** - "reports" or "true stories" 
     * "X" or "Y" (ta-link)
         * **before God** - "in God's sight" or "in God's opinion" (See: Idiom) 
-    * "X" or "Y" 
+    * AT: "X" or "Y" 
         * AT: "You evil, poisonous snakes!" or "You are evil like poisonous snakes"
-    * Do not ever use "Or" capped unless it begins another full explantory sentence. 
-        * **Do you not see all these things?** - Possible meanings are 1) Jesus is talking about the temple buildings. AT: "Let me tell you something about all these buildings." Or 2) Jesus is talking about the destruction he has just described. AT: "You should have understood what I just told you, but you do not!" (See: Rhetorical Question)
+  * Do not ever use "Or" capped unless it begins another full explantory sentence. 
+      * **Do you not see all these things?** - Possible meanings are 1) Jesus is talking about the temple buildings. AT: "Let me tell you something about all these buildings." Or 2) Jesus is talking about the destruction he has just described. AT: "You should have understood what I just told you, but you do not!" (See: Rhetorical Question)
     * ...AT: "X" or "Y." Whenever an AT follows other explanatory text in the note, a period is needed at the end of the AT.
         * **servants of the message** - You may need to specify what the message is. AT: "had served God by telling people his message" or "had taught people the good news about Jesus." (See: Assumed Knowledge and Implicit Information)
   * Also, whenever the suggestions are mixed (a similar word or expression plus an AT), separate them with a period.
