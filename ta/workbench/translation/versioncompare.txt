@@ -60,13 +60,13 @@ However, you do not have to represent a symbolic in your translation, if that ac
 
 Here the symbolic action "lift up someone's face," represented in this way in the ULB, is presented only as its meaning in the UDB: "he would be displeased with you and would not welcome you." It can be presented in this way because Malachi is not actually referring to a particular event that actually took place. He is only referring to the idea represented by that event.
 
-==== Passive Verb Forms  ====
+==== 4. Passive Verb Forms  ====
 The ULB uses a wider variety of verb forms than the UDB does. Languages differ enormously from each other in how they express actions, events, and conditions. For example, both Biblical Hebrew and Greek often use passive verb forms, while many other languages do not have that possibility. 
 
 The ULB features passive verb forms. \\ 
 The UDB usually does not. As a result, the UDB must **restructure** many phrases. 
 
-As a translator, you must decide whether the project language can present events or states using a passive expression, as in the following examples. If you decide that your translation cannot use passive expressions, then you may find in the UDB one possible way to restructure the phrases. (See: [[:en:ta:vol2:translate:figs_activepassive]])
+When you translate, you must decide whether the target language can present events or states using a passive expression, as in the following examples. If you decide that the target language cannot or does not prefer to use passive expressions, then you may find in the UDB one possible way to restructure the phrase. (See: [[:en:ta:vol2:translate:figs_activepassive]])
 
 >For __he was amazed__, and all who were with him, at the catch of fish which they had taken. (Luke 5:9 ULB) 
 
