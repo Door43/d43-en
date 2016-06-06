@@ -36,18 +36,21 @@
   * [[:en:obe:other:peter]]
   * [[:en:obe:kt:filled]]
   * [[:en:obe:kt:holyspirit]]
-  * [[:en:obe:other:ruler]]
-  * [[:en:obe:other:elder]]
+  * [[:en:obe:kt:works]]
   * [[:en:obe:other:israel]]
-  * [[:en:obe:kt:name]]
   * [[:en:obe:kt:jesus]]
   * [[:en:obe:other:nazareth]]
   * [[:en:obe:kt:crucify]]
   * [[:en:obe:kt:god]]
+  * [[:en:obe:kt:raise]]
 
 ===== translationNotes: =====
 
-  * **the people of Israel** - "citizens of the nation Israel"
+  * **if we this day are being questioned...by what means was this man made well?** - Peter asks this question to clarify that this was the real reason that they were on trial. AT: "Since we this day are being questioned...by what means this man was made well." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **we this day are being questioned** - This can be stated in active form. AT: "you are questioning us this day." (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **by what means was this man made well** - This can be stated in active form. AT: "by what means we have made this man well." (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **May this be known to you all and to all the people of Israel** - This can be stated in active form. AT: "May all of you and all of the people of Israel know this." (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **to you all and to all the people of Israel** - "to you who are questioning us and to all the other people of Israel"
 
 ===== Links: =====
 
@@ -56,6 +59,6 @@
   * [[:en:bible:questions:comprehension:act:04]]
 **[[:en:bible:notes:act:04:05|<<]] | [[:en:bible:notes:act:04:11|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit }}
+~~DISCUSSION~~{{tag>publish p2check }}
 
 ~~NOCACHE~~
