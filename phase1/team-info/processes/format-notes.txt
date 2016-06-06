@@ -5,10 +5,8 @@ Return to: [[:en:phase1:team-info:processes:create-notes|How to Create Translati
 ===== General Principles for Formatting Notes: =====
 
   * Select a portion from the ULB that needs a note and copy it in bold, preceded by a bullet under "Translation Notes." The portion should be long enough to make the context clear for a targeted word. If there are multiple occurrences of the targeted word in the chunk, which have the same meaning throughout, copy the first one and then explain that all occurrences have the same meaning.
-  * Write a translation suggestion that can be used in place of the portion you have selected. It must fit the context exactly.
-    * Put the suggestion in quotes. Do not use bold. Do not use italics.
-      * **from the daughters of Aaron** - "descended from Aaron"
-    * If there is more than one suggestion, separate them with the word "or." 
+  * Write a note that will aid the translator. Put double quote marks around any part of it that can be used in place of the portion selected. Words in quotation marks must fit the context of the ULB (literal Bible) exactly. Do not use bold or italics in place of quote marks. 
+  * If there is more than one possible replacement wording, separate them with the word "or." 
   * Write a sentence explanation if needed. It is preferred that all full sentences start with a capped word rather than the portion with a lowercased word, but starting with the lowercased first word of the portion is allowed. Examples: Here "fear God" means to respect God. Or: "fear God" means to respect God. All occurrences of "AT" need an explanation.
   * Refer the translators to a Translation Academy page, if needed, at the end of the note. Example: (See: Metaphor)
   * Normally we do not need to write notes for terms that are in the Important Terms list. But if an important term has multiple senses, you may need to write a note telling which sense is meant in the text.
