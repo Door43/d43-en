@@ -36,7 +36,10 @@
 ===== translationNotes: =====
 
 
-  * **What is truth?** - AT: "No one can know what is true!" (See: [[:en:ta:vol1:translate:figs_irony]] and [[:en:ta:vol1:translate:figs_rquestion]])
+  * **What is truth?** - This remark appears in the form of a question to reflect Pilate's belief that no one really knows what truth is. The irony here is that Jesus is the truth. AT: "No one can know what is true!" (See: [[:en:ta:vol1:translate:figs_rquestion]] and [[:en:ta:vol1:translate:figs_irony]]) 
+  * **the Jews** - Here "Jews" is a synecdoche that refers to the Jewish leaders who opposed Jesus. (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **Not this man, but Barabbas** - This is an ellipsis. You can add the implied words. AT: "No! Do not release this man! Release Barabbas instead!" (See: [[:en:ta:vol2:translate:figs_ellipsis]]) 
+  * **Now Barabbas was a robber** - Here John provides background information about Barabbas. (See: [[:en:ta:vol2:translate:writing_background]])
 
 ===== Links: =====
 
@@ -45,6 +48,6 @@
   * [[:en:bible:questions:comprehension:jhn:18]]
 **[[:en:bible:notes:jhn:18:36|<<]] | [[:en:bible:notes:jhn:19:01|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~
