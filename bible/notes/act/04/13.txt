@@ -36,18 +36,18 @@
 
 ===== translationWords: =====
 
-  * [[:en:obe:other:peter]]
-  * [[:en:obe:other:johntheapostle]]
-  * [[:en:obe:kt:jesus]]
+  * [[:en:obe:other:bold]]
   * [[:en:obe:other:heal]]
   * [[:en:obe:other:jew]]
  
 ===== translationNotes: =====
 
-  * **when they saw the boldness** - "They" refers to the group leaders.
-  * **realized that they** - "perceiving" or "knowing"
-  * **they were ordinary** - "They" refers to Peter and John.
-  * **uneducated men** - "untrained" or "no formal schooling"
+  * **the boldness of Peter and John** - AT: "how boldly Peter and John had spoken" (See: [[:en:ta:vol1:translate:figs_explicit]] and [[:en:ta:vol2:translate:figs_abstractnouns]])
+  * **realized that they were ordinary, uneducated men** - The Jewish leaders "realized" this because of the way Peter and John had spoken. (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **they were ordinary, uneducated men** - Here the word "they" refers to Peter and John. All other occurrences of the word "they" in this chunk refer to the Jewish leaders.
+  * **ordinary, uneducated men** - The words "ordinary" and "uneducated" share similar meanings. They emphasize that Peter and John had received no formal training in Jewish law. (See: [[:en:ta:vol2:translate:figs_doublet]])
+  * **the man who was healed** - This can be stated in active form. AT: "the man whom Peter and John had healed." (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **nothing to say against this** - "nothing to say against Peter and John." Here the word "this" refers to Peter's response.
 
 ===== Links: =====
 
@@ -56,6 +56,6 @@
   * [[:en:bible:questions:comprehension:act:04]]
 **[[:en:bible:notes:act:04:11|<<]] | [[:en:bible:notes:act:04:15|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit }}
+~~DISCUSSION~~{{tag>publish p2check }}
 
 ~~NOCACHE~~
