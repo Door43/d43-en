@@ -4,14 +4,14 @@
 
 //In order to understand this page, it would be good to read//
 
-   * [[:en:ta:vol2:translate:figs_distinguish|Distinguishing versus Informing or Reminding]]
-  * [[:en:ta:vol2:translate:figs_partsofspeech|Parts of Speech]]
-  * [[:en:ta:vol2:translate:figs_sentences|Sentence Structure]]
+   * [[:en:ta:vol2:translate:figs_distinguish]]
+  * [[:en:ta:vol2:translate:figs_partsofspeech]]
+  * [[:en:ta:vol2:translate:figs_sentences]]
 
 Some languages can use a word or phrase with a noun to give information about that noun or to remind people of something about it.
 
   * Mary gave some of the food to her sister, __who was very thankful__.
-      * The phrase “who was very thankful” [[:en:ta:workbench:translate:immediately-follows-the-word-_ckgedit_quot_sister_ckgedit_quot_-and-informs-us|immediately follows the word "sister" and informs us]]<del>can be used to inform us</del>  about how Mary's sister responded when Mary gave her the food. In this case it does not distinguish this sister from another sister that Mary might have. It simply gives added information about that sister.
+      * The phrase "who was very thankful"[[:en:ta:workbench:translate:immediately-follows-the-word-_ckgedit_quot_sister_ckgedit_quot_-and-informs-us|immediately follows the word "sister" and informs us]]<del>can be used to inform us</del>  about how Mary's sister responded when Mary gave her the food. In this case it does not distinguish this sister from another sister that Mary might have. It simply gives added information about that sister.
 
 ===== Description =====
 
@@ -22,21 +22,15 @@ Some languages can use a word or phrase with a noun to give information about th
 
 === Reason people use these phrases ===
 
-[[:en:ta:workbench:translate:chris-i-added-this-subsection|Chris, I added this subsection]]
+[[Chris, I added this subsection]]
 
-People often use these phrases in order to give a reminder or new information in a way that does not lead the listener to turn their focus away from the information in the rest of the sentence. In the example above the speaker is primarily talking about Mary, not about her sister. However, he does tell how Mary's sister responded to the gift.
+  * People often present either reminders or new information in a weak way. They do this when they want their listener to give most of his attention to something else they are saying. In the example above, the speaker wants most attention to be given to what Mary did, NOT to how her sister responded.
 
-**What about: People often present either reminders or new information in a weak way. They do this when they want their listener to give most of his attention to something else they are saying. In the example above, the speaker wants most attention to be given to what Mary did, NOT to how her sister responded.**
-
-=== Reason this is a translation Issue: ===
-
-  * Some languages do not do this. If people see a word or phrase right next to a noun, they will assume that the purpose of the word or phrase is to distinguish that item from other possible items it could refer to.
-
-**I would suggest this: Languages have different ways of signaling the parts of communication that the listener should pay most attention to.**
+Reason this is a translation Issue: Languages have different ways of signaling the parts of communication that the listener should pay most attention to.**
 
 === Translation Principles ===
 
-[[:en:ta:workbench:translate:chris-i-added-this-section|Chris, I added this section.]]
+[[Chris, I added this section.]]
 
   * If your language does not use phrases with a noun for new information or a reminder, you may need to put that information or reminder in a separate sentence.
   * Try to find a way to do this that does not lead the listener to focus on that word or phrase.
