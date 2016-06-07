@@ -6,7 +6,9 @@ Return to: [[:en:phase1:team-info:processes:create-notes|How to Create Translati
   * **(1) ULB Text**  - **(2)**  Clarifying translation. **(3)**  Text meaning. **(4)**  Alternate translation suggestion. **(5)**  (See: Translation Academy Topic)
 
 See: [[:en:phase1:team-info:training:quick-reference:template]]
+
 ===== General Principles for Formatting Notes: =====
+
   * **Select a portion** from the ULB (Unlocked Literal Bible) that needs a note and copy it in bold, preceded by a bullet under "Translation Notes." The portion should be long enough to make the context clear for a targeted word. 
   * **Write a note** that will aid the translator. Put double quote marks around any part of it that can be used in place of the portion selected. Words inside quotation marks must fit the context of the ULB (literal Bible) exactly. Do not use bold or italics in place of quote marks.
   * **Multiple occurrences** If there are multiple occurrences of the targeted word in a "chunk" of verses, which have the same meaning throughout, copy the first one and then explain that all occurrences have the same meaning. 
