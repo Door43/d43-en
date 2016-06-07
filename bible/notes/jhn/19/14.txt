@@ -47,11 +47,13 @@
 
 ===== translationNotes: =====
 
-  * **Connecting Statement:** - Some time has passed and it is now the sixth hour, as Pilate turns Jesus over to be crucified.
+  * **Connecting Statement:** - Some time has passed and it is now the sixth hour, as Pilate orders his soldiers to crucify Jesus.
 
-  * **the Jews** - This means "the Jewish leaders."
-  * **We have no king but Caesar** - AT: "Caesar is our only king"
-
+  * **Now** - This word marks a break in the storyline so that John can provide information about the upcoming Passover and the time of day. (See: [[:en:ta:vol2:translate:writing_background]])
+  * **the sixth hour** - "about noontime" 
+  * **Pilate said to the Jews** - Here "Jews" is a synecdoche that refers to the Jewish leaders who opposed Jesus. AT: "Pilate said to the Jewish leaders." (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **Should I crucify your King?** - Here "I" is a synecdoche that refers to Pilate's soldiers who will actually perform the crucifixion. AT: "Do you really want me to tell my soldiers to nail your king to a cross?" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **Then Pilate turned Jesus over to them to be crucified** - Here Pilate gives the order for his soldiers to crucify Jesus. You can translate this in an active form. AT: "So Pilate ordered his soldiers to crucify Jesus." (See: [[:en:ta:vol1:translate:figs_explicitinfo]] and [[:en:ta:vol2:translate:figs_activepassive]])
  
 ===== Links: =====
 
@@ -60,6 +62,6 @@
   * [[:en:bible:questions:comprehension:jhn:19]]
 **[[:en:bible:notes:jhn:19:12|<<]] | [[:en:bible:notes:jhn:19:17|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~
