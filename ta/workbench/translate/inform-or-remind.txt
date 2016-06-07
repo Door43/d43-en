@@ -4,21 +4,21 @@
 
 //In order to understand this page, it would be good to read//
 
-   * [[:en:ta:vol2:translate:figs_distinguish]]
+  * [[:en:ta:vol2:translate:figs_distinguish]]
   * [[:en:ta:vol2:translate:figs_partsofspeech]]
   * [[:en:ta:vol2:translate:figs_sentences]]
 
-Some languages can use a word or phrase with a noun to give information about that noun or to remind people of something about it.
+Some languages can use a word or phrase with a noun to give new information about that noun or to remind people of something about it.
 
   * Mary gave some of the food to her sister, __who was very thankful__.
-      * The phrase "who was very thankful"[[:en:ta:workbench:translate:immediately-follows-the-word-_ckgedit_quot_sister_ckgedit_quot_-and-informs-us|immediately follows the word "sister" and informs us]]<del>can be used to inform us</del>  about how Mary's sister responded when Mary gave her the food. In this case it does not distinguish this sister from another sister that Mary might have. It simply gives added information about that sister.
+      * The phrase "who was very thankful" [[immediately follows the word "sister" and informs us]]<del>can be used to inform us</del>  about how Mary's sister responded when Mary gave her the food. In this case it does not distinguish this sister from another sister or imply that Mary has another sister. It simply gives new information about the sister.
 
 ===== Description =====
 
-Some languages can use a word or phrase with a noun to give information about that noun or to remind people of something about it.
+Some languages can use a word or phrase with a noun to give new information about that noun or to remind people of something about it.
 
   * Mary gave some of the food to her sister, __who was very thankful__.
-    * The phrase "who was very thankful" [[immediately follows the word "sister" and informs us]]<del>can be used to inform us</del>  about how Mary's sister responded when Mary gave her the food. In this case it does not distinguish this sister from another sister that Mary might have.
+    * The phrase "who was very thankful" [[immediately follows the word "sister" and informs us]]<del>can be used to inform us</del>  about how Mary's sister responded when Mary gave her the food. In this case it does not distinguish this sister from another sister or imply that Mary has another sister. It simply gives new information about the sister.
 
 **Reason people use these phrases**: People often present either reminders or new information in a weak way. They do this when they want their listener to give most of his attention to something else they are saying. In the example above, the speaker wants most attention to be given to what Mary did, NOT to how her sister responded. [[Chris, I added this paragraph]]
 
@@ -26,8 +26,9 @@ Some languages can use a word or phrase with a noun to give information about th
 
 [[Chris, I added Translation Principles below]]
 === Translation Principles ===
-  * If your language does not use phrases with a noun for new information or a reminder, you may need to put that information or reminder in a separate sentence.
-  * Try to find a way to do this that does not lead the listener to focus on that word or phrase.
+  * If your language does not use phrases with a noun for new information or a reminder, you may need to put that information or reminder in a different part of the sentence.
+  * Try to present it in a weak way.
+  * Ask  yourself: In our language, how do we express information in a strong way, and how do we express it in a weaker way?
 
 ==== Examples from the Bible ====
 
@@ -45,14 +46,14 @@ Some languages can use a word or phrase with a noun to give information about th
 
 If people would understand the purpose of a phrase with a noun, then consider keeping the phrase and the noun together. Otherwise here are other strategies of showing that the phrase is used to inform or remind.
 
-  - Simply put the informing or reminding word or phrase in a separate sentence.
-  - If the purpose of that sentence would not be understood, add words that make it clear. [[Chris, I reworded this strategy.]]
+  - Put the information in another part of the  sentence and add words that show its purpose.
+  - Use one of your language's ways for expressing information in a weak way.
 
 ==== Examples of Translation Strategies Applied ====
 
 [[Chris, I added several examples and underlining.]]
 
-1. Simply put the informing or reminding word or phrase in a separate sentence.
+1. Put the information in another part of the  sentence and add words that show its purpose.
 
   * **I hate those who serve __worthless__  idols**  (Psalm 31:6 ULB) - When David said this, his main point was what he thought about people who serve idols. By saying "worthless idols," he was making a commenting about all idols in general. He was not distinguishing worthless idols from valuable idols.  [[Chris, I changed this explanation and added a TA.]]
       * "I hate those who serve idols. Idols are worthless."
