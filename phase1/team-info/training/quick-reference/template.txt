@@ -33,7 +33,7 @@ Create notes as follows:
   * All Notes require **(1)**  a phrase from the ULB Text. Try to avoid single word entries. Please include the context. (Ex. for pronouns like "he", "he has promised" is better than "he")
   * The order of the appearance of these note fields is fixed.
   * The note topic determines which fields are optional or required.
-
+  * At least one of the following fields are required: (2), (3), or (4).
 ===== Bible Examples =====
 
 Field reference numbers are included for clarity purposes only. They are omitted in the actual note.
