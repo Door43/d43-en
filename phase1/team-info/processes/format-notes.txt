@@ -7,20 +7,20 @@ Return to: [[:en:phase1:team-info:processes:create-notes|How to Create Translati
 
 See: [[:en:phase1:team-info:training:quick-reference:template]]
 ===== General Principles for Formatting Notes: =====
-  * Select a portion from the ULB that needs a note and copy it in bold, preceded by a bullet under "Translation Notes." The portion should be long enough to make the context clear for a targeted word. If there are multiple occurrences of the targeted word in the chunk, which have the same meaning throughout, copy the first one and then explain that all occurrences have the same meaning.
-  * Write a note that will aid the translator. Put double quote marks around any part of it that can be used in place of the portion selected. Words in quotation marks must fit the context of the ULB (literal Bible) exactly. Do not use bold or italics in place of quote marks. 
-  * If there is more than one possible replacement wording, separate them with the word "or." 
-  * Write a sentence explanation if needed. It is preferred that all full sentences start with a capped word rather than the portion with a lowercased word, but starting with the lowercased first word of the portion is allowed. Examples: Here "fear God" means to respect God. Or: "fear God" means to respect God. All occurrences of "AT" need an explanation.
-  * Refer the translators to a Translation Academy page, if needed, at the end of the note. Example: (See: Metaphor)
-  * Normally we do not need to write notes for terms that are in the Important Terms list. But if an important term has multiple senses, you may need to write a note telling which sense is meant in the text.
-  * tA links formatting may be found here: [[:en:phase1:team-info:training:reviewers:talinks]]. Be sure that every link includes an initial colon. If this colon is missing, then global searches are hindered.
-  * Avoid smart (curved) quote marks. Be careful about copying and pasting text from an external source (Notepad, Word, or even from another chunk). This may create "smart" quotes that hinder the system from working correctly. Make sure the quotation marks you see in edit mode are straight up and down and not curved at all.
-  * Do not ever use "Or" capped unless it begins another full explantory sentence. 
+  * **Select a portion** from the ULB that needs a note and copy it in bold, preceded by a bullet under "Translation Notes." The portion should be long enough to make the context clear for a targeted word. 
+  * **Write a note** that will aid the translator. Put double quote marks around any part of it that can be used in place of the portion selected. Words inside quotation marks must fit the context of the ULB (literal Bible) exactly. Do not use bold or italics in place of quote marks.
+  * **Multiple occurrences** If there are multiple occurrences of the targeted word in a "chunk" of verses, which have the same meaning throughout, copy the first one and then explain that all occurrences have the same meaning. 
+  * **Multiple wordings** If there is more than one possible replacement wording, separate them with the word "or." 
+  * **Sentence explanation** Write a sentence explanation if needed. It is preferred that all full sentences start with a capped word rather than the portion with a lowercased word, but starting with the lowercased first word of the portion is allowed. //Examples: Here "fear God" means to respect God. Or: "fear God" means to respect God.// All occurrences of "AT" need an explanation.
+  * **Important Terms list** As a rule, notes on words that are already in the Important Terms list are not needed. But if an important term has multiple senses, you may need to write a note telling which sense is meant in the text.
+  * **Translation Academy** Refer the translators to a pertinent Translation Academy page, if needed, at the end of the note. Example: (See: Metaphor)* Translation Academy links (tA links) formatting may be found here: [[:en:phase1:team-info:training:reviewers:talinks]]. Be sure that every link includes an initial colon. If this colon is missing, then global searches are hindered.
+  * **Quote marks** Avoid smart (curved) quote marks. Be careful about copying and pasting text from an external source (Notepad, Word, or even from another chunk). This may create "smart" quotes that hinder the system from working correctly. Make sure the quotation marks you see in edit mode are straight up and down and not curved at all.
+  * **"Or" capped** Do not ever use "Or" capped unless it begins another full explantory sentence. 
     * **Do you not see all these things?** - Possible meanings are 1) Jesus is talking about the temple buildings. AT: "Let me tell you something about all these buildings." Or 2) Jesus is talking about the destruction he has just described. AT: "You should have understood what I just told you, but you do not!" (See: Rhetorical Question)
-  * Whenever an AT follows other explanatory text in the note, a period is needed at the end of the AT.
+  * Whenever an AT (alternate translation) follows other explanatory text in the note, a period is needed at the end of the AT.
     * **servants of the message** - You may need to specify what the message is. AT: "had served God by telling people his message" or "had taught people the good news about Jesus." (See: Assumed Knowledge and Implicit Information)
-  * Also, whenever the suggestions are mixed (a similar word or expression plus an AT), separate them with a period.
-    * **looked at me with favor** - "to look at" is an idiom that means "to treat" or "to deal with." AT: "regarded me kindly" or "had pity on me" (See: Idiom)
+  * Also, whenever the suggestions are mixed (a similar word or expression plus an alternate translation), separate them with a period.
+    * **looked at me with favor** - "to look at" is an idiom that means "to treat" or "to deal with." AT: "regarded me kindly" or "had pity on me." (See: Idiom)
 
   * Examples of notes:
     * "X"
