@@ -17,9 +17,11 @@ See: [[:en:phase1:team-info:training:quick-reference:template]]
   * **Important Terms list** As a rule, notes on words that are already in the Important Terms list are not needed. But if an important term has multiple senses, you may need to write a note telling which sense is meant in the text.
   * **Translation Academy** Refer the translators to a pertinent Translation Academy page, if needed, at the end of the note. //Example: (See: Metaphor)//. Translation Academy links (tA links) formatting may be found here: [[:en:phase1:team-info:training:reviewers:talinks]]. Be sure that every link includes an initial colon. If this colon is missing, then global searches are hindered.
   * **Quote marks** Avoid smart (curved) quote marks. Be careful about copying and pasting text from an external source (Notepad, Word, or even from another chunk). This may create "smart" quotes that hinder the system from working correctly. Make sure the quotation marks you see in edit mode are straight up and down and not curved at all.
-  * **"Or" capped** Do not ever use "Or" capped unless it begins another full explantory sentence. 
+  * **"Or" capped** Do not ever use "Or" capped unless it begins another full explantory sentence.
+  *  
     * **Do you not see all these things?** - Possible meanings are 1) Jesus is talking about the temple buildings. AT: "Let me tell you something about all these buildings." Or 2) Jesus is talking about the destruction he has just described. AT: "You should have understood what I just told you, but you do not!" (See: Rhetorical Question)
-  * ** Note above the basic template for punctuating notes. Multiple notes on one portion demand that a period follow each type of note: (1) **ULB Text**  - **(2)**  Clarifying translation. **(3)**  Text meaning. **(4)**  Alternate translation suggestion. **(5)**  (See: Translation Academy Topic)
+
+  * **Note above the basic template for punctuating notes.** Multiple notes on one portion demand that a period follow each type of note: (1) **ULB Text**  - **(2)**  Clarifying translation. **(3)**  Text meaning. **(4)**  Alternate translation suggestion. **(5)**  (See: Translation Academy Topic)
 
   * Examples of notes:
     * "X"
