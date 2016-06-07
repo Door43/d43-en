@@ -32,6 +32,7 @@
   * [[:en:obe:other:pilate]]
   * [[:en:obe:kt:lord]]
   * [[:en:obe:kt:deceive]]
+  * [[:en:obe:kt:raise]]
   * [[:en:obe:other:command]]
   * [[:en:obe:other:tomb]]
   * [[:en:obe:kt:disciple]]
@@ -40,8 +41,14 @@
 
 ===== translationNotes: =====
 
-  * **the Preparation** - the day to get ready for the Passover
+  * **the Preparation** - This is the day that people got everything ready for the Sabbath.
+  * **were gathered together with Pilate** - "met with Pilate"
   * **when that deceiver was alive** - "when Jesus, the deceiver, was alive"
+  * **he said, 'After three days will I rise again.' - This is a quotation within a quotation. It can be stated as an indirect quotation. AT: "he said that after three days he will rise again." (See: [[:en:ta:vol2:translate:figs_quotesinquotes]] and [[:en:ta:vol2:translate:figs_quotations]])
+  * **command that the tomb be made secure** - This can be stated in active form. AT: "command your soldiers to guard the tomb." (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **the third day** - (See: [[:en:ta:vol2:translate:translate_ordinal]])
+  * **steal him** - "steal his body"
+  * **say to the people, 'He has risen from the dead.'** - This is a quotation within a quotation. It can be stated as an indirect quotation. AT: "tell the people that he has risen from the dead." (See: [[:en:ta:vol2:translate:figs_quotesinquotes]] and [[:en:ta:vol2:translate:figs_quotations]])
 
 
 ===== Links: =====
@@ -51,6 +58,6 @@
   * [[:en:bible:questions:comprehension:mat:27]]
 **[[:en:bible:notes:mat:27:59|<<]] | [[:en:bible:notes:mat:27:65|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit deceive disciple}}
+~~DISCUSSION~~{{tag>publish p2check deceive disciple}}
 
 ~~NOCACHE~~
