@@ -47,8 +47,9 @@
   * [[:en:obe:kt:lordgod]]
   * [[:en:obe:other:servant]]
   * [[:en:obe:kt:word]]
+  * [[:en:obe:other:bold]]
   * [[:en:obe:other:heal]]
-  * [[:en:obe:kt:sign]]
+  * [[:en:obe:kt:miracle]]
   * [[:en:obe:kt:name]]
   * [[:en:obe:kt:holy]]
   * [[:en:obe:other:servant]]
@@ -57,13 +58,16 @@
   * [[:en:obe:kt:filled]]
   * [[:en:obe:kt:holyspirit]]
   * [[:en:obe:kt:wordofgod]]
-
  
 ===== translationNotes: =====
 
   * **Connecting Statement:** - The believers complete their prayer that they began in [[:en:bible:notes:act:04:23|4:24]].
 
-  * **they spoke the word of God with boldness** - This is the result of the disciples being filled with the Holy Spirit.
+  * **look upon their warnings** - Here the words "look upon" are a request for God to take notice of the way in which the Jewish leaders threatened the believers. AT: "notice how they threaten to punish us." (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **while you stretch out your hand to heal** - Here the word "hand" refers to God's power. This is a request for God to show how powerful he is. AT: "while you show your power by healing people." (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **through the name of your holy servant Jesus** - Here the word "name" refers to power and authority. AT: "through the power of your holy servant Jesus." (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **the place...was shaken** - This can be stated in active form. AT: "the place...shook." (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **filled with the Holy Spirit** - See how you translated this in [[:en:bible:notes:act:02:01|2:4]].
 
 ===== Links: =====
 
@@ -72,6 +76,6 @@
   * [[:en:bible:questions:comprehension:act:04]]
 **[[:en:bible:notes:act:04:27|<<]] | [[:en:bible:notes:act:04:32|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit servant filled}}
+~~DISCUSSION~~{{tag>publish p2check servant filled}}
 
 ~~NOCACHE~~
