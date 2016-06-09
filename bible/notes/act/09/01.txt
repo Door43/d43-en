@@ -33,13 +33,13 @@
 
 ===== translationWords: =====
 
-  * [[:en:obe:other:paul|Paul, Saul]]
-  * [[:en:obe:kt:disciple|disciple]]
-  * [[:en:obe:kt:highpriest|high priest]]
-  * [[:en:obe:other:synagogue|synagogue]]
-  * [[:en:obe:other:damascus|Damascus]]
-  * [[:en:obe:other:jerusalem|Jerusalem]]
-  * [[:en:obe:other:letter|letter, epistle]]
+  * [[:en:obe:other:paul]]
+  * [[:en:obe:kt:disciple]]
+  * [[:en:obe:kt:highpriest]]
+  * [[:en:obe:other:synagogue]]
+  * [[:en:obe:other:damascus]]
+  * [[:en:obe:other:jerusalem]]
+  * [[:en:obe:other:letter]]
 
 ===== translationNotes: =====
 
@@ -58,4 +58,4 @@
   * [[:en:bible:questions:comprehension:act:09]]
 **[[:en:bible:notes:act:08:39|<<]] | [[:en:bible:notes:act:09:03|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit saul highpriest damascus letter }}
+~~DISCUSSION~~{{tag>publish p2edit saul highpriest damascus letter}}
