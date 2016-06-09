@@ -29,17 +29,22 @@
 ===== translationWords: =====
 
   * [[:en:obe:kt:believe]]
+  * [[:en:obe:other:heart]]
+  * [[:en:obe:kt:soul]]
   * [[:en:obe:kt:power]]
   * [[:en:obe:kt:apostle]]
+  * [[:en:obe:other:proclaim]]
   * [[:en:obe:kt:testimony]]
   * [[:en:obe:kt:resurrection]]
+  * [[:en:obe:kt:lordgod]]
   * [[:en:obe:kt:jesus]]
   * [[:en:obe:kt:grace]]
 
 ===== translationNotes: =====
 
-  * **testimony** - In the New Testament, this term is often used to refer to how Jesus' followers testified about the events of Jesus' life, death, and resurrection.
-  * **and great grace was upon them all** - Possible meanings are: 1) that God was pouring out many gifts and much boldness upon all the believers or 2) that the believers were held in very high esteem by all the other people in Jerusalem.
+  * **were of one heart and soul** - Here the word "heart" refers to the thoughts and the word "soul" refers to the emotions. Together they refer to the total person. AT: "thought the same way and wanted the same things." (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **had all things in common** - See how you translated this in [[:en:bible:notes:act:02:43|2:44]].
+  * **great grace was upon them all** - Possible meanings are: 1) that God was greatly blessing the believers or 2) that the people in Jerusalem held the believers in very high esteem.
 
 ===== Links: =====
 
@@ -48,6 +53,6 @@
   * [[:en:bible:questions:comprehension:act:04]]
 **[[:en:bible:notes:act:04:29|<<]] | [[:en:bible:notes:act:04:34|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit testimony grace}}
+~~DISCUSSION~~{{tag>publish p2check testimony grace}}
 
 ~~NOCACHE~~
