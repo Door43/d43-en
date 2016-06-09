@@ -34,8 +34,6 @@
 ===== translationWords: =====
 
   * [[:en:obe:other:chaldeans]]
-  * [[:en:obe:other:haran]]
-  * [[:en:obe:kt:promisedland]]
   * [[:en:obe:kt:inherit]]
   * [[:en:obe:other:abraham]]
   * [[:en:obe:other:descendant]]
@@ -55,4 +53,4 @@
 
 ~~NOCACHE~~
 
-{{tag>publish p2edit chaldeans haran promisedland inherit seed}}
+{{tag>publish p2edit chaldeans inherit seed}}
