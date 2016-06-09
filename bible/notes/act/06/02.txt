@@ -37,9 +37,7 @@
 ===== translationWords: =====
 
   * [[:en:obe:kt:thetwelve]]
-  * [[:en:obe:kt:apostle]]
   * [[:en:obe:kt:disciple]]
-  * [[:en:obe:kt:good]]
   * [[:en:obe:kt:wordofgod]]
   * [[:en:obe:other:serve]]
   * [[:en:obe:kt:brother]]
@@ -49,8 +47,6 @@
   * [[:en:obe:kt:appoint]]
   * [[:en:obe:other:pray]]
   * [[:en:obe:kt:minister]]
-  * [[:en:obe:kt:word]]
-
 
 ===== translationNotes: =====
 
@@ -71,4 +67,4 @@
 
 ~~NOCACHE~~
 
-{{tag>publish p2edit thetwelve good wordofgod serve wise appoint minister }}
+{{tag>publish p2edit thetwelve wordofgod serve wise appoint minister}}
