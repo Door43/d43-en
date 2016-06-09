@@ -35,15 +35,20 @@
   * [[:en:obe:kt:prophet]]
   * [[:en:obe:kt:faith]]
   * [[:en:obe:other:conscience]]
+  * [[:en:obe:other:reject]]
+  * [[:en:obe:kt:satan]]
   * [[:en:obe:kt:blasphemy]]
  
 ===== translationNotes: =====
 
-  * **I am placing this command before you** - Paul speaks of his instructions as if he could physically put them in front of Timothy. (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **child** - This is a more general word than "son" or "daughter," but it still denotes kinship with the father. Paul uses this as a metaphor for his love for Timothy. (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **engage in the good fight** - "participate in a struggle that is worth the effort" or "work hard to defeat enemies." This is a metaphor that means "work hard for the Lord" (UDB). (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **have been shipwrecked in respect to the faith** - Paul speaks of these people's faith as if it were a ship that could be wrecked at sea. He means that their faith was met with "a disaster." (UDB). You should use this or a similar metaphor if it will be understood in the project language. (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **they may be taught** - "that God may teach them"
+  * **I am placing this command before you** - "I am entrusting you with this command" or "This is what I am commanding you"
+  * **my child** - Paul speaks of his close relationship to Timothy as though Paul is the father and Timothy is the child. Paul thinks of Timothy as a his child because Paul taught Timothy to have faith in Jesus. AT: "who is truly like my child." (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **in accordance with the prophecies previously made about you** - This can be stated in active form. AT: "in agreement with what other believers prophesied about you." (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **engage in the good fight** - Paul speaks about Timothy working for the Lord as if he were a soldier fighting a battle. AT: "continue to work hard for the Lord." (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **have been shipwrecked in respect to the faith** - This can be stated in active form. AT: "they have shipwrecked their faith." (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **have been shipwrecked in respect to the faith** - Paul speaks of these people's faith as if it were a ship that could be wrecked at sea. He means that they have ruined their faith and no longer believe in Jesus. You should use this or a similar metaphor if it will be understood in the project language. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **Hymenaeus and Alexander** - These are names of men. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **they may be taught** - This can be stated in active form. AT: "that God may teach them." (See: [[:en:ta:vol2:translate:figs_activepassive]])
 
 ===== Links: =====
 
@@ -52,6 +57,6 @@
   * [[:en:bible:questions:comprehension:1ti:01]]
 **[[:en:bible:notes:1ti:01:15|<<]] | [[:en:bible:notes:1ti:02:01|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit conscience}}
+~~DISCUSSION~~{{tag>publish p2check conscience}}
 
 ~~NOCACHE~~
