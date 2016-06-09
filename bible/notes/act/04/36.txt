@@ -32,10 +32,17 @@
   * [[:en:obe:other:cyprus]]
   * [[:en:obe:other:barnabas]]
   * [[:en:obe:kt:apostle]]
+  * [[:en:obe:other:interpret]]
+  * [[:en:obe:kt:son]]
+  * [[:en:obe:other:encourage]]
  
 ===== translationNotes: =====
 
-  * **Barnabas** - You may need to consider how your language introduces new participants in a story.
+  * **General Information:** - Luke introduces Barnabas into the story. (See: [[:en:ta:vol2:translate:writing_participants]])
+
+  * **Joseph...was given the name Barnabas by the apostles** - This can be stated in active form. AT: "The apostles gave Joseph...the name Barnabas." (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **being interpreted** - This can be stated in active form. AT: "which one may interpret" or "which means." (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **son of encouragement** - Here the word "son" refers to a person who has the characteristics of "encouragement." AT: "a person who always encourages others" (UDB). (See: [[:en:ta:vol1:translate:figs_idiom]])
   * **laid it at the apostles' feet** - See how you translated this in [[:en:bible:notes:act:04:34|4:35]].
 
 ===== Links: =====
@@ -45,6 +52,6 @@
   * [[:en:bible:questions:comprehension:act:04]]
 **[[:en:bible:notes:act:04:34|<<]] | [[:en:bible:notes:act:05:01|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit barnabas levite cyprus}}
+~~DISCUSSION~~{{tag>publish p2check barnabas levite cyprus}}
 
 ~~NOCACHE~~
