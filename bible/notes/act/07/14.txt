@@ -39,13 +39,9 @@
 
 ===== translationWords: =====
 
-  * [[:en:obe:other:josephot]]
-  * [[:en:obe:other:jacob]]
-  * [[:en:obe:other:egypt]]
-  * [[:en:obe:other:father]]
   * [[:en:obe:other:shechem]]
+  * [[:en:obe:other:tomb]] 
   * [[:en:obe:other:abraham]]
-  * [[:en:obe:other:tomb]]
   * [[:en:obe:other:hamor]]
  
 
@@ -66,4 +62,4 @@
 
 ~~NOCACHE~~
 
-{{tag>publish p2edit josephot jacob shechem hamor}}
+{{tag>publish p2edit shechem hamor}}
