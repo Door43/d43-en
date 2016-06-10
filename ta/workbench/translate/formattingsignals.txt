@@ -70,19 +70,19 @@ Sometimes a whole paragraphs is indented to show that it is quoted. Verse 6 belo
 
 Indentation is also used in some lists when each item in the list has a lot of information.
 
->5These are the names of the leaders who must fight with you:
+><sup>5</sup>These are the names of the leaders who must fight with you:
 >From the tribe of Reuben, Elizur son of Shedeur;
->6from the tribe of Simeon, Shelumiel son of Zurishaddai;
->7from the tribe of Judah, Nahshon son of Amminadab;
->8from the tribe of Issachar, Nethanel son of Zuar;
->9from the tribe of Zebulun, Eliab son of Helon;
->10from the tribe of Ephraim son of Joseph, Elishama son of Ammihud;
+><sup>6</sup>from the tribe of Simeon, Shelumiel son of Zurishaddai;
+><sup>7</sup>from the tribe of Judah, Nahshon son of Amminadab;
+><sup>8</sup>from the tribe of Issachar, Nethanel son of Zuar;
+><sup>9</sup>from the tribe of Zebulun, Eliab son of Helon;
+><sup>10</sup>from the tribe of Ephraim son of Joseph, Elishama son of Ammihud;
 >from the tribe of Manasseh, Gamaliel son of Pedahzur;
->11from the tribe of Benjamin son of Joseph, Abidan son of Gideoni;
->12from the tribe of Dan, Ahiezer son of Ammishaddai;
->13from the tribe of Asher, Pagiel son of Ochran;
->14from the tribe of Gad, Eliasaph son of Deuel;
->15and from the tribe of Naphtali, Ahira son of Enan. (Numbers 1:5-15 ULB)
+><sup>11</sup>from the tribe of Benjamin son of Joseph, Abidan son of Gideoni;
+><sup>12</sup>from the tribe of Dan, Ahiezer son of Ammishaddai;
+><sup>13</sup>from the tribe of Asher, Pagiel son of Ochran;
+><sup>14</sup>from the tribe of Gad, Eliasaph son of Deuel;
+><sup>15</sup>and from the tribe of Naphtali, Ahira son of Enan. (Numbers 1:5-15 ULB)
 
 
 ----
