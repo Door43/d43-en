@@ -28,14 +28,20 @@
 
 ===== translationWords: =====
 
-  * [[:en:obe:kt:sign]]
+  * [[:en:obe:kt:miracle]]
+  * [[:en:obe:other:hand]]
   * [[:en:obe:kt:apostle]]
+  * [[:en:obe:other:solomon]]
+  * [[:en:obe:other:courage]]
  
 ===== translationNotes: =====
 
-  * **Solomon's porch** - This area is located inside the temple courtyard.
-  * **no one else** - "no other person who was not a part of the church"
-  * **high esteem** - "great awe and respect"
+  * **Many signs and wonders were taking place among the people through the hands of the apostles** - This can be stated in active form. AT: "The apostles were performing many signs and wonders among the people." (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **signs and wonders** - See how you translated this in [[:en:bible:notes:act:04:29|4:30]].
+  * **through the hands of the apostles** - Here the word "hands" refers to the apostles. AT: "through the apostles." (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **They were all together** - "The believers were all together"
+  * **Solomon's porch** - See how you translated "the porch that is called Solomon's" in [[:en:bible:notes:act:03:11|3:11]].
+  * **they were held in high esteem by the people** - This can be stated in active form. AT: "the people of Jerusalem held them in high esteem." (See: [[:en:ta:vol2:translate:figs_activepassive]])
 
 ===== Links: =====
 
@@ -44,6 +50,6 @@
   * [[:en:bible:questions:comprehension:act:05]]
 **[[:en:bible:notes:act:05:09|<<]] | [[:en:bible:notes:act:05:14|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~
