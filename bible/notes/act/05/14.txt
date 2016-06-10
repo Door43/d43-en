@@ -39,14 +39,20 @@
 ===== translationWords: =====
 
   * [[:en:obe:kt:believer]]
+  * [[:en:obe:kt:lordgod]]
   * [[:en:obe:other:peter]]
   * [[:en:obe:other:jerusalem]]
+  * [[:en:obe:kt:afflict]]
   * [[:en:obe:kt:demon]]
   * [[:en:obe:other:heal]]
  
 ===== translationNotes: =====
 
-  * **his shadow might fall on some of them** - It is implied that they would be healed if Peter's shadow touched them. (See: [[:en:phase1:team-info:training:quick-reference:discourse:implicit-explicit|Implicit and Explicit]])
+  * **more believers were being added to the Lord** - See how you translated "were added" in [[:en:bible:notes:act:02:40|2:41]]. This can be stated in active form. AT: "more people were believing in the Lord." (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **they even carried the sick** - Here the word "they" refers to the people who lived in Jerusalem.
+  * **his shadow might fall on some of them** - It is implied that they would be healed if Peter's shadow touched them. (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **those afflicted with unclean spirits** - This can be stated in active form. AT: "those whom unclean spirits had afflicted." (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **they were all healed** - This can be stated in active form. AT: "God healed them all" or "the apostles healed them all." (See: [[:en:ta:vol2:translate:figs_activepassive]])
 
 ===== Links: =====
 
@@ -55,6 +61,6 @@
   * [[:en:bible:questions:comprehension:act:05]]
 **[[:en:bible:notes:act:05:12|<<]] | [[:en:bible:notes:act:05:17|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit heal}}
+~~DISCUSSION~~{{tag>publish p2check heal}}
 
 ~~NOCACHE~~
