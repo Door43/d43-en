@@ -102,10 +102,9 @@ This is good for when a clause has "no" or "not" or some word with "no" (none, n
 
 [[:en:ta:workbench:translate:writingstyles_endofepisode]] Workbench page \\
 This would probably be most useful in connecting or general info notes.\\
-[[There will be a Volume 2 page for this. Until then, use the fake link below and add "talink" to the tags at the bottom of the page.]]
 
 <code>
-(See: [[End of Story]])
+(See: [[en:ta:vol2:translate:writing_endofstory]])
 </code>
 
 [[:en:ta:vol2:translate:figs_euphemism]]
