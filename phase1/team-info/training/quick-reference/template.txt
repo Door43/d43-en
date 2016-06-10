@@ -54,7 +54,7 @@ Where does the quarreling and disputing among yourselves come from? Does it not 
 
   * **(1) among your fellow believers?**  - **(2)**  "in your members." **(3)**  Possible meanings are 1) There is fighting among the local believers or 2) The fighting is internal, between your desire to do evil and good.
 
-===== Special Notes (under development) =====
+===== Special Notes =====
 
 There are two special types of notes that are used that contain fixed text for the ULB phrase. they are **Connecting Statement:** and **General Information:**.
   * **Connecting Statement:** - This is a note that relates the current chunk to the current discourse. When present, it must be the first note and separated by a blank line from the rest of the notes unless there is also a general information note. There is only one connecting statement used per chunk.
