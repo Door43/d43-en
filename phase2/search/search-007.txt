@@ -1,4 +1,4 @@
-====== Search 007: AT notations without explanation in P2Check or P2Pass chunks ======
+====== Search 007: AT notations without explanation ======
 
 ~~NOCACHE~~
 
@@ -7,7 +7,7 @@ The script on this page searches for a string of text anywhere in the notes, the
 //Note: Special characters and symbols must be preceded by a backslash "\".//
 
 
-search results:
+Search results for pages tagged "p2check" or "p2pass":
 
 
 {{door43pages @:en:bible:notes -r -q="(\*\* \- AT\:)((?=[^}]*p2pass)|(?=[^}]*p2check))" -exclude:home -simpleLineBreak -title -fontsize="90%"}}
