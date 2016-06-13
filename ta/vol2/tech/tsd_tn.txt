@@ -11,7 +11,7 @@ Have you read the information in the article on [[en:ta:vol3:gateway:gl_notes]]?
 
 This module explains the steps to translating the translationNotes using translationStudio-Desktop.
 
-You must have the ULB available so that you can copy the part of the ULB text that the translationNote is talking about directly into the translationNote. You must also have the UDB text already translated and available
+You must have the ULB available so that you can copy the part of the ULB text that the translationNote is talking about directly into the translationNote. You should also have the UDB text already translated and available.
 
 Do not use the method of blind drafting to translate the translationNotes. Always translate the translationNotes with the Gateway Language ULB and UDB in front of you, and the English translationNotes also visible. This is because you must copy the ULB phrase into the translationNote exactly as it is in the ULB, and you must also copy the UDB phrase if the translationNote also quotes the UDB.
 
