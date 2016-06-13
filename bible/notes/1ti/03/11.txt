@@ -34,23 +34,27 @@
 
 ===== translationWords: =====
 
+  * [[:en:obe:other:slander]]
   * [[:en:obe:kt:faithful]]
   * [[:en:obe:other:deacon]]
+  * [[:en:obe:other:household]]
   * [[:en:obe:other:serve]]
+  * [[:en:obe:kt:confidence]]
   * [[:en:obe:kt:faith]]
   * [[:en:obe:kt:jesus]]
 
 ===== translationNotes: =====
 
-  * **Women in the same way** - Here "women" may apply to women in general, but it seems to apply specifically to deacons' wives or female deacons. AT: "Wives likewise have requirements" or "Deaconesses, there are requirements like deacons"
-  * **be dignified** - "act properly"
+  * **Women in the same way** - Possible meanings are 1) "women" refers to the wives of deacons, or 2) "women" refers to female deacons.
+  * **be dignified** - "act properly" or "be worthy of respect"
   * **They should not be slanderers** - "they must not speak evil about other people"
-  * **moderate** - "they must not do anything to excess"
-  * **husbands of one wife** - A man must have only one wife. It is unclear if this excludes men who have been previously widowed, divorced, or never married.
+  * **moderate** - See how you translated this in [[:en:bible:notes:1ti:03:01|3:2]].
+  * **husbands of one wife** - A man must have only one wife. It is unclear if this excludes men who have been previously widowed, divorced, or never married. See how you translated this in [[:en:bible:notes:1ti:03:01|3:2]].
   * **manage well their children and household** - "properly take care of and lead their children and others who live in their homes"
-  * **For those** - "For those deacons" or "For those bishops, deacons, and deaconesses" or "For these church leaders"
+  * **For those** - "For those deacons" or "For these church leaders"
   * **acquire for themselves** - "receive for themselves" or "gain for themselves"
-  * **a good standing** - A good reputation
+  * **a good standing** - The implied meaning may be stated explicitly. AT: "a good reputation among other believers." (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **and great confidence in the faith that is in Christ Jesus** - "and they will continue to believe in Christ Jesus with great confidence"
 ===== Links: =====
 
   * [[:en:bible:notes:1ti:00:intro]]
@@ -64,6 +68,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit deacon}}
+{{tag>publish p2check deacon}}
 
 ~~NOCACHE~~
