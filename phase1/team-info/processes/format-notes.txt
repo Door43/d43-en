@@ -153,9 +153,9 @@ Sometimes a phrase is used multiple times in a book. We can make it easier for t
 
 === Connecting Statement & General Information ===
 
-There are two special types of notes that contain fixed text for the ULB phrase. They are **Connecting Statement:**  and **General Information:**.
+There are two special types of notes that concern information in the chunk. Not every chunk will contain these. They are **Connecting Statement:**  and **General Information:**.
 
-  * **Connecting Statement:**  - This is a note that relates the current chunk to the current discourse. When present, it must be the first note and separated by a line space from the rest of the notes unless there is also a general information note. There is only one connecting statement used per chunk.
+  * **Connecting Statement:**  - This is a note that relates the current chunk to the overarching discourse. When present, it must be the first note and separated by a line space from the rest of the notes, unless there is also a general information note following it. There is only one connecting statement used per chunk, when needed.
   * **General Information:**  - This is a note that addresses other discourse topics not mentioned in the connecting statement. General information notes can occur alone or immediately following the connecting statement and are separated by a line space from the rest of the notes. There can be one or more general information notes in a chunk.
 
 <code>
