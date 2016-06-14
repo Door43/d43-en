@@ -37,16 +37,21 @@
 ===== translationWords: =====
 
   * [[:en:obe:kt:fear]]
+  * [[:en:obe:other:stone]]
   * [[:en:obe:other:council]]
   * [[:en:obe:kt:highpriest]]
+  * [[:en:obe:other:teach]]
   * [[:en:obe:kt:name]]
+  * [[:en:obe:other:jerusalem]]
   * [[:en:obe:kt:blood]]
  
 ===== translationNotes: =====
 
-  * **charged you** - Here the word "you" is plural. (See: [[:en:ta:vol1:translate:figs_you]])
-  * **you have filled** - The word "you" here is plural. (See: [[:en:ta:vol1:translate:figs_you]])
-  * **bring this man's blood upon us** - "hold us responsible for the death of this man" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **they feared that the people might stone them** - Here the word "them" refers to the captain and the officers. All other occurrences of "them" in this chunk refer to the apostles.
+  * **charged you...you have filled** - Here the word "you" is plural. (See: [[:en:ta:vol1:translate:figs_you]])
+  * **in this name** - See how you translated this in [[:en:bible:notes:act:04:15|4:17]].
+  * **you have filled Jerusalem with your teaching** - This idiom means that they have taught everyone in Jerusalem.  AT: "you have taught everyone in Jerusalem about him" (See: [[:en:ta:vol1:translate:figs_idiom]] and [[:en:ta:vol2:translate:figs_hyperbole]])
+  * **desire to bring this man's blood upon us** - Here the word "blood" refers to Jesus' death. This is an idiomatic way of saying that they are responsible for killing him. AT: "desire to make us responsible for the death of this man" (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol1:translate:figs_idiom]])
 
 ===== Links: =====
 
@@ -55,6 +60,6 @@
   * [[:en:bible:questions:comprehension:act:05]]
 **[[:en:bible:notes:act:05:24|<<]] | [[:en:bible:notes:act:05:29|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit council highpriest blood}}
+~~DISCUSSION~~{{tag>publish p2check council highpriest blood}}
 
 ~~NOCACHE~~
