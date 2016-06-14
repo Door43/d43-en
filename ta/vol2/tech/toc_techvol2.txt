@@ -1,13 +1,35 @@
 ===== Table of Contents - Technology Manual Volume 2 =====
 
-==== translationStudio-Desktop ====
 
-  - [[en:ta:vol2:tech:tsd_intro]]
+==== translationStudio-Desktop Version 7 ====
+
   - [[en:ta:vol2:tech:tsd_install]]
   - [[en:ta:vol2:tech:tsd_login]]
   - [[en:ta:vol2:tech:tsd_termsofuse]]
   - [[en:ta:vol2:tech:tsd_navigate]]
   - [[en:ta:vol2:tech:tsd_translate]] 
+  - The Three-Dot Menu Items 
+    - [[en:ta:vol2:tech:tsd_backup]]
+    - [[en:ta:vol2:tech:tsd_feedback]]
+    - [[en:ta:vol2:tech:tsd_print]]
+    - [[en:ta:vol2:tech:tsd_D43publish]]
+    - [[en:ta:vol2:tech:tsd_restore]]
+    - [[en:ta:vol2:tech:tsd_settings]]
+
+==== translationStudio-Desktop Version 8 ====
+
+  - [[en:ta:vol2:tech:tsd_loginv8]]
+  - The Three-Dot Menu Items 
+    - [[en:ta:vol2:tech:tsd_backupv8]]
+    - [[en:ta:vol2:tech:tsd_feedbackv8]]
+    - [[en:ta:vol2:tech:tsd_printv8]]
+    - [[en:ta:vol2:tech:tsd_D43publishv8]]
+    - [[en:ta:vol2:tech:tsd_restorev8]]
+    - [[en:ta:vol2:tech:tsd_settingsv8]]
+
+==== translationStudio-Desktop ====
+
+  - [[en:ta:vol2:tech:tsd_intro]]
   - [[en:ta:vol2:tech:tsd_create]]
   - [[en:ta:vol2:tech:tsd_resources]] 
     - [[en:ta:vol1:translate:resources_alter]] 
@@ -31,22 +53,4 @@
     - [[en:ta:vol2:tech:tsd_tq]]
     - [[en:ta:vol2:tech:tsd_ta]]
     - [[en:ta:vol2:tech:tsd_UDB]]
-  - The Three-Dot Menu Items 
-    - [[en:ta:vol2:tech:tsd_backup]]
-    - [[en:ta:vol2:tech:tsd_feedback]]
-    - [[en:ta:vol2:tech:tsd_print]]
-    - [[en:ta:vol2:tech:tsd_D43publish]]
-    - [[en:ta:vol2:tech:tsd_restore]]
-    - [[en:ta:vol2:tech:tsd_settings]]
-
-==== translationStudio-Desktop Version 8 ====
-
-  - [[en:ta:vol2:tech:tsd_loginv8]]
-
-
-
-
-
-
-
 
