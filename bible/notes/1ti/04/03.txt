@@ -34,6 +34,7 @@
   * [[:en:obe:kt:god]]
   * [[:en:obe:kt:believe]]
   * [[:en:obe:kt:true]]
+  * [[:en:obe:other:reject]]
   * [[:en:obe:other:dedicate]]
   * [[:en:obe:kt:wordofgod]]
   * [[:en:obe:other:pray]]
@@ -41,10 +42,11 @@
 ===== translationNotes: =====
 
   * **They will** - "These people will"
-  * **forbid to marry** - "forbid believers to marry" or "prevent believers from marrying"
-  * **forbid...to receive foods** - "require people...to abstain from foods" or "stop people...from eating foods" or "not allow people...to eat certain foods." "people" here are probably believers (UDB).
-  * **Nothing that we take with thanksgiving is to be rejected** - "We should not throw away anything we thank God for" or "We should not disapprove of anything we thank God for" or "Everything that we eat with thanksgiving is acceptable"
-  * **it is dedicated through the word of God and prayer** - AT: "we have set it apart for God's use by obeying God's Word and praying to him" or "we have set it apart for God's use by a prayer that agrees with the truth God has revealed" (See: [[:en:ta:vol2:translate:figs_hendiadys]])
+  * **forbid to marry** - It is implied that they will forbid believers to marry. AT: "forbid believers to marry" or "prevent believers from marrying." (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **and to receive foods** - It is implied that they will forbid only certain foods. AT: "and they will require believers to abstain from certain foods" or "and they will not allow people to eat certain foods." (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **everything created by God is good** - This can be stated in active form. AT: "everything that God created is good." (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **Nothing that we take with thanksgiving is to be rejected** - This can be stated in active form. AT: "We should not refuse anything for which we give thanks to God" or "Everything that we eat with thanksgiving is acceptable." (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **it is dedicated through the word of God and prayer** - Here "word of God" and "prayer" are used together to express one idea. The "word of God" refers to the content of the prayer. This can be stated in active form. AT: "we have set it apart for God's use by praying in agreement with his word." (See: [[:en:ta:vol2:translate:figs_hendiadys]] and [[:en:ta:vol2:translate:figs_activepassive]])
 
 ===== Links: =====
 
@@ -59,6 +61,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit consecrate}}
+{{tag>publish p2check consecrate}}
 
 ~~NOCACHE~~
