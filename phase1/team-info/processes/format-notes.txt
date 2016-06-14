@@ -70,7 +70,7 @@ Synonyms and equivalent phrases should simply be written in double quotes. They 
 First give a reason for the alternate translation so that the MTT can understand why it is acceptable. For example, when you come across an active/passive note, add "This can be stated in active form." Then write "AT:"  followed by the translation and the TAlink to Active/Passive. The need for alternate translations include making information explicit, changing passive voice to active, explaining metaphors, stating rhetorical questions as statements, and more. Note the period following the AT in these examples below are only for the actual text substitution.
 
   * **see the salvation of God**  - This can be reworded so that the abstract noun "salvation" is expressed as the verb "save." AT: "learn about how God saves people from sin" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
-  * **Follow me**  - When Jesus said this, he meant more than "Walk behind me for a little bit." He was telling the man to be his disciple. AT: "Be my disciple" or "Come, follow me as your teacher" (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **Follow me**  - When Jesus said this, he meant more than walk behind me for a little bit. He was telling the man to be his disciple. AT: "Be my disciple" or "Come, follow me as your teacher" (See: [[:en:ta:vol1:translate:figs_explicit]])
   * **do likewise**  - "do the same thing." What Jesus was referring to when he said "do likewise" can be stated clearly. AT: "give food to someone who does not have any" (See: [[:en:ta:vol1:translate:figs_explicit]])
   * **And you—why do you violate the commandment of God for the sake of your traditions?** - Jesus answers with a question to criticize what the religious leaders do. AT: "And I see that you refuse to obey God's commands just so that you can follow what your ancestors taught you!" (UDB) (See: [[:en:ta:vol1:translate:figs_rquestion]]) 
   * **How is it that you do not understand that I was not speaking to you about bread?** - Jesus uses this question to rebuke the disciples. AT: "You should have understood that I was not really speaking about bread." (UDB) (See: [[:en:ta:vol1:translate:figs_rquestion]])
@@ -83,7 +83,7 @@ If the UDB provides a good translation that clarifies what is in the ULB, it is 
   * **implored him**  - "begged him" or "pleaded with him" (UDB)
   * **he fell on his face**  - "he bowed down to the ground" (UDB) or "he knelt and touched the ground with his face"
   * **the sons of Heth**  - "the descendants of Heth" (UDB). AT: "the Hittites" (See: Translate Names)
-  * **you will conceive in your womb and bear a son...Jesus...the Son of the Most High** - Mary will bear "a son" who will be called "the Son of the Most High" (UDB).
+  * **you will conceive in your womb and bear a son...Jesus...the Son of the Most High** - Mary will bear a son who will be called the Son of the Most High (UDB).
 
 Please do not write notes that only say "See UDB."
 
@@ -109,16 +109,18 @@ If the meaning is given in a way that can be used as a translation suggestion, p
   * As a rule, do NOT end a quote/portion with an ellipsis.
       * "<del>**I completely understand...**</del>" This is incorrect. Do not use ellipses this way!
   * The only exception is when you need to include the final punctuation for showing contrast in the alternate translation. 
-  * Example: Jesus said to them, "Why are you afraid, you of little faith?" The note would be written: **Why are you afraid...faith?** - Jesus was rebuking the disciples with this rhetorical question. AT: "You should not be afraid...faith!" or "There is nothing for you to be afraid of...faith." (See: Rhetorical Question). The question mark in the original text is replaced by a period or an exclamation point in the alternate translation.
+  * Example: Jesus said to them, "Why are you afraid, you of little faith?" The note would be written: 
+    * **Why are you afraid...faith?** - Jesus was rebuking the disciples with this rhetorical question. AT: "You should not be afraid...faith!" or "There is nothing for you to be afraid of...faith." (See: Rhetorical Question).
+      * The question mark in the original text is replaced by a period or an exclamation point in the alternate translation.
      
 === Identify Figures of Speech ===
 
 When writing a note to identify and explain a figure of speech, use full sentences and then put the alternate translation in quotes, as usual.
 
-  * **Make ready the way of the Lord**  - This phrase compares people preparing themselves for the arrival of the Lord to people who are repairing a road for someone to use it. AT: "Repent and be ready for when the Lord comes." (See: Metaphor)
-  * **You offspring of poisonous snakes**  - Jesus uses this expression to emphasize how dangerous the Pharisees are. Poisonous snakes are dangerous and represent evil. AT: "You evil, poisonous snakes!" or "You are evil like poisonous snakes." (See: Metaphor)
+  * **Make ready the way of the Lord**  - This phrase compares people preparing themselves for the arrival of the Lord to people who are repairing a road for someone to use it. AT: "Repent and be ready for when the Lord comes" (See: Metaphor)
+  * **You offspring of poisonous snakes**  - Jesus uses this expression to emphasize how dangerous the Pharisees are. Poisonous snakes are dangerous and represent evil. AT: "You evil, poisonous snakes!" or "You are evil like poisonous snakes" (See: Metaphor)
 
-  * **Their mouths are full of cursing and bitterness** - Here "full" is an exaggeration and the word "mouths" here represents the people's thoughts. AT: "Much of what people say is harmful and meant to hurt other people." (See: Hyperbole and Synecdoche)
+  * **Their mouths are full of cursing and bitterness** - Here "full" is an exaggeration and the word "mouths" here represents the people's thoughts. AT: "Much of what people say is harmful and meant to hurt other people" (See: Hyperbole and Synecdoche)
 
 If there is a Translation Academy page that deals with a figure of speech, you can include it in the note. You can see the list of topics at: [[:en:ta:ta-topics|translationAcademy Topics]]
 
@@ -135,7 +137,7 @@ When adding the option for a direct quote, preface the alternate translation wit
 In general, we want to downplay the original languages because most of the notes users will not have had any training in them. This does not mean we avoid the content. Rather, we should look for simple ways to express it. When possible, use plain-language explanations in English.
 
   * **sinful man**  - The word here for "man" means "adult male" and not the more general "human being."
-  * **Master**  - The word that is translated here as "Master" is not the normal word for "Master." This one refers to someone who has authority and not to someone who owns someone else. AT: "Boss" or "Foreman" or use a word that is commonly used to address a person in authority, such as "Sir."
+  * **Master**  - The word that is translated here as "Master" is not the normal word for "Master." This one refers to someone who has authority and not to someone who owns someone else. AT: "Boss" or "Foreman"
 
 === Multiple Notes on Long Phrases ===
 
@@ -143,13 +145,15 @@ Sometimes we need notes for a phrase or sentence and separate notes for portions
 
   * **you say, 'Behold, he is a gluttonous man**  - This can be translated as an indirect quote: "you say that he is a gluttonous man" or "you accuse him of being a gluttonous man."
   * **he is a gluttonous man**  - "he is a greedy eater" or "he habitually eats too much food"
+
 === Repeated Phrases in a Book ===
 
 Sometimes a phrase is used multiple times in a book. We can make it easier for the translators by reminding them of where they have already translated that phrase so they can now translate it the same way. We point them back to notes only in the book they are working on.
 
-  * **be fruitful and multiply**  - See how you translated these commands in [[:en:bible:notes:gen:01:28|1:28]].
-  * **everything that creeps along the ground**  - This includes all types of small animals. See how you translated this in [[:en:bible:notes:gen:01:24|1:25]].
-  * **will be blessed in him**  - AT: "will be blessed because of Abraham" or "will be blessed because I have blessed Abraham." For translating "in him," see how you translated "through you" in [[:en:bible:notes:gen:12:01|12:3]].
+  * **be fruitful and multiply** - See how you translated these commands in [[:en:bible:notes:gen:01:28|1:28]].
+  * **everything that creeps along the ground** - This includes all types of small animals. See how you translated this in [[:en:bible:notes:gen:01:24|1:25]].
+  * **will be blessed in him** - AT: "will be blessed because of Abraham" or "will be blessed because I have blessed Abraham" 
+  * **in him** - See how you translated this in [[:en:bible:notes:gen:12:01|12:3]].
 
 === Connecting Statement & General Information ===
 
