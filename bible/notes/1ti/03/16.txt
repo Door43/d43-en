@@ -41,21 +41,30 @@
 
 ===== translationWords: =====
 
+  * [[:en:obe:kt:reveal]]
   * [[:en:obe:kt:true]]
   * [[:en:obe:kt:godly]]
   * [[:en:obe:kt:flesh]]
   * [[:en:obe:kt:justify]]
+  * [[:en:obe:kt:holyspirit]]
   * [[:en:obe:kt:angel]]
+  * [[:en:obe:othe:proclaim]]
   * [[:en:obe:other:nation]]
   * [[:en:obe:kt:believe]]
   * [[:en:obe:kt:glory]]
 ===== translationNotes: =====
 
-  * **in the flesh** - Paul uses "flesh" here to mean a human being. AT: "as a true human being" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **the revealed truth of godliness is great** - "the truth that God has revealed to us about our religion is great"
-  * **was justified by the Spirit** - "the Holy Spirit confirmed Jesus was who he said he was"
-  * **was proclaimed among nations** - "people in many nations told others about Jesus"
-  * **was believed on in the world** - "people in many parts of the world believed in Jesus"
+  * **And it is undeniable** - "And no one can deny"
+  * **that the revealed truth of godliness is great** - This can be stated in active form. AT: "that the truth which God revealed is great." (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **He appeared...up in glory** - This is most likely a song or poem that Paul is quoting. If your language has a way of indicating that this is poetry you could use it here. If not, you could translate this as regular prose rather than poetry. (See: [[:en:ta:vol2:translate:writing_poetry]])
+  * **He appeared** - Here "He" is ambiguous. It could refers to "God" or to "Christ." It may be best to translate this as "He." If you must be more specific you could translate it as "Christ who is God" or "Christ." 
+  * **in the flesh** - Paul uses "flesh" here to mean a human being. AT: "as a true human being." (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **was justified by the Spirit** - This can be stated in active form. AT: "the Holy Spirit confirmed that he was who he said he was." (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **was seen by angels** - This can be stated in active form. AT: "the angels saw him." (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **was proclaimed among nations** - This can be stated in active form. AT: "people in many nations told others about him." (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **was believed on in the world** - This can be stated in active form. AT: "people in many parts of the world believed in him." (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **and was taken up in glory** - This can be stated in active form. AT: "and God the Father took him up to heaven in glory." (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **in glory** - This means he received power from God the Father and he is worthy of honor.
 
 ===== Links: =====
 
@@ -64,6 +73,6 @@
   * [[:en:bible:questions:comprehension:1ti:03]]
 **[[:en:bible:notes:1ti:03:14|<<]] | [[:en:bible:notes:1ti:04:01|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~
