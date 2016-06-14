@@ -16,9 +16,9 @@ The welcome screen will be displayed with a request to create an user account.
 
 ==== Terms to Know ====
 
-**Local Login** – user has full use of the program except for publishing to the Door43 server.
+**Local Login** – user has full use of the program except for uploading to the Door43 server.
 
-**Login with Door43 Account** – user has full use of the program and can publish to theDoor43 server (requires Internet connection.)
+**Login with Door43 Account** – user has full use of the program and can upload to the Door43 server (requires Internet connection.)
 
 === Local Login ===
 
@@ -27,18 +27,17 @@ The welcome screen will be displayed with a request to create an user account.
 
 === Translator has a Door43 Account  ===
 
-  - On the opening screen, click on the LOGIN WITH DOOR43 ACCOUNT link. The login screen opens.
+  - On the opening screen, click on the Login to your Door43 Account link. The login screen opens.
   - Type in the account information from Door43.
   - Click the Login button.
 
 === Translator has not have a Door43 Account  ===
 
-  - On the opening screen, click on the LOGIN WITH DOOR43 ACCOUNT link. The login screen opens.
-  - Click on the CREATE A NEW ACCOUNT link to create a new Door43user account.  The Door43 Account Creation window opens. (This requires an Internet connection.)
+  - On the opening screen, click on the Create a Door43 Account link to create a new Door43user account.  The Door43 Account Creation window opens. (This requires an Internet connection.)
   - Enter the translator's information into the spaces. (You may need to click on the gray words to show the field.)
   - Click on the Submit button to begin registration.
 
-**Note:** Click on the BACK TO LOCAL LOGIN link if you do not want to create a new account at this time or are not able to connect to the Internet.
+**Note:** Click on the User Profile link if you do not want to create a new account at this time or are not able to connect to the Internet.
 
 === Note: This screen can be accessed (to change login or translator settings) by following these steps: ===
 
@@ -49,8 +48,6 @@ The welcome screen will be displayed with a request to create an user account.
 OR
 
   * Click on the user name found in the very top dark green bar. 
-
-
 
 
 
