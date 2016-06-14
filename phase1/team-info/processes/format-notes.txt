@@ -3,7 +3,7 @@
 Return to: [[:en:phase1:team-info:processes:create-notes|How to Create Translation Notes]]
 
 ===== General Template for Translation Notes =====
-  * **(1) ULB Text**  - **(2)**  Clarifying translation. **(3)**  Text meaning. **(4)**  Alternate translation suggestion. **(5)**  (See: Translation Academy Topic)
+  * **(1) ULB Text**  - **(2)**  Clarifying translation. **(3)**  Text meaning. **(4)**  Alternate translation suggestion **(5)**  (See: Translation Academy Topic)
 
 See: [[:en:phase1:team-info:training:quick-reference:template]]
 
@@ -17,7 +17,7 @@ See: [[:en:phase1:team-info:training:quick-reference:template]]
   * **Important Terms list** As a rule, notes on words that are already in the Important Terms list are not needed. But if an important term has multiple senses, you may need to write a note telling which sense is meant in the text.
   * **Translation Academy** Refer the translators to a pertinent Translation Academy page, if needed, at the end of the note. Example: //(See: Metaphor)//. Translation Academy links (tA links) topics and formatting may be found here: [[:en:phase1:team-info:training:reviewers:talinks]]. Be sure that every link includes an initial colon. If this colon is missing, then global searches are hindered.
   * **Quote marks** Avoid smart (curved) quote marks. Be careful about copying and pasting text from an external source (Notepad, Word, or even from another chunk). This may create "smart" quotes that hinder the system from working correctly. Make sure the quotation marks you see in edit mode are straight up and down and not curved at all.
-  * **Note way above the basic template for punctuating notes.** Multiple (two or more) types of notes on one portion demand that a period follow each one: (1) **ULB Text**  - **(2)**  Clarifying translation. **(3)**  Text meaning. **(4)**  Alternate translation suggestion. **(5)**  (See: Translation Academy Topic)
+  * **Note way above the basic template for punctuating notes.** Multiple (two or more) types of notes on one portion demand that a period follow each one: (1) **ULB Text**  - **(2)**  Clarifying translation. **(3)**  Text meaning. **(4)**  Alternate translation suggestion **(5)**  (See: Translation Academy Topic)
 
   * Examples of notes:
     * "X"
@@ -26,11 +26,11 @@ See: [[:en:phase1:team-info:training:quick-reference:template]]
     * "X" or "Y" (ta-link)
         * **before God** - "in God's sight" or "in God's opinion" (See: Idiom) 
     * AT: "X" or "Y" 
-        * AT: "You evil, poisonous snakes!" or "You are evil like poisonous snakes."
-    * ...AT: "X" or "Y." 
-      * **servants of the message** - You may need to specify what the message is. AT: "had served God by telling people his message" or "had taught people the good news about Jesus." (See: Assumed Knowledge and Implicit Information)
-    * "X." AT: "Y." (See: TA-LINK) 
-      * **looked at me with favor** - "to look at" is an idiom that means "to treat" or "to deal with." AT: "regarded me kindly" or "had pity on me." (See: Idiom)
+        * AT: "You evil, poisonous snakes!" or "You are evil like poisonous snakes"
+    * ...AT: "X" or "Y" 
+      * **servants of the message** - You may need to specify what the message is. AT: "had served God by telling people his message" or "had taught people the good news about Jesus" (See: Assumed Knowledge and Implicit Information)
+    * "X." AT: "Y" (See: TA-LINK) 
+      * **looked at me with favor** - "to look at" is an idiom that means "to treat" or "to deal with." AT: "regarded me kindly" or "had pity on me" (See: Idiom)
 
 
 
@@ -67,13 +67,13 @@ Synonyms and equivalent phrases should simply be written in double quotes. They 
 
 "Alternate Translations" are translation suggestions that have a different structure or that appear to have different content from the ULB. We give these suggestions because translators of some languages may not be able to use the structure in the ULB, or they may need to make certain information clear. All occurrences of "AT" need an explanation.
 
-First give a reason for the alternate translation so that the MTT can understand why it is acceptable. For example, when you come across an active/passive note, add "This can be stated in active form." Then write "AT:"  followed by the translation and the TAlink to Active/Passive. The need for alternate translations include making information explicit, changing passive voice to active, explaining metaphors, stating rhetorical questions as statements, and more. Note the requisite period following the AT in these examples below.
+First give a reason for the alternate translation so that the MTT can understand why it is acceptable. For example, when you come across an active/passive note, add "This can be stated in active form." Then write "AT:"  followed by the translation and the TAlink to Active/Passive. The need for alternate translations include making information explicit, changing passive voice to active, explaining metaphors, stating rhetorical questions as statements, and more. Note the period following the AT in these examples below are only for the actual text substitution.
 
-  * **see the salvation of God**  - This can be reworded so that the abstract noun "salvation" is expressed as the verb "save." AT: "learn about how God saves people from sin." (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
-  * **Follow me**  - When Jesus said this, he meant more than "Walk behind me for a little bit." He was telling the man to be his disciple. AT: "Be my disciple" or "Come, follow me as your teacher." (See: [[:en:ta:vol1:translate:figs_explicit]])
-  * **do likewise**  - "do the same thing." What Jesus was referring to when he said "do likewise" can be stated clearly. AT: "give food to someone who does not have any." (See: [[:en:ta:vol1:translate:figs_explicit]])
-  * **And you—why do you violate the commandment of God for the sake of your traditions?** - Jesus answers with a question to criticize what the religious leaders do. AT: "And I see that you refuse to obey God's commands just so that you can follow what your ancestors taught you!" (UDB). (See: [[:en:ta:vol1:translate:figs_rquestion]]) 
-  * **How is it that you do not understand that I was not speaking to you about bread?** - Jesus uses this question to rebuke the disciples. AT: "You should have understood that I was not really speaking about bread." (UDB). (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **see the salvation of God**  - This can be reworded so that the abstract noun "salvation" is expressed as the verb "save." AT: "learn about how God saves people from sin" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
+  * **Follow me**  - When Jesus said this, he meant more than "Walk behind me for a little bit." He was telling the man to be his disciple. AT: "Be my disciple" or "Come, follow me as your teacher" (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **do likewise**  - "do the same thing." What Jesus was referring to when he said "do likewise" can be stated clearly. AT: "give food to someone who does not have any" (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **And you—why do you violate the commandment of God for the sake of your traditions?** - Jesus answers with a question to criticize what the religious leaders do. AT: "And I see that you refuse to obey God's commands just so that you can follow what your ancestors taught you!" (UDB) (See: [[:en:ta:vol1:translate:figs_rquestion]]) 
+  * **How is it that you do not understand that I was not speaking to you about bread?** - Jesus uses this question to rebuke the disciples. AT: "You should have understood that I was not really speaking about bread." (UDB) (See: [[:en:ta:vol1:translate:figs_rquestion]])
 
 
 === Translation Suggestion from the UDB ===
@@ -82,7 +82,7 @@ If the UDB provides a good translation that clarifies what is in the ULB, it is 
 
   * **implored him**  - "begged him" or "pleaded with him" (UDB)
   * **he fell on his face**  - "he bowed down to the ground" (UDB) or "he knelt and touched the ground with his face"
-  * **the sons of Heth**  - "the descendants of Heth" (UDB). AT: "the Hittites." (See: Translate Names)
+  * **the sons of Heth**  - "the descendants of Heth" (UDB). AT: "the Hittites" (See: Translate Names)
   * **you will conceive in your womb and bear a son...Jesus...the Son of the Most High** - Mary will bear "a son" who will be called "the Son of the Most High" (UDB).
 
 Please do not write notes that only say "See UDB."
