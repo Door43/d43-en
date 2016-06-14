@@ -42,12 +42,13 @@
 
 ===== translationNotes: =====
 
-  * **Therefore** - AT: "Because of this"
-  * **God gave them over to** - AT: "God allowed them to indulge in" (see also "God allowed,"[[:en:bible:notes:rom:01:26|1:26]] and [[:en:bible:notes:rom:01:28|1:28]]).
+  * **Therefore** - "Because of this"
+  * **God gave them over to** - "God allowed them to indulge in" (see also "God allowed,"[[:en:bible:notes:rom:01:26|1:26]] and [[:en:bible:notes:rom:01:28|1:28]]).
   * **them...their...themselves...they** - the "mankind" of [[:en:bible:notes:rom:01:18|1:18]]
-  * **the lusts of their hearts for uncleanness** - AT: "the morally impure things they longed for"
-  * **for their bodies to be dishonored among themselves** - They committed sexually immoral and degrading acts. (See: [[:en:ta:vol2:translate:figs_euphemism]])
-  * **instead of** - Possible meanings are 1) "rather than" or 2) "along with"
+  * **the lusts of their hearts for uncleanness** - Here "lusts of their hearts" is a synecdoche that represents the evil things they wanted to do. AT: "the morally impure things they desired greatly." (See: [[:en:ta:vol2:translate:figs_synecdoche]]) 
+  * **for their bodies to be dishonored among themselves** - This is a euphemism that means they committed immoral sexual acts. You can translate this in an active form. AT: "and they committed sexually immoral and degrading acts." (See: [[:en:ta:vol2:translate:figs_euphemism]] and [[:en:ta:vol2:translate:figs_activepassive]])
+  * **who worshipped and served the creation** - Here "creation" refers to what God created. AT: "They worshipped things that God created." (See: [[:en:ta:vol1:translate:figs_explicitinfo]]) 
+  * **instead of** - "rather than"
 
 ===== Links: =====
 
@@ -56,6 +57,6 @@
   * [[:en:bible:questions:comprehension:rom:01]]
 **[[:en:bible:notes:rom:01:22|<<]] | [[:en:bible:notes:rom:01:26|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~
