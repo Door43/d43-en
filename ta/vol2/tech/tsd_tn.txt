@@ -22,7 +22,7 @@ From any screen in the program, click on the 3-dot menu icon found in the bottom
   * Click on the word "Home."
     * **Note the ULB and the UDB should be translated into the Gateway Language before you begin to translate the translationNotes.** 
   * Add a new project by clicking on the blue circle with a plus sign in the top right corner of the window.
-    * Choose a target language.
+    * Choose a target (GL) language.
     * Choose a project type (Open Bible Stories, Old Testament or New Testament) that you have completed.
     * Choose translationNotes in the next window.
       * Click on the square icon with the + and - sign directly under the prompt or at the top right of the source text window.
@@ -36,7 +36,7 @@ From any screen in the program, click on the 3-dot menu icon found in the bottom
   * Open the project from the Home or "Your Translation Projects" window.
 The project window opens. The 4 sections displayed are (from left to right):
   - The source text
-  - The target language translation
+  - The target GL language translation
   - The target language notes (tan color)
   - The resources for the source text with tabs for Notes, Words, Questions, and UDB.
 
@@ -45,15 +45,15 @@ The project window opens. The 4 sections displayed are (from left to right):
   * Read a chapter, or story, that has been translated into the Gateway Language.
   * Go to the first chunk.
     * In the far right section, click on the 'Notes' tab. 
-  * Click on the plus sign in the center of the Target Language Notes section (tan color) of the chunk.
+  * Click on the plus sign in the center of the Target (GL) Language Notes section (tan color) of the chunk.
   * Look at the first source text note.
-    * Does the target language need a note to understand the corresponding phrase in the Gateway Language ULB?
+    * Does a target language need a note to understand the corresponding phrase in the Gateway Language ULB?
     * Type the exact words from the ULB GL translation on the first line where the words "reference text" are.
   * Type in the translation of the answer.
     * Read the explanation of the source text by clicking on the source text in the resource section.
     * Type in an explanation of the reference text or type in a suggested translation where the words "note text" are.
   * Continue adding notes.
-    * Click on the plus sign on the top bar of the Target Language Notes section.
+    * Click on the plus sign on the top bar of the Target (GL)Language Notes section.
     * Repeat the copying of the reference text and the writing of the explanation of the text.
 
 **Note: In order for the translationNote to be useful in the target Gateway Language, you will need to adapt the translationNote so that it talks about the text of the ULB as it is in the Gateway Language translation.**
