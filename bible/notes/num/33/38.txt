@@ -39,7 +39,7 @@
 ===== translationNotes: =====
 
   * **in the fortieth year after** - AT: "40 years after" (See: [[:en:ta:vol2:translate:translate_ordinal]])
-  * **in the fifth month, on the first day of the month** - This is the fifth month of the Hebrew calendar. The first day is near the middle of July on western calendars. (See: [[Hebrew Months]] and [[:en:ta:vol2:translate:translate_ordinal]])
+  * **in the fifth month, on the first day of the month** - This is the fifth month of the Hebrew calendar. The first day is near the middle of July on western calendars. (See: [[:en:ta:vol2:translate:translate_hebrewmonths]] and [[:en:ta:vol2:translate:translate_ordinal]])
 
 ===== Links: =====
 
@@ -48,6 +48,6 @@
   * [[:en:bible:questions:comprehension:num:33]]
 **[[:en:bible:notes:num:33:35|<<]] | [[:en:bible:notes:num:33:40|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit talink}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~
