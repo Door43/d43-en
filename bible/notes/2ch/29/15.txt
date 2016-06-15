@@ -44,10 +44,10 @@
 ===== translationNotes: =====
 
   * **brook Kidron** - A smallbody of water that flows on the east side of Jerusalem. At times it was used as a trash dump. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **the first day of the first month** - This is the first month of the Hebrew calendar. The first day marks the day when Yahweh brought the people out of Egypt. This is near the middle of March on western calendars. (See: [[Hebrew Months]] and [[:en:ta:vol2:translate:translate_ordinal]])
-  * **the eighth day of the month** - This is near the end of March on western calendars. (See: [[Hebrew Months]] and [[:en:ta:vol2:translate:translate_ordinal]])
+  * **the first day of the first month** - This is the first month of the Hebrew calendar. The first day marks the day when Yahweh brought the people out of Egypt. This is near the middle of March on western calendars. (See: [[:en:ta:vol2:translate:translate_hebrewmonths]] and [[:en:ta:vol2:translate:translate_ordinal]])
+  * **the eighth day of the month** - This is near the end of March on western calendars. (See: [[:en:ta:vol2:translate:translate_hebrewmonths]] and [[:en:ta:vol2:translate:translate_ordinal]])
   * **in eight days** - "in 8 days" (See: [[:en:ta:vol2:translate:translate_numbers]])
-  * **sixteenth day of the first month** - This is near the beginning of April on western calendars. (See: [[Hebrew Months]] and [[:en:ta:vol2:translate:translate_ordinal]])
+  * **sixteenth day of the first month** - This is near the beginning of April on western calendars. (See: [[:en:ta:vol2:translate:translate_hebrewmonths]] and [[:en:ta:vol2:translate:translate_ordinal]])
 
 ===== Links: =====
 
@@ -56,6 +56,6 @@
   * [[:en:bible:questions:comprehension:2ch:29]]
 **[[:en:bible:notes:2ch:29:12|<<]] | [[:en:bible:notes:2ch:29:18|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit talink}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~
