@@ -5,12 +5,12 @@
 //In order to understand this topic, it would be good to read://
   * //[[:en:ta:vol2:translate:figs_partsofspeech]]//
 
-===== Description =====
+==== Description ====
 
 The simplest sentence structure in English includes a  **subject** and an **action** word: 
   * The boy ran.
 
-==== Subject ====
+=== Subject ===
 
 The //**subject**// is who or what the sentence is about. In these examples, the subject is underlined: 
   * __The boy__  is running.
@@ -21,7 +21,7 @@ Subjects are typically noun phrases or pronouns. (See: [[en:ta:vol2:translate:fi
 When the sentence is a command, it usually does not have a subject pronoun. People understand that the subject is "you."
   * Close the door.
 
-==== Predicate ====
+=== Predicate ===
 
 The predicate is the part of a sentence that tells something about the subject. It usually has a verb. (See: [[:en:ta:vol2:translate:figs_verbs]])  In the sentences below, the subjects are "the man" and "he." The predicates are underlined and the verbs are in bold.
 
@@ -29,7 +29,7 @@ The predicate is the part of a sentence that tells something about the subject. 
   * He __**worked** hard__.
   * He __**made** a garden__.
 
-====Compound Sentences====
+=== Compound Sentences ===
 
 A sentence can be made up of more than one sentence. Each of the two lines below has a subject and a predicate and is a full sentence.
   * He planted the yams.
@@ -39,7 +39,7 @@ The compound sentence below has the two sentences above. In English, compound se
 
   * He planted the yams __and__ his wife planted the corn.
 
-==== Clauses ====
+=== Clauses ===
 
 Sentences can also have clauses and other phrases. Clauses are like sentences because they have a subject and a predicate, but they do not normally occur by themselves. Here are some examples of clauses. The subjects are in bold, and the predicates are underlined.
 
@@ -60,7 +60,7 @@ The following phrases can be a whole sentence.
 
 Note: We are using the word **clause** for 'dependent clause' and **sentence** for 'independent clause.' 
 
-====Relative Clauses====
+=== Relative Clauses ===
 
 In some languages, clauses can be used with a noun that is part of another sentence. These are called **relative clauses**.
 
@@ -76,6 +76,6 @@ In the sentence below "his mother, who was very annoyed" is part of the predicat
   * Some languages do not have relative clauses, or they use them in a limited way. (See:  [[:en:ta:vol2:translate:figs_distinguish]])
 
 //Next we suggest you read// 
-  * //[[:en:ta:workbench:translate:wordorder]]//
+  * //[[:en:ta:vol1:translate:figs_order]]//
   * //[[:en:ta:vol2:translate:figs_distinguish]]//
 
