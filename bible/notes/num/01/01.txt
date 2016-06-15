@@ -46,7 +46,7 @@
 
 ===== translationNotes: =====
 
-  * **the first day of the second month** - This is the second month of the Hebrew calendar. The first day is near the middle of April on western calendars. (See: [[Hebrew Months]] and [[:en:ta:vol2:translate:translate_ordinal]])
+  * **the first day of the second month** - This is the second month of the Hebrew calendar. The first day is near the middle of April on western calendars. (See: [[:en:ta:vol2:translate:translate_hebrewmonths]] and [[:en:ta:vol2:translate:translate_ordinal]])
   * **the second year** - (See: [[:en:ta:vol2:translate:translate_ordinal]])
   * **Count them by name** - AT: "Count every single one of them" (See: [[:en:ta:vol2:translate:figs_metonymy]])
   * **twenty years old** - "20 years old" (See: [[:en:ta:vol2:translate:translate_numbers]])
@@ -58,6 +58,6 @@
   * [[:en:bible:questions:comprehension:num:01]]
 **| [[:en:bible:notes:num:01:04|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit talink}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~
