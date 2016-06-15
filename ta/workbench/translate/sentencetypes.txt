@@ -91,7 +91,7 @@ See [[:en:ta:vol2:translate:figs_exclamations]] for other ways that exclamations
 
   * [[:en:ta:vol2:translate:figs_declarative]]  
   * [[:en:ta:vol1:translate:figs_rquestion]] 
-  * [[Imperatives - Other Uses]]
+  * [[:en:ta:vol2:translate:figs_imperative]]
   * [[:en:ta:vol2:translate:figs_exclamations]]
 
 ----
@@ -99,6 +99,6 @@ https://door43.org/en/ta/vol2/translate/figs_sentencetypes
 
 https://git.door43.org/Door43/en-ta-translate-vol2/src/master/content/figs_sentencetypes.md
 
-{{tag>epady chris}}~~DISCUSSIONS~~
+{{tag>epady}}~~DISCUSSIONS~~
 
 ~~NOCACHE~~
