@@ -42,8 +42,8 @@ down to investigate the matter.
 ===== translationNotes: =====
 
   * **did this** - The people investigated who married non-Jewish wives.
-  * **the first day of the tenth month** - This is the tenth month of the Hebrew calendar. The first day is near the middle of December on western calendars. (See: [[Hebrew Months]] and [[:en:ta:vol2:translate:translate_ordinal]])
-  * **first day of the first month** - This is near the middle of March on western calendars. (See: [[Hebrew Months]] and [[:en:ta:vol2:translate:translate_ordinal]])
+  * **the first day of the tenth month** - This is the tenth month of the Hebrew calendar. The first day is near the middle of December on western calendars. (See: [[:en:ta:vol2:translate:translate_hebrewmonths]] and [[:en:ta:vol2:translate:translate_ordinal]])
+  * **first day of the first month** - This is near the middle of March on western calendars. (See: [[:en:ta:vol2:translate:translate_hebrewmonths]] and [[:en:ta:vol2:translate:translate_ordinal]])
  
 ===== Links: =====
 
@@ -58,6 +58,6 @@ down to investigate the matter.
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit talink}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~
