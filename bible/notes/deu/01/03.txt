@@ -44,7 +44,7 @@
 ===== translationNotes: =====
 
   * **It happened in the fortieth year, in the eleventh month, on the first day of the month, that Moses spoke** - AT: "They had lived in the wilderness for 40 years, 11 months, and 1 day, when Moses spoke" (See: [[:en:ta:vol2:translate:translate_ordinal]])
-  * **in the eleventh month, on the first day of the month** - This is the eleventh month of the Hebrew calendar. The first day is near the middle of January on western calendars. (See: [[Hebrew Months]] and [[:en:ta:vol2:translate:translate_ordinal]])
+  * **in the eleventh month, on the first day of the month** - This is the eleventh month of the Hebrew calendar. The first day is near the middle of January on western calendars. (See: [[:en:ta:vol2:translate:translate_hebrewmonths]] and [[:en:ta:vol2:translate:translate_ordinal]])
   * **Sihon...Og** - These are names of kings. (See: [[:en:ta:vol1:translate:translate_names]])
   * **Heshbon...Ashtaroth at Edrei** - These are names of cities. (See: [[:en:ta:vol1:translate:translate_names]])
 
@@ -61,6 +61,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit talink p2fix}}
+{{tag>publish p2edit p2fix}}
 
 ~~NOCACHE~~
