@@ -44,12 +44,12 @@
 
 ===== translationNotes: =====
 
-  * **tenth month** - This is the tenth month of the Hebrew calendar. (See: [[Hebrew Months]] and [[:en:ta:vol2:translate:translate_ordinal]])
+  * **tenth month** - This is the tenth month of the Hebrew calendar. (See: [[:en:ta:vol2:translate:translate_hebrewmonths]] and [[:en:ta:vol2:translate:translate_ordinal]])
   * **Maharai...Zerah...Heldai...Othniel** - These are the names of men. (See: [[:en:ta:vol1:translate:translate_names]])
   * **Netophah...Pirathon** - These are names of places. It is during the last part December and the first part January on western calendars. 
   * **24,000 men** - "twenty-four thousand men." (See: [[:en:ta:vol2:translate:translate_numbers]])
-  * **eleventh month** - This is the eleventh month of the Hebrew calendar. It is during the last part of January and the first part of February on western calendars. (See: [[Hebrew Months]] and [[:en:ta:vol2:translate:translate_ordinal]])
-  * **twelfth month** - This is the twelfth and last month of the Hebrew calendar. It is during the last part of February and the first part of March on western calendars. (See: [[Hebrew Months]] and [[:en:ta:vol2:translate:translate_ordinal]])
+  * **eleventh month** - This is the eleventh month of the Hebrew calendar. It is during the last part of January and the first part of February on western calendars. (See: [[:en:ta:vol2:translate:translate_hebrewmonths]] and [[:en:ta:vol2:translate:translate_ordinal]])
+  * **twelfth month** - This is the twelfth and last month of the Hebrew calendar. It is during the last part of February and the first part of March on western calendars. (See: [[:en:ta:vol2:translate:translate_hebrewmonths]] and [[:en:ta:vol2:translate:translate_ordinal]])
 
 ===== Links: =====
 
@@ -64,6 +64,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit talink}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~
