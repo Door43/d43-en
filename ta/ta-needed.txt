@@ -4,7 +4,7 @@ The following pages are tagged with the "talink" code and contain a tA link that
 
 **TA Links**
 
-{{door43pages @:en -q="\{\{tag>[^}]*talink[^}]*\}\}" -r -showcount -title -simpleLineBreak}}
+
 
 ==== Unfinished Topics ====
 
