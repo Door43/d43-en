@@ -45,7 +45,7 @@
 
 ===== translationNotes: =====
 
-  * **at the feast, which was in the seventh month** - This is the Festival of Shelters which is on the fifteenth day of the seventh month of the Hebrew calendar. This is near the beginning of October on western calendars. (See: [[Hebrew Months]] and [[:en:ta:vol2:translate:translate_ordinal]] and [[:en:ta:vol1:translate:figs_explicit]])
+  * **at the feast, which was in the seventh month** - This is the Festival of Shelters which is on the fifteenth day of the seventh month of the Hebrew calendar. This is near the beginning of October on western calendars. (See: [[:en:ta:vol2:translate:translate_hebrewmonths]] and [[:en:ta:vol2:translate:translate_ordinal]] and [[:en:ta:vol1:translate:figs_explicit]])
 ===== Links: =====
 
   * [[:en:bible:notes:2ch:00:intro]]
@@ -53,6 +53,6 @@
   * [[:en:bible:questions:comprehension:2ch:05]]
 **[[:en:bible:notes:2ch:05:01|<<]] | [[:en:bible:notes:2ch:05:04|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit talink}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~
