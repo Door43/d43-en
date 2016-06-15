@@ -36,7 +36,7 @@
 
 ===== translationNotes: =====
 
-  * **in the first month** - This is the first month of the Hebrew calendar. It is during the last part of March and the first part April on western calendars. (See: [[Hebrew Months]] and [[:en:ta:vol2:translate:translate_ordinal]])
+  * **in the first month** - This is the first month of the Hebrew calendar. It is during the last part of March and the first part April on western calendars. (See: [[:en:ta:vol2:translate:translate_hebrewmonths]] and [[:en:ta:vol2:translate:translate_ordinal]])
   * **carry away the filthiness** - AT: "remove uncleanliness" or "remove the dirtiness"
 
 ===== Links: =====
@@ -46,6 +46,6 @@
   * [[:en:bible:questions:comprehension:2ch:29]]
 **[[:en:bible:notes:2ch:29:01|<<]] | [[:en:bible:notes:2ch:29:06|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit talink}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~
