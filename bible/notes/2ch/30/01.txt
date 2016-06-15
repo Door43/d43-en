@@ -46,7 +46,7 @@
 ===== translationNotes: =====
 
   * **deciding to celebrate the Passover in the second month** - The Israelites normally celebrated the passover during the first month of the Hebrew calendar. The first month is during the last part of March and the first part April on western calendars.
-  * **second month** - This is the second month of the Hebrew calendar. It is during the last part of April and the first part of May on western calendars. (See: [[Hebrew Months]] and [[:en:ta:vol2:translate:translate_ordinal|Ordinal Numbers]])
+  * **second month** - This is the second month of the Hebrew calendar. It is during the last part of April and the first part of May on western calendars. (See: [[:en:ta:vol2:translate:translate_hebrewmonths]] and [[:en:ta:vol2:translate:translate_ordinal|Ordinal Numbers]])
   * **the priests had not dedicated themselves to Yahweh in sufficient number** - AT: "there were not enough dedicated priests to Yahweh"
 
 ===== Links: =====
@@ -62,6 +62,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit talink}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~
