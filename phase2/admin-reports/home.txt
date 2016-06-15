@@ -1,3 +1,3 @@
 ====== P2 Status Pages ======
 
-<nspages en:phase2:admin-reports:p2status -title -naturalOrder -exclude:home -textPages="1 P2 Status Pages" -nbCol=1> 
+<nspages en:phase2:admin-reports:p2status-book -title -naturalOrder -exclude:home -textPages="1 P2 Status Pages" -nbCol=1> 
