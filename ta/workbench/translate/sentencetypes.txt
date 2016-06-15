@@ -89,16 +89,16 @@ See [[en:ta:workbench:translate:exclamations]] [[workbench]] for other ways that
   - When a sentence in the Bible has a sentence type that your language would not use for the sentence's function, see the pages below for translation strategies.
  
 
-  * [[Statements - Functions]]  
+  * [[:en:ta:vol2:translate:figs_declarative]]  
   * [[:en:ta:vol1:translate:figs_rquestion]] 
   * [[Commands - Functions]]
-  * [[Exclamation]]
+  * [[:en:ta:vol2:translate:figs_exclamations]]
 
 ----
 https://door43.org/en/ta/vol2/translate/figs_sentencetypes
 
 https://git.door43.org/Door43/en-ta-translate-vol2/src/master/content/figs_sentencetypes.md
 
-{{tag>epady}}~~DISCUSSIONS~~
+{{tag>epady chris}}~~DISCUSSIONS~~
 
 ~~NOCACHE~~
