@@ -47,7 +47,7 @@
 ===== translationNotes: =====
 
 
-  * **in the fifth month, on the seventh day of the month** - This is the fifth month of the Hebrew calendar. The seventh day is near the end of July on western calendars. (See: [[Hebrew Months]] and [[:en:ta:vol2:translate:translate_ordinal]])
+  * **in the fifth month, on the seventh day of the month** - This is the fifth month of the Hebrew calendar. The seventh day is near the end of July on western calendars. (See: [[:en:ta:vol2:translate:translate_hebrewmonths]] and [[:en:ta:vol2:translate:translate_ordinal]])
   * **the nineteenth year** - (See: [[:en:ta:vol2:translate:translate_ordinal]])
   * **Nebuzaradan** - This is the name of a man. (See: [[:en:ta:vol1:translate:translate_names]])
   * **who were under** - AT: "that were following the orders of"
@@ -67,6 +67,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit talink}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~
