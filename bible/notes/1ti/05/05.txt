@@ -27,6 +27,7 @@
 
 ===== translationWords: =====
 
+  * [[:en:obe:kt:confidence]]
   * [[:en:obe:kt:god]]
   * [[:en:obe:other:pray]]
   * [[:en:obe:kt:death]]
@@ -38,10 +39,10 @@
   * **But a real widow is left all alone** - "But one who is truly a widow has no family"
   * **She always remains with requests and prayers** - "She continues to make requests and prayers"
   * **requests and prayers** - These two words mean basically the same thing. Paul uses them together to emphasize how much these widows pray. (See: [[:en:ta:vol2:translate:figs_doublet]])
-  * **both night and day** - AT: "all the time" (See: [[:en:ta:vol2:translate:figs_merism]])
+  * **both night and day** - The words "night" and "day" are used together to mean "at all times." AT: "all the time" (See: [[:en:ta:vol2:translate:figs_merism]])
   * **However** - "But"
-  * **dead** - Paul speaks of people unresponsive to God as if they were dead. AT: "like a dead person, she does not respond to God" (See [[:en:ta:vol1:translate:figs_metaphor]])
-  * **alive** - This refers to physical life.
+  * **is dead** - Paul speaks about people who do not seek to please God as if they were dead. AT: "is like a dead person, she does not respond to God" (See [[:en:ta:vol1:translate:figs_metaphor]])
+  * **is still alive** - This refers to physical life.
 
 ===== Links: =====
 
@@ -50,4 +51,4 @@
   * [[:en:bible:questions:comprehension:1ti:05]]
 **[[:en:bible:notes:1ti:05:03|<<]] | [[:en:bible:notes:1ti:05:07|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
