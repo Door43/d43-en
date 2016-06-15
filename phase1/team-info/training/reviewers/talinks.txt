@@ -146,12 +146,11 @@ This is for when someone says "the X" when referring to Xs in general.
 (See: [[:en:ta:vol2:translate:figs_genericnoun]])
 </code>
 
-[[:en:ta:workbench:translate:hebrewmonths]] Workbench page \\
+[[:en:ta:vol2:translate:translate_hebrewmonths]]  \\
 This is for when the text refers to a particular month of the year, such as "the first month" or "the month of Abib." \\ 
-[[There will be a Volume 2 page for this. Until then, use the fake link below and add "talink" to the tags at the bottom of the page.]]
 
 <code>
-(See: [[Hebrew Months]])
+(See: [[en:ta:vol2:translate:translate_hebrewmonths]])
 </code>
 
 [[:en:ta:vol2:translate:figs_hendiadys]]
