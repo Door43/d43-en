@@ -35,7 +35,7 @@
 
 ===== translationNotes: =====
 
-  * **In the seventh month on the twenty-first day of the month** - This is the seventh month of the Hebrew calendar. The twenty-first day is near the middle of October on western calendars. (See: [[hebrewmonths]] and [[:en:ta:vol2:translate:translate_ordinal]]).
+  * **In the seventh month on the twenty-first day of the month** - This is the seventh month of the Hebrew calendar. The twenty-first day is near the middle of October on western calendars. (See: [[:en:ta:vol2:translate:translate_hebrewmonths]] and [[:en:ta:vol2:translate:translate_ordinal]]).
   * **came by the hand of Haggai** - (See: [[:en:ta:vol2:translate:figs_synecdoche]]).
   * **Haggai...Zerubbabel...Shealtiel...Jehozadak** - (See: [[:en:ta:vol1:translate:translate_names]]).
 ===== Links: =====
@@ -45,6 +45,6 @@
   * [[:en:bible:questions:comprehension:hag:02]]
 **[[:en:bible:notes:hag:01:14|<<]] | [[:en:bible:notes:hag:02:03|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit talink p2fix}}
+~~DISCUSSION~~{{tag>publish p2edit p2fix}}
 
 ~~NOCACHE~~
