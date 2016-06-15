@@ -43,7 +43,7 @@
 
 
   * **So the wall was finished** - This passive clause can be translated as an active clause. AT: "We finished the wall." (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **the twenty-fifth day of the month of Elul** - "Elul" is the sixth month of the Hebrew calendar. The twenty-fifth day is near the middle of September on western calendars. (See: [[Hebrew Months]] and [[:en:ta:vol2:translate:translate_ordinal]] and [[:en:ta:vol1:translate:translate_names]])
+  * **the twenty-fifth day of the month of Elul** - "Elul" is the sixth month of the Hebrew calendar. The twenty-fifth day is near the middle of September on western calendars. (See: [[:en:ta:vol2:translate:translate_hebrewmonths]] and [[:en:ta:vol2:translate:translate_ordinal]] and [[:en:ta:vol1:translate:translate_names]])
   * **fifty-two days** - "52 days" (See: [[:en:ta:vol2:translate:translate_numbers]])
   * **they fell greatly in their own esteem** - "they thought much less of themselves" or "they lost confidence"
 
@@ -55,6 +55,6 @@
   * [[:en:bible:questions:comprehension:neh:06]]
 **[[:en:bible:notes:neh:06:12|<<]] | [[:en:bible:notes:neh:06:17|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit talink p2fix}}
+~~DISCUSSION~~{{tag>publish p2edit p2fix}}
 
 ~~NOCACHE~~
