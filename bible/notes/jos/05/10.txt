@@ -39,7 +39,7 @@
 ===== translationNotes: =====
 
 
-  * **the fourteenth day of the month** - This is near the end of March on western calendars. AT: "the fourteenth day of the first month" (See: [[Hebrew Months]] and [[:en:ta:vol2:translate:translate_ordinal]] and [[:en:ta:vol1:translate:figs_explicit]])
+  * **the fourteenth day of the month** - This is near the end of March on western calendars. AT: "the fourteenth day of the first month" (See: [[:en:ta:vol2:translate:translate_hebrewmonths]] and [[:en:ta:vol2:translate:translate_ordinal]] and [[:en:ta:vol1:translate:figs_explicit]])
  
  
  
@@ -56,6 +56,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit passover talink}}
+{{tag>publish p2edit passover}}
 
 ~~NOCACHE~~
