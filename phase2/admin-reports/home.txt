@@ -1,8 +1,8 @@
 ====== P2 Status Pages ======
 
   * [[:en:phase2:admin-reports:p2status]]
-  * [[:en:phase2:admin-reports:p2status-book:p2status-nt]]
-  * [[:en:phase2:admin-reports:p2status-book:p2status-ot]]
+  * [[:en:phase2:admin-reports:p2status-nt]]
+  * [[:en:phase2:admin-reports:p2status-ot]]
 
 
 <nspages en:phase2:admin-reports:p2status-book -title -naturalOrder -textPages="Book status pages" -exclude:home -nbCol=1> 
