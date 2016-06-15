@@ -2,6 +2,9 @@
 
 The following pages are tagged with the "talink" code and contain a tA link that may require a creation of a module:
 
+**TA Links**
+
+door43pages @:en -q="\{\{tag>[^}]*talink[^}]*\}\}" -r -showcount -title -simpleLineBreak
 
 ==== Unfinished Topics ====
 
