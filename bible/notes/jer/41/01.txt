@@ -51,7 +51,7 @@
 
 
   * **it happened that** - This phrase is used here to mark the beginning of a new part of the story. If your language has a way for doing this, you could consider using it here.
-  * **in the seventh month** - This is the seventh month of the Hebrew calendar. It is during the last part of September and the first part of October on western calendars. (See: [[Hebrew months]] and [[:en:ta:vol2:translate:translate_ordinal]])
+  * **in the seventh month** - This is the seventh month of the Hebrew calendar. It is during the last part of September and the first part of October on western calendars. (See: [[:en:ta:vol2:translate:translate_hebrewmonths]] and [[:en:ta:vol2:translate:translate_ordinal]])
   * **Ishmael...Nethaniah...Elishama...Gedaliah...Ahikam** - These are the names of men. (See: [[:en:ta:vol1:translate:translate_names]])
  
 ===== Links: =====
@@ -67,6 +67,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit talink}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~
