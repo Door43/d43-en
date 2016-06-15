@@ -44,17 +44,11 @@
   - [[en:ta:vol2:translate:figs_informremind]] 
   - [[en:ta:vol2:translate:figs_doublenegatives]]
   - [[en:ta:vol2:translate:figs_ellipsis]]
-  - [[en:ta:vol2:translate:figs_genericnoun]]
   - [[en:ta:vol2:translate:figs_gendernotations]]
   - [[en:ta:vol2:translate:figs_go]]
   - [[en:ta:vol2:translate:figs_nominaladj]]
   - [[en:ta:vol2:translate:figs_partsofspeech]]
   - [[en:ta:vol2:translate:figs_possession]]
-  - [[en:ta:vol2:translate:writing_quotations]]
-  - [[en:ta:vol2:translate:figs_quotations]]
-  - [[en:ta:vol2:translate:figs_quotemarks]]
-  - [[en:ta:vol2:translate:figs_quotesinquotes]]
-  - [[en:ta:vol2:translate:figs_sentences]]
   - [[en:ta:vol2:translate:figs_verbs]]
 
 == Pronouns ==
@@ -65,6 +59,19 @@
   - [[en:ta:vol2:translate:figs_inclusive]] 
   - [[en:ta:vol2:translate:figs_pronouns]] 
   - [[en:ta:vol2:translate:figs_rpronouns]]
+
+== Quotes ==
+  - [[en:ta:vol2:translate:writing_quotations]]
+  - [[en:ta:vol2:translate:figs_quotations]]
+  - [[en:ta:vol2:translate:figs_quotemarks]]
+  - [[en:ta:vol2:translate:figs_quotesinquotes]]
+
+== Sentences ==
+
+  - [[en:ta:vol2:translate:figs_sentences]]
+  - [[en:ta:vol2:translate:figs_genericnoun]]
+  - [[en:ta:vol2:translate:figs_sentencetypes]]
+  - [[en:ta:vol2:translate:figs_exclamations]]
 
 == Translation Issues ==
   - [[en:ta:vol2:translate:translate_textvariants]]
