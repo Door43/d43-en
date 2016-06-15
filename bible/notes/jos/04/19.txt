@@ -45,7 +45,7 @@
 ===== translationNotes: =====
 
 
-  * **on the tenth day of the first month** - This is the first month of the Hebrew calendar. The tenth day is near the end of March on western calendars. (See: [[Hebrew Months]] and [[:en:ta:vol2:translate:translate_ordinal]])
+  * **on the tenth day of the first month** - This is the first month of the Hebrew calendar. The tenth day is near the end of March on western calendars. (See: [[:en:ta:vol2:translate:translate_hebrewmonths]] and [[:en:ta:vol2:translate:translate_ordinal]])
  
  
 ===== Links: =====
@@ -61,6 +61,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit talink}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~
