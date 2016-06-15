@@ -32,8 +32,8 @@
 ===== translationNotes: =====
 
   * **twilight** - AT: "early in the evening"
-  * **the fourteenth day in the first month** - This is the first month of the Hebrew calendar. The fourteenth day is near the beginning of April on western calendars. (See: [[Hebrew Months]] and [[:en:ta:vol2:translate:translate_ordinal|Ordinal Numbers]])
-  * **the twenty-first day of the month** - This is near the middle of April on western calendars. AT: "the twenty-first day of the first month." (See: [[Hebrew Months]] and [[:en:ta:vol2:translate:translate_ordinal|Ordinal Numbers]] and [[:en:ta:vol2:translate:figs_ellipsis]])
+  * **the fourteenth day in the first month** - This is the first month of the Hebrew calendar. The fourteenth day is near the beginning of April on western calendars. (See: [[:en:ta:vol2:translate:translate_hebrewmonths]] and [[:en:ta:vol2:translate:translate_ordinal|Ordinal Numbers]])
+  * **the twenty-first day of the month** - This is near the middle of April on western calendars. AT: "the twenty-first day of the first month." (See: [[:en:ta:vol2:translate:translate_hebrewmonths]] and [[:en:ta:vol2:translate:translate_ordinal|Ordinal Numbers]] and [[:en:ta:vol2:translate:figs_ellipsis]])
 
 
 ===== Links: =====
@@ -43,6 +43,6 @@
   * [[:en:bible:questions:comprehension:exo:12]]
 **[[:en:bible:notes:exo:12:15|<<]] | [[:en:bible:notes:exo:12:19|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit talink}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~
