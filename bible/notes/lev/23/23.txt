@@ -48,7 +48,7 @@
 ===== translationNotes: =====
 
 
-  * **the seventh month, the first day of that month** - This is the seventh month of the Hebrew calendar. The first day is near the middle of September on western calendars. (See: [[Hebrew Months]] and [[:en:ta:vol2:translate:translate_ordinal]])
+  * **the seventh month, the first day of that month** - This is the seventh month of the Hebrew calendar. The first day is near the middle of September on western calendars. (See: [[:en:ta:vol2:translate:translate_hebrewmonths]] and [[:en:ta:vol2:translate:translate_ordinal]])
   * **a solemn rest** - a period of time that was only for worship and not for work
   * **you must offer a sacrifice made by fire to Yahweh** - AT: "you must burn an offering on the altar to Yahweh" (See: [[:en:ta:vol2:translate:figs_activepassive]])
 
@@ -66,6 +66,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit talink}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~
