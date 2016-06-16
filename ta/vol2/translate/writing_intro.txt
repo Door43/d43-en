@@ -25,27 +25,19 @@ The purpose of a particular text will influence what kinds of discourse features
 
 Languages have organized ways of communicating information in each of these discourse types.
 
-==== Writing Style Issues: ====
+==== Specific discourse issues: ====
 
   - **[[:en:ta:vol2:translate:writing_newevent]]**- Phrases like "One day" or "It came about that" or "This is how it happened" or "Sometime after that" signal to the reader that a new event is about to be told.
   - **[[:en:ta:vol2:translate:writing_participants]]**- Languages have ways of introducing new people and of referring to those people again.
   - **[[:en:ta:vol2:translate:writing_background]]**- An author may use background information for several reasons: 1) to add interest to the story, 2) to provide important historical or cultural information or 3) to tell the reader, or listener, something very important.
-  - **Pronoun reference system**  - Languages have patterns for how frequently to use pronouns. If that pattern is not followed, wrong meaning can result.
+  - **[[:en:ta:vol2:translate:writing_pronouns]]**  - Languages have patterns for how frequently to use pronouns. If that pattern is not followed, wrong meaning can result.
   - **[[:en:ta:vol2:translate:writing_quotations]]**- Languages have different ways of reporting what someone said.
   - **[[:en:ta:vol2:translate:writing_connectingwords]]**- Languages have patterns for how to use connecting words (such as "and," "but," or "then").
   - **Relative prominence or emphasis**  - Languages have different ways of showing which parts of a sentence, paragraph, or story are being emphasized the most.
 
 
-
-
 //Next we recommend you learn about://
-  * //[[en:ta:vol2:translate:writing_background|Background Information]]//
-  * //[[en:ta:vol2:translate:writing_connectingwords|Connecting Words]]//
-  * //[[en:ta:vol2:translate:writing_newevent|Introduction of a New Event]]//
-  * //[[en:ta:vol2:translate:writing_participants|Introduction of New and Old Participants]]//
-  * //[[en:ta:vol1:translate:figs_events|Order of Events]]//
-  * //[[en:ta:vol2:translate:writing_poetry|Poetry]]//
-  * //[[en:ta:vol2:translate:writing_proverbs|Proverbs]]//
-  * //[[en:ta:vol2:translate:writing_quotations|Quotations and Quote Margins]]//
-  * //[[en:ta:vol2:translate:writing_symlanguage|Symbolic Language]]//
+
+  * //[[en:ta:vol1:translate:figs_events]]//
+  * //[[en:ta:vol2:translate:writing_symlanguage]]//
 
