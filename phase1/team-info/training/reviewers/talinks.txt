@@ -6,6 +6,8 @@ See [[:en:phase1:team-info:training:reviewers:chunklinks]] for code to create ve
 
 If there is a tA page the that  you want to link to, but it is not listed on this page, please contact Susan or Chris. Either we forgot to put it here, or there is another page that we expected to be used instead.
 
+The green words are links. You can click on them to read the page.
+
 [[:en:ta:vol2:translate:figs_abstractnouns]]
 
 <code>
@@ -74,11 +76,11 @@ This would be good in book and chapter introductions where some Bibles mark the 
 (See: [[:en:ta:vol2:translate:writing_connectingwords]])
 </code>
 
-[[en:ta:vol1:translate:translate_transliterate]] \\
+[[:en:ta:vol1:translate:translate_transliterate]] \\
 Normally use "How to Translate Names." ONLY use "Copy or Borrow Words" when the English text has Hebrew, Aramaic, Greek, etc. words that need to be transliterated.
 
 <code>
-(See: [[en:ta:vol1:translate:translate_transliterate]])
+(See: [[:en:ta:vol1:translate:translate_transliterate]])
 </code>
 
 [[:en:ta:vol2:translate:figs_distinguish]] \\
@@ -158,11 +160,16 @@ This is for when someone says "the X" when referring to Xs in general.
 (See: [[:en:ta:vol2:translate:figs_genericnoun]])
 </code>
 
+[[:en:ta:vol2:translate:figs_go]] \\ 
+ONLY use this when the use of go or come seems odd -- when it seems as if it would normally be the other word. Please read the page before using it.
+
+(See: [[:en:ta:vol2:translate:figs_go]]
+
 [[:en:ta:vol2:translate:translate_hebrewmonths]]  \\
 This is for when the text refers to a particular month of the year, such as "the first month" or "the month of Abib." \\ 
 
 <code>
-(See: [[en:ta:vol2:translate:translate_hebrewmonths]])
+(See: [[:en:ta:vol2:translate:translate_hebrewmonths]])
 </code>
 
 [[:en:ta:vol2:translate:figs_hendiadys]]
