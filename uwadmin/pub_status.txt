@@ -1,97 +1,98 @@
 ====== unfoldingWord OBS Published Languages ======
 
-===== pt-br =====
-^Language   ^Publish Date   ^Version    ^Checking Level ^
-|  [[:en:uwadmin:pt-br:obs:status|Português]]  |  2015-01-29  |  3.2.3  |  {{https://api.unfoldingword.org/obs/jpg/1/checkinglevels/uW-Level3-32px.png}}  |
-
-===== es =====
-^Language   ^Publish Date   ^Version    ^Checking Level ^
-|  [[:en:uwadmin:es:obs:status|español, castellano]]  |  2015-04-08  |  3.2.1  |  {{https://api.unfoldingword.org/obs/jpg/1/checkinglevels/uW-Level1-32px.png}}  |
-
-===== en =====
-^Language   ^Publish Date   ^Version    ^Checking Level ^
-|  [[:en:uwadmin:en:obs:status|English]]  |  2015-08-26  |  4  |  {{https://api.unfoldingword.org/obs/jpg/1/checkinglevels/uW-Level3-32px.png}}  |
-
-===== am =====
-^Language   ^Publish Date   ^Version    ^Checking Level ^
-|  [[:en:uwadmin:am:obs:status|አማርኛ]]  |  2015-08-26  |  4.1  |  {{https://api.unfoldingword.org/obs/jpg/1/checkinglevels/uW-Level3-32px.png}}  |
-
-===== ru =====
-^Language   ^Publish Date   ^Version    ^Checking Level ^
-|  [[:en:uwadmin:ru:obs:status|русский язык]]  |  2015-08-26  |  4.1  |  {{https://api.unfoldingword.org/obs/jpg/1/checkinglevels/uW-Level1-32px.png}}  |
-
-===== tr =====
-^Language   ^Publish Date   ^Version    ^Checking Level ^
-|  [[:en:uwadmin:tr:obs:status|Türkçe]]  |  2015-08-26  |  4.1  |  {{https://api.unfoldingword.org/obs/jpg/1/checkinglevels/uW-Level1-32px.png}}  |
-
-===== fa =====
-^Language   ^Publish Date   ^Version    ^Checking Level ^
-|  [[:en:uwadmin:fa:obs:status|فارسی]]  |  2015-08-26  |  4.1  |  {{https://api.unfoldingword.org/obs/jpg/1/checkinglevels/uW-Level1-32px.png}}  |
-
-===== sgj =====
-^Language   ^Publish Date   ^Version    ^Checking Level ^
-|  [[:en:uwadmin:sgj:obs:status|Surgujia]]  |  2015-09-24  |  4.2  |  {{https://api.unfoldingword.org/obs/jpg/1/checkinglevels/uW-Level1-32px.png}}  |
-
-===== tpi =====
-^Language   ^Publish Date   ^Version    ^Checking Level ^
-|  [[:en:uwadmin:tpi:obs:status|Tok Pisin]]  |  2015-10-09  |  4.2  |  {{https://api.unfoldingword.org/obs/jpg/1/checkinglevels/uW-Level3-32px.png}}  |
-
-===== or =====
-^Language   ^Publish Date   ^Version    ^Checking Level ^
-|  [[:en:uwadmin:or:obs:status|ଓଡ଼ିଆ]]  |  2015-10-28  |  4.1  |  {{https://api.unfoldingword.org/obs/jpg/1/checkinglevels/uW-Level1-32px.png}}  |
-
-===== bn =====
-^Language   ^Publish Date   ^Version    ^Checking Level ^
-|  [[:en:uwadmin:bn:obs:status|বাংলা]]  |  2015-10-28  |  4.1  |  {{https://api.unfoldingword.org/obs/jpg/1/checkinglevels/uW-Level1-32px.png}}  |
-
-===== mr =====
-^Language   ^Publish Date   ^Version    ^Checking Level ^
-|  [[:en:uwadmin:mr:obs:status|मराठी]]  |  2015-10-28  |  4.1  |  {{https://api.unfoldingword.org/obs/jpg/1/checkinglevels/uW-Level1-32px.png}}  |
-
-===== pa =====
-^Language   ^Publish Date   ^Version    ^Checking Level ^
-|  [[:en:uwadmin:pa:obs:status|ਪੰਜਾਬੀ, پنجابی‎]]  |  2015-11-05  |  4.2  |  {{https://api.unfoldingword.org/obs/jpg/1/checkinglevels/uW-Level1-32px.png}}  |
-
-===== hi =====
-^Language   ^Publish Date   ^Version    ^Checking Level ^
-|  [[:en:uwadmin:hi:obs:status|हिन्दी, हिंदी]]  |  2015-11-10  |  4.1  |  {{https://api.unfoldingword.org/obs/jpg/1/checkinglevels/uW-Level3-32px.png}}  |
-
-===== gu =====
-^Language   ^Publish Date   ^Version    ^Checking Level ^
-|  [[:en:uwadmin:gu:obs:status|ગુજરાતી]]  |  2015-11-10  |  3.2.1  |  {{https://api.unfoldingword.org/obs/jpg/1/checkinglevels/uW-Level1-32px.png}}  |
-
-===== ur =====
-^Language   ^Publish Date   ^Version    ^Checking Level ^
-|  [[:en:uwadmin:ur:obs:status|اردو]]  |  2015-11-25  |  4.1  |  {{https://api.unfoldingword.org/obs/jpg/1/checkinglevels/uW-Level3-32px.png}}  |
-
-===== es-419 =====
-^Language   ^Publish Date   ^Version    ^Checking Level ^
-|  [[:en:uwadmin:es-419:obs:status|Español Latin America]]  |  2015-12-16  |  4.1  |  {{https://api.unfoldingword.org/obs/jpg/1/checkinglevels/uW-Level1-32px.png}}  |
-
-===== ha =====
-^Language   ^Publish Date   ^Version    ^Checking Level ^
-|  [[:en:uwadmin:ha:obs:status|(Hausa) هَوُسَ]]  |  2016-01-12  |  4.1  |  {{https://api.unfoldingword.org/obs/jpg/1/checkinglevels/uW-Level1-32px.png}}  |
-
-===== ne =====
-^Language   ^Publish Date   ^Version    ^Checking Level ^
-|  [[:en:uwadmin:ne:obs:status|नेपाली]]  |  2016-01-22  |  4.1  |  {{https://api.unfoldingword.org/obs/jpg/1/checkinglevels/uW-Level2-32px.png}}  |
-
-===== vi =====
-^Language   ^Publish Date   ^Version    ^Checking Level ^
-|  [[:en:uwadmin:vi:obs:status|Việtnam]]  |  2016-03-24  |  4.1  |  {{https://api.unfoldingword.org/obs/jpg/1/checkinglevels/uW-Level3-32px.png}}  |
-
-===== fr =====
-^Language   ^Publish Date   ^Version    ^Checking Level ^
-|  [[:en:uwadmin:fr:obs:status|français]]  |  2016-05-10  |  4.1  |  {{https://api.unfoldingword.org/obs/jpg/1/checkinglevels/uW-Level3-32px.png}}  |
-
-===== ceb =====
-^Language   ^Publish Date   ^Version    ^Checking Level ^
-|  [[:en:uwadmin:ceb:obs:status|Cebuano]]  |  2016-05-10  |  4.1  |  {{https://api.unfoldingword.org/obs/jpg/1/checkinglevels/uW-Level1-32px.png}}  |
-
-===== lpx =====
-^Language   ^Publish Date   ^Version    ^Checking Level ^
-|  [[:en:uwadmin:lpx:obs:status|Lopit]]  |  2016-05-10  |  4.1  |  {{https://api.unfoldingword.org/obs/jpg/1/checkinglevels/uW-Level2-32px.png}}  |
-
-===== gof =====
-^Language   ^Publish Date   ^Version    ^Checking Level ^
-|  [[:en:uwadmin:gof:obs:status|Gofa]]  |  2016-05-10  |  4.1  |  {{https://api.unfoldingword.org/obs/jpg/1/checkinglevels/uW-Level1-32px.png}}  |
+    ===== pt-br =====
+    ^Language   ^Publish Date   ^Version    ^Checking Level ^
+    |  [[:en:uwadmin:pt-br:obs:status|Português]]  |  2015-01-29  |  3.2.3  |  {{https://api.unfoldingword.org/obs/jpg/1/checkinglevels/uW-Level3-32px.png}}  |
+    
+    ===== es =====
+    ^Language   ^Publish Date   ^Version    ^Checking Level ^
+    |  [[:en:uwadmin:es:obs:status|español, castellano]]  |  2015-04-08  |  3.2.1  |  {{https://api.unfoldingword.org/obs/jpg/1/checkinglevels/uW-Level1-32px.png}}  |
+    
+    ===== en =====
+    ^Language   ^Publish Date   ^Version    ^Checking Level ^
+    |  [[:en:uwadmin:en:obs:status|English]]  |  2015-08-26  |  4  |  {{https://api.unfoldingword.org/obs/jpg/1/checkinglevels/uW-Level3-32px.png}}  |
+    
+    ===== am =====
+    ^Language   ^Publish Date   ^Version    ^Checking Level ^
+    |  [[:en:uwadmin:am:obs:status|አማርኛ]]  |  2015-08-26  |  4.1  |  {{https://api.unfoldingword.org/obs/jpg/1/checkinglevels/uW-Level3-32px.png}}  |
+    
+    ===== ru =====
+    ^Language   ^Publish Date   ^Version    ^Checking Level ^
+    |  [[:en:uwadmin:ru:obs:status|русский язык]]  |  2015-08-26  |  4.1  |  {{https://api.unfoldingword.org/obs/jpg/1/checkinglevels/uW-Level1-32px.png}}  |
+    
+    ===== tr =====
+    ^Language   ^Publish Date   ^Version    ^Checking Level ^
+    |  [[:en:uwadmin:tr:obs:status|Türkçe]]  |  2015-08-26  |  4.1  |  {{https://api.unfoldingword.org/obs/jpg/1/checkinglevels/uW-Level1-32px.png}}  |
+    
+    ===== sgj =====
+    ^Language   ^Publish Date   ^Version    ^Checking Level ^
+    |  [[:en:uwadmin:sgj:obs:status|Surgujia]]  |  2015-09-24  |  4.2  |  {{https://api.unfoldingword.org/obs/jpg/1/checkinglevels/uW-Level1-32px.png}}  |
+    
+    ===== tpi =====
+    ^Language   ^Publish Date   ^Version    ^Checking Level ^
+    |  [[:en:uwadmin:tpi:obs:status|Tok Pisin]]  |  2015-10-09  |  4.2  |  {{https://api.unfoldingword.org/obs/jpg/1/checkinglevels/uW-Level3-32px.png}}  |
+    
+    ===== or =====
+    ^Language   ^Publish Date   ^Version    ^Checking Level ^
+    |  [[:en:uwadmin:or:obs:status|ଓଡ଼ିଆ]]  |  2015-10-28  |  4.1  |  {{https://api.unfoldingword.org/obs/jpg/1/checkinglevels/uW-Level1-32px.png}}  |
+    
+    ===== bn =====
+    ^Language   ^Publish Date   ^Version    ^Checking Level ^
+    |  [[:en:uwadmin:bn:obs:status|বাংলা]]  |  2015-10-28  |  4.1  |  {{https://api.unfoldingword.org/obs/jpg/1/checkinglevels/uW-Level1-32px.png}}  |
+    
+    ===== mr =====
+    ^Language   ^Publish Date   ^Version    ^Checking Level ^
+    |  [[:en:uwadmin:mr:obs:status|मराठी]]  |  2015-10-28  |  4.1  |  {{https://api.unfoldingword.org/obs/jpg/1/checkinglevels/uW-Level1-32px.png}}  |
+    
+    ===== pa =====
+    ^Language   ^Publish Date   ^Version    ^Checking Level ^
+    |  [[:en:uwadmin:pa:obs:status|ਪੰਜਾਬੀ, پنجابی‎]]  |  2015-11-05  |  4.2  |  {{https://api.unfoldingword.org/obs/jpg/1/checkinglevels/uW-Level1-32px.png}}  |
+    
+    ===== hi =====
+    ^Language   ^Publish Date   ^Version    ^Checking Level ^
+    |  [[:en:uwadmin:hi:obs:status|हिन्दी, हिंदी]]  |  2015-11-10  |  4.1  |  {{https://api.unfoldingword.org/obs/jpg/1/checkinglevels/uW-Level3-32px.png}}  |
+    
+    ===== gu =====
+    ^Language   ^Publish Date   ^Version    ^Checking Level ^
+    |  [[:en:uwadmin:gu:obs:status|ગુજરાતી]]  |  2015-11-10  |  3.2.1  |  {{https://api.unfoldingword.org/obs/jpg/1/checkinglevels/uW-Level1-32px.png}}  |
+    
+    ===== ur =====
+    ^Language   ^Publish Date   ^Version    ^Checking Level ^
+    |  [[:en:uwadmin:ur:obs:status|اردو]]  |  2015-11-25  |  4.1  |  {{https://api.unfoldingword.org/obs/jpg/1/checkinglevels/uW-Level3-32px.png}}  |
+    
+    ===== es-419 =====
+    ^Language   ^Publish Date   ^Version    ^Checking Level ^
+    |  [[:en:uwadmin:es-419:obs:status|Español Latin America]]  |  2015-12-16  |  4.1  |  {{https://api.unfoldingword.org/obs/jpg/1/checkinglevels/uW-Level1-32px.png}}  |
+    
+    ===== ha =====
+    ^Language   ^Publish Date   ^Version    ^Checking Level ^
+    |  [[:en:uwadmin:ha:obs:status|(Hausa) هَوُسَ]]  |  2016-01-12  |  4.1  |  {{https://api.unfoldingword.org/obs/jpg/1/checkinglevels/uW-Level1-32px.png}}  |
+    
+    ===== ne =====
+    ^Language   ^Publish Date   ^Version    ^Checking Level ^
+    |  [[:en:uwadmin:ne:obs:status|नेपाली]]  |  2016-01-22  |  4.1  |  {{https://api.unfoldingword.org/obs/jpg/1/checkinglevels/uW-Level2-32px.png}}  |
+    
+    ===== vi =====
+    ^Language   ^Publish Date   ^Version    ^Checking Level ^
+    |  [[:en:uwadmin:vi:obs:status|Việtnam]]  |  2016-03-24  |  4.1  |  {{https://api.unfoldingword.org/obs/jpg/1/checkinglevels/uW-Level3-32px.png}}  |
+    
+    ===== fr =====
+    ^Language   ^Publish Date   ^Version    ^Checking Level ^
+    |  [[:en:uwadmin:fr:obs:status|français]]  |  2016-05-10  |  4.1  |  {{https://api.unfoldingword.org/obs/jpg/1/checkinglevels/uW-Level3-32px.png}}  |
+    
+    ===== ceb =====
+    ^Language   ^Publish Date   ^Version    ^Checking Level ^
+    |  [[:en:uwadmin:ceb:obs:status|Cebuano]]  |  2016-05-10  |  4.1  |  {{https://api.unfoldingword.org/obs/jpg/1/checkinglevels/uW-Level1-32px.png}}  |
+    
+    ===== lpx =====
+    ^Language   ^Publish Date   ^Version    ^Checking Level ^
+    |  [[:en:uwadmin:lpx:obs:status|Lopit]]  |  2016-05-10  |  4.1  |  {{https://api.unfoldingword.org/obs/jpg/1/checkinglevels/uW-Level2-32px.png}}  |
+    
+    ===== gof =====
+    ^Language   ^Publish Date   ^Version    ^Checking Level ^
+    |  [[:en:uwadmin:gof:obs:status|Gofa]]  |  2016-05-10  |  4.1  |  {{https://api.unfoldingword.org/obs/jpg/1/checkinglevels/uW-Level1-32px.png}}  |
+    
+    ===== fa =====
+    ^Language   ^Publish Date   ^Version    ^Checking Level ^
+    |  [[:en:uwadmin:fa:obs:status|فارسی]]  |  2016-06-15  |  4.1  |  {{https://api.unfoldingword.org/obs/jpg/1/checkinglevels/uW-Level2-32px.png}}  |
+    
