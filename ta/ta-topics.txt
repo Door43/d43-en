@@ -1,7 +1,6 @@
 ====== translationAcademy Topics ======
 
-==== NOTE: THE LINK INFORMATION FOR THE tA PAGES HAS CHANGED AS OF 2015.08.05 AT 12:00. ====
-
+=== Use the topics on [[en:phase1:team-info:training:reviewers:talinks]] for the translationNotes ===
 
 <nspages en:ta:vol1:translate -title -exclude:home -nbCol=2 -textPages="List of tA Topics (Volume 1):">
 
