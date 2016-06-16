@@ -196,6 +196,13 @@ This is for when the text refers to a particular month of the year, such as "the
 (See: [[:en:ta:vol1:translate:figs_idiom]])
 </code>
 
+[[en:ta:vol2:translate:figs_imperative]]\\
+This is for imperatives that are used as conditions or to make things happen ("performatives," but we are not using that technical term).
+
+<code>
+(See: [[en:ta:vol2:translate:figs_imperative]])
+</code>
+
 [[:en:ta:vol2:translate:figs_inclusive]] \\
 This is for first person plural when it includes the addressee.
 
@@ -382,6 +389,13 @@ Use occasionally. (Do not link to the related page  called "Son of God.")
 
 <code>
 (See: [[:en:ta:vol2:translate:guidelines_sonofgodprinciples]])
+</code>
+
+[[en:ta:vol2:translate:figs_declarative]] \\
+This is for statements that are used as commands, requests, or to make something happen (Performatives, but we're not using that technical term
+
+<code>
+(See: [[en:ta:vol2:translate:figs_declarative]])
 </code>
 
 [[:en:ta:vol2:translate:translate_symaction]]
