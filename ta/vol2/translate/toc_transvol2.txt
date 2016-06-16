@@ -71,9 +71,10 @@
 
   - [[en:ta:vol2:translate:figs_sentences]]
   - [[en:ta:vol2:translate:figs_sentencetypes]]
-  - [[en:ta:vol2:translate:figs_imperative]]
-  - [[en:ta:vol2:translate:figs_exclamations]]
-  - [[en:ta:vol2:translate:figs_declarative]]
+    - [[en:ta:vol2:translate:figs_declarative]]
+    - [[en:ta:vol2:translate:figs_imperative]]
+    - [[en:ta:vol2:translate:figs_exclamations]]
+
 
 
 == Translation Issues ==
