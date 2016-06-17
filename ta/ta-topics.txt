@@ -8,7 +8,7 @@
 
 <nspages en:ta:vol2:translate -title -exclude:home -nbCol=2 -textPages="List of tA Topics (Volume 2):">
 
+<nspages en:ta:vol3:gateway -title -exclude:home -nbCol=2 -textPages="List of GL tA Topics (Volume 3):">
 
-{{tag>notes301 kt201}}
 
 ~~NOCACHE~~
