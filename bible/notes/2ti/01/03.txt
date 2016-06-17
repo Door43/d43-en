@@ -35,6 +35,7 @@
 
   * [[:en:obe:kt:god]]
   * [[:en:obe:other:serve]]
+  * [[:en:obe:other:father]]
   * [[:en:obe:other:conscience]]
   * [[:en:obe:other:pray]]
   * [[:en:obe:kt:joy]]
@@ -42,17 +43,17 @@
 
 ===== translationNotes: =====
 
-  * **I serve from my forefathers** - Paul probably means that he served God in the tradition that he received from his ancestors. "...for whom I perform my duties as a Christian just as my ancestors who came before me did"
-  * **with a clean conscience** - Paul speaks of his conscience as if it could be physically clean. He is not bothered by thoughts of wrongdoing because he has always tried to do what was right.  (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **whom I serve from my forefathers** - "whom I serve as my ancestors did"
+  * **with a clean conscience** - This is an idiom that means a person does not feel guilty because he knows that he has done nothing wrong. AT: "knowing I have tried my hardest to do what is right" (See: [[:en:ta:vol1:translate:figs_idiom]]) 
   * **as I constantly remember you** - "when I remember you continually" or 'while I remember you all the time"
-  * **Night and** - Possible meanings are 1) "My prayers night and day" or 2) "I constantly remember you night and day or 3) "Longing to see you night and day."
+  * **Night and day** - Here "Night and day" are used together to mean "always." AT: "Always" or "Constantly" (See: [[:en:ta:vol2:translate:figs_merism]])
   * **I long to see you** - "I want very much to see you"
-  * **I remember your tears** - Paul uses "tears" to mean suffering. AT: "I keep all the things that you have suffered in my mind" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **may be filled with joy** - Paul speaks of Timothy as if he were a container that could be filled. AT: "have much joy" or "be very joyful" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **I have been reminded** - "Because I have been reminded" or "When I have been reminded" or "For I have been reminded"
-  * **your genuine faith** - "your faith that is real" or "your faith that is not pretended." It refers to being honest or true.
-  * **faith...which lived first in your grandmother...lives in you also** - Timothy's grandmother was a devout woman, and Paul is comparing Timothy's faith to his grandmother's faith.
-  * **which lived** - Paul is speaking of their faith as if it were something that was alive and lived in them. (See: [[:en:ta:vol1:translate:figs_metaphor]]) 
+  * **I may be filled with joy** - This can be stated in active form. AT: "I may be full of joy" or "I may have complete joy" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **I remember your tears** - Paul uses "tears" to mean suffering. AT: "I remember all the things that you have suffered" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **I have been reminded of your** - This can be stated in active form. AT: "I also remember your" or "I also recall your" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **your genuine faith** - "your faith that is real" or "your faith that is sincere"
+  * **which lived first in your grandmother Lois and your mother Eunice. And I am convinced that it lives in you also** - Paul is speaking of their faith as if it were something that was alive and lived in them. Paul means they have the same sort of faith. This can be stated as a new sentence. AT: "Lois, your grandmother, and Eunice, your mother, first had genuine faith, and I am confident that you have genuine faith as well" (See: [[:en:ta:vol2:translate:figs_personification]])
+  * **Lois...Eunice** - These are female names. (See: [[:en:ta:vol1:translate:translate_names]])
 ===== Links: =====
 
   * [[:en:bible:notes:2ti:00:intro]]
@@ -60,4 +61,4 @@
   * [[:en:bible:questions:comprehension:2ti:01]]
 **[[:en:bible:notes:2ti:01:01|<<]] | [[:en:bible:notes:2ti:01:06|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit conscience}}
+~~DISCUSSION~~{{tag>publish p2check conscience}}
