@@ -36,34 +36,36 @@
   - [[en:ta:vol2:translate:figs_parallelism]]
   - [[en:ta:vol2:translate:figs_synonparallelism]] 
   - [[en:ta:vol2:translate:figs_personification]]
+  - [[en:ta:vol2:translate:figs_pastforfuture]]
   - [[en:ta:vol2:translate:figs_synecdoche]]
 
 == Grammar ==
   - [[en:ta:vol2:translate:figs_grammar]]
-  - [[en:ta:vol2:translate:figs_abstractnouns]]  
-  - [[en:ta:vol2:translate:figs_activepassive]]
+  - [[en:ta:vol2:translate:figs_partsofspeech]]
+  - [[en:ta:vol2:translate:figs_genericnoun]]
+  - [[en:ta:vol2:translate:figs_abstractnouns]]
+  - [[en:ta:vol2:translate:figs_nominaladj]]
+  - [[en:ta:vol2:translate:figs_gendernotations]]
+  - [[en:ta:vol2:translate:figs_possession]]
   - [[en:ta:vol2:translate:figs_distinguish]]
   - [[en:ta:vol2:translate:figs_informremind]] 
+  - [[en:ta:vol2:translate:figs_verbs]]
+  - [[en:ta:vol2:translate:figs_activepassive]]
+  - [[en:ta:vol2:translate:figs_go]]
   - [[en:ta:vol2:translate:figs_doublenegatives]]
   - [[en:ta:vol2:translate:figs_ellipsis]]
-  - [[en:ta:vol2:translate:figs_genericnoun]]
-  - [[en:ta:vol2:translate:figs_gendernotations]]
-  - [[en:ta:vol2:translate:figs_go]]
-  - [[en:ta:vol2:translate:figs_nominaladj]]
-  - [[en:ta:vol2:translate:figs_partsofspeech]]
-  - [[en:ta:vol2:translate:figs_possession]]
-  - [[en:ta:vol2:translate:figs_pastforfuture]]
-  - [[en:ta:vol2:translate:figs_verbs]]
+
+
 
 == Pronouns ==
-  - [[en:ta:vol2:translate:writing_pronouns]]
+  - [[en:ta:vol2:translate:figs_pronouns]] 
   - [[en:ta:vol2:translate:figs_123person]]
-  - [[en:ta:vol2:translate:figs_youformal]]
-  - [[en:ta:vol2:translate:figs_youcrowd]]
   - [[en:ta:vol2:translate:figs_exclusive]]
   - [[en:ta:vol2:translate:figs_inclusive]] 
-  - [[en:ta:vol2:translate:figs_pronouns]] 
+  - [[en:ta:vol2:translate:figs_youformal]]
+  - [[en:ta:vol2:translate:figs_youcrowd]]
   - [[en:ta:vol2:translate:figs_rpronouns]]
+  - [[en:ta:vol2:translate:writing_pronouns]]
 
 == Quotes ==
   - [[en:ta:vol2:translate:writing_quotations]]
@@ -87,14 +89,14 @@
 
 == Unknowns ==
   - [[en:ta:vol2:translate:translate_bdistance]]
-  - [[en:ta:vol2:translate:translate_bmoney]]
   - [[en:ta:vol2:translate:translate_bvolume]]
   - [[en:ta:vol2:translate:translate_bweight]]
+  - [[en:ta:vol2:translate:translate_bmoney]]
   - [[en:ta:vol2:translate:translate_hebrewmonths]]
   - [[en:ta:vol2:translate:translate_numbers]]
+  - [[en:ta:vol2:translate:translate_ordinal]]
   - [[en:ta:vol2:translate:translate_fraction]]
   - [[en:ta:vol2:translate:translate_decimal]]
-  - [[en:ta:vol2:translate:translate_ordinal]]
   - [[en:ta:vol2:translate:translate_symaction]]
 
 == Writing Styles ==
@@ -112,13 +114,12 @@
 == Biblical Imagery ==
   - [[en:ta:vol2:translate:bita]]
   - [[en:ta:vol2:translate:bita_animals]]
-  - [[en:ta:vol2:translate:bita_farming]]
   - [[en:ta:vol2:translate:bita_humanqualities]]
-  - [[en:ta:vol2:translate:bita_part1]]
   - [[en:ta:vol2:translate:bita_part2]]
+  - [[en:ta:vol2:translate:bita_part1]]
   - [[en:ta:vol2:translate:bita_part3]]
+  - [[en:ta:vol2:translate:bita_farming]]
   - [[en:ta:vol2:translate:bita_humanbehavior]]
   - [[en:ta:vol2:translate:bita_manmade]]
   - [[en:ta:vol2:translate:bita_phenom]]
   - [[en:ta:vol2:translate:bita_plants]]
-
