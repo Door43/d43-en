@@ -43,7 +43,9 @@ This page does not have any translation strategies.
 This page does not have any translation strategies applied.
 
 ----
+[[en:ta:vol1:translate:figs_extrainfo]] wiki
 
-This page [[en:ta:vol1:translate:figs_explicit]] has this page as a Recommend.
+[[https://git.door43.org/Door43/en-ta-translate-vol1/src/master/content/figs_extrainfo.md]] gogs
 
-{{tag>epady introjy introcs chris}} ~~DISCUSSIONS~~
+
+{{tag>epady introjy introcs}} ~~DISCUSSIONS~~
