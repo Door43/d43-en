@@ -7,10 +7,6 @@
   * //[[en:ta:vol3:gateway:gl_ulb|Translating the ULB]]//
 
 
-=== Does the entire Bible need to be translated before I begin translating the translationNotes? ===
-
-It is not necessary to have the **entire** ULB and UDB Bible translated before translating the translationNotes, translationWords or the translationQuestions. The translation of the resources for a book could be started after the translation of that book is complete.
-
 === When I am translating the notes, do I need the ULB and UDB available and translated?  ===
 
 When you translate the translationNotes for the Bible, you must also have both the ULB and the UDB in front of you, already translated into the target Gateway Language. You must have the ULB available so that you can copy the part of the ULB text that the translationNote is talking about directly into the translationNote. You must also have the UDB text already translated and available, because the translationNotes often copy part of the UDB text in order to show another way to translate the same part of the verse. Other times, the translationNote does not quote the UDB but it does refer to it. In that case, you need to be able to see what the UDB says in order to translate the translationNote in the best way.
