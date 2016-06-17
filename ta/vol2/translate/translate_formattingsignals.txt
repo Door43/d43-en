@@ -55,11 +55,11 @@ The lines in poetry are indented.
 
 Sometimes a whole paragraphs is indented to show that it is quoted. Verse 6 below is a quote from the Old Testament, and it is indented to the right in the ULB.
 
-><sup>4</sup>Herod brought together all the chief priests and scribes of the people, and he asked them, "Where is the Christ to be born?" <sup>5</sup> They said to him, "In Bethlehem of Judea, for this is what was written by the prophet, \\ 
-><sup>6</sup>'And you, Bethlehem, in the land of Judah,
->are not the least among the leaders of Judah,
->for from you will come a ruler
->who will shepherd my people Israel.'"\\ 
+><sup>4</sup>Herod brought together all the chief priests and scribes of the people, and he asked them, "Where is the Christ to be born?" <sup>5</sup> They said to him, "In Bethlehem of Judea, for this is what was written by the prophet,\\ 
+>><sup>6</sup>'And you, Bethlehem, in the land of Judah,
+>>are not the least among the leaders of Judah,
+>>for from you will come a ruler
+>>who will shepherd my people Israel.'"\\ 
 ><sup>7</sup>Then Herod secretly called the learned men to ask them exactly what time the star had appeared. (Matthew 2:4-7 ULB)
 
 
