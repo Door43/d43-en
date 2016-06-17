@@ -39,7 +39,7 @@ In Matthew 24:4-51 quoted what Jesus was saying. The words in the parentheses be
 
 === Indentation===
  
-[[When text it indented, it means that it starts further to the right than the rest of the text before and after it. This is done for 1) poetic lines, 2) some long quotations, and 3) some lists.]]
+When text is indented, it means that the line of text starts further to the right than the lines of the text above and below it that are not indented. [[This is done for poetry and some lists.]]
 
 The lines in poetry are indented.
 ><sup>1</sup>Blessed is the man who does not walk in the advice of the wicked,
@@ -48,12 +48,9 @@ The lines in poetry are indented.
 ><sup>2</sup>But his delight is in the law of Yahweh,
 >and on his law he meditates day and night. (Psalm 1:1-2 ULB)
 
-<del>In the ULB, the first line of a paragraph is indented to the right.
->When Jesus had come into Peter's house, he saw Peter's mother-in-law lying sick with a fever. Jesus touched her hand, and the fever left her. Then she got up and started serving him.  (Matthew 8:14 ULB)</del>
+Sometimes a whole paragraphs is indented to show that it is quoted. Verse 6 below is a quote from the Old Testament, and it is indented to the right in the ULB. [[Delete this paragraph]]
 
-Sometimes a whole paragraphs is indented to show that it is quoted. Verse 6 below is a quote from the Old Testament, and it is indented to the right in the ULB.
-
-><sup>4</sup>Herod brought together all the chief priests and scribes of the people, and he asked them, "Where is the Christ to be born?" <sup>5</sup> They said to him, "In Bethlehem of Judea, for this is what was written by the prophet, \\ 
+>[[Delete this whole example from Matthew (3 paragraphs)]] <sup>4</sup>Herod brought together all the chief priests and scribes of the people, and he asked them, "Where is the Christ to be born?" <sup>5</sup> They said to him, "In Bethlehem of Judea, for this is what was written by the prophet, \\ 
 ><sup>6</sup>'And you, Bethlehem, in the land of Judah,
 >are not the least among the leaders of Judah,
 >for from you will come a ruler
