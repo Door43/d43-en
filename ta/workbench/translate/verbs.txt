@@ -82,10 +82,12 @@ When we tell about an event, we usually show whether or not we are thinking abou
   * //[[:en:ta:vol2:translate:figs_pastforfuture]]// [[Added link]]
 
 ----
+[[en:ta:vol2:translate:figs_verbs]]
 
+[[https://git.door43.org/Door43/en-ta-translate-vol2/src/master/content/figs_verbs.md]] gogs
 [[https://pad.door43.org/p/ta-figs_verbs|https://pad.door43.org/p/ta-figs_verbs]]
 
-{{tag>epady introjy introcs chris}}~~DISCUSSION~~
+{{tag>epady introjy introcs}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 https://door43.org/en/ta/workbench/translate/verbs?do=revisions
