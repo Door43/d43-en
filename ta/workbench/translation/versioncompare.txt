@@ -124,7 +124,11 @@ Here the ULB expressions "all speech" and "all knowledge" are abstract noun expr
 
 In summary, the ULB will help you translate, because it can help you understand to a great degree what form the original biblical texts have. The UDB can help you translate, because it can help make the ULB text's meaning clear, and also because it can give you various possible ways to make the ideas in the biblical text clear in your own translation. 
 
-{{tag>chris epadn}}
+----
+[[en:ta:vol2:translate:translate_useulbudb]]
+
+https://git.door43.org/Door43/en-ta-translate-vol2/src/master/content/translate_useulbudb.md
+{{tag>epady}}
 
 ~~DISCUSSION~~
  ~~NOCACHE~~ 
