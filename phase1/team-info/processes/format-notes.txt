@@ -100,6 +100,19 @@ If the meaning is given in a way that can be used as a translation suggestion, p
 
   * **fell down at Jesus' knees**  - Possible meanings are 1) "bowed down at Jesus' feet" or 2) "lay down on the ground at Jesus' feet" or 3) "knelt down before Jesus." Peter did not fall accidentally. He did this as a sign of humility and respect for Jesus.
 
+=== Numbers: Cardinals and Ordinals ===
+
+  * **Cardinal numbers** under ten are normally written as text.
+    * zero, one, two, three, four, five, six, seven, eight, nine.
+  * **Cardinal numbers** ten or over are normally written as digits.
+    * 10, 20, 250, 3250.
+  * **Cardinal numbers** five or more digits should have commas inserted at multiples of 1000.
+    * 10,000, 23,000, 500,300, etc.
+
+  * **Ordinal numbers** are always written as text.
+    * First, second, third, forth, fifth, sixth, seventh, etc.
+
+
 === Ellipsis "..." ===
 
   * Ellipses in our notes are written as three periods "...".
