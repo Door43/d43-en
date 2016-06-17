@@ -38,10 +38,10 @@
 
 ===== translationNotes: =====
 
-  * **The life I now live in the flesh I live by faith in the Son of God** - Paul uses the imagery of Christ's crucifixion to describe his life of "faith in the Son of God." 
   * **Son of God** - This is an important title for Jesus. (See: [[:en:ta:vol2:translate:guidelines_sonofgodprinciples]])
-  * **I do not negate** - AT: "I do not set aside" (UDB) or "I do not make of no value" 
-  * **if righteousness existed through the law, then Christ would have died for nothing** - That is, because righteousness did not exist through the law, Christ did not die for nothing.
+  * **I do not negate** - Paul states a negative to emphasize the positive. AT: "I do not set aside" (UDB) or "I show the great value of" (See: [[:en:ta:vol2:translate:figs_litotes]])
+  * **if righteousness existed...then Christ would have died** - Paul is describing a situation that never existed. AT: "but righteousness did not exist...so Christ did not die" (See: [[:en:ta:vol1:translate:figs_hypo]])
+  * **if righteousness existed through the law** - "if a person could be righteous by keeping the law"
   * **would have died for nothing** - AT: "would have accomplished nothing by dying"
 ===== Links: =====
 
@@ -50,6 +50,6 @@
   * [[:en:bible:questions:comprehension:gal:02]]
 **[[:en:bible:notes:gal:02:17|<<]] | [[:en:bible:notes:gal:03:01|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit crucify faith sonofgod}}
+~~DISCUSSION~~{{tag>publish p2check crucify faith sonofgod}}
 
 ~~NOCACHE~~
