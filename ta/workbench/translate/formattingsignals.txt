@@ -2,9 +2,9 @@
 
 //This page answers the question: What do some of the formatting signals in the ULB and UDB show?//
 
-//In order to understand this page, it would be good to read//
+//In order to understand this page, it would be good to read
   * [[:en:ta:vol1:translate:translate_process]]
-  * [[:en:ta:vol2:translate:translate_bibleorg]]
+  * [[:en:ta:vol2:translate:translate_bibleorg]]//
 ==== Description ====
 
 The ULB and UDB use ellipsis marks, long dashes, parentheses, and indentation to show how information in the text is related to what is around it. \\ 
