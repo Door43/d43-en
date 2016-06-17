@@ -20,9 +20,6 @@ Verbs are words that refer to an action or event or that are used in describing 
 
 A verb usually says something about someone or something. All of the example sentences above say something about John. "John" is the **subject** of those sentences. In English the subject usually comes before the verb.
 
-In some languages, the verb may be a little bit different depending on the persons or things associated with it. For example, English speakers sometimes put "s" at the end of the verb when the subject is just one person.
-  * They __eat__ bananas every day. (The subject "they" is more than one person.)
-  * John __eats__ bananas every day. (The subject "John" is one person.)
 Sometimes there is another person or thing associated with the verb. In the examples below, the underlined one is the verb, and the phrase in bold print is the **object**. In English the object usually comes after the verb. 
   * He __ate__ **lunch**.
   * He __sang__ **a song**.
@@ -42,6 +39,13 @@ In some languages, a verb that needs an object must always take one, even if the
   * He  __sings__ **songs** all the time.
   * He __reads__ **words** well.
   * He cannot __see__ **anything**.
+
+==== Subject and Object Marking on Verbs ==== 
+
+In some languages, the verb may be a little bit different depending on the persons or things associated with it. For example, English speakers sometimes put "s" at the end of the verb when the subject is just one person. In other languages marking on the verb may show whether the subject is "I," "you," or "he"; singular or plural; or male or female.
+
+  * They __eat__ bananas every day. (The subject "they" is more than one person.)
+  * John __eats__ bananas every day. (The subject "John" is one person.)
 
 ==== Time and Tense ====
 
@@ -65,10 +69,7 @@ When we tell about an event, we usually show whether or not we are thinking abou
 
 
 
-
-
-
-
 //Next we recommend you learn about://
   * //[[en:ta:vol2:translate:figs_sentences]]//
-
+  * //[[:en:ta:vol2:translate:figs_activepassive]]// [[Added link]]
+  * //[[:en:ta:vol2:translate:figs_pastforfuture]]// [[Added link]]
