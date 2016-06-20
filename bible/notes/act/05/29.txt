@@ -37,9 +37,11 @@
   * [[:en:obe:kt:apostle]]
   * [[:en:obe:other:obey]]
   * [[:en:obe:kt:god]]
+  * [[:en:obe:other:father]]
   * [[:en:obe:kt:raise]]
   * [[:en:obe:kt:jesus]]
   * [[:en:obe:kt:exalt]]
+  * [[:en:obe:other:hand]]
   * [[:en:obe:other:prince]]
   * [[:en:obe:kt:savior]]
   * [[:en:obe:kt:repent]]
@@ -51,8 +53,10 @@
  
 ===== translationNotes: =====
 
-  * **give repentance to Israel, and forgiveness of sins** - AT: "give Israel the opportunity to turn from their sin and receive forgiveness for their sins"
-  * **so is the Holy Spirit** - The Holy Spirit is spoken of as a person who can testify to validate the miraculous work of Jesus.
+  * **Peter and the apostles answered** - Peter spoke on behalf of all of the apostles when he said the following words.
+  * **by hanging him on a tree** - Here Peter uses the word "tree" to refer to a cross, which was made out of wood. AT: "by hanging him on a cross" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **give repentance to Israel, and forgiveness of sins** - The word "Israel" is metonymy for the Jewish people. The words "repentance" and "forgiveness" can be translated as verbs. AT: "give the people of Israel an opportunity to repent and have God forgive their sins" (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol2:translate:figs_abstractnouns]])
+  * **We are witnesses of these things** - Here the word "We" refers to Peter and the other apostles, and not to the audience. (See: [[:en:ta:vol2:translate:figs_exclusive]])
 
 ===== Links: =====
 
@@ -61,6 +65,6 @@
   * [[:en:bible:questions:comprehension:act:05]]
 **[[:en:bible:notes:act:05:26|<<]] | [[:en:bible:notes:act:05:33|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit obey exalt jesus prince savior}}
+~~DISCUSSION~~{{tag>publish p2check obey exalt jesus prince savior}}
 
 ~~NOCACHE~~
