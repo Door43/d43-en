@@ -37,12 +37,15 @@
 
   * [[:en:obe:other:council]]
   * [[:en:obe:other:pharisee]]
-
+  * [[:en:obe:other:teach]]
+  * [[:en:obe:kt:lawofmoses]]
  
 ===== translationNotes: =====
 
-  * **they were furious** - The council members became exceedingly angry at the apostles for rebuking them.
-  * **a teacher of the law, who was honored by all the people,** - This is background information about Gamaliel; it is given so that readers knew who he is. (See: [[:en:ta:vol2:translate:writing_background]])
+  * **Gamaliel, teacher of the law, who was honored by all the people** - Luke introduces Gamaliel and provides background information about him. (See: [[:en:ta:vol2:translate:writing_participants]] and  [[:en:ta:vol2:translate:writing_background]])
+  * **who was honored by all the people** - This can be stated in active form. AT: "whom all the people honored" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **commanded the apostles to be taken outside** - This can be stated in active form. AT: "commanded the guards to take the apostles outside" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+
 ===== Links: =====
 
   * [[:en:bible:notes:act:00:intro]]
@@ -50,6 +53,6 @@
   * [[:en:bible:questions:comprehension:act:05]]
 **[[:en:bible:notes:act:05:29|<<]] | [[:en:bible:notes:act:05:35|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~
