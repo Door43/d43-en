@@ -14,6 +14,10 @@
 
 We want all translations of the Bible to communicate clearly the message that God wants them to communicate. One tool that we are providing so that the OL translators can make sure that their translations are communicating correctly is this set of translationQuestions. The OL translators will use these translationQuestions to conduct community checks of each chapter of the Bible that they translate.
 
+=== Does the entire Bible need to be translated before I begin translating the translationQuestions? ===
+ 
+It is not necessary to have the **entire** ULB and UDB Bible translated before translating the translationNotes, translationWords or the translationQuestions. The translation of the resources for a book could be started after the translation of that book is complete.
+
 ==== Guidelines for Translating the translationQuestions ====
 
 The ULB should be translated into the Gateway Language before you begin to translate the translationQuestions. When you are ready to translate the translationQuestions, follow these steps: 
