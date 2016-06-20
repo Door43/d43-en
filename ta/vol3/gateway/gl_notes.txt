@@ -26,15 +26,15 @@ Often, the translationNotes offer alternative ways to translate a phrase from th
 
 ==== Adapting the translationNotes ====
 
-=== Can I change a note so that it makes sense in my language? === 
+=== May I change a note so that it makes sense in my language? === 
 
 Often, the ULB in the target Gateway Language will say things in a different way than the ULB said them in English. In order for the translationNote to be useful in the target Gateway Language, you will need to adapt the translationNote so that it talks about the text of the ULB as it is in the Gateway Language translation. This means that you will need to copy the phrase of the Gateway ULB that is the translation of the same phrase from the English ULB into the translationNote, and then sometimes change the translationNote so that it makes sense and is helpful for the Other Language translator who will use these translationNotes as translation tools.
 
-=== Can I delete a note that does not apply to my language? ===
+=== May I delete a note that does not apply to my language? ===
 
 Because languages can be very different from each other, sometimes there will be translationNotes that are important and necessary for some languages, but that are not needed for other languages. If there is a translationNote that does not make sense when applied to the ULB text in the target Gateway Language, then you as the translator will need to modify the translationNote so that it does make sense in relation to the ULB in your target Gateway Language. If the translationNote does not apply at all to the target GL text of the ULB, then you may delete that note from your translation of the translationNotes. But be sure to think about it very carefully before you delete a translationNote, to be sure that it is not necessary for the GL translation.
 
-=== Can I add a note that would help with translation in my language? ===
+=== May I add a note that would help with translation in my language? ===
 
 For the same reason, sometimes you will realize that the Other Language translator will need a translationNote in order to understand a phrase in the target Gateway Language ULB, but there might not be a translationNote already written for that phrase, because it was not necessary for the English ULB. In that case, you will need to write a new translationNote and include it in your translation. Usually these translationNotes will be to explain a phrase or way of saying something that is normal in the Gateway Language but that is not normal in the Other Languages that you know of. When writing your translationNote, follow the same style and format of the existing translationNotes. 
 
