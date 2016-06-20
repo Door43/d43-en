@@ -37,7 +37,8 @@
 
 ===== translationNotes: =====
 
-  * **They are freely justified by his grace through the redemption that is in Christ Jesus** - AT: "God has justified them by means of his grace because Christ Jesus has redeemed them" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **and come short of the glory of God** - Here the "glory of God" is a metonym that refers to the image of God and his nature. AT: "and have failed to be like God" (See: [[:en:ta:vol2:translate:figs_metonymy]]) 
+  * **They are freely justified by his grace through the redemption that is in Christ Jesus** - Here "justified" refers to being made right with God. You can translate this in an active form. AT: "God has made them right with him because God shows his grace freely to people when Christ Jesus has set them free" (See: [[:en:ta:vol1:translate:figs_explicit]] and [[:en:ta:vol2:translate:figs_activepassive]])
 
 ===== Links: =====
 
@@ -46,6 +47,6 @@
   * [[:en:bible:questions:comprehension:rom:03]]
 **[[:en:bible:notes:rom:03:21|<<]] | [[:en:bible:notes:rom:03:25|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~
