@@ -35,16 +35,21 @@
 ===== translationWords: =====
 
   * [[:en:obe:other:asia]]
+  * [[:en:obe:kt:turn]]
   * [[:en:obe:kt:lordgod]]
   * [[:en:obe:kt:mercy]]
+  * [[:en:obe:other:household]]
   * [[:en:obe:other:rome]]
   * [[:en:obe:other:ephesus]]
  
 ===== translationNotes: =====
 
-  * **turned away from me** - They abandoned Paul because he had been arrested and thrown into prison. Paul speaks of their ceasing to help him as if they had physically turned away from him.  (See: [[:en:ta:vol1:translate:figs_metaphor]]) 
-  * **was not ashamed of my chain** - Onesiphorus was not ashamed of Paul because he was in prison but came to visit him frequently. "Chain" is a metonym for being in prison. (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **grant to him to find mercy...on that day** - Paul is wishing that Onesiphorus will receive mercy and not punishment on either 1) the day the Lord comes again or 2) the day when God will judge people. Paul speaks of mercy as if it were an object that could be found.  (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **turned away from me** - Here "turned away" is an idiom that means they refuse to help Paul because the authorities had arrested him and put him in jail. (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **Phygelus and Hermogenes...Onesiphorus** - These are names of men. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **to the household** - "to the family"
+  * **was not ashamed of my chain** - Here "chain" is a metonym for being in prison. Onesiphorus was not ashamed that Paul was in prison but came to visit him frequently.  (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **May the Lord grant to him to find mercy from him on that day** - "I pray that Onesiphorus will find mercy from the Lord on the day he judges all people"
+  * **May the Lord grant to him to find mercy from him** - "May Onesiphorus receive mercy from the Lord" or "May the Lord show him mercy"
 
 ===== Links: =====
 
@@ -59,5 +64,5 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit asia}}
+{{tag>publish p2check asia}}
 ~~NOCACHE~~
