@@ -121,7 +121,9 @@ This would probably be most useful in connecting or general info notes.\\
 <code>
 (See: [[:en:ta:vol2:translate:figs_euphemism]])
 </code>
-[[:en:ta:vol2:translate:figs_exclamations]]
+
+[[:en:ta:vol2:translate:figs_exclamations]]\\
+This is good for when an exclamation is not an ordinary statement (it may not have a verb), when it starts with a question word, or when it starts with a word like "Oh," "Ah," or "Aha."
 
 <code>
 (See: [[:en:ta:vol2:translate:figs_exclamations]])
@@ -392,7 +394,7 @@ Use occasionally. (Do not link to the related page  called "Son of God.")
 </code>
 
 [[en:ta:vol2:translate:figs_declarative]] \\
-This is for statements that are used as commands, requests, or to make something happen (Performatives, but we're not using that technical term
+This is for statements that are used as commands, requests, or to make something happen, such as a blessing, curse, or pronouncement like "Your sins are forgiven" or (non-biblical) "I now pronounce you man and wife."
 
 <code>
 (See: [[en:ta:vol2:translate:figs_declarative]])
