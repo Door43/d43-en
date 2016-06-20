@@ -37,31 +37,6 @@ Though it is strongly encouraged to only do a translation using USFM notation, s
 
 At the time of writing, Door43 is in the middle of a transition from DokuWiki formatting to Markdown formatting. For the foreseeable future, both markup styles will be accepted with Markdown being the preferred format.
 
-=== DokuWiki ===
-
-DokuWiki is a markup language. As a markup language, it uses symbols and codes to represent formatting. 
-
-For instance, "DokuWiki supports **bold**, //italic//, and __underlined__." But that is written
-  DokuWiki supports **bold**, //italic//, and __underlined__.
-
-DokuWiki also supports headings. Headings are written like this:  
-  ===== Heading 1 =====
-  ==== Heading 2 ====
-  === Heading 3 === 
-
-DokuWiki also supports links. An external link displays like this https://door43.org but is written like this:
-  https://door43.org
-
-An internal link automatically pulls in the title of a page and displays it as a clickable link like this "[[en:ta]]" but is written like this: 
-  [[en:ta]]
-
-An internal link can also be customized so that the user can display something other than the title of the page like "[[en:ta|this]]". It is written like this: 
-  [[en:ta|this]]
-
-By using DokuWiki markup, it makes it very easy for the same formatting to appear in a webpage, on a mobile app, and in a PDF. 
-
-For a complete listing of DokuWiki notation please visit https://door43.org/en/syntax
-
 === Markdown ===
 
 Markdown is a very common markup language. It also uses symbols like DokuWiki does, but the symbols are a little different. 
