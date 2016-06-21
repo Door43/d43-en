@@ -10,7 +10,7 @@ This code will find any tag in any location:
 {{topic>en?TAG&nocomments&simplelist}}
 </code>
 
-Edit this page to replace "TAG" in the code below this paragraph with any tag name from the full tag list. Click "Preview" to generate a list of pages with that tag.
+Edit this page to replace "TAG" in the hidden code below this paragraph with any tag name from the full tag list. Click "Preview" to generate a list of pages with that tag.
 
 {{topic>en?TAG&nocomments&simplelist}}
 
