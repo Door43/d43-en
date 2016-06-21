@@ -2,7 +2,7 @@
 
 ~~NOCACHE~~
 
-=== Find individual tag: ===
+==== Find individual tag: ====
 
 This code will find any tag in any location:
 
@@ -16,7 +16,7 @@ Open edit and replace "TAG" with any tag name in the code below this paragraph. 
 
 
 
-=== Full tag list: ===
+==== Full tag list: ====
 
 
 {{count>}}
