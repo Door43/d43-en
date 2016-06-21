@@ -12,7 +12,7 @@ This code will find any tag in any location:
 
 Open edit and replace "TAG" with any tag name in the code below this paragraph. Click "Preview" to generate a list of pages with that tag.
 
-{{topic>en?TAG&nocomments&simplelist&sort}}
+{{topic>en?TAG&nocomments&simplelist&sortorder="page ID"}}
 
 
 
