@@ -31,9 +31,13 @@
 
 ===== translationNotes: =====
 
-  * **Then is this blessing pronounced only on those of the circumcision, or also on those of the uncircumcision?** - AT: "Does God bless only those who are circumcised, or also those those who are not circumcised?"
-  * **we say** - Paul is addressing both Jewish and Gentile believers. (See: [[:en:ta:vol1:translate:figs_you]])
-  * **Faith was counted for Abraham for righteousness** - AT: "God considered the faith of Abraham as righteousness"
+  * **Then is this blessing pronounced only on those of the circumcision, or also on those of the uncircumcision?** - This remark appears in the form of a question to add emphasis. AT: "Does God bless only those who are circumcised, or also those who are not circumcised?" (See: [[:en:ta:vol1:translate:figs_rquestion]]) 
+  * **those of the circumcision** - This is a metonym that refers to the Jewish people. AT: "the Jews" (See: [[:en:ta:vol2:translate:figs_metonymy]]) 
+  * **those of the uncircumcision** - This is a metonym that refers to the people who are not Jews. AT: "the Gentiles" (See: [[:en:ta:vol2:translate:figs_metonymy]]) 
+  * **Faith was counted for Abraham for righteousness** - You can translate this in an active form. AT: "God considered the faith of Abraham as righteousness" (See: [[:en:ta:vol2:translate:figs_activepassive]]) 
+  * **So how was it counted? When Abraham was in circumcision, or in uncircumcision?** - Paul asks these questions to add emphasis to his remarks. AT: "When did God consider Abraham to be righteous? Was it before his circumcision, or after it?" (See: [[:en:ta:vol1:translate:figs_rquestion]]) 
+  * **It was not in circumcision, but in uncircumcision** - "It happened before he was circumcised, not after he was circumcised" 
+
 ===== Links: =====
 
   * [[:en:bible:notes:rom:00:intro]]
@@ -41,6 +45,6 @@
   * [[:en:bible:questions:comprehension:rom:04]]
 **[[:en:bible:notes:rom:04:06|<<]] | [[:en:bible:notes:rom:04:11|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit bless}}
+~~DISCUSSION~~{{tag>publish p2check bless}}
 
 ~~NOCACHE~~
