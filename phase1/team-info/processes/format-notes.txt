@@ -17,7 +17,7 @@ See: [[:en:phase1:team-info:training:quick-reference:template]]
   * **Important Terms list** As a rule, notes on words that are already in the Important Terms list are not needed. But if an important term has multiple senses, you may need to write a note telling which sense is meant in the text.
   * **Translation Academy** Refer the translators to a pertinent Translation Academy page, if needed, at the end of the note. Example: //(See: Metaphor)//. Translation Academy links (tA links) topics and formatting may be found here: [[:en:phase1:team-info:training:reviewers:talinks]]. Be sure that every link includes an initial colon. If this colon is missing, then global searches are hindered.
   * **Quote marks** Avoid smart (curved) quote marks. Be careful about copying and pasting text from an external source (Notepad, Word, or even from another chunk). This may create "smart" quotes that hinder the system from working correctly. Make sure the quotation marks you see in edit mode are straight up and down and not curved at all.
-  * **Note way above the basic template for punctuating notes.** Multiple (two or more) types of notes on one portion demand that a period follow each one: (1) **ULB Text**  - **(2)**  Clarifying translation. **(3)**  Text meaning. **(4)**  Alternate translation suggestion **(5)**  (See: Translation Academy Topic)
+  * **See above for the basic template regarding punctuating notes.** Multiple (two or more) types of notes on one portion demand that a period follow each one: (1) **ULB Text**  - **(2)**  Clarifying translation. **(3)**  Text meaning. **(4)**  Alternate translation suggestion **(5)**  (See: Translation Academy Topic)
 
   * Examples of notes:
     * "X"
@@ -31,7 +31,6 @@ See: [[:en:phase1:team-info:training:quick-reference:template]]
       * **servants of the message** - You may need to specify what the message is. AT: "had served God by telling people his message" or "had taught people the good news about Jesus" (See: Assumed Knowledge and Implicit Information)
     * "X." AT: "Y" (See: TA-LINK) 
       * **looked at me with favor** - "to look at" is an idiom that means to treat or to deal with. AT: "regarded me kindly" or "had pity on me" (See: Idiom)
-
 
 
 ===== Formats for Specific Types of Notes: =====
