@@ -166,7 +166,9 @@ This is for when someone says "the X" when referring to Xs in general.
 [[:en:ta:vol2:translate:figs_go]] \\ 
 ONLY use this when the use of go or come seems odd -- when it seems as if it would normally be the other word. Please read the page before using it.
 
-(See: [[:en:ta:vol2:translate:figs_go]]
+<code>
+(See: [[:en:ta:vol2:translate:figs_go]])
+</code>
 
 [[:en:ta:vol2:translate:translate_hebrewmonths]]  \\
 This is for when the text refers to a particular month of the year, such as "the first month" or "the month of Abib." \\ 
