@@ -38,10 +38,13 @@
 
 ===== translationNotes: =====
 
-  * **proves** - "demonstrates" or "shows"
+  * **proves** - You can translate this verb in past tense. "demonstrated" or "showed"
   * **us...we** - All occurrences of "us" and "we" refer to all believers and should be inclusive. (See: [[:en:ta:vol2:translate:figs_inclusive]])
-  * **Much more, then, now that we are justified by his blood** - AT: "How much more will he do for us now that we are justified by his blood"
-  * **saved** - Here this means that through Jesus' death on the cross, God has forgiven him and rescued him from being punished in hell for his sin.
+  * **Much more, then, now that we are justified by his blood** - Here "justified" means that God puts us in a right relationship with himself. You can translate this in an active form. AT: "How much more will God do for us now that he has made us right with himself because of the death of Jesus on the cross" (See: [[:en:ta:vol1:translate:figs_explicit]] and [[:en:ta:vol2:translate:figs_activepassive]])
+  * **blood** - This is a metonym for the sacrificial death of Jesus on the cross. (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **saved** - This means that through Jesus' sacrificial death on the cross, God has forgiven us and rescued us from being punished in hell for our sin.
+  * **wrath of God** - Here "wrath" is a metonym that refers to God's punishment of those who have sinned against him. AT: "God's punishment" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+
 ===== Links: =====
 
   * [[:en:bible:notes:rom:00:intro]]
@@ -49,6 +52,6 @@
   * [[:en:bible:questions:comprehension:rom:05]]
 **[[:en:bible:notes:rom:05:06|<<]] | [[:en:bible:notes:rom:05:10|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit wrath}}
+~~DISCUSSION~~{{tag>publish p2check wrath}}
 
 ~~NOCACHE~~
