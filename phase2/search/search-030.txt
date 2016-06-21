@@ -19,4 +19,4 @@ Open edit and replace "TAG" with any tag name in the code below this paragraph. 
 === Full tag list: ===
 
 
-{{count>&sortorder="page ID"}}
+{{count>&sort}}
