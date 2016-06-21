@@ -33,28 +33,35 @@
 
 ===== translationWords: =====
 
+  * [[:en:obe:other:teach]]
   * [[:en:obe:kt:faith]]
   * [[:en:obe:kt:love]]
+  * [[:en:obe:other:patient]]
   * [[:en:obe:other:persecute]]
   * [[:en:obe:kt:suffer]]
   * [[:en:obe:other:antioch]]
   * [[:en:obe:other:iconium]]
   * [[:en:obe:other:lystra]]
+  * [[:en:obe:kt:endure]]
   * [[:en:obe:kt:lordgod]]
   * [[:en:obe:kt:godly]]
-  * [[:en:obe:kt:jesus]]
+  * [[:en:obe:kt:inchrist]]
   * [[:en:obe:kt:evil]]
   * [[:en:obe:kt:astray]]
 
 ===== translationNotes: =====
 
-  * **you have followed** - Paul speaks of giving close attention to something as if it were physically following that thing as it moved. AT: "you carefully watched" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **you have followed my teaching** - "you have observed" or "you have payed close attention to my teaching"
   * **teaching** - "instruction"
   * **conduct** - "way of life"
   * **longsuffering** - "patience with people"
-  * **patience** - Possible meanings are 1) "I keep on serving God even when it is very hard to do so" (UDB) or 2) "I keep the right attitude in difficult circumstances."
-  * **Out of them all, the Lord rescued me** - Paul speaks of God's having stopped Paul from suffering these hardships and dangers as if God had carried him out of a physical location. (See: [[:en:ta:vol1:translate:figs_metaphor]]) 
-  * **impostors** - "people who deceive others about themselves" or "people who pretend to be different than they really are"
+  * **patience** - "endurance in difficult situations"
+  * **to live in a godly manner in Christ Jesus** - "to live godly lives as followers of Jesus"
+  * **will be persecuted** - This can be stated in active form. AT: "will certainly have to endure persecution" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **impostors** - "deceivers" or "people who pretend to be different than they really are"
+  * **will go to even worse** - "will become even more evil"
+  * **They will lead others astray** - "They will cause people to not obey Christ"
+  * **They themselves are being led astray** - This can be stated in active form. AT: "And, other people will cause them to not obey Christ" (See: [[:en:ta:vol2:translate:figs_activepassive]])
 
 
 ===== Links: =====
@@ -68,4 +75,4 @@
 
 ~~NOCACHE~~
 
-{{tag>publish p2edit godly iconium lystra astray}}
+{{tag>publish p2check godly iconium lystra astray}}
