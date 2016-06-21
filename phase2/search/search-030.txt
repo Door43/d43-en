@@ -6,7 +6,7 @@ This page finds tags. Tags are not the same as links to pages. Links require a d
 
 ==== Find individual tag: ====
 
-This code will find a specific tag on any page:
+This code will find a specific tag with the name "TAG" on any page:
 
 <code>
 {{topic>en?TAG&nocomments&simplelist}}
