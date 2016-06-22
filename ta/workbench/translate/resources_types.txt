@@ -1,6 +1,6 @@
 ===== Using the translationNotes =====
 
-=== To translate from the ULB.===
+==== When you translate from the ULB ====
   * Read the ULB. Do you understand the meaning of the text so that you can accurately, clearly and naturally translate the meaning into your language?
     * YES? Start translating.
   * NO? Look at the UDB. Does the UDB help you understand the meaning of the ULB text?
@@ -17,7 +17,7 @@ There are many different type of notes in the Translation Notes. Each type of no
 
   * **[[en:ta:vol1:translate:resources_eplain]]** - Simple explanations about words or phrases are in sentence format. 
 
-=== Suggested Translations ===
+==== Suggested Translations ====
 There are several types of suggested translations.
 
   * **[[en:ta:vol1:translate:resources_synequi]]** - There are times that the notes provide a translation suggestion that can replace the word or phrases in the ULB. These replacements can fit into the sentence without changing the meaning of the sentence. These are synonyms and equivalent phrases and are written in double-quotes. These mean the same as the text in the ULB. 
