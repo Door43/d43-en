@@ -10,4 +10,4 @@ It looks in the folder "@:en:bible:notes:rom"
 search results:
 
 
-{{door43pages @:en:bible:notes:rom -r -q="draw near" -exclude:home -simpleLineBreak -title -fontsize="90%"}}
+{{door43pages @:en:bible:notes:rom -r -q="drawing near" -exclude:home -simpleLineBreak -title -fontsize="90%"}}
