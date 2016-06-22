@@ -40,6 +40,8 @@
 
   * [[:en:obe:kt:christ]]
   * [[:en:obe:other:foundation]]
+  * [[:en:obe:kt:world]]
+  * [[:en:obe:kt:lastday]]
   * [[:en:obe:kt:reveal]]
   * [[:en:obe:kt:believe]]
   * [[:en:obe:kt:god]]
@@ -48,11 +50,12 @@
   * [[:en:obe:kt:glory]]
   * [[:en:obe:kt:faith]]
   * [[:en:obe:kt:confidence]]
+
 ===== translationNotes: =====
 
-  * **Christ was chosen** - AT: "God chose Christ." (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **before the foundation of the world** - AT: "before he created the world." 
-  * **he has been revealed to you** - AT: "God has made him known to you." (See: [[:en:ta:vol2:translate:figs_activepassive]]) 
+  * **Christ was chosen** - This can be stated in active form. AT: "God chose Christ." (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **before the foundation of the world** - You can translate this with a verbal phrase. AT: "before God created the world" (See: [[:en:ta:vol2:translate:figs_abstractnouns]]) 
+  * **he has been revealed to you** - This can be stated in active form. AT: "God has revealed him to you" (See: [[:en:ta:vol2:translate:figs_activepassive]]) 
 
 ===== Links: =====
 
@@ -61,6 +64,6 @@
   * [[:en:bible:questions:comprehension:1pe:01]]
 **[[:en:bible:notes:1pe:01:18|<<]] | [[:en:bible:notes:1pe:01:22|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check text}}
 
 ~~NOCACHE~~
