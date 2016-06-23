@@ -103,14 +103,14 @@ If the meaning is given in a way that can be used as a translation suggestion, p
 
 === Numbers: Cardinals and Ordinals ===
 
-  * **Cardinal numbers** under ten are normally written out in running text.
+  * **Cardinal numbers** under ten are normally written out in running text:
     * zero, one, two, three, four, five, six, seven, eight, nine.
-  * **Cardinal numbers** of ten or over are normally written as numerals in running text.
+  * **Cardinal numbers** of ten or over are normally written as numerals in running text:
     * 10; 23; 250; 3,250
-  * **Cardinal numbers** with five or more digits should have commas inserted at multiples of 1,000.
+  * **Cardinal numbers** with five or more digits should have commas inserted at multiples of 1,000:
     * 10,000; 23,000; 500,300; etc.
 
-  * **Ordinal numbers** are always written out.
+  * **Ordinal numbers** are always written out:
     * first, second, third, forth, fifth, sixth, seventh, etc.
 
 
