@@ -54,9 +54,11 @@ This is the message that was proclaimed as the gospel to you.
 
   * **General Information:** - In these verses Peter quotes from the prophet Isaiah a passage relating to what he had just said about them being born of imperishable seed.
 
-  * **all flesh is like grass** - AT: "all people will perish like grass perishes." (UDB) (See: [[:en:ta:vol1:translate:figs_simile]])
-  * **all its glory is like the flower of grass** - AT: "and none of the greatness that people have will last forever." (UDB) (See: [[:en:ta:vol1:translate:figs_simile]]) 
-  * **the message that was proclaimed** - AT: "the message that we proclaimed." (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **all flesh is like grass** - The prophet Isaiah compares humanity to grass that grows and dies quickly. AT: "all people will die like grass dies" (See: [[:en:ta:vol1:translate:figs_simile]])
+  * **all flesh** - The word "flesh" refers to humanity. AT: "all people" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **all its glory is like the flower of grass** - Here the word "glory" refers to beauty or greatness. Isaiah compares the things that people consider to be great or beautiful about humanity to flowers that die quickly. AT: "every great thing about humanity will soon disappear like dead flowers" (See: [[:en:ta:vol1:translate:figs_simile]]) 
+  * **This is the message** - Here the word "This" refers to "the word of the Lord" which "remains forever."
+  * **the message that was proclaimed** - This can be stated in active form. AT: "the message that we proclaimed" (See: [[:en:ta:vol2:translate:figs_activepassive]])
 
 ===== Links: =====
 
@@ -66,6 +68,6 @@ This is the message that was proclaimed as the gospel to you.
 
 **[[:en:bible:notes:1pe:01:22|<<]] | [[:en:bible:notes:1pe:02:01|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~
