@@ -70,8 +70,8 @@ The following lists are the pages that need editing. The steps through the membe
 
 ==== Step Four ====
 
-^ Henry ^ Kara ^ Susan  ^  Chris  ^
-|{{door43pages @en:ta:workbench -q="\{\{tag>[^}]*henry[^}]*\}\}" -r -showcount -title -simpleLineBreak -fontsize="90%"}}|{{door43pages  @en:ta:workbench -q="\{\{tag>[^}]*kara[^}]*\}\}" -r -showcount -title -simpleLineBreak -fontsize="90%"}} |{{door43pages @en:ta:workbench -q="\{\{tag>[^}]*susan[^}]*\}\}" -r -showcount -title -simpleLineBreak -fontsize="90%"}}   |{{door43pages  @en:ta:workbench -q="\{\{tag>[^}]*chris[^}]*\}\}" -r -showcount -title -simpleLineBreak -fontsize="90%"}} |
+^ Henry ^ Kara ^ Susan  ^  Chris  ^  Need to Add to GOGS  ^
+|{{door43pages @en:ta:workbench -q="\{\{tag>[^}]*henry[^}]*\}\}" -r -showcount -title -simpleLineBreak -fontsize="90%"}}|{{door43pages  @en:ta:workbench -q="\{\{tag>[^}]*kara[^}]*\}\}" -r -showcount -title -simpleLineBreak -fontsize="90%"}} |{{door43pages @en:ta:workbench -q="\{\{tag>[^}]*susan[^}]*\}\}" -r -showcount -title -simpleLineBreak -fontsize="90%"}}   |{{door43pages  @en:ta:workbench -q="\{\{tag>[^}]*chris[^}]*\}\}" -r -showcount -title -simpleLineBreak -fontsize="90%"}} | {{door43pages  @en:ta -q="\{\{tag>[^}]*edit[^}]*\}\}" -r -showcount -title -simpleLineBreak -fontsize="90%"}}
 
 \\
 
