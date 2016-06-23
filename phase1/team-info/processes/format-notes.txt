@@ -106,7 +106,7 @@ If the meaning is given in a way that can be used as a translation suggestion, p
   * **Cardinal numbers** under ten are normally written out in running text.
     * zero, one, two, three, four, five, six, seven, eight, nine.
   * **Cardinal numbers** of ten or over are normally written as numerals in running text.
-    * 10; 20; 250; 3,250.
+    * 10; 23; 250; 3,250
   * **Cardinal numbers** with five or more digits should have commas inserted at multiples of 1,000.
     * 10,000; 23,000; 500,300; etc.
 
