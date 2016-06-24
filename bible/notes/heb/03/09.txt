@@ -49,21 +49,30 @@
 
 ===== translationWords: =====
 
+  * [[:en:obe:other:father]]
   * [[:en:obe:other:rebel]]
   * [[:en:obe:kt:test]]
+  * [[:en:obe:other:biblicaltimeyear]]
   * [[:en:obe:kt:works]]
   * [[:en:obe:other:generation]]
   * [[:en:obe:kt:astray]]
+  * [[:en:obe:kt:heart]]
   * [[:en:obe:other:oath]]
   * [[:en:obe:other:angry]]
   * [[:en:obe:kt:rest]]
 
 ===== translationNotes: =====
 
-  * **General Information:** - This quotation is from the Psalms and possibly the quote within the quote is  from Moses and the prophet Micah in the Old Testament.
+  * **General Information:** - This quotation is from the Psalms and possibly the quote within the quote is from Moses and the prophet Micah in the Old Testament.
 
-  * **displeased** - "angry" or " greatly unhappy"
-  * **They are always being led astray in their hearts** - People who are unfaithful to God are spoken of as if someone were leading them off the right path to follow. AT: "they always refuse to follow me" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **your ancestors** - Here "your" is plural and refers to the people of Israel. (See: [[:en:ta:vol1:translate:figs_you]])
+  * **by testing me** - Here "me" refers to God.
+  * **forty years** - "40 years" (See: [[:en:ta:vol2:translate:translate_numbers]])
+  * **I was displeased** - "I was angry" or "I was greatly unhappy"
+  * **They are always being led astray in their hearts** - This can be stated in active form. AT: "They are always going astray in their hearts" or "Their hearts are always going astray" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **They are always being led astray in their hearts** - People who are unfaithful to God are spoken of as if someone were leading them off the right path to follow. AT: "They always refuse to follow me" or "They will not do what I command" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **in their hearts** - Here "hearts" refers to their minds or desires. (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **They have not known my ways** - This speaks of a manner of conducting one's life as if it were a way or a path. AT: "They do not understand how I wanted them to conduct their lives" (See: [[:en:ta:vol1:translate:figs_metaphor]])
   * **they will never enter my rest** - The peace and security provided by God are spoken of as if they were rest that he can give, and as if they were a place to which people could go. AT: "I will never allow them to live in peace" (See: [[:en:ta:vol1:translate:figs_metaphor]])
 
 ===== Links: =====
@@ -73,6 +82,6 @@
   * [[:en:bible:questions:comprehension:heb:03]]
 **[[:en:bible:notes:heb:03:07|<<]] | [[:en:bible:notes:heb:03:12|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~
