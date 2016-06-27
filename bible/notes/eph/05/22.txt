@@ -15,10 +15,8 @@
 <usfm>
 \v 22-23 Wives should submit to their own husband's leadership as they do to the Lord Jesus, because the husband is the leader of the wife as also Christ is the leader of the worldwide assembly of believers. He is the Savior who has saved all believers from being condemned for their sins.
 \v 24 Just as all believers submit themselves to the authority of Christ, the women must submit themselves completely to the authority of their husbands.
-
 \p
 </usfm>
-
 
 ===== ULB: =====
 
@@ -28,7 +26,6 @@
 \v 23 For the husband is the head of the wife, as Christ also is the head of the church. He is the savior of the body.
 \v 24 But as the church is subject to Christ, so also must wives be to their husbands in everything.
 </usfm>
-
 
 ===== translationWords: =====
 
@@ -41,8 +38,8 @@
 
   * **Connecting Statement:** - Paul gives instructions to husbands and wives on how they should act toward each other.
 
-  * **He is the savior of the body** - AT: "Christ is the savior of the body of believers" or "Christ is the savior of all believers" (See: [[:en:ta:vol1:translate:figs_explicit]])
-  * **so also must wives be to their husbands in everything** - AT: "so wives must also be subject to their husbands in everything" (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **He is the savior of the body** - That the phrase "the body" is a metaphor for the church can be made explicit. AT: "Christ is the savior of the body of believers" or "Christ is the savior of all believers" (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol1:translate:figs_explicit]])
+  * **must wives be to their husbands** - AT: "wives must also be subject to their husbands"
 
 ===== Links: =====
 
@@ -51,6 +48,6 @@
   * [[:en:bible:questions:comprehension:eph:05]]
 **[[:en:bible:notes:eph:05:18|<<]] | [[:en:bible:notes:eph:05:25|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit church}}
+~~DISCUSSION~~{{tag>publish p2check church}}
 
 ~~NOCACHE~~
