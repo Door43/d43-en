@@ -59,20 +59,28 @@ If the action did not actually take place, then the translator can choose from t
 
 ==== Examples of Translation Strategies Applied ====
 
-1. Tell what the person did and why he did it. 
+Did the action actually take place? If it did, then...
+
+1. Tell what the person did. 
+  * **Jairus fell down at Jesus’ feet.** (Luke 8:41 ULB) 
+
+1a. Tell what the person did and why.
   * **Jairus fell down at Jesus’ feet.** (Luke 8:41 ULB) 
     * “Jairus fell down at Jesus' feet in order to show that he greatly respected him.” 
 
-  * **Look, I stand at the door and knock.** (Revelation 3:20 ULB) 
-    * “Look, I stand at the door and knock on it, asking you to let me in.” 
-2. Do not tell what the person did, but tell what he meant. 
-  * **Jairus fell down at Jesus’ feet.** (Luke 8:41) 
-     * “Jairus showed Jesus great respect.” 
+If the action did not actually take place, then...
 
+2. Tell what the action is, with no explanation.
+  * **Look, I stand at the door and knock.** (Revelation 3:20 ULB) 
+
+3. Tell what the action is, with an explanation.
+  * **Look, I stand at the door and knock.** (Revelation 3:20 ULB) 
+    * “Look, I stand at the door and knock on it, trying to persuade you to invite me in.” 
+
+2. Substitute one action for another that means the same thing and that the people will understand.
   * **Look, I stand at the door and knock.** (Revelation 3:20) 
-     * “Look, I stand at the door and ask you to let me in.” 
-3. Use an action from your own culture that has the same meaning. 
-  * **Jairus fell down at Jesus' feet.** (Luke 8:41 ULB) - Since Jairus actually did this, we would not substitute an action from our own culture.
+     * “Look, I stand at the door and clap my hands.” 
+
 
   * **Look, I stand at the door and knock.** (Revelation 3:20 ULB) -  Jesus was not standing at a real door. Rather he was speaking about wanting to have a relationship with people. So in cultures where it is polite to clear one's throat when wanting to be let into a house, you could use that.
     * “Look, I stand at the door and clear my throat.”
