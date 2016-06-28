@@ -15,11 +15,8 @@
 <usfm>
 \v 21 In order that you may know about what is happening to me and what I am doing, I am sending Tychicus to you with this letter. He will tell you everything that is happening here. He is a fellow believer whom we all love very much, and he serves the Lord Jesus faithfully.
 \v 22 That is the reason that I am sending him to you; I want you to know how my companions and I are. I want him to comfort and encourage you.
-
-
 \p
 </usfm>
-
 
 ===== ULB: =====
 
@@ -30,7 +27,6 @@
 \b
 </usfm>
 
-
 ===== translationWords: =====
 
   * [[:en:obe:kt:beloved]]
@@ -39,15 +35,12 @@
   * [[:en:obe:other:servant]]
   * [[:en:obe:kt:lordgod]]
   * [[:en:obe:other:heart]]
- 
 
 ===== translationNotes: =====
 
   * **my affairs** - "my situation" or "my circumstances"
   * **Tychicus** - Tychicus was one of several men who served with Paul. (See: [[:en:ta:vol1:translate:translate_names]]) 
-  * **will make known to you everything** - AT: "will tell you everything" (UDB)
 
- 
 ===== Links: =====
 
   * [[:en:bible:notes:eph:00:intro]]
@@ -61,6 +54,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2check}}
 
 ~~NOCACHE~~
