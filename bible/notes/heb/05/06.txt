@@ -30,13 +30,15 @@
 ===== translationWords: =====
 
   * [[:en:obe:kt:priest]]
+  * [[:en:obe:kt:forever]]
   * [[:en:obe:other:melchizedek]]
 
 ===== translationNotes: =====
 
   * **General Information:** - This prophecy is from a Psalm of David.
 
-  * **he also says** - God also says ([[:en:bible:notes:heb:05:04|5:5]])
+  * **he also says** - To whom God is speaking can be stated clearly. AT: "he also says to Christ" (See: [[:en:ta:vol2:translate:figs_ellipsis]])
+  * **in another place** - "in another place in the Scriptures"
 
 ===== Links: =====
 
@@ -45,6 +47,6 @@
   * [[:en:bible:questions:comprehension:heb:05]]
 **[[:en:bible:notes:heb:05:04|<<]] | [[:en:bible:notes:heb:05:07|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~
