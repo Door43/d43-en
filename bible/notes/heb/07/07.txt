@@ -47,7 +47,9 @@
   * [[:en:obe:other:abraham]]
 ===== translationNotes: =====
 
-  * **is testified as living on** - The silence in Scripture about the death of Melchizedek's death is spoken of as if it were a positive statement that he never died.  (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **the lesser person is blessed by the greater person** - This can be stated in active form. AT: "the more important person blesses the less important person" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **On one hand...But on the other hand** - These phrases are used to compares two things. Your language may have a way to emphasize that the author is making a comparison. Or, you could leave out "On one hand" and translate "But on the other hand" simply as "But."
+  * **is testified as living on** - It is never explicitly written in scripture that Melchizedek dies. The author of Hebrews speaks of this absence of information about Melchizedek's death in scripture as if it were a positive statement that he is still alive. This can be stated in active form. AT: "scripture testifies that he lives on"  (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_activepassive]])
   * **was in the body of his ancestor** - Levi is spoken of as if he were alive and active in the body of Abraham, his ancestor. (See: [[:en:ta:vol1:translate:figs_metaphor]])
 ===== Links: =====
 
@@ -56,6 +58,6 @@
   * [[:en:bible:questions:comprehension:heb:07]]
 **[[:en:bible:notes:heb:07:04|<<]] | [[:en:bible:notes:heb:07:11|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~
