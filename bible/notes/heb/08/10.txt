@@ -43,6 +43,7 @@
   * [[:en:obe:kt:covenant]]
   * [[:en:obe:other:house]]
   * [[:en:obe:other:israel]]
+  * [[:en:obe:other:biblicaltimeday]]
   * [[:en:obe:kt:lordgod]]
   * [[:en:obe:other:law]]
   * [[:en:obe:other:heart]]
@@ -53,11 +54,13 @@
 ===== translationNotes: =====
 
   * **General Information:** - This is a quotation from the prophet Jeremiah.
-  * **the house of Israel** - The people of Israel are spoken of as if they were a house. (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **I will put my laws** - God's requirements are spoken of as if they were objects that could be placed somewhere (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **into their minds** - People's ability to think is spoken of if it were a place (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **I will...write them on their hearts** - People's loyalties are spoken of as if they were a page that could be written on. (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **I will be their God** - I will be the God whom they worship.
+
+  * **the house of Israel** - The people of Israel are spoken of as if they were a house. AT: "the people of Israel" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **after those days** - "after that time"
+  * **I will put my laws into their minds** - God's requirements are spoken of as if they were objects that could be placed somewhere. People's ability to think is spoken of if it were a place. AT: "I will enable them to understand my laws" (UDB) (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **I will also write them on their hearts** - People's loyalties are spoken of as if they were a page that could be written on. AT: "I will enable them to obey my laws sincerely" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **I will be their God** - "I will be the God whom they worship"
+  * **they will be my people** - "they will be the people for whom I care"
 
 
 ===== Links: =====
@@ -73,6 +76,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2check}}
 
 ~~NOCACHE~~
