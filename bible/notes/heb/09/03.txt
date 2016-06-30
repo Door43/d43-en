@@ -40,26 +40,29 @@
 
   * [[:en:obe:kt:holyplace]]
   * [[:en:obe:other:gold]]
-  * [[:en:obe:other:altar]]
-  * [[:en:obe:other:incense]]
+  * [[:en:obe:other:altarofincense]]
   * [[:en:obe:other:arkofthecovenant]]
   * [[:en:obe:other:manna]]
   * [[:en:obe:other:aaron]]
   * [[:en:obe:other:rod]]
   * [[:en:obe:kt:covenant]]
+  * [[:en:obe:kt:glory]]
   * [[:en:obe:other:cherubim]]
-  * [[:en:obe:kt:atonement]]
+  * [[:en:obe:kt:atonementlid]]
  
 
 ===== translationNotes: =====
 
   * **Behind the second curtain** - The first curtain was the outer wall of the tabernacle, so the "second curtain" was the curtain between the "holy place" and the "most holy place."
+  * **second** - (See: [[:en:ta:vol2:translate:translate_ordinal]])
   * **Inside it** - "Inside the ark of the covenant"
+  * **Aaron's rod that budded** - This is referring to when God proved to the people of Israel that he had chosen Aaron as his priest by making Aaron's rod bud. (See: [[:en:ta:vol1:translate:figs_explicit]])
   * **budded** - "flowered" or "sprouted" or "grew and developed"
-  * **tablets** - Flat pieces of stone that had writing on them.
+  * **tablets of the covenant** - "Tablets" are flat pieces of stone that had writing on them. This means the stone tablets on which the 10 commandments were written.
+  * **cherubim overshadowed** - "figures of cherubim were above." They are spoken of as providing shade for the ark of the covenant.
   * **cherubim** - "Cherubim" here stands for figures of two cherubim." (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **cherubim overshadowed** - "figures of cherubim were above" They are spoken of as providing shade for the ark of the covenant.
-  * **atonement lid** - the removable top of the ark of the covenant
+  * **which we cannot** - Even though the author uses the plural pronoun "we," he is most likely referring only to himself. AT: "which I cannot" (See: [[:en:ta:vol2:translate:figs_pronouns]])
+
  
 ===== Links: =====
 
@@ -74,6 +77,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2check}}
 
 ~~NOCACHE~~
