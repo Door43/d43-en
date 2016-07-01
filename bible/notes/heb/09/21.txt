@@ -39,18 +39,20 @@
   * [[:en:obe:kt:tabernacle]]
   * [[:en:obe:kt:lawofmoses]]
   * [[:en:obe:kt:clean]]
+  * [[:en:obe:other:bloodshed]]
   * [[:en:obe:kt:forgive]] 
 
 ===== translationNotes: =====
 
 
+  * **he sprinkled** - "Moses sprinkled"
   * **sprinkled** - See how you translated this in [[:en:bible:notes:heb:09:18|9:19]].
   * **container** - an object that can hold something
-  * **priestly service** - "work of the priests"
-  * **everything is cleansed with blood** - Making something acceptable to God is spoken of as if it were cleansing that thing. This idea can be stated in active form. AT:"the priests use blood to cleanse everything." (See: [[:en:ta:vol1:translate:figs_metaphor]], [[:en:ta:vol2:translate:figs_activepassive]])
+  * **used in the priestly service** - This can be stated in active form. AT: "that the priest used in their work" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **almost everything is cleansed with blood** - Making something acceptable to God is spoken of as if it were cleansing that thing. This idea can be stated in active form. AT:"the priests use blood to cleanse almost everything" (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_activepassive]])
   * **blood** - Here the animal blood stands for the animal's death. (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **Without the shedding of blood there is no forgiveness** - This double negative can mean that all forgiveness comes through the shedding of blood. AT: "Forgiveness only comes when there is shedding of blood." (See: [[:en:ta:vol2:translate:figs_doublenegatives]] and [[:en:ta:vol1:translate:figs_explicit]])
-  * **forgiveness** - This stands here for "forgiveness of sins of the people."
+  * **Without the shedding of blood there is no forgiveness** - Here "shedding of blood" refers to something dying as a sacrifice to God. This double negative can mean that all forgiveness comes through the shedding of blood. AT: "Forgiveness only comes when something dies as a sacrifice" or "God only forgives when something dies as a sacrifice" (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol2:translate:figs_doublenegatives]])
+  * **forgiveness** - You can state explicitly the implied meaning. AT: "forgiveness of sins of the people" (See: [[:en:ta:vol1:translate:figs_explicit]])
  
 ===== Links: =====
 
@@ -65,6 +67,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2check}}
 
 ~~NOCACHE~~
