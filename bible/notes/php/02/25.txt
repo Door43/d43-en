@@ -17,32 +17,24 @@
 \v 26 When Epaphroditus learned that you heard he was sick, he became very worried and began longing to be there with all of you at Philippi.
 \v 27 Indeed, he was so sick that he almost died, but he did not die. Instead, God was very kind to him and also to me, so that I would not have a reason to grieve much.
 </usfm>
-
-
 ===== ULB: =====
-
 <usfm>
 \v 25 But I think it is necessary to send Epaphroditus back to you. He is my brother and fellow worker and fellow soldier, and your messenger and servant for my needs.
 \v 26 For he was very distressed, and he longed to be with you all, because you heard that he was sick.
 \v 27 For indeed he was so sick that he almost died. But God had mercy on him, and not on him only, but also on me, so that I might not have sorrow upon sorrow.
 </usfm>
-
-
 ===== translationWords: =====
-
   * [[:en:obe:kt:brother]]
   * [[:en:obe:kt:minister]]
   * [[:en:obe:kt:god]]
   * [[:en:obe:kt:mercy]]
- 
-
 ===== translationNotes: =====
 
   * **Epaphroditus** - This is the name of a man sent by the Philippian church to minister to Paul in prison. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **fellow worker and fellow soldier** - Here Paul is speaking of Epaphroditus as if he were a soldier. He means that Epaphroditus is trained and is dedicated to serving God, no matter how great is the hardship he must suffer. AT: "fellow believer who works and struggles along with us" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **and your messenger and servant for my needs** - AT: "and who brings your messages to me and helps me when I am in need"
-  * **he was very distressed, and he longed to be with you all** - AT: "he was very worried and wanted to be with you all"
-  * **sorrow upon sorrow** - AT: "sorrow added to the sorrow I already have from being in prison" (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **fellow worker and fellow soldier** - Here Paul is speaking of Epaphroditus as if he were a soldier. He means that Epaphroditus is trained and is dedicated to serving God, no matter how great the hardship he must suffer. AT: "fellow believer who works and struggles along with us" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **and your messenger and servant for my needs** - "and who brings your messages to me and helps me when I am in need"
+  * **he was very distressed, and he longed to be with you all** -"he was very worried and wanted to be with you all"
+  * **sorrow upon sorrow** - The cause of the sorrow can be made explicit. AT: "sorrow of losing him added to the sorrow I already have from being in prison" (See: [[:en:ta:vol1:translate:figs_explicit]])
  
 ===== Links: =====
 
@@ -51,6 +43,6 @@
   * [[:en:bible:questions:comprehension:php:02]]
 **[[:en:bible:notes:php:02:22|<<]] | [[:en:bible:notes:php:02:28|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit minister mercy}}
+~~DISCUSSION~~{{tag>publish p2check minister mercy}}
 
 ~~NOCACHE~~
