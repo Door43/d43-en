@@ -1,4 +1,21 @@
-A Change Log of Recent Minor Changes to Open Bible Stories
+===== How to Update a Previous Version of Open Bible Stories =====
+
+===== Identify which Version of Open Bible Stories =====
+
+Many translations have the version number listed. If the version number is not available, figuring out which version a translation was based off of is important. 
+
+To figure out which version a particular translation was translated from, do the following:
+
+  * Check story #45. If it ends with Philip looking at the chariot, then it is translated from version 1.x. If it ends with the Ethiopian Official smiling, go to the next step.
+  * Check frame 06-02. If the phrase "to the land where Abraham's relatives lived" is not included, then it is translated from version 2.x. If it is included, it is translated from at least version 3.x. (Also check frame 09-06. If "in order to save him from being killed" is not included, it is translated from version 2.x. If it is included, it is translated from at least version 3.x.)
+  * If you are still not sure, we have created a complete set of all the changes between Version 1.x (see http://ufw.io/obs1-3) or Version 2.x (see http://ufw.io/obs2-3) and the current version. Compare your translation to this list of changes to determine which version your translation was made from. Note: All text highlighted in green has been added, text highlighted in yellow has been changed, and text highlighted in red has been deleted. Only frames that have changed are included in these lists.
+
+===== Update to the Latest Version of Open Bible Stories =====
+
+Once you have identified which version of Open Bible Stories the translation in your language used, you will need to update the translation in your language to the latest version. To help simplify the update process, we have generated change logs of all of the changes that happened between version 1.x and the latest (see http://ufw.io/obs1-3) and version 2.x and the latest (see http://ufw.io/obs2-3). Simply go through these changes and update the text in your language according to those documents, and your translation of Open Bible Stories will be up to date.
+
+
+===== A Change Log of Recent Minor Changes to Open Bible Stories =====
 
 3.2.1 -> 4
   * New Versioning System, read more [[https://unfoldingword.org/versioning/|here]]
