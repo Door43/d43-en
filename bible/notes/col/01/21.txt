@@ -19,21 +19,14 @@
 \v 21 Before you believed in Christ, God considered you his enemies, and you were unfriendly to God because you thought evil thoughts and because you did evil deeds.
 \v 22 But now God has offered peace between yourselves and himself and has made you his friends. He did this when Jesus gave up his body and life for us by dying. This made it possible for us to belong to God; he finds nothing wrong in us now, nothing to blame us for.
 \v 23 But you must continue to trust Christ completely; then you will be like a house that they built on solid rock. Do not for any reason stop believing in what God has promised to do for you in the good news that and people all over the world have heard. This is the same good news that I, Paul, am serving God by proclaiming to people. 
-
-
 \p
 </usfm>
-
-
 ===== ULB: =====
-
 <usfm>
 \v 21 And you also, at one time, were strangers to God and were his enemies in mind and in evil deeds.
 \v 22 But now he has reconciled you by his physical body through death. He did this in order to present you holy, blameless, and above reproach before him,
 \v 23 if you continue in the faith, established and firm, not moved away from the confident expectation of the gospel that you heard. This is the gospel that was proclaimed to every person created under heaven. This is the gospel of which I, Paul, became a servant.
 </usfm>
-
-
 ===== translationWords: =====
 
   * [[:en:obe:kt:god]]
@@ -54,13 +47,12 @@
 
 ===== translationNotes: =====
 
-  * **Connecting Statement:** - Paul makes it clear that God has now revealed the fact that Christ exchanges the sin of Gentile believers for his holiness.
+  * **Connecting Statement:** - Paul makes it clear that God has now revealed that Christ exchanges the sin of Gentile believers for his holiness.
 
   * **And you also** - "And you Colossian believers also"
-  * **were strangers to God** - "were alienated from God" or "had pushed God away"
-  * **were his enemies in mind and in evil deeds** - "were his enemies because you thought evil things and because you did evil deeds" (UDB) 
-  * **blameless** - "without blame"
-  * **above reproach** - "without accusation"
+  * **were strangers to God** - "were were like people whom God did not know" or "had pushed God away"
+  * **to present you holy, blameless, and above reproach before him** - Paul is describing the Colossians as though Jesus had physically cleaned them, put them in clean clothes, and brought them to stand before God the Father. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **blameless, and above reproach** - Paul uses two words that mean almost the same thing to emphasize the idea of perfection. AT: "perfect" (See: [[:en:ta:vol2:translate:figs_parallelism]])
   * **before him** - This expression of location stands for "in God's view," "in God's mind" (See: :en:ta:vol1:translate:figs_metaphor]])
   * **that was proclaimed** - that believers proclaimed (See: [[:en:ta:vol2:translate:figs_activepassive]])
   * **to every person created under heaven** - "to every person in the world" 
@@ -73,6 +65,6 @@
   * [[:en:bible:questions:comprehension:col:01]]
 **[[:en:bible:notes:col:01:18|<<]] | [[:en:bible:notes:col:01:24|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit holy blameless goodnews}}
+~~DISCUSSION~~{{tag>publish p2check holy blameless goodnews}}
 
 ~~NOCACHE~~
