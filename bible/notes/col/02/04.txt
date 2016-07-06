@@ -17,12 +17,8 @@
 <usfm>
 \v 4 I am telling you this in order that no one may deceive you.
 \v 5 Even though I am absent from you physically, I am very much concerned about you, just as if I were indeed with you. Yet I am rejoicing because I know that you follow Christ in a way that no one can stop you, that you trust in Christ without giving up.
-
-
 \p
 </usfm>
-
-
 ===== ULB: =====
 
 <usfm>
@@ -41,11 +37,12 @@
  
 ===== translationNotes: =====
 
-  * **trick you** - "lead you, Colossian believers, to a wrong place or conclusion"
-  * **persuasive speech** - speech that will convince you of something or make a concept believable
+  * **trick** - cause someone to believe something that is not true, to act on that belief, and to suffer harm as a result
+  * **persuasive speech** - speech that will make a person think differently
   * **not with you in the flesh** - "not physically present with you" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **I am with you in spirit** - "I continually think about you"  (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **good order** - Paul is praising them for their unity and firmness of their belief and trust in Christ.
+  * **I am with you in spirit** - "I continually think about you" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **good order** - doing things properly
+  * **the strength of your faith** - "how nothing and no one can cause you to stop believing"
 
 ===== Links: =====
 
@@ -54,6 +51,6 @@
   * [[:en:bible:questions:comprehension:col:02]]
 **[[:en:bible:notes:col:02:01|<<]] | [[:en:bible:notes:col:02:06|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit }}
+~~DISCUSSION~~{{tag>publish p2check }}
 
 ~~NOCACHE~~
