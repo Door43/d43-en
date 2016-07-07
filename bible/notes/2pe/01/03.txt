@@ -30,27 +30,31 @@
 ===== translationWords: =====
 
   * [[:en:obe:kt:divine]]
+  * [[:en:obe:kt:power]]
   * [[:en:obe:kt:life]]
   * [[:en:obe:kt:godly]]
   * [[:en:obe:other:know]]
-  * [[:en:obe:kt:power]]
   * [[:en:obe:kt:god]]
   * [[:en:obe:kt:call]]
   * [[:en:obe:kt:glory]]
+  * [[:en:obe:other:precious]]
   * [[:en:obe:kt:promise]]
   * [[:en:obe:kt:divine]]
   * [[:en:obe:kt:corrupt]]
   * [[:en:obe:kt:world]]
   * [[:en:obe:kt:evil]]
+
 ===== translationNotes: =====
 
   * **General Information:** - Peter begins to teach the believers about living godly lives.
 
-  * **who called us** - God first reached out to us. "Us" refers to Peter and his audience. (See: [[:en:ta:vol2:translate:figs_inclusive]])
-  * **through his own glory and virtue** - "through his honor and moral excellence" 
-  * **Through these, he gave us precious and great promises** - AT: "God's precious and great promises came through His honor and excellence."
-  * **the divine nature** - "God's perfect nature"
-  * **as you escape from the corruption that is in the world in wicked desires** - AT: "as you flee from the immoral desires of the world."
+  * **His divine power has given to us** - Peter speaks of God's divine power as the person who gives. This is metonymy for God, himself. AT: "God, by his divine power, has given to us" (See: [[:en:ta:vol2:translate:figs_personification]] and [[:en:ta:vol2:translate:figs_metonymy]])
+  * **for life and godliness** - Here the word "godliness" describes the word "life." AT: "for a godly life" (See: [[:en:ta:vol2:translate:figs_hendiadys]])
+  * **who called us** - Here the word "us" refers to Peter and his audience. (See: [[:en:ta:vol2:translate:figs_inclusive]])
+  * **through his own glory and virtue** - "through his glory and moral excellence" 
+  * **Through these** - Here the word "these" refers to "his own glory and virtue."
+  * **you might be sharers** - "you might share"
+  * **in wicked desires** - "because of wicked desires" or "caused by wicked desires"
  
 ===== Links: =====
 
@@ -59,6 +63,6 @@
   * [[:en:bible:questions:comprehension:2pe:01]]
 **[[:en:bible:notes:2pe:01:01|<<]] | [[:en:bible:notes:2pe:01:05|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit divine life}}
+~~DISCUSSION~~{{tag>publish p2check divine life}}
 
 ~~NOCACHE~~
