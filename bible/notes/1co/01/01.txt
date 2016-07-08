@@ -15,18 +15,13 @@
 ===== UDB: =====
 
 <usfm>
-\v 1 I, Paul, am writing this letter. Sosthenes, our fellow believer, is with me as I write it. God appointed me to be an apostle of Christ Jesus, and God chose me to serve him.
+\v 1 I, Paul, am writing this letter. Sosthenes, our fellow believer, is with me as I write this letter to you. God appointed me to be an apostle of Christ Jesus, and God chose me to serve him.
 \v 2 This letter is to the church of God in Corinth, to those whom Christ Jesus has set apart for God, with everyone else—everwhere—who calls on God to save them in the name of our Lord Jesus Christ, their Lord and ours.  
 \p
 \v 3 May God our Father and the Lord Jesus Christ love you and give you peace.
-
-
-
-\p
+p
 </usfm>
-
 ===== ULB: =====
-
 <usfm>
 \c 1
 \p
@@ -34,7 +29,6 @@
 \v 2 to the church of God at Corinth, to those who have been dedicated in Christ Jesus, who are called to be holy people. We are also writing to all who call on the name of our Lord Jesus Christ in every place, their Lord and ours.
 \v 3 May grace and peace be to you from God our Father and the Lord Jesus Christ.
 </usfm>
-
 ===== translationWords: =====
 
   * [[:en:obe:other:paul]]
@@ -57,12 +51,11 @@
   * **Connecting Statement:** - Paul and Sosthenes give greetings to the Corinthian church believers.
   * **General information:** - Unless otherwise noted, such words as "you" and "your" refer to Paul's audience and so are plural. (See: [[:en:ta:vol1:translate:figs_you]])
 
-  * **Paul ... to the church of God at Corinth** - Your language may have a particular way of introducing the author of a letter and the intended audience. AT: "I, Paul, wrote this letter to you, the believers in God in Corinth." 
+  * **Paul ... to the church of God at Corinth** - Your language may have a particular way of introducing the author of a letter and the intended audience. AT: "I, Paul, wrote this letter to you in Corinth who believe in God." 
   * **Sosthenes our brother** - This indicates that both Paul and the Corinthians knew Sosthenes. AT: "Sosthenes the brother you and I know." (See [[:en:ta:vol1:translate:translate_names]])
-  * **those who have been dedicated in Christ Jesus** - Here "dedicated" refers to people whom God has reserved to honor him. AT: "to those who are set apart for God because of Christ Jesus" or "to those whom Christ Jesus has set apart for God" (UDB)
-  * **called to be holy people** - AT: "God called them to be holy people" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **those who have been dedicated in Christ Jesus** - Here "dedicated" refers to people whom God has reserved to honor him. AT: "to those whom Christ Jesus has set apart for God" or "to those whom God has set apart for himself because they belong to Christ Jesus" (UDB)
+  * **who are called to be holy people** - This can be stated in active form. AT: "whom God has called to be holy people" (See: [[:en:ta:vol2:translate:figs_activepassive]]) Possible meanings are 1) "whom God has set apart for himself" or 2) "whom God has called to separate themselves from sin" or "whom God has called to not sin." 
   * **their Lord and ours** - Jesus is the Lord of Paul and the Corinthians and the same Lord of all the churches. (See: [[:en:ta:vol2:translate:figs_inclusive]])
-  * **to you** - The word "you" refers to the believers in Corinth. (See: [[:en:ta:vol1:translate:figs_you]])
  
 ===== Links: =====
 
@@ -71,6 +64,6 @@
   * [[:en:bible:questions:comprehension:1co:01]]
 **| [[:en:bible:notes:1co:01:04|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~
