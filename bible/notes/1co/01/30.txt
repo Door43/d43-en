@@ -11,7 +11,7 @@
 ===== UDB: =====
 
 <usfm>
-\v 30  Because of what God has done, you are now joined to Christ Jesus, who has made clear to us how wise God is, he has put us right with God, he has set us apart for God, and he has rescued us and brought us to safety.
+\v 30 Because of what God has done, you are now joined to Christ Jesus, who has made clear to us how wise God is, he has put us right with God, he has set us apart for God, and he has rescued us and brought us to safety.
 \v 31 So, as the scriptures say: 
 \q "The one who praises himself should praise himself only in what the Lord has done for him."
 \m
@@ -26,6 +26,7 @@
 
 ===== translationWords: =====
 
+  * [[:en:obe:kt:inchrist]]
   * [[:en:obe:kt:wise]]
   * [[:en:obe:kt:righteous]]
   * [[:en:obe:kt:holy]]
@@ -36,9 +37,8 @@
 ===== translationNotes: =====
 
   * **Because of what God did** - This refers to the work of Christ on the cross.
-  * **us ... our** - Paul is including the Corinthians in "us." (See: [[:en:ta:vol2:translate:figs_inclusive]])
-  * **now you are in Christ Jesus** - "now you have received salvation through Christ Jesus"
-  * **Christ Jesus, who became for us wisdom from God** - "Christ Jesus, who has made clear to us how wise God is" (UDB; see: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **us ... our** - These words refer to Paul, those with him, and the Corinthians. (See: [[:en:ta:vol2:translate:figs_inclusive]])
+  * **Christ Jesus, who became for us wisdom from God** - Possible meanings are 1) "Christ Jesus, who has made clear to us how wise God is" (UDB) or 2) "Christ Jesus, who has given us God's wisdom." (See: [[:en:ta:vol2:translate:figs_metonymy]])
   * **Let the one who boasts, boast in the Lord** - "If a person boasts, he should boast about how great the Lord is"
 
 ===== Links: =====
@@ -48,6 +48,6 @@
   * [[:en:bible:questions:comprehension:1co:01]]
 **[[:en:bible:notes:1co:01:28|<<]] | [[:en:bible:notes:1co:02:01|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~
