@@ -41,14 +41,15 @@
   * [[:en:obe:kt:confidence]]
   * [[:en:obe:kt:reward]]
   * [[:en:obe:other:patient]]
-  * [[:en:obe:kt:willofgod]]
   * [[:en:obe:kt:promise]]
+  * [[:en:obe:kt:willofgod]]
 
 ===== translationNotes: =====
 
-  * **General Information:** - This is a quotation from a Greek translation of the Old Testament prophet, Isaiah.
+  * **General Information:** - In 10:37 is a quotation from the prophet Isaiah in the Old Testament.
 
-  * **throw away** - Rejecting a promise is spoken of as if it were throwing away something worthless or useless. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **do not throw away your confidence, which has a great reward** - Rejecting a promise is spoken of as if it were throwing away something worthless or useless. AT: "do not stop confidently trusting in God, who will reward you greatly" or "continue to trust completely in God, who will reward you greatly" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **"For in a very little while** - This is the beginning of a quotation from the prophet Isaiah in the Old Testament. You can make this explicit. AT: "As God said through the prophet Isaiah, 'For in a very little while" (See: [[:en:ta:vol1:translate:figs_explicit]])
   * **in a very little while** - "very soon"
 
 ===== Links: =====
@@ -64,6 +65,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2check}}
 
 ~~NOCACHE~~
