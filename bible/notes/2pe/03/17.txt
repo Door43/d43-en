@@ -33,13 +33,15 @@
 
   * [[:en:obe:kt:beloved]]
   * [[:en:obe:other:know]]
+  * [[:en:obe:kt:astray]]
+  * [[:en:obe:kt:deceive]]
   * [[:en:obe:other:lawless]]
   * [[:en:obe:kt:faithful]]
   * [[:en:obe:kt:grace]]
-  * [[:en:obe:kt:glory]]
   * [[:en:obe:kt:lordgod]]
   * [[:en:obe:kt:savior]]
   * [[:en:obe:kt:jesus]]
+  * [[:en:obe:kt:glory]]
   * [[:en:obe:kt:eternity]]
   * [[:en:obe:kt:amen]]
  
@@ -49,10 +51,11 @@
   * **Connecting Statement:** - Peter finishes instructing the believers and ends his letter.
 
   * **Therefore, beloved, since you know these things** - "These things" refers to the truths about the patience of God and the teachings of these false teachers.
-  * **guard yourselves** - "be aware and protect yourself"
-  * **you lose your own faithfulness** - You start doubting your faith in Jesus Christ.
-  * **But grow in** - Peter describes how the believers are to grow in their faithfulness and guard against the false teachers.
-
+  * **guard yourselves** - "protect yourselves"
+  * **so that you are not led astray by the deceit of lawless people** - This can be stated in active form. AT: "so that lawless people do no lead you astray with their deceitful words" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **you lose your own faithfulness** - "you stop being faithful"
+  * **grow in the grace and knowledge** - "increase in the grace and knowledge"
+  * **the grace and knowledge of our Lord and Savior Jesus Christ** - See how you translated similar phrases in [[:en:bible:notes:2pe:01:01|1:2]], [[:en:bible:notes:2pe:01:08|1:8]], and [[:en:bible:notes:2pe:02:20|2:20]].
 
  
 ===== Links: =====
@@ -62,6 +65,6 @@
   * [[:en:bible:questions:comprehension:2pe:03]]
 **[[:en:bible:notes:2pe:03:14|<<]] | **
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~
