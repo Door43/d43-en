@@ -38,7 +38,7 @@
 
 ===== translationWords: =====
 
-  * [[:en:obe:other:earth]]
+  * [[:en:obe:kt:flesh]]
   * [[:en:obe:other:obey]]
   * [[:en:obe:kt:godthefather]]
   * [[:en:obe:kt:spirit]]
@@ -50,11 +50,14 @@
  
 ===== translationNotes: =====
 
-  * **fathers in the flesh** - earthly fathers (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **the Father of spirits** - God, who has created and given us our spirits and also created all other spirits. (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **fathers in the flesh** - Here "in the flesh" refers to a human person. AT: "natural fathers" (UDB) or "earthly fathers" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **as disciplinarians** - "who disciplined us"
+  * **Should we not even more so obey the Father of spirits and live?** - The author uses a question to emphasize that would should obey God the Father. AT: "Therefore we should even more so obey the Father of spirits and live!" (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **the Father of spirits** - This idiom contrasts with "fathers in the flesh." AT: "our spiritual Father" or "our Father in heaven" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **so that we can share in his holiness** - This speaks of "holiness" as if it were an object that can be shared among people. AT: "so that we become holy as God is holy" (See: [[:en:ta:vol1:translate:figs_metaphor]])
   * **peaceful fruit** - "Fruit," itself a metaphor, is spoken of as if it were a person who was at peace and who brought peace to others. (See: [[:en:ta:vol2:translate:figs_personification]])  
   * **fruit of righteousness** - Righteousness, the quality of someone who obeys God, increases as a result of discipline. It is spoken of as if it were fruit growing on a tree. (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **trained by it** - trained by discipline. The discipline or correction done by the Lord is spoken of as if it were the Lord himself, for it is the Lord who disciplines us. (See: [[:en:ta:vol2:translate:figs_personification]]) 
+  * **who have been trained by it** - "who have been trained by discipline." The discipline or correction done by the Lord is spoken of as if it were the Lord himself. This can be stated in active form. AT: "whom God has trained by disciplining them" (See: [[:en:ta:vol2:translate:figs_personification]] and [[:en:ta:vol2:translate:figs_activepassive]]) 
 
  
  
@@ -71,6 +74,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2check}}
 
 ~~NOCACHE~~
