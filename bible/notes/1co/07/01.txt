@@ -20,7 +20,7 @@
 <usfm>
 \c 7
 \p
-\v 1 Now concerning the issues you wrote about: There are times when it is good for a man not to touch a woman.
+\v 1 Now concerning the issues you wrote about: "It is good for a man not to touch a woman."
 \v 2 But because of temptations for many immoral acts, each man should have his own wife, and each woman should have her own husband.
 </usfm>
 
@@ -33,15 +33,16 @@
 
 ===== translationNotes: =====
 
-  * **Connecting Statement:** - Paul gives the believers  some specific instructions on marriage.
+  * **Connecting Statement:** - Paul gives the believers some specific instructions on marriage.
 
   * **Now** - Paul is introducing a new topic in his teaching.
   * **the issues you wrote about** - The Corinthians had written a letter to Paul to ask for answers to certain questions.
+  * **about: "It is good for a man not to touch a woman." But because** - Possible meanings are 1) Paul is quoting what the Corinthians had written, "about: you wrote, 'It is good for a man not to touch a woman.' That is true, but because" or 2) Paul is saying what he really thinks, "about: my answer is that yes, it is good for a man not to touch a woman. But because"
+  * **it is good** - "it is most helpful," not that touching is morally bad
   * **for a man** - Here, this means male spouse or husband.
   * **not to touch a woman** - This is a figure to say "not to have sexual relations with a woman" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **it is good** - AT: "it is right and acceptable"
-  * **But because of temptations for many immoral acts** - AT: "But because people experience temptation to commit sexual sin"
-  * **each man should have his own wife, and each woman should have her own husband** - To clarify for polygamous cultures, "each man should have one wife, and each woman should have one husband."
+  * **But because of temptations for many immoral acts** - "But because Satan tempts people to commit sexual sin" or "But because of our sinful nature we desire to commit sexual sin"
+
 ===== Links: =====
 
   * [[:en:bible:notes:1co:00:intro]]
@@ -49,6 +50,6 @@
   * [[:en:bible:questions:comprehension:1co:07]]
 **[[:en:bible:notes:1co:06:19|<<]] | [[:en:bible:notes:1co:07:03|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~
