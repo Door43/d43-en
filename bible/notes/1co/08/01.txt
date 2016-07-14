@@ -17,15 +17,13 @@
 \v 1 Now, about the question you asked regarding eating food that was offered to idols: We know that people say, "We all have knowledge." But if you think you know a lot, you can become very proud of yourself. If, however, when you love others, you help them grow strong in their faith.
 \v 2 The truth is that if someone assumes he knows something, he has not yet learned the humbleness he needs to know.
 \v 3 When you love God, God knows you. 
-
-
 \p
 </usfm>
 
 ===== ULB: =====
 
 <usfm>
-c 8
+\c 8
 \p
 \v 1 Now about food sacrificed to idols: We know that "we all have knowledge." Knowledge puffs up, but love builds up.
 \v 2 If anyone thinks he knows something, that person does not yet know as he should know.
@@ -44,15 +42,15 @@ c 8
 ===== translationNotes: =====
 
   * **Connecting Statement:** - Paul reminds the believers that though idols have no power, believers must be careful not to affect the weaker believers who might think they care about the idols. He tells believers to be careful with the liberty believers have in Christ.
-  * **General Information:** - "We" means Paul and, though specifically writing to the the Corinthian believers, includes all believers. (See: [[:en:ta:vol2:translate:figs_inclusive|Inclusive "We"]])
+  * **General Information:** - "We" means Paul and, though specifically writing to the the Corinthian believers, includes all believers. (See: [[:en:ta:vol2:translate:figs_inclusive]])
 
 
   * **Now about** - Paul uses this phrase to move on to the next question the Corinthians had asked him.
-  * **food sacrificed to idols** - The pagan worshipers would offer grain, fish, fowl, or meat, to a god. The priests would burn a portion of it on the altar. Paul speaks about the remaining portion, which would be returned to the worshiper or sold in the market.
+  * **food sacrificed to idols** - Gentile worshipers would offer grain, fish, fowl, or meat, to their gods. The priest would burn a portion of it on the altar. Paul is speaking of the portion the priest would give back for the worshiper to eat or sell in the market.
   * **We know that "we all have knowledge."** - Paul is quoting a phrase that some Corinthians used. AT: "We all know, as you yourselves like to say, that 'we all have knowledge.'"
-  * **puffs up** - "makes one proud" or "makes one think more of himself than he should"
+  * **puffs up** - "makes one proud" or "makes one think that he is better than he really is"
   * **thinks he knows something** - "believes he knows everything about something"
-  * **that person is known by him** - "God knows that person" (See: [[:en:ta:vol2:translate:figs_activepassive|Active or Passive]] )
+  * **that person is known by him** - This can be stated in active form. AT: "God knows that person" (See: [[:en:ta:vol2:translate:figs_activepassive]] )
 
 ===== Links: =====
 
@@ -61,6 +59,6 @@ c 8
   * [[:en:bible:questions:comprehension:1co:08]]
 **[[:en:bible:notes:1co:07:39|<<]] | [[:en:bible:notes:1co:08:04|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~
