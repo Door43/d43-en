@@ -30,6 +30,7 @@
 
 ===== translationWords: =====
 
+  * [[:en:obe:kt:word]]
   * [[:en:obe:kt:lordgod]]
   * [[:en:obe:other:household]]
   * [[:en:obe:kt:baptize]]
@@ -43,9 +44,10 @@
 
   * **General Information:** - Here the word "they" refers to Paul and Silas.
 
-  * **in his house** - The Jailer brought Paul and Silas to his home. AT: "in his home."
-  * **he and all his household were baptized** - AT: "Paul and Silas baptized the jailer and all members of his household" (See: [[:en:ta:vol2:translate:figs_activepassive|Active or Passive]])
-  * **him ... he ... his** - These pronouns refer to the jailer.
+  * **They spoke the word of the Lord to him** - Here "word" stands for a message. AT: "They told him the message about the Lord Jesus" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **him ... his ... he** - All occurrences of these pronouns refer to the jailer.
+  * **in his house** - "in his home." It is implied that immediately after the events of [[:en:bible:notes:act:16:29|16:29-31]] the jailer brought Paul and Silas to his home. (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **he and all his household were baptized** - This can be stated in active form. AT: "Paul and Silas baptized the jailer and all members of his household" (See: [[:en:ta:vol2:translate:figs_activepassive|Active or Passive]])
   * **because they had all believed** - "because all members of his household had believed"
 
 ===== Links: =====
@@ -55,6 +57,6 @@
   * [[:en:bible:questions:comprehension:act:16]]
 **[[:en:bible:notes:act:16:29|<<]] | [[:en:bible:notes:act:16:35|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit rejoice}}
+~~DISCUSSION~~{{tag>publish p2check rejoice}}
 
 ~~NOCACHE~~
