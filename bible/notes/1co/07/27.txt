@@ -15,8 +15,6 @@
 <usfm>
 \v 27 To you who are married, I say: do not seek to be freed from your vow.
 \v 28 But to the men who are single, I say, if you marry, you have committed no sin. I give the same advice to the single women: if you get married, you have committed no sin. However, if you marry, you will find many troubles, so I advise you to remain single.
-
-
 \p
 </usfm>
 
@@ -37,12 +35,11 @@
 ===== translationNotes: =====
 
   * **Are you bound ... Do not seek ... Are you free ... Do not seek ... you do ... you have** - Paul is speaking to the Corinthians as if they were one person, so all these instances of "you" and the command "do not seek" here are singular. (See: [[:en:ta:vol1:translate:figs_you]])
-  * **Are you bound to a woman by a vow of marriage** - Paul was addressing men who were married. AT: "If you are married,"
-  * **Do not seek freedom from it** - AT: "Do not try to be released from the vow of marriage"
-  * **Are you free from a wife or are unmarried?** - Paul was now addressing those who were not now married. AT: "If you are not now married"
-  * **Do not seek a wife** - AT: "Do not try to get married"
-  * **committed** - "performed" or "engaged in"
-  * **I would like to spare you from them** - AT: "I do not want you to have them"
+  * **Are you bound to a woman? Do not seek** - Paul addresses men who are married. AT: "If you are married, do not seek" (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **Are you free of a wife? Do not seek** - Paul addresses men who are not married. AT: "If you are not now married, do not seek"
+  * **Do not seek a wife** - "Do not try to get married"
+  * **committed** - "done"
+  * **I would like to spare you from them** - "I do not want you to have them"
 
 ===== Links: =====
 
@@ -51,6 +48,6 @@
   * [[:en:bible:questions:comprehension:1co:07]]
 **[[:en:bible:notes:1co:07:25|<<]] | [[:en:bible:notes:1co:07:29|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit vow}}
+~~DISCUSSION~~{{tag>publish p2check vow}}
 
 ~~NOCACHE~~
