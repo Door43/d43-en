@@ -17,20 +17,16 @@
 \v 12 And I have this to say—and this is my advice, not the Lord's command—to you who have a wife who is not a believer: if she is content to stay with you, do not divorce her.
 \v 13 And if you are a woman with a husband who does not believe, and if he is content to stay with you, do not divorce him.
 \v 14 The unbelieving husband is set apart in a special way because the wife trusts in God. It is the same for an unbelieving woman with a husband who trusts in God. It is the same for your children: they are set apart in a special way to God, because one parent believes in Christ.
-
-
 \p
 </usfm>
-
 
 ===== ULB: =====
 
 <usfm>
 \v 12 But to the rest I say—I, not the Lord—that if any brother has a wife who is an unbeliever, and if she is content to live with him, he should not divorce her.
 \v 13 If a woman has an unbelieving husband, and if he is content to live with her, she should not divorce him. 
-\v 14 For the unbelieving husband is set apart because of his believing wife, and the unbelieving woman is set apart because of her husband who believes. Otherwise your children would be unclean, but actually they are set apart.
+\v 14 For the unbelieving husband is set apart because of his wife, and the unbelieving woman is set apart because of her husband who believes. Otherwise your children would be unclean, but actually they are set apart.
 </usfm>
-
 
 ===== translationWords: =====
 
@@ -46,9 +42,11 @@
 ===== translationNotes: =====
 
   * **content** - "willing" or "satisfied"
-  * **For the unbelieving husband is set apart** - "For God has set apart the unbelieving husband for himself" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **the unbelieving woman is set apart** - "God has set apart the unbelieving woman for himself" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **they are set apart** - "God has set them apart for himself" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **For the unbelieving husband is set apart because of his believing wife** - Possible meanings are 1) "For God has set apart the unbelieving husband for himself because of his believing wife" or 2) "God treats the unbelieving husband as he would treat a son for the sake of his believing wife" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **husband ... wife** - These are the same Greek words as for "man" and "woman."
+  * **the unbelieving woman is set apart because of the brother** - Possible meanings are 1) "God has set apart the unbelieving woman for himself because of her husband who believes" or 2) "God treats the unbelieving wife as he would treat a daughter for the sake of her husband who believes" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **the brother** - the believing man or husband
+  * **they are set apart** - Possible meanings are 1) "God has set them apart for himself" or 2) "God treats them as he would treat his own children" (See: [[:en:ta:vol2:translate:figs_activepassive]])
 
 ===== Links: =====
 
@@ -57,6 +55,6 @@
   * [[:en:bible:questions:comprehension:1co:07]]
 **[[:en:bible:notes:1co:07:10|<<]] | [[:en:bible:notes:1co:07:15|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~
