@@ -39,6 +39,7 @@
   * [[:en:obe:kt:disciple]]
   * [[:en:obe:other:timothy]]
   * [[:en:obe:other:jew]]
+  * [[:en:obe:kt:believe]]
   * [[:en:obe:other:greek]]
   * [[:en:obe:kt:brother]]
   * [[:en:obe:other:iconium]]
@@ -48,11 +49,16 @@
 
   * **General Information:** - This part of the story is about Paul's journeys with Silas. Here Timothy is introduced into the story and joins Paul and Silas. Verses 1 and 2 give background information about Timothy. (See: [[:en:ta:vol2:translate:writing_background]])
 
+  * **Paul also came** - Here "came" can be translated as "went." (See: [[:en:ta:vol2:translate:figs_go]])
+  * **Derbe** - This is the name of a city in Asia Minor. See how you translated it in [[en:bible:notes:act:14:05|14:6]].
   * **behold** - The word "behold" alerts us to a new person in the narrative. Your language may have a way of doing this.
-  * **the son of a Jewish woman who believed** - "the son of a Jewish woman who believed in Christ"
-  * **He was well spoken of** - "Timothy had a good reputation" or "the believers said good things about him"
-  * **Paul wanted him to travel with him; so he took him** - "Paul wanted Timothy to travel with Paul so Paul took Timothy". All other third person pronouns (he, him, his) throughout these verses refer to Timothy.
-  * **his father was a Greek** - As a Greek, Timothy's father would not have personally circumcised Timothy so Paul circumcised him. Circumcision was often performed by a Jewish Rabbi, such as Paul.
+  * **who believed** - The words "in Christ" are understood. AT: "who believed in Christ" (See: [[:en:ta:vol2:translate:figs_ellipsis]])
+  * **He was well spoken of by the brothers** - This can be stated in active from. AT: "Timothy had a good reputation among the brothers" or "the brothers said good things about him" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **by the brothers** - Here "brothers" refers to believers. AT: "by the believers" (See: [[:en:ta:vol2:translate:figs_gendernotations]])
+  * **Paul wanted him to travel with him; so he took him** - "Paul wanted Timothy to travel with Paul; so Paul took Timothy"
+  * **and circumcised him** - It is possible that Paul himself circumcised Timothy, but it is more likely that he had someone else circumcise Timothy.
+  * **because of the Jews that were in those parts** - "because of the Jews living in the areas that Paul and Timothy would be traveling"
+  * **for they all knew that his father was a Greek** - Since Greek men did not have their sons circumcised, the Jews would have known Timothy was not circumcised, and they would have rejected Paul and Timothy before hearing their message about Christ. (See: [[:en:ta:vol1:translate:figs_explicit]])
 
 ===== Links: =====
 
@@ -61,6 +67,6 @@
   * [[:en:bible:questions:comprehension:act:16]]
 **[[:en:bible:notes:act:15:39|<<]] | [[:en:bible:notes:act:16:04|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit timothy }}
+~~DISCUSSION~~{{tag>publish p2check timothy }}
 
 ~~NOCACHE~~
