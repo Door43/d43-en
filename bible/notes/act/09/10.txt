@@ -28,6 +28,7 @@
 ===== translationWords: =====
 
   * [[:en:obe:kt:disciple]]
+  * [[:en:obe:kt:lordgod]]
   * [[:en:obe:other:paul]]
   * [[:en:obe:other:tarsus]]
   * [[:en:obe:other:vision]]
@@ -39,8 +40,13 @@
   * **Now there was** - This introduces Ananias as a new character. (See: [[:en:ta:vol2:translate:writing_participants]])
   * **a disciple at Damascus named Ananias** - This is not the same person as the man who died in [[:en:bible:notes:act:05:01|5:1]]. 
   * **And he said** - "And Ananias said"
-  * **house of Judas** - Judas was owner of a house in Damascus where Ananias stayed. Though there are several Judases mentioned in the New Testament, it is likely this is his only appearance.
-  * **a man from Tarsus** - "a man from the city of Tarsus"
+  * **go to the street which is called Straight** - "go to Straight Street" (UDB)
+  * **house of Judas** - This Judas is not the disciple who betrayed Jesus. This Judas was owner of a house in Damascus where Saul was staying. Though there are several Judases mentioned in the New Testament, it is likely this is his only appearance.
+  * **a man from Tarsus named Saul** - "a man from the city of Tarsus named Saul" or "Saul of Tarsus"
+  * **laying his hands on him** - This was a symbol of giving a spiritual blessing to Saul. (See: [[:en:ta:vol2:translate:translate_symaction]])
+  * **receive his sight** - "be able to see again"
+
+
 ===== Links: =====
 
   * [[:en:bible:notes:act:00:intro]]
@@ -48,6 +54,6 @@
   * [[:en:bible:questions:comprehension:act:09]]
 **[[:en:bible:notes:act:09:08|<<]] | [[:en:bible:notes:act:09:13|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit tarsus vision}}
+~~DISCUSSION~~{{tag>publish p2check tarsus vision}}
 
 ~~NOCACHE~~
