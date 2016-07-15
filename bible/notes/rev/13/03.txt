@@ -12,7 +12,7 @@
 ===== UDB: =====
 
 <usfm>
-\v 3 One of the heads of the beast looked as if someone had wounded it so that the beast almost died. But its wound had healed. 
+\v 3 One of the heads of the beast looked as if someone had wounded it so that it died. But its wound had healed. 
  As a result, all the people of the earth marveled at the beast and followed it.
 \v 4 They also worshiped the dragon because he had given the beast authority to rule over them. They also worshiped the beast and said, "No one is as powerful as the beast! Who could ever fight against it?"
 </usfm>
@@ -21,7 +21,7 @@
 ===== ULB: =====
 
 <usfm>
-\v 3 One of the beast's heads appeared to have a fatal wound; but the wound that should have killed him was healed. And the whole earth marveled as they followed the beast.
+\v 3 One of the beast's heads appeared that it had been killed, but its fatal wound was healed. And the whole earth marveled as they followed the beast.
 \v 4 They also worshiped the dragon, for he had given his authority to the beast. They worshiped the beast, too, and kept saying, "Who is like the beast?" and "Who can fight against him?"
 </usfm>
 
@@ -37,7 +37,7 @@
 ===== translationNotes: =====
 
   * **a fatal wound** - "a deadly wound." This is an injury that is serious enough to cause a person to die. 
-  * **But the wound that should have killed him was healed** - This can be stated in active form. AT: "But that wound healed" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **But its fatal wound was healed** - This can be stated in active form. AT: "But that wound healed" (See: [[:en:ta:vol2:translate:figs_activepassive]])
   * **the whole earth** - The word "earth" refers to the people on it. AT: "all the people on the earth" (See: [[:en:ta:vol2:translate:figs_metonymy]])
   * **followed the beast** - "obeyed the beast"
   * **dragon** - See how you translated this in [[:en:bible:notes:rev:12:03|12:3]].
