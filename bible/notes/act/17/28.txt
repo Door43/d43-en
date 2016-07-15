@@ -31,15 +31,19 @@
 ===== translationWords: =====
 
   * [[:en:obe:kt:life]]
-  * [[:en:obe:other:offspring]]
   * [[:en:obe:kt:god]]
+  * [[:en:obe:other:offspring]]
+  * [[:en:obe:kt:divine]]
+  * [[:en:obe:other:gold]]
+  * [[:en:obe:other:silver]]
 
 ===== translationNotes: =====
 
-  * **For in him** - "For in God"
+  * **For in him** - "For in God" or "For because of God"
   * **we live and move** - Paul is including his audience with himself. (See: [[:en:ta:vol2:translate:figs_inclusive|Inclusive "We"]])
-  * **are God's offspring** - Here "offspring" are descendants who may not be immediate children. They share some common characteristics with their ancestor. 
-  * **that the divinity** - Here "divinity" refers to God's nature or attributes.
+  * **are God's offspring** - All people are spoken of as if they were God's literal offspring because he created everyone. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **that the divinity** - Here "divinity" refers to God's nature or attributes. AT: "that God" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **sculptured with the art and thought of man** - This can be stated in active form** - "which a man uses his skill to make it into the shape of soemthing"
 
 ===== Links: =====
 
@@ -48,6 +52,6 @@
   * [[:en:bible:questions:comprehension:act:17]]
 **[[:en:bible:notes:act:17:26|<<]] | [[:en:bible:notes:act:17:30|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~
