@@ -24,18 +24,20 @@
 ===== translationWords: =====
 
   * [[:en:obe:other:nation]]
+  * [[:en:obe:kt:appoint]]
+  * [[:en:obe:other:seek]]
   * [[:en:obe:kt:god]]
 
 ===== translationNotes: =====
 
-  * **one man** - Possible meanings are 1) "the one man is referring to Adam whom God created" or 2) "It could include both Adam and Eve whom God created."
+  * **one man** - This means Adam, the first person God created. This can be stated to include Eve. It was through Adam and Eve that God made all other people. AT: "one couple" (UDB)
   * **he made every nation** - "God, the creator, made every nation"
-  * **their ... they** - These pronouns refer to every nation of people living on the surface of the earth.
+  * **having determined their appointed seasons and the boundaries of their living areas** - This can be stated as a new sentence. AT: "And he determined when an where they will live"
+  * **their ... they** - All occurrences of these pronouns refer to every nation of people living on the surface of the earth.
   * **Therefore** - This word marks a statement that is said because of what was said previously.
-  * **seek God** - "Search for God"
-  * **reach out to him** - "see a need for him"
-  * **he is not far from** - Paul says the opposite of what he means to empasize his point. AT: "he is very near to" (See: [[:en:ta:vol2:translate:figs_litotes|Litotes]])
-  * **from any one of us** - Paul includes himself, his audience and every nation in the use of "us" (See: [[:en:ta:vol2:translate:figs_inclusive|Inclusive "We"]])
+  * **they should seek God and perhaps they might reach out to him and find him** - Desiring to learn about God and to have a relationship with him is spoken of as if it were a person literally looking around to find someone. AT: "they should learn about him so that they may understand that they need him and become one of his people" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **he is not far from any one of us** - This can be stated in positive form. AT: "he is very near to everyone of us" (See: [[:en:ta:vol2:translate:figs_litotes|Litotes]])
+  * **of us** - Paul includes himself, his audience and every nation in the use of "us." (See: [[:en:ta:vol2:translate:figs_inclusive|Inclusive "We"]])
 
 ===== Links: =====
 
@@ -44,6 +46,6 @@
   * [[:en:bible:questions:comprehension:act:17]]
 **[[:en:bible:notes:act:17:24|<<]] | [[:en:bible:notes:act:17:28|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~
