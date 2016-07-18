@@ -15,11 +15,8 @@
 <usfm>
 \v 9 Let us not test the authority of Christ by disobeying him, as some of our ancestors did, and poisonous snakes killed them.
 \v 10 Do not grumble about what God provides, as some our ancestors did, and an angel destroyed them.
-
-
 \p
 </usfm>
-
 
 ===== ULB: =====
 
@@ -27,7 +24,6 @@
 \v 9 Neither let us put Christ to the test, as many of them did and were destroyed by snakes.
 \v 10 Also do not grumble, as many of them did, and were destroyed by an angel of death.
 </usfm>
-
 
 ===== translationWords: =====
 
@@ -38,9 +34,9 @@
  
 ===== translationNotes: =====
 
-  * **do not grumble** - "to express or utter with murmuring or complaining"
-  * **and were destroyed by an angel of death** - AT: "an angel of death destroyed them" (See: [[:en:ta:vol2:translate:figs_activepassive|Active or Passive]])
-  * **destroyed** - AT: "put an end to" or "killed"
+  * **grumble** - complaining
+  * **did and were destroyed by snakes** - This can be stated in active form. AT: "did. As a result, snakes destroyed them" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **did and were destroyed by an angel of death** - This can be stated in active form. AT: "did. As a result, an angel of death destroyed them" (See: [[:en:ta:vol2:translate:figs_activepassive]])
 
 ===== Links: =====
 
@@ -55,6 +51,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2check}}
 
 ~~NOCACHE~~
