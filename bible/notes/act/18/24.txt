@@ -44,6 +44,7 @@
   * [[:en:obe:kt:jesus]]
   * [[:en:obe:kt:baptize]]
   * [[:en:obe:other:johnthebaptist]]
+  * [[:en:obe:other:bold]]
   * [[:en:obe:other:synagogue]]
   * [[:en:obe:other:priscilla]]
   * [[:en:obe:other:aquila]]
@@ -55,10 +56,13 @@
 
   * **Now** - This word is used here to mark a break in the main storyline. Here Luke tells background information about Apollos. (See: [[:en:ta:vol2:translate:writing_background]])
   * **a certain Jew named Apollos** - The phrase "a certain" indicates that Luke is introducing a new person in the story. (See: [[:en:ta:vol2:translate:writing_participants]])
-  * **an Alexandrian by birth** - Possible cities are 1) "Alexandria in Egypt on the north coast" or 2) "Alexandria in Asia on the west coast." AT: "a man who was born in the city of Alexandria."
+  * **an Alexandrian by birth** - "a man who was born in the city of Alexandria." Possible cities are 1) Alexandria in Egypt on the north coast or 2) Alexandria in Asia on the west coast. (See: [[:en:ta:vol1:translate:translate_names]])
   * **eloquent in speech** - "a good speaker"
-  * **Being fervent in spirit** - He was wholehearted in his zeal and teaching.
-  * **the baptism of John** - "The baptism that John performed"
+  * **and mighty in the scriptures** - "and he knew the scriptures thoroughly"
+  * **Apollos had been instructed in the teachings of the Lord** - This can be stated in active form. AT: "Other believers had taught Apollos how the Lord Jesus wanted people to live" (UDB) (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **Being fervent in spirit** - Here "spirit" refers to the entire person of Apollos. AT: "Being very enthusiastic" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **the baptism of John** - "The baptism that John performed." This is comparing John's baptism which was with water to Jesus' baptism which is with the Holy Spirit.
+  * **the way of God** - How God wants people to live is spoken of as if it were a road that a person travels. (See: [[:en:ta:vol1:translate:figs_metaphor]])
   * **more accurately** - "more fully"
 ===== Links: =====
 
@@ -67,6 +71,6 @@
   * [[:en:bible:questions:comprehension:act:18]]
 **[[:en:bible:notes:act:18:22|<<]] | [[:en:bible:notes:act:18:27|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~
