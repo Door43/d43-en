@@ -31,12 +31,14 @@
 
   * [[:en:obe:other:jew]]
   * [[:en:obe:other:ephesus]]
+  * [[:en:obe:other:biblicaltimehour]]
 
 ===== translationNotes: =====
 
-  * **Jews brought Alexander** - Paul warns Timothy of Alexander the coppersmith (2 Timothy [[:en:bible:notes:2ti:04:14|4:14]]). It is not clear if they are the same person.
-  * **motioned with his hand** - "gestured to the audience"
-  * **make an explanation** - He wanted to "offer a defense," but it is not clear what he was going to say.
+  * **Alexander** - This is the name of a man. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **motioned with his hand to make an explanation** - You can make explicit that Alexander was trying to quieten the crowd. AT: "gestured to the audience to be quiet so that he could make an explanation" (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **make an explanation** - He wanted to offer a defense, but it is not clear what he was going to say.
+  * **with one voice** - "in unison" or "together
 ===== Links: =====
 
   * [[:en:bible:notes:act:00:intro]]
@@ -44,6 +46,6 @@
   * [[:en:bible:questions:comprehension:act:19]]
 **[[:en:bible:notes:act:19:30|<<]] | [[:en:bible:notes:act:19:35|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~
