@@ -32,17 +32,21 @@
 
   * [[:en:obe:other:preach]]
   * [[:en:obe:other:kingdom]]
+  * [[:en:obe:kt:face]]
+  * [[:en:obe:kt:testimony]]
   * [[:en:obe:kt:innocent]]
   * [[:en:obe:kt:blood]]
-  * [[:en:obe:kt:god]]
+  * [[:en:obe:kt:willofgod]]
  
 
 ===== translationNotes: =====
 
+  * **And now, look, I know** - "And now, pay careful attention, because I know"
   * **I know that you all** - "I know that all of you"
-  * **among whom I went about preaching the kingdom** - "to whom I preached the message about the kingdom of God"
-  * **will see my face no more** - The word "face" here represents Paul's physical body. AT: "will not see me in the flesh anymore on this earth" (See: [[:en:ta:vol2:translate:figs_synecdoche|Synecdoche]])
-  * **I am innocent of the blood of any man** - "I cannot be blamed for anyone being judged guilty by God" (See: [[:en:ta:vol1:translate:figs_metaphor|Metaphor]] and [[:en:ta:vol1:translate:figs_explicit|Assumed Knowledge and Implicit Information]])
+  * **among whom I went about preaching the kingdom** - Here "kingdom" stands for God's rule as king. AT: "to whom I preached the message about God's reign as king" or "to whom I preached about how God will show himself as king" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **will see my face no more** - The word "face" here represents Paul's physical body. AT: "will not see me anymore on this earth" (See: [[:en:ta:vol2:translate:figs_synecdoche|Synecdoche]])
+  * **I am innocent of the blood of any man** - Here "blood" stands for a person's death, which, in this case, is not physical death but spiritual death when God declares a person guilty of sin. AT: "I am not responsible for anyone whom God judges guilty of sin because they did not trust in Jesus" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **For I did not keep back from declaring to you** - "For I did not keep silent and not tell you." This can be stated in positive form. AT: "For I certainly declared to you" (See: [[:en:ta:vol2:translate:figs_litotes]])
 
 ===== Links: =====
 
@@ -51,6 +55,6 @@
   * [[:en:bible:questions:comprehension:act:20]]
 **[[:en:bible:notes:act:20:22|<<]] | [[:en:bible:notes:act:20:28|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit preach innocent}}
+~~DISCUSSION~~{{tag>publish p2check preach innocent}}
 
 ~~NOCACHE~~
