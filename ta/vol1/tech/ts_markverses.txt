@@ -27,9 +27,6 @@ Sometimes you may need to combine 2 verses together in a sentence. Combining ver
     * Move all of the verse markers to the beginning of the combined verses.
       * For example: if you are working on a chunk that has verse 1 and 2 combined into one verse you would move the markers for 1 and 2 to the beginning of the combined verse.  The verse 3 marker would go immediately after the combined verses (if verse 3 is on the same chunk.)
 
-**Verse Marker in Another Chunk**
-
-Sometimes a verse bridge may need to put 2 verses together that are not on the same chunk. Put the verse marker in the correct spot on the first chunk and then on the next chunk leave the verse marker at the beginning. Remember where the verse bridge was over two chunks, so it can be edited during the printing process.
 
 **Adding a Verse**
 
