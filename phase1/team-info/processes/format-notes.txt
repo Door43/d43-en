@@ -127,9 +127,9 @@ If the meaning is given in a way that can be used as a translation suggestion, p
   * Sentences that are short probably do not need ellipses in the notes.
   * As a rule, do NOT end a quote/portion with an ellipsis.
       * "<del>**I completely understand ... **</del>" This is incorrect. Do not use ellipses this way!
-  * The only exception is when you need to include the final punctuation for showing contrast in the alternate translation. 
+  * When you need to include the final punctuation for showing contrast in the alternate translation add the final word before the punctuation.
   * Example: Jesus said to them, "Why are you afraid, you of little faith?" The note would be written: 
-    * **Why are you afraid ... ?** - Jesus was rebuking the disciples with this rhetorical question. AT: "You should not be afraid ... !" or "There is nothing for you to be afraid of ... ." (See: Rhetorical Question).
+    * **Why are you afraid ... faith?** - Jesus was rebuking the disciples with this rhetorical question. AT: "You should not be afraid ... faith!" or "There is nothing for you to be afraid of ... faith." (See: Rhetorical Question).
       * The question mark in the original text is replaced by a period or an exclamation point in the alternate translation.
      
 === Identify Figures of Speech ===
