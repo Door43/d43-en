@@ -9,17 +9,13 @@
 \p
 </usfm>
 
-
 ===== UDB: =====
 
 <usfm>
 \v 12 As the human body is a union of many parts, and every part of the body makes the whole, so it is with Christ.
 \v 13 For it is by the Spirit of Christ that, when we were baptized, we were each joined together into the body of Christ. It made no difference what our background was, either Jew or Greek, slave or free, but each of us received the gift of the Holy Spirit.
-
-
 \p
 </usfm>
-
 
 ===== ULB: =====
 
@@ -28,7 +24,6 @@
 \v 12 For as the body is one and has many members and all are members of the same body, so it is with Christ.
 \v 13 For in one Spirit we were all baptized into one body, whether Jews or Greeks, whether bound or free, and all were made to drink of one Spirit.
 </usfm>
-
 
 ===== translationWords: =====
 
@@ -45,10 +40,10 @@
  
 ===== translationNotes: ===== 
 
-  * **Connecting Statement:** - As Paul continues to talk of the variety of gifts God gives believers, Paul wants them to know that all believers - though they have different gifts that God gave them - are made into one body which is called the body of Christ. For this reason believers should have unity.
+  * **Connecting Statement:** - Paul continues to talk of the variety of gifts God gives believers, God gives different gifts to different believers, but Paul wants them to know that all believers are made into one body, which is called the body of Christ. For this reason believers should have unity.
 
-  * **we were all baptized** - AT: "the Holy Spirit baptized us all" (See: [[:en:ta:vol2:translate:figs_activepassive|Active or Passive]])
-  * **all were made to drink of one Spirit** - AT: "God gave all of us the same Spirit, and we share the Spirit as people might share a drink" (See: [[:en:ta:vol1:translate:figs_metaphor|Metaphor]] and [[:en:ta:vol2:translate:figs_activepassive|Active or Passive]])
+  * **we were all baptized** - AT: "the Holy Spirit baptized us all" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **all were made to drink of one Spirit** - This can be stated in active form. AT: "God gave all of us the same Spirit, and we share the Spirit as people might share a drink" (See: [[:en:ta:vol2:translate:figs_activepassive]] and [[:en:ta:vol1:translate:figs_metaphor]])
 
 ===== Links: =====
 
@@ -63,6 +58,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2check}}
 
 ~~NOCACHE~~
