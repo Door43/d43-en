@@ -19,11 +19,8 @@
 \v 1 And now let me teach you about spiritual gifts, brothers and sisters. I want you to know how to use them.
 \v 2 You may recall how, when you worshiped idols—idols that could not even speak a word—they led you astray.
 \v 3 The Spirit of God helps you declare, "Jesus Christ is Lord." No one who is filled with the Holy Spirit would ever say "May Jesus be accursed!"
-
-
 \p
 </usfm>
-
 
 ===== ULB: =====
 
@@ -34,7 +31,6 @@
 \v 2 You know that when you were pagans, you were led astray to voiceless idols, in whatever ways you were led by them.
 \v 3 Therefore I want you to know that no one who speaks by the Spirit of God can say, "Jesus is accursed." No one can say, "Jesus is Lord," except by the Holy Spirit.
 </usfm>
-
 
 ===== translationWords: =====
 
@@ -53,10 +49,10 @@
 
   * **Connecting Statement:** - Paul lets them know that God has given special gifts to believers. These gifts are to help the body of believers.
 
-  * **I do not want you to be uninformed** - AT: "I want you to know" (See: [[:en:ta:vol2: translate:figs_doublenegatives]])
-  * **you were led astray to voiceless idols** - AT: "other people influenced you to worship voiceless idols" (See: [[:en:ta:vol2:translate:figs_activepassive]] and [[:en:ta:vol1:translate:figs_idiom]])
-  * **you were led by them** - AT: "they led you"
-  * **no one who speaks by the Spirit of God can say** - Possible meanings are 1) "no Christian who has the Spirit of God in him, can say," or 2) "no one who is prophesying by the power of the Spirit of God can say."
+  * **I do not want you to be uninformed** - This can be stated as a positive. AT: "I want you to know" (See: [[:en:ta:vol2: translate:figs_doublenegatives]])
+  * **you were led astray to voiceless idols** - This can be stated in active form. AT: "you believed lies and worshiped voiceless idols" See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **in whatever ways you were led by them** - This can be stated in active form. AT: "and they led you in many ways" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **no one who speaks by the Spirit of God can say** - Possible meanings are 1) "no Christian who has the Spirit of God in him can say" or 2) "no one who is prophesying by the power of the Spirit of God can say."
  
 ===== Links: =====
 
@@ -65,6 +61,6 @@
   * [[:en:bible:questions:comprehension:1co:12]]
 **[[:en:bible:notes:1co:11:33|<<]] | [[:en:bible:notes:1co:12:04|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit gift}}
+~~DISCUSSION~~{{tag>publish p2check gift}}
 
 ~~NOCACHE~~
