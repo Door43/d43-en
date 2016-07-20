@@ -7,8 +7,6 @@
 \v 9 To others, the same Spirit gives the ability to believe \add that God will work miracles\add*. To others, the Spirit gives the ability to heal \add sick people\add*.
 \v 10 To others, he gives the power \add to perform\add* miracles. To others, he gives the ability to speak messages that come directly from God. To others, he gives the ability to tell \add if a message is really from God or not\add*. To others he gives the ability to speak messages in languages \f + \ft metonymy \f* \add that they have not learned\add*. To others, he gives the ability to tell the meaning of those messages \f + \ft metonymy \f*.
 \v 11 It is the same one Spirit who gives all these abilities. He gives whatever abilities he wants to give, to whatever person he wants to give them.
-
-
 \p
 </usfm>
 
@@ -26,8 +24,8 @@
 ===== ULB: =====
 
 <usfm>
-\v 9 To another he gives faith by the same Spirit, and to another gifts of healing by the one Spirit.
-\v 10 To another he gives deeds of power, and to another prophecy. To another he gives the ability to distinguish between spirits, to another various kinds of tongues, and to another the interpretation of tongues.
+\v 9 To another is given faith by the same Spirit, and to another gifts of healing by the one Spirit.
+\v 10 To another is given deeds of power, and to another prophecy. To another is given the ability to distinguish between spirits, to another various kinds of tongues, and to another the interpretation of tongues.
 \v 11 But the same Spirit works in all of these, giving the gifts to each one individually, as he chooses.
 </usfm>
 
@@ -45,9 +43,10 @@
  
 ===== translationNotes: =====
 
-  * **by the same Spirit** - See how this is translated in [[:en:bible:notes:1co:12:07|12:8]].
+  * **is given ... by the same Spirit** - See how this is translated in [[:en:bible:notes:1co:12:07|12:8]].
   * **various kinds of tongues** - "the ability to speak different languages" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **the interpretation of tongues** - the ability to tell what people who speak other languages are saying
+  * **the interpretation of tongues** - the ability to tell what people who are speaking in other languages are saying
+  * **the one and the same Spirit** - Paul is reminding the readers of "the same Spirit ... the one Spirit" (verse 9).
 
 ===== Links: =====
 
@@ -56,6 +55,6 @@
   * [[:en:bible:questions:comprehension:1co:12]]
 **[[:en:bible:notes:1co:12:07|<<]] | [[:en:bible:notes:1co:12:12|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~
