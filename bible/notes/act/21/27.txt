@@ -34,18 +34,23 @@
   * [[:en:obe:other:paul]]
   * [[:en:obe:kt:temple]]
   * [[:en:obe:other:israel]]
-  * [[:en:obe:other:law]]
+  * [[:en:obe:kt:lawofmoses]]
   * [[:en:obe:other:greek]]
+  * [[:en:obe:other:defile]]
   * [[:en:obe:kt:holy]]
   * [[:en:obe:other:ephesus]]
 ===== translationNotes: =====
 
   * **General Information:** - This is the beginning of the part of the story about Paul's arrest. Verse 29 gives background information about the Jews from Asia.
 
+  * **the seven days** - These are the seven days for purification.
+  * **in the temple** - Paul was not in the temple itself. He was in the temple courtyard. (See: [[:en:ta:vol2:translate:figs_synecdoche]])
   * **excited all the multitude** - "caused a large number of people to start a protest"
-  * **laid hands on him** - "physically grabbed him"
+  * **laid hands on him** - "grabbed him Paul"
+  * **the people, the law, and this place** - "the people of Israel, the law of Moses, and the temple"
   * **Besides, he has also brought Greeks into the temple** - Only Jewish males were allowed to enter the inner court of the Jerusalem temple.
-  * **Trophimus** - This was the Greek man that Paul was accused of bringing into the inner temple area that was only for Jews.
+  * **For they had previously ... into the temple** - This is background information. Luke is explaining why the Jews from Asia thought Paul brought a Greek into the temple. (See: [[:en:ta:vol2:translate:writing_background]])
+  * **Trophimus** - This was the Greek man that Paul was accused of bringing into the inner temple area that was only for Jews. See how you translated his name in [[:en:bible:notes:act:20:04|20:4]].
 ===== Links: =====
 
   * [[:en:bible:notes:act:00:intro]]
@@ -53,6 +58,6 @@
   * [[:en:bible:questions:comprehension:act:21]]
 **[[:en:bible:notes:act:21:25|<<]] | [[:en:bible:notes:act:21:30|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit }}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~
