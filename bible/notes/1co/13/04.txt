@@ -19,11 +19,8 @@
 \v 5 If you truly love others, you will not abuse them. You will not live to please yourself. No one will be able to make you angry quickly. You will not keep track of the wrong things people have done.
 \v 6 If you truly love others, you will not be happy if anyone does wicked things; instead, you will be happy when people are faithful to God.
 \v 7 If you truly love others, you will endure everything that happens. You will trust that God will do the best things for people. You will trust in God regardless of what happens. You will obey God regardless of what hardships you are facing.
-
-
 \p
 </usfm>
-
 
 ===== ULB: =====
 
@@ -33,7 +30,6 @@
 \v 6 It does not rejoice in unrighteousness. Instead, it rejoices in the truth.
 \v 7 Love bears all things, believes all things, has confidence concerning all things, and endures all things.
 </usfm>
-
 
 ===== translationWords: =====
 
@@ -53,7 +49,8 @@
 ===== translationNotes: =====
 
 
-  * **Love is patient and kind** - Here Paul speaks about love as if it were a person. (See: [[:en:ta:vol2:translate:figs_personification]])
+  * **Love is patient and kind ... endures all things** - Here Paul speaks about love as if it were a person. (See: [[:en:ta:vol2:translate:figs_personification]])
+  * **It is not easily angered** - This can be stated in active form. AT: "No one will be able to make it angry quickly." (See: [[:en:ta:vol2:translate:figs_activepassive]])
   * **It does not rejoice in unrighteousness. Instead, it rejoices in the truth** - "It rejoices only in righteousness and truth" (See: [[:en:ta:vol2:translate:figs_doublenegatives]] and [[:en:ta:vol2:translate:figs_parallelism]])
 
 ===== Links: =====
@@ -69,6 +66,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit love}}
+{{tag>publish p2check love}}
 
 ~~NOCACHE~~
