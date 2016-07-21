@@ -16,7 +16,6 @@
 \v 11 But if I do not understand someone's language, I will be like a foreigner to him, and he will be like one to me.
 </usfm>
 
-
 ===== ULB: =====
 
 <usfm>
@@ -24,13 +23,14 @@
 \v 11 But if I do not know the meaning of a language, I will be a foreigner to the speaker, and the speaker will be a foreigner to me.
 </usfm>
 
-
 ===== translationWords: =====
 
   * [[:en:obe:other:know]]
   * [[:en:obe:other:foreigner]]
+
 ===== translationNotes: =====
 
+  * **none is without meaning** - This can be stated as a positive. AT: "they all have meaning" (See: [[:en:ta:vol2:translate:figs_doublenegatives]])
 
 ===== Links: =====
 
@@ -45,6 +45,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2check}}
 
 ~~NOCACHE~~
