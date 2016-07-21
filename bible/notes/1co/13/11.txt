@@ -18,7 +18,6 @@
 \v 13 It is important that we trust in Christ now. It is important that we are certain that he will do for us everything that he has promised. And it is important that we love him and each other. But the greatest of these three things is love.
 </usfm>
 
-
 ===== ULB: =====
 
 <usfm>
@@ -27,20 +26,22 @@
 \v 13 But now these three remain: faith, future confidence, and love. But the greatest of these is love.
 </usfm>
 
-
 ===== translationWords: =====
 
   * [[:en:obe:kt:children]]
   * [[:en:obe:kt:face]]
   * [[:en:obe:other:know]]
   * [[:en:obe:kt:faith]]
+  * [[:en:obe:kt:confidence]]
   * [[:en:obe:kt:love]]
 
 ===== translationNotes: =====
 
-  * **For now we see in a mirror, as in a dark image** - This refers to mirrors in the first century, which were made of polished metal rather than glass and provided a dim, vague reflection.
-  * **face to face** - This means that we will be physically present with Christ. (See: [[:en:ta:vol2:translate:figs_synecdoche|Synecdoche]])
-  * **just as I have been fully known** - AT: "just as Christ has known me fully" (See: [[:en:ta:vol2:translate:figs_activepassive|Active or Passive]])
+  * **For now we see indirectly in a mirror** - Mirrors in Paul's day were made of polished metal rather than glass and provided a dim, vague reflection.
+  * **now we see** - Possible meanings are 1) "now we see Christ" or 2) "now we see God."
+  * **but then face to face** - "but then we will see Christ face to face" (See: [[:en:ta:vol2:translate:figs_ellipsis]]) This means that we will be physically present with Christ. (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **I will know fully** - "I will know Christ fully" (See: [[:en:ta:vol2:translate:figs_ellipsis]])
+  * **just as I have been fully known** - AT: "just as Christ has known me fully" (See: [[:en:ta:vol2:translate:figs_activepassive]])
 
 ===== Links: =====
 
@@ -55,6 +56,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2check}}
 
 ~~NOCACHE~~
