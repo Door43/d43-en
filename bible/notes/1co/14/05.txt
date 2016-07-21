@@ -9,7 +9,6 @@
 \v 6 My fellow believers, suppose that I came to you and spoke to you in a language that none of you knows \add and I did not explain the meaning of what I told you\add*. Even if I told you something that God had revealed to me, or told you some message that had come directly from him, or taught you something that you needed to know, that certainly would not help you!\f + \ft Or: how would that help you? \f* \f + \ft rhetorical question \f*
 </usfm>
 
-
 ===== UDB: =====
 
 <usfm>
@@ -18,14 +17,12 @@
 \v 6 If I come to you and am only speaking in languages given by the Spirit, how can that help you? That cannot help you unless I speak to you and help you know matters that were hidden from you, or unless I help you understand facts you did not know, or unless I proclaim to you some message you did not hear before, or unless I teach you some rule that you had never learned before.
 </usfm>
 
-
 ===== ULB: =====
 
 <usfm>
 \v 5 Now I wish that you all spoke in tongues. But even more than that, I wish that you would prophesy. The one who prophesies is greater than the one who speaks in tongues (unless someone interprets), so that the church may be built up.
 \v 6 But now, brothers, if I come to you speaking in tongues, how will I benefit you? I cannot, unless I speak to you with revelation, or knowledge, or prophecy, or teaching.
 </usfm>
-
 
 ===== translationWords: =====
 
@@ -38,8 +35,9 @@
 
 ===== translationNotes: =====
 
-  * **The one who prophesies is greater** - Paul is emphasizing that the gift of prophecy is greater than the gift of speaking in tongues. AT: "The one who prophesies has a greater gift."
-  * **how will I benefit you** - AT: "I will not benefit you" (See: [[:en:ta:vol1:translate:figs_rquestion|Rhetorical Question]])
+  * **The one who prophesies is greater** - Paul is emphasizing that the gift of prophecy is greater than the gift of speaking in tongues. AT: "The one who prophesies has a greater gift." (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **how will I benefit you** - This can be a statement. AT: "I will not benefit you" (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **benefit you** - "do something good for you"
 
 ===== Links: =====
 
@@ -48,6 +46,6 @@
   * [[:en:bible:questions:comprehension:1co:14]]
 **[[:en:bible:notes:1co:14:01|<<]] | [[:en:bible:notes:1co:14:07|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~
