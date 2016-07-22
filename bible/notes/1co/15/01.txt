@@ -15,11 +15,8 @@
 <usfm>
 \v 1 And now I wish to remind you, brothers and sisters, about the good news I proclaimed to you. You believed this message and now you live according to it.
 \v 2 This good news saved you, as long as you hold firmly to it—unless you did not truly believe it.
-
-
 \p
 </usfm>
-
 
 ===== ULB: =====
 
@@ -29,7 +26,6 @@
 \v 1 Now I remind you, brothers, of the gospel I proclaimed to you, which you received and on which you stand.
 \v 2 It is by this gospel that you are being saved, if you hold firmly to the word I preached to you, unless you believed in vain.
 </usfm>
-
 
 ===== translationWords: =====
 
@@ -46,9 +42,9 @@
 
   * **Connecting Statement:** - Paul reminds them that it is the gospel that saves them and he tells them again what the gospel is. Then he gives them a short history lesson which ends with what will yet happen.
 
+  * **on which you stand** - Paul is speaking of the Corinthians as if they were a house and the gospel as if it were the foundation on which the house was standing. (See: [[:en:ta:vol1:translate:figs_metaphor]])
   * **remind you** - "help you remember"
-  * **you are being saved** - "God will save you" (See: [[:en:ta:vol2:translate:figs_activepassive|Active or Passive]])
-  * **firmly** - "securely"
+  * **you are being saved** - This can be stated in active form. "God will save you" (See: [[:en:ta:vol2:translate:figs_activepassive]])
 
 ===== Links: =====
 
@@ -60,6 +56,6 @@
 
 ~~DISCUSSION~~
 
-{{tag>publish p2edit}}
+{{tag>publish p2check}}
 
 ~~NOCACHE~~
