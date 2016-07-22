@@ -27,14 +27,18 @@
 
 ===== translationWords: =====
 
-  * [[:en:obe:other:law]]
+  * [[:en:obe:kt:lawofmoses]]
   * [[:en:obe:other:jew]]
   * [[:en:obe:kt:brother]]
+  * [[:en:obe:kt:hour]]
 
 ===== translationNotes: =====
 
+  * **Ananias** - See how you translated this name in [[:en:bible:notes:act:05:01|5:1]].
   * **devout man according to the law** - Ananias was very serious about following God's law.
-  * **well spoken of** - "with a good reputation among others"
+  * **well spoken of by all the Jews who lived there** - This can be stated in active form. AT: "the Jews who lived there spoke well of him" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **Brother Saul** - Here "Brother" is a polite way to address someone. AT: "My friend Saul" (UDB)
+  * **receive your sight** - The abstract noun "sight" can be translated with the verb "see." AT: "see again" (UDB) (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
   * **In that very hour** - This was a customary way of saying something happened immediately. AT: "At that instant" or "Instantly" (See: [[:en:ta:vol1:translate:figs_idiom]])
 
 ===== Links: =====
@@ -44,6 +48,6 @@
   * [[:en:bible:questions:comprehension:act:22]]
 **[[:en:bible:notes:act:22:09|<<]] | [[:en:bible:notes:act:22:14|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit }}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~
