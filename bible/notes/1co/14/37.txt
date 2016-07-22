@@ -15,11 +15,8 @@
 <usfm>
 \v 37 If there is any prophet or any who is spiritual among you, he will understand that the things I write are what the Lord has commanded, and he will follow what I have written.
 \v 38 But if anyone does not acknowledge what I have written, you should not acknowledge him in your assembly.
-
-
 \p
 </usfm>
-
 
 ===== ULB: =====
 
@@ -30,7 +27,6 @@
 \f + \ft Most versions, including the ULB and UDB, read, \fqa But if anyone does not recognize this, let him not be recognized. \fqb Some older versions read, \fqa "But if anyone is ignorant of this, let him be ignorant." \f*
 </usfm>
 
-
 ===== translationWords: =====
 
   * [[:en:obe:kt:prophet]]
@@ -40,8 +36,8 @@
 
 ===== translationNotes: =====
 
-  * **he should acknowledge** - Paul establishes a test for true and false prophets based on the person's acceptance of his writings.
-  * **let him not be recognized** - "let others not recognize him" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **he should acknowledge** - A true prophet or truly spiritual person will accept Paul's writings as coming from the Lord.
+  * **let him not be recognized** - This can be stated in active form. AT: "you should not recognize him" (See: [[:en:ta:vol2:translate:figs_activepassive]])
  
 ===== Links: =====
 
@@ -56,6 +52,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2check}}
 
 ~~NOCACHE~~
