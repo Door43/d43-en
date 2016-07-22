@@ -39,7 +39,7 @@
   * [[:en:obe:other:tarsus]]
   * [[:en:obe:other:cilicia]]
   * [[:en:obe:other:instruct]]
-  * [[:en:obe:other:law]]
+  * [[:en:obe:kt:lawofmoses]]
   * [[:en:obe:other:father]]
   * [[:en:obe:kt:zealous]]
   * [[:en:obe:kt:god]]
@@ -51,20 +51,27 @@
   * [[:en:obe:kt:witness]]
   * [[:en:obe:kt:brother]]
   * [[:en:obe:other:damascus]]
+  * [[:en:obe:kt:bond]]
   * [[:en:obe:other:jerusalem]]
   * [[:en:obe:other:punish]]
 
 ===== translationNotes: =====
 
-  * **educated in this city at the feet of Gamaliel** - "was a student of rabbi Gamaliel in here in Jerusalem"
-  * **I was instructed according to the strict ways of the law of our forefathers** - AT: "They instructed me according to the strict ways of the law of our forefathers" or "The instruction I received followed the exact details of the law of our forefathers" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **I am zealous for God** - "I have strong feelings when I act to do what I believe is God's will" or "I am passionate about my service to God"
-  * **just as all of you are today** - Paul is comparing himself with the crowd. AT: "in the same way all of you are today" or "just like you today." 
-  * **this Way** - Here "Way" refers to the local group of believers in Jerusalem. See how you translated this in [[:en:bible:notes:act:09:01|9:2]].
-  * **to the death** - Paul was willing to kill people who followed the Way.
-  * **bear witness** - "give a witness" or "testify"
-  * **I received letters from them** - "I received letters from the high priests and elders"
-  * **I was to bring back in bonds** - AT: "They ordered me to bring back in chains" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **I was educated in this city at the feet of Gamaliel** - This can be stated in active form. AT: "I was a student of rabbi Gamaliel here in Jerusalem" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **at the feet of Gamaliel** - Here "feet" stands for a place where a student would sit while learning from a teacher. (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **Gamaliel** - See how you translated this name in [[:en:bible:notes:act:05:33|5:34]].
+  * **I was instructed according to the strict ways of the law of our forefathers** - This can be stated in active form. AT: "He instructed me how to carefully obey every law of our forefathers" or "The instruction I received followed the exact details of the law of our forefathers" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **law of our forefathers** - This is another way of saying "law of Moses."
+  * **I am zealous for God** - "I am completely dedicated to obeying God" or "I am passionate about my service to God"
+  * **just as all of you are today** - "in the same way all of you are today" or "just like you today." Paul is comparing himself with the crowd.  
+  * **this Way** - This was a term used to refer to Christianity. See how you translated this in [[:en:bible:notes:act:09:01|9:2]].
+  * **to the death** - The abstract noun "death" can be translated with the verb "kill" or "die."  AT: "and I looked for ways to kill them" (UDB)" or "and I even caused them to die" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
+  * **and delivered them into prison** - "and threw them into prison" or "an put them into prison"
+  * **bear witness** - "attest" or "testify"
+  * **I received letters from them** - "The high priests and elders gave me letters"
+  * **for the brothers in Damascus** - Here "brothers" refers to "fellow Jews."
+  * **I was to bring back in bonds to Jerusalem those of this Way** - "They ordered me to bind with chains those of the Way and bring them back to Jerusalem"
+  * **in order to be punished** - This can be stated in active form. AT: "in order that they may receive punishment" or "in order that the Jewish authorities could punish them" (See: [[:en:ta:vol2:translate:figs_activepassive]])
 
 ===== Links: =====
 
@@ -73,6 +80,6 @@
   * [[:en:bible:questions:comprehension:act:22]]
 **[[:en:bible:notes:act:22:01|<<]] | [[:en:bible:notes:act:22:06|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit zealous father}}
+~~DISCUSSION~~{{tag>publish p2check zealous father}}
 
 ~~NOCACHE~~
