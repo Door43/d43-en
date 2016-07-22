@@ -20,11 +20,15 @@
 
 <usfm>
 \v 4 The kings will tell their troops,
-\pi2 'Make the sacrifices necessary to get ready for battle. We should attack them before noontime, but even if we arrive there late in the afternoon,
-\v 5 we will attack them at night and tear down their fortresses.'"
+\q2 'Make the sacrifices necessary to get ready for battle.
+\q2 We should attack them before noontime,
+\q1 but even if we arrive there late in the afternoon,
+\q1
+\v 5 we will attack them at night
+\q2 and tear down their fortresses.'"
 
 
-\m
+\p
 </usfm>
 
 ===== ULB: =====

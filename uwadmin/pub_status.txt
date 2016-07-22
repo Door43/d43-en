@@ -96,7 +96,11 @@
     ^Language   ^Publish Date   ^Version    ^Checking Level ^
     |  [[:en:uwadmin:fa:obs:status|فارسی]]  |  2016-06-15  |  4.1  |  {{https://api.unfoldingword.org/obs/jpg/1/checkinglevels/uW-Level2-32px.png}}  |
     
+    ===== gaj-x-ymnk =====
+    ^Language   ^Publish Date   ^Version    ^Checking Level ^
+    |  [[:en:uwadmin:gaj-x-ymnk:obs:status|Gadsup Yomunka]]  |  20160721  |  4.1  |  {{https://api.unfoldingword.org/obs/jpg/1/checkinglevels/uW-Level1-32px.png}}  |
+    
     ===== hmr =====
     ^Language   ^Publish Date   ^Version    ^Checking Level ^
-    |  [[:en:uwadmin:hmr:obs:status|Hmar]]  |  2016-07-13  |  4.1  |  {{https://api.unfoldingword.org/obs/jpg/1/checkinglevels/uW-Level3-32px.png}}  |
+    |  [[:en:uwadmin:hmr:obs:status|Hmar]]  |  2016-07-21  |  4.1  |  {{https://api.unfoldingword.org/obs/jpg/1/checkinglevels/uW-Level3-32px.png}}  |
     
