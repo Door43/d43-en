@@ -6,22 +6,16 @@
 <usfm>
 \v 10 But it is because God acted kindly toward me in ways that I did not deserve that I became what I am now. And his acting kindly toward me produced a great result \f + \ft litotes \f*, which is that I worked harder \add for Christ\add* than all the other apostles. But it was not that I \add was working with my own ability\add*. Instead, God was helping me in a way I did not deserve.
 \v 11 So it does not matter whether it was I \add who was preaching or whether it was the other apostles who were preaching\add*. We all preached \add the same message\add*, and that message is what you believed.
-
-
 \p
 </usfm>
-
 
 ===== UDB: =====
 
 <usfm>
 \v 10 But God has been very kind to me, so he did many good things through me. Really, I have worked harder than all the other apostles. Still, it was not really I who worked, but God, who gave me the strength.
 \v 11 So whether it is the other apostles or I who preached to you, we proclaimed the good news about Christ, and you believed us. 
-
-
 \p
 </usfm>
-
 
 ===== ULB: =====
 
@@ -29,7 +23,6 @@
 \v 10 But by the grace of God I am what I am, and his grace in me was not in vain. Instead, I worked harder than all of them. Yet it was not I, but the grace of God that is with me.
 \v 11 Therefore whether it is I or they, so we preach and so you believed.
 </usfm>
-
 
 ===== translationWords: =====
 
@@ -42,8 +35,8 @@
 ===== translationNotes: =====
 
   * **the grace of God I am what I am** - God's grace or kindness has made Paul as he is now.
-  * **was not in vain** - Paul chose to live according to God's kindness.
-  * **grace of God that is with me** - Paul attributes his life to God's kindness toward him.
+  * **his grace in me was not in vain** - Paul is emphasizing through litotes that God worked through Paul. AT: "because he was kind to me, I was able to do much good work" (See: [[:en:ta:vol2:translate:figs_litotes]])
+  * **the grace of God that is with me** - Paul speaks of the work he was able to do because God was kind to him as if that grace were actually doing the work. AT: Possible meanings are 1) this is literally true, and God actually did the work and kindly used Paul as a tool or 2) Paul is using a metaphor and saying that God was kind to let Paul do the work and to make Paul's work have good results. (See: [[:en:ta:vol1:translate:figs_metaphor]])
 
 ===== Links: =====
 
@@ -58,6 +51,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2check}}
 
 ~~NOCACHE~~
