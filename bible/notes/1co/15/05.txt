@@ -39,6 +39,7 @@
  
 ===== translationNotes: =====
 
+  * **Connecting Statement:** - If you need for verse 5 to be a complete sentence, end [[:en:bible:notes:1co:15:03|15:4]] with a comma so that verse 5 completes the sentence begun in [[:en:bible:notes:1co:15:03|15:3]].
 
   * **appeared to** - "showed himself to"
   * **five hundred** - 500 (See: [[:en:ta:vol2:translate:translate_numbers]])
@@ -57,6 +58,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit thetwelve}}
+{{tag>publish p2check thetwelve}}
 
 ~~NOCACHE~~
