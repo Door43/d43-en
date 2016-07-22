@@ -35,6 +35,7 @@
 ===== translationWords: =====
 
   * [[:en:obe:kt:lordgod]]
+  * [[:en:obe:other:prison]]
   * [[:en:obe:kt:believe]]
   * [[:en:obe:other:synagogue]]
   * [[:en:obe:kt:blood]]
@@ -46,10 +47,10 @@
 
   * **Connecting Statement:** - Paul finishes recounting his vision of Jesus. This is also the end of his speech to the crowd in Jerusalem. 
 
-  * **they themselves know** - This refers to the non-believing Jews at Jerusalem.
-  * **beat those** - "arranged to have them punished by a whipping"
-  * **every synagogue** - Paul sought out any jewish believers who attended any synagogue around Jerusalem.
-  * **the blood of Stephen ... was spilled** - This expression was customary to say a person was killed. AT: "they killed Stephen" (See: [[:en:ta:vol1:translate:figs_idiom]] and [[:en:ta:vol2:translate:figs_activepassive]])
+  * **they themselves know** - This refers to the non-believing Jews in Jerusalem.
+  * **they themselves** - The word "themselves" is used for emphasis. (See: [[:en:ta:vol2:translate:figs_rpronouns]])
+  * **in every synagogue** - Paul went to synagogues in the area to find Jews who believed in Jesus.
+  * **the blood of Stephen your witness was spilled** - Here "blood" stands for Stephen's life. To spill blood means to kill. This can be stated in active form AT: "they killed Stephen who testified about you" (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol2:translate:figs_activepassive]])
 
 ===== Links: =====
 
@@ -58,6 +59,6 @@
   * [[:en:bible:questions:comprehension:act:22]]
 **[[:en:bible:notes:act:22:17|<<]] | [[:en:bible:notes:act:22:22|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit stephen}}
+~~DISCUSSION~~{{tag>publish p2check stephen}}
 
 ~~NOCACHE~~
