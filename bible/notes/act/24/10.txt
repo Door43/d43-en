@@ -36,9 +36,13 @@
 ===== translationWords: =====
 
   * [[:en:obe:other:governor]]
-  * [[:en:obe:kt:judge]]
+  * [[:en:obe:other:biblicaltimeyear]]
+  * [[:en:obe:other:judgeposition]]
+  * [[:en:obe:other:nation]]
+  * [[:en:obe:kt:worship]]
   * [[:en:obe:other:jerusalem]]
   * [[:en:obe:other:synagogue]]
+  * [[:en:obe:other:accuse]]
  
 
 ===== translationNotes: =====
@@ -46,10 +50,12 @@
   * **General Information:** - Paul responds to Governor Felix about the charges brought against him.
 
   * **the governor motioned** - "the governor gestured"
+  * **a judge to this nation** - Here "nation" refers to the people of the Jewish nation. AT: "a judge for the people of the Jewish nation" (See: [[:en:ta:vol2:translate:figs_metonymy]])
   * **explain myself** - "explain my situation"
   * **You are able to verify** - "You will be able to prove"
   * **twelve days since** - "12 days since" (See: [[:en:ta:vol2:translate:translate_numbers]])
-  * **I did not stir up** - "I did not disturb" or "I did not provoke"
+  * **when they found me** - "when some of the Jews found me"
+  * **I did not stir up a crowd** - This speaks about provoking people as if it were a person stirring a liquid and causing the things at the bottom of the liquid to rise to the surface. AT: "I did not disturb" or "I did not provoke" (See: [[:en:ta:vol1:translate:figs_metaphor]])
   * **the accusations** - "the blames for wrongdoings" or "the charges for crimes"
 ===== Links: =====
 
@@ -58,6 +64,6 @@
   * [[:en:bible:questions:comprehension:act:24]]
 **[[:en:bible:notes:act:24:07|<<]] | [[:en:bible:notes:act:24:14|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit synagogue}}
+~~DISCUSSION~~{{tag>publish p2check synagogue}}
 
 ~~NOCACHE~~
