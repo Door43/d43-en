@@ -36,8 +36,12 @@
 
 ===== translationWords: =====
 
+  * [[:en:obe:other:instruct]]
   * [[:en:obe:other:centurion]]
+  * [[:en:obe:other:warrior]]
   * [[:en:obe:other:caesarea]]
+  * [[:en:obe:other:horsemen]]
+  * [[:en:obe:other:spear]]
   * [[:en:obe:other:biblicaltimehour]]
   * [[:en:obe:other:paul]]
   * [[:en:obe:other:governor]] 
@@ -45,11 +49,12 @@
 
 ===== translationNotes: =====
 
+  * **Then he called to him** - "Then the chief captain called to himself"
   * **two of the centurions** - "2 of the centurions" (See: [[:en:ta:vol2:translate:translate_numbers]])
   * **seventy horsemen** - "70 horsemen" (See: [[:en:ta:vol2:translate:translate_numbers]])
   * **two hundred spearmen** - "200 soldiers that are armed with spears" (See: [[:en:ta:vol2:translate:translate_numbers]])
   * **third hour of the night** - This was about 9:00 p.m. at night.
-  * **Felix the governor** - Felix is the roman governor of the area who resides at Caesarea. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **Felix the governor** - Felix is the roman governor of the area. He resides at Caesarea. (See: [[:en:ta:vol1:translate:translate_names]])
 
 ===== Links: =====
 
@@ -58,6 +63,6 @@
   * [[:en:bible:questions:comprehension:act:23]]
 **[[:en:bible:notes:act:23:20|<<]] | [[:en:bible:notes:act:23:25|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit governor}}
+~~DISCUSSION~~{{tag>publish p2check governor}}
 
 ~~NOCACHE~~
