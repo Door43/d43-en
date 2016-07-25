@@ -39,14 +39,16 @@
 ===== translationWords: =====
 
   * [[:en:obe:other:paul]]
+  * [[:en:obe:other:accuse]]
   * [[:en:obe:other:jew]]
   * [[:en:obe:kt:true]]
 ===== translationNotes: =====
 
   * **Connecting Statement:** - Tertullus finishes presenting Governor Felix with the charges against Paul.
 
-  * **When you question Paul** - "When you interrogate Paul" or "question as in a court trial"
+  * **When you question Paul** - Here "you" is singular and refers to Governor Felix. (See: [[:en:ta:vol1:translate:figs_you]])
   * **we accuse him of** - "accuse Paul of doing" or "accuse Paul of being guilty of doing"
+  * **The Jews** - This refers to the Jewish leaders who were there at Paul's trial. (See: [[:en:ta:vol2:translate:figs_synecdoche]])
 ===== Links: =====
 
   * [[:en:bible:notes:act:00:intro]]
@@ -54,6 +56,6 @@
   * [[:en:bible:questions:comprehension:act:24]]
 **[[:en:bible:notes:act:24:04|<<]] | [[:en:bible:notes:act:24:10|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~
