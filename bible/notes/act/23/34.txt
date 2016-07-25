@@ -28,13 +28,17 @@
 ===== translationWords: =====
 
   * [[:en:obe:other:governor]]
+  * [[:en:obe:other:province]]
   * [[:en:obe:other:paul]]
   * [[:en:obe:other:cilicia]]
+  * [[:en:obe:other:accuse]]
   * [[:en:obe:other:herodantipas]]
 ===== translationNotes: =====
 
-  * **when he learned that he was from Cilicia** - "when the governor learned that Paul was from Cilicia"
-  * **commanded him to be kept** - "commanded soldiers to keep Paul" or "commanded soldiers to restrain Paul"
+  * **he asked what province Paul was from** - This can be stated as a direct quotation. AT: "he asked Paul, 'What province are you from?'" (See: [[:en:ta:vol2:translate:figs_quotations]])
+  * **when he learned that he was from Cilicia, he said** - "when the governor learned that Paul was from Cilicia, the governor said." This can be stated as a direct quotation. AT: "Paul said, 'I am from Cilicia.' Then the governor said" (See: [[:en:ta:vol2:translate:figs_quotations]])
+  * **I will hear you fully** - "I will listen to all you have to say"
+  * **he commanded him to be kept** - This can be stated in active form. AT: "he commanded soldiers to keep Paul" or "commanded soldiers to restrain Paul"
 ===== Links: =====
 
   * [[:en:bible:notes:act:00:intro]]
@@ -42,6 +46,6 @@
   * [[:en:bible:questions:comprehension:act:23]]
 **[[:en:bible:notes:act:23:31|<<]] | [[:en:bible:notes:act:24:01|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~
