@@ -33,6 +33,7 @@
 
 ===== translationWords: =====
 
+  * [[:en:obe:other:biblicaltimeday]]
   * [[:en:obe:other:chiefpriests]]
   * [[:en:obe:other:elder]]
   * [[:en:obe:other:paul]]
@@ -44,16 +45,17 @@
 
   * **General Information:** - Paul is on trial in Caesarea. Tertullus presents Governor Felix with the charges against Paul.
  
-  * **After five days** - "five days after the Roman soldiers took Paul to Caesarea"
+  * **After five days** - "Five days after the Roman soldiers took Paul to Caesarea"
   * **Ananias** - See how you translated this in [[:en:bible:notes:act:23:01|23:1]].
-  * **an orator** - "a lawyer" or "one who speaks to accuse another in court
-  * **went there** - "went to Caesarea where Paul was"
+  * **an orator** - "a lawyer." Tertullus was an expert in Roman law. He was there to accuse Paul in court.
   * **Tertullus** - This is the name of a man. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **went there** - "went to Caesarea where Paul was"
   * **When Paul stood before the governor** - "When Paul was in the presence of the governor who was the judge in the court"
   * **began to accuse him** - "began to speak against him" or "began to bring violations of Roman law against him"
-  * **Because of you** - The word "you" refers to the governor.
-  * **we have great peace** - "The people that you govern have great peace" (See: [[:en:ta:vol2:translate:figs_exclusive]])
-  * **Felix** - See how you translated this in [[:en:bible:notes:act:23:25|23:25]].
+  * **Because of you** - The word "you" refers to the governor. (See: [[:en:ta:vol1:translate:figs_you]])
+  * **we have great peace** - "we, the people that you govern, have great peace" (See: [[:en:ta:vol2:translate:figs_exclusive]])
+  * **and your foresight brings good reform to our nation** - "and your planning has greatly improved our nation"
+  * **most excellent Felix** - See how you translated a similar phrase in [[:en:bible:notes:act:23:25|23:25]].
 
 ===== Links: =====
 
@@ -62,6 +64,6 @@
   * [[:en:bible:questions:comprehension:act:24]]
 **[[:en:bible:notes:act:23:34|<<]] | [[:en:bible:notes:act:24:04|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~
