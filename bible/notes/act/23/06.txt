@@ -47,10 +47,12 @@
 
 ===== translationNotes: =====
  
+  * **Brothers** - Here "Brothers" means "Fellow Jews"
   * **a son of Pharisees** - Here "son" means he is the literal son of a Pharisee and also the descendant of Pharisees. AT: "and my father and forefathers were Pharisees"
-  * **I am being judged** - "you are judging me"
-  * **the assembly was divided** - "the members of the assembly disagreed"
-  * **there is no resurrection, no angels, and no spirits** - Possible meanings are 1) they did not believe in the resurrection, angels or spirits or 2) God will not resurrect people from the dead as angels or as spirits.
+  * **I confidently expect the resurrection of the dead** - The abstract noun "resurrection" can be stated as "come back to life." The nominal adjective "dead" can be stated as "those who died." AT: "I confidently expect those who have died will come back to life" (See: [[:en:ta:vol2:translate:figs_abstractnouns]] and [[:en:ta:vol2:translate:figs_nominaladj]])
+  * **I am being judged** - This can be stated in active form. AT: "you are judging me" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **the assembly was divided** - "the members of the assembly strongly disagreed with one another"
+  * **For the Sadducees ... all of these exist** - This is background information about the Sadducees and Pharisees. (See: [[:en:ta:vol2:translate:writing_background]])
 
 ===== Links: =====
 
@@ -59,6 +61,6 @@
   * [[:en:bible:questions:comprehension:act:23]]
 **[[:en:bible:notes:act:23:04|<<]] | [[:en:bible:notes:act:23:09|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit text}}
+~~DISCUSSION~~{{tag>publish p2check text}}
 
 ~~NOCACHE~~
