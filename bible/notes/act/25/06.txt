@@ -31,8 +31,10 @@
 
 ===== translationWords: =====
 
+  * [[:en:obe:other:biblicaltimeday]]
   * [[:en:obe:other:caesarea]]
   * [[:en:obe:kt:judge]]
+  * [[:en:obe:other:command]]
   * [[:en:obe:other:paul]]
   * [[:en:obe:other:jew]]
   * [[:en:obe:other:jerusalem]]
@@ -42,9 +44,11 @@
 ===== translationNotes: =====
 
   * **After he stayed** - "After Festus stayed"
-  * **sat in the judgment seat** - "sat upon the seat where he acted as judge"
-  * **Paul to be brought to him** - AT: "that they bring Paul to him" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **he went down to Caesarea** - Jerusalem is higher than Caesarea. It was common for them to speak of coming down from Jerusalem.
+  * **sat in the judgment seat** - "sat upon the seat where he acted as judge" or "he sat down as judge"
+  * **Paul to be brought to him** - This can be stated in active form. AT: "that his soldiers bring Paul to him" (See: [[:en:ta:vol2:translate:figs_activepassive]])
   * **When he arrived** - "When Paul came and stood before Festus"
+  * **they brought many serious charges** - Charging a person with a crime is spoken of as if it were an object that a person could bring to court. AT: "they spoke against Paul many serious things" (See: [[:en:ta:vol1:translate:figs_metaphor]])
   * **the name of the Jews** - "the law of the Jews" (UDB)
   * **not against the temple** - Paul says he did not break any rules about who could enter the Jerusalem Temple. AT: "not against the entry rules of the temple" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
 
@@ -55,6 +59,6 @@
   * [[:en:bible:questions:comprehension:act:25]]
 **[[:en:bible:notes:act:25:04|<<]] | [[:en:bible:notes:act:25:09|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit caesar}}
+~~DISCUSSION~~{{tag>publish p2edit caesar text}}
 
 ~~NOCACHE~~
