@@ -31,6 +31,7 @@
 
 ===== translationWords: =====
 
+  * [[:en:obe:other:wrong]]
   * [[:en:obe:other:council]]
   * [[:en:obe:kt:resurrection]]
   * [[:en:obe:kt:death]]
@@ -39,7 +40,10 @@
 
   * **Connecting Statement:** - Paul finishes responding to Governor Felix about the charges brought against him.
 
-  * **these same men** - the members of the council who were present in Caesarea at the hearing of Paul
+  * **these same men** - This refers to the members of the council who were present in Caesarea at Paul's trial.
+  * **should say what wrong they found in me** - "should say the wrong thing I did that they were able to prove"
+  * **It is about the resurrection of the dead** - The abstract noun "resurrection" can be stated as "God brings back to life." The nominal adjective "dead" can be stated as "those who died." AT: "It is because I believe that God will bring back to life those who have died" (See: [[:en:ta:vol2:translate:figs_abstractnouns]] and [[:en:ta:vol2:translate:figs_nominaladj]])
+  * **I am being judged today by you** - This can be stated in active form. AT: "you are judging me today" (See: [[:en:ta:vol2:translate:figs_activepassive]])
 
 
 ===== Links: =====
@@ -49,4 +53,4 @@
   * [[:en:bible:questions:comprehension:act:24]]
 **[[:en:bible:notes:act:24:17|<<]] | [[:en:bible:notes:act:24:22|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit council}}
+~~DISCUSSION~~{{tag>publish p2check council}}
