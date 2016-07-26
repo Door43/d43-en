@@ -12,9 +12,7 @@
 
 <usfm>
 \v 3 I tell you this because you are looking for proof that Christ is speaking through me. He is not weak in dealing with you; instead, he is working in you by his great power.
-\v 4 We learn from Christ's example, because they crucified him when he was weak, yet God has made him alive again. And we, too, are weak as we live and follow his example, but with him, God will strengthen us as we talk with you about these sins that some of you have committed. 
-
-
+\v 4 We learn from Christ's example, because they crucified him when he was weak, yet God has made him alive again. And we, too, are weak as we live and follow his example, but with him, God will strengthen us as we talk with you about these sins that some of you have committed.
 \p
 </usfm>
 
@@ -32,9 +30,12 @@
   * [[:en:obe:kt:crucify]]
   * [[:en:obe:kt:life]]
   * [[:en:obe:kt:god]]
+
 ===== translationNotes: =====
 
+  * **he was crucified** - This can be made active. AT: "they crucified him" (See: [[:en:ta:vol2:translate:figs_activepassive]])
   * **but we will live with him by the power of God** - God gives us the power and ability to live life in and with him.
+
 ===== Links: =====
 
   * [[:en:bible:notes:2co:00:intro]]
@@ -42,6 +43,6 @@
   * [[:en:bible:questions:comprehension:2co:13]]
 **[[:en:bible:notes:2co:13:01|<<]] | [[:en:bible:notes:2co:13:05|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~
