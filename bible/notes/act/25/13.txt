@@ -32,23 +32,33 @@
 
   * [[:en:obe:other:king]]
   * [[:en:obe:other:caesarea]]
+  * [[:en:obe:other:biblicaltimeday]]
   * [[:en:obe:other:paul]]
   * [[:en:obe:other:prison]]
   * [[:en:obe:other:jerusalem]]
   * [[:en:obe:other:chiefpriests]]
   * [[:en:obe:other:elder]]
   * [[:en:obe:other:jew]]
+  * [[:en:obe:kt:condemn]]
   * [[:en:obe:other:rome]]
   * [[:en:obe:kt:favor]]
+  * [[:en:obe:kt:face]]
+  * [[:en:obe:other:accuse]]
 
 ===== translationNotes: =====
 
   * **General Information:** - Festus begins to explain Paul's case to King Agrippa.
 
   * **Now** - This word marks the beginning of a new event in the story.
-  * **King Agrippa and Bernice** - Agrippa was the current reigning king and Bernice was his sister. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **King Agrippa and Bernice** - This introduces new people to the story. (See: [[:en:ta:vol2:translate:writing_participants]])
+  * **King Agrippa** - This is the current reigning king in Palestine, though he only ruled over a few territories. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **Bernice** - This is the name of Agrippa's sister. (See: [[:en:ta:vol1:translate:translate_names]])
   * **to pay an official visit to Festus** - "to visit Festus concerning official matters"
-  * **A certain man was left behind here by Felix as a prisoner** - AT: "When Felix left office, he left a man in prison here" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **A certain man was left behind here by Felix as a prisoner** - This can be stated in active form. AT: "When Felix left office, he left a man in prison here" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **brought charges against this man to me** - To charge someone in court is spoken of as if it were an object that a person brings to court. AT: "spoke to me against this man" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **they asked for condemnation against him** - The abstract noun "condemnation" can be stated as the verb "condemn." AT: "they asked me to condemn him to death"
+  * **to give up a man** - "to condemn a man to death"
+  * **to face his accusers** - "to meet directly with his those who accuse him"
 ===== Links: =====
 
   * [[:en:bible:notes:act:00:intro]]
@@ -56,6 +66,6 @@
   * [[:en:bible:questions:comprehension:act:25]]
 **[[:en:bible:notes:act:25:11|<<]] | [[:en:bible:notes:act:25:17|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit caesarea}}
+~~DISCUSSION~~{{tag>publish p2check caesarea}}
 
 ~~NOCACHE~~
