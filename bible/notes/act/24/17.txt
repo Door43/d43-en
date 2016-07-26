@@ -30,6 +30,7 @@
 
 ===== translationWords: =====
 
+  * [[:en:obe:other:biblicaltimeyear]]
   * [[:en:obe:other:nation]]
   * [[:en:obe:kt:gift]]
   * [[:en:obe:other:jew]]
@@ -39,9 +40,12 @@
  
 ===== translationNotes: =====
 
-  * **help to my nation and gifts of money.** - "help that consisted in gifts of money"
-  * **not with a crowd** - "not with a crowd that I had gathered together to do wrong"
-  * **These men** - "the Jews from Asia"
+  * **Now** - This word marks a shift in Paul's argument. Here he explains the situation in Jerusalem when some of the Jews arrested him.
+  * **after many years** - "after many years away from Jerusalem"
+  * **I came to bring help to my nation and gifts of money** - Here "I came" can be translated as "I went." AT: "I went to help my people by bringing them money as a gift" (See: [[:en:ta:vol2:translate:figs_go]])
+  * **in a purification ceremony in the temple** - "in the temple after I had finished a ceremony to purify myself"
+  * **not with a crowd or an uproar** - This can be stated as a new sentence. AT: "I had not gathered a crowd nor was I trying to start a riot"
+  * **These men** - "The Jews from Asia"
   * **if they have anything** - "if they have anything to say"
 
 ===== Links: =====
@@ -51,6 +55,6 @@
   * [[:en:bible:questions:comprehension:act:24]]
 **[[:en:bible:notes:act:24:14|<<]] | [[:en:bible:notes:act:24:20|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit gift}}
+~~DISCUSSION~~{{tag>publish p2check gift}}
 
 ~~NOCACHE~~
