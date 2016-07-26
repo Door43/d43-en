@@ -21,11 +21,8 @@
 \v 11 Do not let anyone disdain him. Help him on his way as much as you can; send him away in peace so that he may join me. I am expecting him to travel with other brothers who are coming my way. 
 \p
 \v 12 You asked about our brother Apollos. I urged him strongly that he should visit you when the other brothers came to you. He decided not to come now, but he will come to you later when he has opportunity.
-
-
 \p
 </usfm>
-
 
 ===== ULB: =====
 
@@ -35,7 +32,6 @@
 \v 11 Let no one despise him. Help him on his way in peace, so that he may come to me. For I am expecting him to come along with the brothers.
 \v 12 Now concerning our brother Apollos. I strongly encouraged him to visit you with the brothers. But he decided not to come now. However, he will come when he has opportunity.
 </usfm>
-
 
 ===== translationWords: =====
 
@@ -47,11 +43,12 @@
   * [[:en:obe:kt:brother]]
   * [[:en:obe:other:apollos]]
   * [[:en:obe:other:encourage]]
+
 ===== translationNotes: =====
 
   * **see that he is with you unafraid** - AT: "see that he has no cause to fear being with you"
-  * **Let no one despise him** - Timothy, being much younger than Paul, might not be welcomed with the respect due him as a minister of the gospel as were Paul and Apollos.
-  * **our brother Apollos** - Paul treats Apollos with the respect of a fellow believer and minister in Christ and supports his return to Corinth to minister to them.
+  * **Let no one despise him** - Timothy, being much younger than Paul, might not be welcomed with the respect due him as a minister of the gospel, as were Paul and Apollos.
+  * **our brother Apollos** - The word "our" refers to Paul and his readers and so is inclusive. (See: [[:en:ta:vol2:translate:figs_inclusive]])
 
 ===== Links: =====
 
@@ -66,6 +63,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2check}}
 
 ~~NOCACHE~~
