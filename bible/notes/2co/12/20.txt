@@ -11,7 +11,7 @@
 
 <usfm>
 \v 20 But when I come to you, I may not find you as I wished.  When I come you may not want to listen to me. I fear that you are arguing a lot among yourselves, that some of you are jealous of one another, and that some of you become very angry with each other. I fear that some of you are putting yourselves first, that you are talking about each other, and that some of you are very selfish.
-\v 21 I am afraid that when I come to you and see you, God will humble me. I am afraid that I will have to mourn for many of who disobeyed God earlier and have not stopped sinning in various sexual ways.
+\v 21 When I come to you, I am afraid when I see you, God will humble me. I am sad and I mourn for many of who disobeyed God and have not stopped sinning in various sexual ways.
 </usfm>
 
 ===== ULB: =====
@@ -35,13 +35,17 @@
   * [[:en:obe:kt:repent]]
   * [[:en:obe:kt:fornication]]
   * [[:en:obe:other:lust]]
+
 ===== translationNotes: =====
 
-  * **I may not find you as I wish** - AT: "I may not like what I find"
-  * **you might not find me as you wish** - AT: "you might not like my response"
-  * **that there may be** - AT: "I hope that I will not find"
-  * **I might be grieved by many of those who have sinned before now** - AT: "I will be grieved because many of them have not given up their old sins"
-  * **and who did not repent of the impurity and sexual immorality and lustful indulgence that they practiced** - AT: "and have not repented of the sexual sins that they practiced"
+  * **I may not find you as I wish** - "I may not like what I find" or "I may not like what I see you doing"
+  * **you might not find me as you wish** - "you might not like what you see in me"
+  * **there may be arguments, jealousy, outbursts of anger, selfish ambition, gossip, pride, and disorder** - "some of you are arguing with each other, jealous of each other, suddenly becoming very angry with each other, talking about each other's private lives, being proud, and opposing those whom God has chosen to lead" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
+  * **I might be grieved by many of those who have sinned before now** - "I will be grieved because many of them have not given up their old sins"
+  * **did not repent of the impurity and sexual immorality and lustful indulgence** - Possible meanings are 1) Paul is saying almost the same thing three times for emphasis, AT: "did not stop committing the sexual sins that they practiced" (See: [[:en:ta:vol2:translate:figs_parallelism]]) or 2) Paul is speaking of three different sins.
+  * **impurity** - secretly thinking about and desiring things that do not please God (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
+  * **lustful indulgence** - doing things that satisfy immoral sexual desire (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
+
 ===== Links: =====
 
   * [[:en:bible:notes:2co:00:intro]]
@@ -49,6 +53,6 @@
   * [[:en:bible:questions:comprehension:2co:12]]
 **[[:en:bible:notes:2co:12:19|<<]] | [[:en:bible:notes:2co:13:01|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit jealous}}
+~~DISCUSSION~~{{tag>publish p2check jealous}}
 
 ~~NOCACHE~~
