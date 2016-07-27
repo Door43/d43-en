@@ -10,15 +10,15 @@
 ===== UDB: =====
 
 <usfm>
-\v 3 But as I think about you, I have become afraid that someone has tricked you, like the devil tricked Eve. I am afraid that someone has convinced you to stop loving Christ with an honest heart.
-\v 4 I say this because you do not seem to mind if someone else comes and tells you different things about Jesus than what we told you, or if he wants you to receive a different spirit from the Spirit of God, or a different kind of good news.
+\v 3 But as I think about you, I became afraid that someone has tricked you, like the devil tricked Eve. I was afraid that someone had convinced you to stop loving Christ with an honest heart.
+\v 4 I say this, because you do not seem to mind if someone else comes and tells you different things about Jesus than what we did, or if he wants you to receive a different spirit from the Spirit of God, or a different kind of good news.
 </usfm>
 
 ===== ULB: =====
 
 <usfm>
 \v 3 But I am afraid that somehow, as the serpent deceived Eve by his craftiness, your thoughts might be led astray away from a sincere and pure devotion to Christ.
-\v 4 For suppose that someone comes and proclaims another Jesus than the one we preached. Or suppose that you receive a different spirit than what you received. Or suppose that you receive a different gospel than the one you received. You put up with these things well enough!
+\v 4 For suppose that someone comes and proclaims another Jesus than the one we preached. Or suppose that you receive a different spirit than what you received. Or suppose that you receive a different gospel than the one you received. You tolerate these things well enough!
 </usfm>
 
 ===== translationWords: =====
@@ -35,12 +35,15 @@
   * [[:en:obe:other:preach]]
   * [[:en:obe:kt:spirit]]
   * [[:en:obe:kt:goodnews]]
+
 ===== translationNotes: =====
 
-  * **But I am afraid that somehow ... pure devotion to Christ** - "But I am afraid that somehow your thoughts might be led astray from a sincere and pure devotion to Christ just as the serpent deceived Eve by his craftiness" 
-  * **For suppose that someone comes and** - "When anyone"
-  * **Or suppose that you receive a different spirit than what you received. Or suppose that you receive a different gospel than the one you received** - "a different spirit than the Holy Spirit, or a different gospel than you received from us"
-  * **You tolerate these things well enough!** - "You put up with these things!"
+  * **But I am afraid that somehow ... pure devotion to Christ** - "But I am afraid that somehow your thoughts might be led astray from a sincere and pure devotion to Christ just as the serpent deceived Eve by his craftiness"
+  * **your thoughts might be led astray away** - Paul speaks of thoughts as if they were animals that people could lead along the wrong path. AT: "someone might cause you to believe lies" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **For suppose that someone comes and** - "When anyone comes and"
+  * **a different spirit than what you received. Or suppose that you receive a different gospel than the one you received** - "a different spirit than the Holy Spirit, or a different gospel than you received from us"
+  * **put up with** - See how these words were translated in [[:en:bible:notes:2co:11:01|11:1]].
+
 ===== Links: =====
 
   * [[:en:bible:notes:2co:00:intro]]
@@ -48,6 +51,6 @@
   * [[:en:bible:questions:comprehension:2co:11]]
 **[[:en:bible:notes:2co:11:01|<<]] | [[:en:bible:notes:2co:11:05|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~
