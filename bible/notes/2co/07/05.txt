@@ -32,6 +32,7 @@
 ===== translationWords: =====
 
   * [[:en:obe:other:macedonia]]
+  * [[:en:obe:other:trouble]]
   * [[:en:obe:kt:fear]]
   * [[:en:obe:kt:god]]
   * [[:en:obe:other:comfort]]
@@ -40,10 +41,12 @@
 
 ===== translationNotes: =====
 
-  * **our bodies had no rest** - AT: "we were very tired" or "we were exhausted"
-  * **the comfort that Titus had received from you** - AT: "the news of the encouragement he had received from you Corinthians"
-  * **He told us of your great affection, your sorrow, and your deep concern for me** - AT: "He told us about your love for me, your sorrow over what had happened, and your deep concern for my welfare."
-  * **So I rejoiced even more** - AT: "I was filled with joy"
+  * **When we came to Macedonia** - Here the word "We" refers to Paul and Timothy, but not to the Corinthians or Titus. (See: [[:en:ta:vol2:translate:figs_exclusive]])
+  * **our bodies had no rest** - Here the word "bodies" refers to the whole person. AT: "we had no rest" or "we were very tired" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **we were troubled in every way** - This can be stated in active form. AT: "we experienced trouble in every way" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **by conflicts on the outside and fears on the inside** - Possible meanings for the word "outside" are 1) "outside of our bodies" or 2) "outside of the church." The word "inside" refers to their inward emotions. AT: "by conflicts with other people and by fears within ourselves" (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **by the comfort that Titus had received from you** - Paul received comfort from knowing that the Corinthians had comforted Titus. AT: "by learning about the comfort that Titus had received from you" (See: [[:en:ta:vol1:translate:figs_explicit]])
+
 ===== Links: =====
 
   * [[:en:bible:notes:2co:00:intro]]
@@ -51,6 +54,6 @@
   * [[:en:bible:questions:comprehension:2co:07]]
 **[[:en:bible:notes:2co:07:02|<<]] | [[:en:bible:notes:2co:07:08|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~
