@@ -28,18 +28,21 @@
   * [[:en:obe:kt:fear]]
   * [[:en:obe:kt:zealous]]
   * [[:en:obe:kt:justice]]
+  * [[:en:obe:kt:innocent]]
+  * [[:en:obe:kt:suffer]]
   * [[:en:obe:other:wrong]]
   * [[:en:obe:kt:god]]
+
 ===== translationNotes: =====
 
-  * **See what great determination** - "Understand what great determination"
-  * **produced in you. How great was the determination in you to prove you were innocent** - AT: "produced in you in order to prove you were innocent"
-  * **How great was your indignation** - "Your indignation was very great"
-  * **your indignation** - AT: "your anger"
-  * **your fear** - AT: "what anxiety" or "what dismay"
-  * **your longing** - AT: "You wanted very much to see me"
-  * **your zeal** - AT: "You were very eager to do what was right"
-  * **so that your earnestness for us should be made known to you in the sight of God** - AT: "so that you would realize, as God does, that your feelings for us are very sincere"
+  * **See** - This word adds emphasis to what is said next.
+  * **How great was the determination in you to prove you were innocent** - Here the word "How" makes this statement an exclamation. AT: "Your determination to prove you were innocent was very great!" (See: [[:en:ta:vol2:translate:figs_exclamations]])
+  * **your indignation** - "your anger"
+  * **that justice should be done** - This can be stated in active form. AT: "that someone should carry out justice" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **the wrongdoer** - "the one who did the wrong"
+  * **so that your earnestness for us should be made known to you** - This can be stated in active form. AT: "so that you would know that your earnestness for us is sincere" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **in the sight of God** - See how you translated this in [[:en:bible:notes:2co:04:01|4:2]].
+
 ===== Links: =====
 
   * [[:en:bible:notes:2co:00:intro]]
@@ -47,6 +50,6 @@
   * [[:en:bible:questions:comprehension:2co:07]]
 **[[:en:bible:notes:2co:07:08|<<]] | [[:en:bible:notes:2co:07:13|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~
