@@ -34,12 +34,17 @@
   * [[:en:obe:other:governor]]
   * [[:en:obe:kt:worthy]]
   * [[:en:obe:kt:death]]
+  * [[:en:obe:kt:bond]]
   * [[:en:obe:other:caesar]]
  
 
 ===== translationNotes: =====
 
   * **Then the king stood up, and the governor** - "Then King Agrippa stood up, and Governor Festus"
+  * **Bernice** - See how you translated this name in [[:en:bible:notes:act:25:13|25:13]].
+  * **the hall** - This is a large room for ceremonies, trials, and other events.
+  * **This man does nothing worthy of death or of bonds** - The abstract noun "death" can be stated as the verb "die." Here "bonds" stands for being in prison. AT: "This man does not deserve to die or to be in prison" (See: [[:en:ta:vol2:translate:figs_abstractnouns]] and [[:en:ta:vol2:translate:figs_metonymy]])
+  * **This man could have been freed** - This can be stated in active form. AT: "This man could have gone free" or "I could have freed this man" (See: [[:en:ta:vol2:translate:figs_activepassive]])
 ===== Links: =====
 
   * [[:en:bible:notes:act:00:intro]]
@@ -47,6 +52,6 @@
   * [[:en:bible:questions:comprehension:act:26]]
 **[[:en:bible:notes:act:26:27|<<]] | [[:en:bible:notes:act:27:01|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit governor worthy}}
+~~DISCUSSION~~{{tag>publish p2check governor worthy}}
 
 ~~NOCACHE~~
