@@ -41,15 +41,22 @@
 
   * [[:en:obe:other:paul]]
   * [[:en:obe:other:king]]
-  * [[:en:obe:other:jew]] 
+  * [[:en:obe:other:accuse]]
+  * [[:en:obe:other:jew]]
+  * [[:en:obe:other:patient]]
 
 ===== translationNotes: =====
 
   * **Connecting Statement:** - Festus has brought Paul before King Agrippa. In verse 2, Paul begins to give his defense to King Agrippa. 
 
-  * **stretched out his hand** - "raised his hand toward the crowd to get their attention"
-  * **made his defense** - "began to defend himself against the accusations"
+  * **Agrippa** - See how you translated this name in [[:en:bible:notes:act:25:13|25:13]].
+  * **stretched out his hand** - "gestured with his hand toward the crowd to get their attention"
+  * **made his defense** - The abstract noun "defense" can be stated as the verb "defend." AT: "began to defend himself against those who were accusing him" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
   * **I regard myself as happy** - Paul was happy because he considered his appearance before Agrippa to be an opportunity to speak about the gospel.
+  * **to make my case** - This phrase means to describe one's situation so that those in court can discuss and make a decision about it. AT: "to defend myself"
+  * **against all the accusations of the Jews** - The abstract noun "accusations" can be stated as the verb "accuse." AT: "against the Jews who are accusing me" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
+  * **the Jews** - This does not mean all the Jews. AT: "the Jewish leaders" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **and questions** - You can make explicit why kinds of questions this means. AT: "and questions about religious matters" (See: [[:en:ta:vol1:translate:figs_explicit]])
 
 ===== Links: =====
 
@@ -58,6 +65,6 @@
   * [[:en:bible:questions:comprehension:act:26]]
 **[[:en:bible:notes:act:25:25|<<]] | [[:en:bible:notes:act:26:04|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~
