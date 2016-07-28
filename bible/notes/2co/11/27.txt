@@ -15,8 +15,6 @@
 \v 27 I have worked hard and been in hardship, often gone without sleep; I have been hungry and thirsty with nothing to eat. I have been cold and without enough clothing.
 \v 28 In addition to all that, I worry every day about how well the churches are doing.
 \v 29 There is no fellow believer who is weak, without me being weak with him. There is no fellow believer who has led another person into sin, without me being very angry about it.
-
-
 \p
 </usfm>
 
@@ -25,7 +23,7 @@
 <usfm>
 \v 27 I have been at hard work and in hardship, in many sleepless nights, in hunger and thirst, often in fasting, in cold and nakedness.
 \v 28 Apart from everything else, there is the daily pressure on me of my anxiety for all the churches.
-\v 29 Who is weak, and I am not weak? Who has been caused to stumble, and I do not burn?
+\v 29 Who is weak, and I am not weak? Who has caused another to fall into sin, and I do not burn within?
 </usfm>
 
 ===== translationWords: =====
@@ -40,8 +38,10 @@
   * **and nakedness** - "and without enough clothing to keep me warm" (See: [[:en:ta:vol2:translate:figs_hyperbole]])
   * **Who is weak, and I am not weak?** - AT: "Whenever anyone is weak, I feel that weakness also." (See: [[:en:ta:vol1:translate:figs_rquestion]])
   * **there is the daily pressure on me of my anxiety** - Paul knows that God will hold him responsible for how well the churches obey God and speaks of that knowledge as if it were a heavy object pushing him down. AT: "I know that God will hold me accountable for the spiritual growth of all the churches, and so I always feel like a heavy object is pushing me down" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **Who is weak, and I am not weak?** - Paul uses questions to emphasize that he wants to pizza Possible meanings are 1) 
-  * **Who has caused another to fall into sin, and I do not burn within?** - AT: "Whenever anyone causes a brother to sin, I am angry." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **Who is weak, and I am not weak?** - The word "weak" is probably a metaphor for a spiritual condition, but no one is sure what Paul is speaking of, so it is best to use the same word here. AT: "I am weak whenever anyone else is weak." (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **Who has been caused to stumble, and I do not burn?** - AT: "Whenever anyone causes a brother to sin, I am angry" about the situation. (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **has been caused to stumble** - Paul speaks of sin as if it were tripping over something and then falling. AT: "has been led to sin" or "has thought that God would permit him to sin because of something that someone else did." (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **I do not burn** - Paul speaks of being angry about sin as if he had a fire inside his body. AT: "I am not angry" about the situation. (See: [[:en:ta:vol1:translate:figs_metaphor]])
 
 ===== Links: =====
 
@@ -50,6 +50,6 @@
   * [[:en:bible:questions:comprehension:2co:11]]
 **[[:en:bible:notes:2co:11:24|<<]] | [[:en:bible:notes:2co:11:30|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~
