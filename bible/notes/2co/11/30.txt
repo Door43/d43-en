@@ -12,8 +12,6 @@
 <usfm>
 \v 30 If I must boast, I will boast only about things like these, things that show how weak I am.
 \v 31 The God and Father of the Lord Jesus Christ—may everyone and everything give him praise!—he knows I am not lying!
-
-
 \p
 </usfm>
 
@@ -32,10 +30,11 @@
   * [[:en:obe:kt:jesus]]
   * [[:en:obe:other:praise]]
   * [[:en:obe:kt:forever]]
+
 ===== translationNotes: =====
 
-  * **what shows my weaknesses** - AT: "how weak I am"
-  * **I am not lying** - AT: "I am telling the absolute truth"
+  * **what shows my weaknesses** - "what shows how weak I am"
+  * **I am not lying** - Paul is using litotes for emphasis. AT: "I am telling the absolute truth" (See: [[:en:ta:vol2:translate:figs_litotes]])
 
 ===== Links: =====
 
@@ -44,6 +43,6 @@
   * [[:en:bible:questions:comprehension:2co:11]]
 **[[:en:bible:notes:2co:11:27|<<]] | [[:en:bible:notes:2co:11:32|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~
