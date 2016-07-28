@@ -68,7 +68,10 @@ If your language has ordinal numbers and using them would give the right meaning
     * “They cast __twenty-four__ lots. The lots went to Jerhoiarib, Jedaiah, Harim, Seorim, … Delaiah, and Maaziah.”
  
 ----
-https://pad.door43.org/p/ta-translate_ordinal
+
+git [[https://git.door43.org/Door43/en-ta-translate-vol2/src/master/content/translate_ordinal.md]]
+
+wiki [[https://door43.org/en/ta/vol2/translate/translate_ordinal]]
 
 {{tag>epady introjg introcs}} ~~DISCUSSION~~
 ~~NOCACHE~~
