@@ -20,7 +20,7 @@
 
 <usfm>
 \p
-\v 16 I say again: Let no one think I am a fool. But if you do, receive me as a fool so I may boast a little.
+\v 16 I say again: Let no one think I am a fool. But if you do, receive me like a fool so I may boast a little.
 \v 17 What I am saying about this boastful confidence is not condoned by the Lord, but I am speaking as a fool.
 \v 18 Since many people boast according to the flesh, I will also boast.
 </usfm>
@@ -35,11 +35,9 @@
   * [[:en:obe:kt:flesh]]
 ===== translationNotes: =====
 
-  * **Let no one think I am a fool** - There is a difference between Paul doing a little foolish boasting and actually being a fool, who can be easily deceived.
-  * **receive me like a fool** - It is considered foolishness to boast in oneself.
-  * **so I may boast a little** - AT: "while I boast a little"
-  * **What I am saying about this boastful confidence is not condoned by the Lord** - AT: "This kind of boasting is not approved by the Lord"
-  * **according to the flesh** - AT: "about their own human achievements"
+  * **receive me as a fool so I may boast a little** - "receive me as you would receive a fool, let me talk, and consider my boasting the words of a fool"
+  * **What I am saying about this boastful confidence is not condoned by the Lord** - This can be made active. AT: "The Lord does not condone what I am saying about this boastful confidence" or "The Lord has not told me that he approves of what I am saying about this boastful confidence" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **according to the flesh** - "about their own human achievements" (See: [[:en:ta:vol2:translate:figs_metonymy]])
 ===== Links: =====
 
   * [[:en:bible:notes:2co:00:intro]]
@@ -47,6 +45,6 @@
   * [[:en:bible:questions:comprehension:2co:11]]
 **[[:en:bible:notes:2co:11:14|<<]] | [[:en:bible:notes:2co:11:19|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~
