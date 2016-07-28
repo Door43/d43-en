@@ -41,13 +41,13 @@
 ===== translationNotes: =====
 
   * **Julius treated Paul kindly** - "Julius treated Paul with a friendly concern." See how you translated "Julius" in [[:en:bible:notes:act:27:01|27:1]].
-  * **go to his friends to receive their care** - "go to his friends to receive the care he needed" or "go to his friends to get whatever help he needed"
-  * **sailed around the island of Cyprus that was sheltered from the wind** - "went along the coast of Cyprus, on the side that kept the wind from blowing us the wrong way" (UDB)
+  * **go to his friends to receive their care** - The abstract noun "care" can be stated as a verb. AT: "go to his friends so they could care for him" or "go to his friends so they could help him with whatever he needed" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
+  * **we went to sea and sailed** - "we started sailing and went"
+  * **sailed around the island of Cyprus that was sheltered from the wind** - The passive phrase "was sheltered" can be stated in active form. AT: "went along the coast of Cyprus, on the side that kept the wind from blowing us the wrong way" (UDB)
   * **Pamphylia** - See how you translated this in [[:en:bible:notes:act:02:08|2:10]].
   * **came to Myra, a city of Lycia** - Myra was a city in Lycia province which is on the south western coast of modern day Turkey. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **a city of Lycia** - Lycia was a roman province which is on the south western coast of modern day Turkey. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **a city of Lycia** - Lycia was a Roman province which is on the south western coast of modern day Turkey. (See: [[:en:ta:vol1:translate:translate_names]])
   * **Alexandria** - This is the name of a city. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **Italy** - See how you translated this in [[:en:bible:notes:act:27:01|27:1]].
 
 ===== Links: =====
 
@@ -56,6 +56,6 @@
   * [[:en:bible:questions:comprehension:act:27]]
 **[[:en:bible:notes:act:27:01|<<]] | [[:en:bible:notes:act:27:07|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit sidon cilicia cyprus}}
+~~DISCUSSION~~{{tag>publish p2check sidon cilicia cyprus}}
 
 ~~NOCACHE~~
