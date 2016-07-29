@@ -24,6 +24,7 @@
 
 ===== translationWords: =====
 
+  * [[:en:obe:kt:testimony]]
   * [[:en:obe:kt:kingdomofgod]]
   * [[:en:obe:kt:jesus]]
   * [[:en:obe:kt:lawofmoses]]
@@ -34,8 +35,11 @@
 
   * **General Information:** - In these verses, the words "he" and "him" refer to Paul.
 
-  * **When they had set** - The word "they" refers to the Jewish leaders.
-  * **Some were convinced** - AT: "Paul convinced some of them" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **When they** - The word "they" refers to the Jewish leaders.
+  * **had set a day for him** - "had chosen a time for him to speak to them"
+  * **testified about the kingdom of God** - Here "kingdom of God" stands for God's rule as king. AT: "told them about God's rule as king" or "told them how God would show himself as king" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **from the prophets** - Here "the prophets" refers to what they wrote. AT: "from what the prophets wrote" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **Some were convinced about the things which were said** - This can be stated in active form. AT: "Paul was able to convince some of them" (See: [[:en:ta:vol2:translate:figs_activepassive]])
 
 ===== Links: =====
 
@@ -44,6 +48,6 @@
   * [[:en:bible:questions:comprehension:act:28]]
 **[[:en:bible:notes:act:28:21|<<]] | [[:en:bible:notes:act:28:25|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit kingdomofgod believe}}
+~~DISCUSSION~~{{tag>publish p2check kingdomofgod believe}}
 
 ~~NOCACHE~~
