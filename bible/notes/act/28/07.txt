@@ -38,22 +38,25 @@
 
 ===== translationWords: =====
 
+  * [[:en:obe:other:chief]]
+  * [[:en:obe:other:biblicaltimeday]]
   * [[:en:obe:other:father]]
   * [[:en:obe:other:paul]]
   * [[:en:obe:other:pray]]
   * [[:en:obe:other:heal]]
+  * [[:en:obe:other:honor]]
 ===== translationNotes: =====
 
   * **Now in a nearby place** - "Now" is used to introduce a new person or event in the recorded account.
   * **chief man of the island** - Possible meanings are 1) the main leader of the people or 2) someone who was the most important person on the island perhaps because of his wealth.
-  * **a man named Publius** - Publius was the chief official on the island. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **welcomed us** - "welcomed Paul and his companions"
-  * **kindly provided for us** - "showed hospitality with kindess to us who were strangers"
+  * **a man named Publius** - This is the name of a man. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **welcomed us** - Here "us" refers to Luke, who is the author of Acts, Paul, and those traveling with them. (See: [[:en:ta:vol2:translate:figs_exclusive]])
   * **It happened that the father of Publius ... fever and dysentery** - This is background information about Publius' father that is important to understanding the story. (See: [[:en:ta:vol2:translate:writing_background]])
-  * **had been made ill** - "was ill"
+  * **had been made ill** - This can be stated in active form. AT: "was ill" (See: [[:en:ta:vol2:translate:figs_activepassive]])
   * **ill with a fever and dysentery** - Dysentery is an infectious intestinal disease.
   * **placed his hands on him** - "touched him with his hands"
-  * **and were healed** - AT: "and he healed them too" (See: [[:en:ta:vol2:translate:figs_activepassive]]) (UDB)
+  * **and were healed** - This can be stated in active form. AT: "and he healed them too" (See: [[:en:ta:vol2:translate:figs_activepassive]]) (UDB)
+  * **honored us with many honors** - Most likely they honored Paul and those with him by giving them gifts.
 ===== Links: =====
 
   * [[:en:bible:notes:act:00:intro]]
@@ -61,6 +64,6 @@
   * [[:en:bible:questions:comprehension:act:28]]
 **[[:en:bible:notes:act:28:05|<<]] | [[:en:bible:notes:act:28:11|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~
