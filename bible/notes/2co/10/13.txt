@@ -12,9 +12,7 @@
 
 <usfm>
 \v 13 We will praise ourselves only about what God has given us to do. And we will work only as he has told us to work; our work, however, includes you also.
-\v 14 When we reached out to you, we did not go beyond where God assigned us to work. He assigned your region to us, and we were the first to tell you the Good News about Christ.
-
-
+\v 14 When we reached out to you, we did not go beyond where God assigned us to work. He assigned your region to us, and we were the first to tell you the Good News about  Christ.
 \p
 </usfm>
 
@@ -34,10 +32,12 @@
 
 ===== translationNotes: =====
 
-  * **beyond limits** - AT: "about things done outside our area of authority"
-  * **within the limits of what God** - AT: "boundaries of the work that God"
-  * **did not overextend ourselves** - AT: "did not reach beyond these boundaries"
+  * **General Information:** - Paul speaks of the authority he has as if it were a land over which he rules, those things over which he has authority as being within the borders or "limits" of his land, and those things not under his authority as being beyond the "limits." (See: [[:en:ta:vol1:translate:figs_metaphor]])
 
+  * **will not boast beyond limits** - "will not boast about things over which we have no authority" or "will boast only about things over which we have authority" [[:en:ta:vol1:translate:figs_idiom]]
+  * **within the limits of what God** - "about things under the authority that God"
+  * **limits that reach as far as you** - Paul speaks of the authority he has as if it were a land over which he rules. AT: "and you are within the border of our authority"
+  * **did not overextend ourselves** - "did not go beyond our borders"
 
 ===== Links: =====
 
@@ -46,6 +46,6 @@
   * [[:en:bible:questions:comprehension:2co:10]]
 **[[:en:bible:notes:2co:10:11|<<]] | [[:en:bible:notes:2co:10:15|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~
