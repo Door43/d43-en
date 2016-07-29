@@ -44,11 +44,13 @@
 
 ===== translationNotes: =====
 
-  * **For this task** - AT: "Asking you to give"
-  * **should be fairness** - AT: "should be a fair measure of equality"
-  * **This is also so that their abundance may supply your need** - AT: "Later they will have enough to share with you when you are in need"
-  * **as it is written** - "as it is written in the scriptures" (See: [[:en:ta:vol1:translate:figs_explicit]])
-  * **did not have any lack** - AT: "had all he needed"
+  * **For this task** - This refers to collecting money for the believers in Jerusalem. AT: "For this task of collecting money" (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **that others may be relieved and you may be burdened** - This can be stated in active form. AT: "that you may relieve others and burden yourselves" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **there should be fairness** - "there should be equality"
+  * **This is also so that their abundance may supply your need** - Since the Corinthians are acting in the present time, it is implied that the believers in Jerusalem will also help them at some time in the future. AT: "This is also so that in the future their abundance may supply your need"
+  * **as it is written** - Here Paul quotes from Exodus. This can be stated in active form. AT: "as Moses wrote" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **did not have any lack** - This can be stated positively. AT: "had all he needed" (See: [[:en:ta:vol2:translate:figs_doublenegatives]])
+
 ===== Links: =====
 
   * [[:en:bible:notes:2co:00:intro]]
@@ -56,6 +58,6 @@
   * [[:en:bible:questions:comprehension:2co:08]]
 **[[:en:bible:notes:2co:08:10|<<]] | [[:en:bible:notes:2co:08:16|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~
