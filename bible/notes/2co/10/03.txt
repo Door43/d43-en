@@ -11,7 +11,7 @@
 
 <usfm>
 \v 3 For though we live, of course, in our physical bodies, we are fighting like armies fight.
-\v 4 It is as if we were fighting with weapons, but these weapons are different from what soldiers use. It is God who has given us our weapons, so we are able to use them to destroy fortresses, so to speak, that is, to show that people who insult us are wrong.
+\v 4 It is as if we were fighting with weapons, but these are different weapons than what soldiers use. It is God who has given us our weapons, so we are able to use them to destroy fortresses, so to speak, that is, to show that people who insult us are wrong.
 </usfm>
 
 ===== ULB: =====
@@ -28,11 +28,13 @@
   * [[:en:obe:kt:divine]]
   * [[:en:obe:kt:power]]
   * [[:en:obe:other:stronghold]]
+
 ===== translationNotes: =====
 
-  * **wage war according to the flesh** - AT: "fight with human weapons"
-  * **For the weapons we fight with are not fleshly** - AT: "For we fight with God's mighty weapons, not worldly weapons"
-  * **Instead, they have divine power to destroy strongholds** - "They have divine power to knock down strongholds"
+  * **we walk in the flesh** - The word "flesh" is a metonymy for physical life. "we live our lives in physical bodies" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **we do not wage war ... we fight** - Paul speaks of his trying to persuade the Corinthians to believe him and not the false teachers as if he were fighting a physical war. These words should be translated literally. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **wage war according to the flesh** - Possible meanings are 1) the word "flesh" is a metonymy for physical life, AT: "fight against our enemies using physical weapons" or 2) the word "flesh" is a metonymy for sinful human nature, AT: "wage war in sinful ways"
+  * **are not fleshly** - Possible meanings are 1) the word "fleshly" is a metonymy for merely physical, AT: "are not physical" or 2) the word "fleshly" is a metonymy for sinful human nature, AT: "are not sinful" or "do not enable us to do wrong" (See: [[:en:ta:vol2:translate:figs_metonymy]])
 
 ===== Links: =====
 
@@ -41,6 +43,6 @@
   * [[:en:bible:questions:comprehension:2co:10]]
 **[[:en:bible:notes:2co:10:01|<<]] | [[:en:bible:notes:2co:10:05|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit divine}}
+~~DISCUSSION~~{{tag>publish p2check divine}}
 
 ~~NOCACHE~~
