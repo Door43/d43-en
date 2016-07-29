@@ -28,7 +28,6 @@
 ===== translationWords: =====
 
   * [[:en:obe:other:paul]]
-  * [[:en:obe:other:serpent]]
   * [[:en:obe:kt:justice]] 
 
 ===== translationNotes: =====
@@ -36,7 +35,7 @@
   * **a viper came out** - "a poisonous snake came out of the bundle of sticks"
   * **fastened onto his hand** - "bit Paul's hand and did not let go"
   * **This man certainly is a murderer** - "For sure, this man is a murderer" or "This man is truly a murderer"
-  * **yet justice does not permit him to live** - "the goddess called Justice will not allow him to escape death"
+  * **yet justice** - The word "justice" refers to the name of a god that they worshiped. AT: "the god called Justice" (See: [[:en:ta:vol1:translate:figs_explicit]])
 
 ===== Links: =====
 
@@ -45,6 +44,6 @@
   * [[:en:bible:questions:comprehension:act:28]]
 **[[:en:bible:notes:act:28:01|<<]] | [[:en:bible:notes:act:28:05|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit serpent justice}}
+~~DISCUSSION~~{{tag>publish p2check serpent justice}}
 
 ~~NOCACHE~~
