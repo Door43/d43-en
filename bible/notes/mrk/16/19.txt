@@ -22,7 +22,7 @@
 <usfm>
 \p
 \v 19 \f + \ft The best ancient copies omit  Mark 16:9-20. \f* After the Lord had spoken to them, he was taken up into heaven and sat down at the right hand of God.
-\v 20 The disciples left and preached everywhere, while the Lord worked with them and confirmed the word by the signs that went with them.
+\v 20 The disciples left and preached everywhere, while the Lord worked with them and confirmed the word by the miraculous signs that followed.
 </usfm>
 
 
@@ -38,6 +38,9 @@
 
 ===== translationNotes: =====
 
+  * **he was taken up into heaven and sat** - This can be made active. AT: "God took him up into heaven, and he sat" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **at the right hand of God** - "where the one to whom God gives the most honor and power sits"
+  * **confirmed the word** - "showed that his words, which they were speaking, were true" (See: [[:en:ta:vol1:translate:figs_idiom]])
 
 ===== Links: =====
 
@@ -46,6 +49,6 @@
   * [[:en:bible:questions:comprehension:mrk:16]]
 **[[:en:bible:notes:mrk:16:17|<<]] | **
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~
