@@ -29,15 +29,19 @@
 ===== translationWords: =====
 
   * [[:en:obe:other:paul]]
+  * [[:en:obe:other:biblicaltimeyear]]
   * [[:en:obe:other:preach]]
   * [[:en:obe:kt:kingdomofgod]]
   * [[:en:obe:kt:lordgod]]
   * [[:en:obe:kt:jesus]]
+  * [[:en:obe:other:bold]]
  
 
 ===== translationNotes: =====
 
   * **General Information:** - This is the end of the story about Paul. (See: [[:en:ta:vol2:translate:writing_endofstory]])
+
+  * **He was preaching the kingdom of God** - Here "kingdom of God" refers to God's rule as king. AT: "He was preaching about God's rule as king" or "He was preaching about how God will show himself as king" (See: [[:en:ta:vol2:translate:figs_metonymy]])
 
 ===== Links: =====
 
@@ -46,4 +50,4 @@
   * [[:en:bible:questions:comprehension:act:28]]
 **[[:en:bible:notes:act:28:28|<<]] **
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
