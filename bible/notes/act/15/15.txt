@@ -43,8 +43,10 @@
 
   * [[:en:obe:kt:prophet]]
   * [[:en:obe:other:written]]
+  * [[:en:obe:other:tent]]
   * [[:en:obe:other:david]]
   * [[:en:obe:kt:restore]]
+  * [[:en:obe:other:ruin]]
   * [[:en:obe:kt:remnant]]
   * [[:en:obe:other:gentile]]
   * [[:en:obe:kt:lordgod]]
@@ -54,10 +56,14 @@
   * **Connecting Statement:** - James quotes from the words of the prophets from the book of Amos. 
 
   * **agree with this** - "confirm this truth"
-  * **I will return ... I will build ... I will set up** - "I" refers to God who is speaking through the words of the prophet.
-  * **I will build again the tent of David** - "tent" here refers to a kingdom. AT: "I will choose a king from David's descendants" (UDB) (See: [[:en:ta:vol2:translate:figs_metonymy|Metonymy]])
-  * **I will set up and restore its ruins again, so that the remnant of men may seek the Lord** - "I will set up a king from David's descendants so that people may have the opportunity to seek the Lord"
-  * **restore its ruins** - "Ruins" refers to the buildings, walls, and belongings left behind when a town has been destroyed or left to decay over many years.
+  * **as it is written** - This can be stated in active form. AT: "as the prophet Amos wrote long ago" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **I will return ... I will build ... I will set up** - Here "I" refers to God who is speaking through the words of the prophet.
+  * **And I will build again the tent of David, which has fallen down ... its ruins again** - This speaks of God again choosing one of David's descendants to rule over his people as if he were setting up a tent again after it fell down. Here "tent" stands for David's family. (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_metonymy]])
+  * **the remnant of men may seek the Lord** - This speaks about people wanting to obey God and learn more about him as if they were literally seeking a person. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **remnant of men** - Here "men" includes males and females. AT: "remnant of people" (See: [[:en:ta:vol2:translate:figs_gendernotations]])
+  * **may seek the Lord** - God is speaking about himself in the third person. AT: "may seek me, the Lord" (See: [[:en:ta:vol2:translate:figs_123person]])
+  * **including all the Gentiles called by my name** - Here "name" stands for God. This can be stated in active form. AT: "including all the Gentiles who belong to me" (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol2:translate:figs_activepassive]])
+  * **that have been known** - This can be stated in active form. AT: "that people have known" (See: [[:en:ta:vol2:translate:figs_activepassive]])
 
 ===== Links: =====
 
@@ -66,4 +72,4 @@
   * [[:en:bible:questions:comprehension:act:15]]
 **[[:en:bible:notes:act:15:13|<<]] | [[:en:bible:notes:act:15:19|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit restore remnant }}
+~~DISCUSSION~~{{tag>publish p2check restore remnant }}
