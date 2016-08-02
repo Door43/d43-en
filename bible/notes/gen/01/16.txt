@@ -20,7 +20,6 @@
 \v 19 This was an evening and morning, the fourth day.
 </usfm>
 
-
 ===== ULB: =====
 
 <usfm>
@@ -29,7 +28,6 @@
 \v 18 to rule over the day and over the night, and to divide the light from the darkness. God saw that it was good.
 \v 19 This was evening and morning, the fourth day.
 </usfm>
-
 
 ===== translationWords: =====
 
@@ -41,7 +39,7 @@
   * **God made the two great lights** - "In this way God made the two great lights." This sentence explains what God did when he spoke.
   * **the two great lights** - "the two large lights" or "the two bright lights." The two great lights are the sun and the moon.
   * **to rule the day** - "to direct the daytime as a ruler directs a group of people" or "to mark the times of the day" (See: [[:en:ta:vol2:translate:figs_personification]])
-  * **day** - This refers to the daylight hours, not the 24 hour period.
+  * **day** - This refers only to the daylight hours.
   * **the lesser light** - "the smaller light" or "the dimmer light"
   * **in the sky** - "in the heavens" or "in the open space of the sky"
   * **to divide the light from the darkness** - "to separate the light from the darkness" or "to make it light at one time and dark at another." See how you translated this in [[:en:bible:notes:gen:01:03|1:4]].
@@ -56,6 +54,6 @@
   * [[:en:bible:questions:comprehension:gen:01]]
 **[[:en:bible:notes:gen:01:14|<<]] | [[:en:bible:notes:gen:01:20|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit }}
+~~DISCUSSION~~{{tag>publish p2check }}
 
 ~~NOCACHE~~
