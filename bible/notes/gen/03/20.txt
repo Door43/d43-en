@@ -15,11 +15,8 @@
 <usfm>
 \v 20 The man, whose name was Adam, named his wife Eve, which means "living," because she became the ancestor of all living people.
 \v 21 Then Yahweh God killed some animals and made clothes from their skins for Adam and his wife.
-
-
 \p
 </usfm>
-
 
 ===== ULB: =====
 
@@ -27,7 +24,6 @@
 \v 20 The man called his wife's name Eve because she was the mother of all living things.
 \v 21 Yahweh God made for Adam and for his wife garments of skins and clothed them.
 </usfm>
-
 
 ===== translationWords: =====
 
@@ -39,8 +35,8 @@
   * **The man** - AT: "the name Adam"
   * **called his wife's name Eve** - Adam "gave his wife the name Eve" or "named his wife Eve" (UDB).
   * **Eve** - Translators may write a footnote saying, "The name Eve sounds like the Hebrew word that means 'living.'"
-  * **all living things** - This refers to people. AT: "all the living." 
-  * **garments of skins** - AT: "clothing made out of animal skins"
+  * **all living things** - This is a hyperbole for all people. AT: "all the living." (See: [[:en:ta:vol2:translate:figs_hyperbole]])
+  * **garments of skins** - "things made out of animal skins to cover their bodies"
 
 ===== Links: =====
 
@@ -49,6 +45,6 @@
   * [[:en:bible:questions:comprehension:gen:03]]
 **[[:en:bible:notes:gen:03:17|<<]] | [[:en:bible:notes:gen:03:22|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit eve }}
+~~DISCUSSION~~{{tag>publish p2check eve }}
 
 ~~NOCACHE~~
