@@ -16,12 +16,10 @@
 
 <usfm>
 \v 4 What follows is how God created the heavens and the earth.
-
 \p God, whose name is Yahweh, made the heavens and the earth.
 \v 5 At first there were no plants growing, because Yahweh God had not yet caused rain to fall on the ground. Furthermore, there was no one to plow the ground for planting crops.
 \v 6 Instead, mist rose up from the ground, so that there was water all over the surface of the ground.
 </usfm>
-
 
 ===== ULB: =====
 
@@ -32,7 +30,6 @@
 \v 6 But a mist went up from the earth and watered the whole surface of the ground.
 </usfm>
 
-
 ===== translationWords: =====
 
   * [[:en:obe:kt:yahweh]]
@@ -41,11 +38,12 @@
 
   * **General Information:** - The rest of Genesis 2 tells about how God created people on the sixth day.
 
-  * **These were the events concerning the heavens and the earth** - "This is the account of the heavens and the earth" or "This is the story about the heavens and the earth." There are two understandings of the purpose of this sentence. Either it is a summary of the events described in Genesis 1:1-2:3, or it introduces the events described in Genesis 2. If possible, translate this so that it could be understood either way.
-  * **on the day that Yahweh God made** - AT: "when the LORD God created." The word "day" refers to the whole time span of the creation, not to just one particular day.
-  * **No bush of the field** - no shrubs growing in the wild, that animals might eat
+  * **These were the events concerning the heavens and the earth** - "This is the account of the heavens and the earth" or "This is the story about the heavens and the earth." Possible meanings are 1:) it is a summary of the events described in Genesis 1:1-2:3 or 2) it introduces the events described in Genesis 2. If possible, translate this so that people could understood it either way.
+  * **they were created** - "Yahweh God created them." In chapter 1, the writer always speaks of God as "God," but in chapter 2, he always speaks of God as "Yahweh God."
+  * **on the day that Yahweh God made** - "when Yahweh God created." The word "day" refers to the whole time span of the creation, not to just one particular day.
+  * **No bush of the field** - no shrubs growing in the wild that animals might eat
   * **no plant of the field** - no leafy plants like vegetables or greens that both animals and humans can eat
-  * **mist** - This refers either to 1) something like dew or morning fog or 2) springs from underground streams.
+  * **mist** - Possible meanings are 1) something like dew or morning fog or 2) springs from underground streams.
   * **the whole surface of the ground** - the entire earth
 
 ===== Links: =====
@@ -55,6 +53,6 @@
   * [[:en:bible:questions:comprehension:gen:02]]
 **[[:en:bible:notes:gen:02:01|<<]] | [[:en:bible:notes:gen:02:07|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit yahweh}}
+~~DISCUSSION~~{{tag>publish p2check yahweh}}
 
 ~~NOCACHE~~
