@@ -23,8 +23,7 @@
 
 <usfm>
 \v 8 Cain spoke to Abel his brother. It came about that while they were in the fields, Cain rose up against Abel his brother and killed him.
-\f + \ft The best ancient copies read in this way. However, some old translations and some modern translations read, \fqa Cain said to Abel his brother, "Let us go into the fields." It came about that while they were in the fields, Cain rose up against Abel his brother and killed him. \f* 
-
+\f + \ft The best ancient copies read in this way. However, some old translations and some modern translations read, \fqa Cain said to Abel his brother, "Let us go into the fields." It came about that while they were in the fields, Cain rose up against Abel his brother and killed him. \f*
 \p
 \v 9 Then Yahweh said to Cain, "Where is Abel your brother?" He said, "I do not know. Am I my brother's keeper?"
 </usfm>
@@ -40,8 +39,9 @@
 
   * **Cain spoke to Abel his brother** - Some languages will need to add the implicit information that Cain spoke to his brother about going to the fields. (See: [[:en:ta:vol1:translate:figs_explicit]])
   * **brother** - Abel was Cain's younger brother. Some languages would need to use the word for "younger brother." (See: [[:en:ta:vol1:translate:figs_explicit]])
-  * **Where is Abel your brother** - God knew that Cain had killed his brother, but he asked Cain this question so that Cain would have to answer.
-  * **Am I my brother's keeper?** - Cain used this rhetorical question in order to avoid telling the truth. He was implying that God should know that Cain was not his brother's keeper. AT: "Is it my responsibility to watch my brother?" or "I do not have to take care of my brother." (See [[:en:ta:vol1:translate:figs_rquestion]])
+  * **rose up against** - "attacked" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **Where is Abel your brother** - God knew that Cain had killed Abel, but he asked Cain this question so that Cain would have to answer. (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **Am I my brother's keeper?** - Cain used this rhetorical question in order to avoid telling the truth. He was implying that God should know that Cain was not his brother's keeper. AT: "I am not my brother's keeper." or "Taking care of my brother is not my job." (See [[:en:ta:vol1:translate:figs_rquestion]])
 ===== Links: =====
 
   * [[:en:bible:notes:gen:00:intro]]
@@ -49,6 +49,6 @@
   * [[:en:bible:questions:comprehension:gen:04]]
 **[[:en:bible:notes:gen:04:06|<<]] | [[:en:bible:notes:gen:04:10|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit cain abel }}
+~~DISCUSSION~~{{tag>publish p2check cain abel }}
 
 ~~NOCACHE~~
