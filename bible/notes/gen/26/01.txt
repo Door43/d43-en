@@ -32,9 +32,9 @@
 ===== translationNotes: =====
 
   * **Now** - This word is used here to mark a new part of the story.
-  * **a famine happened** - AT: "there was a famine" or "there was another famine." See how you translated this in [[:en:bible:notes:gen:26:01|12:10]].
+  * **a famine happened** - "there was a famine" or "there was another famine"
   * **in the land** - Which land this refers to can be stated explicitly: "in the land where Isaac and his family lived" (See: [[:en:ta:vol1:translate:figs_explicit]])
-  * **that had been in the days of Abraham** - The phrase "in the days" here refers to when Abraham lived. AT: "that had happened during Abraham's life." (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **that had been in the days of Abraham** - The phrase "in the days" stands for when Abraham lived. AT: "that had happened during Abraham's life" (See: [[:en:ta:vol2:translate:figs_metonymy]])
 
 ===== Links: =====
 
@@ -43,6 +43,6 @@
   * [[:en:bible:questions:comprehension:gen:26]]
 **[[:en:bible:notes:gen:25:31|<<]] | [[:en:bible:notes:gen:26:02|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit isaac}}
+~~DISCUSSION~~{{tag>publish p2check isaac}}
 
 ~~NOCACHE~~
