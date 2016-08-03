@@ -26,18 +26,18 @@
 
   * [[:en:obe:other:isaac]]
   * [[:en:obe:other:abraham]]
+  * [[:en:obe:other:biblicaltimeyear]]
   * [[:en:obe:other:rebekah]]
-  * [[:en:obe:other:laban]]
   * [[:en:obe:other:aram]]
+  * [[:en:obe:other:paddanaram]]
+  * [[:en:obe:other:laban]]
 
 ===== translationNotes: =====
 
   * **These were the events concerning Isaac, Abraham's son** - This sentence introduces the account of Isaac's descendants in Genesis 25:19-35:29. AT: "This is the account of the descendants of Isaac, Abraham's son."
-  * **forty** - "40" (See: [[:en:ta:vol2:translate:translate_numbers]])
+  * **forty years old** - "40 years old" (See: [[:en:ta:vol2:translate:translate_numbers]])
   * **when he took as his wife Rebekah** - "when he married Rebekah"
   * **Bethuel** - See how you translated this man's name in [[:en:bible:notes:gen:22:20|22:22]].
-  * **Paddan Aram** - This is the name of a land. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **Laban** - See how you translated this man's name in [[:en:bible:notes:gen:24:28|24:29]].
 
 ===== Links: =====
 
@@ -46,6 +46,6 @@
   * [[:en:bible:questions:comprehension:gen:25]]
 **[[:en:bible:notes:gen:25:17|<<]] | [[:en:bible:notes:gen:25:21|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit isaac}}
+~~DISCUSSION~~{{tag>publish p2check isaac}}
 
 ~~NOCACHE~~
