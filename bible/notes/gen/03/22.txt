@@ -13,11 +13,10 @@
 ===== UDB: =====
 
 <usfm>
-\v 22 Then Yahweh God said, "Look! Those two have become like us because they know what is good to do and what is evil to do. So now, it will not be good if they reach out and pick and eat some of the fruit from the tree which enables people who eat it to live forever!"
+\v 22 Then Yahweh said, "Look! Those two have become like us because they know what is good to do and what is evil to do. So now, it will not be good if they reach out and pick and eat some of the fruit from the tree which enables people who eat it to live forever!"
 \v 23 So Yahweh God drove out the man and his wife from the park of Eden. Yahweh God had created Adam from the ground, and he forced him to plow the ground.
 \v 24 After Yahweh God drove them out, on the east side of the park he placed cherubim and a flaming sword that flashed back and forth, in order to block the entrance, so that people could not go back to the tree that enables anyone who eats its fruit to live forever.
 </usfm>
-
 
 ===== ULB: =====
 
@@ -28,7 +27,6 @@
 \v 24 So God drove the man out of the garden, and he placed cherubim at the east of the garden of Eden, and a flaming sword that turned every way, in order to guard the way to the tree of life.
 </usfm>
 
-
 ===== translationWords: =====
 
   * [[:en:obe:kt:yahweh]]
@@ -37,12 +35,14 @@
  
 ===== translationNotes: =====
 
-  * **the man** - Possible meanings are 1) God was referring to one human—the man or 2) God was referring to humans in general, which at this point was the man and his wife. Even if God was speaking about one person, what he said applied to both of them.
-  * **like one of us** - The pronoun "us" is plural. See how you translated "Let us make" in [[:en:bible:notes:gen:01:26|1:26]]. AT: "like us."
-  * **knowing good and evil** - "He knows what is good and what is bad." This is a figure of speech that refers to both extremes and everything in between. AT: "he knows everything, whether good or bad." (See: [[:en:ta:vol2:translate:figs_merism]])
-  * **he must not be allowed** - AT: "I will not let him"
-  * **the ground from which he had been taken** - The man was made out of ground. This does not refer to a particular plot of land that the man was taken from.
-  * **So God drove the man out of the garden** - "God forced the man to leave the garden." This refers to the event in [[:en:bible:notes:gen:03:22|3:23]] where it says "Yahweh God sent him out of the garden of Eden." God did not send the man out a second time.
+  * **the man** - Possible meanings are 1) God was referring to one human, the man, or 2) God was referring to humans in general, which at this point was the man and his wife. Even if God was speaking about one person, what he said applied to both of them.
+  * **like one of us** - The pronoun "us" is plural. See how you translated "Let us make" in [[:en:bible:notes:gen:01:26|1:26]]. "like us."
+  * **knowing good and evil** - See how you translated "knowledge of good and evil" in [[:en:bible:notes:gen:02:09|2:9]].
+  * **he must not be allowed** - "I will not allow him"
+  * **tree of life** - Translate this as in [[:en:bible:notes:gen:02:07|2:9]].
+  * **the ground from which he had been taken** - The man was made out of ground. This does not refer to the particular plot of land that the man was taken from.
+  * **So God drove the man out of the garden** - "God forced the man to leave the garden." This refers to the event in [[:en:bible:notes:gen:03:22|3:23]], where it says "Yahweh God sent him out of the garden of Eden." God did not send the man out a second time.
+  * **to cultivate** - Translate this as in [[:en:bible:notes:gen:02:04|2:5]].
   * **in order to guard the way to the tree of life** - "in order to stop people from going to the tree of life"
   * **flaming sword** - Possible meanings are 1) a sword that had flames coming from it or 2) a fire that was shaped like a sword. Languages that do not have swords could use another weapon such as a spear or arrow.
 ===== Links: =====
@@ -52,4 +52,4 @@
   * [[:en:bible:questions:comprehension:gen:03]]
 **[[:en:bible:notes:gen:03:20|<<]] | [[:en:bible:notes:gen:04:01|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit cherubim}}
+~~DISCUSSION~~{{tag>publish p2check cherubim}}
