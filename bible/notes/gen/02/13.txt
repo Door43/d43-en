@@ -15,11 +15,8 @@
 <usfm>
 \v 13 The name of the second river is Gihon. That river flows through all the land of Cush.
 \v 14 The name of the third river is Tigris. It flows east of the city of Asshur. The name of the fourth river is Euphrates.
-
-
 \p
 </usfm>
-
 
 ===== ULB: =====
 
@@ -27,7 +24,6 @@
 \v 13 The name of the second river is Gihon. This one flows throughout the whole land of Cush.
 \v 14 The name of the third river is Tigris, which flows east of Asshur. The fourth river is the Euphrates.
 </usfm>
-
 
 ===== translationWords: =====
 
@@ -39,7 +35,8 @@
   * **Gihon** - (See: [[:en:ta:vol1:translate:translate_names]])
   * **flows throughout the whole land of Cush** - The river did not cover the whole land, but wound through various parts of the land.
   * **the whole land of Cush** - "the entire land called Cush"
-  * **which flows east of Asshur** - "which flows in the land east of the city of Asshur." The Tigris River flows from north to south. The phrase "which flows east of Asshur" gives information about where the Tigris Rivers is. Some languages would translate it as a separate sentence. AT: "and it flows east of Asshur." (See: [[:en:ta:vol2:translate:figs_distinguish]])
+  * **which flows east of Asshur** - "which flows in the land east of the city of Asshur." The Tigris River flows from north to south. The phrase "which flows east of Asshur" gives information about where the Tigris River is. Some languages would translate it as a separate sentence. AT: "and it flows east of Asshur." (See: [[:en:ta:vol2:translate:figs_distinguish]])
+
 ===== Links: =====
 
   * [[:en:bible:notes:gen:00:intro]]
@@ -53,5 +50,5 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit cush euphrates}}
+{{tag>publish p2check cush euphrates}}
 ~~NOCACHE~~
