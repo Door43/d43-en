@@ -18,15 +18,13 @@
 \v 6 The woman saw that the fruit on that tree was good to eat, and it was very beautiful. She desired it because she thought it would make her wise. So she picked some of the fruit and ate it. Then she gave some to her husband, and he ate it.
 </usfm>
 
-
 ===== ULB: =====
 
 <usfm>
 \v 4 The serpent said to the woman, "You will surely not die.
 \v 5 For God knows that the day you eat it your eyes will be opened, and you will be like God, knowing good and evil."
-\v 6 And when the woman saw that the tree was good for food, and that it was a delight to the eyes, and that the tree was desirable to make one wise, she took some of its fruit and ate it. And she gave some also to her husband who was with her, and he ate it.
+\v 6 And when the woman saw that the tree was good for food, and that it was a delight to the eyes, and that the tree was desirable to make one wise, she took some of its fruit, and ate it. And she gave some also to her husband who was with her, and he ate it.
 </usfm>
-
 
 ===== translationWords: =====
 
@@ -35,15 +33,14 @@
   * [[:en:obe:kt:good]]
   * [[:en:obe:kt:evil]]
   * [[:en:obe:kt:wise]]
-
  
 ===== translationNotes: =====
 
-  * **You** - When the serpent said "you," he was referring to the man and the woman. Some languages will use the plural form, and some will use the dual form of "you." (See: [[:en:ta:vol1:translate:figs_you]])
-  * **your eyes will be opened** - "your eyes will open." This figure of speech means "you will become aware of things" or "you will understand new things." This meaning can be stated clearly as it is in the UDB. AT: "It will be as though your eyes were opened" (UDB). (See: [[:en:ta:vol1:translate:figs_simile]])
+  * **You ... you ... your ... you** - These words refer to the man and the woman and so are dual or plural. (See: [[:en:ta:vol1:translate:figs_you]])
+  * **your eyes will be opened** - "your eyes will open." This idiom means "you will become aware of things" or "you will understand new things." This meaning can be stated clearly. AT: "It will be as though your eyes were opened" (UDB). (See: [[:en:ta:vol1:translate:figs_idiom]])
   * **knowing good and evil** - This is a figure of speech that refers to both extremes and everything in between. AT: "Like God, you will know everything, whether good or bad." or "everything, including both good and evil." (See: [[:en:ta:vol2:translate:figs_merism]])
   * **it was a delight to the eyes** - "the tree was delightful to look at" or "it was nice to look at" or "it was very beautiful" (UDB)
-  * **and that the tree was desirable to make one wise** - AT: "and she wanted the tree's fruit because it could make a person wise" or "and she wanted its fruit because it could make her understand what was right and wrong just as God does"
+  * **and that the tree was desirable to make one wise** - "and she wanted the tree's fruit because it could make a person wise" or "and she wanted its fruit because it could make her understand what was right and wrong just as God does"
 
 ===== Links: =====
 
@@ -52,6 +49,6 @@
   * [[:en:bible:questions:comprehension:gen:03]]
 **[[:en:bible:notes:gen:03:01|<<]] | [[:en:bible:notes:gen:03:07|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit serpent wise}}
+~~DISCUSSION~~{{tag>publish p2check serpent wise}}
 
 ~~NOCACHE~~
