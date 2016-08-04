@@ -16,14 +16,12 @@
 \v 17 Listen carefully! I am about to bring a flood that will destroy everything that lives beneath the sky. Everything on the earth will die.
 </usfm>
 
-
 ===== ULB: =====
 
 <usfm>
 \v 16 Make a roof for the ark, and finish it at a cubit from the top of the side.  Place a door in the side of the ark and make a lower, a second, and a third deck.
 \v 17 Listen, I am about to bring the flood of waters upon the earth, to destroy all flesh that has in it the breath of life from under heaven. Everything that is on the earth will die.
 </usfm>
-
 
 ===== translationWords: =====
 
@@ -37,8 +35,9 @@
   * **cubit** - See how you translated this in [[:en:bible:notes:gen:06:13|6:15]].
   * **a lower, a second, and a third deck** - AT: "a lower deck, a middle deck, and an upper deck" or "three decks inside" (UDB) or "three levels"
   * **deck** - AT: "floor" or "story" or "level" or "room"
-  * **Listen** - God said this in order to emphasize that he would do what he was about to say. AT: "Pay attention" or "Listen to what I am saying." 
-  * **all flesh that has in it the breath of life** - "everything that lives" (UDB). The phrase "that has in it the breath of life" is a figurative way of saying "that lives." (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **Listen** - God said this in order to emphasize that he would do what he was about to say. "Pay attention" or "Listen to what I am saying." 
+  * **all flesh** - Translate these words as in [[:en:bible:notes:gen:06:11|6:12]].
+  * **that has in it the breath of life** - The word "breath" is a metonymy for life: "that lives." (See: [[:en:ta:vol2:translate:figs_metonymy]])
 
 ===== Links: =====
 
@@ -47,4 +46,4 @@
   * [[:en:bible:questions:comprehension:gen:06]]
 **[[:en:bible:notes:gen:06:13|<<]] | [[:en:bible:notes:gen:06:18|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
