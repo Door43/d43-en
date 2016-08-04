@@ -39,9 +39,10 @@
 ===== translationNotes: =====
 
 
-  * **in the days of Abraham his father** - The phrase "in the days of" refers to the time when a person was alive. AT: "when Abraham, his father, was living." (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **Now** - Here this word does not mean "at this moment." It is indicating where the action in the story begins. It can be translated with the connecting word "So" to show that this is a result of what happened in [[:en:bible:notes:gen:26:12|26:12-13]]. (See: [[:en:ta:vol2:translate:writing_connectingwords]])
+  * **in the days of Abraham his father** - The phrase "in the days of" stands for a person's lifetime. AT: "when Abraham, his father, was living" (See: [[:en:ta:vol2:translate:figs_metonymy]])
   * **much mightier than we** - "much stronger than we are"
-  * **So Isaac departed** - Only Isaac is mentioned because he is the leader, but his family and servants were with him. AT: "So Isaac and his household left." (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **So Isaac departed** - Only Isaac is mentioned because he is the leader, but his family and servants were with him. AT: "So Isaac and his household left" (See: [[:en:ta:vol1:translate:figs_explicit]])
  
 ===== Links: =====
 
@@ -56,6 +57,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit p2fix}}
+{{tag>publish p2check p2fix}}
 
 ~~NOCACHE~~
