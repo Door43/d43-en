@@ -16,7 +16,6 @@
 \v 24 The waters remained at full flood like that on the earth for 150 days.
 </usfm>
 
-
 ===== ULB: =====
 
 <usfm>
@@ -24,19 +23,15 @@
 \v 24 The water dominated the earth for a hundred and fifty days.
 </usfm>
 
-
 ===== translationWords: =====
 
   * [[:en:obe:kt:yahweh]]
   * [[:en:obe:kt:blotout]]
 
-
- 
-
 ===== translationNotes: =====
 
   * **So every living thing ... was wiped out** - This sentence tells about what happened to the living things. If necessary, this can be stated in active form. AT: "So every living thing ... perished" or "So the flood completely destroyed every living thing." (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **They were all destroyed** - This means the same thing as the first sentence.
+  * **They were all destroyed** - This can be made active. AT: "God destroyed them all" (See: [[:en:ta:vol2:translate:figs_activepassive]])
   * **from the earth** - "so that they were not on the earth"
   * **and those with him** - "and the people and animals that were with him"
   * **were left** - "remained" or "lived" or "remained alive (UDB)
@@ -49,6 +44,6 @@
   * [[:en:bible:questions:comprehension:gen:07]]
 **[[:en:bible:notes:gen:07:21|<<]] | [[:en:bible:notes:gen:08:01|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit blotout}}
+~~DISCUSSION~~{{tag>publish p2check blotout}}
 
 ~~NOCACHE~~
