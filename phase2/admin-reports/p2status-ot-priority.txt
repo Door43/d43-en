@@ -1,0 +1,38 @@
+====== P2 Chunk Status: OT Priority Books ======
+
+~~NOCACHE~~
+
+==== Chunks without P2 tag: ====
+
+(This list should be empty)
+
+{{door43pages @:en:bible:notes -r -q="\{\{tag>(?![^}]*p2edit)(?![^}]*p2check)(?![^}]*p2pass)[^}]*\}\}" -exclude:home -exclude:00 -exclude:intro -simpleLineBreak -title -fontsize="90%"}}
+
+
+==== Books in this list: ====
+
+  * Genesis
+  * Exodus
+  * Leviticus
+  * Numbers
+  * Deuteronomy
+  * Joshua
+  * Judges
+  * Ruth
+  * 1 Samuel
+  * 2 Samuel
+  * Psalms
+  * Isaiah
+  * Daniel
+  * Hosea
+  * Jonah
+  * Malachi
+
+
+==== Priority OT chunk status: ====
+
+^  publish  ^  p2edit  ^  p2check  ^  p2review  ^  p2pass  ^
+|{{door43pages @en:bible:notes:gen @en:bible:notes:exo @en:bible:notes:lev @en:bible:notes:num @en:bible:notes:deu @en:bible:notes:jos @en:bible:notes:jdg @en:bible:notes:rut @en:bible:notes:1sa @en:bible:notes:2sa @en:bible:notes:psa @en:bible:notes:isa @en:bible:notes:dan @en:bible:notes:hos @en:bible:notes:jon @en:bible:notes:mal -r -q="\{\{tag>[^}]*publish[^}]*\}\}" -exclude:home -exclude:intro -exclude:00 -simpleLineBreak -title -fontsize="70%"}}  |{{door43pages @en:bible:notes:gen @en:bible:notes:exo @en:bible:notes:lev @en:bible:notes:num @en:bible:notes:deu @en:bible:notes:jos @en:bible:notes:jdg @en:bible:notes:rut @en:bible:notes:1sa @en:bible:notes:2sa @en:bible:notes:psa @en:bible:notes:isa @en:bible:notes:dan @en:bible:notes:hos @en:bible:notes:jon @en:bible:notes:mal -r -q="\{\{tag>[^}]*p2edit[^}]*\}\}" -exclude:home -simpleLineBreak -title -fontsize="70%"}}  |{{door43pages @en:bible:notes:gen @en:bible:notes:exo @en:bible:notes:lev @en:bible:notes:num @en:bible:notes:deu @en:bible:notes:jos @en:bible:notes:jdg @en:bible:notes:rut @en:bible:notes:1sa @en:bible:notes:2sa @en:bible:notes:psa @en:bible:notes:isa @en:bible:notes:dan @en:bible:notes:hos @en:bible:notes:jon @en:bible:notes:mal -r -q="\{\{tag>[^}]*p2check[^}]*\}\}" -exclude:home -simpleLineBreak -title -fontsize="70%"}}  |{{door43pages @en:bible:notes:gen @en:bible:notes:exo @en:bible:notes:lev @en:bible:notes:num @en:bible:notes:deu @en:bible:notes:jos @en:bible:notes:jdg @en:bible:notes:rut @en:bible:notes:1sa @en:bible:notes:2sa @en:bible:notes:psa @en:bible:notes:isa @en:bible:notes:dan @en:bible:notes:hos @en:bible:notes:jon @en:bible:notes:mal -r -q="\{\{tag>[^}]*p2review[^}]*\}\}" -exclude:home -simpleLineBreak -title -fontsize="70%"}}  |{{door43pages @en:bible:notes:gen @en:bible:notes:exo @en:bible:notes:lev @en:bible:notes:num @en:bible:notes:deu @en:bible:notes:jos @en:bible:notes:jdg @en:bible:notes:rut @en:bible:notes:1sa @en:bible:notes:2sa @en:bible:notes:psa @en:bible:notes:isa @en:bible:notes:dan @en:bible:notes:hos @en:bible:notes:jon @en:bible:notes:mal -r -q="\{\{tag>[^}]*p2pass[^}]*\}\}" -exclude:home -simpleLineBreak -title -fontsize="70%"}}  |
+
+
+\\
