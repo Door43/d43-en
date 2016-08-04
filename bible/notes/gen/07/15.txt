@@ -13,8 +13,6 @@
 <usfm>
 \v 15 Pairs of all creatures that breathed came to Noah and entered the boat.
 \v 16 There were a male and a female of each creature that came to Noah, just as God had said they would do. After they were all in the boat, Yahweh shut the door.
-
-
 \p
 </usfm>
 
@@ -26,18 +24,18 @@
 </usfm>
 
 ===== translationWords: =====
-
  
   * [[:en:obe:kt:god]]
   * [[:en:obe:kt:yahweh]]
+
 ===== translationNotes: =====
 
   * **General Information:** - Verses 13-18 repeat for a third time and give more detail about how Noah went into the ark with his family and the animals in [[:en:bible:notes:gen:07:01|7:1-5]]. This is not a new event.
 
   * **Two of all flesh** - This refers to the animals.
-  * **in which was the breath of life** - AT: "that lived" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **male and female of all flesh** - AT: "male and female of every kind of animal"
-  * **after them** - AT: "after they entered the ark" (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **in which was the breath of life** - "Breath" is a metonymy for being alive. AT: "that lived" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **all flesh** - Translate these words as in [[:en:bible:notes:gen:06:11|6:12]].
+  * **after them** - "after they entered the ark" (See: [[:en:ta:vol1:translate:figs_explicit]])
 
 ===== Links: =====
 
@@ -46,6 +44,6 @@
   * [[:en:bible:questions:comprehension:gen:07]]
 **[[:en:bible:notes:gen:07:13|<<]] | [[:en:bible:notes:gen:07:17|>>]]**
 
-{{tag>publish p2edit }}
+{{tag>publish p2check }}
 
 ~~NOCACHE~~
