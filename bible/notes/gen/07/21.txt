@@ -16,7 +16,6 @@
 \v 22 Everything that breathed, that was a creature of the land, died.
 </usfm>
 
-
 ===== ULB: =====
 
 <usfm>
@@ -24,19 +23,19 @@
 \v 22 All beings in whose nostrils was the breath of the spirit of life, all those of the dry land, died.
 </usfm>
 
-
 ===== translationWords: =====
 
   * [[:en:obe:kt:life]]
   * [[:en:obe:kt:breath]]
   * [[:en:obe:kt:spirit]]
   * [[:en:obe:kt:death]]
+
 ===== translationNotes: =====
 
   * **moved** - "moved about" or "roamed"
-  * **all the swarming creatures that swarmed upon the earth** - This refers to all the animals that move around on the ground in large groups. AT: "all the animals that creep around on the earth."
-  * **All beings in whose nostrils was the breath of the spirit of life** - This included animals and humans. AT: "all beings that had the breath of life in their noses" or "every creature that breathed." 
-  * **breath** - The word "breath" is used figuratively to refer to having life.
+  * **all the swarming creatures that swarmed upon the earth** - This refers to all the animals that move around on the ground in large groups.
+  * **All beings in whose nostrils was the breath of the spirit of life** - The "nostrils" are a metonymy for the whole person. This included animals and humans. AT: "all beings that had the breath of life in their noses" or "every creature that breathed." (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **breath** - The word "breath" is used figuratively to refer to having life. (See: [[:en:ta:vol2:translate:figs_metonymy]])
   * **spirit** - A person's spirit is the part of him that can know God and believe in him.
   * **all those of the dry land** - "all creatures that lived on dry land." This tells something more about the creatures that had the breath of life. AT: "and who lived on dry land."
   * **died** - This refers to physical death.
@@ -48,6 +47,6 @@
   * [[:en:bible:questions:comprehension:gen:07]]
 **[[:en:bible:notes:gen:07:19|<<]] | [[:en:bible:notes:gen:07:23|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit spirit life}}
+~~DISCUSSION~~{{tag>publish p2check spirit life}}
 
 ~~NOCACHE~~
