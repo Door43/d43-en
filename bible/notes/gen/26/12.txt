@@ -33,11 +33,14 @@
 
   * [[:en:obe:other:isaac]]
   * [[:en:obe:other:reap]]
+  * [[:en:obe:other:biblicaltimeyear]]
   * [[:en:obe:kt:yahweh]]
   * [[:en:obe:kt:bless]]
   * [[:en:obe:other:sheep]]
+  * [[:en:obe:other:cow]]
   * [[:en:obe:other:household]]
   * [[:en:obe:other:philistines]]
+  * [[:en:obe:other:envy]]
  
 
 ===== translationNotes: =====
@@ -45,8 +48,9 @@
   * **in that land** - "in Gerar"
   * **a hundredfold** - This means "one hundred times as much as he planted." It can be translated more generally as "a very large crop" (UDB).
   * **The man became rich** - "Isaac became rich" or "He became rich"
-  * **and grew more and more until he became very great** - "and he continued to become rich until he became very wealthy"
-  * **sheep** - This may also include goats.
+  * **and grew more and more until he became very great** - "and he gained more and more until he became very wealthy"
+  * **sheep** - This may also include goats. (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **a large household** - Here "household" stands for workers or servants. (See: [[:en:ta:vol2:translate:figs_metonymy]])
   * **The Philistines envied him** - "so the Philistines became jealous of him"
 ===== Links: =====
 
@@ -61,6 +65,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit p2fix}}
+{{tag>publish p2check p2fix}}
 
 ~~NOCACHE~~
