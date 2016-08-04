@@ -43,11 +43,14 @@
 
 ===== translationNotes: =====
 
-  * **Abimelech called Isaac to him** - Abimelech probably sent someone to tell Isaac to go to him. "Abimelech sent for Isaac."
-  * **to get her** - AT: "so he could take her."
+  * **Abimelech called Isaac to him** - Abimelech probably sent someone to tell Isaac to go to him. AT: "Abimelech sent someone to bring Isaac to him" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * ** Why did you say, 'She is my sister'?"** - This is a quotation within a quotation. It can be stated as an indirect quotation. AT: "Why did you say that she is your sister?" (See: [[:en:ta:vol2:translate:figs_quotesinquotes]] and [[:en:ta:vol2:translate:figs_quotations]])
+  * **to get her** - "so he could take her"
   * **What is this you have done to us?** - Abimelech used this question to scold Isaac. AT: "You should not have done this to us!" (UDB) (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **Whoever touches this man** - Here "touches" means to touch in a harmful way. AT: "Whoever harms this man." (See: [[:en:ta:vol1:translate:figs_idiom]])
-  * **will surely be put to death** - Abimelech may have intended to tell someone to kill anyone who might harm Isaac or Rebekah. This can be stated in active form. AT: "I will put him to death" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **you would have brought guilt upon us** - This speaks about causing someone to be guilty as if "guilt" were an object that is placed on someone. AT: "you would have caused us to be guilty of taking a man's wife" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **upon us** - Here "us" refers to Abimelech and his people. (See: [[:en:ta:vol2:translate:figs_exclusive]])
+  * **Whoever touches this man** - Here "touches" means to touch in a harmful way. AT: "Whoever harms this man" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **will surely be put to death** - Abimelech may have intended to tell someone to kill anyone who might harm Isaac or Rebekah. This can be stated in active form. AT: "I will put him to death" or "I will order my men to kill him" (See: [[:en:ta:vol2:translate:figs_activepassive]])
 ===== Links: =====
 
   * [[:en:bible:notes:gen:00:intro]]
@@ -55,6 +58,6 @@
   * [[:en:bible:questions:comprehension:gen:26]]
 **[[:en:bible:notes:gen:26:06|<<]] | [[:en:bible:notes:gen:26:12|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit abimelech p2fix}}
+~~DISCUSSION~~{{tag>publish p2check abimelech p2fix}}
 
 ~~NOCACHE~~
