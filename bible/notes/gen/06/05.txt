@@ -16,7 +16,6 @@
 \v 6 Yahweh was sorry that he had made people on the earth and it made him sad.
 </usfm>
 
-
 ===== ULB: =====
 
 <usfm>
@@ -25,19 +24,16 @@
 \v 6 Yahweh regretted that he had made mankind on the earth, and it grieved him to his heart.
 </usfm>
 
-
 ===== translationWords: =====
 
   * [[:en:obe:kt:yahweh]]
   * [[:en:obe:kt:evil]]
- 
- 
 
 ===== translationNotes: =====
 
   * **inclination** - "tendency" or "habit"
-  * **the thoughts of their hearts** - "their inner, secret thoughts." Your language may use a word other than "heart" to talk about the part of people that thinks.
-  * **it grieved him to his heart** - This is a figurative way of saying that he was very, very sad about it. Your language may use a word other than "heart" to talk about the emotions.
+  * **the thoughts of their hearts** - The writer speaks of the heart as if it were the part of the body that thinks. Your language may use a word other than "heart" to talk about the part of people that thinks. AT: "their inner, secret thoughts." (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **it grieved him to his heart** - The writer speaks of the heart as if it were the part of the body that feels sadness. Your language may use a word other than "heart" to talk about the emotions. AT: "he was very, very sad about it" (See: [[:en:ta:vol2:translate:figs_metonymy]])
 
 ===== Links: =====
 
@@ -46,6 +42,6 @@
   * [[:en:bible:questions:comprehension:gen:06]]
 **[[:en:bible:notes:gen:06:04|<<]] | [[:en:bible:notes:gen:06:07|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit evil}}
+~~DISCUSSION~~{{tag>publish p2check evil}}
 
 ~~NOCACHE~~
