@@ -37,15 +37,18 @@
   * [[:en:obe:other:obey]]
   * [[:en:obe:other:laban]]
   * [[:en:obe:other:haran]]
+  * [[:en:obe:other:biblicaltimeday]]
 
 
 ===== translationNotes: =====
 
+  * **Now** - This does not mean "at this moment," but is used to draw attention to the important point that follows. 
   * **flee to Laban** - "leave here quickly and go to Laban"
-  * **for a few days** - AT: "for a period of time" or "for a while".
+  * **for a few days** - Here "few days" means an undetermined amount of time. AT: "for a period of time" or "for a while"
   * **until your brother's fury subsides** - "until you brother calms down"
-  * **until your brother's anger turns away from you** - "until he is no longer angry with you"
+  * **until your brother's anger turns away from you** - No longer being angry is spoken of as if the anger turns to a different direction away from the person. AT: "until he is no longer angry with you" (See: [[:en:ta:vol1:translate:figs_metaphor]])
   * **Why should I lose you both in one day?** - Rebekah uses a question to emphasize her concern. AT: "I do not want to lose both of you in one day!" (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **lose you both in one day** - It is implied that if Esau kills Jacob, then they will execute Esau as a murderer. (See: [[:en:ta:vol1:translate:figs_explicit]])
 
 ===== Links: =====
 
@@ -54,6 +57,6 @@
   * [[:en:bible:questions:comprehension:gen:27]]
 **[[:en:bible:notes:gen:27:41|<<]] | [[:en:bible:notes:gen:27:46|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit haran laban p2fix}}
+~~DISCUSSION~~{{tag>publish p2check haran laban p2fix}}
 
 ~~NOCACHE~~
