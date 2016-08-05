@@ -6,19 +6,14 @@
 <usfm>
 \v 18 So Noah left the boat, along with his wife and his sons and their wives.
 \v 19 And every kind of creature, including all those that move close to the ground, all the birds, every creature that moves on the earth, left the boat. They left the boat in groups of their own kind.
-
 \p
 </usfm>
-
 
 ===== UDB: =====
 
 <usfm>
 \v 18 So Noah left the boat, along with his wife, his sons, and their wives.
 \v 19 Then all the creatures, including all those that move close to the ground, all the birds, and every animal that moves on the earth, left the boat. They left the boat in groups of their own kind.
-
-
-
 \p
 </usfm>
 
@@ -36,10 +31,9 @@
   * [[:en:obe:other:noah]]
   * [[:en:obe:other:ark]]
  
-
 ===== translationNotes: =====
 
-  * **according to their families** - AT: "in groups of their own kinds"
+  * **according to their families** - "in groups of their own kinds"
 
 ===== Links: =====
 
@@ -48,6 +42,6 @@
   * [[:en:bible:questions:comprehension:gen:08]]
 **[[:en:bible:notes:gen:08:15|<<]] | [[:en:bible:notes:gen:08:20|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit }}
+~~DISCUSSION~~{{tag>publish p2check }}
 
 ~~NOCACHE~~
