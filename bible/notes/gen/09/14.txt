@@ -16,7 +16,6 @@
 \v 15 it will remind me about the covenant that I have made with you and with all living creatures, my promise that there will never again be a flood that will destroy all living creatures.
 </usfm>
 
-
 ===== ULB: =====
 
 <usfm>
@@ -24,14 +23,12 @@
 \v 15 then I will call to mind my covenant, which is between me and you and every living creature of all flesh. The waters will never again become a flood to destroy all flesh.
 </usfm>
 
-
 ===== translationWords: =====
 
   * [[:en:obe:kt:covenant]]
   * [[:en:obe:kt:flesh]]
   * [[:en:obe:other:flood]]
  
-
 ===== translationNotes: =====
 
   * **General Information:** - God continues speaking to Noah and his sons.
@@ -40,6 +37,7 @@
   * **I will call to mind my covenant** - This does not mean that God would first forget. AT: "I will think about my covenant."
   * **me and you** - The word "you" is plural. God was speaking to Noah and Noah's sons.
   * **every living creature of all flesh** - AT: "every kind of living being"
+  * **all flesh** - Translate this as in [[:en:bible:notes:gen:06:11|6:12]].
 
 ===== Links: =====
 
@@ -48,6 +46,6 @@
   * [[:en:bible:questions:comprehension:gen:09]]
 **[[:en:bible:notes:gen:09:11|<<]] | [[:en:bible:notes:gen:09:16|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~
