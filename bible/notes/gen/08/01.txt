@@ -33,11 +33,12 @@
 
 ===== translationNotes: =====
 
-  * **considered** - "remembered" or "thought about."
-  * **ark** - This refers to the large boat that Noah built to escape the flood.
-  * **The fountains of the deep** - This refers to the water that came up from the ground.
-  * **the windows of heaven were closed** - "the sky closed" or "the doors in the sky closed." It is figurative language that means that the rain stopped coming down. See how you translated "the windows of heaven opened" in [[:en:bible:notes:gen:07:11|7:11]].
-  * **The fountains ... and the windows ... were closed** - "The fountains ... and the windows ... closed up" or "Yahweh closed the fountains ... and the windows." (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **considered** - "remembered" or "thought about"
+  * **ark** - Translate this as in [[:en:bible:notes:gen:06:13|6:14]].
+  * **The fountains of the deep and the windows of heaven were closed** - "The rain stopped falling and water stopped coming out of the ground." This can be made active. AT: "God closed the fountains of the deep and the windows of heaven" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **fountains of the deep** - See how these words Are translated in [[:en:bible:notes:gen:07:11|7:11]].
+  * **the windows of heaven** - See how these words are translated in [[:en:bible:notes:gen:07:11|7:11]].
+
 ===== Links: =====
 
   * [[:en:bible:notes:gen:00:intro]]
@@ -45,4 +46,4 @@
   * [[:en:bible:questions:comprehension:gen:08]]
 **[[:en:bible:notes:gen:07:23|<<]] | [[:en:bible:notes:gen:08:04|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit noah ark fountain}}
+~~DISCUSSION~~{{tag>publish p2check noah ark fountain}}
