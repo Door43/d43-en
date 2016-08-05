@@ -14,11 +14,8 @@
 <usfm>
 \v 29 Abram and Nahor both married. Abram's wife was named Sarai, and Nahor's wife was named Milcah. Milcah and her sister Iscah were the daughters of Haran.
 \v 30 Sarai was unable to have any children.
-
-
 \p
 </usfm>
-
 
 ===== ULB: =====
 
@@ -27,15 +24,12 @@
 \v 30 Now Sarai was barren; she had no child.
 </usfm>
 
-
 ===== translationWords: =====
 
   * [[:en:obe:other:abraham]]
   * [[:en:obe:other:sarah]]
   * [[:en:obe:kt:barren]]
  
- 
-
 ===== translationNotes: =====
 
   * **took wives** - "married wives"
@@ -56,6 +50,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit abraham sarah barren }}
+{{tag>publish p2check abraham sarah barren }}
 
 ~~NOCACHE~~
