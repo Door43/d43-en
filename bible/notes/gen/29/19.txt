@@ -33,7 +33,9 @@
 
   * [[:en:obe:other:laban]]
   * [[:en:obe:other:jacob]]
+  * [[:en:obe:other:biblicaltimeyear]]
   * [[:en:obe:other:rachel]]
+  * [[:en:obe:other:biblicaltimeday]]
  
 ===== translationNotes: =====
 
@@ -50,6 +52,6 @@
   * [[:en:bible:questions:comprehension:gen:29]]
 **[[:en:bible:notes:gen:29:15|<<]] | [[:en:bible:notes:gen:29:21|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit rachel}}
+~~DISCUSSION~~{{tag>publish p2check rachel}}
 
 ~~NOCACHE~~
