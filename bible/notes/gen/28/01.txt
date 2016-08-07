@@ -25,6 +25,8 @@
 
 ===== translationWords: =====
 
+  * [[:en:obe:other:Isaac]]
+  * [[:en:obe:other:Jacob]]
   * [[:en:obe:kt:bless]]
   * [[:en:obe:other:command]]
   * [[:en:obe:other:canaan]]
@@ -32,18 +34,17 @@
   * [[:en:obe:other:house]]
   * [[:en:obe:other:bethuel]]
   * [[:en:obe:other:laban]]
-  * [[:en:obe:kt:brother]]
 
 ===== translationNotes: =====
 
-  * **You must not take** - AT: "Do not take."
-  * **Arise, go** - AT: "Go right away."
+  * **You must not take** - "Do not take"
+  * **Arise, go** - "Go right away"
   * **Paddan Aram** - See how this was translated in [[:en:bible:notes:gen:25:19|25:20]].
-  * **house of** - This refers to a person's descendants or other relatives.
+  * **house of** - This refers to a person's descendants or other relatives. (See: [[:en:ta:vol2:translate:figs_metonymy]])
   * **Bethuel** - See how you translated this man's name in [[:en:bible:notes:gen:22:20|22:22]].
-  * **your mother's father** - AT: "your grandfather."
-  * **one of the daughters** - AT: "from the daughters."
-  * **your mother's brother** - AT: "your uncle."
+  * **your mother's father** - "your grandfather"
+  * **one of the daughters** - "from the daughters"
+  * **your mother's brother** - "your uncle"
 ===== Links: =====
 
   * [[:en:bible:notes:gen:00:intro]]
@@ -51,6 +52,6 @@
   * [[:en:bible:questions:comprehension:gen:28]]
 **[[:en:bible:notes:gen:27:46|<<]] | [[:en:bible:notes:gen:28:03|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit isaac}}
+~~DISCUSSION~~{{tag>publish p2check isaac}}
 
 ~~NOCACHE~~
