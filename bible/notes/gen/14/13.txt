@@ -12,7 +12,8 @@
 ===== UDB: =====
 
 <usfm>
-\v 13-14 At that time, Abram was living near the big trees that belonged to Mamre, who belonged to the Amor clan. Abram had made an agreement with Mamre and his two brothers, Eshcol and Aner, that they would help each other if there was a war. One of the men who escaped from the battle told Abram the Hebrew what had happened and that the enemy had captured his nephew, Lot, and taken him away. So Abram summoned 318 men who were his servants, men who had been with Abram since they were born and who knew how to fight as warriors. They all went together and pursued their enemies as far as the city of Dan.
+\v 13 At that time, Abram was living near the big trees that belonged to Mamre, who belonged to the Amor clan. Abram had made an agreement with Mamre and his two brothers, Eshcol and Aner, that they would help each other if there was a war.
+\v 14 One of the men who escaped from the battle told Abram the Hebrew what had happened and that the enemy had captured his nephew, Lot, and taken him away. So Abram summoned 318 men who were his servants, men who had been with Abram since they were born and who knew how to fight as warriors. They all went together and pursued their enemies as far as the city of Dan.
 </usfm>
 
 
@@ -35,11 +36,11 @@
  
 ===== translationNotes: =====
 
-  * **One who had escaped came** - AT: "A man escaped from the battle and came"
+  * **One who had escaped came** - "A man escaped from the battle and came"
   * **He was living** - "Abram was living." This introduces background information. (See: [[:en:ta:vol2:translate:writing_background]])
   * **oaks** - See how you translated "oak" in [[:en:bible:notes:gen:12:06|12:6]].
   * **were all allies of Abram** - "were treaty-partners with Abram" or "had a peace agreement with Abram"
-  * **his relative** - This refers to Lot.
+  * **his relative** - Lot
   * **trained men** - "men who were trained to fight"
   * **men, born in his house** - "men who were born in Abram's household." They were children of Abram's servants.
   * **pursued them** - "chased them"
@@ -52,6 +53,6 @@
   * [[:en:bible:questions:comprehension:gen:14]]
 **[[:en:bible:notes:gen:14:10|<<]] | [[:en:bible:notes:gen:14:15|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit oak dan }}
+~~DISCUSSION~~{{tag>publish p2check oak dan }}
 
 ~~NOCACHE~~
