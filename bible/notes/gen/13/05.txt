@@ -13,7 +13,7 @@
 
 <usfm>
 \v 5 Lot, who was traveling with Abram, also had flocks of sheep and goats and herds of cattle and tents.
-\v 6 The two of them had so many animals that they could not all stay in the same area. There was not enough land to provide water and food for all their animals.
+\v 6 They had so many animals between the two of them that they could not all stay in the same area. There was not enough land to provide water and food for all their animals.
 \v 7 Furthermore, the men who took care of Abram's livestock started quarreling with the men who took care of Lot's livestock. The descendants of Canaan and Perez were also living in that area.
 </usfm>
 
@@ -37,9 +37,9 @@
 
 ===== translationNotes: =====
 
-  * **Now** - This word is used in English to show that what follows it is background information. This information will help the reader understand the reason for the events that begin in [[:en:bible:notes:gen:13:08|13:8]]. (See: [[:en:ta:vol2:translate:writing_background]])
+  * **Now** - This word is used in English to show that what follows it is background information that will help the reader understand the reason for the events that follow. (See: [[:en:ta:vol2:translate:writing_background]])
   * **The land was not able to support them** - There was not enough grazing land and water there for all their animals.
-  * **their possessions** - This includes livestock which need pasture and water.
+  * **their possessions** - This includes livestock, which need pasture and water.
   * **could not stay together** - "could not live together"
   * **The Canaanites and the Perizzites were living in the land at that time.** - This is another reason that the land could not support them all.
 
@@ -56,6 +56,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit canaan perizzite }}
+{{tag>publish p2check canaan perizzite }}
 
 ~~NOCACHE~~
