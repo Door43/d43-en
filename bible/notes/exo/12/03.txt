@@ -24,18 +24,17 @@
 ===== translationWords: =====
 
   * [[:en:obe:kt:assembly]]
-  * [[:en:obe:other:biblicaltimeday]]
   * [[:en:obe:other:israel]]
+  * [[:en:obe:other:biblicaltimeday]]
   * [[:en:obe:kt:lamb]]
   * [[:en:obe:other:goat]]
   * [[:en:obe:other:household]]
   * [[:en:obe:other:neighbor]]
-  * [[:en:obe:other:peoplegroup]]
 
 ===== translationNotes: =====
 
-  * **tenth day of this month** - AT: "tenth day of the first month" (See: [[:en:ta:vol2:translate:translate_hebrewmonths]] and [[:en:ta:vol2:translate:translate_ordinal]])
-  * **too small for a lamb** - AT: "too small to eat a whole cooked lamb" (See: [[:en:ta:vol1:translate:figs_explicit]]) 
+  * **If the household is too small for a lamb** - This means that there are not enough people in the family to eat an entire lamb. AT: "If there are not enough people in the household to eat an entire lamb" (See: [[:en:ta:vol1:translate:figs_explicit]]) 
+  * **the man and his next door neighbor** - Here "the man" refers to the man who is the leader of the household.
 
 ===== Links: =====
 
@@ -44,6 +43,6 @@
   * [[:en:bible:questions:comprehension:exo:12]]
 **[[:en:bible:notes:exo:12:01|<<]] | [[:en:bible:notes:exo:12:05|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~
