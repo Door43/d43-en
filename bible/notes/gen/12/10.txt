@@ -19,11 +19,8 @@
 \v 11 When they were coming near to the land of Egypt, Abram said to his wife Sarai, "Listen, I know that you are a very beautiful woman.
 \v 12 When the people in Egypt see you, they will say, 'This woman is his wife!' and they will kill me, but they will not kill you.
 \v 13 So I ask you to tell them that you are my sister, so that I will be safe and so they will spare my life because of you."
-
-
 \p
 </usfm>
-
 
 ===== ULB: =====
 
@@ -35,22 +32,20 @@
 \v 13 Say that you are my sister, so that it may be well with me because of you, and so that my life will be spared because of you."
 </usfm>
 
-
 ===== translationWords: =====
 
   * [[:en:obe:other:famine]]
   * [[:en:obe:other:abraham]]
   * [[:en:obe:other:egypt]]
   * [[:en:obe:other:sarah]]
- 
 
 ===== translationNotes: =====
 
   * **There was a famine** - "There was no food available" or "There was a shortage of food." AT: "The crops did not grow well that season."
   * **in the land** - "in the area" or "in the land where Abram was living"
-  * **went down into** - AT: "went south into"
-  * **they will kill me** - The reason they would kill Abram can be made explicit: "they will kill me so that they can marry you" or "they will kill me in order to marry you." (See: [[:en:ta:vol1:translate:figs_explicit]])
-  * **so that my life will be spared because of you** - "so that, because of you, they will not kill me"
+  * **went down into** - Possible meanings are 1) "went south into" (see UDB) or 2) "went away from Canaan into." It would be best to translate this using your usual words for going from a higher place to a lower place.
+  * **they will kill me** - The reason they would kill Abram can be made explicit: "they will kill me so that they can marry you." (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **so that my life will be spared because of you** - This can be made active. "so that, because of you, they will not kill me" (See: [[:en:ta:vol2:translate:figs_activepassive]])
 
 ===== Links: =====
 
@@ -59,6 +54,6 @@
   * [[:en:bible:questions:comprehension:gen:12]]
 **[[:en:bible:notes:gen:12:08|<<]] | [[:en:bible:notes:gen:12:14|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit famine }}
+~~DISCUSSION~~{{tag>publish p2check famine }}
 
 ~~NOCACHE~~
