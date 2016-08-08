@@ -20,7 +20,6 @@
 \v 20 Then the king ordered his officials to take Abram and his wife and all his possessions out of Egypt.
 </usfm>
 
-
 ===== ULB: =====
 
 <usfm>
@@ -29,7 +28,6 @@
 \v 19 Why did you say, 'She is my sister,' so that I took her to be my wife? Now therefore, here is your wife. Take her, and go your way."
 \v 20 Then Pharaoh gave orders to his men concerning him, and they sent him away, along with his wife and all that he had.
 </usfm>
-
 
 ===== translationWords: =====
 
@@ -40,10 +38,9 @@
   * [[:en:obe:other:plague]]
   * [[:en:obe:other:sarah]]
 
-
 ===== translationNotes: =====
 
-  * **because of Sarai, Abram's wife** - AT: "because Pharaoh took Sarai, Abram's wife, to his own wife"
+  * **because of Sarai, Abram's wife** - This can be made more explicit. AT: "because Pharaoh took Sarai, Abram's wife, to be his own wife" (See: [[:en:ta:vol1:translate:figs_explicit]])
   * **Pharaoh summoned Abram** - AT: "Pharaoh called Abram" or "Pharaoh ordered Abraham to come to him"
   * **What is this that you have done to me?** - Pharaoh used this rhetorical question to show how angry he was about what Abram had done to him. It can also be stated as an exclamation. "You have done a terrible thing to me!" (UDB). (See: [[:en:ta:vol1:translate:figs_rquestion]])
   * **Then Pharaoh gave orders to his men concerning him** - "Then Pharaoh directed his officials concerning Abram"
@@ -62,6 +59,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit afflict plague}}
+{{tag>publish p2check afflict plague}}
 
 ~~NOCACHE~~
