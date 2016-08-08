@@ -18,14 +18,12 @@
 \v 7 Then Yahweh appeared to Abram and said to him, "I will give this land to your descendants." Then Abram built an altar to offer a sacrifice to Yahweh, who had appeared to him.
 </usfm>
 
-
 ===== ULB: =====
 
 <usfm>
 \v 6 Abram passed through the land as far as Shechem, to the oak of Moreh. At that time the Canaanites lived in the land.
 \v 7 Yahweh appeared to Abram, and said, "To your descendants I will  give this land." So there Abram built an altar to Yahweh, who had appeared to him.
 </usfm>
-
 
 ===== translationWords: =====
 
@@ -36,14 +34,13 @@
   * [[:en:obe:kt:yahweh]]
   * [[:en:obe:other:descendant]]
   * [[:en:obe:other:altar]]
- 
 
 ===== translationNotes: =====
 
   * **Abram passed through the land** - Only Abraham's name is mentioned because he was the head of the family. God had given him the command to take his family and go there. AT: "So Abraham and his family went through the land." 
-  * **the land** - AT: "the land of Canaan"
-  * **the oak of Moreh** - Moreh was probably the name of a place.
-  * **Yahweh, who had appeared to him** - AT: "Yahweh, because he had appeared to him"
+  * **the land** - "the land of Canaan"
+  * **the oak of Moreh** - Moreh was probably the name of a place. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **Yahweh, who had appeared to him** - "Yahweh, because he had appeared to him"
 
 ===== Links: =====
 
@@ -52,6 +49,6 @@
   * [[:en:bible:questions:comprehension:gen:12]]
 **[[:en:bible:notes:gen:12:04|<<]] | [[:en:bible:notes:gen:12:08|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit shechem oak }}
+~~DISCUSSION~~{{tag>publish p2check shechem oak }}
 
 ~~NOCACHE~~
