@@ -27,15 +27,14 @@
 
 ===== translationWords: =====
   * [[:en:obe:other:flock]]
-  * [[:en:obe:other:sheep]]
+  * [[:en:obe:kt:lamb]]
   * [[:en:obe:kt:face]]
 ===== translationNotes: =====
 
   * **bred** - "conceived" or "mated" (UDB)
   * **produced striped, speckled, and spotted young** - "gave birth to babies with stripes and spots"
-  * **directed their faces toward** - "turned them to look at"
+  * **faces toward** - "look toward"
   * **he separated out his flocks for himself alone** - "he set his flocks apart"
-  * **did not mix them** - "did not put them"
 
 ===== Links: =====
 
@@ -46,6 +45,6 @@
 
 ~~DISCUSSION~~
 
-{{tag>publish p2edit  p2fix}}
+{{tag>publish p2check  p2fix}}
 
 ~~NOCACHE~~
