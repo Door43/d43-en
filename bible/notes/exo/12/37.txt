@@ -32,19 +32,18 @@
 
 ===== translationWords: =====
 
-  * [[:en:obe:other:israel]]
   * [[:en:obe:other:succoth]]
   * [[:en:obe:other:flock]]
-  * [[:en:obe:other:yeast]]
-  * [[:en:obe:other:egypt]]
   * [[:en:obe:other:castout]]
   * [[:en:obe:kt:life]]
+
 ===== translationNotes: =====
 
-
   * **Rameses** - See how you translated this in [[:en:bible:notes:exo:01:11|1:11]].
-  * **Succoth** - This is a place name. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **They numbered about 600,000 men** - They counted about 600,000 men. (See: [[ en:ta:vol2:translate:translate_numbers]])
+  * **They numbered about 600,000 men** - "The total number of men was 600,000" (See: [[ en:ta:vol2:translate:translate_numbers]])
+  * **bread without yeast in the dough** - "bread with dough that did not contain yeast"
+  * **they had been driven out of Egypt** - This can be stated in active form. AT: "the Egyptians had driven them out of Egypt" (See: [[:en:ta:vol2:translate:figs_activepassive]])s
+
 ===== Links: =====
 
   * [[:en:bible:notes:exo:00:intro]]
@@ -52,6 +51,6 @@
   * [[:en:bible:questions:comprehension:exo:12]]
 **[[:en:bible:notes:exo:12:34|<<]] | [[:en:bible:notes:exo:12:41|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~
