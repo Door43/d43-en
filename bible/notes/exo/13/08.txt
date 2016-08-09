@@ -31,16 +31,19 @@
 ===== translationWords: =====
 
   * [[:en:obe:kt:children]]
+  * [[:en:obe:kt:yahweh]]
   * [[:en:obe:other:egypt]]
   * [[:en:obe:kt:sign]]
   * [[:en:obe:kt:lawofmoses]]
+  * [[:en:obe:kt:appoint]]
+
 ===== translationNotes: =====
 
-  * **reminder for you on your hand, and a reminder on your forehead** - These are two different types of physical reminders so people will not forget something important. (See: [[:en:ta:vol2:translate:figs_parallelism|Parallelism]])
-  * **reminder for you on your hand** - The words "reminder ... on your hand" were compared to the effect celebrating the festival would have on the people. AT: "reminder that is personal." (See: [[:en:ta:vol1:translate:figs_metaphor|Metaphor]])
-  * **reminder on your forehead** - The words "reminder ... on your forehead" were compared to the effect celebrating the festival would have on the people. AT: "reminder that is in front of you or before you." (See: [[:en:ta:vol1:translate:figs_metaphor|Metaphor]])
-  * **This is so the law of Yahweh may be in your mouth** - The words "in your mouth" here represent what comes from the heart. AT: "this is so the law of Yahweh may come forth from your heart." (See: [[:en:ta:vol2:translate:figs_metonymy|Metonymy]])
-  * **strong hand** - See how you translated "strong hand" in [[:en:bible:notes:exo:06:01|6:1]]. (See: [[:en:ta:vol2:translate:figs_metonymy|Metonymy]])
+  * **reminder for you on your hand, and a reminder on your forehead** - These are two different types of physical reminders so people will not forget something important. (See: [[:en:ta:vol2:translate:figs_parallelism]])
+  * **reminder for you on your hand** - The words "reminder ... on your hand" were compared to the effect celebrating the festival would have on the people. AT: "reminder that is personal." (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **reminder on your forehead** - These words were compared to the effect celebrating the festival would have on the people. AT: "reminder that is in front of you or before you." (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **so the law of Yahweh may be in your mouth** - The words "in your mouth" here refers to the words that they speak. AT: "so you may always be speaking of the law of Yahweh" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **strong hand** - See how you translated "strong hand" in [[:en:bible:notes:exo:06:01|6:1]]. (See: [[:en:ta:vol2:translate:figs_metonymy]])
 
 ===== Links: =====
 
@@ -49,6 +52,6 @@
   * [[:en:bible:questions:comprehension:exo:13]]
 **[[:en:bible:notes:exo:13:06|<<]] | [[:en:bible:notes:exo:13:11|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~
