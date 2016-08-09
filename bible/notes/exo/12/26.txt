@@ -32,6 +32,7 @@
 
 ===== translationWords: =====
 
+  * [[:en:obe:kt:children]]
   * [[:en:obe:kt:worship]]
   * [[:en:obe:other:sacrifice]]
   * [[:en:obe:kt:yahweh]]
@@ -40,7 +41,6 @@
   * [[:en:obe:other:egypt]]
   * [[:en:obe:other:household]]
   * [[:en:obe:kt:free]]
-  * [[:en:obe:other:peoplegroup]]
   * [[:en:obe:kt:bow]]
   * [[:en:obe:other:command]]
   * [[:en:obe:other:moses]]
@@ -48,7 +48,7 @@
 
 ===== translationNotes: =====
 
-  * **He set our households free** - AT: "He did not kill the firstborn sons in our houses" (See: [[:en:phase1:team-info:training:quick-reference:discourse:implicit-explicit|Implicit and Explicit Information]])
+  * **He set our households free** - This means that Yahweh spared the Israelites' firstborn sons. AT: "He did not kill the firstborn sons in our houses" (See: (See: [[:en:ta:vol1:translate:figs_explicit]]))
 
 ===== Links: =====
 
@@ -57,6 +57,6 @@
   * [[:en:bible:questions:comprehension:exo:12]]
 **[[:en:bible:notes:exo:12:24|<<]] | [[:en:bible:notes:exo:12:29|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit passover}}
+~~DISCUSSION~~{{tag>publish p2check passover}}
 
 ~~NOCACHE~~
