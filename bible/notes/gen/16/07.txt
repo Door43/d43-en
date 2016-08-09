@@ -16,7 +16,6 @@
 \v 8 He said to her, "Hagar, slave of Sarai, where have you come from, and where are you going?" She replied, "I have run away from Sarai, my mistress."
 </usfm>
 
-
 ===== ULB: =====
 
 <usfm>
@@ -24,7 +23,6 @@
 \v 7 The angel of Yahweh found her by a spring of water in the wilderness, the spring that is on the way to Shur.
 \v 8 He said, "Hagar, Sarai's servant, where did you come from and where are you going?" And she said, "I am fleeing from my mistress Sarai."
 </usfm>
-
 
 ===== translationWords: =====
 
@@ -34,12 +32,13 @@
   * [[:en:obe:other:hagar]]
   * [[:en:obe:other:sarah]]
   * [[:en:obe:other:servant]]
+
 ===== translationNotes: =====
 
   * **The angel of Yahweh** - Possible meanings are 1) Yahweh made himself look like an angel or 2) this was one of Yahweh's angels or 3) this was a special messenger from God (some scholars think it was Jesus). Since the phrase is not well understood, it is best to simply translate it as "the angel of Yahweh" using the normal word that you use for "angel."
   * **wilderness** - The wilderness area she went to was a desert. AT: "desert." 
   * **Shur** - This was the name of a place south of Canaan and east of Egypt.
-  * **my mistress** - This was a title for Sarah that showed her authority over her servant, Hagar. AT: "my owner."
+  * **my mistress** - See how "her mistress" is translated in [[:en:bible:notes:gen:16:01|16:4]].
 
 ===== Links: =====
 
@@ -54,6 +53,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2check}}
 
 ~~NOCACHE~~
