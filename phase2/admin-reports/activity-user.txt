@@ -1,5 +1,7 @@
 ====== Individual User Activity ======
 
+{{changes>user=pjoakes&count=15000&render=pagelist(header,date,user,nocomments)&maxage=777760000}}
+
 ~~NOCACHE~~
 
 This page can be used to check the activity of a particular user for any time period. You will need to know the __username__ of the individual.
