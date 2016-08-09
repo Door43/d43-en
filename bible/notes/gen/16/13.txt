@@ -15,11 +15,8 @@
 <usfm>
 \v 13 Hagar said to herself, "I continue to live, even though Yahweh has seen me!" So she called Yahweh, "God, the one who sees me."
 \v 14 That is why people call the well there "Beer Lahai Roi," which means, "the well of the living one who sees me!" It is still there, between Kadesh and Bered.
-
-
 \p
 </usfm>
-
 
 ===== ULB: =====
 
@@ -27,7 +24,6 @@
 \v 13 Then she gave this name to Yahweh who spoke to her, "You are the God who sees me," for she said, "Do I really continue to see, even after he has seen me?"
 \v 14 Therefore the well was called Beerlahairoi; behold, it is between Kadesh and Bered.
 </usfm>
-
 
 ===== translationWords: =====
 
@@ -39,9 +35,8 @@
  
 ===== translationNotes: =====
 
-  * **Yahweh who spoke to her** - AT: "Yahweh, because he spoke to her"
-  * **Do I really continue to see, even after he has seen me?** - Hagar used this rhetorical question to express her amazement that she was still alive even after she met God. People expected that if they met God, they would die. It can also be translated as an exclamation as in the UDB. (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **Do I really continue to see** - AT: "Do I really continue to live?" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **Yahweh who spoke to her** - "Yahweh, because he spoke to her"
+  * **Do I really continue to see, ... me?** - Hagar used this rhetorical question to express her amazement that she was still alive even after she met God. People expected that if they met God, they would die. AT: "I am surprised that I am still alive, ... me." (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol1:translate:figs_rquestion]])
   * **Therefore the well was called Beerlahairoi** - Translators may add a footnote that says "Beerlahairoi means 'the well of the living one who sees me.'" (See: [[:en:ta:vol1:translate:translate_names]])
   * **behold, it is between Kadesh and Bered** - The word "behold" here draws attention to the fact that the well was in a place that the author and his readers knew. AT: "In fact, it is between Kadesh and Bered." (See: [[:en:ta:vol1:translate:translate_names]])
 
@@ -52,6 +47,6 @@
   * [[:en:bible:questions:comprehension:gen:16]]
 **[[:en:bible:notes:gen:16:11|<<]] | [[:en:bible:notes:gen:16:15|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit kadesh }}
+~~DISCUSSION~~{{tag>publish p2check kadesh }}
 
 ~~NOCACHE~~
