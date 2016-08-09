@@ -37,13 +37,13 @@
 ===== translationNotes: =====
 
   * **strikes** - "hits" or "attacks"
-  * **surely** - "certainly" 
-  * **be put to death** - "be killed"
-  * **did not do it with premeditation** - AT: "did not plan and then do it" or "did not do it on purpose"
-  * **I will fix a place to where he can flee** - "I will appoint a place that he can run away to." The purpose can be stated clearly by adding "in order to be safe." (See: [[:en:ta:vol1:translate:figs_explicit]])
-  * **willfully attacks his neighbor to kill him deceitfully** - "murders his neighbor" 
+  * **that person must surely be put to death** - This can be stated in active form. AT: "you must certainly execute that person" or "you must certainly kill that person" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **did not do it with premeditation** - "did not plan to do it" or "did not do it on purpose"
+  * **I will fix a place to where he can flee** - The purpose of choosing a place can be stately clearly here. AT: "I will choose a place that he can run away to be safe" (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **willfully attacks his neighbor to kill him deceitfully** - "tricks his neighbor in order to kill him" 
   * **must take him** - The word "him" refers to the one who killed his neighbor. 
-  * **so that he may die** - "so that you can kill him"
+  * **so that he may die** - This can be stated in active form. AT: "so that you can kill him" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+
 ===== Links: =====
 
   * [[:en:bible:notes:exo:00:intro]]
@@ -51,6 +51,6 @@
   * [[:en:bible:questions:comprehension:exo:21]]
 **[[:en:bible:notes:exo:21:09|<<]] | [[:en:bible:notes:exo:21:15|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit p2fix}}
+~~DISCUSSION~~{{tag>publish p2check p2fix}}
 
 ~~NOCACHE~~
