@@ -18,7 +18,6 @@
 \v 16 After your descendants have been slaves for four hundred years, they will come back here. They will take control of this land and defeat the Amor people. This will not happen before that time, because the Amor people have not yet sinned to the degree that I would punish them like that for it."
 </usfm>
 
-
 ===== ULB: =====
 
 <usfm>
@@ -26,7 +25,6 @@
 \v 15 But you will go to your fathers in peace, and you will be buried in a good old age.
 \v 16 In the fourth generation they will come here again, for the iniquity of the Amorites has not yet reached its limit."
 </usfm>
-
 
 ===== translationWords: =====
 
@@ -38,16 +36,17 @@
   * [[:en:obe:other:generation]]
   * [[:en:obe:kt:iniquity]]
   * [[:en:obe:other:amorite]]
+
 ===== translationNotes: =====
 
   * **General Information:** - Yahweh continued to speak to Abram while Abram dreamed.
 
-  * **judge** - Here God's judgment involves punishing people for their sins.
+  * **judge** - This is a metonymy for what will happen after God makes the judgment. AT: "punish" (See: [[:en:ta:vol2:translate:figs_metonymy]])
   * **that they will serve** - "that your descendants will serve"
   * **abundant possessions** - "many possessions" or "great wealth"
-  * **you will go to your fathers** - This means "you will die." (See: [[:en:ta:vol2:translate:figs_euphemism]])
+  * **you will go to your fathers** - "you will die." (See: [[:en:ta:vol2:translate:figs_euphemism]])
   * **fathers** - The word "fathers" is used to refer to his ancestors. AT: "ancestors" or "ancestral fathers."
-  * **you will be buried in a good old age** - AT: "you will be very old when you die and your family buries your body"
+  * **you will be buried in a good old age** - "you will be very old when you die and your family buries your body"
   * **In the fourth generation** - Here one generation refers to a lifespan of 100 years. AT: "After four hundred years."
   * **they will come here again** - "your descendants will come back here." Abraham's descendants would come to the land where Abram was then living, the land that Yahweh had promised to give to him.
   * **has not yet reached its limit** - "is not yet complete." AT: "will get much worse before I punish them."
@@ -59,6 +58,6 @@
   * [[:en:bible:questions:comprehension:gen:15]]
 **[[:en:bible:notes:gen:15:12|<<]] | [[:en:bible:notes:gen:15:17|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit generation iniquity amorite}}
+~~DISCUSSION~~{{tag>publish p2check generation iniquity amorite}}
 
 ~~NOCACHE~~
