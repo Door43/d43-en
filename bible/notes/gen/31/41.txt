@@ -33,6 +33,7 @@
 
 ===== translationWords: =====
 
+  * [[:en:obe:other:biblicaltimeyear]]
   * [[:en:obe:other:household]]
   * [[:en:obe:other:flock]]
   * [[:en:obe:kt:god]]
@@ -51,9 +52,11 @@
   * **These twenty years** - "These last 20 years" (See: [[:en:ta:vol2:translate:translate_numbers]])
   * **fourteen years** - "14 years" (See: [[:en:ta:vol2:translate:translate_numbers]])
   * **changed my wages ten times** - See how you translated this in [[:en:bible:notes:gen:31:07|31:7]].
+  * **Unless the God of my father, the God of Abraham, and the one Isaac fears, had been with me** - Jacob is referring to the same God not to three different gods. AT: "If the God of Abraham and Isaac, my father, had not been with me"
   * **the God of my father** - Here the word "father" refers to his parent, Isaac.
-  * **and the one Isaac fears** - "and the same God my father Isaac fears." Here the word "fears" refers to the "fear of Yahweh," which means to deeply respect him and show that respect by obeying him.
-  * **empty-handed** - AT: "with absolutely nothing." (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **and the one Isaac fears** - Here the word "fears" refers to the "fear of Yahweh," which means to deeply respect him and show that respect by obeying him.
+  * **empty-handed** - This stands for having nothing. AT: "with absolutely nothing" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **God has seen my oppression and how hard I worked** - The abstract noun "oppression" can be stated as "oppressed." AT: "God has seen how hard I worked and how you oppressed me" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
 ===== Links: =====
 
   * [[:en:bible:notes:gen:00:intro]]
@@ -61,6 +64,6 @@
   * [[:en:bible:questions:comprehension:gen:31]]
 **[[:en:bible:notes:gen:31:38|<<]] | [[:en:bible:notes:gen:31:43|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit }}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~
