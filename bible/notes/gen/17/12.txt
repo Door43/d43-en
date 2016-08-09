@@ -18,12 +18,8 @@
 \v 12 Every male child among you must be circumcised when he is eight days old, in all future generations. That includes baby boys in your household and those born from slaves that have been bought, and foreigners who live among you but do not belong to your household.
 \v 13 It does not matter whether their parents are members of your household or slaves that you have bought; they must all be circumcised. Your bodies will have this mark to show you have accepted this everlasting covenant that I am making.
 \v 14 You must drive out from your community any male who has not been circumcised, because that person has disobeyed my covenant."
-
-
-
 \p
 </usfm>
-
 
 ===== ULB: =====
 
@@ -32,7 +28,6 @@
 \v 13 He who is born into your household and he who is bought with your money must be circumcised. Thus my covenant will be in your flesh for an everlasting covenant.
 \v 14 Any uncircumcised male who is not circumcised in the flesh of his foreskin will be cut off from his people. He has broken my covenant."
 </usfm>
-
 
 ===== translationWords: =====
 
@@ -50,11 +45,12 @@
 
   * **Every male** - "Every human male"
   * **throughout your people's generations** - "in every generation"
-  * **him who is bought with money** - "any male that you buy." This refers to slaves.
-  * **my covenant will be in your flesh** - "my covenant will be marked in your flesh"
-  * **for an everlasting covenant** - "as an permanent covenant." Because it was marked in flesh, it could not easily be erased.
-  * **uncircumcised male who is not circumcised in the flesh of his foreskin** - The word "uncircumcised" and the phrase following "male" mean the same thing. Hebrew often says the same thing twice. Translators will have to decide whether they can do that in their language.
-  * **will be cut off from his people** - This means either "will be separated from his people" or "will be destroyed from among his people."
+  * **him who is bought with money** - This can be active. AT: "any male that you buy." (See: [[:en:ta:vol2:translate:figs_activepassive]]) This refers to slaves.
+  * **my covenant will be in your flesh** - This can be active. AT: "you will mark my covenant in your flesh" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **for an everlasting covenant** - "as a permanent covenant." Because it was marked in flesh, no one could easily erase it.
+  * **uncircumcised male who is not circumcised** - This can be active, and you may leave out words that will give wrong meaning in your language. AT: "male whom you have not circumcised" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **Any uncircumcised male ... foreskin will be cut off from his people** - Possible meanings are 1) "I will cut off any uncircumcised male ... foreskin from his people" or 2) "I want you to cut off any uncircumcised male ... foreskin from his people."
+  * **cut off from his people** - Possible meanings are 1) "killed" (See: [[:en:ta:vol2:translate:figs_euphemism]]) or 2) "sent away from the community."
   * **He has broken my covenant** - "He has not obeyed the rules of my covenant." This is the reason that he would be cut off from his people.
 
 ===== Links: =====
@@ -70,6 +66,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit circumcise cutoff }}
+{{tag>publish p2check circumcise cutoff }}
 
 ~~NOCACHE~~
