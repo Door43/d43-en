@@ -16,7 +16,6 @@
 \v 23 Abraham came closer to him and said, "Will you really destroy people who have done nothing wrong along with the wicked ones?
 </usfm>
 
-
 ===== ULB: =====
 
 <usfm>
@@ -24,7 +23,6 @@
 \v 22 So the men turned from there, and went toward Sodom, but Abraham remained standing before Yahweh.
 \v 23 Then Abraham approached and said, "Will you sweep away the righteous with the wicked?
 </usfm>
-
 
 ===== translationWords: =====
 
@@ -34,14 +32,14 @@
   * [[:en:obe:kt:righteous]]
   * [[:en:obe:kt:evil]]
  
-
 ===== translationNotes: =====
 
   * **turned from there** - "went out from Abraham's camp"
   * **Abraham remained standing before Yahweh** - "Abraham and Yahweh remained together"
   * **approached** - "approached Yahweh" or "stepped closer to Yahweh"
-  * **sweep away** - "destroy"
-  * **the righteous with the wicked** - AT: "the righteous people with the wicked people" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **sweep away** - Abraham speaks of destroying people as if it were sweeping dirt with a broom. AT: "destroy" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **the righteous with the wicked** - "the righteous people with the wicked people" 
+
 ===== Links: =====
 
   * [[:en:bible:notes:gen:00:intro]]
@@ -49,6 +47,6 @@
   * [[:en:bible:questions:comprehension:gen:18]]
 **[[:en:bible:notes:gen:18:20|<<]] | [[:en:bible:notes:gen:18:24|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit }}
+~~DISCUSSION~~{{tag>publish p2check }}
 
 ~~NOCACHE~~
