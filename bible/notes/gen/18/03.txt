@@ -18,7 +18,6 @@
 \v 5 Since you have come here to me, allow me to bring you some food so that you can gain strength before you leave." The men replied, "All right, do as you have said."
 </usfm>
 
-
 ===== ULB: =====
 
 <usfm>
@@ -26,7 +25,6 @@
 \v 4 Let a little water be brought, wash your feet, and rest yourselves under the tree.
 \v 5 Let me bring a little food, so that you may refresh yourselves. Afterwards you can go your way, since you have come to your servant." And they said, "Do as you have said."
 </usfm>
-
 
 ===== translationWords: =====
 
@@ -36,13 +34,14 @@
 ===== translationNotes: =====
 
   * **Lord** - This is a title of respect. Possible meanings are 1) Abraham knew that one of these men was God, or 2) Abraham knew that these men came on behalf of God.
-  * **if I have found favor in your sight** - Abraham was speaking to one of the men. The word "your" in verse 3 is singular. (See: [[:en:ta:vol1:translate:figs_you]])
+  * **in your sight** - Abraham is speaking to one of the men. (See: [[:en:ta:vol1:translate:figs_you]])
   * **do not pass by** - "please do not keep on going"
-  * **your servant** - Abraham referred to himself this way in order to show respect to his guest. AT: "me."
-  * **Let a little water be brought** - AT: "Let me bring you some water" or "My servant will bring you some water." (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **your servant** - Abraham refers to himself this way in order to show respect to his guest. AT: "me."
+  * **Let a little water be brought** - This can be active. AT: "Let me bring you some water" or "My servant will bring you some water." (See: [[:en:ta:vol2:translate:figs_activepassive]])
   * **a little water ... a little food** - Saying "little" was a polite way of showing generosity. Abraham would give them more than enough water and food. AT: "some water ... some food."
   * **wash your feet** - This custom helped tired travelers to refresh themselves after walking long distances.
-  * **your ... you** - When Abraham spoke in verses 4 and 5, the words "you" and "your" are plural. He was offering the water, food, and rest to all three of the men. (See: [[:en:ta:vol1:translate:figs_you]])
+  * **your ... you** - Abraham speaks to all three of the men, so "you" and "your" are plural. (See: [[:en:ta:vol1:translate:figs_you]])
+
 ===== Links: =====
 
   * [[:en:bible:notes:gen:00:intro]]
@@ -50,6 +49,6 @@
   * [[:en:bible:questions:comprehension:gen:18]]
 **[[:en:bible:notes:gen:18:01|<<]] | [[:en:bible:notes:gen:18:06|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~
