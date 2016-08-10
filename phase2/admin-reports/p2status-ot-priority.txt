@@ -11,10 +11,18 @@
 
 ==== Books in this priority list: ====
 
-|Genesis  |Deuteronomy  |1 Samuel  |Daniel  |
-|Exodus  |Joshua  |2 Samuel  |Hosea  |
-|Leviticus  |Judges  |Psalms  |Jonah  |
-|Numbers  |Ruth  |Isaiah  |Malachi  |
+^  First Priority  ^  Next Priority  ^
+|Genesis  |Leviticus  |
+|Exodus  |Numbers  |
+|Jonah  |Deuteronomy  |
+|Ruth  | |Joshua  |
+|Psalms  |Judges  |
+|  |1 Samuel  |
+|  |2 Samuel  |
+|  |Isaiah  |
+|  |Daniel  |
+|  |Hosea  |
+|  |Malachi  |
 
 
 ==== Priority OT chunk status: ====
