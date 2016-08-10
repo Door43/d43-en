@@ -32,12 +32,16 @@
 
   * [[:en:obe:kt:rest]]
   * [[:en:obe:other:servant]]
+
 ===== translationNotes: =====
 
   * **General Information:** - Yahweh continues telling Moses his laws for the people of Israel.
 
-  * **Pay attention** - "Listen well" 
-  * **your ox and your donkey** - AT: "your work animals" 
+  * **Pay attention to** - "Do" or "Obey"
+  * **your ox and your donkey** - "your work animals" 
+  * **any foreigner may rest and be refreshed** - This can be stated in active form. AT: "any foreigner may rest and regain his strength" (See: [[:en:ta:vol2:translate:figs_activepassive]]) 
+  * **Do not mention the names of other gods** - Here "names" is a metonym for praying to other gods. AT: "Do not pray to other gods" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+
 ===== Links: =====
 
   * [[:en:bible:notes:exo:00:intro]]
@@ -45,6 +49,6 @@
   * [[:en:bible:questions:comprehension:exo:23]]
 **[[:en:bible:notes:exo:23:10|<<]] | [[:en:bible:notes:exo:23:14|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit  p2fix}}
+~~DISCUSSION~~{{tag>publish p2check  p2fix}}
 
 ~~NOCACHE~~
