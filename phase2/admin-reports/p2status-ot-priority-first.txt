@@ -4,9 +4,10 @@
 
 ==== Links: ====
 
-  * [[:en:phase2:admin-reports:p2status-ot-priority-second|P2 Chunk Status: OT Second Priority Books]]
-  * [[:en:phase2:admin-reports:p2status-ot-priority|P2 Chunk Status: OT Priority Books]]
-  * [[:en:phase2:admin-reports:p2status-nt|P2 Chunk Status: NT]]
+  * [[:en:phase2:admin-reports:p2status-nt]]
+  * [[:en:phase2:admin-reports:p2status-ot]]
+  * [[:en:phase2:admin-reports:p2status-ot-priority]]
+  * [[:en:phase2:admin-reports:p2status-ot-priority-second]]
 
 ==== Chunks without P2 tag: ====
 
