@@ -40,8 +40,10 @@
  
 
 ===== translationNotes: =====
+  * **General Information:** - This starts a new part of the story. The author describes what Jacob did after he rested in Succoth.
 
-  * **When Jacob came from Paddan Aram** - "When" starts a new storyline (episode) with Jacob after he rested in Succoth. 
+  * **When Jacob came from Paddan Aram** - "After Jacob left Paddan Aram"
+  * **When Jacob ... he arrived ... He camped** - This only mentions Jacob because he is the leader of the family. It is implied that his family was with him. (See: [[:en:ta:vol1:translate:figs_explicit]])
   * **He camped near** - "He set up his camp near"
   * **piece of ground** - "piece of land"
   * **Hamor** - This is the name of a man. (See: [[:en:ta:vol1:translate:translate_names]])
@@ -56,6 +58,6 @@
   * [[:en:bible:questions:comprehension:gen:33]]
 **[[:en:bible:notes:gen:33:15|<<]] | [[:en:bible:notes:gen:34:01|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit altar shechem}}
+~~DISCUSSION~~{{tag>publish p2check altar shechem}}
 
 ~~NOCACHE~~
