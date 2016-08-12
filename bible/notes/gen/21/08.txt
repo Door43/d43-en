@@ -29,18 +29,17 @@
 ===== translationWords: =====
 
   * [[:en:obe:other:abraham]]
+  * [[:en:obe:other:feast]]
   * [[:en:obe:other:isaac]]
   * [[:en:obe:other:sarah]]
   * [[:en:obe:other:hagar]]
   * [[:en:obe:other:egypt]]
   * [[:en:obe:other:mock]]
-  * [[:en:obe:other:ishmael]]
  
 ===== translationNotes: =====
 
-  * **The child grew and was weaned** - AT: "The baby grew and no longer needed his mother's milk" or "The baby grew, and his mother stopped feeding him her milk"
-  * **The child grew and was weaned, and Abraham made a great feast on the day that Isaac was weaned** - "The child grew, and when Isaac no longer needed mother's milk, Abraham had a large feast." The phrases "the child" and "Isaac" both refer to Abraham and Sarah's baby boy.
-  * **the son of Hagar the Egyptian, whom she had borne to Abraham** - The name of Hagar's son can be stated explicitly. AT: "Ishmael, the son of Hagar the Egyptian and Abraham." (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **The child grew and was weaned, and Abraham made a great feast on the day that Isaac was weaned** - To "wean" means to stop feeding a baby mother's milk and to give the baby other food. The phrase "was weaned" can be stated in active form. AT: "Isaac grew, and when he no longer needed mother's milk, Abraham had a large feast" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **the son of Hagar the Egyptian, whom she had borne to Abraham** - The name of Hagar's son can be stated explicitly. AT: "Ishmael, the son of Hagar the Egyptian and Abraham" (See: [[:en:ta:vol1:translate:figs_explicit]])
   * **mocking** - "laughing at Isaac"
 
 ===== Links: =====
@@ -50,6 +49,6 @@
   * [[:en:bible:questions:comprehension:gen:21]]
 **[[:en:bible:notes:gen:21:05|<<]] | [[:en:bible:notes:gen:21:10|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit }}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~
