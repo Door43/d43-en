@@ -31,6 +31,7 @@
   * [[:en:obe:other:abraham]]
   * [[:en:obe:other:negev]]
   * [[:en:obe:other:kadesh]]
+  * [[:en:obe:other:foreigner]]
   * [[:en:obe:other:gerar]]
   * [[:en:obe:other:sarah]]
   * [[:en:obe:other:abimelech]]
@@ -41,10 +42,10 @@
 ===== translationNotes: =====
 
   * **Shur** - This is a desert region on the eastern border of Egypt. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **sent his men and they took Sarah** - AT: "made his men go get Sarah and bring her to him"
+  * **sent his men and they took Sarah** - "made his men go get Sarah and bring her to him"
   * **God came to Abimelech** - "God appeared to Abimelech"
-  * **Behold** - "Listen to me" (UDB). The word "behold" here adds emphasis to what follows.
-  * **you are a dead man** - This is a strong way of saying "you will certainly die soon" or "I will kill you."
+  * **Behold** - The word "behold" here adds emphasis to what follows. AT: "Listen to me" (UDB)
+  * **you are a dead man** - This is a strong way of saying "you will certainly die soon" or "I will kill you." (See: [[:en:ta:vol1:translate:figs_idiom]])
   * **a man's wife** - "a married woman"
 
 ===== Links: =====
@@ -54,6 +55,6 @@
   * [[:en:bible:questions:comprehension:gen:20]]
 **[[:en:bible:notes:gen:19:36|<<]] | [[:en:bible:notes:gen:20:04|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit negev kadesh gerar abimelech}}
+~~DISCUSSION~~{{tag>publish p2check negev kadesh gerar abimelech}}
 
 ~~NOCACHE~~
