@@ -36,7 +36,6 @@
   * [[:en:obe:other:pharaoh]]
   * [[:en:obe:other:dream]]
   * [[:en:obe:other:grain]]
-  * [[:en:obe:kt:good]]
 
 
 ===== translationNotes: =====
@@ -44,11 +43,13 @@
   * **undesirable and thin** - See how you translated this phrase in [[:en:bible:notes:gen:41:01|41:3]].
   * **desirable and fat** - See how you translated this phrase in [[:en:bible:notes:gen:41:01|41:2]].
   * **woke up** - "awakened"
+  * **a second time** - The word "second" is an ordinal number. AT: "again" (See: [[:en:ta:vol2:translate:translate_ordinal]])
   * **Behold, seven heads** - The word "behold" here shows that Pharaoh was surprised by what he saw. 
   * **heads of grain** - The heads are parts of the corn plant on which the seeds grow.
-  * **came up on one stalk** - This is the thick or tall part of a plant. AT: "grew up on one stem."
-  * **wholesome and good** - This can be translated as a new sentence: "They were healthy and beautiful."
-  * **thin and scorched by the east wind** - "that were thin and burned by a hot wind that came from the east" 
+  * **came up on one stalk** - The stalk is the thick or tall part of a plant. AT: "grew up on one stem"
+  * **wholesome and good** - This can be translated as a new sentence. AT: "They were healthy and beautiful"
+  * **thin and scorched by the east wind** - This can be stated in active form. AT: "that were thin and the hot wind from the east had burned" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **the east wind** - Wind from the east blew in from the desert. The heat of the east wind was often very destructive.
   * **sprouted up** - "grew up" or "developed"
 
 ===== Links: =====
@@ -58,6 +59,6 @@
   * [[:en:bible:questions:comprehension:gen:41]]
 **[[:en:bible:notes:gen:41:01|<<]] | [[:en:bible:notes:gen:41:07|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~
