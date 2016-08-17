@@ -27,6 +27,7 @@
 
 ===== translationWords: =====
 
+  * [[:en:obe:other:biblicaltimeyear]]
   * [[:en:obe:other:egypt]]
   * [[:en:obe:other:famine]]
   * [[:en:obe:other:josephot]]
@@ -35,6 +36,7 @@
 
 
   * **in all lands** - In all the surrounding nations beyond Egypt, including the land of Canaan.
+  * **but in all the land of Egypt there was food** - It is implied that there was food because of Joseph's plan to store food during the seven good years. (See: [[:en:ta:vol1:translate:figs_explicit]])
 ===== Links: =====
 
   * [[:en:bible:notes:gen:00:intro]]
@@ -42,6 +44,6 @@
   * [[:en:bible:questions:comprehension:gen:41]]
 **[[:en:bible:notes:gen:41:50|<<]] | [[:en:bible:notes:gen:41:55|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit }}
+~~DISCUSSION~~{{tag>publish p2check }}
 
 ~~NOCACHE~~
