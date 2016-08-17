@@ -32,12 +32,14 @@
   * [[:en:obe:other:pharaoh]]
   * [[:en:obe:other:dream]]
   * [[:en:obe:kt:god]]
+  * [[:en:obe:other:declare]]
   * [[:en:obe:kt:good]]
   * [[:en:obe:other:cow]]
+  * [[:en:obe:other:biblicaltimeyear]]
  
 ===== translationNotes: =====
 
-  * **What God is about to do, he has declared to Pharaoh** - "God is showing you what he will soon do"
+  * **What God is about to do, he has declared to Pharaoh** - Joseph speaks to Pharaoh in the third person. This is a way of showing respect. It can be stated in the second person. AT: "God is showing you what he will soon do" (See: [[:en:ta:vol2:translate:figs_123person]])
 
 ===== Links: =====
 
@@ -46,6 +48,6 @@
   * [[:en:bible:questions:comprehension:gen:41]]
 **[[:en:bible:notes:gen:41:22|<<]] | [[:en:bible:notes:gen:41:27|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit pharaoh }}
+~~DISCUSSION~~{{tag>publish p2check pharaoh }}
 
 ~~NOCACHE~~
