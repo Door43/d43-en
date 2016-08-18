@@ -35,8 +35,8 @@
 
 ===== translationNotes: =====
 
-  * **The famine was severe in the land** - "the famine was severe in the land of Canaan"
-  * **It came about** - This phrase is used here to mark the beginning of a new part of the story. If your language has a way for doing this, you could consider using it here.
+  * **The famine was severe in the land** - The word "Canaan" is understood. AT: "The famine was severe in the land of Canaan" (See: [[:en:ta:vol2:translate:figs_ellipsis]])
+  * **It came about** - This phrase is used here to mark the beginning of a new part of the story. If your language has a way for doing this, you could consider using it here. (See: [[:en:ta:vol2:translate:writing_newevent]])
   * **when they had eaten** - "when Jacob and his family had eaten"
   * **they had brought** - "Jacob's older sons had brought"
 ===== Links: =====
@@ -46,6 +46,6 @@
   * [[:en:bible:questions:comprehension:gen:43]]
 **[[:en:bible:notes:gen:42:37|<<]] | [[:en:bible:notes:gen:43:03|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit grain}}
+~~DISCUSSION~~{{tag>publish p2check grain}}
 
 ~~NOCACHE~~
