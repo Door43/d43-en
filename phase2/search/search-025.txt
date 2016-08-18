@@ -1,4 +1,4 @@
-====== Search 025: p2fix and Gen ======
+====== Search 025: missing "NOCACHE" tilde ======
 
 ~~NOCACHE~~
 
@@ -9,5 +9,5 @@ The script on this page searches for a string of text anywhere in the notes, the
 
 search results:
 
-{{door43pages @:en:bible:notes:gen -r -q="\{\{tag>(?=[^}]*p2check)(?=[^}]*p2fix)[^}]*\}\}" -exclude:home -simpleLineBreak -title -fontsize="90%"}}
-
+^  Chunks with ~  ^  chunks with ~~  ^
+|{{door43pages @:en:bible:notes -r -q="\~\~nocache\~" -exclude:home -simpleLineBreak -title -fontsize="90%"}}  |{{door43pages @:en:bible:notes -r -q="\~\~nocache\~\~" -exclude:home -simpleLineBreak -title -fontsize="90%"}}  |
