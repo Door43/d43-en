@@ -32,6 +32,7 @@
 
 ===== translationWords: =====
 
+  * [[:en:obe:other:silver]]
   * [[:en:obe:other:father]]
   * [[:en:obe:kt:fear]]
   * [[:en:obe:other:josephot]]
@@ -42,8 +43,7 @@
 ===== translationNotes: =====
 
   * **It came about** - This phrase is used here to mark an important event in the story. If your language has a way for doing this, you could consider using it here.
-  * **behold** - The word "behold" here shows that the brothers were surprised by what they saw. AT: "to their surprise."
-  * **afraid** - This refer to the unpleasant feeling a person has when there is a threat of harm to himself or others.
+  * **behold** - The word "behold" here shows that the brothers were surprised by what they saw. AT: "to their surprise"
   * **You have bereaved me of my children** - "you have deprived me of my children" or "you have caused me to lose two of my children"
   * **All these things are against me** - "all these things hurt me"
 ===== Links: =====
@@ -53,6 +53,6 @@
   * [[:en:bible:questions:comprehension:gen:42]]
 **[[:en:bible:notes:gen:42:33|<<]] | [[:en:bible:notes:gen:42:37|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit simeon benjamin}}
+~~DISCUSSION~~{{tag>publish p2check simeon benjamin}}
 
 ~~NOCACHE~~
