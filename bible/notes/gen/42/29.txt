@@ -39,10 +39,12 @@
 
 ===== translationNotes: =====
 
+  * **lord of the land** - "the lord of Egypt"
   * **spoke roughly** - "spoke harshly"
   * **we were spies** - See how you translated "spies" in [[:en:bible:notes:gen:42:09|42:9]].
-  * **One is no longer alive** - The word "brother" is understood. AT: "One brother is no longer alive." (See: [[:en:ta:vol2:translate:figs_ellipsis]])
-  * **and the youngest is this day** - "and the youngest brother is now"
+  * **We said to him, 'We are honest men. We are not spies. We are twelve brothers, sons of our father. One is no longer alive ... land of Cannan'** - This has a quotation within a quotation. It can be stated as an indirect quotation. AT: "We told him that we are honest men and not spies. We said that we are twelve brothers, sons of our father, and that one brother is no longer alive ... land of Canaan" (See: [[:en:ta:vol2:translate:figs_quotesinquotes]] and [[:en:ta:vol2:translate:figs_quotations]])
+  * **One is no longer alive** - The word "brother" is understood. AT: "One brother is no longer alive" (See: [[:en:ta:vol2:translate:figs_ellipsis]])
+  * **the youngest is this day with our father** - The word "brother" is understood. AT: "the youngest brother is with our father right now" (See: [[:en:ta:vol2:translate:figs_ellipsis]])
 
 ===== Links: =====
 
@@ -51,6 +53,6 @@
   * [[:en:bible:questions:comprehension:gen:42]]
 **[[:en:bible:notes:gen:42:26|<<]] | [[:en:bible:notes:gen:42:33|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit }}
+~~DISCUSSION~~{{tag>publish p2check }}
 
 ~~NOCACHE~~
