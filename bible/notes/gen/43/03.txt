@@ -30,15 +30,18 @@
 
 ===== translationWords: =====
 
-  * [[:en:obe:other:judah]] 
+  * [[:en:obe:other:judah]]
+  * [[:en:obe:kt:face]]
 
 ===== translationNotes: =====
 
   * **Judah told him** - "Judah told his father Jacob"
+  * **The man** - This refers to Joseph, but the brothers did not know it was Joseph. They referred to him as "the man" or "the man, the lord of the land."
+  * **warned us, 'You will not see my face unless your brother is with you.'** - This has a quotation within a quotation. It can be stated as an indirect quotation. AT: "warned us that we would not see his face unless we brought our youngest brother with us" (See: [[:en:ta:vol2:translate:figs_quotesinquotes]] and [[:en:ta:vol2:translate:figs_quotations]])
   * **solemnly warned us** - "was very serious when he warned us, saying"
+  * **You will not see my face** - Judah uses this phrase twice in 43:3-5 to emphasize to his father that they cannot return to Egypt without Benjamin. The phrase "my face" refers to the man, who is Joseph. AT: "You will not see me" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
   * **your brother is with you** - Judah is referring to Benjamin, Rachel's last born before she died.
-  * **You will not see my face** - Judah uses this phrase twice in 43:3-5 to emphasize to his father that they cannot return to Egypt without Benjamin. The phrase "my face" refers to the man, who is Joseph. AT: "You will not see me." (See: [[:en:ta:vol2:translate:figs_synecdoche]])
-  * **For the man** - "for the man in command of all the food sales"
+  * **we will not go down** - It was common to use the phrase "go down" when speaking of traveling from Canaan to Egypt.
 ===== Links: =====
 
   * [[:en:bible:notes:gen:00:intro]]
@@ -46,6 +49,6 @@
   * [[:en:bible:questions:comprehension:gen:43]]
 **[[:en:bible:notes:gen:43:01|<<]] | [[:en:bible:notes:gen:43:06|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~
