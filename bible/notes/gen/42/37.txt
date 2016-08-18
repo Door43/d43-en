@@ -36,11 +36,14 @@
 
 ===== translationNotes: =====
 
-  * **Put him under my authority** - AT: "Put me in charge of him."
-  * **My son will not go down with you** - "My son will not go with you to Egypt." In 42:8 the word "you" is plural and refers to Jacob's older sons. (See: [[:en:ta:vol1:translate:figs_you]])
-  * **For his brother is dead and he alone is left** - The full meaning can be made explicit. AT: "For my wife, Rachel, only had two children. Joseph is dead and Benjamin is the only one left." (See: [[:en:ta:vol1:translate:figs_explicit]])
-  * **then you will bring down my gray hair with sorrow to sheol** - Here "gray hair" refers to Jacob and emphasizes his old age. (See: [[:en:ta:vol2:translate:figs_synecdoche]])
-  * **bring down ... to sheol** - This is another way of saying "cause to die." AT: "then you will cause me, an old man, to die of sorrow." (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **Put him under my authority** - To cause a person to be another person's responsibility is spoken of as if he were under the other person's authority. AT: "Put me in charge of him" or "Let me take care of him" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **My son will not go down with you** - It was common to use the phrase "go down" when speaking of traveling from Canaan to Egypt. AT: "My son, Benjamin, will not go with you to Egypt" 
+  * **with you** - Here "you" is plural and refers to Jacob's older sons. (See: [[:en:ta:vol1:translate:figs_you]])
+  * **For his brother is dead and he alone is left** - The full meaning can be made explicit. AT: "For my wife, Rachel, only had two children. Joseph is dead and Benjamin is the only one left" (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **on the road in which you go** - Here "road" stands for traveling. AT: "while you a traveling to Egypt and back" or "while you are away"
+  * **then you will bring down my gray hair with sorrow to sheol** - To "bring down ... to sheol" is way of saying they will cause him to die and go to sheol. He uses the word "down" because it was commonly believed sheol is somewhere underground. AT: "then you will cause me, an old man, to die of sorrow" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **my gray hair** - This stands for Jacob and emphasizes his old age. AT: "me, an old man" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+
 ===== Links: =====
 
   * [[:en:bible:notes:gen:00:intro]]
@@ -48,6 +51,6 @@
   * [[:en:bible:questions:comprehension:gen:42]]
 **[[:en:bible:notes:gen:42:35|<<]] | [[:en:bible:notes:gen:43:01|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit reuben sheol}}
+~~DISCUSSION~~{{tag>publish p2check reuben sheol}}
 
 ~~NOCACHE~~
