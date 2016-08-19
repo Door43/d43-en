@@ -28,28 +28,23 @@ The **Slider** icon is a quick way to move through a story or book of the Bible.
 
 Tap on the **three dots** to open the working menu. The edit screen and the Your Translation Projects screen has two different menus.
 
+On the Translation Projects screen the menu has:
+  * Update Library
+  * Import/Restore
+  * Feedback (See: [[en:ta:vol1:tech:ts_problem]])
+  * Share this APP
+  * Log Out
+  * Settings
 On the Edit screen the menu has:
-  * My Translations (See: [[en:ta:vol1:tech:ts_open]])
-  * Publish (See: [[en:ta:vol1:tech:ts_publish]])
-  * Backup (See: [[en:ta:vol1:tech:ts_share]])
+  * Home - returns to the 'Your Translation Projects' screen
+  * Upload
+  * Backup
   * Print
   * Feedback (See: [[en:ta:vol1:tech:ts_problem]])
   * Settings
-On the Translation Projects screen the menu has:
-  * Update Library (See: [[en:ta:vol1:tech:ts_update]])
-  * Import
-  * Feedback (See: [[en:ta:vol1:tech:ts_problem]])
-  * Share this app
-  * Settings
-
 
 
 
 //Next we recommend you learn about://
-  * //[[en:ta:vol1:tech:ts_first|How to Use translationStudio-Android for the First Time]]//
-  * //[[en:ta:vol1:tech:ts_select|Select Source and Target Languages]]//
-  * //[[en:ta:vol1:tech:ts_open|Opening a Translation Project]]//
-  * //[[en:ta:vol1:tech:ts_request|Find my Language]]//
-  * //[[en:ta:vol1:tech:ts_translate|Translating in translationStudio]]//
-  * //[[en:ta:vol1:tech:ts_create|Create and Edit Text]]//
+  * //[[en:ta:vol1:tech:ts_resources]]//
 
