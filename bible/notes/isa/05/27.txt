@@ -41,7 +41,7 @@
 
 <usfm>
 \q1
-\v 27 None tire or stumble among them; none slumbers or sleeps; 
+\v 27 None tire or stumble among them; none slumbers nor sleeps; 
 \q1 nor will their belt be loose, nor the thong of their sandals broken;
 \q1
 \v 28 their arrows are sharp and all their bows are bent; 
@@ -61,10 +61,12 @@
 
   * **General Information:** - Isaiah continues to describe the army that will attack Judah. (See: [[:en:bible:notes:isa:05:26]])
 
+  * ** tire ... stumble ... slumbers ... sleeps** - These four words progress from being tired from work to being unable to walk well to being unable to stay awake to full sleep, so all four should appear in the translation.
   * **None tire or stumble among them** - "None of their soldiers get tired or fall"
+  * **none slumbers or sleeps** - "none of them sleeps or even slumbers"
   * **nor will their belt be loose** - The soldiers kept their robes tight so it would easier to move and fight.
   * **the thong of their sandals** - "the strap of their sandals"
-  * **their horses' hooves are like flint** - Isaiah compares the hard part of a horse's foot to a hard stone which can cause a spark when struck. AT: "their horses' hooves are hard as stone" (See: [[:en:ta:vol1:translate:figs_simile]])
+  * **their horses' hooves are like flint** - Isaiah compares the hard part of a horse's foot to a hard stone which can cause a spark when struck. AT: "their horses' hooves are hard as stone" (See: [[:en:ta:vol1:translate:figs_simile]]) This is a metonym for the horses being strong enough to do whatever their masters want them to do. AT: "their horses are healthy and strong" (See: [[:en:ta:vol2:translate:figs_metonymy]])
   * **and their chariot wheels like storms** - Isaiah compares the chariot wheels to a storm to emphasize how quickly they are moving. AT: "and the wheels of the chariots will spin like a windstorm" (See: [[:en:ta:vol1:translate:figs_simile]])
 ===== Links: =====
 
@@ -79,6 +81,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit p2fix}}
+{{tag>publish p2check}}
 
 ~~NOCACHE~~
