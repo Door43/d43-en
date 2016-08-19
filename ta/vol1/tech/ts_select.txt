@@ -5,18 +5,9 @@
 //In order to understand this topic, it would be good to read://
   * //[[en:ta:vol1:tech:ts_install|Install translationStudio-Android]]//
 
-==== VERSION 3 ====
-
-You can select and change your source language and target language whenever you use translationStudio.
+==== VERSION 9 ====
 
 **Note:** The first time you use the application, translationStudio opens at the **Translation Projects** screen so you can select the target language. 
-
-Complete these steps to select or change the target language, which is the language you are translating TO:
-
-If you are not on the 'Your Translation Projects' screen:
-  - Tap on 3 dots located at bottom left of the screen.
-  - Choose **My Translations** from the menu.
-The App will open the 'Your Translation Projects' screen.
 
 On the 'Your Translation Projects' screen:
   - Tap the blue circle with a + sign
@@ -26,22 +17,21 @@ On the 'Your Translation Projects' screen:
   - Choose a project from the 'Bible: NT', 'Bible: OT' or 'Open Bible Stories' to start translating.
     - In the Bible: NT or Bible: OT projects you will need to then choose a book for the project.
     - An Open Bible Stories project will open to the first paragraph of The Creation.
-  - The new translation project opens.
+  - The new translation project opens showing the 'Consume' section.
+
+
+You can select and change your source language whenever you use translationStudio.
 
 Complete these steps to select or change the source language, which is the language you are translating FROM:
 In the translation project:
-  - A new translation project will prompt you to 'Chose source translation(s) to begin reading and translating'. 
-    - Tap the square icon with the + and - sign directly under the prompt.
   - You may also tap the square icon with the + and - sign found at the top right of the source text window.
   - Tap the empty square box next to the desired source language.
   - Tap on "Confirm" at the bottom of the window to save the selection. Or, tap on "Cancel" to close and not save the selected language. There MUST be a source language chosen.
 
-
+**Note:** At this time there is no way to change the language you are translating TO. You should start a new project and choose the desired target language.
 
 
 //Next we recommend you learn about://
-  * //[[en:ta:vol1:tech:ts_translate|Translating in translationStudio]]//
-  * //[[en:ta:vol1:tech:ts_create|Create and Edit Text]]//
-  * //[[en:ta:vol1:tech:ts_resources|Find the Resources in translationStudio]]//
-  * //[[en:ta:vol1:tech:ts_useresources|How to Use the Resources in translationStudio]]//
+  * //[[en:ta:vol1:tech:ts_translate]]//
+
 
