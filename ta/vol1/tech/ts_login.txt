@@ -1,0 +1,60 @@
+===== translationStudio-Android - Login Options =====
+
+
+//In order to understand this topic, it would be good to read://
+  * //[[en:ta:vol2:tech:tsd_intro]]//
+  * //[[en:ta:vol2:tech:tsd_install]]//
+
+==== Create or Login Choices ====
+
+The welcome screen will be displayed with a request to create an user account.
+
+**NOTE:** You may use a pseudonym instead of your real name. A pseudonym is a name that cannot be traced back to you.
+
+==== Terms to Know ====
+
+**Offline Account** – user has full use of the program except for uploading to Door43.
+
+**Door43 Account** – user has full use of the program and can upload to Door43 (requires Internet connection.)
+
+
+=== Login with Door43 Account  ===
+
+  - On the opening screen, tap on the 'Login with Door43 Account' link. The login screen opens.
+  - Type in your Door43 account information.
+  - Tap the blue 'Continue' button.
+
+
+=== Create a New Door43 Account  ===
+
+  - On the opening screen, tap on the 'Create a Door43 Account' link to create a new Door43 user account.  The Door43 Account Creation window opens. (This requires an Internet connection.)
+  - Tap on the gray 'Full Name or Pseudonym' words and type in the name, or pseudonym, of the translator into the field.
+  - Tap on the 'Email Address' line to enter the email address of the translator.
+  - Enter a password in both fields. Tap on the 'Show Passwords' words at the bottom of the screen to display the passwords.
+  - Confirm the information.
+  - Tap on the blue 'Continue' button to begin registration.
+
+
+=== Local Login or Offline Account ===
+
+  - On the opening screen, tap on the 'Create offline Account' link. The login screen opens.
+  - Tap on the gray 'Full Name or Pseudonym' words and type in the name, or pseudonym, of the translator into the field.
+  - Tap on the blue 'Continue' button to continue.
+
+**Note:** Tap on the 'Create offline Account' if you do not want to create a new Door43 account at this time or are not able to connect to the Internet.
+
+=== Note: This screen can be accessed (to change login or translator settings) by following these steps: ===
+
+  * From the 'Your Translation Projects' screen:
+    * Tap the 3-dot menu
+    * Choose Log out
+
+OR
+
+  * Tap on the user name found in the very top dark green bar. 
+
+
+
+//Next we recommend you learn about://
+  * //[[en:ta:vol2:tech:tsd_termsofuse]]//
+
