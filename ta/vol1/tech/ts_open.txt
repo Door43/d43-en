@@ -13,20 +13,21 @@ The first time you use translationStudio, the app will begin at the **Your Trans
 
 Complete these steps to start a new translation project:
 
+  - Tap the blue circle with a + sign
+  - Swipe up (place a finger on the white area and slide up on the screen) to find the target language or tap the look-up icon located at the top right of the screen on the green bar. The look-up icon is a circle with a line that looks like a magnifying glass.
+  - The search field opens and the keyboard appears. Type the first few letters of your language to show that portion of the language list.
+  - Tap on your language. The keyboard should disappear.
+  - Choose a project from the 'Bible: NT', 'Bible: OT' or 'Open Bible Stories' to start translating.
+    - In the Bible: NT or Bible: OT projects you will need to then choose a book for the project.
+    - An Open Bible Stories project will open to the first paragraph of The Creation.
+  - The new translation project opens.
+
+//Go to [[en:ta:vol1:tech:ts_select]] to continue learning how to work in your translation project.//
+
 
 If you are not on the 'Your Translation Projects' screen:
   - Tap on 3 dots located at bottom left of the screen.
   - Choose **My Translations** from the menu.
 The App will open the 'Your Translation Projects' screen.
 
-
-
-
-
-
-
-//Next we recommend you learn about://
-  * //[[en:ta:vol1:tech:ts_select|Select Source and Target Languages]]//
-  * //[[en:ta:vol1:tech:ts_navigate|Navigate in translationStudio]]//
-  * //[[en:ta:vol1:tech:ts_problem|Report a Problem]]//
 
