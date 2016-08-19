@@ -38,7 +38,7 @@
 <usfm>
 \q1
 \v 29 Their roaring will be like a lion, they will roar like young lions. 
-\q1 They will growl and seize the prey and drag it away, with none to rescue.
+\q1 They will roar and seize the prey and drag it away, with none to rescue.
 \q1
 \v 30 On that day they will roar against the prey as the sea roars. 
 \q1 If one looks over the land, he will see darkness and distress, and the light will be darkened by the clouds.
@@ -57,11 +57,13 @@
   * **General Information:** - Isaiah continues to describe the army that will attack Judah. (See: [[:en:bible:notes:isa:05:26|Isaiah 05:26]])
 
   * **Their roaring will be like a lion, they will roar like young lions** - Both of these phrases mean basically the same thing. Isaiah compares the enemy army to a lion to emphasize how the sound of their attack will cause the people of Judah to be very afraid. AT: "When their army shouts in battle they will sound like a roaring lion" (See: [[:en:ta:vol2:translate:figs_parallelism]] and [[:en:ta:vol1:translate:figs_simile]])
-  * **They will roar and seize the prey** - Isaiah compares the enemy killing the people of Judah to a lion killing a weaker animal. He is emphasizing that the people of Judah will not be able to escape from their enemy.
+  * **young lions** - Young age is a metonym for strength. AT: "the strongest lions" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **They will growl and seize the prey** - Isaiah compares the enemy killing the people of Judah to a lion killing a weaker animal. (See: [[:en:ta:vol1:translate:figs_metaphor]]) Possible meanings are 1) young lions make a sound not as loud as a roar just before they strike, so the word you use should be different from the one you use for "roar" or 2) the writer is using two words to mean the same thing. (See: [[:en:ta:vol2:translate:figs_doublet]]) 
   * **prey** - animals that another animal wants to catch and kill
   * **with none to rescue** - "and no one will be able to save them"
-  * **as the sea roars** - Isaiah also compares the sound of the enemy army to the sound that the waves of the sea make during a storm. Isaiah is again emphasizing that the army will be so loud it will cause the people of Judah to be afraid.
-  * **the light will be darkened by the clouds** - This can be stated in active form. AT: "the dark clouds will completely block the light of the sun" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **will roar ... sea roars** - These are the same word translated "growl" in verse 29. Use your language's word for the sound of waves in a storm or heavy rain or some other frightening natural sound.
+  * **the light will be darkened by the clouds** - This is a metaphor for people losing everything that made them happy and becoming sad and afraid. (See: [[:en:ta:vol1:translate:figs_metaphor]]) This can be stated in active form. AT: "the dark clouds will completely block the light of the sun" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+
 ===== Links: =====
 
   * [[:en:bible:notes:isa:00:intro]]
@@ -75,6 +77,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit darkness p2fix}}
+{{tag>publish p2check darkness }}
 
 ~~NOCACHE~~
