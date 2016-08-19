@@ -2,8 +2,6 @@
 
 //This answers the question:// //What do I do when I cannot find my language?//
 
-//In order to understand this topic, it would be good to read://
-  * //[[en:ta:vol1:tech:ts_install|Install translationStudio-Android]]//
 
 ==== Finding my Language ====
 
@@ -11,34 +9,17 @@ If you do not see your languages in the list of target languages, first try alte
 
 The best way to submit a request is to send an email to help@door43.org. Another method is to submit a Bug Report from the Feedback menu. In either case, please provide as much information as you can about the language, such as the local name of the language, any other names it is known by, approximate number of speakers, where it is spoken, what languages are similar to it, any published works in that language, etc.
 
-Note that even after requesting a new language, certain approvals are required before it will be added to translationStudio. Until your language is added to the app, use English Demo1 or English Demo2. You will need to go to the Feedback menu and send a comment stating that you used another language for your own. Once your translation has been received, the tS workers will put it in the correct language. Then your translation will show in your language.
+Note that even after requesting a new language, certain approvals are required before it will be added to translationStudio. Until your language is added to the APP, use English Demo1 or English Demo2. You will need to go to the Feedback menu and send a comment stating that you used another language for your own. Once your translation has been received, the tS workers will put it in the correct language. Then your translation will then show in your language.
 
 Use **Feedback** in the 3-dot menu to request a new language:
   - From any screen in translationStudio, tap on the three dots on the left.
   - In the list of options, tap **Feedback**.
-  - The **Feedback** screen opens. Type the name of the language you would like added to translationStudio. Provide the location pf the speakers and other names the language is known by. If you used a language that is already in the app, tell which language you used.
+  - The **Feedback** screen opens. Type the name of the language you would like added to translationStudio. Provide the location pf the speakers and other names the language is known by. If you used a language that is already in the APP, tell which language you used.
   - Tap **Confirm** to send your request.
 
 
-Go back to the translationStudio page (see [[en:ta:vol1:tech:ts_intro]]).
-
-
-
 //Next we recommend you learn about://
-  * //[[en:ta:vol1:tech:ts_intro|Introduction to the translationStudio-Android Program]]//
-  * //[[en:ta:vol1:tech:ts_install|Install translationStudio-Android]]//
-  * //[[en:ta:vol1:tech:ts_first|How to Use translationStudio-Android for the First Time]]//
-  * //[[en:ta:vol1:tech:ts_select|Select Source and Target Languages]]//
-  * //[[en:ta:vol1:tech:ts_open|Opening a Translation Project]]//
-  * //[[en:ta:vol1:tech:ts_navigate|Navigate in translationStudio]]//
-  * //[[en:ta:vol1:tech:ts_translate|Translating in translationStudio]]//
-  * //[[en:ta:vol1:tech:ts_create|Create and Edit Text]]//
-  * //[[en:ta:vol1:tech:ts_resources|Find the Resources in translationStudio]]//
-  * //[[en:ta:vol1:tech:ts_useresources|How to Use the Resources in translationStudio]]//
-  * //[[en:ta:vol1:tech:ts_share|Backup and Share Your Work]]//
-  * //[[en:ta:vol1:tech:ts_upload|Upload Your Work]]//
-  * //[[en:ta:vol1:tech:ts_update|Update translationStudio Projects]]//
-  * //[[en:ta:vol1:tech:ts_publish|Publish Content to unfoldingWord]]//
-  * //[[en:ta:vol1:tech:translate_helpts|Finding Help for translationStudio]]//
-  * //[[en:ta:vol1:tech:ts_problem|Report a Problem]]//
+  * //[[en:ta:vol1:tech:ts_navigate]]//
+  * //[[en:ta:vol1:tech:ts_translate]]//
+
 
