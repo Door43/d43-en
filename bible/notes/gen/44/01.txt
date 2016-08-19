@@ -34,6 +34,7 @@
 ===== translationWords: =====
 
   * [[:en:obe:other:josephot]]
+  * [[:en:obe:other:command]]
   * [[:en:obe:other:manager]]
   * [[:en:obe:other:house]]
   * [[:en:obe:other:silver]]
@@ -42,10 +43,11 @@
 
 ===== translationNotes: =====
 
-  * **every man's money** - These were silver coins most likely in a small sack. 
+  * **steward of his house** - The "steward" was responsible for managing Joseph's household activities.
+  * **every man's money** - Their money was silver coins most likely in a small bag. 
   * **in his sack's opening** - "in his sack"
-  * **Put my cup, the silver cup** - "put my silver cup"
-  * **in the sack's opening of the youngest** - "in the youngest brother's sack"
+  * **Put my cup, the silver cup** - "Put my silver cup"
+  * **in the sack's opening of the youngest** - The word "brother" is understood. AT: "in the youngest brother's sack" (See: [[:en:ta:vol2:translate:figs_ellipsis]])
  
 ===== Links: =====
 
@@ -60,6 +62,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2check}}
 
 ~~NOCACHE~~
