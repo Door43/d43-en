@@ -8,8 +8,8 @@
 
 ==== TN, TA, TW Issues ====
 
-^  "Text"  ^  "jimp"  ^  "Discuss" issues  |
-|{{door43pages @en:bible:notes -r -q="\{\{tag>[^}]*text[^}]*\}\}" -exclude:home -simpleLineBreak -title -fontsize="90%"}} |{{door43pages @en:bible:notes -r -q="\{\{tag>[^}]*jimp[^}]*\}\}" -exclude:home -simpleLineBreak -title -fontsize="90%"}} |Bible: {{door43pages @en:bible:notes -r -q="\{\{tag>[^}]*discuss[^}]*\}\}" -exclude:home -simpleLineBreak -title -fontsize="90%"}} Terms: {{door43pages @en:obe -r -q="\{\{tag>[^}]*discuss[^}]*\}\}" -exclude:home -simpleLineBreak -title -fontsize="90%"}} Training: {{door43pages @en:phase1:team-info:training -r -q="\{\{tag>[^}]*discuss[^}]*\}\}" -exclude:home -simpleLineBreak -title -fontsize="90%"}} |
+^  "Text"  ^  "jimp"  ^  "Discuss" issues  ^ "p2fix" and "text"  ^ 
+|{{door43pages @en:bible:notes -r -q="\{\{tag>[^}]*text[^}]*\}\}" -exclude:home -simpleLineBreak -title -fontsize="90%"}} |{{door43pages @en:bible:notes -r -q="\{\{tag>[^}]*jimp[^}]*\}\}" -exclude:home -simpleLineBreak -title -fontsize="90%"}} |Bible: {{door43pages @en:bible:notes -r -q="\{\{tag>[^}]*discuss[^}]*\}\}" -exclude:home -simpleLineBreak -title -fontsize="90%"}} Terms: {{door43pages @en:obe -r -q="\{\{tag>[^}]*discuss[^}]*\}\}" -exclude:home -simpleLineBreak -title -fontsize="90%"}} Training: {{door43pages @en:phase1:team-info:training -r -q="\{\{tag>[^}]*discuss[^}]*\}\}" -exclude:home -simpleLineBreak -title -fontsize="90%"}} |{{door43pages @en:bible:notes -r -q="\{\{tag>(?=[^}]*text)(?=[^}]*p2fix)[^}]*\}\}" -exclude:home -exclude:00 -exclude:intro -simpleLineBreak -title -fontsize="90%"}}  |
 
 ==== CH Intro status ====
 
