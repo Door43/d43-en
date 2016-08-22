@@ -111,8 +111,8 @@ If the meaning is given in a way that can be used as a translation suggestion, p
   * **Cardinal numbers** with five or more digits should have commas inserted at multiples of 1,000:
     * 10,000; 23,000; 500,300; etc.
   * Exceptions to this rule:
-    * mention of chapter and verse, where a numeral is always used: “in chapter 3, …”  “in verses 2-4.” Also, when a number begins a sentence, it is always spelled out: “Five hundred men…” 
-    * When the number "twelve" or "eleven" is used as a title. Such as "the twelve apostles", "the twelve", or "the eleven."
+    * mention of chapter and verse, where a numeral is always used: “in chapter 3, …”  “in verses 2-4.” Also, when a number begins a sentence, it is always spelled out: “Five hundred men …” 
+    * the number "twelve" or "eleven" is used as a title. Such as "the twelve apostles," "the twelve," or "the eleven."
 
   * **Ordinal numbers** are always written out:
     * first, second, third, forth, fifth, sixth, seventh, etc.
