@@ -61,12 +61,12 @@
 ===== translationNotes: =====
 
   * **Everyone says ... everyone speaks** - The two occurrences of "everyone" are exaggerations, used to emphasize that the problem is serious. (See: [[:en:ta:vol2:translate:figs_hyperbole]])
-  * **flattering lips** - AT: "false praise"
-  * **a double heart** - AT: "words that deceive."
-  * **cut off all flattering lips** - "stop them from speaking false praise,"
-  * **every tongue declaring great things** - "every person who is boasting," (See: [[:en:ta:vol2:translate:figs_synecdoche]])
-  * **With our tongues will we prevail** - Here "our tongues" represent the many words that they speak. AT: "Speaking many words will make us victorious." (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **who can be master over us?** - AT: "no one can rule over us!" (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **flattering lips** - "false praise"
+  * **a double heart** - "words that deceive"
+  * **cut off all flattering lips** - "stop them from speaking false praise"
+  * **every tongue declaring great things** - Here the "tongue" represents boastful speech. AT: "every person who is boasting" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **With our tongues will we prevail** - Here "our tongues" represent the many words that they speak. AT: "Speaking many words will make us victorious" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **who can be master over us?** - This question is asked to provide emphasis. AT: "no one can rule over us!" (See: [[:en:ta:vol1:translate:figs_rquestion]])
 
 ===== Links: =====
 
@@ -75,6 +75,6 @@
   * [[:en:bible:questions:comprehension:psa:012]]
 **[[:en:bible:notes:psa:012:001|<<]] | [[:en:bible:notes:psa:012:005|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit book1}}
+~~DISCUSSION~~{{tag>publish p2check book1}}
 
 ~~NOCACHE~~
