@@ -22,20 +22,26 @@ To write the translation in your language:
 
 When you use translationStudio, you have the ability to create and change text. Use the **Chunk** or **Check** views to edit existing work that you or another translator created. Your work will be saved automatically every five minutes.
 
-In the **Check** view the source text is on the left, the translation work is on the right. Starting at the far right side of the screen, swipe to the left side to show the resources for that chunk. Swipe up or down to move from chunk to chunk. The UDB and all of the translationNotes, translationWords and translationQuestions have been included in the translationStudio mobile app. See [[en:ta:vol1:tech:ts_resources]] for more information.
+Translating in the **Chunk** view is the same as above.
 
-When you are finished working, use the slider at the bottom of the chunk to mark the translation of that chunk done. A message will appear for you to confirm that the chunk is done. Tap 'Confirm' to confirm that the work is done or 'Cancel' to continue translating.
+In the **Check** view the source text is on the left, the translation work is on the right. 
+  * Tap on the pencil icon at the top right of the translated chunk. The keyboard will appear.
+  * Tap on the check mark icon when done editing. The keyboard will disappear.
+  * When you are finished working, use the slider at the bottom of the chunk to mark the translation of that chunk done. 
+    * A message will appear for you to confirm that the chunk is done.
+    * Tap 'Confirm' to confirm that the work is done or 'Cancel' to continue translating.
 
-At any time the translator can move the slider back and edit the chunk again.
+At any time the translator can move the slider back to the left and edit the chunk again. Use the above steps.
+
+In the **Check** mode, the translator can access the UDB and all of the translationNotes, translationWords and translationQuestions that have been included in the program. See [[en:ta:vol1:tech:ts_resources]] for more information.
 
 ==== Save Translation Text ====
 
 Every five minutes, your work is saved automatically to your device memory. Your work is not saved on unfoldingWord until you upload your work. (See: [[en:ta:vol1:tech:ts_upload]])
 
-==== Delete Translation Text ====
+==== Deleted Translation Text ====
 
 If you accidentally delete a large amount of work, contact [[help@door43.org]].
-
 
 
 //Next we recommend you learn about://
