@@ -4,17 +4,17 @@
 
 //In order to understand this topic, it would be good to read://
   * //[[en:ta:vol1:tech:ts_share|Backup and Share Your Work]]//
-  * //[[en:ta:vol1:tech:ts_navigate|Navigate in translationStudio]]//
-  * //[[en:ta:vol1:tech:ts_translate|Translating in translationStudio]]//
-  * //[[en:ta:vol1:tech:ts_create|Create and Edit Text]]//
+
 
 Please read the information on [[en:ta:vol1:process:publishing_process]] before publishing your work.
 
-==== Publishing in tS-Android Version 5 ====
+==== Publishing in tS-Android  ====
 
-When you publish your work there are several steps to the process. The process begins in translationStudio when you select **Publish** from the 3 dot icon menu. This publishes the translation to the Door43 wiki. 
+When you publish your work there are several steps to the process. See [[https://unfoldingword.org/academy/ta-process.html#vol1_process_intro_publishing]] for more information.
 
-The process continues when you submit the **Request to Publish** form for your translation to appear in unfoldingWord web and applications. The Gateway Language translations will also show in translationStudio as a source text and translationHelps. 
+The process in translationStudio begins when you select **Upload** from the 3 dot icon menu. This uploads the translation to the Door43 cloud server. 
+
+The process continues when you submit the **Request to Publish** form for your translation to appear in unfoldingWord web and applications. 
 
 The Request to Publish form includes several pieces of data such as your contact information, the requested checking level, translation contributors, etc. The person who reviews the request will verify that each contributor provided a legal signature.
 
@@ -23,21 +23,23 @@ Complete the following steps to publish your work:
 === Upload your work ===
 
 In translationStudio, tap on the 3-dot icon to access the options menu.
-  - Select the **Publish**, the cloud icon.
-The 4 steps to publish are displayed at the top of the screen.
+  - Select the **Upload**, the cloud icon.
+The 4 steps to upload are displayed at the top of the screen.
   - **Book** - Review sections of the book for final review. Scroll down to the bottom of the list of all the chunks. Tap on the blue **Next Step** button to continue. 
+    - We suggest that you review any chunk that has a review button. These are chunks that are not marked done.
+    - Tap on the Review button to finish translating, or set the verse markers and then slide the 'done' button.
   - **Translators** - This is where you enter who translated the work. Remember that the names will be publicly available.
     - Tap the pencil to edit the translator's name.
     - Tap the "Add Contributor" to include another translator. The contributor needs to check off that they have read and agree to the 'Statement of Faith', 'License Agreement', and the 'Translation Guidelines.'
     - Tap on the blue **Next Step** button to continue. 
-  - **Review** - Green checks on each line confirms the translated work can be submitted for publishing.Tap on the blue **Next Step** button to continue. 
-  - **Publish** - There are three choices to publish; 
+  - **Review** - Green checks on each line confirms the translated work can be submitted for publishing. Tap on the blue **Next Step** button to continue. 
+  - **Publish** - There are three choices to self-publish; 
     - Upload the work to UnfoldingWord (requires an Internet connection). There will be a successful message when the upload is complete.
     - Export to the SD card
     - Send to another app.
+A pop-up message will appear after a successful upload. This pop-up message includes the repository that the translation is in on the Door43 server. Tap on the link to view the repository.
 
 The translation has been uploaded to the server. At that time the documentation process takes place.
-
 
 ==== Questions Regarding the Request to Publish Form and Process ====
 
@@ -57,10 +59,5 @@ Due to copyright laws (and these exist no matter what country you are in and no 
 
 
 //Next we recommend you learn about://
-  * //[[en:ta:vol1:process:publishing_process|How to Publish]]//
-  * //[[en:ta:vol1:tech:ts_resources|Find the Resources in translationStudio]]//
-  * //[[en:ta:vol1:tech:ts_useresources|How to Use the Resources in translationStudio]]//
-  * //[[en:ta:vol1:tech:ts_upload|Upload Your Work]]//
-  * //[[en:ta:vol1:tech:translate_helpts|Finding Help for translationStudio]]//
   * //[[en:ta:vol1:tech:ts_problem|Report a Problem]]//
 
