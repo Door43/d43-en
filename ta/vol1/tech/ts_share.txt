@@ -6,7 +6,7 @@
   * //[[en:ta:vol1:tech:ts_create|Create and Edit Text]]//
   * //[[en:ta:vol1:tech:ts_navigate|Navigate in translationStudio]]//
 
-==== Backup & Share ====
+==== Backup ====
 
 You can share your work for another program, send it to another device, or put it on an SD card. When your work is on a storage card, you can put it on a computer or device that has the translationStudio app.
 
@@ -16,30 +16,24 @@ To share, move, or store your work, complete these steps:
   - Tap the three dots on the bottom left of the editing window.
   - Tap **Backup** on the list.
   - At the **Backup** screen, select what you want to do.
-  - Tap **Backup to SD Card** to move your work onto the SD card inserted into your device. This function will not work if no SD card is inserted into the device.
-  - Tap **Backup Online (requires internet)** to copy your work to the online (cloud) server.
-    - The Upload window opens during the process.
+  - Tap **Backup to SD Card** to move your work onto the SD card inserted into your device. This function will not work if there is no SD card inserted into the device.
+  - Tap **Backup to Door43** (this requires an internet connection) to copy your work to the online (cloud) server. You will need to be logged in with a Door43 Account.
+    - The Upload window opens during the process of downloading updates and uploading the translation.
     - Watch for the **Success** window. Tap **Dismiss** to close.
   - Tap **Send to Friend**  - Another translator has set up the program on their tablet for sharing. See instructions on [[en:ta:vol1:tech:tS_settings]] for more information.
     - The other tablet (Friend) has opened their Import tool. They will start the import process. 
     - Close the window when told that the **Import** process is complete.
   - Tap **Send to another app** to export your work.
+     - Tap **Drive** to send your work to a Google Drive that has been created before. This requires an Internet connection.
      - Tap **Nearby Share** or **Android Beam**  to send your work to a nearby device that has translationStudio installed on it. The app will attempt to locate the device. 
      - Tap **Bluetooth** to send your work to a nearby device. If it continues searching for more than a minute, exit the screen and verify that the devices are paired through Bluetooth.
-     - Tap **Drive** to send your work to a Google Drive that has been created before. This requires an Internet connection.
      - Tap **Gmail** to send your work to an email account. This requires an Internet connection.
-     - Tap ** Slack** to send your work to the Door43 Slack account.
+     - Tap ** Slack** to send your work to the Door43 Slack account. This requires an Internet connection.
   - When you are finished, tap outside the Backup Screen to return to the translation screen.
-
-
-
 
 
 
 //Next we recommend you learn about://
   * //[[en:ta:vol1:tech:ts_upload|Upload Your Work]]//
-  * //[[en:ta:vol1:tech:ts_update|Update translationStudio Projects]]//
-  * //[[en:ta:vol1:tech:ts_publish|Publish Content to unfoldingWord]]//
-  * //[[en:ta:vol1:tech:translate_helpts|Finding Help for translationStudio]]//
-  * //[[en:ta:vol1:tech:ts_problem|Report a Problem]]//
+
 
