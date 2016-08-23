@@ -7,25 +7,30 @@
 
 ==== Uploading ====
 
-When you work in translationStudio, your text is saved every five minutes to your device. Your work is not saved to Door43 until you upload it. See [[en:ta:vol1:tech:ts_publish]] for more information.
+When you work in translationStudio, your text is saved every five minutes to your device. Your work is not saved to Door43 until you upload it.
 
+=== Upload your work ===
 
+In translationStudio, tap on the 3-dot icon to access the options menu.
+  - Select the **Upload**, the cloud icon.
+The 4 steps to upload are displayed at the top of the screen.
+  - **Book** - Review sections of the book for final review. Scroll down to the bottom of the list of all the chunks. Tap on the blue **Next Step** button to continue. 
+    - We suggest that you review any chunk that has a review button. These are chunks that are not marked done.
+    - Tap on the Review button to finish translating, or set the verse markers and then slide the 'done' button.
+  - **Translators** - This is where you enter who translated the work. Remember that the names will be publicly available.
+    - Tap the pencil to edit the translator's name.
+    - Tap the "Add Contributor" to include another translator. The contributor needs to check off that they have read and agree to the 'Statement of Faith', 'License Agreement', and the 'Translation Guidelines.'
+    - Tap on the blue **Next Step** button to continue. 
+  - **Review** - Green checks on each line confirms the translated work can be submitted for publishing. Tap on the blue **Next Step** button to continue. 
+  - **Publish** - There are three choices to self-publish; 
+    - Upload the work to UnfoldingWord (requires an Internet connection). There will be a successful message when the upload is complete.
+    - Export to the SD card
+    - Send to another app.
+A pop-up message will appear after a successful upload. This pop-up message includes the repository that the translation is in on the Door43 server. Tap on the link to view the repository.
+
+The translation has been uploaded to the server. There is a documentation process that takes place for public publishing. See [[en:ta:vol1:tech:ts_publish]] for more information.
 
 //Next we recommend you learn about://
-  * //[[en:ta:vol1:tech:ts_intro|Introduction to the translationStudio-Android Program]]//
-  * //[[en:ta:vol1:tech:ts_install|Install translationStudio-Android]]//
-  * //[[en:ta:vol1:tech:ts_first|How to Use translationStudio-Android for the First Time]]//
-  * //[[en:ta:vol1:tech:ts_select|Select Source and Target Languages]]//
-  * //[[en:ta:vol1:tech:ts_open|Opening a Translation Project]]//
-  * //[[en:ta:vol1:tech:ts_navigate|Navigate in translationStudio]]//
-  * //[[en:ta:vol1:tech:ts_request|Find my Language]]//
-  * //[[en:ta:vol1:tech:ts_translate|Translating in translationStudio]]//
-  * //[[en:ta:vol1:tech:ts_create|Create and Edit Text]]//
-  * //[[en:ta:vol1:tech:ts_resources|Find the Resources in translationStudio]]//
-  * //[[en:ta:vol1:tech:ts_useresources|How to Use the Resources in translationStudio]]//
-  * //[[en:ta:vol1:tech:ts_share|Backup and Share Your Work]]//
-  * //[[en:ta:vol1:tech:ts_update|Update translationStudio Projects]]//
   * //[[en:ta:vol1:tech:ts_publish|Publish Content to unfoldingWord]]//
-  * //[[en:ta:vol1:tech:translate_helpts|Finding Help for translationStudio]]//
-  * //[[en:ta:vol1:tech:ts_problem|Report a Problem]]//
+
 
