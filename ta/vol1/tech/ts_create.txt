@@ -26,6 +26,8 @@ In the **Check** view the source text is on the left, the translation work is on
 
 When you are finished working, use the slider at the bottom of the chunk to mark the translation of that chunk done. A message will appear for you to confirm that the chunk is done. Tap 'Confirm' to confirm that the work is done or 'Cancel' to continue translating.
 
+At any time the translator can move the slider back and edit the chunk again.
+
 ==== Save Translation Text ====
 
 Every five minutes, your work is saved automatically to your device memory. Your work is not saved on unfoldingWord until you upload your work. (See: [[en:ta:vol1:tech:ts_upload]])
@@ -37,20 +39,5 @@ If you accidentally delete a large amount of work, contact [[help@door43.org]].
 
 
 //Next we recommend you learn about://
-  * //[[en:ta:vol1:tech:ts_intro|Introduction to the translationStudio-Android Program]]//
-  * //[[en:ta:vol1:tech:ts_install|Install translationStudio-Android]]//
-  * //[[en:ta:vol1:tech:ts_first|How to Use translationStudio-Android for the First Time]]//
-  * //[[en:ta:vol1:tech:ts_select|Select Source and Target Languages]]//
-  * //[[en:ta:vol1:tech:ts_open|Opening a Translation Project]]//
-  * //[[en:ta:vol1:tech:ts_navigate|Navigate in translationStudio]]//
-  * //[[en:ta:vol1:tech:ts_request|Find my Language]]//
-  * //[[en:ta:vol1:tech:ts_translate|Translating in translationStudio]]//
-  * //[[en:ta:vol1:tech:ts_resources|Find the Resources in translationStudio]]//
   * //[[en:ta:vol1:tech:ts_useresources|How to Use the Resources in translationStudio]]//
-  * //[[en:ta:vol1:tech:ts_share|Backup and Share Your Work]]//
-  * //[[en:ta:vol1:tech:ts_upload|Upload Your Work]]//
-  * //[[en:ta:vol1:tech:ts_update|Update translationStudio Projects]]//
-  * //[[en:ta:vol1:tech:ts_publish|Publish Content to unfoldingWord]]//
-  * //[[en:ta:vol1:tech:translate_helpts|Finding Help for translationStudio]]//
-  * //[[en:ta:vol1:tech:ts_problem|Report a Problem]]//
 
