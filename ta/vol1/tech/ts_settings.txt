@@ -13,10 +13,6 @@ Tap the Back Arrow at the top left of the screen to exit the 'Settings' menu.
 
 The Settings menu allows for personalization of the program and also has useful information. Here are the items in the order they are listed:
 
-=== Remember my place ===
-
-Tap in the empty square if you want the program to display the last viewed page when starting the app. 
-  * A blue square with a white check mark means that the option has already been chosen.
 
 === Device name ===
 
@@ -39,17 +35,25 @@ The size of the chosen font is displayed. Tap on the words 'Font size' to change
 Tap in the empty square if you want the program to allow nearby translators to import my translations while the app is open. 
   * A blue square with a white check mark means that the option has already been chosen.
 
-=== Server Settings ===
+=== Version ===
+
+The version of the translationStudio program is displayed.
+
+
+==== Server  ====
 
 Keep all of the settings for the server as determined by the program. There is no need to edit any of the settings unless directed by an unfoldingWord technician.
 
-=== Legal Settings ===
+==== Legal Settings ====
 
 You can view important information about the program in this section of the Settings Menu.
   * **License Agreement** - read what you are able to do with the content in the program and the content that you create.
   * ** Statement of Faith** - you, the user of the program, agreed to agree with this the first time the program was started. Read this to review what the Essentials Beliefs are.
   * **Translation Guidelines** - read this document to learn about the guidelines that can help the translator clearly, accurately and naturally translate the text.
   * **Software Licenses** - this file contains all the licenses for the various softwares that are used to create the translationStudio program.
+  * **Attribution** - read this document to learn about the restrictions of using the derivative works and name branding.
+
+==== Advanced ====
 
 === Backup Interval ===
 
@@ -64,9 +68,5 @@ The settings in this area are set by the program and should not be changed.
 
 
 //Next we recommend you learn about://
-  * //[[en:ta:vol1:tech:ts_share|Backup and Share Your Work]]//
-  * //[[en:ta:vol1:tech:ts_update|Update translationStudio Projects]]//
-  * //[[en:ta:vol1:tech:ts_publish|Publish Content to unfoldingWord]]//
-  * //[[en:ta:vol1:tech:translate_helpts|Finding Help for translationStudio]]//
   * //[[en:ta:vol1:tech:ts_problem|Report a Problem]]//
 
