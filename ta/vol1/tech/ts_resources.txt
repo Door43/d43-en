@@ -1,4 +1,4 @@
-===== Find the Resources in translationStudio =====
+===== Find the Resources (translationHelps) in translationStudio =====
 
 //This answers the question:// //How do I find Resources in translationStudio?//
 
@@ -6,24 +6,25 @@
   * //[[en:ta:vol1:tech:ts_create|Create and Edit Text]]//
   * //[[en:ta:vol1:translate:translate_help|Help with Translating]]//
 
-==== translationStudio v3 ====
+==== translationHelps ====
 
 The UDB and all of the translationNotes, translationWords and translationQuestions have been included in the translationStudio mobile app. 
 
 Tap on the **Check** icon that looks like a clipboard with a check mark.
+
+Starting at the far right of the screen, swipe to the left to see the translationHelps.
+
   * Tap on the word "Notes" for the translationNotes. The words or phrases are listed as they appear in the story or in the ULB. Tap on the phrase for help in understanding how to translate into the target language. See [[en:ta:vol1:translate:resources_types]] for more information.
   * Tap on the word "Words" for the translationWords. The words are listed as they appear in the story on in the ULB.Tap on the word or phrase for help in understanding how to translate the word into the target language.
-  * Tap on the word "Questions" for the translationQuestions. The questions are about information as it appears in the story on in the ULB.Read the question and answer it according to the translated text. Tap on the question for the expected answer. If the given answer and the expected answer are the same then the translation might be clear and accurate.
-  * Tap on the initials "UDB" for the Unlocked Dynamic Bible. It will open at the same spot that you are in the ULB. Read the text. Perhaps the UDB is clearer to understand for this chunk.
+  * Tap on the word "Questions" for the translationQuestions. The questions are about information as it appears in the story on in the ULB. Read the question and answer it according to the translated text. Tap on the question for the expected answer. If the given answer and the expected answer are the same then the translation might be clear and accurate.
+  * Tap on the initials "UDB" for the Unlocked Dynamic Bible. It will open at the same spot that you are in the ULB. Read the text. Perhaps the UDB is clearer to understand than the ULB for this chunk.
 
-When you are done with the Resources, swipe from left to right to make the pane go away.
+When you are done with the translationHelps, swipe from left to right to make the pane disappear.
 
 
 
 
 //Next we recommend you learn about://
-  * //[[en:ta:vol1:tech:ts_translate|Translating in translationStudio]]//
-  * //[[en:ta:vol1:tech:ts_create|Create and Edit Text]]//
   * //[[en:ta:vol1:tech:ts_useresources|How to Use the Resources in translationStudio]]//
   * //[[en:ta:vol1:translate:resources_types|Using the translationNotes]]//
 
