@@ -16,6 +16,8 @@ You might want to mark the verses after you have drafted and peer checked your t
     * Notice that each blue shape has a white number in it. 
   * Tap-hold-and-drag a shape to where that verse begins.
 
+Optional is to type in a verse marker code. So '\v 1' would be used for verse one. 
+
 You can mark the chunk done, when you have moved the blue shapes to the right place.
 
 ==== Exceptions ====
