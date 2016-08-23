@@ -38,14 +38,17 @@
 ===== translationWords: =====
 
   * [[:en:obe:other:jacob]]
-  * [[:en:obe:kt:bless]] 
+  * [[:en:obe:kt:bless]]
+  * [[:en:obe:other:biblicaltimeyear]]
 
 ===== translationNotes: =====
 
+  * **Jacob blessed Pharaoh** - Here "blessed" means to express a desire for positive and beneficial things to happen to that person.
   * **How long have you lived?** - "How old are you?"
-  * **The years of my travels are a hundred and thirty** - The phrase "years of my travels" refers to how long he has lived on the earth. AT: "I have traveled on the earth for 130 years" or "I am 130 years old." (See: [[:en:ta:vol2:translate:translate_numbers]])
-  * **have been few and painful** - Jacob is referring to his father's lineage living even longer than himself. Jacob also reflects on his life having been filled with much hardship.
-  * **blessed** - Here "bless" means to express a desire for positive and beneficial things to happen to that person.
+  * **The years of my travels are a hundred and thirty** - The phrase "years of my travels" refers to how long he has lived on the earth traveling from one place to another. AT: "I have traveled on the earth for 130 years" (See: [[:en:ta:vol2:translate:translate_numbers]])
+  * **The years of my life have been few ... not been as long as those of my ancestors** - Jacob means his life is short compared to the lives of Abraham and Isaac. 
+  * **and painful** - Jacob has experienced much pain and trouble during his life.
+
 ===== Links: =====
 
   * [[:en:bible:notes:gen:00:intro]]
@@ -53,6 +56,6 @@
   * [[:en:bible:questions:comprehension:gen:47]]
 **[[:en:bible:notes:gen:47:05|<<]] | [[:en:bible:notes:gen:47:11|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~
