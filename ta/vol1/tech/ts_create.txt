@@ -22,7 +22,7 @@ To write the translation in your language:
 
 When you use translationStudio, you have the ability to create and change text. Use the **Chunk** or **Check** views to edit existing work that you or another translator created. Your work will be saved automatically every five minutes.
 
-In the **Check** view the source text is on the left, the translation work is on the right. Swipe to the left side to show the resources for that chunk. Swipe up or down to move from chunk to chunk. The UDB and all of the translationNotes, translationWords and translationQuestions have been included in the translationStudio mobile app. See [[en:ta:vol1:tech:ts_resources]] for more information.
+In the **Check** view the source text is on the left, the translation work is on the right. Starting at the far right side of the screen, swipe to the left side to show the resources for that chunk. Swipe up or down to move from chunk to chunk. The UDB and all of the translationNotes, translationWords and translationQuestions have been included in the translationStudio mobile app. See [[en:ta:vol1:tech:ts_resources]] for more information.
 
 When you are finished working, use the slider at the bottom of the chunk to mark the translation of that chunk done. A message will appear for you to confirm that the chunk is done. Tap 'Confirm' to confirm that the work is done or 'Cancel' to continue translating.
 
