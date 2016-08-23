@@ -33,8 +33,8 @@
 ===== translationNotes: =====
 
   * **and you will plant** - "that you might sow"
-  * **At the harvest, you must give a fifth to Pharaoh, and four parts will be your own** - "Come harvest you will divide the crops into five parts. One part is to be given back to Pharaoh for payment and the four parts are for your own" (See: [[:en:ta:vol1:translate:figs_explicit]])
-  * **for food for your households and your children** - "for food for your households and for food for your children" (See: [[:en:ta:vol2:translate:figs_ellipsis]])
+  * **At the harvest, you must give a fifth to Pharaoh, and four parts will be your own** - The word "fifth" is a fraction. AT: "At harvest time you will divide the crops into five parts. You will give one part back to Pharaoh for payment and the four parts are for your own" (See: [[:en:ta:vol2:translate:translate_fraction]])
+  * **for food for your households and your children** - You can state clearly the understood information. AT: "for food for your households and for food for your children" (See: [[:en:ta:vol2:translate:figs_ellipsis]])
 ===== Links: =====
 
   * [[:en:bible:notes:gen:00:intro]]
@@ -48,6 +48,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit }}
+{{tag>publish p2check }}
 
 ~~NOCACHE~~
