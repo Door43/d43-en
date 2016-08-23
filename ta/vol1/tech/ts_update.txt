@@ -15,8 +15,8 @@ To update translationStudio projects:
   - In the **Your Translation Projects** section, tap the three dots on the left.
   - In the list of options, tap **Update Library**.
   - This process uses the Internet connection. Tap 'Yes' to continue. Tap 'No' to exit.
-    - The update process runs and then closes the update process window.
-  - Tap on the Open Bible Stories or a Bible book with a round arrow next to the name.
+    - The update process runs and then closes the update process window. 
+    - Tap on the Open Bible Stories or a Bible book with a round arrow next to the name. Note: any library with a banner icon is up-to-date.
   - Tap on a language. 
     - Another window opens - choose to download or not.
     - The download process runs again and an arrow in a cloud icon appears during the process.
@@ -32,14 +32,6 @@ Tap the back arrow at the top left of the screen to return to the **Translation 
 
 
 
-
 //Next we recommend you learn about://
-  * //[[en:ta:vol1:tech:ts_translate|Translating in translationStudio]]//
-  * //[[en:ta:vol1:tech:ts_create|Create and Edit Text]]//
-  * //[[en:ta:vol1:tech:ts_resources|Find the Resources in translationStudio]]//
-  * //[[en:ta:vol1:tech:ts_useresources|How to Use the Resources in translationStudio]]//
-  * //[[en:ta:vol1:tech:ts_share|Backup and Share Your Work]]//
-  * //[[en:ta:vol1:tech:ts_upload|Upload Your Work]]//
-  * //[[en:ta:vol1:tech:ts_publish|Publish Content to unfoldingWord]]//
-  * //[[en:ta:vol1:tech:ts_problem|Report a Problem]]//
+  * //[[en:ta:vol1:tech:ts_problem]]//
 
