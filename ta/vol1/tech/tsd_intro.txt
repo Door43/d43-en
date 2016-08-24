@@ -1,0 +1,11 @@
+===== Introduction to the translationStudio-Desktop Program =====
+
+//This answers the question:// //What is the translationStudio-Desktop program?//
+
+The translationStudio-Desktop program is software where translators can do online or offline translating. It can be downloaded for Windows, Macintosh or Linux operating systems. (See: https://github.com/unfoldingWord-dev/ts-desktop/releases) The translationStudio-Desktop program contains the content that needs to be translated as well as translationHelps (See: [[:en:ta:vol1:translate:translate_help]]). Translation work can be shared and completed content can be uploaded to Door43. 
+
+translationStudio-Desktop is designed to be used for Gateway Language content translation and development.
+
+
+//Next we recommend you learn about://
+  * //[[en:ta:vol2:tech:tsd_install]]//
