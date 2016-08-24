@@ -1,33 +1,35 @@
-===== translationStudio-Desktop v9.2 Installation =====
+===== translationStudio-Desktop v10 Installation =====
 
 //This answers the question:// //How do I install the translationStudio-Desktop program?//
 
 //In order to understand this topic, it would be good to read://
 
    * //[[:en:ta:vol2:tech:tsd_intro|translationStudio-Desktop Introduction]]//
-The translationStudio Desktop program works on Windows 64-bit, OSX 64-bit and Linux.debian 64-bit. It is best to know the version of the computer before downloading the zip file.
+The translationStudio Desktop program works on Windows 32-bit, Windows 64-bit, OSX 64-bit and Linux.debian 64-bit. It is best to know the version of the computer before downloading the zip file.
 
-==== tS-Desktop Version 9.2 ====
+==== tS-Desktop Version 10 ====
 
 Go to [[https://github.com/unfoldingWord-dev/ts-desktop/releases|https://github.com/unfoldingWord-dev/ts-desktop/releases]] to download the zip file for the computer.
 
 ==== Windows Installation: ====
 
-  * Click on the tS_9.2-31_win_x64.exe or the tS_9.2-31.win_x32.exe file.
-  * Allow the file to be downloaded to the computer. Extract the zip file.
+  * Click on the tS_10.0.0-55_win_x64.exe or the tS_20.0.0-55_win_x32.exe file.
+  * Allow the file to be downloaded to the computer. 
   * Double click on the file to start the install.
+    Click the 'Run' button on the Warning message window and all other warning messages. 
       * Choose the language that will be used during the installation.
       * Click Next on the 'Welcome to the translationStudio Setup Wizard' window.
-      * Accept the agreement for the software license. Click the Next button.
-      * Keep the choice to 'create a desktop icon' if you wish. Click the Next button.
-      * Click the Install button. Please wait for a minute for the program to be installed
-      * At the 'Completing the translationStudio Setup Wizard' window do not opt to have the program open.
+      * Accept the agreement for the software license. Click the //Next// button.
+      * Keep the choice to 'create a desktop icon' if you wish. Click the //Next// button.
+      * Click the //Install// button. Please wait for a minute for the program to be installed
+      * The installer will install translationStudio and Git.
+      * At the 'Completing the translationStudio Setup Wizard' window choose between restarting the computer now or later.
       * Click the Finish button to complete the installation.
   * Open translationStudio from the desktop icon.
 
 ==== Macintosh Installation: ====
 
-  * Click on the tS_9.2-31_mac.zip file and download it to the hard drive of the computer.
+  * Click on the tS_10.0.0-55_osx_x64.zip file and download it to the hard drive of the computer.
   * Extract or un-zip the file to a folder.
   * Open the executable file that was unzipped. This will install the program.
 
