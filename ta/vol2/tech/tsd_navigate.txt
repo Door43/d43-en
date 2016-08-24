@@ -1,19 +1,29 @@
-===== Navigating translationStudio-Desktop v7 =====
+===== Navigating translationStudio-Desktop v10 =====
 
 //This answers the question:// //How do I go from one part to another in translationStudio Desktop?//
 
 //In order to understand this topic, it would be good to read://
-  * //[[en:ta:vol2:tech:tsd_install|translationStudio-Desktop v7 Installation]]//
+  * //[[en:ta:vol2:tech:tsd_install]]//
 
 === 'Home' or 'Your Translation Projects' Window ===
 
-  * Each project is listed on the home page. The project information is shown on the bar. Click on the bar to open the project.
+Each project is listed on the home page. The project information is shown on the bar. Click on the bar to open the project.
+
   * The Project name, type, language, and progress are shown on the bar.
     * The progress circle will fill in as the translation work progresses.
-  * Click on the circle with the 'i' next to the progress chart of any project. The project information window opens.
-    * All of the project information is listed: The project name, target language, progress, and the name of the translators.
-    * From this screen the project can be deleted, printed, published, or saved (backup).
+  * Click on the circle, with an 'i' in the center, next to the progress chart to see information about the project.
+    * The following project information is listed: The project name, target language, resource type, progress, and the name of the translators.
+    * From this screen the project can be deleted, printed, uploaded to Door43, or saved (backup).
 
+**New for version 10** \\
+Sort the projects by columns and then projects by book or in alphabetical order. Click on the header of the sort options, then:
+  * Choose the order of the information in the columns:
+    * Project then Language
+    * Language then Project
+    * Progress then Project
+  * Then sort the Project Column by:
+    * Book Order
+    * Alphabetical Order 
 
 ==== Layout ====
 
@@ -26,30 +36,29 @@ Click on the **three dots** to open the menu. The project editing screen and the
 
 From the Project Editing window the menu has:
   * Home (See: [[en:ta:vol2:tech:tsd_translate]])
-  * Publish (See: [[en:ta:vol2:tech:tsd_d43publish]])
+  * Upload (See: [[en:ta:vol2:tech:tsd_d43publish]])
   * Backup (See: [[en:ta:vol2:tech:tsd_backup]])
   * Print (See: [[en:ta:vol2:tech:tsd_print]])
   * translationAcademy - Opens the full translationAcademy in another window. 
   * Feedback (See: [[en:ta:vol2:tech:tsd_feedback]])
   * Settings (See: [[en:ta:vol2:tech:tsd_settings]])
 On the Home or Your Translation Projects window the menu has:
-  * Logout (See: [[en:ta:vol2:tech:tsd_login]])
-  * Restore (See: [[en:ta:vol2:tech:tsd_restore]])
+  * Update Languages - Add the latest available target languages.
+  * Import/Restore (See: [[en:ta:vol2:tech:tsd_restore]])
   * translationAcademy - Opens the full translationAcademy in another window. 
   * Feedback (See: [[en:ta:vol2:tech:tsd_feedback]])
+  * Logout (See: [[en:ta:vol2:tech:tsd_login]])
   * Settings (See: [[en:ta:vol2:tech:tsd_settings]])
 
 === Working View Icons ===
 
 In the project window there are three additional working view icons. 
 
-The **Chapter or Story** icon is the top left and looks like full sheets of paper. Use the scroll bar on the right to read the entire chapter or story in the source language. Read the passage to get an understanding of the meaning of the text. (See: [[en:ta:vol2:tech:tsd_create]] for more information.)
+The **Consume** icon is the top left and looks like full sheets of paper. Use the scroll bar on the right to read the entire chapter or story in the source language. Read the passage to get an understanding of the meaning of the text. (See: [[en:ta:vol2:tech:tsd_create]] for more information.)
 
 The **Chunk** icon is the middle icon on the left and looks like a solid line square over a dotted line square. This is the section that is used to translate the source text into the target language. Scroll down or up to move from chunk to chunk (a small section of the story or chapter). Click on the piece of paper showing behind for a blank page to type in the target language translation of the text.
 
 The **Check** icon is the bottom icon on the left and looks like a clipboard with a check mark. In this view the source text is on the left, the translation work is in the middle. If necessary, scroll from the left to the right side to show the resources for that chunk. (See: [[en:ta:vol2:tech:tsd_resources]] for more information.) Scroll up or down to move from chunk to chunk.
-
-
 
 
 //Next we recommend you learn about://
