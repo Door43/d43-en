@@ -1,10 +1,9 @@
-===== translationStudio-Desktop v7 - Start a Project =====
+===== translationStudio-Desktop v10 - Start a Project =====
 
 //This answers the question:// //How do I start a translation project in translationStudio-Desktop?//
 
 //In order to understand this topic, it would be good to read://
-  * //[[en:ta:vol2:tech:tsd_login|translationStudio-Desktop v7 - Login Options]]//
-  * //[[en:ta:vol2:tech:tsd_termsofuse|translationStudio-Desktop v7 - Terms of Use]]//
+  * //[[en:ta:vol2:tech:tsd_termsofuse]]//
 
 ==== First time in the Program ====
 
@@ -12,14 +11,6 @@ After agreeing to the **Terms of Use** you are ready to start a new project
   * The 'Your Translation Projects' screen opens with the following information:
      * Explaining that you will see the list of translation projects on this screen.
   * Click on the "Start a New Project" button.
-  * Follow the three steps below.
-
-==== Starting Additional Projects ====
-
-You can start a new project anytime by:
-  * Click on the 3-dot menu.
-  * Choose "Home" menu item.
-  * Click on the blue button in the top right of the screen.
   * Follow the three steps below.
 
 === 1. Choose a Target Language  ===
@@ -46,7 +37,7 @@ Choose between the different types of projects:
 == Open Bible Stories ==
 
   * On the New Project screen, click on Open Bible Stories.
-Gateway Projects will choose the type of project from: Text, Notes or Questions. You will need to have a text project started before you can start a Notes or Questions project.
+Gateway Projects will choose the type of project from: Text, Notes or Questions. You will need to have an OBS project in the same target language started before you can start a Notes or Questions project.
   * Click on the square icon with the + and - sign directly under the prompt or at the top right of the source text window.
   * Click on the empty square box next to the desired source language.
   * Click on "Confirm" at the bottom of the window to save the selection. Or, click on "Cancel" to close and not save the selected language. There MUST be a source language chosen.
@@ -55,17 +46,21 @@ Gateway Projects will choose the type of project from: Text, Notes or Questions.
 
   * On the New Project screen, click on Old Testament or New Testament.
   * Scroll to choose a book to translate.
-Gateway Projects will choose the type of project from: Text - Unlocked Literal Bible, Text - Unlocked Dynamic Bible, Notes or Questions. You will need to have a text project started before you can start a Notes or Questions project.
+Gateway Projects will choose the type of project from: Text - Unlocked Literal Bible, Text - Unlocked Dynamic Bible, Notes or Questions. You will need to have a project started in the same book and target language before you can start a Notes or Questions project.
   * Click on the square icon with the + and - sign directly under the prompt or at the top right of the source text window.
   * Click on the empty square box next to the desired source language.
   * Click on "Confirm" at the bottom of the window to save the selection. Or, click on "Cancel" to close and not save the selected language. There MUST be a source language chosen.
 
 
+==== Starting Additional Projects ====
+
+You can start a new project anytime by:
+  * Click on the 3-dot menu.
+  * Choose "Home" menu item.
+  * Click on the blue button in the top right of the screen.
+  * Follow the three steps below.
+
 Go to the following to learn how to set-up and translate the translation helps:
-
-
-
-//Next we recommend you learn about://
   * //[[en:ta:vol2:tech:tsd_bibletxt|The Process for Translating the Bible]]//
   * //[[en:ta:vol2:tech:tsd_tw|The Process for Translating the translationWords]]//
   * //[[en:ta:vol2:tech:tsd_tn|The Process for Translating the translationNotes]]//
