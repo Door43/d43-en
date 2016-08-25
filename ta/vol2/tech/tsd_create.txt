@@ -3,8 +3,8 @@
 //This answers the question:// //How do I create and edit text in translationStudio-Desktop?//
 
 //In order to understand this topic, it would be good to read://
-  * //[[en:ta:vol2:tech:tsd_install|translationStudio-Desktop v7 Installation]]//
-  * //[[en:ta:vol2:tech:tsd_navigate|Navigating translationStudio-Desktop v7]]//
+  * //[[en:ta:vol2:tech:tsd_install]]//
+  * //[[en:ta:vol2:tech:tsd_navigate]]//
 
 ==== Create Translation Text ====
 
@@ -42,5 +42,5 @@ If you accidentally delete a large amount of work, contact [[help@door43.org]].
 
 
 //Next we recommend you learn about://
-  * //[[en:ta:vol2:tech:tsd_settings|Settings in translationStudio Desktop v7]]//
+  * //[[en:ta:vol2:tech:tsd_settings]]//
 
