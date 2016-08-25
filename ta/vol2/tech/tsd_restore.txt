@@ -1,27 +1,46 @@
-===== Restore a Project in translationStudio-Desktop v7 =====
+===== Import/Restore a Project in translationStudio-Desktop =====
 
-//This answers the question:// //How do I restore a project in translationStudio-Desktop?//
+//This answers the question:// //How do I import or restore a project in translationStudio-Desktop?//
 
 //In order to understand this topic, it would be good to read://
-  * //[[en:ta:vol2:tech:tsd_navigate|Navigating translationStudio-Desktop v7]]//
+  * //[[en:ta:vol2:tech:tsd_navigate]]//
 
-The Restore function is helpful to:
+The Import/Restore function is helpful to:
   * Restore work from a deleted translation.
   * Import work using a translation file that has been shared.
 
-=== From the 'Home' or 'Your Translation Projects' window: ===
+=== From the 'Your Translation Projects' window: ===
 
-  - Click the 3-dot menu icon.
-  - Choose the 'Restore' menu. The 'Find File' menu opens.
-  - Find the file. The file will have the extension of '.tstudio'.
-  - Select the desired file and choose to open. The Restoring window will show. Please wait while the program finishes the process.
-  - Click on 'Close' when the restoration process is complete.
-The restored project is now listed on the Home page.
+  * Click the 3-dot menu icon.
+  * Click the 'Import/Restore' link on the menu. The 'Import/Restore Options' window opens. You may choose to:
+    *  **Import from tStudio file** - the file will merge with the existing project, if one exists.
+      * NOTE: There will need to be a .tstudio file on the computer. 
+      * The 'File Manager' window opens.
+      * Find and choose the desired file. Click the 'Open' button.
+      * The import takes place and a screen will show when importing has completed.
+      * Click on 'CLOSE' to close the window.
+    * **Import from USFM file** - you must have a file that has the .usfm or .txt extension
+    * **Import from Door43** - the file will merge with the existing project, if one exists.
+      * NOTE: This requires an Internet connection.
+      * The 'Search for Projects' window opens.
+      * Enter a Door43 account username in the top left field.
+      * The list of projects on the Door43 cloud server that belong to the user with that Door43 account name is displayed. You may need to scroll down the list to find the desired project.
+      * Click on the project name. 
+      * Wait for the download to complete. 
+      * Click on 'CLOSE' when the download is done.
+    * **Restore from tStudio file** - the file will __**overwrite**__ the existing project, if one exists.
+      * NOTE: There will need to be a .tstudio file on the computer. 
+      * The 'File Manager' window opens.
+      * Find and choose the desired file. Click the 'Open' button.
+      * The restore takes place and a screen will show when the restoration has completed.
+      * Click on 'CLOSE' to close the window.
+    * **Restore from Door43** - the file will __**overwrite**__ the existing project, if one exists.
+      * NOTE: This requires an Internet connection.
+      * The 'Search for Projects' window opens.
+      * Enter a Door43 account username in the top left field.
+      * The list of projects on the Door43 cloud server that belong to the user with that Door43 account name is displayed. You may need to scroll down the list to find the desired project.
+      * Click on the project name. 
+      * Wait for the download to complete. 
+      * Click on 'CLOSE' when the download is done.
 
-
-
-
-
-//Next we recommend you learn about://
-  * //[[en:ta:vol2:tech:tsd_settings|Settings in translationStudio Desktop v7]]//
 
