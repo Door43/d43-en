@@ -31,7 +31,7 @@ The translator needs to choose the target language //**before**// they can trans
 ==== Creating a New Target Language ====
 
 If you cannot find your Target Language then do one or both of these things:
-  * Contact the Door43 help desk at help@door43.org
+  * Send an email to the Door43 help desk at help@door43.org
   * Ask the MAST Coordinator to set up a new Target Language.
 
 MAST Coordinators and MAST Regional Directors are able to use translationDatabase to create a new language.
