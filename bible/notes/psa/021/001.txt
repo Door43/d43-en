@@ -47,8 +47,9 @@
   * [[:en:obe:other:psalm]]
   * [[:en:obe:other:david]]
   * [[:en:obe:other:king]]
-  * [[:en:obe:kt:yahweh]]
   * [[:en:obe:other:rejoice]]
+  * [[:en:obe:other:strength]]
+  * [[:en:obe:kt:yahweh]]
   * [[:en:obe:kt:salvation]]
   * [[:en:obe:other:heart]]
   * [[:en:obe:other:selah]]
@@ -59,11 +60,13 @@
 
   * **For the chief musician** - "This is for the director of music to use in worship."
   * **A psalm of David** - Possible meanings are 1) David wrote the psalm or 2) the psalm is about David or 3) the psalm is in the style of David's psalms.
-  * **How greatly he rejoices** - AT: "He rejoices greatly"
-  * **you provide** - "you give"
-  * **in your strength** - "in your power" or "in your force"
-  * **his heart's desire** - "his heart's wish" AT: "his desire" or "what he wished for" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
-  * **the request of his lips** - AT: "his request" or "what he requested of you" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **in your strength, Yahweh** - It is implied that this is strength Yahweh has given the king to defeat his enemies. AT: because you, Yahweh, have made him strong enough to defeat his enemies"
+  * **How greatly he rejoices** - "He rejoices greatly"
+  * **in the salvation you provide** - It is implied that God has saved the king from his enemies. The abstract noun "salvation" can be stated as a verb. AT: "because you have saved him from his enemies" (See: [[:en:ta:vol1:translate:figs_explicit]] and [[:en:ta:vol2:translate:figs_abstractnouns]])
+  * 
+  * **his heart's desire** - "his heart's wish." Here "heart" stands for the whole person. AT: "his desire" or "what he wished for" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **have not held back** - "have not refused him." This can be stated in positive form. AT: "you have given him"
+  * **the request of his lips** - Here "lips" stands for the whole person. AT: "his request" or "what he requested of you" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
   * **Selah** - See how you translated this in [[:en:bible:notes:psa:003:001|3:2]].
 ===== Links: =====
 
@@ -72,6 +75,6 @@
   * [[:en:bible:questions:comprehension:psa:021]]
 **[[:en:bible:notes:psa:020:009|<<]] | [[:en:bible:notes:psa:021:003|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit book1}}
+~~DISCUSSION~~{{tag>publish p2check book1}}
 
 ~~NOCACHE~~
