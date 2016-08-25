@@ -1,0 +1,27 @@
+===== Update Languages in translationStudio-Desktop =====
+
+//This answers the question:// //How can I add new target languages?//
+
+//In order to understand this topic, it would be good to read://
+  * //[[en:ta:vol2:tech:tsd_navigate]]//
+
+
+=== From the Home window: ===
+
+  * Click on the 3-dot menu icon.
+  * Click on to choose the words "Update Languages" found at the top of the menu. 
+    * The Update window opens and the process begins.
+  * Click on 'CLOSE' when the process ends.
+
+=== From the Translation Project window: ===
+
+You cannot update the languages while working on a project. You must return to the "Your Translation Projects" screen.
+
+  * Click on the 3-dot menu icon.
+  * Click on the 'Home' menu item.
+
+See: 
+
+//Next we recommend you learn about://
+  * //[[en:ta:vol2:tech:tsd_settings]]//
+
