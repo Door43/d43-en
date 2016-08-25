@@ -3,6 +3,7 @@
 
 ==== translationStudio-Desktop Version 10 ====
 
+  - [[en:ta:vol2:tech:tsd_intro]]
   - [[en:ta:vol2:tech:tsd_install]]
   - [[en:ta:vol2:tech:tsd_login]]
   - [[en:ta:vol2:tech:tsd_termsofuse]]
@@ -25,20 +26,8 @@
       - translationAcademy 
       - [[en:ta:vol2:tech:tsd_feedback]]
       - [[en:ta:vol2:tech:tsd_settings]]
-==== translationStudio-Desktop Version 9 ====
-
-  - [[en:ta:vol2:tech:tsd_install9]]
-  - The Three-Dot Menu Items 
-    - [[en:ta:vol2:tech:tsd_backupv9]]
-    - [[en:ta:vol2:tech:tsd_feedbackv9]]
-    - [[en:ta:vol2:tech:tsd_printv9]]
-    - [[en:ta:vol2:tech:tsd_D43publishv9]]
-    - [[en:ta:vol2:tech:tsd_restorev9]]
-    - [[en:ta:vol2:tech:tsd_settingsv9]]
 
 ==== Using translationStudio-Desktop ====
-
-  - [[en:ta:vol2:tech:tsd_intro]]
   - [[en:ta:vol2:tech:tsd_create]]
   - [[en:ta:vol2:tech:tsd_resources]] 
     - [[en:ta:vol1:translate:resources_alter]] 
@@ -64,3 +53,13 @@
     - [[en:ta:vol2:tech:tsd_ta]]
     - [[en:ta:vol2:tech:tsd_UDB]]
 
+==== translationStudio-Desktop Version 9 ====
+
+  - [[en:ta:vol2:tech:tsd_install9]]
+  - The Three-Dot Menu Items 
+    - [[en:ta:vol2:tech:tsd_backupv9]]
+    - [[en:ta:vol2:tech:tsd_feedbackv9]]
+    - [[en:ta:vol2:tech:tsd_printv9]]
+    - [[en:ta:vol2:tech:tsd_D43publishv9]]
+    - [[en:ta:vol2:tech:tsd_restorev9]]
+    - [[en:ta:vol2:tech:tsd_settingsv9]]
