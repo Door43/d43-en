@@ -36,10 +36,11 @@ If you cannot find your Target Language then do one or both of these things:
 
 MAST Coordinators and MAST Regional Directors are able to use translationDatabase to create a new language.
 
-Once the new Target Language has been created, then the translator can update the languages in tS-Desktop and tS-Android, so that the Target Language is available in the programs.
+Once the new Target Language has been created, then the translator can update the languages in tS-Desktop and tS-Android, so that the Target Language is available in the programs. (See: [[en:ta:vol2:tech:tsd_update]])
 
 
 
 //Next we recommend you learn about://
-  * //[[en:ta:vol2:translate:writing_intro|Writing Styles]]//
+  * //[[en:ta:vol2:translate:writing_intro]]//
+  * //[[en:ta:vol2:tech:tsd_update]]//
 
