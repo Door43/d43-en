@@ -9,10 +9,12 @@ Use the 3-dot menu to go to the 'Home' page with title of 'Your Translation Proj
 
 === New for version 10 ===
 Sort the projects by columns and then projects by book or in alphabetical order. Click on the header of the sort options, then:
-  * Choose the order of the information in the columns:
-    * Project then Language
-    * Language then Project
-    * Progress then Project
-  * Then sort the Project Column by:
-    * Book Order
-    * Alphabetical Order 
+
+**Choose the order of the information in the columns**:
+  * Project then Language
+  * Language then Project
+  * Progress then Project
+
+**Then sort the Project Column by**:
+  * Book Order
+  * Alphabetical Order 
