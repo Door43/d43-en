@@ -15,15 +15,6 @@ Each project is listed on the home page. The project information is shown on the
     * The following project information is listed: The project name, target language, resource type, progress, and the name of the translators.
     * From this screen the project can be deleted, printed, uploaded to Door43, or saved (backup).
 
-**New for version 10** \\
-Sort the projects by columns and then projects by book or in alphabetical order. Click on the header of the sort options, then:
-  * Choose the order of the information in the columns:
-    * Project then Language
-    * Language then Project
-    * Progress then Project
-  * Then sort the Project Column by:
-    * Book Order
-    * Alphabetical Order 
 
 ==== Layout ====
 
