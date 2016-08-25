@@ -9,21 +9,22 @@
   - [[en:ta:vol2:tech:tsd_navigate]]
   - [[en:ta:vol2:tech:tsd_translate]] 
   - [[en:ta:vol2:tech:tsd_projects]]
-  - The Three-Dot Menu Items - Your Translation Projects Window
-    - [[en:ta:vol2:tech:tsd_backup]]
-    - [[en:ta:vol2:tech:tsd_restore]]
-    - [[en:ta:vol2:tech:tA]]
-    - [[en:ta:vol2:tech:tsd_feedback]]
-    - [[en:ta:vol2:tech:tsd_login]]
-    - [[en:ta:vol2:tech:tsd_settings]]
-  - The Three-Dot Menu Items - Project Editing Window
-    - Home
-    - [[en:ta:vol2:tech:tsd_D43publish]]
-    - [[en:ta:vol2:tech:tsd_backup]]
-    - [[en:ta:vol2:tech:tsd_print]]
-    - [[en:ta:vol2:tech:tA]]
-    - [[en:ta:vol2:tech:tsd_feedback]]
-    - [[en:ta:vol2:tech:tsd_settings]]
+  - The Three-Dot Menu Items
+    - In the 'Your Translation Projects' Window
+      - [[en:ta:vol2:tech:tsd_backup]]
+      - [[en:ta:vol2:tech:tsd_restore]]
+      - [[en:ta:vol2:tech:tA]]
+      - [[en:ta:vol2:tech:tsd_feedback]]
+      - [[en:ta:vol2:tech:tsd_login]]
+      - [[en:ta:vol2:tech:tsd_settings]]
+    - In the 'Project Editing' Window
+      - Home - click on this menu item to return to the 'Your Translation Projects' window
+      - [[en:ta:vol2:tech:tsd_D43publish]]
+      - [[en:ta:vol2:tech:tsd_backup]]
+      - [[en:ta:vol2:tech:tsd_print]]
+      - [[en:ta:vol2:tech:tA]]
+      - [[en:ta:vol2:tech:tsd_feedback]]
+      - [[en:ta:vol2:tech:tsd_settings]]
 ==== translationStudio-Desktop Version 9 ====
 
   - [[en:ta:vol2:tech:tsd_install9]]
