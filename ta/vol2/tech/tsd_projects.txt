@@ -1,0 +1,18 @@
+===== Organizing the List of Projects in translationStudio-Desktop v10 =====
+
+//This answers the question:// //How can I organize my projects?//
+
+//In order to understand this topic, it would be good to read://
+  * //[[en:ta:vol2:tech:tsd_navigate]]//
+
+Use the 3-dot menu to go to the 'Home' page with title of 'Your Translation Projects.'
+
+=== New for version 10 ===
+Sort the projects by columns and then projects by book or in alphabetical order. Click on the header of the sort options, then:
+  * Choose the order of the information in the columns:
+    * Project then Language
+    * Language then Project
+    * Progress then Project
+  * Then sort the Project Column by:
+    * Book Order
+    * Alphabetical Order 
