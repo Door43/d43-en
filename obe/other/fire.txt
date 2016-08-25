@@ -18,7 +18,7 @@ Fire is the heat, light, and flames that are produced when something is burned.
 
 ===== New Bible References: =====
 
-{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]*fire[^}]*\}\}" -exclude:home -simpleLineBreak -title -fontsize="90%"}}
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]*fire[^}]*\}\}" -exclude:home -exclude:00 -exclude:intro -simpleLineBreak -title -fontsize="100%"}}
 
 
 ~~DISCUSSION~~
