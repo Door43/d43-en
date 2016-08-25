@@ -7,6 +7,21 @@
   * //[[en:ta:vol1:translate:choose_team]]//
 
 
+
+==== Choosing the Target Language ====
+
+The translator needs to choose the target language //**before**// they can translate in the transalationStudio program. (See: [[en:ta:vol2:tech:tsd_translate]] or [[en:ta:vol1:tech:ts_select]])
+
+==== Creating a New Target Language ====
+
+If you cannot find your Target Language then do one or both of these things:
+  * Send an email to the Door43 help desk at help@door43.org
+  * Ask the MAST Coordinator to set up a new Target Language.
+
+MAST Coordinators and MAST Regional Directors are to create a new language in translationDatabase. (See: http://td.unfoldingword.org/)
+
+Once the new Target Language has been created, then the translator can update the languages in tS-Desktop and tS-Android, so that the Target Language is available in the programs. (See: [[en:ta:vol2:tech:tsd_update]])
+
 ==== Important Terms to Know ====
 
 **Translation** - The act of expressing the meaning conveyed by the form of one language in the form of another language.
@@ -22,21 +37,6 @@
 **Original Language** - The language in which a Bible text was initially written. The Original Language of the New Testament is Greek. The Original Language of most of the Old Testament is Hebrew. However, the Original Language of some parts of Daniel and Ezra is Aramaic. The Original Language is always the most accurate language from which to translate a passage.
 
 **Language of Wider Communication** - A language that is spoken over a broad area and by many people. For most people, this is not their first language, but is the language that they use to speak to people outside of their language community. Some people call this a trade language. Most Bibles will be translated using a language of wider communication as the source language.
-
-
-==== Choosing the Target Language ====
-
-The translator needs to choose the target language //**before**// they can translate in the transalationStudio program. (See: [[en:ta:vol2:tech:tsd_translate]] or [[en:ta:vol1:tech:ts_select]])
-
-==== Creating a New Target Language ====
-
-If you cannot find your Target Language then do one or both of these things:
-  * Send an email to the Door43 help desk at help@door43.org
-  * Ask the MAST Coordinator to set up a new Target Language.
-
-MAST Coordinators and MAST Regional Directors are to create a new language in translationDatabase. (See: http://td.unfoldingword.org/)
-
-Once the new Target Language has been created, then the translator can update the languages in tS-Desktop and tS-Android, so that the Target Language is available in the programs. (See: [[en:ta:vol2:tech:tsd_update]])
 
 
 
