@@ -29,6 +29,7 @@
 ===== translationWords: =====
 
   * [[:en:obe:other:egypt]]
+  * [[:en:obe:other:biblicaltimeyear]]
   * [[:en:obe:other:ephraim]]
   * [[:en:obe:other:generation]]
   * [[:en:obe:other:manasseh]]
@@ -36,8 +37,10 @@
 
 ===== translationNotes: =====
 
+  * **one hundred ten years** - "110 years" (See: [[:en:ta:vol2:translate:translate_numbers]])
+  * **Ephraim's children to the third generation** - "Ephraim's children and grandchildren" (UDB)
   * **Machir** - This is the name of Joseph's grandson. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **They were "born on his knees."** - This expression meant that they received special inheritance rights. AT: "Joseph gave them special inheritance rights." (See: [[:en:ta:vol1:translate:figs_idiom]] and [[:en:ta:vol2:translate:figs_activepassive]])
+  * **They were "born on his knees"** - This expression means that Joseph adopted these children of Machir as his own children. (See: [[:en:ta:vol1:translate:figs_idiom]])
 
 
 ===== Links: =====
@@ -47,6 +50,6 @@
   * [[:en:bible:questions:comprehension:gen:50]]
 **[[:en:bible:notes:gen:50:18|<<]] | [[:en:bible:notes:gen:50:24|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit }}
+~~DISCUSSION~~{{tag>publish p2check }}
 
 ~~NOCACHE~~
