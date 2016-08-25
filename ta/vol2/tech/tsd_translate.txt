@@ -52,13 +52,16 @@ Gateway Projects will choose the type of project from: Text - Unlocked Literal B
   * Click on "Confirm" at the bottom of the window to save the selection. Or, click on "Cancel" to close and not save the selected language. There MUST be a source language chosen.
 
 
+Go to [[en:ta:vol2:tech:tsd_create]] to learn how to translate.
+
+
 ==== Starting Additional Projects ====
 
 You can start a new project anytime by:
   * Click on the 3-dot menu.
   * Choose "Home" menu item.
   * Click on the blue button in the top right of the screen.
-  * Follow the three steps below.
+  * Follow the three steps above.
 
 Go to the following to learn how to set-up and translate the translation helps:
   * //[[en:ta:vol2:tech:tsd_bibletxt|The Process for Translating the Bible]]//
