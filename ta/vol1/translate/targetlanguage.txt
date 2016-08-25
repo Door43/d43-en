@@ -34,7 +34,7 @@ If you cannot find your Target Language then do one or both of these things:
   * Send an email to the Door43 help desk at help@door43.org
   * Ask the MAST Coordinator to set up a new Target Language.
 
-MAST Coordinators and MAST Regional Directors are able to use translationDatabase to create a new language.
+MAST Coordinators and MAST Regional Directors are to create a new language in translationDatabase. (See: http://td.unfoldingword.org/)
 
 Once the new Target Language has been created, then the translator can update the languages in tS-Desktop and tS-Android, so that the Target Language is available in the programs. (See: [[en:ta:vol2:tech:tsd_update]])
 
