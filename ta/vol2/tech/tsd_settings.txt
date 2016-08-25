@@ -3,26 +3,35 @@
 //This answers the question:// //What are the settings of the tS-Desktop program and how do I change them?//
 
 //In order to understand this topic, it would be good to read://
-  * //[[en:ta:vol2:tech:tsd_install|translationStudio-Desktop v7 Installation]]//
-  * //[[en:ta:vol2:tech:tsd_navigate|Navigating translationStudio-Desktop v7]]//
+  * //[[en:ta:vol2:tech:tsd_navigate]]//
 
 ==== Open the Settings Menu ====
 
-Tap on the 3 dot menu from any screen.
-Choose 'Settings' on the menu.
+  * Click on the 3 dot menu from either the 'Your Translation Projects' or the 'Project Editing' windows.
+  * Choose 'Settings' on the menu.
+
+Use the back arrow at the top left of the screen to leave Settings.
+
+==== General Section ====
 
 === GL Mode ===
 
-Display additional translation options for gateway languages
+**Display additional translation options for gateway languages**
   *Click on the empty square to allow this option.
 Note: A blue square with a white check mark means that the option has already been chosen.
 
 The decision to turn on the GL mode needs to be done before a project has been started. This decision needs to be made because of how the project file is named when saved. Please make sure that all your translators are creating projects from the same mode (GL on or off) if they want to combine the projects. 
 
-=== Font ===
+=== Target Translation Font ===
 
-The name of the chosen font is displayed. Click on the word 'Font' to change the displayed font in the text.
-  * Scroll through the names of the fonts and click on the name to select the desired font.
+The name of the chosen font is displayed. Click on the words 'Target Translation Font' to change the displayed font in the text.
+  * Scroll through the names of the fonts and click on the name to select the desired font to be displayed in the Target language text.
+  * Select the font and click on 'Confirm' to save.
+
+=== Source Translation Font ===
+
+The name of the chosen font is displayed. Click on the words 'Source Translation Font' to change the displayed font in the text.
+  * Scroll through the names of the fonts and click on the name to select the desired font to be displayed in the Source text.
   * Select the font and click on 'Confirm' to save.
 
 === Font Size ===
@@ -31,26 +40,41 @@ The size of the chosen font is displayed. Click on the words 'Font size' to chan
   * Choose from 'small', 'normal', and 'large' font sizes by clicking on the size to select.
   * Select the size and click on 'Confirm' to save. Or click on 'Cancel' to not change the font size.
 
-Use the back arrow at the top left of the screen to leave Settings.
+=== Backup Location ===
+
+The location of the backup files is displayed here. You may change the file location by:
+  * Click on the section to open the Computer's File Manager.
+  * Navigate to another file folder on the computer's hard drive.
+  * Click on the File Manager's file folder.
+  * Click the 'Select Folder' button. The window closes and the changes are saved.
 
 === The rest of the settings control the program and should not be changed. ===
 
 -----
+==== About ====
 
-=== Upload ===
+Here you will see the version number of the program, the Git Version and the Data Path.
+This information cannot be changed. 
 
-This is important information about the Servers and cannot be changed.
+==== Legal ====
 
-=== Advanced ===
+Here are links to the agreement forms that all program users have agreed to.
+  * License Agreement
+  * Translation Guidelines
+  * Statement of Faith
+  * Attribution
+Click on the words to read the information again.
 
-This is important information about the location of backups, developer tools, and the refresh settings.
+==== Upload ====
 
-=== About ===
+This is important information about the Data and Media Servers and cannot be changed.
 
-Here you will see the version number of the program.
+==== Advanced ====
+
+This is important information about developer tools and should not be changed.
 
 
 
 //Next we recommend you learn about://
-  * //[[en:ta:vol2:tech:tsd_navigate|Navigating translationStudio-Desktop v7]]//
+  * //[[en:ta:vol2:tech:tsd_navigate]]//
 
