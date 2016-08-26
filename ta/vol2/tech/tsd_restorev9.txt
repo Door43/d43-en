@@ -1,11 +1,9 @@
-===== Restore a Project in translationStudio-Desktop v9  - to be updated =====
+===== Restore a Project in translationStudio-Desktop v9 =====
 
 //This answers the question:// //How do I restore a project in translationStudio-Desktop?//
 
-//In order to understand this topic, it would be good to read://
-  * //[[en:ta:vol2:tech:tsd_navigate|Navigating translationStudio-Desktop v7]]//
-
 The Restore function is helpful to:
+
   * Restore work from a deleted translation.
   * Import work using a translation file that has been shared.
 
@@ -16,12 +14,5 @@ The Restore function is helpful to:
   - Find the file. The file will have the extension of '.tstudio'.
   - Select the desired file and choose to open. The Restoring window will show. Please wait while the program finishes the process.
   - Click on 'Close' when the restoration process is complete.
+
 The restored project is now listed on the Home page.
-
-
-
-
-
-//Next we recommend you learn about://
-  * //[[en:ta:vol2:tech:tsd_settings]]//
-
