@@ -55,11 +55,9 @@
 
 ==== translationStudio-Desktop Version 9 ====
 
-  - [[en:ta:vol2:tech:tsd_install9]]
-  - The Three-Dot Menu Items 
-    - [[en:ta:vol2:tech:tsd_backupv9]]
-    - [[en:ta:vol2:tech:tsd_feedbackv9]]
-    - [[en:ta:vol2:tech:tsd_printv9]]
-    - [[en:ta:vol2:tech:tsd_D43publishv9]]
-    - [[en:ta:vol2:tech:tsd_restorev9]]
-    - [[en:ta:vol2:tech:tsd_settingsv9]]
+  - [[:en:ta:vol2:tech:tsd_install9|translationStudio-Desktop v9.2 Installation]]
+  - The Three-Dot Menu Items
+      - [[:en:ta:vol2:tech:tsd_backupv9|Back Up Translation Work in translationStudio-Desktop v9]]
+      - [[:en:ta:vol2:tech:tsd_d43publishv9|Upload or Publishing in translationStudio-Desktop v9]]
+      - [[:en:ta:vol2:tech:tsd_restorev9|Restore a Project in translationStudio-Desktop v9 - to be updated]]
+      - [[:en:ta:vol2:tech:tsd_settingsv9|Settings in translationStudio Desktop v9 - to be updated]]
