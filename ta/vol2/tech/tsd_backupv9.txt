@@ -1,9 +1,9 @@
-===== Back Up Translation Work in translationStudio-Desktop - to be updated =====
+===== Back Up Translation Work in translationStudio-Desktop v9 =====
 
 //This answers the question:// //How can I backup or save my translation work?//
 
 //In order to understand this topic, it would be good to read://
-  * //[[en:ta:vol2:tech:tsd_navigatev9]]//
+  * //[[en:ta:vol2:tech:tsd_navigatev]]//
 
 === You should save your translation work on a regular schedule. ===
 
@@ -31,10 +31,4 @@
   * You may receive a message to confirm to overwrite the file. 
     * Confirm and the file is saved with the same name. Overwriting the previous file.
     * Click 'No' to rename the file. (You will need to return to the information menu and start again.)
-
-
-
-
-//Next we recommend you learn about://
-  * //[[en:ta:vol2:tech:tsd_settingsv9]]//
 
