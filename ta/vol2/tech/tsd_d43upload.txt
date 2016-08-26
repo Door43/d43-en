@@ -1,0 +1,52 @@
+===== Uploading in translationStudio-Desktop v10 =====
+
+//This answers the question:// //How do I publish my work that I did in the tS-Desktop program?//
+
+//In order to understand this topic, it would be good to read://
+  * //[[en:ta:vol1:process:publishing_prereqs]]//
+  * //[[en:ta:vol2:tech:tsd_navigate]]//
+
+Please read the information on [[en:ta:vol1:process:publishing_process]] before publishing your work.
+
+==== Upload Process ====
+
+When you publish your work there are several steps to the process. The process begins in translationStudio when you select **Publish** from the 3 dot icon menu. This uploads the translation to the Door43 repository. 
+
+=== From the 'Home' or 'Your Translation Projects' window: ===
+
+  * Click on the Details Menu icon (gray circle with an i).
+  * Click on the cloud icon. The project will load and the 'Upload Project' menu will open.
+  * Follow the four steps listed below.
+
+=== From the Project Editing window: ===
+
+  * Click the 3 dot menu. 
+  * Choose 'Upload' from the menu.
+  * The 'Upload Project' menu opens - notice that there are four steps to the upload process. (The steps show on the top bar.)
+
+  - **Project Step**
+    * All the chunks are listed.  Note that there are green checks and orange buttons next to chunk information. The green checks mean that the chunk is marked 'done.' The 'Review' button means that the chunk has not been marked 'done.'
+    * The translator should review the chunks that are not marked 'done' to either mark them 'done' or leave them undone. (Incomplete projects can be uploaded.)
+    * Scroll to the bottom of the list of chunks. Reviewing the incomplete chunks as desired.
+    * Click on the blue 'Next Step' button.
+  - **Translators Step**
+    * The translators that have signed into the project are listed. 
+    * Add more contributors if necessary.
+     * Type in the Name or Pseudonym and click the 'Add Contributor' button.
+    * Click on the blue 'Next Step' button.
+  - **Review Step**
+    * Note that all the items on the list are checked.
+    * Optional - review the License Agreement, Translation Guidelines, or Statement of Faith at this time.
+    * Click on the blue 'Next Step' button.
+  - **Upload Step**
+    * Click on the blue 'Upload' button in the top right of the window. This will upload the work done in translationStudio-Desktop to the Door43 repository.
+    * **NOTE:** The current user must be logged in with the online Door43 account.
+    * The link to the git repository will show after the upload has completed. (For example: [[https://git.door43.org/username/en-x-demo1_gal_text_ulb]])
+
+The translation has been uploaded to the server. At that time the documentation process takes place. See: [[en:ta:vol2:tech:tsd_d43publish]] for more information.
+
+
+//Next we recommend you learn about://
+  * //[[en:ta:vol2:tech:tsd_translate]]//
+  * //[[en:ta:vol2:tech:tsd_settings]]//
+
