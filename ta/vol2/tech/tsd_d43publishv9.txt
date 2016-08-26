@@ -1,16 +1,15 @@
-===== Publishing in translationStudio-Desktop v9 - to be updated =====
+===== Upload or Publishing in translationStudio-Desktop v9 =====
 
 //This answers the question:// //How do I publish my work that I did in the tS-Desktop program?//
 
 //In order to understand this topic, it would be good to read://
-  * //[[en:ta:vol1:process:publishing_prereqs|Publishing Prerequisites]]//
-  * //[[en:ta:vol2:tech:tsd_navigate|Navigating translationStudio-Desktop v7]]//
 
-Please read the information on [[en:ta:vol1:process:publishing_process]] before publishing your work.
+   * //[[:en:ta:vol1:process:publishing_prereqs|Publishing Prerequisites]]//
+Please read the information on [[:en:ta:vol1:process:publishing_process|How to Publish]] before publishing your work.
 
 ==== Upload Process ====
 
-When you publish your work there are several steps to the process. The process begins in translationStudio when you select **Publish** from the 3 dot icon menu. This publishes the translation to the Door43 repository. 
+When you publish your work there are several steps to the process. The process begins in translationStudio when you select **Publish**  from the 3 dot icon menu. This publishes the translation to the Door43 repository.
 
 === From the 'Home' or 'Your Translation Projects' window: ===
 
@@ -20,35 +19,34 @@ When you publish your work there are several steps to the process. The process b
 
 === From the Project Editing window: ===
 
-  - Click the 3 dot menu. 
+  - Click the 3 dot menu.
   - Choose 'Publish' from the menu.
   - The 'Publish Project' menu opens - notice that there are four steps to the publish process. (The steps show on the top bar.)
 
   - **Project Step**
-    * All the chunks are listed.  Note that there are green checks next to chunk information. The green checks mean that the chunk is marked 'done.' The 'Review' button means that the chunk has not been marked 'done.'
-    * The translator should review the chunks that are not marked 'done' to either mark them 'done' or leave them undone.
-    * Scroll to the bottom of the list of chunks. Reviewing the incomplete chunks as desired.
-    * Click on the blue 'Next Step' button.
+      * All the chunks are listed. Note that there are green checks next to chunk information. The green checks mean that the chunk is marked 'done.' The 'Review' button means that the chunk has not been marked 'done.'
+      * The translator should review the chunks that are not marked 'done' to either mark them 'done' or leave them undone.
+      * Scroll to the bottom of the list of chunks. Reviewing the incomplete chunks as desired.
+      * Click on the blue 'Next Step' button.
   - **Translators Step**
-    * The translators that have signed into the project are listed. 
-    * Add more contributors if necessary.
-     * Type in the Name or Pseudonym and click the 'Add Contributor' button.
-    * Click on the blue 'Next Step' button.
+      * The translators that have signed into the project are listed.
+      * Add more contributors if necessary.
+      * Type in the Name or Pseudonym and click the 'Add Contributor' button.
+      * Click on the blue 'Next Step' button.
   - **Review Step**
-    * Note that all the items on the list are checked.
-    * Optional - review the License Agreement, Translation Guidelines, or Statement of Faith at this time.
-    * Click on the blue 'Next Step' button.
+      * Note that all the items on the list are checked.
+      * Optional - review the License Agreement, Translation Guidelines, or Statement of Faith at this time.
+      * Click on the blue 'Next Step' button.
   - **Publish Step**
-    * Click on the blue 'Upload' button in the top right of the window. This will upload the work done in translationStudio-Desktop to the Door43 repository.
+      * Click on the blue 'Upload' button in the top right of the window. This will upload the work done in translationStudio-Desktop to the Door43 repository.
 
 The translation has been uploaded to the server. At that time the documentation process takes place.
 
 ==== Documentation Process ====
 
-The process continues when you submit the **Request to Publish** (http://td.unfoldingword.org/publishing/publish/request/) form for your translation to appear in unfoldingWord web and applications. The Gateway Language translations will also show in translationStudio as a source text and translationHelps. 
+The process continues when you submit the **Request to Publish**  ([[http://td.unfoldingword.org/publishing/publish/request/|http://td.unfoldingword.org/publishing/publish/request/]]) form for your translation to appear in unfoldingWord web and applications. The Gateway Language translations will also show in translationStudio as a source text and translationHelps.
 
 The Request to Publish form includes several pieces of data such as your contact information, the requested checking level, translation contributors, etc. The person who reviews the request will verify that each contributor provided a legal signature.
-
 
 ==== Questions Regarding the Request to Publish Form and Process ====
 
@@ -62,11 +60,4 @@ Approved text can always be modified in translationStudio even after all checkin
 
 === Must All Contributors Be Named? ===
 
-Due to copyright laws (and these exist no matter what country you are in and no matter what people tell you about laws in that country), you must list __every__ contributor on the Request to Publish form and provide a legal signature for each person. In certain cases we understand they cannot be named, however you can provide the established pseudonym for that person.
-
-
-
-//Next we recommend you learn about://
-  * //[[en:ta:vol2:tech:tsd_translate|translationStudio-Desktop v7 - Start a Project]]//
-  * //[[en:ta:vol2:tech:tsd_settings|Settings in translationStudio Desktop v7]]//
-
+Due to copyright laws (and these exist no matter what country you are in and no matter what people tell you about laws in that country), you must list __every__  contributor on the Request to Publish form and provide a legal signature for each person. In certain cases we understand they cannot be named, however you can provide the established pseudonym for that person.
