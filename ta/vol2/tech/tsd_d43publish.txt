@@ -18,7 +18,34 @@ The process continues when you submit the **Request to Publish** (https://git.do
 
 The Request to Publish form includes several pieces of data such as your contact information, the requested checking level, translation contributors, etc. The person who reviews the request will verify that each contributor provided a legal signature.
 
+=== How to Edit the Request to Publish Form ===
 
+When you click on the link above, you will see the form in an editor. 
+Click on the word 'Preview' above the editor box to see the finished document.
+
+**You will need to fill out this form if you have a Gateway Language that is ready to become a source text.**
+
+== NOTE: All information on and attached to this form is public.==
+
+  * Please do not remove or change any of the **bold** field names.
+  * The words in gray font are links. The links are active in the Preview mode. Please do not remove or edit the links.
+
+== Follow the "How to Fill out this Form" Instructions ==
+  * In the Title bar, above the 'Write' and 'Preview' tabs, type in the Language Name.
+  * The words in bold describe the information required.
+  * Fill-in or choose the answer, or answers, that best describes the submitted translation work.
+  * Once you have filled in all the information - click the green "Create Issue" button.
+
+**Create Issue** - this is not an issue but a request that can be tracked and accessed by several people.
+
+== What Happens Next? ==
+  * After the 'form' has been submitted - a notification will go to the people that will create the source text file.
+    * You will receive notification that actions are being done on the submission (issue.)
+    * You can see the submission on the 'Desktop' section of your git.door43.org account page.
+      * Click on the blue link to look at the issue.
+      * Click on the pencil icon to edit the form.
+      * Click on the 'Save' button at the bottom of the editor.
+  * Once created - the translated text can be seen in translationStudio and on the unfoldingWord.org website.
 ==== Questions Regarding the Request to Publish Form and Process ====
 
 === What Happens After Text is Approved? ===
