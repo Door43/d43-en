@@ -26,6 +26,7 @@
       - translationAcademy 
       - [[en:ta:vol2:tech:tsd_feedback]]
       - [[en:ta:vol2:tech:tsd_settings]]
+  - [[en:ta:vol2:tech:tsd_d43publish]]
 
 ==== Using translationStudio-Desktop ====
   - [[en:ta:vol2:tech:tsd_create]]
