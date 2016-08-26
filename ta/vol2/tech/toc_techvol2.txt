@@ -27,9 +27,11 @@
       - [[en:ta:vol2:tech:tsd_feedback]]
       - [[en:ta:vol2:tech:tsd_settings]]
   - [[en:ta:vol2:tech:tsd_d43publish]]
+  - [[en:ta:vol2:tech:tsd_create]]
+
 
 ==== Using translationStudio-Desktop ====
-  - [[en:ta:vol2:tech:tsd_create]]
+
   - [[en:ta:vol2:tech:tsd_resources]] 
     - [[en:ta:vol1:translate:resources_alter]] 
     - [[en:ta:vol1:translate:resources_alterm]]
