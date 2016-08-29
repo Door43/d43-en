@@ -14,4 +14,8 @@ Zacchaeus was a tax collector from Jericho who climbed a tree in order to see Je
 
 ===== Bible References: =====
 
-{{topic>:en:bible? zacchaeus&nocomments}}~~DISCUSSION~~{{tag>publish}}
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* zacchaeus(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}
+
+{{topic>:en:bible? zacchaeus&nocomments}}
+
+~~DISCUSSION~~{{tag>publish}}
