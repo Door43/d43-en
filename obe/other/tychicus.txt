@@ -12,4 +12,7 @@ Tychicus was one of Paul's fellow ministers of the gospel.
 
 ===== Bible References: =====
 
-{{topic>:en:bible? tychicus&nocomments}}~~DISCUSSION~~{{tag>publish}}
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* tychicus(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}
+
+
+~~DISCUSSION~~{{tag>publish}}
