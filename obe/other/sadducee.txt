@@ -13,4 +13,7 @@ The Sadducees were a political group of Jewish priests during the time of Jesus 
 
 ===== Bible References: =====
 
-{{topic>:en:bible?saducee&nocomments}}~~DISCUSSION~~{{tag>publish}}
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* sadducee(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}
+
+
+~~DISCUSSION~~{{tag>publish}}
