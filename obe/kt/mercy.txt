@@ -20,7 +20,8 @@ The terms "mercy" and "merciful" refer to helping people who are in need, especi
 
 ===== Bible References: =====
 
-{{topic>:en:bible?mercy}}
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* mercy(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}
+
 
 ===== Examples from the Bible stories: =====
 
