@@ -19,8 +19,7 @@ In the Bible, the phrases "house of God" (God's house) and "house of Yahweh (Yah
 
 ===== Bible References: =====
 
-
-{{topic>:en:bible?Houseofgod&nocomments}}
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* houseofgod(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}
 
 
 ~~DISCUSSION~~
