@@ -15,7 +15,10 @@ The term "seek" means to look for something or someone. The past tense is "sough
 
 ===== Bible References: =====
 
-{{topic>:en:bible?URLterm&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* seek(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}
+
+
+~~DISCUSSION~~
 
 ~~NOCACHE~~
 
