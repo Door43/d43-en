@@ -15,7 +15,10 @@ Asherah was the name of a goddess that was worshiped by Canaanite people groups 
 
 ===== Bible References: =====
 
-{{topic>Asherahim&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* asherahim(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}
+
+
+~~DISCUSSION~~
 
 ~~NOCACHE~~
 
