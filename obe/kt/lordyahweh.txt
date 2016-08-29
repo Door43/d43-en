@@ -20,6 +20,7 @@ In the Old Testament, these terms are used many times to refer to the one true G
 
 ===== Bible References: =====
 
-{{topic>:en:bible?lordyahweh&nocomments&nocomments}}
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* lordyahweh(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}
+
 
 ~~DISCUSSION~~{{tag>publish review}}
