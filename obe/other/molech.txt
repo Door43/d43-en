@@ -13,7 +13,10 @@ Molech was the name of one of the false gods that the Canaanites worshiped. Othe
 
 ===== Bible References: =====
 
-{{topic>:en:bible?moloch&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* molech(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}
+
+
+~~DISCUSSION~~
 
 ~~NOCACHE~~
 
