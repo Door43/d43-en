@@ -52,12 +52,15 @@
   * [[:en:obe:other:king]]
   * [[:en:obe:other:praise]]
   * [[:en:obe:other:israel]]
+  * [[:en:obe:other:father]]
   * [[:en:obe:kt:trust]]
   * [[:en:obe:other:cry]]
 ===== translationNotes: =====
 
-  * **you sit as king with the praises of Israel** - The praises of Israel are described as if they are a throne upon which God can sit and rule, or as a house in which God can live. (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **They ... and were not disappointed** - AT: "They ... and were saved" or "They ... and you did for them what they needed you to do" (See: [[:en:ta:vol2:translate:figs_activepassive]] and [[:en:ta:vol2:translate:figs_doublenegatives]])
+  * **you sit as king with the praises of Israel** - "the praises of Israel are the throne on which you sit as king." The praises of Israel are described as if they are a throne upon which God can sit and rule, or as a house in which God can live. AT: "you are king and the people of Israel praise you" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **of Israel** - Here "Israel" stands for the people of Israel. (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **and were not disappointed** - This can be stated in active form. AT: "and you did not disappoint them" or "you did not fail them" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **and were not disappointed** - This can be stated in positive form. AT: "and you saved them" or "and you did for them what they needed you to do" (See: [[:en:ta:vol2:translate:figs_doublenegatives]])
 
 ===== Links: =====
 
@@ -66,6 +69,6 @@
   * [[:en:bible:questions:comprehension:psa:022]]
 **[[:en:bible:notes:psa:022:001|<<]] | [[:en:bible:notes:psa:022:006|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit book1}}
+~~DISCUSSION~~{{tag>publish p2check book1}}
 
 ~~NOCACHE~~
