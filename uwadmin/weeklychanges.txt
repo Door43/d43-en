@@ -385,6 +385,9 @@
 **[[:kia:obs|kia OBS]]**
 {{changes>ns=kia:obs&maxage=604800&render=pagelist(header,date,user,nocomments)}}
 
+**[[:kiu:obs|kiu OBS]]**
+{{changes>ns=kiu:obs&maxage=604800&render=pagelist(header,date,user,nocomments)}}
+
 **[[:kkl:obs|kkl OBS]]**
 {{changes>ns=kkl:obs&maxage=604800&render=pagelist(header,date,user,nocomments)}}
 
