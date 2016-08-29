@@ -14,7 +14,7 @@ Ahab was a very evil king who reigned over the northern kingdom of Israel from 8
 
 ===== Bible References: =====
 
-{{topic>:en:bible?ahab&nocomments}}
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* ahab(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}
 
 
 ===== Examples from the Bible stories: =====
