@@ -15,7 +15,10 @@ Jehoiada was a priest who helped hide and protect King Ahaziah's son Joash until
 
 ===== Bible References: =====
 
-{{topic>:en:bible?jahoiada&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* jehoiada(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}
+
+
+~~DISCUSSION~~
 
 ~~NOCACHE~~
 
