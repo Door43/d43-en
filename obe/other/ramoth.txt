@@ -15,7 +15,10 @@ Ramoth was an important city in the mountains of Gilead near the Jordan River. I
 
 ===== Bible References: =====
 
-{{topic>ramoth&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* ramoth(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}
+
+
+~~DISCUSSION~~
 
 ~~NOCACHE~~
 
