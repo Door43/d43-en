@@ -12,7 +12,10 @@ Shimei is the name of several men in the Old Testament.
 
 ===== Bible References: =====
 
-{{topic>shimei&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* shimei(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}
+
+
+~~DISCUSSION~~
 
 ~~NOCACHE~~
 
