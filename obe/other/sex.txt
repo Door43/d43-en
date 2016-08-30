@@ -19,7 +19,10 @@ In the Bible, these terms are euphemisms that refer to having sexual intercourse
 
 ===== Bible References: =====
 
-{{topic>:en:bible?know&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* sex(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}
+
+
+~~DISCUSSION~~
 
 ~~NOCACHE~~
 
