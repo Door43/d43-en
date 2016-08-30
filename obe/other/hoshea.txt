@@ -15,7 +15,11 @@ Hoshea was the name of a king of Israel and several other men in the Old Testame
 
 ===== Bible References: =====
 
-{{topic>hoshea&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* hoshea(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}
+
+{{topic>hoshea&nocomments}}
+
+~~DISCUSSION~~
 
 ~~NOCACHE~~
 
