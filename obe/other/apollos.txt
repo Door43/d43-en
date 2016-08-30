@@ -14,7 +14,8 @@ Apollos was a Jew from the city of Alexandria in Egypt who had a special ability
 
 ===== Bible References: =====
 
-{{topic>:en:bible?apollos&nocomments}}
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* apollos(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}
+
 
 ~~DISCUSSION~~
 
