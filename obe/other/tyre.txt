@@ -17,8 +17,7 @@ Tyre was an ancient Canaanite city on the coast of the Mediterranean Sea in what
 
 ===== Bible References: =====
 
-
-{{topic>:en:bible?tyre&nocomments}}
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* tyre(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}
 
 
 ~~DISCUSSION~~
