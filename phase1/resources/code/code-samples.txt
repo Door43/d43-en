@@ -90,7 +90,7 @@ Find possible missing AT: markers (places with ."[a-z]
 {{door43pages @:en:bible:notes -r -q="[^ ]\x22[a-zA-z]" -exclude:home -simpleLineBreak -title -fontsize="90%"}}
 </code>
 
-Find Bible Reference tagnames in any position in tag code:
+Find tagname in any position in tag code:
 
 <code>
 {{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* tagname(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}
