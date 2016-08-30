@@ -14,7 +14,10 @@ Lebanon is a beautiful mountainous region located along the coast of the Mediter
 
 ===== Bible References: =====
 
-{{topic>lebanon&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* lebanon(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}
+
+
+~~DISCUSSION~~
 
 ~~NOCACHE~~
 
