@@ -16,8 +16,7 @@ Sidon was the oldest son of Canaan. There is also a Canaanite city called Sidon,
 
 ===== Bible References: =====
 
-
-{{topic>:en:bible?sidon&nocomments}}
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* sidon(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}
 
 
 ~~DISCUSSION~~
