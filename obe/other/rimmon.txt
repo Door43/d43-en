@@ -16,7 +16,10 @@ Rimmon is the name of a man and of several places mentioned in the Bible. It was
 
 ===== Bible References: =====
 
-{{topic>rimmon&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* rimmon(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}
+
+
+~~DISCUSSION~~
 
 ~~NOCACHE~~
 
