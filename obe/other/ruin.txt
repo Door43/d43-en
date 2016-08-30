@@ -11,7 +11,7 @@ To "ruin" something means to spoil, destroy, or cause to be useless. The term "r
 
 ===== Bible References: =====
 
-{{topic>ruin&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* ruin(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

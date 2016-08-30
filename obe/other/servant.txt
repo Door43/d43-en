@@ -19,7 +19,7 @@ The word for "servant" can also mean "slave" and refers to a person who works fo
 
 ===== Bible References: =====
 
-{{topic>:en:bible?servant&nocomments}}
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* servant(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}
 
 
 ===== Examples from the Bible stories: =====

@@ -20,7 +20,7 @@ The term "adultery" refers to a sin that involves a married person having sexual
 
 ===== Bible References: =====
 
-{{topic>:en:bible?adultery&nocomments}}
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* adultery(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}
 
 ===== Examples from the Bible stories: =====
 

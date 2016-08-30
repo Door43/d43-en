@@ -13,7 +13,7 @@ The term "desecrate" means to damage or contaminate a sacred place or object in 
 
 ===== Bible References: =====
 
-{{topic>:en:bible?desecrate&nocomments}}
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* desecrate(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}
 
 ~~DISCUSSION~~
 

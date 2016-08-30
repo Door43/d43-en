@@ -19,7 +19,7 @@ Elijah was one of the most important prophets of Yahweh. Elijah prophesied durin
 ===== Bible References: =====
 
 
-{{topic>:en:bible?elijah&nocomments}}
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* elijah(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}
 
 ===== Examples from the Bible stories: =====
 

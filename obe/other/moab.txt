@@ -14,7 +14,7 @@ Moab was the son of Lot's elder daughter. It also became the name of the land wh
 
 ===== Bible References: =====
 
-{{topic>:en:bible?moab&nocomments}}
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* moab(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}
 
 ~~DISCUSSION~~
 

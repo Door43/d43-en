@@ -13,7 +13,7 @@ The term "slay" means to kill a person or animal. Often it means to kill in a fo
 
 ===== Bible References: =====
 
-{{topic>slain&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* slain(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

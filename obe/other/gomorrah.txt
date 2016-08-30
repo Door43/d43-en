@@ -15,7 +15,7 @@ Gomorrah was a city located in a fertile valley, near Sodom where Abraham's neph
 
 ===== Bible References: =====
 
-{{topic>:en:bible?gomorrah&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* gomorrah(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

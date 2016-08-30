@@ -14,7 +14,7 @@ To dedicate is to set apart or commit something for a special purpose or functio
 
 ===== Bible References: =====
 
-{{topic>dedicate&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* dedicate(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

@@ -13,7 +13,7 @@ A false prophet is a person who wrongly claims that his message comes from God.
 
 ===== Bible References: =====
 
-{{topic>:en:bible?falseprophet&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* falseprophet(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

@@ -18,7 +18,7 @@ The term "city of David" is another name for both Jerusalem and Bethlehem.
 ===== Bible References: =====
 
 
-{{topic>:en:bible?cityofdavid&nocomments}}
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* cityofdavid(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}
 
 
 ~~DISCUSSION~~

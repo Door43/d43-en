@@ -13,7 +13,7 @@ Tamar is the name of several women in the Old Testament. It is also the name of 
 
 ===== Bible References: =====
 
-{{topic>:en:bible?tamar&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* tamar(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

@@ -14,7 +14,7 @@ The term "scepter" refers to an ornamental rod or staff held by a ruler, such as
 
 ===== Bible References: =====
 
-{{topic>scepter&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* scepter(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

@@ -15,7 +15,7 @@ Gibeon was a city that was located about 13 kilometers northwest of Jerusalem. T
 ===== Bible References: =====
 
 
-{{topic>:en:bible?gibeon&nocomments}}
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* gibeon(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}
 
 ===== Examples from the Bible stories: =====
 

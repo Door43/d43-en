@@ -12,4 +12,4 @@ A desert, or wilderness, is a dry, barren place where very few plants and trees 
 
 ===== Bible References: =====
 
-{{topic>:en:bible?desert&nocomments}}~~DISCUSSION~~{{tag>publish}}
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* desert(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~{{tag>publish}}

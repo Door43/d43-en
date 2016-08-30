@@ -13,7 +13,7 @@ To seal an object means to keep it closed with something that makes it impossibl
 
 ===== Bible References: =====
 
-{{topic>seal&nocomments}}
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* seal(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}
 
 ~~DISCUSSION~~
 

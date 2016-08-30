@@ -22,6 +22,6 @@ The term, "the elect" literally means "chosen ones" or "chosen people" and refer
 
 ===== Bible References: =====
 
-{{topic>:en:bible?elect&nocomments}}~~DISCUSSION~~{{tag>publish}}
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* elect(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~{{tag>publish}}
 
 ~~NOCACHE~~

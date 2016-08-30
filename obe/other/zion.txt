@@ -13,7 +13,7 @@ Originally, the term "Zion" or "Mount Zion" referred to a stronghold or fortress
 
 ===== Bible References: =====
 
-{{topic>:en:bible?zion&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* zion(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

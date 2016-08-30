@@ -12,7 +12,7 @@ A robe is an outer garment with long sleeves that can be worn by both men and wo
 
 ===== Bible References: =====
 
-{{topic>robe&nocomments}}
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* robe(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}
 
 ~~DISCUSSION~~
 

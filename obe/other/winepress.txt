@@ -11,7 +11,7 @@ In the Bible, a winepress was a place where the juice of grapes was extracted in
 
 ===== Bible References: =====
 
-{{topic>winepress&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* winepress(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

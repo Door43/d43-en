@@ -20,7 +20,7 @@ Wine a kind of fermented drink made from the juice of a fruit called grapes. Win
 ===== Bible References: =====
 
 
-{{topic>:en:bible?wine&nocomments}}
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* wine(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}
 
 
 ~~DISCUSSION~~

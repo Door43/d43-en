@@ -13,7 +13,7 @@ Gilead is the name of a mountainous region east of the Jordan river, where the I
 
 ===== Bible References: =====
 
-{{topic>gilead&nocomments}}
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* gilead(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}
 
 ~~DISCUSSION~~
 

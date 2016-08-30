@@ -18,7 +18,7 @@ The term "census" refers to a formal counting of the number of people in a natio
 
 ===== Bible References: =====
 
-{{topic>census&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* census(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

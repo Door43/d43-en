@@ -20,7 +20,7 @@ The term "sexual immorality" refers to sexual activity that takes place outside 
 
 ===== Bible References: =====
 
-{{topic>:en:bible?fornication&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* fornication(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

@@ -16,7 +16,7 @@ When used figuratively in the Bible, "clothed with" means to be endowed or equip
 
 ===== Bible References: =====
 
-{{topic>:en:bible?clothed&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* clothed(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

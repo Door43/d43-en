@@ -18,7 +18,7 @@ The term "detestable" describes something that should be disliked and rejected. 
 
 ===== Bible References: =====
 
-{{topic>:en:bible?detestable&nocomments}}
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* detestable(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}
 
 ~~DISCUSSION~~
 

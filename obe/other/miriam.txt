@@ -17,7 +17,7 @@ Miriam was the older sister of Aaron and Moses.
 
 ===== Bible References: =====
 
-{{topic>miriam&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* miriam(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

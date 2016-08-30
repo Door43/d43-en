@@ -9,7 +9,7 @@ The term "doom" refers to a judgment of condemnation with no possibility of appe
 
 ===== Bible References: =====
 
-{{topic>doom&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* doom(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

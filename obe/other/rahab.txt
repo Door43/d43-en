@@ -15,7 +15,7 @@ Rahab was a woman who lived in Jericho when Israel attacked the city. She was a 
 
 ===== Bible References: =====
 
-{{topic>:en:bible?rahab&nocomments}}
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* rahab(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}
 
 
 ===== Examples from the Bible stories: =====

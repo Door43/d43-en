@@ -12,7 +12,7 @@ A staff is a long wooden stick or rod that was often used as a walking stick.
 
 ===== Bible References: =====
 
-{{topic>:en:bible?staff&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* staff(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

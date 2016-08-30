@@ -23,7 +23,7 @@ Mary was a young woman living in the city of Nazareth who was pledged to be marr
 ===== Bible References: =====
 
 
-{{topic>:en:bible?mary&nocomments}}
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* mary(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}
 
 ===== Examples from the Bible stories: =====
 

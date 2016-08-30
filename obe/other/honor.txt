@@ -20,7 +20,7 @@ The terms "honor" and "to honor" refer to giving someone respect, esteem, or rev
 
 ===== Bible References: =====
 
-{{topic>honor&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* honor(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

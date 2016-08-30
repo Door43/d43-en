@@ -14,7 +14,7 @@ This term usually refers to small or large lumps of frozen water that fall from 
 
 ===== Bible References: =====
 
-{{topic>hail&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* hail(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

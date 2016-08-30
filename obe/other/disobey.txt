@@ -14,7 +14,7 @@ The term "disobey" means to not obey what someone in authority has commanded or 
 
 ===== Bible References: =====
 
-{{topic>:en:bible?disobey&nocomments}}
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* disobey(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}
 
 ===== Examples from the Bible stories: =====
 

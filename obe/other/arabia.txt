@@ -16,7 +16,7 @@ Arabia is the largest peninsula in the world, covering nearly 3,000,000 square k
 
 ===== Bible References: =====
 
-{{topic>:en:bible?arabia&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* arabia(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

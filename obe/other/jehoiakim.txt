@@ -16,7 +16,7 @@ Jehoiakim was an evil king who reigned over the kingdom of Judah, beginning arou
 
 ===== Bible References: =====
 
-{{topic>jehoiakim&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* jehoiakim(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

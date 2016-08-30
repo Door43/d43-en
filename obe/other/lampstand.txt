@@ -17,7 +17,7 @@ In the Bible, the term "lampstand" generally refers to a structure on which a la
 
 ===== Bible References: =====
 
-{{topic>:en:bible?lampstand&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* lampstand(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

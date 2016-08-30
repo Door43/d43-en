@@ -19,7 +19,7 @@ The term "confidence" refers to being sure that something is true or certain to 
 
 ===== Bible References: =====
 
-{{topic>confidence&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* confidence(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

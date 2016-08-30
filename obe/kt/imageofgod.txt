@@ -16,7 +16,7 @@ The term "image" refers to something that looks like something else or that is l
 
 ===== Bible References: =====
 
-{{topic>:en:bible?imageofgod&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* imageofgod(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

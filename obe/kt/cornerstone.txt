@@ -19,7 +19,7 @@ The term "cornerstone" refers to a large stone that has been specially cut and p
 
 ===== Bible References: =====
 
-{{topic>cornerstone&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* cornerstone(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

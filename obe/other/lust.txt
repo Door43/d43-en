@@ -1,4 +1,4 @@
-====== lust, lustful ======
+====== lust ======
 
 ===== Definition: =====
 
@@ -14,7 +14,7 @@ Lust is a very strong desire, usually in the context of wanting something sinful
 
 ===== Bible References: =====
 
-{{topic>:en:bible?lust&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* lust(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

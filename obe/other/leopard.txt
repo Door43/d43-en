@@ -16,7 +16,7 @@ A leopard is a large, cat-like, wild animal that is brown with black spots.
 
 ===== Bible References: =====
 
-{{topic>leopard&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* leopard(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

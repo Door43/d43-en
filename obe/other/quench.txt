@@ -13,7 +13,7 @@ The term "quench" means to put out or stop something that is demanding to be sat
 
 ===== Bible References: =====
 
-{{topic>quench&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* quench(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

@@ -13,7 +13,7 @@ Gibeah is the name of a city that was located north of Jerusalem and south of Be
 
 ===== Bible References: =====
 
-{{topic>:en:bible?gibeah&nocomments}}
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* gibeah(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}
 
 ~~DISCUSSION~~
 

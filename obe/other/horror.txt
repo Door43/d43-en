@@ -11,7 +11,7 @@ The term "horror" refers to a very intense feeling of fear or terror. The person
 
 ===== Bible References: =====
 
-{{topic>:en:bible?horror&nocomments}}
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* horror(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}
 
 ~~DISCUSSION~~
 

@@ -17,7 +17,7 @@ During New Testament times, Greek was the language spoken in Greece and througho
 
 ===== Bible References: =====
 
-{{topic>:en:bible?greek&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* greek(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

@@ -22,7 +22,7 @@ The term "king" refers to a man who is the supreme ruler of a city, state, or co
 ===== Bible References: =====
 
 
-{{topic>:en:bible?king&nocomments}}
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* king(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}
 
 ===== Examples from the Bible stories: =====
 

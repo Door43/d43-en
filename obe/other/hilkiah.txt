@@ -14,7 +14,7 @@ Hilkiah was the name of the high priest during the reign of King Josiah.
 
 ===== Bible References: =====
 
-{{topic>:en:bible?hilkiah&nocomments}}
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* hilkiah(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}
 
 ~~DISCUSSION~~
 

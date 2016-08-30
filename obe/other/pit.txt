@@ -15,7 +15,7 @@ A pit is a deep hole that has been dug in the ground.
 
 ===== Bible References: =====
 
-{{topic>pit&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* pit(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

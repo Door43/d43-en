@@ -13,4 +13,4 @@ In ancient times, a scroll was a type of book made of one long, rolled-up sheet 
 
 ===== Bible References: =====
 
-{{topic>:en:bible?scroll&nocomments}}~~DISCUSSION~~{{tag>publish}}
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* scroll(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~{{tag>publish}}

@@ -24,7 +24,7 @@ The term "generation" refers to a group of people who were all born around the s
 ===== Bible References: =====
 
 
-{{topic>:en:bible?generation&nocomments}}
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* generation(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}
 
 
 ~~DISCUSSION~~

@@ -19,7 +19,7 @@ The terms "predestine" and "predestined" refer to deciding or planning beforehan
 
 ===== Bible References: =====
 
-{{topic>predestine&nocomments}}
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* predestine(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}
 
 ~~DISCUSSION~~
 

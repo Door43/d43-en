@@ -18,7 +18,7 @@ There are several rulers named Herod in the Bible. Herod the Great was a non-Jew
 ===== Bible References: =====
 
 
-{{topic>:en:bible?herodthegreat&nocomments}}
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* herodthegreat(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}
 
 
 ~~DISCUSSION~~

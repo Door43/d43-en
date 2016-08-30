@@ -16,7 +16,7 @@ The terms "zeal" and "zealous" refer to being strongly devoted to supporting a p
 
 ===== Bible References: =====
 
-{{topic>:en:bible?zealous&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* zealous(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

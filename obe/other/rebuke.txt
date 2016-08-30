@@ -15,7 +15,7 @@ To rebuke is to give someone a stern verbal correction, often in order to help t
 
 ===== Bible References: =====
 
-{{topic>:en:bible?rebuke&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* rebuke(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

@@ -14,7 +14,7 @@ The term "family" refers to a group of people who are related by blood and usual
 
 ===== Bible References: =====
 
-{{topic>family&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* family(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

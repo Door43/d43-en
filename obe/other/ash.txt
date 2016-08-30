@@ -18,7 +18,7 @@ The term "ash" or "ashes" refers to the grey powdery substance that is left behi
 
 ===== Bible References: =====
 
-{{topic>:en:bible?ash&nocomments}}
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* ash(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}
 
 ~~DISCUSSION~~
 

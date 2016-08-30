@@ -17,7 +17,7 @@ In the Bible, the term "beast" is often just another way of saying "animal."
 
 ===== Bible References: =====
 
-{{topic>beast&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* beast(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

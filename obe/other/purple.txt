@@ -17,7 +17,7 @@ The term "purple" is the name of a color that is a mixture of blue and red.
 
 ===== Bible References: =====
 
-{{topic>purple&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* purple(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

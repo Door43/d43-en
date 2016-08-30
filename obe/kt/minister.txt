@@ -23,7 +23,7 @@ In the Bible, the terms "minister" and "ministry" refer to serving others by tea
 
 ===== Bible References: =====
 
-{{topic>:en:bible?minister&nocomments}}
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* minister(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}
 
 ~~DISCUSSION~~
 

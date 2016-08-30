@@ -20,7 +20,7 @@ Some time after Jesus went back to heaven, people made up the name "Christian" w
 
 ===== Bible References: =====
 
-{{topic>:en:bible?christian&nocomments}}
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* christian(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}
 
 ===== Examples from the Bible stories: =====
 

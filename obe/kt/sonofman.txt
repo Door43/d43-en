@@ -23,4 +23,4 @@ The title, "Son of Man" was used by Jesus to refer to himself. He often used thi
 
 ===== Bible References: =====
 
-{{topic>:en:bible?sonofman&nocomments}}~~DISCUSSION~~{{tag>publish ktlink}
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* sonofman(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~{{tag>publish ktlink}

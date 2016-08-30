@@ -14,7 +14,7 @@
 
 ===== Bible References: =====
 
-{{topic>:en:bible?sarah&nocomments}}
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* sarah(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}
 
 
 ===== Examples from the Bible stories: =====

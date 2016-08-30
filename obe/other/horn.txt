@@ -16,7 +16,7 @@ Horns are permanent, hard, pointed growths on the heads of many types of animals
 
 ===== Bible References: =====
 
-{{topic>:en:bible?horn&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* horn(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

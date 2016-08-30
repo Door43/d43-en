@@ -22,7 +22,7 @@ Sackcloth was a coarse, scratchy type of cloth that was made out of goat hair or
 
 ===== Bible References: =====
 
-{{topic>:en:bible?sackcloth&nocomments}}
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* sackcloth(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}
 
 ~~DISCUSSION~~
 

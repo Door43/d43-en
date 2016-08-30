@@ -17,7 +17,7 @@ The chief priests were important Jewish religious leaders during the time that J
 
 ===== Bible References: =====
 
-{{topic>:en:bible?chiefpriests&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* chiefpriests(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

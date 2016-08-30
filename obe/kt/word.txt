@@ -19,4 +19,4 @@ A "word" refers to something that someone has said.
 
 ===== Bible References: =====
 
-{{topic>:en:bible?word&nocomments}}~~DISCUSSION~~{{tag>publish}}
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* word(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~{{tag>publish}}

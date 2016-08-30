@@ -23,4 +23,4 @@ The term, "sons of God" is a figurative expression that has several possible mea
 
 ===== Bible References: =====
 
-{{topic>:en:bible?sonsofgod&nocomments}}~~DISCUSSION~~{{tag>publish}}
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* sonsofgod(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~{{tag>publish}}

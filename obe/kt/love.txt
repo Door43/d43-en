@@ -33,7 +33,7 @@ To love another person is to care for that person and do things that will benefi
 
 ===== Bible References: =====
 
-{{topic>:en:bible?love&nocomments}}
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* love(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}
 
 ===== Examples from the Bible stories: =====
 

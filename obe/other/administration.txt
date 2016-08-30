@@ -18,7 +18,7 @@ The terms "administration" and "administrator" refer to managing or governing of
 
 ===== Bible References: =====
 
-{{topic>administration&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* administration(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

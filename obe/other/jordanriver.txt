@@ -15,7 +15,7 @@ The Jordan River is a river that flows from north to south, and forms the easter
 ===== Bible References: =====
 
 
-{{topic>:en:bible?jordanriver&nocomments}}
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* jordanriver(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}
 
 
 ===== Examples from the Bible stories: =====

@@ -18,7 +18,7 @@ The altar of incense was a piece of furniture on which a priest would burn incen
 ===== Bible References: =====
 
 
-{{topic>:en:bible?altarofincense&nocomments}}
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* altarofincense(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}
 
 
 ~~DISCUSSION~~

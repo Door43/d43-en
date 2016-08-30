@@ -18,7 +18,7 @@ The terms "uncircumcised" and "uncircumcision" refer to a male who has not been 
 
 ===== Bible References: =====
 
-{{topic>:en:bible?uncircumcised&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* uncircumcised(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

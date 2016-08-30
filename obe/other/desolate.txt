@@ -16,7 +16,7 @@ The terms "desolate" and "desolation" refer to destroying an inhabited region so
 
 ===== Bible References: =====
 
-{{topic>desolate&nocomments}}
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* desolate(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}
 
 ~~DISCUSSION~~
 

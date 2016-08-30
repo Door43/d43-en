@@ -13,7 +13,7 @@ The term "palace" refers to the building or house where a king lived, along with
 
 ===== Bible References: =====
 
-{{topic>palace&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* palace(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

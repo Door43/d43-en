@@ -15,7 +15,7 @@ Pentecost is the Greek name for the Festival of Weeks, which was a Jewish festiv
 
 ===== Bible References: =====
 
-{{topic>:en:bible?pentecost&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* pentecost(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

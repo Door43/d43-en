@@ -14,7 +14,7 @@ Bartholomew was one of Jesus' twelve apostles.
 
 ===== Bible References: =====
 
-{{topic>:en:bible?bartholomew&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* bartholomew(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

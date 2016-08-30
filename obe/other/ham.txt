@@ -13,7 +13,7 @@ Ham was the second of Noah's three sons.
 
 ===== Bible References: =====
 
-{{topic>:en:bible?ham&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* ham(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

@@ -13,7 +13,7 @@ The term "foreigner" refers to a person living in a country that is not his own.
 
 ===== Bible References: =====
 
-{{topic>:en:bible?foreigner&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* foreigner(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

@@ -16,7 +16,7 @@ Rehoboam was one of the sons of King Solomon, and became the king of the nation 
 
 ===== Bible References: =====
 
-{{topic>:en:bible?rehoboam&nocomments}}
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* rehoboam(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}
 
 
 ===== Examples from the Bible stories: =====

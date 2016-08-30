@@ -20,4 +20,4 @@ The soul is the inner, invisible, and eternal part of a person. It refers to the
 
 ===== Bible References: =====
 
-{{topic>:en:bible?soul&nocomments}}~~DISCUSSION~~{{tag>publish}}
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* soul(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~{{tag>publish}}

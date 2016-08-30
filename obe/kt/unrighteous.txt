@@ -20,7 +20,7 @@ The term "unrighteous" means to be sinful and morally corrupt. "Unrighteousness"
 
 ===== Bible References: =====
 
-{{topic>:en:bible?unrighteous&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* unrighteous(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

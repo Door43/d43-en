@@ -24,7 +24,7 @@ The term "to rest" literally means to stop working in order to relax or regain s
 
 ===== Bible References: =====
 
-{{topic>:en:bible?rest&nocomments}}
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* rest(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}
 
 ~~DISCUSSION~~
 

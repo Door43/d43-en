@@ -19,7 +19,7 @@ To "enslave" someone means to force that person to serve a master or a ruling co
 
 ===== Bible References: =====
 
-{{topic>:en:bible?enslave&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* enslave(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

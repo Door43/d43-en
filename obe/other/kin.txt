@@ -10,4 +10,4 @@ The term "kin" refers to a person's blood relative. The word "kinsman" refers sp
  
 ===== Bible References: =====
 
-{{topic>:en:bible?kin&nocomments}}~~DISCUSSION~~{{tag>publish}}
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* kin(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~{{tag>publish}}

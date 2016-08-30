@@ -14,7 +14,7 @@ The term "to fast" means to stop eating food for a period of time, such as for a
 
 ===== Bible References: =====
 
-{{topic>:en:bible?fast&nocomments}}
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* fast(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}
 
 ===== Examples from the Bible stories: =====
 

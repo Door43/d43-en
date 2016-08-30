@@ -14,7 +14,7 @@ The terms "warrior" and "soldier" both can refer to someone who fights in an arm
 
 ===== Bible References: =====
 
-{{topic>:en:bible?warrior&nocomments}}
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* warrior(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}
 
 ~~DISCUSSION~~
 

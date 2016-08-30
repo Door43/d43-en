@@ -14,7 +14,7 @@ The term "shame" refers to a painful feeling of being disgraced a person has bec
 
 ===== Bible References: =====
 
-{{topic>shame&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* shame(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

@@ -15,7 +15,7 @@ Hannah was the mother of the prophet Samuel. She was one of two wives of Elkanah
 
 ===== Bible References: =====
 
-{{topic>:en:bible?hannah&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* hannah(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

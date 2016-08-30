@@ -18,7 +18,7 @@ The term "forsake" means to abandon someone or to give up something. Someone who
 
 ===== Bible References: =====
 
-{{topic>:en:bible?forsaken&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* forsaken(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

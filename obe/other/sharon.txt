@@ -14,7 +14,7 @@ Sharon was the name of a flat, fertile area of land along the coast of the Medit
 
 ===== Bible References: =====
 
-{{topic>:en:bible?sharon&nocomments}}
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* sharon(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}
 
 ~~DISCUSSION~~
 

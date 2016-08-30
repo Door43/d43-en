@@ -18,7 +18,7 @@ The term "fulfill" means to complete or accomplish something that was expected.
 
 ===== Bible References: =====
 
-{{topic>:en:bible?fulfill&nocomments}}
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* fulfill(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}
 
 ===== Examples from the Bible stories: =====
 

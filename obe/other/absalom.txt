@@ -15,7 +15,7 @@ Absalom was the third son of King David. He was known for his handsome appearanc
 
 ===== Bible References: =====
 
-{{topic>:en:bible?absalom&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* absalom(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

@@ -15,7 +15,7 @@ The terms "thresh" and "threshing" refer to the process of separating wheat grai
 
 ===== Bible References: =====
 
-{{topic>thresh&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* thresh(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

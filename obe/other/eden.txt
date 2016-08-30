@@ -15,7 +15,7 @@ In ancient times, Eden was a region that had a garden where God placed the first
 
 ===== Bible References: =====
 
-{{topic>:en:bible?eden&nocomments}}
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* eden(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}
 
 ~~DISCUSSION~~
 

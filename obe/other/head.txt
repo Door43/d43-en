@@ -24,7 +24,7 @@ In the Bible, the word "head" is used with several figurative meanings.
 
 ===== Bible References: =====
 
-{{topic>:en:bible?head&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* head(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

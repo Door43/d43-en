@@ -16,7 +16,7 @@ In New Testament times, Colossae was a city located in the Roman province of Phr
 
 ===== Bible References: =====
 
-{{topic>:en:bible?colossae&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* colossae(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

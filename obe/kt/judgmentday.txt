@@ -17,4 +17,4 @@ The term,"judgment day" refers to a future time when God will judge every person
 
 ===== Bible References: =====
 
-{{topic>:en:bible?judgmentday&nocomments}}{{tag>publish}}
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* judgmentday(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}{{tag>publish}}

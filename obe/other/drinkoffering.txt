@@ -16,7 +16,7 @@ A drink offering was a sacrifice to God that involved pouring wine on an altar. 
 
 ===== Bible References: =====
 
-{{topic>:en:bible?drinkoffering&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* drinkoffering(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

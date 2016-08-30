@@ -18,7 +18,7 @@ The term "to command" means to order someone to do something. A "command" or "co
 
 ===== Bible References: =====
 
-{{topic>command&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* command(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

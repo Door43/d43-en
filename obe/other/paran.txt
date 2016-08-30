@@ -16,7 +16,7 @@ Paran was a desert or wilderness area east of Egypt and south of the land of Can
 
 ===== Bible References: =====
 
-{{topic>:en:bible?paran&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* paran(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

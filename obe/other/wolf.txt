@@ -19,7 +19,7 @@ A wolf is a fierce meat-eating animal that is similar to a wild dog.
 
 ===== Bible References: =====
 
-{{topic>:en:bible?wolf&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* wolf(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

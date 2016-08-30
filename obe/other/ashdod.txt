@@ -14,7 +14,7 @@ Ashdod was one of the five most important cities of the Philistines. It was loca
 
 ===== Bible References: =====
 
-{{topic>:en:bible?ashdod&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* ashdod(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

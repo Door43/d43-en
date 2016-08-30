@@ -26,7 +26,7 @@ The term "hard" has several different meanings depending on the context. It usua
 
 ===== Bible References: =====
 
-{{topic>hard&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* hard(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

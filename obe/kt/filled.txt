@@ -17,6 +17,6 @@ The term "filled with the Spirit" is a figurative expression that means that the
 
 ===== Bible References: =====
 
-{{topic>:en:bible?filled&nocomments}}~~DISCUSSION~~{{tag>publish}}
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* filled(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~{{tag>publish}}
 
 ~~NOCACHE~~

@@ -15,7 +15,7 @@ During Bible times, Gaza was a prosperous Philistine city located on the coast o
 
 ===== Bible References: =====
 
-{{topic>:en:bible?gaza&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* gaza(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

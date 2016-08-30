@@ -13,7 +13,7 @@ The terms "tenth" or "tithe" refer to a ten percent portion of one's money, crop
 
 ===== Bible References: =====
 
-{{topic>:en:bible?tenth&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* tenth(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

@@ -14,7 +14,7 @@ The terms "conceive" and "conception" usually refer to becoming pregnant with a 
 
 ===== Bible References: =====
 
-{{topic>:en:bible?conceive&nocomments}}
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* conceive(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}
 
 ~~DISCUSSION~~
 

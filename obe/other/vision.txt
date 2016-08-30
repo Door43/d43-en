@@ -20,7 +20,7 @@ The term "vision" refers to something that a person sees. It especially refers t
 ===== Bible References: =====
 
 
-{{topic>:en:bible?vision&nocomments}}
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* vision(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}
 
 
 ~~DISCUSSION~~

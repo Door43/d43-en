@@ -19,7 +19,7 @@ A crown is a decorative, circular headpiece worn on the head of rulers such as k
 
 ===== Bible References: =====
 
-{{topic>crown&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* crown(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

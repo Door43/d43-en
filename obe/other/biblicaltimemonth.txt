@@ -11,7 +11,7 @@ The term "month" refers to a period of time lasting about four weeks. The number
 
 ===== Bible References: =====
 
-{{topic>:en:bible?biblicaltimemonth&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* biblicaltimemonth(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

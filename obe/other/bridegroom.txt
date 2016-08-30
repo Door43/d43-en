@@ -12,4 +12,4 @@ In a marriage ceremony, the bridegroom is the man who will marry the bride.
 
 ===== Bible References: =====
 
-{{topic>:en:bible?bridegroom&nocomments}}~~DISCUSSION~~{{tag>publish}}
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* bridegroom(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~{{tag>publish}}

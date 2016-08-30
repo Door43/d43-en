@@ -24,7 +24,7 @@ All these terms refer to the commandments and instructions that God gave Moses f
 
 ===== Bible References: =====
 
-{{topic>:en:bible?lawofmoses&nocomments}}
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* lawofmoses(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}
 
 ===== Examples from the Bible stories: =====
 

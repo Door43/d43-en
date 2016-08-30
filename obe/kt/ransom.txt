@@ -19,7 +19,7 @@ The term "ransom" refers to a sum of money or other payment that is demanded or 
 
 ===== Bible References: =====
 
-{{topic>:en:bible?ransom&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* ransom(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

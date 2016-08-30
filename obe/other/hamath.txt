@@ -19,7 +19,7 @@ Hamath was an important city in northern Syria, north of the land of Canaan. The
 
 ===== Bible References: =====
 
-{{topic>hamath&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* hamath(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

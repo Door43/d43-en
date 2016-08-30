@@ -19,4 +19,4 @@ The term "serve" means to do things to help other people. It can also mean to "w
 
 ===== Bible References: =====
 
-{{topic>:en:bible?serve&nocomments}}~~DISCUSSION~~{{tag>publish}}
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* serve(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~{{tag>publish}}

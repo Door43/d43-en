@@ -19,7 +19,7 @@ In the Bible, the term "forever" refers to never-ending time. Sometimes it is us
 
 ===== Bible References: =====
 
-{{topic>forever&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* forever(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

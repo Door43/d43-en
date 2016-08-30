@@ -17,7 +17,7 @@ The term "compassion" refers to a feeling of concern for people, especially for 
 
 ===== Bible References: =====
 
-{{topic>compassion&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* compassion(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

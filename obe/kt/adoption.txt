@@ -18,7 +18,7 @@ The term "adoption" refers to the process of someone legally becoming the child 
 
 ===== Bible References: =====
 
-{{topic>:en:bible?adoption&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* adoption(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

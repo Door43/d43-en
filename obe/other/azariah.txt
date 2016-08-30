@@ -15,7 +15,7 @@ Azariah was the name of several men in the Old Testament.
 
 ===== Bible References: =====
 
-{{topic>azariah&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* azariah(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

@@ -21,7 +21,7 @@ A grape is a small, round, smooth-skinned berry fruit that grows in clusters on 
 ===== Bible References: =====
 
 
-{{topic>:en:bible?grape&nocomments}}
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* grape(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}
 
 
 ~~DISCUSSION~~

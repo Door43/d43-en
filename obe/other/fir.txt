@@ -14,7 +14,7 @@ The term "fir" refers to a kind of tree that stays green all year long and that 
 
 ===== Bible References: =====
 
-{{topic>fir&nocomments}}
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* fir(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}
 
 ~~DISCUSSION~~
 

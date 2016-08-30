@@ -14,7 +14,7 @@ Zebulun was the last son born to Jacob and Leah and is the name of one of the tw
 
 ===== Bible References: =====
 
-{{topic>:en:bible?zebulun&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* zebulun(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

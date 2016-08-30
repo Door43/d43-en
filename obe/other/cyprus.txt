@@ -15,7 +15,7 @@ Cyprus is an island in the Mediterranean Sea, about 64 kilometers south of the m
 
 ===== Bible References: =====
 
-{{topic>:en:bible?cyprus&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* cyprus(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

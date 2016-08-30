@@ -12,7 +12,7 @@ The term "cedar" refers to a large fir tree which normally has reddish-brown woo
 
 ===== Bible References: =====
 
-{{topic>cedar&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* cedar(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

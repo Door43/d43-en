@@ -20,7 +20,7 @@ All these terms refer to demons, which are spirit beings that oppose God's will.
 
 ===== Bible References: =====
 
-{{topic>:en:bible?demon&nocomments}}
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* demon(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}
 
 ===== Examples from the Bible stories: =====
 

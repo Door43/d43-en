@@ -18,7 +18,7 @@ The terms "persecute" and "persecution" refer to continually treating a person o
 
 ===== Bible References: =====
 
-{{topic>:en:bible?persecute&nocomments}}
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* persecute(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}
 
 
 ===== Examples from the Bible stories: =====

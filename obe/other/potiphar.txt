@@ -13,7 +13,7 @@ Potiphar was an important official for the pharaoh of Egypt during the time that
 
 ===== Bible References: =====
 
-{{topic>potiphar&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* potiphar(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

@@ -16,7 +16,7 @@ The Hivites were one of seven major people groups living in the land of Canaan.
 
 ===== Bible References: =====
 
-{{topic>hivite&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* hivite(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

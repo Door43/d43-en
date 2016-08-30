@@ -11,7 +11,7 @@ Amnon was the oldest son of King David and his wife Ahinoam.
 
 ===== Bible References: =====
 
-{{topic>:en:bible?amnon&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* amnon(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

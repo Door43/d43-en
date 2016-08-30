@@ -16,7 +16,7 @@ Jeremiah was a prophet of God in the kingdom of Judah. The Old Testament book of
 
 ===== Bible References: =====
 
-{{topic>:en:bible?jeremiah&nocomments}}
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* jeremiah(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}
 
 
 ===== Examples from the Bible stories: =====

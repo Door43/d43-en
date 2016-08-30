@@ -11,7 +11,7 @@ This is a type of weapon that consists of shooting arrows from a stringed bow. I
 
 ===== Bible References: =====
 
-{{topic>bowweapon&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* bowweapon(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

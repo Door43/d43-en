@@ -11,7 +11,7 @@ The term "household" refers to all the people who live together in a house, incl
 
 ===== Bible References: =====
 
-{{topic>:en:bible?household&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* household(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

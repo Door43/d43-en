@@ -17,7 +17,7 @@ The term , "cattle" refers to a kind of large, four-legged farm animal that eats
 
 ===== Bible References: =====
 
-{{topic>cow&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* cow(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

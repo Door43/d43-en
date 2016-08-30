@@ -19,4 +19,4 @@ The term "leprosy" is used in the Bible to refer to several different skin disea
 
 ===== Bible References: =====
 
-{{topic>:en:bible?leprosy&nocomments}}~~DISCUSSION~~{{tag>publish}}
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* leprosy(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~{{tag>publish}}

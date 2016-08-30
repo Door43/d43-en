@@ -11,7 +11,7 @@ A concubine is a woman who is a secondary wife for a man who already has a wife.
 
 ===== Bible References: =====
 
-{{topic>:en:bible?concubine&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* concubine(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

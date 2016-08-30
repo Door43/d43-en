@@ -21,7 +21,7 @@ In the Bible, the term "word of God" refers to anything that God has communicate
 
 ===== Bible References: =====
 
-{{topic>:en:bible?wordofgod&nocomments}}
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* wordofgod(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}
 
 ===== Examples from the Bible stories: =====
 

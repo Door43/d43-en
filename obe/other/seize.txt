@@ -14,7 +14,7 @@ The term "seize" means to take or capture someone or something by force. It can 
 
 ===== Bible References: =====
 
-{{topic>seize&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* seize(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

@@ -14,4 +14,4 @@ The terms "prostitute" and "harlot" both refer to a person who performs sexual a
 
 ===== Bible References: =====
 
-{{topic>:en:bible?prostitute&nocomments}}~~DISCUSSION~~{{tag>publish}}
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* prostitute(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~{{tag>publish}}

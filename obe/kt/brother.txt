@@ -21,4 +21,4 @@ The term "brother" usually refers to a male person who shares at least one biolo
 
 ===== Bible References: =====
 
-{{topic>:en:bible?brother&nocomments}}~~DISCUSSION~~{{tag>publish}}
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* brother(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~{{tag>publish}}

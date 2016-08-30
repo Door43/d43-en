@@ -20,7 +20,7 @@ These terms refer to treating people fairly according to God's laws. Human laws 
 
 ===== Bible References: =====
 
-{{topic>:en:bible?justice&nocomments}}
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* justice(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}
 
 ===== Examples from the Bible stories: =====
 

@@ -19,4 +19,4 @@ The term, "people of God" refers to people whom God has called out from the worl
 (See also: [[:en:obe:other:israel]], [[:en:obe:other:peoplegroup]])
 ===== Bible References: =====
 
-{{topic>:en:bible?peopleofgod&nocomments}}~~DISCUSSION:on~~{{tag>publish}}
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* peopleofgod(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION:on~~{{tag>publish}}

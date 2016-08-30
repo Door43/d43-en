@@ -21,7 +21,7 @@ The term "blood" refers to the red liquid that comes out of a person's skin when
 
 ===== Bible References: =====
 
-{{topic>:en:bible?blood&nocomments}}
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* blood(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}
 
 ===== Examples from the Bible stories: =====
 

@@ -14,7 +14,7 @@ In ancient times, Phoenicia was a wealthy country along the coast of the Mediter
 
 ===== Bible References: =====
 
-{{topic>:en:bible?phonecia&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* phonecia(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

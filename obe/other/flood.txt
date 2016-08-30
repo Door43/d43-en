@@ -20,7 +20,7 @@ The term "flood" literally refers to a large amount of water that completely cov
 
 ===== Bible References: =====
 
-{{topic>:en:bible?flood&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* flood(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

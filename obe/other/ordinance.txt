@@ -12,7 +12,7 @@ An ordinance is a public regulation or law that gives rules or instructions for 
 
 ===== Bible References: =====
 
-{{topic>ordinance&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* ordinance(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

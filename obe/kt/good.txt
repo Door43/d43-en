@@ -26,7 +26,7 @@ The word "good" has different meanings depending on the context. Many languages 
 
 ===== Bible References: =====
 
-{{topic>:en:bible?good&nocomments}}
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* good(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}
 
 ===== Examples from the Bible stories: =====
 

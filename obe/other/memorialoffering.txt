@@ -16,7 +16,7 @@ The term "memorial" refers to an action or object that causes someone or somethi
 
 ===== Bible References: =====
 
-{{topic>:en:bible?memorialoffering&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* memorialoffering(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

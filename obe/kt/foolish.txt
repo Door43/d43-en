@@ -18,7 +18,7 @@ The term "fool" refers to a person who often makes wrong choices, especially cho
 
 ===== Bible References: =====
 
-{{topic>:en:bible?foolish&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* foolish(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

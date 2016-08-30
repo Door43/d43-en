@@ -17,7 +17,7 @@ The term "high places" refers to the altars and shrines that were used for worsh
 
 ===== Bible References: =====
 
-{{topic>highplaces&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* highplaces(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

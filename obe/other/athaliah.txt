@@ -14,7 +14,7 @@ Athaliah was the evil wife of Jehoram king of Judah. She was the granddaughter o
 
 ===== Bible References: =====
 
-{{topic>:en:bible?athaliah&nocomments}}
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* athaliah(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}
 
 ~~DISCUSSION~~
 

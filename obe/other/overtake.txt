@@ -19,7 +19,7 @@ The term "overtake" and "overtook" refer to gaining control over someone or some
 
 ===== Bible References: =====
 
-{{topic>:en:bible?overtake&nocomments}}
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* overtake(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}
 
 ~~DISCUSSION~~
 

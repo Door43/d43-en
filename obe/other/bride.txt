@@ -11,7 +11,7 @@ A bride is the woman in a wedding ceremony who is getting married to her husband
 
 ===== Bible References: =====
 
-{{topic>bride&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* bride(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

@@ -17,7 +17,7 @@ A "lot" is a marked object that is chosen from among other similar objects as a 
 
 ===== Bible References: =====
 
-{{topic>:en:bible?lots&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* lots(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

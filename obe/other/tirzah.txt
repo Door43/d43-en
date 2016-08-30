@@ -13,7 +13,7 @@ Tirzah was an important Canaanite city and later became one of the temporary cap
 
 ===== Bible References: =====
 
-{{topic>:en:bible?tirzah&nocomments}}
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* tirzah(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}
 
 ~~DISCUSSION~~
 

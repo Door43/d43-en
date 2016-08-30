@@ -20,7 +20,7 @@ John was the son of Zechariah and Elizabeth. Since "John" was a common name, he 
  
 ===== Bible References: =====
 
-{{topic>:en:bible?johnthebaptist&nocomments}}
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* johnthebaptist(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}
 
 ===== Examples from the Bible stories: =====
 

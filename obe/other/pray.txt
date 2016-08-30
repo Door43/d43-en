@@ -18,7 +18,7 @@ The terms "pray" and "prayer" refer to talking with God. This term is also used 
 
 ===== Bible References: =====
 
-{{topic>:en:bible?pray&nocomments}}
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* pray(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}
 
 ===== Examples from the Bible stories: =====
 

@@ -15,7 +15,7 @@ The term "melt" refers to something becoming liquid when it is heated. It is als
 
 ===== Bible References: =====
 
-{{topic>:en:bible?melt&nocomments}}
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* melt(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}
 
 ~~DISCUSSION~~
 

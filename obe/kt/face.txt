@@ -27,7 +27,7 @@ The word "face" literally refers to the front part of a person's head. This term
 
 ===== Bible References: =====
 
-{{topic>:en:bible?face&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* face(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

@@ -18,7 +18,7 @@ To be "faithful" to God means to consistently live according to God's teachings.
 
 ===== Bible References: =====
 
-{{topic>:en:bible?faithful&nocomments}}
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* faithful(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}
 
 ===== Examples from the Bible stories: =====
 

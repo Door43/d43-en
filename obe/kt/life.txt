@@ -34,7 +34,7 @@ All these terms refer to being physically alive, not dead. They are also used fi
 
 ===== Bible References: =====
 
-{{topic>:en:bible?life&nocomments}}
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* life(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}
 
 ===== Examples from the Bible stories: =====
 

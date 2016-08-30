@@ -12,7 +12,7 @@ These terms all refer to having courage and confidence to speak the truth and do
 
 ===== Bible References: =====
 
-{{topic>bold&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* bold(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

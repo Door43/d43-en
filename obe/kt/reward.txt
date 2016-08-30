@@ -17,7 +17,7 @@ The term "reward" refers to what a person receives because of something he has d
 
 ===== Bible References: =====
 
-{{topic>:en:bible?reward&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* reward(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

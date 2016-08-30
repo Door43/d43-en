@@ -16,7 +16,7 @@ The term "to bear" literally means to "carry" something. There are also many fig
 
 ===== Bible References: =====
 
-{{topic>bear&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* bear(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

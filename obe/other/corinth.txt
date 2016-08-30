@@ -16,7 +16,7 @@ Corinth was a city in the country of Greece, about 50 miles west of Athens. The 
 
 ===== Bible References: =====
 
-{{topic>:en:bible?corinth&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* corinth(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

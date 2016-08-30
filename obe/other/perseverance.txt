@@ -13,4 +13,4 @@ The terms "persevere" and "perseverance" refer to continuing to do something eve
 
 ===== Bible References: =====
 
-{{topic>:en:bible?perseverance&nocomments}}~~DISCUSSION~~{{tag>publish}}
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* perseverance(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~{{tag>publish}}

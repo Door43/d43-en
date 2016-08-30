@@ -23,7 +23,7 @@ The term "Son of God" refers to Jesus, the Word of God who came into the world a
 
 ===== Bible References: =====
 
-{{topic>:en:bible?sonofgod&nocomments}}
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* sonofgod(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}
 
 ===== Examples from the Bible stories: =====
 

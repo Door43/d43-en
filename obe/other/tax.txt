@@ -13,7 +13,7 @@ The terms "tax" and "taxes" refer to money or goods that people pay to a governm
 
 ===== Bible References: =====
 
-{{topic>tax&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* tax(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

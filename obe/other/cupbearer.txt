@@ -14,7 +14,7 @@ In Old Testament times, a "cupbearer" was a king's servant who was given the tas
 
 ===== Bible References: =====
 
-{{topic>cupbearer&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* cupbearer(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

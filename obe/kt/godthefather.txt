@@ -20,7 +20,7 @@ The terms, "God the Father" and "heavenly Father" refer to Yahweh, the one true 
 
 ===== Bible References: =====
 
-{{topic>:en:bible?godthefather&nocomments}}
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* godthefather(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}
 
 ===== Examples from the Bible stories: =====
 

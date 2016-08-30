@@ -15,7 +15,7 @@ Samson was one of the judges, or deliverers, of Israel. He was from the tribe of
 
 ===== Bible References: =====
 
-{{topic>samson&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* samson(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

@@ -8,7 +8,7 @@ The term "unprofitable" means to not be useful.
 
 ===== Bible References: =====
 
-{{topic>unprofitable&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* unprofitable(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

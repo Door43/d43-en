@@ -16,7 +16,7 @@ The term "majesty" refers to greatness and splendor, often in relation to the qu
 
 ===== Bible References: =====
 
-{{topic>:en:bible?majesty&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* majesty(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

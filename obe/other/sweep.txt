@@ -15,7 +15,7 @@ The terms "sweep" and "swept" usually refer to a broad, quick movement to remove
 
 ===== Bible References: =====
 
-{{topic>sweep&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* sweep(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

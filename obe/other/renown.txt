@@ -21,4 +21,4 @@ The term "renown" refers to being well-known and having a praiseworthy reputatio
 
 ===== Bible References: =====
 
-{{topic>:en:bible?renown&nocomments}}~~DISCUSSION~~{{tag>publish}}
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* renown(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~{{tag>publish}}

@@ -13,7 +13,7 @@ Tubal was a son of Noah's son, Japheth.
 
 ===== Bible References: =====
 
-{{topic>:en:bible?tubal&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* tubal(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

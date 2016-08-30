@@ -31,7 +31,7 @@ The term "spirit" refers to the non-physical part of people which cannot be seen
 
 ===== Bible References: =====
 
-{{topic>:en:bible?spirit&nocomments}}
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* spirit(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}
 
 ===== Examples from the Bible stories: =====
 

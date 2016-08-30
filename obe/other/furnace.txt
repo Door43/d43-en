@@ -12,7 +12,7 @@ A furnace was a very large oven used for heating objects to a high temperature.
 
 ===== Bible References: =====
 
-{{topic>furnace&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* furnace(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

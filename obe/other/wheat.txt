@@ -19,7 +19,7 @@ Wheat is a type of grass, or grain, that people grow for food.
 ===== Bible References: =====
 
 
-{{topic>:en:bible?wheat&nocomments}}
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* wheat(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}
 
 
 ~~DISCUSSION~~

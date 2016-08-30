@@ -17,7 +17,7 @@ Paddan Aram was the name of a region where Abraham's family lived before moving 
 
 ===== Bible References: =====
 
-{{topic>paddanaram&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* paddanaram(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

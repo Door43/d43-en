@@ -14,7 +14,7 @@ The term "stiff-necked" is an idiom describing people who keep disobeying God an
 
 ===== Bible References: =====
 
-{{topic>:en:bible?stiffnecked&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* stiffnecked(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

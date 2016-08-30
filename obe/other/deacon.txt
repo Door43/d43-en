@@ -13,7 +13,7 @@ A deacon is a person who serves in the local church, helping fellow believers wi
 
 ===== Bible References: =====
 
-{{topic>:en:bible?deacon&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* deacon(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

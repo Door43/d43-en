@@ -15,7 +15,7 @@ In ancient times, the kings who ruled over the country of Egypt were called phar
 
 ===== Bible References: =====
 
-{{topic>:en:bible?pharaoh&nocomments}}
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* pharaoh(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}
 
 ===== Examples from the Bible stories: =====
 

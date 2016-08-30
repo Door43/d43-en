@@ -16,7 +16,7 @@ To "cast out" or "drive out" someone or something means to force that person or 
 
 ===== Bible References: =====
 
-{{topic>:en:bible?castout&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* castout(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

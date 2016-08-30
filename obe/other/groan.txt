@@ -13,7 +13,7 @@ The term "groan" refers to the uttering of a deep, low sound that is caused by p
 
 ===== Bible References: =====
 
-{{topic>:en:bible?groan&nocomments}}
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* groan(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}
 
 ~~DISCUSSION~~
 

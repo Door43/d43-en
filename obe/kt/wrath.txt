@@ -17,7 +17,7 @@ Wrath is an intense anger that is sometimes long-lasting. It especially refers t
 
 ===== Bible References: =====
 
-{{topic>:en:bible?wrath&nocomments}}
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* wrath(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}
 
 ~~DISCUSSION~~
 

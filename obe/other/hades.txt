@@ -22,6 +22,6 @@ The terms "hades" and "sheol" are used in the Bible to refer to death and the pl
 
 ===== Bible References: =====
 
-{{topic>:en:bible?hades&nocomments}}~~DISCUSSION~~{{tag>publish}}
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* hades(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~{{tag>publish}}
 
 ~~NOCACHE~~

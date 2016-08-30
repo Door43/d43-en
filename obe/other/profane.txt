@@ -13,7 +13,7 @@ To profane something means to act in a way that defiles, pollutes, or disrespect
 
 ===== Bible References: =====
 
-{{topic>:en:bible?profane&nocomments}}
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* profane(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}
 
 ~~DISCUSSION~~
 

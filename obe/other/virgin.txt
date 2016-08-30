@@ -13,7 +13,7 @@ A virgin is a woman who has not had sexual relations.
 
 ===== Bible References: =====
 
-{{topic>:en:bible?virgin&nocomments}}
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* virgin(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}
 
 
 ===== Examples from the Bible stories: =====

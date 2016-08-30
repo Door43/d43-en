@@ -20,7 +20,7 @@ The terms "oppress" and "oppression" refer to treating people harshly. An "oppre
 
 ===== Bible References: =====
 
-{{topic>oppress&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* oppress(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

@@ -13,7 +13,7 @@ The term "hour" is often used in the Bible to tell what time of day a certain ev
 
 ===== Bible References: ===== 
 
-{{topic>:en:bible?biblicaltimehour&nocomments}}
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* biblicaltimehour(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}
 
 ~~DISCUSSION~~
 

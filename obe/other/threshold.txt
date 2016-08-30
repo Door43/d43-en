@@ -11,7 +11,7 @@ The "threshold" is the bottom portion of a door. When entering a building, it is
 
 ===== Bible References: =====
 
-{{topic>threshold&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* threshold(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

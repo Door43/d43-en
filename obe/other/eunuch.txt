@@ -12,7 +12,7 @@ Usually the term "eunuch" refers to a man who has been castrated. The term later
 
 ===== Bible References: =====
 
-{{topic>:en:bible?eunuch&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* eunuch(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

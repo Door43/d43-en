@@ -17,7 +17,7 @@ The term "devastated" or "devastation" refers to having one's property or land r
 
 ===== Bible References: =====
 
-{{topic>devastated&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* devastated(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

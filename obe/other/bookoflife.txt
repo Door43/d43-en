@@ -11,7 +11,7 @@ The term "Book of Life" is used to refer to where God has written the names of a
 
 ===== Bible References: =====
 
-{{topic>bookoflife&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* bookoflife(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

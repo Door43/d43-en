@@ -9,7 +9,7 @@ The term "noble" refers to something that is excellent and of high quality. A "n
 
 ===== Bible References: =====
 
-{{topic>noble&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* noble(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

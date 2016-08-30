@@ -17,7 +17,7 @@ This was the name of the first woman. Her name means "life" or "living."
 ===== Bible References: =====
 
 
-{{topic>:en:bible?eve&nocomments}}
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* eve(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}
 
 ===== Examples from the Bible stories: =====
 

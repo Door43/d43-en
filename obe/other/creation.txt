@@ -24,7 +24,7 @@ The term "create" means to make something, or to cause something to be. Whatever
 
 ===== Bible References: =====
 se, "since the creation of the world" means, "since the time when God created the world was created.
-{{topic>:en:bible?creation&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* creation(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

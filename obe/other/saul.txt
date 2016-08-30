@@ -16,7 +16,7 @@ Saul was an Israelite man whom God chose to become the first king of Israel.
 
 ===== Bible References: =====
 
-{{topic>:en:bible?saul&nocomments}}
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* saul(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}
 
 
 ===== Examples from the Bible stories: =====

@@ -21,7 +21,7 @@ In the Bible, the terms "sacrifice" and "offering" refer to special gifts given 
 
 ===== Bible References: =====
 
-{{topic>:en:bible?sacrifice&nocomments}}
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* sacrifice(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}
 
 ===== Examples from the Bible stories: =====
 

@@ -14,7 +14,7 @@ John Mark, also known as "Mark," was one of the men who traveled with Paul on hi
 
 ===== Bible References: =====
 
-{{topic>:en:bible?johnmark&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* johnmark(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

@@ -16,6 +16,6 @@ The term "feast" refers to an event where a group of people eat a very large mea
 
 ===== Bible References: =====
 
-{{topic>:en:bible?feast&nocomments}}~~DISCUSSION~~{{tag>publish}}
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* feast(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~{{tag>publish}}
 
 ~~NOCACHE~~

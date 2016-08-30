@@ -18,7 +18,7 @@ Zechariah was the name of many different men in the Old Testament. Among the mos
 ===== Bible References: =====
 
 
-{{topic>zechariahot&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* zechariahot(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

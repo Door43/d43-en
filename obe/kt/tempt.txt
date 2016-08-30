@@ -20,7 +20,7 @@ To tempt someone is to try to get that person to do something wrong.
 [[:en:obe:kt:sin|sin, sinful, sinner, sinning]], [[:en:obe:kt:test]]) 
 ===== Bible References: =====
 
-{{topic>:en:bible?tempt&nocomments}}
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* tempt(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}
 
 ===== Examples from the Bible stories: =====
 

@@ -13,7 +13,7 @@ Jehoiachin was a king who ruled over the kingdom of Judah.
 
 ===== Bible References: =====
 
-{{topic>jehoiachin&nocomments}}
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* jehoiachin(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}
 
 ~~DISCUSSION~~
 

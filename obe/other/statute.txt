@@ -12,7 +12,7 @@ A statute is a specific written law that provides guidance for people to live by
 
 ===== Bible References: =====
 
-{{topic>statute&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* statute(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

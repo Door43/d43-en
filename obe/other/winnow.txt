@@ -13,4 +13,4 @@ The terms "winnow" and "sift" mean to separate food grain from unwanted material
 
 ===== Bible References: =====
 
-{{topic>:en:bible?winnow&nocomments}}~~DISCUSSION~~{{tag>publish}}
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* winnow(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~{{tag>publish}}

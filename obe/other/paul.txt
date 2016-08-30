@@ -21,7 +21,7 @@ Paul was a leader of the early church who was sent by Jesus to take the good new
 
 ===== Bible References: =====
 
-{{topic>:en:bible?paul&nocomments}}
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* paul(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}
 
 ===== Examples from the Bible stories: =====
 

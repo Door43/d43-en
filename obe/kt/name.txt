@@ -22,4 +22,4 @@ In the Bible, the word "name" is used in several figurative ways.
 
 ===== Bible References: =====
 
-{{topic>:en:bible?name&nocomments}}~~DISCUSSION~~{{tag>publish}}
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* name(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~{{tag>publish}}

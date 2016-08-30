@@ -12,4 +12,4 @@ A kiss is an action in which one person puts his lips to another person's lips o
 
 ===== Bible References: =====
 
-{{topic>:en:bible?kiss&nocomments}}~~DISCUSSION~~{{tag>publish}}
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* kiss(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~{{tag>publish}}

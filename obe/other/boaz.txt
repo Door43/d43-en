@@ -21,7 +21,7 @@ Boaz was an Israelite man who was the husband of Ruth, the great grandfather of 
 ===== Bible References: =====
 
 
-{{topic>:en:bible?boaz&nocomments}}
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* boaz(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}
 
 
 ~~DISCUSSION~~

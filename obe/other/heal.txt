@@ -19,7 +19,7 @@ The terms "heal" and "cure" both mean to cause a sick, wounded, or disabled pers
 ===== Bible References: =====
 
 
-{{topic>:en:bible?heal&nocomments}}
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* heal(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}
 
 ===== Examples from the Bible stories: =====
 

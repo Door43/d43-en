@@ -15,7 +15,7 @@ The terms "lament" and "lamentation" refer to a strong expression of mourning, s
 
 ===== Bible References: =====
 
-{{topic>lament&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* lament(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

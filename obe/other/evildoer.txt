@@ -11,7 +11,7 @@ The term "evildoer" is a general reference to people who do sinful and wicked th
 
 ===== Bible References: =====
 
-{{topic>evildoer&nocomments}}
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* evildoer(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}
 
 ~~DISCUSSION~~
 
