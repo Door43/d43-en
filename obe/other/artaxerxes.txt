@@ -17,7 +17,10 @@ Artaxerxes was a king who reigned over the Persian empire from about 464 to 424 
 
 ===== Bible References: =====
 
-{{topic>artaxerxes&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* artaxerxes(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}
+
+
+~~DISCUSSION~~
 
 ~~NOCACHE~~
 
