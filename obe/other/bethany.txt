@@ -16,6 +16,11 @@ The town of Bethany was located at the base of the eastern slope of the Mount of
 
 ===== Bible References: =====
 
-~~NOCACHE~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* bethany(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}
 
-{{topic>:en:bible?bethany&nocomments}}~~DISCUSSION~~{{tag>publish}}
+
+~~DISCUSSION~~
+
+{{tag>publish}}
+
+~~NOCACHE~~
