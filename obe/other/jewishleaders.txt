@@ -15,11 +15,10 @@ The term "Jewish leaders" or "Jewish authorities" refers to religious leaders su
 (See also: [[:en:obe:other:jew]], [[:en:obe:other:chiefpriests]], [[:en:obe:other:council]], [[:en:obe:kt:highpriest]], [[:en:obe:other:pharisee]], [[:en:obe:kt:priest]], [[:en:obe:other:sadducee]], [[:en:obe:other:scribe]])
 
 
-
 ===== Bible References: =====
 
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* jewishleaders(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}
 
-{{topic>:en:bible?jewishleaders&nocomments}}
 
 ===== Examples from the Bible stories: =====
 
