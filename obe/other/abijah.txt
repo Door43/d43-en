@@ -13,7 +13,10 @@ Abijah was the name of a king of Judah who reigned from 915-913 BC. He was the s
 
 ===== Bible References: =====
 
-{{topic>abijah&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* abijah(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}
+
+
+~~DISCUSSION~~
 
 ~~NOCACHE~~
 
