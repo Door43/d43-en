@@ -13,7 +13,11 @@ Barabbas was a prisoner in Jerusalem at the time when Jesus was arrested.
 (See: [[:en:obe:other:pilate]], [[:en:obe:other:rome]])
 
 
-
 ===== Bible References: =====
 
-{{topic>:en:bible?barabbas&nocomments}}~~DISCUSSION~~{{tag>publish}}
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* barabbas(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}
+
+
+~~DISCUSSION~~
+
+{{tag>publish}}
