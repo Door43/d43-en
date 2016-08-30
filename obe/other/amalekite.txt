@@ -20,7 +20,8 @@ The Amalekites were a nomadic people group who lived throughout the southern par
 
 ===== Bible References: =====
 
-{{topic>amalekite&nocomments}}
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* amalekite(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}
+
 
 ~~DISCUSSION~~
 
