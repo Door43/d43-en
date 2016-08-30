@@ -6,8 +6,6 @@ The script on this page searches for a string of text anywhere in the notes, the
 
 //Note: Special characters and symbols must be preceded by a backslash "\".//
 
+==== Search results: ====
 
-search results:
-
-
-{{door43pages @:en:obey -r -q="\{\{topic\>" -exclude:home -exclude:00 -exclude:intro -simpleLineBreak -title -fontsize="90%"}}
+{{door43pages @:en:obe -r -q="\{\{topic\>" -exclude:home -exclude:00 -exclude:intro -simpleLineBreak -title -fontsize="90%"}}
