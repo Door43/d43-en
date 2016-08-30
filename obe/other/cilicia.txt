@@ -14,7 +14,10 @@ Cilicia was a small Roman province located in the southeastern part of what is n
 
 ===== Bible References: =====
 
-{{topic>:en:bible?cilicia&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* cilicia(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}
+
+
+~~DISCUSSION~~
 
 ~~NOCACHE~~
 
