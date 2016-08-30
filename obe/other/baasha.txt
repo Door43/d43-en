@@ -15,7 +15,10 @@ Baasha was one of Israel's evil kings, who influenced the Israelites to worship 
 
 ===== Bible References: =====
 
-{{topic>baasha&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* baasha(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}
+
+
+~~DISCUSSION~~
 
 ~~NOCACHE~~
 
