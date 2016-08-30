@@ -13,7 +13,10 @@ Kedesh was a Canaanite city that was taken over by the Israelites when they ente
 
 ===== Bible References: =====
 
-{{topic>kedesh&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* kedesh(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}
+
+
+~~DISCUSSION~~
 
 ~~NOCACHE~~
 
