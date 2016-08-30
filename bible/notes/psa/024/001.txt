@@ -47,16 +47,17 @@
   * [[:en:obe:other:david]]
   * [[:en:obe:kt:yahweh]]
   * [[:en:obe:kt:life]]
+  * [[:en:obe:other:foundation]]
 
 ===== translationNotes: =====
 
   * **General Information:** - See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]]
 
   * **A psalm of David** - Possible meanings are 1) David wrote the psalm or 2) the psalm is about David or 3) the psalm is in the style of David's psalms.
-  * **and its fullness** - "and everything that fills it"
-  * **For he has founded it upon the seas and established it on the rivers** - AT: For he formed its foundation on the seas and built it on the deep waters"
+  * **and its fullness** - The abstract noun "fullness" can be stated with the verb "fills." AT: "and everything that fills it" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
+  * **For he has founded it upon the seas and established it on the rivers** - Here "founded it upon the seas" and "established it on the rivers" mean basically the same thing. The Hebrews of that time believed their land was supported by the oceans and deep underground rivers. AT: For he formed its foundation on the seas and built it on the deep waters" (See: [[:en:ta:vol2:translate:figs_parallelism]] and [[:en:ta:vol1:translate:figs_explicit]])
   * **the seas ... the rivers** - These phrases are used together to refer to the huge deep ocean below the earth.
-  * **on the rivers** - The Hebrews of that time believed there land was supported by the oceans and deep underground rivers. AT: "the water that is deep below" (UDB) (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **on the rivers** - "the water that is deep below" (UDB)
 ===== Links: =====
 
   * [[:en:bible:notes:psa:000:intro]]
@@ -64,6 +65,6 @@
   * [[:en:bible:questions:comprehension:psa:024]]
 **[[:en:bible:notes:psa:023:006|<<]] | [[:en:bible:notes:psa:024:003|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit book1}}
+~~DISCUSSION~~{{tag>publish p2check book1}}
 
 ~~NOCACHE~~
