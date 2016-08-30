@@ -19,7 +19,7 @@ The term "new covenant" refers to the commitment or agreement God made with his 
 
 ===== Bible References: =====
 
-{{topic>:en:bible?newcovenant&nocomments}}
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* newcovenant(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}
 
 ===== Examples from the Bible stories: =====
 

@@ -14,7 +14,7 @@ Reuben was the firstborn son of Jacob. His mother was Leah.
 
 ===== Bible References: =====
 
-{{topic>reuben&nocomments}}
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* reuben(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}
 
 ~~DISCUSSION~~
 

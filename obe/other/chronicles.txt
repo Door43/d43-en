@@ -14,7 +14,7 @@ The term "chronicle" refers to a written record of events over a period of time.
 
 ===== Bible References: =====
 
-{{topic>chronicles&nocomments}}
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* chronicles(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}
 
 ~~DISCUSSION~~
 

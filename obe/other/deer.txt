@@ -14,7 +14,7 @@ A deer is a large, graceful, four-legged animal that lives in forests or on moun
 
 ===== Bible References: =====
 
-{{topic>:en:bible?deer&nocomments}}
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* deer(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}
 
 ~~DISCUSSION~~
 

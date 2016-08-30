@@ -26,7 +26,7 @@ The terms "possess" and "possession" usually refer to owning something. They can
 
 ===== Bible References: =====
 
-{{topic>possess&nocomments}}
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* possess(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}
 
 ~~DISCUSSION~~
 

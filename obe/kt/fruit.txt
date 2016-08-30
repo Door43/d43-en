@@ -30,6 +30,6 @@ The term "fruit" literally refers to the part of a plant that can be eaten. Some
 
 ===== Bible References: =====
 
-{{topic>:en:bible?fruit&nocomments}}~~DISCUSSION~~{{tag>publish}}
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* fruit(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~{{tag>publish}}
 
 ~~NOCACHE~~

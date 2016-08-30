@@ -15,7 +15,7 @@ The word "doctrine" literally means "teaching". It usually refers to religious t
 
 ===== Bible References: =====
 
-{{topic>:en:bible?doctrine&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* doctrine(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

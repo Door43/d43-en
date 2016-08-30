@@ -13,7 +13,7 @@ A horse is a large, four-legged animal that in Bible times was mostly used for d
 
 ===== Bible References: =====
 
-{{topic>horse&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* horse(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

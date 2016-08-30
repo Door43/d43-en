@@ -6,7 +6,6 @@ The terms "call" and "call out" literally means to say something loudly to someo
 
   * To "call out" to someone means to shout or speak loudly to someone far away. It can also mean to ask someone for help, especially God.
   * Often in the Bible, "call" has a meaning of "summon" or "command to come" or "request to come."
-  * To "call together" means to organize or instruct a group of people to come to the same place, usually for the purpose of having a meeting or performing a task.
   * God calls people to come to him and be his people. This is their "calling."
   * The term "called" is used in the Bible to mean that God has appointed or chosen people to be his children, to be his servants and proclaimers of his message of salvation through Jesus.
   * This term is also used in the context of calling someone a name. For example, "He is called John," means, "He is named John" or "His name is John."
@@ -18,7 +17,6 @@ The terms "call" and "call out" literally means to say something loudly to someo
 
   * The term "call" could be translated by a word that means "summon," which includes the idea of being intentional or purposeful in calling.
   * The idiom "call out to you" could be translated as "ask you for help" or "pray to you urgently."
-  * The phrase, "call together" could also be translated as, "instruct to come together" or "cause to meet as a group."
   * When the Bible says that God has "called" us to be his servants, this could be translated as, "specially chose us" or "appointed us" to be his servants.
   * "You must call his name" can also be translated as, "you must name him."
   * "His name is called" could also be translated as, "his name is" or "he is named."
@@ -29,11 +27,11 @@ The terms "call" and "call out" literally means to say something loudly to someo
   * The phrase "you are called by my name" could be translated as, "I have given you my name, showing that you belong to me."
   * When God says,  "I have called you by name," this could be translated as, "I know your name and have chosen you."
 
-(See: [[:en:obe:kt:chosenone]], [[:en:obe:kt:name]], [[:en:obe:other:pray]], [[:en:obe:other:servant]], [[:en:obe:other:voice]], [[:en:obe:kt:works]])
+(See: [[:en:obe:other:pray]] )
 
 ===== Bible References: =====
 
-{{topic>:en:bible?call&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* call(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

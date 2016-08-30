@@ -14,7 +14,7 @@ Cyrus was a Persian king who founded the Persian empire in about 550 BC, through
 
 ===== Bible References: =====
 
-{{topic>cyrus&nocomments}}
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* cyrus(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}
 
 ~~DISCUSSION~~
 

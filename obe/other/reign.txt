@@ -13,4 +13,4 @@ The term "to reign" means to rule as a king over the people of a particular coun
 
 ===== Bible References: =====
 
-{{topic>:en:bible?reign&nocomments}}~~DISCUSSION~~{{tag>publish}}
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* reign(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~{{tag>publish}}

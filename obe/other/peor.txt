@@ -13,7 +13,7 @@ The terms "Peor" and "Mount Peor" refer to a mountain located northeast of the S
 
 ===== Bible References: =====
 
-{{topic>:en:bible?peor&nocomments}}
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* peor(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}
 
 ~~DISCUSSION~~
 

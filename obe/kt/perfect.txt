@@ -15,7 +15,7 @@ In the Bible, the term "perfect" means to be mature in our Christian life. To pe
 
 ===== Bible References: =====
 
-{{topic>:en:bible?perfect&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* perfect(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

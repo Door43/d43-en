@@ -18,6 +18,6 @@ The term "godly" is used to describe a person who acts in a way that honors God 
 
 ===== Bible References: =====
 
-{{topic>:en:bible?godly&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* godly(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 {{tag>publish review ktlink}}

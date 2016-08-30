@@ -12,7 +12,7 @@ An altar was a raised structure on which the Israelites burned animals and grain
 
 ===== Bible References: =====
 
-{{topic>:en:bible?altar&nocomments}}
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* altar(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}
 
 ===== Examples from the Bible stories: =====
 

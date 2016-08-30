@@ -12,7 +12,7 @@ The term "skull" refers to the bony, skeletal structure of the head of a person 
 
 ===== Bible References: =====
 
-{{topic>skull&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* skull(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

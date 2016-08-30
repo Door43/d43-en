@@ -15,7 +15,7 @@ Philip the apostle was one of the original twelve disciples of Jesus. He was fro
 
 ===== Bible References: =====
 
-{{topic>:en:bible?philiptheapostle&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* philiptheapostle(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

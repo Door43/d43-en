@@ -17,7 +17,7 @@ Balaam was a pagan prophet whom King Balek hired to curse Israel while they were
 
 ===== Bible References: =====
 
-{{topic>balaam&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* balaam(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

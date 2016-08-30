@@ -13,6 +13,6 @@ A centurion was a Roman army officer who had a group of 100 soldiers under his c
 
 ===== Bible References: =====
 
-{{topic>:en:bible?centurion&nocomments}}~~DISCUSSION:on~~{{tag>publish}}
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* centurion(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION:on~~{{tag>publish}}
 
 ~~NOCACHE~~

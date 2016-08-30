@@ -15,4 +15,4 @@ The term "lawful" refers to something that is permitted to be done according to 
 
 ===== Bible References: =====
 
-{{topic>:en:bible?lawful&nocomments}}~~DISCUSSION~~{{tag>publish}}
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* lawful(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~{{tag>publish}}

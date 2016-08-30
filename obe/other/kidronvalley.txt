@@ -16,7 +16,7 @@ The Kidron Valley is a deep valley just outside the city of Jerusalem, between i
 
 ===== Bible References: =====
 
-{{topic>:en:bible?kidronvalley&nocomments}}
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* kidronvalley(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}
 
 ~~DISCUSSION~~
 

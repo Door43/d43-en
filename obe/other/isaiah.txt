@@ -19,7 +19,7 @@ Isaiah was a prophet of God who prophesied during the reigns of four kings of Ju
 ===== Bible References: =====
 
 
-{{topic>:en:bible?isaiah&nocomments}}
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* isaiah(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}
 
 ===== Examples from the Bible stories: =====
 

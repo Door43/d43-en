@@ -14,7 +14,7 @@ The terms "exult" and "exultant" refer to being very happy because of a success 
 
 ===== Bible References: =====
 
-{{topic>:en:bible?exult&nocomments}}
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* exult(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}
 
 ~~DISCUSSION~~
 

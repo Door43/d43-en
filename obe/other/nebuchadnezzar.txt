@@ -18,7 +18,7 @@ Nebuchadnezzar was a king of the Babylonian Empire whose powerful army conquered
 
 ===== Bible References: =====
 
-{{topic>:en:bible?nebuchadnezzar&nocomments}}
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* nebuchadnezzar(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}
 
 
 ===== Examples from the Bible stories: =====

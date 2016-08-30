@@ -21,7 +21,7 @@ In the Bible, the term "​unclean"​ is used figuratively to refer to things t
 
 ===== Bible References: =====
 
-{{topic>:en:bible?unclean&nocomments}}
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* unclean(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}
 
 ~~DISCUSSION~~
 

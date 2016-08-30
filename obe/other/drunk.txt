@@ -14,7 +14,7 @@ The term "drunk" means to be intoxicated from drinking too much of an alcoholic 
 
 ===== Bible References: =====
 
-{{topic>drunk&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* drunk(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

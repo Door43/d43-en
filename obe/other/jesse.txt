@@ -14,6 +14,6 @@ Jesse was the father of King David, and the grandson of Ruth and Boaz.
 
 ===== Bible References: =====
 
-{{topic>:en:bible?jesse&nocomments}}~~DISCUSSION~~{{tag>publish}}
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* jesse(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~{{tag>publish}}
 
 ~~NOCACHE~~

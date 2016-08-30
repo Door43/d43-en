@@ -17,7 +17,7 @@ Mesopotamia is the area of land between the Tigris and Euphrates Rivers. Its loc
 
 ===== Bible References: =====
 
-{{topic>:en:bible?mesopotamia&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* mesopotamia(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

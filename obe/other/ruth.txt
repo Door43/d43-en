@@ -15,4 +15,4 @@ Ruth was a Moabite woman who married an Israelite man who had moved to Moab with
 
 ===== Bible References: =====
 
-{{topic>:en:bible?ruth&nocomments}}~~DISCUSSION~~{{tag>publish}}
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* ruth(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~{{tag>publish}}

@@ -12,4 +12,4 @@ Sodom was a city in the southern part of Canaan where Abraham's nephew Lot lived
 
 ===== Bible References: =====
 
-{{topic>:en:bible?sodom&nocomments}}~~DISCUSSION~~{{tag>publish}}
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* sodom(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~{{tag>publish}}

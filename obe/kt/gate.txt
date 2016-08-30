@@ -16,7 +16,7 @@ A "gate" is a hinged barrier at an access point in a fence or wall that surround
 
 ===== Bible References: =====
 
-{{topic>:en:bible?gate&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* gate(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

@@ -14,7 +14,7 @@ Mount Hermon is the name of the tallest mountain in Israel at the southern tip o
 
 ===== Bible References: =====
 
-{{topic>:en:bible?mounthermon&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* mounthermon(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

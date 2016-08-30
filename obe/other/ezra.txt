@@ -15,7 +15,7 @@ Ezra was an Israelite priest and expert in Jewish law who recorded the history o
 
 ===== Bible References: =====
 
-{{topic>:en:bible?ezra&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* ezra(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

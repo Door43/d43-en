@@ -17,7 +17,7 @@ The term "peace" refers to a state of being or a feeling of having no conflict, 
 
 ===== Bible References: =====
 
-{{topic>:en:bible?peace&nocomments}}
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* peace(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}
 
 
 ===== Examples from the Bible stories: =====

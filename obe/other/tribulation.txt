@@ -12,7 +12,7 @@ The term "tribulation" refers to time of hardship, suffering, and distress.
 
 ===== Bible References: =====
 
-{{topic>:en:bible?tribulation&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* tribulation(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

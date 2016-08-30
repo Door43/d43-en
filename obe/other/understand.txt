@@ -13,7 +13,7 @@ The term "understand" means to hear or receive information and know what it mean
 
 ===== Bible References: =====
 
-{{topic>:en:bible?understand&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* understand(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

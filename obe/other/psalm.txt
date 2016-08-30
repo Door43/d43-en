@@ -13,7 +13,7 @@ The term "psalm" refers to a sacred song, often in the form of a poem that was w
 
 ===== Bible References: =====
 
-{{topic>:en:bible?psalm&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* psalm(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

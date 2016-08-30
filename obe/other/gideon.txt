@@ -15,7 +15,7 @@ Gideon was an Israelite man who God raised up to deliver the Israelites from the
 
 ===== Bible References: =====
 
-{{topic>:en:bible?gideon&nocomments}}
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* gideon(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}
 
 ===== Examples from the Bible stories: =====
 

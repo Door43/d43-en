@@ -16,7 +16,7 @@ Shiloh was a walled Canaanite city that was conquered by the Israelites under th
 
 ===== Bible References: =====
 
-{{topic>shiloh&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* shiloh(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

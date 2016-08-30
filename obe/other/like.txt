@@ -23,7 +23,7 @@ The terms "like" and "likeness" refer to something being the same as, or similar
 
 ===== Bible References: =====
 
-{{topic>like&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* like(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

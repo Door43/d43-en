@@ -15,7 +15,7 @@ A harp is a stringed musical instrument, usually having a large open frame with 
 
 ===== Bible References: =====
 
-{{topic>harp&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* harp(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

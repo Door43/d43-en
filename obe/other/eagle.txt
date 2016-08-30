@@ -14,7 +14,7 @@ An eagle is a very large, powerful bird of prey that eats small animals such as 
 
 ===== Bible References: =====
 
-{{topic>eagle&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* eagle(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

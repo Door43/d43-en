@@ -18,7 +18,7 @@ The Negev is a desert region in the southern part of Israel, southwest of the Sa
 
 ===== Bible References: =====
 
-{{topic>:en:bible?negev&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* negev(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

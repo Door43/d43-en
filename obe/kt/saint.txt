@@ -16,7 +16,7 @@ The term "saints" literally means "holy ones" and refers to believers in Jesus.
 
 ===== Bible References: =====
 
-{{topic>:en:bible?saint&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* saint(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

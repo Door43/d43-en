@@ -20,7 +20,7 @@ The temple was a building surrounded by walled courtyards where the Israelites c
 
 ===== Bible References: =====
 
-{{topic>:en:bible?temple&nocomments}}
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* temple(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}
 
 ===== Examples from the Bible stories: =====
 

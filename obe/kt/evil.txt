@@ -18,7 +18,7 @@ The terms "evil" and "wicked" both refer to anything that is opposed to God's ho
 
 ===== Bible References: =====
 
-{{topic>:en:bible?evil&nocomments}}
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* evil(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}
 
 ===== Examples from the Bible stories: =====
 

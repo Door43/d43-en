@@ -16,7 +16,7 @@ Lazarus and his sisters, Mary and Martha, were special friends of Jesus. He ofte
 
 ===== Bible References: =====
 
-{{topic>:en:bible?lazarus&nocomments}}
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* lazarus(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}
 
 ===== Examples from the Bible stories: =====
 

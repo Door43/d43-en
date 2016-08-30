@@ -13,7 +13,7 @@ The term "Judaism" refers to the religion practiced by the Jews. It is also refe
 
 ===== Bible References: =====
 
-{{topic>:en:bible?judaism&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* judaism(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

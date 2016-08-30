@@ -25,7 +25,7 @@ The terms "proud" and "prideful" refer to a person thinking too highly of himsel
 
 ===== Bible References: =====
 
-{{topic>:en:bible?proud&nocomments}}
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* proud(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}
 
 
 ===== Examples from the Bible stories: =====

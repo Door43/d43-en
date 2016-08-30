@@ -14,7 +14,7 @@ In Bible times, the city of Joppa was an important commercial seaport located on
 
 ===== Bible References: =====
 
-{{topic>:en:bible?joppa&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* joppa(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

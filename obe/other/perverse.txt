@@ -17,7 +17,7 @@ The term "perverse" is used to describe a person or action that is morally crook
 
 ===== Bible References: =====
 
-{{topic>:en:bible?perverse&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* perverse(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

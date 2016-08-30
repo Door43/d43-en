@@ -13,7 +13,7 @@ The term "push" literally means to physically move something away using force. T
 
 ===== Bible References: =====
 
-{{topic>:en:bible?push&nocomments}}
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* push(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}
 
 ~~DISCUSSION~~
 

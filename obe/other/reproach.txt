@@ -12,7 +12,7 @@ To reproach someone means to criticize or disapprove of that person's character 
 
 ===== Bible References: =====
 
-{{topic>:en:bible?reproach&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* reproach(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

@@ -9,7 +9,7 @@ The terms "accuse" and "accusation" refer to blaming someone for doing something
 
 ===== Bible References: =====
 
-{{topic>accuse&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* accuse(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

@@ -17,7 +17,7 @@ The terms "encourage" and encouragement" refer to saying and doing things to cau
 
 ===== Bible References: =====
 
-{{topic>encourage&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* encourage(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

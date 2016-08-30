@@ -10,7 +10,7 @@ In biblical times, a "watch" was a period of time at night during which a watchm
 
 ===== Bible References: =====
 
-{{topic>:en:bible?biblicaltimewatch&nocomments}}
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* biblicaltimewatch(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}
 
 ~~DISCUSSION~~
 

@@ -14,7 +14,7 @@ The term "torment" refers to terrible suffering. To torment someone means to cau
 
 ===== Bible References: =====
 
-{{topic>torment&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* torment(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

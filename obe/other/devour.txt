@@ -12,7 +12,7 @@ The term "devour" means to eat or consume in an aggressive manner.
 
 ===== Bible References: =====
 
-{{topic>devour&nocomments}}
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* devour(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}
 
 ~~DISCUSSION~~
 

@@ -18,7 +18,7 @@ To forgive someone means to not hold a grudge against a person who did something
 
 ===== Bible References: =====
 
-{{topic>:en:bible?forgive&nocomments}}
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* forgive(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}
 
 ===== Examples from the Bible stories: =====
 

@@ -12,7 +12,7 @@ In the Old Testament, the "fellowship offering" or "peace offering" was a kind o
 
 ===== Bible References: =====
 
-{{topic>fellowshipoffering&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* fellowshipoffering(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

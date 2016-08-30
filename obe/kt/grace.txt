@@ -20,7 +20,7 @@ The word "grace" refers to help or blessing that is given to someone who has not
 
 ===== Bible References: =====
 
-{{topic>:en:bible?grace&nocomments}}
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* grace(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}
 
 ~~DISCUSSION~~
 

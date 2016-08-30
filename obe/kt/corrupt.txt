@@ -19,7 +19,7 @@ The terms "corrupt" and "corruption" refer to a state of affairs in which people
 
 ===== Bible References: =====
 
-{{topic>:en:bible?corrupt&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* corrupt(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

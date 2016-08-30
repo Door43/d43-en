@@ -11,7 +11,7 @@ Succoth is the name of two Old Testament cities. The word, "succoth" (or "sukkot
 
 ===== Bible References: =====
 
-{{topic>succoth&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* succoth(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

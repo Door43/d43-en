@@ -20,7 +20,7 @@ A sister is a female person who shares at least one biological parent with anoth
 
 ===== Bible References: =====
 
-{{topic>:en:bible?sister&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* sister(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

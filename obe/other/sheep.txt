@@ -16,7 +16,7 @@ A "sheep" is a medium-sized animal with four legs that has wool all over its bod
 
 ===== Bible References: =====
 
-{{topic>:en:bible?sheep&nocomments}}
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* sheep(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}
 
 ===== Examples from the Bible stories: =====
 

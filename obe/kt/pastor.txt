@@ -19,7 +19,7 @@ The term "pastor" is literally the same word as "shepherd." It is used as a titl
 
 ===== Bible References: =====
 
-{{topic>pastor&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* pastor(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

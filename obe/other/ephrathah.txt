@@ -14,7 +14,7 @@ Ephrathah was the name of a city and region in the northern part of Israel. The 
 
 ===== Bible References: =====
 
-{{topic>:en:bible?ephrathah&nocomments}}
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* ephrathah(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}
 
 ~~DISCUSSION~~
 

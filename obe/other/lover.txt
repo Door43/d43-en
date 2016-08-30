@@ -13,7 +13,7 @@ The term "lover" literally means "person who loves." Usually this refers to peop
 
 ===== Bible References: =====
 
-{{topic>lover&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* lover(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

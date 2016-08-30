@@ -14,7 +14,7 @@ In Old Testament times, Ai was the name of a Canaanite town located just south o
 
 ===== Bible References: =====
 
-{{topic>:en:bible?ai&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* ai(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

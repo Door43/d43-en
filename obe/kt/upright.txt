@@ -19,7 +19,7 @@ The terms "upright" and "uprightness" refer to acting in a way that follows God'
 
 ===== Bible References: =====
 
-{{topic>:en:bible?upright&nocomments}}
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* upright(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}
 
 ~~DISCUSSION~~
 

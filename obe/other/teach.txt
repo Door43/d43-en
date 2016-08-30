@@ -17,7 +17,7 @@ The terms "teach" and "teaching" refer to telling other people information they 
 
 ===== Bible References: =====
 
-{{topic>:en:bible?teach&nocomments}}
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* teach(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}
 
 ~~DISCUSSION~~
 

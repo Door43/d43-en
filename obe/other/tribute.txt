@@ -17,7 +17,7 @@ A tribute is a gift from one ruler to another ruler, for the purpose of protecti
 
 ===== Bible References: =====
 
-{{topic>tribute&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* tribute(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

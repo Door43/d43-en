@@ -31,7 +31,7 @@ To "turn" means to physically change direction or to cause something else to cha
 
 ===== Bible References: =====
 
-{{topic>:en:bible?turn&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* turn(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

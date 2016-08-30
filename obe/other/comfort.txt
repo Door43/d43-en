@@ -24,7 +24,7 @@ The terms "comfort" and "comforter" refer to helping someone who is suffering ph
 
 ===== Bible References: =====
 
-{{topic>comfort&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* comfort(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

@@ -13,7 +13,7 @@ The term "armor" refers to the equipment a soldier uses to fight in a battle and
 
 ===== Bible References: =====
 
-{{topic>armor&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* armor(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

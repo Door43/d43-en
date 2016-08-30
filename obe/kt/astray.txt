@@ -16,7 +16,7 @@ The terms "stray" and "go astray" mean to disobey God's will. People who are "le
 
 ===== Bible References: =====
 
-{{topic>:en:bible?astray&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* astray(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

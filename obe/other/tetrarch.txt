@@ -12,4 +12,4 @@ A tetrarch was a governing official who ruled over a division of the Roman Empir
 
 ===== Bible References: =====
 
-{{topic>:en:bible?tetrarch&nocomments}}~~DISCUSSION~~{{tag>publish}}
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* tetrarch(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~{{tag>publish}}

@@ -10,7 +10,7 @@ A banquet is large, formal meal that usually includes several food courses.
 
 ===== Bible References: =====
 
-{{topic>banquet&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* banquet(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

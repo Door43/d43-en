@@ -14,7 +14,7 @@ Mount Sinai is the name of a mountain that was probably located in the southern 
 
 ===== Bible References: =====
 
-{{topic>:en:bible?sinai&nocomments}}
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* sinai(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}
 
 
 ===== Examples from the Bible stories: =====

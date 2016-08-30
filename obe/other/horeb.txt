@@ -15,7 +15,7 @@ Mount Horeb is another name for Mount Sinai, where God gave Moses the stone tabl
 
 ===== Bible References: =====
 
-{{topic>horeb&nocomments}}
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* horeb(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}
 
 ~~DISCUSSION~~
 

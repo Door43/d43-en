@@ -14,7 +14,7 @@ The term "palm" refers to a type of tall tree with long, flexible, leafy branche
 
 ===== Bible References: =====
 
-{{topic>palm&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* palm(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

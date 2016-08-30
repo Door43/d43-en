@@ -19,7 +19,7 @@ The term "exile" refers to people being forced to live somewhere away from their
 
 ===== Bible References: =====
 
-{{topic>exile&nocomments}}
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* exile(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}
 
 ~~DISCUSSION~~
 

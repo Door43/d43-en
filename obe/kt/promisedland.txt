@@ -18,7 +18,7 @@ The term "Promised Land" only occurs in the Bible Stories, not the Bible text. I
 
 ===== Bible References: =====
 
-{{topic>:en:bible?promisedland&nocomments}}
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* promisedland(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}
 
 ===== Examples from the Bible stories: =====
 

@@ -14,7 +14,7 @@ A decree is a proclamation or law that is publicly declared to all the people.
 
 ===== Bible References: =====
 
-{{topic>decree&nocomments}}
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* decree(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}
 
 ~~DISCUSSION~~
 

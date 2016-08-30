@@ -18,7 +18,7 @@ To exalt is to highly praise and honor someone. It can also mean to put someone 
 
 ===== Bible References: =====
 
-{{topic>:en:bible?exalt&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* exalt(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

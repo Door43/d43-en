@@ -15,7 +15,7 @@ To "bribe" means to give someone something of value, such as money, to influence
 
 ===== Bible References: =====
 
-{{topic>bribe&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* bribe(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

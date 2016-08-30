@@ -13,7 +13,7 @@ A "thief" or "robber" is a person who steals money or property from other people
 
 ===== Bible References: =====
 
-{{topic>thief&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* thief(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

@@ -24,7 +24,7 @@ The term "deceive" means to cause someone to believe something that is not true.
 
 ===== Bible References: =====
 
-{{topic>:en:bible?deceive&nocomments}}
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* deceive(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}
 
 ~~DISCUSSION~~
 

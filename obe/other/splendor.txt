@@ -13,7 +13,7 @@ The term "splendor" refers to extreme beauty and elegance that is often associat
 
 ===== Bible References: =====
 
-{{topic>splendor&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* splendor(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

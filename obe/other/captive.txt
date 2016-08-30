@@ -24,7 +24,7 @@ The terms "captive" and "captivity" refer to capturing people and forcing them t
 
 ===== Bible References: =====
 
-{{topic>captive&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* captive(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

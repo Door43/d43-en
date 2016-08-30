@@ -11,7 +11,7 @@ The term "envy" refers to being jealous of someone because of what that person p
 
 ===== Bible References: =====
 
-{{topic>envy&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* envy(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

@@ -12,7 +12,7 @@ A "law" is a legal rule that is usually written down and enforced by someone in 
 
 ===== Bible References: =====
 
-{{topic>law&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* law(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

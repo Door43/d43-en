@@ -16,6 +16,6 @@ The term "manager" or "steward" in the Bible refers to a servant who was entrust
 
 ===== Bible References: =====
 
-{{topic>:en:bible?manager&nocomments}}~~DISCUSSION~~{{tag>publish}}
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* manager(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~{{tag>publish}}
 
 ~~NOCACHE~~

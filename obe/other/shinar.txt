@@ -14,7 +14,7 @@ Shinar means "country of two rivers" and was the name of a plain or region in so
 
 ===== Bible References: =====
 
-{{topic>:en:bible?shinar&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* shinar(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

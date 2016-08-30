@@ -15,7 +15,7 @@ The "Passover" is the name of a religious festival that the Jews celebrate every
 
 ===== Bible References: =====
 
-{{topic>:en:bible?passover&nocomments}}
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* passover(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}
 
 ===== Examples from the Bible stories: =====
 

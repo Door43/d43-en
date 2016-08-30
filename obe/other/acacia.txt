@@ -14,7 +14,7 @@ The term "acacia" is the name of a common shrub or tree growing in the land of C
 
 ===== Bible References: =====
 
-{{topic>acacia&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* acacia(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

@@ -16,7 +16,7 @@ Nehemiah was an Israelite living in the Babylonian empire when the people of Isr
 
 ===== Bible References: =====
 
-{{topic>:en:bible?nehemiah&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* nehemiah(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

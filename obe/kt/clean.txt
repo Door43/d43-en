@@ -20,4 +20,4 @@ The tern "clean" literally means to not have any dirt or stain. In the Bible, it
 
 ===== Bible References: =====
 
-{{topic>:en:bible?clean&nocomments}}{{tag>publish}}
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* clean(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}{{tag>publish}}

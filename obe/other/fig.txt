@@ -13,4 +13,4 @@ A fig is a small, soft, sweet fruit that grows on trees. When ripe, this fruit c
 
 ===== Bible References: =====
 
-{{topic>:en:bible?fig&nocomments}}~~DISCUSSION~~{{tag>publish}}
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* fig(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~{{tag>publish}}

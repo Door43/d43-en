@@ -19,7 +19,7 @@ The term "incense" refers to a mixture of fragrant spices that are burned to pro
 ===== Bible References: =====
 
 
-{{topic>:en:bible?incense&nocomments}}
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* incense(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}
 
 
 ~~DISCUSSION~~

@@ -15,7 +15,7 @@ The term "livestock" refers to animals which are raised to provide food and othe
 
 ===== Bible References: =====
 
-{{topic>livestock&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* livestock(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

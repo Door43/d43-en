@@ -17,7 +17,7 @@ Assyria was a powerful nation during the time the Israelites were living in the 
 ===== Bible References: =====
 
 
-{{topic>:en:bible?assyria&nocomments}}
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* assyria(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}
 
 ===== Examples from the Bible stories: =====
 

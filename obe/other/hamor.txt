@@ -14,7 +14,7 @@ Hamor was a Canaanite man living in the city of Shechem when Jacob and his famil
 
 ===== Bible References: =====
 
-{{topic>:en:bible?hamor&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* hamor(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

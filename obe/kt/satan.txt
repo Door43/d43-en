@@ -23,7 +23,7 @@ The devil is a spirit being that God created, but he rebelled against God and be
 
 ===== Bible References: =====
 
-{{topic>:en:bible?satan&nocomments}}
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* satan(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}
 
 ===== Examples from the Bible stories: =====
 

@@ -14,10 +14,9 @@ In the Bible, the terms "works," "deeds," and "acts" are used to refer generally
 ===== Translation Suggestions: =====
 
   * Other ways to translate "works" or "deeds" could be, "actions" or "things that are done."
-  * The phrase "work of your hands" can be translated as, "what you have made" or "this thing you have created."
-  * When referring to God's "works" or "deeds" and the "work of his hands," these expressions could also be translated as, "miracles" or "mighty acts" or "amazing things he has done."
+  * When referring to God's "works" or "deeds" and the "work of his hands," these expressions could also be translated as, "miracles" or "mighty acts" or "amazing things he does."
   * The phrase, "the work of God" could be translated as, "the things that God is doing" or "the miracles God does" or "the amazing things that God does" or "everything God has accomplished."
-  * Sometimes "work" is just the singular form of "works" as in, "every good work" or "every good deed."
+  * The term "work" can just be the singular of "works" as in, "every good work" or "every good deed."
   * The term "work" can also have the broader meaning of "service" or "ministry." For example, the expression, "your work in the Lord" could also be translated as, "what you do for the Lord."
   * The expression, "examine your own work" could also be translated as, "make sure what you are doing is God's will" or "make sure that what you are doing pleases God."
   * The phrase "the work of the Holy Spirit" could be translated as, "the empowering of the Holy Spirit" or "the ministry of the Holy Spirit" or "the things that the Holy Spirit does."
@@ -28,4 +27,4 @@ In the Bible, the terms "works," "deeds," and "acts" are used to refer generally
 
 ~~NOCACHE~~
 
-{{topic>:en:bible?works&nocomments}}~~DISCUSSION~~{{tag>publish}}
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* works(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~{{tag>publish}}

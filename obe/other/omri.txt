@@ -14,7 +14,7 @@ Omri was an army commander who became the sixth king of Israel.
 
 ===== Bible References: =====
 
-{{topic>:en:bible?omri&nocomments}}
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* omri(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}
 
 ~~DISCUSSION~~
 

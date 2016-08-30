@@ -20,7 +20,7 @@ To "reject" someone or something means to refuse to accept that person or thing.
 
 ===== Bible References: =====
 
-{{topic>:en:bible?reject&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* reject(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

@@ -18,7 +18,7 @@ A vow is a promise that a person makes to God. The person promises to do a certa
 
 ===== Bible References: =====
 
-{{topic>:en:bible?vow&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* vow(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

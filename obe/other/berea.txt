@@ -13,7 +13,7 @@ In New Testament times, Berea (or Beroea) was a prosperous Greek city in southea
 
 ===== Bible References: =====
 
-{{topic>:en:bible?berea&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* berea(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

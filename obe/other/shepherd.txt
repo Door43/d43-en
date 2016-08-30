@@ -25,7 +25,7 @@ A shepherd is a person who takes care of sheep. The verb "to shepherd" means to 
 
 ===== Bible References: =====
 
-{{topic>:en:bible?shepherd&nocomments}}
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* shepherd(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}
 
 ===== Examples from the Bible stories: =====
 

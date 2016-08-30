@@ -19,7 +19,7 @@ An oak is a tall, shade tree with a large trunk and wide spreading branches.
 
 ===== Bible References: =====
 
-{{topic>:en:bible?oak&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* oak(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

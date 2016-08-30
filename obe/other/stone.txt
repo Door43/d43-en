@@ -10,7 +10,7 @@ A stone is a small rock. Stoning means throwing stones at a person in order to k
 
 ===== Bible References: =====
 
-{{topic>:en:bible?stone&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* stone(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

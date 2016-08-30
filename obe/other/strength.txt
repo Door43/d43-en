@@ -30,7 +30,7 @@ The term "strength" refers to the state of being strong physically, emotionally,
 
 ===== Bible References: =====
 
-{{topic>:en:bible?strength&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* strength(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

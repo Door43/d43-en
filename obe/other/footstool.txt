@@ -12,7 +12,7 @@ The term "footstool" refers to an object which a person puts his feet on, usuall
 
 ===== Bible References: =====
 
-{{topic>:en:bible?footstool&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* footstool(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

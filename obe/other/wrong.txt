@@ -12,7 +12,7 @@ To wrong, mistreat or hurt means to inflict physical, emotional, or legal damage
 
 ===== Bible References: =====
 
-{{topic>:en:bible?wrong&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* wrong(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

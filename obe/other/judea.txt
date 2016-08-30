@@ -16,7 +16,7 @@ The term "Judea" refers to an area of land in ancient Israel. It is sometimes us
 
 ===== Bible References: =====
 
-{{topic>:en:bible?judea&nocomments}}
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* judea(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}
 
 
 ~~DISCUSSION~~

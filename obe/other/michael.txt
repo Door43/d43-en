@@ -15,7 +15,7 @@ Michael is the chief of all God's holy, obedient angels. He is the only angel wh
 
 ===== Bible References: =====
 
-{{topic>michael&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* michael(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

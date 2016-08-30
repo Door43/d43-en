@@ -22,7 +22,7 @@ The terms "judge" and "judgment" often refer to making a decision about whether 
 
 ===== Bible References: =====
 
-{{topic>:en:bible?judge&nocomments}}
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* judge(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}
 
 ===== Examples from the Bible stories: =====
 

@@ -22,4 +22,4 @@ The term "worthy" describes someone or something that deserves respect or honor.
 
 ===== Bible References: =====
 
-{{topic>:en:bible?worthy&nocomments}}~~DISCUSSION~~{{tag>publish}}
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* worthy(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~{{tag>publish}}

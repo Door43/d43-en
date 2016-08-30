@@ -13,7 +13,7 @@ The terms "fountain" and "spring" usually refer to a large amount of water that 
 
 ===== Bible References: =====
 
-{{topic>:en:bible?fountain&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* fountain(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

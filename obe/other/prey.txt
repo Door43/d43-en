@@ -12,7 +12,7 @@ The term "prey" refers to something that is hunted, usually an animal that is us
 
 ===== Bible References: =====
 
-{{topic>:en:bible?prey&nocomments}}
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* prey(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}
 
 ~~DISCUSSION~~
 

@@ -16,7 +16,7 @@ The term "creature" refers to all the living beings that God created, both human
 
 ===== Bible References: =====
 
-{{topic>creature&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* creature(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

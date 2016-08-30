@@ -16,7 +16,7 @@ Edom was another name for Esau. The region where he lived also became known as "
 
 ===== Bible References: =====
 
-{{topic>edom&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* edom(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

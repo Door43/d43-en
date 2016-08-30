@@ -14,7 +14,7 @@ The term "loins" refers to the part of the body of an animal or person that is b
 
 ===== Bible References: =====
 
-{{topic>:en:bible?loins&nocomments}}
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* loins(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}
 
 ~~DISCUSSION~~
 

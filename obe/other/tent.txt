@@ -14,7 +14,7 @@ A tent is a portable shelter made of sturdy fabric that is draped over a structu
 
 ===== Bible References: =====
 
-{{topic>tent&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* tent(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

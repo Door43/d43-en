@@ -14,7 +14,7 @@ The terms "disperse" and  "dispersion" refer to the scattering of people or thin
 
 ===== Bible References: =====
 
-{{topic>disperse&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* disperse(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

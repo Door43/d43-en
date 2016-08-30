@@ -19,7 +19,7 @@ Matthew was one of the twelve men that Jesus chose to be his apostles. He was al
 ===== Bible References: =====
 
 
-{{topic>:en:bible?matthew&nocomments}}
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* matthew(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}
 
 
 ~~DISCUSSION~~

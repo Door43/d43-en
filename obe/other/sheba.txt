@@ -16,7 +16,7 @@ In ancient times, Sheba was an ancient civilization or region of land that was l
 
 ===== Bible References: =====
 
-{{topic>sheba&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* sheba(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

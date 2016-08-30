@@ -18,7 +18,7 @@ During the time when Abram lived, Melchizedek was the king of the city of Salem 
 
 ===== Bible References: =====
 
-{{topic>:en:bible?melchizedek&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* melchizedek(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

@@ -13,7 +13,7 @@ A "yoke" is something that is used to join two things for the purpose of working
 
 ===== Bible References: =====
 
-{{topic>:en:bible?yoke&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* yoke(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

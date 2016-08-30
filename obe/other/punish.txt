@@ -15,7 +15,7 @@ The term "punish" means to cause someone to suffer a negative consequence for do
 
 ===== Bible References: =====
 
-{{topic>:en:bible?punish&nocomments}}
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* punish(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}
 
 their
 ===== Examples from the Bible stories: =====

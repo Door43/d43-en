@@ -20,4 +20,4 @@ The term "endure" means to last a long time or to bear something difficult with 
 
 ===== Bible References: =====
 
-{{topic>:en:bible?endure&nocomments}}~~DISCUSSION~~{{tag>publish}}
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* endure(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~{{tag>publish}}

@@ -13,7 +13,7 @@ Tradition refers to customs and practices that have been kept over time and whic
 
 ===== Bible References: =====
 
-{{topic>:en:bible?tradition&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* tradition(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

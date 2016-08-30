@@ -17,7 +17,7 @@ The term "resurrection" refers to the act of becoming alive again after having d
 
 ===== Bible References: =====
 
-{{topic>:en:bible?resurrection&nocomments}}
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* resurrection(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}
 
 ===== Examples from the Bible stories: =====
 

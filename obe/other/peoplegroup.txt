@@ -21,7 +21,7 @@ The term "people group" refers to people who share a common language and culture
 
 ===== Bible References: =====
 
-{{topic>:en:bible?peoplegroup&nocomments}}
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* peoplegroup(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}
 
 ===== Examples from the Bible stories: =====
 

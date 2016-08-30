@@ -21,7 +21,7 @@ In the New Testament, the terms "baptize" and "baptism" usually refer to rituall
 
 ===== Bible References: =====
 
-{{topic>:en:bible?baptize&nocomments}}
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* baptize(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}
 
 ===== Examples from the Bible stories: =====
 

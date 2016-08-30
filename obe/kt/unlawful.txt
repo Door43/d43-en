@@ -19,7 +19,7 @@ The terms "unlawful" and "not lawful" are used to describe actions that break a 
 
 ===== Bible References: =====
 
-{{topic>:en:bible?unlawful&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* unlawful(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

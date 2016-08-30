@@ -14,7 +14,7 @@ Media was an ancient empire located east of Assyria and Babylonia, and north of 
 
 ===== Bible References: =====
 
-{{topic>mede&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* mede(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

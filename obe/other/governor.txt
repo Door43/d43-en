@@ -18,6 +18,6 @@ A governor is a person who rules over a state, region, or territory. The word "g
 
 ===== Bible References: =====
 
-{{topic>:en:bible?governor&nocomments}}~~DISCUSSION~~{{tag>publish review}}
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* governor(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~{{tag>publish review}}
 
 ~~NOCACHE~~

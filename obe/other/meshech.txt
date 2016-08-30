@@ -15,7 +15,7 @@ Meshech is the name of two men in the Old Testament.
 
 ===== Bible References: =====
 
-{{topic>:en:bible?meshech&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* meshech(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

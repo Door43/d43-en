@@ -18,7 +18,7 @@ The term "word of truth" is another way of referring to God's word or teaching.
 
 ===== Bible References: =====
 
-{{topic>wordoftruth&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* wordoftruth(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

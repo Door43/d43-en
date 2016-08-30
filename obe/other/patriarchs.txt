@@ -11,7 +11,7 @@ The term "patriarchs" in the OT refers to the founding fathers of the Jewish peo
 
 ===== Bible References: =====
 
-{{topic>:en:bible?patriarchs&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* patriarchs(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

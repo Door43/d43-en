@@ -18,7 +18,7 @@ The term "dominion" refers to power, control, or authority over people, animals,
 
 ===== Bible References: =====
 
-{{topic>:en:bible?dominion&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* dominion(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

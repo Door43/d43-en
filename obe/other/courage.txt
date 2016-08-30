@@ -16,7 +16,7 @@ The term "courage" refers to boldly facing or doing something that is difficult,
 
 ===== Bible References: =====
 
-{{topic>:en:bible?courage&nocomments}}
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* courage(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}
 
 ~~DISCUSSION~~
 

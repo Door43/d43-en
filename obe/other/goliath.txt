@@ -14,7 +14,7 @@ Goliath was a very tall and very large soldier in the army of the Philistines wh
 
 ===== Bible References: =====
 
-{{topic>:en:bible?goliath&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* goliath(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

@@ -13,7 +13,7 @@ A person uses his voice to speak, and so the term "voice" is often used figurati
 
 ===== Bible References: =====
 
-{{topic>:en:bible?voice&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* voice(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

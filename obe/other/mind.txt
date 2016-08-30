@@ -21,7 +21,7 @@ The term "mind" refers to the part of a person that thinks and makes decisions.
 
 ===== Bible References: =====
 
-{{topic>mind&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* mind(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

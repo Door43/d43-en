@@ -14,7 +14,7 @@ In the early Christian church in Jerusalem, Philip was one of seven leaders chos
 
 ===== Bible References: =====
 
-{{topic>:en:bible?philip&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* philip(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

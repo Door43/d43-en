@@ -21,6 +21,6 @@ The terms "testimony" and "testify" refer to making a statement about something 
 
 ===== Bible References: =====
 
-{{topic>:en:bible?testimony&nocomments}}~~DISCUSSION~~{{tag>publish}}
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* testimony(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~{{tag>publish}}
 
 ~~NOCACHE~~

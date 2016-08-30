@@ -16,7 +16,7 @@ When God gave his laws at Mount Sinai, he told the Israelites to make the tent o
 
 ===== Bible References: =====
 
-{{topic>:en:bible?tentofmeeting&nocomments}}
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* tentofmeeting(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}
 
 
 ===== Examples from the Bible stories: =====

@@ -13,7 +13,7 @@ A shrine is a place or shelter which is dedicated to the worship of a deity. Lit
 
 ===== Bible References: =====
 
-{{topic>shrine&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* shrine(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

@@ -13,4 +13,4 @@ The term  "reap" means to harvest crops such as grain. A "reaper" is someone who
 
 ===== Bible References: =====
 
-{{topic>:en:bible?reap&nocomments}}~~DISCUSSION~~{{tag>publish}}
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* reap(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~{{tag>publish}}

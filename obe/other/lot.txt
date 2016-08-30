@@ -16,4 +16,4 @@ Lot was the name of Abraham's nephew.
 
 ===== Bible References: =====
 
-{{topic>:en:bible?lot&nocomments}}~~DISCUSSION~~{{tag>publish}}
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* lot(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~{{tag>publish}}

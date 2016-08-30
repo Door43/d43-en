@@ -18,7 +18,7 @@ The term "qualify" refers to earning the right to receive certain benefits or to
 
 ===== Bible References: =====
 
-{{topic>qualify&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* qualify(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

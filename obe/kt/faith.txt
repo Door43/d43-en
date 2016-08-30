@@ -22,7 +22,7 @@ In general, the term "faith" refers to a belief, trust or confidence in someone 
 
 ===== Bible References: =====
 
-{{topic>:en:bible?faith&nocomments}}
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* faith(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}
 
 ===== Examples from the Bible stories: =====
 

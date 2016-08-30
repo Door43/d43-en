@@ -14,7 +14,7 @@ In New Testament times, Thessalonica was the capital city of Macedonia in the an
 
 ===== Bible References: =====
 
-{{topic>:en:bible?thessalonica&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* thessalonica(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

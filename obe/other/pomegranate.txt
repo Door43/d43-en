@@ -13,7 +13,7 @@ A pomegranate is a kind of fruit that has a thick, tough skin filled with many s
 
 ===== Bible References: =====
 
-{{topic>:en:bible?pomegranate&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* pomegranate(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 [[:en:obe:other:egypt]]
 ~~NOCACHE~~
 

@@ -18,7 +18,7 @@ A goat is a medium-sized, four-legged animal which is similar to a sheep and is 
 
 ===== Bible References: =====
 
-{{topic>:en:bible?goat&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* goat(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

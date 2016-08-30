@@ -14,7 +14,7 @@ the term "commander" refers to a leader of an army who is responsible for leadin
 
 ===== Bible References: =====
 
-{{topic>commander&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* commander(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

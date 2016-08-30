@@ -13,7 +13,7 @@ The term "inquire" means to ask someone for information. The idiom "inquire of" 
 
 ===== Bible References: =====
 
-{{topic>inquire&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* inquire(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

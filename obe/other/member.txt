@@ -12,7 +12,7 @@ The term "member" refers to one part of a complex body or group.
 
 ===== Bible References: =====
 
-{{topic>member&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* member(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

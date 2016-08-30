@@ -11,7 +11,7 @@ The term "provoke" means to cause someone to experience a negative reaction or f
 
 ===== Bible References: =====
 
-{{topic>:en:bible?provoke&nocomments}}
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* provoke(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}
 
 ~~DISCUSSION~~
 

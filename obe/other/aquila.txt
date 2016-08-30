@@ -15,7 +15,7 @@ Aquila was a Jewish Christian from the province of Pontus, a region along the so
 
 ===== Bible References: =====
 
-{{topic>:en:bible?aquila&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* aquila(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

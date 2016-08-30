@@ -16,7 +16,7 @@ A lion is a large, cat-like, wild animal, with powerful teeth and claws for kill
 
 ===== Bible References: =====
 
-{{topic>lion&nocomments}}
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* lion(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}
 
 ~~DISCUSSION~~
 

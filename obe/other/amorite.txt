@@ -17,7 +17,7 @@ The Amorites were a powerful group of people who were descended from Noah's gran
 ===== Bible References: =====
 
 
-{{topic>:en:bible?amorite&nocomments}}
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* amorite(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}
 
 
 ===== Examples from the Bible stories: =====

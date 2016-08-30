@@ -17,4 +17,4 @@ The term "sulfur" is the name of a yellow-colored substance called sulfur that b
 
 ===== Bible References: =====
 
-{{topic>:en:bible?sulfur&nocomments}}~~DISCUSSION~~{{tag>publish}}
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* sulfur(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~{{tag>publish}}

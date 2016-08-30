@@ -15,7 +15,7 @@ An idol is an object that people make so they can worship it. Something is descr
 
 ===== Bible References: =====
 
-{{topic>:en:bible?idol&nocomments}}
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* idol(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}
 
 ===== Examples from the Bible stories: =====
 

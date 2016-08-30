@@ -12,7 +12,7 @@ A heifer is an adult female cow that has not yet given birth to a calf.
 
 ===== Bible References: =====
 
-{{topic>:en:bible?heifer&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* heifer(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

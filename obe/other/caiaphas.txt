@@ -19,7 +19,7 @@ Caiaphas was the high priest of Israel during the time of John the Baptist and J
 ===== Bible References: =====
 
 
-{{topic>:en:bible?caiaphas&nocomments}}
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* caiaphas(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}
 
 
 ~~DISCUSSION~~

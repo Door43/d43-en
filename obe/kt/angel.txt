@@ -26,7 +26,7 @@ An angel is a powerful spirit being whom God created. Angels exist to serve God 
 
 ===== Bible References: =====
 
-{{topic>:en:bible?angel&nocomments}}
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* angel(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}
 
 ===== Examples from the Bible stories: =====
 

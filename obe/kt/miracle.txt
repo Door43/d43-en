@@ -24,7 +24,7 @@ A "miracle" is something amazing that is not possible unless God causes it to ha
 
 ===== Bible References: =====
 
-{{topic>:en:bible?miracle&nocomments}}
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* miracle(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}
 
 ===== Examples from the Bible stories: =====
 

@@ -23,7 +23,7 @@ The term "boast" means to talk proudly about something or someone. Often it mean
 
 ===== Bible References: =====
 
-{{topic>:en:bible?boast&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* boast(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

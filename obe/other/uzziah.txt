@@ -14,7 +14,7 @@ Around 800 BC, Uzziah became king of Judah at the age of 16, and reigned 52 year
 (See also: [[:en:obe:other:kingdomofjudah]], [[:en:obe:other:king]])
 ===== Bible References: =====
 
-{{topic>:en:bible?uzziah&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* uzziah(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

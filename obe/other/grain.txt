@@ -12,4 +12,4 @@ The term "grain" usually refers to the seed of a food plant such as wheat, barle
 
 ===== Bible References: =====
 
-{{topic>:en:bible?grain&nocomments}}~~DISCUSSION~~{{tag>publish}}
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* grain(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~{{tag>publish}}

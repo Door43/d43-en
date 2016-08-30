@@ -13,7 +13,7 @@ Lamech was the name of two men mentioned in the book of Genesis.
 
 ===== Bible References: =====
 
-{{topic>:en:bible?lamech&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* lamech(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

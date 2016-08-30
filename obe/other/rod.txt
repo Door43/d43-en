@@ -15,7 +15,7 @@ The term "rod" refers to a narrow, solid, stick-like tool that is used in severa
 
 ===== Bible References: =====
 
-{{topic>rod&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* rod(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

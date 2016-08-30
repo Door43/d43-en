@@ -14,7 +14,7 @@ Shechem is a town in Canaan located about 40 miles north of Jerusalem. Shechem i
 
 ===== Bible References: =====
 
-{{topic>:en:bible?shechem&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* shechem(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

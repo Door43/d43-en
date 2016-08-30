@@ -19,7 +19,7 @@ A vineyard is a garden, or plantation, where grape vines are grown and grapes ar
 ===== Bible References: =====
 
 
-{{topic>:en:bible?vineyard&nocomments}}
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* vineyard(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}
 
 
 ~~DISCUSSION~~

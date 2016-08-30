@@ -22,7 +22,7 @@ The term "witness" refers to a person who has personally experienced something t
 
 ===== Bible References: =====
 
-{{topic>:en:bible?witness&nocomments}}
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* witness(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}
 
 ===== Examples from the Bible stories: =====
 

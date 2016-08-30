@@ -18,7 +18,7 @@ To consecrate means to dedicate something or someone to serve God. The person or
 
 ===== Bible References: =====
 
-{{topic>:en:bible?consecrate&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* consecrate(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

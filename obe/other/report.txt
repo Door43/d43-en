@@ -14,7 +14,7 @@ The term "to report" means to tell people about something that happened, often g
 ===== Bible References: =====
 
  
-{{topic>:en:bible?report&nocomments}}
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* report(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}
 shows the interruption of thought and
 
 ~~DISCUSSION~~

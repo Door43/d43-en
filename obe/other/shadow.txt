@@ -14,7 +14,7 @@ The word "shadow" literally refers to the darkness that is caused by an object b
 
 ===== Bible References: =====
 
-{{topic>:en:bible?shadow&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* shadow(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

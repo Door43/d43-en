@@ -14,7 +14,7 @@ Gad is the name of one of the sons of Jacob, that is, Israel.
 
 ===== Bible References: =====
 
-{{topic>gad&nocomments}}
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* gad(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}
 
 ~~DISCUSSION~~
 

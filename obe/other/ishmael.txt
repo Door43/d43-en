@@ -17,7 +17,7 @@ Ishmael was the son of Abraham and the Egyptian slave Hagar. There are also seve
 
 ===== Bible References: =====
 
-{{topic>:en:bible?ishmael&nocomments}}
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* ishmael(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}
 
 ===== Examples from the Bible stories: =====
 

@@ -15,7 +15,7 @@ The term "slaughter" refers to killing a large number of animals or people, or t
 
 ===== Bible References: =====
 
-{{topic>slaughter&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* slaughter(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

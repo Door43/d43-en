@@ -17,7 +17,7 @@ These terms have figurative meanings relating to death.
 
 ===== Bible References: =====
 
-{{topic>:en:bible?sleep&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* sleep(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

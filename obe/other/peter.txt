@@ -17,7 +17,7 @@ Peter was one of Jesus' twelve apostles. He was an important leader of the early
 
 ===== Bible References: =====
 
-{{topic>:en:bible?peter&nocomments}}
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* peter(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}
 
 
 ===== Examples from the Bible stories: =====

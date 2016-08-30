@@ -24,7 +24,7 @@ The figurative expression "right hand" refers to the place of honor or strength 
 
 ===== Bible References: =====
 
-{{topic>:en:bible?righthand&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* righthand(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

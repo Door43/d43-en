@@ -12,7 +12,7 @@ Myrrh is an oil or spice that is made from the resin of a myrrh tree that grows 
 
 ===== Bible References: =====
 
-{{topic>:en:bible?myrrh&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* myrrh(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

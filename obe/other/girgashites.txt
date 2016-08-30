@@ -14,7 +14,7 @@ The Girgashites were a people group living near the Sea of Galilee in the land o
 
 ===== Bible References: =====
 
-{{topic>:en:bible?girgashites&nocomments}}
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* girgashites(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}
 
 ~~DISCUSSION~~
 

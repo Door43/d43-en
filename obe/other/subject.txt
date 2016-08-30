@@ -13,7 +13,7 @@ The term "subject" refers to being under the authority of someone. The phrase "b
 
 ===== Bible References: =====
 
-{{topic>subject&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* subject(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

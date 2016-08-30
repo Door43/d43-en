@@ -15,4 +15,4 @@ Elders are spiritually mature men who have responsibilities of spiritual and pra
 
 ===== Bible References: =====
 
-{{topic>:en:bible?elder&nocomments}}~~DISCUSSION~~{{tag>publish}}
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* elder(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~{{tag>publish}}

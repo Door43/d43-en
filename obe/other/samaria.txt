@@ -17,7 +17,7 @@ Samaria was the name of a city and its surrounding region in the northern part o
 
 ===== Bible References: =====
 
-{{topic>:en:bible?samaria&nocomments}}
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* samaria(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}
 
 
 ===== Examples from the Bible stories: =====

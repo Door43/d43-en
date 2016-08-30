@@ -17,7 +17,7 @@ The names Kadesh, Kadesh-Barnea, and Meribah Kadesh all refer to an important ci
 
 ===== Bible References: =====
 
-{{topic>:en:bible?kadesh&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* kadesh(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

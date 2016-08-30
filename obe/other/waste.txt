@@ -9,7 +9,7 @@ To waste something means to carelessly throw it away or to use it unwisely. A "w
 
 ===== Bible References: =====
 
-{{topic>:en:bible?waste&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* waste(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

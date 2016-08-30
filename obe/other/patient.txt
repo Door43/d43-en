@@ -12,7 +12,7 @@ The terms "patient" and "patience" refer to persevering through difficult circum
 
 ===== Bible References: =====
 
-{{topic>patient&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* patient(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

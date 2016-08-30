@@ -22,7 +22,7 @@ The term "authority" refers to the power of influence and control that someone h
 ===== Bible References: =====
 
 
-{{topic>:en:bible?authority&nocomments}}
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* authority(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}
 
 
 ~~DISCUSSION~~

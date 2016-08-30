@@ -20,7 +20,7 @@ Yeast is a substance that makes bread dough rise. It is sometimes called leaven.
 ===== Bible References: =====
 
  
-{{topic>:en:bible?yeast&nocomments}}
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* yeast(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}
 
 
 {{tag>publish}}

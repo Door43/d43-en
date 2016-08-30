@@ -15,7 +15,7 @@ These terms refer to the hard material covering the bottom of the feet of certai
 
 ===== Bible References: =====
 
-{{topic>hooves&nocomments}}
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* hooves(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}
 
 ~~DISCUSSION~~
 

@@ -17,7 +17,7 @@ An "evangelist" is a person who tells other people the good news about Jesus Chr
 
 ===== Bible References: =====
 
-{{topic>evangelism&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* evangelism(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

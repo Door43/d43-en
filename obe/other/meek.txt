@@ -12,7 +12,7 @@ The term "meek" describes a person who is gentle, submissive, and willing to suf
 
 ===== Bible References: =====
 
-{{topic>:en:bible?meek&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* meek(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

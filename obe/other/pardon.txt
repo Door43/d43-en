@@ -19,7 +19,7 @@ The term "pardon" means to forgive and not punish someone for his sin.
 
 ===== Bible References: =====
 
-{{topic>pardon&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* pardon(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 
