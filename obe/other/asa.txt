@@ -12,7 +12,10 @@ Asa was a king who ruled over the kingdom of Judah for forty years, from 913-873
 
 ===== Bible References: =====
 
-{{topic>asa&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* asa(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}
+
+
+~~DISCUSSION~~
 
 ~~NOCACHE~~
 
