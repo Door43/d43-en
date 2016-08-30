@@ -16,7 +16,8 @@ Judas Iscariot was one of Jesus' apostles. He was the one who betrayed Jesus to 
 
 ===== Bible References: =====
 
-{{topic>:en:bible?judasiscariot&nocomments}}
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* judasiscariot(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}
+
 
 ===== Examples from the Bible stories: =====
 
