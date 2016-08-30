@@ -16,8 +16,8 @@ Hagar was an Egyptian woman who was Sarai's personal slave.
 
 ===== Bible References: =====
 
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* hagar(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}
 
-{{topic>:en:bible?hagar&nocomments}}
 
 ===== Examples from the Bible stories: =====
 
@@ -25,7 +25,6 @@ Hagar was an Egyptian woman who was Sarai's personal slave.
   ***[[:en:obs:notes:frames:05-02|[05-02]]]** **Hagar** had a baby boy, and Abram named him Ishmael.
 
 ~~DISCUSSION~~
-
 
 {{tag>publish ktobs}}
 
