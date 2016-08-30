@@ -12,10 +12,10 @@ Timothy was a young man from Lystra who became a believer in Christ as a result 
 (Translation suggestions: [[:en:ta:vol1:translate:translate_names]])
 
 
-
 ===== Bible References: =====
 
-{{topic>:en:bible?timothy&nocomments}}
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* timothy(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}
+
 
 ~~DISCUSSION~~
 
