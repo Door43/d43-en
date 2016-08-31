@@ -62,6 +62,7 @@
   * [[:en:obe:kt:life]]
   * [[:en:obe:kt:god]]
   * [[:en:obe:kt:trust]]
+  * [[:en:obe:other:humiliate]]
   * [[:en:obe:other:rejoice]]
   * [[:en:obe:kt:hope]]
   * [[:en:obe:other:shame]]
@@ -71,11 +72,12 @@
   * **General Information:** - See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]]
 
   * **A psalm of David** - Possible meanings are 1) David wrote the psalm or 2) the psalm is about David or 3) the psalm is in the style of David's psalms.
-  * **I lift up my life** - "I give my life to you"
-  * **Do not let me be humiliated** - AT: "Do not let my enemies humiliate me"
+  * **I lift up my life** - The phrase "life up my life" is a metaphor. Possible meanings are 1) the writer is giving himself to Yahweh, which means he is completely depending on Yahweh or 2) he is offering prayer and adoration to Yahweh. AT: 1) "I give my life to you" (UDB) or 2) "I worship and adore you" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **Do not let me be humiliated** - This can be stated in active form. AT: "Do not let my enemies humiliate me" (See: [[:en:ta:vol2:translate:figs_activepassive]])
   * **humiliated** - "ashamed"
-  * **rejoice triumphantly over me** - AT: "rejoice in triumph over me" or "defeat me and rejoice about it"
-  * **May no one who hopes in you be disgraced** - "Do not let those who hope in you be disgraced." Disgrace could come from being defeated by their enemies. AT: "Do not let those who hope in you be defeated by their enemies and ashamed by it" (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **rejoice triumphantly over me** - "rejoice in triumph over me." The phrase "over me" implies that his enemies have defeated him and stand above in victory. AT: "defeat me and rejoice about it" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **May no one who hopes in you be disgraced** - "Do not let those who hope in you be disgraced." Disgrace could come from being defeated by their enemies. This can be stated in active form. AT: "Do not let enemies defeat those who hope in you" (See: [[:en:ta:vol1:translate:figs_explicit]] and [[:en:ta:vol2:translate:figs_activepassive]])
+  * **who hope in you** - "who trust you"
   * **act treacherously** - "act deceitfully" or "act with trickery"
   * **without cause** - "without a reason"
 ===== Links: =====
@@ -85,6 +87,6 @@
   * [[:en:bible:questions:comprehension:psa:025]]
 **[[:en:bible:notes:psa:024:009|<<]] | [[:en:bible:notes:psa:025:004|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit book1}}
+~~DISCUSSION~~{{tag>publish p2check book1}}
 
 ~~NOCACHE~~
