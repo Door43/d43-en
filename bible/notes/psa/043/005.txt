@@ -35,9 +35,11 @@
   * [[:en:obe:other:praise]]
 ===== translationNotes: =====
 
-  * **Why are you bowed down, my soul?** - The author refers to himself as "my soul". The author speaks to himself as if he were speaking to another person. (See: [[:en:ta:vol2:translate:figs_synecdoche]])
-  * **disquieted** - "not at peace"
-  * **my help and my God** - This is written as two phases so that it has a stronger meaning. If necessary they can be combined. AT: "my God helps me" (See: [[:en:ta:vol2:translate:figs_hendiadys]])
+  * **Why are you bowed down, my soul? Why are you worried within me?** - The author refers to his inner self as his "soul." He asks these questions to rebuke himself. See how you translated this in [[:en:bible:notes:psa:042:005|42:5]]. AT: "I should not be bowed down. I should not be worried" (See: [[:en:ta:vol1:translate:figs_rquestion]] and [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **bowed down** - The writer speaks of depression or discouragement as if it were his soul being bent over. See how you translated this in [[:en:bible:notes:psa:042:005|42:5]]. AT: "discouraged" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **Hope in God** - The writer continues to speak to his own soul and commands it to trust God. See how you translated this in [[:en:bible:notes:psa:042:005|42:5]]. (See: [[en:ta:vol2:translate:figs_imperative]])
+  * **my help and my God** - The phrase "my help" refers to God. If necessary the two phrases can be combined. AT: "my God who helps me" (See: [[:en:ta:vol2:translate:figs_doublet]])
+
 ===== Links: =====
 
   * [[:en:bible:notes:psa:000:intro]]
@@ -45,6 +47,6 @@
   * [[:en:bible:questions:comprehension:psa:043]]
 **[[:en:bible:notes:psa:043:003|<<]] | [[:en:bible:notes:psa:044:001|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit book2}}
+~~DISCUSSION~~{{tag>publish p2check book2}}
 
 ~~NOCACHE~~
