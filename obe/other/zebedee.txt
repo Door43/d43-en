@@ -2,12 +2,17 @@
 
 ===== Facts: =====
 
-Zebedee was a fisherman from Galilee. His sons, James and John, worked with him. Then they left the work and became two of Jesus' apostles.
+Zebedee was a fisherman from Galilee who is known because of his sons, James and John, who were Jesus' disciples. They are often identified in the New Testament as the "sons of Zebedee."
+
+   * Zebedee's sons were also fishermen and worked with him to catch fish.
+   * James and John quit their fishing work with their father Zebedee and left to go follow Jesus.
 
 (Translation suggestions: [[:en:ta:vol1:translate:translate_names]])
 
-(See also: [[jamessonofzebedee]], [[johntheapostle]])
+(See also: [[:en:obe:kt:disciple]], , [[:en:obe:other:fisherman]], [[:en:obe:other:jamessonofzebedee]], [[:en:obe:other:johntheapostle]])
 
 ===== Bible References: =====
 
-{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* zebedee(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~{{tag>publish}}
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* zebedee(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
+
+{{tag>publish ktlink}}
