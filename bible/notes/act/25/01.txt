@@ -33,7 +33,6 @@
 ===== translationWords: =====
 
   * [[:en:obe:other:province]]
-  * [[:en:obe:other:biblicaltimeday]]
   * [[:en:obe:other:caesarea]]
   * [[:en:obe:other:jerusalem]]
   * [[:en:obe:other:chiefpriests]]
@@ -41,6 +40,7 @@
   * [[:en:obe:other:accuse]]
   * [[:en:obe:other:paul]]
   * [[:en:obe:kt:favor]]
+
 ===== translationNotes: =====
 
   * **General Information:** - Festus is now the governor of Caesarea. 
@@ -61,6 +61,6 @@
   * [[:en:bible:questions:comprehension:act:25]]
 **[[:en:bible:notes:act:24:26|<<]] | [[:en:bible:notes:act:25:04|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check caesarea }}
+~~DISCUSSION~~{{tag>publish p2check caesarea}}
 
 ~~NOCACHE~~
