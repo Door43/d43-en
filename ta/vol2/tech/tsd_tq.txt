@@ -3,11 +3,9 @@
 //This answers the question:// //What steps do I follow when I translate the translationQuestions?//
 
 //In order to understand this topic, it would be good to read://
-  * //[[en:ta:vol2:tech:tsd_intro|translationStudio-Desktop Introduction]]//
-  * //[[en:ta:vol2:tech:tsd_install|translationStudio-Desktop v7 Installation]]//
-  * //[[en:ta:vol3:gateway:gl_questions|Translate the translationQuestions]]//
+  * //[[en:ta:vol2:tech:tsd_settings]]
 
-Have you read the information in the article on [[en:ta:vol3:gateway:gl_questions]]? It is **very important** to understand the guidelines before translating the translationQuestions.
+Have you read the information in the article on [[en:ta:vol3:gateway:gl_questions]]? It is **very important** to understand the guidelines before translating the translationQuestions. You should also read the information found on: https://unfoldingword.org/academy/ta-gateway-language.html#vol3_gateway_gl_questions.
 
 This module explains the steps to translating the translationQuestions using translationStudio-Desktop.
 
@@ -15,7 +13,9 @@ We want all translations of the Bible to communicate clearly the message that Go
 
 There is a set of questions for each chapter of the books of the Bible.
 
-=== First, Create a translationQuestion Project ===
+**NOTE**: The Gateway Language mode must be active to be able to translate the translationQuestions. See [[en:ta:vol2:tech:tsd_settings]] for more information.
+
+=== Create a translationQuestion Project ===
 
 From any screen in the program, click on the 3-dot menu icon found in the bottom left corner of the window.
   * Click on the word "Home"
@@ -28,7 +28,7 @@ From any screen in the program, click on the 3-dot menu icon found in the bottom
   * Click on the empty square box next to the desired source translation.
   * Click on "Confirm" at the bottom of the window to save the selection. Or, click on "Cancel" to close and not save the selected language. There MUST be a source language chosen
 
-=== Second, Start the translationQuestion Project ===
+=== Start the translationQuestion Project ===
 
 From any screen in the program, click on the 3-dot menu icon found in the bottom left corner of the window.
   * Click on the word "Home."
@@ -39,7 +39,7 @@ The project window opens. The 4 sections displayed are (from left to right):
   - The target language questions (tan or gray color)
   - The resources for the source text.
 
-=== Third, Translate the translationQuestions ===
+=== Translate the translationQuestions ===
 
   * Read a chapter, or story, that has been translated into the Gateway Language.
   * Go to the first chunk.
@@ -60,21 +60,19 @@ The Gateway Language translator should make the decision if there should be a qu
   * To leave the chunk without questions - click on the 'Mark chunk as done' slider to confirm that the chunk is complete. 
   * To remove a question - click on the X at the top right of the Question box.
 
-=== Finally, Mark the Chunk as Done and go to the Next Chunk ===
+=== Mark the Chunk as Done and go to the Next Chunk ===
 
 When all of the questions and answers have been translated
-  * Click on the slider at the bottom right of the chunk.
+  * Click on the slider at the bottom right of the term to mark the question as 'done.'
   * Click on 'Confirm' in the pop-up window.
 
-Continue to the next chunk until all of the chunks for a chapter or story are complete. 
+Continue to the next chunk until all of the questions for a chapter or story are complete. 
 
 === Repeat these four steps until the entire book is done. ===
 
 
 
 //Next we recommend you learn about://
-  * //[[en:ta:vol2:tech:tsd_navigate|Navigating translationStudio-Desktop v7]]//
-  * //[[en:ta:vol2:tech:tsd_tn|The Process for Translating the translationNotes]]//
-  * //[[en:ta:vol2:tech:tsd_tw|The Process for Translating the translationWords]]//
-  * //[[en:ta:vol2:tech:tsd_ta|The Process for Translating translationAcademy]]//
+  * //[[en:ta:vol2:tech:tsd_tn]]//
+  * //[[en:ta:vol2:tech:tsd_tw]]
 
