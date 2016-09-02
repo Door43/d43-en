@@ -50,11 +50,13 @@
 
 ===== translationNotes: =====
 
-  * **it** - Here "it" refers to the feast day.
-  * **the God of Jacob** - AT: "the God of Israel, the nation of Jacob's descendants" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **For it** - Here "it" refers to the feast day.
+  * **a decree given by the God of Jacob** - This can be stated in active form. AT: "the God of Jacob decreed it" or "the God of Jacob commanded it" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **the God of Jacob** - Here "Jacob" represents all of his descendants. AT: "the God of Israel, the nation of Jacob's descendants" (See: [[:en:ta:vol2:translate:figs_metonymy]])
   * **issued it as a regulation** - "gave it as a law"
-  * **Joseph** - Here "Joseph" represents the nation of Israel.
+  * **Joseph** - Here "Joseph" represents the nation of Israel. (See: [[:en:ta:vol2:translate:figs_metonymy]])
   * **when he went against the land of Egypt** - This refers to the historical events in Egypt when the people of Israel were enslaved and God rescued them. (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **the land of Egypt** - This represents the people of Egypt. (See: [[:en:ta:vol2:translate:figs_metonymy]])
 ===== Links: =====
 
   * [[:en:bible:notes:psa:000:intro]]
@@ -62,6 +64,6 @@
   * [[:en:bible:questions:comprehension:psa:081]]
 **[[:en:bible:notes:psa:081:001|<<]] | [[:en:bible:notes:psa:081:006|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit book3}}
+~~DISCUSSION~~{{tag>publish p2check book3}}
 
 ~~NOCACHE~~
