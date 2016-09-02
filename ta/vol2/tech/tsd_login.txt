@@ -27,15 +27,15 @@ The welcome screen will be displayed with a request to create an user account.
   - Type in the account information from Door43.
   - Click the Login button.
 
-=== Translator has not have a Door43 Account  ===
-
-  - On the opening screen, click on the //Create a Door43 Account// bar to create a new Door43user account.  The Door43 Account Creation window opens. (This requires an Internet connection.)
+=== Translator does not have a Door43 Account  ===
+**NOTE**: This requires an Internet connection.
+  - On the opening screen, click on the //Create a Door43 Account// bar to create a new Door43user account.  The Door43 Account Creation window opens. 
   - Enter the translator's information into the spaces. (You need to click on the gray words to show the field.)
   - Click on the Submit button to begin registration.
 
 === Create Local User Profile ===
 
-  - Click on the gray 'Full Name or Pseudonym' words and type in the name, or pseudonym, of the translator into the field.
+  - Click on the gray 'Full Name or Pseudonym' words and type the name, or pseudonym, of the translator into the field.
   - Click on the OK button to continue.
 
 **Note:** Click on the //Local User Profile// link if you do not want to create a new account at this time or are not able to connect to the Internet.
@@ -43,7 +43,7 @@ The welcome screen will be displayed with a request to create an user account.
 === Note: This screen can be accessed (to change login or translator settings) by following these steps: ===
 
   * From the 'Your Translation Projects' screen:
-    * Click the 3-dot menu
+    * Click the 3-dot menu found at the bottom left of the window.
     * Choose Logout
 
 OR
