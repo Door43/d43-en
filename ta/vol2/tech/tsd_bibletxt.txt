@@ -22,11 +22,11 @@ As you translate, be sure that you:
 
 ==== Create Translation Text ====
 
-**Note:** "Source Language" refers to the language from which the translation is being done. "Target Language" refers to the language into which the translation is being done.''
+**Note:** "Source Language" refers to the language from which the translation is being done. "Target Language" refers to the language into which the translation is being done.
 
 To write the translation in your language: 
   * Go to the story or book that is being translated.
-  * In the **Chapter or Story** view, read the source text.
+  * In the **Read** view, read the source text.
   * Click on the **Chunk** view to begin translating.
 **Note:** The program is designed for using the process of blind drafting. You may want to read [[en:ta:vol1:translate:mast]] to understand the steps of blind drafting translation.
   * Click on the paper that is showing to the right of the source text chunk. Type in the translation for that chunk on the page. (Note the reference at the top of the chunk, just above the red line.)
