@@ -13,7 +13,7 @@ The Import/Restore function is helpful to:
 
   * Click the 3-dot menu icon.
   * Click the 'Import/Restore' link on the menu. The 'Import/Restore Options' window opens. You may choose to:
-    *  **Import from tStudio file** - the file will merge with the existing project, if one exists.
+    *  **Import from Project File** - the file will merge with the existing project, if one exists.
       * NOTE: There will need to be a .tstudio file on the computer. 
       * The 'File Manager' window opens.
       * Find and choose the desired file. Click the 'Open' button.
@@ -28,7 +28,7 @@ The Import/Restore function is helpful to:
       * Click on the project name. 
       * Wait for the download to complete. 
       * Click on 'CLOSE' when the download is done.
-    * **Restore from tStudio file** - the file will __**overwrite**__ the existing project, if one exists.
+    * **Restore from Project file** - the file will __**overwrite**__ the existing project, if one exists.
       * NOTE: There will need to be a .tstudio file on the computer. 
       * The 'File Manager' window opens.
       * Find and choose the desired file. Click the 'Open' button.
