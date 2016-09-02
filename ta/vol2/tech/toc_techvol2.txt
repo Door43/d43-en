@@ -8,7 +8,10 @@
   - [[en:ta:vol2:tech:tsd_login]]
   - [[en:ta:vol2:tech:tsd_termsofuse]]
   - [[en:ta:vol2:tech:tsd_navigate]]
-  - [[en:ta:vol2:tech:tsd_translate]] 
+  - [[en:ta:vol2:tech:tsd_translate]]
+  - [[en:ta:vol2:tech:tsd_create]]
+  - [[en:ta:vol2:tech:tsd_select]]
+  - [[en:ta:vol2:tech:tsd_request]]
   - [[en:ta:vol2:tech:tsd_projects]]
   - The Three-Dot Menu Items
     - In the 'Your Translation Projects' Window
@@ -28,7 +31,7 @@
       - [[en:ta:vol2:tech:tsd_feedback]]
       - [[en:ta:vol2:tech:tsd_settings]]
   - [[en:ta:vol2:tech:tsd_d43publish]]
-  - [[en:ta:vol2:tech:tsd_create]]
+
 
 
 ==== Using translationStudio-Desktop ====
