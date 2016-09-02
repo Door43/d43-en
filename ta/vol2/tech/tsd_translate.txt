@@ -15,7 +15,7 @@ After agreeing to the **Terms of Use** you are ready to start a new project
 
 === 1. Choose a Target Language  ===
 
-The 'target language' is the language into which the translation is being done.
+The 'target language' is the language //into// which the translation is being done.
   * You may use the scroll bar to the right of the languages to find the target language.
   * You may click on the words 'Choose target language' to lookup the target language. Type in the name of the target language.
   * Click on the name of the target language. The choose a language window closes.
@@ -37,16 +37,16 @@ Choose between the different types of projects:
 == Open Bible Stories ==
 
   * On the New Project screen, click on Open Bible Stories.
-Gateway Projects will choose the type of project from: Text, Notes or Questions. You will need to have an OBS project in the same target language started before you can start a Notes or Questions project.
+**Note**: Gateway Projects will choose the type of project from: Text, Notes or Questions. You will need to have an OBS project in the same target language started before you can start a Notes or Questions project.
   * Click on the square icon with the + and - sign directly under the prompt or at the top right of the source text window.
-  * Click on the empty square box next to the desired source language.
+  * Click on the empty square box next to the desired source language from which the translation is being made.
   * Click on "Confirm" at the bottom of the window to save the selection. Or, click on "Cancel" to close and not save the selected language. There MUST be a source language chosen.
 
 == Old Testament  or New Testament ==
 
   * On the New Project screen, click on Old Testament or New Testament.
   * Scroll to choose a book to translate.
-Gateway Projects will choose the type of project from: Text - Unlocked Literal Bible, Text - Unlocked Dynamic Bible, Notes or Questions. You will need to have a project started in the same book and target language before you can start a Notes or Questions project.
+**Note**: Gateway Projects will choose the type of project from: Text - Unlocked Literal Bible, Text - Unlocked Dynamic Bible, Notes or Questions. You will need to have a project started in the same book and target language before you can start a Notes or Questions project.
   * Click on the square icon with the + and - sign directly under the prompt or at the top right of the source text window.
   * Click on the empty square box next to the desired source language.
   * Click on "Confirm" at the bottom of the window to save the selection. Or, click on "Cancel" to close and not save the selected language. There MUST be a source language chosen.
@@ -60,7 +60,7 @@ Next: go to [[en:ta:vol2:tech:tsd_create]].
 You can start a new project anytime by:
   * Click on the 3-dot menu.
   * Choose "Home" menu item.
-  * Click on the blue button in the top right of the screen.
+  * Click on the blue circle with the white plus (+) sign at the top right of the window.
   * Follow the three steps above.
 
 Go to the following to learn how to set-up and translate the translation helps:
