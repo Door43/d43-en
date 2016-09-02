@@ -10,13 +10,13 @@ The Feedback option can be used for three major reasons:
     * Asking questions about the program
     * Making suggestions about the program
 
-NOTE: This will use the Internet connection.
+NOTE: This will require an Internet connection.
 
 === Reporting Errors ===
 
 Sometimes translationStudio may not work as expected.
 
-At times the program may restart, also called a 'crash'. This is most likely not because of what the translator did. When this happens, the **Feedback** window will open and a request to type into the space an explanation of what was being done just before the program restarted.
+At times the program may restart, also called a 'crash'. This is most likely not because of what the translator did. When this happens, the **Feedback** window will automatically open. The user will be asked to type in an explanation of what was being done just before the program stopped. Click the 'Submit' button when the information has been typed in. 
 
 === Asking Questions or Making Suggestions ===
 
