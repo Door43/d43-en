@@ -31,6 +31,8 @@
 
 **Passage** - A section of the Bible text that is being talked about. This can be as small as one verse, but it is usually several verses that together have one topic or tell one story. 
 
+**Project** - The translation work of any biblical book, an Open Bible Story, translationWords, the translationNotes or translationQuestions of a Bible book or Bible story, or the translationAcademy is a project.
+
 **Questions** - The translationQuestions are about information as it appears in the story on in the ULB. Read the question and answer it according to the translated text. Click on the question for the expected answer. If the given answer and the expected answer are the same then the translation might be clear and accurate. 
 
 **Read Mode** -  For scripture translation, the source text is displayed one chapter at a time. For a written translation, the translator would read the chapter, and for an oral translation the translator would listen to the chapter. Read the passage to get an understanding of the meaning of the text. 
