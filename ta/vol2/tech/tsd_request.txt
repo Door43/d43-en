@@ -9,17 +9,17 @@ If you do not see your languages in the list of target languages, first try alte
 
 The best way to submit a request is to send an email to help@door43.org. Another method is to submit a Bug Report from the Feedback menu. In either case, please provide as much information as you can about the language, such as the local name of the language, any other names it is known by, approximate number of speakers, where it is spoken, what languages are similar to it, any published works in that language, etc.
 
-Note that even after requesting a new language, certain approvals are required before it will be added to translationStudio. Until your language is added to the APP, use //English Demo1// or //English Demo2//. You will need to go to the Feedback menu and send a comment stating that you used another language for your own. Once your translation has been received, the tS workers will put it in the correct language. Then your translation will then show in your language.
+Note that even after requesting a new language, certain approvals are required before it will be added to translationStudio. Until your language is added, use //English Demo1// or //English Demo2//. You will need to go to the Feedback menu and send a comment stating that you used another language for your own. Once your translation has been received, the tS workers will put it in the correct language. Then your translation will then show in your language.
 
 Use **Feedback** in the 3-dot menu to request a new language:
-  - From any screen in translationStudio, tap on the three dots on the left.
-  - In the list of options, tap **Feedback**.
-  - The **Feedback** screen opens. Type the name of the language you would like added to translationStudio. Provide the location pf the speakers and other names the language is known by. If you used a language that is already in the APP, tell which language you used.
-  - Tap **Confirm** to send your request.
+  - From any screen in translationStudio Desktop, click on the three dots on the bottom left of the window.
+  - In the list of options, click **Feedback**.
+  - The **Feedback** screen opens. Type the name of the language you would like added to translationStudio. Provide the location of the speakers and other names the language is known by. If you used a language that is already in the program, write which language you used.
+  - Click **Confirm** to send the information.
 
 
 //Next we recommend you learn about://
-  * //[[en:ta:vol1:tech:tsd_navigate]]//
-  * //[[en:ta:vol1:tech:tsd_translate]]//
+  * //[[en:ta:vol2:tech:tsd_navigate]]//
+  * //[[en:ta:vol2:tech:tsd_translate]]//
 
 
