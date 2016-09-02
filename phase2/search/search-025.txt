@@ -1,13 +1,8 @@
-====== Search 025: Topic ======
+====== Search 025: Notes following TA links ======
 
 ~~NOCACHE~~
 
-The script on this page searches for a string of text anywhere in the notes, the ULB, and the UDB. To modify the search, open in edit view and change the text between the quotation marks following the -q.  
 
-//Note: Special characters and symbols must be preceded by a backslash "\".//
+==== Search results: ====
 
-
-search results:
-
-
-{{door43pages @:en:bible:notes -r -q="his son became king" -exclude:home -simpleLineBreak -title -fontsize="90%"}}
+{{door43pages @:en:bible:notes -r -q="\(See:[^\(\)]*\) ?\w+" -exclude:home -exclude:00 -exclude:intro -simpleLineBreak -title -fontsize="90%"}}
