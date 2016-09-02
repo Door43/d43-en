@@ -45,11 +45,11 @@ On the Home or Your Translation Projects window the menu has:
 
 In the project window there are three additional working view icons. 
 
-The **Consume** icon is the top left and looks like full sheets of paper. Use the scroll bar on the right to read the entire chapter or story in the source language. Read the passage to get an understanding of the meaning of the text. (See: [[en:ta:vol2:tech:tsd_create]] for more information.)
+The **Read** icon is the top left and looks like full sheets of paper. Use the scroll bar on the right to read the entire chapter or story in the source language. Read the passage to get an understanding of the meaning of the text. (See: [[en:ta:vol2:tech:tsd_create]] for more information.)
 
 The **Chunk** icon is the middle icon on the left and looks like a solid line square over a dotted line square. This is the section that is used to translate the source text into the target language. Scroll down or up to move from chunk to chunk (a small section of the story or chapter). Click on the piece of paper showing behind for a blank page to type in the target language translation of the text.
 
-The **Check** icon is the bottom icon on the left and looks like a clipboard with a check mark. In this view the source text is on the left, the translation work is in the middle. If necessary, scroll from the left to the right side to show the resources for that chunk. (See: [[en:ta:vol2:tech:tsd_resources]] for more information.) Scroll up or down to move from chunk to chunk.
+The **Review** icon is the bottom icon on the left and looks like a clipboard with a check mark. In this view the source text is on the left, the translation work is in the middle. If necessary, scroll from the left to the right side to show the resources for that chunk. (See: [[en:ta:vol2:tech:tsd_resources]] for more information.) Scroll up or down to move from chunk to chunk.
 
 
 //Next we recommend you learn about://
