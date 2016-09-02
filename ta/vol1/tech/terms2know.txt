@@ -5,7 +5,7 @@
 
 ==== Important Words to Know ====
 
-//Note: These are terms that the Technology Manual will use. The translator will need to understand these terms in order to use the technology.//
+//Note: These are terms that the Technology Manual will use. The translator will need to know the meaning of these terms in order to understand some of the instructions.//
 
 **Chunk** - A chunk is a small part of the Bible text. In translationStudio, a chunk will have one or more verses. The content of the chunks is set and cannot be changed in the translationStudio program by the translator.
 
