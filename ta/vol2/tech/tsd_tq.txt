@@ -3,7 +3,7 @@
 //This answers the question:// //What steps do I follow when I translate the translationQuestions?//
 
 //In order to understand this topic, it would be good to read://
-  * //[[en:ta:vol2:tech:tsd_settings]]
+  * //[[en:ta:vol2:tech:tsd_settings]]//
 
 Have you read the information in the article on [[en:ta:vol3:gateway:gl_questions]]? It is **very important** to understand the guidelines before translating the translationQuestions. You should also read the information found on: https://unfoldingword.org/academy/ta-gateway-language.html#vol3_gateway_gl_questions.
 
@@ -74,5 +74,6 @@ Continue to the next chunk until all of the questions for a chapter or story are
 
 //Next we recommend you learn about://
   * //[[en:ta:vol2:tech:tsd_tn]]//
-  * //[[en:ta:vol2:tech:tsd_tw]]
+  * //[[en:ta:vol2:tech:tsd_tw]]//
+
 
