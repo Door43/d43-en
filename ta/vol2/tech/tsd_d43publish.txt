@@ -1,6 +1,6 @@
-===== Publishing my Translation =====
+===== Publishing a Gateway Language Translation as a Source Text =====
 
-//This answers the question:// //How do I publish my work that I did in the tS-Desktop program?//
+//This answers the question:// //How do we publish a source text in the tS-Desktop program?//
 
 //In order to understand this topic, it would be good to read://
   * //[[en:ta:vol1:process:publishing_prereqs]]//
@@ -10,56 +10,50 @@ Please read the information on [[en:ta:vol1:process:publishing_process]] before 
 
 ==== Upload the Translation Project ====
 
-When you publish your work there are several steps to the process. The process begins in translationStudio when you select **Upload** from the 3 dot icon menu. This uploads the translation to the Door43 repository. See [[en:ta:vol2:tech:tsd_d43upload]] for step-by-step instructions.
+When you publish your work there are several steps to the process. The process begins in translationStudio when you select **Upload** from the 3 dot icon menu. This uploads the translation to the Door43 website. See [[en:ta:vol2:tech:tsd_d43upload]] for step-by-step instructions.
 
 ==== Documentation Process ====
 
-The process continues when you submit the **Request to Publish** (https://git.door43.org/Door43/SourceTextRequestForm/issues/new) form for your translation to appear in the unfoldingWord website and applications. The Gateway Language translations will also show in translationStudio as a source text and translationHelps. 
+The process continues when you submit the **Source Text Request Form** (https://git.door43.org/Door43/SourceTextRequestForm/issues/new) for the Gateway Language translation to appear in the unfoldingWord website and also show in translationStudio as a source text and translationHelps. 
 
-The Request to Publish form includes several pieces of data such as your contact information, the requested checking level, translation contributors, etc. The person who reviews the request will verify that each contributor provided a legal signature.
+The Source Text Request form includes several pieces of data such as your contact information, the requested checking level, translation contributors, etc. The person who reviews the request will verify that each contributor provided a legal signature.
 
-=== How to Edit the Request to Publish Form ===
+=== How to Edit the Source Text Request Form ===
 
-When you click on the link above, you will see the form in an editor. 
-Click on the word 'Preview' above the editor box to see the finished document.
+  * Go to the https://git.door43.org/Door43/SourceTextRequestForm/issues/new page
+    * You may need to sign into the git.door43.org website. Use the same Door43 Account information as the translationStudio program.
+  * Follow the "Editing this Source Text Request Form" Instructions.
 
-**You will need to fill out this form if you have a Gateway Language that is ready to become a source text.**
-
-== NOTE: All information on and attached to this form is public.==
-
-  * Please do not remove or change any of the **bold** field names.
-  * The words in gray font are links. The links are active in the Preview mode. Please do not remove or edit the links.
-
-== Follow the "How to Fill out this Form" Instructions ==
-  * In the Title bar, above the 'Write' and 'Preview' tabs, type in the Language Name.
-  * The words in bold describe the information required.
-  * Fill-in or choose the answer, or answers, that best describes the submitted translation work.
-  * Once you have filled in all the information - click the green "Create Issue" button.
-
-**Create Issue** - this is not an issue but a request that can be tracked and accessed by several people.
+NOTE: **Create Issue** - this is not an issue but a request that can be tracked and accessed by several people.
 
 == What Happens Next? ==
   * After the 'form' has been submitted - a notification will go to the people that will create the source text file.
     * You will receive notification that actions are being done on the submission (issue.)
-    * You can see the submission on the 'Desktop' section of your git.door43.org account page.
+    * You can see the submission on the 'Dashboard' section of your git.door43.org account page.
+      * Look for "username opened issue Door43/SourceTextRequestForm#" in the list of links.
       * Click on the blue link to look at the issue.
-      * Click on the pencil icon to edit the form.
-      * Click on the 'Save' button at the bottom of the editor.
-  * Once created - the translated text can be seen in translationStudio and on the unfoldingWord.org website.
+      * To edit the form:
+        * Click on the pencil icon to edit the form.
+        * At the bottom of the editor, click on the 'Cancel' button to exit the editor or the 'Save' button to save the edits.
+      * Comments are a good way to communicate with those that are processing the request. To add comments to the form:
+        * Click in the editor box at the bottom of the page with the form.
+        * Type in responses or comments for the reviewers.
+        * Click the green 'Comment' button to save the comments.
+
+
 ==== Questions Regarding the Request to Publish Form and Process ====
 
 === What Happens After Text is Approved? ===
 
-When the Request to Publish is approved, the text is made available on unfoldingword.org for online viewing, as a downloadable, print-ready PDF, and it appears in the unfoldingWord app.
+When the Source Text Request is approved, the text is made available in the translationStudio programs as a source text.
 
 === Can Text Be Changed After Level 3 Checking? ===
 
-Approved text can always be modified in translationStudio even after all checking levels are completed, HOWEVER if you or another user were to submit a Request to Publish for text that has already completed Level 3 checking, there would be questions regarding the reason for overwriting the previously published and checked materials. The approver will look to see who contributed to the change and may contact the requestor and others involved with the translation of the text in question to ensure the changes are valid.
+Approved text can always be modified in translationStudio even after all checking levels are completed, HOWEVER if you or another user were to submit a Source Text Request for text that has already completed Level 3 checking, there would be questions regarding the reason for overwriting the previously published and checked materials. The approver will look to see who contributed to the change and may contact the requestor and others involved with the translation of the text in question to ensure the changes are valid.
 
 === Must All Contributors Be Named? ===
 
 Due to copyright laws (and these exist no matter what country you are in and no matter what people tell you about laws in that country), you must list __every__ contributor on the Request to Publish form and provide a legal signature for each person. In certain cases we understand they cannot be named, however you can provide the established pseudonym for that person.
-
 
 
 //Next we recommend you learn about://
