@@ -26,8 +26,8 @@ As you translate, be sure that you:
 
 To write the translation in your language: 
   * Go to the story or book that is being translated.
-  * In the **Read** view, read the source text.
-  * Click on the **Chunk** view to begin translating.
+  * In the **Read** mode, read the source text. The "Read" icon is the top left and looks like full sheets of paper.
+  * Click on the **Chunk** mode to begin translating. The "Chunk" icon is the middle icon on the left and looks like a solid line square over a dotted line square.
 **Note:** The program is designed for using the process of blind drafting. You may want to read [[en:ta:vol1:translate:mast]] to understand the steps of blind drafting translation.
   * Click on the paper that is showing to the right of the source text chunk. Type in the translation for that chunk on the page. (Note the reference at the top of the chunk, just above the red line.)
     * Start translating using the blind draft process - Draft the chunk as well as you can without looking back at the text. Write everything that you remember about that chunk. Do not look back at the source text for this chunk until you begin the editing steps. Continue doing this with each chunk of the chapter before moving to the checking steps.
