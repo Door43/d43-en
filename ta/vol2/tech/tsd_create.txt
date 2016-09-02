@@ -20,7 +20,7 @@ To write the translation in your language:
 
 ==== Edit Translation Text ====
 
-When you use translationStudio, you have the ability to create and change text. Use the **Chunk** or **Check** views to edit existing work that you or another translator created. Your work will be saved automatically every five minutes.
+When you use translationStudio, you have the ability to create and change text. Use the **Chunk** or **Review** views to edit existing work that you or another translator created. Your work will be saved automatically every five minutes.
 
 In the **Check** view the source text is on the left, the translation work is in the middle. If necessary, scroll from the left to the right side to show the resources for that chunk. Scroll up or down to move from chunk to chunk. The UDB and all of the translationNotes, translationWords and translationQuestions have been included in the translation helps. See [[en:ta:vol2:tech:tsd_resources]] for more information.
 
