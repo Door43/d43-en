@@ -48,6 +48,8 @@
   * [[:en:obe:other:david]]
   * [[:en:obe:other:acknowledge]]
   * [[:en:obe:kt:yahweh]]
+  * [[:en:obe:kt:son]]
+  * [[:en:obe:other:mighty]]
   * [[:en:obe:kt:glory]]
   * [[:en:obe:kt:power]]
   * [[:en:obe:kt:name]]
@@ -59,7 +61,9 @@
   * **General Information:** - See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]]
 
   * **A psalm of David** - Possible meanings are 1) David wrote the psalm or 2) the psalm is about David or 3) the psalm is in the style of David's psalms.
-  * **sons of the mighty** - AT: "mighty men" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **sons of the mighty** - The phrase "sons  of" is a way of saying "having the characteristics of." AT: "mighty men" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **Yahweh has glory and power** - The abstract nouns "glory" and "power" can be stated as adjectives. AT: "Yahweh is glorious and powerful" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
+  * **Give to Yahweh the honor that his name deserves** - The abstract noun "honor" can be stated as a verb or adjective. AT: "Honor Yahweh just as his name deserves" or "Proclaim that Yahweh is glorious just as his name deserves" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
   * **that his name deserves** - The phrase "his name" refers to Yahweh or his reputation. AT: "as he deserves" (See: [[:en:ta:vol2:translate:figs_metonymy]]}
   * **that is suitable** - "that is right"
 ===== Links: =====
@@ -69,6 +73,6 @@
   * [[:en:bible:questions:comprehension:psa:029]]
 **[[:en:bible:notes:psa:028:009|<<]] | [[:en:bible:notes:psa:029:003|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit acknowledge book1}}
+~~DISCUSSION~~{{tag>publish p2check acknowledge book1}}
 
 ~~NOCACHE~~
