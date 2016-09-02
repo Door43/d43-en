@@ -13,7 +13,7 @@ You must have the ULB available so that you can copy the part of the ULB text th
 
 Do not use the method of blind drafting to translate the translationNotes. Always translate the translationNotes with the Gateway Language ULB and UDB in front of you, and the English translationNotes also visible. This is because you must copy the ULB phrase into the translationNote exactly as it is in the ULB, and you must also copy the UDB phrase if the translationNote also quotes the UDB.
 
-**NOTE**: The Gateway Language mode must be active to be able to translate the translationWords. See [[en:ta:vol2:tech:tsd_settings]] for more information.
+**NOTE**: The Gateway Language mode must be active to be able to translate the translationNotes. See [[en:ta:vol2:tech:tsd_settings]] for more information.
 
 === Create a translationNotes Project ===
 
