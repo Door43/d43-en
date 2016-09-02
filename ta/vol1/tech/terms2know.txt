@@ -9,6 +9,8 @@
 
 **Chunk** - A chunk is a small part of the Bible text. In translationStudio, a chunk will have one or more verses. This is the section that is used to translate the source text into the target language. The content of the chunks is set and cannot be changed in the translationStudio program by the translator.
 
+**Download** - Copy a file, or data, from a remote or online computer. In translationStudio this is also known as 'import' or 'restore.'
+
 **End-user Bible** - This is a Bible that people have translated so that it speaks in a natural way in the target language. It is meant to be used in churches and homes. In contrast, the ULB and UDB are Bibles that are translation tools. They do not speak naturally in any language, because the ULB is a literal translation and the UDB avoids using idioms and figures of speech, which a natural translation would use. Using these translation tools, a translator can produce an end-user Bible.
 
 **Frame** - A frame is a small part of the Open Bible Stories text. The content of the frames is set and cannot be changed in the translationStudio program by the translator.
@@ -52,5 +54,7 @@
 **Translation** - The act of expressing the meaning conveyed by the form of one language in the form of another language.
 
 **translationAcademy** - The translationAcademy is intended to enable anyone, anywhere to equip themselves so that they will be able to make high-quality translations of Biblical content into their own language. translationAcademy is designed to be highly flexible. It can be used in a systematic, in-advance approach or it can be used for just-in-time learning (or both, as needed). It is modular in structure.
+
+**Upload** - The action of sending a file, or data, from a local computer or tablet to a remote computer, typically to an online server. This requires an Internet connection.
 
 **Words** - The translationWords are important terms found in Open Bible Stories and the Bible. It is crucial that they be translated correctly. Each translationWord has a small article written about it as well as cross-references to other places that term is used in Open Bible Stories and the Bible to ensure that it has been translated correctly there, too. 
