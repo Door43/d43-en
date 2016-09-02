@@ -1,0 +1,46 @@
+===== Select Source and Target Languages =====
+
+//This answers the question:// //How do I select source and target languages?//
+
+//In order to understand this topic, it would be good to read://
+  * //[[en:ta:vol2:tech:tsd_install]]//
+
+
+**Note:** The first time you use the application, translationStudio opens at the **Translation Projects** screen so you can start a translation project. 
+
+On the 'Your Translation Projects' screen:
+  - Click the blue circle with a + sign
+  - Scroll to find the target language or click the look-up icon located at the top right of the screen. The look-up icon is a circle with a line that looks like a magnifying glass.
+  - A gold box appears around the 'choose target language' field. Type the first few letters of the target language to show that portion of the language list.
+  - Click on the desired language. 
+
+You cannot find the desired target language? Then see [[en:ta:vol1:tech:ts_request]] for information on searching and requesting a new language.
+
+  - Choose a project from the 'Bible: NT', 'Bible: OT' or 'Open Bible Stories' to start translating.
+    - In the Bible: NT or Bible: OT projects you will need to then choose a book for the project.
+    - An Open Bible Stories project will open to the first paragraph of The Creation.
+  - The new translation project opens showing the 'Read' section.
+
+
+=== You can select and change your Source Language whenever you use translationStudio. ===
+
+Complete these steps to select or change the source language, which is the language you are translating FROM:
+In the translation project:
+  - You may also click the square icon with the + and - sign found at the top right of the source text window.
+  - Click the empty square box next to the desired source language.
+  - Click on "Confirm" at the bottom of the window to save the selection. Or, click on "Cancel" to close and not save the selected language. There MUST be a source language chosen.
+
+=== Change the Target Language ===
+
+  * In the home or 'Your Translation Projects' window click on a project's information icon, gray circle with an 'i' in the center.
+  * The Information screen for the project opens.
+  * Click on the blue word 'Change' next to the listed Target Language.
+  * Scroll to find the target language or click the look-up icon located at the top right of the screen. The look-up icon is a circle with a line that looks like a magnifying glass.
+  * A gold box appears around the 'choose target language' field. Type the first few letters of the target language to show that portion of the language list.
+  * Click on the desired language. 
+
+
+//Next we recommend you learn about://
+  * //[[en:ta:vol2:tech:tsd_bibletxt]]//
+
+
