@@ -18,11 +18,6 @@ When you publish your work there are several steps to the process. The process b
   * Click on the cloud icon. The project will load and the 'Upload Project' menu will open.
   * Follow the four steps listed below.
 
-=== From the Project Editing window: ===
-
-  * Click the 3 dot menu. 
-  * Choose 'Upload' from the menu.
-  * The 'Upload Project' menu opens - notice that there are four steps to the upload process. (The steps show on the top bar.)
 
   - **Project Step**
     * All the chunks are listed.  Note that there are green checks and orange buttons next to chunk information. The green checks mean that the chunk is marked 'done.' The 'Review' button means that the chunk has not been marked 'done.'
@@ -41,10 +36,16 @@ When you publish your work there are several steps to the process. The process b
   - **Upload Step**
     * Click on the blue 'Upload' button in the top right of the window. This will upload the work done in translationStudio-Desktop to the Door43 repository.
     * **NOTE:** The current user must be logged in with the online Door43 account.
-    * The link to the git repository will show after the upload has completed. (For example: [[https://git.door43.org/username/en-x-demo1_gal_text_ulb]])
+    * The link to the online location where the content has been uploaded to will show when uploading is completed. (For example: [[https://git.door43.org/username/en-x-demo1_gal_text_ulb]])
 
-The translation has been uploaded to the server. At that time the documentation process takes place. See: [[en:ta:vol2:tech:tsd_d43publish]] for more information.
+The translation has been uploaded to the server. 
 
+=== From the Project Editing window: ===
+
+  * Click the 3 dot menu. 
+  * Choose 'Upload' from the menu.
+  * The 'Upload Project' menu opens - notice that there are four steps to the upload process. (The steps show on the top bar.)
+  * Follow the four steps listed above.
 
 //Next we recommend you learn about://
   * //[[en:ta:vol2:tech:tsd_translate]]//
