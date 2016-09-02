@@ -7,7 +7,7 @@
 
 //Note: These are terms that the Technology Manual will use. The translator will need to know the meaning of these terms in order to understand some of the instructions.//
 
-**Chunk** - A chunk is a small part of the Bible text. In translationStudio, a chunk will have one or more verses. The content of the chunks is set and cannot be changed in the translationStudio program by the translator.
+**Chunk** - A chunk is a small part of the Bible text. In translationStudio, a chunk will have one or more verses. This is the section that is used to translate the source text into the target language. The content of the chunks is set and cannot be changed in the translationStudio program by the translator.
 
 **End-user Bible** - This is a Bible that people have translated so that it speaks in a natural way in the target language. It is meant to be used in churches and homes. In contrast, the ULB and UDB are Bibles that are translation tools. They do not speak naturally in any language, because the ULB is a literal translation and the UDB avoids using idioms and figures of speech, which a natural translation would use. Using these translation tools, a translator can produce an end-user Bible.
 
@@ -31,7 +31,11 @@
 
 **Passage** - A section of the Bible text that is being talked about. This can be as small as one verse, but it is usually several verses that together have one topic or tell one story. 
 
-**Questions** - The questions are about information as it appears in the story on in the ULB. Read the question and answer it according to the translated text. Click on the question for the expected answer. If the given answer and the expected answer are the same then the translation might be clear and accurate. 
+**Questions** - The translationQuestions are about information as it appears in the story on in the ULB. Read the question and answer it according to the translated text. Click on the question for the expected answer. If the given answer and the expected answer are the same then the translation might be clear and accurate. 
+
+**Read Mode** -  For scripture translation, the source text is displayed one chapter at a time. For a written translation, the translator would read the chapter, and for an oral translation the translator would listen to the chapter. Read the passage to get an understanding of the meaning of the text. 
+
+**Review Mode** - In this view the source text is on the left, the translation work is in the middle. If necessary, scroll from the left to the right side to show the resources for that chunk.
 
 **Source Language** - The language //from// which the translation is being made.
 
