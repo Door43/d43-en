@@ -70,11 +70,13 @@
 
   * **General Information:** - See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]]
 
-  * **A psalm of Solomon** - Possible meanings are 1)David wrote this psalm or 2) Solomon wrote this psalm or 3) a king wrote it for his son in the style of Solomon.
-  * **May he judge** - AT: "May the king judge"
-  * **your people** - AT: "God's people"
-  * **and your poor** - AT: "and may the king judge God's poor people"
-  * **May the mountains produce peace ... may the hills produce righteousness** - The mountains and the hills stand for the whole land of Israel, they are described as if they are a machine that can produce peace and righteousness. Peace and righteousness are described as if they are some sort of material you can hold in your hands. AT: "May there be peace in the land ... may everything in the land be done righteously" (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_synecdoche]] and [[:en:ta:vol2:translate:figs_parallelism]])
+  * **A psalm of Solomon** - Possible meanings are 1) David wrote this psalm for Solomon or 2) Solomon wrote this psalm or 3) a king wrote it for his son in the style of Solomon.
+  * **Give the king your righteous decrees** - "Enable the king to judge rightly" (see UDB)
+  * **your righteousness to the king's son** - "May the king's son be able to do what pleases you" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
+  * **May he judge** - "May the king judge"
+  * **your people** - God's people
+  * **and your poor** - "and may the king judge your poor people"  (See: [[:en:ta:vol2:translate:figs_ellipsis]])
+  * **May the mountains produce peace ... may the hills produce righteousness** - The psalmist speaks of the people of Israel as if they were the mountains and hills on which they live. He speaks of the mountains and the hills as if they were the entire land of Israel, as if that land were a garden that produces fruit, and of peace and righteousness as if they are that fruit. AT: "May the people of the land live in peace ... may they do everything in a righteous way" (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol2:translate:figs_synecdoche]] and [[:en:ta:vol1:translate:figs_metaphor]])
 
 
  
@@ -92,6 +94,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit book2}}
+{{tag>publish p2check book2}}
 
 ~~NOCACHE~~
