@@ -27,7 +27,7 @@
 <usfm>
 \q
 \v 23 My lips will shout for joy when I sing praises to you—
-\q even my soul, which you have redeemed.
+\q even I whom you have redeemed.
 \q
 \v 24 My tongue will also talk about your righteousness all day long;
 \q for they have been put to shame and are confused, those who sought my hurt.
@@ -42,10 +42,13 @@
   * [[:en:obe:other:seek]]
 ===== translationNotes: =====
 
-  * **even I whom you have redeemed** - AT: "and my soul, which you have redeemed, will sing praises" or "I will sing praises with my inner being, which you have redeemed" (See: [[:en:ta:vol2:translate:figs_ellipsis]] and [[:en:ta:vol2:translate:figs_synecdoche]]) 
-  * **My tongue will also talk** - AT: "I will also talk" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
-  * **for they have been put to shame and are confused** - AT: "for God has put to shame and confused" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **those who sought my hurt** - This refers to his enemies spoken of in [[:en:bible:notes:psa:071:012|71:13]].
+  * **My lips will shout for joy** - "Lips" is a metonym for the whole person. AT: "I will shout for joy" (see UDB)  (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **even my soul, which you have redeemed** - The words the psalmist has omitted can be stated clearly. AT: "and my soul, which you have redeemed, will sing praises" (See: [[:en:ta:vol2:translate:figs_ellipsis]]) 
+  * **my soul** - "I" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **My tongue will also talk** - "I will also talk" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **they have been put to shame and are confused, those who sought my hurt** - "those who sought my hurt  have been put to shame and are confused"
+  * **for they have been put to shame and are confused** - AT: "for God has put to shame and confused them" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **those who sought my hurt** - the "enemies" ([[:en:bible:notes:psa:071:008|71:10]]). See how "those who seek my hurt" is translated in [[:en:bible:notes:psa:071:012|71:13]].
 
 ===== Links: =====
 
@@ -53,7 +56,7 @@
   * [[:en:bible:notes:psa:071:000]]
   * [[:en:bible:questions:comprehension:psa:071]]
 **[[:en:bible:notes:psa:071:021|<<]] | [[:en:bible:notes:psa:072:001|>>]]**
- ~~DISCUSSION~~{{tag>publish p2edit book2}} 
+ ~~DISCUSSION~~{{tag>publish p2check book2}} 
 
 
 ~~NOCACHE~~
