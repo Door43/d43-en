@@ -27,9 +27,16 @@ Creating an UDB in the Gateway Language is much like creating an ULB translation
 The translator can choose between **two source** translations. The ULB or the UDB. You might want to choose both by clicking in the empty square. Click on 'Confirm' to close the window.
   * At any time either souce text can be viewed. Click the tab of  the UDB or the ULB tab to view that text.
 
-In the **Check** view the source text is on the left, the translation work is in the middle. 
+In the **Review** view, the source text is on the left, the translation work is in the middle. 
   * When viewing the ULB as the source text - the UDB and all of the translationNotes, translationWords and translationQuestions are shown in the translation helps. See [[en:ta:vol2:tech:tsd_resources]] for more information.
   * When viewing the UDB as the source text - all of the **ULB** translationNotes, translationWords and translationQuestions are shown in the translation helps. 
+    * To view the ULB, add the ULB source text as another source text by taking the following steps:
+      - Click on the box with the plus-sign and minus-sign next to the UDB tab in the left panel.
+      - Click in the box to the right of the ULB in the desired language. The box will fill and show a check mark.
+      - The desired ULB will move to the list of Selected Source Translations.
+      - Click on Confirm.
+    * Click on a tab to show the desired Source Text.
+  
 
 ==== Save Translation Text ====
 
