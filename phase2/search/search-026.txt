@@ -44,18 +44,28 @@
 {{door43pages @:en:bible:notes -r -q="\*\* \-[^ ]" -exclude:home -exclude:00 -exclude:intro -simpleLineBreak -title -fontsize="90%"}}
 
 
+=== 9. Smart quotes: ===
+
+{{door43pages @:en:bible:notes -r -q="((\“)|(\”)|(\‘)|(\’))" -exclude:home -exclude:00 -exclude:intro -simpleLineBreak -title -fontsize="90%"}}
+
+
+=== 10. No space before or after ellipses: ===
+
+{{door43pages @:en:bible:notes -r -q="(([^ ]\.\.\.)|(\.\.\.[^ ]))" -exclude:home -exclude:00 -exclude:intro -simpleLineBreak -title -fontsize="90%"}}
+
+
+
 ==== Possible Errors ====
 
 The notes in these lists may be correct in some circumstances.
 
-=== 9. Double quote mark at beginning of ULB snippet: ===
+=== 1. Double quote mark at beginning of ULB snippet: ===
 
 {{door43pages @:en:bible:notes -r -q="\* \*\*\x22" -exclude:home -exclude:00 -exclude:intro -simpleLineBreak -title -fontsize="90%"}}
 
 
-=== 10. Double quote mark at end of ULB snippet: ===
+=== 2. Double quote mark at end of ULB snippet: ===
 
 {{door43pages @:en:bible:notes -r -q="\x22\*\* \-" -exclude:home -exclude:00 -exclude:intro -simpleLineBreak -title -fontsize="90%"}}
-
 
 
