@@ -43,7 +43,7 @@
 
 <usfm>
 \q
-\v 9 We do not see any more signs;
+\v 9 We do not see any more miraculous signs from God;
 \q there is no prophet any more,
 \q and no one among us knows how long this will last.
 \q
@@ -72,11 +72,15 @@
 
   * **General Information:** - Asaph is addressing God about the destruction he sees.
 
-  * **How long, God, will the enemy ... you?** - (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **Will the enemy blaspheme your name forever?** - "Will the enemy never stop speaking evil against you?" (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol1:translate:figs_rquestion]])
-  * **Why do you hold back your hand, your right hand** - "Why do you withhold your power" (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **hand ... your right hand** - Here the phrase "hand" represents God's power. (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **Take your right hand from your garment** - "Stop hiding your power and take action." (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **We do not see any more signs** - Possible meanings are 1) "We do not see any more miraculous signs from God" or 2) "All our sacred symbols are gone" or 3) speaking of the flags and symbols of an army, "Our army has been completely destroyed." (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_metonymy]])
+  * **How long, God, will the enemy throw insults at you?** - This can be translated as a statement. AT: "God, the enemy has been throwing insults at you for too long!" (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **Will the enemy blaspheme your name forever?** - This can be translated as a statement. AT: "It seems as if you will never stop the enemy from blaspheming your name!" (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol1:translate:figs_rquestion]])
+  * **blaspheme your name** - The word "name" is a metonym for God himself. AT: "say that you are bad" or "insult you"  (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **Why do you hold back your hand, your right hand?** - The psalmist speaks of God as if he had a physical body. This can be translated as a statement. AT: "Stop holding back your hand, your right hand!" (See: [[:en:ta:vol1:translate:figs_rquestion]] and [[:en:ta:vol2:translate:figs_personification]])
+  * **hold back your hand** - Here the word "hand" is a metonym for power. AT: "not show your power" or "not use your power to destroy your enemies" (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol1:translate:figs_explicit]])
+  * **your right hand** - "your strongest hand"
+  * **Take your right hand from your garment** - The psalmist speaks of God as if he had a physical body. "Stop hiding your power and take action" (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol2:translate:figs_personification]])
+
 ===== Links: =====
 
   * [[:en:bible:notes:psa:000:intro]]
@@ -84,6 +88,6 @@
   * [[:en:bible:questions:comprehension:psa:074]]
 **[[:en:bible:notes:psa:074:007|<<]] | [[:en:bible:notes:psa:074:012|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit book3 blasphemy}}
+~~DISCUSSION~~{{tag>publish p2check book3 blasphemy}}
 
 ~~NOCACHE~~
