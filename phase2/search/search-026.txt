@@ -2,56 +2,56 @@
 
 ~~NOCACHE~~
 
-===== Errors =====
+==== Errors ====
 
-==== 1. Extra spaces before TN bullets: ====
+=== 1. Extra spaces before TN bullets: ===
 
 {{door43pages @:en:bible:notes -r -q="   \* \*\*" -exclude:home -exclude:00 -exclude:intro -simpleLineBreak -title -fontsize="90%"}}
 
 
-==== 2. Extra spaces between TN bullet and bold asterisks: ====
+=== 2. Extra spaces between TN bullet and bold asterisks: ===
 
 {{door43pages @:en:bible:notes -r -q="\*  \*\*" -exclude:home -exclude:00 -exclude:intro -simpleLineBreak -title -fontsize="90%"}}
 
 
-==== 3. Extra spaces at start of ULB snippet: ====
+=== 3. Extra spaces at start of ULB snippet: ===
 
 {{door43pages @:en:bible:notes -r -q="\* \*\* " -exclude:home -exclude:00 -exclude:intro -simpleLineBreak -title -fontsize="90%"}}
 
 
-==== 4. Extra spaces at end of ULB snippet: ====
+=== 4. Extra spaces at end of ULB snippet: ===
 
 {{door43pages @:en:bible:notes -r -q=" \*\* \-" -exclude:home -exclude:00 -exclude:intro -simpleLineBreak -title -fontsize="90%"}}
 
 
-==== 5. Extra space before TN hyphen: ====
+=== 5. Extra space before TN hyphen: ===
 
 {{door43pages @:en:bible:notes -r -q="\*\*  \-" -exclude:home -exclude:00 -exclude:intro -simpleLineBreak -title -fontsize="90%"}}
 
 
-==== 6. Extra space after TN hyphen: ====
+=== 6. Extra space after TN hyphen: ===
 
 {{door43pages @:en:bible:notes -r -q="\*\* \-  " -exclude:home -exclude:00 -exclude:intro -simpleLineBreak -title -fontsize="90%"}}
 
 
-==== 7. No space before TN hyphen: ====
+=== 7. No space before TN hyphen: ===
 
 {{door43pages @:en:bible:notes -r -q="\*\*\-" -exclude:home -exclude:00 -exclude:intro -simpleLineBreak -title -fontsize="90%"}}
 
 
-==== 8. No space after TN hyphen: ====
+=== 8. No space after TN hyphen: ===
 
 {{door43pages @:en:bible:notes -r -q="\*\* \-[^ ]" -exclude:home -exclude:00 -exclude:intro -simpleLineBreak -title -fontsize="90%"}}
 
 
-===== Possible Errors =====
+=== Possible Errors ===
 
 ==== 9. Double quote mark at beginning of ULB snippet: ====
 
 {{door43pages @:en:bible:notes -r -q="\* \*\*\x22" -exclude:home -exclude:00 -exclude:intro -simpleLineBreak -title -fontsize="90%"}}
 
 
-==== 10. Double quote mark at end of ULB snippet: ====
+=== 10. Double quote mark at end of ULB snippet: ===
 
 {{door43pages @:en:bible:notes -r -q="\x22\*\* \-" -exclude:home -exclude:00 -exclude:intro -simpleLineBreak -title -fontsize="90%"}}
 
