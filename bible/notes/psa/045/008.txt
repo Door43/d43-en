@@ -52,10 +52,12 @@ cassia;
 
 ===== translationNotes: =====
 
-  * **myrrh, aloes, and cassia** - These are substances collected from plants to make perfume. (See: [[:en:ta:vol1:translate:translate_unknown]])
-  * **ivory palaces** - Ivory is a hard white substance that forms animal's tusks. This phrase describes a palace decorated with items made of ivory.
+  * **myrrh, aloes, and cassia** - These are aromatic plant substances that people used to make perfumes. (See: [[:en:ta:vol1:translate:translate_unknown]])
+  * **ivory palaces** - Ivory is a hard white substance that forms animal's tusks. This phrase describes a palace with walls and furniture that people have decorated with ivory.
+  * **stringed instruments have made you glad** - The words "stringed instruments" refers to the music that people make by playing the stringed instruments. AT: "the music of stringed instruments has made you glad" (See: [[:en:ta:vol2:translate:figs_metonymy]])
   * **honorable women** - These women are wives of the king who receive his approval.
-  * **Ophir** - This is the name of a city. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **Ophir** - This is the name of a place that had a reputation for its fine gold. The location is unknown. (See: [[:en:ta:vol1:translate:translate_names]])
+
 ===== Links: =====
 
   * [[:en:bible:notes:psa:000:intro]]
@@ -63,6 +65,6 @@ cassia;
   * [[:en:bible:questions:comprehension:psa:045]]
 **[[:en:bible:notes:psa:045:005|<<]] | [[:en:bible:notes:psa:045:010|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit book2}}
+~~DISCUSSION~~{{tag>publish p2check book2}}
 
 ~~NOCACHE~~
