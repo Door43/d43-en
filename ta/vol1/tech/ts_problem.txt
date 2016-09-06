@@ -1,10 +1,10 @@
-===== Report a Problem =====
+===== Report Problems and Making Suggestions =====
 
 //This answers the question:// //How do I report a problem?//
 
 //In order to understand this topic, it would be good to read://
-  * //[[en:ta:vol1:tech:ts_intro|Introduction to the translationStudio-Android Program]]//
-  * //[[en:ta:vol1:tech:ts_navigate|Navigate in translationStudio]]//
+  * //[[en:ta:vol1:tech:ts_intro]]//
+  * //[[en:ta:vol1:tech:ts_navigate]]//
 
 ==== Reporting Problems ====
 
@@ -17,6 +17,16 @@ At other times, the translator may want to mention a problem with the program or
   - Choose **Feedback** from the list. 
   - Use the keyboard to type in an explanation of the problem that you have been experiencing.
   - Tap on **Confirm** at the bottom right of the Feedback window. 
+
+=== Asking Questions or Making Suggestions ===
+
+At other times, the translator may have a question or they may want to make a suggestion about the program or content. The people that have worked on the program are very interested in what you, the user, think. **Please feel free to share any questions or comments.**
+
+To ask a question or make a comment:
+  - Tap on the 3-dot menu found at the bottom left of the window. 
+  - Choose **Feedback** from the list. 
+  - Use the keyboard to type in your suggestion.
+  - Tap on **Confirm** at the bottom right of the Feedback window. Thank you!
 
 
 **Note:** The Feedback will be sent when there is an Internet connection.
