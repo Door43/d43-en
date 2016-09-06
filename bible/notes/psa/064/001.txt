@@ -53,14 +53,14 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - This psalm is a prayer for help. 
-  * **General Information:** - See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]]
+  * **General Information:** - This psalm is a prayer for help. See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]]
 
-  * **For the chief musician** - "This is for the director of music to use in worship." 
+  * **For the chief musician** - "This is for the director of music to use in worship" 
   * **A psalm of David** - Possible meanings are 1) David wrote the psalm or 2) the psalm is about David or 3) the psalm is in the style of David's psalms.
   * **preserve** - "save"
-  * **from the commotion** - AT: "hide me from the commotion" (See: [[:en:ta:vol2:translate:figs_ellipsis]])
-  * **commotion** - a confusion of noise and excitement
+  * **Hide me from the secret plotting ... commotion of the doers of iniquity** - These two clauses have similar meanings. The second clause provides more detail by describing what the "secret plotting" sounds like. (See: [[:en:ta:vol2:translate:figs_parallelism]])
+  * **from the commotion** - Here the implied words "hide me" can be added to the translation. AT: "hide me from the commotion" (See: [[:en:ta:vol2:translate:figs_ellipsis]])
+  * **commotion** - a confusing sound of noise and excitement
 
 ===== Links: =====
 
@@ -69,6 +69,6 @@
   * [[:en:bible:questions:comprehension:psa:064]]
 **[[:en:bible:notes:psa:063:011|<<]] | [[:en:bible:notes:psa:064:003|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit book2}}
+~~DISCUSSION~~{{tag>publish p2check book2}}
 
 ~~NOCACHE~~
