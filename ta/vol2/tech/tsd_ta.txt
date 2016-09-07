@@ -51,6 +51,7 @@ Continue to the next tW until all of the translationWords are complete.
 
 
 ==== Using the git.door43.org site ====
+https://git.door43.org/Door43/en-ta-intro
 
 === Terms to Know ===
 **Fork** - to fork something is to make a branch of the master. Think of a path. This path has a split so the person walking down the path can either go to the right or stay on the main path. This is a fork in the path. \\
