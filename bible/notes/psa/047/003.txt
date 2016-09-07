@@ -60,9 +60,14 @@
 
 ===== translationNotes: =====
 
-  * **subdues** - to control by force.
-  * **under us ... under our feet** - Authority is described as having a position over others. (See: [[:en:ta:vol1:translate:figs_idiom]])
-  * **with a shout ... the sound of a trumpet** - These phrases use actions associated with celebration to describe the people's celebration. (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **He subdues peoples under us and nations under our feet** - These two phrases are parallel and mean that God enabled Israel to conquer their enemies. (See: [[:en:ta:vol2:translate:figs_parallelism]])
+  * **subdues** - to conquer and place under the authority of another
+  * **under us ... under our feet** - The writer speaks of conquering other nations as if it were putting those nations underneath their feet. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **He chooses our inheritance for us** - The writer speaks of the land of Israel as if it were an inheritance that God has given the people as a permanent possession. AT: "He chooses this land as an inheritance for us" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **the glory of Jacob** - Here the word "glory" refers to a source of pride and refers to the land that God has given to his people as an inheritance. AT: "the land in which Jacob takes pride" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **Jacob whom he loved** - The word "Jacob" refers to the nation of Israel.
+  * **God has gone up with a shout** - The writer speaks of God's conquering the nations as if God were a king ascending his throne, which was located in the temple. AT: "God has gone up into the temple as people shouted" (UDB) or "God has ascended to his throne as people shouted" (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol1:translate:figs_explicit]])
+  * **Yahweh with the sound of a trumpet** - This phrase parallels the previous phrase. The verb may be supplied for clarity. AT: "Yahweh has gone up as people blew trumpets" (See: [[:en:ta:vol2:translate:figs_parallelism]] and [[:en:ta:vol2:translate:figs_ellipsis]])
 
 ===== Links: =====
 
@@ -71,6 +76,6 @@
   * [[:en:bible:questions:comprehension:psa:047]]
 **[[:en:bible:notes:psa:047:001|<<]] | [[:en:bible:notes:psa:047:006|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit book2}}
+~~DISCUSSION~~{{tag>publish p2check book2}}
 
 ~~NOCACHE~~
