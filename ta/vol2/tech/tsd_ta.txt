@@ -3,14 +3,58 @@
 //This answers the question:// //What steps do I follow when I translate translationAcademy?//
 
 //In order to understand this topic, it would be good to read://
-  * //[[en:ta:vol2:tech:tsd_intro|translationStudio-Desktop Introduction]]//
-  * //[[en:ta:vol2:tech:tsd_install|translationStudio-Desktop v7 Installation]]//
+  * //[[https://unfoldingword.org/academy/ta-intro.html#vol1_intro_ta_intro]]//
+  * //[[https://unfoldingword.org/academy/ta-intro.html#vol1_intro_finding_answers]]//
+  * //[[https://unfoldingword.org/academy/ta-intro.html#vol1_intro_translate_why]]//
+
+**NOTE: The translationAcademy manuals can be translated using either the translationStudio-Desktop program or on the git.door43.org website. It is the decision of the translation team which interface to use. **
+
+==== Using translationStudio-Desktop ====
+
+=== Create a translationAcademy Project ===
+
+From any screen in the program, click on the 3-dot menu icon found in the bottom left corner of the window.
+  * Click on the word "Home."
+  * Add a new project by clicking on the blue circle with a plus sign (+) in the top right corner of the window.
+    * Choose a target language.
+    * Choose **translationAcademy Vol 1** or **translationAcademy Vol 2** in the next window. The Project opens.
+
+**Note**: Only if the program is set up to do Gateway Languages will you see the projects 'translationWords', '**translationAcademy Vol 1**', or '**translationAcademy Vol 2**.' See: [[ en:ta:vol2:tech:tSd_settings]] for more information.
+
+=== Start the translationAcademy Project ===
+
+There are two panels displayed in the translationAcademy project window:
+  - The source text in the left panel.
+  - The target language translation will be in the right panel.
+
+=== Translate the translationAcademy ===
+
+  * Translate the title of the translationAcademy topic in the top section on the right panel. 
+    * Left click above the red line on the 'Translate title here' words.
+    * Type in the translation of the translationAcademy title.
+  * Translate the information for the translationAcademy.
+    * Left click on the words 'Translate text here' and start typing the translation.
+
+Write translations that will help the Other Language translators understand translation guidelines and strategies.
+
+
+=== Mark the tA Topic as Done and Go to the Next topic ===
+
+When the translator feels that all the information has been written for the translationWord:
+  * Click on the slider at the bottom right of the term to mark the word as 'done.'
+  * Click on 'Confirm' in the pop-up window.
+
+Continue to the next tW until all of the translationWords are complete. 
+
+
+
+==== Using the git.door43.org site ====
+
 
 
 
 //Next we recommend you learn about://
-  * //[[en:ta:vol2:tech:tsd_navigate|Navigating translationStudio-Desktop v7]]//
-  * //[[en:ta:vol2:tech:tsd_tn|The Process for Translating the translationNotes]]//
-  * //[[en:ta:vol2:tech:tsd_tw|The Process for Translating the translationWords]]//
-  * //[[en:ta:vol2:tech:tsd_tq|The Process for Translating the translationQuestions]]//
+  * //[[en:ta:vol2:tech:tsd_tn]]//
+  * //[[en:ta:vol2:tech:tsd_tw]]//
+  * //[[en:ta:vol2:tech:tsd_tq]]//
 
