@@ -6,6 +6,55 @@ This page contains info for the proof-readers of the Translation Notes (TN).
 
 We suggest that as you check the notes, you also open the following pages in new tabs in your browser:
 
-  * [[:en:phase1:team-info:training:reviewers:talinks]]
-  * [[:en:phase1:team-info:training:quick-reference:quick-reference-notes]]
+  * [[:en:phase1:team-info:training:reviewers:talinks]] - contains links to TA pages in code blocks that can be safely pasted into Door43.
+  * [[:en:phase1:team-info:training:quick-reference:quick-reference-notes]] - contains brief definitions of figures of speech, and links to standard notes pages. 
+
+==== Sample Notes ====
+
+IMPORTANT NOTE: Please DO NOT COPY the formatted text of these notes into Door43. It is safe to copy only the unformatted text in the code blocks. 
+
+=== Verse References ===
+
+See this page for more info: [[:en:phase1:team-info:training:reviewers:chunklinks]]
+
+**Note that in making links to verses, the first reference in the code is the verse that starts the chunk and the second is the verse you are pointing to:**
+
+  * **furnace of fire** - See how you translated this in 13:42.
+
+<code>
+  * **furnace of fire** - See how you translated this in [[:en:bible:notes:mat:13:40|13:42]].
+</code>
+
+  * **weeping and grinding of teeth** - See how you translated this in 8:12]].
+
+<code>
+  * **weeping and grinding of teeth** - See how you translated this in [[:en:bible:notes:mat:08:11|8:12]].
+</code>
+
+**In this example, they are one and the same:**
+
+  * **the kingdom of heaven is like** - See how you translated this in 13:24.
+
+<code>
+  * **the kingdom of heaven is like** - See how you translated this in [[:en:bible:notes:mat:13:24|13:24]].
+
+</code>
+
+
+=== Numerals ===
+
+
+
+
+<code>
+
+</code>
+
+
+<code>
+
+</code>
+
+
+
 
