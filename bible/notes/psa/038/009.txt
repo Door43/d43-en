@@ -14,7 +14,7 @@
 ===== UDB: =====
 
 <usfm>
-\v 9 Yahweh, you know that I desire you to heal me;
+\v 9 Yahweh, you know the that I desire you to heal me;
 \q2 you hear me while I am groaning.
 \q1
 \v 10 My heart pounds heavily, and all my strength is gone.
@@ -41,10 +41,11 @@
 
 ===== translationNotes: =====
 
-  * **you understand my heart's deepest yearnings** - AT: "you understand the strongest desires I have,"
-  * **and my groanings are not hidden from you.** - AT: "and my moans of sorrow are not hidden from you."
-  * **My heart pounds** - AT: "My heart beats quickly" (See: [[:en:ta:vol1:translate:figs_idiom]])
-  * **my strength fades** - AT: "I become very weak"
+  * **my heart's deepest yearnings** - Here "my heart" refers to the writer. It may be helpful to state that the writer desires good health. AT: "My strongest desires" or "that I desire you to heal me" (See: [[:en:ta:vol2:translate:figs_synecdoche]] and [[:en:ta:vol1:translate:figs_explicit]])
+  * **my groanings are not hidden from you.** - This can be stated in active form. AT: "you are able to see all my moans of sorrow" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **My heart pounds** - This idiom means his heart beats intensely. AT: "My heart beats loudly" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **my strength fades** - "I become very weak"
+  * **my eyesight dims** - "I can no longer see well"
 ===== Links: =====
 
   * [[:en:bible:notes:psa:000:intro]]
