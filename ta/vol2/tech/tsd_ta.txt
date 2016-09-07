@@ -80,7 +80,8 @@ There will be a list of the repositories for translationAcademy manuals. There a
   - en-ta-audio
 Look for only the repos that start with Door43/ before the manual - such as: Door43/en-ta.
 
-
+=== Edit the Pages ===
+Refer to the [[https://git.door43.org/Door43/en-ta-intro/src/master/markdown_formatting.md]] page for information about the markdown used in the translationAcademy manuals.
 
 //Next we recommend you learn about://
   * //[[en:ta:vol2:tech:tsd_tn]]//
