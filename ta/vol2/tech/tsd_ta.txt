@@ -50,6 +50,32 @@ Continue to the next tW until all of the translationWords are complete.
 
 ==== Using the git.door43.org site ====
 
+=== Terms to Know ===
+**Fork** - to fork something is to make a branch of the master. Think of a path. This path has a split so the person walking down the path can either go to the right or stay on the main path. This is a fork in the path. \\
+**Repo** - this is short for 'repository.' A repository is where all the files from a project is stored. 
+
+
+=== 1. Sign onto the Git website ===
+  * Go to https://git.door43.org/
+  * Click on the Sign In link.
+  * Sign into the site using the same Door43 Account as is used with translationStudio.
+The website opens to the Dashboard of the account.
+
+=== 2. Go to the English translationAcademy site ===
+  * Click on the word 'Explore' in the top menu.
+  * Type in en-ta in the search bar.
+  * Click on the Search button.
+There will be a list of the repositories for translationAcademy manuals. There are 9 repos in Door43. 
+  - en-ta
+  - en-ta-intro
+  - en-ta-process
+  - en-ta-translate-vol1
+  - en-ta-translate-vol2
+  - en-ta-checking-vol1
+  - en-ta-checking-vol2
+  - en-ta-gl
+  - en-ta-audio
+Look for only the repos that start with Door43/ before the manual - such as: Door43/en-ta.
 
 
 
