@@ -43,6 +43,64 @@ In this example, they are one and the same:
 
 === Numerals ===
 
+OK as is.
+
+  * **twenty years old** - "20 years old" (See: Numbers)
+
+<code>
+  * **twenty years old** - "20 years old" (See: [[:en:ta:vol2:translate:translate_numbers]])
+</code>
+
+Note needed.
+
+  * **74,600** - Standard practice is to write large numbers as numerals. (See: Numbers)
+
+<code>
+  * **74,600** - Standard practice is to write large numbers as numerals. (See: [[:en:ta:vol2:translate:translate_numbers]])
+</code>
+
+  * **the second year** - This "second" is the ordinal number for two. (See: Ordinal Numbers)
+
+<code>
+  * **the second year** - This "second" is the ordinal number for two. (See: [[:en:ta:vol2:translate:translate_ordinal]])
+</code>
+
+=== Question to Statement ===
+
+This question can be translated as a statement. AT:
+
+<code>
+This question can be translated as a statement. AT:
+</code>
+
+
+=== Quotation to Statement ===
+
+  * **Then it says, 'I will return to my house from which I came.'** - This can be translated as a statement. AT: "So, the unclean spirit decides to return to the house from which it came."
+
+<code>
+  * **Then it says, 'I will return to my house from which I came.'** - This can be translated as a statement. AT: "So, the unclean spirit decides to return to the house from which it came."
+</code>
+
+
+=== Ellipsis/Understood Info ===
+
+You can make clear the understood information. AT:
+
+  * **he also says** - To whom God is speaking can be stated clearly. AT: "he also says to Christ" (See: Ellipsis)
+
+<code>
+  * **he also says** - To whom God is speaking can be stated clearly. AT: "he also says to Christ" (See: [[:en:ta:vol2:translate:figs_ellipsis]])
+
+</code>
+
+  * **of his low position** - A rich believer should be happy if God brings him suffering. AT: "should be happy that God has given him that position" (See: Ellipsis)
+
+<code>
+  * **of his low position** - A rich believer should be happy if God brings him suffering. AT: "should be happy that God has given him that position" (See: [[:en:ta:vol2:translate:figs_ellipsis]])
+</code>
+
+
 
 
 
@@ -54,7 +112,6 @@ In this example, they are one and the same:
 <code>
 
 </code>
-
 
 
 
