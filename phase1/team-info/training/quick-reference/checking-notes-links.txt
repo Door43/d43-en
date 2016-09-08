@@ -45,7 +45,7 @@ In this example, they are one and the same:
 
 === Numerals ===
 
-OK as is.
+This note does not need any further explanation:
 
   * **twenty years old** - "20 years old" (See: Numbers)
 
@@ -53,7 +53,7 @@ OK as is.
   * **twenty years old** - "20 years old" (See: [[:en:ta:vol2:translate:translate_numbers]])
 </code>
 
-Note needed.
+Note needed:
 
   * **74,600** - Standard practice is to write large numbers as numerals. (See: Numbers)
 
@@ -89,11 +89,14 @@ This question can be translated as a statement. AT:
 
 You can make clear the understood information. AT:
 
+<code>
+You can make clear the understood information. AT:
+</code>
+
   * **he also says** - To whom God is speaking can be stated clearly. AT: "he also says to Christ" (See: Ellipsis)
 
 <code>
   * **he also says** - To whom God is speaking can be stated clearly. AT: "he also says to Christ" (See: [[:en:ta:vol2:translate:figs_ellipsis]])
-
 </code>
 
   * **of his low position** - A rich believer should be happy if God brings him suffering. AT: "should be happy that God has given him that position" (See: Ellipsis)
@@ -118,6 +121,10 @@ This can be translated as a direct quotation. AT:
 
 You can translate this direct quotation as an indirect quotation. 
 
+<code>
+You can translate this direct quotation as an indirect quotation. 
+</code>
+
   * **Someone said to him, "Look, your mother and your brothers stand outside, seeking to speak to you."** - This can be translated as an indirect quotation. AT: "Someone told Jesus that his mother and brothers were outside and wanted to speak to him" (See: Direct and Indirect Quotations)
 
 <code>
@@ -139,6 +146,11 @@ This can be stated in active form. AT:
 Periods or exclamation marks are included in the AT for RQ's to distinguish them from the original question marks.
 
 This rhetorical question can be translated as a statement, if necessary. AT:
+
+<code>
+This rhetorical question can be translated as a statement, if necessary. AT:
+</code>
+
 
   * **But what do you think?** - Jesus uses a question to challenge the religious leaders to think deeply about the parable he will tell them. AT: "Tell me what you think about what I am about to tell you." (UDB) (See: Rhetorical Question)
 
@@ -171,7 +183,17 @@ Two Questions into One:
 
 The full meaning of this statement can be made explicit. AT:
 
-It is implied that…
+<code>
+The full meaning of this statement can be made explicit. AT:
+</code>
+
+
+It is implied that ... 
+
+<code>
+It is implied that ... 
+</code>
+
 
   * **than Jonah is here** - You can make explicit the implicit meaning of Jesus' statement. AT: "than Jonah is here, yet you still have not repented, which is why God will condemn you" (See: Assumed Knowledge and Implicit Information)
 
@@ -534,4 +556,3 @@ The word "temptation," an abstract noun, can be expressed as a verb. AT: 
 <code>
   * **"See," God said, "that you ... mountain** - You can move the quotation marks. AT: "God said, 'See that you ... mountain.'" (See: [[:en:ta:vol2:translate:writing_quotations]])
 </code>
-
