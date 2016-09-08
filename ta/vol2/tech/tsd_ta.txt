@@ -68,22 +68,69 @@ The website opens to the Dashboard of the account.
   * Type in en-ta in the search bar.
   * Click on the Search button.
 There will be a list of the repositories for translationAcademy manuals. There are 9 repos in Door43. 
-  - en-ta
-  - en-ta-intro
-  - en-ta-process
-  - en-ta-translate-vol1
-  - en-ta-translate-vol2
-  - en-ta-checking-vol1
-  - en-ta-checking-vol2
-  - en-ta-gl
-  - en-ta-audio
-Look for only the repos that start with Door43/ before the manual - such as: Door43/en-ta.
+  - en-ta - this is not part of the manuals. 
+  - en-ta-intro - the Introduction to translationAcademy Manual
+  - en-ta-process - the translationAcademy Process Manual
+  - en-ta-translate-vol1 - Volume 1 of the translationAcademy Translation Manual
+  - en-ta-translate-vol2 - Volume 2 of the translationAcademy Translation Manual
+  - en-ta-checking-vol1 - Volume 1 of the translationAcademy Checking Manual
+  - en-ta-checking-vol2 - Volume 2 of the translationAcademy Checking Manual
+  - en-ta-gl - the translationAcademy Gateway Language Strategy Manual
+  - en-ta-audio - the translationAcademy Audio Manual
+Look for only the repos that start with Door43/ before the manual - such as: **Door43/en-ta-intro**.
+  * Click on the blue words for the Door43/en-ta-intro repository.
+
+You are now in the main page of the Introduction Manual. You should see:
+  * The menu for the Dashboard, Issues, Pull requests, Explore, About Door43 and Help across the top of the window.
+  * On the next line is the name of the repository (Door43/en-ta-intro) and three gray boxes with the words "watch," "star," and "fork."
+  * In the next line of items are the words "Code," "Issues," "Pull Requests." "Commits," "Releases," and "Wiki."
+  * Check to make sure that a little below the word "code" that there is a box that has 'Branch: master'. If it does not have the word 'master,' start again from the beginning of this step.
+
 
 === 3. Fork the Repository to a new Repo ===
 
+  * Click on the gray box with the word "Fork."
+  * A window opens with the words "New Fork Repository" across the top of a box.
+  * Confirm that the **Owner** is your account name.
+  * The **Fork From** should be Door43/en-ta-intro.
+  * Change the **Repository Name** from en-ta-intro to //your language//-ta-intro. (For example: for the Russian translation of the Introduction Manual the repo would be //ru-ta-intro//.) 
+  * Add a **Description** if desired.
+  * Click on the green "Fork Repository" button.
+
+The window opens to the new repository named "//your user name/your language-ta-intro//." This repo is where you will do the translating.
+
+Repeat the fork action for each of the following manuals:
+  - en-ta-process - the translationAcademy Process Manual
+  - en-ta-translate-vol1 - Volume 1 of the translationAcademy Translation Manual
+  - en-ta-translate-vol2 - Volume 2 of the translationAcademy Translation Manual
+  - en-ta-checking-vol1 - Volume 1 of the translationAcademy Checking Manual
+  - en-ta-checking-vol2 - Volume 2 of the translationAcademy Checking Manual
+  - en-ta-audio - the translationAcademy Audio Manual
+
+(You will not need to translate the Gateway Language Strategies Manual.)
+
+To quickly find the repos that you have made:
+  * Click the 'Dashboard' link on the top menu bar. The Dashboard opens.
+    * See the list of your repositories on the right? Click on one to open.
+  * In one of your repositories - click on your account name at the top left. (For example: your name/language-ta-intro)
+    * The list of your repositories will show.
 
 === 4. Edit the Pages ===
-Refer to the [[https://git.door43.org/Door43/en-ta-intro/src/master/markdown_formatting.md]] page for information about the markdown used in the translationAcademy manuals.
+Read the information on the readme.md file that is showing in the new ta-intro repository.
+
+Refer to the [[https://git.door43.org/Door43/en-ta-intro/src/master/markdown_formatting.md]] page for information about the markdown used in the translationAcademy manuals. You should not need to edit any of the links.
+
+  - Click on the blue word 'content' to open the directory of files.
+  - Click on any of the files (links are blue words) to open the file.
+  - Click on the pencil icon, located on the right side of the top bar. The editor opens.
+  - Translate the content according to the instructions on the readme.md file in the ta-intro repository.
+  - When done editing:
+    - Edit the information in the field below the words "Commit Changes."
+    - Add an optional description in the next field.
+    - Click the green "Commit Changes" button to save the edits.
+
+Continue with the next file listed on the contents. And then continue with the other repositories. 
+**Remember: do not change the name of the files that end in ".md".** 
 
 
 
