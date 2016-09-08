@@ -99,7 +99,7 @@ You are now in the main page of the Introduction Manual. You should see:
 
 The window opens to the new repository named "//your user name/your language-ta-intro//." This repo is where you will do the translating.
 
-Repeat the fork action for each of the following manuals:
+**Repeat the fork action for each of the following manuals:**
   - en-ta-process - the translationAcademy Process Manual
   - en-ta-translate-vol1 - Volume 1 of the translationAcademy Translation Manual
   - en-ta-translate-vol2 - Volume 2 of the translationAcademy Translation Manual
@@ -109,7 +109,7 @@ Repeat the fork action for each of the following manuals:
 
 (You will not need to translate the Gateway Language Strategies Manual.)
 
-To quickly find the repos that you have made:
+**To quickly find the repos that you have made:**
   * Click the 'Dashboard' link on the top menu bar. The Dashboard opens.
     * See the list of your repositories on the right? Click on one to open.
   * In one of your repositories - click on your account name at the top left. (For example: your name/language-ta-intro)
@@ -123,7 +123,7 @@ Refer to the [[https://git.door43.org/Door43/en-ta-intro/src/master/markdown_for
   - Click on the blue word 'content' to open the directory of files.
   - Click on any of the files (links are blue words) to open the file.
   - Click on the pencil icon, located on the right side of the top bar. The editor opens.
-  - Translate the content according to the instructions on the readme.md file in the ta-intro repository.
+  - Translate the content according to the instructions on the readme.md file in the ta-intro repository. [[https://git.door43.org/Door43/en-ta-intro/src/master/readme.md]]
   - When done editing:
     - Edit the information in the field below the words "Commit Changes."
     - Add an optional description in the next field.
