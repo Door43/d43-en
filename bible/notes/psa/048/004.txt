@@ -50,16 +50,19 @@
 
   * [[:en:obe:other:king]]
   * [[:en:obe:other:amazed]]
+  * [[:en:obe:other:tremble]]
   * [[:en:obe:other:laborpains]]
  
 ===== translationNotes: =====
 
-  * **assembled themselves** - AT: "assembled their armies" (See: [[:en:ta:vol1:translate:figs_idiom]])
-  * **They saw it** - The word "it" refers to Jerusalem.
-  * **then they were amazed** - AT: "the city amazed them" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **see** - The word "see" here alerts us to pay attention to the surprising information that follows.
+  * **assembled themselves** - This means that the kings of other nations assembled their armies. AT: "assembled their armies" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **they passed by together** - "together they passed by Jerusalem"
+  * **They saw it** - "They saw Jerusalem"
   * **dismayed** - "greatly troubled"
-  * **Trembling** - "shaking with fear"
-  * **pain as when a woman is in labor** - The word "pain" describes the emotion of being in uncontrollable pain. Like "trembling" in the previous phrase, "pain" is in control of them. It is compared to labor pain because it is severe. AT: "pain took hold of them, as when a woman is in labor" (See: [[:en:ta:vol1:translate:figs_simile]] and [[:en:ta:vol2:translate:figs_ellipsis]])
+  * **Trembling took hold of them there** - The writer speaks of the kings' fear as if it were a person who caused the kings and their armies to tremble. AT: "There they trembled with fear" (See: [[:en:ta:vol2:translate:figs_personification]])
+  * **pain as when a woman is in labor** - The writer speaks of the kings' fear as if it were the pain that a woman experiences in childbirth and speaks of that pain as if it were a person. The verb may be supplied from the previous clause. AT: "pain took hold of them, as when a woman is in labor" or "they became afraid, like a woman is afraid of experiencing labor pains" (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_personification]] and [[:en:ta:vol2:translate:figs_ellipsis]])
+
 ===== Links: =====
 
   * [[:en:bible:notes:psa:000:intro]]
@@ -67,6 +70,6 @@
   * [[:en:bible:questions:comprehension:psa:048]]
 **[[:en:bible:notes:psa:048:001|<<]] | [[:en:bible:notes:psa:048:007|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit book2}}
+~~DISCUSSION~~{{tag>publish p2check book2}}
 
 ~~NOCACHE~~
