@@ -52,9 +52,12 @@
 
 ===== translationNotes: =====
 
-  * **shine your face on us** - The psalm writer asks Yahweh to look with favor on the people of Israel. (See: [[:en:ta:vol1:translate:figs_idiom]])
-  * **You brought a vine out of Egypt** - AT: "You brought us, like a vine, out of Egypt;" The psalm writer compares the nation of Israel to a vine made ready to transplant. (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol1:translate:figs_simile]])
-  * **you drove out nations and transplanted it** - AT: "you drove out nations from their land and gave it to us, the vine, and planted us there."
+  * **General Information:** - Asaph is speaking on behalf of the people of Israel.
+
+  * **shine your face on us, and we will be saved** - This can be stated in active form. AT: "look with favor on us so that you can save us" (See: [[:en:ta:vol1:translate:figs_idiom]] and [[:en:ta:vol2:translate:figs_activepassive]])
+  * **You brought a vine out of Egypt** - The psalm writer compares the nation of Israel to a vine made ready to transplant. AT: "You brought us, like a vine, out of Egypt" (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol1:translate:figs_simile]])
+  * **you drove out nations and transplanted it** - AT: "you drove out nations from their land and gave it to us, the vine, and planted us there." (See: [[:en:ta:vol1:translate:figs_metaphor]])
+
 ===== Links: =====
 
   * [[:en:bible:notes:psa:000:intro]]
@@ -62,6 +65,6 @@
   * [[:en:bible:questions:comprehension:psa:080]]
 **[[:en:bible:notes:psa:080:004|<<]] | [[:en:bible:notes:psa:080:009|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit book3}}
+~~DISCUSSION~~{{tag>publish p2check book3}}
 
 ~~NOCACHE~~
