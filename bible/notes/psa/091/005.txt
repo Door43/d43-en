@@ -58,12 +58,15 @@
 
 ===== translationNotes: =====
 
-  * **terror in the night** - Here, "terror" is given human abilities (See: [[:en:ta:vol2:translate:figs_personification]])
-  * **or of the plague** - AT: "You will not be afraid of the plague"
-  * **plague that roams** - Plague is given here human abilities (See: [[:en:ta:vol2:translate:figs_personification]])
-  * **roam** - go around without a plan 
-  * **A thousand may fall at your side and ten thousand at your right hand** - AT: "1,000 people may fall at your side and 10,000 people may fall at your right hand," (See: [[:en:ta:vol1:translate:figs_explicit]] and [[:en:ta:vol2:translate:translate_numbers]])
-  * **it will not reach you** - AT: "the evil will not harm you."
+  * **terror in the night** - The psalmist speaks of "terror" as if it were a spirit or fierce animal that could attack at night and so terrify people. AT: "things attacking you at night" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **in the night ... by day** - These two phrases taken together refer to all possible times of night and day. (See: [[:en:ta:vol2:translate:figs_merism]])
+  * **the arrow that flies by day** - "Arrow" is a metonym for the people who shoot the arrows. AT: "people attacking you with arrows during the day" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **or of the plague that roams** - The psalmist speaks of illness as if it were a person who went about at night killing other people. AT: "You will not be afraid of dying from illness" (See: [[:en:ta:vol2:translate:figs_personification]])
+  * **roams** - goes wherever he wants to go at any time
+  * **in the darkness ... at noontime** - These two phrases taken together refer to all possible times of night and day. (See: [[:en:ta:vol2:translate:figs_merism]])
+  * **disease** - an illness that makes many people ill at the same time
+  * **A thousand may fall at your side and ten thousand at your right hand** - If translating the exact numbers confuses the readers, you may omit them. "Many people may fall all around you"
+  * **it will not reach you** - "the evil will not harm you."
 
 ===== Links: =====
 
@@ -72,6 +75,6 @@
   * [[:en:bible:questions:comprehension:psa:091]]
 **[[:en:bible:notes:psa:091:003|<<]] | [[:en:bible:notes:psa:091:008|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit book4}}
+~~DISCUSSION~~{{tag>publish p2check book4}}
 
 ~~NOCACHE~~
