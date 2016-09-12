@@ -54,14 +54,15 @@
   * [[:en:obe:other:house]]
   * [[:en:obe:other:goat]]
   * [[:en:obe:other:beast]]
- 
+  * [[:en:obe:other:know]] 
 
 ===== translationNotes: =====
 
   * **folds** - "pens" or "fences"
-  * **the cattle on a thousand hills** - God uses a great number of hills where cattle live to refer to all the cattle in the world. AT: "the cattle of every hilltop" 
+  * **the cattle on a thousand hills** - The phrase "on a thousand hills" does not represent the total number of cattle that God owns. The number is an exaggeration that emphasizes that God owns all of the cattle in the world. The verb may be supplied from the previous phrase. AT: "all the cattle in the world are mine" (See: [[:en:ta:vol2:translate:figs_hyperbole]] and [[:en:ta:vol2:translate:figs_ellipsis]])
   * **thousand hills** - "1,000 hills" (See: [[:en:ta:vol2:translate:translate_numbers]])
-  * **I know all the birds** - The Hebrew word translated "know" also implies legal ownership in this passage. AT: "I own all the birds" 
+  * **I know all the birds** - Here the word "know" implies ownership. AT: "I own all the birds" (See: [[:en:ta:vol1:translate:figs_idiom]] and [[:en:ta:vol1:translate:figs_explicit]])
+
 ===== Links: =====
 
   * [[:en:bible:notes:psa:000:intro]]
@@ -69,6 +70,6 @@
   * [[:en:bible:questions:comprehension:psa:050]]
 **[[:en:bible:notes:psa:050:007|<<]] | [[:en:bible:notes:psa:050:012|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit book2}}
+~~DISCUSSION~~{{tag>publish p2check book2}}
 
 ~~NOCACHE~~
