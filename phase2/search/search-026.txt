@@ -43,9 +43,14 @@
 ^  Before  ^  After  ^ 
 |{{door43pages @:en:bible:notes -r -q="[^ ]\.\.\." -exclude:home -exclude:00 -exclude:intro -simpleLineBreak -title -fontsize="90%"}}  |{{door43pages @:en:bible:notes -r -q="\.\.\.[^ ]" -exclude:home -exclude:00 -exclude:intro -simpleLineBreak -title -fontsize="90%"}}  |
 
-=== 8. Missing colon at beginning of link: ===
+=== 8. Missing colon at beginning of TA or verse link: ===
 
-{{door43pages @:en:bible:notes -r -q="\[\[en\:" -exclude:home -exclude:00 -exclude:intro -simpleLineBreak -title -fontsize="90%"}} 
+{{door43pages @:en:bible:notes -r -q="\[\[en\:bible" -exclude:home -exclude:00 -exclude:intro -simpleLineBreak -title -fontsize="90%"}} 
+
+
+=== 9. Missing colon at beginning of OBE link: ===
+
+{{door43pages @:en:obe -r -q="\[\[en\:obe" -exclude:home -exclude:00 -exclude:intro -simpleLineBreak -title -fontsize="90%"}} 
 
 
 
