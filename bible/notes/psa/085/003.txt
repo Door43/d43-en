@@ -58,9 +58,12 @@
 ===== translationNotes: =====
 
   * **You ... your** - The pronouns "you" and "your" refer to Yahweh. (See: [[:en:ta:vol1:translate:figs_you]]) 
-  * **us** - "us" refers to the Israelite people. 
-  * **You have withdrawn all your wrath; you have turned back from your hot anger.** - The writer uses parallel phrases to emphasize the importance of God's forgiveness. (See: [[:en:ta:vol2:translate:figs_parallelism]])
-  * **Will you be angry with us forever? Will you remain angry throughout future generations?** - The writer uses parallel sentences to emphasize the sincere request. AT: " Please do not stay angry at us forever." (See: [[:en:ta:vol2:translate:figs_parallelism]])
+  * **You have withdrawn all your wrath** - God no longer punishing the Israelites is spoken of as if wrath were an object that Yahweh to away from the Israelites. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **you have turned back from your hot anger** - God no longer being angry with the Israelites is spoken of as if anger were a fire that God from which God turned away. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **Restore us** - Here "us" refers to the writer and the Israelite people. (See: [[:en:ta:vol2:translate:figs_exclusive]])
+  * **God of our salvation** - The abstract noun "salvation" can be stated as a verb. AT: "God who saves us" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
+  * **let go of your displeasure with us** - Asking God to stop being angry with the Israelites is spoken of as if displeasure were an object the writer wants God to let go of. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **Will you be angry with us forever? Will you remain angry throughout future generations?** - The writer uses these questions to emphasize that he is requesting God to stop being angry with them. AT: "Please do not stay angry at us forever." (See: [[:en:ta:vol1:translate:figs_rquestion]])
 
 ===== Links: =====
 
@@ -69,6 +72,6 @@
   * [[:en:bible:questions:comprehension:psa:085]]
 **[[:en:bible:notes:psa:085:001|<<]] | [[:en:bible:notes:psa:085:006|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit book3}}
+~~DISCUSSION~~{{tag>publish p2check book3}}
 
 ~~NOCACHE~~
