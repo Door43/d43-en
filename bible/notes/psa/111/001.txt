@@ -67,6 +67,7 @@
   * [[:en:obe:kt:yahweh]]
   * [[:en:obe:other:heart]]
   * [[:en:obe:kt:assembly]]
+  * [[:en:obe:kt:upright]]
   * [[:en:obe:kt:works]]
   * [[:en:obe:kt:majesty]]
   * [[:en:obe:kt:glory]]
@@ -75,13 +76,13 @@
  
 ===== translationNotes: =====
 
-
   * **General Information:** - See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]]
 
-  * **with my whole heart** - AT: "completely" (See: [[:en:ta:vol1:translate:figs_idiom]])
-  * **in the assembly of the upright, in their gathering** - AT: "in the gathering of the righteous" (See: [[:en:ta:vol2:translate:figs_doublet]])
-  * **eagerly awaited** - "they are sought after" or "they are studied"
-  * **majestic and glorious** - These two words share similar meanings and emphasize the greatness of his glory. (See: [[:en:ta:vol2:translate:figs_doublet]])
+  * **with my whole heart** - Here the word "heart" represents the person's entire inner being and emotions. AT: "with all that I am" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **in the assembly of the upright, in their gathering** - These two phrases mean that same thing and may be combined if necessary. AT: "in the gathering of the upright" (See: [[:en:ta:vol2:translate:figs_doublet]])
+  * **eagerly awaited by all those who desire them** - The word "them" refers to the "works of Yahweh." This can be stated in active form. AT: "all those who desire them eagerly await them" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **eagerly awaited** - Possible meanings are 1) "sought after" or 2) "studied."
+
 ===== Links: =====
 
   * [[:en:bible:notes:psa:000:intro]]
@@ -89,6 +90,6 @@
   * [[:en:bible:questions:comprehension:psa:111]]
 **[[:en:bible:notes:psa:110:007|<<]] | [[:en:bible:notes:psa:111:004|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit book5}}
+~~DISCUSSION~~{{tag>publish p2check book5}}
 
 ~~NOCACHE~~
