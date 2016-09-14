@@ -35,11 +35,11 @@ OBE KT's:
 
 OBE Other:
 
-{{door43pages -r -q=""en:obe:other:XXX"" -exclude:home -simpleLineBreak -title -fontsize="90%"}}
+{{door43pages -r -q=""en:obe:other:shrine"" -exclude:home -simpleLineBreak -title -fontsize="90%"}}
 
 ==== Find the key term page ====
 
   * OBE KT: [[:en:obe:kt:xxx|XXX]]
-  * OBE Other: [[:en:obe:other:xxx|XXX]]
+  * OBE Other: [[:en:obe:other:shrine|XXX]]
 
 \\
