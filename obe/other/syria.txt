@@ -12,6 +12,8 @@ Syria is a country located northeast of Israel. During the time of the New Testa
 
 (Translation suggestions: [[:en:ta:vol1:translate:translate_names]])
 
+(See also: [[:en:obe:other:aram]], [[:en:obe:other:commander]], [[:en:obe:other:damascus]], [[:en:obe:other:descendant]], [[:en:obe:other:elisha]], [[:en:obe:other:leprosy]], [[:en:obe:other:naaman]], [[:en:obe:other:persecute]],[[:en:obe:other:prophet]])
+
 ===== Bible References: =====
 
-{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* syria(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~{{tag>publish}}
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* syria(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~{{tag>publish ktlink}}
