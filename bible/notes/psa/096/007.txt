@@ -29,7 +29,11 @@
 <usfm>
 \q
 \v 7 Give praise to Yahweh, you clans of peoples,
+<<<<<<< HEAD
+\q give praise to Yahweh glory and strength.
+=======
 \q give praise to Yahweh for his glory and strength.
+>>>>>>> origin/master
 \q
 \v 8 Give to Yahweh the glory that his name deserves.
 \q Bring an offering and come into his courts.
@@ -46,8 +50,8 @@
 
 ===== translationNotes: =====
 
-  * **Ascribe to Yahweh, you clans of peoples, ascribe to Yahweh glory and strength** - "You clans of peoples, understand for yourselves and tell others that Yahweh is glorious and strong" See how "Acknowledge that Yahweh ... acknowledge that Yahweh has glory and power" is translated in [[:en:bible:notes:psa:029:001|29:1]].
-  * **Ascribe to Yahweh the glory due to his name** - "Understand for yourselves and tell others that Yahweh's name is glorious." See how "Give to Yahweh the honor that his name demands" is translated in [[:en:bible:notes:psa:029:001|29:2]].
+  * **Give praise to Yahweh ... give praise to Yahweh for his glory and strength** - The abstract nouns "glory" and "strength" can be stated as adjectives. AT: "Praise Yahweh ... praise Yahweh because he is glorious and strong." See how these words are translated in [[:en:bible:notes:psa:029:001|29:1]].
+  * **Give to Yahweh the glory that his name deserves** The abstract noun "glory" can be stated as a verb or adjective. AT: "Honor Yahweh just as his name deserves" or "Proclaim that Yahweh is glorious just as his name deserves" See how these words are translated in [[:en:bible:notes:psa:029:001|29:2]]. (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
   * **his name** - "him" (See: [[:en:ta:vol2:translate:figs_metonymy]])
   * **his courts** - the temple courtyard where the priests sacrificed animals to Yahweh
 
