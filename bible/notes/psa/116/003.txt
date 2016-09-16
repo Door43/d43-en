@@ -52,13 +52,12 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - The person who made this song continues to speak.
+  * **General Information:** - The person who composed this psalm continues to speak.
 
-  * **The cords of death surrounded me** - See how you translated this in [[:en:bible:notes:psa:018:004|18:4]].
-  * **the snares of sheol confronted me** - "the traps of death caught me." AT: "I almost died." (See: [[:en:ta:vol1:translate:figs_metaphor]], [[:en:ta:vol2:translate:figs_euphemism]])
-  * **anguish and sorrow** - "suffering and grief"
-  * **called on the name of Yahweh** - "prayed in the name of Yahweh."
-  * **rescue my life** - "keep me alive" or "rescue me"
+  * **The cords of death surrounded me** - The writer speaks of death as if it were a person who could capture him and bind him with ropes. See how you translated this in [[:en:bible:notes:psa:018:004|18:4]]. AT: "I felt like I was about to die" (See: [[:en:ta:vol2:translate:figs_personification]] and [[:en:ta:vol1:translate:figs_metaphor]])
+  * **the snares of sheol confronted me** - The writer speaks of "sheol," the place of the dead, as if it were a person who could trap him with snares. AT: "I felt as if I were ready to enter the grave" (See: [[:en:ta:vol2:translate:figs_personification]] and [[:en:ta:vol1:translate:figs_metaphor]])
+  * **called on the name of Yahweh** - Here the word "name" represents Yahweh himself. AT: "called out to Yahweh" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **rescue my life** - Here the word "life" represents the person. AT: "rescue me" or "keep me from dying" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
 
 ===== Links: =====
 
@@ -67,6 +66,6 @@
   * [[:en:bible:questions:comprehension:psa:116]]
 **[[:en:bible:notes:psa:116:001|<<]] | [[:en:bible:notes:psa:116:005|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit book5 anguish}}
+~~DISCUSSION~~{{tag>publish p2check book5 anguish}}
 
 ~~NOCACHE~~
