@@ -44,17 +44,17 @@
 
 <usfm>
 \q
-\v 3 You observe my path and my lying down;
+\v 3 You observe my path and when I lie down;
 \q you are familiar with all my ways.
 \q
-\v 4 For before there is a word on my tongue,
-\q you know it completely, Yahweh.
+\v 4 For there is not a word I speak
+\q that you do not know completely, Yahweh.
 \q
-\v 5 Behind me and before me you surround me
-\q and place your hand upon me.
+\v 5 Behind and before you surround me
+\q and rest your hand upon me.
 \q
 \v 6 Such knowledge is too much for me;
-\q it is too high, and I cannot reach it.
+\q it is too high, and I cannot understand it.
 </usfm>
 
 ===== translationWords: =====
@@ -66,9 +66,8 @@
 
 ===== translationNotes: =====
 
-  * **observe my path** - AT: "know my every thing I do" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **and when I lie down** - AT: "and all my actions"
-  * **there is not a word I speak that you do not know completely** - AT: "you know everything that I say" (See: [[:en:ta:vol2:translate:figs_doublenegatives]])
+  * **my path and my lying down** - Here "path" stands for one's behavior. "My path and my lying down" together represent everything about the psalmist. (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_merism]])
+  * **there is not a word I speak that you do not know completely** - "you know everything that I say" (See: [[:en:ta:vol2:translate:figs_doublenegatives]])
   * **rest your hand upon me** - AT: "you protect and comfort me" (See: [[:en:ta:vol1:translate:figs_idiom]])
   * **too much for me** - AT: "too much for me to understand"
   * **it is too high** - AT: "it is difficult to understand" (See: [[:en:ta:vol2:translate:figs_metonymy]])
