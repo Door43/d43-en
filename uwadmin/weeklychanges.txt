@@ -910,3 +910,6 @@
 **[[:zmz:obs|zmz OBS]]**
 {{changes>ns=zmz:obs&maxage=604800&render=pagelist(header,date,user,nocomments)}}
 
+**[[:zne:obs|zne OBS]]**
+{{changes>ns=zne:obs&maxage=604800&render=pagelist(header,date,user,nocomments)}}
+

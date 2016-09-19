@@ -607,3 +607,5 @@
 {{changes>ns=zh-tw:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:zmz:obs|zmz OBS]]**
 {{changes>ns=zmz:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
+**[[:zne:obs|zne OBS]]**
+{{changes>ns=zne:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
