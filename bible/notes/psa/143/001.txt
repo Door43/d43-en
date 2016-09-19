@@ -64,9 +64,11 @@
   * **General Information:** - See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]]
 
   * **A psalm of David** - Possible meanings are 1) David wrote the psalm or 2) the psalm is about David or 3) the psalm is in the style of David's psalms.
+  * **Hear my prayer** - The words "my prayer" are a metonym for the person who is praying. AT: "Listen to me as I pray to you" or "Be willing to do what I ask you to do" See how these words are translated in [[:en:bible:notes:psa:039:012|39:12]].
   * **answer me** - AT: "please do what I ask you to do" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **Do not enter into judgment** - AT: "Please do not judge" or "I beg you not to judge" (See: [[:en:ta:vol1:translate:figs_idiom]])
-  * **in your sight no one is righteous** - AT: "you do not think anyone is righteous" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **Do not enter into judgment** - "Please do not judge" or "I beg you not to judge" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **your servant** - The psalmist speaks of himself as if he were speaking of another person. AT: "me" (See: [[:en:ta:vol2:translate:figs_123person]])
+  * **in your sight no one is righteous** - "you do not think anyone is righteous" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
 
 
 ===== Links: =====
@@ -76,6 +78,6 @@
   * [[:en:bible:questions:comprehension:psa:143]]
 **[[:en:bible:notes:psa:142:006|<<]] | [[:en:bible:notes:psa:143:003|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit book5}}
+~~DISCUSSION~~{{tag>publish p2check book5}}
 
 ~~NOCACHE~~
