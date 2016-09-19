@@ -58,8 +58,10 @@
 
 ===== translationNotes: =====
 
-  * **Listen to my call** - See how you translated this in [[:en:bible:notes:psa:005:001|5:1]]
-  * **Bring my soul out of prison** - This is a request. (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **Listen to my call** - This is a call for help. AT: "Listen to me as I call to you now for help." See how you translated this in [[:en:bible:notes:psa:005:001|5:1]]. (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **I have been brought very low** - Possible meanings are 1) "I am very needy" and 2) "I am very weak." See how "we are very low" is translated in [[:en:bible:notes:psa:078:008|78:8]].
+  * **Bring my soul out of prison** - This is a request. AT: "bring me out of prison" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **give thanks to your name** - The word "name" is a metonym for the person. AT: "give thanks to you" See how "your name" is translated in [[:en:bible:notes:psa:005:011|5:11]].
 
 ===== Links: =====
 
@@ -68,6 +70,6 @@
   * [[:en:bible:questions:comprehension:psa:142]]
 **[[:en:bible:notes:psa:142:003|<<]] | [[:en:bible:notes:psa:143:001|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit book5}}
+~~DISCUSSION~~{{tag>publish p2check book5}}
 
 ~~NOCACHE~~
