@@ -67,9 +67,13 @@
 
 ===== translationNotes: =====
 
-  * **hit me** - AT: "rebuke me" (UDB) or "correct me" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **may my head not refuse to accept it** - AT: "may I accept it gladly" (See: [[:en:ta:vol2:translate:figs_synecdoche]] and [[:en:ta:vol2:translate:figs_litotes]])
+  * **hit me** - The psalmist speaks as if giving a rebuke were physically hitting someone. AT: "rebuke me" (UDB) or "hit me so I will listen when he corrects me" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **it will be a kindness to me** - "when he hits me, I will know that the one who hits me is being kind to me" (See: [[:en:ta:vol1:translate:figs_simile]])
+  * **it will be like oil on my head** - Possible meanings are that the psalmist speaks as if a person correcting him were putting oil on his head 1) to honor him or 2) to make his head feel better. AT: "when he corrects me, I will know that the one who corrects me is doing a good deed to me" (See: [[:en:ta:vol1:translate:figs_simile]] and [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_metonymy]])
+  * **may my head not refuse to accept it** - The head is a synecdoche for the person. The litotes can be translated as a positive statement. AT: "may I accept it gladly" (See: [[:en:ta:vol2:translate:figs_synecdoche]] and [[:en:ta:vol2:translate:figs_litotes]])
+  * **my prayer is always against the deeds of the wicked people** - "I always pray that Yahweh will stop wicked people from doing evil deeds"
   * **Their leaders will be thrown down** - Possible meanings are 1) "Someone will throw their leaders down" or 2) "Their leaders will throw them down." (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **leaders** - See how "rulers" is translated in [[:en:bible:notes:psa:002:010|2:10]].
   * **cliffs** - ground that goes straight down a long way
   * **our bones have been scattered** - Possible meanings are 1) "people have thrown our bones around in different directions" or 2) as a result of the fall from the cliffs (141:6) "our bodies are broken and our bones lie in disorder"
 ===== Links: =====
@@ -79,6 +83,6 @@
   * [[:en:bible:questions:comprehension:psa:141]]
 **[[:en:bible:notes:psa:141:003|<<]] | [[:en:bible:notes:psa:141:008|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit book5 plow}}
+~~DISCUSSION~~{{tag>publish p2check book5 plow}}
 
 ~~NOCACHE~~
