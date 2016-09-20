@@ -45,10 +45,10 @@
 <usfm>
 \q
 \v 9 I will sing a new song to you, God;
-\q on a lute of ten strings I will sing praises to you,
+\q on a lute of ten strings I will sing praises to you.
 \q
-\v 10 who give salvation to kings,
-\q who rescued David your servant from an evil sword.
+\v 10 You give salvation to kings;
+\q you rescued David your servant from an evil sword.
 \q
 \v 11 Rescue me and free me from the hands of these foreigners.
 \q Their mouths speak lies,
@@ -73,9 +73,15 @@
 
 ===== translationNotes: =====
 
-  * **from an evil sword** - AT: Here evil people are being referred to as an "evil sword". AT: "from evil people trying to harm him" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **new song** - Possible meanings are 1) "a song no one has ever sung before" or 2) "a song I have never sung before."
+  * **you, who give ... kings, who rescued** - "you. It is you who give ... kings. It is you who rescued"
+  * **David your servant** - David speaks of himself as if he were someone else. "me, David, your servant"
+  * **from an evil sword** - David speaks of evil people as if they were the swords they use as weapons. AT: "from evil people who were trying to kill him" (See: [[:en:ta:vol2:translate:figs_metonymy]])
   * **Rescue me and free me** - "Please rescue me and free me"
-  * **from the hands of these foreigners ... and their right hand is falsehood** - Translate these words as you translated them in [[:en:bible:notes:psa:144:007|144:7-8]].
+  * **from the hands of these foreigners** - These words are a metaphor for "the power of these foreigners" or "what these foreigners are doing." (See: [[:en:ta:vol1:translate:figs_metaphor]]) Translate these words as you translated them in [[:en:bible:notes:psa:144:007|144:7-8]].
+  * **Their mouths speak lies** - "They speak lies" (See: [[:en:ta:vol2:translate:figs_metonymy]]) Translate these words as you translated them in [[:en:bible:notes:psa:144:007|144:7-8]].
+  * **their right hand is falsehood** - Possible meanings are 1) David speaks of the custom of raising the right hand to swear that what one is about to say in court is true, "they lie even when they swear to tell the truth," or 2) the "right hand" is a metaphor for power, "everything they have gotten, they have gotten by telling lies." (See: [[:en:ta:vol1:translate:figs_metaphor]])
+Translate these words as you translated them in [[:en:bible:notes:psa:144:007|144:7-8]].
 
 ===== Links: =====
 
@@ -84,6 +90,6 @@
   * [[:en:bible:questions:comprehension:psa:144]]
 **[[:en:bible:notes:psa:144:007|<<]] | [[:en:bible:notes:psa:144:012|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit book5}}
+~~DISCUSSION~~{{tag>publish p2check book5}}
 
 ~~NOCACHE~~
