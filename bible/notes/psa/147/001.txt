@@ -45,6 +45,10 @@
 ===== translationNotes: =====
 
   * **General Information:** - (See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]])
+
+  * **it is pleasant** - The object may be supplied from the previous phrase. AT: "it is pleasant to sing praises" (See: [[:en:ta:vol2:translate:figs_ellipsis]])
+  * **praise is suitable** - "praise is fitting" or "praise is appropriate"
+
 ===== Links: =====
 
   * [[:en:bible:notes:psa:000:intro]]
@@ -52,6 +56,6 @@
   * [[:en:bible:questions:comprehension:psa:147]]
 **[[:en:bible:notes:psa:146:009|<<]] | [[:en:bible:notes:psa:147:002|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit book5}}
+~~DISCUSSION~~{{tag>publish p2check book5}}
 
 ~~NOCACHE~~
