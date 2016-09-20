@@ -45,6 +45,7 @@
 ===== translationWords: =====
 
   * [[:en:obe:other:reject]]
+  * [[:en:obe:other:instruct]]
   * [[:en:obe:kt:life]]
   * [[:en:obe:kt:covenantfaith]]
   * [[:en:obe:kt:promise]]
@@ -53,7 +54,7 @@
 
 ===== translationNotes: =====
 
-  * **They have almost made an end to me on earth** - AT: "They have almost killed me" (See: [[:en:ta:vol2:translate:figs_euphemism]])
+  * **They have almost made an end to me on earth** - This is a polite way of speaking about someone killing someone else. AT: "They have almost killed me" (See: [[:en:ta:vol2:translate:figs_euphemism]])
 
 ===== Links: =====
 
@@ -62,6 +63,6 @@
   * [[:en:bible:questions:comprehension:psa:119]]
 **[[:en:bible:notes:psa:119:085|<<]] | [[:en:bible:notes:psa:119:089|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit book5}}
+~~DISCUSSION~~{{tag>publish p2edit book5 text}}
 
 ~~NOCACHE~~
