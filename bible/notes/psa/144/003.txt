@@ -45,8 +45,10 @@
 
 ===== translationNotes: =====
 
-  * **Yahweh, what is man that you take notice of him or the son of man that you think about him?** - Both of these phrases mean the same thing. The writer uses a question to emphasize his surprise that God pays attention to humans since they are not very important. (See: [[:en:ta:vol2:translate:figs_parallelism]] and [[:en:ta:vol1:translate:figs_rquestion]])
-  * **like a breath ... like a passing shadow** - The writer compares humans to these thing to emphasize how quick their lives are. (See: [[:en:ta:vol1:translate:figs_simile]])
+  * **Yahweh, what is man that you take notice of him or the son of man that you think about him?** - These questions can be translated as statements. AT: "Man is so small compared to everything else you have made that I am surprised that you take notice of man and that you think about the son of man." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **man ... son of man** - two words for human beings. (See: [[:en:ta:vol2:translate:figs_doublet]])
+  * **like a breath ... like a passing shadow** - The writer compares humans to these thing to emphasize how short their lives are. (See: [[:en:ta:vol1:translate:figs_simile]])
+
 ===== Links: =====
 
   * [[:en:bible:notes:psa:000:intro]]
@@ -54,6 +56,6 @@
   * [[:en:bible:questions:comprehension:psa:144]]
 **[[:en:bible:notes:psa:144:001|<<]] | [[:en:bible:notes:psa:144:005|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit book5}}
+~~DISCUSSION~~{{tag>publish p2check book5}}
 
 ~~NOCACHE~~
