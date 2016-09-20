@@ -70,9 +70,14 @@
   * **General Information:** - See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]]
 
   * **A psalm of David** - Possible meanings are 1) David wrote the psalm or 2) the psalm is about David or 3) the psalm is in the style of David's psalms.
-  * **my rock** - AT: "my safe place" or "my strength" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **my covenant faithfulness** - "my faithful friend"
-  * **the one in whom I take refuge** - Going to Yahweh for protection is spoken of as taking refuge in him. AT: "the one to whom I go for protection" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **my rock** - Possible meanings are 1) "the one who keeps me safe" or 2) "the one who gives me strength" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **who trains my hands for war and my fingers for battle** - The words "hands" and "fingers" are synecdoches for "me." If "war" and "battle" are the same word in your language, you can translate this as one line. AT: "who trains me for war and trains me for battle" or "who trains me for war" (See: [[:en:ta:vol2:translate:figs_synecdoche]] and [[:en:ta:vol2:translate:figs_doublet]] and [[:en:ta:vol2:translate:figs_ellipsis]])
+  * **my covenant faithfulness** - "the one who shows me covenant faithfulness" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **my fortress ... take refuge** - The psalmist uses many metaphors to emphasize that Yahweh will protect him. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **my high tower** - See how "stronghold" is translated in [[:en:bible:notes:psa:018:002|18:2]].
+  * **my shield** - See how this is translated in [[:en:bible:notes:psa:018:002|18:2]].
+  * **the one in whom I take refuge** - Going to Yahweh for protection is spoken of as taking refuge in him. AT: "the one to whom I go so he will protect me" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **the one who subdues nations under me** - "the one who enables me to defeat other nations"
 
 
 ===== Links: =====
@@ -82,6 +87,6 @@
   * [[:en:bible:questions:comprehension:psa:144]]
 **[[:en:bible:notes:psa:143:011|<<]] | [[:en:bible:notes:psa:144:003|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit book5}}
+~~DISCUSSION~~{{tag>publish p2check book5}}
 
 ~~NOCACHE~~
