@@ -43,6 +43,7 @@
 ===== translationWords: =====
 
   * [[:en:obe:other:hand]]
+  * [[:en:obe:other:understand]]
   * [[:en:obe:other:command]]
   * [[:en:obe:other:honor]]
   * [[:en:obe:kt:hope]]
@@ -51,7 +52,10 @@
 
 ===== translationNotes: =====
 
-  * **YOD** - This is the tenth letter of the Hebrew alphabet. In the Hebrew language, each line of verses 73-80 begins with this letter.
+  * **YOD** - This is the name of the tenth letter of the Hebrew alphabet. In the Hebrew language, each line of verses 73-80 begins with this letter.
+  * **Your hands have made and fashioned me** - God creating a person is spoken of as if God used his hands to shape the person the way someone may shape clay into an object. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **Your hands** - Here "hands" represents God's power or action. AT: "You" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **because I find hope in your word** - Here "word" represents what God says. AT: "because I trust what you say" (See: [[:en:ta:vol2:translate:figs_metonymy]])
 
 ===== Links: =====
 
@@ -60,6 +64,6 @@
   * [[:en:bible:questions:comprehension:psa:119]]
 **[[:en:bible:notes:psa:119:071|<<]] | [[:en:bible:notes:psa:119:075|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit book5}}
+~~DISCUSSION~~{{tag>publish p2check book5}}
 
 ~~NOCACHE~~
