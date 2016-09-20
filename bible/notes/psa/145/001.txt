@@ -61,13 +61,15 @@
   * [[:en:obe:kt:name]]
   * [[:en:obe:kt:forever]]
   * [[:en:obe:kt:yahweh]]
+
 ===== translationNotes: =====
 
   * **General Information:** - See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]]
 
   * **A psalm of praise. Of David** - "This is a psalm of praise that David wrote."
   * **extol you** - "tell people how wonderful you are"
-
+  * **bless your name** - The word "name" is a metonym for Yahweh himself. AT: "bless you" or "do what makes you happy." See how "may his glorious name be blessed" is translated in [[:en:bible:notes:psa:072:018|72:19]]. (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **praise your name** - The word "name" is a metonym for Yahweh himself. AT: "praise you" or "tell people how great you are." (See: [[:en:ta:vol2:translate:figs_metonymy]])
 
 ===== Links: =====
 
@@ -76,6 +78,6 @@
   * [[:en:bible:questions:comprehension:psa:145]]
 **[[:en:bible:notes:psa:144:014|<<]] | [[:en:bible:notes:psa:145:004|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit book5}}
+~~DISCUSSION~~{{tag>publish p2check book5}}
 
 ~~NOCACHE~~
