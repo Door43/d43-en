@@ -37,7 +37,7 @@
 <usfm>
 \q
 \v 7 Reach out your hand from above;
-\q rescue me out of many waters,
+\q rescue me out of many waters
 \q from the hands of these foreigners.
 \q
 \v 8 Their mouths speak lies,
@@ -53,10 +53,10 @@
 
 ===== translationNotes: =====
 
-  * **Reach out your hand** - See how you translated this in [[:en:bible:notes:psa:138:007|138:7]]
-  * **from above** - AT: "from heaven" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **Their mouths speak lies** - AT: "They speak lies" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **right hand is falsehood** - Witnesses in courts would raise their right hands to heaven to show they were telling the truth.
+  * **Reach out your hand from above; rescue me out of many waters** - David speaks as if God were on land above a flood and had physical hands with which he could pull David out of a flood. The flood is a metaphor for the troubles caused by the "foreigners." AT: "You who are able to act, help me overcome my troubles" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **from the hands of these foreigners** - These words are a metaphor for "the power of these foreigners" or "what these foreigners are doing." (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **Their mouths speak lies** - "They speak lies" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **their right hand is falsehood** - The right hand is a metaphor for power. AT: "they get what they want by telling lies" (See: [[:en:ta:vol1:translate:figs_metaphor]])
 
 ===== Links: =====
 
@@ -65,6 +65,6 @@
   * [[:en:bible:questions:comprehension:psa:144]]
 **[[:en:bible:notes:psa:144:005|<<]] | [[:en:bible:notes:psa:144:009|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit mgr book5}}
+~~DISCUSSION~~{{tag>publish p2check mgr book5}}
 
 ~~NOCACHE~~
