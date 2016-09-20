@@ -60,8 +60,13 @@
 
 ===== translationNotes: =====
 
-  * **executes justice** - "sees that people do what is just"
-  * **opens the eyes of the blind** - AT: "causes the blind to see"
+  * **He executes justice** - "He decides matters fairly" (UDB)
+  * **for the oppressed** - This nominal adjective can be stated as adjectives. AT: "for oppressed people" or "for those whom other people oppress" (See: [[:en:ta:vol2:translate:figs_nominaladj]])
+  * **to the hungry** - This nominal adjective can be stated as adjectives. AT: "to hungry people" or "to those who are hungry" (See: [[:en:ta:vol2:translate:figs_nominaladj]])
+  * **opens the eyes of the blind** - Causing a blind person to see is spoken of as if Yahweh were opening the person's eyes. AT: "causes the blind to see" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **the blind** - This nominal adjective can be stated as adjectives. AT: "blind people" or "those who are blind" (See: [[:en:ta:vol2:translate:figs_nominaladj]])
+  * **Yahweh raises up those who are bowed down** - Here "raises up" represents help. And, "bowed down" represents someone who is discouraged or weak. AT: "Yahweh helps those who are discouraged" or "Yahweh helps those who are weak" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **who are bowed down** - This action is a sign of distress or mourning. (See: [[:en:ta:vol2:translate:translate_symaction]])
 
 ===== Links: =====
 
@@ -70,6 +75,6 @@
   * [[:en:bible:questions:comprehension:psa:146]]
 **[[:en:bible:notes:psa:146:005|<<]] | [[:en:bible:notes:psa:146:009|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit book5}}
+~~DISCUSSION~~{{tag>publish p2check book5}}
 
 ~~NOCACHE~~
