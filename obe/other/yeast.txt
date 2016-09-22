@@ -25,7 +25,7 @@
 {{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* yeast(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}
 
 
-{{tag>publish ktlink}}
+{{tag>publish}}
 
 
 ~~DISCUSSION~~
