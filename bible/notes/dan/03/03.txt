@@ -28,8 +28,8 @@
 
 ===== translationWords: =====
 
-  * [[:en:obe:other:governor]]
   * [[:en:obe:other:province]]
+  * [[:en:obe:other:governor]]
   * [[:en:obe:other:counselor]]
   * [[:en:obe:other:judgeposition]]
   * [[:en:obe:other:magistrate]]
@@ -39,11 +39,12 @@
   * [[:en:obe:other:peoplegroup]]
   * [[:en:obe:other:nation]]
   * [[:en:obe:other:trumpet]]
-  * [[:en:obe:other:flute]]
   * [[:en:obe:other:lute]]
   * [[:en:obe:other:harp]]
+  * [[:en:obe:other:flute]]
   * [[:en:obe:other:gold]]
   * [[:en:obe:other:king]]
+
 ===== translationNotes: =====
 
   * **the provincial governors, regional governors, ... officials of the provinces** - See how you translated this list in [[:en:bible:notes:dan:03:01|3:2]].
