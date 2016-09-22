@@ -14,4 +14,4 @@ The term  "tetrarch" refers to a governing official who ruled over part of the R
 
 ===== Bible References: =====
 
-{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* tetrarch(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~{{tag>publish ktlink}}
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* tetrarch(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~{{tag>publish}}
