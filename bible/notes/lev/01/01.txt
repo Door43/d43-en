@@ -45,7 +45,8 @@
 
 ===== translationNotes: =====
 
-
+  * **from the tent of meeting, saying, "Speak to the people of Israel and tell them, 'When any man** - This begins Yahweh speaking to Moses. This speech ends in 3:17. This can be translated without the quotation within the quotation. AT: "from the tent of meeting and told Moses to say this to the people of Israel: 'When any man" (See: [[:en:ta:vol2:translate:figs_quotesinquotes]] and [[:en:ta:vol2:translate:figs_quotations]])
+  * **When any man** - Here "man" refers to any person in general, whether male or female. (See: [[:en:ta:vol2:translate:figs_gendernotations]])
 ===== Links: =====
 
   * [[:en:bible:notes:lev:00:intro]]
@@ -53,6 +54,6 @@
   * [[:en:bible:questions:comprehension:lev:01]]
 ** | [[:en:bible:notes:lev:01:03|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit tentofmeeting}}
+~~DISCUSSION~~{{tag>publish p2check tentofmeeting}}
 
 ~~NOCACHE~~
