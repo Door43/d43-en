@@ -2,22 +2,23 @@
 
 ===== Definition: =====
 
-A governor is a person who rules over a state, region, or territory. The word "govern" means to guide, lead, or manage people.
+A "governor" is a person who rules over a state, region, or territory. The word "govern" means to guide, lead, or manage people.
 
+  * The term "proconsul" was a more specific title for a governor who ruled over a Roman province.
   * In Bible times, governors were appointed by a king or emperor and were under his authority.
-  * They were under the authority of that king or emperor.
-  * Sometimes in the Bible the title "proconsul" is used for a person who governs. 
+
 
 ===== Translation Suggestions: =====
 
   * The word "governor" can also be translated as "ruler" or "overseer" or "regional leader" or "one who rules over a small territory."
-  * Depending on the context, the term "govern" could be translated as, "rule over" or "lead" or "manage" or supervise."
-  * Since a governor was under the authority of a king or emperor and had less power and importance, the term "governor" should be translated differently than those terms.
+  * Depending on the context, the term "govern" could also be translated as, "rule over" or "lead" or "manage" or supervise."
+  * The term "governor" should be translated differently than the terms for king or emperor, since a governor was a less powerful ruler who was under their authority.
+  * Teh term "proconsul" could also be translated as, "Roman governor" or "Roman provincial ruler."
 
-(See also: [[:en:obe:kt:authority]], [[:en:obe:other:king]], [[:en:obe:kt:power]], [[:en:obe:other:ruler]])
+(See also: [[:en:obe:kt:authority]], [[:en:obe:other:king]], [[:en:obe:kt:power]], [[:en:obe:other:province]], [[:en:obe:other:rome]], [[:en:obe:other:ruler]])
 
 ===== Bible References: =====
 
-{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* governor(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~{{tag>publish review}}
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* governor(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~{{tag>publish ktlink}}
 
 ~~NOCACHE~~
