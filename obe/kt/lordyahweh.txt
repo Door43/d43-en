@@ -2,19 +2,21 @@
 
 ===== Facts: =====
 
-In the Old Testament, these terms are used many times to refer to the one true God.
+In the Old Testament, "Lord Yahweh" is frequently used to refer to the one true God.
 
-  * The term "Lord" is a title and "Yahweh" is God's personal name.
-  * God's personal name "Yahweh" is also often combined with the term "God" to form "Yahweh God."
+  * The term "Lord" is a divine title and "Yahweh" is God's personal name.
+  * "Yahweh" is also often combined with the term "God" to form "Yahweh God."
 
 
 ===== Translation Suggestions: =====
 
-  * If you use some form of "Yahweh" for his personal name, you can translated these terms literally as "Lord Yahweh" and "Yahweh God."
+  * If some form of "Yahweh" is used for the translation of God's personal name, the terms "Lord Yahweh" and "Yahweh God" can be translated literally. Also consider how the term "Lord" is translated in other contexts when referring to God.
   * Some languages put titles after the name and would translate this as "Yahweh Lord." Consider what is natural in the project language: should the title "Lord" come before or after "Yahweh"?
-  * "Yahweh God" could possibly be rendered as "God who is called Yahweh" or "God who is the Living One" or "I am, who is God."
-  * If the translation renders "Yahweh" as "Lord" or "LORD," the term "Lord Yahweh" could be translated as "Lord God" or "God who is the Lord." Other possible translations could be, "Master LORD" or "God the LORD."
-  * The term "Lord Yahweh" should //not// be rendered as "Lord LORD" because readers may not notice the difference in letter size that has traditionally been used to distinguish these. 
+  * "Yahweh God" could also be rendered as "God who is called Yahweh" or "God who is the Living One" or "I am, who is God."
+  * If the translation follows the tradition of rendering "Yahweh" as "Lord" or "LORD," the term "Lord Yahweh" could be translated as "Lord God" or "God who is the Lord." Other possible translations could be, "Master LORD" or "God the LORD."
+  * The term "Lord Yahweh" should //not// be rendered as "Lord LORD" because readers may not notice the difference in letter size that has traditionally been used to distinguish these two words.
+
+(Translation suggestions: [[:en:ta:vol1:translate:translate_names|How to Translate Names]])
 
 (See also: [[:en:obe:kt:god]], [[:en:obe:kt:lord]], [[:en:obe:kt:lordgod]], [[:en:obe:kt:yahweh]])
 
@@ -23,4 +25,4 @@ In the Old Testament, these terms are used many times to refer to the one true G
 {{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* lordyahweh(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}
 
 
-~~DISCUSSION~~{{tag>publish review}}
+~~DISCUSSION~~{{tag>publish}}
