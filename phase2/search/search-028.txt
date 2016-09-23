@@ -9,5 +9,5 @@ The script on this page searches for a string of text anywhere in the notes, the
 
 search results:
 
-^  p2pass  ^  p2check  ^
-|{{door43pages @:en:bible:notes -r -q="( \- See how you translated)(?=[^}]*p2pass)" -exclude:home -exclude:00 -exclude:intro -simpleLineBreak -title -fontsize="90%"}}  |{{door43pages @:en:bible:notes -r -q="( \- See how you translated)(?=[^}]*p2check)" -exclude:home -exclude:00 -exclude:intro -simpleLineBreak -title -fontsize="90%"}}  |
+^  p2check  ^  p2pass  ^
+|{{door43pages @:en:bible:notes -r -q="( \- See how you translated)(?=[^}]*p2check)" -exclude:home -exclude:00 -exclude:intro -simpleLineBreak -title -fontsize="90%"}}  |{{door43pages @:en:bible:notes -r -q="( \- See how you translated)(?=[^}]*p2pass)" -exclude:home -exclude:00 -exclude:intro -simpleLineBreak -title -fontsize="90%"}}  |
