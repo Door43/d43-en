@@ -25,7 +25,7 @@
 ===== ULB: =====
 
 <usfm>
-\v 17 You will not show partiality to anyone in a dispute; you will hear the small and the great alike. You will not be afraid of the face of man, for the judgment is God's. The dispute that is too hard for you, you will bring to me, and I will hear it.'
+\v 17 You will not show partiality to anyone in a dispute; you will hear the small and the great alike. You must not be afraid of the face of man, for the judgment is God's. The dispute that is too hard for you, you will bring to me, and I will hear it.'
 \v 18 I commanded you at that time all the things that you should do.
 </usfm>
 
@@ -41,11 +41,12 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - Moses continues speaking to the judges.
+  * **General Information:** - Moses continues speaking to the judges, so the commands are plural. (See: [[:en:ta:vol2:translate:figs_pronouns]])
 
 
-  * **you will hear the small and the great alike** - These two extremes "small" and "great" represent all people.  AT: "you will treat all people alike." (See: [[:en:ta:vol2:translate:figs_merism]])
-  * **You must not be afraid of the face of man** - This is an idiom that means they must not be afraid of anyone. (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **You will not show partiality** - "Do not show partiality"
+  * **you will hear the small and the great alike** - These two extremes "small" and "great" represent all people. AT: "you will treat all people alike." (See: [[:en:ta:vol2:translate:figs_merism]])
+  * **You will not be afraid of the face of man** - The word "face" is a metonym for the whole person. "You will not" is a command. "Do not be afraid of anyone." (See: [[:en:ta:vol2:translate:figs_metonymy]])
   * **at that time** - This means the time when they were at Horeb, at Mount Sinai. (See: [[:en:ta:vol1:translate:figs_explicit]])
 ===== Links: =====
 
@@ -60,6 +61,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit partial}}
+{{tag>publish p2check partial}}
 
 ~~NOCACHE~~
