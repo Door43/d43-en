@@ -26,14 +26,15 @@
 ===== ULB: =====
 
 <usfm>
-\v 29 Then I said to you, 'Do not be terrified, neither be afraid of them.
-\v 30 Yahweh your God, who goes before you, he will fight for you, like everything that he did for you in Egypt before your eyes,
+\v 29 Then I said to you, 'Do not be afraid, neither be afraid of them.
+\v 30 Yahweh your God who goes before you, he will fight for you, like everything that he did for you in Egypt before your eyes,
 \v 31 and also in the wilderness, where you have seen how Yahweh your God carried you, as a man carries his son, everywhere you went until you came to this place.'
 </usfm>
 
 
 ===== translationWords: =====
 
+  * [[:en:obe:other:terror]]
   * [[:en:obe:kt:fear]]
   * [[:en:obe:kt:yahweh]]
   * [[:en:obe:kt:god]]
@@ -44,6 +45,7 @@
 
   * **General Information:** - Moses continues reminding the people of Israel what the previous generation of Israelites did.
 
+  * **I said to you** - "I said to your ancestors"
   * **before your eyes** - Here the metonym "before your eyes" refers to what they saw. AT: "which you yourselves saw" (See: [[:en:ta:vol2:translate:figs_metonymy]])
   * **Yahweh your God carried you, as a man carries his son** - Here Yahweh's care for his people is compared to that of a father. AT: "Yahweh your God has taken care of you, like a father takes care of his son" (See: [[:en:ta:vol1:translate:figs_simile]])
   * **until you came to this place** - "until you came to this land that God promised to give you"
@@ -61,6 +63,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2check}}
 
 ~~NOCACHE~~
