@@ -31,6 +31,7 @@
 ===== translationWords: =====
 
   * [[:en:obe:other:fountain]]
+  * [[:en:obe:other:well]]
   * [[:en:obe:other:water]]
   * [[:en:obe:other:creature]]
   * [[:en:obe:kt:unclean]]
@@ -38,10 +39,12 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - Yahweh continues telling Moses and Aaron what the people can eat and must avoid eating.
+  * **General Information:** - Yahweh continues telling Moses and Aaron which animals the people are to consider unclean.
 
-  * **cistern where drinking water is collected** - This can be translated in active form. AT: "a well where water collects" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **cistern where drinking water is collected** - This can be translated in active form. AT: "a cistern that collects drinking water" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **seeds for planting** - "seeds that you intend to plant"
   * **But if water is put on the seeds** - This can be translated in active form. AT: "But if you put water on the seeds" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+
 ===== Links: =====
 
   * [[:en:bible:notes:lev:00:intro]]
@@ -49,6 +52,6 @@
   * [[:en:bible:questions:comprehension:lev:11]]
 **[[:en:bible:notes:lev:11:34|<<]] | [[:en:bible:notes:lev:11:39|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~
