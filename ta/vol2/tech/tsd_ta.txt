@@ -51,6 +51,8 @@ Continue to the next tW until all of the translationAcademy topics are completed
 https://git.door43.org/Door43/en-ta-intro
 
 === Terms to Know ===
+**Master** - the original content.
+**Branch** - a copy of the original 'master' of the content.
 **Fork** - to fork something is to make a branch of the master. Think of a path. This path has a split so the person walking down the path can either go to the right or stay on the main path. This is a fork in the path. \\
 **Repo** - this is short for 'repository.' A repository is where all the files from a project is stored. 
 
