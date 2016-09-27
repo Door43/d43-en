@@ -40,11 +40,11 @@ Write translations that will help the Other Language translators understand tran
 
 === Mark the tA Topic as Done and Go to the Next topic ===
 
-When the translator feels that all the information has been written for the translationWord:
-  * Click on the slider at the bottom right of the term to mark the word as 'done.'
+When the translator feels that all the information has been written for the translationAcademy topic:
+  * Click on the slider at the bottom right of the topic window to mark the topic as 'done.'
   * Click on 'Confirm' in the pop-up window.
 
-Continue to the next tW until all of the translationWords are complete. 
+Continue to the next tW until all of the translationAcademy topics are completed. 
 
 ----
 ==== Using the git.door43.org site ====
