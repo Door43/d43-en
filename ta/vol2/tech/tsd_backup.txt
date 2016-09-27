@@ -11,7 +11,7 @@
 == From the Translation Project window: ==
 
   * Click on the 3-dot menu icon.
-  * Click on to choose the word "Backup." The file menu will open to save the document.
+  * Click on the word "Backup." The file menu will open to save the document.
   * Note the location of the file.
   * Change the file name if desired. The file name has the language code, book or story, and project type. The file extension is tstudio.
   * Click the 'Save' button.
