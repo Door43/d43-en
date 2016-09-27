@@ -51,9 +51,9 @@ Type in the translation of the first, or only, question in the Questions section
   * Type in the translation of the answer in the space where the words "Add Answer Here" are.
 Add another question.
   * Click on the plus sign on the top bar of the Target Language Questions section.
-  * Repeat the translating of the question and answers until all are done for that particular chunk.
+  * Repeat the translating of the questions and answers until all are done for that particular chunk.
 
-== What if there are no source text questions for a chunk? == 
+=== What if there are no source text questions for a chunk? === 
 
 The Gateway Language translator should make the decision if there should be a question or if no question for that chunk is the right thing to do.
   * To add a question - click on the plus sign on the header of the chunk and add the new question and answer in the correct spaces.
