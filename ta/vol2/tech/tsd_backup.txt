@@ -8,7 +8,7 @@
 === You should save your translation work on a regular schedule. ===
 
 
-== From the Translation Project window: ==
+=== From the Translation Project window: ===
 
   * Click on the 3-dot menu icon.
   * Click on the word "Backup." The file menu will open to save the document.
@@ -20,7 +20,7 @@
     * Click 'No' to rename the file. (You will need to return to the Backup menu and start again.)
 
 
-== From the Home window: ==
+=== From the Home window: ===
 
   * Click on the circle with the 'i' next to the progress chart of any project.
   * The information window about the project opens.
