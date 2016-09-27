@@ -57,7 +57,7 @@ The project window opens. The 4 sections displayed are (from left to right):
 
 **Note: In order for the translationNote to be useful in the target Gateway Language, you will need to adapt the translationNote so that it talks about the text of the ULB as it is in the Gateway Language translation.**
 
-== What if there are no source text notes for a chunk? == 
+=== What if there are no source text notes for a chunk? === 
 
 The Gateway Language translator should make the decision if there should be a note or if no note for that chunk is the right thing to do.
   * To add a note - click on the plus sign on the header of the chunk and add the new question and answer in the correct spaces.
