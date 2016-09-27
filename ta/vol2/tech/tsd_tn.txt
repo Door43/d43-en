@@ -60,14 +60,14 @@ The project window opens. The 4 sections displayed are (from left to right):
 === What if there are no source text notes for a chunk? === 
 
 The Gateway Language translator should make the decision if there should be a note or if no note for that chunk is the right thing to do.
-  * To add a note - click on the plus sign on the header of the chunk and add the new question and answer in the correct spaces.
+  * To add a note - click on the plus sign on the header of the chunk and add the new ULB quote and note in the correct spaces.
   * For a chunk that has no source text notes - click on the 'Mark chunk as done' slider to confirm that the chunk is complete. 
-  * For a chunk that has source text notes but the GL does not need notes - type in the words "No Notes" on both the reference text and note text lines. 
+  * For a chunk that has source text notes but the GL does not need notes - leave the notes area empty and mark the chunk 'done.'
 
 === Mark the Chunk as Done and Go to the Next Chunk ===
 
 When the translator feels that all the notes have been written for the chunk:
-  * Click on the slider at the bottom right of the term to mark the word as 'done.'
+  * Click on the slider at the bottom right of the notes to mark them as 'done.'
   * Click on 'Confirm' in the pop-up window.
 
 Continue to the next chunk until all of the chunks for a chapter or story are complete. 
