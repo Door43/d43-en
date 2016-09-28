@@ -41,10 +41,11 @@
 ===== translationNotes: =====
 
   * **Yahweh spoke to Moses again, saying, "Speak to Aaron and to his sons, saying, 'This is the law** - This has a quotation within a quotation. A direct quotation can be stated as an indirect quotation. AT: "Yahweh spoke to Moses again and told him to speak to Aaron and his sons, saying, 'This is the law" (See:[[:en:ta:vol2:translate:figs_quotesinquotes]] and [[:en:ta:vol2:translate:figs_quotations]])
+  * **Speak to Aaron and to his sons** - Yahweh is speaking to Aaron and his sons, but these regulations apply to all priest who perform these sacrifices. (See: [[:en:ta:vol1:translate:figs_explicit]])
   * **The sin offering must be killed** - This can be translated in active form. AT: "You must kill the sin offering" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **where the burnt offering is killed** - This can be stated in active form. AT: "where they kill the animal for the burnt offering" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **where the burnt offering is killed** - This can be stated in active form. AT: "where you kill the animal for the burnt offering" (See: [[:en:ta:vol2:translate:figs_activepassive]])
   * **before Yahweh** - "to Yahweh"
-  * **It must be eaten** - Only the priests were to eat the offerings. Translate this so it is clear that only the priests were allowed to eat what was offered and burned. AT: "He must eat it" (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **It must be eaten** - This can be stated in active form. AT: "He must eat it" (See: [[:en:ta:vol2:translate:figs_activepassive]])
 ===== Links: =====
 
   * [[:en:bible:notes:lev:00:intro]]
@@ -52,6 +53,6 @@
   * [[:en:bible:questions:comprehension:lev:06]]
 **[[:en:bible:notes:lev:06:21|<<]] | [[:en:bible:notes:lev:06:27|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit text}}
+~~DISCUSSION~~{{tag>publish p2check text}}
 
 ~~NOCACHE~~
