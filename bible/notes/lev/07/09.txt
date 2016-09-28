@@ -43,7 +43,10 @@
 ===== translationNotes: =====
 
 
-  * **that is baked in an oven ... that is cooked in a frying pan** - Moses tells the priests that they can eat certain parts of the offerings. This can be translated in active form. AT: "that bakes in an oven" or "that cooks in a frying pan" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **that is baked in an oven ... that is cooked in a frying pan** - This can be translated in active form. AT: "that someone bakes in an oven ... that someone cooks in a frying pan" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **oven** - This was probably a hollow object made of clay. A fire was lit under the oven, and the heat would bake the dough inside of the oven. See how you translated this in [[:en:bible:notes:lev:02:04|2:4]]. (See: [[:en:ta:vol1:translate:translate_unknown]])
+  * **a frying pan** - This is a metal plate with rounded edges. The dough was placed in the pan and cooked over a fire. See how you translated "pan" in [[:en:bible:notes:lev:02:06|2:7]]. (See: [[:en:ta:vol1:translate:translate_unknown]])
+  * **a baking pan** - This is a thick plate made of either clay or metal. The plate was placed over a fire, and the dough cooked on top of the plate. See how you translated "flat iron pan" in [[:en:bible:notes:lev:02:04|2:5]]. (See: [[:en:ta:vol1:translate:translate_unknown]])
  
 ===== Links: =====
 
@@ -58,6 +61,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2check}}
 
 ~~NOCACHE~~
