@@ -7,46 +7,23 @@ We have Important Term page for the major categories of Biblical units. However,
 
 ===== Standard Notes: =====
 
-=== Distance ===
+=== New Note Style for ATs with metric equivalents ===
 
-  * **sixty stadia** - eleven kilometers (See: biblical distance)
+The two notes below might be clearer and simpler than notes further down this page that involve metric equivalents. When giving a metric equivalent, it would be good use one that does not conflict with the equivalent in the UDB. But it would be good to omit "about" in the translation suggestion when the measurement is regarding something that God has commanded. (God was not telling people to use "about" a certain amount.)
 
-<code>
-  * **sixty stadia** - eleven kilometers (See: [[:en:obe:other:biblicaldistance]])
-</code>
-
-  * **fifteen stadia** - "about three kilometers." A "stadia" is 185 meters. (See: biblical distance)
+  * **three tenths of an ephah** - You may convert this to a modern measure. AT: "six and one half liters" (See: [[:en:ta:vol2:translate:translate_bvolume]])
 
 <code>
-  * **fifteen stadia** - "about three kilometers." A "stadia" is 185 meters. (See: [[:en:obe:other:biblicaldistance]])
+  * **three tenths of an ephah** - You may convert this to a modern measure. AT: "six and one half liters" (See: [[:en:ta:vol2:translate:translate_bvolume]])
 </code>
 
-  * **two hundred cubits** - "ninety meters." A cubit was a little less than half a meter. (See: biblical distance)
+  * **half a hin** - You may convert this to a modern measure AT: "two liters" (See: [[:en:ta:vol2:translate:translate_bvolume]])
 
 <code>
-  * **two hundred cubits** - "ninety meters." A cubit was a little less than half a meter. (See: [[:en:obe:other:biblicaldistance]])
+  * **half a hin** - You may convert this to a modern measure AT: "two liters" (See: [[:en:ta:vol2:translate:translate_bvolume]])
 </code>
 
-
-=== Money ===
-
-  * **thirty shekels of silver** - "330 grams of silver." A shekel weighed eleven grams. (See: biblical money)
-
-<code>
-  * **thirty shekels of silver** - "330 grams of silver." A shekel weighed eleven grams. (See: [[:en:obe:other:biblicalmoney]])
-</code>
-
-  * **two hundred denarii worth of bread** - "bread that cost two hundred days wages" (See: biblical money)
-
-<code>
-  * **two hundred denarii worth of bread** - "bread that cost two hundred days wages" (See: [[:en:obe:other:biblicalmoney]])
-</code>
-
-  * **five hundred denarii** - "five hundred day's wages." "Denarii" is the plural of "denarius." (See: biblical money)
-
-<code>
-  * **five hundred denarii** - "five hundred day's wages." "Denarii" is the plural of "denarius." (See: [[:en:obe:other:biblicalmoney]])
-</code>
+------------------------
 
 
 === Time ===
@@ -70,18 +47,25 @@ We have Important Term page for the major categories of Biblical units. However,
 </code>
 
 
-=== Volume ===
+=== Money ===
 
-  * **a sixth of a hin** - "1/6 hin" or "a sixth part of a hin" or "about one-half liter" (UDB). (See: biblical volume)
+  * **two hundred denarii worth of bread** - "bread that cost two hundred days wages" (See: biblical money)
 
 <code>
-  * **a sixth of a hin** - "1/6 hin" or "a sixth part of a hin" or "about one-half liter" (UDB). (See: [[:en:obe:other:biblicalvolume]])
+  * **two hundred denarii worth of bread** - "bread that cost two hundred days wages" (See: [[:en:obe:other:biblicalmoney]])
 </code>
 
-  * **three seahs** - about 22 liters (See: biblical volume)
+  * **five hundred denarii** - "five hundred day's wages." "Denarii" is the plural of "denarius." (See: biblical money)
 
 <code>
-  * **three seahs** - about 22 liters (See: [[:en:obe:other:biblicalvolume]])
+  * **five hundred denarii** - "five hundred day's wages." "Denarii" is the plural of "denarius." (See: [[:en:obe:other:biblicalmoney]])
+</code>
+
+
+  * **thirty shekels of silver** - "330 grams of silver." A shekel weighed eleven grams. (See: biblical money)
+
+<code>
+  * **thirty shekels of silver** - "330 grams of silver." A shekel weighed eleven grams. (See: [[:en:obe:other:biblicalmoney]])
 </code>
 
 === Weight ===
@@ -97,6 +81,42 @@ We have Important Term page for the major categories of Biblical units. However,
 <code>
   * **worth a thousand silver shekels** - "equal in value to 11 kilograms of silver" (See: [[:en:obe:other:biblicalweight]])
 </code>
+
+
+=== Distance ===
+
+  * **sixty stadia** - eleven kilometers (See: biblical distance)
+
+<code>
+  * **sixty stadia** - eleven kilometers (See: [[:en:obe:other:biblicaldistance]])
+</code>
+
+  * **fifteen stadia** - "about three kilometers." A "stadia" is 185 meters. (See: biblical distance)
+
+<code>
+  * **fifteen stadia** - "about three kilometers." A "stadia" is 185 meters. (See: [[:en:obe:other:biblicaldistance]])
+</code>
+
+  * **two hundred cubits** - "ninety meters." A cubit was a little less than half a meter. (See: biblical distance)
+
+<code>
+  * **two hundred cubits** - "ninety meters." A cubit was a little less than half a meter. (See: [[:en:obe:other:biblicaldistance]])
+</code>
+
+=== Volume ===
+
+  * **a sixth of a hin** - "1/6 hin" or "a sixth part of a hin" or "about one-half liter" (UDB). (See: biblical volume)
+
+<code>
+  * **a sixth of a hin** - "1/6 hin" or "a sixth part of a hin" or "about one-half liter" (UDB). (See: [[:en:obe:other:biblicalvolume]])
+</code>
+
+  * **three seahs** - about 22 liters (See: biblical volume)
+
+<code>
+  * **three seahs** - about 22 liters (See: [[:en:obe:other:biblicalvolume]])
+</code>
+
 
 
 ~~DISCUSSION~~
