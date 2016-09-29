@@ -4,28 +4,10 @@
 
 The script on this page searches for a string of text anywhere in the notes, the ULB, and the UDB. To modify the search, open in edit view and change the text between the quotation marks following the -q.  
 
-//Note: Special characters and symbols must be preceded by a backslash "\".//
-
-
-==== "See how you translated" ====
-
-^  p2check  ^  p2pass  ^
-|{{door43pages @:en:bible:notes -r -q="( \- See how you translated)(?=[^}]*p2check)" -exclude:home -exclude:00 -exclude:intro -simpleLineBreak -title -fontsize="90%"}}  |{{door43pages @:en:bible:notes -r -q="( \- See how you translated)(?=[^}]*p2pass)" -exclude:home -exclude:00 -exclude:intro -simpleLineBreak -title -fontsize="90%"}}  |
-
-
-==== "See how this is translated" ====
-
-^  p2check  ^  p2pass  ^
-|{{door43pages @:en:bible:notes -r -q="( \- See how this is translated)(?=[^}]*p2check)" -exclude:home -exclude:00 -exclude:intro -simpleLineBreak -title -fontsize="90%"}}  |{{door43pages @:en:bible:notes -r -q="( \- See how this is translated)(?=[^}]*p2pass)" -exclude:home -exclude:00 -exclude:intro -simpleLineBreak -title -fontsize="90%"}}  |
-
-
-==== "See how this was translated" ====
-
-^  p2check  ^  p2pass  ^
-|{{door43pages @:en:bible:notes -r -q="( \- See how this was translated)(?=[^}]*p2check)" -exclude:home -exclude:00 -exclude:intro -simpleLineBreak -title -fontsize="90%"}}  |{{door43pages @:en:bible:notes -r -q="( \- See how this was translated)(?=[^}]*p2pass)" -exclude:home -exclude:00 -exclude:intro -simpleLineBreak -title -fontsize="90%"}}  |
-
 
 ==== "See how.*?translated" ====
+
+Uses Henry's script to find all variations.
 
 ^  p2check  ^  p2pass  ^
 |{{door43pages @:en:bible:notes -r -q="( \- See how.*?translated)(?=[^}]*p2check)" -exclude:home -exclude:00 -exclude:intro -simpleLineBreak -title -fontsize="90%"}}  |{{door43pages @:en:bible:notes -r -q="( \- See how.*?translated)(?=[^}]*p2pass)" -exclude:home -exclude:00 -exclude:intro -simpleLineBreak -title -fontsize="90%"}}  |
