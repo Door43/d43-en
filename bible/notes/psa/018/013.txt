@@ -27,7 +27,11 @@
 <usfm>
 \q
 \v 13 Yahweh thundered in the heavens! The Most High gave forth his voice, hailstones and lightning.
+<<<<<<< HEAD
 \f + \ft Many modern versions leave out \fqa hailstones and lightning \fqa*, believing this expression to be an accidental repetition from the previous verse. \f*
+=======
+\f + \ft Many modern versions leave out \fqa hailstones and lightning \fqa* , believing this expression to be an accidental repetition from the previous verse. \f*
+>>>>>>> 4076620a8908750e8052e3cbe66ffa75d496103c
 \q
 \v 14 He shot his arrows and scattered his enemies; many lightning bolts dispersed them.
 </usfm>
