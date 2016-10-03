@@ -11,4 +11,4 @@ search results:
 
 
 ^  p2check  ^  p2pass  ^
-|{{door43pages @:en:bible:notes -r -q="(\.\*\*)(?=[^}]*p2check)" -exclude:home -simpleLineBreak -title -fontsize="90%"}}  |{{door43pages @:en:bible:notes -r -q="(\.\*\*)(?=[^}]*p2pass)" -exclude:home -simpleLineBreak -title -fontsize="90%"}}  |
+|{{door43pages @:en:bible:notes -r -q="(\,\*\*)(?=[^}]*p2check)" -exclude:home -simpleLineBreak -title -fontsize="90%"}}  |{{door43pages @:en:bible:notes -r -q="(\,\*\*)(?=[^}]*p2pass)" -exclude:home -simpleLineBreak -title -fontsize="90%"}}  |
