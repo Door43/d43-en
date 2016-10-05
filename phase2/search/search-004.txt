@@ -6,7 +6,7 @@ The script on this page searches for a string of text anywhere in the notes, the
 
 //Note: Special characters and symbols must be preceded by a backslash "\".//
 
-To find a TA topic, put the page identifier (last part of the link) between the "" signs in the search string. For example, put "figs_metonymy" to find metonyms.
+To find a TA topic, put the page identifier (last part of the link) between the "" signs in the search string. For example, put "figs_metonymy" to find metonyms. Find the identifiers here: [[:en:phase1:team-info:training:reviewers:talinks]].
 
 search results:
 
