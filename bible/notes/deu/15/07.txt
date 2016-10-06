@@ -32,11 +32,12 @@
 
 ===== translationNotes: =====
 
+  * **If there is a poor man** - Here "man" means a person in general. AT: "If there is a poor person"
   * **one of your brothers** - "one of your fellow Israelites"
-  * **within any of your gates** - Here "gates" means the cities or towns. AT: "within any of your towns" (See: [[:en:ta:vol2:translate:figs_synecdoche]]) 
-  * **you must not harden your heart nor shut your hand from your poor brother** - This is an idiom. AT: "do not be uncaring and refuse to help him" (See: [[:en:ta:vol1:translate:figs_idiom]])
-  * **shut your hand from your poor brother** - This is an idiom. AT: "refuse to help your poor brother" (See: [[:en:ta:vol1:translate:figs_idiom]])
-  * **but you must surely open your hand to him** - This is an idiom. AT: "but you must surely help him" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **within any of your gates** - Here "gates" represents the entire city or town. AT: "within any of your towns" (See: [[:en:ta:vol2:translate:figs_synecdoche]]) 
+  * **you must not harden your heart** - Being stubborn is spoken of as if the person hardened their heart. AT: "you must not be stubborn" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **nor shut your hand from your poor brother** - A person who refuses to provide for a poor person is spoken of as if he were shutting his hand so that the poor person cannot get anything from him. AT: "nor refuse to help your fellow Israelite who is poor" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **but you must surely open your hand to him** - A person who helps a poor person is spoken of as if he were opening his hand to him. AT: "but you must surely help him" (See: [[:en:ta:vol1:translate:figs_metaphor]])
 
 ===== Links: =====
 
@@ -45,6 +46,6 @@
   * [[:en:bible:questions:comprehension:deu:15]]
 **[[:en:bible:notes:deu:15:04|<<]] | [[:en:bible:notes:deu:15:09|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit hard}}
+~~DISCUSSION~~{{tag>publish p2check hard}}
 
 ~~NOCACHE~~
