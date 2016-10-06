@@ -20,8 +20,8 @@
 ===== ULB: =====
 
 <usfm>
-\v 3 So I made an ark of acacia wood, and I carved two tablets of stone like the first, and I went up the mountain, having the two tablets in my hand. 
-\v 4 He wrote on the tablets, like the first writing, the Ten Commandments which Yahweh had spoken to you on the mountain out of the middle of the fire on the day of the assembly; then Yahweh gave them to me.
+\v 3 So I made an ark of acacia wood, and I carved two tablets of stone like the first, and I went up the mountain, having the two tablets in my hand.
+\v 4 He wrote on the tablets, like the first writing, the Ten Commandments which Yahweh had spoken to you on the mountain out of the middle of the fire in the day of the assembly; then Yahweh gave them to me.
 </usfm>
 
 
@@ -40,7 +40,8 @@
   * **a chest** - "a box"
   * **like the first** - Here "first" is referring to the first tablets of stone. AT: "just like the first 2 tablets of stone" (See: [[:en:ta:vol2:translate:figs_metonymy]])
   * **went up the mountain** - "went up Mount Sinai"
-  * **out of the middle of the fire in the day of the assembly** - See how you translated this in [[:en:bible:notes:deu:09:09|9:10]].
+  * **out of the middle of the fire
+  * **on the day of the assembly** - The abstract noun "assembly" can be expressed as the verb "gather together." AT: "on the day when you Israelites all came and met together in one place" Translate this as you did in [[:en:bible:notes:deu:09:09|9:10]].
 
 ===== Links: =====
 
@@ -49,6 +50,6 @@
   * [[:en:bible:questions:comprehension:deu:10]]
 **[[:en:bible:notes:deu:10:01|<<]] | [[:en:bible:notes:deu:10:05|>>]]**
 
-~~DISCUSSION~~{{tag>publish acacia p2edit tencommandments}}
+~~DISCUSSION~~{{tag>publish acacia p2check tencommandments}}
 
 ~~NOCACHE~~
