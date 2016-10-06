@@ -41,16 +41,17 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - Moses continues speaking to the people of Israel as if they were one man, so the words "you" and "your" are singular. (See: [[:en:ta:vol1:translate:figs_you]])
+  * **General Information:** - Moses continues speaking to the people of Israel as if they were one man, so all instances of "you" are singular. (See: [[:en:ta:vol1:translate:figs_you]])
 
 
   * **This son of ours** - "Our son"
-  * **he will not obey our voice** - Here "voice" refers to the whole person. AT: "he will not obey us" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **he will not obey our voice** - Here "voice" is a metonym for what a person says or a synecdoche for the whole person. AT: "he will not do what we tell him to do" or "he will not obey us" (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol2:translate:figs_synecdoche]])
   * **a glutton** - a person who eats and drinks too much
   * **a drunkard** - a person who drinks too much alcohol and gets drunk often
+  * **stone him to death with stones** - "throw stones at him until he dies"
   * **you will remove the evil from among you** - The adjective "evil" can be translated as a noun phrase. AT: "you must remove from among the Israelites the person who does this evil thing" or "you must execute this evil person" (See: [[:en:ta:vol2:translate:figs_nominaladj]])
-  * **All Israel** - Here the metonym "Israel" refers to the people of Israel. AT: "All the people of Israel" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **will hear of it and fear** - The full meaning of this statement can be made explicit. AT: "will hear about what happened to the son and be afraid of getting the same punishment" (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **All Israel** - The word "Israel" is a metonym for the people of Israel. AT: "All the people of Israel" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **will hear of it and fear** - The full meaning of this statement can be made explicit. AT: "will hear about what happened to the son and be afraid that the people will punish them also" (See: [[:en:ta:vol1:translate:figs_explicit]])
 
 ===== Links: =====
 
@@ -59,6 +60,6 @@
   * [[:en:bible:questions:comprehension:deu:21]]
 **[[:en:bible:notes:deu:21:18|<<]] | [[:en:bible:notes:deu:21:22|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~
