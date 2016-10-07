@@ -51,10 +51,10 @@
 
 ===== translationNotes: =====
 
-  * **so that the whole harvest is not confiscated by the holy place** - This can be stated in active form. AT: "so that the priests in Yahweh's holy place do not take away the whole harvest" or "so that you do not defile the whole harvest and the priests do not allow you to use it" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **so that the whole harvest is not confiscated by the holy place** - The words "holy place" is a metonym for the priests who work in the holy place. This can be stated in active form. AT: "so that the priests in Yahweh's holy place do not take away the whole harvest" or "so that you do not defile the whole harvest and the priests do not allow you to use it" (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol2:translate:figs_activepassive]])
   * **and the yield of the vineyard** - "and the fruit that grows in the vineyard"
   * **wool** - soft, curly hair that grows on a sheep 
-  * **linen** - thread made from a flax plant (See: [[:en:ta:vol1:translate:translate_unknown|How to Translate Unknowns]])
+  * **linen** - thread made from the flax plant (See: [[:en:ta:vol1:translate:translate_unknown]])
 
 ===== Links: =====
 
@@ -63,6 +63,6 @@
   * [[:en:bible:questions:comprehension:deu:22]]
 **[[:en:bible:notes:deu:22:08|<<]] | [[:en:bible:notes:deu:22:12|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~
