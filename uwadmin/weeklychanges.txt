@@ -190,6 +190,9 @@
 **[[:dgo:obs|dgo OBS]]**
 {{changes>ns=dgo:obs&maxage=604800&render=pagelist(header,date,user,nocomments)}}
 
+**[[:dic:obs|dic OBS]]**
+{{changes>ns=dic:obs&maxage=604800&render=pagelist(header,date,user,nocomments)}}
+
 **[[:dik:obs|dik OBS]]**
 {{changes>ns=dik:obs&maxage=604800&render=pagelist(header,date,user,nocomments)}}
 
