@@ -45,9 +45,10 @@
 
 ===== translationNotes: =====
 
-  * **At the mouth of two witnesses, or three witnesses, will he who must die be put to death** - Here "the mouth" refers the testimony of a witness. This can be translated in active form.  AT: "If 2 or 3 witnesses speak against the person, then you must execute him" (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol2:translate:figs_activepassive]] and [[:en:ta:vol2:translate:translate_numbers]])
-  * **The hand of the witnesses must be the first to put him to death, and afterward the hand of all the people** - Here "hand" refers to the entire person. AT: "The witnesses themselves must be the first ones to throw stones. Then all the people will execute the person by throwing stones at him" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
-  * **and you will remove the evil from among you** - The adjective "evil" can be translated as a noun phrase. AT: "you must remove from among the Israelites this person who does this evil thing" or "you must execute this evil person" (See: [[:en:ta:vol2:translate:figs_nominaladj]])
+  * **At the mouth of two witnesses, or three witnesses, will he who must die be put to death** - Here "the mouth" represents the testimony of a witness. This can be translated in active form.  AT: "If 2 or 3 witnesses speak against the person, then you must execute him" (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol2:translate:figs_activepassive]] and [[:en:ta:vol2:translate:translate_numbers]])
+  * **but at the mouth of only one witness he must not be put to death** - Here "the mouth" represents the testimony of a witness. This can be translated in active form. AT: "but if only one person speaks against him, then you must not execute him" (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol2:translate:figs_activepassive]])
+  * **The hand of the witnesses must be the first to put him to death, and afterward the hand of all the people** - Here "hand" represents the entire person. AT: "The witnesses themselves must be the first ones to throw stones. Then all the people will execute the person by throwing stones at him" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **and you will remove the evil from among you** - The nominal adjective "the evil" can be stated as an adjective. AT: "you must remove from among the Israelites this person who does this evil thing" or "you must execute this evil person" (See: [[:en:ta:vol2:translate:figs_nominaladj]])
 
  
  
@@ -64,6 +65,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2check}}
 
 ~~NOCACHE~~
