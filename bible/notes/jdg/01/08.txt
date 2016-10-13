@@ -49,12 +49,14 @@
 ===== translationNotes: =====
 
 
-  * **They attacked it** - The full meaning of this statement can be made explicit. AT: "They attacked the people of the city" (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **the city of Jerusalem and took it** - Here "city" represents the people. AT: "the people who lived in Jerusalem and defeated them" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **They attacked it** - Here "it" refers to the city which represents the people of the city. AT: "They attacked the people of the city" (See: [[:en:ta:vol2:translate:figs_metonymy]])
   * **with the edge of the sword** - This is an idiom. AT: "with weapons" (See [[:en:ta:vol1:translate:figs_idiom]])
+  * **the men of Judah went down to fight** - It was common to use the word "down" when it refers to traveling from Jerusalem. AT: "the men of Judah went to fight"
   * **in the Negev** - "in the southern Judean wilderness" (UDB) 
   * **foothills** - hills at the base of a mountain or mountain range
   * **the name of Hebron was previously Kiriath Arba** - This is background information. Some people who first read this book had probably heard of Kiriath Arba but did not know that it was the same as the city that they called Hebron. (See: [[:en:ta:vol2:translate:writing_background]])
-  * **Sheshai, Ahiman, and Talmai** - These are the names of three Canaanite leaders of Hebron. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **Sheshai, Ahiman, and Talmai** - These are the names of three Canaanite leaders of Hebron. Each leader represents his army. AT: "Sheshai, Ahiman, Talmai, and their armies" (See: [[:en:ta:vol1:translate:translate_names]] and [[:en:ta:vol2:translate:figs_synecdoche]])
  
 ===== Links: =====
 
@@ -69,6 +71,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit hebron}}
+{{tag>publish p2check hebron}}
 
 ~~NOCACHE~~
