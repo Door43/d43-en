@@ -7,10 +7,11 @@ The script on this page searches for a string of text anywhere in the notes, the
 //Note: Special characters and symbols must be preceded by a backslash "\".//
 
 <code>
-{{door43pages @:en:bible:notes -r -q="obe((:)|(\/))((other)|(kt))((:)|(\/))term" -exclude:home -simpleLineBreak -title -fontsize="90%"}}</code>
+{{door43pages @:en:bible:notes -r -q="obe((:)|(\/))((other)|(kt))((:)|(\/))term" -exclude:home -simpleLineBreak -title -fontsize="90%"}}
+</code>
 
 Replace the word "term" with any OBE name.
 
-search results:
+=== Search results: ===
 
-{{door43pages @:en:bible:notes -r -q="phase2" -exclude:home -simpleLineBreak -title -fontsize="90%"}}
+{{door43pages @:en:bible:notes -r -q="obe((:)|(\/))((other)|(kt))((:)|(\/))dedicate" -exclude:home -simpleLineBreak -title -fontsize="90%"}}
