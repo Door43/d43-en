@@ -13,7 +13,7 @@
 ==== Issues to watch: ====
 
 ^  No P2 tag  ^  My "p2edit"  ^  My "p2check"  ^ 
-|{{door43pages @:en:bible:notes -r -q="\{\{tag>(?![^}]*p2edit)(?![^}]*p2check)(?![^}]*p2pass)[^}]*\}\}" -exclude:home -exclude:00 -exclude:intro -simpleLineBreak -title -fontsize="90%"}} |{{door43pages @en:bible:notes:num:21 @en:bible:notes:num:22 @en:bible:notes:num:23 @en:bible:notes:num:24 @en:bible:notes:num:25 @en:bible:notes:num:26 @en:bible:notes:num:27 @en:bible:notes:num:28 @en:bible:notes:num:29 @en:bible:notes:num:30  -r -q="\{\{tag>[^}]*p2edit[^}]*\}\}" -exclude:home -exclude:00 -exclude:intro -simpleLineBreak -title -fontsize="90%"}} |{{door43pages @en:bible:notes:num:21 @en:bible:notes:num:22 @en:bible:notes:num:23 @en:bible:notes:num:24 @en:bible:notes:num:25 @en:bible:notes:num:26 @en:bible:notes:num:27 @en:bible:notes:num:28 @en:bible:notes:num:29 @en:bible:notes:num:30  -r -q="\{\{tag>[^}]*p2check[^}]*\}\}" -exclude:home -exclude:00 -exclude:intro -simpleLineBreak -title -fontsize="90%"}} |
+|{{door43pages @:en:bible:notes -r -q="\{\{tag>(?![^}]*p2edit)(?![^}]*p2check)(?![^}]*p2pass)[^}]*\}\}" -exclude:home -exclude:00 -exclude:intro -simpleLineBreak -title -fontsize="90%"}} |{{door43pages @en:bible:notes:num:21 @en:bible:notes:num:22 @en:bible:notes:num:23 @en:bible:notes:num:24 @en:bible:notes:num:25 -r -q="\{\{tag>[^}]*p2edit[^}]*\}\}" -exclude:home -exclude:00 -exclude:intro -simpleLineBreak -title -fontsize="90%"}} |{{door43pages @en:bible:notes:num:21 @en:bible:notes:num:22 @en:bible:notes:num:23 @en:bible:notes:num:24 @en:bible:notes:num:25 -r -q="\{\{tag>[^}]*p2check[^}]*\}\}" -exclude:home -exclude:00 -exclude:intro -simpleLineBreak -title -fontsize="90%"}} |
 
 
 \\
