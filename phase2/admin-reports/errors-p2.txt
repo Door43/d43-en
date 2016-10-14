@@ -7,6 +7,11 @@ This page lists scripts that check for errors in Phase 2 notes.
 
   * [[:en:phase2:search:home]]
 
+=== Verify published chunks ===
+
+  * [[:en:phase1:admin-reports:verify-published-number]]
+
+
 === AT's ===
 
   * [[:en:phase2:search:search-018]]
@@ -22,5 +27,4 @@ This page lists scripts that check for errors in Phase 2 notes.
 === Format errors ===
 
   * [[:en:phase2:search:search-026]]
-
 
