@@ -13,7 +13,7 @@
 
 (This list should be empty)
 
-{{door43pages @:en:bible:notes -r -q="\{\{tag>(?![^}]*p2edit)(?![^}]*p2check)(?![^}]*p2pass)[^}]*\}\}" -exclude:home -exclude:00 -exclude:intro -simpleLineBreak -title -fontsize="90%"}}
+{{door43pages @:en:bible:notes -r -q="\{\{tag>(?![^}]*p2edit)(?![^}]*p2check)(?![^}]*p2review)(?![^}]*p2pass)[^}]*\}\}" -exclude:home -exclude:00 -exclude:intro -simpleLineBreak -title -fontsize="90%"}}
 
 ==== Books in 1st priority list: ====
 
