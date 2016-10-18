@@ -13,6 +13,6 @@ One way of finding examples for translationAcademy pages is to search the **note
   * If you clicked on the Preview button, click the Cancel button below the window and the page will not be saved.
   * If you clicked the Save button, go to the clock icon in the list on the right of the page, and click on the first version down from the newest. Click on it. When it opens, click on the pencil as if you wanted to edit the page. Don't write anything. Just save the page.
 
-**Code for doing searches on tN pages:**  \\ {{door43pages @:en:bible:notes -r -q="TTTT" -exclude:home -simpleLineBreak -title -fontsize="90%"}}
+**Code for doing searches on tN pages:**  \\ {{door43pages @:en:bible:notes -r -q="[Tt]ranslate.*\x22Rock\x22" -exclude:home -simpleLineBreak -title -fontsize="90%"}}
 
 **Code for doing searches on tA pages:**  \\ {{door43pages @:en:ta -r -q="TTTT" -exclude:home -simpleLineBreak -title -fontsize="90%"}}
