@@ -48,9 +48,10 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - Moses speaks a poetic song to the people of Israel. Moses continues to use parallelism to emphasize what he is saying. (See: [[:en:ta:vol2:translate:figs_parallelism]])
+  * **General Information:** - Moses speaks a poetic song to the people of Israel. (See: [[:en:ta:vol2:translate:figs_parallelism]])
 
-  * **I will make my arrows drunk with blood, and my sword will devour flesh with the blood** - Yahweh compares himself punishing his enemies to a soldier killing people with his weapons. AT: "I will completely destroy my enemies as if I had arrows and a sword that pierce the flesh and drip with the blood" (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_personification]] )
+  * **I will make my arrows drunk with blood, and my sword will devour flesh with the blood** - Yahweh speaks of arrows as if they were people to whom he could give alcohol and make them drunk, and of a sword as if it were a person who was so hungry that he would eat an animal before draining the blood out. These metaphors are metonyms for a soldier using arrows and a sword to kill many enemies. This in turn is a metaphor for Yahweh killing his enemies.(See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol2:translate:figs_personification]])
+  * **from the heads of the leaders of the enemy** - Another possible meaning is "from the long-haired heads of the enemy." 
 
 ===== Links: =====
 
@@ -59,6 +60,6 @@
   * [[:en:bible:questions:comprehension:deu:32]]
 **[[:en:bible:notes:deu:32:41|<<]] | [[:en:bible:notes:deu:32:43|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check p2example}}
 
 ~~NOCACHE~~
