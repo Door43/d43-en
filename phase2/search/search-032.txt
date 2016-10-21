@@ -1,4 +1,4 @@
-====== Search 032: Topic ======
+====== Search 032: Henry dV's Search ======
 
 ~~NOCACHE~~
 
@@ -7,7 +7,8 @@ The script on this page searches for a string of text anywhere in the notes, the
 //Note: Special characters and symbols must be preceded by a backslash "\".//
 
 
-search results:
+=== Search results: ===
 
 
-{{door43pages @:en:bible:notes -r -q="boat" -exclude:home -simpleLineBreak -title -fontsize="90%"}}
+{{door43pages @:en:bible:notes:jos -r -q="figs\_activepassive" -exclude:home -simpleLineBreak -title -fontsize="90%"}}
+
