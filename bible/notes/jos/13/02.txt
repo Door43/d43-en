@@ -37,10 +37,13 @@
   * [[:en:obe:other:ashdod]]
   * [[:en:obe:other:ashkelon]] 
   * [[:en:obe:other:gath]]
+
 ===== translationNotes: =====
 
-  * **Shihor** - place name (See: [[:en:ta:vol1:translate:translate_names]])
-  * **Avvites** - a people group (See: [[:en:ta:vol1:translate:translate_names]])
+  * **This is the land that still remains** - You may clarify that this is the land that Israel still needs to capture. AT: "This is the land that still remains for Israel to capture" (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **Shihor** - This is the name of a place. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **which is considered property of the Canaanites** - This can be stated in active form. AT: "which the Canaanites now consider their property" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **Avvites** - This is the name of a people group. (See: [[:en:ta:vol1:translate:translate_names]])
  
 ===== Links: =====
 
@@ -55,6 +58,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit ashkelon ekron}}
+{{tag>publish p2check ashkelon ekron}}
 
 ~~NOCACHE~~
