@@ -425,6 +425,8 @@
 {{changes>ns=pa:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:pcg:obs|pcg OBS]]**
 {{changes>ns=pcg:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
+**[[:pfl:obs|pfl OBS]]**
+{{changes>ns=pfl:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:pga:obs|pga OBS]]**
 {{changes>ns=pga:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:pgg:obs|pgg OBS]]**
