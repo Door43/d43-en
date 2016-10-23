@@ -64,10 +64,6 @@
     ^Language   ^Publish Date   ^Version    ^Checking Level ^
     |  [[:en:uwadmin:ha:obs:status|(Hausa) هَوُسَ]]  |  2016-01-12  |  4.1  |  {{https://api.unfoldingword.org/obs/jpg/1/checkinglevels/uW-Level1-32px.png}}  |
     
-    ===== ne =====
-    ^Language   ^Publish Date   ^Version    ^Checking Level ^
-    |  [[:en:uwadmin:ne:obs:status|नेपाली]]  |  2016-01-22  |  4.1  |  {{https://api.unfoldingword.org/obs/jpg/1/checkinglevels/uW-Level2-32px.png}}  |
-    
     ===== vi =====
     ^Language   ^Publish Date   ^Version    ^Checking Level ^
     |  [[:en:uwadmin:vi:obs:status|Việtnam]]  |  2016-03-24  |  4.1  |  {{https://api.unfoldingword.org/obs/jpg/1/checkinglevels/uW-Level3-32px.png}}  |
@@ -111,4 +107,8 @@
     ===== hu =====
     ^Language   ^Publish Date   ^Version    ^Checking Level ^
     |  [[:en:uwadmin:hu:obs:status|magyar]]  |  20160728  |  4.1  |  {{https://api.unfoldingword.org/obs/jpg/1/checkinglevels/uW-Level1-32px.png}}  |
+    
+    ===== ne =====
+    ^Language   ^Publish Date   ^Version    ^Checking Level ^
+    |  [[:en:uwadmin:ne:obs:status|नेपाली]]  |  2016-10-22  |  3.1  |  {{https://api.unfoldingword.org/obs/jpg/1/checkinglevels/uW-Level3-32px.png}}  |
     
