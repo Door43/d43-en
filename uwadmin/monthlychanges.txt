@@ -457,6 +457,8 @@
 {{changes>ns=qxq:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:raj:obs|raj OBS]]**
 {{changes>ns=raj:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
+**[[:rcf:obs|rcf OBS]]**
+{{changes>ns=rcf:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:rn:obs|rn OBS]]**
 {{changes>ns=rn:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:ru:obs|ru OBS]]**
