@@ -40,10 +40,11 @@
 
 ===== translationNotes: =====
 
-  * **Sisera** - See how you translated his name in [[:en:bible:notes:jdg:04:01|4:2]].
-  * **lattice** - A structure made from strips of crossed wood
-  * **Why has it taken his chariot so long to come? Why have the hoofbeats of the horses that pull his chariots been delayed?** - This said the same thing twice for emphasis. These two statements can be combined. AT: "Why is it taking Sisera so long to arrive home?" (See: [[:en:ta:vol2:translate:figs_parallelism]])
-  * **Why have the hoofbeats of the horses ... been delayed?** - The hoofbeats refer to the sound of Sisera's horses at his arrival. AT: "Why has Sisera's arrival been delayed?" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+
+  * **lattice** - a structure made from strips of crossed wood
+  * **Why has it taken his chariot so long to come? Why have the hoofbeats of the horses that pull his chariots been delayed?** - Both of these questions mean the same thing. These two statements can be combined. AT: "Why is it taking Sisera so long to arrive home?" (See: [[:en:ta:vol2:translate:figs_parallelism]])
+  * **taken his chariot ... have the hoofbeats of the horses that pull his chariots** - Both of these represent Sisera. AT: "taken Sisera ... has he" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+
 ===== Links: =====
 
   * [[:en:bible:notes:jdg:00:intro]]
@@ -51,6 +52,6 @@
   * [[:en:bible:questions:comprehension:jdg:05]]
 **[[:en:bible:notes:jdg:05:26|<<]] | [[:en:bible:notes:jdg:05:29|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~
