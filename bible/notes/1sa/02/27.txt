@@ -42,9 +42,11 @@
 ===== translationNotes: =====
 
   * **man of God** - This phrase usually means a prophet of Yahweh.
-  * **Did I not reveal myself** - This rhetorical question can be translated as a statement. AT: "You should know that I revealed myself" (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **the house of your ancestor** - Here "ancestor" refers to their forefather, Aaron, who began this family line or "house." 
+  * **Did I not reveal myself ... house?** - This rhetorical question can be translated as a statement. AT: "You should know that I revealed myself ... house." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **the house of your ancestor** - The word "house" is a metonym for the people who lived in the house. AT: "the family of your ancestor" (See: [[:en:ta:vol2:translate:figs_metonymy]]) 
+  * **your ancestor** - Aaron
   * **to go up to my altar, and to burn incense** - This refers to making an offering to Yahweh.
+  * **to wear an ephod before me** - The words "wear an ephod" are a metonym for the work of the priests who wear the ephod. AT: "to do what I had commanded the priests to do" (See: [[:en:ta:vol2:translate:figs_metonymy]])
 
 ===== Links: =====
 
@@ -53,6 +55,6 @@
   * [[:en:bible:questions:comprehension:1sa:02]]
 **[[:en:bible:notes:1sa:02:25|<<]] | [[:en:bible:notes:1sa:02:29|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check p2example}}
 
 ~~NOCACHE~~
