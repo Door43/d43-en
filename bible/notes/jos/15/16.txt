@@ -32,13 +32,12 @@
 ===== translationWords: =====
 
   * [[:en:obe:other:caleb]]
- 
 
 ===== translationNotes: =====
  
-  * **Kiriath Sepher** - place name (See: [[:en:ta:vol1:translate:translate_names]])
-  * **Achsah ... Othniel ... Kenaz** - names of people (See: [[:en:ta:vol1:translate:translate_names]])
-
+  * **Kiriath Sepher** - This is the name of a place. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **Achsah** - This is a woman's name. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **Othniel ... Kenaz** - These are men's names. (See: [[:en:ta:vol1:translate:translate_names]])
  
 ===== Links: =====
 
@@ -53,6 +52,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2check}}
 
 ~~NOCACHE~~
