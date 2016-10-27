@@ -24,24 +24,16 @@
 \v 22 And she said, "The glory has gone away from Israel, because the ark of God has been captured."
 </usfm>
 
-
 ===== translationWords: =====
 
   * [[:en:obe:kt:name]]
   * [[:en:obe:kt:glory]]
   * [[:en:obe:other:arkofthecovenant]]
 
-
- 
-
-
- 
 ===== translationNotes: =====
 
   * **Ichabod** - A proper name sometimes reveals information about the person, place, or thing it refers to. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **saying, "The glory has gone away from Israel!" for the ark of God had been captured ... she said, "The glory has gone away from Israel, because the ark of God has been captured."** - Here the message is doubled to intensify the meaning. (See: [[:en:ta:vol2:translate:figs_doublet]])
-  * **for the ark of God had been captured** - This can be stated in active form. AT: "for the Philistines had captured the ark of God" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **because the ark of God has been captured** - This can be stated in active form. AT: because the Philistines have captured the ark of God" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **for the ark of God had been captured ... the ark of God has been captured."** - This can be stated in active form. AT: "for the Philistines had captured the ark of God ... because the Philistines have captured the ark of God" (See: [[:en:ta:vol2:translate:figs_activepassive]])
 
 ===== Links: =====
 
@@ -49,13 +41,10 @@
   * [[:en:bible:notes:1sa:04:00]]
   * [[:en:bible:questions:comprehension:1sa:04]]
 
- 
-
 **[[:en:bible:notes:1sa:04:19|<<]] | [[:en:bible:notes:1sa:05:01|>>]]**
 
 ~~DISCUSSION~~
 
-
-{{tag>publish p2edit}}
+{{tag>publish p2check p2example}}
 
 ~~NOCACHE~~
