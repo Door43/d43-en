@@ -31,10 +31,13 @@
 
 ===== translationNotes: =====
 
-  * **Zebah and Zalmunna** - See how you translated these men's names in [[:en:bible:notes:jdg:08:04|8:5]].
+  * **Now** - This word is used here to mark a break in the storyline. Here the narrator starts to tell a new part of the story.
+  * **Zebah and Zalmunna** - Translate these names as you did in [[:en:bible:notes:jdg:08:04|8:5]].
   * **Karkor** - This is the name of a city. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **who were trained to fight with the sword** - Here "sword" refers to battle or war. AT: "who had fought in the war" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **had fallen** - This is a polite way of referring to people who died in battle. AT: "had been killed" (See: [[:en:ta:vol2:translate:figs_euphemism]])
+  * **fifteen thousand men** - "15,000 men" (See: [[:en:ta:vol2:translate:translate_numbers]])
+  * **men who were trained to fight with the sword** - This is a way of referring to soldiers. AT: "soldiers" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **with the sword** - Here "sword" represents the swords and other weapons that soldiers used in battle. (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **had fallen** - This is a polite way of referring to people who died in battle. AT: "had been killed" or "had died in battle" (See: [[:en:ta:vol2:translate:figs_euphemism]])
 
 ===== Links: =====
 
@@ -43,6 +46,6 @@
   * [[:en:bible:questions:comprehension:jdg:08]]
 **[[:en:bible:notes:jdg:08:08|<<]] | [[:en:bible:notes:jdg:08:11|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check text}}
 
 ~~NOCACHE~~
