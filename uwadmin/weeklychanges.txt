@@ -709,6 +709,9 @@
 **[[:sdh:obs|sdh OBS]]**
 {{changes>ns=sdh:obs&maxage=604800&render=pagelist(header,date,user,nocomments)}}
 
+**[[:sgi:obs|sgi OBS]]**
+{{changes>ns=sgi:obs&maxage=604800&render=pagelist(header,date,user,nocomments)}}
+
 **[[:sgj:obs|sgj OBS]]**
 {{changes>ns=sgj:obs&maxage=604800&render=pagelist(header,date,user,nocomments)}}
 

@@ -473,6 +473,8 @@
 {{changes>ns=sda:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:sdh:obs|sdh OBS]]**
 {{changes>ns=sdh:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
+**[[:sgi:obs|sgi OBS]]**
+{{changes>ns=sgi:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:sgj:obs|sgj OBS]]**
 {{changes>ns=sgj:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:shn:obs|shn OBS]]**
