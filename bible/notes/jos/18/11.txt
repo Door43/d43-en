@@ -42,7 +42,10 @@
 
 ===== translationNotes: =====
 
-  * **Beth Aven** - place name (See: [[:en:ta:vol1:translate:translate_names]])
+  * **The assignment of land for the tribe of Benjamin was given to each of their clans** - This can be stated in active form. AT: "Each of the clans of the tribe of Benjamin received an assignment of land" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **between the descendants of Judah and the descendants of Joseph** - "between the land that belonged to the descendants of Judah and the land that belonged to the descendants of Joseph"
+  * **the descendants of Joseph** - This refers to the tribes of Ephraim and Manasseh. (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **Beth Aven** - This is the name of a place. (See: [[:en:ta:vol1:translate:translate_names]])
  
 ===== Links: =====
 
@@ -57,6 +60,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2check}}
 
 ~~NOCACHE~~
