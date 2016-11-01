@@ -43,12 +43,17 @@
 ^  Before  ^  After  ^ 
 |{{door43pages @:en:bible:notes -r -q="[^ ]\.\.\." -exclude:home -exclude:00 -exclude:intro -simpleLineBreak -title -fontsize="90%"}}  |{{door43pages @:en:bible:notes -r -q="\.\.\.[^ ]" -exclude:home -exclude:00 -exclude:intro -simpleLineBreak -title -fontsize="90%"}}  |
 
-=== 8. Missing colon at beginning of link in Bible section: ===
+=== 8. Incorrect ellipses: ===
+
+{{door43pages @:en:bible:notes -r -q="…" -exclude:home -exclude:00 -exclude:intro -simpleLineBreak -title -fontsize="90%"}} 
+
+
+=== 9. Missing colon at beginning of link in Bible section: ===
 
 {{door43pages @:en:bible:notes -r -q="\[\[en\:bible" -exclude:home -exclude:00 -exclude:intro -simpleLineBreak -title -fontsize="90%"}} 
 
 
-=== 9. Missing colon at beginning of link in OBE section: ===
+=== 10. Missing colon at beginning of link in OBE section: ===
 
 {{door43pages @:en:obe -r -q="\[\[en\:obe" -exclude:home -exclude:00 -exclude:intro -simpleLineBreak -title -fontsize="90%"}} 
 
