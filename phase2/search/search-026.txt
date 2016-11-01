@@ -38,14 +38,15 @@
 |{{door43pages @:en:bible:notes -r -q="(\“)|(\”)" -exclude:home -exclude:00 -exclude:intro -simpleLineBreak -title -fontsize="90%"}}  |{{door43pages @:en:bible:notes -r -q="(\‘)|(\’)" -exclude:home -exclude:00 -exclude:intro -simpleLineBreak -title -fontsize="90%"}}  |
 
 
-=== 7. No space before or after ellipses: ===
+=== 7. Smart ellipses: ===
+
+{{door43pages @:en:bible:notes -r -q="…" -exclude:home -exclude:00 -exclude:intro -simpleLineBreak -title -fontsize="90%"}} 
+
+
+=== 8. No space before or after ellipses: ===
 
 ^  Before  ^  After  ^ 
 |{{door43pages @:en:bible:notes -r -q="[^ ]\.\.\." -exclude:home -exclude:00 -exclude:intro -simpleLineBreak -title -fontsize="90%"}}  |{{door43pages @:en:bible:notes -r -q="\.\.\.[^ ]" -exclude:home -exclude:00 -exclude:intro -simpleLineBreak -title -fontsize="90%"}}  |
-
-=== 8. Incorrect ellipses: ===
-
-{{door43pages @:en:bible:notes -r -q="…" -exclude:home -exclude:00 -exclude:intro -simpleLineBreak -title -fontsize="90%"}} 
 
 
 === 9. Missing colon at beginning of link in Bible section: ===
