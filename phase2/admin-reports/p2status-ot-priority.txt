@@ -17,7 +17,7 @@
 {{door43pages @:en:bible:notes -r -q="\{\{tag>(?![^}]*p2edit)(?![^}]*p2check)(?![^}]*p2review)(?![^}]*p2example)(?![^}]*p2pass)[^}]*\}\}" -exclude:home -exclude:00 -exclude:intro -simpleLineBreak -title -fontsize="90%"}}
 
 
-==== Books in this priority list: ====
+==== Books currently being reviewed: ====
 
 ^  First Priority  ^  Second Priority  ^  Third Priority  ^
 |Exodus \\ Genesis  \\ Jonah \\ Psalms \\ Ruth  |1 Samuel \\ 2 Samuel \\ Deuteronomy \\ Hosea \\ Joshua \\ Judges \\ Leviticus \\ Malachi \\ Numbers  |Isaiah  |
