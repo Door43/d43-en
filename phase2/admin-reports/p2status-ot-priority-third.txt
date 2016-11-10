@@ -1,0 +1,32 @@
+====== P2 Chunk Status: OT 3rd Priority Books ======
+
+~~NOCACHE~~
+
+==== Links: ====
+
+  * [[:en:phase2:admin-reports:p2status-nt]]
+  * [[:en:phase2:admin-reports:p2status-ot]]
+  * [[:en:phase2:admin-reports:p2status-ot-priority]]
+  * [[:en:phase2:admin-reports:p2status-ot-priority-first]]
+  * [[:en:phase2:admin-reports:p2status-ot-priority-second]]
+
+
+==== Chunks without P2 tag: ====
+
+(This list should be empty)
+
+{{door43pages @:en:bible:notes -r -q="\{\{tag>(?![^}]*p2edit)(?![^}]*p2check)(?![^}]*p2review)(?![^}]*p2example)(?![^}]*p2pass)[^}]*\}\}" -exclude:home -exclude:00 -exclude:intro -simpleLineBreak -title -fontsize="90%"}}
+
+
+==== Books in 3rd priority list: ====
+
+^  3rd Priority  ^
+|1Ki \\ 2Ki \\ Ezr \\ NehPro \\ Isa \\ Dan \\    |
+
+==== 3rd priority OT chunk status: ====
+
+^  publish  ^  p2edit  ^  p2check  ^  p2review  ^  p2pass  ^
+|{{door43pages @en:bible:notes:lev @en:bible:notes:num @en:bible:notes:deu @en:bible:notes:jos @en:bible:notes:jdg @en:bible:notes:1sa @en:bible:notes:2sa @en:bible:notes:hos @en:bible:notes:mal -r -q="\{\{tag>[^}]*publish[^}]*\}\}" -exclude:home -exclude:intro -exclude:00 -simpleLineBreak -title -fontsize="70%"}}  |{{door43pages @en:bible:notes:lev @en:bible:notes:num @en:bible:notes:deu @en:bible:notes:jos @en:bible:notes:jdg @en:bible:notes:1sa @en:bible:notes:2sa @en:bible:notes:hos @en:bible:notes:mal -r -q="\{\{tag>[^}]*p2edit[^}]*\}\}" -exclude:home -exclude:intro -exclude:00 -simpleLineBreak -title -fontsize="70%"}}  |{{door43pages @en:bible:notes:lev @en:bible:notes:num @en:bible:notes:deu @en:bible:notes:jos @en:bible:notes:jdg @en:bible:notes:1sa @en:bible:notes:2sa @en:bible:notes:hos @en:bible:notes:mal -r -q="\{\{tag>[^}]*p2check[^}]*\}\}" -exclude:home -exclude:intro -exclude:00 -simpleLineBreak -title -fontsize="70%"}}  |{{door43pages @en:bible:notes:lev @en:bible:notes:num @en:bible:notes:deu @en:bible:notes:jos @en:bible:notes:jdg @en:bible:notes:1sa @en:bible:notes:2sa @en:bible:notes:hos @en:bible:notes:mal -r -q="\{\{tag>[^}]*p2review[^}]*\}\}" -exclude:home -exclude:intro -exclude:00 -simpleLineBreak -title -fontsize="70%"}}  |{{door43pages @en:bible:notes:lev @en:bible:notes:num @en:bible:notes:deu @en:bible:notes:jos @en:bible:notes:jdg @en:bible:notes:1sa @en:bible:notes:2sa @en:bible:notes:hos @en:bible:notes:mal -r -q="\{\{tag>[^}]*p2pass[^}]*\}\}" -exclude:home -exclude:intro -exclude:00 -simpleLineBreak -title -fontsize="70%"}}  |
+
+
+\\
