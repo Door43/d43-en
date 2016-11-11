@@ -57,8 +57,9 @@
 
   * **General Information:** - Isaiah speaks to Yahweh in the form of a poem. (See: [[:en:ta:vol2:translate:figs_parallelism]])
 
-  * **the craftsmanship of their own hands, things that their own fingers have made.** - These two phrases mean the same thing and emphasize that these are not real gods. AT: "things that they themselves have made." (See: [[:en:ta:vol2:translate:figs_doublet]] and [[:en:ta:vol2:translate:figs_synecdoche]])
-
+  * **the craftsmanship of their own hands, things that their own fingers have made** - These two phrases mean almost the same thing and emphasize that these are not real gods. If your language has no general word for something someone has made, you can combine this all into one line. AT: "things that they themselves have made" (See: [[:en:ta:vol2:translate:figs_parallelism]] and [[:en:ta:vol2:translate:figs_metonymy]])
+  * **craftsmanship of their own hands** - The word "hands" is a synecdoche for the people themselves. AT: "their own craftsmanship" or "their own work" or "things they have made with their hands" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **things that their own fingers have made** - The word "fingers" is a synecdoche for the people themselves. AT: "things that they have made with their own fingers" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
 
 ===== Links: =====
 
@@ -70,4 +71,4 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2check p2example}}
