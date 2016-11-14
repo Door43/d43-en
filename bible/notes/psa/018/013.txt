@@ -30,7 +30,8 @@
 <<<<<<< HEAD
 \f + \ft Many modern versions leave out \fqa hailstones and lightning \fqa*, believing this expression to be an accidental repetition from the previous verse. \f*
 =======
->>>>>>> 3e79e9b31005a33f26f1391487e9674aecb5ebe8
+\f + \ft Many modern versions leave out \fqa hailstones and lightning \fqa* believing this expression to be an accidental repetition from the previous verse. \f*
+>>>>>>> 80683c295e1c483a494020298e02fefa31b7b762
 \q
 \v 14 He shot his arrows and scattered his enemies; many lightning bolts dispersed them.
 </usfm>
