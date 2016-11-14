@@ -11,3 +11,6 @@ search results:
 
 
 {{door43pages @:en:bible:notes -r -q="boat" -exclude:home -simpleLineBreak -title -fontsize="90%"}}
+
+
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* example[^}]*\}\}" -exclude:home -simpleLineBreak -title -fontsize="90%"}}
