@@ -50,6 +50,7 @@
   * [[:en:obe:other:chaldeans]]
   * [[:en:obe:other:assyria]]
   * [[:en:obe:other:desert]]
+  * [[:en:obe:other:siege]]
   * [[:en:obe:other:ruin]]
   * [[:en:obe:other:tarshish]]
   * [[:en:obe:kt:refuge]]
@@ -58,7 +59,8 @@
 
   * **See the land of the Chaldeans** - "See what has happened to Babylonia"
   * **siege towers** - Soldiers built towers or dirt ramps to attack over the walls of a city. 
-  * **Howl, you ships of Tarshish** - See how you translated this in [[:en:bible:notes:isa:23:01|23:1]].
+  * **Howl, you ships of Tarshish** - Here "ships" represents the men on the ships. See how you translated this in [[:en:bible:notes:isa:23:01|23:1]]. (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **for your refuge has been destroyed** - This can be stated in active form. AT: "for enemies have destroyed your refuge" (See: [[:en:ta:vol2:translate:figs_activepassive]])
 
 ===== Links: =====
 
@@ -67,6 +69,6 @@
   * [[:en:bible:questions:comprehension:isa:23]]
 **[[:en:bible:notes:isa:23:10|<<]] | [[:en:bible:notes:isa:23:15|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit refuge ruin}}
+~~DISCUSSION~~{{tag>publish p2check refuge ruin}}
 
 ~~NOCACHE~~
