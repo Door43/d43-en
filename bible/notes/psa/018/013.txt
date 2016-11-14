@@ -6,6 +6,9 @@
 \v 13 Then Yahweh \add spoke in a loud voice\add* from the sky,
 \q2 and \add his enemies\add* heard his voice that sounded like thunder.
 \q1
+\v 13 Then Yahweh \add spoke in a loud voice\add* from the sky,
+\q2 and \add his enemies\add* heard his voice that sounded like thunder.
+\q1
 \v 14 He shot his arrows at them and caused them to scatter;
 \q2 His flashes of lightning caused them to become very confused \f + \ft Or: to run away \f*.
 \q1
@@ -14,6 +17,8 @@
 ===== UDB: =====
 
 <usfm>
+\v 13 Then Yahweh shouted loudly from the sky, and to his enemies, it sounded like thunder. Yahweh, the Supreme God, rained hailstones on them and caused lightning to flash against them.
+\q1
 \v 13 Then Yahweh shouted loudly from the sky, and to his enemies, it sounded like thunder. Yahweh, the Supreme God, rained hailstones on them and caused lightning to flash against them.
 \q1
 \v 14 He shot his arrows at them and caused them to scatter; his flashes of lightning caused them to become very confused.
@@ -26,12 +31,12 @@
 
 <usfm>
 \q
-\v 13 Yahweh thundered in the heavens! The Most High gave forth his voice, hailstones and lightning.
 <<<<<<< HEAD
+\v 13 Yahweh thundered in the heavens! The Most High gave forth his voice, hailstones and lightning.
 \f + \ft Many modern versions leave out \fqa hailstones and lightning \fqa*, believing this expression to be an accidental repetition from the previous verse. \f*
 =======
-\f + \ft Many modern versions leave out \fqa hailstones and lightning \fqa* believing this expression to be an accidental repetition from the previous verse. \f*
->>>>>>> 80683c295e1c483a494020298e02fefa31b7b762
+\v 13 Yahweh thundered in the heavens! The Most High gave forth his voice, hailstones and lightning. \f + \ft Many modern versions leave out \fqa hailstones and lightning \fqa*,believing this expression to be an accidental repetition from the previous verse. \f*
+>>>>>>> 03620d483999af41ce76a4151e371f85766f73bb
 \q
 \v 14 He shot his arrows and scattered his enemies; many lightning bolts dispersed them.
 </usfm>
