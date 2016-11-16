@@ -1,8 +1,8 @@
-====== Search 029: "See how you translated" in Numbers ======
+====== Search 029: "See how you translated" in 1 Samuel & Isaiah ======
 
 ~~NOCACHE~~
 
-This page finds "See how you translated ... " statements that immediately follow the bold ULB snippets in Numbers. These notes should be updated:
+This page finds "See how you translated ... " statements that immediately follow the bold ULB snippets in a particular book. These notes should be updated:
 
   * **if the referenced link has a note** - Copy the content of the referenced noted to the front of the new note and move the TA link (if it exists) to the end.
   * **if the referenced link has no note** - Change the text of the new note to some form of "Translate this/these ... "
@@ -11,4 +11,8 @@ This page finds "See how you translated ... " statements that immediately follow
 ==== Search results: ====
 
 ^  p2edit  ^  p2check  ^
-|{{door43pages @:en:bible:notes:num -r -q="( \- See how you translated)(?=[^}]*p2edit)" -exclude:home -exclude:00 -exclude:intro -simpleLineBreak -title -fontsize="90%"}}  |{{door43pages @:en:bible:notes:num -r -q="( \- See how you translated)(?=[^}]*p2check)" -exclude:home -exclude:00 -exclude:intro -simpleLineBreak -title -fontsize="90%"}}  |
+|{{door43pages @:en:bible:notes:1sa -r -q="( \- See how you translated)(?=[^}]*p2edit)" -exclude:home -exclude:00 -exclude:intro -simpleLineBreak -title -fontsize="90%"}}  |{{door43pages @:en:bible:notes:num -r -q="( \- See how you translated)(?=[^}]*p2check)" -exclude:home -exclude:00 -exclude:intro -simpleLineBreak -title -fontsize="90%"}}  |
+
+
+^  p2edit  ^  p2check  ^
+|{{door43pages @:en:bible:notes:isa -r -q="( \- See how you translated)(?=[^}]*p2edit)" -exclude:home -exclude:00 -exclude:intro -simpleLineBreak -title -fontsize="90%"}}  |{{door43pages @:en:bible:notes:num -r -q="( \- See how you translated)(?=[^}]*p2check)" -exclude:home -exclude:00 -exclude:intro -simpleLineBreak -title -fontsize="90%"}}  |
