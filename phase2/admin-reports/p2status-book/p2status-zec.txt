@@ -6,13 +6,13 @@
 
 (This list should be empty)
 
-{{door43pages @:en:bible:notes:zec -r -q="\{\{tag>(?![^}]*p2edit)(?![^}]*p2check)(?![^}]*p2pass)[^}]*\}\}" -exclude:home -exclude:00 -exclude:intro -simpleLineBreak -title -fontsize="80%"}}
+{{door43pages @:en:bible:notes:zec -r -q="\{\{tag>(?![^}]*p2edit)(?![^}]*p2check)(?![^}]*p2done)(?![^}]*p2example)(?![^}]*p2pass)[^}]*\}\}" -exclude:home -exclude:00 -exclude:intro -simpleLineBreak -title -fontsize="80%"}}
 
 
 ==== Zechariah: ====
 
-^  publish  ^  p2edit  ^  p2check  ^  p2review  ^  p2pass  ^
-|{{door43pages @en:bible:notes:zec -r -q="\{\{tag>[^}]*publish[^}]*\}\}" -exclude:home -exclude:00 -exclude:intro -simpleLineBreak -title -fontsize="80%"}}  |{{door43pages @en:bible:notes:zec -r -q="\{\{tag>[^}]*p2edit[^}]*\}\}" -exclude:home -exclude:00 -exclude:intro -simpleLineBreak -title -fontsize="80%"}}  |{{door43pages @en:bible:notes:zec -r -q="\{\{tag>[^}]*p2check[^}]*\}\}" -exclude:home -exclude:00 -exclude:intro -simpleLineBreak -title -fontsize="80%"}}  |{{door43pages @en:bible:notes:zec -r -q="\{\{tag>[^}]*p2review[^}]*\}\}" -exclude:home -exclude:00 -exclude:intro -simpleLineBreak -title -fontsize="80%"}}  |{{door43pages @en:bible:notes:zec -r -q="\{\{tag>[^}]*p2pass[^}]*\}\}" -exclude:home -exclude:00 -exclude:intro -simpleLineBreak -title -fontsize="80%"}}  |
+^  publish  ^  p2edit  ^  p2check  ^  p2review  ^  p2done  ^  p2pass  ^
+|{{door43pages @en:bible:notes:zec -r -q="\{\{tag>[^}]*publish[^}]*\}\}" -exclude:home -exclude:00 -exclude:intro -simpleLineBreak -title -fontsize="70%"}}  |{{door43pages @en:bible:notes:zec -r -q="\{\{tag>[^}]*p2edit[^}]*\}\}" -exclude:home -exclude:00 -exclude:intro -simpleLineBreak -title -fontsize="70%"}}  |{{door43pages @en:bible:notes:zec -r -q="\{\{tag>[^}]*p2check[^}]*\}\}" -exclude:home -exclude:00 -exclude:intro -simpleLineBreak -title -fontsize="70%"}}  |{{door43pages @en:bible:notes:zec -r -q="\{\{tag>[^}]*p2review[^}]*\}\}" -exclude:home -exclude:00 -exclude:intro -simpleLineBreak -title -fontsize="70%"}}  |{{door43pages @en:bible:notes:zec -r -q="\{\{tag>[^}]*p2done[^}]*\}\}" -exclude:home -exclude:00 -exclude:intro -simpleLineBreak -title -fontsize="70%"}}  |{{door43pages @en:bible:notes:zec -r -q="\{\{tag>[^}]*p2pass[^}]*\}\}" -exclude:home -exclude:00 -exclude:intro -simpleLineBreak -title -fontsize="70%"}}  |
 
 
 \\
