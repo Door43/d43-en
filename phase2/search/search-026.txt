@@ -58,6 +58,10 @@
 
 {{door43pages @:en:obe -r -q="\[\[en\:obe" -exclude:home -exclude:00 -exclude:intro -simpleLineBreak -title -fontsize="90%"}} 
 
+=== 11. Missing final "}" in tag code: ===
+
+{{door43pages @en:bible:notes: -r -q="[a-zA-Z]\}(( )|(\n))" -exclude:home -exclude:00 -exclude:intro -simpleLineBreak -title -fontsize="90%"}}
+
 
 
 ==== Possible Errors ====
