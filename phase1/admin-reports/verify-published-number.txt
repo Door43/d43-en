@@ -1,7 +1,11 @@
 ====== Verify Published Number of Chunks ======
 
+=== Missing final } in tag code: ===
+
 {{door43pages @en:bible:notes: -r -q="[a-zA-Z]\}(( )|(\n))" -exclude:home -exclude:00 -exclude:intro -simpleLineBreak -title -fontsize="90%"}}
 
+
+=== Search results: ===
 
 Change book code in all columns to test any published book.
 
