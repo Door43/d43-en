@@ -1,6 +1,6 @@
 ====== Verify Published Number of Chunks ======
 
-{{door43pages @en:bible:notes: -r -q="\}[^\}]" -exclude:home -exclude:00 -exclude:intro -simpleLineBreak -title -fontsize="90%"}}
+{{door43pages @en:bible:notes: -r -q="\}[^}]" -exclude:home -exclude:00 -exclude:intro -simpleLineBreak -title -fontsize="90%"}}
 
 
 Change book code in all columns to test any published book.
