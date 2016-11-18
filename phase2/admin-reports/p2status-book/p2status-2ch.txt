@@ -6,7 +6,7 @@
 
 (This list should be empty)
 
-{{door43pages @:en:bible:notes:1ki -r -q="\{\{tag>(?![^}]*p2edit)(?![^}]*p2check)(?![^}]*p2done)(?![^}]*p2example)(?![^}]*p2pass)[^}]*\}\}" -exclude:home -exclude:00 -exclude:intro -simpleLineBreak -title -fontsize="80%"}}
+{{door43pages @:en:bible:notes:2ch -r -q="\{\{tag>(?![^}]*p2edit)(?![^}]*p2check)(?![^}]*p2done)(?![^}]*p2example)(?![^}]*p2pass)[^}]*\}\}" -exclude:home -exclude:00 -exclude:intro -simpleLineBreak -title -fontsize="80%"}}
 
 
 ==== 2 Chronicles status: ====
