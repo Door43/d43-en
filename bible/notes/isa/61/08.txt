@@ -63,7 +63,8 @@
 
 ===== translationNotes: =====
 
-  * **Their descendants will be known among the nations, and their offspring among the peoples** - These two phrases mean the same thing. This can be stated in active form. AT: "People from other nations will know their descendants" (See: [[:en:ta:vol2:translate:figs_parallelism]] and [[:en:ta:vol2:translate:figs_activepassive]])
+  * **Their descendants will be known among the nations, and their offspring among the peoples** - These two clauses mean the same thing. This can be stated in active form. AT: "People from other nations will know their descendants" (See: [[:en:ta:vol2:translate:figs_parallelism]] and [[:en:ta:vol2:translate:figs_activepassive]])
+  * **their offspring among the peoples** - This clause assumes the same verb as the previous one. AT: "their offspring will be known among the peoples" (See: [[:en:ta:vol2:translate:figs_ellipsis]])
  
  
 ===== Links: =====
@@ -73,6 +74,6 @@
   * [[:en:bible:questions:comprehension:isa:61]]
 **[[:en:bible:notes:isa:61:06|<<]] | [[:en:bible:notes:isa:61:10|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2check}}
+~~DISCUSSION~~{{tag>publish p2done}}
 
 ~~NOCACHE~~
