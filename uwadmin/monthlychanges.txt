@@ -539,6 +539,8 @@
 {{changes>ns=ti:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:tic:obs|tic OBS]]**
 {{changes>ns=tic:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
+**[[:tif:obs|tif OBS]]**
+{{changes>ns=tif:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:tig:obs|tig OBS]]**
 {{changes>ns=tig:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:tk:obs|tk OBS]]**
