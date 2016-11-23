@@ -1,18 +1,1 @@
-===== Searching in Notes and TA Pages =====
-
-One way of finding examples for translationAcademy pages is to search the **notes pages** and **tA pages** for that topic or a key word or phrase.
-
-**Instructions**
-
-   * Click the pencil in the right-hand column on this page to edit it.
-  * Below these instructions you will see two strings of code for doing searches. Each one is bounded by double curly brackets.
-  * Change the string TTTT to the word or phrase you want to find.
-  * Click the Preview button below this window if you have one. Then scroll down the main page so you can see the Preview. It will take time to load and then give you a list of pages that have what you were looking for.
-  * If you do not have a Preview Button, click the Save button and it will save the page. It will take time to load and then give you a list of pages that have what you were looking for.
-  * If you want to look at the pages, right click on each of them, and they will open in other tabs. (Do this so you can get off of this page quickly and someone else can use it.)
-  * If you clicked on the Preview button, click the Cancel button below the window and the page will not be saved.
-  * If you clicked the Save button, go to the clock icon in the list on the right of the page, and click on the first version down from the newest. Click on it. When it opens, click on the pencil as if you wanted to edit the page. Don't write anything. Just save the page.
-
-**Code for doing searches on tN pages:**  \\ {{door43pages @:en:bible:notes -r -q="TTTT" -exclude:home -simpleLineBreak -title -fontsize="90%"}}
-
-**Code for doing searches on tA pages:**  \\ {{door43pages @:en:ta -r -q="TTTT" -exclude:home -simpleLineBreak -title -fontsize="90%"}}
+===== Searching in Notes and TA Pages ===== One way of finding examples for translationAcademy pages is to search the **notes pages** and **tA pages** for that topic or a key word or phrase. **Instructions** * Click the pencil in the right-hand column on this page to edit it. * Below these instructions you will see two strings of code for doing searches. Each one is bounded by double curly brackets. * Change the string TTTT to the word or phrase you want to find. * Click the Preview button below this window if you have one. Then scroll down the main page so you can see the Preview. It will take time to load and then give you a list of pages that have what you were looking for. * If you do not have a Preview Button, click the Save button and it will save the page. It will take time to load and then give you a list of pages that have what you were looking for. * If you want to look at the pages, right click on each of them, and they will open in other tabs. (Do this so you can get off of this page quickly and someone else can use it.) * If you clicked on the Preview button, click the Cancel button below the window and the page will not be saved. * If you clicked the Save button, go to the clock icon in the list on the right of the page, and click on the first version down from the newest. Click on it. When it opens, click on the pencil as if you wanted to edit the page. Don't write anything. Just save the page. **Code for doing searches on tN pages:** \\ {{door43pages @:en:bible:notes -r -q="f\w d favor.*eyes" -exclude:home -simpleLineBreak -title -fontsize="90%"}} **Code for doing searches on tA pages:** \\ {{door43pages @:en:ta -r -q="TTTT" -exclude:home -simpleLineBreak -title -fontsize="90%"}}
