@@ -805,6 +805,9 @@
 **[[:ti:obs|ti OBS]]**
 {{changes>ns=ti:obs&maxage=604800&render=pagelist(header,date,user,nocomments)}}
 
+**[[:ti-x-eritrea:obs|ti-x-eritrea OBS]]**
+{{changes>ns=ti-x-eritrea:obs&maxage=604800&render=pagelist(header,date,user,nocomments)}}
+
 **[[:tic:obs|tic OBS]]**
 {{changes>ns=tic:obs&maxage=604800&render=pagelist(header,date,user,nocomments)}}
 
