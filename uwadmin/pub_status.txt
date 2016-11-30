@@ -110,5 +110,5 @@
     
     ===== lpx =====
     ^Language   ^Publish Date   ^Version    ^Checking Level ^
-    |  [[:en:uwadmin:lpx:obs:status|Lopit]]  |  20161026  |  4.1  |  {{https://api.unfoldingword.org/obs/jpg/1/checkinglevels/uW-Level1-32px.png}}  |
+    |  [[:en:uwadmin:lpx:obs:status|Lopit]]  |  20161129  |  4.1  |  {{https://api.unfoldingword.org/obs/jpg/1/checkinglevels/uW-Level1-32px.png}}  |
     
