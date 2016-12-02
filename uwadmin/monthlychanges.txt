@@ -233,6 +233,8 @@
 {{changes>ns=ima:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:iru:obs|iru OBS]]**
 {{changes>ns=iru:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
+**[[:it:obs|it OBS]]**
+{{changes>ns=it:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:ja:obs|ja OBS]]**
 {{changes>ns=ja:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:jit:obs|jit OBS]]**
