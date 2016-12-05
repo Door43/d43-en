@@ -3,56 +3,58 @@
 //This answers the question:// //What steps do I follow when I translate the translationWords?//
 
 //In order to understand this topic, it would be good to read://
-  * //[[en:ta:vol2:tech:tsd_settings]]//
 
-Have you read the information in the article on [[en:ta:vol3:gateway:gl_words]]? It is very important to understand the guidelines before translating the translationWords. There is also very important information on decisions that need to be made during the translation process. (See: https://unfoldingword.org/academy/ta-gateway-language.html#vol3_gateway_gl_words)
+   * //[[:en:ta:vol2:tech:tsd_settings|Settings in translationStudio Desktop v10]]//
+Have you read the information in the article on [[:en:ta:vol3:gateway:gl_words|Translate the translationWords]]? It is very important to understand the guidelines before translating the translationWords. There is also very important information on decisions that need to be made during the translation process. (See: [[https://unfoldingword.org/academy/ta-gateway-language.html#vol3_gateway_gl_words|https://unfoldingword.org/academy/ta-gateway-language.html#vol3_gateway_gl_words]])
 
 This module explains the steps to translating the translationWords using translationStudio-Desktop.
 
-It is important that translators understand all of the words that they are translating. But some of the words in the Bible are not used in everyday life in our time or in our cultures, and so the translator may not be familiar with them. Other words are used in everyday life, but they are used in a different way in the Bible. Some of these words have very important or special meanings in the Bible. They tell us a lot about God and his relationship with us. So in order for the translator to completely understand these words, we provide definitions and translation suggestions for each of the translationWords. 
+It is important that translators understand all of the words that they are translating. But some of the words in the Bible are not used in everyday life in our time or in our cultures, and so the translator may not be familiar with them. Other words are used in everyday life, but they are used in a different way in the Bible. Some of these words have very important or special meanings in the Bible. They tell us a lot about God and his relationship with us. So in order for the translator to completely understand these words, we provide definitions and translation suggestions for each of the translationWords.
 
 When you translate the translationWords and the information about them into the Gateway Language, it will help the Other Language translators understand how to translate these words in the Bible for their people.
 
-**NOTE**: The Gateway Language mode must be active to be able to translate the translationWords. See [[en:ta:vol2:tech:tsd_settings]] for more information.
+**NOTE**: The Gateway Language mode must be active to be able to translate the translationWords. See [[:en:ta:vol2:tech:tsd_settings|Settings in translationStudio Desktop v10]] for more information.
 
 ==== Create a translationWords Project ====
 
 From any screen in the program, click on the 3-dot menu icon found in the bottom left corner of the window.
+
   * Click on the word "Home."
   * Add a new project by clicking on the blue circle with a plus sign in the top right corner of the window.
-    * Choose a target language.
-    * Choose translationWords in the next window. The Project opens.
+      * Choose a target language.
+      * Choose translationWords in the next window. The Project opens.
 
 ==== Start the translationWords Project ====
 
 There are two panels displayed in the translationWords project window:
+
   - The source text in the left panel.
   - The target language translation will be in the right panel.
 
 ==== Translate the translationWords ====
 
-  * Translate the translationWord in the top section on the right panel. 
-    * Left click above the red line on the 'Translate word here' words.
-    * Type in the translation of the translationWord, words or phrase.
+  * Translate the translationWord in the top section on the right panel.
+      * Left click above the red line on the 'Translate word here' words.
+      * Type in the translation of the translationWord, words or phrase.
   * Translate the information for the translationWord.
-    * Left click on the words 'Translate definition here' and start typing the translation of the definition.
+      * Left click on the words 'Translate definition here' and start typing the translation of the definition.
 
 Write translations that will help Other Language translators understand how they can determine the best word to use in their language.
 
-Provide **Translation Suggestions** that will help the translator understand different ways to translate the term.
+Provide **Translation Suggestions**  that will help the translator understand different ways to translate the term.
 
 ==== Mark the tW as Done and Go to the Next tW ====
 
 When the translator feels that all the information has been written for the translationWord:
+
   * Click on the slider at the bottom right of the term to mark the word as 'done.'
   * Click on 'Confirm' in the pop-up window.
 
-Continue to the next tW until all of the translationWords are complete. 
-
+Continue to the next tW until all of the translationWords are complete.
 
 //Next we recommend you learn about://
-  * //[[en:ta:vol2:tech:tsd_navigate]]//
-  * //[[en:ta:vol2:tech:tsd_tn]]//
-  * //[[en:ta:vol2:tech:tsd_tq]]//
-  * //[[en:ta:vol2:tech:tsd_ta]]//
 
+  * //[[:en:ta:vol2:tech:tsd_navigate|Navigating translationStudio-Desktop v10]]//
+  * //[[:en:ta:vol2:tech:tsd_tn|The Process for Translating the translationNotes]]//
+  * //[[:en:ta:vol2:tech:tsd_tq|The Process for Translating the translationQuestions]]//
+  * //[[:en:ta:vol2:tech:tsd_ta|The Process for Translating translationAcademy]]//
