@@ -9,12 +9,22 @@
 
 
 \p
+\v 11 My fellow believers, I want you to know that the message about Christ that I proclaim to people is not one that some person \add created\f + \ft Or: thought \f* up\add*.
+\v 12 I did not receive this message from a human \add messenger\add*, and no \add human being\add* taught it to me. Instead, Jesus Christ revealed it to me.
+
+
+\p
 </usfm>
 
 
 ===== UDB: =====
 
 <usfm>
+\v 11 My fellow believers, I want you to know that the message about Christ that I proclaim to people is not one that some person created.
+\v 12 I did not learn this good news from any ordinary human being, and no such person taught it to me. Instead, it was Jesus Christ himself who taught me.
+
+
+\p
 \v 11 My fellow believers, I want you to know that the message about Christ that I proclaim to people is not one that some person created.
 \v 12 I did not learn this good news from any ordinary human being, and no such person taught it to me. Instead, it was Jesus Christ himself who taught me.
 
@@ -27,8 +37,13 @@
 
 <usfm>
 \p
+<<<<<<< HEAD
+\v 11 For I want you to know, brothers, that the gospel I proclaimed is not man's.
+\v 12 I did not receive it from any man, nor was I taught it. Instead, it was by revelation of Jesus Christ to me.
+=======
 \v 11 For I want you to know, brothers, that the gospel I proclaimed is not from humans.
 \v 12 I did not receive it from man, nor was I taught it. Instead, it was by revelation of Jesus Christ to me.
+>>>>>>> origin/master
 </usfm>
 
 
