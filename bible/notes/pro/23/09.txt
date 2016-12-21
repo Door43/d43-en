@@ -46,7 +46,7 @@
 \q or encroach on the fields of orphans,
 \q
 \v 11 for their Redeemer is strong
-\q and he will plead their cause against you.
+\q and he will plead their case against you.
 </usfm>
 
 
@@ -59,10 +59,15 @@
 
 ===== translationNotes: =====
 
-  * **ancient boundary stone** - very old and large stones to show the line that marks one area from another - See how you translated this in [[:en:bible:notes:pro:22:28]]
+  * **General Information:** - These verses continue the "thirty sayings" ([[:en:bible:notes:pro:22:20|22:20]]).
+
+  * **in the hearing of a fool** - The abstract noun "hearing" can be translated as a verb. AT: "where a fool can hear you" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
+  * **ancient** - very old. Translate as in [[:en:bible:notes:pro:22:28|22:28]].
+  * **boundary stone** - a large stone to show where one person's land ends and another person's land begins. Translate as in [[:en:bible:notes:pro:22:28|22:28]].
   * **encroach** - slowly take or begin to use the land (or something) that belongs to someone else
   * **orphans** - children whose parents are dead
-  * **Redeemer** - This refers to Yahweh.
+  * **their Redeemer** - Yahweh
+  * **he will plead their case against you** - The metaphor is of a lawyer defending the needy in front of a judge. AT: "he will defend the orphans against you" or "he will see that the orphans receive justice and punish you" (See: [[:en:ta:vol1:translate:figs_metaphor]])
 ===== Links: =====
 
   * [[:en:bible:notes:pro:00:intro]]
@@ -76,6 +81,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2done p2example}}
 
 ~~NOCACHE~~

@@ -30,7 +30,7 @@
 \c 119
 \p
 \d ALEPH.
-\p
+\b
 \q
 \v 1 Blessed are those whose ways are blameless,
 \q who walk in the law of Yahweh.
@@ -51,7 +51,7 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]]
+  * **General Information:** - Parallelism is common in Hebrew poetry. (See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]])
 
   * **ALEPH** - This is the name of the first letter of the Hebrew alphabet. 
   * **Blessed are those** - "How good it is for those"

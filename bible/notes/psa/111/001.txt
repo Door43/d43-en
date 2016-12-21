@@ -47,7 +47,7 @@
 
 <usfm>
 \c 111
-\p
+\b
 \q
 \v 1 Praise Yahweh.
 \q I will give thanks to Yahweh with my whole heart
@@ -76,7 +76,7 @@
  
 ===== translationNotes: =====
 
-  * **General Information:** - See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]]
+  * **General Information:** - Parallelism is common in Hebrew poetry. (See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]])
 
   * **with my whole heart** - Here the word "heart" represents the person's entire inner being and emotions. AT: "with all that I am" (See: [[:en:ta:vol2:translate:figs_metonymy]])
   * **in the assembly of the upright, in their gathering** - These two phrases mean that same thing and may be combined if necessary. AT: "in the gathering of upright people" (See: [[:en:ta:vol2:translate:figs_doublet]])

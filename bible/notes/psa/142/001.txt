@@ -30,7 +30,7 @@
 \c 142
 \p
 \d A maschil of David, when he was in the cave; a prayer.
-\p
+\b
 \q
 \v 1 With my voice I cry out for help to Yahweh;
 \q with my voice I plead for Yahweh's favor.
@@ -51,7 +51,7 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]]
+  * **General Information:** - Parallelism is common in Hebrew poetry. (See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]])
 
   * **A maschil** - This may refer to a style of music. See how you translated this in [[:en:bible:notes:psa:032:001|32:1]].
   * **cave** - open place under the earth large enough for people to walk around in

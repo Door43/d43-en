@@ -37,7 +37,7 @@
 ===== ULB: =====
 
 <usfm>
-\p
+\b
 \q1
 \v 7 How beautiful on the mountains are the feet of the messenger who brings good news,
 \q1 who announces peace, who bears good tidings, who announces salvation,
@@ -57,6 +57,7 @@
   * [[:en:obe:other:zion]]
   * [[:en:obe:kt:god]]
   * [[:en:obe:other:reign]]
+  * [[:en:obe:other:watch]]
   * [[:en:obe:other:voice]]
   * [[:en:obe:kt:joy]]
   * [[:en:obe:kt:yahweh]] 
@@ -65,8 +66,10 @@
 
   * **General Information:** - Isaiah is speaking to the people of Israel.
 
-  * **the feet of the messenger** - Here "feet" refers to the messenger walking and bringing good news to the people. (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **every eye of theirs** - Eye represents the whole person. AT: "every one of them" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **How beautiful on the mountains are the feet of the messenger who brings good news** - Here "feet" represents a messenger who is walking. AT: "It is beautiful to see a messenger coming over the mountains to announce good news" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **to Zion** - Here "Zion" represents the people of Zion. AT: "to the people of Zion" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **raise their voices** - This is an idiom. AT: "shout loudly" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **every eye of theirs** - Here "eye" represents the whole person. AT: "every one of them" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
  
  
 ===== Links: =====
@@ -76,6 +79,6 @@
   * [[:en:bible:questions:comprehension:isa:52]]
 **[[:en:bible:notes:isa:52:05|<<]] | [[:en:bible:notes:isa:52:09|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2done}}
 
 ~~NOCACHE~~

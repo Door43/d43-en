@@ -45,12 +45,12 @@
 
 ===== translationNotes: =====
 
-  * **the diligent** - "a diligent man" AT: "a man who works hard"
-  * **comes only to poverty** - "only becomes poor"
-  * **Acquiring riches** - "Obtaining riches" or "Gaining wealth"
-  * **a lying tongue** - AT: "speaking lies" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **a fleeting vapor** - These riches are compared to a mist that quickly goes away in the morning. "a disappearing mist" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **and a snare that kills** - Riches gotten dishonestly will kill the person who has them. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **the diligent** - This nominal adjective can be translated as a noun phrase. AT: "a diligent man" or "a man who works hard" (See: [[:en:ta:vol2:translate:figs_nominaladj]])
+  * **comes only to poverty** - "only becomes poor" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **Acquiring riches** - "Gaining wealth"
+  * **a lying tongue** - The tongue is a metonym for the words a person uses the tongue to speak. AT: "speaking lies" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **a fleeting vapor** - The writer speaks of riches a person gains by lying to a mist that quickly goes away in the morning. AT: "a disappearing mist" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **and a snare that kills** - The writer speaks of the riches that a person gains by lying as if it were the bait in a hunter's trap; the word "snare" is a metonym for the bait that attracts the animal into the snare. (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_metonymy]])
 
 ===== Links: =====
 
@@ -59,6 +59,6 @@
   * [[:en:bible:questions:comprehension:pro:21]]
 **[[:en:bible:notes:pro:21:03|<<]] | [[:en:bible:notes:pro:21:07|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2done p2example}}
 
 ~~NOCACHE~~

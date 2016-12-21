@@ -30,7 +30,7 @@
 <usfm>
 \cl Psalm
 \c 1
-\p
+\b
 \q
 \v 1 Blessed is the man who does not walk in the advice of the wicked,
 \q or stand in the pathway with sinners,
@@ -54,7 +54,7 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]]
+  * **General Information:** - Parallelism is common in Hebrew poetry. (See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]])
 
   * **who does not walk in the advice of the wicked** - The "advice of the wicked" is spoken of as if it were a path to follow. AT: "who does not follow the advice of the wicked" (See: [[:en:ta:vol1:translate:figs_metaphor]])
   * **stand in the pathway with sinners** - Here the word "pathway" represents the way people live. The word "stand" is in parallel with "walk." AT: "imitate the behavior of sinful people" (See: [[:en:ta:vol1:translate:figs_metaphor]])

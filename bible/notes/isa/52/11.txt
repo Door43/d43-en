@@ -42,7 +42,7 @@
 ===== ULB: =====
 
 <usfm>
-\p
+\b
 \q1
 \v 11 Leave, leave, go out from there; touch nothing unclean;
 \q1 leave from her midst; purify yourselves, you who carry the vessels of Yahweh.
@@ -66,6 +66,9 @@
 
   * **Leave, leave** - This word is repeated to emphasize that the people must indeed leave, though not necessarily quickly.
   * **go out from there** - Assumed knowledge is that Israel were slaves in Babylon. This can be stated explicitly. AT: "go out from the land where you are slaves" (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **touch nothing unclean** - Something that Yahweh has stated is unfit to touch or eat is spoken of as if it were physically unclean. AT: "touch nothing that is unacceptable to Yahweh" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **leave from her midst** - Here "her" represents Babylon.
+  * **Yahweh will go before you; and the God of Israel will be your rearguard** - Yahweh protecting his people from their enemies is spoken of as if he were the warriors who go ahead of the people and the warriors who stay behind the people to protect them. (See: [[:en:ta:vol1:translate:figs_metaphor]])
 
 ===== Links: =====
 
@@ -74,6 +77,6 @@
   * [[:en:bible:questions:comprehension:isa:52]]
 **[[:en:bible:notes:isa:52:09|<<]] | [[:en:bible:notes:isa:52:13|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2done}}
 
 ~~NOCACHE~~

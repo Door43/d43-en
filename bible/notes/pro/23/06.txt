@@ -38,7 +38,7 @@
 
 <usfm>
 \q
-\v 6 Do not eat the food of an evil man—someone who looks too long at your food—
+\v 6 Do not eat the food of one with an evil eye—
 \q and do not crave his delicacies,
 \q
 \v 7 for he is the kind of man who counts the price of the food.
@@ -57,9 +57,14 @@
 
 ===== translationNotes: =====
 
-  * **do not crave his delicacies** - See how you translated this in [[:en:bible:notes:pro:23:01|23:3]].
-  * **You will vomit up the little you have eaten** - AT: "You will feel disgusted when you eat with a selfish person" (See: [[:en:ta:vol2:translate:figs_hyperbole]])
-  * **compliments** - A compliment is something good or nice said about somebody or something.
+  * **General Information:** - These verses continue the "thirty sayings" ([[:en:bible:notes:pro:22:20|22:20]]).
+
+  * **one with an evil eye** - Possible meanings are 1) a stingy person, one who does not like to give things to other people, or 2) an evil person (UDB).
+  * **Do not crave** - "Do not strongly desire." See how you translated "craves" in [[:en:bible:notes:pro:21:09|21:9]].
+  * **delicacies** - "special and expensive food" (UDB). Translate as in [[:en:bible:notes:pro:23:01|23:3]].
+  * **his heart is not with you** - "he really does not want you to enjoy the meal" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **You will vomit up the little you have eaten** - "You will wish that you had not eaten anything" (See: [[:en:ta:vol2:translate:figs_hyperbole]])
+  * **you will have wasted your compliments** - "he will not be happy even if you say good things about him and the food" (See: [[:en:ta:vol1:translate:figs_metaphor]])
  
  
 ===== Links: =====
@@ -75,6 +80,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2done p2example}}
 
 ~~NOCACHE~~

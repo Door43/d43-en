@@ -39,7 +39,7 @@
 <usfm>
 \ms Book Five
 \c 107
-\p
+\b
 \q
 \v 1 Give thanks to Yahweh, for he is good,
 \q and his covenant faithfulness endures forever.
@@ -67,7 +67,7 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]]
+  * **General Information:** - Parallelism is common in Hebrew poetry. (See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]])
 
   * **his covenant faithfulness endures forever** - "his faithful love for me will never end"
   * **the redeemed of Yahweh** - "The redeemed" refers to the people whom Yahweh has saved. AT: "those whom Yahweh has saved" (See: [[:en:ta:vol2:translate:figs_nominaladj]])

@@ -28,7 +28,7 @@
 
 <usfm>
 \c 147
-\p
+\b
 \q
 \v 1 Praise Yahweh,
 \q for it is good to sing praises to our God,
@@ -44,7 +44,7 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - (See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]])
+  * **General Information:** - Parallelism is common in Hebrew poetry. (See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]])
 
   * **it is pleasant** - The object may be supplied from the previous phrase. AT: "it is pleasant to sing praises" (See: [[:en:ta:vol2:translate:figs_ellipsis]])
   * **praise is suitable** - "praise is fitting" or "praise is appropriate"

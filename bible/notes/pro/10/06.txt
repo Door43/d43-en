@@ -50,10 +50,10 @@
 
 ===== translationNotes: =====
 
-  * **are upon the head** - AT: "are given to" (See: [[:en:ta:vol1:translate:figs_idiom]])
-  * **mouth of the wicked** - "words the wicked speak" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **are upon the head** - "head" represents the whole person. AT: "are given to" (See: [[:en:ta:vol1:translate:figs_idiom]] and [[:en:ta:vol2:translate:figs_metonymy]])
+  * **mouth of the wicked** - "mouth" represents what a person says. AT: "words the wicked speak" (See: [[:en:ta:vol2:translate:figs_metonymy]])
   * **covers up** - hides the truth
-  * **name** - AT: "memory"
+  * **name** - "name" represents a person's reputation. AT: "memory" (See: [[:en:ta:vol2:translate:figs_metonymy]])
 
 
  
@@ -70,6 +70,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2done}}
 
 ~~NOCACHE~~

@@ -40,7 +40,7 @@
 
 <usfm>
 \c 99
-\p
+\b
 \q
 \v 1 Yahweh reigns; let the nations tremble.
 \q He sits enthroned above the cherubim; the earth quakes.
@@ -69,7 +69,7 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]]
+  * **General Information:** - Parallelism is common in Hebrew poetry. (See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]])
 
   * **the nations** - This refers to the people of all nations. AT: "the people of all nations" (See: [[:en:ta:vol2:translate:figs_metonymy]])
   * **tremble** - shake with fear

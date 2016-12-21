@@ -30,7 +30,7 @@
 
 <usfm>
 \q
-\v 27 The sacrifice of wicked people is detestable;
+\v 27 The sacrifice of the wicked is detestable;
 \q it is even more detestable when he brings it with evil motives.
 \q
 \v 28 A false witness will perish,
@@ -44,11 +44,14 @@
   * [[:en:obe:other:detestable]]
   * [[:en:obe:other:falsewitness]]
   * [[:en:obe:kt:perish]]
+
 ===== translationNotes: =====
 
-  * **is detestable** - "is disgusting" AT: "causes strong dislike"
-  * **it is even more detestable when** - AT: "especially when"
-  * **will speak for all time** - AT: "will speak unto the end" or "will always be allowed to speak"
+  * **The sacrifice of the wicked is detestable** - The writer does not mention Yahweh here, as in [[:en:bible:notes:pro:15:07|15:8]], but the reader should understand that it is Yahweh who detests the sacrifice of the wicked.
+  * **the wicked** - The nominalized adjective "wicked" can be translated as a noun phrase. AT: "the wicked person," referring to any wicked person, or "wicked people," referring to all wicked people. [[:en:ta:vol2:translate:figs_nominaladj]]
+  * **it is even more detestable** - Yahweh detests the sacrifice even more
+  * **will speak for all time** - because people will never forget what he said
+
 ===== Links: =====
 
   * [[:en:bible:notes:pro:00:intro]]
@@ -56,6 +59,6 @@
   * [[:en:bible:questions:comprehension:pro:21]]
 **[[:en:bible:notes:pro:21:25|<<]] | [[:en:bible:notes:pro:21:29|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2done}}
 
 ~~NOCACHE~~

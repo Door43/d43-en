@@ -61,8 +61,9 @@
 
 ===== translationNotes: =====
 
-  * **the years of the wicked** - Translate as in [[:en:bible:notes:pro:10:26|10:27]].
-  * **will never be overthrown** - "will be secure" (See: [[:en:ta:vol2:translate:figs_litotes]])
+  * **the years of the wicked** - "Years" represent the time a person lives. AT: "the lifetime of the evil person" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **will never be overthrown** - This can be stated as active and positive: AT: "will be secure" (See: [[:en:ta:vol2:translate:figs_litotes]] and [[:en:ta:vol2:translate:figs_activepassive]])
+
 ===== Links: =====
   * [[:en:bible:notes:pro:00:intro]]
   * [[:en:bible:notes:pro:10:00]]
@@ -75,6 +76,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2done}}
 
 ~~NOCACHE~~

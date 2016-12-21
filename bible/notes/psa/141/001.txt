@@ -36,7 +36,7 @@
 \c 141
 \p
 \d A psalm of David.
-\p
+\b
 \q
 \v 1 Yahweh, I am crying out to you; come quickly to me.
 \q Listen to me when I call to you.
@@ -57,7 +57,7 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]]
+  * **General Information:** - Parallelism is common in Hebrew poetry. (See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]])
 
   * **A psalm of David** - Possible meanings are 1) David wrote the psalm or 2) the psalm is about David or 3) the psalm is in the style of David's psalms. See how you translated this in [[:en:bible:notes:psa:003:001|3:1]].
   * **crying out** - "asking you for help"

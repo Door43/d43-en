@@ -36,7 +36,7 @@
 
 <usfm>
 \q
-\v 17 Pay attention and hear the words of the wise
+\v 17 Incline your ear and listen to the words of the wise
 \q and apply your heart to my knowledge,
 \q
 \v 18 for it will be pleasant for you if you keep them within you,
@@ -57,13 +57,15 @@
 
 ===== translationNotes: =====
 
+  * **General Information:** - Verse 17 begins the introduction to a new section of the Book of Proverbs.
 
-  * **Pay attention and hear** - These two verbs means the same thing and emphasize the importance of listening. (See: [[:en:ta:vol2:translate:figs_doublet]])
-  * **the words of the wise** - AT: "what wise people say" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **apply your heart** - AT: "do your best to remember" (See: [[:en:ta:vol1:translate:figs_idiom]])
-  * **my knowledge** - The person speaking is probably the same as the father from the first chapter.
-  * **ready on your lips** - AT: "available in your memory" or "in your mind, ready for you to recite them" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **even to you** - This is repeated to emphasize the personal nature of this teaching.
+  * **Incline your ear and listen** - Possible meanings are 1) "Pay attention so you can understand" or 2) this is a doublet that can be translated "Listen carefully to." (See: [[:en:ta:vol2:translate:figs_doublet]])
+  * **Incline your ear** - The speaker is commanding another person to bend his head forward and turn his ear toward the speaker so as to hear better.
+  * **the words of the wise** - "what wise people say"
+  * **apply your heart to** - "do your best to understand and remember" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **my knowledge** - "the knowledge I have, which I am sharing with you" or "what I know." The person speaking is probably the same as the father from [[:en:bible:notes:pro:01:07|1:8]]. He may be speaking of "the words of the wise" as "my knowledge." (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
+  * **all of them are ready on your lips** - The person being ready to speak is spoken of as if it were the words that were ready. AT: "you are able to speak of them at any time" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **today—even to you** - "today. Yes, I am teaching you," The speaker is emphasizing that it is the hearer, not someone else whom he is teaching, and he is teaching the hearer because the hearer needs to learn. If it is awkward in your language to emphasize in this way, you can emphasize in another way or the words "even to you" can be left untranslated.
  
 ===== Links: =====
 
@@ -78,6 +80,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2done p2example}}
 
 ~~NOCACHE~~

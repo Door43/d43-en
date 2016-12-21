@@ -53,10 +53,12 @@
 
 ===== translationNotes: =====
 
-  * **right and just** - These two words mean basically the same thing and emphasize how important it is to be just. (See: [[:en:ta:vol2:translate:figs_doublet]])
-  * **is more acceptable to Yahweh** - "Yahweh wants this more" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
-  * **Haughty eyes and a proud heart** - These two phrases mean basically the same thing and emphasize how bad pride is. (See: [[:en:ta:vol2:translate:figs_doublet]])
-  * **eyes ... heart** - Both these words refer to a whole person. (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **to do what is right** - to do what Yahweh thinks is right
+  * **to do what is ... just** - to treat people the way Yahweh wants people to treat other people
+  * **just is more acceptable to Yahweh** - "just—Yahweh wants this more" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
+  * **Haughty eyes and a proud heart** - The words "eyes" and "heart" are synecdoches for a person who considers himself better than other people and wants other people to know it. AT: "People who want others to think that they are better than other people" (See: [[:en:ta:vol2:translate:figs_synecdoche]] and [[:en:ta:vol2:translate:figs_doublet]])
+  * **Haughty eyes** - This is a synecdoche for a person wants others to know that he thinks he is better than they are. (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **proud heart** - This is a synecdoche for a person who thinks he is better than others. (See: [[:en:ta:vol2:translate:figs_synecdoche]])
   * **the lamp of the wicked** - "the things that help a wicked person like a lamp helps to see in the dark" (See: [[:en:ta:vol1:translate:figs_metaphor]])
 ===== Links: =====
 
@@ -65,6 +67,6 @@
   * [[:en:bible:questions:comprehension:pro:21]]
 **[[:en:bible:notes:pro:21:01|<<]] | [[:en:bible:notes:pro:21:05|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2done p2example}}
 
 ~~NOCACHE~~

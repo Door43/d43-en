@@ -38,7 +38,7 @@
 ===== ULB: =====
 
 <usfm>
-\p
+\b
 \q1
 \v 17 Awake, awake, stand up, Jerusalem,
 \q1 you who drank the bowl of Yahweh's anger from his hand;
@@ -58,10 +58,13 @@
 
 ===== translationNotes: =====
 
-  * **Awake, awake, stand up, Jerusalem** - The repetition of the word "awake" emphasizes the urgency of the call to arouse the people of Israel. It is not literally to wake them from sleep. "Jerusalem" stands for the people of Jerusalem. (See: [[:en:ta:vol2:translate:figs_apostrophe]] and [[:en:ta:vol2:translate:figs_doublet]] and [[:en:ta:vol2:translate:figs_metonymy]])
-  * **you who drank the bowl of Yahweh's anger from his hand** - This compares the people of Israel who fully experienced God's anger and punishment to a person who drinks all the wine in a bowl. (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **the bowl of staggering** - This compares the people of Israel, who experienced Yahweh's punishment to the full, to a wine drinker who stumbles and falls down. (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **There is no one among all the sons ... to take her by the hand** - These two clauses mean the same thing. Yahweh is describing the city of Jerusalem as if it were a mother and the people were her children. Here there are no children left to help their mother. This emphasizes how helpless the people were after God punished them. (See: [[:en:ta:vol2:translate:figs_parallelism]] and [[:en:ta:vol1:translate:figs_metaphor]])
+  * **Awake, awake, stand up, Jerusalem** -  Yahweh speaks directly to  Jerusalem, even though its people are not present, to add emphasis to his message. (See: [[:en:ta:vol2:translate:figs_apostrophe]])
+  * **Awake, awake, stand up** - "Be alert and arise." The repetition of the word "awake" emphasizes the urgency of the call to arouse the people of Israel. It is not literally to wake them from sleep.
+  * **Jerusalem** - Here Jerusalem refers to the people who live there. AT: "you people of Jerusalem" [[:en:ta:vol2:translate:figs_metonymy]])
+  * **you who drank the bowl of Yahweh's anger from his hand** - This speaks of the people being punished by Yahweh as if his anger were a bowl of wine that they drank. AT: "You who Yahweh has severely punished in his anger" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **you drank the bowl, the bowl of staggering, and you drained it** - This continues the metaphor about Yahweh's anger being a bowl of wine. This speaks of the harshness of the peoples' punishment as if they had drank all of the wine and become drunk. AT: "if his anger were a bowl of wine, you would have been drunk and staggering from drinking it all" (See: [[:en:ta:vol1:translate:figs_metaphor]]) 
+  * **staggering** - not walking straight or stumbling while walking
+  * **There is no one among all the sons she has born to guide her ... to take her by the hand** - These two clauses have the same meaning and can be combined. This speaks of Jerusalem being helpless as if the city were a drunk woman without a son to help her. AT: "You have no one to help you! You are like a drunk old woman without a son to take her by the hand and guide her home" (See: [[:en:ta:vol2:translate:figs_parallelism]] and [[:en:ta:vol1:translate:figs_metaphor]])
 
 ===== Links: =====
 
@@ -70,6 +73,6 @@
   * [[:en:bible:questions:comprehension:isa:51]]
 **[[:en:bible:notes:isa:51:16|<<]] | [[:en:bible:notes:isa:51:19|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2done p2example}}
 
 ~~NOCACHE~~

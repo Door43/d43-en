@@ -37,7 +37,7 @@
 
 <usfm>
 \c 10
-\p
+\b
 \q
 \v 1 Why, Yahweh, do you stand far off?
 \q Why do you hide yourself in times of trouble?
@@ -60,7 +60,7 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]].
+  * **General Information:** - Parallelism is common in Hebrew poetry. (See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]])
 
   * **Why, Yahweh, do you stand far off? Why do you hide yourself in times of trouble?** - The speaker uses these questions to express his distress that God has not helped him. AT: "Yahweh, it seems as though you are far away from me and you hide from me whenever I am in trouble" (See: [[:en:ta:vol1:translate:figs_rquestion]] and [[:en:ta:vol1:translate:figs_metaphor]])
   * **schemes** - "plans"

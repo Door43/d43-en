@@ -31,7 +31,7 @@
 
 <usfm>
 \c 96
-\p
+\b
 \q
 \v 1 Oh, sing to Yahweh a new song;
 \q sing to Yahweh, all the earth.
@@ -51,7 +51,7 @@
  
 ===== translationNotes: =====
 
-  * **General Information:** - See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]]
+  * **General Information:** - Parallelism is common in Hebrew poetry. (See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]])
 
   * **a new song** - a song no one has ever sung before
   * **all the earth** - This refers to the people of the earth. AT: "all you people who live on the earth" (See: [[:en:ta:vol2:translate:figs_metonymy]])

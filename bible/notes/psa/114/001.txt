@@ -30,7 +30,7 @@
 
 <usfm>
 \c 114
-\p
+\b
 \q
 \v 1 When Israel left Egypt,
 \q the house of Jacob from that foreign people,
@@ -53,7 +53,7 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]]
+  * **General Information:** - Parallelism is common in Hebrew poetry. (See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]])
 
 
   * **When Israel left Egypt, the house of Jacob from that foreign people** - These two lines are parallel, with "Israel" and "the house of Jacob" meaning the same thing and "Egypt" and "that foreign people" referring to the same people. (See: [[:en:ta:vol2:translate:figs_parallelism]])
