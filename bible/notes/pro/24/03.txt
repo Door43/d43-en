@@ -49,9 +49,10 @@
 
   * **General Information:** - These verses continue the "thirty sayings" ([[:en:bible:notes:pro:22:20|22:20]]).
 
-  * **Through wisdom a house is built** - "People build a house with the help of wisdom" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **by understanding it is established** - "People establish a house using understanding" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **established** - made stable and strong
+  * **Through wisdom a house is built** - The abstract noun "wisdom" can be translated as an adjective. These words can be translated in active form. AT: "People need to be wise if they are to build a good house" (See: [[:en:ta:vol2:translate:figs_abstractnouns]] and [[:en:ta:vol2:translate:figs_activepassive]])
+  * **by understanding it is established** - The abstract noun "understanding" can be translated as a verb. These words can be translated in active form. AT: "People need to understand what is morally good and what is morally bad if they are to establish a house" (See: [[:en:ta:vol2:translate:figs_abstractnouns]] and [[:en:ta:vol2:translate:figs_activepassive]] and [[:en:ta:vol1:translate:figs_explicit]])
+  * **established** - made stable and strong. The word "house" is a metonym for the family that lives in the house, and the house being physically stable and strong is a metaphor for a family that lives in peace. (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol1:translate:figs_metaphor]])
+  * **By knowledge the rooms are filled** - The abstract noun "knowledge" can be translated as a verb. These words can be translated in active form. AT: "People need to know what is precious and pleasant if they are to fill their rooms" (See: [[:en:ta:vol2:translate:figs_abstractnouns]] and [[:en:ta:vol2:translate:figs_activepassive]] and [[:en:ta:vol1:translate:figs_explicit]])
  
 ===== Links: =====
 
@@ -66,6 +67,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2done p2example}}
 
 ~~NOCACHE~~
