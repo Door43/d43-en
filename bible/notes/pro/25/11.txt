@@ -51,9 +51,10 @@
 
 ===== translationNotes: =====
 
+  * **A word** - a message
+  * **is like apples** - The goodness of "a word spoken at the right time" is spoken of as if it were the physical beauty of "apples of gold in settings of silver. AT: "is beautiful, like apples" (See: [[:en:ta:vol1:translate:figs_simile]])
   * **listening ear** - "person who is willing to listen" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
-  * **Speaking a well-chosen word, is like patterns of gold** - These two things are being compared because they both are pleasant. (See: [[:en:ta:vol1:translate:figs_simile]])
-  * **Like a gold ring or jewelry ... is a wise rebuke** - These two things are being compared because they are both cherished and priceless. (See: [[:en:ta:vol1:translate:figs_simile]])
+  * **is like a gold ring** - The value and importance of "a wise rebuke" is spoken of as if it were like gold in ether 1) its money value or 2) its physical beauty. AT: "is valuable, like a gold ring" or "is beautiful, like a gold ring" (See: [[:en:ta:vol1:translate:figs_simile]])
 
 ===== Links: =====
 
@@ -68,6 +69,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2done p2example}}
 
 ~~NOCACHE~~
