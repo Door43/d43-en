@@ -43,11 +43,14 @@
   * [[:en:obe:other:neighbor]]
   * [[:en:obe:other:shame]]
   * [[:en:obe:kt:evil]]
+
 ===== translationNotes: =====
 
   * **your case** - "your disagreement"
-  * **do not disclose another's secret** - AT: "do not share your neighbor's secrets with other people"
-  * **or else the one who hears you will bring shame upon you** - AT: "for the person who hears you may cause you to be ashamed"
+  * **do not disclose another's secret** - "do not share your neighbor's secrets with other people"
+  * **and an evil report about you** - The words "evil report" are a metonym for "a report that you are an evil person." AT: "and he will bring an evil report about you" or "and he will tell others that you are an evil person" (See: [[:en:ta:vol2:translate:figs_ellipsis]] and [[:en:ta:vol2:translate:figs_metonymy]])
+  * **that cannot be silenced** - These words can be translated in active form. AT: "you will not be able to stop him from bringing the evil report" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+
 ===== Links: =====
 
   * [[:en:bible:notes:pro:00:intro]]
@@ -55,6 +58,6 @@
   * [[:en:bible:questions:comprehension:pro:25]]
 **[[:en:bible:notes:pro:25:07|<<]] | [[:en:bible:notes:pro:25:11|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2done}}
 
 ~~NOCACHE~~
