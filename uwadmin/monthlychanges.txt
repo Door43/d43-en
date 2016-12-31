@@ -345,6 +345,8 @@
 {{changes>ns=mer:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:mey:obs|mey OBS]]**
 {{changes>ns=mey:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
+**[[:mfm:obs|mfm OBS]]**
+{{changes>ns=mfm:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:mfv:obs|mfv OBS]]**
 {{changes>ns=mfv:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:mg:obs|mg OBS]]**
