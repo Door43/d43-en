@@ -14,7 +14,7 @@
 {{door43pages @:en:bible:notes -r -q="\*  \*\*" -exclude:home -exclude:00 -exclude:intro -simpleLineBreak -title -fontsize="90%"}}
 
 
-=== 3. Extra spaces before or after ULB snippet: ===
+=== 3. Spaces before or after ULB snippet: ===
 
 ^  Before  ^  After  ^ 
 |{{door43pages @:en:bible:notes -r -q="\* \*\* " -exclude:home -exclude:00 -exclude:intro -simpleLineBreak -title -fontsize="90%"}}  |{{door43pages @:en:bible:notes -r -q=" \*\* \-" -exclude:home -exclude:00 -exclude:intro -simpleLineBreak -title -fontsize="90%"}}  |
