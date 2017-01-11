@@ -34,6 +34,8 @@ Please refer to the links on this page for a quick summary of the format and con
 
 **[[:en:phase1:team-info:training:quick-reference:figures:litotes|Litotes]]** - Litotes is a strong statement made by negative phrases to strengthen a positive meaning (e.g. "You won't be disappointed" means "You will like it").
 
+**[[en:phase1:team-info:training:quick-reference:figures:merism|Merism]]** - Merism is a figure of speech in which a person refers to something by speaking of two extreme parts of it. By referring to the extreme parts, the speaker intends to include also everything in between those parts.  PAGE UNDER CONSTRUCTION
+
 **[[:en:phase1:team-info:training:quick-reference:figures:metaphor|Metaphor]]** - A metaphor is a figure of speech in which words for one thing or action are applied to something else in order to imply that there is something that the two things have in common. Like simile, this involves a comparison, but the words 'like' and 'as' are not used to show it.
 
 **[[:en:phase1:team-info:training:quick-reference:figures:metonymy|Metonymy]]** - Metonymy is a figure of speech in which a thing or idea is called not by its own name, but by the name of something closely associated with it. A metonym is a word or phrase used as a substitute for something it is associated with.
@@ -49,7 +51,6 @@ We are writing notes for parallelism only when the two parts mean basically the 
 In a simile something is compared to something else of a different kind in order to focus on a particular trait that they have in common. The fact that there is a comparison is stated clearly with 'like' or 'as'.
 
 **[[:en:phase1:team-info:training:quick-reference:figures:synecdoche|Synecdoche]]** - Synecdoche is a figure of speech in which 1) the name of a part of something is used to refer to the whole thing, or 2) the name of a whole thing is used to refer to just one part of it.
-
 ==== Standard Notes - General ====
 
 {{door43pages @:en:phase1:team-info:training:quick-reference:standard-notes -r -q="\{\{tag>[^}]*publish[^}]*\}\}" -exclude:home -simpleLineBreak -title}}
