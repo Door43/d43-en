@@ -37,10 +37,8 @@
 
 ===== translationNotes: =====
 
-  * **Jarmuth** - This is the name of a town. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **Lachish** - This is the name of a city.  (See: [[:en:ta:vol1:translate:translate_names]]) 
-  * **Eglon** - This is the name of a town.  (See: [[:en:ta:vol1:translate:translate_names]]) 
-===== Links: =====
+  * **five kings** - 5 kings. (See: [[:en:ta:vol2:translate:translate_numbers]])
+  * **Jarmuth ... Lachish ... Eglon** - These are the names of cities. (See: [[:en:ta:vol1:translate:translate_names]])
 
   * [[:en:bible:notes:jos:00:intro]]
   * [[:en:bible:notes:jos:10:00]]
@@ -53,6 +51,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2pass}}
+{{tag>publish p2review}}
 
 ~~NOCACHE~~
