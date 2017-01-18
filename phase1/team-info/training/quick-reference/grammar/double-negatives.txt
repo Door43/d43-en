@@ -3,7 +3,7 @@
 
 ===== Description =====
 
-UNDER CONSTRUCTION.
+**UNDER CONSTRUCTION.**
 
 In some languages people use more than one negative in a phrase simply to express the negative. For example in Brazilian Portuguese "Eu não vi ninguém" has both the word não which means "not" and ninguém, which means "no one." It simply means "I did not see anyone." And in some varieties of English people say  "I didn't see nobody" to mean "I did not see anybody." 
 
@@ -11,7 +11,9 @@ Sometimes people use a double negative simply to express that a negative idea is
 
 Sometimes people use a double negative to emphasize that the opposite is very true. For example, "It is not unlikely" could mean "It is very likely."  
 
-And sometimes people use a double negative to emphasize in an ironic way that the opposite is true.  "She was not unattractive" could mean "She was very attractive." In this case, it is also a figure of speech called Litotes.
+And sometimes people use a double negative to emphasize in an ironic way that the opposite is true.  "She was __not__ __un__attractive" could mean "She was very attractive." In this case, it is also a figure of speech called Litotes.
+
+**Question:** The following are obviously negatives: no, not, none, no one, nothing, never, nowhere. Do we want to include prefixes and suffixes such as non-, un- and -less as negatives? Or are they simply opposites of the words without them? Some prefixes may seem to be negative, but "Do not __dis__assemble it" is not a double negative that means "Assemble it."
 
 (Translation Academy: [[:en:ta:vol2:translate:figs_doublenegatives]])
 ===== Template =====
