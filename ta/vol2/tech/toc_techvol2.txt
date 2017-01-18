@@ -2,7 +2,7 @@
 
 
 ==== translationStudio-Desktop Version 10 ====
-
+Wendy Speakman
   - [[en:ta:vol2:tech:tsd_intro]]
   - [[en:ta:vol2:tech:tsd_install]]
   - [[en:ta:vol2:tech:tsd_login]]
@@ -11,6 +11,8 @@
   - [[en:ta:vol2:tech:tsd_translate]]
   - [[en:ta:vol2:tech:tsd_select]]
   - [[en:ta:vol2:tech:tsd_request]]
+
+
   - [[en:ta:vol2:tech:tsd_create]]
   - [[en:ta:vol2:tech:tsd_projects]]
   - The Three-Dot Menu Items
