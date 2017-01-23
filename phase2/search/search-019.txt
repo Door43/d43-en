@@ -6,6 +6,6 @@ The script on this page searches for a string of text anywhere in the notes, the
 
 //Note: Special characters and symbols must be preceded by a backslash "\".//
 
-==== Search results within p2check, p2pass, p2review, and p2done chunks: ====
+==== Search results within p2check, p2pass, and chunks: ====
 
 {{door43pages @en:bible:notes -r -q="( hyperbole )((?=[^}]*p2check)|(?=[^}]*p2pass)|(?=[^}]*p2review))" -exclude:home -exclude:00 -exclude:intro -simpleLineBreak -title -fontsize="90%"}}  
