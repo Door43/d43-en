@@ -170,12 +170,45 @@ Sometimes we need notes for a phrase or sentence and separate notes for portions
 
 === Repeated Phrases in a Book ===
 
-Sometimes a phrase is used multiple times in a book. We can make it easier for the translators by reminding them of where they have already translated that phrase so they can now translate it the same way. We point them back to notes only in the book they are working on.
+Sometimes a phrase is used multiple times in a book. We can make it easier for the translators by reminding them of where they have already translated that phrase so they can now translate it the same way. When we find a repeated phrase or word, we search the ULB for the first occurrence of that phrase or word **within the same book.** We do not add links to other books of the Bible. 
 
-  * **be fruitful and multiply** - See how you translated these commands in [[:en:bible:notes:gen:01:28|1:28]].
-  * **everything that creeps along the ground** - This includes all types of small animals. See how you translated this in [[:en:bible:notes:gen:01:24|1:25]].
-  * **will be blessed in him** - AT: "will be blessed because of Abraham" or "will be blessed because I have blessed Abraham" 
-  * **in him** - See how you translated this in [[:en:bible:notes:gen:12:01|12:3]].
+However, our goal is to avoid a note that only points back to the first occurrence of the phrase or word. We want to make the note as complete as possible, which means including explanations, alternate translations, and links that are in the note for the first occurrence of the phrase or word.
+
+**Gen 9:7 (ULB)
+
+"As for you, be fruitful and multiply, spread throughout the earth and multiply on it."
+
+The phrase "be fruitful and multiply" is a repeated phrase. It first occurs in Gen 1:28 (ULB). The note from Gen 1:28 should be placed in Gen 9:7 (modified to fit the current context if needed), and then we point the translators back to the original note by stating "See how you translated this in xx:yy." All translation academy links are placed at the end.
+
+  * **be fruitful and multiply** - This is God's blessing. He told Noah and his family to produce more humans like themselves, so that there would be many of them. The word "multiply" explains how they are to be "fruitful." See how you translated this in [[:en:bible:notes:gen:01:28|1:28]]. (See: [[:en:ta:vol2:translate:figs_doublet]] and [[:en:ta:vol1:translate:figs_idiom]])
+
+If there are alternate translations in the original note, the should be placed just before the academy links in the current note.
+
+**Lev 19:8 (ULB)**
+
+"but everyone who eats it must carry his own guilt because he has dishonored what was holy to Yahweh. That person must be cut off from his people."
+
+  * **That person must be cut off from his people** - A person being excluded from his community is spoken of as if he had been cut off from his people, as one would cut a piece of cloth or cut a branch from a tree. This can be translated in active form. See how you translated this in [[:en:bible:notes:lev:07:19|7:20]]. AT: "that person may no longer live among his people" or "you must separate that person from his people" (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_activepassive]])
+
+Sometimes a phrase may not match the first occurrence exactly, but it may still help for translator to refer to it when translating the phrase in the current context. We alert the translator that the phrase is only similar by stating "See how you translated a similar phrase in xx:yy."
+
+**Num 23:12 (ULB)
+
+"Balaam answered and said, 'Should I not be careful to say only what Yahweh puts in my mouth?'"
+
+Here it says "to say only what Yahweh puts in my mouth." But, in Num 22:38 it says "say the words that God puts into my mouth." We alert the translator that the phrase is only similar.
+
+  * **to say only what Yahweh puts in my mouth** - The message is spoken of as if it is something that God put into his mouth. See how you translated a similar phrase in [[:en:bible:notes:num:22:38|22:38]]. AT: "to say only what Yahweh wants me to say" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+
+Occasionally, when you search for the first occurrence of a repeated phrase or word, you will find that there is no note on the chunk. In these cases, instead of saying "See how you translated this in" reword it to something like "Translate this as you did in." (The reason for the rewording is simply to aid reviewers and administrators when they do global searches in the ULB for certain phrases.)
+
+**Isa 28:29 (ULB)**
+
+"This too comes from Yahweh of hosts"
+
+The title "Yahweh of hosts" is repeated throughout Isaiah. The first occurrence is in Isa 1:9, but there is no note since the title is in the translation word list. So, the note on Isa 28:29 looks like this:
+
+  * **Yahweh of hosts** - Translate this as you did in [[:en:bible:notes:isa:01:09|1:9]].
 
 === Connecting Statement & General Information ===
 
