@@ -174,7 +174,7 @@ Sometimes a phrase is used multiple times in a book. We can make it easier for t
 
 However, our goal is to avoid a note that only points back to the first occurrence of the phrase or word. We want to make the note as complete as possible, which means including explanations, alternate translations, and links that are in the note for the first occurrence of the phrase or word.
 
-**Gen 9:7 (ULB)
+**Gen 9:7 (ULB)**
 
 "As for you, be fruitful and multiply, spread throughout the earth and multiply on it."
 
@@ -192,7 +192,7 @@ If there are alternate translations in the original note, the should be placed j
 
 Sometimes a phrase may not match the first occurrence exactly, but it may still help for translator to refer to it when translating the phrase in the current context. We alert the translator that the phrase is only similar by stating "See how you translated a similar phrase in xx:yy."
 
-**Num 23:12 (ULB)
+**Num 23:12 (ULB)**
 
 "Balaam answered and said, 'Should I not be careful to say only what Yahweh puts in my mouth?'"
 
