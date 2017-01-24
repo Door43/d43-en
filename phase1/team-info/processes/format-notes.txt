@@ -170,9 +170,11 @@ Sometimes we need notes for a phrase or sentence and separate notes for portions
 
 === Repeated Phrases in a Book ===
 
-Sometimes a phrase is used multiple times in a book. We can make it easier for the translators by reminding them of where they have already translated that phrase so they can now translate it the same way. When we find a repeated phrase or word, we search the ULB for the first occurrence of that phrase or word **within the same book.** We do not add links to other books of the Bible. 
+Sometimes a phrase is used multiple times in a book. We can make it easier for the translators by reminding them of where they have already translated that phrase so they can now translate it the same way. 
 
-However, our goal is to avoid a note that only points back to the first occurrence of the phrase or word. We want to make the note as complete as possible, which means including explanations, alternate translations, and links that are in the note for the first occurrence of the phrase or word.
+When we find a repeated phrase or word, we search the ULB for the first occurrence of that phrase or word within the same book. We **do not** add links to other books of the Bible. 
+
+Our goal is to avoid a note that only points back to the first occurrence of the phrase or word. We want to make the note as complete as possible, which means including explanations, alternate translations, and links that are in the note for the first occurrence of the phrase or word.
 
 **Gen 9:7 (ULB)**
 
@@ -182,7 +184,7 @@ The phrase "be fruitful and multiply" is a repeated phrase. It first occurs in G
 
   * **be fruitful and multiply** - This is God's blessing. He told Noah and his family to produce more humans like themselves, so that there would be many of them. The word "multiply" explains how they are to be "fruitful." See how you translated this in [[:en:bible:notes:gen:01:28|1:28]]. (See: [[:en:ta:vol2:translate:figs_doublet]] and [[:en:ta:vol1:translate:figs_idiom]])
 
-If there are alternate translations in the original note, the should be placed just before the academy links in the current note.
+If there are alternate translations in the original note, they should be placed just before the academy links in the current note.
 
 **Lev 19:8 (ULB)**
 
@@ -190,7 +192,7 @@ If there are alternate translations in the original note, the should be placed j
 
   * **That person must be cut off from his people** - A person being excluded from his community is spoken of as if he had been cut off from his people, as one would cut a piece of cloth or cut a branch from a tree. This can be translated in active form. See how you translated this in [[:en:bible:notes:lev:07:19|7:20]]. AT: "that person may no longer live among his people" or "you must separate that person from his people" (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_activepassive]])
 
-Sometimes a phrase may not match the first occurrence exactly, but it may still help for translator to refer to it when translating the phrase in the current context. We alert the translator that the phrase is only similar by stating "See how you translated a similar phrase in xx:yy."
+Sometimes a phrase may not match the first occurrence exactly, but it may still help the translator to refer to it when translating the phrase in the current context. We alert the translator that the phrase is only similar by stating "See how you translated a similar phrase in xx:yy."
 
 **Num 23:12 (ULB)**
 
@@ -200,7 +202,7 @@ Here it says "to say only what Yahweh puts in my mouth." But, in Num 22:38 it sa
 
   * **to say only what Yahweh puts in my mouth** - The message is spoken of as if it is something that God put into his mouth. See how you translated a similar phrase in [[:en:bible:notes:num:22:38|22:38]]. AT: "to say only what Yahweh wants me to say" (See: [[:en:ta:vol1:translate:figs_metaphor]])
 
-Occasionally, when you search for the first occurrence of a repeated phrase or word, you will find that there is no note on the chunk. In these cases, instead of saying "See how you translated this in" reword it to something like "Translate this as you did in." (The reason for the rewording is simply to aid reviewers and administrators when they do global searches in the ULB for certain phrases.)
+Occasionally, when you search for the first occurrence of a repeated phrase or word, you will find that there is no note on the chunk. In these cases, instead of saying "See how you translated this in," reword it to something like "Translate this as you did in." (The reason for the rewording is simply to aid reviewers and administrators when they do global searches in the ULB for certain phrases.)
 
 **Isa 28:29 (ULB)**
 
