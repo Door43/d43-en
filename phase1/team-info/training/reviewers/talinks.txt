@@ -204,11 +204,11 @@ This is for when the text refers to a particular month of the year, such as "the
 (See: [[:en:ta:vol1:translate:figs_idiom]])
 </code>
 
-[[en:ta:vol2:translate:figs_imperative]]\\
+[[:en:ta:vol2:translate:figs_imperative]]\\
 This is for imperatives that are used as conditions or to make things happen, such as "Be healed" to "Cursed be the ground."
 
 <code>
-(See: [[en:ta:vol2:translate:figs_imperative]])
+(See: [[:en:ta:vol2:translate:figs_imperative]])
 </code>
 
 [[:en:ta:vol2:translate:figs_inclusive]] \\
@@ -400,11 +400,11 @@ Use occasionally. (Do not link to the related page  called "Son of God.")
 (See: [[:en:ta:vol2:translate:guidelines_sonofgodprinciples]])
 </code>
 
-[[en:ta:vol2:translate:figs_declarative]] \\
+[[:en:ta:vol2:translate:figs_declarative]] \\
 This is for statements that are used as commands, requests, or to make something happen, such as a blessing, curse, or pronouncement like "Your sins are forgiven" or (non-biblical) "I now pronounce you man and wife."
 
 <code>
-(See: [[en:ta:vol2:translate:figs_declarative]])
+(See: [[:en:ta:vol2:translate:figs_declarative]])
 </code>
 
 [[:en:ta:vol2:translate:translate_symaction]]
