@@ -39,8 +39,8 @@
 ===== translationNotes: =====
 
   * **Nehushta ... Elnathan** - Nehushta is the name of a woman. Elnathan is the name of a man. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **what was evil in the sight of Yahweh** - "Jehoiachin did what Yahweh said was evil" (See: [[:en:ta:vol2:translate:figs_metonymy]])
   * **evil in the sight of Yahweh** - The nominal adjective "evil" can be translated as a relative clause. Here Yahweh's "sight" refers to what he thinks. AT: "things that Yahweh said were evil" or "the things that Yahweh considers evil" Translate as in [[:en:bible:notes:2ki:03:01|3:2]]. (See: [[:en:ta:vol2:translate:figs_nominaladj]] and [[:en:ta:vol2:translate:figs_metonymy]]) 
+  * **he did all that his father had done** - This is a generalization. AT: "he committed the same kinds of sins his father had committed" (See: [[:en:ta:vol2:translate:figs_hyperbole]])
   
 ===== Links: =====
 
@@ -55,6 +55,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2check}}
 
 ~~NOCACHE~~
