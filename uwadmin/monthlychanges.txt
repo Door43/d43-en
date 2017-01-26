@@ -237,6 +237,8 @@
 {{changes>ns=iru:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:it:obs|it OBS]]**
 {{changes>ns=it:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
+**[[:itz:obs|itz OBS]]**
+{{changes>ns=itz:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:ja:obs|ja OBS]]**
 {{changes>ns=ja:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:jit:obs|jit OBS]]**
