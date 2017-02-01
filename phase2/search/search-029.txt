@@ -1,4 +1,4 @@
-====== Search 029: "See how you translated" in Ezra & Isaiah ======
+====== Search 029: "See how you translated" in Esther & Isaiah ======
 
 ~~NOCACHE~~
 
@@ -11,7 +11,7 @@ This page finds "See how you translated ... " statements that immediately follow
 ==== Search results: ====
 
 ^  p2edit  ^  p2check  ^
-|{{door43pages @:en:bible:notes:ezr -r -q="( \- See how you translated)(?=[^}]*p2edit)" -exclude:home -exclude:00 -exclude:intro -simpleLineBreak -title -fontsize="90%"}}  |{{door43pages @:en:bible:notes:num -r -q="( \- See how you translated)(?=[^}]*p2check)" -exclude:home -exclude:00 -exclude:intro -simpleLineBreak -title -fontsize="90%"}}  |
+|{{door43pages @:en:bible:notes:est -r -q="( \- See how you translated)(?=[^}]*p2edit)" -exclude:home -exclude:00 -exclude:intro -simpleLineBreak -title -fontsize="90%"}}  |{{door43pages @:en:bible:notes:num -r -q="( \- See how you translated)(?=[^}]*p2check)" -exclude:home -exclude:00 -exclude:intro -simpleLineBreak -title -fontsize="90%"}}  |
 
 
 ^  p2edit  ^  p2check  ^
