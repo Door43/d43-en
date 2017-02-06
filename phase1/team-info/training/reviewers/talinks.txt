@@ -271,7 +271,8 @@ Use this link for ironic language, not for ironic situations.
 (See: [[:en:ta:vol2:translate:figs_nominaladj]])
 </code>
 
-[[:en:ta:vol2:translate:translate_numbers]]
+[[:en:ta:vol2:translate:translate_numbers]]\\
+There are also pages that deals specifically with fractions and ordinal numbers.
 
 <code>
 (See: [[:en:ta:vol2:translate:translate_numbers]])
@@ -425,7 +426,8 @@ This is for statements that are used as commands, requests, or to make something
 (See: [[:en:ta:vol2:translate:figs_synecdoche]])
 </code>
 
-[[:en:ta:vol2:translate:translate_textvariants]]
+[[:en:ta:vol2:translate:translate_textvariants]] \\ 
+This is useful for when there are variations in the ancient manuscripts, especially when there is a footnote in the ULB about it.
 
 <code>
 (See: [[:en:ta:vol2:translate:translate_textvariants]])
@@ -437,24 +439,11 @@ This is for statements that are used as commands, requests, or to make something
 (See: [[:en:ta:vol1:translate:translate_names]])
 </code>
 
-[[:en:ta:vol2:translate:translate_numbers]]
-There are also pages that deals specifically with fractions and ordinal numbers.
-
-<code>
-(See: [[:en:ta:vol2:translate:translate_numbers]])
-</code>
 
 [[:en:ta:vol1:translate:translate_unknown]]
 
 <code>
 (See: [[:en:ta:vol1:translate:translate_unknown]])
-</code>
-
-[[:en:ta:vol2:translate:translate_textvariants]]\\
-This is useful for when there are variations in the ancient manuscripts, especially when there is a footnote in the ULB about it.
-
-<code>
-(See: [[:en:ta:vol2:translate:translate_textvariants]])
 </code>
 
 [[:en:ta:vol2:translate:translate_versebridge]]
