@@ -37,7 +37,9 @@
 ===== translationNotes: =====
 
   * **Susa** - Translate as in [[:en:bible:notes:est:01:01|1:2]]. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **three days** - "3 days" (See: [[:en:ta:vol2:translate:translate_numbers]])
+  * **fast for me ... will fast** - Fasting was a symbolic act that the Jews did when they were praying intensely. This can be made explicit. AT: "fast and pray for me ... will fast and pray" (See: [[:en:ta:vol2:translate:translate_symaction]])
+  * **three days** - "3 days" (See: [[:en:ta:vol2:translate:translate_numbers]] and [[:en:ta:vol1:translate:figs_explicit]])
+
 
 ===== Links: =====
 
@@ -46,6 +48,6 @@
   * [[:en:bible:questions:comprehension:est:04]]
 **[[:en:bible:notes:est:04:13|<<]] | [[:en:bible:notes:est:05:01|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~
