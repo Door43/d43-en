@@ -415,6 +415,9 @@
 **[[:kiu:obs|kiu OBS]]**
 {{changes>ns=kiu:obs&maxage=604800&render=pagelist(header,date,user,nocomments)}}
 
+**[[:kjg:obs|kjg OBS]]**
+{{changes>ns=kjg:obs&maxage=604800&render=pagelist(header,date,user,nocomments)}}
+
 **[[:kkl:obs|kkl OBS]]**
 {{changes>ns=kkl:obs&maxage=604800&render=pagelist(header,date,user,nocomments)}}
 
