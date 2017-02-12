@@ -217,6 +217,9 @@
 **[[:dz:obs|dz OBS]]**
 {{changes>ns=dz:obs&maxage=604800&render=pagelist(header,date,user,nocomments)}}
 
+**[[:el:obs|el OBS]]**
+{{changes>ns=el:obs&maxage=604800&render=pagelist(header,date,user,nocomments)}}
+
 **[[:ema-x-ora:obs|ema-x-ora OBS]]**
 {{changes>ns=ema-x-ora:obs&maxage=604800&render=pagelist(header,date,user,nocomments)}}
 

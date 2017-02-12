@@ -145,6 +145,8 @@
 {{changes>ns=dyo:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:dz:obs|dz OBS]]**
 {{changes>ns=dz:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
+**[[:el:obs|el OBS]]**
+{{changes>ns=el:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:ema-x-ora:obs|ema-x-ora OBS]]**
 {{changes>ns=ema-x-ora:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:en:obs|en OBS]]**
