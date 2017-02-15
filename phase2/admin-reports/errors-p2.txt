@@ -4,18 +4,18 @@ This page lists scripts that check for errors in Phase 2 notes.
 
 === Verify published chunks ===
 
-  * [[:en:phase1:admin-reports:verify-published-number|Verify Published Number of Chunks]]
+  * [[:en:phase1:admin-reports:verify-published-number]]
 
 === AT's ===
 
-  * [[:en:phase2:search:search-007|Search 007: AT's w/o explanation]]
-  * [[:en:phase2:search:search-005|Search 005: AT's with final periods]]
-  * [[:en:phase2:search:search-025|Search 025: Notes following TA links]]
+  * [[:en:phase2:search:search-007]]
+  * [[:en:phase2:search:search-005]]
+  * [[:en:phase2:search:search-025]]
 
 === "See how you translated ... " links without notes from original chunk ===
 
-  * [[:en:phase2:search:search-028|Search 028: "See you translated ... " without notes]]
+  * [[:en:phase2:search:search-028]]
 
 === Format errors ===
 
-  * [[:en:phase2:search:search-026|Search 026: Format Errors]]
+  * [[:en:phase2:search:search-026]]
