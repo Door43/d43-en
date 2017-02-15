@@ -12,7 +12,7 @@
 ==== Issues to watch: ====
 
 ^  My "p2edit"  ^  My "p2check"  ^  My "p2review"  ^  
-|{{door43pages @en:bible:notes:est:03 @en:bible:notes:job:21 @en:bible:notes:job:22 @en:bible:notes:job:23 @en:bible:notes:job:24 @en:bible:notes:job:25 -r -q="\{\{tag>[^}]*p2edit[^}]*\}\}" -exclude:home -exclude:00 -exclude:intro -simpleLineBreak -title -fontsize="80%"}} |{{door43pages @en:bible:notes:job:21 @en:bible:notes:job:22 @en:bible:notes:job:23 @en:bible:notes:job:24 @en:bible:notes:job:25 -r -q="\{\{tag>[^}]*p2check[^}]*\}\}" -exclude:home -exclude:00 -exclude:intro -simpleLineBreak -title -fontsize="80%"}} |{{door43pages @en:bible:notes:job:21 @en:bible:notes:job:22 @en:bible:notes:job:23 @en:bible:notes:job:24 @en:bible:notes:job:25 -r -q="\{\{tag>[^}]*p2review[^}]*\}\}" -exclude:home -exclude:00 -exclude:intro -simpleLineBreak -title -fontsize="80%"}} |
+|{{door43pages @en:bible:notes:job:23 @en:bible:notes:job:24 @en:bible:notes:job:39 -r -q="\{\{tag>[^}]*p2edit[^}]*\}\}" -exclude:home -exclude:00 -exclude:intro -simpleLineBreak -title -fontsize="80%"}} |{{door43pages @en:bible:notes:job:23 @en:bible:notes:job:24 @en:bible:notes:job:39 -r -q="\{\{tag>[^}]*p2check[^}]*\}\}" -exclude:home -exclude:00 -exclude:intro -simpleLineBreak -title -fontsize="80%"}} |{{door43pages @en:bible:notes:job:23 @en:bible:notes:job:24 @en:bible:notes:job:39 -r -q="\{\{tag>[^}]*p2review[^}]*\}\}" -exclude:home -exclude:00 -exclude:intro -simpleLineBreak -title -fontsize="80%"}} |
 
 
 \\
