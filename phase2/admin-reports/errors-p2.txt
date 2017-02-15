@@ -2,10 +2,6 @@
 
 This page lists scripts that check for errors in Phase 2 notes.
 
-=== p2fix ===
-
-  * [[:en:phase2:search:home|search]]
-
 === Verify published chunks ===
 
   * [[:en:phase1:admin-reports:verify-published-number|Verify Published Number of Chunks]]
