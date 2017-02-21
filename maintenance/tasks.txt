@@ -16,4 +16,5 @@ This list may get long. It may make it easier to see what is here if we list the
 
   * Correct ULB / Snippet mismatches
   * Check TN format errors at https://door43.org/en/phase2/admin-reports/errors-p2
-  * 
+  * Check TN format error: Notes missing hyphen
+  * Check TN format error:  Poorly formatted verse references. (If any should not be a link, make sure they are formatted well.)
