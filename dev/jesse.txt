@@ -1,9 +1,7 @@
-Door43 is an online repository for open-licensed Biblical content in any language. Contributors from all over the world use this site to work together to create, translate, and distribute unrestricted discipleship resources.
 
-This DokuWiki site will soon be deprecated.
-
-
-Click Here to go to the Door43 Content Service, which is where content is stored and accessed.
+**Notice**: This DokuWiki website will soon be deprecated and only available at https://dw.door43.org.
 
 
-The new live publishing site is being built here: https://live.door43.org .
+Translation content is now managed in the Door43 Content Service at https://git.door43.org.
+
+The https://door43.org domain will soon be redirected to a "live publishing" site that automatically displays the content uploaded to the Door43 Content Service.
