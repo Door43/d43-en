@@ -65,8 +65,9 @@ In a simile something is compared to something else of a different kind in order
 
 ==== Standard Notes - Books ====
 
-{{door43pages @:en:phase1:team-info:training:standard-book-notes -r -q="\{\{tag>[^}]*publish[^}]*\}\}" -exclude:home -simpleLineBreak -title}}
+Note: Some of these standard notes may have changed during Phase 2.
 
+{{door43pages @:en:phase1:team-info:training:standard-book-notes -r -q="\{\{tag>[^}]*publish[^}]*\}\}" -exclude:home -simpleLineBreak -title}}
 ===== Taken from the en/obe/home page =====
 ==== Does a term need to be in either of these lists? ====
 
