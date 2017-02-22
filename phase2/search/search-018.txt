@@ -1,4 +1,4 @@
-====== Search 018: ======
+====== Search 018: Verse References in Parentheses ======
 
 ~~NOCACHE~~
 
@@ -9,5 +9,5 @@ The script on this page searches for a string of text anywhere in the notes, the
 
 search results:
 
-
-{{door43pages @:en:bible:notes: -r -q="Bildad" -exclude:home -simpleLineBreak -title -fontsize="90%"}}
+^  With "See:"  ^  Without "See:"  ^ 
+|{{door43pages @en:bible:notes -r -q="\(See\: \[\[\:en:bible:notes" -exclude:home -exclude:00 -exclude:intro -simpleLineBreak -title -fontsize="90%"}}  |{{door43pages @en:bible:notes -r -q="\(\[\[\:en:bible:notes" -exclude:home -exclude:00 -exclude:intro -simpleLineBreak -title -fontsize="90%"}}  |
