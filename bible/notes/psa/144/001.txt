@@ -28,7 +28,7 @@
 \q2 he protects me as shields protect soldiers,
 \q2 and he gives me refuge.
 \q1 He defeats other nations and then puts them under my power.
-\b
+
 
 
 \q1
@@ -38,9 +38,8 @@
 
 <usfm>
 \c 144
-\p
+\m
 \d A psalm of David.
-\b
 \q
 \v 1 Blessed be Yahweh, my rock,
 \q who trains my hands for war

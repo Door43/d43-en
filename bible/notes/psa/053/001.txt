@@ -26,7 +26,6 @@
 \v 1 Only foolish people say to themselves, "There is no God!"
 \q1 People who say that are corrupt; they commit terrible sins;
 \q2 there is not one of them who does what is good.
-\b
 \q1
 \v 2 God looks down from heaven and sees humans;
 \q1 he looks to see if any man is very wise
@@ -34,7 +33,7 @@
 \q1
 \v 3 But everyone has turned away from God. They are depraved and do disgusting, filthy things.
 \q2 No one does what is good.
-\b
+
 
 
 \q1
@@ -45,9 +44,8 @@
 
 <usfm>
 \c 53
-\p
+\m
 \d For the chief musician; set to Mahalath. A maschil of David.
-\b
 \q
 \v 1 A fool says in his heart, "There is no God."
 \q They are corrupt and have done abominable iniquity;

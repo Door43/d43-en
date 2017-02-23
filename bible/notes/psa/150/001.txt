@@ -17,7 +17,6 @@
 
 <usfm>
 \v 1 Praise Yahweh!
-\b
 \q1 Praise God in his temple!
 \q2 Praise him who is in his fortress in heaven!
 \q1
@@ -32,7 +31,7 @@
 
 <usfm>
 \c 150
-\b
+\m
 \q
 \v 1 Praise Yahweh.
 \q Praise God in his holy place;
