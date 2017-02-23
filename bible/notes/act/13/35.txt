@@ -28,10 +28,12 @@
 ===== ULB: =====
 
 <usfm>
+\p
 \v 35 This is why he also says in another Psalm,
 \q 'You will not allow your Holy One to see decay.'
-\v 36 For after David had in his own generation served the desires of God, he fell asleep, was laid with his fathers, and saw decay,
-\v 37 but he whom God raised up saw no decay.
+\m
+\v 36 For when David had served the desires of God in his own generation, he fell asleep; he was laid with his fathers and his body experienced decay.
+\v 37 But he whom God raised up experienced no decay.
 </usfm>
 
 
