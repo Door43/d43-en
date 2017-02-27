@@ -15,4 +15,4 @@ This page finds "See how you translated ... " statements that immediately follow
 
 
 ^  p2edit  ^  p2check  ^
-|{{door43pages @:en:bible:notes:isa -r -q="( \- See how you translated)(?=[^}]*p2edit)" -exclude:home -exclude:00 -exclude:intro -simpleLineBreak -title -fontsize="90%"}}  |{{door43pages @:en:bible:notes:num -r -q="( \- See how you translated)(?=[^}]*p2check)" -exclude:home -exclude:00 -exclude:intro -simpleLineBreak -title -fontsize="90%"}}  |
+|{{door43pages @:en:bible:notes:ezk -r -q="( \- See how you translated)(?=[^}]*p2edit)" -exclude:home -exclude:00 -exclude:intro -simpleLineBreak -title -fontsize="90%"}}  |{{door43pages @:en:bible:notes:num -r -q="( \- See how you translated)(?=[^}]*p2check)" -exclude:home -exclude:00 -exclude:intro -simpleLineBreak -title -fontsize="90%"}}  |
