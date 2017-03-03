@@ -41,7 +41,9 @@
 
 ===== translationNotes: =====
 
+  * **boundary** - the end of an area of land
   * **Hethlon ... Zedad ... Berothah ... Sibraim ... Hazer Hatticon ... Hauran ... Hazar Enon** - names of towns (See: [[:en:ta:vol1:translate:translate_names]])
+  * **border** - where two areas of land meet
 
 ===== Links: =====
 
@@ -50,6 +52,6 @@
   * [[:en:bible:questions:comprehension:ezk:47]]
 **[[:en:bible:notes:ezk:47:13|<<]] | [[:en:bible:notes:ezk:47:18|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit hamath mediterranean}}
+~~DISCUSSION~~{{tag>publish p2check hamath mediterranean}}
 
 ~~NOCACHE~~
