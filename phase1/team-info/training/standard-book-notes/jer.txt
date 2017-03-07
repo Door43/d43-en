@@ -6,39 +6,39 @@ When a standard note includes brackets (see examples below), replace the bracket
 
 ==== Put this note on the first chunk of each chapter.====
 
-See: [[:en:ta:workbench:translate:poetry]] and [[:en:ta:vol2:translate:figs_parallelism]] \\ 
+See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]] \\ 
 (Please add a talink tag on the chunk. The tA team will put in the link to "Translating Poetry" once that page is completed.)
 
 <code>
-See: [[:en:ta:workbench:translate:poetry]] and [[:en:ta:vol2:translate:figs_parallelism]]
+See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]]
 </code>
 
 ==== Other Notes: ==== 
 
-**This is Yahweh's declaration** - See how you translated this in [[:en:bible:notes:jer:01:07|01:8]].
+**This is Yahweh's declaration** - Translate this as in [[:en:bible:notes:jer:01:07|01:8]].
 
 <code>
-  * **This is Yahweh's declaration** - See how you translated this in [[:en:bible:notes:jer:01:07|1:8]].
+  * **This is Yahweh's declaration** - Translate this as in [[:en:bible:notes:jer:01:07|1:8]].
 </code>
 
 
-**the word of Yahweh came to** - AT: "Yahweh spoke his word to" (See: [[:en:ta:vol1:translate:figs_idiom]])
+**the word of Yahweh came to** - This is an idiom that is used to introduce something that God told his prophets or his people. AT: "Yahweh spoke his message to" (See: [[:en:ta:vol1:translate:figs_idiom]])
 
 <code>
-  * **the word of Yahweh came to** - AT: "Yahweh spoke his word to" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **the word of Yahweh came to** - This is an idiom that is used to introduce something that God told his prophets or his people. AT: "Yahweh spoke his message to" (See: [[:en:ta:vol1:translate:figs_idiom]])
 </code>
 
-**the word of Yahweh came to** - See how you translated this in [[:en:bible:notes:jer:01:01|1:2]].
+**the word of Yahweh came to** - Translate this as in [[:en:bible:notes:jer:01:01|1:2]].
 
 <code>
-  * **the word of Yahweh came to** - See how you translated this in [[:en:bible:notes:jer:01:01|1:2]].
+  * **the word of Yahweh came to** - Translate this as in [[:en:bible:notes:jer:01:01|1:2]].
 </code>
 
 
-**house of Jacob** - See how you translated this in [[:en:bible:notes:jer:02:04|2:4]].
+**house of Jacob** - Translate this as in [[:en:bible:notes:jer:02:04|2:4]].
 
 <code>
-  * **house of Jacob** - See how you translated this in [[:en:bible:notes:jer:02:04|2:4]].
+  * **house of Jacob** - Translate this as in [[:en:bible:notes:jer:02:04|2:4]].
 </code>
 
 
@@ -47,6 +47,35 @@ See: [[:en:ta:workbench:translate:poetry]] and [[:en:ta:vol2:translate:figs_para
 <code>
   * **text** - note
 </code>
+
+
+**text** - note
+
+<code>
+  * **text** - note
+</code>
+
+
+**text** - note
+
+<code>
+  * **text** - note
+</code>
+
+
+**text** - note
+
+<code>
+  * **text** - note
+</code>
+
+
+**text** - note
+
+<code>
+  * **text** - note
+</code>
+
 
 
 
