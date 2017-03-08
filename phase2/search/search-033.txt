@@ -6,11 +6,13 @@ The script on this page searches for a string of text __only__ in the book and c
 
 === Modify the search: ===
 
-To search a particular book, change "isa" in the second clause to the code for that book.
+To modify the search, open in edit view and change the appropriate term:
 
-To search all books, delete ":isa" from the second clause.
+  * To search a particular book, change "isa" in the second clause to the code for that book.
 
-To modify the search, open in edit view and change the word "term" between the quotation marks following the -q. Note: Special characters and symbols must be preceded by a backslash "\".
+  * To search all books, delete ":isa" from the second clause.
+
+  * To change the search term, replace the word "term" between the quotation marks following the -q. Note: Special characters and symbols must be preceded by a backslash "\".
 
 <code>{{door43pages @en:bible:notes:isa -r -q="term"</code>
 
