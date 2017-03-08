@@ -2,7 +2,7 @@
 
 ~~NOCACHE~~
 
-The script on this page searches for a string of text anywhere in the notes, the ULB, and the UDB. To modify the search, open in edit view and change the text between the quotation marks following the -q.  
+The script on this page finds a text string everywhere in the notes, the ULB, and the UDB. To modify the search, open in edit view and change the text between the quotation marks following the -q.  
 
 
 ==== "See how.*?translated" ====
