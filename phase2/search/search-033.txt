@@ -14,6 +14,8 @@ To modify the search, open in edit view and change the appropriate term:
 
   * To change the search term, replace the word "term" between the quotation marks following the -q. Note: Special characters and symbols must be preceded by a backslash "\".
 
+The original code is below:
+
 <code>{{door43pages @en:bible:notes:isa -r -q="term"</code>
 
 //Note: Make your changes to the section below.//
