@@ -23,4 +23,4 @@ The original code is below:
 === Search results: ===
 
 
-{{door43pages @en:bible:notes:isa -r -q="term" -exclude:home -exclude:tatopics -exclude:words -exclude:bible-notes -simpleLineBreak -title -fontsize="90%"}}
+{{door43pages @en:bible:notes:mat -r -q="scripture" -exclude:home -exclude:tatopics -exclude:words -exclude:bible-notes -simpleLineBreak -title -fontsize="90%"}}
