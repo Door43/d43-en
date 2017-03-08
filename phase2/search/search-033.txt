@@ -11,4 +11,4 @@ To search a particular book, change "isa" in the second and third phrases.
 === Search results: ===
 
 
-{{door43pages @en:bible:notes:isa:00 @en:bible:notes:isa:intro  -r -q="term" -exclude:home -exclude:tatopics -exclude:words -exclude:bible-notes -simpleLineBreak -title -fontsize="90%"}}
+{{door43pages @en:bible:notes:isa:00 @en:bible:notes:isa:(\d*):intro -r -q="term" -exclude:home -exclude:tatopics -exclude:words -exclude:bible-notes -simpleLineBreak -title -fontsize="90%"}}
