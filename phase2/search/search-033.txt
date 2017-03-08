@@ -16,7 +16,7 @@ To modify the search, open in edit view and change the word "term" between the q
 
 <code>{{door43pages @en:bible:notes:isa -r -q="term"</code>
 
-//Note: Make your changes to the section below.
+//Note: Make your changes to the section below.//
 
 === Search results: ===
 
