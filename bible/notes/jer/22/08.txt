@@ -38,8 +38,10 @@
 
 ===== translationNotes: =====
 
-  * **Then many nations will pass by this city.** - AT: "Then many people from various nations will pass by this city." (See: [[:en:ta:vol2:translate:figs_synecdoche]])
-  * **bowed down to other gods and worshiped them** - These two phrases mean the same thing. The phrase "bowed down to" describes the posture that people used in worship. (See: [[:en:ta:vol2:translate:figs_parallelism]])
+  * **Then many nations will pass by this city.** - Here "nations" refers to the people of those nations. AT: "Then many people from various nations will pass by this city" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **bowed down to other gods and worshiped them** - These two phrases mean the same thing. The phrase "bowed down" describes the posture that people used in worship. AT: "they worshiped other gods" (UDB) (See: [[:en:ta:vol2:translate:figs_parallelism]] and [[:en:ta:vol2:translate:translate_symaction]])
+
+
 ===== Links: =====
 
   * [[:en:bible:notes:jer:00:intro]]
@@ -47,6 +49,6 @@
   * [[:en:bible:questions:comprehension:jer:22]]
 **[[:en:bible:notes:jer:22:06|<<]] | [[:en:bible:notes:jer:22:10|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~
