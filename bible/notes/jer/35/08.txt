@@ -51,8 +51,8 @@
 ===== translationNotes: =====
 
 
-  * **the voice of Jonadab** - The word "voice" here refers to "command." AT: "the command of Jonadab" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
-  * **all of our days** - "Days" refers to the span of time. (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **the voice of Jonadab** - The word "voice" is a metonym for the command that Jonadab spoke. AT: "the command of Jonadab" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **all of our days** - "Days" refers to the span of time. AT: "as long as we live" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
 
 ===== Links: =====
 
@@ -67,6 +67,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2check}}
 
 ~~NOCACHE~~
