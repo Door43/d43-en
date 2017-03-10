@@ -253,6 +253,8 @@
 {{changes>ns=kam:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:kbr:obs|kbr OBS]]**
 {{changes>ns=kbr:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
+**[[:kdf:obs|kdf OBS]]**
+{{changes>ns=kdf:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:kea:obs|kea OBS]]**
 {{changes>ns=kea:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:kej:obs|kej OBS]]**
