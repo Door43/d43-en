@@ -34,13 +34,11 @@
  
 ===== translationNotes: =====
 
-
   * **Now** - This marks a new part of the story.
-  * **those who had not been exiled to Babylon** - "those whom the enemy soldiers had not sent to Babylon" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **Ishmael ... and Jaazaniah** - In 40:8 these are names of men. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **son of the Maacathite** - This refers to a person from the region of Maacah.
- 
- 
+  * **those who had not been exiled to Babylon** - This can be translated in active form. AT: "those whom the enemy soldiers had not sent to Babylon" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **Ishmael ... Nethaniah; Johanan ... Jonathan ... Kareah; Seraiah ... Tanhumeth ... Ephai ... Jaazaniah** - names of men (See: [[:en:ta:vol1:translate:translate_names]])
+  * **Netophathite ... Maacathite** - people from the regions of Netophah and Maacah
+
 ===== Links: =====
 
   * [[:en:bible:notes:jer:00:intro]]
@@ -54,6 +52,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2check}}
 
 ~~NOCACHE~~
