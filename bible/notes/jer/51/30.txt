@@ -66,11 +66,12 @@
 
 ===== translationNotes: =====
 
-  * **his city has been taken** - "The enemies overcame the whole city." (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **the fords over the river are seized** - The enemies take control of all the crossing places of the river. (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **fords** - A ford is a shallow part of a river where people can walk across easily.
-  * **confused** - AT: "Unable to think clearly"
- 
+  * **her homes are on fire, the bars of her gates are broken** - The city is spoken of as if it were a woman. AT: "the homes in the city are on fire, the bars of the city gates are broken" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **his city has been taken** - This can be translated in active form. AT: "the enemies have overcome the whole city." (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **the fords over the river are seized** - This can be translated in active form. AT: "the enemies have taken control of all the fords over the river" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **fords** - shallow parts of a river where people can walk across
+  * **marshes** - places with shallow water and grasses growing in deep mud
+  * **confused** - unable to think clearly
 
 ===== Links: =====
 
@@ -79,6 +80,6 @@
   * [[:en:bible:questions:comprehension:jer:51]]
 **[[:en:bible:notes:jer:51:29|<<]] | [[:en:bible:notes:jer:51:33|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>p2check p2edit}}
 
 ~~NOCACHE~~
