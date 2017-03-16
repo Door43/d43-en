@@ -113,6 +113,8 @@
 {{changes>ns=bus:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:bwo:obs|bwo OBS]]**
 {{changes>ns=bwo:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
+**[[:bxu:obs|bxu OBS]]**
+{{changes>ns=bxu:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:byn:obs|byn OBS]]**
 {{changes>ns=byn:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:bzs:obs|bzs OBS]]**
