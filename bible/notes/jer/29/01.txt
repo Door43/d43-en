@@ -55,10 +55,13 @@
 ===== translationNotes: =====
 
   * **sent out from Jerusalem** - AT: "proclaimed from Jerusalem"
+  * **remaining elders** - "elders who were still alive"
   * **Jehoiachin** - The Hebrew text has "Jeconiah," which is a variation of the name "Jehoiachin." Many modern versions have "Jehoiachin" in order to make it clear that the same king is being referred to.
-  * **the queen mother** - This title is often used for the king's mother. 
+  * **the queen mother** - the king's mother
   * **high officials** - AT: "very important officials"
-  * **Elasah son of Shapan and Gemariah son of Hilkiah** - These are names of men. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **by the hand of Elasah** - Jeremiah gave the scroll to Elasah so that Elasah could take it to Babylon. The reader should understand that Elasah probably put the scroll in a container to keep it safe as he traveled. (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **Elasah son of Shapan and Gemariah son of Hilkiah** - men's names (See: [[:en:ta:vol1:translate:translate_names]])
+
 ===== Links: =====
 
   * [[:en:bible:notes:jer:00:intro]]
@@ -66,6 +69,6 @@
   * [[:en:bible:questions:comprehension:jer:29]]
 **[[:en:bible:notes:jer:28:15|<<]] | [[:en:bible:notes:jer:29:04|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit exile scroll}}
+~~DISCUSSION~~{{tag>publish p2check exile scroll}}
 
 ~~NOCACHE~~
