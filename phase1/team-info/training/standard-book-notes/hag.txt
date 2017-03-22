@@ -31,6 +31,12 @@ When a standard note includes brackets (see examples below), replace the bracket
   * **this is Yahweh's declaration** - Yahweh speaks of himself by name to express the certainty of what he is declaring. Translate as in [[:en:bible:notes:jer:01:07|1:8]]. AT: "this is what Yahweh has declared" or "this is what I, Yahweh, have declared" (See: [[:en:ta:vol2:translate:figs_123person]])
 </code>
 
+**this is the declaration of Yahweh of hosts** - Yahweh speaks of himself by name to express the certainty of what he is declaring. Translate as in [[:en:bible:notes:hag:01:07|1:9]]. AT: "this is what Yahweh has declared" or "this is what I, Yahweh, have declared" (See: [[:en:ta:vol2:translate:figs_123person]])
+
+<code>
+**this is the declaration of Yahweh of hosts** - Yahweh speaks of himself by name to express the certainty of what he is declaring. Translate as in [[:en:bible:notes:hag:01:07|1:9]]. AT: "this is what Yahweh has declared" or "this is what I, Yahweh, have declared" (See: [[:en:ta:vol2:translate:figs_123person]])
+</code>
+
 ==== "The word of Yahweh came": ====
 
 **New** Notes Templates for **"The word of Yahweh came to [audience ... ] (saying)"**  -  
@@ -132,6 +138,13 @@ Jeremiah 47:4 is the only occurrence of "the day is coming that." Its note can b
 
 
 ==== Other: ====
+
+**text** - note
+
+<code>
+  * **text** - note
+</code>
+
 
 **text** - note
 
