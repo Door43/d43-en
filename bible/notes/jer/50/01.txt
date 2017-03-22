@@ -62,10 +62,16 @@
 
   * **General Information:** - See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]]
 
-  * **by the hand of Jeremiah** - "through the action of Jeremiah" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
-  * **cause them to listen ... cause them to listen** - The repetition of this phrase emphasizes the importance of the command. (See: [[:en:ta:vol2:translate:figs_parallelism]])
-  * **Bel is made ashamed. Merodach is dismayed. Its idols are put to shame; its images are dismayed.** - These lines mean the same thing and emphasize that Yahweh has disgraced the gods of Babylon. (See: [[:en:ta:vol2:translate:figs_parallelism]] and [[:en:ta:vol2:translate:figs_activepassive]])
-  * **Bel ... Merodach** - These are the two names for the chief god of Babylon. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **This is the word of Yahweh declared** - This idiom is used to introduce a special message from God. AT: "This is the message that Yahweh gave" or "This is the message that Yahweh spoke" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **by the hand of Jeremiah the prophet** - The hand is a synecdoche for the person. Translate this as in [[:en:bible:notes:jer:37:01
+|37:2]]. AT: "through Jeremiah, who was a prophet" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **cause them to listen ... cause them to listen** - This phrase is repeated to emphasize the importance of the command. (See: [[:en:ta:vol2:translate:figs_parallelism]])
+  * **Lift up a signal** - "Put up a sign"
+  * **Babylon is taken** - "Babylon is conquered"
+  * **Bel is made ashamed. Merodach is dismayed. Its idols are put to shame; its images are dismayed** - These lines mean the same thing and emphasize that Yahweh has disgraced the gods of Babylon. (See: [[:en:ta:vol2:translate:figs_parallelism]] and [[:en:ta:vol2:translate:figs_activepassive]])
+  * **Bel ... Merodach** - These are two names for the chief god of Babylon. (See: [[:en:ta:vol1:translate:translate_names]])
+
+
 ===== Links: =====
 
   * [[:en:bible:notes:jer:00:intro]]
@@ -73,6 +79,6 @@
   * [[:en:bible:questions:comprehension:jer:50]]
 **[[:en:bible:notes:jer:49:37|<<]] | [[:en:bible:notes:jer:50:03|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~
