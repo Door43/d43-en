@@ -40,11 +40,11 @@
 
 ===== translationNotes: =====
 
-  * **the heavens** - AT: "the sky"
-  * **withhold the dew** - AT: "withhold the rains" (See: [[:en:ta:vol2:translate:figs_metonymy]]).
-  * **drought** - Dryness that will hinder or prevent the growth of plants and dry up all the water that is needed for animals or people in that area.
-  * **upon the new wine, upon the oil** - Wine refers to grapes and oil refers to olives. (See: [[:en:ta:vol2:translate:figs_synecdoche]]).
-  * **labor of your hands!** - "all the hard work you have done!" and UDB (See: [[:en:ta:vol2:translate:figs_synecdoche]]).
+  * **the heavens withhold the dew** - The dew that appears at night is spoken of as if it formed in the sky and fell like rain. The sky is spoken of as if it were a person who refused to give a present or a parent who refused to feed his child. AT: "the sky does not allow the dew to fall" or "no dew forms" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **I have summoned a drought upon the land** - Rain not falling for a long time is spoken of as if Yahweh had told a person to come and make the land dry. AT: "I have kept the rain from falling on the land" (See: [[:en:ta:vol2:translate:figs_personification]])
+  * **upon the new wine, upon the oil** - "Wine" and "oil" are metonyms for grapes and olives. (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **all the labor of your hands!** - The abstract noun "labor" can be translated using the phrase "work hard." The labor that the hands perform is a metonym for the things that that labor produces. The hand is a metonym for the person. AT: "everything you have worked hard to make" (See: [[:en:ta:vol2:translate:figs_abstractnouns]] and [[:en:ta:vol2:translate:figs_metonymy]])
+
 ===== Links: =====
 
   * [[:en:bible:notes:hag:00:intro]]
@@ -52,6 +52,6 @@
   * [[:en:bible:questions:comprehension:hag:01]]
 **[[:en:bible:notes:hag:01:07|<<]] | [[:en:bible:notes:hag:01:12|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~
