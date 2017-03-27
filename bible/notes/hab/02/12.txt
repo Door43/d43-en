@@ -63,12 +63,15 @@
  
 ===== translationNotes: =====
 
-  * **General Information:** - Yahweh continues to answer Habakkuk. He refers to the Chaldeans as though they are one person. 
+  * **General Information:** - Yahweh continues to answer Habakkuk and to speak of the Chaldeans as if they were one man. (See: [[:en:ta:vol1:translate:figs_metaphor]])
 
   * **Woe to the one who builds a city with blood, and who establishes a town in iniquity** - These two phrases are saying the same thing in different ways. AT: "A warning to the Chaldeans who built their cities with what they have stolen from the people they have killed" (See: [[:en:ta:vol2:translate:figs_parallelism]])
-  * **with blood** - by killing people (See: [[:en:ta:vol2:translate:figs_metonymy]]). AT: "the one who kills people and steals their goods in order to build a city." (See [[:en:ta:vol1:translate:figs_explicit]])
-  * **and who establishes a town in iniquity** - "The one who starts a town through evil behavior." The Chaldeans built their cities using goods stolen from the people they killed. (See: [[:en:ta:vol1:translate:figs_explicit]])
-  * **Is it not from Yahweh of hosts that peoples labor for fire and all the other nations weary themselves for nothing?** - God has caused the destruction of what the people built. It is said in two different ways in order to make the meaning more clear. AT: "Yahweh is the one who causes what people work hard to build to be destroyed by fire and result in nothing." (See: [[:en:ta:vol1:translate:figs_rquestion]] and [[:en:ta:vol2:translate:figs_parallelism]])
+  * **the one who builds a city with blood** - Here the word "blood" is a metonym for murder. It is implicit that the person builds a city by means of the goods that they stole from those whom they have killed. AT: "the one who kills people and steals their goods in order to build a city" (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol1:translate:figs_explicit]])
+  * **who establishes a town in iniquity** - It is implicit that the person builds a city by means of the goods that they stole from those whom they have killed. Here the word "establishes" means to begin. AT: "who starts a town be means of the profit that he has acquired through evil behavior" (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **Is it not from Yahweh of hosts that peoples labor for fire and all the other nations weary themselves for nothing?** - This negative rhetorical question emphasizes the positive answer that it anticipates. The two lines share similar meanings that the work that people do will not last. AT: "Yahweh is the one who has determined that the things that people work hard to build will be destroyed by fire and result in nothing." (See: [[:en:ta:vol1:translate:figs_rquestion]] and [[:en:ta:vol2:translate:figs_parallelism]])
+  * **peoples labor for fire** - This means that the things that people labor to build are ultimately destined to be fuel for fire. AT: "peoples labor to build things that will be used as fuel for fire" (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **the land will be filled with the knowledge of the glory of Yahweh as the waters cover the sea** - This simile compares the way in which people everywhere will know of Yahweh's glory with how water fills every part of the sea. (See: [[:en:ta:vol1:translate:figs_simile]])
+  * **the land will be filled with the knowledge of the glory of Yahweh** - The word "knowledge" can be translated with a verbal phrase. This can be state in active form. AT: "people throughout the land will know the glory of Yahweh" (See: [[:en:ta:vol2:translate:figs_abstractnouns]] and [[:en:ta:vol2:translate:figs_activepassive]])
  
 ===== Links: =====
 
@@ -83,6 +86,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit iniquity woe}}
+{{tag>publish p2check iniquity woe}}
 
 ~~NOCACHE~~
