@@ -31,16 +31,17 @@
 
 ===== translationWords: =====
 
+  * [[:en:obe:kt:prophet]]
   * [[:en:obe:other:run]]
   * [[:en:obe:other:judah]]
   * [[:en:obe:other:bread]]
-  * [[:en:obe:kt:prophet]]
   * [[:en:obe:kt:sanctuary]]
   * [[:en:obe:other:royal]]
 
 ===== translationNotes: =====
 
-  * **there eat bread and prophesy** - "see if you can get the people there to pay you for prophesying"
+  * **there eat bread and prophesy** - Here "eat bread" is an idiom that means to earn money or make a living for doing something. AT: "see if you can get the people there to pay you for prophesying" or "prophesy there and let them provide you with food" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **for it is the king's sanctuary and a royal house** - Here "king's sanctuary" and "royal house" refer to the same place. AT: "This is where the national temple is, the place where the king worships" (See: [[:en:ta:vol2:translate:figs_doublet]])
 
 ===== Links: =====
 
@@ -49,6 +50,6 @@
   * [[:en:bible:questions:comprehension:amo:07]]
 **[[:en:bible:notes:amo:07:10|<<]] | [[:en:bible:notes:amo:07:14|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit sanctuary royal}}
+~~DISCUSSION~~{{tag>publish p2check sanctuary royal}}
 
 ~~NOCACHE~~
