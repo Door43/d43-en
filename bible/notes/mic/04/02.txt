@@ -65,7 +65,6 @@
 \q nor will they train for war any longer.
 </usfm>
 
-
 ===== translationWords: =====
 
   * [[:en:obe:other:nation]]
@@ -85,12 +84,13 @@
 
 ===== translationNotes: =====
 
-  * **let us go up to the mountain of Yahweh, to the house of the God of Jacob** - Both the mountain and the house are references to the temple in Jerusalem. (See: [[:en:ta:vol2:translate:figs_doublet]] and [[:en:ta:vol1:translate:figs_explicit]])
-  * **He will teach us his ways, and we will walk in his paths** - Here "his ways" and "his paths" refer to what God wants the people to do. Also, "walk" means they will obey what he says.
-  * **For from Zion the law will go out, and the word of Yahweh from Jerusalem** - Here the words "law" and "word" are speaking of the same thing. The nations of the world will hear God's law in Jerusalem.
-  * **plowshares** - A plowshare is a blade that people use to dig into soil so they can plant seeds.
-  * **They will beat their swords into plowshares and their spears into pruning hooks** - Both of these phrases mean that they will turn their weapons of war into tools that they will use to provide food. (See: [[:en:ta:vol2:translate:figs_parallelism]])
-  * **pruning hooks** - A pruning hook is used to cut off branches or stems from a plant to make it produce better.
+  * **Many nations** - The word "nations" is a metonym for the people of the nations. AT: "The people from many nations" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **Come** - This is plural. (See: [[:en:ta:vol1:translate:figs_you]])
+  * **He will teach us his ways, and we will walk in his paths** - Here "his ways" and "his paths" refer to what God wants the people to do. Also, "walk" means they will obey what he says. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **from Zion the law will go out, and the word of Yahweh from Jerusalem** - The law and word going is a metaphor for people hearing it and then being messengers to tell other people in other places. You may need to state the words omitted in the ellipsis. AT: "people will listen to the law in Zion and go out and tell others; they will listen to the word of Yahweh in Jerusalem and go out and tell others"
+  * **plowshares** - a blade that people use to dig into soil so they can plant seeds
+  * **pruning hooks** - a metal tool that people use to cut off branches or stems from plants
+  * **will not lift up sword** - will not threaten to start a war
 
 ===== Links: =====
 
@@ -99,6 +99,6 @@
   * [[:en:bible:questions:comprehension:mic:04]]
 **[[:en:bible:notes:mic:04:01|<<]] | [[:en:bible:notes:mic:04:04|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit walk}}
+~~DISCUSSION~~{{tag>publish p2check walk}}
 
 ~~NOCACHE~~
