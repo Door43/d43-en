@@ -59,14 +59,14 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - Nahum speaks to the people of Nineveh as though they were the city itself. (See: [[:en:ta:vol2:translate:figs_apostrophe]])
+  * **General Information:** - Nahum continues to speak to the people of Nineveh as though they were the city itself. (See: [[:en:ta:vol2:translate:figs_metonymy]])
 
-  * **Yet** - This continues the comparison of Nineveh and Thebes from [[:en:bible:notes:nam:03:08|3:8-9]]. Possible meanings: "nevertheless" (UDB) or "even so"
-  * **Thebes** - the former capital of Egypt, which the Assyrians had conquered
-  * **she ... her** - Thebes.
-  * **dashed in pieces** - The invaders killed the children of Thebes as easily as one breaks a clay pot. (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **bound in chains** - put into slavery. AT: "became slaves" (See: [[:en:ta:vol2:translate:figs_metonymy]])
- 
+  * **Yet Thebes was carried away** - The word "Thebes" represents the people who lived in Thebes. This can be stated in active form. AT: "Yet those who attacked Thebes carried the people away" (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol2:translate:figs_activepassive]])
+  * **she went into captivity** - The word "she" refers to Thebes and represents the people who lived there. AT: "they went into captivity" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **her young children were dashed in pieces** - This is a brutal description of the soldiers killing children. This can be stated in active form. AT: "enemy soldiers dashed her young children to pieces" or "enemy soldiers beat her young children to death" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **at the head of every street** - The beginning of a street is spoken of as if it were the head. AT: "at the beginning of every street" or "on every street corner" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **all her great men were bound in chains** - This can be stated in active form. AT: "they bound all her great men in chains" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **You also will become drunk** - Here the word "You" refers to Nineveh. Nahum speaks of the people of Nineveh suffering and dying in battle as if they had become drunk from drinking too much wine.  (See: [[:en:ta:vol1:translate:figs_metaphor]])
  
 ===== Links: =====
 
@@ -81,6 +81,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2check}}
 
 ~~NOCACHE~~
