@@ -23,7 +23,7 @@
 
 <usfm>
 \v 16 So Yahweh their God will rescue them on that day; they will be like a flock containing his people, for they will be the jewels of a crown, raised up over his land.
-\v 17 How good and how beautiful they will be! The young men will flourish on grain and the virgins on sweet wine!"
+\v 17 How good and how beautiful they will be! The young men will flourish on grain and the virgins on sweet wine!
 </usfm>
 
 ===== translationWords: =====
@@ -39,9 +39,13 @@
 
   * **General Information:** - In verses 14-16, Zechariah describes how Yahweh will rescue Israel from their enemies.
 
-  * **for they will be the jewels of a crown** - AT: "in our land they will be like beautiful stones in a crown" (See: [[:en:ta:vol1:translate:figs_simile]])
-  * **The young men will flourish on grain** - The young men will live on food they receive from the harvest.
-  * **and the virgins on sweet wine** - Young women will enjoy new wine. These references to young men and young women represent the entire population of Israel. (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **for they will be the jewels of a crown** - (text team) AT: "in our land they will be like beautiful stones in a crown" (See: [[:en:ta:vol1:translate:figs_simile]])
+  * **How good and how beautiful they will be!** - This is an exclamation, and not a question. AT: "They will be very good and beautiful!" (See: [[:en:ta:vol2:translate:figs_exclamations]])
+  * **The young men will flourish on grain and the virgins on sweet wine!** - This sentence uses a parallel structure to express that everyone will have plenty to eat and drink. If your readers might think that only the men ate and only the women drank, you may want to adjust the wording. AT: "All of the people, both men and women, will have plenty of grain to eat and sweet wine to drink!" (See: [[:en:ta:vol2:translate:figs_parallelism]])
+  * **The young men ... the virgins** - These two phrases are parallel and together represent the entire population of Israel. (See: [[:en:ta:vol2:translate:figs_parallelism]] and [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **grain ... sweet wine** - These two phrases are parallel and together represent all of the different kinds of the food and drink. (See: [[:en:ta:vol2:translate:figs_parallelism]] and [[:en:ta:vol2:translate:figs_synecdoche]])
+
+
 ===== Links: =====
 
   * [[:en:bible:notes:zec:00:intro]]
