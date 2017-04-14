@@ -43,9 +43,10 @@
 
 ===== translationNotes: =====
 
-  * **lifted my eyes** - This means to look up at something. AT: "looked up" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
-  * **two mountains were made of bronze** - "two mountains were bronze" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **first chariot ... second chariot** - "chariot 1 ... chariot 2"
+  * **lifted my eyes** - Here the word "eyes" represents the person who sees. AT: "looked up" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **between two mountains; and the two mountains were made of bronze** - Since the second phrase describes the mountains in the first phrase, the two phrases may be combined. AT: "between two bronze mountains"
+  * **The first chariot had red horses** - It is implicit that the horses were pulling the chariots. AT: "The first chariot had red horses pulling it" or "Red horses were pulling the first chariot" (See: [[:en:ta:vol1:translate:figs_explicit]]) 
+
 ===== Links: =====
 
   * [[:en:bible:notes:zec:00:intro]]
@@ -53,6 +54,6 @@
   * [[:en:bible:questions:comprehension:zec:06]]
 **[[:en:bible:notes:zec:05:10|<<]] | [[:en:bible:notes:zec:06:05|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~
