@@ -35,9 +35,11 @@
 
 ===== translationNotes: =====
 
-  * **These are the four winds of heaven** - The angel explains that the chariots with horses are symbols for the 4 winds of heaven.
-  * **four winds** - The word "winds" refers to the four directions: north, east, south, and west. However, some modern versions interpret this Hebrew expression to mean "four spirits."
-  * **the white horses are going out to the west country** - Some modern versions interpret this Hebrew phrase to mean "the white horses are going out after them."
+  * **These are the four winds of heaven** - The chariots symbolize the four winds of heaven, but they are not literally the four winds. AT: "These chariots represent the four winds of heaven" (See: [[:en:ta:vol2:translate:writing_symlanguage]])
+  * **the four winds of heaven** - This phrase refers to the four directions from which the wind blows: north, east, south, and west. However, some modern versions interpret this Hebrew expression to mean "four spirits."
+  * **standing before the Lord of all the earth** - The idiom to "stand before" means to be in a person's presence and to serve him. See how you translated this in [[:en:bible:notes:zec:04:14|4:14]]. AT: "serving the Lord of all the earth" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **the white horses are going out to the west country** - Some modern versions interpret this Hebrew phrase to mean "the white horses are going out after them," that is, following the black horses to the north country.
+  * **the white horses are ... the spotted gray horses are** - Here the horses represent the chariots that they pull. AT: "the chariot with the white horses is ... the chariot with the spotted gray horses is" (See: [[:en:ta:vol2:translate:figs_metonymy]])
 
 ===== Links: =====
 
@@ -46,6 +48,6 @@
   * [[:en:bible:questions:comprehension:zec:06]]
 **[[:en:bible:notes:zec:06:01|<<]] | [[:en:bible:notes:zec:06:07|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit earth}}
+~~DISCUSSION~~{{tag>publish p2check earth}}
 
 ~~NOCACHE~~
