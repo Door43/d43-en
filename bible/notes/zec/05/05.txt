@@ -39,9 +39,11 @@
 
 ===== translationNotes: =====
 
-  * **Raise your eyes** - This phrase commands a person to look up by referring to their eyes. (See: [[:en:ta:vol2:translate:figs_synecdoche]])
-  * **a lead covering** - This refers to a heavy cover. Lead is a heavy metal.
-  * **there was a woman under it sitting in it** - A woman could not literally fit inside a basket of this size. In Zechariah's vision though, so did fit in the basket. Often in visions the sizes of things are exaggerated. Both the basket and the woman are symbolic and represent other things.
+  * **Raise your eyes** - The word "eyes" represents the person who looks. AT: "Look up" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **This is a basket containing an ephah that is coming** - An "ephah" is a unit of measurement for dry materials and is equal to 22 liters. Here the word is a metonym for the container that would hold an ephah of dry material. AT: "This is a measuring basket that is coming" or "This is a large container that is coming" (See: [[:en:ta:vol2:translate:translate_bvolume]] and [[:en:ta:vol2:translate:figs_metonymy]])
+  * **This is their iniquity in the whole land** - The basket symbolizes the people's iniquity, but it is not literally their iniquity. AT: "This basket represents the iniquity of the people throughout the whole land" (See: [[:en:ta:vol2:translate:writing_symlanguage]])
+  * **a lead covering was lifted off the basket** - This can be stated in active form. AT: someone lifted a lead covering off the basket" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **there was a woman under it sitting in it** - "there was a woman under the lead covering sitting in the basket"
 
 ===== Links: =====
 
@@ -50,6 +52,6 @@
   * [[:en:bible:questions:comprehension:zec:05]]
 **[[:en:bible:notes:zec:05:03|<<]] | [[:en:bible:notes:zec:05:08|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~
