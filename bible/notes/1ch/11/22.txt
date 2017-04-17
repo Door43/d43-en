@@ -32,16 +32,14 @@
   * [[:en:obe:other:egypt]]
   * [[:en:obe:other:spear]]
   * [[:en:obe:other:staff]]
+
 ===== translationNotes: =====
 
-  * **General Information:** - See: [[:en:ta:vol1:translate:translate_names]]
-
   * **feats** - These are acts that show courage, strength, or skill.
-  * **while it was snowing** - AT: "during a snow storm"
-  * **five cubits** - (See: [[:en:ta:vol2:translate:translate_bdistance]])
-  * **he went down to him** - AT: "Benaiah met the Egyptian"
-  * **a spear like a weaver's beam** - AT: "a very large spear" (See: [[:en:ta:vol1:translate:figs_simile]])
-
+  * **Jehoiada ... Ariel** - These are the names of men. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **five cubits** - A "cubit" is a unit of measurement equal to 46 centimeters. AT: "2.3 meters" [[:en:ta:vol2:translate:translate_bdistance]])
+  * **a spear like a weaver's beam** - This compares the size of the spear with the size of a weaver's beam. AT: "a speak the size of a weaver's beam" (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **he went down to him** - "Jehoiada went down to the Egyptian." This idiom means that he met him in battle. AT: "he attacked him" (See: [[:en:ta:vol1:translate:figs_idiom]])
 
 ===== Links: =====
 
@@ -50,6 +48,6 @@
   * [[:en:bible:questions:comprehension:1ch:11]]
 **[[:en:bible:notes:1ch:11:20|<<]] | [[:en:bible:notes:1ch:11:24|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit lion}}
+~~DISCUSSION~~{{tag>publish p2check lion}}
 
 ~~NOCACHE~~
