@@ -4,7 +4,7 @@
 ===== TFT: =====
 
 <usfm>
-\v 11 Mizraim \f + \ft Or: Egypt \f* was the ancestor of the Lud people-group, the Anam people-group, the Lehab people-group, the Naphtuh people-group,
+\v 11 Mizraim \f + \ft Or: Egypt \f* was the ancestor of the Lud people-group ... the Anam people-group ... the Lehab people-group, the Naphtuh people-group,
 \v 12 the Pathrus people-group, the Casluh people-group, and the Caphtor people-group. The people of the Philistia \add region\add* were descended from the Casluh people-group.
 \li1
 </usfm>
@@ -34,10 +34,9 @@
   * [[:en:obe:other:philistines]]
 ===== translationNotes: =====
 
+  * **Ludites ... Anamites ... Lehabites ... Naphtuhites ... Pathrusites ... Kasluhites ... Philistines ... Caphtorites** - names of people groups (See: [[:en:ta:vol1:translate:translate_names]])
+  * **from whom the Philistines came** - "the ancestors of the Philistines,"
 
-  * **from whom the Philistines came** - AT: "the ancestors of the Philistines,"
- 
- 
 ===== Links: =====
 
   * [[:en:bible:notes:1ch:00:intro]]
@@ -51,6 +50,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2check}}
 
 ~~NOCACHE~~
