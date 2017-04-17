@@ -44,8 +44,13 @@
  
 ===== translationNotes: =====
 
-  * **People will come again** - "People will come to Jerusalem again"
-  * **Many people and mighty nations will come** - "Many people will come, including people from large nations"
+  * **People will come again** - The implied information is that people will come again to Jerusalem. AT: "People will come to Jerusalem again" (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **will go to another city** - This is a metonym for the people in the other city. AT: "will go to the people of another city" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **beg** - Here the word "beg" means to plead or ask urgently.
+  * **before the face of Yahweh** - Here "face" is a metonym for Yahweh's presence. See how you translated this in [[:en:bible:notes:zec:07:01|7:2]]. AT: "in the presence of Yahweh" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **seek Yahweh of hosts** - Those who want to know Yahweh and please him are spoken of as if they are literally seeking to find Yahweh. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **mighty nations** - This is a metonym for the people in the mighty nations. AT: "people of mighty nations" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+
 ===== Links: =====
 
   * [[:en:bible:notes:zec:00:intro]]
@@ -53,6 +58,6 @@
   * [[:en:bible:questions:comprehension:zec:08]]
 **[[:en:bible:notes:zec:08:18|<<]] | [[:en:bible:notes:zec:08:23|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~
