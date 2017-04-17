@@ -40,15 +40,14 @@
   * [[:en:obe:other:cityofdavid]]
   * [[:en:obe:other:commander]]
   * [[:en:obe:other:joab]]
+
 ===== translationNotes: =====
 
-  * **General Information:** - See: [[:en:ta:vol1:translate:translate_names]]
-
-  * **Jebus** - This was the temporary name for Jerusalem after Jebusites conquered the city, before the Israelites conquered it. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **But David took** - AT: "But David's army defeated" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
-  * **that is, the city of David** - AT: "and they called it the city of David"
-  * **so he was made a commander** - AT: "so David made Joab a commander" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-
+  * **David and all Israel** - Here the phrase "all Israel" represents the entire Israelite army. AT: "David and all the Israelite army" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **Now the Jebusites ... were there** - The word "now" is used here to mark a break in the main storyline. Here the narrator tells background information about Jerusalem. (See: [[en:ta:vol2:translate:writing_background]])
+  * **David took** - Here the word "took" is an idiom that means "captured" or "conquered." AT: "David captured" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **the stronghold of Zion ... the city of David** - Both of these names refer to Jerusalem.
+  * **so he was made a commander** - This can be stated in active form. AT: "so David made Joab a commander" (See: [[:en:ta:vol2:translate:figs_activepassive]])
 
 ===== Links: =====
 
@@ -57,6 +56,6 @@
   * [[:en:bible:questions:comprehension:1ch:11]]
 **[[:en:bible:notes:1ch:11:01|<<]] | [[:en:bible:notes:1ch:11:07|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit commander zion}}
+~~DISCUSSION~~{{tag>publish p2check commander zion}}
 
 ~~NOCACHE~~
