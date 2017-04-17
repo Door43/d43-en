@@ -33,11 +33,17 @@
   * [[:en:obe:other:david]]
   * [[:en:obe:kt:brother]]
   * [[:en:obe:other:hand]]
+
+
 ===== translationNotes: =====
 
+  * **It came about** - This phrase is used here to mark the beginning of a new part of the story. If your language has a way for doing this, you could consider using it here.
   * **Rephaim** - This is the name given to a race of people who were very tall and strong. (See: [[:en:ta:vol1:translate:translate_names]])
   * **Jehonadab ... Shimea** - These are the names of men. 
-  * **they were killed by the hand of David and by the hand of his soldiers** - David and his soldiers are referred to by the part of their bodies used to hold a sword. AT: "David and his soldiers killed the descendants of the Rephaim" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **These were descendants of the Rephaim of Gath** - Here "These" refer to Sippai in [[:en:bible:notes:1ch:20:04|20:4]], Lahmi in [[:en:bible:notes:1ch:20:04|20:5]], and the giant in verse 6.
+  * **they were killed by the hand of David and by the hand of his soldiers** - David and his soldiers are referred to by the part of their bodies used to hold a sword. This can be stated in active form. AT: "David and his soldiers killed the descendants of the Rephaim" (See: [[:en:ta:vol2:translate:figs_synecdoche]] and [[:en:ta:vol2:translate:figs_activepassive]])
+
+
 ===== Links: =====
 
   * [[:en:bible:notes:1ch:00:intro]]
@@ -45,6 +51,6 @@
   * [[:en:bible:questions:comprehension:1ch:20]]
 **[[:en:bible:notes:1ch:20:04|<<]] | [[:en:bible:notes:1ch:21:01|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~
