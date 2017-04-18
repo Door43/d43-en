@@ -35,14 +35,12 @@
   * [[:en:obe:other:stone]]
   * [[:en:obe:other:benjamin]]
   * [[:en:obe:other:tribe]]
+
 ===== translationNotes: =====
 
-  * **General Information:** - See: [[:en:ta:vol1:translate:translate_names]]
-
-  * **while he was still banished from the presence of** - AT: "during the time when he could not be in the presence of" 
-  * **They were armed with bows and could use both the right hand and the left** - AT: "Their weapons included bows, and they could use the bow with their right or left hands" (See: [[:en:ta:vol2:translate:figs_ellipsis]])
-  * **slinging stones** - The sling was strip of leather that allowed a person to throw a stone a great distance. A stone was placed in the middle while the person held the ends and swung it around in a circle. When one end was released, the stone flew toward the target.
-
+  * **while he was still banished from the presence of** - This can be stated in active form. AT: "during the time when he could not be in the presence of" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **could use both the right hand and the left in slinging stones and in shooting arrows** - "could use either their right hands or their left hands to sling stones and shoot arrows"
+  * **slinging stones** - The sling was a strip of leather that a person would use to throw a stone long distances.
 
 ===== Links: =====
 
@@ -51,6 +49,6 @@
   * [[:en:bible:questions:comprehension:1ch:12]]
 **[[:en:bible:notes:1ch:11:45|<<]] | [[:en:bible:notes:1ch:12:03|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~
