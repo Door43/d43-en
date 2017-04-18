@@ -37,10 +37,9 @@
 ===== translationNotes: =====
 
   * **Jabez** - This is the name of a man. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **expand my territory** - AT: "give me more land"
-  * **your hand will be with me** - Possible meanings are that God's hand represents 1) his guidance, 2) his power, or 3) his protection. AT: "guide me" or "make me prosper" or "protect me." It can also be translated more generally as "be with me." (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol2:translate:figs_synecdoche]])
-  * **granted him his prayer** - "did according to his prayer"
-
+  * **expand my territory** - "give me more land"
+  * **your hand will be with me** - Possible meanings are that God's hand is 1) a metonym for  his guidance, his power, or his protection, AT: "guide me" or "make me prosper" or "protect me" or a synecdoche for himself. (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **granted him his prayer** - The words "his prayer" are a metonym for what Jabez asked in the prayer. AT: "did what Jabez had asked him to do" (See: [[:en:ta:vol2:translate:figs_metonymy]])
 
 ===== Links: =====
 
@@ -49,6 +48,6 @@
   * [[:en:bible:questions:comprehension:1ch:04]]
 **[[:en:bible:notes:1ch:04:05|<<]] | [[:en:bible:notes:1ch:04:11|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~
