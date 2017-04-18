@@ -54,20 +54,21 @@
 \v 35 Toah was the son of Zuph. Zuph was the son of Elkanah. Elkanah was the son of Mahath. Mahath was the son of Amasai. Amasai was son of Elkanah.
 </usfm>
 
-
 ===== translationWords: =====
 
   * [[:en:obe:kt:son]]
   * [[:en:obe:other:clan]]
   * [[:en:obe:other:joel]]
   * [[:en:obe:other:samuel]]
+
 ===== translationNotes: =====
 
   * **These were those** - "These were the musicians"
-  * **Kohathites** - This is the name of a people group. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **Kohathites** - This is the name of a people group, the descendants of Kohath ([[:en:bible:notes:1ch:06:01|6:1]]). (See: [[:en:ta:vol1:translate:translate_names]])
   * **going back in time** - This means the list is going in order from the most recent to the oldest.
-  * **Heman ... Jeroham ... Eliel ... Toa ... Zuph ... Mahath** - These are the names of men.
+  * **Heman ... Jeroham ... Eliel ... Toah ... Zuph ... Mahath** - These are the names of men.
   * **Elkanah ... Amasai** - See how you translated these men's names in [[:en:bible:notes:1ch:06:25|6:25]].
+
 ===== Links: =====
 
   * [[:en:bible:notes:1ch:00:intro]]
@@ -75,6 +76,6 @@
   * [[:en:bible:questions:comprehension:1ch:06]]
 **[[:en:bible:notes:1ch:06:31|<<]] | [[:en:bible:notes:1ch:06:36|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit clan joel}}
+~~DISCUSSION~~{{tag>publish p2check clan joel}}
 
 ~~NOCACHE~~
