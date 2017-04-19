@@ -19,8 +19,6 @@
 \v 67 They were allotted Shechem, which was one of the cities to which people could flee and be protected if they accidentally killed someone, along with the nearby pastureland in the hills of Ephraim. They were also allotted these towns and pastureland near them: Gezer,
 \v 68 Jokmeam, Beth Horon,
 \v 69 Aijalon, and Gath Rimmon.
-
-
 \pi
 </usfm>
 
@@ -41,11 +39,14 @@
   * [[:en:obe:other:ephraim]]
   * [[:en:obe:other:shechem]]
   * [[:en:obe:kt:refuge]]
+
 ===== translationNotes: =====
 
   * **General Information:** - See: [[:en:ta:vol1:translate:translate_names]]
 
   * **Kohathite** - See how you translated this in [[:en:bible:notes:1ch:06:33|1 Chronicles 6:33]].
+  * **Shechem Gezer ... Jokmeam ... Beth Horon ... Aijalon ... Gath Rimmon** - All of the names in this list are the names of towns. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **pasturelands** - grassy land where animals eat. Translate as in [[:en:bible:notes:1ch:05:16|5:16]].
 
 ===== Links: =====
 
@@ -54,6 +55,6 @@
   * [[:en:bible:questions:comprehension:1ch:06]]
 **[[:en:bible:notes:1ch:06:63|<<]] | [[:en:bible:notes:1ch:06:70|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit ephraim}}
+~~DISCUSSION~~{{tag>publish p2check ephraim}}
 
 ~~NOCACHE~~
