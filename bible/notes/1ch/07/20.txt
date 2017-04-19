@@ -32,11 +32,8 @@
 \li2 Zabad's son was Shuthelah.
 \li1 Ephraim's other sons, Ezer and Elead, went to the city of Gath to steal some cows and sheep. But they were both killed by some of the men from that city.
 \v 22 Their father Ephraim cried for them for many days, and his family came to comfort him.
-
-
 \li1
 </usfm>
-
 
 ===== ULB: =====
 
@@ -47,18 +44,18 @@
 \v 22 Ephraim their father mourned for them many days, and his brothers came to comfort him.
 </usfm>
 
-
 ===== translationWords: =====
 
   * [[:en:obe:other:ephraim]]
   * [[:en:obe:other:gath]]
   * [[:en:obe:other:mourn]] 
   * [[:en:obe:other:comfort]]
+
 ===== translationNotes: =====
 
-  * **General Information:** - See: [[:en:ta:vol1:translate:translate_names]]
+  * **General Information:** - All of the names here except Gath are the names of men. Gath is the name of a place. (See: [[:en:ta:vol1:translate:translate_names]])
 
-  * **Ezer and Elead were killed by men of Gath, natives in the land** - AT: "Men of Gath, the natives in the land, killed Ezer and Elead" 
+  * **Ezer and Elead were killed by men of Gath, natives in the land** - This can be translated in active form. AT: "Men of Gath, the natives in the land, killed Ezer and Elead" (See: [[:en:ta:vol2:translate:figs_activepassive]])
   * **they went to steal their cattle** - AT: "the brothers went to steal the cattle from the people of Gath"
 
 ===== Links: =====
@@ -68,6 +65,6 @@
   * [[:en:bible:questions:comprehension:1ch:07]]
 **[[:en:bible:notes:1ch:07:17|<<]] | [[:en:bible:notes:1ch:07:23|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~
