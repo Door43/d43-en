@@ -44,11 +44,14 @@
   * [[:en:obe:other:servant]]
 ===== translationNotes: =====
 
+  * **It came about** - This phrase is used here to mark the beginning of a new part of the story. If your language has a way for doing this, you could consider using it here.
   * **Nahash ... Hanun** - These are the names of men. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **I will show kindness ... showed kindness** - AT: "I will be kind ... was kind"
+  * **I will show kindness ... showed kindness** - The abstract noun "kindness" can be stated as an action. AT: "I will be kind ... was kind" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
   * **console** - "comfort"
-  * **Do you think that David is honoring your father because he has sent men to comfort you?** - AT: "You should not think that David is honoring your father because he has sent men to comfort you." (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **Do not his servants come to you to explore and examine the land in order to overthrow it?** - AT: "Surely his servants come to you to explore the land in order to overthrow it." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **Do you think that David is honoring your father because he has sent men to comfort you?** - The princes asked this question to turn the king against David. AT: "You should not think that David is honoring your father because he has sent men to comfort you." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **Do not his servants come to you to explore and examine the land in order to overthrow it?** - The princes asked this question to turn the king against David. AT: "Surely his servants come to you to explore the land in order to overthrow it." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+
+
 ===== Links: =====
 
   * [[:en:bible:notes:1ch:00:intro]]
@@ -56,6 +59,6 @@
   * [[:en:bible:questions:comprehension:1ch:19]]
 **[[:en:bible:notes:1ch:18:14|<<]] | [[:en:bible:notes:1ch:19:04|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit ammon}}
+~~DISCUSSION~~{{tag>publish p2check ammon}}
 
 ~~NOCACHE~~
