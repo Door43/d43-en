@@ -46,10 +46,12 @@
   * [[:en:obe:kt:works]]
 ===== translationNotes: =====
 
-  * **General Information:** - See: [[:en:ta:vol2:translate:figs_parallelism]]
+  * **General Information:** - Parallelism is common in Hebrew poetry. (See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]])
 
-  * **all the earth** - Everything on earth brings glory to God. (See: [[:en:ta:vol2:translate:figs_personification]])
-  * **day after day** - AT: "every day" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **all the earth** - This refers to the people of the earth. AT: "all you people who live on the earth" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **announce his salvation** - The abstract noun "salvation" can be translated using the verb "save." AT: "announce that he has saved us" or "tell people that he is the one who saves" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
+  * **day after day** - "every day"
+  * **Declare his glory among the nations** - "Tell all the people in every nation about his great glory"
 
 ===== Links: =====
 
@@ -58,6 +60,6 @@
   * [[:en:bible:questions:comprehension:1ch:16]]
 **[[:en:bible:notes:1ch:16:19|<<]] | [[:en:bible:notes:1ch:16:25|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit declare}}
+~~DISCUSSION~~{{tag>publish p2check declare}}
 
 ~~NOCACHE~~
