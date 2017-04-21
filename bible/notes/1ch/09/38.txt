@@ -32,7 +32,7 @@
 <usfm>
 \v 38 Mikloth was the father of Shimeam. They also lived near their brothers in Jerusalem.
 \v 39 Ner was the father of Kish. Kish was the father of Saul. Saul was the father of Jonathan, Malki-Shua, Abinadab, and Esh-Baal.
-\v 40 The son of Jonathan was Merib-Baal. Merib-Baal was the father of Micah.
+\v 40 The son of Jonathan was Merib Baal. Merib-Baal was the father of Micah.
 </usfm>
 
 
@@ -41,9 +41,10 @@
   * [[:en:obe:kt:brother]]
   * [[:en:obe:other:saul]]
   * [[:en:obe:other:jonathan]]
+
 ===== translationNotes: =====
 
-  * **General Information:** - See: [[:en:ta:vol1:translate:translate_names]]
+  * **General Information:** - All of the names here are the names of men. (See: [[:en:ta:vol1:translate:translate_names]])
 
 ===== Links: =====
 
@@ -52,6 +53,6 @@
   * [[:en:bible:questions:comprehension:1ch:09]]
 **[[:en:bible:notes:1ch:09:35|<<]] | [[:en:bible:notes:1ch:09:41|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~
