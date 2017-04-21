@@ -43,12 +43,14 @@
   * [[:en:obe:other:moses]]
   * [[:en:obe:other:command]]
   * [[:en:obe:kt:wordofgod]]
+
 ===== translationNotes: =====
 
-  * **You did not carry it the first time** - "You did not carry the ark before"
-  * **we did not seek him** - AT: "we did not ask him for instructions" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **broke out against us** - AT: "punished us"
-  * **the Levites consecrated themselves so they could bring up** - AT: "Levites made themselves clean in order to carry"
+  * **You did not carry it** - "You did not carry the ark"
+  * **broke out against us** - The idiom to "break out against" means to act violently towards someone. AT: "acted violently towards us" or "attacked us" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **we did not seek him** - Here seeking Yahweh means to seek his counsel. AT: "we did not ask him for instructions" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **the rules given by the word of Yahweh** - The word "word" can be translated with a verb. This can be stated in active form. AT: "the rules that the word of Yahweh had given" or "the rules that Yahweh had spoken" (See: [[:en:ta:vol2:translate:figs_activepassive]] and [[:en:ta:vol2:translate:figs_abstractnouns]])
+
 ===== Links: =====
 
   * [[:en:bible:notes:1ch:00:intro]]
@@ -56,6 +58,6 @@
   * [[:en:bible:questions:comprehension:1ch:15]]
 **[[:en:bible:notes:1ch:15:11|<<]] | [[:en:bible:notes:1ch:15:16|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit decree}}
+~~DISCUSSION~~{{tag>publish p2check decree}}
 
 ~~NOCACHE~~
