@@ -44,6 +44,7 @@
   * [[:en:obe:other:command]]
   * [[:en:obe:kt:yahweh]]
   * [[:en:obe:kt:name]]
+  * [[:en:obe:other:palace]]
   * [[:en:obe:other:kingdom]]
   * [[:en:obe:other:send]]
   * [[:en:obe:other:tyre]]
@@ -51,7 +52,12 @@
 
 ===== translationNotes: =====
 
-  * **Hiram** - (See: [[:en:ta:vol1:translate:translate_names]])
+  * **Now** - This marks a new part of the story.
+  * **commanded the building of a house for Yahweh's name** - The word "name" is a metonym for the person. AT: "commanded his people to build a house where Yahweh may live" or "commanded his people to build a house where they could worship Yahweh" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **of a palace for his kingdom** - "of a royal palace for his kingdom" or "of a palace for himself"
+  * **seventy thousand men ... eighty thousand men** - "70,000 men ... 80,000 men" (See: [[:en:ta:vol2:translate:translate_numbers]])
+  * **to carry loads** - It is understood that these are loads of materials for building Yahweh's house. AT: "to carry loads of materials" (See: [[:en:ta:vol2:translate:figs_ellipsis]])
+  * **Hiram** - This is the name of a man. (See: [[:en:ta:vol1:translate:translate_names]])
 
  
 ===== Links: =====
@@ -67,6 +73,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2check}}
 
 ~~NOCACHE~~
