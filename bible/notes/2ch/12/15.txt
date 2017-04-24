@@ -33,11 +33,13 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - See: [[:en:ta:vol1:translate:translate_names]]
-
-  * **first and last** - "everything" (See: [[:en:ta:vol1:translate:figs_idiom]])
-  * **are they not written ... Jeroboam?** - AT: "they are recorded ... Jeroboam." (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **Rehoboam slept with his ancestors** - AT: "Rehoboam died" (See: [[:en:ta:vol2:translate:figs_euphemism]])
+  * **first and last** - "from beginning to end." These two words form a merism and refer to everything that Rehoboam did from the beginning of his reign to the end of his reign. AT: "everything that he did" (See: [[:en:ta:vol2:translate:figs_merism]])
+  * **are they not written ... Jeroboam?** - This can be expressed in active form and assumes that the answer is positive. The question is rhetorical and is used for emphasis. AT: "they are written ... Jeroboam." or "you can read about them ... Jeroboam." (See: [[:en:ta:vol2:translate:figs_activepassive]] and [[:en:ta:vol1:translate:figs_rquestion]])
+  * **Shemaiah ... Iddo ... Abijah** - These are the names of men. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **the constant wars between Rehoboam and Jeroboam** - The names of the kings means that there was war between the armies of Rehoboam and Jeroboam. AT: "the wars in which Rehoboam's army and Jeroboam's army constantly engaged"
+  * **Rehoboam slept with his ancestors** - Rehoboam dying is spoken of as if he had fallen asleep. AT: "Rehoboam died" (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_euphemism]])
+  * **was buried in the city of David** - This can be stated in active form. AT: "people buried him in the city of David" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **became king in his place** - The phrase "in his place" is a metaphor meaning "instead of him." AT: "became king instead of Rehoboam" (See: [[:en:ta:vol1:translate:figs_metaphor]])
 
 ===== Links: =====
 
@@ -46,6 +48,6 @@
   * [[:en:bible:questions:comprehension:2ch:12]]
 **[[:en:bible:notes:2ch:12:13|<<]] | [[:en:bible:notes:2ch:13:01|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~
