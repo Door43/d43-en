@@ -27,10 +27,12 @@
 ===== translationWords: =====
 
   * [[:en:obe:other:bethlehem]]
+
 ===== translationNotes: =====
 
-  * **General Information:** - See: [[:en:ta:vol1:translate:translate_names]]
-
+  * **Hur ... Shobal ... Salma ... Hareph** - These are all the names of men. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **Ephrathah** - This is the name of a woman. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **father of Kiriath Jearim ... father of Bethlehem ... father of Beth Gader** - These are all the names of towns. The towns are metonyms for the people who live in the towns. AT: "founder of Kiriath Jearim ... founder of Bethlehem ... founder of Beth Gader" (See: [[:en:ta:vol1:translate:translate_names]])
 
 ===== Links: =====
 
@@ -39,6 +41,6 @@
   * [[:en:bible:questions:comprehension:1ch:02]]
 **[[:en:bible:notes:1ch:02:48|<<]] | [[:en:bible:notes:1ch:02:52|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~
