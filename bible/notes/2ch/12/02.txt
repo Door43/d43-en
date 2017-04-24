@@ -40,10 +40,14 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - See: [[:en:ta:vol1:translate:translate_names]]
-
-  * **came up against** - AT: "came to attack"
-  * **Soldiers without number** - AT: "Many soldiers" (See: [[:en:ta:vol2:translate:figs_hyperbole]])
+  * **It happened** - This phrase is used here to mark where the action starts. If your language has a way for doing this, you could consider using it here.
+  * **in the fifth year of King Rehoboam** - This refers to the fifth year of Rehoboam's reign as king. AT: "in the fifth year that Rehoboam was king" (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **Shishak, king of Egypt, came up against Jerusalem** - "Shishak, king of Egypt" is a metonym for Shishak along with the Egyptian army. AT: "Shishak, king of Egypt, and his army with him, came up against Jerusalem" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **Shishak** - This is the name of a man. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **came up against** - This is an idiom that means marched against or attacked. AT: "came to attack" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **twelve hundred chariots and sixty thousand horsemen** - AT: "12,000 chariots and 60,000 horsemen" (See: [[:en:ta:vol2:translate:translate_numbers]])
+  * **Soldiers without number** - This hyperbole means that there were more soldiers than a person could easily count. AT: "Many soldiers" (See: [[:en:ta:vol2:translate:figs_hyperbole]])
+  * **Libyans, Sukkites, and Ethiopians** - These are people from Libya, Sukki, and Ethiopia. The location of Sukki is uncertain, but may be a region in Libya. (See: [[:en:ta:vol1:translate:translate_names]] and [[:en:ta:vol1:translate:translate_unknown]])
 
 ===== Links: =====
 
@@ -52,6 +56,6 @@
   * [[:en:bible:questions:comprehension:2ch:12]]
 **[[:en:bible:notes:2ch:12:01|<<]] | [[:en:bible:notes:2ch:12:05|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~
