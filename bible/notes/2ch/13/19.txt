@@ -40,8 +40,13 @@
 
 ===== translationNotes: =====
 
-  * **pursued** - AT: "chased after"
-  * **Jeshanah with its villages, and Ephron with its villages** - Jeshanah and Ephron were villages that belonged to the kingdom of Israel. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **pursued** - "chased after"
+  * **Jeshanah ... Ephron** - These are the names of cities. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **Yahweh struck him, and he died** - Yahweh causing Jeroboam to die is spoken of as if Yahweh struck Jeroboam. It is possible that this refers to Yahweh causing Jeroboam to become ill. AT: "Yahweh caused Jeroboam to die" or "Yahweh caused Jeroboam to become ill, and he died" (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol1:translate:figs_explicit]])
+  * **he took fourteen wives for himself** - The idiom "took ... wives" means that he married. AT: "he married fourteen women" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **fourteen wives ... twenty-two sons and sixteen daughters** - "14 wives ... 22 sons and 16 daughters" (See: [[:en:ta:vol2:translate:translate_numbers]])
+  * **his behavior and words** - "his behavior and his sayings" or "his behavior and the things that he said"
+  * **are written in the commentary of the prophet Iddo** - This can be stated in active form. AT: "are in the commentary that the prophet Iddo wrote" or "the prophet Iddo has written them in his commentary" (See: [[:en:ta:vol2:translate:figs_activepassive]])
 
 ===== Links: =====
 
@@ -50,6 +55,6 @@
   * [[:en:bible:questions:comprehension:2ch:13]]
 **[[:en:bible:notes:2ch:13:16|<<]] | [[:en:bible:notes:2ch:14:01|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit abijah}}
+~~DISCUSSION~~{{tag>publish p2check abijah}}
 
 ~~NOCACHE~~
