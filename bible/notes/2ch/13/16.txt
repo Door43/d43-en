@@ -39,7 +39,12 @@
 
 ===== translationNotes: =====
 
-  * **500,000** - See: [[:en:ta:vol2:translate:translate_numbers]]
+  * **fled before Judah** - Here the word "Judah" represents the army of Judah. AT: "fled before the army of Judah" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **God gave them into the hand of Judah** - Here the word "hand" represents power. God enabling the army of Judah to defeat the army of Israel is spoken of as if God had put the army of Israel in the hand of the army of Judah. AT: "God enabled Judah to defeat the people of Israel" (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol1:translate:figs_metaphor]])
+  * **killed them with great slaughter** - This idiom means that they thoroughly defeated them, or that they killed very many of the soldiers. AT: "thoroughly defeated them" or "slaughtered many of their soldiers" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **500,000 chosen men** - The phrase "chosen men" is an idiom that refers to elite soldiers who were skilled in battle. AT: "500,000 of the best soldiers" (See: [[:en:ta:vol1:translate:figs_idiom]] and [[:en:ta:vol2:translate:translate_numbers]])
+  * **the people of Israel were subdued** - This can be stated in active form. AT: "the army of Judah subdued the people of Israel" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+
 ===== Links: =====
 
   * [[:en:bible:notes:2ch:00:intro]]
@@ -47,6 +52,6 @@
   * [[:en:bible:questions:comprehension:2ch:13]]
 **[[:en:bible:notes:2ch:13:13|<<]] | [[:en:bible:notes:2ch:13:19|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~
