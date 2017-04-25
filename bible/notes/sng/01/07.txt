@@ -28,7 +28,7 @@
 
 <usfm>
 \q
-\v 7 Tell me, you whom my soul loves,
+\v 7 Tell me, you whom I love,
 \q where do you feed your flock?
 \q Where do you rest your flock at noontime?
 \q Why should I be like someone who wanders
@@ -43,10 +43,11 @@
 
 ===== translationNotes: =====
 
+  * **my soul loves** - The soul is a metonym for the person. AT: "I love" (See: [[:en:ta:vol2:translate:figs_metonymy]])
   * **feed your flock** - "graze your flocks"
   * **rest your flock** - "have your flock lie down"
   * **Why should I be like someone who wanders beside the flocks of your companions?** - AT: "Tell me so that I will not need to wander around among the flocks of your companions when I am looking for you." (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **wanders** - "goes all around"
+  * **wanders** - "goes all around." She does not want to have to look for her lover. Perhaps she is afraid other men will think she is a prostitute looking for business (see UDB). (See: [[:en:ta:vol1:translate:figs_metaphor]])
   * **companions** - "friends" or "co-workers"
 
 ===== Links: =====
@@ -56,6 +57,6 @@
   * [[:en:bible:questions:comprehension:sng:01]]
 **[[:en:bible:notes:sng:01:05|<<]] | [[:en:bible:notes:sng:01:08|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~
