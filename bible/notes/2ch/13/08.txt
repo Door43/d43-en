@@ -41,10 +41,13 @@
 
 ===== translationNotes: =====
 
-  * **the golden calves that Jeroboam made as gods** - This is a reference to idols.
-  * **Have you not driven ... Levites?** - AT: "You have driven ... Levites." (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **Have you not made ... lands?** - AT: "You have made ... lands." (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **Whoever comes to consecrate himself with a young bullock and seven rams may become a priest of what are no gods** - AT: "Anyone who offers a young bull and seven rams may become a priest of these golden calves that are not gods."
+  * **you say ... You are a large army** - The words "you" is plural throughout this chunk and refers to the people of the northern kingdom of Israel. (See: [[:en:ta:vol1:translate:figs_you]])
+  * **you can resist the ruling might of Yahweh in the hand of the descendants of David** - 
+  * **the golden calves that Jeroboam made** - It might be best to translate so that the reader understands that Jeroboam had others make the golden calves. AT: "the golden calves that Jeroboam had his craftsmen make" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **Have you not driven ... Levites?** - Abijah asks this rhetorical question to rebuke the people and to emphasize the positive answer that it anticipates. AT: "You have driven ... Levites." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **Have you not made ... lands?** - Abijah asks this rhetorical question to rebuke the people and to emphasize the positive answer that it anticipates. AT: "You have made ... lands." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **Whoever comes to consecrate himself** - "Anyone who comes to consecrate himself"
+  * **a priest of what are no gods** - The phrase "what are not gods" refers to the golden calves that Jeroboam had his craftsmen make. Although the priests served them as if they were gods, they were not really gods. AT: "a priest of idols that are not really gods" (See: [[:en:ta:vol1:translate:figs_explicit]])
 
 ===== Links: =====
 
@@ -53,6 +56,6 @@
   * [[:en:bible:questions:comprehension:2ch:13]]
 **[[:en:bible:notes:2ch:13:06|<<]] | [[:en:bible:notes:2ch:13:10|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit consecrate}}
+~~DISCUSSION~~{{tag>publish p2check consecrate}}
 
 ~~NOCACHE~~
