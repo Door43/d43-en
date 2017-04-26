@@ -40,10 +40,10 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - See: [[:en:ta:vol2:translate:translate_numbers]]
-
-  * **Asa said to Judah** - AT: "Asa said to the people of Judah" (See: [[:en:ta:vol2:translate:figs_synecdoche]] )
-  * **we have sought Yahweh our God** - AT: "we have asked Yahweh our God to help us"
+  * **Asa said to Judah** - Here "Judah" refers to the people of Judah. AT: "Asa said to the people of Judah" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **peace on every side** - "all around." This means that Judah was at peace with all of the surrounding nations.
+  * **So they built** - The ellipsis may be supplied from the context. AT: "So they built the cities" (See: [[:en:ta:vol2:translate:figs_ellipsis]])
+  * **300,000 men ... 280,000 men** - (See: [[:en:ta:vol2:translate:translate_numbers]])
 
 ===== Links: =====
 
@@ -52,6 +52,6 @@
   * [[:en:bible:questions:comprehension:2ch:14]]
 **[[:en:bible:notes:2ch:14:05|<<]] | [[:en:bible:notes:2ch:14:09|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~
