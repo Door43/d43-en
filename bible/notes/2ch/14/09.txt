@@ -39,10 +39,12 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - See: [[:en:ta:vol1:translate:translate_names]] and [[:en:ta:vol2:translate:translate_numbers]]
-
-  * **Mareshah** - This was a city in Judah.
-  * **do not let man defeat you** - AT: "do not let others defeat your people" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **Zerah** - This is the name of a man. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **one million soldiers and three hundred chariots** - "1,000,000 soldiers and 300,000 chariots" (See: [[:en:ta:vol2:translate:translate_numbers]])
+  * **Mareshah ... the Valley of Zephathah** - These are the names of places. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **Asa went out to meet him** - Here "Asa" represents both the king and the army that he led into battle. It is implicit that he went out to meet him in battle. AT: "Asa led his army out to meet him in battle" (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol1:translate:figs_explicit]])
+  * **in your name** - Here "name" represents Yahweh's authority. AT: "on your behalf" or "by your authority" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **do not let man defeat you** - Since the army of Judah is fighting in Yahweh's name, Asa speaks of Zerah defeating Judah as if Zerah were to defeat Yahweh, himself. AT: "do not let man defeat your people" (See: [[:en:ta:vol1:translate:figs_explicit]])
 
 ===== Links: =====
 
@@ -51,6 +53,6 @@
   * [[:en:bible:questions:comprehension:2ch:14]]
 **[[:en:bible:notes:2ch:14:07|<<]] | [[:en:bible:notes:2ch:14:12|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~
