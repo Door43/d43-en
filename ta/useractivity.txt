@@ -1,8 +1,8 @@
 ====== user activity ======
 
 
-user for the last *96 hours
-{{changes>en:bible &user=stmaguire&count=1000&render=pagelist(header,date,user,nocomments)&maxage=345600}} 
+ta user for the last *96 hours
+{{changes>en:ta &user=stmaguire&count=1000&render=pagelist(header,date,user,nocomments)&maxage=345600}} 
 
 
 
