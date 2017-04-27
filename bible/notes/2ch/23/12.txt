@@ -25,7 +25,7 @@
 
 <usfm>
 \p
-\v 12 When Athaliah heard the noise of the people running and praising the king, she came to the people in the house of Yahweh,
+\v 12 When Athaliah heard the noise of the people running and praising the king, she came to the people in the house of Yahweh.
 \v 13 and she looked, and, behold, the king was standing by his pillar at the entrance, and the commanders and the trumpeters were by the king. All the people of the land were rejoicing and blowing trumpets, and the singers were playing musical instruments and leading the singing of praise. Then Athaliah tore her clothes and shouted, "Treason! Treason!"
 </usfm>
 
@@ -41,7 +41,11 @@
  
 ===== translationNotes: =====
 
-  * **All the people of the land** - AT: "Almost all of the people" (See: [[:en:ta:vol2:translate:figs_hyperbole]])
+  * **behold** - This alerts the reader that the following information is very important.
+  * **standing by his pillar at the entrance** - The relationship between the king and this particular pillar at the temple entrance is unclear.
+  * **All the people of the land** - This is an exaggeration to show that many people participated in the event. AT: "A very large number of the people of the land" (See: [[:en:ta:vol2:translate:figs_hyperbole]])
+  * **Athaliah tore her clothes** - This is a symbolic action to show her great distress. (See: [[:en:ta:vol2:translate:translate_symaction]])
+  * **Treason! Treason!** - Treason is acting to overthrow the government. Athaliah had killed the legitimate heirs of the king and made herself ruler. She was angry that Joash became king in her place. The exclamation is repeated for emphasis. AT: "You are committing treason!" 
  
 
 ===== Links: =====
@@ -49,14 +53,11 @@
   * [[:en:bible:notes:2ch:00:intro]]
   * [[:en:bible:notes:2ch:23:00]]
   * [[:en:bible:questions:comprehension:2ch:23]]
-
- 
-
 **[[:en:bible:notes:2ch:23:10|<<]] | [[:en:bible:notes:2ch:23:14|>>]]**
 
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2check}}
 
 ~~NOCACHE~~
