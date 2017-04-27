@@ -42,10 +42,15 @@
   * [[:en:obe:other:shepherd]]
 ===== translationNotes: =====
 
-  * **the word of God came** - "God spoke his word" (See: [[:en:ta:vol1:translate:figs_idiom]])
-  * **that I brought up Israel** - AT: "that I brought the Israelites to the promised land from the land of Egypt" (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **the word of God came to Nathan, saying,** - The idiom "the word of God came to" is used to introduce a special message from God. AT: "God gave a message to Nathan. He said," or "God spoke this message to Nathan:" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **saying, "Go and tell David my servant, 'This is what Yahweh says: You will not build me a house in which to live.** - This has quotations withing quotations. It may be necessary to translate them as indirect quotations. AT: "saying, "Go and tell David my servant that he will not be the one to build a house in which I will live." (See: [[:en:ta:vol2:translate:figs_quotesinquotes]] and [[:en:ta:vol2:translate:figs_quotations]])
+  * **build me a house** - Here "house means a temple. In [[:en:bible:notes:1ch:17:09|17:10]] Yahweh will say that he will build a house for David. There "house" means a family. If your language has a word that can express both ideas, use it here and in 17:10.
+  * **that I brought up Israel** - The implied information is that this refers to God bringing up Israel out of the land of Egypt. AT: "that I brought the Israelites to the promised land from the land of Egypt" (See: [[:en:ta:vol1:translate:figs_explicit]])
   * **a tent, a tabernacle** - Both the words "tent" and "tabernacle" describe the same thing and emphasize that he had lived in a place that was not a permanent building. (See: [[:en:ta:vol2:translate:figs_doublet]])
-  * **Why have you not built me a house of cedar?** - AT: "You should have built me a house with expensive wood." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **did I ever say anything to any of Israel's leaders whom I appointed to shepherd my people, saying, "Why have you not built me a house of cedar"** - This has a quotation within a quotation. The direct quotation can be stated as an indirect quotation. AT: "did I ever ask any of Israel's leaders, whom I appointed to shepherd my people, why they had not built me a house of cedar" (See: [[:en:ta:vol2:translate:figs_quotesinquotes]] and [[:en:ta:vol2:translate:figs_quotations]])
+  * **did I ever say anything to any of Israel's leaders** - Yahweh uses a question to emphasize that he never asked any of Israel's leaders to build him a house. AT: "I never said anything to any of Israel's leaders" (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **whom I appointed to shepherd my people** - Those who are leaders of the people of Israel are spoken of as if they were shepherds and the people were sheep. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **Why have you not built me a house of cedar?** - If Yahweh had asked the leaders this question, he would have been using a question to scold them for not building him a house of cedar. But, Yahweh said previously that he did not ask them this question. AT: "You should have built me a house of cedar." (See: [[:en:ta:vol1:translate:figs_rquestion]])
  
 ===== Links: =====
 
@@ -54,6 +59,6 @@
   * [[:en:bible:questions:comprehension:1ch:17]]
 **[[:en:bible:notes:1ch:17:01|<<]] | [[:en:bible:notes:1ch:17:07|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~
