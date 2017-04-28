@@ -28,9 +28,9 @@
 
 <usfm>
 \q
-\v 2 Your teeth are like a flock of newly shorn ewes,
-\q coming up from the washing place.
-\q Each one has a twin,
+\v 2 Your teeth are like a flock of newly
+shorn ewes,
+\q coming up from the washing place. Each one has a twin,
 \q and none among them is bereaved.
 </usfm>
 
@@ -42,12 +42,13 @@
 
 ===== translationNotes: =====
 
-  * **Your teeth are like a flock of newly shorn ewes** - After sheep have their wool cut off, they are washed and their skin looks very white. This phrase compares the whiteness of the teeth of the woman to the brightness of white sheep wool after their wool has been sheared off. (See: [[:en:ta:vol1:translate:figs_simile]])
-  * **a flock of newly shorn ewes** - AT: "a flock of ewes whose wool people have cut off." (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **coming up from the washing place** - It is implied that the ewes are coming up out of the water. AT: "that are coming up out of the water after people have washed them." (See: [[:en:ta:vol1:translate:figs_explicit]])
-  * **Each one has a twin** - Sheep usually give birth to two lambs at one time. These twin lamb usually look like one another. Each of the woman's teeth has a matching tooth on the other side of her mouth. So it is like each tooth has a twin like the lambs. (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **none among them is bereaved** - None of her teeth have lost their matching tooth on the other side. The woman has not lost any of her teeth.
-  * **bereaved** - To have lost a loved one who has died.
+  * **Your teeth are like a flock of newly shorn ewes** - After sheep have their wool cut off, they are washed and their skin looks very white. The woman's teeth are white. (See: [[:en:ta:vol1:translate:figs_simile]])
+  * **a flock of newly shorn ewes** - This can be translated in active form. AT: AT: "a flock of ewes whose wool people have cut off." (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **coming up from the washing place** - The ewes are coming up out of the water. AT: "that are coming up out of the water after people have washed them." (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **Each one has a twin** - Sheep usually give birth to two lambs at one time. These twin lamb usually look like one another. Each of the woman's teeth has a matching tooth on the other side of her mouth. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **none among them is bereaved** - Each of the woman's teeth has a matching tooth on the other side of her mouth. She has not lost any of her teeth.
+  * **bereaved** - lost a loved one who has died
+
 ===== Links: =====
 
   * [[:en:bible:notes:sng:00:intro]]
@@ -55,6 +56,6 @@
   * [[:en:bible:questions:comprehension:sng:04]]
 **[[:en:bible:notes:sng:04:01|<<]] | [[:en:bible:notes:sng:04:03|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~
