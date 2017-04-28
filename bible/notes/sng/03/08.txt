@@ -50,10 +50,14 @@
 
 ===== translationNotes: =====
 
-  * **in warfare** - "in battle"
-  * **armed against** - "in order to guard against" or "in order to fight off"
-  * **terrors of the night** - This represents any danger that might come during the dark of the night, like robbers.
-  * **sedan chair** - a chair that has long poles which people used to carry important people
+  * **General Information:** - The description of sixty men carrying Solomon's bed up from the wilderness to Jerusalem, begun in [[:en:bible:notes:sng:03:06|3:6]], continues.
+
+  * **Connection Statement:** - A description of the bed itself begins in verse 9. You could use words in your language that show that this is background information. (See: [[:en:ta:vol2:translate:writing_background]])
+
+  * **are skilled in warfare** - "can fight battles well"
+  * **armed against** - "so that he can fight against"
+  * **terrors of the night** - The abstract noun "terrors" is a metonym for evil people who frighten others by attacking them. AT: "evil people who attack others at night" (See: [[:en:ta:vol2:translate:figs_abstractnouns]] and [[:en:ta:vol2:translate:figs_metonymy]])
+  * **sedan chair** - a chair or couch for important people to sit or lie on. It rests on long poles that people can use to carry it
 
 ===== Links: =====
 
@@ -62,6 +66,6 @@
   * [[:en:bible:questions:comprehension:sng:03]]
 **[[:en:bible:notes:sng:03:06|<<]] | [[:en:bible:notes:sng:03:10|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~
