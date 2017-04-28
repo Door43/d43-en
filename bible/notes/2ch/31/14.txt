@@ -38,9 +38,14 @@
  
 ===== translationNotes: =====
 
-  * **Kore son of Imnah ... Eden, Miniamin, Jeshua, Shemaiah, Amariah, and Shecaniah** - (See: [[:en:ta:vol1:translate:translate_names]])
-  * **Under him** - "under his authority" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
-  * **both the important and the unimportant** - "everyone" (See: [[:en:ta:vol2:translate:figs_merism]])
+  * **Kore son of Imnah ... Eden, Miniamin, Jeshua, Shemaiah, Amariah, and Shecaniah** - These are names of men. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **the porter at the east gate** - "the gatekeeper at the east gate of the temple" 
+  * **Under him were Eden ... in the cities of the priests** - Here "under" is an idiom that means to be under someone's authority. AT: "Eden ... assisted Kore in the cities of the priests" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **They filled offices of trust, in order to give** - "Their duty was to give" or "They faithfully gave"
+  * **to both the important and the unimportant** - Here "important" and "unimportant" are used together to mean "everyone." AT: "to everyone, including the important and the unimportant" (See: [[:en:ta:vol2:translate:figs_merism]])
+  * **to their brothers** - Here "brothers" is a metaphor for "fellow priests." AT: "to their fellow priests" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **division by division** - "group by group"
+  * **the important and the unimportant** - This seems to imply the old and the young. This can be restated to removed the nominal adjectives. AT: "those who are old and those who are young" (See: [[:en:ta:vol1:translate:figs_explicit]] and [[:en:ta:vol2:translate:figs_nominaladj]])
  
 ===== Links: =====
 
@@ -55,6 +60,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2check}}
 
 ~~NOCACHE~~
