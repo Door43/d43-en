@@ -36,8 +36,8 @@
 
 ===== translationNotes: =====
 
-  * **They were broken in pieces, nation against nation, and city against city** - The word "They" refers to the nations and cities. Nations conquering other nations is spoken of as if they broke the other nations to pieces. This can be stated in active form. AT: "One nation conquered another nation, and one city conquered another city" (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_activepassive]])
-  * **nation against nation, and city against city** - Here the words "nation" and "city" represent the people of the nation or city. Being "against" a nation or city means to fight against that nation or city. AT: "as the people of one nation fought against the people of another nation, and the people of one city fought against the people of another city" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **They were broken in pieces, nation against nation, and city against city** - The word "They" refers to the words "nation" and "city" which are metonyms for the people who live in those nations and cities. Being "against" a nation or city means to fight against that nation or city. You may also supply a connecting word to clarify the relationship between these two phrases. This can be stated in active form. AT: "Nations and cities broke each other in pieces, as the people of one nation fought against the people of another nation, and the people of one city fought against the people of another city" (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol2:translate:writing_connectingwords]] and [[:en:ta:vol2:translate:figs_activepassive]])
+  * **They were broken in pieces** - Nations conquering other nations is spoken of as if they broke the other nations to pieces. This can be stated in active form. AT: "Nations and cities fought one another" or "Some nations and cities conquered other nations and cities" (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_activepassive]])
   * **do not let your hands be weak** - Here the word "hands" represents the people who work. AT: "do not become weak as you work" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
   * **for your work will be rewarded** - This can be stated in active form. Yahweh is the implied subject. AT: "for Yahweh will reward your work" (See: [[:en:ta:vol2:translate:figs_activepassive]] and [[:en:ta:vol1:translate:figs_explicit]])
 
@@ -48,6 +48,6 @@
   * [[:en:bible:questions:comprehension:2ch:15]]
 **[[:en:bible:notes:2ch:15:03|<<]] | [[:en:bible:notes:2ch:15:08|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit nation}}
+~~DISCUSSION~~{{tag>publish p2check nation}}
 
 ~~NOCACHE~~
