@@ -29,8 +29,9 @@
 
 ===== translationNotes: =====
 
-  * **three years old and up** - AT: "three years old and older"
-  * **as required by the daily schedule** - AT: "as is required every day" 
+  * **three years old and up** - "three years old and older"
+  * **who were listed in the records** - This can be stated in active form. AT: "whose names were in the records" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **as required by the daily schedule, to do the work in their offices and their divisions** - This can be stated in active form. AT: "to do the daily work that they were supposed to do" (See: [[:en:ta:vol2:translate:figs_activepassive]])
  
 ===== Links: =====
 
@@ -45,6 +46,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2check}}
 
 ~~NOCACHE~~
