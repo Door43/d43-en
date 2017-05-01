@@ -41,9 +41,12 @@
 
 ===== translationNotes: =====
 
-  * **Oded** - (See: [[:en:ta:vol1:translate:translate_names]])
-  * **he gave them into your hand** - AT: "he help you to defeat them"
-  * **But are you not guilty ... against Yahweh your God?** - AT: "But remember, you are guilty ... against Yahweh your God." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **Oded** - This is the name of a man. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **he gave them into your hand** - Here the word "hand" represents power. God enabling the army of Israel to defeat the army of Judah is spoken of as if God had put the army of Judah in the hand of the army of Israel. AT: "God enabled you to defeat them" (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol1:translate:figs_metaphor]])
+  * **you have slaughtered them in a rage that reached up to heaven** - Oded speaks of Yahweh knowing how severely the army of Israel slaughtered the army of Judah as if the rage with which the army of Israel slaughtered them were an object so large that it reached into heaven. That Yahweh knows what they have done implies that he will respond. AT: "you have slaughtered them in such great rage that Yahweh himself has noticed and will take vengeance" (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol1:translate:figs_explicit]])
+  * **But are you not guilty of sins of your own against Yahweh your God?** - Oded asks this rhetorical question to rebuke the army of Israel and to emphasize the positive answer that the question anticipates. AT: "But you yourselves are guilty of sins of your own against Yahweh your God." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **Yahweh's fierce wrath is on you** - Oded speaks of Yahweh being extremely angry with the Israelite army as if Yahweh's wrath were an object that were upon them. AT: "Yahweh is extremely angry with you" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+
 ===== Links: =====
 
   * [[:en:bible:notes:2ch:00:intro]]
@@ -51,6 +54,6 @@
   * [[:en:bible:questions:comprehension:2ch:28]]
 **[[:en:bible:notes:2ch:28:07|<<]] | [[:en:bible:notes:2ch:28:12|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~
