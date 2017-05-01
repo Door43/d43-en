@@ -1,13 +1,16 @@
-====== Search 011: ======
+====== Search 011: "See how you ..." following AT statement ======
 
 ~~NOCACHE~~
 
-The script on this page searches for a string of text anywhere in the notes, the ULB, and the UDB. To modify the search, open in edit view and change the text between the quotation marks following the -q.  
+There are multiple occurrences of one of the two statements below following an AT:
 
-//Note: Special characters and symbols must be preceded by a backslash "\".//
+  * "See how you translated this in ..."
+  * "Translate this ..."
+
+Both of these instances result in adding invalid final punctuation to the AT statement. The note linking to a previous text should be moved before the AT statement, and the punctuation removed from the AT (except when referring to an RQ).
 
 
-search results:
+=== Search results: ===
 
 
-{{door43pages @:en:bible:notes -r -q="text" -exclude:home -simpleLineBreak -title -fontsize="90%"}}
+{{door43pages @:en:bible:notes -r -q="AT\:.*(\x2e|\x21)\x22.*(See how you translated|Translate this)" -exclude:home -simpleLineBreak -title -fontsize="90%"}}
