@@ -33,9 +33,13 @@
 
 ===== translationNotes: =====
 
-  * **all his ways, first and last** - AT: "everything he did"
-  * **The Book of the Kings of Judah and Israel** - This is a book that no longer exists.
-  * **Ahaz slept with his ancestors** - "Ahaz died" (See: [[:en:ta:vol2:translate:figs_euphemism]])
+  * **all his ways, first and last** - Ahaz's actions are spoken of as if they were a path upon which he walked. The phrase "first and last" refers to those extremes and everything in between. AT: "all that he did from the beginning of his reign to the end of his reign" (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_merism]])
+  * **see** - "indeed." The word "see" here adds emphasis to what follows.
+  * **they are written in the book** - This can be stated in active form. AT: "someone has written them in the book" or "you can read of them in the book" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **the book of the kings of Judah and Israel** - This is a book that no longer exists.
+  * **Ahaz slept with his ancestors** - Ahaz dying is spoken of as if he had fallen asleep. "Ahaz died" (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_euphemism]])
+  * **they buried him** - "people buried him"
+  * **became king in his place** - The phrase "in his place" is a metaphor meaning "instead of him." AT: "became king instead of Ahaz" (See: [[:en:ta:vol1:translate:figs_metaphor]])
 
 ===== Links: =====
 
@@ -44,6 +48,6 @@
   * [[:en:bible:questions:comprehension:2ch:28]]
 **[[:en:bible:notes:2ch:28:24|<<]] | [[:en:bible:notes:2ch:29:01|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~
