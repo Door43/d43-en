@@ -32,8 +32,7 @@
 \q
 \v 6 I opened the door for my beloved,
 \q but my beloved had turned and gone.
-\q My heart sank when he spoke.
-\f + \ft Some versions read \fqa sank because he had turned away \fqa* . \f*
+\q My heart sank; I became despondent.
 \q I looked for him, but I did not find him;
 \q I called him, but he did not answer me.
 </usfm>
@@ -51,7 +50,7 @@
 
   * **I opened the door for my beloved** - AT: "I opened myself to my beloved." (See: [[:en:ta:vol1:translate:figs_explicit]])
   * **my beloved** - See how you translated this in [[:en:bible:notes:sng:01:12|1:13]].
-  * **My heart sank; I became despondent** - "My soul left, when he spoke." AT: "When he spoke, I felt like I had died." (See: [[:en:ta:vol1:translate:figs_idiom]] and [[:en:ta:vol1:translate:figs_metaphor]])
+  * **My heart sank** - The heart is a metaphor for the person, and sinking, going down, is a metaphor for becoming weak or sad. AT: "I was very sad" (See: [[:en:ta:vol1:translate:figs_metaphor]])
 
 ===== Links: =====
 
@@ -63,6 +62,6 @@
 
 ~~DISCUSSION~~
 
-{{tag>publish p2edit}}
+{{tag>publish p2check}}
 
 ~~NOCACHE~~
