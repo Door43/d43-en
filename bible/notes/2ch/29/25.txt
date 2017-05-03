@@ -38,7 +38,10 @@
 
 ===== translationNotes: =====
 
-  * **cymbals** - See how you translated this in [[:en:bible:notes:2ch:05:11|5:12]].
+  * **the house of Yahweh** - The word "house" represents the temple. AT: "the temple of Yahweh" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **cymbals** - two thin, round metal plates that are hit together to make a loud sound. See how you translated this in [[:en:bible:notes:2ch:05:11|5:12]]. (See: [[:en:ta:vol1:translate:translate_unknown]])
+  * **arranging them by the command of David, Gad, the king's seer, and Nathan, the prophet** - The word "command" can be translated with a verbal phrase. AT: "arranging the Levites as David, Gad, the king's seer, and Nathan, the prophet had commanded" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
+  * **for the command was from Yahweh by means of his prophets** - The word "command" can be translated with a verbal phrase. AT: "for Yahweh had commanded this through his prophets" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
 
 ===== Links: =====
 
@@ -47,6 +50,6 @@
   * [[:en:bible:questions:comprehension:2ch:29]]
 **[[:en:bible:notes:2ch:29:22|<<]] | [[:en:bible:notes:2ch:29:27|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~
