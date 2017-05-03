@@ -15,4 +15,10 @@ One way of finding examples for translationAcademy pages is to search the **note
 
 **Code for doing searches on tN pages:**  \\ {{door43pages @:en:bible:notes -r -q="TTTT" -exclude:home -simpleLineBreak -title -fontsize="90%"}}
 
-**Code for doing searches on tA pages:**  \\ {{door43pages @:en:ta -r -q="TTTT" -exclude:home -simpleLineBreak -title -fontsize="90%"}}
+**Code for doing searches on all tA pages (old and new):**  \\ {{door43pages @:en:ta -r -q="workbench" -exclude:home -simpleLineBreak -title -fontsize="90%"}}
+
+**Code for doing searches on Vol1 tA pages:**  \\ {{door43pages @:en:ta:vol1 -r -q="workbench" -exclude:home -simpleLineBreak -title -fontsize="90%"}}
+
+**Code for doing searches on Vol2 tA pages:**  \\ {{door43pages @:en:ta:vol1 -r -q="workbench" -exclude:home -simpleLineBreak -title -fontsize="90%"}}
+
+**Code for doing searches on Vol3 tA pages:**  \\ {{door43pages @:en:ta:vol1 -r -q="workbench" -exclude:home -simpleLineBreak -title -fontsize="90%"}}
