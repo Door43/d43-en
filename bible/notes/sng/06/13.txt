@@ -26,13 +26,10 @@
 <usfm>
 \q
 \v 13 Turn back, turn back, you perfect woman;
-\f + \ft Some versions read, \fqa you woman from Shulam \fqa* . \f*
-\q turn back, turn back so that we may gaze on you.
+\q turn back, turn back so that I may gaze on you.
 
-\q Why do you gaze on the perfect woman,
-\f + \ft Some versions read, \fqa on the woman from Shulam \fqa* . \f*
-\q as if on the dance between two armies?
-\f + \ft Some versions read, \fqa on the dance of Mahanaim \fqa* . \f*
+\q Why do you gaze on me, the perfect woman,
+\q as if I were dancing between two rows of dancers?
 </usfm>
 
 ===== translationWords: =====
@@ -41,9 +38,14 @@
 
 ===== translationNotes: =====
 
+  * **General Information:** - The ULB understands this to be the friends and the woman talking to each other. Some versions understand this to be the and the man speaking to her.
+
+  * **Turn back ... gaze on you** - Possible interpretations are 1) the friends are speaking to the woman or 2) the man is referring to himself in plural. (See: [[:en:ta:vol2:translate:figs_pronouns]])
   * **Turn back, turn back** - "Come back, come back." This is repeated for emphasis.
-  * **gaze** - look intently at something for a time
-  * **as if I were dancing between two rows of dancers** - It would be a wonderful thing to see the woman dancing with the other dancers. (See: [[:en:ta:vol1:translate:figs_hypo]]) 
+  * **we may gaze** - Some versions understand the plural to refer to the man speaking of himself. AT: "I may gaze" (See: [[:en:ta:vol2:translate:figs_pronouns]])
+  * **gaze** - look intently for a long time
+  * **Why do you gaze on the perfect woman ... armies** - Possible interpretations are 1) the woman refers to herself as another person and is speaking to the friends or 2) the woman is speaking to the man as if he were many men. (See: [[:en:ta:vol2:translate:figs_pronouns]])
+  * **as if on the dance between two armies** - "as if she were dancing between two armies"
 
 ===== Links: =====
 
@@ -52,6 +54,6 @@
   * [[:en:bible:questions:comprehension:sng:06]]
 **[[:en:bible:notes:sng:06:11|<<]] | [[:en:bible:notes:sng:07:01|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~
