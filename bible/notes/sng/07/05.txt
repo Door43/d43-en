@@ -30,13 +30,12 @@
 
 <usfm>
 \q
-\v 5 Your head is on you like Carmel;
+\v 5 Your head on you is like Carmel;
 \q the hair on your head is dark purple.
 \q The king is held captive by its tresses.
 \q
 \v 6 How beautiful and lovely you are,
-\q love, with your delights!
-\f + \ft Some versions read \fqa loved one \fqa* . \f*
+\q beloved one, with your delights!
 </usfm>
 
 ===== translationWords: =====
@@ -51,10 +50,11 @@
 
   * **General Information:** - The man continues to describe the woman.
 
-  * **head on you is like Carmel** - The woman is compared to Mount Carmel that rises up above everything else around it. (See: [[:en:ta:vol1:translate:figs_simile]]) 
-  * **dark purple** - Possible translations are 1) "dark black" or 2) "dark red."
-  * **The king is held captive by its tresses** - AT: "Your hair that hangs down is so beautiful that the king is not able to stop admiring it." (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_activepassive]])
-  * **tresses** - the clusters of hair that hang down from a woman's head. You can also translate this word as "locks" or "curls" or "ringlets."
+  * **Your head is on you like Carmel** - Mount Carmel is higher than everything else around it. The man wants to look at the woman's head more than at anything else. AT: "Your head is on you like a crown, higher than anything else" (See: [[:en:ta:vol1:translate:figs_simile]]) 
+  * **dark purple** - Other possible translations are 1) "dark black" or 2) "dark red."
+  * **The king is held captive by its tresses** - This can be translated in active form. AT: "Your hair that hangs down is so beautiful that the king is not able to stop admiring it." (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_activepassive]])
+  * **tresses** - the clusters of hair that hang down from a woman's head.
+  * **love** - "you whom I love" or "you who are loved"
 
 ===== Links: =====
 
@@ -63,6 +63,6 @@
   * [[:en:bible:questions:comprehension:sng:07]]
 **[[:en:bible:notes:sng:07:03|<<]] | [[:en:bible:notes:sng:07:07|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~
