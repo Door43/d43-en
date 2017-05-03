@@ -37,10 +37,11 @@
 
 ===== translationNotes: =====
 
-  * **General Information:** - See: [[:en:ta:vol1:translate:translate_names]] and [[:en:ta:vol2:translate:translate_numbers]]
 
   * **When all Jabesh Gilead heard of all that the Philistines** - Both instances of the word "all" are generalizations. The name of the town is a metonym for the people who live in the town, and the people group name is a metonym for that people group's soldiers. AT: "When the people of Jabesh Gilead heard what the soldiers of the Philistine army" (See: [[:en:ta:vol2:translate:figs_hyperbole]] and [[:en:ta:vol2:translate:figs_metonymy]])
+  * **Jabesh Gilead** - This is the name of a town in the region of Gilead. (See: [[:en:ta:vol1:translate:translate_names]])
   * **their bones** - The bones are a synecdoche for the dead bodies. AT: "their bodies" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **seven days** - "7 days" (See: [[:en:ta:vol2:translate:translate_numbers]])
 
 ===== Links: =====
 
@@ -49,6 +50,6 @@
   * [[:en:bible:questions:comprehension:1ch:10]]
 **[[:en:bible:notes:1ch:10:09|<<]] | [[:en:bible:notes:1ch:10:13|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2review body}}
+~~DISCUSSION~~{{tag>publish p2pass body}}
 
 ~~NOCACHE~~
