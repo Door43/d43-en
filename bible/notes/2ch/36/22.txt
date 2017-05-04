@@ -42,8 +42,13 @@
 
 ===== translationNotes: =====
 
-  * **in the first year** - (See: [[:en:ta:vol2:translate:translate_numbers]])
-  * **He has commanded me to build a house** - AT: "He has appointed me to command that my workers build a temple for him in Jerusalem" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **in the first year** - This refers to the beginning of the reign of King Cyrus. (See: [[:en:ta:vol2:translate:translate_ordinal]])
+  * **so that the word of Yahweh by the mouth of Jeremiah might be carried out** - Here the word "word" can be translated with the verb "spoke." The word "mouth" represents Jeremiah. This can be stated in active form. AT: "so that what Yahweh spoke through Jeremiah might happen" or "so that the word from Yahweh that Jeremiah spoke might happen" (See: [[:en:ta:vol2:translate:figs_synecdoche]] and [[:en:ta:vol2:translate:figs_activepassive]])
+  * **Yahweh motivated the spirit of Cyrus, king of Persia** - motivating the spirit is a synecdoche for making someone want to act. "Yahweh made Cyrus, king of Persia want to act" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **all the kingdoms of the earth** - This is an exaggeration, as there were kingdoms over which Cyrus did not rule. (See: [[:en:ta:vol2:translate:figs_hyperbole]])
+  * **to build a house for him** - Here the word "house" represents a temple. AT: "to build a temple for him" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **his people** - "Yahweh's people"
+  * **Let him go up to the land** - "Let that person go up to the land of Judah"
 
 ===== Links: =====
 
@@ -52,6 +57,6 @@
   * [[:en:bible:questions:comprehension:2ch:36]]
 **[[:en:bible:notes:2ch:36:20|<<]] | **
 
-~~DISCUSSION~~{{tag>publish p2edit cyrus}}
+~~DISCUSSION~~{{tag>publish p2check cyrus}}
 
 ~~NOCACHE~~
