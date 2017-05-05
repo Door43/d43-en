@@ -31,7 +31,7 @@
 \q
 \v 13 You who live in the gardens,
 \q my companions are listening for your voice;
-\q let me hear it.
+\q let me be the one to hear it as well.
 </usfm>
 
 ===== translationWords: =====
@@ -40,8 +40,9 @@
 
 ===== translationNotes: =====
 
-  * **for your voice** - "to your voice"
-  * **let me be the one to hear it as well** - "let me hear it." The word "it" refers to the woman's voice.
+  * **You who live** - The man is speaking to the woman, so "you" and "live" are feminine singular. (See: [[:en:ta:vol1:translate:figs_you]])
+  * **listening for your voice** - The voice is a metonym for what the person says. If your language has a word for thinking only of what one is listening for, you could use it here. AT: "waiting to hear you start speaking" or "waiting to hear what you have to say." (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **let me hear it** - "let me hear your voice."
 
 ===== Links: =====
 
@@ -50,6 +51,6 @@
   * [[:en:bible:questions:comprehension:sng:08]]
 **[[:en:bible:notes:sng:08:11|<<]] | [[:en:bible:notes:sng:08:14|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2edit}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~
