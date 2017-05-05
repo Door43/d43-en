@@ -9,6 +9,8 @@ There are multiple occurrences of one of the two statements below following an A
 
 Both of these instances result in adding invalid final punctuation to the AT statement. The note linking to a previous text should be moved before the AT statement, and the punctuation removed from the AT (except when referring to an RQ).
 
+Some occurrences are valid, including when this statement follows a "Possible meanings are ..." note with multiple AT's.
+
 
 === Search results: ===
 
