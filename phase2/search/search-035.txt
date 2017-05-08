@@ -2,13 +2,16 @@
 
 ~~NOCACHE~~
 
-The script on this page searches for **See UDB**, **(UDB)**, and **: UDB)** anywhere in the notes, the ULB, and the UDB. To modify the search, open in edit view and change the text between the quotation marks following the -q.  
+The script on this page searches for **See UDB**, **(UDB)**, and **(UDB).** anywhere in the notes, the ULB, and the UDB. To modify the search, open in edit view and change the text between the quotation marks following the -q.  
 
 //Note: Special characters and symbols must be preceded by a backslash "\".//
 
 The purpose of this search is to make sure that explanations or ATs marked UDB in the notes match the current UDB. 
 
-search results:
+There are no occurrences of ": UDB"
+
+
+=== Search results: ===
 
 ^  See UDB  ^  (UDB)_  ^  (UDB).  ^  the UDB  ^
 |{{door43pages @:en:bible:notes -r -q="See UDB" -exclude:home -simpleLineBreak -title -fontsize="80%"}}  |{{door43pages @:en:bible:notes -r -q="\(UDB\) " -exclude:home -simpleLineBreak -title -fontsize="80%"}}  |{{door43pages @:en:bible:notes -r -q="\(udb\)\. " -exclude:home -exclude:words -exclude:tatopics -simpleLineBreak -title -fontsize="80%"}}   |{{door43pages @:en:bible:notes -r -q="the UDB" -exclude:home -simpleLineBreak -title -fontsize="80%"}}  |
