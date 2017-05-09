@@ -16,4 +16,4 @@ The purpose of this search is to make sure that explanations or ATs marked UDB i
 === Search results: ===
 
 ^  the UDB  ^  See UDB  ^  _(UDB)_  ^  (UDB).  ^
-|{{door43pages @:en:bible:notes -r -q="the UDB" -exclude:home -simpleLineBreak -title -fontsize="80%"}}  |{{door43pages @:en:bible:notes -r -q="See UDB" -exclude:home -simpleLineBreak -title -fontsize="80%"}}  |{{door43pages @:en:bible:notes -r -q=" \(UDB\) " -exclude:home -simpleLineBreak -title -fontsize="80%"}}  |{{door43pages @:en:bible:notes -r -q="\(udb\)\. " -exclude:home -exclude:words -exclude:tatopics -simpleLineBreak -title -fontsize="80%"}}   |
+|{{door43pages @:en:bible:notes -r -q="the UDB" -exclude:home -simpleLineBreak -title -fontsize="80%"}}  |{{door43pages @:en:bible:notes -r -q="See UDB" -exclude:home -simpleLineBreak -title -fontsize="80%"}}  |{{door43pages @:en:bible:notes -r -q=" \(UDB\)" -exclude:home -simpleLineBreak -title -fontsize="80%"}}  |{{door43pages @:en:bible:notes -r -q="\(udb\)\. " -exclude:home -exclude:words -exclude:tatopics -simpleLineBreak -title -fontsize="80%"}}   |
