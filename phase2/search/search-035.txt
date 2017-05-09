@@ -8,7 +8,8 @@ The script on this page searches for **See UDB**, **(UDB)**, and **(UDB).** anyw
 
 The purpose of this search is to make sure that explanations or ATs marked UDB in the notes match the current UDB. 
 
-There are no occurrences of ": UDB"
+  * There are no occurrences of ": UDB"
+  * All occurrences of "the UDB" are correct.
 
 
 === Search results: ===
