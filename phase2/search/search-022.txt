@@ -1,4 +1,4 @@
-====== Search 022: "See how you translated" in NT ======
+====== Search 022:  ======
 
 ~~NOCACHE~~
 
@@ -7,7 +7,7 @@ The script on this page searches for a string of text anywhere in the notes, the
 //Note: Special characters and symbols must be preceded by a backslash "\".//
 
 
-search results:
+=== Search results: ===
 
 
-{{door43pages @en:bible:notes:mat @en:bible:notes:mrk @en:bible:notes:luk @en:bible:notes:jhn  en:bible:notes:act @en:bible:notes:rom @en:bible:notes:1co @en:bible:notes:2co @en:bible:notes:gal @en:bible:notes:eph @en:bible:notes:php @en:bible:notes:col @en:bible:notes:1th @en:bible:notes:2th @en:bible:notes:1ti @en:bible:notes:2ti @en:bible:notes:tit @en:bible:notes:phm @en:bible:notes:heb @en:bible:notes:jas @en:bible:notes:1pe @en:bible:notes:2pe @en:bible:notes:1jn @en:bible:notes:2jn @en:bible:notes:3jn @en:bible:notes:jud @en:bible:notes:rev -r -q="See how you translated" -exclude:home -simpleLineBreak -title -fontsize="90%"}}
+{{door43pages @en:bible:notes -r -q="text" -exclude:home -simpleLineBreak -title -fontsize="90%"}}
