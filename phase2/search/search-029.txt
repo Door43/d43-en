@@ -1,18 +1,11 @@
-====== Search 029: "See how you translated" in Lamentations & Ezekiel ======
+====== Search 029:  ======
 
 ~~NOCACHE~~
 
-This page finds "See how you translated ... " statements that immediately follow the bold ULB snippets in a particular book. These notes should be updated:
+The script on this page searches for a string of text anywhere in the notes, the ULB, and the UDB. To modify the search, open in edit view and change the text between the quotation marks following the -q.
 
-  * **if the referenced link has a note** - Copy the content of the referenced noted to the front of the new note and move the TA link (if it exists) to the end.
-  * **if the referenced link has no note** - Change the text of the new note to some form of "Translate this/these ... "
+//Note: Special characters and symbols must be preceded by a backslash "\".//
 
+=== Search results: ===
 
-==== Search results: ====
-
-^  p2edit  ^  p2check  ^
-|{{door43pages @:en:bible:notes:lam -r -q="( \- See how you translated)(?=[^}]*p2edit)" -exclude:home -exclude:00 -exclude:intro -simpleLineBreak -title -fontsize="90%"}}  |{{door43pages @:en:bible:notes:num -r -q="( \- See how you translated)(?=[^}]*p2check)" -exclude:home -exclude:00 -exclude:intro -simpleLineBreak -title -fontsize="90%"}}  |
-
-
-^  p2edit  ^  p2check  ^
-|{{door43pages @:en:bible:notes:ezk -r -q="( \- See how you translated)(?=[^}]*p2edit)" -exclude:home -exclude:00 -exclude:intro -simpleLineBreak -title -fontsize="90%"}}  |{{door43pages @:en:bible:notes:num -r -q="( \- See how you translated)(?=[^}]*p2check)" -exclude:home -exclude:00 -exclude:intro -simpleLineBreak -title -fontsize="90%"}}  |
+{{door43pages @:en:bible:notes -r -q="text" -exclude:home -exclude:words -exclude:tatopics -simpleLineBreak -title -fontsize="90%"}}
