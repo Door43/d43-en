@@ -2,12 +2,9 @@
 
 ~~NOCACHE~~
 
-The script on this page searches for a string of text anywhere in the notes, the ULB, and the UDB. To modify the search, open in edit view and change the text between the quotation marks following the -q.  
+The script on this page searches for a string of text anywhere in the notes, the ULB, and the UDB. To modify the search, open in edit view and change the text between the quotation marks following the -q.
 
 //Note: Special characters and symbols must be preceded by a backslash "\".//
-
-
 === Search results: ===
 
-
-{{door43pages @:en:bible:notes -r -q="\x22 \(udb\)" -exclude:home -exclude:words -exclude:tatopics -simpleLineBreak -title -fontsize="90%"}} 
+{{door43pages @:en:bible:notes -r -q="\x22 \(udb\)" -exclude:home -exclude:words -exclude:tatopics -simpleLineBreak -title -fontsize="90%"}}
