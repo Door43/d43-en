@@ -1,13 +1,12 @@
-====== Search 016: Jim TA topic search ======
+====== Search 016:  ======
 
 ~~NOCACHE~~
 
-The script on this page searches for "figs_metaphor" (_ is a special character and needs a \ before it).
+The script on this page searches for a string of text anywhere in the notes, the ULB, and the UDB. To modify the search, open in edit view and change the text between the quotation marks following the -q.  
 
-It looks in the folder "@:en:bible:notes:rom"
-
-
-search results:
+//Note: Special characters and symbols must be preceded by a backslash "\".//
 
 
-{{door43pages @:en:bible:notes:rom -r -q="figs\_metaphor" -exclude:home -simpleLineBreak -title -fontsize="90%"}}
+=== Search results: ===
+
+{{door43pages @:en:bible:notes -r -q="boat" -exclude:home -simpleLineBreak -title -fontsize="90%"}}
