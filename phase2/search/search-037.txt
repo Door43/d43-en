@@ -10,4 +10,6 @@ The script on this page searches for a string of text anywhere in the notes, the
 search results:
 
 
-{{door43pages @:en:bible:notes -r -q="boat" -exclude:home -simpleLineBreak -title -fontsize="90%"}}
+
+^  faced  ^  facing  ^  faces toward  ^  face toward  ^
+|{{door43pages @:en:bible:notes -r -q="faced" -exclude:home -simpleLineBreak -title -fontsize="80%"}}  |{{door43pages @:en:bible:notes -r -q="facing" -exclude:home -simpleLineBreak -title -fontsize="80%"}}  |{{door43pages @:en:bible:notes -r -q="faces to" -exclude:home -simpleLineBreak -title -fontsize="80%"}}  |{{door43pages @:en:bible:notes -r -q="face toward" -exclude:home -exclude:words -exclude:tatopics -simpleLineBreak -title -fontsize="80%"}}   |
