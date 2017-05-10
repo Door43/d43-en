@@ -12,4 +12,4 @@ search results:
 
 
 ^  faced  ^  facing  ^  faces toward  ^  face toward  ^
-|{{door43pages @:en:bible:notes -r -q="faced" -exclude:home -simpleLineBreak -title -fontsize="80%"}}  |{{door43pages @:en:bible:notes -r -q="facing" -exclude:home -simpleLineBreak -title -fontsize="80%"}}  |{{door43pages @:en:bible:notes- r -q="faces to" -exclude:home -simpleLineBreak -title -fontsize="80%"}}  |{{door43pages @:en:bible:notes- r -q="face toward" -exclude:home -exclude:words -exclude:tatopics -simpleLineBreak -title -fontsize="80%"}}   |
+|{{door43pages @:en:bible:notes -r -q="faced" -exclude:home -simpleLineBreak -title -fontsize="80%"}}  |{{door43pages @:en:bible:notes -r -q="facing" -exclude:home -simpleLineBreak -title -fontsize="80%"}}  |{{door43pages @:en:bible:notes -r -q="faces to" -exclude:home -simpleLineBreak -title -fontsize="80%"}}  |{{door43pages @:en:bible:notes -r -q="face toward" -exclude:home -exclude:words -exclude:tatopics -simpleLineBreak -title -fontsize="80%"}}   |
