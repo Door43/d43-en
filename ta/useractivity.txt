@@ -1,15 +1,17 @@
-====== User Activity ======
+===== User Activity =====
 
-ta user for the last *96 hours
+~~NOCACHE~~
 
-{{changes>en:ta &user=chrisjarka&count=1000&render=pagelist(header,date,user,nocomments)&maxage=345600}}
 
-Activity - Check the notes
+The script on this page searches for the activity of a user for the last *96 hours. To modify the search, open in edit view and change the user's ID between equal sign and the &.
 
-{{changes>en:bible &user=chrisjarka&count=1000&render=pagelist(header,date,user,nocomments)&maxage=25920000}}
+Activity in the en:ta namespace.
 
-Changes this week
+{{changes>:en:ta &user=chrisjarka&count=1000&render=pagelist(header,date,user,nocomments)&maxage=345600}}
 
-**Translation Academy Namespace**
+Activity in the en:bible namespace.
 
- {{changes>ns=en:ta:workbench&count=50&maxage=604800&render=pagelist(header,date,user,nocomments)}}
+{{changes>:en:bible &user=chrisjarka&count=1000&render=pagelist(header,date,user,nocomments)&maxage=25920000}}
+
+
+
