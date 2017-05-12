@@ -1,12 +1,12 @@
-====== user activity ======
+====== User Activity ======
 
 ta user for the last *96 hours
 
-{{changes>en:ta &user=stmaguire&count=1000&render=pagelist(header,date,user,nocomments)&maxage=345600}}
+{{changes>en:ta &user=chrisjarka&count=1000&render=pagelist(header,date,user,nocomments)&maxage=345600}}
 
 Activity - Check the notes
 
-{{changes>en:bible &user=stmaguire&count=1000&render=pagelist(header,date,user,nocomments)&maxage=25920000}}
+{{changes>en:bible &user=chrisjarka&count=1000&render=pagelist(header,date,user,nocomments)&maxage=25920000}}
 
 Changes this week
 
