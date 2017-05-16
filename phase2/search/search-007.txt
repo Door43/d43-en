@@ -7,7 +7,6 @@ The script on this page searches for AT expression that directly follow the ULB 
 //Note: Special characters and symbols must be preceded by a backslash "\".//
 
 
-Search results for pages tagged "p2check" or "p2pass":
+=== Search results: ===
 
-^  p2edit  ^  p2check  ^  p2pass  ^
-|{{door43pages @:en:bible:notes -r -q="(\*\* \- AT\:)(?=[^}]*p2edit)" -exclude:home -simpleLineBreak -title -fontsize="90%"}}  |{{door43pages @:en:bible:notes -r -q="(\*\* \- AT\:)(?=[^}]*p2check)" -exclude:home -simpleLineBreak -title -fontsize="90%"}}  |{{door43pages @:en:bible:notes -r -q="(\*\* \- AT\:)(?=[^}]*p2pass)" -exclude:home -simpleLineBreak -title -fontsize="90%"}}  |
+{{door43pages @:en:bible:notes -r -q="\*\* \- AT\:" -exclude:home -simpleLineBreak -title -fontsize="90%"}}  
