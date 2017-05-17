@@ -1,464 +1,455 @@
 ====== tA Link Code ======
 
-See [[:en:phase1:team-info:training:reviewers:chunklinks]] for code to create verse links.
+See [[:en:phase1:team-info:training:reviewers:chunklinks|Verse Link Code]] for code to create verse links.
 
 ==== These are tA links that we include on notes pages: ====
 
-If there is a tA page the that  you want to link to, but it is not listed on this page, please contact Susan. Either we forgot to put it here, or there is another page that we expected to be used instead.
+If there is a tA page the that you want to link to, but it is not listed on this page, please contact Susan. Either we forgot to put it here, or there is another page that we expected to be used instead.
 
 The green words are links. You can click on them to read the page.
 
-[[:en:ta:vol2:translate:figs_abstractnouns]]
+[[:en:ta:vol2:translate:figs_abstractnouns|Abstract Nouns]]
 
 <code>
 (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
 </code>
 
-[[:en:ta:vol2:translate:figs_activepassive]]
+[[:en:ta:vol2:translate:figs_activepassive|Active or Passive]]
 
 <code>
 (See: [[:en:ta:vol2:translate:figs_activepassive]])
 </code>
 
-[[:en:ta:vol2:translate:figs_apostrophe]]
+[[:en:ta:vol2:translate:figs_apostrophe|Apostrophe]]
 
 <code>
 (See: [[:en:ta:vol2:translate:figs_apostrophe]])
 </code>
 
-[[:en:ta:vol1:translate:figs_explicit]] \\ 
+[[:en:ta:vol1:translate:figs_explicit|Assumed Knowledge and Implicit Information]]\\
 Link to this page. (Do not link to the related page called "Making Explicit Info Implicit.")
 
 <code>
 (See: [[:en:ta:vol1:translate:figs_explicit]])
 </code>
 
-[[:en:ta:vol2:translate:writing_background]]
+[[:en:ta:vol2:translate:writing_background|Background Information]]
 
 <code>
 (See: [[:en:ta:vol2:translate:writing_background]])
 </code>
 
-[[:en:ta:vol2:translate:translate_bdistance]]
+[[:en:ta:vol2:translate:translate_bdistance|Biblical Distance]]
 
 <code>
 (See: [[:en:ta:vol2:translate:translate_bdistance]])
 </code>
 
-[[:en:ta:vol2:translate:bita]]\\ 
+[[:en:ta:vol2:translate:bita|Biblical Imagery]]\\
 We do not link to this page or the other Biblical Imagery pages. In the notes, put the link to the relevant figure of speech. People will be able to get to the biblical imagery pages from those pages.
 
-[[:en:ta:vol2:translate:translate_bmoney]]
+[[:en:ta:vol2:translate:translate_bmoney|Biblical Money]]
 
 <code>
 (See: [[:en:ta:vol2:translate:translate_bmoney]])
 </code>
 
-[[:en:ta:vol2:translate:translate_bvolume]]
+[[:en:ta:vol2:translate:translate_bvolume|Biblical Volume]]
 
 <code>
 (See: [[:en:ta:vol2:translate:translate_bvolume]])
 </code>
 
-[[:en:ta:vol2:translate:translate_bweight]]
+[[:en:ta:vol2:translate:translate_bweight|Biblical Weight]]
 
 <code>
 (See: [[:en:ta:vol2:translate:translate_bweight]])
 </code>
 
-[[:en:ta:vol2:translate:translate_chapverse]] \\ 
+[[:en:ta:vol2:translate:translate_chapverse|Chapter and Verse Numbers]]\\
 This would be good in book and chapter introductions where some Bibles mark the verses one way and others mark it differently. I guess it would also be good on ordinary notes where there is a footnote in the ULB about it.
 
 <code>
 (See: [[:en:ta:vol2:translate:translate_chapverse]])
 </code>
 
-[[:en:ta:vol2:translate:writing_connectingwords]] \\ 
+[[:en:ta:vol2:translate:writing_connectingwords|Connecting Words]]
 
 <code>
 (See: [[:en:ta:vol2:translate:writing_connectingwords]])
 </code>
 
-[[:en:ta:vol1:translate:translate_transliterate]] \\
+[[:en:ta:vol1:translate:translate_transliterate|Copy or Borrow Words]]\\
 Normally use "How to Translate Names." ONLY use "Copy or Borrow Words" when the English text has Hebrew, Aramaic, Greek, etc. words that need to be transliterated.
 
 <code>
 (See: [[:en:ta:vol1:translate:translate_transliterate]])
 </code>
 
-[[:en:ta:vol2:translate:figs_distinguish]] \\
-Link to this rather than to Phrases that Inform or Remind. 
+[[:en:ta:vol2:translate:figs_distinguish|Distinguishing versus Informing or Reminding]]\\
+Link to this rather than to Phrases that Inform or Remind.
 
 <code>
 (See: [[:en:ta:vol2:translate:figs_distinguish]])
 </code>
 
-[[:en:ta:vol2:translate:figs_doublenegatives]]\\
+[[:en:ta:vol2:translate:figs_doublenegatives|Double Negatives]]\\
 This is good for when a clause has "no" or "not" or some word with "no" (none, nothing, nowhere, etc) twice. Be cautious about treating the affixes un-, in- and -less as negatives. It's possible that they function only on the word level and not the clause level.
- 
+
 <code>
 (See: [[:en:ta:vol2:translate:figs_doublenegatives]])
 </code>
 
-[[:en:ta:vol2:translate:figs_doublet]]
+[[:en:ta:vol2:translate:figs_doublet|Doublet]]
 
 <code>
 (See: [[:en:ta:vol2:translate:figs_doublet]])
 </code>
 
-[[:en:ta:vol2:translate:figs_ellipsis]]
+[[:en:ta:vol2:translate:figs_ellipsis|Ellipsis]]
 
 <code>
 (See: [[:en:ta:vol2:translate:figs_ellipsis]])
 </code>
 
-[[:en:ta:vol2:translate:writing_endofstory]]  \\
-This would probably be most useful in connecting or general info notes.\\
+[[:en:ta:vol2:translate:writing_endofstory|End of Story]]\\
+This would probably be most useful in connecting or general info notes.
 
 <code>
 (See: [[:en:ta:vol2:translate:writing_endofstory]])
 </code>
 
-[[:en:ta:vol2:translate:figs_euphemism]]
+[[:en:ta:vol2:translate:figs_euphemism|Euphemism]]
 
 <code>
 (See: [[:en:ta:vol2:translate:figs_euphemism]])
 </code>
 
-[[:en:ta:vol2:translate:figs_exclamations]]\\
+[[:en:ta:vol2:translate:figs_exclamations|Exclamations]]\\
 This is good for when an exclamation is not an ordinary statement (it may not have a verb), when it starts with a question word, or when it starts with a word like "Oh," "Ah," or "Aha."
 
 <code>
 (See: [[:en:ta:vol2:translate:figs_exclamations]])
 </code>
 
-[[:en:ta:vol2:translate:figs_exclusive]] \\ 
+[[:en:ta:vol2:translate:figs_exclusive|Exclusive "We"]]\\
 This is for first person plural which excludes the audience.
 
 <code>
 (See: [[:en:ta:vol2:translate:figs_exclusive]])
 </code>
 
-[[:en:ta:vol2:translate:figs_123person]]
-This is only for when there is something odd about the person of the pronoun, such as when someone refers to himself or his addressee in the third person.
+[[:en:ta:vol2:translate:figs_123person|First, Second or Third Person]] This is only for when there is something odd about the person of the pronoun, such as when someone refers to himself or his addressee in the third person.
 
 <code>
 (See: [[:en:ta:vol2:translate:figs_123person]])
 </code>
 
-[[:en:ta:vol1:translate:figs_you]]\\
-Use this generic "Forms of You" page. Do not link to the specific pages. 
+[[:en:ta:vol1:translate:figs_you|Forms of You]]\\
+Use this generic "Forms of You" page. Do not link to the specific pages.
 
 <code>
 (See: [[:en:ta:vol1:translate:figs_you]])
 </code>
 
-[[:en:ta:vol2:translate:translate_fraction]]
+[[:en:ta:vol2:translate:translate_fraction|Fractions]]
 
 <code>
 (See: [[:en:ta:vol2:translate:translate_fraction]])
 </code>
 
-[[:en:ta:vol2:translate:figs_genericnoun]] \\ 
+[[:en:ta:vol2:translate:figs_genericnoun|Generic Noun Phrases]]\\
 This is for when someone says "the X" when referring to Xs in general.
 
 <code>
 (See: [[:en:ta:vol2:translate:figs_genericnoun]])
 </code>
 
-[[:en:ta:vol2:translate:figs_go]] \\ 
+[[:en:ta:vol2:translate:figs_go|Go and Come]]\\
 ONLY use this when the use of go or come seems odd -- when it seems as if it would normally be the other word. Please read the page before using it.
 
 <code>
 (See: [[:en:ta:vol2:translate:figs_go]])
 </code>
 
-[[:en:ta:vol2:translate:translate_hebrewmonths]]  \\
-This is for when the text refers to a particular month of the year, such as "the first month" or "the month of Abib." \\ 
+[[:en:ta:vol2:translate:translate_hebrewmonths|Hebrew Months]]\\
+This is for when the text refers to a particular month of the year, such as "the first month" or "the month of Abib."
 
 <code>
 (See: [[:en:ta:vol2:translate:translate_hebrewmonths]])
 </code>
 
-[[:en:ta:vol2:translate:figs_hendiadys]]
+[[:en:ta:vol2:translate:figs_hendiadys|Hendiadys]]
 
 <code>
 (See: [[:en:ta:vol2:translate:figs_hendiadys]])
 </code>
 
-[[:en:ta:vol2:translate:figs_hyperbole]]
+[[:en:ta:vol2:translate:figs_hyperbole|Hyperbole]]
 
 <code>
 (See: [[:en:ta:vol2:translate:figs_hyperbole]])
 </code>
 
-[[:en:ta:vol1:translate:figs_hypo]]
+[[:en:ta:vol1:translate:figs_hypo|Hypothetical Situations]]
 
 <code>
 (See: [[:en:ta:vol1:translate:figs_hypo]])
 </code>
 
-[[:en:ta:vol1:translate:figs_idiom]]
+[[:en:ta:vol1:translate:figs_idiom|Idiom]]
 
 <code>
 (See: [[:en:ta:vol1:translate:figs_idiom]])
 </code>
 
-[[:en:ta:vol2:translate:figs_imperative]]\\
+[[:en:ta:vol2:translate:figs_imperative|Imperatives - Other Uses]]\\
 This is for imperatives that are used as conditions or to make things happen, such as "Be healed" to "Cursed be the ground."
 
 <code>
 (See: [[:en:ta:vol2:translate:figs_imperative]])
 </code>
 
-[[:en:ta:vol2:translate:figs_inclusive]] \\
+[[:en:ta:vol2:translate:figs_inclusive|Inclusive "We"]]\\
 This is for first person plural when it includes the addressee.
 
 <code>
 (See: [[:en:ta:vol2:translate:figs_inclusive]])
 </code>
 
-[[:en:ta:vol2:translate:writing_newevent]]\\
+[[:en:ta:vol2:translate:writing_newevent|Introduction of a New Event]]\\
 This is especially useful on notes for "It came about that" and "it happened that."
 
 <code>
 (See: [[:en:ta:vol2:translate:writing_newevent]])
 </code>
 
-[[:en:ta:vol2:translate:writing_participants]] \\ 
+[[:en:ta:vol2:translate:writing_participants|Introduction of New and Old Participants]]\\
 We just started using this in Luke.
 
 <code>
 (See: [[:en:ta:vol2:translate:writing_participants]])
 </code>
 
-[[:en:ta:vol1:translate:figs_irony]] \\ 
+[[:en:ta:vol1:translate:figs_irony|Irony]]\\
 Use this link for ironic language, not for ironic situations.
 
 <code>
 (See: [[:en:ta:vol1:translate:figs_irony]])
 </code>
 
-[[:en:ta:vol2:translate:figs_litotes]]
+[[:en:ta:vol2:translate:figs_litotes|Litotes]]
 
 <code>
 (See: [[:en:ta:vol2:translate:figs_litotes]])
 </code>
 
-
-[[:en:ta:vol2:translate:figs_merism]]
+[[:en:ta:vol2:translate:figs_merism|Merism]]
 
 <code>
 (See: [[:en:ta:vol2:translate:figs_merism]])
 </code>
 
-[[:en:ta:vol1:translate:figs_metaphor]]
+[[:en:ta:vol1:translate:figs_metaphor|Metaphor]]
 
 <code>
 (See: [[:en:ta:vol1:translate:figs_metaphor]])
 </code>
 
-[[:en:ta:vol2:translate:figs_metonymy]]
+[[:en:ta:vol2:translate:figs_metonymy|Metonymy]]
 
 <code>
 (See: [[:en:ta:vol2:translate:figs_metonymy]])
 </code>
 
-[[:en:ta:vol2:translate:figs_nominaladj]]\\
+[[:en:ta:vol2:translate:figs_nominaladj|Nominal Adjectives]]\\
 "the strong" "the rich" "the righteous" etc.
 
 <code>
 (See: [[:en:ta:vol2:translate:figs_nominaladj]])
 </code>
 
-[[:en:ta:vol2:translate:translate_numbers]]\\
+[[:en:ta:vol2:translate:translate_numbers|Numbers]]\\
 There are also pages that deals specifically with fractions and ordinal numbers.
 
 <code>
 (See: [[:en:ta:vol2:translate:translate_numbers]])
 </code>
 
-[[:en:ta:vol1:translate:figs_events]]\\
+[[:en:ta:vol1:translate:figs_events|Order of Events]]
 
 <code>
 (See: [[:en:ta:vol1:translate:figs_events]])
 </code>
 
-[[:en:ta:vol2:translate:translate_ordinal]]
+[[:en:ta:vol2:translate:translate_ordinal|Ordinal Numbers]]
 
 <code>
 (See: [[:en:ta:vol2:translate:translate_ordinal]])
 </code>
 
-[[:en:ta:vol1:translate:figs_parables]] \\
+[[:en:ta:vol1:translate:figs_parables|Parables]]\\
 I expect this would be most useful in the connecting notes or general info notes
 
 <code>
 (See: [[:en:ta:vol1:translate:figs_parables]])
 </code>
 
-[[:en:ta:vol2:translate:figs_parallelism]] \\ 
+[[:en:ta:vol2:translate:figs_parallelism|Parallelism]]\\
 Use this link. (Do not use the related page called "Parallelism with the Same Meaning.")
 
 <code>
 (See: [[:en:ta:vol2:translate:figs_parallelism]])
 </code>
 
-[[:en:ta:vol2:translate:figs_personification]]
+[[:en:ta:vol2:translate:figs_personification|Personification]]
 
 <code>
 (See: [[:en:ta:vol2:translate:figs_personification]])
 </code>
 
-[[:en:ta:vol2:translate:writing_poetry]] \\
+[[:en:ta:vol2:translate:writing_poetry|Poetry]]\\
 This would probably be most useful in the book and chapter intros or in the connecting or general info notes.
 
 <code>
 (See: [[:en:ta:vol2:translate:writing_poetry]])
 </code>
 
-[[:en:ta:vol2:translate:figs_possession]]\\
-This would probably be most helpful when an AT uses a verb to show how the two nouns are related, and when an AT suggests replacing an abstract noun in a possessive construction with a verb. We have not used it yet. 
+[[:en:ta:vol2:translate:figs_possession|Possession]]\\
+This would probably be most helpful when an AT uses a verb to show how the two nouns are related, and when an AT suggests replacing an abstract noun in a possessive construction with a verb. We have not used it yet.
 
 <code>
 (See: [[:en:ta:vol2:translate:figs_possession]])
 </code>
 
-[[:en:ta:vol2:translate:figs_pastforfuture]]\\ 
+[[:en:ta:vol2:translate:figs_pastforfuture|Predictive Past]]\\
 Sometimes prophets used the past tense when talking about future events.
 
 <code>
 (See: [[:en:ta:vol2:translate:figs_pastforfuture]])
 </code>
 
-[[:en:ta:vol2:translate:figs_pronouns]] \\ 
+[[:en:ta:vol2:translate:figs_pronouns|Pronouns]]\\
 Use this only when the other pronoun tA pages do not have what is needed -- such as unexpected plurals, and distinguishing dual from plural.
 
 <code>
 (See: [[:en:ta:vol2:translate:figs_pronouns]])
 </code>
 
-[[:en:ta:vol2:translate:writing_proverbs]]
-This could be helpful any time there is a Proverb outside of the book of Proverbs.
+[[:en:ta:vol2:translate:writing_proverbs|Proverbs]] This could be helpful any time there is a Proverb outside of the book of Proverbs.
 
 <code>
 (See: [[:en:ta:vol2:translate:writing_proverbs]])
 </code>
 
-[[:en:ta:vol2:translate:writing_quotations]] \\ 
-This is good for ATs that suggest moving the quote margin (the "he said") -- especially when the margin is between two parts of a quote. 
+[[:en:ta:vol2:translate:writing_quotations|Quotations and Quote Margins]]\\
+This is good for ATs that suggest moving the quote margin (the "he said") -- especially when the margin is between two parts of a quote.
 
 <code>
 (See: [[:en:ta:vol2:translate:writing_quotations]])
 </code>
 
-
-Quotation [[:en:ta:vol2:translate:figs_quotations]] \\ 
+Quotation [[:en:ta:vol2:translate:figs_quotations|Direct and Indirect Quotations]]\\
 This is good for when a note suggests a shift between direct and indirect quotes.
 
 <code>
 (See: [[:en:ta:vol2:translate:figs_quotations]])
 </code>
 
-[[:en:ta:vol2:translate:figs_quotesinquotes]] \\ 
+[[:en:ta:vol2:translate:figs_quotesinquotes|Quotes within Quotes]]\\
 This would be good when there is multiple embedding of quotes.
 
 <code>
 (See: [[:en:ta:vol2:translate:figs_quotesinquotes]])
 </code>
 
-[[:en:ta:vol2:translate:figs_rpronouns]] \\ 
+[[:en:ta:vol2:translate:figs_rpronouns|Reflexive Pronouns]]\\
 This would be especially helpful anytime a reflexive pronoun is used not simply to refer to a thing or person again in a clause, but when it is used for emphasis or to show that a person was alone or did something alone.
 
 <code>
 (See: [[:en:ta:vol2:translate:figs_rpronouns]])
 </code>
 
-[[:en:ta:vol1:translate:figs_rquestion]]
+[[:en:ta:vol1:translate:figs_rquestion|Rhetorical Question]]
 
 <code>
 (See: [[:en:ta:vol1:translate:figs_rquestion]])
 </code>
 
-[[:en:ta:vol2:translate:figs_sentences]] \\ 
+[[:en:ta:vol2:translate:figs_sentences|Sentence Structure]]
 
 <code>
 (See: [[:en:ta:vol2:translate:figs_sentences]])
 </code>
 
-
-[[:en:ta:vol1:translate:figs_simile]]
+[[:en:ta:vol1:translate:figs_simile|Simile]]
 
 <code>
 (See: [[:en:ta:vol1:translate:figs_simile]])
 </code>
 
-
-[[:en:ta:vol2:translate:guidelines_sonofgodprinciples]] \\ 
-Use occasionally. (Do not link to the related page  called "Son of God.") 
+[[:en:ta:vol2:translate:guidelines_sonofgodprinciples|Translating Son and Father]]\\
+Use occasionally. (Do not link to the related page called "Son of God.")
 
 <code>
 (See: [[:en:ta:vol2:translate:guidelines_sonofgodprinciples]])
 </code>
 
-[[:en:ta:vol2:translate:figs_declarative]] \\
+[[:en:ta:vol2:translate:figs_declarative|Statements - Other Uses]]\\
 This is for statements that are used as commands, requests, or to make something happen, such as a blessing, curse, or pronouncement like "Your sins are forgiven" or (non-biblical) "I now pronounce you man and wife."
 
 <code>
 (See: [[:en:ta:vol2:translate:figs_declarative]])
 </code>
 
-[[:en:ta:vol2:translate:translate_symaction]]
+[[:en:ta:vol2:translate:translate_symaction|Symbolic Action]]
 
 <code>
 (See: [[:en:ta:vol2:translate:translate_symaction]])
 </code>
 
-[[:en:ta:vol2:translate:writing_symlanguage]] \\ 
+[[:en:ta:vol2:translate:writing_symlanguage|Symbolic Language]]
 
 <code>
 (See: [[:en:ta:vol2:translate:writing_symlanguage]])
 </code>
 
-[[:en:ta:vol2:translate:figs_synecdoche]]
+[[:en:ta:vol2:translate:figs_synecdoche|Synecdoche]]
 
 <code>
 (See: [[:en:ta:vol2:translate:figs_synecdoche]])
 </code>
 
-[[:en:ta:vol2:translate:translate_textvariants]] \\ 
+[[:en:ta:vol2:translate:translate_textvariants|Textual Variants]]\\
 This is useful for when there are variations in the ancient manuscripts, especially when there is a footnote in the ULB about it.
 
 <code>
 (See: [[:en:ta:vol2:translate:translate_textvariants]])
 </code>
 
-[[:en:ta:vol1:translate:translate_names]]
+[[:en:ta:vol1:translate:translate_names|How to Translate Names]]
 
 <code>
 (See: [[:en:ta:vol1:translate:translate_names]])
 </code>
 
-
-[[:en:ta:vol1:translate:translate_unknown]]
+[[:en:ta:vol1:translate:translate_unknown|Translate Unknowns]]
 
 <code>
 (See: [[:en:ta:vol1:translate:translate_unknown]])
 </code>
 
-[[:en:ta:vol2:translate:translate_versebridge]]
-This is useful for when there is a verse bridge in the ULB, or when a note suggests a reordering of information that would require a verse bridge.
+[[:en:ta:vol2:translate:translate_versebridge|Verse Bridges]] This is useful for when there is a verse bridge in the ULB, or when a note suggests a reordering of information that would require a verse bridge.
 
 <code>
 (See: [[:en:ta:vol2:translate:translate_versebridge]])
 </code>
 
-[[:en:ta:vol2:translate:figs_gendernotations]]
+[[:en:ta:vol2:translate:figs_gendernotations|When Masculine Words Include Women]]
 
 <code>
 (See: [[:en:ta:vol2:translate:figs_gendernotations]])
 </code>
-
 
 Topic
 
