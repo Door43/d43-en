@@ -285,6 +285,8 @@
 {{changes>ns=kiu:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:kjg:obs|kjg OBS]]**
 {{changes>ns=kjg:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
+**[[:kjo:obs|kjo OBS]]**
+{{changes>ns=kjo:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:kkl:obs|kkl OBS]]**
 {{changes>ns=kkl:obs&maxage=25920000&render=pagelist(header,date,user,nocomments)}}
 **[[:km:obs|km OBS]]**
