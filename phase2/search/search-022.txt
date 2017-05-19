@@ -7,14 +7,14 @@ The script on this page searches for a string of text anywhere in the notes, the
 //Note: Special characters and symbols must be preceded by a backslash "\".//
 
 
-=== Search results: ===
+==== Search results: ====
 
-== 1. Single asterisk at beginning of snippet: ==
+=== 1. Single asterisk at beginning of snippet: ===
 
 {{door43pages @:en:bible:notes -r -q=" \*[^ \*]" -exclude:home -exclude:words -exclude:intro -exclude:tatopics -exclude:bible-notes -simpleLineBreak -title -fontsize="90%"}} 
 
 
-== 2. Single asterisk at end of snippet: ==
+=== 2. Single asterisk at end of snippet: ===
 
 {{door43pages @:en:bible:notes -r -q="(\w|\x22|\x27)\* \- " -exclude:home -exclude:words -exclude:intro -exclude:tatopics -exclude:bible-notes -simpleLineBreak -title -fontsize="90%"}} 
 
