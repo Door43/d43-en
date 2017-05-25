@@ -1,4 +1,4 @@
-====== Search 029:  ======
+====== Search 029: TA link in middle of note ======
 
 ~~NOCACHE~~
 
@@ -8,4 +8,4 @@ The script on this page searches for a string of text anywhere in the notes, the
 
 === Search results: ===
 
-{{door43pages @:en:bible:notes -r -q="text" -exclude:home -exclude:words -exclude:tatopics -simpleLineBreak -title -fontsize="90%"}}
+{{door43pages @:en:bible:notes -r -q="(\(see:).*(\(see:)" -exclude:home -exclude:words -exclude:intro -exclude:tatopics -exclude:bible-notes -simpleLineBreak -title -fontsize="90%"}} 
