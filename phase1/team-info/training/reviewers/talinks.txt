@@ -139,6 +139,13 @@ This is for first person plural which excludes the audience.
 (See: [[:en:ta:vol2:translate:figs_exclusive]])
 </code>
 
+[[:en:ta:vol2:translate:figs_exmetaphor]] This is a new page. 5/2017
+
+<code>
+[[:en:ta:vol2:translate:figs_exmetaphor]]
+</code>
+
+
 [[:en:ta:vol2:translate:figs_123person|First, Second or Third Person]] This is only for when there is something odd about the person of the pronoun, such as when someone refers to himself or his addressee in the third person.
 
 <code>
@@ -387,6 +394,11 @@ This would be especially helpful anytime a reflexive pronoun is used not simply 
 <code>
 (See: [[:en:ta:vol1:translate:figs_simile]])
 </code>
+
+Singular Pronouns that Refer to Groups \\ 
+[[:en:ta:vol2:translate:figs_youcrowd]] \\
+This used to be called Forms of 'You' - Singular to a Crowd\\
+The name change needs to show up on the link
 
 [[:en:ta:vol2:translate:guidelines_sonofgodprinciples|Translating Son and Father]]\\
 Use occasionally. (Do not link to the related page called "Son of God.")
