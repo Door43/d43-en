@@ -8,4 +8,4 @@ The script on this page searches for a string of text anywhere in the notes, the
 
 === Search results: ===
 
-{{door43pages @:en:bible:notes -r -q="(\(see:).*(\(see:)" -exclude:home -exclude:words -exclude:intro -exclude:00 -exclude:tatopics -exclude:bible-notes -simpleLineBreak -title -fontsize="90%"}} 
+{{door43pages @:en:bible:notes -r -q="(\(see: \[\[:en:ta).*(\(see: \[\[:en:ta)" -exclude:home -exclude:words -exclude:intro -exclude:00 -exclude:tatopics -exclude:bible-notes -simpleLineBreak -title -fontsize="90%"}} 
