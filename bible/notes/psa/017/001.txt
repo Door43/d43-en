@@ -56,10 +56,9 @@
   * **General Information:** - Parallelism is common in Hebrew poetry. (See: [[:en:ta:vol2:translate:writing_poetry]] and [[:en:ta:vol2:translate:figs_parallelism]])
 
   * **A prayer of David** - "This is a prayer that David wrote."
-  * **Give ear to my prayer from lips without deceit** - The term "give ear" refers to listening, and the word "lips" refers to the words a person speaks. AT: "Listen to my prayer which does not come from lying lips" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **Let my vindication come from your presence** - Here "presence" refers to Yahweh's being. AT: "Declare me innocent" (See: [[:en:ta:vol2:translate:figs_metonymy]]) 
-  * **let your eyes see what is right!** - Here "your eyes" refers to that which Yahweh knows to be true. AT: "you know that I am telling the truth!" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
-
+  * **Give ear to my prayer from lips without deceit** - The phrase "give ear" is a metaphor for listening, and "lips without deceit" is synecdoche for a person who does not lie. AT: "Listen to my prayer for I speak without deceit" (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **Let my vindication come from your presence** - Vindication coming from God represents God judging someone and declaring him innocent. God's "presence" is a metonym for God himself. AT: "Let my vindication come from you" or "Declare that I am innocent" (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_metonymy]]) 
+  * **let your eyes see what is right!** - Here "your eyes" is synecdoche for God himself, and "see" is a metaphor for paying attention and firmly deciding to do something. AT: "please see what is right" or "do what is right" (See: [[:en:ta:vol2:translate:figs_synecdoche]] and [[:en:ta:vol1:translate:figs_metaphor]])
 ===== Links: =====
 
   * [[:en:bible:notes:psa:000:intro]]
