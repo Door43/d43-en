@@ -15,7 +15,7 @@
 ===== UDB: =====
 
 <usfm>
-\v 11 We greatly desire each of you to continue to fully expect to receive what God has provided for you, until you finally receive everything from him.
+\v 11 We greatly desire that each of you continue to show the same effort you are showing now, so that to the very end of your lives, you will be sure you will receive all that God promised to give you.
 \v 12 I do not want you to be lazy. Instead, I want you to do what other believers have done, those who are receiving what God promised them, because they trusted in him and were patient.
 
 
@@ -28,8 +28,8 @@
 ===== ULB: =====
 
 <usfm>
-\v 11 And we greatly desire that each of you may show the same diligence to the very end with full assurance of confidence.
-\v 12 We do not want you to become  sluggish, but rather that you be imitators of those who  inherit the promises because of faith and patience.
+\v 11 We greatly desire that each of you may show the same diligence to the end for the sake of full assurance of confidence.
+\v 12 This is so that you will not become lazy, but imitators of those who by faith and patience inherit the promises.
 </usfm>
 
 
@@ -37,21 +37,21 @@
 
   * [[:en:obe:kt:confidence]]
   * [[:en:obe:kt:inherit]]
-  * [[:En:obe:kt:promise]]
-  * [[:En:obe:kt:faith]]
+  * [[:en:obe:kt:faith]]
   * [[:en:obe:other:patient]]
+  * [[:en:obe:kt:promise]]
 
  
 
-===== Translation Notes: =====
+===== translationNotes: =====
 
-This is a continuation of the advice to believers 
-
-  * **diligence** - careful hard work
-  * **sluggish** - lazy
-  * **imitator** - someone who copies the behavior of someone else
-    
-  
+  * **We greatly desire** - Even though the author uses the plural pronoun "we," he is most likely referring only to himself. AT: "I greatly desire" (See: [[:en:ta:vol2:translate:figs_pronouns]])
+  * **diligence** - careful, hard work
+  * **to the end** - The implicit meaning can be stated explicitly. AT: "to the end of your lives" (See: [[:en:ta:vol2:translate:figs_explicit]])
+  * **for the sake of full assurance of confidence** - "in order to have complete certainty that you will receive what God has promised you"
+  * **imitators** - An "imitator" is someone who copies the behavior of someone else.
+  * **inherit the promises** - Receiving what God has promised believers is spoken of as if it were inheriting property and wealth from a family member. AT: "receive what God promised them" (See: [[:en:ta:vol1:translate:figs_metaphor]]) 
+ 
 ===== Links: =====
 
   * [[:en:bible:notes:heb:00:intro]]
@@ -65,6 +65,6 @@ This is a continuation of the advice to believers
 ~~DISCUSSION~~
 
 
-{{tag>publish p2edit}}
+{{tag>publish p2pass patient}}
 
 ~~NOCACHE~~
