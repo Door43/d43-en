@@ -9,4 +9,5 @@ The script on this page searches for a string of text anywhere in the notes, the
 
 === Search results: ===
 
-{{door43pages @:en:bible:notes -r -q="covenant faithfulness" -exclude:home -exclude:words -exclude:intro -exclude:00 -exclude:tatopics -exclude:bible-notes -simpleLineBreak -title -fontsize="90%"}} 
+^  All occurrences  ^  Notes and TN  ^
+|{{door43pages @:en:bible:notes -r -q="covenant faithfulness" -exclude:home -exclude:words -exclude:intro -exclude:00 -exclude:tatopics -exclude:bible-notes -simpleLineBreak -title -fontsize="90%"}}  |{{door43pages @:en:bible:notes -r -q="(covenant faithfulness)(\w|\W)*(translationNotes: \=\=\=\=\=)(\w|\W)*(covenant faithfulness)" -exclude:home -exclude:words -exclude:intro -exclude:tatopics -exclude:bible-notes -simpleLineBreak -title -fontsize="90%"}}  |
