@@ -6,8 +6,10 @@ The script on this page searches for a string of text anywhere in the notes, the
 
 //Note: Special characters and symbols must be preceded by a backslash "\".//
 
+This finds a pipe and manual title in a link on old tA pages. I don't know how to do it on the new ones.
+
 === Search Results for chunk pages: ===
 
 
 ^  TA links  ^  TW links  ^
-|{{door43pages @:en:ta -r -q="\[\[:en:ta[^]]*\|[^\]]*\]\]" -exclude:home -exclude:words -exclude:tatopics -simpleLineBreak -title -fontsize="90%"}}  |{{door43pages @:en:ta -r -q="\[\[:en:obe[^]]*\|[^\]]*\]\]" -exclude:home -exclude:words -exclude:tatopics -simpleLineBreak -title -fontsize="90%"}}  | 
+|{{door43pages @:en:ta -r -q="\[\[:en:ta[^]]*\|[^\]]*\]\]" -exclude:home -exclude:words -exclude:tatopics -simpleLineBreak -title -fontsize="90%"}}  |{{door43pages @:en:ta-r -q="\[\[:en:obe[^]]*\|[^\]]*\]\]" -exclude:home -exclude:words -exclude:tatopics -simpleLineBreak -title -fontsize="90%"}}  | 
